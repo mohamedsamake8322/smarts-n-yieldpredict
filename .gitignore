@@ -1,0 +1,181 @@
+# 🔒 Security files (API keys, secrets, and config files)
+.env
+.env.*
+config.json
+settings.yaml
+secrets.toml
+private_key.pem
+.streamlit/secrets.toml
+create_credentials.py
+plant_disease_model.pth
+# 🔹 Dependencies and virtual environments
+venv/
+smartyield-env/
+smartyield-env-310/
+.idea/
+.vscode/
+
+# 🔹 Temporary files and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+temp/
+cache/
+
+# 🔹 Logs and local databases
+logs/
+*.log
+*.sqlite
+*.onnx
+
+# 🔹 Jupyter Notebook metadata
+*.ipynb_checkpoints/
+
+# 🔹 Streamlit session files
+.streamlit/
+script.py
+
+# 🔹 CSV, Excel, and JSON data files (Sensitive or heavy)
+data/
+*.csv
+*.xlsx
+*.json
+
+# 🔹 Datasets and model files
+plant_disease_dataset/
+plantdataset/
+Drone-based-Agricultural-Dataset-for-Crop-Yield-Estimation/
+deafrica-sandbox-notebooks/
+isdasoil-tutorial/
+isdasoil_downloads/
+deafrica-tools/
+Test/
+Fusion/
+DATA BOUA/
+Cartographie des zones agro-optimales/
+api/
+weather_data_africa/
+weather_by_country/
+soilgrids_africa/
+Boua/
+Personnel/
+Fichier json important/
+Script FAO/
+
+# 🔹 Specific files to exclude
+*.zip
+*.rar
+*.tar.gz
+*.7z
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+*.psd
+*.tif
+*.tiff
+*.exe
+*.dll
+*.bin
+*.h5
+*.pt
+*.pb
+*.ckpt
+*.model
+*.weights
+
+# 🔹 GIS and geospatial files
+*.geojson
+*.shp
+*.dbf
+*.prj
+*.shx
+
+# 🔹 Rclone and external tools
+rclone/
+rclone/rclone-v1.70.2-windows-amd64/
+
+# 🔹 FAO and agronomic datasets
+FAOSTAT_data_en_7-18-2025.csv
+Fertilizers by Nutrient FAOSTAT_data_en_7-18-2025.csv
+Fertilizers by Product FAOSTAT_data_en_7-18-2025.csv
+Pesticides Use FAOSTAT_data_en_7-18-2025.csv
+dataset_agricole_prepared.csv
+dataset_agronomique_final.csv
+dataset_prediction_rendement.csv
+dataset_rendement_model.csv
+dataset_rendement_model_extended.csv
+soil_profile_africa.csv
+soil_profile_africa_reprojected.csv
+soil_profile_africa_with_country.csv
+soil_weather_africa_joined.csv
+soil_weather_engrais_joined.csv
+weather_africa_cleaned.csv
+weather_afrique_restruc_total.csv
+weather_reduit.csv
+engrais_nutriment_kgha.csv
+engrais_produit_encoded.csv
+culture_rendement_afrique.csv
+merged_weather_africa.csv
+africa_admin_level2.geojson
+gadm_africa_geojson
+african_coordinates.csv
+datacube.conf
+plant-ai-mohamed-tpu-b154d2918738.json
+convert_to_tfrecord.py
+# 🔹 Fichiers CSV lourds
+data/fusion_completesoil.csv
+data/dataset_agricole_prepared.csv
+data/spei_enriched_with_wapor.csv
+data/spei_enriched_with_adm2name.csv
+data/SPEI_Mali_ADM2_20250821_1546.csv
+data/MODIS_VI_Mali_2020_2025_mali_20250821_150...
+
+# 🔹 Modèles et checkpoints
+out/*.pth
+plant_disease_model.pth
+
+# 🔹 Fichiers .whl volumineux
+wheels/*.whl
+
+# 🔹 Librairies compilées et binaires
+env311/Lib/site-packages/**/*.dll
+env311/Lib/site-packages/**/*.lib
+env311/Lib/site-packages/**/*.pyd
+env311/Lib/site-packages/**/*.so
+
+# 🔹 Fichiers geojson lourds
+geoboundaries/**/*.geojson
+
+# 🔹 Autres fichiers binaires
+*.bin
+*.h5
+*.pt
+*.ckpt
+*.model
+*.weights
+# 🔹 GeoBoundaries (fichiers .geojson lourds)
+geoboundaries/**/*.geojson
+
+# 🔹 Fichiers .whl volumineux (librairies Python)
+wheels/*.whl
+
+# 🔹 Librairies compilées et binaires
+env311/Lib/site-packages/**/*.dll
+env311/Lib/site-packages/**/*.lib
+env311/Lib/site-packages/**/*.pyd
+env311/Lib/site-packages/**/*.so
+env311/Lib/site-packages/**/*.cp*
+
+# 🔹 Fichiers spécifiques identifiés
+env311/Lib/site-packages/torch/lib/fbgemm.dll
+env311/Lib/site-packages/torch/bin/fbgemm.dll
+env311/Lib/site-packages/pythonwin/mfc140u.dll
+env311/Lib/site-packages/igraph/_igraph.pyd
+env311/Lib/site-packages/pypdfium2_raw/pdfium.dll
+env311/Lib/site-packages/pyarrow/parquet.dll
+env311/Lib/site-packages/pydantic_core/_pydantic_core.cp*
+env311

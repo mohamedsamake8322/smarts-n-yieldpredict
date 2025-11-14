@@ -1,0 +1,2 @@
+=== Nouveau log de traitement === 
+Répertoire actif : C:\plateforme-agricole-complete-v2 
