@@ -1,0 +1,27 @@
+<!-- base.html -->
+<!DOCTYPE html>
+<html lang="{{ current_lang }}">
+<head>
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    <div class="language-switcher">
+        <select onchange="changeLanguage(this.value)">
+            {% for code, name in languages.items() %}
+            <option value="{{ code }}" {% if code == current_lang %}selected{% endif %}>{{ name }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    {% block content %}{% endblock %}
+
+    <script>
+    function changeLanguage(lang) {
+        fetch('/set-language', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({lang: lang})
+        }).then(() => window.location.reload());
+    }
+    </script>
+</body>
+</html>

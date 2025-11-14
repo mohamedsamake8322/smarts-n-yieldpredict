@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="fr" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscription - Assistant Vocal</title>
+    <link href="https://cdn.replit.com/agent/bootstrap-agent-dark-theme.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center min-vh-100 align-items-center">
+            <div class="col-md-8 col-lg-6">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <h3 class="mb-0">
+                            <i class="fas fa-microphone-alt text-primary"></i>
+                            Assistant Vocal
+                        </h3>
+                        <p class="text-muted mb-0">Créer votre compte</p>
+                    </div>
+                    <div class="card-body">
+                        <form id="registerForm">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label for="firstName" class="form-label">
+                                            <i class="fas fa-user"></i>
+                                            Prénom
+                                        </label>
+                                        <input type="text" class="form-control" id="firstName" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <label for="lastName" class="form-label">
+                                            <i class="fas fa-user"></i>
+                                            Nom
+                                        </label>
+                                        <input type="text" class="form-control" id="lastName" required>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="username" class="form-label">
+                                    <i class="fas fa-at"></i>
+                                    Nom d'utilisateur
+                                </label>
+                                <input type="text" class="form-control" id="username" required>
+                                <div class="form-text">Utilisé pour la connexion</div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="email" class="form-label">
+                                    <i class="fas fa-envelope"></i>
+                                    Adresse email
+                                </label>
+                                <input type="email" class="form-control" id="email" required>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="password" class="form-label">
+                                    <i class="fas fa-lock"></i>
+                                    Mot de passe
+                                </label>
+                                <input type="password" class="form-control" id="password" required>
+                                <div class="form-text">Minimum 6 caractères</div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="language" class="form-label">
+                                    <i class="fas fa-globe"></i>
+                                    Langue préférée
+                                </label>
+                                <select class="form-select" id="language">
+                                    <option value="fr">Français</option>
+                                    <option value="en">English</option>
+                                    <option value="es">Español</option>
+                                </select>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary w-100" id="registerBtn">
+                                <i class="fas fa-user-plus"></i>
+                                Créer le compte
+                            </button>
+                        </form>
+                        
+                        <div class="text-center mt-3">
+                            <p class="mb-0">
+                                Déjà un compte ? 
+                                <a href="{{ url_for('login') }}" class="text-decoration-none">
+                                    Se connecter
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="alertsContainer" class="position-fixed top-0 end-0 p-3" style="z-index: 1050;"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.getElementById('registerForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = {
+                first_name: document.getElementById('firstName').value,
+                last_name: document.getElementById('lastName').value,
+                username: document.getElementById('username').value,
+                email: document.getElementById('email').value,
+                password: document.getElementById('password').value,
+                language: document.getElementById('language').value
+            };
+            
+            const registerBtn = document.getElementById('registerBtn');
+            registerBtn.disabled = true;
+            registerBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Création...';
+            
+            try {
+                const response = await fetch('/register', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(formData)
+                });
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    showAlert('Compte créé avec succès! Redirection...', 'success');
+                    setTimeout(() => window.location.href = '/', 2000);
+                } else {
+                    showAlert(result.error, 'danger');
+                }
+            } catch (error) {
+                showAlert('Erreur de création: ' + error.message, 'danger');
+            } finally {
+                registerBtn.disabled = false;
+                registerBtn.innerHTML = '<i class="fas fa-user-plus"></i> Créer le compte';
+            }
+        });
+        
+        function showAlert(message, type = 'info') {
+            const alertDiv = document.createElement('div');
+            alertDiv.className = `alert alert-${type} alert-dismissible fade show`;
+            alertDiv.innerHTML = `
+                ${message}
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            `;
+            document.getElementById('alertsContainer').appendChild(alertDiv);
+            
+            setTimeout(() => {
+                if (alertDiv.parentNode) {
+                    const alert = new bootstrap.Alert(alertDiv);
+                    alert.close();
+                }
+            }, 5000);
+        }
+    </script>
+</body>
+</html>
