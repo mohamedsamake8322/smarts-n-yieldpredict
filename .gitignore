@@ -23,6 +23,9 @@ __pycache__/
 .DS_Store
 temp/
 cache/
+data
+Crop-Fertilizer-Analysis
+Script Mali
 
 # 🔹 Logs and local databases
 logs/
