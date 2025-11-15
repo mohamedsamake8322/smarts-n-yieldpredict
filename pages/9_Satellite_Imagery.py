@@ -7,16 +7,17 @@ import plotly.express as px # type: ignore
 import datetime
 import ee # type: ignore
 import geemap.foliumap as geemap # type: ignore
-
+import glob
+import os
 # ====================================
-#        CONFIGURATION STREAMLIT
+#        STREAMLIT CONFIGURATION
 # ====================================
 st.set_page_config(page_title="🛰️ Satellite NDVI & Soil Viewer", layout="wide")
 st.title("🛰️ NDVI & Soil & Satellite Viewer - Sama AgroLink Africa")
-st.markdown("### Analyse combinée **NDVI (Base + Satellite)** et **Sol**")
+st.markdown("### Combined analysis **NDVI (Database + Satellite)** and **Soil**")
 
 # ====================================
-#       INITIALISATION GEE
+#       GEE INITIALIZATION
 # ====================================
 try:
     ee.Initialize()
@@ -25,15 +26,15 @@ except Exception:
     ee.Initialize()
 
 # ====================================
-#       CONNEXION POSTGRESQL
+#       POSTGRESQL CONNECTION
 # ====================================
 def get_ndvi_data(lat=None, lon=None, limit=10):
-    """Récupère les profils NDVI stockés dans PostgreSQL."""
+    """Retrieves NDVI profiles stored in PostgreSQL."""
     conn = psycopg2.connect(
         host="localhost",
         dbname="datacube",
         user="mohamedsamake2000",
-        password="Motdepasse",  # Modifier par ton mot de passe réel
+        password="Motdepasse",  # Change to your actual password
         port=5432
     )
     cur = conn.cursor()
@@ -64,11 +65,16 @@ def get_ndvi_data(lat=None, lon=None, limit=10):
     return df
 
 # ====================================
-#       CHARGEMENT DES DONNÉES
+#       DATA LOADING
 # ====================================
 @st.cache_data
+@st.cache_data
 def load_regions():
-    return gpd.read_file("africa_admin_level2.geojson")
+    # Cherche tous les fichiers ADM2 dans le dossier geoboundaries
+    files = glob.glob(os.path.join("geoboundaries", "ADM2", "*.geojson"))
+    gdfs = [gpd.read_file(f) for f in files]
+    # Fusionne tous les fichiers en un seul GeoDataFrame
+    return gpd.GeoDataFrame(pd.concat(gdfs, ignore_index=True))
 
 @st.cache_data
 def load_soil_profile():
@@ -80,9 +86,9 @@ regions = load_regions()
 df_soil, soil_gdf, soil_cols = load_soil_profile()
 
 # ====================================
-#       SÉLECTION DE LA ZONE
+#       AREA SELECTION
 # ====================================
-mode = st.radio("🎯 Mode d'analyse NDVI", ["GPS Coordinates", "Administrative Region"])
+mode = st.radio("🎯 NDVI Analysis Mode", ["GPS Coordinates", "Administrative Region"])
 
 lat, lon = None, None
 geometry = None
@@ -91,16 +97,16 @@ poly_geom = None
 if mode == "GPS Coordinates":
     lat = st.number_input("Latitude", value=11.174, format="%.6f")
     lon = st.number_input("Longitude", value=-1.562, format="%.6f")
-    buffer_m = st.slider("Buffer autour du champ (mètres)", 100, 2000, 1000)
+    buffer_m = st.slider("Buffer around field (meters)", 100, 2000, 1000)
     geometry = ee.Geometry.Point([lon, lat]).buffer(buffer_m).bounds()
     poly_geom = gpd.GeoSeries([gpd.points_from_xy([lon], [lat])[0].buffer(buffer_m/111000)], crs="EPSG:4326")
 
 else:
     countries = sorted(regions["GID_0"].dropna().unique())
-    selected_country = st.selectbox("🌍 Pays", countries)
+    selected_country = st.selectbox("🌍 Country", countries)
     filtered = regions[regions["GID_0"] == selected_country]
     region_names = sorted(filtered["NAME_2"].dropna().unique())
-    selected_region = st.selectbox("🏢 Région", region_names)
+    selected_region = st.selectbox("🏢 Region", region_names)
     selected_geom = filtered[filtered["NAME_2"] == selected_region].geometry.iloc[0]
     bounds = selected_geom.bounds
     minx, miny, maxx, maxy = bounds
@@ -108,21 +114,21 @@ else:
     poly_geom = gpd.GeoSeries([selected_geom], crs="EPSG:4326")
 
 # ====================================
-#      PARAMÈTRES D'ANALYSE
+#      ANALYSIS PARAMETERS
 # ====================================
-start_date = st.date_input("📅 Date de début", value=datetime.date(2023, 6, 1))
-end_date = st.date_input("📅 Date de fin", value=datetime.date(2023, 7, 1))
+start_date = st.date_input("📅 Start date", value=datetime.date(2023, 6, 1))
+end_date = st.date_input("📅 End date", value=datetime.date(2023, 7, 1))
 
-crop = st.selectbox("🌾 Type de culture", [
+crop = st.selectbox("🌾 Crop type", [
     "Maize", "Rice", "Wheat", "Sorghum", "Tomato", "Potato", "Soybean",
     "Sunflower", "Banana", "Mango", "Orange", "Coffee", "Tea", "Cocoa"
 ])
-agro_zone = st.text_input("Zone agroécologique (ex: Sudan West)", "Sudan West")
+agro_zone = st.text_input("Agroecological zone (e.g.: Sudan West)", "Sudan West")
 
-selected_soil_col = st.selectbox("🧪 Propriété du sol", soil_cols)
+selected_soil_col = st.selectbox("🧪 Soil property", soil_cols)
 
 # ====================================
-#       FONCTION MASQUAGE NUAGES
+#       CLOUD MASKING FUNCTION
 # ====================================
 def mask_clouds(image):
     qa = image.select('QA60')
@@ -130,42 +136,42 @@ def mask_clouds(image):
     return image.updateMask(cloud_mask)
 
 # ====================================
-#       BOUTONS D'ACTION
+#       ACTION BUTTONS
 # ====================================
 
 col1, col2 = st.columns(2)
 
 with col1:
-    if st.button("📥 Afficher NDVI stockés"):
+    if st.button("📥 Display stored NDVI"):
         df_ndvi = get_ndvi_data(lat, lon, limit=5)
         if df_ndvi.empty:
-            st.warning("⚠️ Aucun profil NDVI trouvé pour cette localisation.")
+            st.warning("⚠️ No NDVI profile found for this location.")
         else:
-            st.subheader("📊 Profils NDVI (Base de données)")
+            st.subheader("📊 NDVI Profiles (Database)")
             st.dataframe(df_ndvi)
 
-            # Graphique NDVI (1er profil)
+            # NDVI chart (1st profile)
             ndvi_values = df_ndvi.iloc[0]["ndvi_profile"]
             if isinstance(ndvi_values, list):
                 fig = px.line(
                     y=ndvi_values,
                     markers=True,
-                    title=f"Profil NDVI - Année {df_ndvi.iloc[0]['year']}",
-                    labels={"y": "NDVI", "x": "Indice (Mois)"}
+                    title=f"NDVI Profile - Year {df_ndvi.iloc[0]['year']}",
+                    labels={"y": "NDVI", "x": "Index (Month)"}
                 )
                 st.plotly_chart(fig)
 
-            # Option de téléchargement CSV
+            # CSV download option
             csv = df_ndvi.to_csv(index=False)
             st.download_button(
-                "📥 Télécharger NDVI (CSV)",
+                "📥 Download NDVI (CSV)",
                 data=csv,
                 file_name="ndvi_profiles.csv",
                 mime="text/csv"
             )
 
 with col2:
-    if st.button("🔍 Générer NDVI via Google Earth Engine"):
+    if st.button("🔍 Generate NDVI via Google Earth Engine"):
         collection = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED") \
             .filterBounds(geometry) \
             .filterDate(str(start_date), str(end_date)) \
@@ -176,7 +182,7 @@ with col2:
         ndvi = image.normalizedDifference(['B8', 'B4']).rename('NDVI')
         ndvi_params = {'min': 0, 'max': 1, 'palette': ['red', 'yellow', 'green']}
 
-        # Carte interactive
+        # Interactive map
         if mode == "GPS Coordinates":
             Map = geemap.Map(center=[lat, lon], zoom=12)
             Map.addLayer(ee.Geometry.Point([lon, lat]), {}, 'Field')
@@ -188,7 +194,7 @@ with col2:
 
         Map.addLayer(ndvi, ndvi_params, 'NDVI')
 
-        # Données sol
+        # Soil data
         soil_within = soil_gdf[soil_gdf.within(poly_geom.iloc[0])]
         Map.add_points_from_xy(
             soil_within,
@@ -209,9 +215,9 @@ with col2:
             'dimensions': 512,
             'format': 'png'
         })
-        st.markdown(f"📥 [Télécharger l'image NDVI]({url})")
+        st.markdown(f"📥 [Download NDVI image]({url})")
 
-        # Résumé JSON
+        # JSON summary
         soil_stats = soil_within.mean(numeric_only=True).to_dict() if not soil_within.empty else {}
 
         result_json = {
