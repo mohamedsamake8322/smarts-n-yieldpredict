@@ -29,3 +29,6 @@ torch
 openai-whisper
 sentence-transformers
 geemap
+torch
+torchvision
+torchaudio
