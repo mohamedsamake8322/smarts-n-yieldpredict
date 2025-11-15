@@ -4,7 +4,7 @@ from PIL import Image
 
 # ====== CONFIG ======
 image_path = r"C:\Users\moham\Pictures\New folder\0ade14b6-8937-43ea-93eb-98343af6bae7___JR_HL 8026.JPG"
-model_path = r"C:\plateforme-agricole-complete-v2\plant_disease_model.pth"
+model_path = r"C:\smarts-n-yieldpredict.git\plant_disease_model.pth"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Classes (dans le même ordre que ImageFolder)

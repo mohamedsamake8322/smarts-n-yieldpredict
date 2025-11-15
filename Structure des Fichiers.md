@@ -6,7 +6,7 @@ import os
 
 # Chemin du dossier
 
-folder_path = r"C:\plateforme-agricole-complete-v2\pages"
+folder_path = r"C:\smarts-n-yieldpredict.git\pages"
 
 # Vérifie si le dossier existe
 

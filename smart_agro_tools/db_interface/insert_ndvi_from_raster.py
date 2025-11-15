@@ -17,8 +17,8 @@ from smart_agro_tools.input_recommender.recommender import suggest_inputs
 from smart_agro_tools.db_interface.ndvi_storage import store_ndvi_profile
 
 # --- Configuration ---
-CSV_PATH = r"C:\plateforme-agricole-complete-v2\data\dataset_agricole_prepared.csv"
-NDVI_FOLDER = r"C:\plateforme-agricole-complete-v2\data\ndvi_rasters"
+CSV_PATH = r"C:\smarts-n-yieldpredict.git\data\dataset_agricole_prepared.csv"
+NDVI_FOLDER = r"C:\smarts-n-yieldpredict.git\data\ndvi_rasters"
 
 # --- Logging ---
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")

@@ -46,7 +46,7 @@ def compute_ndvi_stats(profile):
 # Traite tout le CSV, insert ligne par ligne
 def process_all_ndvi(
     conn,
-    csv_path=r"C:\plateforme-agricole-complete-v2\data\dataset_agricole_prepared.csv",
+    csv_path=r"C:\smarts-n-yieldpredict.git\data\dataset_agricole_prepared.csv",
 ):
     df_agri = pd.read_csv(csv_path)
 

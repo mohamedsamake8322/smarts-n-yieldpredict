@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 def load_and_merge_indicators(
-    base_path=r"C:\plateforme-agricole-complete-v2\data",
+    base_path=r"C:\smarts-n-yieldpredict.git\data",
     modis_file="MODIS_VI_Mali_2020_2025_mali_20250821_1503.csv",
     spei_file="SPEI_Mali_ADM2_20250821_1546.csv",
     soil_file="fusion_SMAP_SoilGrids.csv"

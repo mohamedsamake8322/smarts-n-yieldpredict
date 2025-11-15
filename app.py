@@ -138,7 +138,7 @@ st.markdown(
     """
     <div style='text-align: center; color: #666666; padding: 20px;'>
     🌾 SmartSènè Yield Predictor - Empowering African farmers with AI-driven insights
-    🚀 Developed by <strong>plateforme-agricole-complete-v2 SAMAKE</strong> | Precision farming for a better future
+    🚀 Developed by <strong>smarts-n-yieldpredict SAMAKE</strong> | Precision farming for a better future
     </div>
     """,
     unsafe_allow_html=True

@@ -1,2 +1,2 @@
 === Nouveau log de traitement === 
-Répertoire actif : C:\plateforme-agricole-complete-v2 
+Répertoire actif : C:\smarts-n-yieldpredict.git 

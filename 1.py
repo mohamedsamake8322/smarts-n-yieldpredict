@@ -4,7 +4,7 @@ import re
 import pandas as pd
 
 # 📁 Dossier contenant les fichiers
-DATA_FOLDER = r"C:\plateforme-agricole-complete-v2"
+DATA_FOLDER = r"C:\smarts-n-yieldpredict.git"
 JSON_PATH = os.path.join(DATA_FOLDER, "vectorized_dataset.json")
 PARQUET_PATH = os.path.join(DATA_FOLDER, "vectorized_dataset.parquet")
 
