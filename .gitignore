@@ -32,7 +32,7 @@ logs/
 
 # 🔹 Jupyter Notebook metadata
 *.ipynb_checkpoints/
-
+geoboundaries
 # 🔹 Streamlit session files
 .streamlit/
 script.py
