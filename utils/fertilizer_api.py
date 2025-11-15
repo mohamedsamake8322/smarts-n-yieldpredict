@@ -4,9 +4,9 @@ import json
 import numpy as np
 
 # 📦 Chemins vers le modèle et les métadonnées
-MODEL_PATH = r"C:\plateforme-agricole-complete-v2\models\fertilizer_model.bin"
-COLS_PATH = r"C:\plateforme-agricole-complete-v2\models\fertilizer_columns.json"
-LABELS_PATH = r"C:\plateforme-agricole-complete-v2\models\fertilizer_labels.json"
+MODEL_PATH = r"C:\smarts-n-yieldpredict.git\models\fertilizer_model.bin"
+COLS_PATH = r"C:\smarts-n-yieldpredict.git\models\fertilizer_columns.json"
+LABELS_PATH = r"C:\smarts-n-yieldpredict.git\models\fertilizer_labels.json"
 
 # 🔄 Chargement du modèle
 model = xgb.XGBClassifier()
