@@ -11,7 +11,7 @@ st.title("🛰️ Suivi Agro-Climatique Intégré")
 st.markdown("### Visualisation du climat, de la végétation et du sol par région")
 
 # 📁 Chargement des fichiers
-data_path = "C:/plateforme-agricole-complete-v2/data"
+data_path = "C:\\smarts-n-yieldpredict.git\\data"
 spei_file = os.path.join(data_path, "SPEI_Mali_ADM2_20250821_1546.csv")
 modis_file = os.path.join(data_path, "MODIS_VI_Mali_2020_2025_mali_20250821_1503.csv")
 soil_file = os.path.join(data_path, "fusion_completesoil.csv")
