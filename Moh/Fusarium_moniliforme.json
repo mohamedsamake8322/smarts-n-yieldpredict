@@ -1,0 +1,77 @@
+{
+  "title": "Bakanae disease of paddy",
+  "sections": {
+    "Header": [
+      "Bakanae disease of paddy",
+      "Fusarium moniliforme"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Undertake deep summer ploughing to expose soil along with the pathogen to sunlight in order to reduce disease inoculum before puddling.",
+        "Use clean and healthy seeds to minimize disease occurrence.",
+        "Use 2% salt water to separate light weight and infected seeds during soaking.",
+        "Seed treatment before sowing and transplanting (see direct controls).",
+        "Apply recommended dose of urea, DAP and",
+        "MOP as per soil health crd report; avoid excessive use of urea.",
+        "Destroy crop residues after harvest.",
+        "Store grains with 13.5-14% moisture content."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the field at weekly intervals in nurseries and after transplanting.",
+        "Be especially vigilant during periods of high temperature and high humidity as this favours disease development.",
+        "Infected plants are abnormally tall with pale, thin leaves, and produce fewer tillers.",
+        "Look for white growth of the pathogen at the base or on the lower sheath of the infected plant.",
+        "Look for adventitious roots growing from above-ground nodes on the stem.",
+        "Look for unhealthy seedlings drying from the bottom to top at early tillering stage which eventually die after few days."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out and destroy (burn or bury) infected or dead plants both from nursery and field as soon as identified.",
+        "Seed treatment with",
+        "Trichoderma spp. at 5 g/kg seed."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Seed treatment by dipping 8 kg seed in 10",
+        "L of water containing 20 g",
+        "Carbendazim 50",
+        "WP + 1 g",
+        "Streptocycline for 12 hours.",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use).",
+        "Before transplanting dip the seedling in 0.2 % solution of",
+        "Carbendazim 50",
+        "WP (2 g/L water) for 6 hours.",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use).",
+        "Spray",
+        "Propiconazole 25",
+        "EC at 0.1 per cet (I ml/L water) at boot stage for seed crop.",
+        "WHO Class ll (moderately hazardous).",
+        "Spray",
+        "Mancozeb + Carbendazim at 2 g/L water on apperance of disease.",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Root growth from infected node (O.P. Sharma, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Rice field with infected plants (O.P. Sharma, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bakanae disease of paddy"
+      }
+    ]
+  }
+}

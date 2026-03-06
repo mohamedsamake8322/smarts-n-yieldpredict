@@ -1,0 +1,62 @@
+{
+  "title": "Armoured scales on citrus",
+  "sections": {
+    "Header": [
+      "Armoured scales on citrus",
+      "Aonidiella aurantii, Lepidosaphes beckii, Chrysomphalus aonidum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid the use of broad spectrum insecticides, as these will kill natural predators of armoured scales and cause higher infestations of the pest on citrus.",
+        "These insect pests can spread rapidly as they are highly mobile.",
+        "Wear protective clothing/ check clothing when leaving a citrus plot and before entering a pest-free area to avoid spreading scales.",
+        "Purchase certified nursery stock to prevent initial infestation.",
+        "Reduce local ant populations which protect scales from natural enemies (via planting of repellant plants such as mint or cinnamon)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe citrus trees every week, look for presence of scale insects on 5-10 random twigs per tree.",
+        "For red scale ( A.aurantii ), check five random fruit per tree.",
+        "Small (2 mm long), circular insects, commonly reddish-brown, shaped like a mussel shell.",
+        "Symptoms of armoured scale infestations are:",
+        "Yellowing of leaves which may drop prematurely.",
+        "Poor growth of infested plant due to heavy feeding.",
+        "Sticky honeydew on the stem and leaves, may be covered in black sooty mould.",
+        "Commonly associated with ant presence due to their feeding on honeydew and protection of scale insect from natural enemies.",
+        "Sample at least 20 trees per acre.",
+        "If insect pest is found in high populations (when 10-15% of sampled trees are infested) then undertake direct control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use of parasitic wasps such as",
+        "Metaphycus luteolus, M.stanleyi, M.helvolus or the parasites",
+        "Aphytis lignanensis in tropical regions and",
+        "A.melinus in temperate conditions (release roughly 300 000 per",
+        "Ha, consider advice from local extension officers).",
+        "Use of insecticidal soap (5 teaspoons of bleach-free washing liquid per litre of water).",
+        "Spray every 7 days until infestation has cleared.",
+        "Use of oil spray (2 tablespoons of cooking oil and 2 tablespoons of soap with 1 gallon of water).",
+        "Spray every 5-7 days as needed."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Red scale A.aurantii (Dennis Navea, ControlBest, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Purple scale L.beckii (USDA Agricultural Research Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Armoured scales on citrus"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Florida red scale C.aonidum (Lorraine Graney, Bartlett Tree Experts, Bugwood.org)"
+      }
+    ]
+  }
+}

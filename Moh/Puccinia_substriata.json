@@ -1,0 +1,47 @@
+{
+  "title": "Rust on pearl millet",
+  "sections": {
+    "Header": [
+      "Rust on pearl millet",
+      "Puccinia substriata"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Before planting, check if resistant varieties are available locally.",
+        "Plant early, as soon as weather conditions allow; this will minimize yield and grain quality losses as the crop will have matured before maximum disease development.",
+        "Rotate with non-host crops such as sorghum and legumes.",
+        "During crop growth, remove volunteer plants and weeds - grasses in particular; do not plant near eggplant or its weed relatives, e.g.",
+        "Solanum torvum (turkey berry).",
+        "These plants are hosts of",
+        "P. substriata.",
+        "After harvest, collect and bury crop remains."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Solanum hosts (eggplant, turkey berry).",
+        "Wild grasses are also hosts.",
+        "Look out for:",
+        "Small green to yellow, slightly raised spots that develop over the leaf surface, with more on the topside than the underside.",
+        "The spots growing larger, up to 2 mm, and rising further from the surface of the leaf, developing into reddish-orange pustules, round to elliptical, with yellow halos.",
+        "Masses of spores (urediniospores) that form in the pustules and spread the rust within and between crops.",
+        "Later, as the pustules age they become darker as another spore type (teliospores) appears; the leaves start to die from the tips towards the base.",
+        "The teliospores have thick walls and this helps them survive in the soil.",
+        "Spots on the stems, indicating that the infection is severe.",
+        "The plants may fall over (lodge).",
+        "The disease is favoured by cool nights (15-20°C) and warm days (25-34°C) as this promotes abundant dew on the foliage, thus the development of the disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Reddish-brown (rust coloured) spots, with yellow halos, producing masses of spores which spread between pearl millet plants (Vivek Gupta)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Rust on pearl millet"
+      }
+    ]
+  }
+}

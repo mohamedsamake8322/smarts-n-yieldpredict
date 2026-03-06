@@ -1,0 +1,44 @@
+{
+  "title": "PEST MANAGEMENT DECISION GUIDE: GREEN AND YELLOW LIST",
+  "sections": {
+    "Header": [
+      "PEST MANAGEMENT DECISION GUIDE: GREEN AND YELLOW LIST",
+      "Papaya Mealybugs",
+      "Paracoccus marginatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "PEST MANAGEMENT DECISION GUIDE: GREEN AND YELLOW LIST",
+        "Papaya Mealybugs",
+        "Paracoccus marginatus",
+        "Prevention",
+        "Prune infested leaves and destroy (burn) them. Completely remove and bury or burn crop residues. Avoid the movement of planting material from infested areas to other areas. Prevent the movement of ants and destroy any existing ant colonies. Remove weeds/ alternate host plants like Hibiscus, etc. in and nearby crop Encourage the build up of natural enemies like ladybirds by reducing pesticide sprays.",
+        "Symptoms of damage caused by papaya mealybugs (Dale Meyerdirk National Biological Control Institute)",
+        "Symptoms of damage caused by papaya mealybugs on papya fruit (Dale Meyerdirk National Biological Control Institute)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring",
+        "Weekly monitoring and scouting to detect early presence of the papaya mealy bugs. Look for clusters of cotton-like masses. If populations are high, as indicated by presence of sooty mould, then take control by spraying pesticides."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct Control",
+        "Direct Control Restrictions",
+        "There are natural enemies like ladybirds which feed on mealybugs, but the population is sparse. In Cambodia, natural enemies are not available commercially.",
+        "Spray insecticides as a last resort.",
+        "Need to include a wetter or sticker to the insecticide for better penetration, as the mealybugs have a waxy layer",
+        "Buprofezin 25EC. Use 2ml/l water",
+        "Buprofezin (Growth regulators). IRAC Group 16. WHO IV or(U = Unlikely to present acute health hazard in normal use)",
+        "Thiomethoxam 25 WG (0.6 g/litre), or Imidacloprid 17.8 SL (0.6 l/litre)",
+        "Neonicotinoids. IRAC Group 4A. WHO IV or (U = Unlikely to present acute health hazard in normal use)"
+      ]
+    },
+    "Figures": [
+      "Symptoms of damage caused by papaya mealybugs (Dale Meyerdirk National Biological Control Institute)",
+      "Direct Control Restrictions",
+      "Symptoms of damage caused by papaya mealybugs on papya fruit (Dale Meyerdirk National Biological Control Institute)"
+    ]
+  }
+}

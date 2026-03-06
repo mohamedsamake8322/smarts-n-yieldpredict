@@ -1,0 +1,72 @@
+{
+  "title": "Weeds in rice - Sierra Leone",
+  "sections": {
+    "Header": [
+      "Weeds in rice - Sierra Leone",
+      "Sedges: Cyperus rotundus , broad leaf (Gbagbormei or Ka-bomomopneh): Mimosa pudica , lang-lang grass (Lettii or Anlath): Imperata cylindrica"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Conduct proper brushing, leave to dry and burn to reduce the seed bank population",
+        "Deep ploughing to expose seeds in the seed bank",
+        "Remove plant residues exposed during ploughing",
+        "Harrow twice and then seed harrow",
+        "Search rice seed lots for the presence of weed seeds",
+        "Use wire mesh to sieve rice seeds (to remove weed seeds)",
+        "Use appropriate planting distance to suppress weed growth:",
+        "Upland mono-cropping: 60-70kg/ha; Upland mixed cropping: 40-50kg/ha; Inland valley swamp(IVS): 2-3 seedlings/hill 50kg/ ha",
+        "Plant early to reduce competition for space, nutrients, sunlight etc.",
+        "Upland:",
+        "May/June; IVS:",
+        "June/July"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Frequently visit the farm site to assess for weeds",
+        "Possibly search for weed banks / colonies",
+        "Weed management is most important when plants are small"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice hand weeding at about 4-6 weeks after sowing and transplanting for upland and",
+        "IVS respectively.",
+        "In case of",
+        "Mimosa pudica and",
+        "Imperata cylindrical , wear hand gloves to avoid injury.",
+        "Use hoe or cutlass to remove or reduce weed population",
+        "Irrigate developed",
+        "IVS to suppress weeds"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Propanil",
+        "Slightly hazardous (WHO Class",
+        "III); Apply one time per crop season only; Apply the herbicide 2 weeks after planting for",
+        "Upland rice monoculture; Apply the herbicide 2 weeks after transplanting for",
+        "IVS rice monoculture"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Mimosa flower (Shaun Winterton, Aquarium and Pond Plants of the World, Edition 3, USDA APHIS PPQ, via Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Lang-lang grass (John Ruter, University of Georgia, via Bugwood.org)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Sedge seeds (SD Sawant)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Weeds in rice - Sierra Leone"
+      }
+    ]
+  }
+}

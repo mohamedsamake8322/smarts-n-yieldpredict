@@ -1,0 +1,82 @@
+{
+  "title": "Control of blackjack in annual crop fields - Vietnam",
+  "sections": {
+    "Header": [
+      "Control of blackjack in annual crop fields - Vietnam",
+      "Bidens pilosa Đơn buốt, Dần sàng, Quỷchâm, Cúc áo"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Purchase and sow certified crop seeds to reduce the chance of contamination.",
+        "Seeds are spread by animals - do not allow livestock into an affected area to avoid spread.",
+        "Seeds are spread on clothes and shoes - remove seeds when leaving an infested area.",
+        "Seeds are spread by water - use only water from sources free of the weed; use filter net to eliminate seeds from irrigation water; avoid runoff from surrounding infested fields.",
+        "Seeds spread by wind - limit seed set in surrounding populations.",
+        "Use crop rotation with paddy rice annually, if applicable.",
+        "A maize-bean, sweet potato intercropping system can effectively suppress the weed."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: annual crops such as maize, vegetables, soybean, groundnut, cassava",
+        "Annual erect broadleaved weed (up to 1m high) with green composed leaves and a strong taproot.",
+        "Flowers white with yellow centre and 1-1.5 cm long black slender seeds, ribbed, dry, one seeded, with 2-4 yellowish barbed bristles or awns at one end.",
+        "Inspect surrounding fields weekly for the presence of the weed.",
+        "Check fields weekly for infestation and consider direct control if the weed is present.",
+        "Check weekly for the flowering of the weed and seed development to prevent seed set, spread and build-up of seed bank."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Dig up 5-10cm or hand-pull plants prior to the onset of flowering, ensuring the taproot is severed well below the crown to prevent regrowth.",
+        "Mow or slash the species prior to flowering and seed set to prevent further spread."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Apply residual herbicides diuron (1200",
+        "2000g a.i/ha), atrazine (1200",
+        "3200g a.i/ha) or ametryn (2000",
+        "3000g a.i/ha), once before or immediately after sowing/planting of the crop.",
+        "Diuron:",
+        "WHO Class",
+        "III ( (slightly hazardous), WSSA resistance group 7.",
+        "Atrazine:",
+        "WHO Class",
+        "III (slightly hazardous), WSSA resistance group 5.",
+        "Ametryn:",
+        "WHO Class",
+        "II (moderately hazardous), WSSA resistance group 5.",
+        "Apply translocated herbicides metsulfuron methyl (12-15g a.i/ha), glyphosate (960-1200g a.i./ha) or 2,4-D (720-900g a.i/ ha) once/crop season after harvesting, if the weed is present on the field.",
+        "Do not use the herbicide on fields with growing crops.",
+        "Metsulfuron methyl:",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use), WSSA resistance group 2.",
+        "Glyphosate:",
+        "WHO Class",
+        "III (slightly hazardous), WSSA resistance group 9. 2,4-D:",
+        "WHO Class",
+        "II (moderately hazardous), WSSA resistance group 4."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Flowers have white petals and yellow centres. (Source: Nguyen Van Liem)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaves have 3-5 leaflets each, tapering towards the end. (Source: Arne Witt)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Control of blackjack in annual crop fields - Vietnam"
+      }
+    ]
+  }
+}

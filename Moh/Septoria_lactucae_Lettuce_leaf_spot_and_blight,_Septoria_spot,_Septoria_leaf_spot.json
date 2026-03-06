@@ -1,0 +1,61 @@
+{
+  "title": "Septoria leaf spot on lettuce",
+  "sections": {
+    "Header": [
+      "Septoria leaf spot on lettuce",
+      "Septoria lactucae Lettuce leaf spot and blight, Septoria spot, Septoria leaf spot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified, disease free seeds for planting",
+        "Avoid high density seedings on nursery beds to improve aeration",
+        "Select healthy plants from nursery for transplanting, remove any seedlings showing symptoms",
+        "Avoid using the same location for the nursery year after year to prevent build up of the fungus",
+        "Control weeds, volunteer crops and wild lettuce crops since these plants can host the fungus",
+        "Avoid overhead irrigation since the disease develops in wet conditions and spreads via splashing.",
+        "Irrigate in the morning to minimize periods of leaf wetness",
+        "Mulch with straw or other available materials after transplanting to reduce rain splash",
+        "Avoid working in fields when plants are wet to prevent disease spread",
+        "Disinfect farm implements/tools with fire or household bleach (1 part bleach to 1 part water) to avoid spreading the disease",
+        "Rotate with non-host crops for 3 years such as maize, millet, sorghum, cowpea and cassava",
+        "After harvest, plough crop debris into the soil to speed up decomposition.",
+        "Crop debris can otherwise host the fungus"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor fields weekly after transplanting",
+        "Symptoms start on the oldest leaves, consisting of small, irregular yellow spots",
+        "Lesions become larger, turn brown, dry and may fall out, making the leaves look tattered",
+        "Old lesions turn necrotic and become sunken",
+        "The lower leaves progressively die and drop off",
+        "The leaf spots contain brown/black dots which are fungal reproductive structures (pycnidia)",
+        "In severe cases symptoms occur on stems and petioles of the plant as well",
+        "Consider applying direct control immediately when the first spots are observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If the disease density is low",
+        "rogue out infected plants immediately when they are observed and destroy by deeply burying (at least 1 m deep) or burning"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Lower leaves of sucrine strewn with angular and necrotic spots caused by Septoria lactucae (Dominique Blancard, INRA)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Spots caused by Septoria lactucae, delimited by the ribs and brown in colour, surrounded by a chlorotic halo (Dominique Blancard, INRA)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Septoria leaf spot on lettuce"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Tiny black structures on the limb encrusted in the tissues: pycnidia of the parasitic fungus Septoria lactucae (Dominique Blancard, INRA)"
+      }
+    ]
+  }
+}

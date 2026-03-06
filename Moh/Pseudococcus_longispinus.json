@@ -1,0 +1,54 @@
+{
+  "title": "Longtailed mealybug on cashew",
+  "sections": {
+    "Header": [
+      "Longtailed mealybug on cashew",
+      "Pseudococcus longispinus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use planting materials with certified planting material to reduce spread of infestation into new fields.",
+        "Avoid the use of broad spectrum pesticides to encourage natural enemies (lacewings, pirate bugs, lady beetles) and parasitoids ( Tetracnemoidea sydneyensis or",
+        "T.peregrina ).",
+        "Collect any fallen leaves and plant material below cashew trees and destroy by burning to prevent the spread of mealybug pests."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for small, oval shaped insects with long tails (roughly a quarter of their body length) and a defined stripe running down the back.",
+        "Look for mealybugs between clusters of berries, on soft stems, flower buds, twigs, near the main root where soil is loose and the upper side of leaves.",
+        "Symptoms of mealybug infestations include delayed ripening, abnormal shapes and premature dropping of fruit.",
+        "Sooty mould on leaf surfaces which can cause leaves to turn yellow and drop.",
+        "Use of yellow sticky traps with a pheromone lure to monitor for adults, follow product label for guidance.",
+        "Inspect plants anytime of day, monitor more frequently during dry periods.",
+        "As soon as mealybugs are identified in your fields, undertake direct control actions.",
+        "Consider direct control actions as soon as symptoms are observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use a strong jet of water to dislodge insects from plants.",
+        "Burn or bury (50 cm deep) any infested plant parts.",
+        "Prune highly infested plant areas such as stems or leaves and then destroy.",
+        "Control ant populations as they reduce natural predator populations.",
+        "Use of soap spray (one bar of soap in 20",
+        "L of water) to remove insect infestation from plants.",
+        "Apply 1-2% vegetable oil (e.g. neem oil) as a spray on plants (10 ml of liquid soap to 1 litre of water, add 50 ml of neem oil).",
+        "Paste a grease band (5 cm wide) on the main stem of the plant to prevent pests from crawling up to the leaves and fruit."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Longtailed mealybug (David Cappaert, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Signs of infestation on leaves (Joseph LaForest, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Longtailed mealybug on cashew"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Black rot on cabbage (uozo mweusi wa kabichi) - Kenya",
+  "sections": {
+    "Header": [
+      "Black rot on cabbage (uozo mweusi wa kabichi) - Kenya",
+      "Xanthomonas campestris pv. campestris"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified tolerant varieties like",
+        "Baraka",
+        "F1, Globe",
+        "Master",
+        "F1, Blue dynasty",
+        "FI, Riana",
+        "F1, Field winner",
+        "F1",
+        "Rotate with non-brassicas like maize and beans, onions and pumpkins for at least 2 years",
+        "Use disease free transplants",
+        "Keep field free from weeds to avoid alternate host of the",
+        "Brassiceae family",
+        "Avoid weeding during wet conditions to avoid spread on inoculums",
+        "Apply mulch to avoid disease spread by rain splash",
+        "After harvest remove all the plant debris",
+        "Do not allow machinery and equipment movement from infested to non-infested fields"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "In the nursery look out for a yellow appearance along the margin of the cotyledon which later shrivel and drop off.",
+        "The affected seedlings turn yellow to brown wilt and die.",
+        "On the mature plant look out for: 1.",
+        "Yellow, brown or black v-shaped patches at the edge of the leaves; 2.",
+        "Black veins when the yellow black lesions are held against light; 3.",
+        "A black ring in a cross- section of the stem",
+        "In later stages, check out for blackheads with an offensive foul smell",
+        "Disease is common during wet conditions with high temperatures",
+        "Take immediate action when first symptoms appear"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all infected plants and debris from the field and destroy by burning",
+        "Spray the remaining healthy plants using a copper- based protective fungicide to supress further damage (e.g.",
+        "Kocide at 50g/20L); FRAC code",
+        "M1"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous9; Spray interval of 14 days during wet weather; PHI 7 days; Use a maximum of 3 sprays; When using a pesticide, always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.; WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes; Always consult recent list of registered pesticides (PCPB)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Characteristic v-shaped necrosis (Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, via Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "A field heavily infested by blackrot in Nakuru North (Rose Kamau, MoA Kenya)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cabbage head with black rot (Peter Karanja, CABI)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Black rot on cabbage (uozo mweusi wa kabichi) - Kenya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Stripe rust on wheat",
+  "sections": {
+    "Header": [
+      "Stripe rust on wheat",
+      "Puccinia striiformis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Sow 7",
+        "10 days later than ordinary, to avoid the rust spores spreading period (The spores can only infect after 3 leaf",
+        "stage of seedling)",
+        "2 )",
+        "Reasonably fertilize with less nitrogen and more phosphate and potash, to make the plant less susceptible.",
+        "Resistance varieties in",
+        "Sichuan province include",
+        "Neimai",
+        "No.8, Chuanmai",
+        "No.32, Chuanmai",
+        "No.36, Chuanmai",
+        "No.39, Chuanmai",
+        "No.42, Chuanqing",
+        "No.16, Chuanqing",
+        "No.19, Chuannong",
+        "No.7、Chuannong",
+        "No.11, Chuannong",
+        "No.16, Chuannong",
+        "No.18, Chuannong",
+        "No.19, Miannong",
+        "No.7, Mianyang",
+        "No.3, Mianyang",
+        "No.35, Mianyang",
+        "No.37, Rongmai",
+        "No.2",
+        "Intercrop from plot to plot, or rotate with alternative crops, such as cabbage, potato, rape, and maize",
+        "Plough after harvest, to eradicate (manually) the over-summer host",
+        "Uproot volunteer seedlings",
+        "Crop density (about 270 plants/m"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the wheat field every 7 days to observe the wheat health until milk stage or until the disease is not become a serious problem.",
+        "2 per point) bidiagonally in 1 piece of small wheat field (about 1/4 ha), then check 20 to 50 leaves at each point",
+        "Check for leaves with yellow rust spot lines; estimate coverage of rust on leaf to assess severity levels",
+        "D = 1%, 5%, 10%, 20%, 40%, 60%, 80%, 100%); then, calculate the diseased leaf rate (F=diseased leaf number/ observed leaf number) = disease index (I):",
+        "I=F x",
+        "D x 100",
+        "For later stages, consider control action when disease index (I) over 5.",
+        "At milking and ripening stage, control is too late.",
+        "Choose five-points (2m"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray plant extracts such as",
+        "Sophora flavescens (buy in pharmacy), at a dosage of 10 mg/ml, 30",
+        "L/667m 2 , once a week from jointing to grouting stage of wheat.",
+        "Potential natural enemy, one kind of",
+        "Cecidomyiidae beetles, with larvae feeding on rust spores of wheat stem rust disease.",
+        "So use fewer insecticides to protect this natural enemy."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Prevention and early eradication are most powerful measures",
+        "but chemical seed dressing and spray could prevent the disease from becoming more severe.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Don’t use one kind of fungicide in same way (seed dressing or spray) continuously more than 3",
+        "5 years, or there would be resistance.",
+        "Seed dressing with triadimefon – based products (2% missible oil, effective ingredient 40-80g/100kg seed) before sowing could postpone disease occurring date for 30-60 days.",
+        "Alternative fungicides such as tebuconazole, paclobutrazol, propiconazole – based products could be rotated for use, but follow label instructions and regulations",
+        "WHO toxicity class",
+        "II (moderately hazardous).",
+        "Follow the suggested dosage otherwise it could reduce emergence rate of wheat seedlings.",
+        "Prefer buying treated seeds than treating yourself.",
+        "Spraying on leaves in the disease center or all over the field with hexaconazole",
+        "based products (30% suspending agent, effective ingredient 36",
+        "54g/ha) before milking stage of wheat.",
+        "WHO toxicity class",
+        "III (slightly hazardous); don’t spray after milky stage of wheat, because the temperature isn’t suitable for disease developing."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Fungal surface growth (yellow spots) on leaf (Photo by Luohe PPS )"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Yellow rust spreading in field (Photo by ZengJuan)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Urediospores in microscope, the only spreading form (Photo by LiuTaiguo)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Stripe rust on wheat"
+      }
+    ]
+  }
+}

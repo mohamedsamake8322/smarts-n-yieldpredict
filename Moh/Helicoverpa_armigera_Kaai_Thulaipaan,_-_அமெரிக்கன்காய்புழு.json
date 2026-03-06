@@ -1,0 +1,89 @@
+{
+  "title": "Gram Pod Borer on Groundnut",
+  "sections": {
+    "Header": [
+      "Gram Pod Borer on Groundnut",
+      "Helicoverpa armigera Kaai Thulaipaan, / அமெரிக்கன்காய்புழு"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Trim the bunds before crop sowing to prevent egg laying by pest.",
+        "Destroy the pupae by ploughing at least 10 cm deep during the summer.",
+        "Use resistant varieties like",
+        "Co-6 and",
+        "Co-7.",
+        "Plant border crop with red gram/cowpea/black gram to increase natural enemies.",
+        "Grow trap crop of castor or chrysanthemum around the field for attracting the pest towards the trap crop.",
+        "Install 10 bird perches per acre."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Set up light trap (1/acre from planting) and observe during 6 to 8 pm.",
+        "Install para-pheromone trap",
+        "Heli lure at 5 per acre.",
+        "Adult moths have a 40 mm wing span and dull brown forewings.",
+        "Observe longitudinal cut holes on pods by pulling the entire infested plant.",
+        "See faecal matter inside pods from the 45th day in removed plants."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Spray a solution of 250 ml of",
+        "HaNPV at 250",
+        "Larval",
+        "Equivalents (LE) + 1 kg palm jaggery + 200 litre of water/ acre.",
+        "Spray in the evening hours with a hand sprayer.",
+        "Apply 2 applications with 10 day intervals.",
+        "Spray",
+        "Bacillus thuringiensis at 2 g in 1 litre of water at 15 day intervals for a maximum of 3 times.",
+        "Immerse 50 kg powder form of",
+        "NSKE in 500 litres of water for 8 hours.",
+        "Filter and add 500 ml of teepol to spray 1",
+        "Ha at 15 day intervals.",
+        "Spray",
+        "Neem oil at 30 ml in 1 litre of water at 15 day intervals.",
+        "Release",
+        "Trichogramma chilonis at 1 lakh/Ha at 40 and 50 days after sowing (DAS)."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re- entry interval.",
+        "Do not empty into drains and water sources.",
+        "Spray",
+        "Chlorpyrifos 3 ml per litre of water at 15 days interval",
+        "Foliar spray of",
+        "Quinolphos 2 ml/l of water at 15 day intervals"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Chlorpyrifos - WHO Class",
+        "II. (Moderately hazardous).",
+        "Pre",
+        "Harvest",
+        "Interval (PHI) 14 days",
+        "Quinalphos- WHO Class",
+        "II. (Moderately hazardous).",
+        "PHI - 7 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Helicoverpa larva (Antoine Guyonnet, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Gram Pod Borer on Groundnut"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult moth of Goundnut Gram pod borer (Georg Goergen, IITA Insect Museum)"
+      }
+    ]
+  }
+}

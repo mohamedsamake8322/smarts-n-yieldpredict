@@ -1,0 +1,106 @@
+{
+  "title": "Aphids on cashew and citrus",
+  "sections": {
+    "Header": [
+      "Aphids on cashew and citrus",
+      "Toxoptera aurantii, T. citricidus, Aphis spiraecola, Myzus persicae Nkokodwie"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Conserve natural enemy populations (ladybugs, parasitic wasps, hoverflies, lacewings and entomopathogenic fungi) by reducing use of pesticides, and encourage vegetative growth by growing cover crops such as",
+        "Talinum triangulari (Bokoboko)",
+        "Do not use cashew cultivars that continuously produce new shoots (e.g.",
+        "Hybrid cashew)",
+        "Keep the plantation free of weeds and alternative hosts such as avocado, mango, indian almond and wild mustards",
+        "Maintain good soil fertility to ensure high seedling vigour"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: avocado, mango",
+        "Start monitoring from seedling stage and check plants weekly for adults and nymphs of aphids",
+        "Randomly select 5 trees in the field and count the number of shoots/ plant attacked by aphids and note the level of natural enemies in a circle of 28 cm",
+        "Inspect plants for honeydew and sooty mould on leaves and watch out for ants movements up and down the tree",
+        "Consider control measures in cases of severe infestation (i.e. 30% of infested shoots) and a very low level of natural enemies"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune branches of severely attacked plants with active growth over an extended period",
+        "Spray the infested areas of seedlings with a strong jet of water to wash off aphids and reduce their numbers",
+        "Spray soap solution (potassium soaps, e.g. alata samina) (add 10-15 tablespoons of liquid soap in 16",
+        "L Knapsack and spray on foliage).",
+        "Spray crop with",
+        "Imidacloprid-based product (e.g.",
+        "Confidor",
+        "Super, Consider super 200",
+        "SL) at 10ml/20L of water.",
+        "These are",
+        "Neonicotinoids (IRAC, 4A) with systemic action",
+        "Spray crop with",
+        "Deltamethrin product e.g.",
+        "Deltacan (at 10ml/20L of water), Decis 2.5",
+        "EC (at 15ml/20L of water).",
+        "Sysnthetic pyrethroid (IRAC, 3A) with contact action",
+        "Spray crop with",
+        "Dimethoate + Cypermethrin product (e.g.",
+        "Cydim",
+        "EC, Cydim super",
+        "EC, Cypasect 43.6",
+        "EC, Cymethoate super",
+        "EC) at 250g/l.",
+        "Dimethoate is an oganophosphate (IRAC 1B)",
+        "Cypermethrin is a pyrethroid with contact action (IRAC, 3A)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear",
+        "PPE and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance, always consult the most recent list of registered pesticides of",
+        "MoFA, Ghana",
+        "WHO Class",
+        "II (Moderately hazardous); Maximum 3 applications per season in the morning and later in the day.",
+        "PHI 14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other non-target arthropods.Toxic to aquatic organisms.",
+        "Avoid using near waterways.",
+        "WHO Class",
+        "II (Moderately hazardous); Maximum 3 applications per season in the morning and later in the day.",
+        "PHI 14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other non target arthropods.",
+        "Toxic to aquatic organisms.",
+        "Avoid using near waterways.",
+        "WHO Class",
+        "II (Moderately hazardous); Maximum 3 applications per season in the morning and later in the day.",
+        "PHI 14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other non-target arthropods.Toxic to aquatic organisms.",
+        "Avoid using near waterways."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult of Myzus persicae (Scott Bauer, USDA Agricultural Research Service, Bugwood.org - CC BY 3.0 US)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Aphids on citrus shoot (CABI)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Aphid colony citrus leaf (Peter A.C. Ooi, CABI)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Aphids on cashew and citrus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Late blight of tomato",
+  "sections": {
+    "Header": [
+      "Late blight of tomato",
+      "Phytophthora infestans Chiwawu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use varieties with some degree of tolerance:",
+        "Khama, Mbambande and",
+        "Phindu.",
+        "Practice crop rotation with non-solanaceous crops: maize, sorghum, beans, groundnuts, soy beans and cowpeas.",
+        "Stake plants.",
+        "Prune old leaves for good air circulation and to reduce humidity.",
+        "Do not do this when wet, as diseases can be spread by people and tools.",
+        "Plant new tomato fields away from existing fields with altenative hosts.",
+        "Use a dry mulch to reduce water splashes as this spreads the disease.",
+        "Apply recommended rates of nitrogen fertilizer as high rates increase the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor tomato plants twice a week for symptoms of the disease, especially in humid conditions.",
+        "Look for irregular greasy greyish patches on the leaves which expand rapidly under damp/ humid conditions.",
+        "Look for white downy moulds at the margin of affected areas on the lower leaf surface.",
+        "Look for brown elongated lesions on the stems.",
+        "Look for brown-green blotches or spots on tomato fruits.",
+        "When first symptoms are seen, use direct controls."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected fruits and leaves and destroy by burning or burying 1m underground.",
+        "Apply",
+        "Mancozeb (e.g.",
+        "Emthane",
+        "M45, Dithane",
+        "M-45 800",
+        "WP, Uthane 800",
+        "WP, Mancozeb 800",
+        "WP ) at 20-30g per 10 litres of water depending on the size of the plants.",
+        "FRAC group:",
+        "M3",
+        "Spray 1.8-2.3 litres of",
+        "Chlorotharonil (Daconil,Bravo) per hectare.",
+        "FRAC group:",
+        "M5",
+        "Apply",
+        "Mancozeb + metalaxyl 800",
+        "WP (e.g.",
+        "Ridomil",
+        "Gold) at the rate of 20 g per 10 litre.",
+        "FRAC group:",
+        "M3 and 4",
+        "Spray",
+        "Copper oxychloride at the rate of 50g per 10 litres of water as a full cover spray.",
+        "FRAC group:",
+        "M1"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink or smoke when mixing or applying pesticides.",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Apply a full cover spray starting shortly after transplanting and continue at 7-14 days interval under wet conditions.",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Apply as soon as you see the disease at 7 to 14 days intervals.",
+        "Or apply as soon as conditions are favourable for disease outbreak.",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use, Spray as full spray.",
+        "Apply as preventive early in the season when conditions are favorable for disease (before infection), and continue at 14-day intervals until the threat of disease is over.",
+        "PHI: 5 days",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous.",
+        "Observe 14",
+        "PHI.",
+        "Start spraying shortly after transplanting when plants are about 15 cm high before symptoms appear",
+        "Spray every 7 to 10 days (more applications during damp weather and less during dry weather)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Brown lesions on the stems (SC Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on the fruits (SC Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown lesions on leaves (SC Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Late blight of tomato"
+      }
+    ]
+  }
+}

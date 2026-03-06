@@ -1,0 +1,101 @@
+{
+  "title": "Neck rot in onion",
+  "sections": {
+    "Header": [
+      "Neck rot in onion",
+      "Botrytis allii"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seed, obtained from a reputable seed dealer",
+        "Onion varieties with red or yellow bulbs are often less likely to be attacked than white bulbs.",
+        "For example",
+        "Red",
+        "Creole, Pusa",
+        "Red, Red",
+        "Grannex",
+        "F1, Yellow",
+        "Granex",
+        "F1,Yellow",
+        "Dessex",
+        "F1.",
+        "Rotate with crops not from the same family, such as sweet potatoes, tomatoes, rape; but not with garlic or leek.",
+        "Do not grow onion for three years in soils where the disease has occurred.",
+        "Aim to produce hard, well ripened bulbs, which cannot be easily attacked by the disease.",
+        "Avoid excessive use of nitrogen and late (that is, after",
+        "July) application of fertilisers.",
+        "Water the crop regularly during dry spells, but do not over- water.",
+        "Do not harvest during wet conditions.",
+        "Bulbs should be kept dry during the harvesting period and ensure that the foliage and necks dry quickly.",
+        "The ripe bulbs should be pulled up and laid on their sides with roots exposed to the sun.",
+        "Twist off the tops or leaves and store bulbs in a cool, dry place with good air circulation, e.g. wire netting, slatted shelves, strings hung from rafters.",
+        "Cover the bulbs temporally if rain threatens or better dry them under cover in an open shed.",
+        "Don’t attempt to store damaged or thick-necked bulbs; instead use them immediately.",
+        "Do not store bulbs in warm, damp conditions.",
+        "The cooler the storage place the better."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for decaying onion bulbs during storage once a week.",
+        "Look for watery soften tissue around the neck of onions.",
+        "Bulbs start to decay from the neck downwards and grey mould occurs.",
+        "At late stages of disease, look for hard, black, tiny resting pustules of the disease.",
+        "Consider taking action when you see one bulb showing rotting signs on the neck or other disease symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prevention is the most powerful measure because symptoms are difficult to see as plants infected by the fungus usually appear perfectly healthy whilst the crop is growing.",
+        "Hence direct control is not easy.",
+        "Remove affected bulb/s in storage including those that were in contact with it/ them and bury.",
+        "Note that burning is not allowed in many areas.",
+        "Do not dispose affected bulbs into the field and do not use for composting.",
+        "Fungicides with limited efficacy are:",
+        "Thiophanate-methyl -based products.",
+        "Iprodione -based products; Signal transduction pesticide group.",
+        "Metalaxyl + chlorothalonil - based products; Nucleic acid synthesis pesticide group."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no effective fungicidal sprays available for the control of onion neck rot.",
+        "However, several seed companies now treat seeds to reduce infection (e.g. with",
+        "Benomyl –based products)",
+        "When using a pesticide (even a botanical home-brew), always wear protective clothing.",
+        "Follow the instructions on the product label.",
+        "WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "\"Always consult recent list of registered pesticides (ZEMA).",
+        "WHO toxicity class",
+        "U ( unlikely hazardous when used as per product instructions); pre-harvest interval p.h.i. 14; restricted re- entry interval after spray (r.e.i.) 3 d.",
+        "WHO class",
+        "III, (slightly hazardous), p.h.i. 4 d, r.e.i. 1 d; Spray max 2 x per season with min 21 d retreatment interval.",
+        "Very toxic to aquatic organisms",
+        "WHO class",
+        "II (moderately hazardous) and class",
+        "U (unlikely hazardous when used as per product instructions); Max 2 sprays with min 10 to 14 d, p.h.i. 7 d; r.e.i. 1 d."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sliced onion showing decaying in the middle of the bulb (Photo by Tyawman, ipt.us.com)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Decay of onion bulbs from neck downwards and with grey mould (Photo by: The Royal Horticultural Society 2014, rhs.org.uk)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Halved sliced onion showing downward progression of the disease (Photo by: donsgarden.co.uk)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Neck rot in onion"
+      }
+    ]
+  }
+}

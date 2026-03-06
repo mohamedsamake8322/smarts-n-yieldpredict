@@ -1,0 +1,102 @@
+{
+  "title": "Bruchid on Bean",
+  "sections": {
+    "Header": [
+      "Bruchid on Bean",
+      "Acanthoscelides obtectus Nankafumbwe wa Mu Nyemba"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Bruchid-resistant varieties are available, such as",
+        "NUA 45 and",
+        "Nyambitira.",
+        "Remove and burn crop residues of the previous crop.",
+        "Harvest beans as soon as they mature.",
+        "Keep the bean store and the surrounding area clean.",
+        "Air dry the beans adequately before storage (ideal moisture level is 12%).",
+        "Disinfect old bags by immersing them in hot water (50°C-60°C) for 5 minutes.",
+        "Winnow and remove damaged and infested seed before storage.",
+        "Place the bagged beans on pallets."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor bean pods at maturity to ensure timely harvesting.",
+        "Check inside the bean for larvae and pupae because they develop entirely inside.",
+        "Check for holed grains to identify bean bruchid larvae.",
+        "The larvae are white and are found in the tunnels which they create during feeding.",
+        "Inspect the storage facility and the surrounding area on a weekly basis.",
+        "Record all treatments done, on a stack card.",
+        "Bean treatment should be done soon after noticing less than 10 bruchids.",
+        "Repeat the treatment once the bruchids have resurfaced."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use hermetic storage bags and clay pots for the storage of the beans.",
+        "Mix dried beans with ash (90g to 1kg of beans) or vegetable oil (5ml to 1kg of dried beans).",
+        "Treat the beans soon after harvesting, ensure that the grains have dried sufficiently before storing in polypropylene bags or hermetic storage facilities."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides",
+        "Pirimiphos-methyl (16g/Kg) + permethrin (4g/Kg).",
+        "Pirimiphos- methyl an organophosphate",
+        "IRAC group: 1B; Permethrin a pyrethroid",
+        "IRAC group: 3A (Super",
+        "Guard",
+        "Dust, Actellic",
+        "Super",
+        "Dust)",
+        "Both",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Apply 25g of powder per 50kg of shelled beans.",
+        "Mix thoroughly with a shovel.",
+        "Allow 45 days from treatment to consumption",
+        "Pirimiphos-methyl (16g/Kg) + Thiamethoxam (3.6g/Kg).",
+        "Pirimiphos- methyl, an organophosphate",
+        "IRAC group: 1B; Thiamethoxam, a neonicotinoid",
+        "IRAC group: 4A (Actellic",
+        "Gold",
+        "Dust)",
+        "Both",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Apply 25g powder per 45kg of shelled beans.",
+        "Mix thoroughly with a shovel.",
+        "Allow 45 days from treatment to consumption",
+        "Fenitrothion (10g/Kg) + Deltamethrin (1.3g/Kg).",
+        "Fenotrothion is an organophosphate, IRAC group: 1B; Deltamethrin a pyrethroid, IRAC group: 3A (Shumba",
+        "Super, Shumba",
+        "Max)",
+        "Both",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Apply 25g of powder per 50kg of shelled beans.",
+        "Mix thoroughly with a shovel.",
+        "Allow 45 days from treatment to consumption"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "A. obtectus adult on kidney bean (NRI/MAFF)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bruchid on Bean"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bean bruchid ( A. obtectus ) on soybean (Clemson University, USDA Cooperative Extension Slide Series, Bugwood.org)"
+      }
+    ]
+  }
+}

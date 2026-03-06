@@ -1,0 +1,85 @@
+{
+  "title": "Sheath Blight on Rice",
+  "sections": {
+    "Header": [
+      "Sheath Blight on Rice",
+      "Rhizoctonia solani In Sinhala- Kopu angamaraya/ In Tamil- Madal waliral"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove infected straw of the previous season",
+        "Proper land preparation (deep ploughing and levelling)",
+        "Quality seed paddy",
+        "Timely cultivation, (for",
+        "Maha season mid",
+        "October and",
+        "Yala season",
+        "April)",
+        "Use proper seed rate for long grain rice:",
+        "Broadcasting - 100kg/ ha; Trans planting - 50 kg/ha; Parachute - 10-12 kg/ha",
+        "Add partially burned paddy husk",
+        "Split application of nitrogen fertilizer (based on leaf colour charts)",
+        "Proper weed control"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits and observation",
+        "Observe lesion on the sheath and leaves",
+        "Plants are most vulnerable at maximum tillering stage",
+        "Monitor favourable weather conditions, especially cloudy conditions",
+        "When leaves are infected more than 10% go for chemical application"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "When first seen, do spot application of thiophanate methyl (WHO class",
+        "U, unlikely to present acute hazard in normal use)",
+        "Carbendazim 500g/ l",
+        "WP/WG Pencycuron 25 % WP Thiophanate-methyl 70% WP Tebuconazole 250 g/l",
+        "EW Hexaconazole 50 g/ l",
+        "Propiconazole 250 g/l",
+        "EC"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Application intervals 7- 14 days.",
+        "Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "U (Un likely to present acute hazard in normal use); Do not treat crops suffering from drought or other physical or chemical stress",
+        "Application intervals 7-14 days; Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "U (Un likely to present acute hazard in normal use)",
+        "Application intervals 7-14days.",
+        "Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "U (Unlikely to present acute hazard in normal use)",
+        "Application intervals 7- 10 days.",
+        "Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "II (Moderately hazardous)",
+        "Application intervals 7- 14days.",
+        "Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "III (Slightly hazardous)",
+        "Application intervals 7- 10 days.",
+        "Maximum two applications; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "II",
+        "Flutonil 50% WP Application intervals 7- 10 days",
+        "Maximum two applications.; Fungicide spray must be directed to sheath of the crop; WHO class",
+        "U (Un likely to present acute hazard in normal use)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Sheath Blight on Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Lesions on the sheath (RRDI, Batalagoda)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Highly infected leaves with sclerotia (RRDI, Batalagoda)"
+      }
+    ]
+  }
+}

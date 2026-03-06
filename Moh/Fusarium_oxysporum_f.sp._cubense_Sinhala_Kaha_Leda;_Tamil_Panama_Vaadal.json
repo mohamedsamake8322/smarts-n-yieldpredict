@@ -1,0 +1,73 @@
+{
+  "title": "Panama Wilt on Banana",
+  "sections": {
+    "Header": [
+      "Panama Wilt on Banana",
+      "Fusarium oxysporum f.sp. cubense Sinhala: Kaha Leda; Tamil: Panama Vaadal"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Obtain suckers from healthy plantation",
+        "Use resistant cultivars such as ‘Embul’ and ‘Cavendish’.",
+        "Addition of organic manure.",
+        "Mixed cropping of popular varieties like ‘Kolikuttu” with alternative rows of resistant cultivars such as",
+        "Embul",
+        "Crop rotation with rice for at least three years.",
+        "Avoid new cultivations on lands that have a history of this disease.",
+        "Random indexing of suckers for the freeness of the pathogen.",
+        "Send to lab.",
+        "Use of drip irrigation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits to the farm for identification of the disease",
+        "Observe for characteristic symptoms such as yellowing and lodging of outer mature leaves or splitting of the base of the pseudo-stem",
+        "Any suspected plants that are observed should be cut open for the examination of internal symptoms.",
+        "At plantations in risky areas, periodically inspect healthy suckers for internal initial browning symptoms in the rhizome.",
+        "Management options should be made immediately after first symptoms observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Immediately after detection of the disease, remove and destroy by burning infected plants along with the rhizome, roots and infected soil.",
+        "Roughing out infected plants and replace with resistant cultivars (e.g.",
+        "Embul).",
+        "Add lime or wood ash to the infected soil.",
+        "Avoid surface irrigation through the infected areas.",
+        "Isolate the infected spots by constructing drains and bunds."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Treat suckers with",
+        "Carbendazim suspension (50g/50L) for 2 hours and keep in shade for 2-3 days before planting.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use); Very toxic to the aquatic organisms.",
+        "Therefore cultivation besides water reservoirs should not be soil drenched.; Systemic with curative and protectant activity",
+        "Drench the soil surrounding the removed infected plant with",
+        "Carbendazim.",
+        "As above"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Splitting of the base of pseudostem (Dr Luadir Gasparotto Embrapa)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Yellowing and lodging of outer mature leaves (Dr Luadir Gasparotto Embrapa)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Discoloration of vascular bundles of pseudostem (Dr Luadir Gasparotto Embrapa)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Panama Wilt on Banana"
+      }
+    ]
+  }
+}

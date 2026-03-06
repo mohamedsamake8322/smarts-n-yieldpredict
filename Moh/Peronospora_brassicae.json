@@ -1,0 +1,66 @@
+{
+  "title": "Chinese kale - Downy mildew",
+  "sections": {
+    "Header": [
+      "Chinese kale - Downy mildew",
+      "Peronospora brassicae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Ensure proper land preparation to make sure that your soil is well drained",
+        "Transplant only healthy seedlings",
+        "Provide adequate plant spacing to reduce the density of the canopy and improve aeration.",
+        "Thin plants and prune infected shoots also helps improve plant's aeration and reduce disease inoculum.",
+        "Plough-under all the plant debris after harvest",
+        "Practice crop rotation with non-brassica crops",
+        "Alter planting dates to avoid rainy periods so as to avoid high disease pressure period"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect the crop regularly",
+        "Scouting should begin when the plants are young until harvest time"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected plants and prune infected leaves/ shoots",
+        "Properly dispose of collected diseased-parts either by burning or burying them",
+        "Spray garlic bulb extract",
+        "Carbendazim; 2-3g/ lit; Contact action",
+        "Difenoconazole (e.g.",
+        "Score); Use 5ml/10lit water; Systemic action",
+        "Mancozeb",
+        "Use 2-3g/1lit water; Contact action"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "FRAC Group 1; WHO Class",
+        "U (Unlikely to present acute hazard); Follow",
+        "PHI on label",
+        "Triazoles",
+        "FRAC Group 3; WHO Class",
+        "II (Moderately hazardous)",
+        "FRAC Group",
+        "M3; WHO Class",
+        "U (Unlikely to; present acute hazard)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom of Downy Mildew (www.bugguide.net)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Chinese kale - Downy mildew"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Lesions caused by downy mildew (Gerald Holmes, Valent USA Corporation, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Rice yellow stem borer",
+  "sections": {
+    "Header": [
+      "Rice yellow stem borer",
+      "Scirpophaga incertulas (Walker) In Sinhala: Kaha puruk panuwa, In Tamil: Manchal Santhu Kuthi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of infected stubbles",
+        "Plough the field just after harvesting and impound water to the field",
+        "Use of short age varieties",
+        "Raise level of irrigation water periodically and keep one day to submerge the eggs deposited on the lower parts of the plant",
+        "Encourage beneficial arthropods, wasps, ants, lady bird beetles, bugs, and mites, earwigs, bird, asilid fly, vespid wasp, spiders, birds.",
+        "Apply nitrogen fertilizer in split following the recommended rate and time of application."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular observation for egg masses on the leaves, dead heart and white heads",
+        "Threshold level: 10% dead heart or 5% white heads"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Removal of egg masses",
+        "Carbosulfan 200g/l",
+        "SC. 30 ml /10 lit"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when applying pesticides",
+        "Don’t eat or drink while using pesticides and take suitable precautions when disposing of materials",
+        "Apply insecticides only when damage exceeds threshold levels",
+        "Avoid unnecessary application of pesticides",
+        "Chlorantraniliprole 20% +Thiamethoxam 20% 40WG WHO class - U Fipronil 0.3 % G. 12 kg /ha",
+        "WHO class",
+        "II (moderately hazardous)",
+        "WHO class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "White head due to stem borer damage G.D.S.N. Chandrasena, RRRDC, Bombuwela ena"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult of yellow stem borer Photo by G.D.S.N. Chandrasena, RRRDC, Bombuwela"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Dead heart due to stem borer damage Photo by G.D.S.N. Chandrasena, RRRDC, Bombuwela"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rice yellow stem borer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Groundnut rosette disease",
+  "sections": {
+    "Header": [
+      "Groundnut rosette disease",
+      "Groundnut Rosette Virus (GRV)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant rosette resistant or tolerant varieties such as 'Adepa' or 'Konkoma' released by",
+        "CSRI (Crops",
+        "Research",
+        "Institute).",
+        "Contact",
+        "CSRI to see if they are available.",
+        "In the absence of resistant varieties the following can be practiced:",
+        "Remove volunteer groundnut or leftover plants immediately after harvest and destroy in the field by burning or burying.",
+        "Intercrop groundnuts with cereals such as sorghum, millet or maize.",
+        "Practice crop rotation ever 1-2 years with such as sorghum, millet or maize.",
+        "Practice early planting and avoid wide spacing.",
+        "Plants should form uniformly dense stands as aphids often land preferentially on widely spaced plants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor young plants weekly for aphids vectors.",
+        "Examine leaf surfaces after germination particulary growing tips - aphids prefer feeding on young and soft tissue.",
+        "Look for glossy black or dark brown bodied aphids measuring about 2 mm in length on the plants.",
+        "Monitor young plants from 30-45 days after sowing for symptoms of rosette - stunted growth, chlorosis and reduced leaf sizes and leaf distortion.",
+        "Start control as soon as symptoms of the virus are observed or the presence aphids are detected.",
+        "Yellow direct control should not be delayed if susceptible cultivars or varieties are planted."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue infected plants when observed to reduce source of infection and destroy by burning in the field.",
+        "Control aphids by spraying soap solution (1 tea spoonful of dishwashing soap in 4L of water) 2-3 times at 3-4 day intervals early or late in the day.",
+        "Spray neem seed water extract (5% concentration, w/v) to control aphids just after their appearance (second and third sprays must be applied at 14 days intervals).",
+        "PHI: 24 hrs.",
+        "Position a number of sticky yellow traps or yellow sheets (A4 size) at different locations in the field to trap winged aphids."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana.",
+        "Application of chemical control may not be practiced by small scale farmers for economic reasons.",
+        "Spray imidacloprid (Confidor 200SL, Confidor 200",
+        "OD, Bastion",
+        "Extra 3G, Akape 20",
+        "SC) at 5-8ml/15L of water to control aphids and other insect vectors.",
+        "Systemic neonicotinoid, IRAC group:4A",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Apply 30 days after sowing and repeat 15 days after first application to contol population of aphids.",
+        "PHI: 24 hrs & REI 24 hrs",
+        "Spray lambda-cyhalothrin (Clear 2.5",
+        "EC, Conquer",
+        "Super 2.5",
+        "EC, Ekuapa 2.5",
+        "EC) at 50ml/15L of water to control aphids.",
+        "A quick-acting contact and stomach action pyrethroid, IRAC group: 3A",
+        "WHO class",
+        "II (moderately hazardous).",
+        "Apply 30 days after sowing and repeat 15 days after first application.",
+        "PHI: 24 hrs & REI 24 hrs"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellowing (chlorosis) and distortion of the leaves (Scottish Crop Research Institute)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Stunting of an infected plant on the right compared to a healthy plant on the left (Scottish Crop Research Institute)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Groundnut rosette disease"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Blast on Rice",
+  "sections": {
+    "Header": [
+      "Blast on Rice",
+      "Magnaporthe grisea Kolapaluwa/ Eripanthan"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing to destroy infected straw from the previous season",
+        "Change variety, when previous season’s plants were infected by disease",
+        "Use of quality seed paddy",
+        "Use of resistant variety (Bg 366, Bg 359, Bg 352)",
+        "Timely cultivation (for",
+        "Maha season mid",
+        "October and",
+        "Yala season",
+        "April)",
+        "Use proper seed rate for long grain rice:",
+        "Broadcasting - 100kg/ha",
+        "Transplanting - 50 kg/ha",
+        "Parachute - 10-12 kg/ha",
+        "Add partially burned paddy husk to the soil",
+        "Split application of nitrogen fertilizer (based on leaf colour charts)",
+        "Weed control to remove alternates host plants"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits and observation of the rice plants",
+        "Observe diamond shape lesion on the leaves",
+        "Observed infected nodes",
+        "Observe infected panicle and neck",
+        "Observe alternative host plants for symptoms",
+        "Monitor for weather conditions, such as high humidity, that favour blast development",
+        "If infection on the leaves is more than 10%, go for chemical control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Carbendazim 500g/l",
+        "WP/WG Tebuconazole 250 g/l",
+        "EW Isoprothiolane 400g/l",
+        "EC Tricyclazole 75% WP seed treatment"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Application intervals 10- 14 days; WHO Class",
+        "U (Unlikely to present acute hazard in normal use); Maximum two applications",
+        "Application intervals 7- 10 days; WHO Class",
+        "II (Moderately hazardous); Maximum two applications",
+        "Application intervals 7- 10 days; WHO Class",
+        "II; Maximum two applications",
+        "Application intervals 10- 14 days; 2-4g /kg seed; WHO Class",
+        "II; Maximum two applications"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infected node (IRRI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Lesions on the leaves (RRDI, Batalagoda)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Infected panicle (IRRI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Blast on Rice"
+      }
+    ]
+  }
+}

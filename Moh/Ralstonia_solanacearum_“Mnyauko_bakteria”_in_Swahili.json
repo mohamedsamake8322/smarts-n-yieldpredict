@@ -1,0 +1,81 @@
+{
+  "title": "Bacterial wilt disease in outdoor tomatoes",
+  "sections": {
+    "Header": [
+      "Bacterial wilt disease in outdoor tomatoes",
+      "Ralstonia solanacearum “Mnyauko bakteria” in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use varieties that have some resistance (Fortune",
+        "Maker, Kentom, Taiwan",
+        "F1).",
+        "Avoid planting in lowlands, wet areas or fields with history of bacterial wilt.",
+        "Be aware that the disease enters where the plant has been injured by cultivation, or by nematodes through roots.",
+        "It also spreads with water and seeds.",
+        "Avoid movement of tools/equipment/water from contaminated soils to non- contaminated soils.",
+        "Disinfect pruning knifes, e.g. with bleach, before working on the next plant.",
+        "Wear gloves when disinfecting or immediately wash hands with water afterwards, because bleach is toxic.",
+        "Avoid furrow and flood irrigation because this bacteria can also survive in the soil and can be spread (if furrow irrigation is needed then flow water from new to old fields to minimise spread of diseases).",
+        "Soak 50 g ground fresh lemongrass in 2 litres water over 2 hours, filter, and then preventively spray reaching good coverage of leaves and stems."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Bacterial wilt is a disease that can appear on all growth stages.",
+        "Search for sudden wilting of leaves at the ends of branches.",
+        "Two to three days later, the entire plant rapidly wilts without any prior yellowing of leaves.",
+        "Search for bases of stems that are brown (a sign of infection).",
+        "When the infected stem is cut and placed in a glass of water it produces a milky substance from the cut end after few minutes.",
+        "The milky substance is the bacteria.",
+        "When first symptoms appear on young planting, consider taking immediate action"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pull out plants with roots and surrounding soil and burn everything or bury deeply far away (at least 1 metre deep).",
+        "Carry materials through the field in a closed container such as a plastic bag to prevent the spread of the disease.",
+        "Do not re-plant tomatoes in infected fields.",
+        "Stop tomato growing for 5 seasons, and plant with non-solanaceous crops like cereals, beans, sugarcane, cabbage, okra, maize, cowpea (but not with pepper, Irish potatoes, tobacco, eggplants, nightshade)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical sprays are of little to no help because this disease survives in the soil.",
+        "Chemicals for soil treatments are very dangerous to you and to the environment.",
+        "Moreover, most of them are not allowed or will not be effective in controlling the disease.",
+        "Farmers are not allowed to buy and use",
+        "WHO toxicity class",
+        "Ia, Ib, II products without special permits (Plant",
+        "Protection",
+        "Act",
+        "Tanzania)",
+        "Antibiotics are not allowed to be used by farmers in crop production (Plant",
+        "Protection",
+        "Act of",
+        "Tanzania)",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Milky bacteria coming out of an infected stem when placed into water (Photo Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Entire plants rapidly wilt because of this bacterial wilt disease (Photo A. Massawe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown base of stem due to bacterial wilt disease (Photo UGA University of Georgia)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Bacterial wilt disease in outdoor tomatoes"
+      }
+    ]
+  }
+}

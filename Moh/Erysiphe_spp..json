@@ -1,0 +1,82 @@
+{
+  "title": "Powdery mildew on kale",
+  "sections": {
+    "Header": [
+      "Powdery mildew on kale",
+      "Erysiphe spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Do not apply",
+        "Nitrogen fertilizer late in the growing season.",
+        "Avoid overhead irrigation to reduce splashing which spreads the disease.",
+        "Do not plant kale during wet season where possible.",
+        "Observe proper spacing of 60 x 60cm for proper aeration.",
+        "Ensure fields are clean by removing residues and destroy by burning or burying at a depth of 2 feet.",
+        "Apply mulch for moisture retention and to keep weeds out."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: beans, cabbage, carrot, cashew, cowpea, cucumber, eggplant, green gram, mango, okra, papaya, peas, peppers, pigeon pea, pumpkin, sesame, tomato, watermelon, wheat, zucchini/courgette.",
+        "Look out for:",
+        "Whitish spots of fungal growth on the upper leaf surface which coalesce and spread to the entire leaves and buds.",
+        "Look for the symptoms during wet weather seasons.",
+        "Take action when 5% of plants are infected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune older leaves to reduce innoculum and increase air circulation.",
+        "Remove all infected plant parts.",
+        "Dispose by burning.",
+        "Spray with baking soda sprays @ 1 tablespoon of baking soda mixed with 21/2 tablespoon of vegetable oil and 1 tablespoon of liqiud soap in 5 litres of water.",
+        "Spray with a solution of 325 mg of",
+        "Aspirin tablets in one litre of water.",
+        "Spray with 1-2% neem oil.",
+        "Spray with azoxystrobin based chemicals e.g.",
+        "Ortiva 250",
+        "SC 20mls/20lt.It is a systemic and protectant fungicide.",
+        "For dilution rate check product label",
+        "Spray with triadimefon based products e.g.",
+        "Bayleton",
+        "WP, 40gm/20lt, Edimefon 25WP",
+        "Spray with sulphur based products e.g.",
+        "Thiovit jet",
+        "WP at80gms/20lt",
+        "Wetsulf",
+        "WP, 40-80gm/20lt, flosul plus 40-80 gms/20lt"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear protective clothing when handling pesticides",
+        "Read and carefully follow instructions on the pesticide label",
+        "WHO toxicity class",
+        "U: (Unlikely to present acute hazard in normal use); pre-harvest interval (p.h.i): 28 days; restricted re-entry interval (r.e.i.) 1 day after spray; Maximum 2 sprays per season.",
+        "Toxic to fish, predatory beneficial mites, and soil organisms such as earthworms.",
+        "Do not pour chemical into river, dams or ponds",
+        "WHO class",
+        "II (Moderately hazardous) and",
+        "PHI 14 days, MRL 2mg/kg.",
+        "Spray twice in a growing season",
+        "WHO toxicity class",
+        "III (slightly acute hazardous); pre-harvest interval p.h.i. 10 days; restricted re- entry interval r.e.i. 1 day after spray.",
+        "Max 3 sprays per season.",
+        "Follow label instruction to avoid phytotoxic effects on crop.",
+        "Keep livestock out of reach"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew on kale"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Powdery mildew symptoms (Jeff Kubina, CC By-SA)"
+      }
+    ]
+  }
+}

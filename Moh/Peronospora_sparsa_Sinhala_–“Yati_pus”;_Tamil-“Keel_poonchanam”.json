@@ -1,0 +1,88 @@
+{
+  "title": "Downy mildew on Roses",
+  "sections": {
+    "Header": [
+      "Downy mildew on Roses",
+      "Peronospora sparsa Sinhala –“Yati pus”; Tamil-“Keel poonchanam”)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Improve soil drainage",
+        "Maintain proper spacing (20 x 20 cm) between plants",
+        "Prune excess foliage but do not prune during wet weather",
+        "Avoid overhead irrigation",
+        "Do not overdose",
+        "N fertilizer",
+        "Protect plants from heavy rain (use rain shelter)",
+        "Keep the field weed free' Use synthetic mulch",
+        "Use fungicides (see yellow direct control) as a preventive measure during wet weather conditions",
+        "Symptom on a leaf. (KP.",
+        "Somachandra)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for angular tan spots near the midrib of leaflets",
+        "Leaves turn reddish yellow and drop",
+        "Burning of flower petals",
+        "Collapsing of buds and cankers on newly emerged rose canes"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove diseased and fallen leaves and burn",
+        "Remove dead or dying canes and burn",
+        "WHO Class",
+        "III – Slightly hazardous.",
+        "Dimethomorph 9%+Mancozeb 60% (WP).",
+        "Rate of dilution- 50 g/ 1 lit. of water.",
+        "Rate of application- 1600-3000 g/ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear personal protective equipment while handling pesticides.",
+        "Read the manufacturer’s instructions carefully before handling pesticides.",
+        "Do not eat, smoke or drink while spraying pesticides.",
+        "Do not repeat pesticides with same mode of action.",
+        "FRAC – Fungicide resistant action committee -Mode of action.",
+        "Chlorothalonil (500 g/L SC).",
+        "Rate of dilution- 30 ml/10 lit. of water.",
+        "Rate of application- 950-1800 ml/ha",
+        "WHO class",
+        "U.",
+        "FRAC M5- Multi site.",
+        "Toxic to predatory mites, earthworms and fish",
+        "WHO class",
+        "III.",
+        "FRAC F5-40 + M3- Multi site.",
+        "Toxic to predatory mites, parasitoids and fish and moderately toxic to flower bugs",
+        "Fluazinam (500 g/L SC).",
+        "Rate of dilution– 10 ml/10 lit. of water.",
+        "Rate of application- 320– 400 ml/ha",
+        "WHO class",
+        "III.",
+        "FRAC C5-29"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infested plant. (KP. Somachandra)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "WHO Class U – Unlikely to present acute hazard in normal use."
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damage on flowers. (KP. Somachandra)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Downy mildew on Roses"
+      }
+    ]
+  }
+}

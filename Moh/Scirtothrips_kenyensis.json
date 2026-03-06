@@ -1,0 +1,80 @@
+{
+  "title": "Thrips in Tea",
+  "sections": {
+    "Header": [
+      "Thrips in Tea",
+      "Scirtothrips kenyensis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant seedlings which are free from thrips",
+        "Control broadleaf weeds and other alternative hosts in tea farms",
+        "Prune/pluck tea regularly to increase airflow and access by insecticides",
+        "Practice field hygiene to avoid contamination between farms"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Shake leaves and/or flowers on a white piece of paper; check for thrips",
+        "Check for tiny slender cigar- shaped insects with fringed wings",
+        "Look out for silvery spots on the leaves and small brown patches of excretory droplets, typical of thrips infestation",
+        "Install yellow/blue sticky traps (10-15 traps/ha) at the crop canopy level for monitoring of thrips",
+        "Take action when 1-3 plants are infested"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove and destroy heavily infested plants by burning or placing in black bags under the sun for 1-3 days to kill thrips",
+        "Spray with insecticidal soaps or oils such as neem or canola oil at 2-4 tablespoons per 4 liters of water",
+        "Spray every week with",
+        "Beauveria bassiana",
+        "Strain",
+        "GHA (BotaniGard 22WP, Beavitech",
+        "WP, Bio-power 1.15",
+        "WP).",
+        "Apply pesticides judiciously to conserve predatory mites and pirate bugs, etc which feed on thrips",
+        "Install yellow/blue sticky traps (10-15 traps/ ha) at the crop canopy level for mass trapping of thrips"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticidel, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides (PCPB)",
+        "Spray with",
+        "Azadirachtin 1% @ 3 ml/l or 5% @ 1 ml/lts (like",
+        "Achook 0.15% EC, Fortune",
+        "AZA, Neemraj",
+        "Super, Nembecidine",
+        "EC, Ozoneem 1% EC etc)",
+        "Spray deltamethrin 2.8% EC @ 0.3 ml/L or profenofos 50% EC @ 2 ml/lts in severe infestation"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "U Green",
+        "Colour band; Product unlikely to present hazards under conditions of normal use",
+        "WHO Class",
+        "II, moderately hazardous; yellow colour band.",
+        "PHI 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Thrips in Tea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult Scirtothrips dorsalis . (Andrew Derksen, USDA- APHIS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Thrips damage (silvery appearance) on tea (Tamil Nadu Agricultural University)"
+      }
+    ]
+  }
+}

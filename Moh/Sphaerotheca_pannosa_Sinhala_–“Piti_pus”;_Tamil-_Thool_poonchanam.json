@@ -1,0 +1,87 @@
+{
+  "title": "Powdery mildew on Roses",
+  "sections": {
+    "Header": [
+      "Powdery mildew on Roses",
+      "Sphaerotheca pannosa Sinhala –“Piti pus”; Tamil- Thool poonchanam"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain proper spacing (20 x 20 cm) between plants",
+        "Avoid overhead irrigation especially in humid conditions",
+        "Expose plants to direct sunlight",
+        "Do not cultivate in shaded areas",
+        "Do not hard prune roses during the rainy season",
+        "Use fungicides (see yellow direct control) as a preventive measure during humid weather conditions"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for the following symptoms – red blister like areas in the upper leaf surface",
+        "Later these areas show white powder like growth",
+        "Misshaped leaves",
+        "Gray/black areas on matured leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect and burn infected and fallen leaves",
+        "Prune infected parts and destroy",
+        "Thiophanate",
+        "Methyl (70% WP).",
+        "Rate of dilution- 10 g/10 lit .of water.",
+        "Rate of application- 325-600 g/ha",
+        "Azoxystrobin (250 g/L SL).",
+        "Rate of dilution – 10 ml/10 lit. of water.",
+        "Rate of application – 500-600 ml/ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear personal protective equipment while handling pesticides.",
+        "Read the manufacturer’s instructions carefully before handling pesticides.",
+        "Do not eat, smoke or drink while spraying pesticides.",
+        "Do not repeat pesticides with same mode of action",
+        "WHO Class",
+        "U – Unlikely to present acute hazard in normal use",
+        "FRAC – Fungicide resistant action committee -Mode of action",
+        "WHO Class",
+        "U.",
+        "FRAC 1",
+        "B1.",
+        "Moderately harmful to predatory mites and flower bugs",
+        "Chlorothalonil (500 g/L SC).",
+        "Rate of dilution- 30 ml / 10 lit. of water.",
+        "Rate of application- 950-1800 ml/ha",
+        "WHO Class",
+        "U.",
+        "FRAC M5- Multi site.",
+        "Toxic to predatory mites, fish and earthworms",
+        "WHO Class",
+        "U.",
+        "FRAC 11-C3.",
+        "High risk for resistant development.",
+        "Toxic to fish and moderately toxic to predatory mites and parasitoids"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leaf completely coverd with the fungus (KP. Somachandra)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Severe infestation on leaves (KP. Somachandra)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Initial symptoms on rose shoot (KP. Somachandra)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Powdery mildew on Roses"
+      }
+    ]
+  }
+}

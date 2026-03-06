@@ -1,0 +1,119 @@
+{
+  "title": "Leaf miner on tomato",
+  "sections": {
+    "Header": [
+      "Leaf miner on tomato",
+      "Tuta absoluta Tomato leaf miner"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use pest-free transplants.",
+        "Inspect new seedlings carefully before they are transplanted into the field or under shelter",
+        "Seal door frames and window frames of shelters, e.g. greenhouses.",
+        "Plug any openings with insect-proof netting (with mesh less than 1.6mm)",
+        "Remove and destroy weeds that act as alternative host plants, e.g.",
+        "Datura, Solanum",
+        "Tools should be cleaned after use in infested fields",
+        "Avoid rotation with, or planting near, Solanaceous crops such as eggplants, Irish potatoes, tomatoes and capsicum, since these crops can be hosts of",
+        "Tuta absoluta .",
+        "Instead, rotate with non-host plants such as maize, beans and cabbages",
+        "Avoid staggered tomato cropping because",
+        "Tuta absoluta moths can fly from an infested crop to a previously uninfested crop"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Tuta absoluta is a small moth which mines tomato leaves as a caterpillar.",
+        "The moth is active at night and hides between leaves during the day.",
+        "Ideally, start monitoring before flowering.",
+        "Scout crops twice a week for early insect pest damage on leaves, stems and fruits, especially on the upper third of the seedling.",
+        "Look for:",
+        "Eggs on leaves and stems",
+        "Mines and droppings on leaves, stems and fruit.",
+        "Leaf mines are wide and gradually become brown and necrotic.",
+        "Fruit mines cause rotting",
+        "Exit holes on the surface of fruits",
+        "Adult moths underneath leaves.",
+        "They are silver/grey brown, thin, 5-7 mm long.",
+        "Use pheromone traps, light traps or sticky traps to detect the pest early",
+        "Use one pheromone trap for a plot of less than 3,500m 2 and two traps for larger plots.",
+        "Place traps at the same height as the crop.",
+        "Check the trap every week and count the captured adult moths.",
+        "After counting clean the traps carefully.",
+        "Ensure the pheromone does not get wet.",
+        "Consider taking action once you notice 1-3 moths in a pheromone trap per day"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested tomato plant materials and destroy by burning or burying in holes more than 50cm deep.",
+        "Do not dump infested fruits at farm edges, collection points or in markets",
+        "Destroy plant residues after harvest by burning or burying.",
+        "Apply",
+        "Neem products to the soil, upper surface of leaves or directly on larvae to kill larvae.",
+        "Where populations of tomato leaf miner are low (1-3 moths caught per week) use pheromone baited water traps to mass trap adult male moths and reduce the populations",
+        "Tomato leaf miner has a number of natural enemies that can be used for biological control, including hemiptera predators, parasitic hymenoptera (e.g.",
+        "Trichogramma spp.) and mites.",
+        "Inspect harvesting containers, field boxes or carts, packaging material and destroy or disinfect if tomato leafminer is suspected."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray in early mornings (caterpillars normally hatch during this time) and when temperatures are relatively low.",
+        "Never spray onto fruits; caterpillars are hidden inside, and sprayed fruits cannot be eaten.",
+        "When using a product, always wear protective clothing and follow the instructions on the product label",
+        "Pre",
+        "harvest intervals of pesticides in a certain crop must also be followed for the intercrop, and are sometimes even longer",
+        "Try to use chemicals with different modes of action to reduce the probability of resistance",
+        "Azadirachtin products.",
+        "IRAC group",
+        "UN.",
+        "Not classified by",
+        "WHO, but unlikely hazardous in normal use.",
+        "Not toxic to bees or earthworms.",
+        "REI ½ d after spray.",
+        "PHI – 7 days.",
+        "Abamectin (Mektin 1.8",
+        "EC, Rainabam 18",
+        "EC).",
+        "IRAC group 6",
+        "Avermectins.",
+        "Not classified by",
+        "WHO, but unlikely hazardous.",
+        "Toxic to bees and fish.",
+        "REI 1/2d.",
+        "PHI 14 d",
+        "Thiamethoxam – products (Actara 25",
+        "WG, Actara 240",
+        "SC, Efforia 45",
+        "ZC).",
+        "IRAC group 4A Neonicotinoids.",
+        "Not",
+        "Classified by",
+        "WHO but considered moderately hazardous.",
+        "REI 21 d.",
+        "PHI 5 days.",
+        "Toxic to bees."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Tomato leafminer larva. (Marja van der Straten, NVWA Plant Protection Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Tomato leafminer adult. (Marja van der Straten, NVWA Plant Protection Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf miner on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Exit holes on tomato fruits. (Peter Kodwaran, Ministry of Agriculture Livestock and Fisheries, West Pokot)"
+      }
+    ]
+  }
+}

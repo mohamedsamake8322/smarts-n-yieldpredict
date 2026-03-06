@@ -1,0 +1,55 @@
+{
+  "title": "Cowpea Weevil",
+  "sections": {
+    "Header": [
+      "Cowpea Weevil",
+      "Callosobruchus maculatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Harvest grains promptly to avoid infestation transfer into storage.",
+        "Ensure grains are cleaned and dried to a moisture level of 8-10% before storing.",
+        "Fill in cracks/holes in storage facility to reduce insect pest access.",
+        "Clean storage bags and containers before filling with crop.",
+        "Stored cowpea should not be kept on the bare floor.",
+        "Clean the storage area thoroughly and burn sweepings.",
+        "Fill in cracks/holes in storage facility to reduce insect pest access.",
+        "Clean storage bags and containers before filling with crop.",
+        "Use airtight containers for storage."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor 2-3 weeks after storage.",
+        "Adults are small brown beetles.",
+        "Larvae are small, white, C-shaped worms.",
+        "Search grains for beetles, exit holes or cream coloured eggs.",
+        "Check storage bags/containers for powder, this is created by larvae feeding on the grains.",
+        "If inspections result in 3 or more infested grains or 1 adult beetle per 2 kg sample then use direct control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove grains from storage and sun dry for at least 3 days, this will kill adults and larvae.",
+        "Mix 5 ml of groundnut oil to 1 kg of cowpea grains and store in an airtight container (short- time storage).",
+        "Add 1500 g of dried chilli to one bag of dried cowpea grains (long-time storage).",
+        "Mix seeds with non-toxic chemicals (e.g. vegetable oils).",
+        "Mix 2",
+        "L to 1 kg of seed and sun dry before storage."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult cowpea weevil (Peter Credland)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Weevil larvae (NBAIR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cowpea Weevil"
+      }
+    ]
+  }
+}

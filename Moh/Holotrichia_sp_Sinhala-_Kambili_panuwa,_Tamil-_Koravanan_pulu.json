@@ -1,0 +1,62 @@
+{
+  "title": "White grub on groundnut",
+  "sections": {
+    "Header": [
+      "White grub on groundnut",
+      "Holotrichia sp Sinhala- Kambili panuwa, Tamil- Koravanan pulu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough the field repeatedly mainly in",
+        "May-June to expose grubs to scorching sun radiation and for predation by natural enemies such as birds",
+        "Flood the fields before sowing wherever possible to reduce the grub population.",
+        "This avoid adult egg laying and kills the grubs in the soil.",
+        "Avoid keeping organic matter/ plant debris in field.",
+        "Add well decomposed organic matter to fields",
+        "Trim off shrubs and trees in and around the field",
+        "Prune adult alternate host plants after first showering, i.e. neem",
+        "Practise timely planting/sowing"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for yellowing of leaves, wilting, stunting and dying of plants",
+        "Observe large patches of wilted plants",
+        "Pull out the wilted and yellowing plants and observe the root damage (larvae damage plants by feeding on roots)",
+        "Look for abundance of adult beetles feeding on leaves of the host plants especially at night and adults fallen near the base of surrounded trees."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect and destroy adult beetles by using light traps in peak periods (October- November).",
+        "Collect and destroy the adults fallen near the base of the surrounded trees.",
+        "Keep fresh neem twigs at several places in the field in evenings to collect and destroy beetles.",
+        "Collect and destroy larvae during weeding."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No chemicals recommended"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult beetle. http:// www.vsisugar.com"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "White grubs in soil. S.R.Kanna, RARDC, Kilinochchi"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damage by white grub in brinjal. S.R.Kanna, RARDC, Kilinochchi"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "White grub on groundnut"
+      }
+    ]
+  }
+}

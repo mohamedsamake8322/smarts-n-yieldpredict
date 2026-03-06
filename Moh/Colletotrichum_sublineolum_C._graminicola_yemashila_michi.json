@@ -1,0 +1,55 @@
+{
+  "title": "Anthracnose of sorghum - Ethiopia",
+  "sections": {
+    "Header": [
+      "Anthracnose of sorghum - Ethiopia",
+      "Colletotrichum sublineolum (C. graminicola) yemashila michi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Resistant hybrids may be available, information is available from research centres and suppliers.",
+        "Use certified or clean seed from disease-free plants; this is important as this disease can be transmitted by the seeds.",
+        "Remove other susceptable host plants such as grasses which may harbour the disease.",
+        "Burn plant residues after harvesting and immediately deep plough the field as the fungus can survive on crop residues.",
+        "Rotate sorghum on a 2 year basis with crops other than cereals such as chickpeas or beans.",
+        "In poorly rotated fields, plough under infested residues where soil erosion is not a problem."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the crop from the seedling stage to maturity weekly for signs of disease on the leaves, stalks and the seed panicles.",
+        "Look for small circular red/orange lesions with distinct margins on the upper portion of the stalks, leaves and seeds.",
+        "The lesions can measure 2mm-2cm and can contain dark brown fungal structures.",
+        "Brown sunken areas can also appear on the stems.",
+        "When the first symptoms of the disease are seen, take direct action and remove infected plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and dispose of infected plants at the earliest stage possible by burning or burying."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no registered fungicides for management of this disease in",
+        "Ethiopia.",
+        "Chemical control is not economical for small holder farmers."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Anthracnose lesions on a sorghum leaf (Ute Liane Rosewich)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose of sorghum - Ethiopia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Dark coloured lesions on the stem (Ute Liane Rosewich)"
+      }
+    ]
+  }
+}

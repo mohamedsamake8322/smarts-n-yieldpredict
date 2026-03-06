@@ -1,0 +1,65 @@
+{
+  "title": "Colorado potato beetle on potato",
+  "sections": {
+    "Header": [
+      "Colorado potato beetle on potato",
+      "Leptinotarsa decemlineata"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotating with cereals for 2-3 years",
+        "Colleting the crop residue after harvesting and remove from the field",
+        "Collecting the weeds at the end of the season to make sure the beetle does not live on other plants during the dormant period",
+        "Deep tillage after harvesting",
+        "Irrigating in winter and stand the water for many days to cool the field",
+        "Grow a thick cereal crop like wheat for example in the fields that were infested",
+        "Early variety should be sown"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should be started in",
+        "May.",
+        "Monitoring can be done once a week",
+        "Monitoring is done on the upper and down sides of the leaf, because adult and larva live on the upper side of the leaf and eggs are laid on down side of the leaf",
+        "A number of 20-30 eggs are laid on down side of the leaf",
+        "Control should be started when 10-15 larvae seen on one plant"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collecting of adults by hand.",
+        "Destroying of eggs which are laid on down side of the leaf.",
+        "Do not kill beneficial lady bird beetles as they often control potato",
+        "Colorado beetle eggs and larvae",
+        "Using of imidacloprid (Confidor) 1-2 ml per litre of water",
+        "Using of",
+        "Deltamethrin 2 ml per litre of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when spraying to protect your eyes, mouth and skin",
+        "Buy chemicals from a certified dealer and keep them out of the reach of children",
+        "Do not eat, drink or smoke during the spray",
+        "WHO Class ll - moderately hazardous.",
+        "Pesticide should be used on larval stage",
+        "WHO Class ll - moderately hazardous.",
+        "Pesticide should be used on larval stage.",
+        "Spray the pesticide two times with an interval of 15 days.",
+        "Use alternate pesticide after use of one pesticide to minimise possible resistance"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Colorado potato beetle (C. Trouvé/SRPV, Loos-en- Gohelle)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Colorado potato beetle on potato"
+      }
+    ]
+  }
+}

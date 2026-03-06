@@ -1,0 +1,52 @@
+{
+  "title": "Bacterial Leaf Streak on Rice",
+  "sections": {
+    "Header": [
+      "Bacterial Leaf Streak on Rice",
+      "Xanthomonas oryzae pv. oryzicola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use hot water treated seeds.",
+        "Increase plant spacing (25x25 cm) (depending on variety and soil to increase aeration and reduce humidity).",
+        "Field sanitation such as removing weed hosts, rice straws, ratoons, and volunteer seedlings is important to avoid infection caused by this disease.",
+        "Draining the field during severe flooding.",
+        "Apply fertilizer in balance ratio (avoid overdosing nitrogen).",
+        "Plough stalk after harvesting to minimize the initial inoculum at the beginning of the season."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scouting 3 times per week especially when the weather is cold.",
+        "Look for narrow, dark-greenish water-soaked interveinal streaks on inter-veins from tillering to booting stage.",
+        "Under humid conditions, yellow droplets of bacterial ooze, which contain masses of bacterial cells"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plants and burn or use for composting.",
+        "When yield is affected, a copper- based fungicide applied at heading stage can be effective in controlling the disease."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical control for bacterial diseases on rice."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom caused by Bacterial Leaf Streak (www.bugguide.net)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Leaf Streak on Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Droplets of bacterial exudate on young lesions (T.W. Mew, IRRI, Bugwood.org)"
+      }
+    ]
+  }
+}

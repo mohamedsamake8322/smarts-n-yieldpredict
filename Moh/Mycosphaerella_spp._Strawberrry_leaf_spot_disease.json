@@ -1,0 +1,111 @@
+{
+  "title": "Leaf spot of strawberry",
+  "sections": {
+    "Header": [
+      "Leaf spot of strawberry",
+      "Mycosphaerella spp. Strawberrry leaf spot disease"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties such as",
+        "Canoga, Cardinal, Delite, Earliglow or",
+        "Honeoye from",
+        "Simlaws and",
+        "Kenya",
+        "Seed",
+        "Company.",
+        "Practice mulching to control weeds.",
+        "Spacing of 3-4 feet apart between rows to increase aeration within the crops.",
+        "Prune off the affected leafy vegetation and weed to remove host plants within the farm."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for round, purple spots on upper leaf surfaces.",
+        "Look out for the center of the spot as it becomes tan or grey, then almost white with a purple border at advanced stages.",
+        "Consider direct control actions when 2 to 3 leaves have leaf spots with grey to white mycilial growth in a single plant."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot and burn infected plants in the field when the first symptoms are seen to reduce the spread of disease to healthy plants.",
+        "Avoid overwatering of the plants by overhead irrigation, instead adopt overhead irrigation.",
+        "Clean your tools thoroughly with jik solution (3 to 5 ml in 1 litre of water if you have used them on infected plants).",
+        "Water early in the morning or after sunset, and try to keep the water on the soil, not the leaves.",
+        "Spray the plants by using",
+        "Trianum-P ( Trichoderma harzianum ) at a rate of 15 g in 5",
+        "L or",
+        "Trichotech ( Trichoderma asperellum ) at a rate of 2.5 g in 20",
+        "L of water."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "RANSOM 600WP(Carbendazim 570 g/kg +Triademifon 30 g/kg) 15 g/20",
+        "L (0.6-0.75",
+        "Kg/Ha 1000",
+        "L of water/Ha (12-15 g/20",
+        "L water).",
+        "JUPITER 125SC (flutriafol 125 g/ L) 15 ml/20",
+        "L Foliar spray 0.75-1.25",
+        "L/Ha in 1000",
+        "L of water.",
+        "Apply copper based fungicide such as",
+        "Vitra 40 wg, Champflo at 50 g/20",
+        "L of water.",
+        "Start spraying when you notice leaf spots on the leaves.",
+        "Spray",
+        "Mancozeb such as",
+        "Oshothane, Fantic, Dithane at the rate of 50 ml/20",
+        "L of water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "REI: 12hrs.",
+        "PHI:14 days.",
+        "Start application at onset of disease development ensuring full foliage coverage for excellent control.",
+        "Repeat application every 7-14 days.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "REI: 12 hrs.",
+        "PHI: 7 days.",
+        "Apply at the onset of disease development, repeat application every 10 days.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "PHI: 7 days intervals.",
+        "REI: 24 hrs.",
+        "Repeat every 7-10 days for as long as needed.",
+        "WHO Class",
+        "U (Unlikely to cause acute harm).",
+        "PHI: 7 days intervals.",
+        "REI: 24 hrs.",
+        "Spray",
+        "Oshothane every 7 days and alternate with",
+        "Dithane",
+        "M45 to prevent development of resistance."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Round purple spots on upper leaf surfaces (William Jacobi, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Center of the spot as it becomes tan or gray (Cesar Calderon, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf spot of strawberry"
+      }
+    ]
+  }
+}

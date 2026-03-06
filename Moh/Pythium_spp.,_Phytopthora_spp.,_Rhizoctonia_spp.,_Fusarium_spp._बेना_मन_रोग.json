@@ -1,0 +1,64 @@
+{
+  "title": "Damping-off in Nurseries - Nepal",
+  "sections": {
+    "Header": [
+      "Damping-off in Nurseries - Nepal",
+      "Pythium spp., Phytopthora spp., Rhizoctonia spp., Fusarium spp. बेना मन रोग"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select a nursery bed in a sunny area with good aeration.",
+        "Keep soil dry and avoid poor drainage and compacted soil for nursery.",
+        "Solarise nursery bed with 250-300 gauge white plastic for 25 days prior to sowing seed.",
+        "Monitor temperature to ensure solarisation is effective.",
+        "Maintain raised bed of 15 cm.",
+        "Maintain proper spacing i.e., 10 x 2 cm for tomatoes or cucumbers.",
+        "Avoid the use of excess nitrogenous fertilizer.",
+        "Reduce the watering regime so the plants are mosty very dry. #REF!"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the nursery for water- soaked lesions or constricted crown on plants at soil-line, or toppled plants.",
+        "Seedlings may be killed by damping-off as soon as they emerge so look out for dead seed shoots at soil level.",
+        "Once seedlings have grown on they are no longer susceptible to damping off.",
+        "Keep soil as dry as possible without affecting seedling development. #REF!"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply copper oxychloride 50% WP covering seedling and soil surface."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "When handling dressed seed or using agro chemicals ensure your are protected by wearing appropriate protection (gloves, mask, overalls).",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Copper oxychloride:",
+        "WHO class",
+        "II.",
+        "Use",
+        "PPE while using fungicides.",
+        "Avoid inhalation of dusts when treating seeds."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damping-off of cucumber seedlings caused by Pythium sp. (Photo: G.N. Agrios, Plant Pathology, Fifth edition, Academic Press)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damping-off of tomato due to Rhizoctonia solani (Photo: Ram Devi Timila, Plant Pathology Division, Nepal)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damping-off in Nurseries - Nepal"
+      }
+    ]
+  }
+}

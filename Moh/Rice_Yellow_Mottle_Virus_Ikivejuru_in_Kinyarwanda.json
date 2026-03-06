@@ -1,0 +1,56 @@
+{
+  "title": "Rice Yellow Mottle Virus (RYMV)",
+  "sections": {
+    "Header": [
+      "Rice Yellow Mottle Virus (RYMV)",
+      "Rice Yellow Mottle Virus Ikivejuru in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties such as",
+        "Rumbuka, Mpembuke, Nemeyubutaka, Ndamirabahinzi, etc.",
+        "Establish nursery in",
+        "RYMV-free location",
+        "Weed the field in order to remove alternative hosts",
+        "Surround the plot with water to prevent rodents moving through the crop to avoid the spead of the disease",
+        "Plant the seedling at spacing of 20cm between both rows and seedlings to reduce contact between plants",
+        "Avoid movement of animals (cow, goats, etc.) in the field"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for",
+        "RYMV symptoms starting at nursery stage",
+        "Observe for yellowish streaking of leaves and stunted plants",
+        "Initiate control when you notice one infected plant"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn infected plants just when one plant is infected",
+        "Avoid exchange of farming materials like hoe, panga, etc. in order to reduce the spread of virus",
+        "Burn after harvesting infected rice straws"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical to control viruses."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Yellow streaks on the leaf (Photo source: Innocent N.)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice Yellow Mottle Virus (RYMV)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Rice affected by RYMV (Photo source: Germain Nkima)"
+      }
+    ]
+  }
+}

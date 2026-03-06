@@ -1,0 +1,69 @@
+{
+  "title": "Budworm on Colour pepper - China",
+  "sections": {
+    "Header": [
+      "Budworm on Colour pepper - China",
+      "Helicoverpa assulta Guenee"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough the field in autumn to destroy pupas and decrease overwintering pupas.",
+        "Enhance field management and prune in time to reduce egg masses.",
+        "Set up insect nets at the gate and vent of protected areas (i.e. green houses)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the dynamics of budworm moths using",
+        "Jiaduo automatic pest forecast light trap; the monitoring should be started from",
+        "April on wards and moths are collected every 5 days.",
+        "Use sex pheromone traps to monitor the dynamics of budworm moths (from 10th",
+        "April to",
+        "August).",
+        "Monitoring based on 5 sampling points method should be carried out every 5 days during colour pepper growing season; 10 pepper plants to be examined.",
+        "Once egg masses are found, direct control should be carried out."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Light traps: high-pressure mercury lamp set up during adult stage (1 lamp/mu).",
+        "Alamo branch traps:",
+        "Alamo branches can attract adult budworms, collect and kill the adults at early morning (before sunrise).",
+        "Handpick fruits that have been attacked by budworms, reducing pest population.",
+        "Biological control: release",
+        "Trichogramma in the field every 15 days; 8000-10000",
+        "Trichogramma per mu (6-8 release sites)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems.",
+        "Rotational application of pesticides to avoid resistance.",
+        "Use",
+        "PPEs while using chemical pesticides.",
+        "Chlorbenzuron",
+        "No available",
+        "WHO classification, Apply before the second instar stage, Cannot be mixed with alkaline substance, Maximum two sprays per growing season",
+        "Emamectin benzoate",
+        "WHO Class",
+        "II (moderately hazardous), Acute toxicity and",
+        "PAN bad actor chemical, Maximum two sprays per growing season."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Larve budworm (Source: Yanqing PPS)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage on fruit (Source: Yanqing PPS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Budworm on Colour pepper - China"
+      }
+    ]
+  }
+}

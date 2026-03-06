@@ -1,0 +1,90 @@
+{
+  "title": "Wheat Rusts - Nepal",
+  "sections": {
+    "Header": [
+      "Wheat Rusts - Nepal",
+      "Puccinia striiformis (stripe/yellow rust), P. recondita (leaf/brown rust), P. graminis (stem/black rust) ग ᱟँमा ला Შे िस ᭠दुरे रोगह ᱧ"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties; Stripe rust:",
+        "Pasanglhamu, WK1204, Dhaulagiri, Danphe, Gautam, Tilottama; Leaf rust:",
+        "BL1473, Bhrikuti, Achyut, NL971, Aditya, Gautam, Bijaya, Gaura, Bhrikuti, Dhanphe, Tilottama; Stem rust:",
+        "Dhaulagiri, Danphe, Bijaya, Tilottama, Gaura",
+        "Grow several varieties with different resistant genes to rust pathogens.",
+        "Practice early planting.",
+        "In mid-hills: before",
+        "Kartik 15 (before",
+        "November).",
+        "In valleys: before first week of",
+        "Mangsir (mid-November).",
+        "Avoid dense planting, and follow line sowing.",
+        "Plant disease-free, certified seeds.",
+        "Apply crop rotation with non-ceral crops.",
+        "Use recommended dose of chemical fertilizers (100:60:40",
+        "NPK kg per hectare).",
+        "Remove self-grown, volunteer wheat plants around the field.",
+        "Remove barberry plants nearby wheat fields, if possible.",
+        "Yellow rust (Photo:",
+        "S.",
+        "Baidya)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the plants regularly from seedling stage, at least weekly.",
+        "Yellow rust:",
+        "The appearance of yellow streaks (pre-pustules), followed by small, bright yellow, elongated uredial pustules arranged in conspicuous rows on the leaves, leaf sheaths and glumes.",
+        "Leaf rust:",
+        "Circular or oval, orange pustules on the upper surface of infected leaves.",
+        "Pustules are more scattered and larger in size compared to yellow rust.",
+        "Black rust:",
+        "Uredinia are orange to dark red in colour and form on both surfaces of leaves.",
+        "They are elliptical to elongate and are larger than those of leaf and yellow rusts."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray propiconazole 25% EC @ 1ml/ L water.",
+        "Spray",
+        "Kresoxim- methyl 44.3% SC 1ml/L water.",
+        "Spray",
+        "Mancozeb 75% WP 2g/L water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "WHO class",
+        "III (slightly hazardous).",
+        "PHI 25 days.",
+        "WHO class",
+        "U (unlikely to have acute toxicity with normal use)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Always consult the most recent list of registered pesticides (PCPB)."
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Brown rust (Photo: S. Baidya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wheat Rusts - Nepal"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Black rust on wheat. (Photo: Yue Jin, ARS, USDA)"
+      }
+    ]
+  }
+}

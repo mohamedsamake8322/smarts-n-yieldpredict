@@ -1,0 +1,67 @@
+{
+  "title": "Fruit fly on mango",
+  "sections": {
+    "Header": [
+      "Fruit fly on mango",
+      "Bactrocera sp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove fruits as they ripen",
+        "Mow or shred ground fruit to kill the larvae or expose them to other predators",
+        "Harvest at early ripening stage",
+        "Remove unwanted and unmanaged fruit trees to reduce the source of breeding sites for fruit fly",
+        "Pick up and dispose of fallen fruits by deep burying (cover the fruits in a pit with at least 30 cm of soil)",
+        "Remove late hanging fruits missed during harvest",
+        "Create awareness about the problem by informing other growers"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use traps and lures to detect presence and severity of fruit fly infestation",
+        "Inspect trees for presences of fruit fly",
+        "Collect any missed and fallen fruit and inspect them for presence of larvae",
+        "Look for small (pin head size) brown/black patches on the fruit - appear around the place of oviposition and the infested fruits start rotting check out for “crying” fruits (fluids oozing out of wounds) on the tree"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Traps are not a management strategy for fruit flies but give an indication of infestation.",
+        "Instead use baits or lure if fruits flies have been observed",
+        "Bait mixture is prepared using an attractant (molasses, alcohol and jackfruit) source) and an insecticide (Malathion) are effective.",
+        "Encourage fellow mango farmers to use the baited lures to avoid their orchards acting as breeding grounds for fruit fly",
+        "To check the carry-over of the pest, collect and destroy all fallen and attacked fruits."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Consult your extension worker/Agro",
+        "input daelers and always read the label for direction on pesticide use use",
+        "Always wear protective gear (overalls, gumboots, goggles, caps, gloves and face masks) when handling chemicals",
+        "Organically acceptable fruit fly bait containing a food attractant and the insecticide",
+        "Spinosad",
+        "WHO Class",
+        "III; Slightly hazardous",
+        "Using bait sprays – with",
+        "Malathion",
+        "WHO Class",
+        "III; Slightly hazardous"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit fly on mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Fruit fly on mango (Photo: Idd Ramathani)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Fruit fly damage (Photo: Tumwine james)"
+      }
+    ]
+  }
+}

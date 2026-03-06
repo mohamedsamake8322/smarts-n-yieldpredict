@@ -1,0 +1,73 @@
+{
+  "title": "Leaf miner on tomato - Kenya",
+  "sections": {
+    "Header": [
+      "Leaf miner on tomato - Kenya",
+      "Liriomyza trifolii"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Practice crop rotation with non-host plants such as maize, sorghum or millet",
+        "Conserve natural enemies such as parasitic wasps and ladybird beetles by providing hedge rows of flowering plants around the farm",
+        "Remove plant debris so that they are not a reservoir of the pest",
+        "Plant",
+        "Tephrosia hedge round the farm to repel leaf miners from the crop",
+        "Apply mulch on the ground to prevent pupae getting to the soil for further development"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for small yellow and black flies hovering around the crop",
+        "Use yellow sticky traps to trap adults",
+        "Check on seedlings in the nursery for tunnels and oviposition marks before transplanting in the field",
+        "Look for white puncture marks, shivelling , yellowing and tunnels or irregular mines on leaves caused by adult laying eggs on the leaves",
+        "Start direct control when high infestation of over 30% of leaf surface is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot the affected seedling in nursery, pluck the affected leaves and bury 1m deep or burn",
+        "Use a yellow basin half filled with water/ yellow sticky trap to attract and kill adult leaf miners",
+        "Spray neem based biopesticides ( Azadirachtin eg",
+        "Neemark",
+        "EC, Neemaj",
+        "Super -3000 and",
+        "Neemroc",
+        "EC) at the recommended rates"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray early morning or late evening to avoid harming bees",
+        "Read and follow instructions on the label",
+        "Dispose properly to avoid aquatic contamination",
+        "Spray bifenthrin at a rate of 5ml in 20 litres of water.",
+        "Non- systemic with contact stomach action.",
+        "Pyrethroid; IRAC 3A WHO class",
+        "II (Moderately hazardous).",
+        "PHI 3 days.",
+        "MRL-0.2",
+        "Drench with imidacloprid ()at the recommended rates.",
+        "Neonicotinoid, IRAC 4A.",
+        "Systemic insecticide with translaminar activity and with contact and stomach action",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf miner on tomato - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf with leaf miner (A.M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Leaf miner adult (Central Science Laboratory, Harpenden Archive, British Crown, Bugwood.org)"
+      }
+    ]
+  }
+}

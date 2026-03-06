@@ -1,0 +1,67 @@
+{
+  "title": "Mealybug in Paddy",
+  "sections": {
+    "Header": [
+      "Mealybug in Paddy",
+      "Brevennia rehi Maavu Poochchi or Soorai"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Early transplanting to reduce mealybug pressure.",
+        "Remove grassy weeds which can harbor this insect.",
+        "Application of raw coir pith, raw sugarcane trash and farmyard manure to reduce infestations.",
+        "Destroy ant colonies as ants are commonly found with mealybugs.",
+        "Conserve natural enemies like small encyrtid wasps, ladybird beetles, hover flies, Chrysoperla and spiders by avoiding broad-spectrum pesticides.",
+        "Ponding of irrigation water at 5 cm depth throughout the growing period."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor crops on a weekly basis during growing period.",
+        "Symtpoms include stunted growth, yellowing and curling of leaves.",
+        "Continuous monitoring in upland rice and rainfed cultivation.",
+        "Initial occurance at tender shoot of crop.",
+        "Mealybugs feed by sucking the sap from tender shoots.",
+        "Consider direct control actions as soon as pests are found."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Removal and destruction of affected plants.",
+        "Spraying of 1% Azadiractin at a rate of 400 ml per acre.",
+        "Spraying of fish oil resin soap (25 g per litre)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Avoid resurgence pesticides.",
+        "Always wear protective clothing when handling chemicals, follow product label instructions.",
+        "Sparaying of",
+        "Buprofezin 25% SC (e.g., trade name:",
+        "Applaud, Flotis, Blunt) at a rate of 300 ml/acre.",
+        "WHO Class",
+        "III (slightly hazardous).",
+        "Sparaying of",
+        "Thiamethoxam 25% WG (e.g., trade name:",
+        "Tafgor, Rogor, Rogorin) at a rate of 50 g/acre.",
+        "WHO Class",
+        "II (moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult mealybug (Raymond Gill, California Department of Food and Agriculture, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Mealybug nympth (Raymond Gill, California Department of Food and Agriculture, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mealybug in Paddy"
+      }
+    ]
+  }
+}

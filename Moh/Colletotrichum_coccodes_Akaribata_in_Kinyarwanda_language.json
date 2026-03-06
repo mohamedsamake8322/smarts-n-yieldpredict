@@ -1,0 +1,104 @@
+{
+  "title": "Anthracnose in tomato",
+  "sections": {
+    "Header": [
+      "Anthracnose in tomato",
+      "Colletotrichum coccodes Akaribata in Kinyarwanda language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Anthracnose is a fungal disease that reproduces by spores spread by wind, water, infested plants and tools.",
+        "Select site without previous infection.",
+        "Remove all crop residues for previous crops and neighbouring farms from tomato, egg plants, potato and peppers.",
+        "But do not remove debris and residues if no major pest problem is in the field, to improve soil.",
+        "Only plant seedlings that are disease free.",
+        "Avoid excess of too much water in the field for reducing transmission of disease.",
+        "Select well the site on well drained land.",
+        "Use resistant varieties, e.g",
+        "Advanta",
+        "F1 found in",
+        "Agrotech shop.",
+        "Stake the tomatoes and do a bit pruning of plants to keep them high and dry with plenty of air.",
+        "Mulch tomatoes to prevent the fruits from coming into contact with soil.",
+        "Weed regularly and avoid overhead irrigation to reduce period of wetness on tomato fruit.",
+        "Harvest fruits promptly since anthracnose develops more readily as the fruit ages and to reduce spread of the disease.",
+        "Crop rotation (with three years breaks) because anthracnose can be a soil borne diseases.",
+        "Rotate with for example maize, cassava."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "When to look:",
+        "Look for",
+        "Anthracnose at seedling stage, vegetative stage and fruiting stage.",
+        "Once a week.",
+        "Increase inspection during wet season to twice a week.",
+        "Where to look:",
+        "Look on the leaves, on the stem and on the fruits.",
+        "What to look for:",
+        "Foliar symptoms are circular brown lesion surrounding by yellow halo.",
+        "Dark blotches on stem.",
+        "Some roots can be split to search for brown and decayed internal tissue with many small black dots below the surface of the roots.",
+        "Water soaked circular spots on the fruit.",
+        "When to act:",
+        "To act if 2-4 plants over 10 sampled plants are affected (if the leaves show circular brown lesion surrounding by yellow halo).",
+        "The action is too late when plant complete fruiting."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all plants affected and burn.",
+        "Carbendazim.",
+        "Usually at 2ml x 20l of water, but double check label.",
+        "Spray max 3 times a season.",
+        "Mancozeb, such as 80% products.",
+        "Foliar application."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "The farmers must use the",
+        "PPE during the spraying.",
+        "The farmers can be updated on the list of pesticides at",
+        "RAB stations at least every year.",
+        "Follow the instruction on the product label.",
+        "Infected plants cannot be cured by fungicides.",
+        "Foliar sprays of protective fungicides may help a bit to prevent infection of healthy plants.",
+        "WHO toxicity class",
+        "U (Unlikely acute hazardous to humans).",
+        "PHI : 5 days.",
+        "REI : 1 day.",
+        "Copper oxychloride.",
+        "Usually at 40gr/20",
+        "L of water, but double check label.",
+        "Max 3 times a season.",
+        "Spray earlier morning or late of the day.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous to humans).",
+        "Toxicity to earthworms and fish: avoid spraying near water bodies.",
+        "PHI : 14 days.",
+        "REI : 12 hours.",
+        "WHO toxicity class",
+        "U (Unlikely acute hazardous to humans).",
+        "PHI =5days",
+        "Tebuconazole.",
+        "Foliar, systemic.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous to humans).",
+        "PHI : 5days.",
+        "REI :12 hours"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Anthrahnose fruit rot on ripe tomato fruit (Clemson University - USDA Cooperative Extension Slide Series , Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose in tomato"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Green Pea Aphid",
+  "sections": {
+    "Header": [
+      "Green Pea Aphid",
+      "Acyrthosiphon pisum Local Name: Matar ka Sust Taila"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Harvest nearby alfalfa, vetch or clover before winged adults are formed in the spring as pea aphids overwinter as eggs on leaves and stems of perennial legumes.",
+        "Liberal nitrogen applications increase aphid populations.",
+        "Avoid excessive use of nitrogen fertlizers, i.e. not more than 20-25 kg.",
+        "Among abiotic factors, rain and wind can dramatically reduce aphid infestations.",
+        "Promote natural enemies presence such as lady beetles, big-eyed bugs, damsel bugs, minute pirate bugs and syrphid flies by reducing pesticide applications and providing natural habitat to the predators."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring when plants begin to flower.",
+        "Action threshold includes (plant height to pea aphids); Under 10\"- 40 to 50 aphids per stem; 10 to 20\" - 70 to 80 aphids per stem ; over 20\" 100 + aphids per stem.",
+        "Stem samples give useful estimates of aphid density.",
+        "Pea aphids are common in spring, but also active in autumn and winter.",
+        "To check the population dynamics, place yellow containers full of water near peas.",
+        "They may also attract and trap the pea aphids before they can harm the plants.",
+        "Infestations during bloom and early pod stages will reduce yield and crop quality by impairing pod appearance, reducing seed fill and by the presence of aphid honey- dew."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rake up all fallen plant material after harvest to prevent aphids from overwintering in your field.",
+        "Thiamethoxam + Lambda",
+        "Cyhalothrin (Acrid 22% SC (12.6%+ 9.4%) @ 100 ml/acre"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear impermeable gloves, long pants and long-sleeve shirts whilst spraying.",
+        "Change clothes and wash your hands immediately after applying pesticides.",
+        "Don't spray outdoors on windy or rainy days.",
+        "Treat plants with appropriate insecticides e.g. lambda- cyhalothrin (2.5",
+        "EC) @ 300 to 350 ml per acre",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Chlorpyrifos (40",
+        "EC) @ 400 to 500ml per acre or",
+        "Acetamiprid (e.g.",
+        "Mospilan 20SP @ 125 g/100 litre water/acre",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Spray the orchards with",
+        "Deltamethrin + dimethoate (Decis-D 12.5 +300",
+        "EC) @ 40 ml/ 100 lit. of water",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Max 2 applications in the season.",
+        "PHI 14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Toxic to bees and other non-target arthropods but less problematic to aquatic and soil organisms.",
+        "Spray the orchards with",
+        "Bifenthrin -based products.",
+        "Usually at 100 ml/ 100 lit. water, but check label.",
+        "Pyrethroid with contact action.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Max 2 applications in the season; PHI 7-14 days.",
+        "Non-toxic to birds but toxic to soil and water organisms.",
+        "WHO Class",
+        "II (Moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Colony of pea aphids (Whitney Cranshaw, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Green Pea Aphid"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pea aphid damage (Bruce Bosley, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Pea aphid female adult with young (Joseph Berger, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Crown rot of groundnut",
+  "sections": {
+    "Header": [
+      "Crown rot of groundnut",
+      "Aspergillus niger Collar rot of Groundnut, Aspergillus crown rot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant high quality seeds",
+        "Use",
+        "Trichoderma viride / T. harizanum to treat seeds at 4g/kg of seed and soil application at 25-62.5kg/ha",
+        "Use organic fertilizers, such as alfalfa, castor cake, neem cake or mustard cake, at 500 kg/ha.",
+        "Neem cake also has anti-fungal properties",
+        "Maintain adequate and uniform soil moisture during seedling stage as fluctuations in soil moisture can aggravate the disease.",
+        "Control root and stem boring insects whose feeding damage can also aggravate the disease",
+        "Do not plant near vegetables which show symptoms of",
+        "Aspergillus (e.g. tomatoes, grapes, onions, mangoes, garlic, maize, banana, cotton) - the host range is very large",
+        "Control numbers of root and stem boring insects (e.g. lesser corn stalk borer), since feeding damage caused can encourage the development of crown rot",
+        "Minimise damage caused to seedlings by minimising the use of pesticides and the amount of soil thrown against plants during cultivation"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Crown rot is a fungus which is found in the soil and lives on dead and decaying vegetation and leaves, compost piles and stored grain.",
+        "It is spread via air, soil and water.",
+        "Monitor carefully for crown rot of germinating seedlings (damping off) at temperatures greater than 30°C Infected areas of seedlings become watersoaked then light brown, and eventually are covered with black sporulating structures (fungus).",
+        "Seedlings rapidly collapse and die",
+        "In moist soils, seeds may die due to rotting and when removed from soil, they show a black sooty cover",
+        "Mature plants show permanent wilt of branches, and/ or wilting of entire plant.",
+        "If dead and dried branches are pulled they will easily detach from the collar region",
+        "Root curling and deformation of upper plant parts",
+        "Pods have patches of black sooty spores"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove the previous season's infected crop residues from the field and destroy to reduce source of infection"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Post emergence damping-off at different stages by A. niger (Courtesy EcoPort (http:// www.ecoport.org): Jürgen Kranz)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Deformed hypocotyl by A. niger (Courtesy EcoPort (http:// www.ecoport.org): Jürgen Kranz)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Crown rot of groundnut"
+      }
+    ]
+  }
+}

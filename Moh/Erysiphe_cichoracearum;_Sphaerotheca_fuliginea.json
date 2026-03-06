@@ -1,0 +1,80 @@
+{
+  "title": "Powdery mildew of watermelon",
+  "sections": {
+    "Header": [
+      "Powdery mildew of watermelon",
+      "Erysiphe cichoracearum; Sphaerotheca fuliginea"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Provide good air circulation through increased crop spacing, weeding and thinning crowded plants.",
+        "Avoid low-lying, shaded areas prone to heavy fogs and dews.",
+        "Irrigate in mid-morning, so plants dry rapidly, to reduce the likelihood of infections.",
+        "Practice crop rotation with maize, common beans and \"njahi\".",
+        "Avoid intercropping with susceptible crops such as cucumber or pumpkin."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for :",
+        "Pale white spots on leaves, stems and petioles, which later enlarge to form white powdery appearance.",
+        "White powdery colonies on either side of leaf.",
+        "Older leaves are affected first.",
+        "Watch closely for signs of powdery mildew as new shoots begin to develop on perennial plants.",
+        "Spray when 1 colony is found in 45 scouted leaves.",
+        "Other crops affected: cucumber, pumpkin, courgettes, eggplants, tomatoes, kale."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Collect and dispose of any fallen leaves by burning (never use diseased plant materials for composting).",
+        "Reduce disease spread through overhead irrigation as it washes spores off the plant which dies on landing in water.",
+        "Apply",
+        "Bacillus subtilis",
+        "BS-01x10 to power 10 cfu/ml (Real",
+        "Bacillus subtilis), before disease onset and repeat fortnightly until mid harvesting time.",
+        "Spray using baking powder solution at 1 teaspoon in 1L water."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when handling insecticides",
+        "Follow product label instructions",
+        "Ensure proper spray coverage of flowers and foliage",
+        "Alternate fungicides with different modes of action to prevent pathogen populations from developing resistance",
+        "Spray",
+        "Bupirimate 250EC (e.g",
+        "Trustmate 250EC, 40-60ml per 20L of water. 2-3Lper hectare; 7-14 days after disease onset), fortnightly.",
+        "Spray",
+        "Sulphur 80% w/w at 30g/10ltrs water, e.g.",
+        "Thiovit",
+        "Jet, Cosavet",
+        "DF, Flosul",
+        "Plus, Wetsulf",
+        "WP; FRAC code",
+        "M2.",
+        "Apply fortnightly after disease onset until mid harvesting time."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous), PHI 0, REI 12 hours",
+        "WHO Class",
+        "III (Slightly hazardous); Apply fornightly after disease sets in"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew of watermelon"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pale white spots on leaves (Source: www.maine.gov.dacf)"
+      }
+    ]
+  }
+}

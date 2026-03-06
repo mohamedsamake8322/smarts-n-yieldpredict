@@ -1,0 +1,77 @@
+{
+  "title": "Bengal wandering jew in maize",
+  "sections": {
+    "Header": [
+      "Bengal wandering jew in maize",
+      "Commelina benghalensis Khovani"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Early land preparation that includes clearing and burying/burning of weed remnants",
+        "Intercropping with legumes for complete ground cover to suppress the weeds.",
+        "Plant maize at 90 x 90cm, 3 plants per hill and plant legume seeds between maize stations",
+        "Without intercropping, plant maize at 75 x 25cm",
+        "Early planting with effective rains of at least 30 mm cumulative",
+        "Use of certified seed to avoid contamination",
+        "Clean farm implements to avoid spread",
+        "Use contour ridges to restrict movement of weed seed with water",
+        "If there is a history or the weed in the field treat with a pre emergence herbicide"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for fleshy, broad leaved plants with dark green alternate leaves and lilac/ blue flowers",
+        "Scout the fields weekly looking for emerging weeds",
+        "Consider direct control before the weeds flower"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot as soon as weeds appear, remove from the field and bury 30cm deep",
+        "Hand hoeing as soon as weeds emerge - this should only be carried out when the weather is dry and avoid breaking up/cutting the plant as this can spread the weed.",
+        "Remove plants from the field and bury/burn",
+        "Hoeing can cause the weed to fragment - take care to remove all plant parts",
+        "Uprooting and hand hoeing before weeds set seed"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "If there is a history of the weed use",
+        "Acetochlor (Acetochlor 900EC, Sprint 900EC) it is a pre-emergence herbicide.",
+        "Apply at a rate of 7.5 ml in a 15 litre tank immediately after sowing",
+        "Glyphosate (Round-Up 360, Glyphosate 360",
+        "SL, Erase 360",
+        "SC) is a post-emergence herbicide applied once the weed has germinated and before maize is sown.",
+        "Use at a rate of 23 ml in a 15 litre tank"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class",
+        "III (slightly harzadous)",
+        "WHO class",
+        "III (slightly harzadous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Bengal dayflower flowers and leaves. © Ansel Oommen, Bugwood.org"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bengal wandering jew in maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Underground stolon with flower (white globe) © FAO, Rome"
+      }
+    ]
+  }
+}

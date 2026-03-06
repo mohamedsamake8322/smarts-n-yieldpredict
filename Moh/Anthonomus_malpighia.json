@@ -1,0 +1,65 @@
+{
+  "title": "Cherry weevil on Barbados cherry",
+  "sections": {
+    "Header": [
+      "Cherry weevil on Barbados cherry",
+      "Anthonomus malpighia"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove fallen fruit and destroy/ bury as the larvae and pupae are found within the fruit"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for ‘shot gun’ holes in the leaves and brown/black necrotic areas on fruit.",
+        "Twig dieback especially at the growing tips (young shoots).",
+        "Small grey weevil which curls up and falls when disturbed.",
+        "Yellow eggs laid within fruit, blossoms and young shoots and sealed by adult.",
+        "Larvae hatch and feed on the seed where they pupate in the maturing fruit.",
+        "Action is required when holes are seen in the leaves at flushing and at blossoming."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Field sanitation.",
+        "Remove fallen fruit and destroy/ bury",
+        "Prune dead areas/damaged tips as the larvae are often inside.",
+        "Spray with",
+        "Deltamethrin (Decis) 1tsp/gal.",
+        "Spray at flushing, then blossoming and one week later"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Try to avoid spraying pollinators (consider spraying at night)",
+        "Protective clothing to be worn when handling pesticides",
+        "IRAC 3A.",
+        "WHO II.",
+        "Re-entry interval 24hrs, Pre harvest interval 3 days",
+        "Fipronil. (Regent, Flip, Mortel) ½ tsp/ gal.",
+        "Spray at flushing, then blossoming and one week later",
+        "IRAC 2B.",
+        "WHO II.",
+        "Re-entry interval 24hrs, Pre harvest interval 7 days.",
+        "Toxic to bees",
+        "Indoxycarb (Avaunt) ½ tsp gal.",
+        "Spray at flushing, then blossoming and one week later",
+        "IRAC 22A.",
+        "WHO II.",
+        "Re-entry interval 24hrs, Pre harvest interval 3-5 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Cherry weevil on Barbados cherry"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cherry weevil adults look similar to these weevils. Photo by Whitney Cranshaw, Colorado State University, Bugwood.org."
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Leafminer on Watermelon - Kenya",
+  "sections": {
+    "Header": [
+      "Leafminer on Watermelon - Kenya",
+      "Liriomyza sativae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate melon with other non-host crops such as maize, legumes, carrots and onions.",
+        "Mulch the plants to prevent larvae from getting to the soil to pupate.",
+        "Avoid planting new crop next to a previously affected crop.",
+        "Plough deep after harvesting crop.",
+        "Fertilise adequately to ensure plant health with both organic and inorganic fertilisers.",
+        "Remove weeds as they serve as a reservoir for leafminers."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: tomatoes, courgettes, bean, eggplant, pepper, potato, squash.",
+        "Look out for:",
+        "Stippled appearance on foliage caused by egg laying female insects.",
+        "Slender white winding leaf mines (whitish blotches) on the surface of the leaves.",
+        "Colourless to yellowish green larvae with black mouth.",
+        "Trap adult flies by placing 3 x 5 inch yellow sticky farms in the farm.",
+        "Take action when 5% crop is affected."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Placing of yellow stick traps in the farm to reduce population of adults.",
+        "Use of",
+        "Natural enemiesparasitic wasps like",
+        "Chrysocharis oscinidis and",
+        "Diglyphus isaea .",
+        "Soil drenching with metarhizium 69 to kill pupae in the soil at the rate of 80mls per acre.",
+        "Physically crushing the larvae once first sign of tunneling is observed.",
+        "Spraying neem oil at rates of 40mls at 20l of water.",
+        "Destroy infested plants to ensure field hygiene by burning or burying."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear protective gear.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spray bifenthrin e.g.",
+        "Brigade",
+        "EC at a rate of 20 ml in 20 litres of water.",
+        "Non-systemic with contact stomach action.",
+        "Pyrethroid; IRAC 3A.",
+        "Drench with imidacloprid e.g.",
+        "Confidor 010",
+        "UL at a rate of 10ml in 20 litres of water.",
+        "Neonicitinoid; IRAC 4A.",
+        "Systemic insecticide with translaminar activity and with contact and stomach action."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "PHI 3 days.",
+        "MRL 1.0 mg/ Kg",
+        "WHO Class",
+        "II.",
+        "MRL 0.5 mg/Kg.",
+        "Spray early morning or late evening to avoid harming bees."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Mines on leaves cause by leaf miner ( Source Whitney Cranshaw, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult leafminer (Source: Lyle J. Buss (UF/IFAS) from: Capinera JL, EENY-255, Dec 2001)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Leafminer on Watermelon - Kenya"
+      }
+    ]
+  }
+}

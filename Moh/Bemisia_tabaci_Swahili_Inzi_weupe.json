@@ -1,0 +1,131 @@
+{
+  "title": "Whiteflies on tomatoes - Kenya",
+  "sections": {
+    "Header": [
+      "Whiteflies on tomatoes - Kenya",
+      "Bemisia tabaci Swahili: Inzi weupe"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant clean seedlings free from infestation.",
+        "Use organic mulch after transplanting.",
+        "Use a shade net (size 400 µm) or tunnel for 3-5 weeks while in the nursery to prevent attack by whiteflies.",
+        "Conserve natural enemies (wasps and ladybirds) by leaving a natural hedge of flowering plants along the edges to offer them refuge.",
+        "Transplant shortly after or during the rainy season.",
+        "Plant repellent crops such as coriander or",
+        "Mexican marigold every 3-4 rows of tomato to repel the whiteflies.",
+        "Plant trap crops, such as beans and maize, around the field.",
+        "Keep the field weed-free throughout the cropping season since weeds act as alternate hosts."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Whitish-brown eggs laid in a spiral pattern and/or whitish adults on the underside of young leaves. 3-5 white insects that resettle soon after the plant is shaken.",
+        "Yellowing on the upper leaf surface.",
+        "Start direct control if 3 adult whiteflies are present when the plant is shaken during the early stages of the crop."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Use yellow sticky traps to bait adults (16 traps per quarter acre).",
+        "Use liquid soap spray at a rate of 3 tablespoons per litre of water.",
+        "Use hot pepper spray: add 30 chopped peppers to warm water.",
+        "Soak for 1 day, dilute in 10L water, and add 20 drops of liquid soap before spraying.",
+        "Spray",
+        "Azadirachtin 1% (e.g.",
+        "OZONEEM 1% EC) based products 5 days after transplant.",
+        "Or spray with",
+        "Pyrethrin 10g/L + Azadirachtin 10g/L (e.g.",
+        "PYENEEM 20",
+        "EC).",
+        "Release natural enemies like",
+        "Encarsia formosa .",
+        "Spray with",
+        "Terpenoid",
+        "Blend (alpha terpine, p-cymene, d-linonene) 152.3 g/L (e.g.",
+        "REQUIEM PRIME EC 152.3), Oxymatrine, Metarhizium based products.",
+        "Spray entomopathogenic fungi like",
+        "Beauveria bassiana , and",
+        "Lecanicillium lecanii at recommended rates (e.g.",
+        "BIOCATCH 1.15",
+        "WP)."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing.",
+        "Always consult a recent list of registered pesticides (PCPB).",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, and restricted re-entry intervals.",
+        "Do not empty into drains.",
+        "Spray with",
+        "Acetamiprid 16 g/L+ Bifenthrin 30g/L (e.g.",
+        "ACETASTAR 46",
+        "EC) or",
+        "Lambda- cyhalothrin 50g/L (e.g.",
+        "CALRATE 5",
+        "EC).",
+        "Spray with",
+        "Alpha-Cypermethrin 100g/ L (e.g.",
+        "ALPHAKIL 100",
+        "EC) or",
+        "Cypermethrin 5% w/w (e.g.",
+        "DEBUSH 5% EC)",
+        "Spray with",
+        "Imidacloprid 200g/L (e.g.",
+        "EMERALD 200",
+        "SL) or",
+        "Imidacloprid 700g/kg (e.g.",
+        "CONFIDOR 70",
+        "WG).",
+        "Or with",
+        "Diazinon 600g/L (e.g.",
+        "AGROZINON 60",
+        "EC)",
+        "Spray with",
+        "Pyrethrin 10g/L + Azadirachtin 10g/L (e.g.",
+        "PYENEEM 20",
+        "EC).",
+        "Spray with",
+        "Thiacloprid 480g/L (e.g.",
+        "CALYPSO SC 480).",
+        "Or",
+        "Sulfoxaflor 240g/L (e.g.",
+        "CLOSER 240",
+        "SC)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Moderately hazardous (WHO Class",
+        "II), Yellow",
+        "Band.",
+        "Moderately hazardous (WHO Class",
+        "II).",
+        "Moderately hazardous (WHO Class",
+        "II).",
+        "Pyrethrin:",
+        "Moderately hazardous (WHO Class",
+        "II).",
+        "Moderately hazardous (WHO Class",
+        "II)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Whiteflies colonizing leaves (A.M. Varela, ICIPE)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult Whitefly (Ian Bedford, CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Whiteflies on tomatoes - Kenya"
+      }
+    ]
+  }
+}

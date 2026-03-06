@@ -1,0 +1,89 @@
+{
+  "title": "Root-knot nematodes in Irish potato - Kenya",
+  "sections": {
+    "Header": [
+      "Root-knot nematodes in Irish potato - Kenya",
+      "Meloidogyne spp. Kigunyu Kia Waru in Kikuyu langauage"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Before planting, do soil testing at a nearby soil testing lab to check for any nematodes.",
+        "Do soil solarisation before planting, by using a black polythene bag spread over the entire soil for at least 4-6 weeks in hot sun to kill any present nematodes.",
+        "Rotate",
+        "Irish potato with several seasons of a non-host crop, such as beans, maize, barley, wheat.",
+        "Clean farming equipment after use to prevent the spread of nematodes from one point to the other.",
+        "Plant nematode trap crops such as marigold (humus or",
+        "Dwarf",
+        "Essex varieties) to minimise damage to the main crop.",
+        "Use clean, healthy propagation material."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring immediately after emergence, twice per month until harvesting.",
+        "Look for the following: 1.",
+        "Stunted, wilting and yellowish plants while there is plenty of water. 2.",
+        "Do a random uprooting of plants and check if the tubers have blister- like symptoms.",
+        "This can be done once per month. 3.",
+        "From uprooted plants, check for root knots or galls (swellings), which contain milky pinkish brown fluid inside. 4.",
+        "Nutritional deficiency shown on foliage such as chlorosis (infested plants are unable to take up water and nutrients from the soil).",
+        "At 5% infestation, take action.",
+        "It becomes too late to take action towards harvesting, or when the field soil is largely infested with the nematodes."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "At the seedling stage, drench (flood) the crop and repeat the process when the plant reaches knee high (45cm).",
+        "Use bio-nematicides such as",
+        "Bio",
+        "Nematon (usual dosage 100g/20L) and",
+        "Nimbecidine (azadirachtin) (usual dosage 50ml/20L) to drench as per the application advised.",
+        "Dig a small trench/ditch to restrict the movement of nematodes from the infested area to unaffected areas.",
+        "This ditch is dug between the affected area and the unaffected area.",
+        "Apply chitin from the crushed shells of crabs and shrimp into the soil to increase the predators of the nematode pest in the soil."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max. number of sprays, and restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Always consult a recent list of registered pesticides in",
+        "Kenya.",
+        "Treat soil with a chemical fumigant such as chloropicrin.",
+        "Use drip method.",
+        "Not classified by",
+        "WHO.",
+        "This treatment is only allowed by certified spray service providers and not by the farmer.",
+        "Fatal if inhaled.",
+        "Moderate to high toxicity to many organisms; toxic to soil microbes and earthworms.",
+        "Use biofumigants, such as",
+        "Mexican marigold, with active ingredient methyl isothiocyanate.",
+        "Suppresses root- knot nematodes.",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "Application method: apply fresh mass of",
+        "Mexican marigold into the soil.",
+        "Use dosage of 50t per ha or 100t per ha if the infestation is beyond 5%."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Root galls caused by root knot nematode in sweet potato. (Source: USDA-ARS, William Rutter, Ph.D., via Flickr, Public Domain)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Root-knot nematodes in Irish potato - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bumpy surface of the potato itself is a clear indication of root-knot infection. (Source: Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Root knot nematode under a microscope. (Source: Jonathan D. Eisenback, Virginia Polytechnic Institute and State University, Bugwood.org, CC BY NC 3.0)"
+      }
+    ]
+  }
+}

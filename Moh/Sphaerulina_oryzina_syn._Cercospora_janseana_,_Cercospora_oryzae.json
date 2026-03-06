@@ -1,0 +1,81 @@
+{
+  "title": "Narrow brown leaf spot on rice - Cambodia",
+  "sections": {
+    "Header": [
+      "Narrow brown leaf spot on rice - Cambodia",
+      "Sphaerulina oryzina (syn. Cercospora janseana , Cercospora oryzae )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove grassy weeds in the field and nearby areas to remove alternate hosts that allow the fungus to survive and infect new rice crops.",
+        "Plough fields after harvest to destroy stubbles that serve as food and shelter for the disease.",
+        "However, if there are no major pests or diseases in your field, leave residues there to improve the soil.",
+        "Use a tolerant rice variety.",
+        "Check with your local extension agent or a nearby seed dealer.",
+        "Use fertilizer according to recommendations.",
+        "Make sure that adequate potassium is used."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Narrow brown leaf spot is a fungal disease that spreads by fungal spores via wind or water.",
+        "It appears during the late growth stages of rice, starting at heading stage.",
+        "Scout once per week; but scout every day when weather is wet and hot.",
+        "Look for lesions on leaves and upper leaf sheaths that are light to dark brown, linear, and parallel to the vein.",
+        "They are usually 2-10 mm long and 1-1.5 mm wide.",
+        "If you see symptoms of the disease on 5-10% of plants, consider direct control action."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected/ diseased plants from field and destroy by burying or wheel- composting.",
+        "Carbendazim –products.",
+        "Broad spectrum systemic fungicide, FRAC group:",
+        "B1.",
+        "Refer to product label for dosage",
+        "Propiconazole –products.",
+        "Systemic and protective action (FRAC group 3); Refer to product label for dosage"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Fungicides are usually of protective action (contact) and must be sprayed reaching good coverage.",
+        "They can prevent spread of the disease but they",
+        "CANNOT cure an already infected plant !",
+        "There are no effective curative chemical fungicides against leaf spot disease in rice.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre- harvest interval, max. number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II products may not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "Cambodia.",
+        "WHO toxicity class",
+        "U (unlikely to present acute health hazard in normal use).",
+        "Spray on leaves reaching good coverage.",
+        "Pre- harvest interval",
+        "P.H.I. 14 days, restricted re-entry interval 1 day after spray.",
+        "Harmful to earthworms.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); Spray on leaves.",
+        "P.H.I. 14day, R.E.I. 2 days day after spray.",
+        "Harmful to earthworms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Narrow brow leaf spot symptoms on leaf and panicles (IRRI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Narrow brown leaf spot on rice - Cambodia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Narrow brown leaf spot symptoms on rice leaf Linear lesions are 2-10 x 1-1.5 mm, with long axis parallel to that of the leaf. (Chin Khoon Min)"
+      }
+    ]
+  }
+}

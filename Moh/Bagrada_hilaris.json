@@ -1,0 +1,89 @@
+{
+  "title": "Bagrada bugs on cabbages",
+  "sections": {
+    "Header": [
+      "Bagrada bugs on cabbages",
+      "Bagrada hilaris"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting sudan grass, cotton and bermuda grass in the field as these are sources of infestations",
+        "Till the soil before transplanting to expose the eggs to predation and sun",
+        "Remove old crop debris and weeds in the family brassicaceae from the field before planting cabbage",
+        "Leave uncultivated patches within the field to encourage natural enemies (assassin bugs, solitary wasps, ants, preying mantids, spiders and parasitoids) breeding and multiplication"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for adult bugs as from 10.00h to 16.00h (mid-morning to late afternoon) when adult are generally most active in fields.",
+        "Monitor weekly for egg-laying sites on the leaves or in the soil",
+        "Look for adults that are 5-7 millimeters long, shield-shape, black with orange and white markings",
+        "Nymphs resemble adult but lack wings, orange-red colour and get darker as they moult into later instars",
+        "Check margins for stippling marks (engraved by dots) or small tan or white dots left where the leaves were pierced by insect",
+        "Take action when 10% of the crop is infested with the bugs"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick adults and kill them early in the season",
+        "Spray soapy (teepol) water to wash off young bugs",
+        "Spray using",
+        "Azadirachtin 0.15% w/ w e.g.",
+        "ACHOOK 0.15% EC at 50 ml/20lts water every 14-28 days until no symptoms are seen",
+        "Apply",
+        "Thiamethoxam such as",
+        "Actara 240SC at 8g/20l",
+        "Chlorantraniliprole 20g/ l such as",
+        "Coragen® at 61.25ml/Acre.",
+        "Spray pyrethroids such as lambda cyhalothrin concentrate such as",
+        "Karate® at 20g/20lts when the crop is established"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical control to start when adults/fresh feeding signs are observed on plant tissue",
+        "WHO class",
+        "U.",
+        "Product unlikely to present hazard under conditions of normal use.",
+        "PHI: 3 days.",
+        "REI: 1 day.",
+        "No more than 1 spray during flowering.",
+        "Toxic to bees and aquatic organisms",
+        "WHO Class",
+        "III.",
+        "Slightly hazardous, avoid application of this product when winds are strong",
+        "WHO Class",
+        "U.",
+        "Unlikely to present acute hazard in normal use.",
+        "Apply when first symptoms are seen.",
+        "Do not apply more than once every 3 days.",
+        "PHI: 1 day.",
+        "REI: 4 hours",
+        "WHO class",
+        "II.",
+        "Moderately hazardous.",
+        "Apply at first when symptoms are noted and repeat twice if needed.",
+        "PHI: 14 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Nymph Bagrada bug (Daniel Marlos, 2009)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bagrada bugs on cabbages"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult Bagrada bug (Jason R Eckberg, BugGuide.net)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Bagrada bug damage on cabbage (B. Loehr, icipe)"
+      }
+    ]
+  }
+}

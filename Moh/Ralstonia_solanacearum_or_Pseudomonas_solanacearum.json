@@ -1,0 +1,60 @@
+{
+  "title": "Tomato - Bacterial wilt",
+  "sections": {
+    "Header": [
+      "Tomato - Bacterial wilt",
+      "Ralstonia solanacearum or Pseudomonas solanacearum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seeds.",
+        "If not using certified seed, put seed in 50 degrees",
+        "Celcius water for 15-20 minutes before planting",
+        "Graft with wild rootstock of eggplant",
+        "Timing of planting:",
+        "November – April (dry season)",
+        "Use plastic mulch to prevent soil from splashing and spreading",
+        "Don’t over water or over fertilize with",
+        "N Clean equipment (including shoes) before use in the field",
+        "Limit unauthorized people and animals from entering the farm to prevent spread of disease",
+        "Consider using soil-less substrate (eg hydroponics, or grow in cocoa peat in pots.",
+        "Rotate tomatoes with non solanaceous crops for three years to help in reducing the bacterial inoculum to non-damaging levels"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor every day",
+        "Scout plant for signs of wilting"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "During season remove diseased plants from the field and destroy"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No chemical control"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Cut stem to look for brown stain (Clemson Univ., USDA Cooperative Extension, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Tomato - Bacterial wilt"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Field symptoms (Mauritius Sugar Industry Research Institute, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Ooze will flow from cut infected stem if placed in water (CABI)"
+      }
+    ]
+  }
+}

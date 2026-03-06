@@ -1,0 +1,75 @@
+{
+  "title": "Wheat stem rust",
+  "sections": {
+    "Header": [
+      "Wheat stem rust",
+      "Puccinia graminis f.sp. Tritici"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties e.g.",
+        "Eagle 10 from",
+        "KALRO- Njoro.",
+        "Plant early maturing varieties e.g.",
+        "NGAMIA, DUMA, KENYA PAKA Use certified seed from reliable sources.",
+        "Observe field hygiene by removing residual from previous crop.",
+        "Practice crop rotation with crops that are not in the grass family such as beans, cucurbits, pigeon peas",
+        "Avoid walking through the field during the wet season to prevent disease spread from one plant to the other.",
+        "Avoid planting new wheat crop next to an infected or old wheat field."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for elongated reddish brown spores mainly on stem and leaf",
+        "Inspect the wheat field weekly and consider direct control as soon as 5-10% lower leaf area is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use barberry which reduces the genetic variation in the fungal population by eliminating the sexual cycle.",
+        "Remove and burying infected plant materials and below 50 cm in the ground.",
+        "Start working from the healthy part of the field before moving to the infected part"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear personal protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Azoxystrobin 200g/L + cyproconazole 80g/L e.g. amistar xtra 280",
+        "SC at the rate of 160ml/20liters of water.",
+        "PHI 21 days.",
+        "Azoxystrobin",
+        "WHO class",
+        "U (Unlikely to present acute hazard in normal use) and cyproconazole",
+        "WHO class",
+        "II (moderately hazardous).",
+        "Propiconazole e.g",
+        "Propimax 25",
+        "EC (rate of 58 ml per acre for low infection and 114 ml per acre in high infection) or",
+        "Stratego 250",
+        "EC at 200ml per acre",
+        "PropiconazoleWHO Class",
+        "II (Moderately hazardous).",
+        "PHI 28 days, REI 21-28 days.",
+        "Do not allow livestock to graze within the treated area for 7 days after spraying."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Wheat stem rust"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Stem rust (photo by Idah Paul, Small Grain Institute, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Wheat infected with rust (photo: Donald Groth, Louisiana State University AgCenter, Bugwood.org)"
+      }
+    ]
+  }
+}

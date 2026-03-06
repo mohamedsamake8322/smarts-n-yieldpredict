@@ -1,0 +1,74 @@
+{
+  "title": "Striga weed in maize",
+  "sections": {
+    "Header": [
+      "Striga weed in maize",
+      "Striga hermonthica Kayongo"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough deep, plant early, use short early maturing varieties (KH500-53A, KH500-52A, PAN3M-01).",
+        "Plant tolerant varieties like",
+        "Ua kayongo, GAF4, WS303, KS 528, FRC 4251R or",
+        "KSTP94.",
+        "Rotate (3-6 years) or intercrop with cotton, sunflower, legumes to reduce the striga seed bank in the soil.",
+        "Avoid dropping maize seed cob on the soil during harvesting to avoid dispersing the weed.",
+        "Take the soil to",
+        "KALRO for nutrient analysis (N:P:K) as",
+        "Nitrogen and phosphorous deficiencies can accentuate",
+        "Striga damage and severity.",
+        "Uproot and burn crop stubble to prevent growth and seeding of",
+        "Striga ."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: sorghum, millet, upland rice.",
+        "Look out for:",
+        "Long (1cm by 0.5cm) yellowish blotches on the foliage and on uprooting a hustoria and young parasite seedling.",
+        "Curled leaves and drought-stressed-like appearance of the plants.",
+        "Stunting and wilting of plants.",
+        "Weeds with purple flowers at later stages.",
+        "Take action when 1% of the crop is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Continously uproot and burn",
+        "Striga weeds, 3 weeks at flowering and before seed setting to reduce dispersal.",
+        "Plant sorghum, millet or maize prior to the main season to stimulate germination of",
+        "Striga , then destroy before the weed can mature and set seed.",
+        "Apply organic and inorganic fertilizers and irrigate during dry periods to improve crop stand",
+        "Intercrop maize with desmodium , beans, cowpeas, groundnuts, or greengrams to shade and supress the weed."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When planting herbicide treated maize always wear gloves and other personal protective equipment.",
+        "Follow the instructions on the product label and always change gloves or properly wash hands to prevent contaminating other crops.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Plant seeds dressed with imazapyr herbicide (registered as",
+        "StrigAway).",
+        "WHO class",
+        "II (Moderately hazardous) (Dressing restricted to seed companies only).",
+        "REI 12 hrs.",
+        "Burn seed packages to avoid contaminating food, water or feed."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Purple witchweed ( Striga hermonthica ) in corn ( Zea mays ) (USDA APHIS PPQ - Oxford, North Carolina, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Purple witchweed ( Striga hermonthica ) (USDA APHIS PPQ - Oxford, North Carolina, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Striga weed in maize"
+      }
+    ]
+  }
+}

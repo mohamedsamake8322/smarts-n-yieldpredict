@@ -1,0 +1,73 @@
+{
+  "title": "White grubs on maize - Malawi",
+  "sections": {
+    "Header": [
+      "White grubs on maize - Malawi",
+      "Phyllophaga spp. Matono/Mphunzi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate the crop with legumes every other growing season.",
+        "In the summer, and prior to planting, deep plough the field and leave soil exposed to the sun for a minimum of one week.",
+        "Exposed grubs will be eaten by predators.",
+        "Apply well-decomposed farmyard manure and compost before planting, and during growing period because the maize white grub grows favourably in undecomposed manure.",
+        "Treat seed when planting with chemical insecticide to prevent damage (see direct yellow control).",
+        "Plant trap crops such as sunflower, or repellants such as marigold and garlic."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Sorghum.",
+        "During field activities such as tilling, weeding, harvesting etc., look for larvae in the soil, and for adults above ground.",
+        "The adults are brown scarab beetles which lay their eggs in the soil.",
+        "The larvae or grubs that live in the soil have a brown head, white body and 3 pairs of legs.",
+        "When disturbed they curl into a",
+        "C-shape.",
+        "Monitor plants for symptoms of attack by grubs as they eat the roots: wilting, stunted growth, lodging, yellowish leaves and a crop that looks malnourished with uneven growth."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pick off and kill the larvae by crushing or burning."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "WHO Class",
+        "II - Moderately hazardous.",
+        "Ensure seed is thouroughly covered by chemical.",
+        "Use higher rate for increaded length of control and in areas of high risk.",
+        "Do not store treated seed near food stuffs",
+        "Mix seed with",
+        "Gaucho 600",
+        "FS (imidacloprid) at 120 or 240ml per 100kg of seed.",
+        "Imidacloprid is a systemic neonicitinoid",
+        "FRAC group 4A",
+        "Apply imidacloprid (Gaucho or",
+        "Confidor) by mixing 1ml in 1 liter of water and spraying to the soil when adults are seen.",
+        "This is to target eggs before they hatch into larvae.",
+        "WHO Class",
+        "II - Moderately hazardous",
+        "PHI 7 to 10 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "White grubs on maize - Malawi"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "White grub larva (top) and (below) adult beetle (ICRISAT)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Sorghum stand affected by white grub infestation (ICRISAT)"
+      }
+    ]
+  }
+}

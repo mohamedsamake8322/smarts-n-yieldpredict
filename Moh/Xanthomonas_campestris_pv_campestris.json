@@ -1,0 +1,69 @@
+{
+  "title": "Black rot of crucifers",
+  "sections": {
+    "Header": [
+      "Black rot of crucifers",
+      "Xanthomonas campestris pv campestris"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting crucifers on a field with a history of black rot",
+        "Also locate seedbeds away from main production fields",
+        "This bacterial disease is seedborne so using clean seed is essential.",
+        "It is also easily spread by splashing water and insects",
+        "Plant on raised beds at a site with good drainage",
+        "Control weeds and avoid irrigating early in the day when dew is present or late in the day",
+        "Avoid injuries to plants when working at the nursery or field",
+        "Sterilize cutlasses and hoes after work using fire or 10% bleach solution",
+        "Remove crop debris after harvest and destroy"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: broccoli, brussel sprout, cabbage",
+        "Monitor nursery and fields regularly looking for yellow areas along the leaf edge.",
+        "These lessions expand from the edges to the leaf to the midrib giving a distinctive 'V' shaped lession with yellow margins and brown necrotic tissue in the centre",
+        "The veins of the leaves can also appear brown/black",
+        "Infected plants may be stunted and heads are smaller and outer leaves die"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue infected plants and destroy them by burying outside production fields",
+        "Begin application after transplants are set in",
+        "Apply cupric hydroxide (eg.",
+        "Kocide 2000, Champion 80) at 1.5-2.0g/L of water immediately symptoms are observed.",
+        "Multi-site contact activity.",
+        "FRAC code:",
+        "M1"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance, always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO Class",
+        "III (slightly hazardous).",
+        "REI-24hrs; PHI-14 days.",
+        "Apply three times in a season at 7-10 day intervals.",
+        "Do not use the same chemical group continuously on the same farm."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cabbage leaf showing characteristic V shaped lesion spreading from the edge of leaves (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Black rot of savoy cabbage (Gerald Holmes, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Black rot of crucifers"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Asian corn borer on maize",
+  "sections": {
+    "Header": [
+      "Asian corn borer on maize",
+      "Ostrinia furnacalis Asian corn borer, oriental corn borer, 亚洲玉米螟 in Chinese"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties of maize, such as",
+        "Huafeng 986, Zhengdan 958, Zhangyu 9, Xundan 18",
+        "Remove or shred maize stubbles after harvest or plough deeply (50 cm) to kill overwintering caterpillars and pupae.",
+        "If no major pests or diseases were in your field leave residues and do not plough deeply to improve soil and prevent moisture loss.",
+        "Rotate with non- cereal crops, such as potato, soybean.",
+        "This only works on large areas, as moths can fly.",
+        "Heavily irrigate for few days before planting to reduce caterpillar and pupae"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect vegetative maize weekly until tasseling.",
+        "On vegetative maize, look for holes on funnel leaves.",
+        "If you open leaves, the holes appear in lines.",
+        "If you find holes in stems, dead leaf funnel hearts or frass on stems or cobs near caterpillar entry holes, then open stem or cob to confirm the caterpillar.",
+        "It is pink-brown, soft and 1 to 3 cm long with dark head.",
+        "Control action in this season is too late !!! but plan preventive measures for next season",
+        "Hang 2 sex pheromone lure core traps per field from",
+        "May to",
+        "July; change lure once per month.",
+        "Count moths every week.",
+        "If peak is reached consider green control against eggs",
+        "Look for flat egg masses (clusters) on underside of basal portion of leaves weekly from vegetative to cob stage.",
+        "If egg cluster on many plants consider",
+        "Trichogramma was releases."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release egg parasitoids (different",
+        "Trichogramma products) first time early",
+        "July at moth peak flight.",
+        "After a week, release again.",
+        "Put the wasp egg cards on the leaves of the upper part of the maize (15000 wasps per acre).",
+        "Spray the",
+        "Beauveria bassiana fungi spore suspension over residues after harvest to kill overwintering caterpillars.",
+        "Use high pressure mercury lamps to attract and kill the moths from beginning of",
+        "June.",
+        "Bacillus thuringiensis – products.",
+        "Multi-side action bacterial insecticide; must be eaten by caterpillars to act.",
+        "Deltamethrin -products (such as 敌杀死 2.5%EC, 扑虫净 2.5%EC, 克敌 2.5%EC, 康素灵 2.5%EC, and others).",
+        "Pyrethroid group of pesticide with contact action.",
+        "Lambda-cyhalothrin– products (such as 毒特星 2.5%EC, 功乐 2.5%EC, 攻关 2.5%EC, and others).",
+        "Pyrethroid of contact action.",
+        "Moderate risk of resistance."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray on top of plants preferably into leaf whorl at vegetative stage",
+        "and on top of plant on surface of leaves at the late whorl and but before tasseling stage against feeding caterpillars late afternoon.",
+        "When caterpillars have entered into stem or cobs, sprays too late.",
+        "When using a chemical or botanical pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "WHO toxicity class",
+        "II pesticides may not be allowed in certain",
+        "IPM or “green” production schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ICAMA/China, and of",
+        "China pesticide information network",
+        "WHO toxicity class",
+        "III (slightly acute hazardous); Pre-harvest interval p.h.i. 1 d, restricted re-entry interval r.e.i. 1 d, max 3 sprays / season.",
+        "Spray immediately after preparation.",
+        "WHO class",
+        "II (moderately acute hazardous); p.h.i. 14 days; r.e.i. 3 days after spray.",
+        "Max 2 sprays per season in min 1 week intervals.",
+        "Do not spray crops suffering from drought or other physical stress; Toxic to fish and bees",
+        "WHO class",
+        "II (moderately acute hazardous); p.h.i. 21 days; r.e.i. 3 days after spray; max 2 sprays per season in min 1 week interval.",
+        "Do not spray near water sources because toxic to fish"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Piles of frass around the larvae hole (photo by James Litsinger)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Young caterpillars make typical lines of holes on leaves (photo J Litsinger)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "2 to 3 cm older pink-brown caterpillar with tiny spots on back (photo J.Litsinger)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Asian corn borer on maize"
+      }
+    ]
+  }
+}

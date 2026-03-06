@@ -1,0 +1,93 @@
+{
+  "title": "Powdery mildew on mango",
+  "sections": {
+    "Header": [
+      "Powdery mildew on mango",
+      "Sphaerotheca pannosa"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean planting materials from certified suppliers e.g.",
+        "KALRO Thika, Katumani etc.",
+        "Plant at recommended spacing (8m x 8m) to avoid overcrowding.",
+        "Plant resistant varieties such as",
+        "Tommy",
+        "Atkins.",
+        "Prune frequently to enhance air circulation and light penetration.",
+        "Avoid late-season applications of nitrogen fertilizer to limit the production of succulent tissue, which is more susceptible to infection.",
+        "Avoid overhead watering to help reduce the relative humidity."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: eggplant, papaya, watermelon, tomato, green gram.",
+        "Look out for:",
+        "White powdery growth on the leaves, flowers and young fruit especially during dry weather when humidity is high and nights are cool.",
+        "Curling on infected leaves.",
+        "When flowers fail to open and drop from the tree without forming a fruit.",
+        "Take action when 5% of crop is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected plant parts by burning.",
+        "Spray with a solution of 6 spoonfuls baking powder, 3 spoonfuls white oil and white barsoap foam in 15L of water.",
+        "Spray",
+        "Ampelomyces quisqualis e.g.",
+        "BioDewcon 2% Wp at 20L/20L water.",
+        "Spary at the on set of infection.",
+        "Apply trichoderma harzianum e.g.",
+        "Trichotech",
+        "P WP 125g/HA.",
+        "Spray with sulphur based products e.g.",
+        "Thiovit jet",
+        "WP at 80g/20L or",
+        "Wetsulf",
+        "WP 40-80g/20L or flosul plus 40-80g/20L Spray with triadimefon-based products e.g.",
+        "Bayleton",
+        "WP 40g/20L or",
+        "Edimefon 25WP",
+        "Spray with azoxystrobin based chemicals e.g.",
+        "Ortiva 250",
+        "SC 20ml/20L.",
+        "It is a systemic and protectant fungicide.",
+        "For dilution rate check product label"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear personal protective equipment when spraying chemicals.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re-entry interval",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "WHO toxicity class",
+        "III (slightly acute hazardous); pre-harvest interval",
+        "PHI 10 days; restricted re- entry interval r.e.i. 1 day after spray.",
+        "Max 3 sprays per season.",
+        "Follow label instruction to avoid phytotoxic effects on crop.",
+        "Keep livestock out of reach",
+        "WHO class",
+        "II (Moderately hazardous) and",
+        "PHI 14 days, MRL 2mg/kg.",
+        "Spray twice in a growing season",
+        "WHO toxicity class",
+        "U: (Unlikely to present acute hazard in normal use); PHI 28 days; restricted re- entry interval 1 day after spray; Max 2 sprays per season, toxic to fish, predatory beneficial mites, and soil organisms such as earthworms.",
+        "Do not pour chemical into river, dams or ponds"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew on mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Powdery mildew on mango flower buds (Source: AA Seif, ICIPE)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Powdery mildew on mango florouresence (Source: Peter Kibinge, MOALF)"
+      }
+    ]
+  }
+}

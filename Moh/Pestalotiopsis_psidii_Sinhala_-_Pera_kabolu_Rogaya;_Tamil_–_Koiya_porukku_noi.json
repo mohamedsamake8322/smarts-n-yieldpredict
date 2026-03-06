@@ -1,0 +1,65 @@
+{
+  "title": "Scab disease in Guava",
+  "sections": {
+    "Header": [
+      "Scab disease in Guava",
+      "Pestalotiopsis psidii Sinhala - Pera kabolu Rogaya; Tamil – Koiya porukku noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain recommended plant spacing (5-6m x 5-6m)",
+        "Remove excess and damaged branches after harvesting",
+        "Cover fruits with paper or polythene bags with one side open end at small stage",
+        "Control",
+        "Helopeltis bugs to reduce the initiation of the disease"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe brownish- blackish colour pustules on fruits",
+        "Observe",
+        "Helopeltis adults in the field",
+        "Small fruits also showing symptoms"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected fruits",
+        "Use neem seed kernel extract (50g/l of water) to control",
+        "Helopeltis bugs"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chlorothalonil 500g/l",
+        "SC.",
+        "Rate of dilution 30ml/ 10 lit. of water.",
+        "Application interval is 7-10 days",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites, fish and earthworms",
+        "Mancozeb 75% WG.",
+        "Rate of dilution 20g/ 10 lit. of water.",
+        "Application interval is 7-10 days",
+        "WHO Class",
+        "U.",
+        "Toxic to parasitoids and fish and moderately toxic to predatory mites"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Scab disease in Guava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Scab symptoms on guava fruits, A.S.Pushpakumari"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Helopeltis bug on guava leaf, A.S.Pushpakumari"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Sweet potato weevil",
+  "sections": {
+    "Header": [
+      "Sweet potato weevil",
+      "Cylas formicarius , C. brunneus (Fukusi wa viazi vitamu in Swahili)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant uninfected clean tender vine tips (not the older parts) from uninfected fields.",
+        "Avoid using tubers for planting as they may contain weevil larvae.",
+        "Establish a nursery in an un-infected plot as a source of clean planting material.",
+        "Dip planting material into a pesticide before planting (see yellow column)",
+        "Use deep-rooted tolerant varieties such as",
+        "Simama, Sinia, Mavuno, Ukerwe, Vumilia and others.",
+        "Plant early in the main cropping season to give enough time for the crop to mature before dry period.",
+        "Close soil cracks in the mounds by hoeing or earthing up around the base of the plants to stop the weevil entering soil to lay eggs or feed on tubers",
+        "Harvest 3 months after planting to avoid cracks in dry soil where the weevils enter.",
+        "Plant barrier crops around field, such as banana or cassava.",
+        "Remove alternative hosts of weevils such as wild",
+        "Ipomoea.",
+        "Clean up all remains of the old crop, particularly infested vines and tubers, and destroy them e.g. by feeding to livestock.",
+        "Do not bury remains as weevils can still survive.",
+        "Do not store the remains near fields",
+        "Rotate sweet potatoes 2-3 seasons with maize, pulse, or legumes"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly check field for open soil cracks, about twice per month.",
+        "The weevil adult is 6 - 8 mm long and has a long pointed mouth.",
+        "It is black with a small red- brownish part, and can fly.",
+        "Look for 1 to 5 mm long larvae that feed inside the tubers and make tunnels and holes.",
+        "Monitoring of larvae and adults is very difficult.",
+        "Pheromone taps might be used to capture male adults (2 traps/acre) or light traps, to detect presence of weevils."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "None",
+        "Larvae and pupae are hidden inside the tubers and adults hide most of their life inside the soil or tubers so cannot be reached by pesticides.",
+        "Spraying insecticide on the ground is not effective because the chemical will not move into the soil to kill the weevils",
+        "Wear protective clothing and follow the instructions on the product label.",
+        "WHO class",
+        "II (and",
+        "Tanzanian red and yellow-label products) are not advised in",
+        "Tanzania.",
+        "Farmers are not allowed to buy or use",
+        "WHO class",
+        "II products without special permits and training.",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "Use",
+        "Cypermethrin–based products for preventively dipping tubers into the pesticides for 1-2 minutes before planting (but prefer vines/cuttings for planting); pyrethroid pesticide group.",
+        "WHO toxicity class",
+        "II (moderately hazardous).",
+        "High risk to bees, very toxic to aquatic organisms.",
+        "Do not consume treated tubers and do not feed to livestock."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "6 to 8 mm sweet potato weevil adult (Photo by www.whatsthatbug.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Sweet potato weevil"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "5 mm larva inside tuber (Photo by Peter A.C. Ooi CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Feeding damage of sweet potato weevil (Photo by NAFIS Kenya)"
+      }
+    ]
+  }
+}

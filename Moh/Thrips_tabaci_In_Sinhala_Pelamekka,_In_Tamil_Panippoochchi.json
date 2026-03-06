@@ -1,0 +1,82 @@
+{
+  "title": "Thrips on Onion",
+  "sections": {
+    "Header": [
+      "Thrips on Onion",
+      "Thrips tabaci In Sinhala: Pelamekka, In Tamil: Panippoochchi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Field location – avoid planting onion adjacent to grain field",
+        "Destroy crop residues.",
+        "Soil treatment (ploughing, solarisation, burning)",
+        "Use healthy planting materials.",
+        "Discard infested transplants",
+        "Mulch with straw",
+        "Use organic manure",
+        "Proper spacing and plant density (10cm x 10cm)",
+        "Trap crops such as",
+        "Chrysanthemum and marigold; after flowering, destroy the trap crops",
+        "Inter crop with carrot or crucifers",
+        "Use sprinkler irrigation",
+        "Nitrogen fertilizer management.",
+        "Do not use excessive amounts of",
+        "Nitrogen",
+        "Conservation of natural vegetation around the field to facilitate natural enemies."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular field visits to observe insects on leaves once every three days starting from second week after planting particularly during dry season.",
+        "Observe leaves to detect development of symptoms (e.g. white spots and streaks on leaves)",
+        "Use of yellow sticky trap or yellow trays with water as monitoring devices",
+        "Threshold: an average of 3-5 thrips per plant"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use sprinkler irrigation",
+        "Use of yellow pan traps on the ground",
+        "Use botanicals such as neem seed kernel extract (30-50 g of seed powder per 1 litre water)",
+        "Apply chemical",
+        "Imidacloprid 200g/l",
+        "SL at the rate of 10 ml / 10L of water",
+        "Apply chemical",
+        "Thiacloprid 240 g/l",
+        "SC at the rate of 10 ml/ 10L of water",
+        "Apply chemical",
+        "Fipronil 50g/l",
+        "SC at the rate of 10 ml/ 10L of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Insecticide should be applied after the threshold is reached at first sign of infestation on leaves.; Repeat application if necessary at 10 days interval.; WHO class",
+        "II (Moderately hazardous); Neonicotinoid; Systemic pesticide with contact & stomach action; Highly toxic to aquatic organisms, bees & certain birds; Do not apply to flowering plants in near water sources.; Relatively persistent in soil.",
+        "WHO class",
+        "II; Neonicotinoid; Systemic insecticide, fast acting contact of stomach poison",
+        "WHO class",
+        "II; Pyrazole pesticide; Non systemic pesticides, contact & stomach action; Less persistent in soil; Toxic to aquatic organisms, bees & certain birds & reptiles."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage symptom on leaves (Whitney Cranshaw, Colorado State University, Bugwood)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Thrips sucking on the leaves. (Whitney Cranshaw, Colorado State University, Bugwood)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damage symptom on leaves (Close up) (Howard F. Schwartz, Colorado State University, Bugwood)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Thrips on Onion"
+      }
+    ]
+  }
+}

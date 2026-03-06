@@ -1,0 +1,76 @@
+{
+  "title": "Powdery mildew in mango",
+  "sections": {
+    "Header": [
+      "Powdery mildew in mango",
+      "Acrosporium mangiferae ( syn. Odium erysiphoides f. mangiferae )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plantations must be established far away from unattended mango trees.",
+        "Clear weeds and prune trees to improve aeration to reduce the disease spread.",
+        "Intercrop with onion or forestry trees to reduces the ease with which the disease affect the mango."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor field weekly from start of flowering period until fruit formation.",
+        "Look for small patches of white powdery substance (mycelium), which may later add together to cover large areas on leaves.",
+        "Do not mistake with the waxy light- green whitish patches along inner veins of mango leaves that are natural.",
+        "On older leaves and fruit, look for purplish-brown cast as the white growth weathers away.",
+        "Scout for abortive inflorescence or flowers that fail to open and drop from the panicles.",
+        "If 2 to 3 trees are infested (5 to 10% of leaves or flower bunches) out of 10 trees, then consider action."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply potassium dihydrogen phosphate at the rate of 25g/100mls of water to prevent the spread of powdery mildew.",
+        "It can be combined with fungicides effectively.",
+        "Remove severely infected panicles and destroy by burying or burning.",
+        "Use mancozeb based products (Agarithan 80WP, Contizeb 80WP etc) as foliar spray at early sign of infection at the rate of 30-50mls/15l of water.",
+        "It acts as broad spectrum preventive fungicide.",
+        "Use azoxystrobin + difenoconazol based products (such as",
+        "Amister",
+        "Top 325",
+        "SC and others)",
+        "Apply at early sign of infection at 40-70mls/15l of water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre- harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Always consult for the current registered pesticide list from",
+        "Environmental",
+        "Protection",
+        "Agency, Ghana",
+        "WHO toxicity class",
+        "III (slightly acutely hazardous).",
+        "But toxic to aquatic organisms so do not spray near water source. pre-harvest interval p.h.i. 14days; restricted re-entry interval r.e.i 1day.",
+        "Maximum 3 sprays per season.",
+        "WHO toxicity class",
+        "U + III (slightly acutely hazardous).",
+        "Systemic fungicide which should be applied at 28 day intervals. p.h.i.: 14 days, r.e.i.: 2 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Flower abortion caused by powdery mildew fungus (Scot Nelson)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew in mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Light grey powdery patches on leaves from powdery mildew (Scot Nelson)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Aborted fruits and white substance (powdery mildew fungus) on fruits (Scot Nelson)"
+      }
+    ]
+  }
+}

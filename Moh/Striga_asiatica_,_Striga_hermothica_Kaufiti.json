@@ -1,0 +1,66 @@
+{
+  "title": "Witchweed in maize",
+  "sections": {
+    "Header": [
+      "Witchweed in maize",
+      "Striga asiatica , Striga hermothica Kaufiti"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified crop seed to reduce the chance of contamination.",
+        "Seeds are dispersed by water - construct contours and water ways to prevent runoff carrying",
+        "Striga seed from infested land to clean fields.",
+        "Seeds travel on machinery - clean farm equipment after work in infested areas.",
+        "Crop rotation with broadleaved non-hosts and fallows may help to deplete seed bank.",
+        "Intercrop with trap crops, like pigeon pea, beans, Mucuna, sorghum, cotton and soyabean to reduce the",
+        "Striga seed bank in the soil.",
+        "Striga seeds germinate but cannot attach themselves to the roots of crops, so they die.",
+        "Improved soil fertility through application of organic, inorganic, green manuring, mulching or agroforestry techniques."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Striga is prevalent in areas with low soil fertility and poor rainfall, such as",
+        "Lilongwe- Kasungu-Mzimba plains, Shire highlands, Shire",
+        "Valley, Machinga, Balaka and",
+        "Manjawira.",
+        "Look for a small plant, 10-30 cm tall, rough to touch with bright red or orange-pink flowers growing in close contact with maize.",
+        "Look for stunted crop growth."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Light infestations can usually be controlled by hand pulling or weeding before seed set.",
+        "Seeds are very long-lived, therefore uproot before seed set"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Use 2, 4- D amine salt post emergence herbicides to control the weed in maize monocrop applied once at 3 - 4 weed leaf stage.",
+        "If rains continues and more weeds grow then a second application is necessary (2l/ha) which translates to 60 ml of herbicide (2, 4",
+        "D 480SL) into 15 litres of water",
+        "WHO class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Purple witchweed on maize (USDA APHIS PPQ - Oxford, North Carolina, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Witchweed in maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "S. asiatica (Photo byTon Rulkens, Flickr.com)"
+      }
+    ]
+  }
+}

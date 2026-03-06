@@ -1,0 +1,64 @@
+{
+  "title": "Pod sucking bugs in cowpea",
+  "sections": {
+    "Header": [
+      "Pod sucking bugs in cowpea",
+      "e.g. Clavigralla tomentosicollis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Early planting between the second and third week in",
+        "September",
+        "Clean up haulms from previous crop as this insect may over- season on such rubbish",
+        "Intercrop cowpea with maize"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular field visits especially in the morning hours when the bugs are active",
+        "Look for pod sucking bug at 45 days after planting",
+        "Look for prematurely dried-out pods"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Pruning",
+        "Apply a mixture of black soap and kerosene.",
+        "Dissolve 170 g of black soap in 150 ml of water; Dissolve this in 1 litre of kerosene to form a thick concentrate of soap/ kerosene mixture; Dissolve 400 ml of the mixture to 5 litres of water; Spray at weekly intervals after the cowpea has developed pods",
+        "Apply plant based chemicals, e.g.",
+        "African hot peppers, cashew nut, garlic bulb, bitter leaf"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Well-timed (45 days after planting) application of insecticides such as",
+        "Cypermethrin + Dimethoate (at a rate of 100 ml to 14 litres of water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Cypermethrin and",
+        "Dimethoate are both",
+        "WHO Class",
+        "II (Moderately hazardous); Spray early in the morning or late in the evening; Re-entry interval:",
+        "Enter the field 1 week after spraying; Pre-harvest interval: two weeks after spraying"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Pod sucking bugs in cowpea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pod sucking bug, a major pest of cowpea in tropical Africa, sucking sap from cowpea pod causing it to shrivel and dry, resulting in yield losses of 20-100%. ( Farmers’ Guide to Cowpea Production in West Africa by I.Y. Dugje et al.)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Close-up of the pod sucking bug (AM Varela, ICIPE)"
+      }
+    ]
+  }
+}

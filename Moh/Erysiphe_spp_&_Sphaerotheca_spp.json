@@ -1,0 +1,93 @@
+{
+  "title": "Powdery Mildew on Cowpea, African eggplant and Pumpkin",
+  "sections": {
+    "Header": [
+      "Powdery Mildew on Cowpea, African eggplant and Pumpkin",
+      "Erysiphe spp & Sphaerotheca spp"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant in sites with good air circulation and sun exposure.",
+        "Do not overcrowd plants.",
+        "Prune overcrowded plant material to help increase air circulation, recommended spacing of 2-3m.",
+        "Plant resistant varieties when available (ask local seller).",
+        "Clean field tools regularly after use.",
+        "Avoid late-season applications of nitrogen fertilizer to limit the production of succulent tissue, which is more susceptible to infection.",
+        "Avoid overhead watering to help reduce the relative humidity.",
+        "Remove and destroy all infected plant parts (leaves, etc.) by burning or burying 50 cm below ground.",
+        "Do not use crop remains as compost manure."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for white to greyish powder like spots on stems, leaves and small branches.",
+        "The symptoms are common on the upper sides of the leaves though also appears on the lower leaves, young stems, flowers & young fruits.",
+        "Infected leaves curl and become distorted.",
+        "Leaves turn yellow with small spots of green.",
+        "Infected seedlings will eventually die.",
+        "Consider direct control when 6-10 plants out of 100 are displaying symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use fungicides:",
+        "Mancozeb, Dithane",
+        "M 45, Ridomil, Victory 72WP, Rodazim.",
+        "Sprays of potassium bicarbonate or sulphur based products will often control the disease.",
+        "Do not use collected leaves for composting.",
+        "Remove and destroy infected plant parts by burning/burying.",
+        "Water the crop early in the day at the root zone.",
+        "Garlic bulb spray.",
+        "Grind 2 garlic bulbs.",
+        "Add 4 cups of water and stir in few drops of soap.",
+        "Dilute 1 part of this filtrate with 9 parts of water.",
+        "Ginger powder extract.",
+        "Add 20 g of ginger powder to 1 litre of water.",
+        "Papaya leaf extract.",
+        "Soak 50 g of finely shredded leaves in 1 litre of water.",
+        "Stand for 1 night.",
+        "Squeeze extract and strain.",
+        "Add 2 -3 litres and 10 ml soap as adhesive."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides, wear protective clothing.",
+        "Follow instructions on product label (e.g. dosage, timing of application, pre-harvest interval etc.)",
+        "Do not empty into drains as chemicals can be toxic to aquatic organisms.",
+        "Always consult recent list of registered pesticides in your country",
+        "Chlorothalonil (Bravo",
+        "Ultrex, 1 lbs per 50",
+        "L of water, REI of 6 days).",
+        "WHO Class",
+        "U:",
+        "Unlikely to present acute hazard in normal use.",
+        "FRAC Code",
+        "M05.",
+        "Mancozeb (Dithane",
+        "M-45, Victory 72WP)",
+        "PHI 7 day, 1.12 kg/Ha, applied once per week.",
+        "WHO Class",
+        "U:",
+        "Unlikely to present acute hazard in normal use.",
+        "FRAC Code",
+        "M03."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Powdery Mildew leaves (Photo: Cesar Calderon, USHA APHIS PPW, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew on leaves (Photo: John Ruter, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Powdery Mildew on Cowpea, African eggplant and Pumpkin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Blast in Paddy",
+  "sections": {
+    "Header": [
+      "Blast in Paddy",
+      "Pyricularia oryzae Vernacular Name: Kulai Noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Decompose the straw and stubbles after the harvest.",
+        "Use a tolerant variety such as",
+        "CO 47, CO 50, ADT 36, ADT 37, ASD 16, ASD 20, ADT 39,ASD 19,TPS 3,White ponni, ADT 44, CORH, Palghuna, Swarnamukhi, Swathi, Prabhat, IR-64 and",
+        "IR – 36.",
+        "Avoid planting of susceptible varieties like",
+        "BPT-5204.",
+        "Avoid dry nursery management.",
+        "Avoid late season planting (November month).",
+        "Apply recommended level of",
+        "Nitrogenous fertilizer in three split doses 50% basal, 25% in tillering and 25% in panicle initiation stage.",
+        "Avoid excess application of",
+        "Nitrogen fertilizer.",
+        "Damaged leaf (Photo source:",
+        "MSSRF, Thiruvaiyaru)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Cloudy skies, frequent rain, drizzles, high relative humidity (90% and higher) and temperatures of 25-28°C Carry out regular observation from nursery to active tillering stage.",
+        "Initial symptoms are white to gray- green lesions or spots with brown borders.",
+        "Small specks originate on leaves surface -subsequently enlarge into spindle shaped spots with ashy center.",
+        "It affects all the parts leaf, neck and nodal portions. 5% ETL disease severity noticed in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Seed treatment with",
+        "Pseudomonas fluorescens talc formulation @10g/kg of seed.",
+        "Root dipping of seedlings in",
+        "Pseudomonas fluorescens @ 2.5kg, dipped for 30 minutes.",
+        "Spray",
+        "Pseudomonas fluorescens talc formulation @ 10gm/ litre of water from 45 days after transplanting at 10 days intervals, three times of application."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Avoid spraying during the neck stage of crop damage.",
+        "Kasugamycin 3% SL @ 3.5ml/ litre of water.",
+        "WHO Class",
+        "U (IV) (Unlikely to present acute hazard), Antibiotic, Systemic with translocation action.",
+        "WHO Class",
+        "U (IV) (Unlikely to present acute hazard), Methoxyacrylate",
+        "Strobilurin, Systemic fungicide.",
+        "Tebuconazole 25.9% m/m",
+        "EC @ 2ml/litre of water.",
+        "WHO Class",
+        "II (Moderately hazardous), Conazole (triazole group), Systemic fungicide.",
+        "Tricyclazole 75% WP @ 2.5gm/ litre of water.",
+        "WHO Class",
+        "II, Chemical group unclassified, Systemic fungicide"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Azoxystrobin 23% SC @ 2 ml/ litre of water."
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Blast in Paddy"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "symptom (Photo source: MSSRF, Thiruvaiyaru)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Nodal blast (Photo source: MSSRF, Thiruvaiyaru)"
+      }
+    ]
+  }
+}

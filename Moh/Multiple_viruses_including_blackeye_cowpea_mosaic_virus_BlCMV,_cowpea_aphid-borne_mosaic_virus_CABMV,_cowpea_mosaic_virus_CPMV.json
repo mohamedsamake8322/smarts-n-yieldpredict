@@ -1,0 +1,66 @@
+{
+  "title": "Mosaic diseases of cowpea",
+  "sections": {
+    "Header": [
+      "Mosaic diseases of cowpea",
+      "Multiple viruses including blackeye cowpea mosaic virus (BlCMV), cowpea aphid-borne mosaic virus (CABMV), cowpea mosaic virus (CPMV)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use varieties with known resistance to the main virus diseases, such as",
+        "BlCMV and",
+        "CABMV.",
+        "Only use seeds from healthy plants (those which lack obvious virus symptoms, particularly leaf mosaics and mottling).",
+        "Both",
+        "CABMV and",
+        "BlCMV, and other viruses on cowpea are seedborne.",
+        "Thoroughly remove weeds which may harbour aphids or other insect vectors.",
+        "Do this every season.",
+        "Avoid planting in the dry season when plants may be more stressed and aphid vectors, for example, are more likely to feed on plants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly visit the crop, taking action as soon as symptoms are detected.",
+        "Look out for:",
+        "A patchwork of irregular light-coloured areas scattered across the surface of the leaf.",
+        "Mosaic symptoms are easier to see with the leaf held against the light.",
+        "Leaves that are smaller than expected.",
+        "They may have a wrinkled appearance and loss of colour.",
+        "Disease vectors in the field.",
+        "CABMV and",
+        "BlCMV are transmitted by aphids, as is cowpea mosaic virus (CPMV).",
+        "Other viruses are transmitted by beetles or by whitefly.",
+        "It can be difficult to differentiate mosaics and mottling caused by different viruses (or combinations of them):",
+        "The discoloured areas in a leaf mosaic disease have a clearly defined boundary corresponding to leaf veins and differ from mottling, caused by different viruses on cowpea, where similar areas are not defined by veins.",
+        "Laboratory testing is essential for precise identification.",
+        "Good general advice on control can be given, however, based on a reliable field diagnosis of general virus attack."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn or bury (more than 50 cm deep) infected plants away from the crop field.",
+        "Collect and burn or deep plough crop residues after harvest to destroy insect vectors.",
+        "Do not plant new crops next to those that have the disease.",
+        "For aphid vectors:",
+        "Early in the aphid infestation and during the early stages of the aphid life cycle, apply a mixture consisting of leaf extracts from papaya, teabush, Siam weed ( C. odorata ) and neem.",
+        "Do not use insecticides to control the aphids.",
+        "The time is short between an aphid sucking up the virus when it feeds on a diseased plant and spreading the virus as it feeds again on a healthy one.",
+        "By the time the insecticide has killed the aphid it has spread the virus."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Advanced, non-specific mosaic symptoms: this could be one of several different viruses (Eric Boa)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Mosaic viruses can also reduce and distort growth – note the rough surface of smaller infected leaves (Eric Boa)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mosaic diseases of cowpea"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Stem borer on Rice",
+  "sections": {
+    "Header": [
+      "Stem borer on Rice",
+      "Scirpophaga incertulas Majra poka"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant rice varieties such as",
+        "IR 20 and",
+        "IR 26.",
+        "Avoid continuous water stagnation at early stages.",
+        "Remove and destroy weeds regularly.",
+        "Avoid ratooning.",
+        "Conserve natural enemies such as dragonflies, spiders, parasitic wasps, Telenomus sp, Trichograma chilonis by reducing the amount of broad-spectrum insecticides usage.",
+        "Promote ecological engineering in rice field to enhance natural enemies (promote more natural conditions and reduce human disturbance).",
+        "Follow crop rotation (e.g.",
+        "Legumes / vegetables for 2 to 3 years).",
+        "Place perching stands in field after transplanting for nesting insectivorous birds.",
+        "Burning rice stubbles after harvesting."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor weekly from seedling to harvest for the presence of the insect and damage symptoms.",
+        "Look for egg masses on the rice leaves.",
+        "Look for dead heart (central tiller dries up and is easily pulled from the base) at vegetative stage.",
+        "Look for whitehead (emerging panicles are whitish and empty) at reproductive stage.",
+        "Consider direct control actions when 2-3 egg masses/m2, 10-15% dead heart at vegetative stage and 5% White head symptoms at reproductive stage."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Install pheromone traps at 5 per acre from planting.",
+        "Set up light traps (1/acre in the field).",
+        "Collection and destruction of moths by sweeping and burning.",
+        "Release of",
+        "Trichogramma chilonis at a rate of 2 cc/ acre at 30, 37",
+        "DAT.",
+        "Spray",
+        "Neem based bio- pesticides like",
+        "Nimbicidine at a rate of 300 ml per acre at 15 days interval twice in a month.",
+        "Application of",
+        "Neem cake at a rate of 40 kg/acre at 40",
+        "DAT."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re- entry interval.",
+        "Do not empty into drains and water sources.",
+        "Apply thiamethoxam and clorantraniliprole 40WG 75 g/Ha.",
+        "Chlorantraniliprole – WHO Class",
+        "U (Unlikely to present acute hazard to normal use).",
+        "Spray carbosulfan 20EC at 1.5",
+        "L/Ha.",
+        "Carbosulfan – WHO Class",
+        "II (Moderately",
+        "Hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult moth (Merle Shepard)."
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Stem borer damage symptoms on rice (NBAIR)."
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larvae within rice stem (Merle Shepard)."
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Stem borer on Rice"
+      }
+    ]
+  }
+}

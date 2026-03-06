@@ -1,0 +1,63 @@
+{
+  "title": "Bacterial soft rot on cabbage",
+  "sections": {
+    "Header": [
+      "Bacterial soft rot on cabbage",
+      "Erwinia carotovora subsp. carotovora"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid water logging by planting on raised beds or ridges.",
+        "Rotate with leguminous crops such as beans and cereal crops such as maize for three seasons to avoid build-up of the disease innoculum",
+        "Avoid injury of crop while carrying out field operations as these will be form entry points of the disease",
+        "Avoid overhead irrigation to minimize soils splash that spreads disease",
+        "Avoid harvesting during warm and moist weather"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: turnip, rutubaga, broccoli and cauliflower.",
+        "Monitor the crop daily by looking for:",
+        "Water soaked lesions which spread rapidly over and into the head, becoming soft, mushy and dark in colour emmiting an offensive smell",
+        "Take action after one plant is affected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Harvest the healthy crop first and store in a cool, airy and disinfected store",
+        "Remove and destroy by ploughing-in all diseased debries",
+        "Uproot and carry away infected plants in a container to avoid spilling the affected soil.",
+        "Apply wood ash in the affected holes after uprooting plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides, wear protective gear and follow the instructions on the product label and safely dispose empty containers",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Disinfect all farm tools by dipping in 10% jik solution (3.85% sodium hypochlorite) at 50ml per litre of water for at least 5 minutes",
+        "Spray with copper based fungicides e.g.",
+        "Copper oxychloride (Amicop 50WP and",
+        "Cobox 50WP at 60gms/20L of water) and",
+        "Copper",
+        "Hydroxide (Cuprocaffaro",
+        "Micro 37.5",
+        "WG and",
+        "Kocide",
+        "DFat 50gms/20L of water) to minimize bacterial infection.",
+        "WHO II (Moderately hazardous)",
+        "PHI 7 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial soft rot on cabbage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bacterial soft rot on cabbage (Photo: Bernard Sakwa, MoALF, Kenya)"
+      }
+    ]
+  }
+}

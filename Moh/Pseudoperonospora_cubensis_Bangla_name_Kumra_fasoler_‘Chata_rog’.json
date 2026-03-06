@@ -1,0 +1,75 @@
+{
+  "title": "Cucurbits - Downy mildew",
+  "sections": {
+    "Header": [
+      "Cucurbits - Downy mildew",
+      "Pseudoperonospora cubensis Bangla name: Kumra fasoler ‘Chata rog’"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select land with good air movement and without shading to minimize leaf wetness.",
+        "Avoid dense planting for good aeration and exposure to sunlight.",
+        "Remove volunteer/wild cucurbit plants in and around the cucurbit field.",
+        "Fallow crop rotation with non- cucurbit crops (such as maize) at 1-year intervals.",
+        "Use balanced fertilizers to keep plant growth vigorous.",
+        "Avoid overhead irrigation to prevent leaf wetness."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the field regularly and examine cucurbit plants from the vegetative to fruiting stages.",
+        "Downy mildew infects all cucurbits, but cucumber, sponge gourd and ridge gourd are more sensitive to diseases.",
+        "Disease becomes more aggressive when heavy dews, fog or frequent rains occur.",
+        "Initially, small pale areas appear on upper surface of lower leaves which change to yellow angular spots restricted by veins.",
+        "Under surface of infected area of leaves appears water-soaked and fungus growth (mould) may be observed.",
+        "The entire leaf may die quickly."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected plants."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray fungicides considering the weather conditions or from disease initiation 2",
+        "3 times at 7",
+        "10 day intervals.",
+        "Take safety measures",
+        "wear gloves, cloths, masks, goggles etc. while spraying and follow the instructions on the product label",
+        "such as dosage and time of application.",
+        "Spray",
+        "Mancozeb 64% + Metalaxyl 8% WP (e.g.",
+        "Ridomil gold) at a rate of 2 g/ L water.",
+        "Metalaxyl - WHO class",
+        "II, moderately hazardous; FRAC code 4 (Mancozeb",
+        "WHO class",
+        "U, FRAC code",
+        "M 03).)",
+        "Spray",
+        "Azoxystrobin + Difenoconazole (e.g.",
+        "Amister",
+        "Top, Azofen 32.5SC) at a rate of 1 ml/L of water.",
+        "Difenoconazole - WHO class",
+        "II, moderately hazardous; FRAC code 3 (Azoxystrobin",
+        "WHO class",
+        "U, FRAC code 11)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Cucurbits - Downy mildew"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on leaves (Jason Brock, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Signs of downy mildew infection in a field (Jason Brock, University of Georgia, Bugwood.org)"
+      }
+    ]
+  }
+}

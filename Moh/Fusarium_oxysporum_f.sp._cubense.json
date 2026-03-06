@@ -1,0 +1,80 @@
+{
+  "title": "Fusarium wilt or Panama disease on Banana - Kenya",
+  "sections": {
+    "Header": [
+      "Fusarium wilt or Panama disease on Banana - Kenya",
+      "Fusarium oxysporum f.sp. Cubense"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Never plant bananas where there has been a history of",
+        "Fusarium wilt.",
+        "Plant resistant banana varieties such as dwarf or giant",
+        "Cavendish, Valery, Apple, FHIA 17, and",
+        "FHIA 23 but there's no resistance to the",
+        "Tropical race 4 strain.",
+        "Plant clean/certified planting materials.",
+        "Avoid runoff water from diseased areas as fungus is often spread by water.",
+        "Never move infected materials to uninfected sites.",
+        "Collect soil for analysis at",
+        "KALRO Kabete or any other certified laboratory to determine the pH.",
+        "Wash soil from all farm tools and boots and disinfect using approved chlorine-based products when moving from an infected area.",
+        "Ensure that the pH of the soil is above 7 by adding lime."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look on leaves for yellowing around margins that progresses from the older to younger leaves leading to the willting of the whole plant.",
+        "Look for leaves of infected plants which collapse and sag towards the pseudostem sometimes with the top leaf remaining upright.",
+        "Cut a cross-section of infected pseudostems and check for pale yellow, dark red or brownish colouration.",
+        "Monitor crop at least every 2 weeks and take action immediately if an infected plant is detected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "An infected plant should be killed in situ.",
+        "Do not dig out the plant or chop the plant into pieces.",
+        "Kill it with a herbicide injection.",
+        "Before planting seedlings, dip stools in",
+        "Trichoderma -based products."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always use products registered by",
+        "PCPB for target crops and pests.",
+        "Link www.pcpb.go.ke",
+        "Before use, read and follow pesticide product label instructions e.g.",
+        "PHI, REI, usage and disposal of pesticide waste.",
+        "Always wear appropriate protective equipment.",
+        "Do not empty pesticides into drains.",
+        "Always seek technical assistance before use of pesticide.",
+        "No synthetic chemicals are registered against fusarium wilt on banana.",
+        "However, effective chemicals registered against fusarium wilt on other crops may be used with caution.",
+        "Before planting, dip seedlings stools in carbendazim-based products as a prophylactic measure.",
+        "WHO Class",
+        "U (unlikely to present hazard under conditions of normal use).",
+        "Green band."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellowing of leaves from margins of older to young leaves. (Source: Rose Kamau, MoA Kenya)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Brown red ring-like lines. (Source: Rose Kamau, MoA Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt or Panama disease on Banana - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Collapsed and sagging leaves around the pseudostem. (Source: apps.lucidcentral.org)"
+      }
+    ]
+  }
+}

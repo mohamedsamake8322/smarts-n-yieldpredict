@@ -1,0 +1,76 @@
+{
+  "title": "Gummosis on Citrus",
+  "sections": {
+    "Header": [
+      "Gummosis on Citrus",
+      "Phytophthora spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant rootstocks such",
+        "Troyer citrange",
+        "Avoid planting citrus in areas with",
+        "Phytophthora spp. history",
+        "When planting check the lower trunk and rootstocks of new trees for any bleeding symptoms and discard these",
+        "Do not allow the bud union to be buried",
+        "Plant in well drained soils",
+        "When growing and transplanting seedlings a copper fungicide can be applied to the seedbeds before sowing or holes before transplanting to prevent the disease (see yellow direct control)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for leaf yellowing and falling",
+        "Look for signs of gumming on the trunk and soil build up around the crown"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot infected plants and burn"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Paint the trunks with copper oxychloride or hydroxide in early stages of infecton.",
+        "Remember to mix copper with vegetable oil so that it can stick.",
+        "Paint for 0.5-1m of the trunk from the ground",
+        "Drenching around the base of the plant with",
+        "Metataxyl + Mancozeb (e.g",
+        "Ridomil)",
+        "In the seedbed and when planting seedlings:",
+        "Apply",
+        "Copper oxychloride at the rate of 2.5kg in 15L water on seedbeds/holes before seedling emergence."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous.",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous.",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Gum exuding from a Citrus stem. Photo by Daniel W. Michael, Tigray Bureau of Agriculture"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Gummosis on Citrus"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf symptoms of gummosis. Photo by Eric Boa"
+      }
+    ]
+  }
+}

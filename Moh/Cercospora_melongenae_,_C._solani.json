@@ -1,0 +1,80 @@
+{
+  "title": "Cercospora Leaf spot on African Eggplant and Nightshade",
+  "sections": {
+    "Header": [
+      "Cercospora Leaf spot on African Eggplant and Nightshade",
+      "Cercospora melongenae , C. solani"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate with non-Solanacous species such as maize and beans.",
+        "Use disease-free transplants.",
+        "Contact local sellers for resistant varieties available in your area.",
+        "Remove weeds from within and around the garden.",
+        "Remove and destroy severely diseased leaves and plants by burning/burying.",
+        "Intercrop with other vegetables to interrupt pathogen transmission.",
+        "Maintain recommended spacing between plants (50 cm x 75 cm).",
+        "Do not work with wet plants as movement can disperse fungal spores.",
+        "Keep plants adequately fertilised.",
+        "Add compost manure to the field."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field frequently and look for plants with chlorotic lesions, angular to irregular in shape.",
+        "These later turn greyish brown with sporulation at the centre of the spot."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply appropriate protective copper based fungicides.",
+        "These can protect plants from disease:",
+        "Mancozeb, common fungicides on the market include",
+        "Dithane",
+        "M45, Victory 72",
+        "WP AND Rodazim (50 g per 10",
+        "L of water, repeat spraying every 10 days during disease presence).",
+        "Fungicides may be used during the seedling stage to reduce infection from soil-borne fungi.",
+        "N.B.",
+        "Always follow manufacturer’s instructions on the product label."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use",
+        "Chlorothalonil.",
+        "Spray with copper-based chemical, such as copper hydroxide and copper oxychloride.",
+        "Spray with",
+        "Mancozeb (50 g per 10",
+        "L of water)",
+        "WHO class",
+        "U; Unlikely to present acute hazard in normal use.",
+        "Copper hydroxide:",
+        "WHO Class",
+        "II.",
+        "Copper oxychloride:",
+        "WHO Class",
+        "II.",
+        "Class",
+        "II is moderately hazardous.",
+        "WHO Class",
+        "U; Unlikely to present acute hazard in normal use."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cercospora leaf spot symptoms (Mourad Louadfel, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cercospora leaf spot symptoms (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cercospora Leaf spot on African Eggplant and Nightshade"
+      }
+    ]
+  }
+}

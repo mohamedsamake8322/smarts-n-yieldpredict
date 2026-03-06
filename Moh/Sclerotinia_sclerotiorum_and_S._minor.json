@@ -1,0 +1,75 @@
+{
+  "title": "Collar rot of lettuce",
+  "sections": {
+    "Header": [
+      "Collar rot of lettuce",
+      "Sclerotinia sclerotiorum and S. minor"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Collect debris and burn or remove from field - do not plough back into the soil",
+        "Solarise soil with plastic sheets for 4-6 weeks before planting",
+        "Plant lettuce on raised beds with wider spacing (15cm x15cm) to give good aeration",
+        "Ensure good drainage and avoid using spinkler irrigation and water each plant individually to avoid disease spread",
+        "Ensure good farm sanitation.",
+        "Keep fields free of weeds",
+        "Practice long crop rotations (5 years+) with sweet potato and maize between each planting of lettuce",
+        "Treat seeds with a fungicide before sowing to prevent early infections (see yellow control for details)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor young transplants as they grow, particularly at the collar region for signs of rot",
+        "Check for brown lesions followed by cottony growth with hard black irregularly shaped structures (sclerotia) on the collar region close to the soil",
+        "Look for wilting or death of foliage beyond the lesion",
+        "Carry out direct control methods as soon as symptoms are seen"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "At early stage, rogue out infected plants before sclerotia are formed to prevent further soil contamination"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "No fungicide has given reliable economic control during disease outbreaks but seeds can be treated before sowing",
+        "Treat seeds with",
+        "Mancozeb at 3-4g/kg of seed before sowing.",
+        "FRAC code:",
+        "M3",
+        "WHO Class",
+        "U (Unlikely to present any hazard under normal use)",
+        "Treat seeds with",
+        "Folpet (Folpan 50",
+        "WP) at 3-4g/kg of seed before sowing.",
+        "FRAC code:",
+        "M4",
+        "WHO Class",
+        "U (Unlikely to present any hazard under normal use)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Visible black sclerotia and cottony white fungal growth (Nicole Sanchez, Oregon State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Severe symptoms of collar rot in the field (Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damaged to lower leaves and stem (Nicole Sanchez, Oregon State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Collar rot of lettuce"
+      }
+    ]
+  }
+}

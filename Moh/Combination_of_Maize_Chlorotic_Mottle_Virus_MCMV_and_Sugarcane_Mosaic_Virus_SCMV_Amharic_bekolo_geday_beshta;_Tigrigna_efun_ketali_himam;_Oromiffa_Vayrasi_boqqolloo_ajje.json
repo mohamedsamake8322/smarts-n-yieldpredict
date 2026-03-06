@@ -1,0 +1,91 @@
+{
+  "title": "Maize Lethal Necrosis Disease (MLND)",
+  "sections": {
+    "Header": [
+      "Maize Lethal Necrosis Disease (MLND)",
+      "Combination of Maize Chlorotic Mottle Virus (MCMV) and Sugarcane Mosaic Virus (SCMV) Amharic: bekolo geday beshta; Tigrigna: efun ketali himam; Oromiffa: Vayrasi boqqolloo ajje"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use",
+        "MLND free certified seed from registered suppliers (enterprises, cooperatives, agrodealers) – This disease is seed borne as well as transmitted by vectors",
+        "Do not move infected maize plants and seeds to",
+        "MLND free areas and avoid planting maize if an infected field is less than 500m away",
+        "Rotate with none cereal crops (beans, faba bean, chickpea, onion and vegetables) for at least 2-3 years/seasons",
+        "Remove alternate hosts (sorghum, grasses, millet, wheat, oats, sudan grass) and contol insect vectors (see yellow column)",
+        "Burn maize residues in the field after harvest",
+        "Leave land fallow for 2 months especially where maize is produced both in main season using rain and off-season using irrigation.",
+        "Plough and expose soil to sun light for at least 2 months before planting",
+        "Eliminate alternative host plants (weeds) of thrips, aphids and plant hoppers and clear/burn grasses around the field that could serve as a potential reservior of the insect vectors",
+        "Synchronize planting date among farmers of the area to break continuous disease spread between fields",
+        "Avoid physically transmission of",
+        "MLND since the virus can be carried on clothes",
+        "The use of",
+        "MLN disease resistant variety/ies in the future which are under development"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring for",
+        "MLNV should be carried out at a village level twice every week from crop emergence onwards",
+        "Look for the insect vectors under the leaves in the morning thrips, aphids, beetles and plant hoppers.",
+        "These insects are virus vectors and can transmit the disease",
+        "Monitor the plant at all stages of plant growth since the",
+        "MLN disease symptom/s could emerged at any of stage plant growth",
+        "Intially monitor small yellow areas (mottling) on leaves, later the leaves become paler, and then the edges turn brown and dry inwards",
+        "In some cases look for the dead heart and dead plant symptoms starting in the whorl of the plant.",
+        "Shrivelled ears, little or no grain produced, dwarfing and premature aging of plants could be monitored at each respective plant growth stage",
+        "The disease can be confused with maize streak virus which has thinner yellow stripes that do not merge and there is no marginal browning and drying up",
+        "Rogue out when the infected plant population is low or below 5% of the total field",
+        "Act immediately when symptoms are observed on a single plant – carry out direct controls (both green and yellow)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out all infected plants when observed in the field",
+        "Carefully remove diseased maize from the field and either bury the plant residues into more than 1m soil deep, burn or feed to animals, if there is no development of secondary fungal infection (rotting) on grain or cobs",
+        "Do not leave any diseased plants in the field as they will be a source of new infections",
+        "Imidacloprid (Tata mida 200SL) 6-10ml/20L; Systemic neconicoteinoid; IRAC mode of action: 4A"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MoA, Plant",
+        "Health",
+        "Regulatory",
+        "Directorate, Ethiopia",
+        "There are no chemical pesticides which can be used against",
+        "MLND as it is a combination of viruses",
+        "Insecticides can be used to manage the virus transmitting insect vectors but this should only be done if all diseased plants have been removed from the field",
+        "WHO class",
+        "II (moderately hazardous), REI-12hrs, PHI 7-14 days, toxic to bees do not apply at tasselling",
+        "Lambda-cyholothrin (Duduthrin 1.7",
+        "EC) 65ml/20L water; Contact and stomach action pyrethroid; IRAC mode of action: 3A",
+        "WHO class",
+        "II (moderately hazardous), REI-24hrs, PHI 30 days, Apply twice in planting season, highly toxic to fish avoid spraying near water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Chlorotic mottling of the leaves (Kasahun Sedessa, EIAR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize Lethal Necrosis Disease (MLND)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Necrosis and drying of the leaves (Kasahun Sedessa, EIAR)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Cobs showing poor grain formation and filling (Peter Kodwaran, Ministry of Agriculture Livestock and Fisheries (MoALF), Kenya)"
+      }
+    ]
+  }
+}

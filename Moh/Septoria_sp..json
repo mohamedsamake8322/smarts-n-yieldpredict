@@ -1,0 +1,74 @@
+{
+  "title": "Late Blight in Celery",
+  "sections": {
+    "Header": [
+      "Late Blight in Celery",
+      "Septoria sp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant pathogen-free seed and seedlings.",
+        "Treat seed with fungicide or hot water at 47°C for 1/2 hour prior to sowing.",
+        "Crop rotation will also help.",
+        "Avoid the use of heavy organic material as fertilizer during the rainy season.",
+        "Planting on raised beds will help drainage and reduce disease pressure."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor plants, early signs of yellowing and leaf spot of lower leaves indicates presence of disease"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove and dispose of diseased leaves, the fungi can survive on leaves and stem throughout the plants life.",
+        "Avoid excessive moisture reduce irrigation and avoid wetting plants on evenings.",
+        "If disease is present, avoid working in area when plants are wet",
+        "Apply appropriate foliar fungicides. e.g.Serenade 1-3 tbsp /gall.",
+        "Harvest stems regularly."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear appropriate protection when using chemical sprays.",
+        "Serenade is considered non-toxic but avoid the spray and avoid becoming contaminated.",
+        "Change the chemical control regularly to prevent the fungus becoming resistant to the chemical.",
+        "Apply appropriate foliar fungicides such as the systemic copper containing chemical.",
+        "Phyton-27 @ 1.-2 tsp/gallon.",
+        "Boscalid and",
+        "Pyraclostrobin (Bellis) @3Tsp/gal water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Copper containing products.",
+        "FRAC code",
+        "M1.",
+        "WHO Class",
+        "II Boscalid",
+        "FRAC 7",
+        "WHO class",
+        "U.",
+        "Pyraclostrobin",
+        "FRAC 11",
+        "WHO class na."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Necrotic lesion on celery caused by Septoria(Tamla Blunt, Colorado State University, Bugwood.org )"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Late Blight in Celery"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Necrotic lesion on celery caused by Septoria Tamla Blunt, Colorado State University, Bugwood.org"
+      }
+    ]
+  }
+}

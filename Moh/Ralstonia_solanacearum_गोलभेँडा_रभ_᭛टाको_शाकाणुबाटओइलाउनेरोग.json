@@ -1,0 +1,80 @@
+{
+  "title": "Bacterial Wilt in Solanaceous Vegetables - Nepal",
+  "sections": {
+    "Header": [
+      "Bacterial Wilt in Solanaceous Vegetables - Nepal",
+      "Ralstonia solanacearum गोलभेँडा रभ ᭛टाको शाकाणुबाटओइलाउनेरोग"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Choose a field and neighbouring area without prior history of bacterial wilt disease.",
+        "Do not grow solanaceous plants in known infested fields.",
+        "Use well drained and leveled fields and maintain good drainage in the field.",
+        "Remove any volunteer host plants and solanaceous weeds like",
+        "Solanum americanum .",
+        "Plant commercially-available, clean, and certified organically-produced tomato seedlings/potato seed/tubers.",
+        "Use disease-resistant varieties (e.g.",
+        "Tomato:",
+        "Srijana, NS 162; Brinjal:",
+        "Mayalu-555).",
+        "Use grafted seedlings of wilt-resistant wild eggplant ( Solanum sisymbriifolium ).",
+        "Apply soil solarization for seed bed.",
+        "This may require specialist knowledge.",
+        "Grow crops in ridge and furrow system.",
+        "Avoid root injury during intercultural operations.",
+        "Follow crop rotation with non-solanaceous crops, e.g. pea, cowpea, cauliflower, rice, maize, sorghum, wheat, carrots, soybean, sugarcane etc.",
+        "Sanitise the equipment that has been used for infected plants before using in healthy plants.",
+        "Avoid flood irrigation as this is a waterborne pathogen."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor crop daily for sudden wilting of plants in the field.",
+        "Split the stem and check for vascular discoloration (streaking) in basal stem of wilted plants.",
+        "Perform test by cutting basal stem of wilted plant for milky strands of bacterial ooze in a clear tube or a glass of water from cut face.",
+        "Seek advice on how to do this.",
+        "Take action as soon as you have observed a single wilted plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and bury infected plants (at least 50cm deep) outside the field or burn.",
+        "Take extreme care not to spread the pathogen.",
+        "Drain field as quickly as possible after rains.",
+        "Reduce irrigation frequency.",
+        "Isolate the diseased area by making furrows to reduce the spread of bacteria to non- infested parts of the field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Drench with copper oxychloride (COC) 50%WP @ 2 g/litre water, enough to wet basal",
+        "collar and rhizosphere of plant for 2 times at 7 days interval.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "COC has 21 days waiting period (PHI)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bacterial wilt in tomato (Photo: R.D. Timila)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Bacterial wilt in brinjal (Photo: R.D. Timila)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Wilt in Solanaceous Vegetables - Nepal"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bacterial ooze coming out from cut section of stem of infected plant (Photo: R.D. Timila)"
+      }
+    ]
+  }
+}

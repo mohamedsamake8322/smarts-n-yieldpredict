@@ -1,0 +1,89 @@
+{
+  "title": "Brinjal Shoot and Fruit Borer",
+  "sections": {
+    "Header": [
+      "Brinjal Shoot and Fruit Borer",
+      "Leucinodes orbonalis Shendi Pokharnari Ali"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid continuous cropping of brinjal crop.",
+        "Grow the varieties, pusa purple round, pusa purple long with long and narrow fruits in endemic areas.",
+        "In general, short and cylindrical varieties are more susceptible when compared to long and elongated varieties.",
+        "Adjust the time of transplanting at fourth week of",
+        "June.",
+        "Intercropping with cowpea, coriander, black gram, green gram and vegetable cowpea as border crops can enhance the activity of",
+        "Braconid parasitoid",
+        "Spray",
+        "NSKE 50ml per 10",
+        "L water to avoid egg laying prior to flowering stage"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor drying of shoots (dead heart) 45-50 days after transplanting",
+        "Observe the egg on the tender shoots",
+        "Observe the fruit bore holes with plugged excreta",
+        "Monitor for economic threshold level of 10% damaged shoots & fruits."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove the affected terminal shoot showing boreholes.",
+        "Carry out shoot clipping at weekly intervals during vegetative phase",
+        "Install",
+        "Lucin lure sex pheromone traps @ 5 traps/acre for early identification and destruction of the pest.",
+        "Encourage the activity of larval parasitoids:",
+        "Pristomerus testaceus , Cremastus flavoorbitalis",
+        "Install one light trap (200W mercury vapour lamp) per hectare between 7-9 pm to catch the adults",
+        "Collect and destroy infested shoots and fruits with larvae.",
+        "Soil application of",
+        "Neem cake @ 25 gm per plant 45 days after transplanting.",
+        "Spray azadiractin 0.03% @ 3ml/litre, from one month after transplanting at 15 days interval",
+        "Trichogramma chilonis 2 cc/acre release after 45 days after transplanting",
+        "Bt can also used: 250 gm/acre."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators",
+        "Apply",
+        "Phosalone 35% EC @ 300 ml/ acre",
+        "In case of severe infestation apply",
+        "Emamectin benzoate 5% SG @ 50g / acre",
+        "On severe infestation, foliar application of chlorantraniliprole 18.5% SC @ 0.4 ml/ litre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Phosalone:",
+        "WHO Class",
+        "II (Moderately hazardous)",
+        "Emamectin benzoate – not classified by",
+        "WHO",
+        "Chlorotraniliprole - WHO Class",
+        "U (Unlikely to present acute hazard in normal use)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Drying of Terminal Shoot (Dead heart). Source: MSSRF"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brinjal Shoot and Fruit Borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damaged Fruit with borehole. Source: MSSRF"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Pink Larva feeding inside the fruit Source: MSSRF"
+      }
+    ]
+  }
+}

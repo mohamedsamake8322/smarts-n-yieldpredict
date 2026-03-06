@@ -1,0 +1,89 @@
+{
+  "title": "Anthracnose in watermelon",
+  "sections": {
+    "Header": [
+      "Anthracnose in watermelon",
+      "Colletotrichum orbiculare (syn. Colletotrichum lagenarium ) Anthracnose of cucurbits"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified disease-free seed, obtained from a registered seed dealer, or select seed from uninfected plants, to avoid disease transfer to next season",
+        "Use disease-tolerant varieties like",
+        "Charleston",
+        "Gray",
+        "Rotate melons with breaks of at least 2-3 seasons with cereals, legumes or brassicas, because the disease stays in the soil for a long time",
+        "Destroy volunteer cucurbit plants by burying outside the fields",
+        "Prune plants to reduce humidity and improve air flow.",
+        "Do this when vines are not wet, as workers and equipment can spread diseases",
+        "Avoid overhead irrigation as splashes spread the disease, or if overhead irrigation is used, apply early in the day so that the plants dry quickly"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Anthracnose is a fungal disease that is mainly soil borne.",
+        "The disease usually attacks plants from leaves to stem later towards fruits",
+        "Look for small sunken circular spots on the leaves, near the veins, yellowish, brown to black",
+        "Look for long sunken spots on stems",
+        "Look for irregular spots on fruits 2-3 mm, sunken, wrinkled and dark.",
+        "Look for pinkish growth in the centre of the spots on the fruit.",
+        "But then action is too late",
+        "Check fields from 2 weeks after melon germination till harvesting, weekly in dry season and every 2 days in rainy season",
+        "Consider action when 6-10 plants out of 100 plants are showing initial spots of disease"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected parts using clean knives and pruning tools, to avoid disease spread.",
+        "Rinse tools in 1 to 5 % jik (NaOCl) solution to disinfect them.",
+        "Bury the infected parts at least 30 cm deep outside fields",
+        "Remove residues in infected fields after harvest as disease can survive in crop debris and bury out of the fields",
+        "A 5-minute immersion of harvested watermelon in warm water containing 120 ppm then rinse in water chlorine helps to prevent infection of healthy watermelons in storage. (Boil 5ltrs water and dilute with 5ltrs cold water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Most fungicide are protective thus cannot kill anthracnose disease ones in the plant.",
+        "Symptoms occur some weeks after infection.",
+        "Thus fungicides may have limited effect",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II products may not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides",
+        "ZEMA in",
+        "Zambia",
+        "Chlorothalonil – based products (such as",
+        "Bravo 720",
+        "SC, Diamond, Chloroflo 500SC and others) [Multi-site contact fungicide group (M5)], Protectant fungicide, Maximum 2 flat sprays not consecutively at 14 days interval",
+        "WHO toxicity class",
+        "U (unlikely to present acute hazard in normal use) ; pre- harvest interval p.h.i. 3 days, restricted re-entry interval day.",
+        "Toxic to fish and to earthworms",
+        "Azoxystrobin – based products (such as",
+        "Amistar, Amistar 250",
+        "SC, Ortiva and others)",
+        "WHO class",
+        "U (Unlikely to present acute hazard); p.h.i. 3 days ; r.e.i. 1 day, Toxic to aquatic organisms"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Stem with sunken long brown spots (Gerald Holmes, California Polytechnic State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Irregular sunken spots on the rind (surface) of melon fruit (Jason Brock, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Dark brown to black spots on watermelon leaf (Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Anthracnose in watermelon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Coffee mealybug",
+  "sections": {
+    "Header": [
+      "Coffee mealybug",
+      "Planococcus lilacinus Coffee mealybug, oriental cacao mealybug, lilac mealybug"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Mealybugs are small insects which can spread long distances via wind and can be transported on clothes and machinery:",
+        "Clean machinery and equipment before use if it has been used in infested (or potentially infested) field.",
+        "Clean shoes and clothes if you have been working in an infested (or potentially infested) field and are about to enter a different field.",
+        "Use clean planting material that is from a certified source.",
+        "Encourage presence of biological control agents such as parasitic wasps ( Anagyrus kivuensis ), lacewings and ladybirds that eat the bugs.",
+        "Maintain adequate shade.",
+        "Control ant populations since they can protect mealybugs from predators and can carry adults from infected to uninfected plants:",
+        "Apply a 20 cm band of a sticky substance such as petroleum jelly on the tree trunks, 15 cm from the ground.",
+        "This should help prevent ants from travelling up the tree.",
+        "Remove branches that are touching the ground to limit access points for ants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Adults: 1-3 mm in length, about 1.5 mm wide; adults are brownish-red/tan with clumps of white wax covering the body, dark stripe running longitudinally along the centre of the body; yellowish when newly hatched; oval-shaped and flattened.",
+        "Look for mealybugs between clusters of berries, on soft stem areas around cherries, flower buds, sucker tips, upper side of leaves and on twigs, underside of tender leaves and near the main root where soil is loose around the trunk.",
+        "Fruit: delayed ripening, abnormal shape, drop prematurely.",
+        "Leaves: sooty mould on upper surface (grows on honeydew excreted by mealybugs).",
+        "This can cause leaves to turn yellow and drop.",
+        "Capture winged males by using yellow sticky traps with a pheromone lure applied.",
+        "Follow product guidance.",
+        "Inspect plants at any time of the day especially during dry spells.",
+        "Consider taking action as soon as one mealybug is found on one plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray soapy solution made by dissolving a finger sized piece of bar soap in 20 litres of water.",
+        "Apply 1-2% vegetable oil such as neem oil on the infested plant.",
+        "Follow product label guidance."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Planococcus lilacinus adults (Peter A.C. Ooi/Tropical Press Sdn Bnd)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Coffee mealybug"
+      }
+    ]
+  }
+}

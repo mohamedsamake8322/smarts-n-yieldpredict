@@ -1,0 +1,61 @@
+{
+  "title": "Spiralling whitefly on cassava",
+  "sections": {
+    "Header": [
+      "Spiralling whitefly on cassava",
+      "Aleurodicus dispersus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant disease free and healthy planting materials.",
+        "Avoid planting cassava near alternate hosts such as pawpaw, guava and ornamental plants or remove them from near the cassava crop.",
+        "Plant early at the onset of rains.",
+        "Keep the field free from weeds and debris because they can be the source of infestation.",
+        "Cassava can be intercropped with legumes.",
+        "Bury or burn the infested plants after harvesting because flies can survive on crop residues and fly over long distances."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the farm regularly.",
+        "Scout by shaking the cassava to induce flying of the whiteflies.",
+        "They normally quickly fly in a circular manner and resettle after flying.",
+        "Look for whiteflies on the underside of the leaves.",
+        "They are generally active during the calm, still times of the day.",
+        "Look under the leaves for spiral patterns resembling fine cotton wool containing very tiny eggs and immature stages (nymphs).",
+        "Look for black sooty mould growing on the sugary secretions (sticky honeydew) that the whiteflies and their nymphs produce.",
+        "Control should be effected if flies population are seen on four or more cassava plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use naturally occurring biological control agents such as",
+        "Encarsia spp., ladybird beetles and other parasitic wasps to control nymphal stages.",
+        "Remove affected plant parts and burn or bury more than 50cm deep.",
+        "Use soap (\"alata soap\") solution and water to spray the affected plants at a rate of 5-8g/litre of water.",
+        "Spray early in the morning or late afternoon.",
+        "Repeat application every 2 weeks if the problem persists."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Controlling the pest using insecticides is not recommended because pests may develop resistance to pesticides and destroy natural enemies."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Whitefly spiralling patterns on leaves (David Cappaert, Michigan State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Spiralling whitefly on cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Whitefly infestation on the underside of a cassava leaf (R. Reeder, CABI)"
+      }
+    ]
+  }
+}

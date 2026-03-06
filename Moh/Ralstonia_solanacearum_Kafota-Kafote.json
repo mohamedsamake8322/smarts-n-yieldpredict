@@ -1,0 +1,60 @@
+{
+  "title": "Bacterial wilt of tomato",
+  "sections": {
+    "Header": [
+      "Bacterial wilt of tomato",
+      "Ralstonia solanacearum Kafota/Kafote"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seeds.",
+        "Carry out soil testing for presence of bacterial wilt and avoid planting in infected fields.",
+        "Uproot, dry and burn tomato stalks after harvest.",
+        "Avoid fields with history of bacterial wilts.",
+        "Practice 3-4 year crop rotation with crops from a different family, like maize and groundnuts.",
+        "Weed frequently and remove alternative hosts and volunteer plants.",
+        "Do not damage tomato plants during weeding.",
+        "Sterilize farm equipment such as knives and hoes with household bleach such as",
+        "JIK (50ml in 1L of water).",
+        "Reduce root knot nematodes in the field which aggravate bacterial wilt problems."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for sudden wilting of the plant, often without yellowing of the leaves, in fields when there is adequate moisture.",
+        "Cut open the stem and look for water soaked tissue which later turns brown and sometimes leaves the stem hollow.",
+        "Do the ooze test - cut the stem and suspend it in water to check if there is milky ooze coming out, this is the bacteria.",
+        "Carry out direct controls as soon as the first symptoms are seen in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot all infected plants, dry and burn the stalks outside the field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides are not recommended for management of this disease as they are of little or no use because the disease survives in the soil"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Internal discoloration of the stem caused by the disease (Don Ferrin, Louisiana State University Agricultural Center, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Bacterial streaming from cut stem into water (Jason Brock, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Wilting of the plant (Wamalanda Ndenje)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Bacterial wilt of tomato"
+      }
+    ]
+  }
+}

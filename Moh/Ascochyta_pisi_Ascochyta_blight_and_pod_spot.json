@@ -1,0 +1,63 @@
+{
+  "title": "Ascochyta blight on pea",
+  "sections": {
+    "Header": [
+      "Ascochyta blight on pea",
+      "Ascochyta pisi Ascochyta blight and pod spot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified clean seed",
+        "Plant a resistant cultivar if available",
+        "Plant crop as early as possible to increase yield potential",
+        "Plant pea seeds about 5 cm deep and when the average temperature is 15-20°C.",
+        "Optimal planting conditions will increase germination rates and general vigour, making the plants less susceptible to infection",
+        "Do not plant crop downwind of an infected field, or adjacent to one, since the disease can be spread by wind and water (splashing)",
+        "Rotate with crops other than beans and peas (legumes) for at least three years since",
+        "Ascochyta can remain in the soil for this long",
+        "Carry out straw chopping during combining or harrowing.",
+        "This will help speed up the decomposition of the residues on which",
+        "Ascochyta can live."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: soybean, sweet pea, lentil, alfalfa, common beans, clover, black-eyed pea, broad bean",
+        "Scout for symptoms during vegetative stage and throughout flowering",
+        "Look for:",
+        "Purplish brown spots or lesions varying in size on stems, tendrils and pods.",
+        "Lesions are sunken, enlarge and gradually join together, causing blighting and weakened stems",
+        "Brown pin-head sized dots within the lesions",
+        "Seeds: smaller yield, discoloured, shrunken",
+        "Consider control options as soon as symptoms are noticed.",
+        "If symptoms do not move up past the lower two thirds of the plant canopy then crop losses may not be that large",
+        "Monitor crop particularly closely when temperature is around 20°C and humidity is high for a prolongued period - these are optimal conditions for",
+        "Ascochyta development",
+        "Symptoms can be similar to those caused by",
+        "Ascochyta pinodes and",
+        "A. pinodella .",
+        "However, A. pisi does not usually attack the base of the plant or cause foot rot like",
+        "A. pinodes and",
+        "A. pinodella does"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Bury infested crop residue with cultivation"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Blight of pea (Courtesy of The Food and Environment Research Agency (Fera), Crown Copyright)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Pea Ascochyta blight (Guo Shupu, II-AAAS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Ascochyta blight on pea"
+      }
+    ]
+  }
+}

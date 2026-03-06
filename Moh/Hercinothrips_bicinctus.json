@@ -1,0 +1,72 @@
+{
+  "title": "Banana silvering thrips - Kenya",
+  "sections": {
+    "Header": [
+      "Banana silvering thrips - Kenya",
+      "Hercinothrips bicinctus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified healthy pest free seedlings.",
+        "Destroy all volunteer banana plants & old neglected plantations, which may harbour thrips.",
+        "Keep banana field free of host plants (pear squash, passionfruit, weeds).",
+        "Plant a trap crop hedge e.g.",
+        "Tephrosia spp. around the orchard."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor with blue sticky traps (one per acre).",
+        "When thrips are found on sticky traps, examine 5 bunches per hectare every 2 weeks for thrips or thrips damage.",
+        "Look for small (1.5 mm), slender, brown insects that fall on a white paper upon tapping banana flower & fruit.",
+        "Look for silver speckling on upper side of outer banana fruit.",
+        "Look for fruit browning & deep longitudinal cracks that may appear as a result of thrips damage.",
+        "Consider direct control if the damage becomes excessive."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Introduce",
+        "Bacillus thuringiensis var.",
+        "Kurstaki (Btk) 9 x 10 powder 7 spores/mg (biological larvicide).",
+        "Introduce",
+        "Amblyseious cucumeris 25,000 mites in 600c.c.",
+        "Spray",
+        "Verticillium (Lecanicillium) lecanii 1*109cfu/ml.",
+        "Spray with",
+        "Beauveria bassiana 1.0*108 cfu/m, Bio-pesticide.",
+        "Spray",
+        "Azadirachtin 0.03% w/w (32% neem oil) based products."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "PHI & MRL:",
+        "Not applicable for biopesticides in",
+        "WHO Class",
+        "U.",
+        "When using a pesticide, always wear personnal protective equipment.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Follow instructions on product label on",
+        "PHI, dosage, usage & disposal.",
+        "Farmers to always seek technical advice.",
+        "No synthetic chemicals registered against thrips in banana."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Thrips at adult (bottom) & larva stage (top) (Photo: Alton N. Sparks, Jr., University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Banana silvering thrips damage on banana fruit (Photo: A. M. Varela, ICIPE)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Banana silvering thrips - Kenya"
+      }
+    ]
+  }
+}

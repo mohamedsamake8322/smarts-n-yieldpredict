@@ -1,0 +1,100 @@
+{
+  "title": "Cowpea aphids on cowpeas",
+  "sections": {
+    "Header": [
+      "Cowpea aphids on cowpeas",
+      "Aphis craccivora groundnut aphid, Injina in tonga, Inda in nyanja"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Intercrop cowpeas with garlic to repel aphids",
+        "Rotate with cereals like maize, sorghum, millet, or with onion.",
+        "Do not rotate with groundnuts and not with legumes as they are also hosts.",
+        "Remove volunteer cowpeas in the following crop as they will host aphids.",
+        "Avoid using insecticides as they kill the numerous and usually effective natural enemies of aphids."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cowpeas for aphids and lady beetles (natural enemies) from young plant stage until harvest every 2 weeks in the mornings",
+        "Look for black or green tiny soft bodied insects (1 to 2 mm) on stems and the underside of leaves",
+        "At heavy infestation, leaves may curl and have many aphids underneath.",
+        "Look for honeydew (sticky substance) on leaves that comes from the aphids.",
+        "If 5 to 8 young plants out of 100 plants have several leaves with many aphids, consider green direct control.",
+        "If 10 to 20 young plants out of 100 plants have several leaves with many aphids, consider yellow direct control.",
+        "If 10 to 20 flowering plants out of 100 plants have several leaves with many aphids, consider green direct control.",
+        "If you find many ladybeetles, control may not be needed",
+        "Close to maturation, only heavy infestations across the field may need intervention with direct control."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prepare a chilli water soap solution (12 chillies + few drops soap as a spreader per 10 litres water) and spray directly on aphids on the underside of leaves in late afternoon, and not in full sunshine.",
+        "Spray neem tree extracts on to aphids on the underside of leaves.",
+        "Pound 2kg of neem leaves & soak in 10 litre water for ½ a day, add some drops of soap, then sieve before spraying.",
+        "Spray with",
+        "Tephrosia extracts.",
+        "Pound 25 leaves & soak in 10 litres water for 1 day, add few drops (or 50 g chopped soft) soap, and spray.",
+        "Repeat sprays after 2 weeks if needed.",
+        "Deltamethrin products (Pali, Decis, Netprotect, and others).",
+        "Pyrethroid contact insecticide.",
+        "Cypermethrin products (cypermethrin, Viraat, and others).",
+        "Pyrethroid contact insecticide.",
+        "Lambda-cyhalothrin products (Trigger, Boxer, Ninja).",
+        "Pyrethroid contact insecticide.",
+        "Thiamethoxam products (Actaca, Renova, and others).",
+        "Neonicotinoid systemic pesticide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Aphids are often controlled by natural enemies.",
+        "Thus only spray when aphid threshold is reached.",
+        "Reach good coverage with the spray and make sure it reaches the underside of leaves and stems, as most insecticides work on contact only.",
+        "When using a pesticide (even a botanical home-brew), always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "WHO Class",
+        "II moderately acute hazardous, Toxic to bees thus do not use on flowering crop or near bee hives.",
+        "Fish toxic.",
+        "Pre harvest interval (p.h.i.) at least 7 days.",
+        "Restricted re- entry interval (r.e.i.) 1 day.",
+        "Maximum 1 spray per season.",
+        "WHO Class",
+        "II moderately acute hazardous.",
+        "Toxic to fish, avoid mixing, spraying cleaning near fish ponds. p.h.i. 14 days, r.e.i. 1 day.",
+        "Maximum 2 sprays per season.",
+        "WHO Class",
+        "II moderately acute hazardous.",
+        "Toxic to fish, avoid mixing, spraying cleaning near fish ponds. p.h.i. 3 days, r.e.i. 1 days.",
+        "Maximum 2 sprays per season.",
+        "Not",
+        "WHO classified, but considered to be slightly acute hazardous in normal use, Toxic to bees thus do not use on flowering crop or near bee hives. p.h.i. 21 d, r.e.i. 1 d.",
+        "Max 2 sprays/season."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Heavy aphid attack (Infonet, Biovision)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Cowpea aphids: soft bodied, 1 to 2 mm (Infonet Biovision)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bad leaf development due to aphids on cowpeas (E. Phillips)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cowpea aphids on cowpeas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Thrips on vegetables",
+  "sections": {
+    "Header": [
+      "Thrips on vegetables",
+      "Thrips spp., Megalurothrips spp. Franklinella spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "When transplanting, check for possible thrips infestation and use pest-free planting material.",
+        "Avoid planting near existing grain fields if possible, because thrips may migrate to your fields when the grain senesces.",
+        "Intercrop with non-host crops.",
+        "Apply balanced crop nutrition and avoid overuse of nitrogen to promote plant vigour.",
+        "Use reflective or white plastic mulch.",
+        "Encourage predator activities by avoiding the use of broad- spectrum insecticides."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout field regularly on all parts of the plant for the presence of thrips and their damage symptoms (scars).",
+        "Use blue or white sticky trap or pan traps for monitoring the adult population.",
+        "Observe field borders where thrips numbers are usually high.",
+        "Action thresholds depend on season but you may consider treating when more than 30 thrips are found per plant across the plot."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray neem oil products (For 1% azadirachtin ~30ml/15L; 0.3% azadirachtin ~75ml/15L).",
+        "Aqueous neem kernel extract (ANKE) 750g/15L).",
+        "Apply",
+        "Acetamiprid + Indoxacarb based insecticide at 40ml/15L.",
+        "Contact and ingestion of systemic insecticide.",
+        "Spray",
+        "Chlorfenapyr based product at 15ml/15L.",
+        "Contact insecticide also exhibiting translaminar movement.",
+        "Spray with",
+        "Deltamethrin based insecticide at 75-110ml/15L.",
+        "Contact pyrethroid."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Rotate chemical use (change chemical regularly) to avoid the build-up of resistance.",
+        "Use",
+        "PPE when applying pesticides.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "IRAC 4A and 22A.",
+        "PHI 7 days; REI 24hrs.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "IRAC 13.",
+        "PHI 3 days; REI 24hrs.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other arthropods.",
+        "Maximum 3 applications per season.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "IRAC 3A.",
+        "PHI 5 days; REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and non-target arthropods.",
+        "Toxic to aquatic organisms, avoid using near waterways.",
+        "Maximum 3 applications per season."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Nymphs of thrips on onion leaf (Credit: Whitney Cranshaw, Colorado State University)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Effect of thrips infestation on onion plant (Credit: Utah State University)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Thrips on vegetables"
+      }
+    ]
+  }
+}

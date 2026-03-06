@@ -1,0 +1,62 @@
+{
+  "title": "Beet Armyworm - Cambodia",
+  "sections": {
+    "Header": [
+      "Beet Armyworm - Cambodia",
+      "Spodoptera exigua"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Cut grass weeds from bordering fields.",
+        "Remove weeds regularly to reduce breeding sites and shelter for armyworm.",
+        "Plough and harrow field thoroughly",
+        "Conserve natural enemies – Lacewings, predatory wasps, parasitic wasps, flies, and spiders attack armyworm caterpillars, by less spraying of pesticides."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular monitoring to look in field margins, low areas where plants have lodged, beneath plant debris around the base of plants, on the ground, and underneath the plant leaves for egg masses or larva.",
+        "Monitor in late evening or early morning for adult moth as well."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use botanical pesticide (e.g. fresh neem, lemongrass, ginger) 1 litre/15 litres of water.",
+        "Plough a deep ditch.",
+        "Keep it filled with water.",
+        "This method is helpful, when caterpillars are found to be moving towards your field from the adjacent fields.",
+        "Permethrin; Use 1 ml/l water; Non-systemic, contact and stomach poison; Or alpha cypermethrin (e.g.",
+        "Attach)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Bacillus thuringiensis (Bt)",
+        "Biopesticide should be applied in the evening; WHO Class",
+        "III (Slightly hazardous).",
+        "Fenobucarb (e.g.",
+        "Bascide); Use 20-30ml/8lit water; Non-systemic, contact action",
+        "Carbamate",
+        "IRAC Group 1A; WHO Class",
+        "II (Moderately hazardous); Use only when high infestation",
+        "Synthetic pyrethroid; IRAC Group 3A; WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage (bugguide.net)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Beet Armyworm - Cambodia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult (Merle Shepard, Gerald R.Carner, and P.A.C Ooi, Insects and their Natural Enemies Associated with Vegetables and Soybean in Southeast Asia, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Maize stem borer",
+  "sections": {
+    "Header": [
+      "Maize stem borer",
+      "Chilo partellus , Sesamia spp. In Sinhala: Puruk Panuva, In Tamil: Solam thandu thulaippan"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of infested stubble",
+        "For the maha season crop, initiate planting during the first week of",
+        "October to avoid the peak population which occurs in",
+        "January - February period.",
+        "Apply nitrogen fertilizer at recommended rate at basal dressing and 3 to 4 weeks after sowing."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular observation for infested plants",
+        "Holes on the stems and leaves and also for excreta of the pest"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove and destroy the plants with infested stems to prevent its spread and secondary infections"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when applying pesticides",
+        "Don’t eat or drink while using pesticides and take suitable precautions when disposing of materials"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class ll (Moderately hazardous)",
+        "Repeated application may lead to resistance buildup.",
+        "WHO Class",
+        "U (IV).",
+        "Etofenprox is",
+        "WHO Class",
+        "U (IV)",
+        "Place granules (one of the following two) in the central whorl at 3rd and 5th weeks after planting.",
+        "Diazinon 5%GR 15-20 kg/ha.",
+        "Fipronil 0.3%GR 12 kg / ha",
+        "Directly spray one of the following insecticide to the central whorl at 25-35 days and at 45-55 days after planting.",
+        "Novaluron 100g/l",
+        "EC 10ml /10 lit.",
+        "Etofenprox 100g/l",
+        "EC 15ml /10 lit"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damaged central whorl Photo by K.N.C.Gunewardena FCRDI, Maha Illuppallama"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "C. partellus larvae Photo by K.N.C.Gunewardena FCRDI, Maha Illuppallama"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "C. partellus with a damaged maize plant. Photo by K.N.C.Gunewardena FCRDI, Maha Illuppallama"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Maize stem borer"
+      }
+    ]
+  }
+}

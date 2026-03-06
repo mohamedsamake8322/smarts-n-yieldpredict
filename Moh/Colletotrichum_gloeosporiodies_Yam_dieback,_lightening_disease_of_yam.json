@@ -1,0 +1,59 @@
+{
+  "title": "Anthracnose on water yam",
+  "sections": {
+    "Header": [
+      "Anthracnose on water yam",
+      "Colletotrichum gloeosporiodies Yam dieback, lightening disease of yam"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Sources of infection are spores from other crops, weeds, infected tubers (sharing varieties between countries) spread via wind and rain.",
+        "To prevent the disease:",
+        "Use tolerant varieties.",
+        "Before planting, check each planting piece and discard parts with rots.",
+        "Plant early, ahead of the heaviest seasonal rains.",
+        "Early staking.",
+        "Plant maize around the crop.",
+        "Remove weeds that might be alternative hosts during the growth.",
+        "Avoid damaging tubers at harvest.",
+        "Avoid moving through the crop when the foliage is wet as this might spread the fungus.",
+        "If case of wind, avoid sprinkler irrigation.",
+        "Balance nitrogen fertilization.",
+        "Crop rotation; leave several years between two yam crops."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly for the disease, especially after several days of heavy rains, from 3 weeks after planting.",
+        "Symptoms vary according to the age of the leaf, the variety and the amount of rain:",
+        "Young leaf: small dark brown spots appear with yellow margins that expand rapidly and may merge to form large irregular blotches.",
+        "Older leaf: presence of pinpoint spots that do not expand.",
+        "New shoots: leaves and stems are infected and killed.",
+        "Defoliation and stem dieback of young shoots.",
+        "Blackening of older foliage and stems exposed to sunlight on susceptible varieties.",
+        "Reduced tuber yields.",
+        "On resistant varieties, only the young leaf veins are infected.",
+        "Take control measures when symptoms start to appear."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "After harvest, collect the vines and burn or bury.",
+        "Destroy creepers after infections."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Symptoms on leaves (IITA, flickr.com)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on leaves (IITA, flickr.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose on water yam"
+      }
+    ]
+  }
+}

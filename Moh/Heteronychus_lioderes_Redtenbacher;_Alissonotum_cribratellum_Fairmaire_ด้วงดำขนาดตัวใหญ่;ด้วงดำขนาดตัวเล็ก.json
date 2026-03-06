@@ -1,0 +1,56 @@
+{
+  "title": "Scarab beetle (Black beetles)",
+  "sections": {
+    "Header": [
+      "Scarab beetle (Black beetles)",
+      "Heteronychus lioderes Redtenbacher; Alissonotum cribratellum Fairmaire ด้วงดำขนาดตัวใหญ่;ด้วงดำขนาดตัวเล็ก"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Choose an appropriate plant date, avoid planting during end of",
+        "April – early of",
+        "June"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field surveys.",
+        "Take action when high populations of adult black beetles are found in light traps"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use black light light trap for attracting adult black beetles and keep them away (kill them) during early wet season"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Follow",
+        "RD recommendation of insecticide dose, method and crop stages",
+        "During severe outbreaks, use",
+        "RD recommended insecticides.",
+        "Use only once time especially, in rice dried out area and optimal humidity in rice field lamda-cyhalothrin",
+        "IRAC group 3A"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult of Black beetles Photo by: BRRD"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Scarab beetle (Black beetles)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Black beetle damage Photo by: BRRD"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Black beetle severe damage Photo by: BRRD"
+      }
+    ]
+  }
+}

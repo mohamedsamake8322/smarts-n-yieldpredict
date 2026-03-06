@@ -1,0 +1,91 @@
+{
+  "title": "Stem rust (black rust) on wheat",
+  "sections": {
+    "Header": [
+      "Stem rust (black rust) on wheat",
+      "Puccinia graminis Agada wagi or wagi jirma"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified, disease-free seed",
+        "Plant resistant varieties:",
+        "Mendoyu, Gelan, Sinja and",
+        "Sanate",
+        "When selecting varieties make sure they are suitable for the altitude where they will be grown",
+        "Avoid planting new wheat crop next to an infected field",
+        "Avoid walking through fields during the wet season to prevent disease spread from one plant to another",
+        "Rotate wheat with non-cereal crops: beans and other vegetables",
+        "Remove volunteer plants and alternative hosts (barberry and barley) before planting",
+        "Follow disease forecasting systems from national and international information centers",
+        "Prevent movement of infected plants across the field",
+        "Start working from the healthy part of the field before moving to the infected part"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: barley",
+        "Start field observation 3-4 weeks after planting especially if the weather is warm and the humidity high",
+        "Inspect for orange pustules surrounded by a halo at the margin",
+        "Look for elongated reddish-brown pustules on stems and both sides of leaves",
+        "Pustules dislodge orange to blackish spores",
+        "Take action once a single pustule is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and bury infected plant materials below 50 cm in the ground",
+        "Tebuconazole (Bless).",
+        "Systemic fungicide used as foliar spray.",
+        "Spray at a rate of 0.5l/ha by dissolving in 200-250 l of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MoA, Plant",
+        "Health",
+        "Regulatory",
+        "Directorate, Ethiopia",
+        "Propiconazole (Tilt 250EC, Albu, Bumper 25",
+        "EC, Panazole 25% EC)",
+        "Apply at a rate of 0.5",
+        "L/ha.",
+        "A systemic curative and prrotectant triazole fungicide, FRAC group: 3",
+        "WHO II (Moderately hazardous).",
+        "Toxic to aquatic organisms do not use near waterways.",
+        "No more than 2 applications per season.",
+        "PHI 45 days",
+        "Triadimefon (Bayleton 25",
+        "WP, Noble 25",
+        "WP)",
+        "Apply at a rate of 2.5-3.75 kg/ha.",
+        "A systemic curative and prrotectant triazole fungicide, FRAC group: 3",
+        "WHO II (Moderately hazardous).",
+        "Apply at first signs of the disease and again if infection occurs again.",
+        "PHI 28 days, REI 6 hours.",
+        "Toxic to aquatic organisms do not use near waterways",
+        "WHO II (Moderately hasardous).",
+        "Moderately toxic to water organisms, birds and pollinators.",
+        "PHI-30 days and",
+        "REI-12 hours"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem rust (black rust) on wheat"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Rust symptoms on wheat stems (David Mowbray, CIMMYT)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Stem rust symptoms on wheat grains (David Mowbray, CIMMYT)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Eggplant Fruit and Shoot Borer",
+  "sections": {
+    "Header": [
+      "Eggplant Fruit and Shoot Borer",
+      "Leucinodes"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Harrow the field to expose larvae to sunlight to kill them.",
+        "Incorporate all crop residues from the previous season into the soil (ploughing).",
+        "Establish maize trap barriers around eggplant plots 15 days before transplanting.",
+        "Conserve natural enemies by avoiding broad-spectrum insecticides and providing suitable habitat.",
+        "Use healthy, pest-free seedlings.",
+        "Raise seedlings far away from sources of infestation (old eggplant fields, eggplant stubble).",
+        "Grow seedlings under nylon netting to prevent moths from laying eggs on the plants.",
+        "Intercrop with coriander or fennel to reduce pest infestation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring for borers at the early vegetative stage.",
+        "Use pheromone traps to monitor adult moths.",
+        "Look for drooping tender shoots and wilting.",
+        "Observe crops for small exit holes below the calyx of fruits and the presence of larvae inside damaged fruit and shoots.",
+        "At crop fruiting stage, look for holes filled with insect excretions.",
+        "Look for reddish-translucent larvae or adult moths with white wings and characteristic brown 'heart' patterns.",
+        "Follow control actions if 2% of plants or a minimum of 1% of fruit show symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice good farm sanitation, i.e. remove and destroy infested plant materials.",
+        "Spray neem oil products (For 1% azadirachtin ~30ml/15L; 0.3% azad. ~75ml/15L).",
+        "Aqueous neem kernel extract (ANKE) 750g/15L).",
+        "Spray with",
+        "Emamectin",
+        "Benzoate based insecticide at 15ml/15L.",
+        "Systemic neonicotinoid.",
+        "Spray with",
+        "Imidacloprid based insecticide at 45mls/15L.",
+        "Systemic neonicotinoid.",
+        "Apply",
+        "Acetamiprid + Indoxacarb based insecticide at 40mls/15L.",
+        "Contact and ingestion of systemic insecticide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Rotate chemical use (change chemical regularly) to avoid the build-up of resistance.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "IRAC 4A.",
+        "PHI 5 days; REI 24hrs.",
+        "Eye and skin irritant.",
+        "Toxic to bees and other non-target arthropods.",
+        "Maximum 3 applications per season",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "IRAC 4A.",
+        "PHI 10 days; REI 24hrs.",
+        "Eye and skin irritant.",
+        "Toxic to aquatic organisms, do not use near waterways.",
+        "Maximum 3 applications per season.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "IRAC 4A and 22A.",
+        "PHI 7days; REI 24hrs."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leucinodes orbonalis (Credit: NBAIR)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Internal fruit damage (Credit: RARADC, Bandarawela)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Eggplant Fruit and Shoot Borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult fruit borer moth (Credit: Donald Hobern, www.flickr.com)"
+      }
+    ]
+  }
+}

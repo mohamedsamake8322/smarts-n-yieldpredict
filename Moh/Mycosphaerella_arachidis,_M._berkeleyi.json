@@ -1,0 +1,51 @@
+{
+  "title": "Early and late leaf spot of groundnut",
+  "sections": {
+    "Header": [
+      "Early and late leaf spot of groundnut",
+      "Mycosphaerella arachidis, M. berkeleyi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Sow the new crops as far away as possible from, and upwind of, older ones, especially if they are infected by leaf spots, in order to avoid disease spread.",
+        "Use resistant, early yielding varieties which yield in the shortest time to avoid the disease.",
+        "Remove volunteer plants and weeds to reduce humidity and chances of infection.",
+        "Deeply bury or burn plant debris after harvest, or feed it to animals.",
+        "Leave at least one year between crops planted on the same land."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Early leaf spot is more common at first.",
+        "This is gradually overtaken by late leaf spot, which produces more spots and more loss of leaves as the crop matures. (A hand lens or microscope is required to differentiate the diseases).",
+        "Look out for:",
+        "Oval spots on leaves, particularly the older leaves (this is the first symptom that appears, usually 45-60 days after sowing):",
+        "Early leaf spots are reddish-brown on the upper surface surrounded by a yellow halo and brown on the lower leaf surface.",
+        "Late leaf spots are dark brown to black, usually with a smaller halo or without one.",
+        "Dense spores form ring patterns on the undersurface.",
+        "Spots also appear on the stems and petioles.",
+        "Leaf and pod loss.",
+        "Temperatures of 25-30°C and 6-8 hours of high humidity are needed for infection and disease development."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If plants are infected, remove and bury or burn deep in the soil.",
+        "Do not compost."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Early leaf spot, showing spots on the top surface of the leaf and clear yellow halos (Grahame Jackson, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Early leaf spot (left) and late leaf spot (right) on lower surfaces of leaves (Jill M. Lenné/ICRISAT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Early and late leaf spot of groundnut"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Passion fruit woodiness disease in passion fruit",
+  "sections": {
+    "Header": [
+      "Passion fruit woodiness disease in passion fruit",
+      "Passion fruit woodiness virus passion fruit woodiness disease, Kigenge in Luganda language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Passion fruit woodiness disease is caused by a virus called potyvirus.",
+        "The virus is transmitted by at least 2 species of aphids; Myzus persicae (light green) and",
+        "Aphis gossypii (black) as well as by pruning tools",
+        "Plant certified disease-free seedlings",
+        "Avoid intercropping passion fruit with tomatoes, cucurbits and cowpeas as these are hosts of the virus.",
+        "Avoid weeds as these can be alternative hosts to the aphids",
+        "Control aphids at all crop stages as they transmit the virus"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Passion fruit commonly become infected and show symptoms six months from planting 7, monitor every 14 days for aphids to avoid transmission to uninfected plants",
+        "Virus symptoms on leaves:",
+        "Yellow light green mosaic appearance and mottling with dark green areas on raised spots",
+        "Misshapen and/or small fruits as well as leaves",
+        "Lack of growth of terminal shoot leading to bunchiness with harsh terminal leaves",
+        "Look out for aphids undersides of leaves because these spread the disease through feeding.",
+        "Aphids are tiny(1/4inch) light green, grey and may have waxy or woolly coating.",
+        "Leaves are sometimes covered with honey dew and sooty moulds causing the leaves and branches to appear black",
+        "On fruit: distortion, abnormal thickening, hardening of rinds caused by virus",
+        "Initiate control measures for aphids on noting 1 to 4 colonies of aphids per 10 plants or 10% infection of field, but only in case the virus is present in the area",
+        "When there are no virus symptoms known from the neighbourhood, then aphids do not need to be controlled.",
+        "When the virus is in the plants, and plants show virus symptoms, action is too late"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Control aphids as these transfer the disease while feeding.",
+        "Spray soapy water underside leaves, in morning or evening when sun is not hot (mix 2L water and 1 tsp liquid soap) and apply for 2-3 days for every 2 weeks until lower than threshold",
+        "Sterilise the pruning tools before and after use in a 1:5 ratio bleach or over a fire to not spread the disease",
+        "Plants showing typical virus symptoms should be uprooted and burnt to prevent further spread.",
+        "Spray",
+        "Lambda cyhalothrin, Pyrethroid with contact and stomach action, Usually at 1ml/L water but check label. 14 days interval",
+        "Imidacloprid.",
+        "A neonicotinoid, with systemic activity.",
+        "Check label for dosage"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No chemical control is effective for this virus disease",
+        "Only the virus",
+        "vectoring aphids may be controlled if threshold is reached and the virus known from the area",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "such as dosage, timing of application, pre",
+        "harvest interval, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides with",
+        "MAAIF,Uganda",
+        "WHO toxicity class",
+        "II (moderately acute hazardous to humans).",
+        "Re-entry",
+        "Interval",
+        "REI 12 hours; Pre-harvest interval",
+        "PHI:7 days",
+        "Harmful to bees and pollinators, so do not spray during flowering.",
+        "Max 2 sprays /season",
+        "WHO II (moderately hazardous to humans).",
+        "PHI: 14 days, REI: 24 hours.",
+        "Toxic to bees and other pollinators10, so spray after sunset, crop not flowering.",
+        "Moderately toxic to soil and water organisms, so do not use near waterways10"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Mosaic pattern of infected leaf (Magnus Gammelgoard)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Passion fruit woodiness disease in passion fruit"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Distorted fruit by wodiness disease versus healthy one (Joy.P.P Kau)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Tiny young and old green aphids vectoring the disease (Magnus Gammelgaard)"
+      }
+    ]
+  }
+}

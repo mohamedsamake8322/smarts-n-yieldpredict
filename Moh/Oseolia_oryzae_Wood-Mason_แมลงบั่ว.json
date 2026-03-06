@@ -1,0 +1,64 @@
+{
+  "title": "Gall Midge (RGM) on rice",
+  "sections": {
+    "Header": [
+      "Gall Midge (RGM) on rice",
+      "Oseolia oryzae (Wood-Mason) แมลงบั่ว"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Control weeds around the rice field before planting, especially wild rice, barnyard grass, jungle rice, wrinkle duck-beak (alternate hosts)",
+        "Plant resistant variety:",
+        "Muey",
+        "Nawng 62",
+        "M Appropriate planting dates:",
+        "Northern",
+        "Thailand: preferred transplanting method during",
+        "July-August or separate transplanting method 2 times per crop for reducing damage.",
+        "North-east",
+        "Thailand: preferred transplanting method during",
+        "June-July",
+        "In outbreak areas don’t sow or transplant densely (recommend 25x25 cm for transplanting and 15- 20 kg/rai for direct seeding)",
+        "Don’t apply any insecticides especially granular formulations.",
+        "Insecticides are not effective and destroy or kill natural enemies of gall midge (larvae parasitoids: platygasterid, eupelmid, and pteromalid wasps; pupa parasitoids: eupelmid wasps.",
+        "Phytoseiid mites (eggs) and spiders (adult)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe adult",
+        "RGM at lights along road side and home for adult",
+        "RGM In rice field, look for tubular gall during tillering stage"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use sticky board with oil next to home light to attract adult",
+        "RGM None"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult RGM (Jintana Chaiwong)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Gall Midge (RGM) on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larva of RGM (Rice Department, Thailand)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Tubular gall (Jintana Chaiwong)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Bean rust",
+  "sections": {
+    "Header": [
+      "Bean rust",
+      "Uromyces appendiculatus Kutu ya maharagwe (Swahili)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Practice two year crop rotation with non-leguminous plants such as tomatoes, cabbages and kales",
+        "Remove and burn old crop residues since the disease can live for one year on the material left in the field",
+        "Plant resistant varieties like",
+        "GLP-X 1127 new mwezi moja, New rose coco, for common bean and",
+        "Kutuless (J12) for",
+        "French beans.",
+        "Use clean bean seeds originating from non- diseased plants or from certified seeds dealers",
+        "Deep plough to about 45 cm to turn residues into the soil to encourage rotting of the plant remains and reduce the amount of fungal disease carried over to the next bean season",
+        "Avoid planting new bean crop next to an old bean field",
+        "Maintain weed-free field, in particular remove alternate host plants e.g.",
+        "Oxalis spp",
+        "Avoid relay planting",
+        "Avoid walking through the field during wet weather to prevent disease spread from one plant to another"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for small orange to yellow halo-like powdery pustules on the upper side and orange to red circular pustules on the lower leaf surface.",
+        "Also look out for pustules on the petioles, pods and the stem.",
+        "Consider applying direct control when brown pustules are observed on the leaves of 4-5 plants"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pick affected leaves, transport away from the field in a plastic bag and destroy by burning as soon as possible to prevent spores from spreading",
+        "Work on the healthy part of the field first before the infected area",
+        "Hexaconazole (e.g.",
+        "Cotaf 5% EC) at 75-100ml/20L of water",
+        "Chlorothalonil (e.g.",
+        "Daconil) at 72ml/20L, Twigathalonil 720",
+        "SC at 40ml/20L of water",
+        "Mancozeb (eg",
+        "Biothane",
+        "WP)",
+        "Mix 5g of",
+        "Biothane 80WP in 20litres of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains",
+        "WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "WHO III (Slightly hazardous); PHI 14 days; FRAC mode of action 3",
+        "WHO class",
+        "U (Unlikely to present acute hazard in normal use); Toxic to aquatic organisms; Do not spray near surface water or empty into water drains; PHI 7 days; FRAC mode of action 3",
+        "WHO class",
+        "U (Unlikely to present acute hazard in normal use); Toxic to aquatic organisms; Do not spray near surface water or empty into water drains; PHI 14 days; FRAC mode of action 3"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bean rust spots on bean leaf (AgrEvo)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Rust spots on bean pod (Howard Schwartz, Colorado State University, Bugwood)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Bean rust"
+      }
+    ]
+  }
+}

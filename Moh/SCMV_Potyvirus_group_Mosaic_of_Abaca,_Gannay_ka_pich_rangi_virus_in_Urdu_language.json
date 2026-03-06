@@ -1,0 +1,115 @@
+{
+  "title": "Sugarcane mosaic virus in sugarcane",
+  "sections": {
+    "Header": [
+      "Sugarcane mosaic virus in sugarcane",
+      "SCMV (Potyvirus group) Mosaic of Abaca, Gannay ka pich rangi virus in Urdu language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties like",
+        "CPF-248, Kahy, Lalri, and",
+        "US 778.",
+        "Avoid ratooning especially with likely infected planting material.",
+        "Avoid maize and sorghum in surroundings or as alternate crops because they are good hosts for aphid vectors of",
+        "SCMV i.e. green peach aphid ( Myzus persicae ).",
+        "Plant two weeks earlier to avoid coinciding with aphid vectors, but only helpful in isolated fields.",
+        "To minimize spread of sugarcane mosaic virus all equipment used should be sanitized.",
+        "Improvement in soil structure, rational fertilization, and irrigation to promote plant growth and improve disease resistance.",
+        "Fortify cropping systems and paying attention to rotation with non-host crops, such as soybeans, sweet potatoes and peanuts."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor from 5 to 6 leaves stage to 1 month before harvest.",
+        "Look for mosaic (alternate dark and light green patches of varying size and run parallel to the midrib of leaf) on basal portion of young leaves every 3 to 4 days",
+        "Yellow uneven stripes are visible against light.",
+        "Act immediately against vectors when symptoms are visible on young plants.",
+        "Yellow areas on leaves expands with time and leaf sheaths become infected.",
+        "Severe attack results in stunting.",
+        "Inspect for aphid vectors of",
+        "SCMV like cotton aphid ( Aphis gossypii ), green peach aphid, etc.",
+        "Take action if 5-15% of the observed plants are infested with 5-10 aphids on average."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release predators of aphids like midge-larvae ( Aphidoletes aphidimyza ).",
+        "Use 3000 midges per week per acre 2-4 times.",
+        "Release midges in evening/night.",
+        "Release green lacewing ( Chrysoperla carnea ) at the rate of 10 cards per hectare against aphid vectors.",
+        "Hang the lacewing containing cards in the evening.",
+        "Repeat this weekly with new cards 5-6 times.",
+        "Start using these cards in early",
+        "March and in surroundings with aphid hot spots.",
+        "Mix",
+        "C. carnea with",
+        "A. aphidimyza to increase the efficacy of both biological control agents.",
+        "In small fields, use water ground traps with sugar and a bit of soap to reduce ants because they carry aphids with",
+        "SCMV from one plant to next."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "All chemicals here are to control the aphid vectors.",
+        "There are no chemical viricides against",
+        "SCMV.",
+        "When plants are infected action is too late",
+        "Always wear protective clothing and follow the instructions on the product label.",
+        "Always consult recent list of registered pesticides of",
+        "Pakistan. http://plantprotection.gov.pk/downloads/",
+        "WHO toxicity class",
+        "II products may not be allowed in local",
+        "IPM schemes.",
+        "For vector control apply",
+        "Pymetrozine - products (for example",
+        "Plenum®).",
+        "Usually applied at 250g/acre (aerial application).",
+        "But double-check product labels.",
+        "Pyridine group with systemic activity.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Restricted re-entry interval r.e.i. 12 hours.",
+        "Pre- harvest interval p.h.i. 14 days.), max 2 repeats with minimum 30 day interval.",
+        "Toxic to parasitoids but less toxic to other beneficial insects, bees, soil and aquatic organisms.",
+        "For vector control apply",
+        "Bifenthrin - products; (for example",
+        "Curator®).",
+        "Usually applied at 125-150 ml/ acre, but double-check product labels.",
+        "Pyrethroid with contact activity.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Toxic to fish and aquatic organisms and can be toxic to bees.",
+        "PHI 7 days; REI 1 day.",
+        "For vector control apply",
+        "Chlorpyrifos - products (for example",
+        "Akofos ®).",
+        "Usually applied at 250 ml/acre, but double-check product labels.",
+        "Organophosphates with contact activity.",
+        "WHO toxicity class",
+        "II moderately hazardous.",
+        "Toxic to most of beneficial insects, bees, soil microbes and aquatic organisms.",
+        "PHI 30 days; REI 3 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Light creamy soft bodied aphid attack on sugarcane and transmit SCMV. Size: 5-10mm. (Photo: UGA Extension)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Mosaic on sugarcane leaves due to early infection of SCMV. (Photo: Philippe Rott, UF/IFAS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mosaic streaks on sugarcane leaves due to later infection of SCMV. (Photo: Scot Nelson, Hawaii.)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Sugarcane mosaic virus in sugarcane"
+      }
+    ]
+  }
+}

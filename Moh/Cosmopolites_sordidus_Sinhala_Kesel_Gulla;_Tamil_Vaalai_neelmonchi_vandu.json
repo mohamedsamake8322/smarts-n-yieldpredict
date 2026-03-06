@@ -1,0 +1,72 @@
+{
+  "title": "Banana Rhizome Weevil",
+  "sections": {
+    "Header": [
+      "Banana Rhizome Weevil",
+      "Cosmopolites sordidus Sinhala: Kesel Gulla; Tamil: Vaalai neelmonchi vandu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of abundant infected cultivations prior to new planting.",
+        "Use tissue culture planting material",
+        "Use un-infested healthy suckers.",
+        "Treat suckers:",
+        "Dip rhizomes in water for 48 hours before planting; Dip rhizomes in a slurry of wood ash + fresh cow dung + insecticide (see",
+        "Diazinon in yellow direct control column) for approx. 5-10 minutes",
+        "Establish plants to form a natural barrier around the field (e.g.",
+        "Gliricidia).",
+        "Clean the suckers before planting by removing damaged roots and outer layer of rhizome.",
+        "Prevent entering of water from infested fields by making ditches",
+        "Field sanitation:",
+        "Cut harvested stems at soil level and cover the rhizome with soil.; Split all the harvested stems and allow to dry."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits to the farm for identification of infested plants.",
+        "Observe symptoms of yellowing of leaves, retardation of growth.",
+        "Highly infested plants topple over even with a mild wind",
+        "Use pseudo stem traps to monitor the population.",
+        "Cut across the rhizomes of suspected plants for the confirmation of presence of adults and larval stages.",
+        "Apply green direct controls when damage is first observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Vertical sections of 2 feet long pseudo-stem pieces are placed on the field with the cut stem touching the soil.",
+        "Every fortnight destroy the stem pieces along with the attracted weevils.",
+        "Replace the stem pieces with fresh stem traps.",
+        "Soil application of",
+        "Diazinon 5% GR (10g / plant when symptoms appeared)",
+        "Fipronil 0.3% GR (10g / plant)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous); Non-systemic organophosphate pesticide; Insecticides should not be applied to the fruit bearing plants.",
+        "WHO Class",
+        "II; Pyrazole pesticide; Non systemic pesticide with contact + stomach action; Field persistence is low to moderate in water and soil; Toxic to aquatic organisms, bees and certain birds and reptiles."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage tunnels in rhizome (A. M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult rhizome weevil (McCormack, G., cookislands. Bishopmuseum.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Ooze out from the damage holes (www.nrch.res.in)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana Rhizome Weevil"
+      }
+    ]
+  }
+}

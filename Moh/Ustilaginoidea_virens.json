@@ -1,0 +1,68 @@
+{
+  "title": "False Smut",
+  "sections": {
+    "Header": [
+      "False Smut",
+      "Ustilaginoidea virens"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Keep the field clean of weeds.",
+        "Remove infected seeds, panicles, and plant debris after harvest.",
+        "Cultivate unflooded rice (e.g. furrow irrigation) to reduce the disease.",
+        "Use moderate rates of nitrogen.",
+        "Use a resistant variety, if available",
+        "Treat seeds with hot water 52°C for 10 min."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Fields monitor regularly – at weekly intervals",
+        "Remove infected plants when population low."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray fungicide when outbreak, >10% infection",
+        "Spray fungicide when outbreak, >10% infection",
+        "Cabendazim : 1l with 200-400L of water /ha",
+        "Mancozeb : 1l with 200-400L of water /ha",
+        "Hexaconazole. 1ml/lit with 200-400L of water /ha",
+        "Propiconazole. 1ml/lit with 200-400L of water /ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray at early tillering and pinnacle initiation to heading stage",
+        "FRAC CODE group 1.",
+        "WHO Class",
+        "IV (U) (Unlikely to present acute health hazard)",
+        "FRAC CODE group",
+        "M3.",
+        "WHO Class",
+        "IV (U) (Unlikely to present acute health hazard)",
+        "FRAC CODE group 3.",
+        "WHO Class",
+        "III (Slightly hazardous",
+        "FRAC CODE group 3.",
+        "WHO Class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom damagd by Fales Smut (www.irri.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "False Smut"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Black spores of false smut (IRRI)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mite on Cassava",
+  "sections": {
+    "Header": [
+      "Mite on Cassava",
+      "Mononychellus mcgregori"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant/tolerant varieties.",
+        "Practice field sanitation.",
+        "Select mature, healthy and pest-free cuttings for planting, don't use cuttings from the top green stems or bottom portion.",
+        "Plant early, at the onset of the rains, to encourage vigorous growth and thereby increase tolerance to mite attack.",
+        "Plant cuttings horizontally and cover completely with soil.",
+        "Practice intercropping (e.g. with pigeon pea).",
+        "Encourage the presence of predators that feed on mites by reducing chemical use and keeping wild plants that attract the predators (e.g.",
+        "Euphorbia heterophylla ).",
+        "Remove and burn crop residues.",
+        "Rotate crop with non-host plants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring regularly 4-6 weeks after planting:",
+        "Look for green or greenish yellow adults on growing points of the plant (shoots, buds, young leaves), lower parts of the plant are less affected.",
+        "Eggs, slightly flat in shape and laid individually, are found on the underside of the leaves and along the central or lateral leaf veins.",
+        "Signs of mite presence:",
+        "Webs on leaves.",
+        "Large number of small round yellow dots on the base of leaves.",
+        "Leaves lose their green colour, develop a mosaic-like appearance and have deformed leaf edges.",
+        "Damage can be confused with that caused by thrips, where the leaves keep their normal green colour, show fewer leaf spots, are irregular in shape, and have leaf deformation that reaches the central vein.",
+        "In severe mite attack, stems become scarified and there is a reduction of tubers and dieback."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use predatory mites available in your country (e.g.",
+        "Phytoseiids",
+        "Typhlodromalus aripo or",
+        "T. manihoti ); spread or release during the dry season when mite population is high.",
+        "During the growing period and after harvest, destroy the infested stems outside of the field.",
+        "Remove infested tips with hand pruners and destroy outside of the field.",
+        "Control the mites by spraying a solution of: 3 garlic plants crushed in 10L of water, with 7gm of powder soap. 500 g of onion crushed in 10L of water, with 2 teaspoons of vegetable oil and 7gm of soap powder.",
+        "Insecticide applications are not effective over a long period of time as they reduce predator populations, causing the mites to reappear rapidly."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult M. mcgregori (Aymer Andrés Vásquez-Ordóñez, CIAT)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage on leaves (Aymer Andrés Vásquez-Ordóñez, CIAT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mite on Cassava"
+      }
+    ]
+  }
+}

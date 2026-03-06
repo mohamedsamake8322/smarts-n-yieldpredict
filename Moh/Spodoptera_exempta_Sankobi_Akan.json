@@ -1,0 +1,83 @@
+{
+  "title": "Armyworms on maize",
+  "sections": {
+    "Header": [
+      "Armyworms on maize",
+      "Spodoptera exempta Sankobi (Akan)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove weeds such as",
+        "Amaranthus and wild grass species that harbour armyworm larvae",
+        "Avoid planting close to overgrazed grasslands which provide food and refuge for caterpillars",
+        "Grow low value grain crops such as finger millet as trap crops to attract armyworms",
+        "Remove alternate host plants such as millet, sorghum, rice, leafy vegetables etc."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring immediately after germination.",
+        "Visit farm daily to inspect for defoliation (chewed leaves), feeding frass and caterpillars (which are grey-green with yellow stripes along the back).",
+        "Examine soft stems, and developing shoots for hidden caterpillars",
+        "Take direct control action when eggs are present on 2 to 5% of seedlings or when 10 to 25% of plants show signs of feeding damage",
+        "Set pheromone traps (placed 20m apart) and examine pheromone traps weekly"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pick egg masses when you see them on the underside of the leaves, and destroy them",
+        "Pick and destroy colonies of widely dispersed caterpillars if possible.",
+        "Plough deep trench around field and fill with water to stop the movemet of the armyworms from field to field",
+        "Spray crop with",
+        "Lambda- cyhalothrin product (eg.Pawa 2.5",
+        "EC at 40mls/15L of water).",
+        "It is a synthetic",
+        "Pyrethroid (IRAC, 3A).",
+        "It is a contact insecticide",
+        "Spray with",
+        "Cymethoate (Cypermethrin (36g/l) + Dimethoate (400g/l). 1-1.5Lit/ha.",
+        "Cypermethrin is a synthetic",
+        "Pyrethroid (IRAC,3A).",
+        "It is contact.",
+        "Dimethoate is an",
+        "Organophosphate (IRAC,1B)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance; always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO Class",
+        "II (Moderately hazardous); Maximum 3 applications per season in the morning and later in the day.",
+        "PHI 3 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other non target arthropods.Toxic to aquatic organisms.",
+        "Avoid using near water ways.",
+        "WHO Class",
+        "II (Moderately hazardous); Maximum 3 applications per season in the morning and later in the day.",
+        "PHI 7-14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Highly toxic to bees and other non target arthropods.Toxic to aquatic organisms.",
+        "Avoid using near water ways."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Larva of armyworm feeding on maize leaves (©Rikus Kloppers/PANNAR Seed (Pty) Ltd, Greytown, South Africa)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult female armyworm (©Georg Goergen/IITA Insect Museum, Cotonou, Benin)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Armyworms on maize"
+      }
+    ]
+  }
+}

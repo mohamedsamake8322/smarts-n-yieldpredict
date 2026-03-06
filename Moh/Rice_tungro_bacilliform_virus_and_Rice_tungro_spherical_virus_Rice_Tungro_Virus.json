@@ -1,0 +1,77 @@
+{
+  "title": "Management of Rice Tungro disease",
+  "sections": {
+    "Header": [
+      "Management of Rice Tungro disease",
+      "Rice tungro bacilliform virus and Rice tungro spherical virus Rice Tungro Virus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid ratooning of rice and cultivate the land immediately after harvesting",
+        "Seedlings should not be raised near the tungro infected rice field",
+        "Check for green leaf hoppers in the seedbed and control by sweeping or insecticide spraying",
+        "Use a tolerant variety like",
+        "BR3, BR14, BR16 and",
+        "BR22, BRRI dhan37, BRRI dhan39, BRRI dhan41 and",
+        "BRRI dhan42",
+        "Consider attempting to grow rice alongside other crops as these will provide natural enemies for",
+        "GLH contol"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: grasses",
+        "First symptoms appear in a few scattered plants and then in a patchy pattern in the field",
+        "Observe the presence of green leaf hoppers (GLH) by sweeping or setting up a light trap; this insect carries the disease",
+        "Symptoms include stunting of plants if infection occurred at early growth stage along with interveinal chlorosis.",
+        "Yellowing and orangey coloration starts from the leaf tip and extends down.",
+        "Low tillering and weak root in severe infection.",
+        "Flowering and panicle exertion delayed or incomplete",
+        "Flowering and panicle exertion delayed or incomplete"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot the infected plants at primary level of infection when a very few plants infected",
+        "Use a light trap and set up a bowl of soap water under the light trap to trap the green leaf hoppers"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply insecticides during early morning and or late afternoon",
+        "Use mask during spraying of pesticides",
+        "Spray",
+        "Malathion 57",
+        "EC 1.0",
+        "L/ha in 500-600",
+        "L of water if",
+        "GLH is available in the seedbed or rice field",
+        "Malathion- WHO Class",
+        "III, IRAC 1B",
+        "Carbaryl 85",
+        "WP 1.7 kg/ha in 500-600",
+        "L of water if",
+        "GLH is available in the seedbed or field",
+        "Carbaryl- WHO Class",
+        "II, IRAC- IA",
+        "Isoprocarb 75",
+        "WP 1.1 kg/ ha in 500-600",
+        "L of water if",
+        "GLH is available in the seedbed or rice field",
+        "Isoprocarb- WHO Class",
+        "II, IRAC IA"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Management of Rice Tungro disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Rice crop showing effect of Rice Tungro Bacilliform Virus (Photo by H. Hibino)"
+      }
+    ]
+  }
+}

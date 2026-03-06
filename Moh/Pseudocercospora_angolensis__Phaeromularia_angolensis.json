@@ -1,0 +1,89 @@
+{
+  "title": "Phaeromularia fruit and leaf spots of citrus",
+  "sections": {
+    "Header": [
+      "Phaeromularia fruit and leaf spots of citrus",
+      "Pseudocercospora angolensis ( Phaeromularia angolensis )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Establish orchards using clean seedlings free from diseases sourced from",
+        "KALRO Matuga, HCD, Plantech.",
+        "Prune the trees to reduce humidity in the orchard as this favors disease development.",
+        "Mulch plants to avoid spread of fungi to lower leaves.",
+        "Collect old plant debris from the field immediately after harvest and burn to reduce inoculum levels for the next season crop.",
+        "Regularly weed the fields to reduce humidity within citrus crops, thus preventing infection.",
+        "When establishing the orchard, space the plants at about 6x6m (small varieties) and 8 x 8m (large varieties) to improve aeration."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for: greenish yellow spots on leaves which later turn brown with a yellow halo.",
+        "Brown sunken circular spots with raised edges and a yellow halo on fruit, giving a blister like appearance.",
+        "Spots may coalesce.",
+        "Dark brown spots on stems, which may merge and cause dieback.",
+        "Scout weekly for presence of spots especially during wet weather which favors disease development.",
+        "Take action when 30% of leafspots are seen on a plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice field sanitation by removing and destroying (e.g by burning) infected plant parts/ plant debris to reduce disease inoculum on the farm.",
+        "Apply neem oil.",
+        "Add 10 ml soap to 1L of water and stir to mix.",
+        "Add 50 ml neem oil to the 1L water-soap solution and mix thouroughly.",
+        "Add the oil-water- soap solution to 14 litres water in the knapsack and apply within 8 hrs.",
+        "Ensure thorough coverage.",
+        "Spray the plants by using",
+        "Trianum-P ( Trichoderma harzianum ) at a rate of 15g in 5L or",
+        "Trichotech ( Trichoderma asperellum ) at a rate of 2.5g in 20L of water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Apply copper based fungicide such as, Vitra 40 wg, Champflo at 50g/20l of water.",
+        "Start spraying when you notice brown spots on the leaves.",
+        "WHO Class",
+        "II .(Moderately hazardous).",
+        "PHI 3 days.",
+        "REI-24 hrs.",
+        "Repeat every 7 days.",
+        "Spray",
+        "Mancozeb such as",
+        "Oshothane, Dithane at the rate of 50g/20L of water.",
+        "WHO Class",
+        "U.",
+        "Unlikely to cause acute harm.",
+        "PHI 7 days (Oshothane, Dithane).",
+        "PHI 14 days (Fantic",
+        "M4), REI-24 hrs .",
+        "Spray with chlorothalonil based fungicides such as",
+        "Compliant 560 (40ml/20L of water); Daconil 720 (85ml/20L of water).",
+        "WHO Class",
+        "II.",
+        "Moderately hazardous.",
+        "PHI 7 days intervals.",
+        "REI-24 hrs.",
+        "Repeat every 7-14 days for as long as needed."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf spots with a yellow halo on leaves (Seif A.A. ICIPE)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Phaeromularia fruit and leaf spots of citrus"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown, circular, sunken blister like spots with a yellow halo on fruits (Ruth Amata, KALRO)"
+      }
+    ]
+  }
+}

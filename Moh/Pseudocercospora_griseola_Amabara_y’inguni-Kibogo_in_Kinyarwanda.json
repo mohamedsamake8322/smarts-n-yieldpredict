@@ -1,0 +1,56 @@
+{
+  "title": "Angular leaf spot on bean",
+  "sections": {
+    "Header": [
+      "Angular leaf spot on bean",
+      "Pseudocercospora griseola Amabara y’inguni/Kibogo in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seeds (RAB, seed multipliers, agrodealers)",
+        "Remove plant residues after harvest",
+        "Avoid moving in the field when it is wet",
+        "Crop rotation practice with cereals (like maize) and tubers (like potato) for 2 seasons",
+        "Use resistant varieties released by",
+        "RAB (RWV3006, RWV 3316, RWV 3317, MAC 44, RWV1129, RWR2154)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor for symptoms of angular spots on leaves and large oval to circular spots on pods, once a week.",
+        "Monitor especially during pod filling",
+        "Symptoms include brown angular spots on leaves and pods",
+        "Consider taking action when 5% of plants with angular spot detected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot heavily (large sporulating and coalescing regions, premature defoliation) infected plants to prevent further spread",
+        "Mancozeb 80% WP (40-50 gr/20L of water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear personal protective equipments (PPE).",
+        "Do not eat or drink while manipulating pesticides.",
+        "Unlikely to present acute hazards in normal use (WHO Class",
+        "U); Contact protectant fungicide; Do not harvest for 7 days after application; Spray when leaves, flowers or pods on plants first show signs of infection and weather conditions are likely to remain humid or wet and favour disease development; If disease pressure is severe and conditions favour spread of disease, repeat sprays at 2 to 3 weeks to protect new growth and developing pods."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Angular leaf spot on bean"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Angular leaf spots on leaves (D. Mukankubana, RAB)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Bean pods with angular leaf spot (D.J Hagedorn & D.A. Inglis. Handbook of Bean Diseases)"
+      }
+    ]
+  }
+}

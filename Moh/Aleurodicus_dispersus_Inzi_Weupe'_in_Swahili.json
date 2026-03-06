@@ -1,0 +1,81 @@
+{
+  "title": "Whiteflies on mango",
+  "sections": {
+    "Header": [
+      "Whiteflies on mango",
+      "Aleurodicus dispersus Inzi Weupe' in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove plant debris, burn or bury 2 feet deep to destroy the eggs before establishing new crop",
+        "Keep the field free of weeds in the orchards as they act as alternate hosts",
+        "Plant coriander and",
+        "Mexican marigold around the edge of the field to repel whiteflies",
+        "Conserve natural enemies by avoiding spraying during flowering"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: beans, brassicas, cassava, citrus, cotton, cucumber, eggplant, green gram, mango, okra, papaya, peppers, pigeon pea, pumpkin, sesame, sweet potato, tomato, watermelon",
+        "Look out for whitish-brown eggs and/or whitish adults on the underside of young leaves",
+        "Shake the young leaves to observe a cloud of 3-5 white insects",
+        "Check for yellowing symptoms on lower leaves of the trees",
+        "Check for sticky substance (honeydew) which makes leaves appear shiny and sooty (black) with mold",
+        "The treatment threshold for mango whitefly is about 4 adults per leaf in a random 30-leaf sample of healthy leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune heavily infested parts of the tree and burn the debris",
+        "Use yellow traps to monitor the presence of whiteflies at a rate of 1-4 traps per 300m 2",
+        "Spray",
+        "Azadirachtin 0.03% +Neem",
+        "Oil based products (Neemroc",
+        "EC) at a rate of 50ml in 20L of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear protective clothing when using a pesticide",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re-entry interval",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Wash hands after handling pesticides",
+        "Spray with",
+        "Lambda- cyhalothrin",
+        "Karate 2.5",
+        "WG at 20g in 20L of water or",
+        "Dududthrin 1.7",
+        "EC at 60ml in 20L of water",
+        "WHO class",
+        "II, (Moderately hazardous)",
+        "PHI 3 days.",
+        "Toxic to fish and aquatic invertebrates",
+        "Spray with",
+        "Alpha- Cypermethrin (Bestox 100Ec at 6ml in 20L of water or",
+        "Tata alpha 10EC at 6ml in 20L of water",
+        "WHO class",
+        "II, (Moderately hazardous)",
+        "PHI 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Whiteflies on mango leaf (Source: Lenis Marani, MOALF, Kenya)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Aduly whitefly (Source: NBAIR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Masses of whiteflies on mango leaves (Source: NBAIR)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Whiteflies on mango"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Weeds in outdoor tomatoes",
+  "sections": {
+    "Header": [
+      "Weeds in outdoor tomatoes",
+      "Poaceae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Tillage or pull out weeds before planting.",
+        "Mulch with a 15 to 20 cm (6 to 8 `) thick layer of non-tomato, non-potato plant rests (e.g. hay or tree leaves) after tomato transplanting at dry weather.",
+        "Crop rotation reduces weeds because certain weeds prefer to grow in certain crops.",
+        "The more different the crops are from tomato (e.g. maize, cabbages, beans) the better.",
+        "Other",
+        "Solanaceae crops such as",
+        "Irish potatoes, egg plants, peppers, nightshade, are less good for rotation with tomatoes because similar weeds grow in them."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "There might be a number of non-tomato weedy plants in a tomato field.",
+        "If they become too abundant and/or grow higher than the tomato plants, then they hinder the tomato growth.",
+        "Non-tomato weedy plants often grow faster than tomatoes, and therefore early control is advised.",
+        "Weeds compete with tomatoes for soil nutrients and light.",
+        "Some long-flowering weeds can however attract and promote natural enemies which then attack tomato pests like aphids or whiteflies.",
+        "In case that weeds seriously outnumber tomato plants, particularly young plants, action might be considered."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Conduct mechanical/ manual weeding, particularly in young tomato fields.",
+        "Avoid weeding tomato fields that are attacked by fungal or bacterial diseases, to prevent transport of diseases from one plant to the next.",
+        "Do not weed during wet weather or in the morning, when plants are still moist, because potential diseases can be transported from one plant to the next.",
+        "Glyphosate herbicides ( Elglysate, Glycel, Gugukill, Gugusate, JembeSupa, Mamba, Mocphosate, Rondo, Rondopa, Sapikill",
+        "Touchall, Weedex, Willosate, and others) are applied before emergence of tomatoes.",
+        "Oxyfluorfen herbicides (Target, Boxyfan, Oxyfen, Sufen, and others) against broad leaf and annual grassy weeds.",
+        "Mainly a pre-emergence herbicide sprayed on moist fields (rain, irrigation) before tomato planting, or later carefully between rows of tomatoes."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No herbicides are permitted in integrated production, because they are too dangerous to farmers",
+        "consumers and the environment, and because mechanical control is effective and usually practical in tomato production.",
+        "In conventional farming a number of herbicides are available against broad- leaf weeds in tomatoes (mainly pre-emergence products) and against grasses.",
+        "Many are hazardous. and they should only be considered in exceptional cases.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Farmers are not allowed to buy and use",
+        "WHO toxicity class",
+        "Ia, Ib, II products without special permits (Plant",
+        "Protection",
+        "Act",
+        "Tanzania)",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "WHO toxicity class",
+        "III (slightly hazardous).",
+        "Dinitroaniline pesticide group. 1 spray only.",
+        "Never spray when tomato has emerged as this will destroy seedlings.",
+        "R.e.i. 1 d.",
+        "Works only when getting into contact with weeds.",
+        "Sprays on soil do not help.",
+        "WHO toxicity class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Diphenyl-ether herbicide group. 1 spray only.",
+        "P.h.i 60 d, R.e.i. 1 d.",
+        "It needs moist soil to be effective.",
+        "Read label instructions carefully to not destroy tomatoes.",
+        "It can cause phytotoxicity on tomatoes."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Weeds in outdoor tomatoes"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Too many weeds compete with tomatoes (Image: S. Toepfer)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Adding a 15 to 20 cm thick layer of tree leaf mulch to suppress weeds (Image: Four String Farm, Rockport, Texas)"
+      }
+    ]
+  }
+}

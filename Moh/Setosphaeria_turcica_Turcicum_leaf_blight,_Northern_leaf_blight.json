@@ -1,0 +1,63 @@
+{
+  "title": "Leaf blight on Sorghum",
+  "sections": {
+    "Header": [
+      "Leaf blight on Sorghum",
+      "Setosphaeria turcica Turcicum leaf blight, Northern leaf blight"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified disease-free seeds.",
+        "Plant resistant or tolerant varieties.",
+        "To reduce initial inoculum, use tillage methods that promote the decomposition of crop debris, as the fungus survives in and on plant debris.",
+        "Practise crop rotation with non-grass crops and eliminate weedy grass hosts.",
+        "On sorghum, increased levels of nitrogen increase the development of the disease.",
+        "Avoid high levels of nitrogen fertilization.",
+        "Crop rotation for 1-2 years with soybeans, beans and sunflower.",
+        "Do not practise crop rotation with maize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly for symptoms during optimal conditions of high humidity and moderate temperatures (18-27 °C).",
+        "Leaves:",
+        "Initially slightly oval, small, water-soaked spots appear.",
+        "The spots grow into elliptical (with pointed ends) brown lesions until nearly as wide as the leaf.",
+        "The margin is red-purple and during warm, humid weather, greenish-black fungal sporulation is produced in the centre of the lesions.",
+        "In the final stages, lesions are tan to grey, may merge and lead to complete burning of the foliage.",
+        "Lesions develop first on lower leaves and progress upwards.",
+        "Seedlings: small reddish-purple or yellowish-brown spots usually develop on the leaves.",
+        "Under warm, humid conditions the disease may cause serious damage by killing all leaves before plants have matured.",
+        "Symptoms on resistant cultivars are reduced to small chlorotic or necrotic spots.",
+        "S. turcica on sorghum forms larger and fewer lesions than",
+        "Cochliobolus heterostrophus (southern leaf spot), mostly on the leaves but also on the stalks.",
+        "Cercospora , Colletorichum , Ascochyta can also cause similar leaf disease symptoms.",
+        "Act when the first lesions appear on the leaves."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "There are no direct control measures for this disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Large elliptical leaf blight lesions on sorghum (Courtesy EcoPort: David C. Nowell)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Typical shape and colour of a S. turcica lesion on a sorghum leaf (Courtesy EcoPort: David C. Nowell)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf blight on Sorghum"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Early water-soaked lesion near the base of the leaf without a pigmented margin (Courtesy EcoPort: David C. Nowell)"
+      }
+    ]
+  }
+}

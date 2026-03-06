@@ -1,0 +1,60 @@
+{
+  "title": "Tea Mosquito bug in Guava and Avocado",
+  "sections": {
+    "Header": [
+      "Tea Mosquito bug in Guava and Avocado",
+      "Helopeltis antonii Sinhala - Capsid Makuna; Tamil – Nulambu Mooddu Poochchi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prune to expose the trees for proper sun light inside the canopy",
+        "Avoid application of broad spectrum insecticide to conserve natural enemies",
+        "Practise bagging of fruits at early stage",
+        "Control weeds to destroy alternative hosts"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Detect reddish brown adult bugs (6.5 - 8.5mm long) and nymphs in early morning / late evening by using hand nets",
+        "Look for following symptoms – feeding punctures and discoloured necrotic lesions on shoots and leaves (in",
+        "Thrips damage entire fruit surface brown with an alligator skin appearance and elongate feeding scars.) corky growth appearance or scab on fruits brown centred black lesions especially near to the main veins of leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune and destroy heavily infested plant parts",
+        "Collect and destroy adults and nymphs using a sweep net",
+        "Apply neem seed kernel extract (50g seeds/ lit. of water)",
+        "Imidacloprid 200g/lSL.",
+        "Rate of dilution - 10ml / 10 lit. of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply only to foliage and avoid during fruiting stage.",
+        "WHO class",
+        "II.",
+        "IRAC MOA 4A; PHI 14 days.",
+        "Toxic to bees and natural enemies.",
+        "Avoid applying at flowering period.",
+        "Contact/ ingestion toxicity to insects.",
+        "Systemic in plants"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Tea Mosquito bug in Guava and Avocado"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damaged guava fruit and leaves (A. S. Pushpakumari)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damaged avocado fruit (A. S. Pushpakumari)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Aphids on rape",
+  "sections": {
+    "Header": [
+      "Aphids on rape",
+      "Aphis spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Aphids are highly reproductive, small insects that can weaken plant structures and transmit virus to crops.",
+        "Avoid planting near an infested crop or on land with a history of infestation.",
+        "Active removal of weeds from plots to reduce aphid hosts.",
+        "Removal of alternative host species such as",
+        "Amaranthus .",
+        "Destroy by uprooting and burning or burying deep.",
+        "Intercropping with pest repellent plants such as onion, garlic and parsley to reduce aphid populations close to rape.",
+        "Do not apply high levels of nitrogenous fertilizer as this will make the plants more attractive to aphids."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly check for leaf curling on crop at leats once a week.",
+        "Observe underside of leaves for aphid presence.",
+        "Aphids are small insects of 2 mm long, soft-bodied and green, brown or yellow in colour.",
+        "High levels of infestation may result in the presence of black sooty mould on leaves due to honeydew secretion from aphids.",
+        "Monitoring should be undertaken soon after crop emergence until crop harvest.",
+        "If there is no presence of aphid-transmitted viruses in the area, small aphid populations are tolerable amongst crop.",
+        "If infestation grows (10-20% por 1-2 infested plants per 10-20 observed) then consider undertaking direct control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune leaves showing symptoms (curling, aphid populations on underside).",
+        "Removal and burning of infested crops to prevent spread of the fungus.",
+        "Spray neem oil products once a week for 4 weeks (4.5 ml/10 m2).",
+        "Contact your local agro-input supplier to organise access of such products.",
+        "Use of soap water solution spray on crops to wash off any aphids present (1 tablespoons of liquid soap per 10 litres of water)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Aphid colony infestation (Michael J. Amphlett)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Aphid infestation on underside of leaf (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Aphids on rape"
+      }
+    ]
+  }
+}

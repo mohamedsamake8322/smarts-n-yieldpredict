@@ -1,0 +1,64 @@
+{
+  "title": "Banana bacterial rhizome rot",
+  "sections": {
+    "Header": [
+      "Banana bacterial rhizome rot",
+      "Erwinia spp. Sinhala: Bacterianu kesel ala kunuwima, Tamil: Vaalai Kilanku Aluhal"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select non-infected fields based on field history.",
+        "Prepre the land properly with ample drainage system.",
+        "Use healthy planting materials obtained from non-infected cultivation or tissue culture for new cultivation.",
+        "Remove and destroy crop debris before cultivation and just after harvesting.",
+        "Avoid damage to rhizomes and prevent pests such as",
+        "Rhizome weevil as the bacteria can infect through wounds."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for following symptoms.",
+        "Wilting and dying of newly planted suckers.",
+        "Yellowing of younger leaves.",
+        "Splitting of the pseudostems at the base.",
+        "Dark brown rotting starting from the periphery of the rhizome extends towards central core.",
+        "Rotting progressing upwards in the pseudostem, destroying leaf bases.",
+        "Vascular discoloration of pseudostem.",
+        "Rotting of central leaves .",
+        "Unpleasant odour associated with rotted tissues.",
+        "Infected plants which can easily be pulled out at the rotted collar region or are highly vulnerable to toppling over due to wind.",
+        "Confirm with bacterial oozing test."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pull out infected plants along with rhizomes and roots and destroy by deep burying or burning.",
+        "Avoid water movement from infected plants to healthy plants.",
+        "No chemical control for this disease."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Rotting and splitting of the collar region of infected plant (www.hawaiiplantdisease. net)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Stalk rot at collar region (WAPG Weerarathna, HORDI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Dark brown rotting in rhizome (Photo: www.kissankerala.net)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana bacterial rhizome rot"
+      }
+    ]
+  }
+}

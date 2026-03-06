@@ -1,0 +1,80 @@
+{
+  "title": "Grape Anthracnose",
+  "sections": {
+    "Header": [
+      "Grape Anthracnose",
+      "Elsinoe ampelina Anthracnose"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Improve the air flow in the field to reduce humidity and reduce appearance of disease",
+        "Eliminate any wild grapes in nearby fields",
+        "Prune and destroy any previously infected shoots in the dormant period",
+        "Make sure you get clean seed, clean vines so that they are grafted healthily onto root stock, that is from a reputed and registered dealer in the beginning",
+        "Collecting of infected leaf and weeds in",
+        "November.",
+        "Shovel the soil to plough under the crop residues to interrupt the disease’s lifecycle"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should be started in",
+        "May",
+        "Monitoring should be done once a week.",
+        "Monitoring is done on leaf and grape.",
+        "It is possible to see round spots on stems and berries, that become larger and with a grey centre with a raised on the edges",
+        "You can also see spots on the leaves, again round with grey centre that eventually dries and looks like a shot hole",
+        "Young leaves are more susceptible to infection"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pruning can be done to cut the infected parts in",
+        "December, be sure to remove any mummified fruits or diseased tendrils",
+        "Collecting of the residue after pruning and remove from the orchard",
+        "For pruning, the tools should be sterilized with salt solution and alcohol; or washing up liquid",
+        "Urea spray 1kg/20 liter water in autumn season",
+        "Use",
+        "Copper oxychloride @ 3-4 g/litre of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval",
+        "During the use of pesticides, prevent children and animals from entering the field and do not eat drink or smoke whilst using chemicals of any kind",
+        "Change your clothes and wash your body and face after using chemicals",
+        "Keep pesticides out of reach of children",
+        "Using of lime sulfur 1 liter of lime sulfur per 9 liter of water.",
+        "Lime sulphur is slightly hazardous; Class",
+        "III; may be harmful if swallowed or absorbed through the skin",
+        "Using of lime sulfur must be done in",
+        "March before budding",
+        "Class",
+        "III:",
+        "Slightly hazardous for normal use",
+        "Use",
+        "Mancozeb or chlorothalonil @ 3-4 g/litre of water",
+        "Class",
+        "U:",
+        "Unlikely to present acute hazard in normal use"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Dark-brown spots with grey centre on leaf lamina and veins, note shot hole effect. Photo by S.K. Thind"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Grape Anthracnose"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Grape bunch showing anthracnose lesions. Photo by S.K. Thind"
+      }
+    ]
+  }
+}

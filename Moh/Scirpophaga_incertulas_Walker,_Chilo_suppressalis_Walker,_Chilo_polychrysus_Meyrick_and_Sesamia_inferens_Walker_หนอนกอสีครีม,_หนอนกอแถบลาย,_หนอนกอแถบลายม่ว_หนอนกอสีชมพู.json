@@ -1,0 +1,72 @@
+{
+  "title": "Stem Borer on rice",
+  "sections": {
+    "Header": [
+      "Stem Borer on rice",
+      "Scirpophaga incertulas (Walker), Chilo suppressalis (Walker), Chilo polychrysus (Meyrick) and Sesamia inferens (Walker) หนอนกอสีครีม, หนอนกอแถบลาย, หนอนกอแถบลายม่ว หนอนกอสีชมพู"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "If direct seeding: sowing rate of 15-20 kg/rai",
+        "Plant early harvest rice varieties e.g.",
+        "RD43",
+        "Pre-planting: plough soil and stubble, flooding the filed for 1 month to damage pupae",
+        "Fertilizer rates:",
+        "Nitrogen (46-0-0) not over 10 kg/rai. (16-20-0) not over 30 kg/rai",
+        "Control",
+        "Baryard grass ( Echinochloa crus- galli ), an alternative host."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field survey:",
+        "Direct counting (15",
+        "DAS to harvest).",
+        "At 3-4 weeks look for the stem symptoms (dead heart).",
+        "If more than 10-15% (ETLs) use direct control.",
+        "Look at panicle for whiteheads.",
+        "Make homemade light traps and place around field to monitor for adults"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Spray at larva stage if dead hearts present on more than 10-15% of the crop.",
+        "Rotate chemicals to prevent resistance.",
+        "Don’t apply granular insecticide, don’t mix insecticides, don’t use 36 chemicals in the",
+        "RD list (will kill natural enemy and cause resistance)",
+        "Cabosulfan",
+        "IRAC 1A.",
+        "WHO II Indoxacarb",
+        "IRAC 22A.",
+        "WHO II Chlorantraniliprole",
+        "IRAC 28.",
+        "WHO U"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Stem Borer (www.brrd.in.th/rkb/enemy_kh ao)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem Borer on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptom: Dead heart (www.brrd.in.th/rkb/enemy_kh ao/)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "symptom: white head (www.brrd.in.th/rkb/enemy_kh ao)"
+      }
+    ]
+  }
+}

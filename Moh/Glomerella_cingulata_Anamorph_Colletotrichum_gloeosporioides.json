@@ -1,0 +1,65 @@
+{
+  "title": "Anthracnose disease of cassava",
+  "sections": {
+    "Header": [
+      "Anthracnose disease of cassava",
+      "Glomerella cingulata (Anamorph: Colletotrichum gloeosporioides)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "This disease is spread by infected stem cuttings, so use healthy planting materials obtained from plants without symptoms of the disease (cankers, stems with insect holes and stem dieback).",
+        "Stem cuttings can be treated with a fungicide before planting to protect against the disease (see yellow direct control)",
+        "Plant resistant varieties (Bankyehemaa and",
+        "Esam bankye) available from",
+        "MoFA District",
+        "Directorates or approved multiplications sites across the country",
+        "Avoid planting on the same piece of land for more than 3 seasons, rotate with grains",
+        "Remove old cassava plant debris after harvest and burn",
+        "The pathogen infects through wounds and insect damage - so avoid wounding plants.",
+        "Late planting (second half of rainy season) can restrict disease associated with insect damage."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cassava fields at weekly interval after sprouting through to plant maturity.",
+        "Look for symptoms such as wilting, dieback and cankers especially in the wet season.",
+        "When symptoms are observed take action"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out any infected plants as soon as symptoms can be seen to prevent the spread of the disease.",
+        "Rogueing should not be extensive."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Treat cutting for planting with",
+        "Cuprofix 30",
+        "Disperss (mancozeb (30%) + metallic copper (12%))",
+        "WHO Class",
+        "II (moderately hazardous)",
+        "Mix 20-30g/15litres and dip cuttings in the mixture for 3-5 minutes and allow to dry before planting"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose disease of cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cassava stem showing cankers (E. Moses, CSIR-Crops Research Institute Kumasi)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Cassava plant infected with anthracnose disease (IITA)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Thrips on French beans",
+  "sections": {
+    "Header": [
+      "Thrips on French beans",
+      "Frankliniella occidentals , Megalurothrips sjostedti , Hydatothrips adolfifriderici , Frankliniella williamsi Vithiripi (Kiswahili)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove or deep plough to incorporate previous crop residue in the soil to kill thrips.",
+        "Plant tolerant varieties (e.g",
+        "Paulista)",
+        "Practice soil solarisation before planting to kill the pupa.",
+        "Plant in well prepared fertile seedbed to promote crop vigour",
+        "Plant barriers of",
+        "Mexican marigold followed by sunflower. (Mexican marigold attracts thrips from beans.",
+        "Sunflower hosts",
+        "Orius spp. which feeds on thrips)",
+        "Intercrop with onion, garlic, spider plant or coriander to repel the thrips",
+        "Preserve natural enemies such as lady bird beetles, Orius, hover flies and",
+        "Aphidius to help manage thrips.",
+        "Keep the fields free of weeds and alternative hosts such as wild mustards"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Randomly check for thrip damage at the growing tips of the plants before flowering stage",
+        "Look for thrips early in the morning before sunrise (i.e. before 9.00am) since they tend to hide inside the flowers or underneath the leaves in high temperatures",
+        "Use blue sticky traps to capture adults",
+        "Shake the flowers on a white piece of paper to check for presence of adult thrips",
+        "Examine leaves for larvae (silvery appearance of the leaves) to act early",
+        "Take action when you notice at least 3 thrips per plant"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Place blue sticky traps above the vegetative parts of the plants to kill/ reduce their numbers",
+        "Spray with",
+        "Azadirachtin based products such as",
+        "Achook",
+        "EC, Nemros etc. at 20ml/20L"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Good spray coverage is essential as thrips hide underneath the flowers and leaves;",
+        "Use recommended rates of insecticides and rotate between chemicals to prevent resistance build-up;",
+        "Apply chemicals early in the mornings or late in the evenings and",
+        "NEVER on sunny weather to prevent chemical evaporations and thus losses;",
+        "Apply insecticides at 50% flowering on the crop",
+        "then follow alternating with botanicals after every 8 days to avoid chemical residues on the harvested beans",
+        "Observe",
+        "Pre-Harvest",
+        "Interval (PHI) as indicated on the product label; Wear protective clothing when handling chemicals",
+        "Spray with",
+        "Imidacloprid based products such as",
+        "Confidor 200SL, Imaxi 200SC, TATA MIDA 200SL etc. at a rate of 10mls/20L of water; Apply as seed dressing; Mode of action:",
+        "Neonicotinoid.",
+        "Systemic insecticide with translaminar activity and with contact and stomach action.",
+        "WHO Class",
+        "II (Moderately hazardous); PHI 3 days",
+        "Spray with",
+        "Deltamethrin based products such as",
+        "Atom 2.5EC, Decis 2.5EC, Farm-X etc. at a rate 10ml-15ml/20L of water.",
+        "Spray after flowering; Mode of",
+        "Action:",
+        "Pyrethroid",
+        "WHO Class",
+        "II (Moderately hazardous); PHI 1 day",
+        "Spray with",
+        "Lambda",
+        "Cyhalothrin (such as",
+        "Karate 2.5 % WG at 20gms/20L of water, Tata",
+        "Umeme 2.5",
+        "EC at 15-20ml/20L of water etc; Mode of",
+        "Action:",
+        "Pyrethroids",
+        "WHO Class",
+        "II (Moderately hazardous); PHI 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Silvery area caused by Thrip damage on french bean podge (A.M. Varela, ICIPE)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult thrips on bean flower (Ko Ko Maung, Bugwood.org)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult female thrip (University of California)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Thrips on French beans"
+      }
+    ]
+  }
+}

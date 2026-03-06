@@ -1,0 +1,89 @@
+{
+  "title": "Angular leaf spot of citrus",
+  "sections": {
+    "Header": [
+      "Angular leaf spot of citrus",
+      "Pseudocercospora angolensis Nsisi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use disease free planting material obtained from the",
+        "FOHCREC Kade or a certified nursery",
+        "Gather and bury or burn all fallen fruits and leaves as this will help reduce the disease inoculum",
+        "Prune to remove unproductive and diseased branches after harvest to reduce humidity and increase air circulation in the orchard to reduce the disease",
+        "Carry out a routine disease management programme in areas where the disease is present",
+        "Do not intercrop as this will increase humidity and favour infection",
+        "Encourage other citrus farmers in the locality to use a routine management programme to reduce the incidence of the disease"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Symptoms on the leaves appear as small spots, light-brown or greyish in the dry season, becoming black during the rains.",
+        "The spots often have a dark-brown margin and a prominent yellow halo.",
+        "On fruits the spots can be 10mm in diameter, raised or flat often surrounded by a yellow halo.",
+        "Diseased fruits ripen prematurely and drop or dry and remain on the tree",
+        "In areas where the disease does not occur check seedlings in nursery for symptoms on the leaves",
+        "In the orchard monitor new flushes and fruit after petal fall for symptoms at weekly intervals",
+        "Start direct chemical control if symptoms on leaves or fruits are seen",
+        "In areas where the disease is present start direct control measures as soon as new leaves start to flush"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "There are no green direct control methods for this disease"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "In organic farms / systems apply a copper based fungicide such as copper hydroxide (eg",
+        "Funguran",
+        "OH 50WP)",
+        "Rate: 60g/12L of water using a motorised mist blower",
+        "Protectant fungicide with a multi-site mode of action (FRAC group",
+        "M1/2)",
+        "WHO Class",
+        "II (Moderately hazardous)",
+        "Apply at 14 day intervals after flushing of new leaves.",
+        "Repeat the application the next day if it rains immediately after the spraying programme.",
+        "Stop application of fungicide 3 weeks before harvesting.",
+        "Apply carbendazim and mancozeb at a rate of 40ml of carbendazim (eg",
+        "Goldazim",
+        "WP or",
+        "Carbendazim 50WP) and 30g of mancozeb (eg",
+        "Manzeb 800WP or",
+        "Ivory 80WP) in 12L of water using a motorised mist blower.",
+        "Carbendazim is a broad spectrum systemic fungicide belonging to",
+        "FRAC group",
+        "B1.",
+        "Mancozeb is a protectant fungicide with multi-site mode of action (FRAC group",
+        "M3)",
+        "Both fungicides are",
+        "WHO Class",
+        "III (slightly hazardous)",
+        "Apply at 21 days intervals starting when the new leaves appear.",
+        "Stop application of the fungicides 3 weeks before harvest."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Angular leaf spot of citrus"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on a muture fruit (FC Brentu)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Leaf symptoms (FC Brentu)"
+      }
+    ]
+  }
+}

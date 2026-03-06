@@ -1,0 +1,96 @@
+{
+  "title": "African cassava mosaic virus (ACMV)",
+  "sections": {
+    "Header": [
+      "African cassava mosaic virus (ACMV)",
+      "Batobato ya muhogo in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use crop rotation",
+        "Plant resistant/ tolerant varieties (e.g.",
+        "Rangi",
+        "Mbili, Hombolo 95, Meremeta, Belinde, Kasala, Suma)",
+        "Use tissue culture derived planting materials (Naliendele",
+        "Agri.",
+        "Research",
+        "Institute, Mtwara, Tz; Ukiriguru",
+        "Agri.",
+        "Research",
+        "Institute, Mwanza, Tz)",
+        "Plant virus-free stem cuttings",
+        "Remove all other host plants from the field (e.g. castor bean).",
+        "Do not move cassava out of affected areas (consume locally)",
+        "During field work, wash hands, cloths and tools with soap/ bleach/ to remove virus"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor for the white flies that transmit cassava mosaic virus:",
+        "When leaves appear after planting, observe presence of white flies by shaking branches ; If 5– 10 infested plants are found per acre, consider action",
+        "Observe plants for disease symptoms once a week 2 to 3 months after planting:",
+        "Yellow spots on leaves; Misshaped leaves; Stunted growth; Rogue if less than 5% of plants show symptoms; If more than 5% of plants show",
+        "ACMV symptoms, do not rogue as disease spread can no longer be contained"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Control white flies using liquid soap mixed with sugar or cooking oil.",
+        "Apply soap solution once per week (30 mls liquid soap /litre water or 5-8 g bar soap /litre water)",
+        "Control white flies using neem:",
+        "Seed extract: 50g/liter water with a little soap; Seed powder mix 1:1-1:2 with sawdust/soil; Leaves: 50-150g- 1-2 handful/ litre water, soap",
+        "Rogue (remove) and burn all infected plants.",
+        "Roguing is only effective when disease incidence is low (less than 5% of plants infected)",
+        "Dimethoate (e.g.",
+        "Mukpar 40",
+        "EC, Orgor 40",
+        "EC).",
+        "Contact and systemic organophosphate",
+        "Amitraz (e.g.",
+        "Mitac 20",
+        "EC).",
+        "Repellent insecticide"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemicals are",
+        "NOT ALLOWED in areas where cassava leaves are harvested for food, because leaf-picking persons may not know that a field has been sprayed.",
+        "There are no chemicals against viruses.",
+        "If virus symptoms are not yet apparent, you may spray against the white flies which vector",
+        "ACMV.",
+        "Once the virus is present in the crop, sprays against white flies are unlikely to be effective.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre- harvest interval, max number of sprays, restricted re-entry interval, min retreatment interval.",
+        "Do not empty into drains",
+        "Always double-check with recent list of registered pesticides in",
+        "Tanzania (MAFSC through",
+        "TPRI)",
+        "Moderately toxic (WHO Class",
+        "II), Spray maximum of 2 times (once per month), Field re-entry interval 3 days; Pre-harvest interval 14 days; High risk to bees and other beneficial arthropods; Dangerous to fish.",
+        "Do not contaminate ditches, etc",
+        "Moderately toxic (Who",
+        "Class",
+        "II); Spray maximum of 2 times; Field re-entry interval 3 days; Pre-harvest interval 14 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Close-up of white flies (Ian D. Bedford)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "African cassava mosaic virus (ACMV)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "White flies on cassava leaf (W Jenner, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Leaf with mosaic (M Bateman, CABI)"
+      }
+    ]
+  }
+}

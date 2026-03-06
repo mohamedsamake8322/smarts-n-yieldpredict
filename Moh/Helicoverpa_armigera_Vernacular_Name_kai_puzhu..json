@@ -1,0 +1,88 @@
+{
+  "title": "Blackgram Pod Borer",
+  "sections": {
+    "Header": [
+      "Blackgram Pod Borer",
+      "Helicoverpa armigera Vernacular Name: kai puzhu."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep summer ploughing (30 cm) to expose pupae present in the soil.",
+        "Crop rotation with non host crops like paddy and",
+        "Brinjal",
+        "Conserve the natural enemies like",
+        "Lady bird beetle, Ground beetle, Praying mantis, Pentatomid bug, etc.",
+        "Installation of light traps 1/acre of land."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for the defoliation of leaves from 20 to 35 days.",
+        "Observe for green coloured larva with black band laterally on leaves.",
+        "Later the larvae move on to flowers and fruits.",
+        "Observe for bored fruits with round holes.",
+        "Notice the larvae thrust their head inside the pod leaving the body outside.",
+        "Monitor the economic threshold level up to 10% of affected pods.",
+        "Observe for warm weather condition followed by light rains and dry spells which is favourable for pest."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collection and destruction of larvae.",
+        "Place bird perches @ 20 nos/acre.",
+        "Spray",
+        "Neem",
+        "Seed",
+        "Kernel powder @ 50g/ litre of water or",
+        "Neem",
+        "Oil @ 30 ml/litre twice at the time of flowering and early pod formation stage.",
+        "Use of",
+        "Helicoverpa armigera",
+        "Pheromone trap @ 5 nos/acre"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray",
+        "Chlorotraniliprole 18.5% SC @ 40 ml/ acre during flowering stage.",
+        "WHO class",
+        "U/IV (Unlikely to present acute hazard in normal use)",
+        "Spray",
+        "Indoxacarb 14.5",
+        "SC @ 0.75ml/litre",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "Spray",
+        "Emmamectin benzoate 5% SC @ 50 gm/acre.",
+        "Emmamectin benzoate is not classified by",
+        "WHO but is considered highly toxic and should be used with care",
+        "Thiodicarb 75%WP @ 250 gm/acre.",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "Flubendamide 480",
+        "SC @ 40 ml/acre.",
+        "Flubendamide is not classified by",
+        "WHO"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damaged Pods. Photo by TNAU AGRI PORTAL"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Larvae feeding on the pods. Photo by TNAU AGRI PORTAL"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bore holes on pods. Photo by TNAU AGRI PORTAL"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Blackgram Pod Borer"
+      }
+    ]
+  }
+}

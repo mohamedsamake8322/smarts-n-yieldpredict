@@ -1,0 +1,78 @@
+{
+  "title": "Barnyard Grass in Paddy Rice",
+  "sections": {
+    "Header": [
+      "Barnyard Grass in Paddy Rice",
+      "Echinochloa crus-galli"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Only use certified seed to avoid introduction through contamination.",
+        "Use clean farmer seed.",
+        "Use weed free nursery",
+        "Clean equipment and farm machinery to prevent seeds being spread",
+        "Do not accept potentially contaminated materials, e.g. fill dirt, hay or soil",
+        "Control established populations near waterways to prevent spread during flooding and storm events",
+        "Prepare the soil by turning under dry conditions to reduce infestations",
+        "Use well decomposed farmyard manure",
+        "Use water from a source free of the weed for watering and flooding",
+        "Before planting seed, prepare seed bed and wait for the first rain showers to promote weed germination then control by use of a post- emergent herbicde (glyphosphate) when weeds are 2-3 weeks old"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Annual grass, spreading or stiffly erect, tufted or reclining at base; 0.3-2 m high.",
+        "Leaves dark green, linear and flat; 10−65 cm long and 5-30 mm wide.",
+        "Inflorescences branched, upright or nodding (10−25 cm long) with flowerheads ('branches', ca. 5cm long).",
+        "Regularly inspect fields, at least biweekly and in particular during and shortly after the wet season, and consider direct control when present",
+        "Look our for it in wetlands and along waterways.",
+        "Water and storm events can spread seeds"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand-pull when weed before flowering",
+        "Flood rice fields with 15-22 cm of water, to prevent weeds developing, until the dough stage.",
+        "Flooding with 2-3 cm water will offer limited control"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Use glyphosate (2 lt/ha) before planting rice when there is a heavy infestation.",
+        "Concentration 360 a.i./L Glyphosphate:",
+        "WHO class",
+        "III (slightly hazardous)",
+        "Use post-emergent herbicide such as",
+        "Satunil (40% thiobencarb w/w +propanil 20% w/w) or fenoxaprop.",
+        "Apply",
+        "Satunil at a rate of 2.5L/ha as a post emergent foliar application in the field",
+        "Fenoxaprop:",
+        "WHO Class",
+        "III (slightly hazardous); Thiobencar:",
+        "Class",
+        "II (moderately hazardous); Propanil:",
+        "Class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Barnyard Grass in Paddy Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Echinochloa crus-galli inflorescence (© Michael Becker, Wikimedia)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Young plant at tillering (© Tomas Marquez/DuPont)"
+      }
+    ]
+  }
+}

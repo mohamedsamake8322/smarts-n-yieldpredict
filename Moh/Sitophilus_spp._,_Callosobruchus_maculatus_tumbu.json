@@ -1,0 +1,73 @@
+{
+  "title": "Storage pests on cowpeas",
+  "sections": {
+    "Header": [
+      "Storage pests on cowpeas",
+      "Sitophilus spp. , Callosobruchus maculatus (tumbu)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Harvest grains early or promptly",
+        "Clean the storage facility and burn all sweepings",
+        "Paint the storage facility white to make insect pests easy to detect",
+        "Clean bags before filling",
+        "Ensure that grains are clean and well-dried before storing.",
+        "Dry in sun for 1 month or until 7-10% moisture",
+        "Put properly dried cowpea grains in air-tight container, filling the container to the brim [short- time storage]",
+        "Store bags on pallets to raise them off the floor",
+        "Keep storage facility well ventilated",
+        "Clean around storage facility",
+        "Stack bags for more effective fumigation, if necessary later"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for beetles on the bags or directly on the grains",
+        "Look for holes in the grains",
+        "Look for larvae (tumbu) on the grains",
+        "Look for powder or dust in the bag.",
+        "This is the crumbs created by the tumbu feeding on the grains"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Mix 5ml of groundnut oil to 1kg of cowpea grains and store in air-tight containers [short-time storage]",
+        "Add 1500g of dried chili to one bag of dried cowpea grains [long-time storage]",
+        "Disinfect storage facility and bags with pirimiphos- methyl",
+        "Disinfect storage facility and bags with diazinon or chlorpyriphos",
+        "Fumigate with aluminium phosphide (e.g.",
+        "Phostoxin)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Slightly hazardous (WHO Class",
+        "III); Maximum 2 applications per month",
+        "Both moderately hazardous (WHO Class",
+        "II); Maximum 2 applications per month",
+        "Very toxic if swallowed or inhaled",
+        "Following fumigation, wait 6 months before consumption or sale",
+        "Maximum 2 applications per month",
+        "Active ingredient = 30%",
+        "2 tablets per 100 g of grains",
+        "4 tablets per ton of grains",
+        "Wrap the aluminium phosphide tablet in a piece of cloth, tissue paper, or perforated envelope before placing inside the container"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cowpeas with beetle damage (AM Varela, ICIPE)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "C. maculatus beetle on cowpea (Peter Credland)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Storage pests on cowpeas"
+      }
+    ]
+  }
+}

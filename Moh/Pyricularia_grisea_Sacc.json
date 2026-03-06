@@ -1,0 +1,79 @@
+{
+  "title": "Rice Blast",
+  "sections": {
+    "Header": [
+      "Rice Blast",
+      "Pyricularia grisea Sacc"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Soil preparation:",
+        "Plough 1-2 times; dry soil for 10-15 days before planting.",
+        "Use resistant variety (IR66, Riang",
+        "Chay, or local variety).",
+        "Don’t over fertilize with",
+        "Nitrogen.",
+        "Too much",
+        "N leads to too much crop growth which favours the disease by increasing leaf wetness and humidity.",
+        "Increase plant spacing (25x25 cm) (depending on variety and soil) to increase aeration and reduce humidity.",
+        "Use",
+        "Potash (K) at tillering stage (60 kg/ha).",
+        "Remove and burn crop residue to prevent rice blast from reoccurring.",
+        "If available, use certified disease-free seed.",
+        "Flood the field as often as possible.",
+        "Adjust planting time.",
+        "Sow seeds early, when possible, after the onset of the rainy season."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout 3 times per week, scout every day when weather is wet and hot.",
+        "If you see symptoms of the disease on 5% of plants use",
+        "Direct",
+        "Control.",
+        "At early stage look for tiny red spot on the leaf or stem.",
+        "A typical blast lesion on a rice leaf is grey at the centre, has a dark border, and is diamond- shaped or spindle- shaped."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected/ diseased plants from field and destroy."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray at early tillering and pinnacle initiation to heading stage",
+        "Spray in morning between 6-10 am or in afternoon between 3-6 pm",
+        "Isoprothiolane",
+        "FRAC group 6; WHO Class",
+        "II (Moderately hazardou)",
+        "Tricyclazole",
+        "FRAC group 16.1; WHO Class",
+        "II (Moderately hazardous)",
+        "Mancozeb",
+        "FRAC group",
+        "M3; WHO Class",
+        "U (Unlikely to present acute health hazard)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom (O.P. Sharma, NCIPM, New Delhi. India, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice Blast"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptom (IRRI Images, creativecommons.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptom (IRRI Imanges, www.irri.org)"
+      }
+    ]
+  }
+}

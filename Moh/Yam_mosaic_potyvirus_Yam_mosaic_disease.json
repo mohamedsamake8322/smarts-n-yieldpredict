@@ -1,0 +1,47 @@
+{
+  "title": "Yam mosaic virus",
+  "sections": {
+    "Header": [
+      "Yam mosaic virus",
+      "Yam mosaic potyvirus Yam mosaic disease"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The virus is spread by aphids and vegetative propagation:",
+        "Keep weeds to a minimum to avoid aphid population to build up and migrate to the crop.",
+        "On farm, use yams for propagation only from the healthiest plants producing the largest tubers.",
+        "Only transfer yams in between countries following if necessary under official guidelines."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly for symptoms.",
+        "If symptoms are detected, laboratory analyses are needed to confirm the disease.",
+        "A variety of symptoms are produced depending on the species and variety of yam:",
+        "Yellow and green patterns (mosaic) mostly between the veins or in narrow green strips bordering them (vein-banding).",
+        "In more severe case, distortion and strap-like leaves and the plants may also be stunted.",
+        "Poor growth and smaller tubers than those from healthy plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "After harvest, collect and destroy all plant debris.",
+        "Do not use undersized tubers for planting.",
+        "Chemical control is not efficient for the control of this disease, as insecticide don't act quick enough to stop the aphids to transmit the virus."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Plant with yam mosaic disease, showing narrow yellow leaves (IITA, Flickr)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Yellow and green patterns, distorted margin, and backward curling of a leaf infected with yam mosaic virus (IITA, Flickr)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yam mosaic virus"
+      }
+    ]
+  }
+}

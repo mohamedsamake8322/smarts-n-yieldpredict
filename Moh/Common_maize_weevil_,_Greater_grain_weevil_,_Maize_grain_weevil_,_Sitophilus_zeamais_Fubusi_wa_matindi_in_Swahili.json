@@ -1,0 +1,98 @@
+{
+  "title": "Common maize weevil in maize grain storage",
+  "sections": {
+    "Header": [
+      "Common maize weevil in maize grain storage",
+      "Common maize weevil , Greater grain weevil , Maize grain weevil , Sitophilus zeamais Fubusi wa matindi in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant/tolerant cultivars.",
+        "The weevils do not like hard kernel varieties, such as local hard dent varieties or",
+        "C512",
+        "Harvest maize soon after it has reached maturity to reduce the chance of attack by maize weevils and other storage pests.",
+        "Remove and bury deep or burn infested maize residues after harvest.",
+        "Reduce infestation by cleaning all storage bins, containers, hats, bags from old grain rests and grain powders before re-filling.",
+        "Swept out powders and grain rests may be fed to livestock.",
+        "Store clean, very dry maize i.e. maize with 12-14% moisture content.",
+        "Preventively put botanical pesticide of pounded neem seeds (Neem cake) or fresh neem leaves in layers over grains (see direct control)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly check stored grain every month.",
+        "Mainly look for the adult weevils and damaged grains with exit holes and feeding powder from grains.",
+        "Use sticky sheets within the storage structures to capture weevils",
+        "Once adult weevils or weevil feeding holes are seen, direct control measures should be considered immediately."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove adult weevils from the grains by sieving.",
+        "This is labour-intensive and cannot eradicate the weevils.",
+        "Mix thoroughly inert dusts such as ash and clay with the grains to kill the weevils through desiccation (200 g dusts with 100 kg grains).",
+        "Neem pesticide:",
+        "Add pounded neem seed powder into grain storage at 20 g / kg maize grains.",
+        "Add fresh neem leaves in layers between piled maize bags",
+        "Contact research institutes for releasing natural enemies such as parasitoids (Anisopteromalus calandrae, Cephalonomia tarsalis, Lariophagus distinguendus,Theocolax elegans).",
+        "They need to be released early in the store."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Many storage pesticides are highly toxic and should not be used.",
+        "Fumigation cannot be done by untrained farmers.",
+        "Hire certified fumigators, but ensure that they are not using the most toxic pesticides.",
+        "Wear protective clothing and follow the instructions on the product label.",
+        "WHO class",
+        "II (and",
+        "Tanzanian red and yellow-label products) are not advised in",
+        "Tanzanian",
+        "IPM schemes.",
+        "Farmers are not allowed to buy and/or use",
+        "WHO toxicity class",
+        "II products without special permits and training in",
+        "Tanzania.",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "Use dusts based on a mix of organophosphate + pyrethroid pesticide groups, e.g.",
+        "Malathion+ Permethrin (Skana",
+        "Super",
+        "Dust, and others), Fenitrothion + Deltamethrin (Mupa",
+        "Dust, Shumba",
+        "Super",
+        "Dust, Mavuno",
+        "Super",
+        "Dust, etc.), Chloropyrifos methyl + Alphacypermethrin (SubaGraindust2.06%DP and others) or",
+        "Pirimiphos methyl + Permethrin (Stocal",
+        "Super",
+        "Dust, and others)",
+        "Can be used to disinfect grain stores or to treat grains.",
+        "WHO toxicity class",
+        "III (slightly hazardous) and class",
+        "II (moderately hazardous).",
+        "WHO toxicity class",
+        "II (moderately hazardous); pre-consummation interval 3 months, Max one spray per batch of stored grain.",
+        "High risk to bees, very toxic to aquatic organisms"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Feeding holes on maize cob caused by weevil (Frank Peairs, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "About 1.2 cm long maize weevil feeding on a maize kernel. Note 4 dark yellowish areas on back (photo USDA ARS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Common maize weevil in maize grain storage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Feeding holes on maize kernels (photo MoA Ukraine)"
+      }
+    ]
+  }
+}

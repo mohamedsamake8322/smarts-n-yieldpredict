@@ -1,0 +1,97 @@
+{
+  "title": "Banana bunchy top",
+  "sections": {
+    "Header": [
+      "Banana bunchy top",
+      "Banana Bunchy Top Virus (BBTV) Chichewa: Chisaka cha nthochi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Banana",
+        "Bunchy",
+        "Top is caused by",
+        "Banana",
+        "Bunchy",
+        "Top",
+        "Virus (BBTV) which is transmitted by aphids.",
+        "The disease attacks all stages of the banana crop.",
+        "Do not take planting materials from plants which display symptoms.",
+        "Avoid movement of planting materials from infected fields to non-infected fields.",
+        "Use clean planting materials.",
+        "Promote natural enemies of the virus-transmitting aphids, like (Parasitoids:",
+        "Lysiphlebus testaceipes, .fabarum, Ephedrus cerasicola ; Predators: ladybird beetles and spiders).",
+        "Introduce practices that will attract natural enemies for control of aphids, e.g. permaculture and intercropping.",
+        "Where applicable, observe isolation distance (buffer zone) of 100m between old and new banana plantations."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor all year round at two week intervals.",
+        "Look for:",
+        "Infected leaves are erect, narrow, bunchy, stunted, and often have yellow leaf margins.",
+        "Presence of dark-green long thin spots on the petioles, midribs, and leaf veins of the newly emerging leaves.",
+        "New fully opened leaves are smaller in size than older ones which is the opposite of the normal banana plant.",
+        "Dark green hooked lines on leaves next to midribs.",
+        "Infected plants rarely produce a fruit, but if they do, the fruit stalk is small and distorted.",
+        "If 1 banana plant shows symptoms in your field, consider action.",
+        "If neighbouring fields are infected, consider vector control."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray pressurised water at aphids to remove them from plants and reduce disease transmission.",
+        "Uproot affected banana plants immediately, cut into small pieces, dry in the sun or bury to prevent aphids spreading disease to other plants.",
+        "Chop and sprinkle a lot of salt on the fresh banana corm pieces, then bury them to control the disease.",
+        "Spray",
+        "Azadirachtin (Nimbecidine) 50-60ml/20L of water or 2.5L/ha. 3-4 applications can be used at intervals of 15-20 days to control the aphid vector.",
+        "Apply soapy water to wash off aphids."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Keep pesticides out of reach of children.",
+        "Always wear protective clothing.",
+        "Dispose of containers responsibly (do not clean containers near water).",
+        "Always consult a recent list of registered pesticides for",
+        "Malawi: www.pcb.mw",
+        "To control aphids, apply",
+        "Imidacloprid based insecticides.",
+        "Neonicotinoid group.",
+        "Usually applied at 200g of chemical with 100L of water, but check label.",
+        "Intervals of 1 week between sprays, max 2 sprays per season; Pre-harvest interval (p.h.i.) 14 days; Restricted re- entry interval (r.e.i) half day; WHO toxicity class",
+        "II (moderately acute hazardous to humans).",
+        "Toxic to bees.",
+        "Apply",
+        "Acetamiprid based insecticides.",
+        "Neonicotinoid group.",
+        "Usually applied at 125g of chemical with 100L of water, but check product label.",
+        "Intervals of 2 weeks between sprays, max 2 sprays per season; WHO toxicity class",
+        "II (moderately acute hazardous to humans); This insecticide stiffens leaves of the plants; p.h.i. 14 days, r.e.i. half day.",
+        "There is no pesticide against the virus disease.",
+        "An infected plant cannot be cured.",
+        "Only aphids may be controlled to prevent further disease spread, but chances are low to kill all aphids.",
+        "Spray in the morning and afternoon to avoid chemical evaporation.",
+        "Spray when not windy and no rains."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Tiny 1mm aphid which transmits BBTV."
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Erected bunchy leaves of Banana Bunchy Top Virus - infected plant (Rui map Zheng, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Dark green hooked lines on leaves caused by BBTV (Scot Nelson/University of Hawaii)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana bunchy top"
+      }
+    ]
+  }
+}

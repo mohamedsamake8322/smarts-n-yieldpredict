@@ -1,0 +1,67 @@
+{
+  "title": "Eggplant fruit and shoot borer",
+  "sections": {
+    "Header": [
+      "Eggplant fruit and shoot borer",
+      "Leucinoides orbonalis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Shoot and fruit borer is a small moth which caterpillar bore and fed on plant parts.",
+        "Collect and destroy (burn or bury) all crop residues from the previous season.",
+        "Establish maize trap barriers around eggplant plots 15 days before eggplant transplanting.",
+        "Use tolerant varieties; round-shaped fruit bearing varieties have a higher tolerance to borer pest (e.g.",
+        "Pusa purple round).",
+        "Use healthy, pest-free seedlings.",
+        "Raise seedlings far away from sources of infestation (old eggplant fields, eggplant stubble).",
+        "Grow seedlings under nylon netting to prevent moths from laying eggs on the plants.",
+        "Intercrop with coriander or fennel to reduce pest infestation.",
+        "Conserve natural enemies by avoiding broad spectrum insecticides and providing suitable habitat.",
+        "Harrow the field to expose larvae to sunlight to kill them."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring for borers at the vegetative stage:",
+        "Look for drooping tender shoots and wilting.",
+        "Observe crops for small exit holes below the calyx of fruits and the presence of larvae inside damaged fruit and shoots.",
+        "At crop fruiting stage, look for holes filled with insect excretions.",
+        "Adult moth wingspan between 18-24 mm, with white wings and characteristic brown 'heart' patterns.",
+        "Larvae are reddish-translucent in colour and can grow up to 15 mm long.",
+        "Follow control actions if 2% of plants or a minimum of 1% of fruit show symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice good farm sanitation, burn infested plant materials or bury 3 ft deep into the ground.",
+        "Spray",
+        "Azadirachtin (0.03% EC) (neem-based insecticide) e.g.",
+        "Azatrol, 1 part",
+        "Azatrol with 1 part water, spray at 7-10 day intervals.",
+        "Separate damaged pods during harvest and bury or burn to kill larvae.",
+        "Use light traps to capture adult moths at night.",
+        "Remove and destroy infested shoots (readily visible as dry tip of branches).",
+        "Burn, shred into tiny pieces or bury attacked shoots at least 20 cm in the soil.",
+        "Cut once a week until harvest.",
+        "Need to be done at community level."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Borer larvae (Todd Gilligan, USDA APHIS ITP, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult fruit borer moth (Kurt Ahlmark, USDA APHIS ITP, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Eggplant fruit and shoot borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larva found in fruit (NBAIR)"
+      }
+    ]
+  }
+}

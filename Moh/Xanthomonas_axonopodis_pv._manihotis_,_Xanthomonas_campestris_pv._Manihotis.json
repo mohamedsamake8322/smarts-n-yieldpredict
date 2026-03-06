@@ -1,0 +1,65 @@
+{
+  "title": "Cassava bacterial blight",
+  "sections": {
+    "Header": [
+      "Cassava bacterial blight",
+      "Xanthomonas axonopodis pv. manihotis , Xanthomonas campestris pv. Manihotis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant healthy cuttings.",
+        "Infected cuttings do not show any symptoms of bacterial blight.",
+        "Obtain planting material from trusted sources or areas free from the disease.",
+        "Use resistant or tolerant cultivars if available.",
+        "Avoid planting on land with history of",
+        "CBB.",
+        "Practice crop rotation with cereals such as sorghum or maize, or with legumes such as bean, soybean or groundnuts.",
+        "The rotation must take place for four seasons before planting cassava again.",
+        "Sterilize tools used to prepare cuttings with fire for 2 minutes or wash tools with bleach: 5 parts bleach, 95 parts water.",
+        "Tools can otherwise spread the disease.",
+        "Avoid transferring planting materials from",
+        "CBB endemic areas to new cassava fields."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly visit fields (at least twice a month) beginning 3 months after planting and particularly when conditions are wet.",
+        "When an infected cutting starts to grow the new shoots wilt and the stem dies back.",
+        "Implement control when symptoms are seen at any stage of growth.",
+        "Leaves:",
+        "First symptoms are small dark-green to blue leaf spots which are angular and water-soaked.",
+        "Later, the spots enlarge and join up, often along the leaf edge.",
+        "Yellow patches spread outwards from the leaf spots as the leaf withers and droops.",
+        "Stems and leaves:",
+        "Produce a sticky ooze, containing bacteria.",
+        "Dark areas (lesions) develop along the leaf stalks and woody stems.",
+        "Leaves wilt without developing any leaf spots.",
+        "The soft tissue at the top of the growing shoot dies, giving plants a characteristic ‘candle’ appearance.",
+        "New leaves grow out lower down the stem but they will also eventually die.",
+        "Symptoms are evident during rainy season, especially in high altitude (>1600m)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If only a few plants in a field show symptoms, speedy removal may reduce further spread.",
+        "Dispose of infected plants by uprooting and burying deeply (at 50 cm) or burning to avoid keeping a source of inoculums.",
+        "Minimise the movement of livestock and people in infected fields as they can spread the disease, especially when conditions are wet.",
+        "Once the field is infected, practice crop rotation at least four seasons before planting cassava again in the same field.",
+        "There is no chemical treatment for controlling the disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellow patches spread outwards from the leaf spots as the leaf withers (Fen Beed)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Bacteria block movement of water and nutrients in the woody stem; the leaves above the blockage wilt without developing any leaf spots (Fen Beed)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cassava bacterial blight"
+      }
+    ]
+  }
+}

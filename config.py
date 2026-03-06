@@ -1,0 +1,3 @@
+DEBUG = False
+ENV = "production"
+

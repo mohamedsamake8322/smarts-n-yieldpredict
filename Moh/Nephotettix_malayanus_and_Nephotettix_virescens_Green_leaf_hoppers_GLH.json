@@ -1,0 +1,82 @@
+{
+  "title": "Leaf hoppers in rice",
+  "sections": {
+    "Header": [
+      "Leaf hoppers in rice",
+      "Nephotettix malayanus and Nephotettix virescens Green leaf hoppers (GLH)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Protect natural enemies such as",
+        "Spiders, Dragon flies, Ladybird beetles, Predatory wasps and",
+        "Parasitic wasps through conservation of patches of natural vegetation.",
+        "Plant early in the season at the onset of rains.Plant companion crops such as marigold and geraniums around the rice field.",
+        "Control weeds in the field to remove the preferred grassy hosts of",
+        "GLH and promote crop vigor.",
+        "Rotate rice with non-grass crops like potatoes, cabbages, soya beans, beans etc.",
+        "Avoid overlap/relay planting of rice crop.",
+        "Reduce the number of rice crops to two per year and synchronize crop establishment across farms to reduce leafhoppers infestations.",
+        "Avoid planting during the peak of leafhopper activity (shown by historical records) to avoid infestation.",
+        "Transplant older seedlings (>3 weeks) to reduce susceptibility to viral diseases transmitted by leafhoppers."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect regularly for slender, wedge-shaped insects with varying body colors of green, yellow, brown and are often mottled, mostly matching the colour of the host plant.",
+        "Look for light-colored speckling on plant leaves that gradually lead to browning of the leaves.",
+        "Inspect young plants or new growth for stunted growth and/or deformations.",
+        "Inspect shoots for curls and/ or dying while the tips of infested leaves develop diamond- shape yellowing, may also appear stippled, pale or brown.",
+        "Use light traps to show leafhopper presence.",
+        "Take action when 3-5 nymphs per hill are seen."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot infected plants and feed livestock or burn.",
+        "Control the leafhoppers by digging a trench between rice fields and planting grass on the bands.",
+        "Spray",
+        "Acetamiprid 35g/L + Lambda",
+        "Cyhalothrin 15g/L (e.g.",
+        "KINGCODE ELITE 50EC 10ml/20l)",
+        "Spray",
+        "Lufenuron (e.g.",
+        "LEGACY 50EC at 12-26ml in 20L of water)",
+        "Spary using",
+        "Alpha- cypermethrin –based products (ALBAZ 10",
+        "EC; ALFACYPER M EC; ALFAGOLD 100",
+        "EC; ALFAPOR 10% EC and many others).",
+        "Usually 20-30ml per 20 litres of water, but read product label. (Pyrethroid group of pesticides)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "WHO class",
+        "II (Moderately hazardous); PHI 28 days.",
+        "REI 12 hours.",
+        "Apply when first signs are noted.",
+        "WHO class",
+        "III (Slightly hazardous); PHI 14 days.",
+        "REI when spray dries.",
+        "Repeat application at 10 days interval to a maximum of 4 sprays.",
+        "WHO toxicity class",
+        "II (moderately hazardous), Pre- harvest interval (P.H.I) 3- 7days; restricted; Re-entry interval (R.E.I) 3 days after spray; 2 maximum sprays per season.",
+        "High risk to bees, very toxic to aquatic organisms.",
+        "Does not work well at hot weather."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult green leafhopper (Natasha Wright, Braman Termite & Pest Elimination, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf hoppers in rice"
+      }
+    ]
+  }
+}

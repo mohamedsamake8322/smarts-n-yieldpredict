@@ -1,0 +1,59 @@
+{
+  "title": "Whitefly on cabbage",
+  "sections": {
+    "Header": [
+      "Whitefly on cabbage",
+      "Bemisia tabaci , Trialeurodes vaporariorum and Aleyrodes proletella"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Whiteflies are small white insects found feeding on the sap on the plants on the undersides of the leaves.",
+        "Clear weeds in advance of planting crop to reduce overwintering pest stages.",
+        "Ensure healthy and vigorous crop growth to reduce whitefly impact with recommended irrigation and fertilization.",
+        "Avoid excessive nitrogen levels in the soil, this will be taken up by the crop and favour whitefly survival.",
+        "Avoid broad spectrum insecticides to conserve natural enemies such as parasitic wasps, ladybirds, lacewings and hoverflies.",
+        "Plant parasitic wasp-attractive plants such as parsley.",
+        "Plant whitefly repellant crops such as marigold around the boundary of the field."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the fields every week during plant growth and observe entire plants for infestation found primarily on stems and the underside of leaves.",
+        "Adults are small flies with white bodies and wings found on the underside of leaves.",
+        "When disturbed the insects form a small cloud/swarm.",
+        "Nymphs are flat, yellowish-white, scale-like and sedentary.",
+        "Whiteflies excrete honeydew which can become covered in sooty mould, causing yellowing of leaves.",
+        "Use 2 yellow sticky traps/acre to monitor adults populations and for identification.",
+        "Plants can tolerate a few whiteflies however if numbers start to establish, take action measures, especially in warm, dry conditions."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Actively remove weeds and other host plants from fields and neighbouring areas.",
+        "Use botanical extract sprays (such as neem seed extract, lemongrass or ginger) 1:15 litres of water.",
+        "Use 10 tablespoons of liquid soap per 10 litres of water.",
+        "Spray plants every week in the evening until whitefly population has been reduced.",
+        "Release parasitic wasps from the genus",
+        "Encarsia such as",
+        "Encarsia formosa if commercially available in your area."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult whitefly (W. Billen, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Whitefly infestation on the underside of a leaf (John C. French Sr, Auburn University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Whitefly on cabbage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Whitefly nymphs (Clemson University, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Downy mildew on watermelon",
+  "sections": {
+    "Header": [
+      "Downy mildew on watermelon",
+      "Peronospora cubensis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Burn the crop residue from the previous crop and then mix in soil",
+        "Rotate crop after one year or more (e.g. with sesame, rice or pulses)",
+        "Use certified seeds",
+        "Manage irrigation system.",
+        "Use furrow or drip irrigation; do not use overhead irrigation",
+        "Avoid splashing – use plastic sheet as mulch",
+        "For local varieties:",
+        "Seed treatments with fungicides to prevent disease (see yellow direct control); Hot water treatment : soaking seeds in water at 45°C for ten minutes may help to reduce seed transmission but does not eliminate the pathogen; do not use hot water method if seeds are already treated with fungicides"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Where to look for the problem:",
+        "Upper surface of young leaves (pale green to light yellow spots).",
+        "Look for rectangular or angular spots, especially on the lower leaves of the plant.",
+        "Spots tend to be on or close to the veins",
+        "If possible, confirm by microscopic examination.",
+        "Look for sporangiophores and sporangia in leaves",
+        "Look for downy mildew when:",
+        "Plants are in a vegetative stage",
+        "When weather conditions favour the disease (high humidity and temperature of 20-22°C)",
+        "When to consider taking action: 10-25% infested leaves per acre [sample 20 plants from infected field]"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Physical control: hand picking of infected leaves",
+        "Apply biopesticide, Trichoderma , harzianum available from the",
+        "Department of",
+        "Agricultural",
+        "Research in",
+        "Myanmar and apply 10gm/plant",
+        "To prepare biopesticide:",
+        "The mixture of",
+        "T. harzianum , rice bran and water is kept overnight by covering with plastic sheet",
+        "Apply the mixture into the soil of the infested field"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Metalaxyl+ Mancozeb (Trade name:",
+        "Ridomil",
+        "MZ). 80-120 g/ac.",
+        "Systemic.",
+        "FRAC Code 4",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Foliar spray.",
+        "Maximum number of application times: 2-3 times.",
+        "PHI: 7-14 days.",
+        "REI: 7-10 days.",
+        "Use",
+        "PPE and alternate fungicides",
+        "Dimethomorph (Trade name:",
+        "Armo",
+        "Dimorph).",
+        "Dosage100-150g/ac.",
+        "Systemic.",
+        "FRAC Code 40",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Foliar spray.",
+        "Maximum number of applications 3 times.",
+        "PHI: 14 days.",
+        "REI: 7-14 days.",
+        "Use",
+        "PPE and alternate fungicides",
+        "Azoxystrobin (Trade name:",
+        "Revive).",
+        "Dosage:50-100cc/ac.",
+        "Systemic.",
+        "FRAC Code 11",
+        "WHO Class",
+        "U.",
+        "Maximum number of applications 3 times.",
+        "PHI: 14 days.",
+        "REI: 7-14 days.",
+        "Use",
+        "PPE and alternate fungicides"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf symptom with downy mildew (CABI CPC 2007)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Downy mildew on watermelon"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Sporangiophores and sporangia (CABI CPC 2007)"
+      }
+    ]
+  }
+}

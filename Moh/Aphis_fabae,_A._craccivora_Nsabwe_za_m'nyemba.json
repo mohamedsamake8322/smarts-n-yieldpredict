@@ -1,0 +1,94 @@
+{
+  "title": "Aphids on beans",
+  "sections": {
+    "Header": [
+      "Aphids on beans",
+      "Aphis fabae, A. craccivora Nsabwe za m'nyemba"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use high planting densities (recommended seed rate 80 kg/ha) since sparse planting density encourages aphid infestations.",
+        "Encourage intercropping with densely populated maize crop.",
+        "Plant 2 bean seeds in between maize stations (25 cm apart) to prevent heavy aphid infestation.",
+        "Plant winter crops early, between",
+        "May and",
+        "June",
+        "Before planting remove all weeds and and volunteer plants, especially if they are infested with aphids.",
+        "Check if surrounding bean farmers are experiencing aphids, or if surrounding bean gardens have aphids.",
+        "Use recommended rate of nitrogen fertiliser application (100kg of",
+        "NPK /ha) to avoid aphid infestation.",
+        "Introduce practices that will attract natural enemies such as planting flowering plants around the field, avoid use of broadspectrum pesticides that can reduce the populations of ladybug, green lacewings and birds."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Cowpeas, soybeans, pigeon peas.",
+        "Inspect crops regularly (once or twice a week) during periods of high risk, during continuous dry spells and when crops are about to flower.",
+        "Look for colonies of small black/ green soft bodied insects on plants, especially around stems, growing points and undersides of the leaves.",
+        "Sooty mould can be seen when there is a high infestation of aphids.",
+        "Look for leaf distortion and curling of leaves where aphids have fed.",
+        "Affected plants can be slow in growth and struggle to recover, which reduces yield.",
+        "Look for ants that may be attracted by the honeydew produced by aphids.",
+        "Consider control when 15-20% plants have been infested in the garden."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn nearby dead, infested plants to reduce aphid build up.",
+        "Apply",
+        "Deltamethrin (Decis 1.0",
+        "EC) at 106-135 g/ha.",
+        "Contact pyrethroid, IRAC group 3A",
+        "Spray",
+        "Lambda- cyhalothrin (Karate) at 225g per ha.",
+        "Synthetic pyrethroid with contact activity, IRAC group 3A Apply cypermethrin (Cypermethrin 20EC, Cyprux 20EC) at a rate of 2.5-5ml/20L",
+        "Spray a mixture of 7ml dimethoate (Dimethoate 40EC, Nugor 40EC) in 10",
+        "L of water.",
+        "Dimethoate is an oganophosphate, IRAC group 1B"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Moderately harzadous (WHO Class",
+        "II)",
+        "Apply early in the morning (7-9 a.m) and later in the afternoon (3-6 p.m)",
+        "Toxic to fish and bees, hence avoid planting beans along streams.",
+        "Moderately harzadous (WHO Class",
+        "II).",
+        "Apply full cover spray 3 and 7 days after crop emergence, then weekly interval until blossom.",
+        "High risk to bees.",
+        "Avoid applying the chemicals during flowering stage",
+        "Moderately harzadous (WHO Class",
+        "II).",
+        "Apply full cover spray, PHI 7 days.",
+        "High risk to bees.",
+        "Moderately harzadous (WHO Class",
+        "II).",
+        "Apply full cover spray 3 and 7 days after crop emergence, then weekly interval until blossom.",
+        "High risk to bees."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Colony of aphids (Alvesgaspar, Wikimedia Commons)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Black bean aphid, Aphis fabae (Sascha Kohlmann, www.flickr.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Heavy infestation of aphids on bean plants (A. Varela)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Aphids on beans"
+      }
+    ]
+  }
+}

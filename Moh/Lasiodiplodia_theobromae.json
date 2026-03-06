@@ -1,0 +1,52 @@
+{
+  "title": "Charcoal pod rot (Diplodia pod rot) of Cocoa",
+  "sections": {
+    "Header": [
+      "Charcoal pod rot (Diplodia pod rot) of Cocoa",
+      "Lasiodiplodia theobromae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid the wounding of cherelles (young pods) and pods during farm operations such as weeding and harvesting.",
+        "Wounding makes pods susceptible",
+        "Use improved planting materials from",
+        "COCOBOD Seed",
+        "Production",
+        "Division",
+        "Ensure proper farm husbandary practices, weeding, pruning etc.",
+        "Ensure proper nutrition of cacao trees through fertilization (Conact",
+        "COCOBOD for approved fertlizer list)",
+        "Avoid transporting infected pods to uninfected areas"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for pods with sooty black powdery substance (fungal spores).",
+        "When infected pods are touched, a black charcoal-like substance is left on the fingers.",
+        "Infected pods shrivel over time",
+        "Monitor field all year round, but very conspicuous when trees are stressed in the dry season"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove or harvest infected pods as soon as observed"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "This disease is of low economic importance and no chemical control measures are advised for its management"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Charcoal pod rot (Diplodia pod rot) of Cocoa"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cacao pod showing sooty black conidia of fungus (AY Akrofi, CRIG)"
+      }
+    ]
+  }
+}

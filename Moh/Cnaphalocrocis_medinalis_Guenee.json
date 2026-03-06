@@ -1,0 +1,65 @@
+{
+  "title": "Leaf roller on rice - China",
+  "sections": {
+    "Header": [
+      "Leaf roller on rice - China",
+      "Cnaphalocrocis medinalis Guenee"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rational fertiliser management, apply fertiliser according to local soil condition.",
+        "Create an environment that disfavours leaf roller; grow sesame or soybean along the field to create a favourable environment for beneficial insects, such as",
+        "Trichogramma .",
+        "Adjust the time of planting to avoid peak time of leaf roller.",
+        "Cover the seedling nursery with nylon film or insect net after planting, preventing damage from laying eggs.",
+        "Conserve natural enemies using nectar flowers and avoiding insecticide use in the early crop stages.",
+        "Thus leaf folder damages at tillering stages should be tolerated."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should be carried out 3-5 days after transplanting.",
+        "Direct control should be carried out when the number of pest galls reaches 15 per hundred plants (or number of larvae reaches 30 per hundred plants)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Biocontrol: protect natural enemies (frogs, spiders and other beneficial insects), rear ducks in rice field to control leaf rollers.",
+        "Manually release",
+        "Trichogramma in the field during peak time of leaf rollers (7-8 release sites per mu, 8000",
+        "Trichogramma for each mu).",
+        "Frequency oscillation pest-killing lamp: 1 lamp could cover 25-30 mu, each lamp stands 1.5 meters higher than the rice plant."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems.",
+        "Rotational application of pesticides to avoid resistance.",
+        "Use",
+        "PPEs while using chemical pesticides.",
+        "Chlorpyrifos",
+        "WHO II, Apply when pest galls appear in the field",
+        "Flubendiamide",
+        "WHO class",
+        "III, Apply when pest galls appear in the field",
+        "Chlorantraniliprole",
+        "WHO U, Apply when pest galls appear in the field"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Larva of leaf roller (photo source: IRRI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Moth of leaf roller (Photo source: IRRI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf roller on rice - China"
+      }
+    ]
+  }
+}

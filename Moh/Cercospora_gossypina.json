@@ -1,0 +1,77 @@
+{
+  "title": "Cercospora fungal leaf spot disease on cotton - Zambia",
+  "sections": {
+    "Header": [
+      "Cercospora fungal leaf spot disease on cotton - Zambia",
+      "Cercospora gossypina"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove previous season crop debris, if disease was present.",
+        "If no major pests or diseases were in your field, leave residues to improve soil and prevent moisture loss.",
+        "Never grow cotton in one field for more than 3 years.",
+        "Rotate with maize or soybeans.",
+        "In case of disease attack, rotate already in the following season.",
+        "In acid soil, add nitrogen and phosphorus and in sandy soils add potassium to avoid nutrient deficiency stress, which can cause cotton to be vulnerable to diseases."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the field once every 2 weeks from seedling to flowering stage (vegetative period).",
+        "Intensify monitoring to once a week between flowering and opening of cotton balls",
+        "Look out for any spots on the leaves.",
+        "Then search for round red spots 0.2 – 1.5cm on leaves which enlarge and turn whitish-grey in the centre.",
+        "Lesions always have patterns of rings and a red margin.",
+        "Later, dark grey spore masses form in the spot centres making them appear dark grey.",
+        "Consider action when 20-30 plants/100 plants infected with early spots and 5-15 plants/100 plants infected with late spots."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prevention is the best control method.",
+        "Rogue out infected plants at any stage.",
+        "Spray with baking soda solution (use 1 table spoon of baking soda, 2.5 table spoons oil and 1 teaspoon of liquid soap, in 5 litres of water and mix well.)",
+        "Apply every 2-3 weeks from seedling stage to flowering.",
+        "Carbendazim - based products (SAAF, SAFE, and others).",
+        "Usually applied at 20 to 50gms in 20 ltr container, but double- check labels.",
+        "Repeat the spray after 2 weeks if necessary.",
+        "Benzimidazoles group of fungicides."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ZEMA.",
+        "WHO toxicity class",
+        "U (Unlikely to present acute hazard in normal use); Pre-harvest interval (p.h.i) 14 days; restricted re-entry interval (r.e.i.) 1 day after spray; maximum 3 sprays at minimum 14 day intervals.",
+        "Do not treat on waterlogged soils.",
+        "Harmless to rover and ground beetles as well as parasitoids; but toxic to predatory mites.",
+        "Non-toxic to bees but toxic to fish and earthworms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Lesions with rings and a red margin with dark grey fungi spore masses in center. Chemical control too late (Photo by Uvalokope)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Early infection: Tiny dark red spots (Photo by University of Missouri)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Round red lesions whitish grey in the centre (Photo by University of Missouri)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Cercospora fungal leaf spot disease on cotton - Zambia"
+      }
+    ]
+  }
+}

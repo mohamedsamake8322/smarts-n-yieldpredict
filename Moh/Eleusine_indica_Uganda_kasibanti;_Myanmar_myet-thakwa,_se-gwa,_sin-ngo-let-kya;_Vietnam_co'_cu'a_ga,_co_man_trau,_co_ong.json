@@ -1,0 +1,69 @@
+{
+  "title": "Goose grass",
+  "sections": {
+    "Header": [
+      "Goose grass",
+      "Eleusine indica Uganda: kasibanti; Myanmar: myet-thakwa, se-gwa, sin-ngo-let-kya; Vietnam: co' cu'a ga, co man trau, co ong"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Purchase certified crop seed and animal feed to reduce the chance of contamination",
+        "As seeds can travel on animals and machinery, do not allow animals into an affected area, limit machinery use in the area and keep machinery clean to prevent spread",
+        "Keep crop healthy to maximize competitiveness - use optimal water and fertilizer levels",
+        "For pasture, encourage good grass coverage since grass can outcompete the weed.",
+        "Limit the amount of grazing in a particular area:",
+        "Supply multiple watering points to prevent livestock congregating",
+        "Rotate livestock between paddocks"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Tufted annual grass, spreading or stands straight, up to 60 cm tall",
+        "Seedlings: first leaf is about 1 cm long, pointed, may lie flat on soil",
+        "Leaves: bright green; smooth; flat to",
+        "V-shaped; up to 8 mm wide, 15 cm long.",
+        "Tends to form a long-growing rosette with white-coloured leaf sheath at the base",
+        "Flowers: arranged in clusters of 3-5",
+        "Does not root at nodes of growing stems.",
+        "Seeds: reddish-brown to black; oblong; ridged; about 1 mm long",
+        "Roots: centralized system; very strong when mature",
+        "Spreads along disturbed habitats such as roads and powerline corridors.",
+        "Look for it along marshes, stream banks and coasts",
+        "Can be confused with weeds such as",
+        "Digitaria, Dactyloctenium, Cynodon, Chloris or",
+        "Paspalum spp.",
+        "E. indica is distinguished by the combination of its flattened stem, bright green leaves, size and many- flowered character of spikelets, lack of awns."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove by hand if the weed is smaller than 5-8 cm in diameter.",
+        "Use a hoe if removal is difficult.",
+        "Removal gets harder as weed grows (root system is stronger)",
+        "Till the land.",
+        "The weed grows best in compact, poorly drained soils so make sure it is aerated and drained",
+        "Use solarization to kill weed seeds down to 5 cm.",
+        "This requires watering (light irrigation) of the soil area after mulching and before covering the area with the transparent polyethylene sheet",
+        "Use shredded newspaper as a mulch on tomato fields",
+        "Use a rye cover crop – its residues should supress the weed"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "E. indica seedlings (Chris Parker, Bristol, UK)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "E. indica shoot (Chris Parker, Bristol, UK)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Goose grass"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "E. indica growth habit (S.D. Sawant)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Black rot disease of cabbage",
+  "sections": {
+    "Header": [
+      "Black rot disease of cabbage",
+      "Xanthomonas campestris pv campestris Kuola kwa kabichi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seed and seedlings free from disease as this disease can be seed- borne.",
+        "Use resistant varieties such as",
+        "Marcanta where available.",
+        "Correct plant spacing: 50 cm between plants and 60 cm between rows.",
+        "Do not plant crucifers in areas that have a history of the disease.",
+        "Rotate crucifers 3-4 years with crops that are not susceptible, such as maize, legumes and tomato.",
+        "Avoid flood/furrow irrigation because it will carry the disease from infected to uninfected areas.",
+        "Avoid moving through fields when the plants are wet to prevent disease spread.",
+        "Clean tools and boots.",
+        "Destroy alternative host weeds in the crucifer family e.g. birdsrape mustard, Indian mustard and black mustard."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: cauliflower, chinese cabbage, brussel sprouts, turnip, mustard, broccoli, rape and radish.",
+        "Monitor plants weekly for symptoms from planting.",
+        "Look for yellow",
+        "V-shaped lesions with the open part of 'V' along the edge of the leaf.",
+        "The diseased leaf area becomes brown and brittle.",
+        "Affected leaf veins turn dark brown to black.",
+        "The",
+        "V-shaped lesions enlarge and the entire leaf eventually turns yellow or wilts and falls from the plant.",
+        "Infected seedlings remain stunted and become unproductive.",
+        "There is a ring of black discoloured tissue within the stem when cut.",
+        "If 6-8 plants/ha show symptoms, take action."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Destroy crop residue by drying and burning.",
+        "Seeds of cabbage, broccoli and brussel sprouts should be hot water treated at 122°F (50°C) for 25 minutes.",
+        "Seeds of cauliflower, kale and turnip should be hot water treated at 122°F (50°C) for 15 minutes."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink or smoke when mixing or applying pesticides.",
+        "Copper-based pesticides can be used to reduce the spread of the disease:",
+        "Apply copper hydroxide (500 g/kg) (Funguran-OH WP, Cungfu 583",
+        "SC) at a rate of 150 ml/100",
+        "L.",
+        "Multi-site contact activity.",
+        "FRAC group",
+        "M1.",
+        "WHO Class",
+        "II - Moderately hazardous.",
+        "Apply at sight of disease and every 7-14 days.",
+        "PHI 7 days.",
+        "Ensure full coverage of the plant.",
+        "Apply copper oxychloride (850 g/kg) (Copper oxychloride 500",
+        "WP, Suncop",
+        "WP) at a rate of 250 g/ha or 300 g/100L.",
+        "Multi-site contact activity.",
+        "FRAC group",
+        "M1",
+        "WHO Class",
+        "II - Moderately hazardous.",
+        "Apply at sight of disease and every 7-14 days.",
+        "PHI 7 days.",
+        "Ensure full coverage of the plant."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Whole plant showing typical symptoms (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Black rot disease of cabbage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Characteristic V shaped lesions spreading from the edge of leaves and black veins (CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Rot on cabbage stem (CABI)"
+      }
+    ]
+  }
+}

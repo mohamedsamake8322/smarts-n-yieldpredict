@@ -1,0 +1,84 @@
+{
+  "title": "Paddy armyworm on rice - Nepal",
+  "sections": {
+    "Header": [
+      "Paddy armyworm on rice - Nepal",
+      "Mythimna separata Fauzi kira"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate rice with vegetables as rice and other cereal crops are major hosts of paddy armyworm.",
+        "Control grassy weeds in the rice field as they are alternative hosts.",
+        "Conserve natural enemies such as",
+        "Cotesia or",
+        "Trichogramma wasps, and",
+        "Carabid ground beetles by reducing pesticide use and growing flowering plants along border.",
+        "Apply no more than the recommended dose of nitrogen fertilizer (100 kg",
+        "N/ha) as too vigorous growth can increase armyworm infestation.",
+        "Hairless, brownish caterpillar of",
+        "Paddy armyworm with a narrow, white dorsal line (NBAIR)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use 2-5 light traps/ha at the edge of the field and examine traps weekly for moths.",
+        "After observing first moths in light traps, start monitoring the rice plants weekly to check caterpillar damage in crop (massive leaf removal, often including leaf veins) as damage occurs suddenly.",
+        "Check for stout, hairless and brown caterpillars with a narrow, white dorsal line.",
+        "Caterpillar curls to form",
+        "C-shape if disturbed.",
+        "During grain filling stage, the larger caterpillars cut off panicles at their base causing some to bend while others fall to the ground.",
+        "Apply control measures if 1-2 larvae/hill during pre-panicle stage and 1 larva/hill at panicle stage are observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand-pick egg masses (laid in single or double rows between the base of the leaf sheath and stem, which are not covered with hair) or larvae from seedbeds or a young crop and destroy them.",
+        "Flooding of the nursery bed/main field and dragging ropes across the top of the rice plants to detach and drown the larvae.",
+        "Spray",
+        "Azadirachtin– based products.",
+        "Apply",
+        "Bacillus thuringiensis (take",
+        "Lepidopteran larvae active strain), @ 2g/l.",
+        "Secondary contact action but pests need to ingest it."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use insecticides to control the larval stage.",
+        "Do not mix pesticides.",
+        "Alternate insecticides to avoid pest resistance development.",
+        "When using a pesticide or botanical, always wear protective clothing (PPE) and follow the instructions on the product label.",
+        "Spray",
+        "Cypermethrin–based products, IRAC Group 3A (Pyrethroids), 25% EC @ 2 ml/L.",
+        "Non-systemic, broad- spectrum insecticide with contact and stomach action on caterpillar.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "REI 1 day after spray.",
+        "Max. 2 sprays per season at minimum 14 day interval.",
+        "Do not spray during daytime (toxic to bees).",
+        "Do not spray near water sources (harmful to aquatic organisms).",
+        "Spray",
+        "Chlorpyrifos–based products (50% EC), IRAC Group 1B (Organophosphates) (250 ml/ hHa), broad-spectrum, contact insecticide.",
+        "WHO class",
+        "III (slightly hazardous); REI 1 day after spray.",
+        "Max. 2 sprays per season at minimum 14 day interval.",
+        "Toxic to beneficial insects, bees, aquatic organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Always consult recent list of registered pesticides from Plant Quaratine and Pesticide Management Centre (www.npponepal.gov.np) Pesticide Registration and Management Division, Nepal (www.prmd.gov.np)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult of Paddy armyworm moth (Source: epitree via Flickr)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Paddy armyworm on rice - Nepal"
+      }
+    ]
+  }
+}

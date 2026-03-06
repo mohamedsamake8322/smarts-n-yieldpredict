@@ -1,0 +1,64 @@
+{
+  "title": "Armillaria root rot in tea",
+  "sections": {
+    "Header": [
+      "Armillaria root rot in tea",
+      "Armillaria mellea"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Choose a site without a previous disease history",
+        "Crop rotate for 2 to 3 years using kale, cabbage, tomato,onions, beans, maize, sorghum, after clearing and uprooting the infected tea bushes",
+        "Plant tolerant varieties such as",
+        "TRFK 371/3, TRFK 430/90, TRFK 306.",
+        "Plough deep the soil to expose the pathogen and deplete the pathogen reserves in the soil."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Wilted, limped folliage, yellow needled and drying tea leaves.",
+        "Mushroom like odour from the split cambium of the infected crops.",
+        "Branch die back and crown thinning on the stem.",
+        "Take action by uprooting or prunning when 1 infected plant is found in the tea farm."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Expose the base of the newly infected plants for up to 3 to 4 inches deeper for aeration.",
+        "To reduce the inoculum build up, remove the stumps of all infected tea bushes and burn down.",
+        "Ring incise the trunks for 6 to 12 months before uprooting the infected tea bushes",
+        "Uproot infected tea stems and roots if possible."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides (PCPB)",
+        "Drench soil with carbendazim based products (Rodazim",
+        "Sc, pearl 500Sc) before planting (Rate 15 to 20ml/20L water)",
+        "WHO Class",
+        "III (Slightly",
+        "Hazardous).",
+        "PHI 14 days low toxicity on bees.",
+        "Do not allow entry into treated areas until the spray has dried up, Spray on the onset of the disease up to 42 days after planting during flowering up to early pod formation"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Decaying of the inner wood of the base of the tea stem (KALRO (TRI))"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Armillaria root rot in tea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Branch die back and crown thinning of the stem are evident on the infected bushes (KALRO( TRI))"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Goose grass in Maize",
+  "sections": {
+    "Header": [
+      "Goose grass in Maize",
+      "Eleusine indica Chisangwi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Early land preparation that includes clearing and burning of weed remnants immediately after crop harvest and early planting with effective rains of at least 30 mm cumulative",
+        "Intercropping maize with beans, cowpeas, soybeans to allow complete ground cover to provide shading effects on the weeds.",
+        "For intercropping plant maize at 90 cm",
+        "X 90cm, 3 plants per hill and plant legume seeds between maize stations",
+        "Use certified seed to avoid introduction through contamination",
+        "Construct contours and water ways to prevent runoff from an infested area",
+        "Discourage grazing animals in the fields to avoid spreading of seeds with animal dung"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Tufted annual grass, spreading or stands straight, up to 40 cm tall.",
+        "Leaves bright green, flat or folded along central vein, up to 8 mm wide and 15 cm long.",
+        "Leaf tip boat-shaped.",
+        "Inflorescences with 3-8 'branches', each with two dense rows of flowers",
+        "Scout the fields weekly during the growing season looking for emerging weeds from crop emergence.",
+        "Consider direct control methods when the weed is found to be present"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Weed as soon as weeds appear when it is young using a hand hoe.",
+        "If the weed is left to mature it is very difficult to remove without disturbing the crop"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "If there is a history of the weed use",
+        "Acetochlor (Acetochlor 900EC, Sprint 900EC) it is a pre-emergence herbicide.",
+        "Apply at a rate of 7.5 ml in a 15 litre tank immediately after sowing.",
+        "WHO class",
+        "III (slightly harzadous)",
+        "Glyphosate (Round-Up 360, Glyphosate 360",
+        "SL, Erase 360",
+        "SC) is a post-emergence herbicide applied once the weed has germinated and before maize is sown.",
+        "Use at a rate of 23 ml in a 15 litre tank.",
+        "WHO class",
+        "III (slightly harzadous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Growth habit of Wild finger millet © Chris Parker/Bristol, UK"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Goose grass in Maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Inflorescence of Wild finger millet © Wikimedia Commons"
+      }
+    ]
+  }
+}

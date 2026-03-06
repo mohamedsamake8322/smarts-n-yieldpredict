@@ -1,0 +1,101 @@
+{
+  "title": "Aphids on cotton",
+  "sections": {
+    "Header": [
+      "Aphids on cotton",
+      "Aphis gossypii Nsabwe za M`thonje"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate cotton every two years with maize, beans, cabbage, millet, cassava or other vegetables.",
+        "Uproot and burn crop residues as soon as possible after harvest.",
+        "Ensure that the fields are free from weeds as some weeds harbour aphids.",
+        "Avoid application of broad spectrum pesticides (i.e. abamectin) to preserve natural enemies such as lady bird beetles and parasitic wasps, which assist in reducing pest populations."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check plants in the field once a week for the presence of aphid nymphs.",
+        "Cotton aphids are 1-3mm long, soft- bodied insects with long antennae and 2 projections at the rear.",
+        "They vary in colour from yellow to yellow/green to very dark green/black.",
+        "Aphids on the underside of young leaves cause curling of the leaves and also look for boll shedding and stunting of the plant.",
+        "When infestation is at an early stage, try the",
+        "Green",
+        "Direct",
+        "Control methods (insects present but no symptoms observed).",
+        "If the infestation is heavy (crinkling of leaves and other symptoms observed) or application of soapy water is not effective, consider using",
+        "Direct",
+        "Yellow",
+        "Control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "When infestation is light or at an early stage, apply soapy water.",
+        "Tablet soap or liquid soap can be mixed with water and applied using a knapsack sprayer.",
+        "Apply",
+        "Nimbecidine",
+        "EC a neem based product.",
+        "Prepare a foliar spray of 5ml",
+        "Nimbecidine to 1 litre of water.",
+        "Add nimbecidine to water not water to nimbecidine and stir well.",
+        "If plants are severely affected, they can be uprooted and burned."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Use",
+        "Acetamiprid 200-222g/ L (Novacetam 222",
+        "SL; Acetamiprid 20",
+        "SP; Agro- Prid 200",
+        "SL).",
+        "Apply using a",
+        "Knapsack sprayer at the rate of 4 to 7.5 ml/15L.",
+        "Systemic neonicotinoid, IRAC group: 4A",
+        "WHO Class (Moderately hazardous).",
+        "Observe a",
+        "Preharvest",
+        "Interval (PHI) of 7 days.",
+        "Reapply if aphid infestation re-appears at 7-21 day intervals.",
+        "Consider using an insecticide from a different",
+        "IRAC group so resisitance does not occur",
+        "Use",
+        "Dimethoate 400g/L (Rogor 30% EC; Dimethoate 40% EC; Fetron 400",
+        "EC; Nugor 40",
+        "EC).",
+        "Apply using a",
+        "Knapsack sprayer at the rate of 20mls/15L of water.",
+        "Systemic and contact organophosphate, IRAC group 1B",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Observe a",
+        "PHI of 14 days.",
+        "Reapply if aphid infestation re-appears.",
+        "Consider using an insecticide from a different",
+        "IRAC group so resisitance does not occur.",
+        "DO NOT feed cotton stubble, fodder or trash to livestock"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Aphid infestation on cotton leaf (Ronald Smith, Auburn University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Aphids on cotton"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Curling leaves caused by aphids feeding (Ronald Smith, Auburn University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Natural enemies - ladybird larva (Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org)"
+      }
+    ]
+  }
+}

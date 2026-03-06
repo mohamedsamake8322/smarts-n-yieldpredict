@@ -1,0 +1,96 @@
+{
+  "title": "Mango seed weevil",
+  "sections": {
+    "Header": [
+      "Mango seed weevil",
+      "Sternochetus mangiferae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Collect and destroy all scattered stones and fallen fruits.",
+        "Chop them finely or bury them deeply (about 50 cm deep) before planting",
+        "Avoid movement of fruits from areas known to have mango seed weevils to areas where young orchards, free of seed weevil, have been established",
+        "Apply sticky bands at the upper end of tree trunks when the trees start flowering to help reducing migration of weevils to branches for egg laying"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check every two weeks to observe adult activity and behaviour on the trees and fruits",
+        "Inspect under rough bark, on the trunk and main leaders for adult weevils",
+        "Inspect new flushes for feeding damage on leaves",
+        "Look for the presence of eggs on fruit manifested by small, dark, crescent-shaped marks on the fruit skin",
+        "Cut fruit and seeds at harvest to look for larvae",
+        "Check for entry marks on the fruits",
+        "Start control measures when the pest is observed"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove all infested fruits and debris from the field and destroy by burning or burying 50cm deep"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Follow instruction on the product label such as dosage, pre",
+        "harvest interval and appropriate time of application",
+        "Spray with",
+        "Malathion based products e.g",
+        "Marathon 50EC and",
+        "Malaton 50EC at 40-50 ml in 20 litres of water.",
+        "Non-systemic with contact stomach and respiratory action.",
+        "Organophosphate; IRAC 1B",
+        "Spray with",
+        "Deltamethrin based products such as",
+        "Farm-X, Atom 2.5EC, and",
+        "Decis 2.5EC at 10-15 ml in 20 litres of water.",
+        "Non-systemic with contact stomach action.",
+        "Pyrethroid; IRAC 3A",
+        "Spray with",
+        "Bifenthrin based products e.g",
+        "Biferan 25EC, Seizer 80SC, Talstar at 20ml in 20 litres of water.",
+        "Non-systemic with contact stomach action.",
+        "Pyrethroid; IRAC 3A",
+        "Spray with",
+        "Bacillus thuringiensis at 5-20 grams per 20 litres of water.",
+        "Bacterium, IRAC 11.",
+        "Stomach poison"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class",
+        "III (Slightly hazardous).",
+        "PHI 7days.",
+        "Thoroughly wet the bark of the trunk by spraying",
+        "WHO class",
+        "II (Moderately hazardous), PHI 3 day.",
+        "Use a maximum of 3 sprays per season",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "PHI 3 days",
+        "WHO Class",
+        "III (Slightly hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "MSW pupa (Varela, icipe)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult mango seed weevil (Monique Hunziker, Biovision)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "MSW larva (AM Varela, icipe)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Mango seed weevil"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Leaf miner of tomato (Tuta)",
+  "sections": {
+    "Header": [
+      "Leaf miner of tomato (Tuta)",
+      "Tuta absoluta Phephelu wodya mkati mwa tsamba la tomato"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use pest-free planting material.",
+        "Obtain certified seed material, and for seedlings, leave out those that show signs of infestation of leaf miner.",
+        "Avoid planting tomatoes near alternative hosts such as pepper, eggplant and potatoes.",
+        "Uproot and burn crop residues soon after harvest and plough the field to kill the larvae and pupae.",
+        "Apply mulch on the ground to prevent pupae getting into the soil for further development.",
+        "Plant",
+        "Tephrosia hedge around the plot to repel leaf miners from the crop.",
+        "Water the plots at field capacity for irrigated crops to maintain crop health.",
+        "Rotate tomato with non-solanaceous crops such as maize, sorghum, millet or cassava after every 2 years.",
+        "Promote practices that conserve natural enemies like",
+        "Braconids, Eulophids and",
+        "N tenuis."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Solanacaeae family (potato, egg plant, peppers, nightshade).",
+        "Scout the field twice a week from transplanting to harvest.",
+        "Check on seedlings in the nursery for tunnels and oviposition marks before transplanting in the field.",
+        "Look for white puncture marks, shrivelling, yellowing and tunnels or irregular mines on leaves caused by adults laying eggs on the leaves.",
+        "Look out for green larvae with black head inside the tunnels but later turn to pinkish green",
+        "Look out for puncture marks on fruit calyx with dried black frass at larvae exit hole and on stem",
+        "Use pheromone traps to monitor the presence of adult moth which are thread like,silverish- grey with black spots on inner wings",
+        "Start direct control when high infestation of over 30% of leaf surface is observed",
+        "If 5-10 leaves with tunnels or larvae or adult moths are found per acre, consider taking control action"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply neem seed extract solution.",
+        "Usually soak 25-50 g neem in 1L cold water overnight, sieve, add 15L of water.",
+        "Spray neem to the soil after ploughing to kill dormant larvae and pupae. 15L for 1.5 acre.",
+        "Spray both the upper and undersides of leaves when the first small feeding tunnels are observed or just after moths are observed.",
+        "Remove infested leaves and fruits before the larvae inside pupate and become egg-laying adults, and bury them 50-100 cm deep.",
+        "Use pheromone traps (40-50 traps per ha) to mass trap adults."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Apply",
+        "Emamectin abenzoato 5% (Proclaim",
+        "Fit",
+        "UV 45",
+        "WG, Snowmetin) at 1g of water in 1L of water and 1 ml in 10L of water.",
+        "Apply",
+        "Flubendiamide (Belt 480",
+        "SC) 480g/L at spray 10-30ml in 16L of water",
+        "WHO Class",
+        "III Pre harvest interval 3 days",
+        "Application interval of 7 to 10 days",
+        "Very toxic to aquatic life.",
+        "Spray bifenthrin at a rate of 5 ml in 20L of water.",
+        "Non- systemic with contact stomach action.",
+        "Pyrethroid; IRAC 3A WHO class",
+        "II - Moderately hazardous.",
+        "PHI 3 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Tuta absoluta larva and mines on tomato leaf (Peter Kodwaran, Ministry of Agriculture Livestock and Fisheries (MoALF), Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf miner of tomato (Tuta)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larva and damage inside a tomato (Marja van der Straten, NVWA Plant Protection Service, Bugwood)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damage on the exteria of tomatoes (Peter Kodwaran, Ministry of Agriculture Livestock and Fisheries (MoALF), Kenya)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "White coffee stem borer",
+  "sections": {
+    "Header": [
+      "White coffee stem borer",
+      "Monochamus leuconotus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use of resistant varieties such as",
+        "Coffea canephora .",
+        "Actively remove infested plant parts and destroy away from the orchard by burning.",
+        "Avoid the use of broad spectrum insecticides to conserve natural enemies such as parasitic wasps ( Afrocoelichneumon didymatus and , Phleidole megacephala ).",
+        "Paint the stems and trunks with pastel lime (up to 1 m above the ground) to prevent adult beetles from climbing up crops and laying eggs."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Actively monitor the surrounding soil of coffee plants for signs of larvae activity, including wood shavings and bark ridging.",
+        "Eggs:",
+        "Hard to observe in the field (cream coloured, 1.7 mm in diameter), look for dark-brown substances covering the slit where eggs were deposited under the bark.",
+        "Larvae:",
+        "Cream coloured, can grow up to 40.20 mm long.",
+        "Notable wood shavings visible around the base of infested plants.",
+        "Adults:",
+        "Beetles are brown with white/cream colourations.",
+        "Males can grow up to 51 mm long, with females growing up to 37 mm long.",
+        "Located amongst foliage during the early morning on the exposed side of plants to the sun.",
+        "The main damage is caused by larvae feeding on plant tissue within the stems, causing bark rings, defoliation, wilting leaves and the lack of maturing crop."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plant parts from the orchard and destroy by burning.",
+        "Uproot and burn heavily infested trees.",
+        "In low infestations, handpick adult beetles and destroy or feed to livestock.",
+        "In low infestations or in small orchards, push wire into bore holes in the stems to kill any larvae.",
+        "Use animal fat on cotton balls stuck next to bore holes to attract predatory insects such as ants to enter the hole and kill the larvae.",
+        "Use a mixture of water and chopped neem leaves or",
+        "Tephrosia leaf extract (1 kg of leaves per 5 liters of water) to spray onto the stem or trunk or coffee plants to reduce the ability for adults to lay eggs on the crop."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bore hole in trunk (M. Rutherford, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms of borer activity on trunk (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "White coffee stem borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult beetle, Monochamus spp. (Dorothy Ambeault, Natural Resources Canada)"
+      }
+    ]
+  }
+}

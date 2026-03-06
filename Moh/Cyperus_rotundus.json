@@ -1,0 +1,52 @@
+{
+  "title": "Purple nutsedge",
+  "sections": {
+    "Header": [
+      "Purple nutsedge",
+      "Cyperus rotundus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prevention measures are particularly important as this weed is difficult to control.",
+        "Tubers are the main means of spread; Clean tools and farm machinery to prevent introduction to new fields",
+        "Do not accept potentially contaminated materials, e.g. soil on planting stock",
+        "Plant highly competitive cover or cash crops such as jack bean, velvet bean, bush bean, soybean, cotton, chayote and cucumber.",
+        "Narrow crop row spacing can help prevent the establishment of the weed by shading it",
+        "Control established populations near waterways to prevent spread during flooding and storm events"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Erect, perennial sedge (30-60 cm high), with extensive underground network composed of tubers",
+        "Tubers dark brown/black, irregular shaped, 1-2 cm long at maturity, with several buds",
+        "Leaves linear with distinct midrib, 7 mm wide",
+        "Flowering stems 3-sided, erect.",
+        "Inflorescence with several unequal 'branches', each 2-6 cm long, emerging from the tip of the stem; each with 3-8 purplish-brown flowerheads"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Destroy tubers and rhizomes in the soil via dessication (most effective in dry soil) or exhausting food reserves",
+        "Cultivate every 2-3 weeks until crop canopy forms: the weed is shade intolerant",
+        "Plough and cover an infested area with a polyethylene sheet to destroy tubers and rhizomes in the dry season (soil solarization).",
+        "This can be very effective but not always 100%.",
+        "Place organic mulch over areas where weed is expect to grow to provide temporary weed suppression",
+        "Tillage must be deep (> 12cm) in order to disturb as many of the rhizomes as possible.",
+        "Do this every three weeks and under dry conditions so the exposed rhizomes dessicate."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Inflorescence (S.D. Sawant)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Whole plants (S.D. Sawant)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Purple nutsedge"
+      }
+    ]
+  }
+}

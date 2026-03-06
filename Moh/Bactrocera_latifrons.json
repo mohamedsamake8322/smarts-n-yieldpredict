@@ -1,0 +1,61 @@
+{
+  "title": "Chili Fruit Fly",
+  "sections": {
+    "Header": [
+      "Chili Fruit Fly",
+      "Bactrocera latifrons"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use basil as a trap crop to attract male fruit flies",
+        "Bag the young fruit or use netting to protect fruits from egg laying fruit flies",
+        "Use mix crop in the farm (i.e. intercrop)",
+        "Synchronize planting",
+        "Timing of planting:",
+        "November –April (dry season)",
+        "Sanitation - remove and destroy fallen fruit since it acts as a host.",
+        "Bury at least 15 cm deep in the soil"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor every day for signs of damage",
+        "Look for signs of infestation which include dot-like scars",
+        "Fruit flies lay their eggs inside the skin of the fruit and the larvae (maggots) feed inside the fruit, rotten and fallen fruit.",
+        "Monitor adult fruit fly using traps."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pick damaged fruit, remove from field and destroy",
+        "Use attractant",
+        "Cue-lure to attract male flies.",
+        "Large number of traps are needed",
+        "Pheromone traps + Pesticide (eg",
+        "Fipronil)",
+        "Protein bait traps + pesticide (eg",
+        "Fipronil)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Change",
+        "Pheromone after 1 week; Fipronil:",
+        "WHO Class",
+        "II (Moderately hazardous); IRAC 2B, Phenylpyrazoles",
+        "Add more protein bait weekly"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Bactrocera latifrons (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Chili Fruit Fly"
+      }
+    ]
+  }
+}

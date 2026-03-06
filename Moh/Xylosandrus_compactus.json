@@ -1,0 +1,63 @@
+{
+  "title": "Black twig borer on coffee",
+  "sections": {
+    "Header": [
+      "Black twig borer on coffee",
+      "Xylosandrus compactus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Keep a weed-free coffee field",
+        "Apply organic manure/ fertilizer to promote good plant health and vigour",
+        "Promote good soil and water conservation practices",
+        "Regularly monitor for the presence of twig borer symptoms on alternative host such as avocado, cocoa within proximity of a coffee field"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use ethanol baited traps (pour the ethanol in empty water bottles and create two holes on each side) to monitor populations and outbreak",
+        "Check daily for the presence of wilting, yellowing, dry/ dead small branches/twigs with small holes (bicycle spoke size) at the entry point especially during the dry season.",
+        "Split the affected branches to check for presence of a white spongy (fungal) growth and small light brown to shiny black beetles",
+        "Look out for light green leaves of infested branches on coffee plants",
+        "Look out for withered leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune and burn all infested branches/twigs, but this is time consuming",
+        "Provide additional water if availabl during dry period",
+        "Encourage other farmers within the area to control the twig borer",
+        "Promote tree health and vigour.",
+        "This will help with resistance to infestation or recovering from attack"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray affected branches/twigs with either:",
+        "Consult your extension worker and always read the label for direction on use",
+        "Always wear protective gear (overalls, gumboots, goggles, caps, gloves and face masks) when handling chemicals",
+        "Chloropyrifos methyl",
+        "WHO Class",
+        "III; Slightly hazardous",
+        "Imidacloprid",
+        "WHO Class",
+        "II; Moderately hazardous"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaves on a Coffee plant drying as a resut of coffee twig borer (Photo: Joseph Mulema)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Black twig borer on coffee"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Black twig borer (Xylosandrus compactus) (Forrest L. Oliveria, USDA Forest Service, Bugwood.org)"
+      }
+    ]
+  }
+}

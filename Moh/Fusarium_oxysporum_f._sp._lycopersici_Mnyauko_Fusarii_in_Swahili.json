@@ -1,0 +1,73 @@
+{
+  "title": "Fusarium wilt disease in outdoor tomatoes",
+  "sections": {
+    "Header": [
+      "Fusarium wilt disease in outdoor tomatoes",
+      "Fusarium oxysporum f. sp. lycopersici Mnyauko Fusarii in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use non-infected clean seeds from healthy tomatoes, or certified clean seeds from authorized dealer.",
+        "Use tolerant/resistant varieties (e.g.",
+        "Fortune",
+        "Maker, Tengeru 97, Roma",
+        "VFN, Roma",
+        "VF).",
+        "Do not make compost and mulch from plants from infected fields.",
+        "Avoid injuring plants when working in the field.",
+        "Sterilize tools and shoes in case fields are in a",
+        "Fusarium -infected area (e.g. with bleach, which is",
+        "NaOCl).",
+        "Wear gloves or wash hands with plenty water afterwards, because bleach is toxic.",
+        "Do not use stakes from infected fields to stake tomato plants in disease-free areas",
+        "If",
+        "Fusarium wilt is detected in a part of your field, go to this area last after managing healthy plants.",
+        "Avoid furrow and flood irrigation because water can move this disease (if using furrow irrigation ensure that water flows from new to old fields).",
+        "Long crop rotations of 5-7 years would be needed to reduce the disease in the soil."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Fusarium wilt, also called basal rot, is a fungal disease of tomatoes.",
+        "Concentrate searching for symptoms on mature plants after flowering and at the beginning of fruit set, but seedlings can also be affected.",
+        "Search for yellowing and wilting of individual branches and leaves, but rarely entire plants.",
+        "The disease starts with the lower, older leaves.",
+        "The disease is often found on one side of a branch or plant.",
+        "But later it spreads and can kill the plant.",
+        "If you these symptoms, cut into the stem at the base of the plant to reveal a dark- brown to red discoloration inside the stem due to the disease.",
+        "When a single infected plant is found then actions should be considered."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "It is easier to prevent this disease than to control it.",
+        "Remove and destroy entire diseased plant.",
+        "Carry materials away from the field in a closed container such as a plastic bag to prevent the spread of the disease."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no effective direct chemical control measure available"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Brown to red colouration inside stem base due to the disease. (Photo by Texas A&M AgriLife Extension)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Early infestation: Leaf discolouration and wilting on mature leaves (Photo R.G. Rees, Queensland Wheat Research )"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellowing of leaves starting on one side. (Photo Jim Correll, CABI CPC)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Fusarium wilt disease in outdoor tomatoes"
+      }
+    ]
+  }
+}

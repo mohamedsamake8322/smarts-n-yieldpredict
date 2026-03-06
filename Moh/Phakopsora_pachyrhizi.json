@@ -1,0 +1,84 @@
+{
+  "title": "Rust in soybeans - Zambia",
+  "sections": {
+    "Header": [
+      "Rust in soybeans - Zambia",
+      "Phakopsora pachyrhizi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant varieties that are tolerant to rust such as",
+        "Magoye and",
+        "Kaleya.",
+        "Rotate soybeans with cereals, such as maize, to break the disease life cycle.",
+        "Use plant spacing of no more than 20 plants/10m row to aid field ventilation.",
+        "Plant soybeans early, from 15th",
+        "Dec to 5th",
+        "Jan (while its still warm) to enable the crop to grow before build-up of the disease in the environment and to enable the plant to exceed the most susceptible growth stage of the disease at 4-6 leaf stage."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout weekly from 2 weeks after germination.",
+        "Check underside of lower leaves.",
+        "Rust first develops on leaf underside.",
+        "Check young plants for leaf lesions (tiny angular like spots between leaf margins) at base of leaflet near leaf veins.",
+        "Later on, look for small grey to brown pimple like structures on the lower canopy on the leaf underside at flowering stage (2 months after planting).",
+        "Take action when: 1-3 plants per meter row are infected with spots during seedling stage. 2-4 leaves per 40-50 out of 100-150 plants show symptoms, between vegetative to early maturity stage (disease spreads 7 days after infection)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue-out affected seedlings within 7 days of first symptoms seen.",
+        "Unless the infection is severe or if it occurs early in the season, then consider not spraying chemicals.",
+        "Spray using",
+        "Azoxystrobin- based products (Amistar, and many others).",
+        "It is a systemic and protectant fungicide.",
+        "For dilution rate, check product label or use 40ml per 20L tank.",
+        "Spray",
+        "Tebuconazole 45% at 2.5g/15L.",
+        "Ensure to add some water to the tank, then the chemical, then more water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max. number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO Class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ZEMA.",
+        "WHO Class",
+        "U: (unlikely to present acute hazard in normal use); pre-harvest interval: 28 days; restricted re-entry interval: 1 day after spray; maximum 2 sprays per season.",
+        "Toxic to fish, predatory beneficial mites, and soil organisms such as earthworms.",
+        "Do not pour chemical into river, dams or ponds.",
+        "FRAC code 11.",
+        "WHO Class",
+        "II (moderately hazardous); maximum 2 sprays per season.",
+        "PHI: 35 days; REI 1 day.",
+        "Toxic to fish, do not pour chemical into river, dams or ponds.",
+        "FRAC Code 3."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Soyabean field attacked by rust (Source: APS press)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Early disease stage: tiny leaf spots (Source: APS Press)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Later disease stage: Red spots on soybean leaf underside. (Source: APS Press)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rust in soybeans - Zambia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Powdery mildew on Mungbean and Blackgram",
+  "sections": {
+    "Header": [
+      "Powdery mildew on Mungbean and Blackgram",
+      "Erysiphe polygoni Sinhala: Pitipus rogaya, Tamil: Thool punchana noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Establish crop in",
+        "April-early",
+        "May during yala season",
+        "Maintain proper plant spacing (30 – 40 x 10 cm)",
+        "Avoid overhead irrigation",
+        "Apply recommended nitrogen fertilizers",
+        "Remove weeds and alternate hosts, e.g.",
+        "Euphorbia herta"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Make regular field inspection for early diagnosis of the disease",
+        "Observe",
+        "White powdery substances on the leaves",
+        "Observe",
+        "Leaf drying at severe infection"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Sulphur 80% WG.",
+        "Rate of dilution – 50 g / 10 lit. of water.",
+        "Rate of application – 2500 – 3000 g / ha",
+        "Carbendazim 50% WP.",
+        "Rate of dilution – 7 g / 10 lit. of water.",
+        "Rate of application – 225 – 275 g/ha",
+        "Chlorothalonil 500 g /l",
+        "SC.",
+        "Rate of dilution – 30 ml/ 10 lit. of water.",
+        "Rate of application – 950 – 1800 ml /ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "At warm and humid conditions, commence chemical control once initial symptoms are observed",
+        "WHO Classification",
+        "III.",
+        "Toxic to parasitoids",
+        "WHO Class – U.",
+        "Toxic to predatory mites, earth worms and fish and moderately toxic to parasitoids",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites, earth worms and fish"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Symptoms on leaves M. Fernando, FCRDI, Mahailluppallma"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "White powdery Symptoms on leaves FCRDI, Mahailluppallama, Lakmini Priyantha"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "symptoms on mature leaves M. Fernando, FCRDI, Mahailluppallma"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Powdery mildew on Mungbean and Blackgram"
+      }
+    ]
+  }
+}

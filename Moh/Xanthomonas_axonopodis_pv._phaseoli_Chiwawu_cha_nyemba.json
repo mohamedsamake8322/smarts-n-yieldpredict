@@ -1,0 +1,79 @@
+{
+  "title": "Common bacterial blight on Bean",
+  "sections": {
+    "Header": [
+      "Common bacterial blight on Bean",
+      "Xanthomonas axonopodis pv. phaseoli Chiwawu cha nyemba"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use disease free certified seed",
+        "Practice crop rotation with non host crops like maize and groundnuts for at least 2-3 years to break disease cycle",
+        "Remove volunteer bean plants after harvest and before planting as they act as a source of inoculum",
+        "Deep ploughing after harvest to bury the infected crop debris and encourage decomposition",
+        "Suspend field operation when plants are wet to avoid spreading the disease",
+        "Do not save and use seeds from the previous infected fields"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring two weeks post seedling emergence and weekly until pod formation",
+        "Look for water soaked dark spots under the leaf",
+        "Leaf spots enlarge and merge to form a large brown irregular lesion with a yellow margin",
+        "Stems rot at the first node where cotyledons are attached causing the plant to break",
+        "On pods look for sunken lesions with reddish brown boarder",
+        "Under wet conditions look for yellow slimy bacterial exudates that ooze out of the lesion",
+        "Carry out direct controls as soon as symptoms are seen"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot and burn all infected plants",
+        "Spray recommended insecticides indicated in the",
+        "Yellow",
+        "Direct",
+        "Control section"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Foliar application of",
+        "Copper oxychloride 860g/Kg",
+        "WP (Kocide) at 300-400g per 100 litres of water.",
+        "Copper oxychloride is a bactericide with contact, multisite action.",
+        "FRAC group:",
+        "M1",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Apply at 14 day intervals.",
+        "Do not breathe spray.",
+        "Harmful if swallowed.",
+        "Very toxic to aquatic organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on bean crop (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Common bacterial blight on Bean"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on bean leaf (Phil Taylor, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptoms on pods (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

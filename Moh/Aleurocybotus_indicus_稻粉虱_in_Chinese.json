@@ -1,0 +1,92 @@
+{
+  "title": "Whitefly on rice",
+  "sections": {
+    "Header": [
+      "Whitefly on rice",
+      "Aleurocybotus indicus 稻粉虱 in Chinese"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use rice varieties with trichome erectness that white flies do not like, such as",
+        "Xian",
+        "Shuihe",
+        "Variety",
+        "To protect rice seedling beds, cover the beds with",
+        "UV absorbent plastic films (Whitelong",
+        "Company)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visually search for whiteflies one rice leaves twice a month",
+        "Adults are tiny (about 1 to 1.5 mm) white-winged insects.",
+        "The wings cover entire body.",
+        "When 3 to 8 whiteflies on average per each of 30 to 50 checked plants, then consider green control action",
+        "After green control, if whitefly numbers still increase up to 10 to 40 whiteflies on average per each of 30 to 50 checked plants, then consider green control action",
+        "Young and adult white flies suck rice leaf juice which will yellow, mottle, sometimes curl the leaves",
+        "Place 3 to 10 yellow sticky traps per field to track whiteflies at the beginning of the season, this is early",
+        "April.",
+        "If 10 to 20 whiteflies are found per trap consider green control, and at 20 to 50 flies yellow control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release 10000 natural enemies ( Encarsia wasp species) per acre at early occurrence of whiteflies.",
+        "Repeat 2 to 4 times every 5 to 7 days",
+        "Spray entomo- pathogenic fungi products (such as",
+        "Aschersonia agent)",
+        "Release predatory beetles ( Delphastus species) twice in two weeks"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Most chemical sprays will kill the released biocontrol agents.",
+        "Apply chemicals as uniform flat spray reaching both sides of leaves (white flies are mainly undersides).",
+        "Spray in the morning 6.00-9.00 a.m.",
+        "Do not spray at wind, or if raining within an hour.",
+        "When using a chemical or botanical pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "WHO toxicity class",
+        "II pesticides may not be allowed in certain",
+        "IPM or “green” production schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ICAMA/ China, and of",
+        "China pesticide information network.",
+        "Acetamiprid (啶 虫 脒) products (such as from",
+        "Kesheng factory, Jiangsu, and others).",
+        "Acetamiprid 3% usually applied at 1500 to 2000 times dilution, 50%WDG at 25,000 to 30,000 times dilution, or 70%WDG 35 000 to 40 000 times dilution, but double check labels as products may differ.",
+        "Neonicotinoid chlorinated pesticide.",
+        "WHO toxicity class",
+        "III (slightly acute hazardous); pre-harvest interval p. h. i: 14 days; restricted re-entry interval r.e.i. 1 days after spray; maximum 2 sprays in minimum of 7 days intervals",
+        "Imidacloprid (吡虫啉) products (such as from",
+        "Dongtai",
+        "Company in",
+        "Shandong, Dongjin",
+        "Company in",
+        "Lianyungang, Wante factory, Hebei and others). 25%EC usually applied at 30 to 50 grams per acre, but double check product label.",
+        "Neonicotinoid group of insecticide (antagonist by binding to nicotinic receptors in insect nervous system)",
+        "WHO class",
+        "II (moderately acute hazardous); p.h.i. 25 days; r.e.i.3 days after spray; Maximum 2 sprays per season in min 7 days interval; 1 day after spray, high knock down control effect, with a residual period of up to 25 days.",
+        "Bee toxic, thus do not spray near flowering crops and bee hives."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Whiteflies mottling leaves (Photo: Poleax China)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Many adult whiteflies underside leaf (Photo: Poleax China)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "2 adult whiteflies (Less than 1.5 mm), 1 young whitefly (less than 1 mm) (Photo: Ian D. Bedford)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Whitefly on rice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Tobacco caterpillar - Nepal",
+  "sections": {
+    "Header": [
+      "Tobacco caterpillar - Nepal",
+      "Spodoptera litura"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough to expose",
+        "Spodoptera pupae to natural enemies and weather- related factors.",
+        "Plant trap crops like sunflower, taro and castor around and within fields.",
+        "Apply balanced crop nutrition and don't overdose nitrogen for stronger plants that can better resist pest damage.",
+        "Enhance natural enemies by encouraging flowering plants near fields and by avoiding broad-spectrum insecticides."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use para-pheromone traps (Spodolure) to monitor adults and to predict occurence of pest eggs.",
+        "Observe egg masses (covered with white-brown hair), and young larvae on leaves.",
+        "Observe for the presence of 'scratch' marks on the leaf surface made by newly hatched larvae.",
+        "Observe leaf damage caused by chewing/ stripping of large areas of the leaves in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect and destroy egg masses and larvae based on the 'warning' from the pheromone traps.",
+        "Spray",
+        "Azadirachtin 0.03% EC @ 5ml/L water.",
+        "Release the parasitoid",
+        "Trichogramma chilonis @ 50,000 eggs/ha/week, for up to 6 weeks wherever available.",
+        "Apply nuclear polyhedrosis virus (NPV) @ 100",
+        "LE 1.5ml with",
+        "Nir 5 drops/L in the evening (25L water per ropani).",
+        "Apply",
+        "Bacillus thuringiensis (Bt) @ 1g/L of water (25L of water per ropani)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Spray",
+        "Chlorantraniliprole 18.5% SC @ 1ml/3L of water.",
+        "WHO class",
+        "U (unlikely to present acute hazard).",
+        "Spray",
+        "Spinosad 45% SC @ 1ml/3L of water.",
+        "WHO class",
+        "III (slightly hazardous).",
+        "Spray",
+        "Fenvalerate 20% EC @ 1 ml/L of water.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "PHI 28-35 days.",
+        "Spray",
+        "Novaluron 10% EC @ 1 ml/L (25L water per ropani).",
+        "WHO class",
+        "U (unlikely to present acute hazard)",
+        "Spray",
+        "Emamectin benzoate 5% SG @ 1g/2.5L of water.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "PHI 3-7 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult: Spodoptera litura (Photo: Natasha Wright, Florida Dept of Agriculture & Consumer Services, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Egg mass covered with hairy scales (Photo: M. Shepard, G. R.Carner, and P.A.C Ooi, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Tobacco caterpillar - Nepal"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larva. (Photo: K. Kiritani, Bugwood.org)"
+      }
+    ]
+  }
+}

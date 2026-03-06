@@ -1,0 +1,90 @@
+{
+  "title": "Black sigatoka of plantain",
+  "sections": {
+    "Header": [
+      "Black sigatoka of plantain",
+      "Mycosphaerella fijiensis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "When planting new crops in a disease hot spot area consider using resistant",
+        "FHIA hybrids (e.g.",
+        "FHIA 02) or use planting materials from healthy plants",
+        "Use large planting spacing (3m x 2m) to ensure good air circulation between the plants.",
+        "This reduces humidity and promotes dry leaf surfaces making conditions unfavourable for the disease",
+        "Remove suckers to avoid clustering",
+        "Ensure good drainage in the fields and weed frequently as this reduces the humidity and the disease",
+        "Avoid transporting infected plants into disease-free regions"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field regularly looking for symptoms of the disease:",
+        "The early symptoms include reddish brown specks on lower leaf surfaces.",
+        "As the disease develops the specks become larger and wider running parallel with the leaf veins and eventually overlap.",
+        "They turn dark brown to black in colour and can be visible on the upper side of the leaf.",
+        "Take necessary action when the early symptoms are observed",
+        "The symptoms of black",
+        "Sigatoka are very similar to yellow",
+        "Sigatoka but the disease management method is the same"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out young infected plants that have just shown symptoms and burn",
+        "Remove older infected leaves regularly and burn or stack them in heaps, keeping the lower leaf surface facing the ground to help prevent disease spread",
+        "According to the",
+        "Fungicide",
+        "Resistance",
+        "Action",
+        "Committee (FRAC)",
+        "Mycospharella fijiensis has a high risk of developing resistance to fungicides",
+        "Spray with",
+        "Thiophanate methyl (400g/l) (Callis 400",
+        "OL)",
+        "Apply at a rate of",
+        "Apply 31-41g/15litre knapsack.",
+        "Methyl benzimidazole carbamate (MBC) fungicide with systemic action (FRAC group:",
+        "B1)",
+        "Propiconazole 250EC (Tilt).",
+        "Apply at a rate of 15mls / 15ltr knapsack as a full-coverage spray to the point of drip.",
+        "Triazoles fungicide with systemic action (FRAC group:",
+        "G1)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Where there is a high risk of the pathogen developing fungicide resistance it is advisable to change the type of fungicide used every year or use a mixture incorporating a broad spectrum protectant fungicide such as a copper compound",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use).",
+        "Start application when disease first appears, ensure spray reaches the youngest leaves on the top of the plant.",
+        "Repeat every 7-14 days observe",
+        "REI of 24hrs.",
+        "WHO Class",
+        "II (Moderately hazardous)",
+        "Apply as soon as disease is seen or when the wet season begins, ensure spray reaches the youngest leaves on the top of the plant.",
+        "Repeat at 21-28 days interval.",
+        "Do not enter treated areas within 24 hours after spray."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Black sigatoka of plantain"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Developing symtpoms on a leaf with necrotic patches (Neil Palmer, CIAT)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Collapse of the older leaves showing symptoms of black sigatoka (Neil Palmer, CIAT)"
+      }
+    ]
+  }
+}

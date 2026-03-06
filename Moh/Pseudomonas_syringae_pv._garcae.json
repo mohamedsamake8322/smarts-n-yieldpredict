@@ -1,0 +1,55 @@
+{
+  "title": "Bacterial blight of coffee",
+  "sections": {
+    "Header": [
+      "Bacterial blight of coffee",
+      "Pseudomonas syringae pv. garcae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Bacterial blight of coffee (BBC) can be a serious problem at high altitudes where heavy winds injure plants; plant shade trees and wind breaks on exposed sides of",
+        "BBC areas to avoid the spreading of the disease",
+        "Use clean disease-free planting material, avoid planting material from known",
+        "BBC areas"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Carefully monitor symptoms, particularly during cool wet weather which favours the bacterium:",
+        "Initial symptoms: necrosis of nodes, internodes and shoot tips, often accompanied by necrosis of the petiole and basal part of the leaf, spreading rapidly on primary branches",
+        "Leaves: dark, water-soaked necrotic lesions.",
+        "Leaves dry up and roll inwards turning brown, but remain attached",
+        "Stems: canker on woody stems",
+        "Whole plant: dieback",
+        "Affected plantations have a fire-scorched appearance",
+        "The symptoms of",
+        "BBC differ from symptoms of typical halo blight of coffee which are more restricted to the leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Cut off infected twigs, at least 5 cm from the point of infection, and collect them in buckets.",
+        "Destroy by burning or burying away from the field",
+        "Disinfect tools and implements with 70% alcohol after pruning infected trees or cutting twigs",
+        "After heavy outbreaks, destroy infected trees"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Blackening of petioles and basal parts of leaves (James Minai, Coffee Research Foundation, Kenya)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Dieback of whole plant (James Minai, Coffee Research Foundation, Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial blight of coffee"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Dieback of the growing point (James Minai, Coffee Research Foundation, Kenya)"
+      }
+    ]
+  }
+}

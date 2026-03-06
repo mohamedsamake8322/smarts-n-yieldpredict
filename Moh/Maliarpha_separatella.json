@@ -1,0 +1,61 @@
+{
+  "title": "Stem borers on Rice",
+  "sections": {
+    "Header": [
+      "Stem borers on Rice",
+      "Maliarpha separatella"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Before transplanting, cut the leaf-top to reduce carry-over of eggs from the seedbed to the field.",
+        "Practise early and synchronised planting to avoid damage at the most susceptible stages (tiller elongation and panicle extensions), and maintain proper crop spacing.",
+        "Avoid excess use of nitrogenous fertilizers as high rates favour population build-up.",
+        "Avoid water stagnation in the field.",
+        "Conserve natural enemies such as dragonflies, spiders, carabids beetles, parasitic wasps by reducing the amount of insecticides used.",
+        "Remove stubble, volunteer rice and wild grasses around nurseries and planting areas.",
+        "Harvest crops at ground level to remove the larvae in stubble.",
+        "After harvest, burn crop residues or feed to livestock.",
+        "Practise crop rotation (e.g. legumes/ vegetables)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor weekly from seedling to harvest for the presence of the insect and damage symptoms:",
+        "Look for egg masses on the leaf tips and on the underside of the leaves.",
+        "During vegetative stage, larvae bore at the base of the plants, killing growing points and resulting in deadheart (central tiller dries up and is easily pulled from the base).",
+        "During reproductive stage, larvae bore through the upper nodes and feed toward the base resulting in whiteheads (emerging panicles are whitish and empty).",
+        "Larvae leave tiny holes on the stems and tillers, and frass inside the damaged stems.",
+        "Damage may be confused with that caused by rats, neck blast or black bug diseases.",
+        "To confirm stem borer damage, pull and dissected stems to find larvae or pupae.",
+        "Take control measures when 10-15% of plants/m show damage 40 days after planting."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Handpick and destroy egg masses at seedbed and transplanting stages.",
+        "Raise level of irrigation water periodically to submerge the eggs deposited on the lower parts of the plant.",
+        "Remove and destroy deadhearts and whiteheads.",
+        "Plough and flood after harvest to destroy dormant stem borer caterpillars.",
+        "2"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No chemicals are registered in",
+        "Ghana for controlling",
+        "Maliarpha separatella"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "African white stem borer (Pest and Diseases Image Library, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Stem borers on Rice"
+      }
+    ]
+  }
+}

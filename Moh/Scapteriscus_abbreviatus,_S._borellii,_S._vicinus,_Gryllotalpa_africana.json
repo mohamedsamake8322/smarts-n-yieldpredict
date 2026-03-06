@@ -1,0 +1,75 @@
+{
+  "title": "Mole crickets on rice",
+  "sections": {
+    "Header": [
+      "Mole crickets on rice",
+      "Scapteriscus abbreviatus, S. borellii, S. vicinus, Gryllotalpa africana"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Most injury to rice seedlings occurs shortly after transplanting, so replacement of lost plants will help compensate for injury",
+        "Use the proper irrigation schedules and correct fertilizer recommendations to maintain the crop in the healthiest condition possible to allow the plants to recover from injury by mole crickets",
+        "Encourage biological control agents (sphecid wasps, carabid beetles, nematodes, and fungus) by minimizing insecticide use"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Mole crickets are large, brownish insects.",
+        "They are rather cricket-like in shape but have mole-like, digging front legs.",
+        "The adults have wings and many are powerful, though clumsy, fliers.",
+        "The body is covered with short, dense hairs",
+        "Assess population density of nymphs by checking frequency of soil surface tunneling",
+        "Estimate nymph and adult abundance by flushing with 0.5% aqueous solution of dish washing soap",
+        "If 2 to 4 mole crickets come to the soil surface within three minutes of application of the soap solution, corrective action is justified to reduce mole cricket numbers",
+        "Additional relevant crops: cabbage, carrot, eggplant, lettuce, onion, pepper, potato, sweet potato, tomato"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use bund shaving and plastering of fresh wet soil to help eliminate the eggs of mole crikets",
+        "During land preparation, search for and collect the nymphs and adults, and destroy",
+        "Flood rice fields for 3-4 days.",
+        "Level the field for better water control which can help to remove the eggs on the soil and reduce cricket populations",
+        "Set baits by using rice bran, cotton seed meal, or some other grain product plus 2-5% toxicant.",
+        "Add 5-15% water and 2-5% molasses to the grain toxicant mixture",
+        "Spray with neem: mix 400g of dried powdered leaves to 3 litres of water and apply regularly at 80L/ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide (even a botanical home-brew), always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, preharvest interval and max number of sprays",
+        "Flush borrows in soil with pyrethrin based insecticide solution (Deltamethrin 250EC) at rate of 250mls to 20L of water to kill adults.",
+        "Contact insecticide and stomach poison",
+        "IRAC group 3A",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Check - pesticides might not be allowed in some local",
+        "IPM schemes.",
+        "Toxic to aquatic organisms and other aquatic organisms.",
+        "Do not contaminate surface waters or ditches",
+        "Spray with pyrethroid insecticides like",
+        "Deltamethrin (e.g.",
+        "Deltapaz 1.25EC, Delete 2.5",
+        "SC, Decis 2.5",
+        "EC)",
+        "Contact insecticide and stomach poison",
+        "IRAC group 3A",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); Spray only once per season.",
+        "Pre- harvest interval (p.h.i) 35 days; r.e.i. 3 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Mole crickets on rice"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Mole cricket (Andrey Vlasenko, www.flikr.com)"
+      }
+    ]
+  }
+}

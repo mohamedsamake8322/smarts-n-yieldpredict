@@ -1,0 +1,64 @@
+{
+  "title": "Berry borer on Coffee",
+  "sections": {
+    "Header": [
+      "Berry borer on Coffee",
+      "Hypothenemus hampei (Ferrari) Sinhala - Badari gulla, Tamil- Copi pala thullaipan"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain 40 – 60% shade in field",
+        "Use recommended spacing",
+        "Limit the harvesting to three times and remove and destroy all the leftover berries from tree and the ground",
+        "Cultivate varieties showing uniform maturity e.g:",
+        "IMY, Catomore",
+        "Conserve the natural enemies by keeping high plant diversity, in particular plants providing nectar"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Watch out for small holes in the disc region of berries and black colour seeds inside the berry",
+        "Collect random sample of berries and count infested/ un- infested ones",
+        "Consider action when more than 4% berries are infested"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use traps with methanol and ethanol (1:1) as a lure for collecting the female insects.",
+        "One trap for 10 plants.",
+        "Separate the damaged berries at harvest and deep burry (1 m) or destroy by burning",
+        "After seed separation, dip seeds in hot water for 2 – 3 minutes."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Preventive measures are more effective against this pest than chemical control.",
+        "Any pesticide application has to be done before the adult beetles lay eggs.",
+        "The best time to spray is when the adult females are flying around looking for new homes.",
+        "This happens all year long but happens most often at 60 days and 150 days after flowering.",
+        "This is usually at the growth stage of older not yet hardened berries close to maturity.",
+        "However, there are currently no least or slightly toxic products available",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage inside the berry (Damayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult beetle (10x10) (Dmayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damage symptom on berries (Damayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Berry borer on Coffee"
+      }
+    ]
+  }
+}

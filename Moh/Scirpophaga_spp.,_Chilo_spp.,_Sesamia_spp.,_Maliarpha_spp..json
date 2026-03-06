@@ -1,0 +1,77 @@
+{
+  "title": "Stem borers on rice",
+  "sections": {
+    "Header": [
+      "Stem borers on rice",
+      "Scirpophaga spp., Chilo spp., Sesamia spp., Maliarpha spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Observe close season to prevent the pest outbreak",
+        "Use early maturing varieties (e.g.",
+        "AGRA rice, Jasmine 85, Digang) to avoid peak outbreak period",
+        "Flood the field for 1 month to suffocate and kill diapausing larvae and pupae",
+        "Use recommended dose of fertilizers (6 ton",
+        "FYM, 100:30:30",
+        "NPK Kg/Ha for irrigated and 6 ton",
+        "FYM, 100:20:20",
+        "NPK Kg/ha for unirrigated) for increased plant vigour",
+        "Plant early and at the same time as other farmers in the area to reduce damage",
+        "Destroy rice stubbles (by burning) after crop harvest because these harbour the pest"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should begin after seedling stage (about 2 weeks after germination)",
+        "Look out for egg masses on the underside of leaves, check for white heads at reproductive stage and dead hearts or drying of the central tiller during vegetative growth",
+        "Check for caterpillars boring at the base of the plant during vegetative stage and on old crop boring on upper nodes feeding towards the base",
+        "When there is more than 1 moth or 1 egg mass/m 2 in the nursery, 5% dead hearts or one egg mass or one moth/m 2 from planting to pre- tillering and 1 egg mass or 1 moth/ m 2 at panicle initiation to booting, consider direct control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick borer larvae during transplanting or in the nursery and destroy egg masses",
+        "Install light traps @ 5 traps/ha and kill trapped adults physically",
+        "Raise irrigation water level to flood the land and submerge the eggs and other developing forms of borers",
+        "Apply ground neem powder (a pinch per plant) onto the funnel of young plants.",
+        "Rate 50gm/2kg ash",
+        "Apply hot pepper + ash at 50gm/2kg ash and apply a pinch per plant funnel onto knee-high young plants",
+        "Consider practices that enhance natural enemy populations (e.g. habitat- flowering plants, reducing broad spectrum chemicals, releasing natural enemies, etc.)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Spray with imidacloprid (Confidor 70WG) at a rate of 5g/20 litres water), It is a contact neonicotinoid (IRAC, 4A)",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Toxic to natural enemies, bees, fish and aquatic invertebrates.",
+        "Maximum of 2 application per season, PHI 14 days.",
+        "REI 24 hours.",
+        "Eye and skin irritant.",
+        "Avoid using near water ways.",
+        "Toxic to bees.",
+        "Spray with acetamiprid (Golan 20SP) at a rate of 8mls/20ltrs of water).",
+        "Neonicotinoid (IRAC, 4A)",
+        "WHO class",
+        "II (Moderately hazardous); Maximum of 2 application per season; PHI 7 days.",
+        "REI 24 hours.",
+        "Toxic to aquatic organisms do not use near water ways"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem borers on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Stem borer larva in rice plant (IRRI, www.flikr.com))"
+      }
+    ]
+  }
+}

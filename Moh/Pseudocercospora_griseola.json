@@ -1,0 +1,83 @@
+{
+  "title": "Angular leaf spot on common bean",
+  "sections": {
+    "Header": [
+      "Angular leaf spot on common bean",
+      "Pseudocercospora griseola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant bean cultivars such as",
+        "Mex 54, BAT 332 and",
+        "G 5686 and bean mixture",
+        "Plant pathogen free seed to ensure disease free seedlings",
+        "Treat seed with fungicides such as",
+        "Metalaxyl (Ridomil",
+        "Gold) and",
+        "Mancozeb (Indofil, Diathane)",
+        "Remove or bury infected plant debris or residue and volunteer plants before planting in a garden",
+        "Practice a minimum of 2 year crop rotation with a non-host crops such as cereals and root crops",
+        "Avoid movement in the bean fields when the plants are wet, since this moves spores from one plant to another"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor fields regularly throughout the season.",
+        "Look out for symptoms which first appear on the primary leaves, becoming clearer at late flowering.",
+        "Symptoms/lesions on leaves, petioles and pods are angular (limited by the veins) and grey, and those on the lower leaf surfaces may have black spores that look like minute spines."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove crop debris or deep plough the crop debris or residues to depth of 1.2 metres",
+        "Minimise water splashes by sprinkler irrigation to avoid spread of spores"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Ia = Extremely hazardous; Ib = Highly hazardous; II = Moderately hazardous; III = slightly hazardous; U = Unlikely to present acute hazard in normal use; FM = Fumigant, not classified",
+        "NH:",
+        "Not",
+        "Harmful",
+        "O = Obsolete as pesticide, not classified.",
+        "NB:",
+        "Please follow insecticide manufacturer’s instructions on application rate, a method of application and mixing.",
+        "Always check for the expiry date and wear protective clothing",
+        "Apply fungicides to reduce the disease build up, with the first spray at 3 weeks after planting, second at 50% flowering and third at podding.",
+        "Or apply as soon as you see the first symptoms and do exceed 3 sprays within the season.",
+        "Use the dosage recommended by the manufacturer.",
+        "Effective chemicals include; Mancozeb",
+        "WHO Class",
+        "U Benzimidazole",
+        "WHO Class",
+        "U Thiabendozole",
+        "WHO Class",
+        "III Trifloxystrobin",
+        "WHO Class",
+        "U Azoxystrobin",
+        "WHO Class",
+        "U Metalaxyl",
+        "WHO Class"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "ALS disease symptoms on the stem (Pamela Paparu)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "ALS disease symptom on the pods (Pamela Paparu)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaves with advanced ALS disease symptoms (Pamela Paparu)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Angular leaf spot on common bean"
+      }
+    ]
+  }
+}

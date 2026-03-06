@@ -1,0 +1,64 @@
+{
+  "title": "Annual Grass Weeds in Wheat",
+  "sections": {
+    "Header": [
+      "Annual Grass Weeds in Wheat",
+      "Phalaris paradoxa, Setaria pumila, Avena fatua, Bromus pectinatus, Snowdenia polystachia Asendabo, Yewesh Senededo, Sinar, Ginechina, Wovilo, Muja"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified clean seed for growing crops; seeds considered as the main means of spread",
+        "Clean tools and farm machinery to prevent spread of weed seeds",
+        "Control established populations near waterways to prevent spread during flooding and storm events",
+        "Repeated ploughing/cultivation of the field to destroy weed seedlings when the soil is moist before planting or during off-season in order to reduce the population of weeds germinating after planting"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Annual and erect grasses with an open leaf-sheath, upper leaves have a swollen leaf-sheath which envelopes the inflorescence before flowering",
+        "Inspect the crop fields a fortnight after sowing for the presence of the weeds, consider control using mannual or chemical control when found"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand",
+        "weeding once (3",
+        "4 weeks after sowing) for moderate infestation, however if severe infestation additional hand weeding before heading of the crops",
+        "Post-emergence application 2-3 weeks after planting of",
+        "Fenoxaprop-p-ethyl (75%) at 1",
+        "L/ha, Clodinafop- propargyl (8%) at 1",
+        "L/ ha, Pyroxsulam (45%) at 500 mL/ha use to control the weeds"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "WHO classification:",
+        "Clodinafop- propargyl:",
+        "III (slightly hazardous):",
+        "Pyroxsulam:",
+        "III (slightly hazardous); Fenoxaprop-p-ethyl: not classified by",
+        "WHO; based on rat",
+        "LD50 data considered unlikely to be an acutely hazardous substance in normal use and can be classed as \"slightly hazardous to human health\""
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "S. pumila inflorescences and leaf, showing long hairs near base. (FAO Rome. In: A Weed Identification Guide for Ethiopia, Stroud and Parker, 1989)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wheat crop in southern Spain infested with Phalaris sp. (M.J. Jiminez)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Annual Grass Weeds in Wheat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Anthracnose of cowpea",
+  "sections": {
+    "Header": [
+      "Anthracnose of cowpea",
+      "Colletotrichum destructivum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties if available",
+        "Use clean/certified seeds - the disease is seed-borne",
+        "Intercrop cowpea with non-host food plants, e.g. cassava, millet and sorghum, to reduce crop density and, therefore, the impact of the disease",
+        "A 2-row cereal: 4-row cowpea cropping system has resulted in 1-2 cowpea crops in the same season, with acceptable cereal yields",
+        "Do not plant next to already infected crops, otherwise the new planting will be infected at an early growth stage and the impact of the disease will be greater",
+        "Clean machinery and tools after use and limit movement through the crop to prevent spread of the pathogen, particularly when conditions are wet"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Produces dark spots (tan to brown) on leaves, petioles, stems and fruit",
+        "On susceptible varieties, the spots circle the stems, branches, leaf and flower stalks",
+        "Monitor crop closely when conditions are/have been wet.",
+        "The disease is spread by rain-splash and in wind- driven rain"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "After harvest, and after collection of vines for fodder, remove or plough in debris",
+        "Leave two years before planting cowpea on the same land since the disease can survive this long in plant remains"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Anthracnose of cowpea"
+      }
+    ]
+  }
+}

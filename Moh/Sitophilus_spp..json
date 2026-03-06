@@ -1,0 +1,92 @@
+{
+  "title": "Lesser grain weevil in Barley",
+  "sections": {
+    "Header": [
+      "Lesser grain weevil in Barley",
+      "Sitophilus spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Store properly dried, non- infested grains (at 12% moisture content) in hermetic bags",
+        "Remove previous years grains, debris, contaminants and thoroughly clean the storage facilities",
+        "Inspect all grains and storage containers thoroughly before use",
+        "Never mix infested with non-infested grains",
+        "Dry barley grains in the sun to achieve 13% of moisture content",
+        "Before storing new grains, remove infested residues from the previous harvest, sweep floors and inspect walls for holes and cracks to amend"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for small (3-5mm long) brownish to blackish adult insects with an elongated snout on stored grains",
+        "Check grains for adult emergence holes with irregular edges",
+        "Disturb stored grains to check for weevils migrating upwards to the surface",
+        "Monitor regularly and thoroughly for weevil reappearance – it may take a while to get rid of them completely",
+        "When 5-10 weevils are detected, take action to control them"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Store grains in tightly sealed glass, metal, sturdy plastic containers, or hermetic bags (not normal bags)",
+        "Place black pepper around the grain stores to repel weevils",
+        "Apply neem seed powder into grain storage at 20g/kg of barley.",
+        "Alternatively, finely spray the grains with need oil or neem leaf extract.",
+        "Spray the grain in shade and wait for the grains to dry well and put them back into storage.",
+        "Coating of wood ash, edible oils or inert clay to prevent further development of the weevils",
+        "Sun dry bags of infected grains for 48 hours using either tarpaulin sheets or drying floors",
+        "Sieve infested grains and dry again in the sun to kill the remaining eggs and adults"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides (PCPB)",
+        "Dust grains with malathion 2% + Pyrethrins 0.2% (like",
+        "Nova",
+        "Super",
+        "Blue cross dust, Pydust, Super",
+        "Malper",
+        "Dust dust) at 1kg per tonne (3-6 months under ideal (cool, dry) conditions)",
+        "Dust with",
+        "Actelic gold dust (Pirimiphos",
+        "Methyl:7mg/Kg; Thiamethoxam: 2mg/Kg)",
+        "Fumigate stores with phosphine to eliminate existing infestation.",
+        "For best results (at ambient temperature), 'under gas' period should be for 8 days, or slightly longer during cold season"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "III slightly hazardous",
+        "Blue",
+        "Colour",
+        "Code (Withholding period (WHP) of 90 days)",
+        "WHO Class",
+        "III slightly hazardous",
+        "Blue",
+        "Colour",
+        "Code (Withholding period (WHP) of 90 days)",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Tablets release 1g phosphine.",
+        "Fumifations for stores and storage containers must be done by experts."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Lesser grain weevil in Barley"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult grain weevil (Olaf Leillinger)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Barley grains damaged by barley grain weevil (Alamy)"
+      }
+    ]
+  }
+}

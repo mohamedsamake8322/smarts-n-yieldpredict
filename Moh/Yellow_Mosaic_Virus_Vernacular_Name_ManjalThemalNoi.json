@@ -1,0 +1,83 @@
+{
+  "title": "Yellow Mosaic in Black Gram",
+  "sections": {
+    "Header": [
+      "Yellow Mosaic in Black Gram",
+      "Yellow Mosaic Virus Vernacular Name: ManjalThemalNoi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Selection of improved black gram ( Vigna mungo ) resistant varieties such as",
+        "VBN- 5 and 6",
+        "Avoid sowing in acute summer months (April-May).",
+        "Avoid dense sowing and follow the recommended spacing of 30 x 10 cm.",
+        "Maintain proper field sanitation and free weed flora field.",
+        "Washing the plants especially under surface of leaves by using low volume sprayer.",
+        "Careful removal and destruction of infected plant portions during infection early stage.",
+        "Placing of yellow sticky traps at 20/acre or light traps at 1 per acre to attract and kill the vector whiteflies.",
+        "Sowing of barrier crops, such as sorghum, maize, or cumbu in bunds",
+        "Avoid application of nitrogenous fertilizers during growth phase."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Careful monitoring of the whitefly vector ( Bemisia tabaci ) incidence during the early phase of crop growth (up to 30 days).",
+        "Close observation of the leaf surface and adopt the plant protection measures when the",
+        "Economic",
+        "Threshold",
+        "Level (ETL) reaches 5-10 adults or 20 nymphs/leaf."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spraying of 10% Vitex negundo (Nochi leaf) extract (or) 1% tobacco leaf extract.",
+        "Spraying of 5% neem seed kernel extract or 3% neem oil.",
+        "Treating the seeds with",
+        "Imidacloprid 80% WS @ 2 grams/kg of seeds.",
+        "Acetamiprid 20% SP @ 0.5 grams/ litre of water.",
+        "Diafenthiuron 25% WP @ 2 grams/litre of water.",
+        "Dimethoate 30% EC @ 2ml/litre of water."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Severally infected plants turn yellow and sterile hence, no chemical is effective at this stage.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Neonicotinoids group.",
+        "Systemic.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Neonicotinoids group.",
+        "Systemic with contact and stomach action.",
+        "WHO Class",
+        "III.",
+        "Thiourea group.",
+        "Systemic.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Organophosphate group.",
+        "Systemic."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Yellowing of grown up plant (Photo source:TNAU Agri Portal)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellow Mosaic in Black Gram"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult whitefly – vector (Photo source:TNAU Agri Portal)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Yellow sticky trap (Photo source:TNAU Agri Portal)"
+      }
+    ]
+  }
+}

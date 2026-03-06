@@ -1,0 +1,77 @@
+{
+  "title": "Coffee mealybugs",
+  "sections": {
+    "Header": [
+      "Coffee mealybugs",
+      "Planococcus kenyae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove all branches touching the ground",
+        "Apply a 20cm band of a sticky substance such as petroleum jelly on the tree trunks, 15cm from the ground"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Mealy white masses between clusters of berries and flower buds",
+        "Sooty moulds on the upper surface of leaves",
+        "Inspect at any time of the day especially during dry spells",
+        "Take action when one plant is affected"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Encourage presence of biological control agents such as parasitic wasps ( Anagyrus kivuensis ), lacewings and ladybirds that eat the bugs.",
+        "Spray soapy solution made by dissolving a finger sized piece of bar soap in 20 litres of water",
+        "Apply 1-2% vegetable oil such as neem oil on the infested plant"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective gear when using a pesticides",
+        "Follow the instructions on the product label before using any pesticide",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "After using pesticides, do not throw empty containers carelessly especially into water ways.",
+        "Spray",
+        "Chlorpyrifos containing insecticide such as",
+        "Bullet 48EC or",
+        "Sulban 48EC at a rate of 40mls/20L of water on the soil around the tree to kill ants.",
+        "Spray",
+        "Malathion containing insecticide such as",
+        "Marathon 50EC or",
+        "Oshothion 50EC at a rate of 50 mls/20L of water if the problem persists on the infested plant"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous) and",
+        "PHI 14days, MRL1mg/kg",
+        "WHO class",
+        "III (slightly hazardous) and",
+        "PHI 7 days, Spray only infested trees"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "An oval shaped nymph stage of the mealybug (Photo: Rob Reeder, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "White mass between berry clusters (Photo: Rob Reeder, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Soot on coffee leaves (Photo: FAO Regional Office for Asia and the Pacific, 2005.)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Coffee mealybugs"
+      }
+    ]
+  }
+}

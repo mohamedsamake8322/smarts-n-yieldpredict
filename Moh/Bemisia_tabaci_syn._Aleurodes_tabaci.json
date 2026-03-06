@@ -1,0 +1,112 @@
+{
+  "title": "Tobacco whitefly on cassava",
+  "sections": {
+    "Header": [
+      "Tobacco whitefly on cassava",
+      "Bemisia tabaci (syn. Aleurodes tabaci )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove crop residues if the problem was seen before.",
+        "But do not remove debris and residues if no major pest problem in the field, to improve soil.",
+        "In very infested areas, it is important to leave a period of 3 months rotating with grasses (Maize, Sorghum).",
+        "Avoiding sequential planting in the infected areas to avoid whitefly spread between fields.",
+        "Enhance natural predators of whiteflies (Ladybugs, spiders, lacewing larvae and dragonflies) by planting",
+        "Calendula or",
+        "Parsley around."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Whiteflies suck plant juices and produce a sticky substance (honeydew).",
+        "Whiteflies are vectors of viral diseases, such as",
+        "Cassava",
+        "Mosaic",
+        "Disease and",
+        "Cassava",
+        "Brown",
+        "Streak",
+        "Disease which can heavily reduce yield.",
+        "When to look:",
+        "When cassava plants are young, scout weekly for whiteflies in the mornings or evenings.",
+        "Where to look:",
+        "Check undersides of leaves around the veins, even if they aren’t visible, feel leaf surfaces for honeydew.",
+        "What to look:",
+        "Look for small whiteflies (0.8-1.0 mm in length), yellow-white coloured body and snow-white tiny wings.",
+        "When to act:",
+        "Consider to control when more than 60% of the sampled leaves have at least 10 flies per leaf.4",
+        "In case of viruses infections found in nearby fields, you may need to act earlier."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Add 100ml of dish washing liquid and a squeeze of lemon juice into a spray bottle then top up with 5L of water, shake and spray the leaves.",
+        "Be sure to spray the undersides of leaves.",
+        "Spray at a cooler time of the day.",
+        "Repeat every 7-10 day as needed.",
+        "Use a yellow sticky traps (card or wood with 8x12 cm), then smear with a mixture of petroleum jelly with a little dishwashing liquid.",
+        "Hang up close to affected plants to catch and kill adults.",
+        "Place 5 traps/500m2 placed 50 cm above the ground.",
+        "Fatty acids (such as",
+        "AGRI SOAP 787",
+        "TR and others).",
+        "Group",
+        "UNE.",
+        "Contact.",
+        "Foliar spray.",
+        "Spray once a week when thresholds reached."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical insecticides should be avoided, because whiteflies often become quickly resistant",
+        "and all you end up doing is killing the beneficial insects.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re- entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II products may not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides from",
+        "Department of",
+        "Plant",
+        "Health of",
+        "Mozambique.",
+        "WHO toxicity class",
+        "U (Unlikely acute hazardous to humans).",
+        "Pre-harvest",
+        "Interval (PHI): 2 days.",
+        "Restricted re- entry interval (REI): until the leaves dry.",
+        "Max. number of sprays: 3 to 4 during the crop cycle.",
+        "Moderately harmful to soil, water organisms and pollinators.",
+        "Buprofazin (such as",
+        "Buprofenzin 50% WP).",
+        "Insect growth regulator:",
+        "Inhibitors of chitin biosynthesis.",
+        "IRAC Group 16.",
+        "Contact.",
+        "Foliar spray (controls young whiteflies).",
+        "WHO toxicity class",
+        "III (Slightly acute hazardous to humans).",
+        "PHI: 7 days.",
+        "REI: 6 hours.",
+        "Max. 3 sprays per crop cycle at 10-day intervals.",
+        "Moderately harmful to soil and water organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult about 1 mm whitefly feeding (W. Billen, Pflanzenbeschaustelle, Weil am Rhein, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Tobacco whitefly on cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Population of tiny whitefles underside of young leaf (©2012CIAT/NeilPalmer)"
+      }
+    ]
+  }
+}

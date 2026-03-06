@@ -1,0 +1,76 @@
+{
+  "title": "Root knot nematode on rice",
+  "sections": {
+    "Header": [
+      "Root knot nematode on rice",
+      "Meloidogyne graminicola Nel ver mudichu noorpuzhu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Continuous flooding in nursery.",
+        "Crop rotation with marygold, castor, cowpea, soybean, sesame and onion.",
+        "Adapt a two month fallow period in summer in a yearly crop plan.",
+        "Growing of",
+        "Eclipta alba and incorporate in the field.",
+        "Selection of resistant varieties such as",
+        "IR 32, TKM-6, Patnai, Monohar, Sali and",
+        "Udaya.",
+        "Soil solarization with polythene sheets for three weeks (35-60°C).",
+        "Crop rotation with non-host crop such as groundnut and maize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor crops regularly, notably on a weekly basis during growth periods.",
+        "Symptoms include hooked-like gall on roots, distorted growth of young leaves, yellowing on young plants, premature flowering and formation of panicles.",
+        "Other symptoms include poorly filled grains in panicles and chlorosis of leaves.",
+        "Consider direct control actions as soon as symptoms are observed on crops."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Basal application of neem cake (80 kg per acre).",
+        "Soil application of",
+        "Pseudomonas fluorescens (1 kg per acre).",
+        "Soil application of",
+        "Trichoderma viride or",
+        "Trichoderma harzianum (1 kg per acre).",
+        "Soil applicaion of",
+        "Paecilomyces lilacinus (3 kg per acre).",
+        "Avoid resurgence pesticide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear protective clothing when handling pesticides, follow product label instructions.",
+        "Seedling dip with",
+        "Carbosulfon 25% EC (e.g., trade name:",
+        "Marshal, Aaatank, Aayudh) at a rate of 500 ml per acre.",
+        "WHO II (moderately hazardous).",
+        "Soil application of",
+        "Catrap hydrochloride 4% G (e.g., trade name:",
+        "Padan, Kirtap, Caldan, Boreg) at a rate of 8 kg per acre, 35 days after transplanting.",
+        "WHO II (moderately hazardous).",
+        "Soil application of",
+        "Fipronil 0.05% G (e.g., trade name:",
+        "Reagent, Falcon) at a rate of 6 kg per acre, 35 days after transplanting.",
+        "WHO II (moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Symptoms on roots (Jonathan D. Eisenback, Virginia Polutechnic Institute and State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Stunted growth symptoms in young plants (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Root knot nematode on rice"
+      }
+    ]
+  }
+}

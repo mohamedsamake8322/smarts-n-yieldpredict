@@ -1,0 +1,55 @@
+{
+  "app_name": "Agro-Scan",
+  "version": "1.1.0",
+  "description": "Application intelligente de détection des plantes et maladies agricoles",
+  "features": {
+    "detection": {
+      "enabled": true,
+      "model_path": "models/plant_detection_model",
+      "confidence_threshold": 0.6
+    },
+    "chatbot": {
+      "enabled": true,
+      "model": "local",
+      "local_model_url": "http://127.0.0.1:5000/completion"
+    },
+    "database": {
+      "enabled": true,
+      "path": "data/agro_scan.db"
+    }
+  },
+  "ui": {
+    "theme": "green",
+    "responsive": true,
+    "language": "fr"
+  },
+  "supported_plants": [
+    "Tomate",
+    "Maïs",
+    "Riz",
+    "Manioc",
+    "Banane",
+    "Cacao",
+    "Café",
+    "Arachide",
+    "Haricot",
+    "Piment"
+  ],
+  "supported_diseases": [
+    "Mildiou",
+    "Oïdium",
+    "Alternariose",
+    "Rouille",
+    "Anthracnose"
+  ]
+}
+
+
+
+
+
+
+
+
+
+

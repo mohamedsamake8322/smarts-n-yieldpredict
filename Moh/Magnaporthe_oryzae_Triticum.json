@@ -1,0 +1,68 @@
+{
+  "title": "Wheat blast",
+  "sections": {
+    "Header": [
+      "Wheat blast",
+      "Magnaporthe oryzae Triticum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified/clean seed as the fungus is seed-borne.",
+        "Time sowing of seed so that heading occurs when weather is dry (the disease prefers wet conditions).",
+        "Use resistant varieties if available.",
+        "Regularly remove and destroy weeds, particularly grasses such as",
+        "Eleusine indica , Echinochloa , Brachiaria , Digitaria , Lolium , Cenchrus , and",
+        "Chloris in and around the wheat field.",
+        "Many weeds act as secondary hosts and spread the disease.",
+        "Deep plough or burn crop residues as the fungus can survive on these and spread.",
+        "Fungus can be present on seed that appears healthy.",
+        "Rotations are not effective.",
+        "The fungus appears sporadically on wheat and grows well on numerous grasses and crops."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check crop regularly, particularly when temperature (18-30°C) and humidity is high for several days followed by heavy rain and/dew.",
+        "Also check for symptoms in fields where barriers (e.g. trees) shade the field, allowing dew to remain on plant surfaces, and also on fertilized fields rich in nitrogen.",
+        "Symptoms are visible in leaf, spike and seeds:",
+        "Seeds:",
+        "Small, shrivelled, light weight, discolored, or no formation.",
+        "Rachis/Spikelets:",
+        "Brown to black area on rachis which later becomes light to dark grey (indicating blast sporulation), above which all spikelets are destroyed and become bleached.",
+        "Awns:",
+        "Brown to white discolouration.",
+        "Glumes/Culm/Neck/Sheath:",
+        "Bleached heads with traces of gray from blast sporulation.",
+        "Spots on glumes with white to light-brown centres, often becoming grey later on, and with reddish-brown to dark-grey margins.",
+        "These spots vary in shape (oval to elongated) on the culm, neck and sheath.",
+        "Leaves:",
+        "Oval shaped water soaked lesion on green leaves which turns into eye/ oval-shaped nectrotic lesion with gray center, ranging in size and shape.",
+        "Older leaves are more susceptible than young expanding leaves.",
+        "Leaf spots can be:",
+        "Small, dark brown, with light corners.",
+        "Larger, round or eye-shaped, with white to light-brown centres, often becoming grey later on, and reddish-brown to dark-grey margins.",
+        "Symptoms closely resemble infection by",
+        "Fusarium spp. which can cause more widespread bleaching of the plant than wheat blast, and produces pink to orange colouration, particularly on the outside of the glumes.",
+        "If uncertain, send samples of affected crop to a lab for disease identification."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "There are no direct controls for this disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Severely infected rachis and damaged spikelets (Tofazzal Islam, BSMR Agricultural University, BSMRAU, Bangladesh)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wheat blast"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Sporulating wheat leaf lesions from the field in Bangladesh (Tofazzal Islam, BSMRAU, Bangladesh)"
+      }
+    ]
+  }
+}

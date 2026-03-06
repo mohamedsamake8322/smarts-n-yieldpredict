@@ -1,0 +1,59 @@
+{
+  "title": "Powdery mildew on mango",
+  "sections": {
+    "Header": [
+      "Powdery mildew on mango",
+      "Oidium mangiferae Amharic: amedaye; Tigrigna: hammokshtay; Oromifa: dakuya"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties and ensure transplanting of seedlings free from powdery mildew disease",
+        "Plant at proper spacing usually 6m x 6m (but this will depend on the variety)",
+        "Carry out regular pruning of tree branches, this allow good air circulation reduces humidity in the canpoy that favors the establishment, development and reproduction of the pathogen",
+        "Pick up fallen leaves and flowers and bury 60cm deep as these can harbour the fungus and help spread the disease",
+        "Use clean pruning equipment to avoid contamination, use fire to sterilise",
+        "In nurseries, avoid overhead watering to reduce the relative humidity as excessive watering increases the incidence of the disease",
+        "Minimize movement from infected to disease free fields"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Before blossoming, mark 5 trees/ha randomly in orchard and check for symptoms of the disease each week:",
+        "Young infected leaves develop grey necrotic lesions on the upper side of leaves and tend to curl downwards - If severe, the leaves may become brown, dry and fall",
+        "Flowers fail to open, blacken or become brown and dry and may fall from panicles as they become completely covered by the fungus - A severe blossom infection can result in complete loss of fruit",
+        "If young fruit is infected the skin cracks becomes corky, this may cover the entire fruit",
+        "Carry out control measures when 5% symptoms severity is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Carry out phytosanitary pruning by removing all infected twigs, branches and panicles.",
+        "Destroy these by burning or bury 60cm deep.",
+        "Do not compost infected plant debris",
+        "Spray infected shoots with a solution of 6 spoons of baking powder, 3 spoons of white oil and white bar soap foam and",
+        "Mix in 15 litres of water and spray every week to reduce infection"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no registered fungicides in",
+        "Ethiopia for the management of powdery mildew on mango."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Grey/brown lesions appear on the leaves and the leaves become distorted (Scot Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew on mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Infection of the panicles (Scot Nelson, www.flickr.com)"
+      }
+    ]
+  }
+}

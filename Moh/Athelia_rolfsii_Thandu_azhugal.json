@@ -1,0 +1,83 @@
+{
+  "title": "Stem rot in Groundnut",
+  "sections": {
+    "Header": [
+      "Stem rot in Groundnut",
+      "Athelia rolfsii Thandu azhugal"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing during summer.",
+        "Crop rotation with cereal crops (Paddy-groundnut/ Maize-Groundnut is followed in a cropping year).",
+        "Effective weed control and field sanitation.",
+        "Polythene mulching at soil surface.",
+        "Avoiding accumulation and dumping of organic debris.",
+        "Deep burial of previous crops plant debris before sowing.",
+        "Sowing in raised beds or in broad bed furrows"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular scouting during the rainy season.",
+        "Observe for fan shaped mycelium growth at the lower stem.",
+        "Leaves turn yellow followed by wilting of branches.",
+        "Disease is evident at 45-60 days after seedling emergence, strict monitoring for infestation during this period.",
+        "Yellowing of leaf and wilting of branches is considered as trigger to adopt the direct control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Seed treatment with",
+        "Trichoderma viridie at a rate of 4 g per kg of seeds.",
+        "Soil application of",
+        "Trichoderma viride at a rate of 2 kg per acre mixed with 20 kg of",
+        "FYM.",
+        "Periodical collection of infested plant debris and burning."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear protective clothing when handling chemicals.",
+        "Seed treatment with",
+        "Tebuconazole 2",
+        "DS (Trdae name: eg.",
+        "Folicur, Torque, Mirage) at a rate of 2 ml per kg of seed.",
+        "Tebuconazole - WHO II (moderately hazardous).",
+        "Foliar spraying of",
+        "Hexaconazole 5 % EC (Trade",
+        "Name: eg.",
+        "Contaf",
+        "Plus, Trigger) at a rate of 250 ml per acre.",
+        "Hexaconazole - WHO III (slightely hazardous).",
+        "Foliar spraying of",
+        "Propiconazole 25% EC (Trade name: eg.",
+        "Qnash, Zerox, Tilt, Dhan) at a rate of 250 ml per acre.",
+        "Propiconazole-WHO II (moderately hazardous).",
+        "Foliar spraying of",
+        "Chlorothalanil 75% WP (Trade name: eg.",
+        "Kavach, Jatayu, Ishaan) at a rate of 300 g per acre.",
+        "Chlorothalanil - WHO II (moderately hazardous).",
+        "Foliar spraying of",
+        "Triademefon 25% WP (Trade",
+        "Name:eg",
+        "Bayleton, Beeltone, Krileton) at a rate of 200 g per acre.",
+        "Triademefon -WHO II (moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Fungal growth on base of stems (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on lower stem (Gerald Holmes, Cal Poly San Luis Obispo, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem rot in Groundnut"
+      }
+    ]
+  }
+}

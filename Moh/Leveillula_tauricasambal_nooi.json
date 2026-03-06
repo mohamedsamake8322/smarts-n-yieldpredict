@@ -1,0 +1,51 @@
+{
+  "title": "Chilli Powdery Mildew",
+  "sections": {
+    "Header": [
+      "Chilli Powdery Mildew",
+      "Leveillula tauricasambal nooi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting during",
+        "November to",
+        "February in endemic areas",
+        "Maintain proper plant spacing (45 x 30 cm)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for white powdery growth mostly on the lower surface of the leaves during dry humid climate",
+        "Observe for the yellow patches on the upper surface",
+        "Observe for shedding (leaf fall) of severely infected leaves and fruits"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray disease initiation stage.",
+        "Ampelomyces quisqualis @ 2% concentration"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators.",
+        "Spray",
+        "Wettable sulphur @ 0.3%, at disease initiation stage and repeat once at weekly interval.",
+        "Wettable sulphur falls in",
+        "WHO class",
+        "III"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Powdery mildew affected leaves. Source: Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Chilli Powdery Mildew"
+      }
+    ]
+  }
+}

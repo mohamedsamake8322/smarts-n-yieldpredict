@@ -1,0 +1,78 @@
+{
+  "title": "Aphids in rape vegetables",
+  "sections": {
+    "Header": [
+      "Aphids in rape vegetables",
+      "Aphis spp. in Brassica napus varieties that are suitable as vegetable"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Field sanitation is vital for prevention of this pest:",
+        "Weed the fields whenever weeds get numerous because they can host aphids; Remove alternative hosts of aphids such as",
+        "Amaranthus which should be destroyed by uprooting and burying in a dug pit or by controlled burning",
+        "Intercropping with strong-smelling plants such as onion, garlic, or parsley keeps some of the aphids away from the rape."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should commence soon after crop emergence and must be done until harvest of the crop",
+        "Regularly check for curled leaves on plants at least once a week",
+        "Turning of the leaves will reveal presence of tiny green, brown or yellow soft- bodied insects on the underside",
+        "Alternatively, place yellow sticky traps just after emergence of the crop",
+        "If no aphid-transmitted viruses are known from rape in your area, you can tolerate some aphids on your crop.",
+        "Then, you may only consider applying direct control measures when there are so many aphids on leaves that they start to curl."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Leaves showing heavy symptoms (curled, small, lots of aphids under side leaves) should be pruned.",
+        "Tephrosia leaf extracts 2-4% (200 grams/Kg) can also be spayed.",
+        "Spray neem oil products once every week for 4 weeks at a dosage of 4.5 ml/ 10 m2 .",
+        "Ask your local agro-input suppliers to organise such products if neem trees do not grow in your area.",
+        "Spray permethrin -based products at 2ml/L or 2L/ha.",
+        "Pyrethroid group of pesticide.",
+        "Alternatively, spray bifenthrin -based products at 20ml/20L or 1l/ha.",
+        "Pyrethroid group of pesticide.",
+        "Alternatively, spray pyrethrin -based products at 60g/L or 0.7mls/L (0.7L/ Ha) depending on product.",
+        "Pyrethroid group of pesticide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "In most cases, direct chemical control is not justified, because crops can tolerate some aphids, and because green direct control measures usually work sufficiently.",
+        "Only in rare cases you may consider applying a chemical.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "WHO toxicity class",
+        "II (moderately hazardous); Pre-harvest interval (p.h.i.) 7d; restricted re-entry interval (r.e.i.) 1d.",
+        "Spay max twice with 14 day interval.",
+        "Under registration.",
+        "WHO class",
+        "II (moderately hazardous); p.h.i. 3 d; r.e.i. 1d.",
+        "Spay max twice with minimum 14 day interval.",
+        "High risk to bees, very toxic to aquatic organisms.",
+        "WHO class",
+        "II (moderately hazardous); p.h.i. 3 d; r.e.i. 1 d."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Nymphs and adult aphids (photo: Charlotte Glen Pender County Center)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Aphids in rape vegetables"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf curling due to aphids (photo: Charlotte Glen Pender County Center)"
+      }
+    ]
+  }
+}

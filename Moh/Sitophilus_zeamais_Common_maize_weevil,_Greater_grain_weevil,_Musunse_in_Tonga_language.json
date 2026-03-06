@@ -1,0 +1,85 @@
+{
+  "title": "Common maize weevil in grain storage",
+  "sections": {
+    "Header": [
+      "Common maize weevil in grain storage",
+      "Sitophilus zeamais Common maize weevil, Greater grain weevil, Musunse in Tonga language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use varieties with some resistance of the stored grains. e. g",
+        "Kam 601 and 605, MRI 624, Pan 6227, 6777, SC 637, 719, ZMS 737, 510, DKC 8033, 8073 (Are found at most agro input suppliers)",
+        "Shell maize cobs from husks before storage (this delays damage).",
+        "Do not store grains that look damaged as they may contain weevils.",
+        "Clean all storage bins, hats, bags from old grain rests and grain powders before re-filling",
+        "Preventively put botanical pesticide of pounded neem seeds (Neem cake) in layers over grains (refer to green direct control column)",
+        "Preventively use storage insecticides if you have experienced weevil infestation in the past (Refer to yellow direct control column)",
+        "Use mud-clay or cement plastered baskets for storage, or mud-clay or cement - walled storage bins (Firrumbu).",
+        "This does not totally prevent weevils because many are carried in with grains from the field (for this consider direct control).",
+        "But it increases the efficacy of above preventive measures",
+        "Use metal silos because weevils suffocate as there is not enough air.",
+        "Only fill very dry grains into such silos as they heat up in the sun, and humidity condensates when cooling down which can destroy the grains."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visually inspect grains monthly.",
+        "Mainly look for the adult weevils, and for damaged grains with exit holes and feeding powder from grains.",
+        "Use sticky sheets within the storage structures to capture weevils",
+        "Once adult weevils or weevil damage is seen, direct control measures should be considered immediately."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Neem pesticide:",
+        "Admix pounded neem seed powder into grain storage at 20 g / kg maize grains.;Alternatively, take maize grains out in shade, finely spray them with neem oil or neem leaf extract, wait for grains to dry well and then put them back into storage facility.; If neem trees do not naturally grow in your area, ask your local agro-input suppliers to organise such products.",
+        "Mix pulverised",
+        "Moringa seeds with stored maize grains",
+        "All above applications can be done every 1 to 2 months"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "There are a number of fumigation chemicals on the market but they are usually extremely toxic during application, are flammable gases; and can only be applied by an experienced, officially trained and registered fumigator.",
+        "Many of these products and applications are forbidden in",
+        "Zambia",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "Use storage pesticide:",
+        "Chirindamatura (a.i. permethrin 16g/kg and pirimiphos-methyl 3g/kg).",
+        "Check right concentrations of a.i. on product labels, because there are products with too low contents which do not work.",
+        "Use usually before you start to store the grains; Mix 25 gms with 50 kg grains",
+        "WHO toxicity class",
+        "II, (moderately hazardous); pre-use interval 3 months, Max one spray per grain store.",
+        "Do not apply when under medical advice.",
+        "If used as fumigant, then this can only be done by a registered fumigator person.",
+        "Alternatively, use storage pesticide",
+        "Shumba (a.i. deltamethrin 0.13% and fenitrothion 1%), usually 25gms/50Kg.",
+        "Should be mixed with the grains.",
+        "WHO class",
+        "II, (moderately hazardous); pre-use interval 3 months, Max spray once per grain store"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Small reddish brown weevil adult with long snout boring into grain (Canadian Grain Commission)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Common maize weevil in grain storage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Wings of adult weevil with 4 yellowish spots (Georg Goergen IITA Insect Museum)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Feeding holes on maize cob caused by weevil (Frank Peairs, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

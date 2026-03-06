@@ -1,0 +1,80 @@
+{
+  "title": "Black bug on rice - Cambodia",
+  "sections": {
+    "Header": [
+      "Black bug on rice - Cambodia",
+      "Scotinophara coarctata (Fabricius)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Synchronize planting with neighbouring farms",
+        "Destroy weeds that act as host plants around the field (e.g. some grasses on bunds)",
+        "Plant rice varieties of the same maturity date to break the insect’s life cycle",
+        "Set up light trap during the full moon period to attract large number of egg-laying adults and kill.",
+        "Conserve and attract natural enemies (e.g. wasps, grasshoppers, spiders)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scouting 2-3 times/week.",
+        "At pre-flowering scout daily until hard dough stage",
+        "Look for:",
+        "Leaves discoloration.",
+        "Black bug damage can cause reddish brown or yellowing of plants.",
+        "Leaves also have chlorotic lesions.",
+        "Stunting; plants also can develop stunted panicles, no panicles, incompletely exerted panicles, and unfilled spikelets or whiteheads at booting stage.",
+        "Dead hearts",
+        "Monitor for natural enemies (e.g. wasps, grasshoppers, spiders)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "During early infestation, raise the water level in the field for 2−3 days to force the insects to move upwards",
+        "Flood the fields.",
+        "This can cause higher egg mortality",
+        "Use soap spray as repellent (effective for only 48 hours)",
+        "Use attractant (e.g.",
+        "Fish or local cheese).",
+        "Place upwind from farm and after 1-2 days collect and destroy rice bugs",
+        "Collect rice bugs from attractant baits, mash them and mix with water and use as repellent",
+        "After harvest, plow fields to remove remaining insects"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Attractants can be used together with some insecticides",
+        "Spray in morning between 6-10 am or in afternoon between 3-6 pm",
+        "Use pesticides cautiously.",
+        "Killing natural enemies could lead to outbreaks of secondary pests",
+        "Diazinon; Rate: 0.5-1 litre at 400-600",
+        "L water per ha",
+        "Organophosphates; IRAC Group 1B; WHO Class",
+        "II (Moderately hazardous); Harmful to natural enemies",
+        "Cypermethrin 5",
+        "EC; Rate: 0.5-1 litre, at 400-600",
+        "L water per ha",
+        "Pyrethroids; IRAC Group 3A; WHO Class",
+        "II (Moderately hazardous); Harmful to natural enemies"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Rice Bug lays eggs (www.knowledgebank.irri. org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Black bug on rice - Cambodia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Eggs and nymphs (Wendell L. Morril, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Rice bugs feed on rice plants (www.knowledgeback.irri. org)"
+      }
+    ]
+  }
+}

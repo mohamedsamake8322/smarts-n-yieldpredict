@@ -1,0 +1,71 @@
+{
+  "title": "Rust in Pulses",
+  "sections": {
+    "Header": [
+      "Rust in Pulses",
+      "Uredo cajani Thurunoi / பருப்புவகைகள்துரு"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough the soil twice before sowing the crop to kill the inoculum.",
+        "Remove the stubble after harvesting and destroy by burning to reduce the primary and secondary inoculums.",
+        "Sow/plant the seeds with 60x60cm spacing.",
+        "Avoid excess usage of nitrogenous fertilizers (recommended dosage of nitrogen fertilizer is 12.25 kg).",
+        "Maintain soil moisture with a proper irrigation schedule.",
+        "Irrigate immediately after sowing and light irrigation on the third day.",
+        "Irrigate at intervals of 7 to 10 days depending upon soil and climatic conditions."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Disease infestation occurs at the vegetative stage.",
+        "Observe leaves for red/brown raised pustules under a microscope or hand lens.",
+        "Disease incidence is severe during",
+        "Jan 15th to",
+        "Feb 15th due to heavy wind.",
+        "Red gram and",
+        "Blackgram:",
+        "Dark brown rusty pustules (uredia) appear on the lower surface of the leaves.",
+        "Bengal gram and",
+        "Cowpea:",
+        "Dark brown rusty pustules (uredia) appear on the upper surface of the leaves.",
+        "In severe conditions observe for desiccated leaves and leaf drop at seed setting stage or pod formation stage."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Treat the seeds with",
+        "Pseudomonas fluorescence at 10 gm/kg of seeds and shade dry for 15 minutes before sowing."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray of wettable",
+        "Sulphur at 1500 g/Ha at 10 day intervals.",
+        "WHO Class",
+        "III (Slightly",
+        "Hazardous).",
+        "REI: 24 hrs.",
+        "Spray the crop with 0.2% Mancozeb 75",
+        "WP followed by two more sprays at 10 day intervals.",
+        "WHO class",
+        "U (Unlikely to present acute hazard in normal use)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Rust pustules on leaves (Dongxin Feng, ecoport.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rust in Pulses"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Severe stage of rust in pulses (iNaturalist.org)"
+      }
+    ]
+  }
+}

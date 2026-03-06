@@ -1,0 +1,79 @@
+{
+  "title": "Spotted Pod Borer on Pigeon Pea",
+  "sections": {
+    "Header": [
+      "Spotted Pod Borer on Pigeon Pea",
+      "Maruca testulalis Vernacular name: Pulli kai Puzhu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Optimum level of nitrogenous fertilizer as per soil testing recommendation.",
+        "Avoid closer sowing for erect varieties such as",
+        "APK1.",
+        "Avoid planting",
+        "Sunn hemp in the borders as it is an alternate host.",
+        "Follow crop rotation with non- host crops such as paddy, maize, etc.",
+        "Grow resistant varieties of pigeon pea e.g., ICPL-87119."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the pest by setting up light traps @ one per five hectare.",
+        "Look for presence of bore holes on the buds, flowers and pods.",
+        "Look for webbing of leaves, flowers and pods."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Erection of bird perches @ 15 numbers per hectare.",
+        "Application of azadirachtin 3 ml per litre of water at the onset of pest attack."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply insecticides in rotation on need basis to protect the pollinators since red gram is a highly cross pollinated crop.",
+        "Emamectin benzoate 220 gm/ha.",
+        "Avermectin insecticide.",
+        "Systemic contact and stomach poison.",
+        "Not classified by",
+        "WHO.",
+        "Highly toxic to aquatic organisms, bees, birds and mammals",
+        "Application of",
+        "Bacillus thuringiensis @ 1 kg/ha.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Spray spinosad 45% SC @ 125ml/ha.",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Chlorantraniliprole 18.5% SC @ 150ml/ha.",
+        "Diamide insecticide.",
+        "Systemic insecticide with contact and stomach action",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Flubendiamide 480",
+        "SC @ 75 a.i/ha.",
+        "Diamide insecticide.",
+        "Locally systemic with translaminar activity.",
+        "Contact and stomach action",
+        "Not classified by",
+        "WHO; classified as “slightly hazardous” by the",
+        "EPA"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Spotted Pod Borer on Pigeon Pea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bore holes on the pods Source: TNAU Agritech Portal"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Webbed leaves Source: TNAU agritech portal"
+      }
+    ]
+  }
+}

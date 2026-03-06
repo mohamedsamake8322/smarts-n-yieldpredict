@@ -1,0 +1,80 @@
+{
+  "title": "Aphids on Cabbage",
+  "sections": {
+    "Header": [
+      "Aphids on Cabbage",
+      "Brevicoryne brassicae Nsabwe za mu Kabichi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate cabbage with maize, beans, etc. every two years.",
+        "Ensure that the fields are free of weeds (as some weeds harbour aphids).",
+        "In the nursery, use correct spacing of 15cm apart per row.",
+        "In the field, use correct spacing of 60cm by 60cm for big headed varieties, such as drumhead, when transplanting.",
+        "Avoid application of broad spectrum pesticides such as",
+        "Phoskil, Metamidophos and",
+        "Abamectin in order to preserve natural enemies like ladybird beetles and parasitic wasps which assist in reducing the population of aphids.",
+        "Uproot and burn crop residues at the end of the harvest to prevent infestations spreading to the new planting.",
+        "Intercrop with garlic or onion to repel the aphids.",
+        "Inspect transplants before planting, ensure that they are not infested with aphids."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for aphids on the underside of young leaves and in the interior of the cabbage head.",
+        "Begin scouting soon after transplanting and repeat once every week.",
+        "Check for stunting and curling of leaves once every week."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn severely infected plants.",
+        "Where available, cover the nursery with fleece or fine netting, and water without opening the covering.",
+        "Crushing the aphids by hand.",
+        "Control with natural or organic sprays like soap and water mixture. 1 to 2 % solution.",
+        "See fact sheet for details"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Spray",
+        "Acetamiprid (Novacetam, Acetamiprid, Agroprid) at the rate of 2.5 to 5mls/10L of water.",
+        "Spray the chemical when symptoms are first noticed.",
+        "Acetamiprid is a systemic pesticide which belongs to",
+        "Neonicotinoid chemical group.",
+        "When aphid infestation re- appears apply pesticides from a different insecticide group such as",
+        "Dimethoate.",
+        "WHO Class",
+        "U (Unlikely to present an acute hazard in normal use).",
+        "Observe a pre-harvest interval (PHI) of 7 days",
+        "Apply",
+        "Dimethoate (Rogor, Dimethoate) at the rate of 20mls/15L of water.",
+        "Spray the mixture with a",
+        "Knapsack sprayer when infestation signs are first noticed.",
+        "Dimethoate belongs to",
+        "Organophosphate chemical group.",
+        "It is a systemic and contact insecticide",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Observe a pre- harvest interval (PHI) of 14 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Aphids feeding on lower surface of kale. Photo by Benson Ngigi, Kenya"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Aphids on Cabbage"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Aphids on kale. Photo by AgResearch New Zealand"
+      }
+    ]
+  }
+}

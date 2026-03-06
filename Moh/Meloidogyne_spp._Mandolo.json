@@ -1,0 +1,84 @@
+{
+  "title": "Root knot nematodes on tomato",
+  "sections": {
+    "Header": [
+      "Root knot nematodes on tomato",
+      "Meloidogyne spp. Mandolo"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Uproot and burn tomato stalks at end of season.",
+        "Plough the soil and leave free of crop for 3 months to expose the nematodes to dessication and death by heat before planting new crop.",
+        "Sow clean, certified, planting material from reliable sources (nematode-free - grown in uninfested soils)",
+        "Plant resistant variety e.g.",
+        "Roma.",
+        "Treat the seed beds with a fumigant before planting - see yellow column.",
+        "Interplant with",
+        "French marigold ( Tagetes patula ) or",
+        "African marigold ( T. erecta ) at least two months before planting (tomatoes).",
+        "Use clean irrigation water, not muddy water.",
+        "Rotate tomatoes with cereal crops such as maize and sorghum in a 4 year rotation.",
+        "Mulch with",
+        "Crotalaria leaves 2 months after planting tomato seedlings.",
+        "The decomposing leaves release pesticidal chemicals.",
+        "Clean tools such as hoes with bleach or disinfectant after use, to prevent spread of nematodes.",
+        "Before planting tomato in a new area, send soil samples to the lab to check for presence of nematodes.",
+        "If water from boreholes is used for irrigation, this should be tested too."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for signs of root knot nematodes: yellowing of leaves, wilting of plants despite adequate moisture, stunting of plants, fruit deformation and drop.",
+        "New leaves appear distorted and crinkled along the margin.",
+        "Check for nematodes by digging up plants from several different areas of the field and check for galls on roots of affected plants.",
+        "When 20% of the sampled plants have galls, then direct control measures should be applied.",
+        "Galls formed on tomato roots by nematodes do not fall off upon touching."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "There are few direct control methods for nematodes, the most effective control methods are preventative.",
+        "Use",
+        "Azadirachtin 0.03% (Nimbecidine).",
+        "Use as a soil drench at 6-8ml/10m2 (6-8 litres/ha)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink or smoke when mixing or applying pesticides.",
+        "The seedbeds can be treated with a fumigant before the seedlings are sown to reduce the level of infection.",
+        "Apply",
+        "Dazomet 980g/kg granuals (Basamid",
+        "GR) at the rate of 4.5kg/30 m2 to the bed 2 weeks before sowing.",
+        "Broadcast on surface of soil and plough it in to incorporate the chemical along and across the bed to a depth of 30 cm, then cover with a fumigation plastic paper for two weeks.",
+        "Dazomet is a soil fumigant; the granuals turn into a gas that kills nematodes, fungi and insects.",
+        "IRAC Group: 8F",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Plant 14 days after pesticide application.",
+        "REI is 14 days.",
+        "This pesticide is toxic to fish and aquatic invertebrates.",
+        "It is highly soluable in water",
+        "DO NOT apply near water.",
+        "Wear",
+        "PPE and instructions specified on the product label."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Root knot nematodes on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Galled roots caused by root- knot nematode infection (Jonathan D. Eisenback, Virginia Polytechnic Institute and State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Healthy roots (left) compared to galled roots (right) (Gerald Holmes, Strawberry Center, Cal Poly San Luis Obispo, Bugwood.org)"
+      }
+    ]
+  }
+}

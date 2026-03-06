@@ -1,0 +1,82 @@
+{
+  "title": "Late Blight on Potato and Tomato",
+  "sections": {
+    "Header": [
+      "Late Blight on Potato and Tomato",
+      "Phytophthora infestans In Sinhala “Paschimaangamaraya” Tamil: Pitkootuveliral"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select fields free of crop residues or volunteer potato or tomato plants",
+        "Prepare land to improve drainage",
+        "Avoid starting cultivation during heavy rains",
+        "In case of potato, use disease-free seeds and resistant varieties (e.g.",
+        "Hill",
+        "Star)",
+        "Follow recommended spacing (do not overcrowd plants)",
+        "Do not overuse fertilisers, especially",
+        "Nitrogen fertilisers"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe plants regularly from the early stage of crop",
+        "Look for symptoms such as:",
+        "Blackish water soaked lesions occur on the leaves; Whitish sporulation of the pathogen can be seen around the margin of the lesions, particularly on the underside of the leaf.; On stems, late blight causes brown to black lesions; The lesions commonly occur at the junction of the leaf and stem where water may accumulate or on clusters of leaves at the top of the stem.",
+        "The disease spread very quickly over the entire field killing all foliage and causing the death of the entire plant",
+        "Since the disease can cause huge crop losses, it is advisable to use protective fungicides when the disease symptom first appear to reduce the disease spread",
+        "In wet weather conditions, application of systemic fungicides at 21 day intervals is a necessity"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Propineb",
+        "WP; mix 2 g/L and apply 5-7 days intervals",
+        "Mancozeb",
+        "WP; Contact fungicide, mix 2 g/L and apply 5-7 days intervals",
+        "Fluazinam",
+        "SC; Contact fungicide, mix 0.5-1 ml/L and apply 5-7 days intervals",
+        "Metalaxyl+ mancozeb; Systemic fungicide, miz 2.5 g/ L and apply 14-21 days intervals",
+        "Dimethomorph + mancozeb (WP)l mix 2.5 g/L and apply 14-21 days intervals",
+        "Chlorothalonil",
+        "WP; mix 3 ml/L and apply 5-7 days intervals"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Take appropriate personal and environmental precautions when applying pesticides",
+        "WHO hazard class",
+        "IV; Contact fungicide; Alternate with systemic fungicide",
+        "WHO hazard class",
+        "IV; Alternate with systemic fungicide",
+        "WHO hazard class",
+        "III WHO hazard class",
+        "IV; Alternate with contact fungicide",
+        "Systemic fungicide; WHO hazard class",
+        "III Contact fungicide; WHO hazard class",
+        "IV"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on potato leaves (K.P. Somachandra. RARDC, Bandarawela)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Late Blight on Potato and Tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on tomato stem (K.P. Somachandra. RARDC, Bandarawela)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Destroyed tomato field (K.P. Somachadra, RARDC field)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Banana Xanthomonas wilt on banana",
+  "sections": {
+    "Header": [
+      "Banana Xanthomonas wilt on banana",
+      "Xanthomonas campestris pv. musacearum Banana Xanthomonas Wilt"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use healthy planting materials (suckers and corms) from disease-free areas.",
+        "Or, get clean banana suckers produced under tissue-culture from trusted sources like",
+        "Dept.",
+        "Agriculture",
+        "Research",
+        "Services, Lilongwe",
+        "University of",
+        "Agriculture and",
+        "Natural",
+        "Resources.",
+        "Remove the male flower bud using a forked stick (not a knife) after the last hand has formed, to reduce the risk of the banana plant being diseased through the male flower.",
+        "Once the disease has been detected, always disinfect tools like hoes, machetes and knives during and after use, to avoid spreading the bacteria to healthy plants.",
+        "Sterilise tools by flaming until hot or with bleach.",
+        "Follow national quarantine procedures, particularly do not transport bananas out of infected areas.",
+        "Banana",
+        "Xanthomonas wilt is a bacterial disease spread by wasps feeding on nectar in infected male banana flowers and then on healthy flowers.",
+        "The disease is also spread through contaminated cutting tools."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check plantation for symptoms once a week in first 6 months of planting, and later once per month.",
+        "Look for wilting in flowers, yellowing of young and old leaves which soon turn brown.",
+        "Purple leaves of bract (banana flower) become black and shrivelled before they die.",
+        "When cut open, the banana fruit has dark stains including those that are green.",
+        "Cut a cross section of stem and observe oozing of a creamy to pale yellow fluid to confirm bacterial disease.",
+        "Fungal wilt diseases do not ooze.",
+        "Note :",
+        "Xanthomonas wilt can be confused with a fungal disease, Panama disease (Fusarium wilt).",
+        "In infected",
+        "Fusarium banana, yellowing and wilting of leaves progresses from older to younger leaves; wilted leaves may snap at the base and hang down the stem.",
+        "In plants affected by",
+        "Xanthomonas , wilting begins with any leaf and the infected leaves snap along the leaf blade."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove diseased plants and dispose carefully by burying or burning them 1m deep and 100m away from banana plantations.",
+        "Single stem removal will help minimise infection of new plants but this will not eliminate the disease.",
+        "Thresholds:",
+        "Remove infected plants as soon as they are noticed when up to 5-15% of the banana plantation is diseased."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no recommended chemicals to control",
+        "Banana",
+        "Xanthomonas wilt disease.",
+        "Once the plant is infected there is no treatment to cure it from the disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Premature ripening of fruit which will rot due to bacteria infection (Lepoint, Pascale / Bioversity International)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Infected banana with wilted and yellowed young and older leaves (Eden-Green, Simon / EG Consulting)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Oozing of creamy to yellow bacterial fluid from inside the banana stem (Blomme, Guy / Bioversity International)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana Xanthomonas wilt on banana"
+      }
+    ]
+  }
+}

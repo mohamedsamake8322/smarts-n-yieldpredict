@@ -1,0 +1,57 @@
+{
+  "title": "Coconut Weevil on Coconut",
+  "sections": {
+    "Header": [
+      "Coconut Weevil on Coconut",
+      "Rhynchophorus palmarum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Capture of adults:",
+        "Plastic bottle traps using pheromones/ sex attractant",
+        "Rhyncolure® and chopped sugarcane as baits should be placed about 50ft from coconut trees.",
+        "A factsheet on the construction of these traps is available"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check traps on a daily basis for the presence of adult pests.",
+        "Do not kill the insects but make sure they are unable to escape",
+        "Replenish the food source in the traps regularly.",
+        "Look for damage (tunnels) within the trunks of dead or felled trees"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "When excessive numbers are found kill the weevils from the traps by hand.",
+        "Cutting down and burning of infected trees to kill larvae.",
+        "If burning is impractical then examine plants; collect and destroy pupae and adults."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are currently no chemical control methods recommended in",
+        "Grenada although tests are underway."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Coconut Weevil Photo: Didier Descouens, CC BY-SA"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Coconut Weevil on Coconut"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damage done by Coconut weevil Larvae Photo:CABI"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Larvae of Coconut Weevil Photo: Luigi Barraco"
+      }
+    ]
+  }
+}

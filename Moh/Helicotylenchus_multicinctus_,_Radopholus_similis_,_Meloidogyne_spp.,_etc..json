@@ -1,0 +1,55 @@
+{
+  "title": "Nematodes on banana",
+  "sections": {
+    "Header": [
+      "Nematodes on banana",
+      "Helicotylenchus multicinctus , Radopholus similis , Meloidogyne spp., etc."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "In infected plantation, improve plant nutrition by application of a fertilizer high in potassium",
+        "Mulching (cover the soil with banana leaves and other plant material)",
+        "Ratoon control: limit the number of plants per rhizome (mat) to 3 or 4 suckers",
+        "Before planting, the base of suckers can be pared to remove dark spots and sterilize in hot water (50°C for 20 minutes)",
+        "Use clean planting material"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for symptoms such as:",
+        "Corm and roots necrosis; Slow plant growth; Delayed fruiting; Reduced bench weight; Decreased productive life of the plantation; Falling down of banana due to heavy infestation (loss of anchoring roots)",
+        "Threshold: 30000 units / 100 gr of roots",
+        "Note:",
+        "This pest is not considered to be a potential danger in",
+        "Rwanda because of the temperature.",
+        "In",
+        "Bugarama region, which is the lowest altitude in the country, nematodes are present but do not have remarkable effects on banana production."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Highly infested plantation should be removed"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Nematicides are not recommended under smallholder conditions."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Nematodes on banana"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Helicotylenchus multicinctus (John Bridge)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Toppling of severely affected plant. (Miriam Otipa, KARI)"
+      }
+    ]
+  }
+}

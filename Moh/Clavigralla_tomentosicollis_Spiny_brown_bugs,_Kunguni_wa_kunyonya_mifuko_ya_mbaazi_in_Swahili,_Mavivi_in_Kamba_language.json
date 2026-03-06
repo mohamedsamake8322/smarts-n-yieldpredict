@@ -1,0 +1,81 @@
+{
+  "title": "African pod bug on pigeon peas",
+  "sections": {
+    "Header": [
+      "African pod bug on pigeon peas",
+      "Clavigralla tomentosicollis Spiny brown bugs, Kunguni wa kunyonya mifuko ya mbaazi in Swahili, Mavivi in Kamba language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove residue if previous crop was infested by bugs, to prevent insect from multiplying in the crop residues",
+        "Destroy ratoon crop and volunteer plants of pigeon pea as they are major sources of pest carry- over",
+        "Avoid staggering/ relay cropping as it allows bugs to move progressively from early to later plantings, building to very high levels in later plantings",
+        "Plant away from other hosts plants e.g. cotton, mango, beans, Dolichos lablab, cowpea, chickpea, soya bean, sweet potato and spinach",
+        "Plant early to avoid periods of heavy infestation",
+        "Intercrop with sorghum, millet or sunflower to reduce infestation"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Do regular field visits in the morning hours when the bugs are active",
+        "Monitor from pod formation stage up to pod drying stage of peas.",
+        "Look for spiny brown bugs (about 1cm in length) with long antennae",
+        "Bugs suck on developing seeds through the pod wall",
+        "Symptoms include; pod shrivelling, seed browning, dimpling and wrinkling of the seed coat",
+        "Look for prematurely dried-out pods",
+        "Consider control when about 5-10 pods are damaged on 4-10 plants per quarter of an acre"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Mature bugs can be difficult to control since they are very mobile and can invade crops from neighbouring sites",
+        "In the morning, hand pick bugs, or collect with insect nets, and destroy",
+        "Spray cold liquid extract from aromatic plants e.g.",
+        "Lantana camara to repel bugs.",
+        "To prepare the spray, collect 0.5 kg of lantana leaves, put in 1.5 litres of water, bring to boiling point, strain off the liquid and dilute it with an equal amount of clean water and cool before use.",
+        "Maintain natural enemies of bugs by planting flowers around the pigeon pea garden, intercrop and leave residues in the field if not highly infected by pests or diseases"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Pre",
+        "harvest intervals of pesticides in a certain crop must also be followed for the intercrop, and are sometimes even longer",
+        "Always consult recent list of registered pesticides from",
+        "Pest",
+        "Control",
+        "Products",
+        "Board of",
+        "Kenya (www.pcpb.or.ke)",
+        "Foliar spray of",
+        "Deltamethrin -based products; (e.g.",
+        "Decis, Katrin, Farm",
+        "X, Keshet, Atom and others), double check product label for right dosage.",
+        "Group 3, IRAC (Pyrethroids)",
+        "Contact insecticide.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); Pre – harvest",
+        "Interval (PHI) - 3 days.",
+        "Restricted re-entry interval (REI) 1 day.",
+        "Toxic to bees and fish, spray after sunset, away from beehives and water bodies.",
+        "Maximum sprays – 2 per season"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "African pod bug about 1 cm in length, spiny brown (A.M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "African pod bug on pigeon peas"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pigeon pea seeds damaged by pod sucking bug and normal seeds.(Minja, E., ICRISAT)"
+      }
+    ]
+  }
+}

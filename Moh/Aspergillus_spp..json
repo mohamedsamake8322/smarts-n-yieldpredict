@@ -1,0 +1,80 @@
+{
+  "title": "Aspergillus fungal ear rot in maize",
+  "sections": {
+    "Header": [
+      "Aspergillus fungal ear rot in maize",
+      "Aspergillus spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified non-infected seeds.",
+        "Plant maize early with the onset of rains to enable it to escape drought conditions which favour the fungus due to stress.",
+        "Apply nitrogen fertilizer according to recommended rates (Basal: 200 – 400",
+        "Kg/ha",
+        "D-compound and top dressing: 200",
+        "Kg/ha",
+        "Urea), to make the plant strong to overcome stress",
+        "Harvest the grain early when it is dry to avoid the spread of the fungus to uninfected cobs.",
+        "Destroy crop residues of maize by composting.",
+        "But, if you have no major pests or diseases in your field, leave residues in the field to improve the soil and prevent moisture loss.",
+        "Rotate maize with legumes such as soyabeans, cowpea and beans",
+        "Store dry maize grain in a well- ventilated area free from moisture"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "This fungus infects maize during hot, dry weather after flowering.",
+        "Inspect the field weekly after flowering and cob set checking for silk with yellowish- green powder.",
+        "When grain has matured just before hardening, look for stunted maize plants with small cobs",
+        "Remove the husk cover from the cob and check for grain discolouration and presence of yellowish to greenish powder on the grains.",
+        "If you find whitish powder or dust, these are also ear rot fungi, but are not",
+        "Aspergillus fungal ear rot.",
+        "Take action as soon as 1-2 in 10 plants per acre have ear rot",
+        "Aspergillus ear rot results in the production of mycotoxins that are toxic to humans and animals."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and bury severely infected cobs.",
+        "Do not feed them to animals because these cobs are poisonous.",
+        "Spray the maize cobs with seed extract of neem to inhibit fungal growth",
+        "Finely grind 1 cup of dry neem tree seed without pulp",
+        "Soak powder in 2 litres of water for a period of one day",
+        "Sieve the seed extract and add to 10L of water to which a small amount of soap about 2g should be added",
+        "The extract of neem tree seed should be thoroughly mixed and sprayed directly on the cobs",
+        "If ear rots are observed in a field, affected areas should be harvested early and infected cobs be removed to avoid mycotoxin contamination of non- infected grain."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When fungal ear rot disease is detected on maize cobs, chemical treatment is too late.",
+        "Infected maize cobs are toxic.",
+        "Never eat or make food from infected cobs, and do not feed to animals.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re- entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ZEMA",
+        "Fungicide",
+        "seed treatments are sometimes recommended against this disease, but have little effect on fungal infections on late stage maize."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Aspergillus fungal ear rot in maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Diseased maize cobs with discoloured grains and yellowish powder (CIMMYT, CC BY-NC-SA)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Maize cob with Apergillus ear rot showing yellow powder on surface of damaged grains (Purdue University)"
+      }
+    ]
+  }
+}

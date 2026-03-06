@@ -1,0 +1,79 @@
+{
+  "title": "Groundnut rosette disease",
+  "sections": {
+    "Header": [
+      "Groundnut rosette disease",
+      "Groundnut Rosette Virus Kadukutu, Khate in Chichewa; Kaligwiti in Tumbuka"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties e.g.",
+        "Nsinjiro, Chalimbana 2005, Chitala and",
+        "Baka",
+        "Early planting with the first good rains",
+        "Plant at correct plant spacing to reduce disease spread i.e. 75cm between ridges and 15cm between plant stations for long duration varieties; 60cm between ridges and 10cm between plant stations for short duration varieties",
+        "Crop rotation with maize or other cereals to avoid carry over of the disease between seasons",
+        "Intercropping with cereals hampers the spread of the aphid vector",
+        "Remove and destroy volunteer groundnut plants from the field because they may become source of inoculum in the next season",
+        "Keep the field weed free to prevent aphids which transmit rosette virus"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "This disease is vectored by aphids.",
+        "Examine for presence of aphid vectors (especially on young shoots).",
+        "Monitor plants weekly for both the disease symptoms and presence of aphids",
+        "The disease appears in two forms - yellow and green",
+        "Look for yellow twisted and distorted leaves for yellow rosette, while green mosaic is manifested by mottling of younger leaves while older leaves are dark green and reduced in size",
+        "Both forms of rosette lead to stunting and inability to produce pods",
+        "Start control methods as soon as disease symptoms are seen",
+        "When aphids are seen commence control if economically viable (see yellow control measures)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out and destroy infected plants either by burning or burying"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "There are no chemicals available to manage this disease but insecticides can be used to manage the aphids which transmit the virus",
+        "Fields:",
+        "Apply",
+        "Acetamiprid 222g/L (Acetamiprid 222SL, Novacetam 222SL).",
+        "Dilute 5ml in 16L water.",
+        "Systemic neonicotinoids, IRAC Group 4A",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous, inhalation toxicity.",
+        "Applied when aphids appear, one or two additional applications could made based on scouting.",
+        "Allow 21 days between application and harvest.",
+        "Field:",
+        "Apply dimethoate 400g/L (Dimethoate 40EC, Nugor 40EC).",
+        "Dilute 75ml in 100L water.",
+        "Systemic, IRAC Group 1B - Organophosphate.",
+        "WHO Class",
+        "II - Moderately",
+        "Hazardous, the chemical should be applied when aphids appear and repeated as necessary.",
+        "Allow 14 days between application and harvest."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Stunting of an infected plant (right) compared to a healthy plant (left) (Scottish Crop Research Institute)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellow coloration (chlorosis), twisting and distortion of the leaves (Scottish Crop Research Institute)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Groundnut rosette disease"
+      }
+    ]
+  }
+}

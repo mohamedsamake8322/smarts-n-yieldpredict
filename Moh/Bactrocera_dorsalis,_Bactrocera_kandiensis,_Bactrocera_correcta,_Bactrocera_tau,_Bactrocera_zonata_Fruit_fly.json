@@ -1,0 +1,56 @@
+{
+  "title": "Fruit fly on fruit trees",
+  "sections": {
+    "Header": [
+      "Fruit fly on fruit trees",
+      "Bactrocera dorsalis, Bactrocera kandiensis, Bactrocera correcta, Bactrocera tau, Bactrocera zonata Fruit fly"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Bag immature fruits with polythene, paper or silk clothing within one month of flowering",
+        "Harvest fruits at physiological maturity before they become very ripe and soft which makes it easy for the flies to lay eggs in them",
+        "During harvesting, collect infested fruits in black polythene bags, tie them up and expose to sun or bury infested fruits more than 50 cm deep in soil in order to kill larvae and prevent infestation in the next season",
+        "Prune regulary to improve aeration",
+        "Release poultry in the orchard to feed on pupa at the base of plants"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: guava, citrus, melons, avocado, pear, mango, banana",
+        "Adult fly:",
+        "B. dorsalis is about 8 mm long, wings about 7 mm in length, colour is variable - may have yellow and black markings",
+        "Larvae:",
+        "B. dorsalis is about 10 mm in length, creamy white, forms a dark brown puparium when it matures and emerges from fruit",
+        "Regularly observe fruit trees for adult fruit fly at fruiting stage",
+        "Check for egg-laying holes ('stings') on the surface of the fruits.",
+        "These holes may be indicated by oozing or dry sap",
+        "Sample fallen fruits and dissect them for fruit fly larvae which are small white maggots",
+        "Set 10 pheromone traps per ha.",
+        "A catch of 2-3 adult fruit flies per trap per week necessitates control measures (see 'Pheromone traps against fruit flies in citrus' factsheet)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply neem oil or neem seed extract to kill pupating larvae",
+        "Store harvested fruit in cool place or cold storage for 5 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult fruit fly (K.A.N.P. Bandara, HORDI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Fly larvae (=maggots) in a grapefruit (Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit fly on fruit trees"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pupae of B. correcta , note scale (S.M. Jalaluddin/ Sugarcane Research Station, Tamil Nadu Agricultural University, India)"
+      }
+    ]
+  }
+}

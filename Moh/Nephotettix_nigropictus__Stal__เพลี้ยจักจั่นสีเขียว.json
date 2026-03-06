@@ -1,0 +1,85 @@
+{
+  "title": "Green leafhoppers",
+  "sections": {
+    "Header": [
+      "Green leafhoppers",
+      "Nephotettix nigropictus ( Stal ) เพลี้ยจักจั่นสีเขียว"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use a resistant variety (RD4, RD9, RD21, RD23, SPR60, SPR90",
+        "PSL2)",
+        "If direct seeding",
+        "Sowing",
+        "Rate 15-20",
+        "Kg/rai",
+        "Preferred planting method - transplanting or parachuting"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field survey observation every 2 weeks",
+        "Sweep net (15-40 days)",
+        "Direct counting (41 to",
+        "Harvesting).",
+        "Look at stem above water level"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply",
+        "B. bassiana every week",
+        "Use a giant light trap",
+        "Use long way yellow sticky trap (40 days- harvesting)",
+        "Draining, water control, wet and dry (5-7days)",
+        "Irritated field",
+        "For irrigated areas, drain water to invite ants which eat the nymphs",
+        "Apply neem extract (during nymph state)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When to use chemical control: 10 adults /tiller, ETLs",
+        "Don’t use abamectin (will kill natural enemies) and do not use granular insecticides",
+        "Do not mix insecticides",
+        "Do not use 36 chemicals in the",
+        "RD recommendation list",
+        "Rotate chemicals to prevent resistance",
+        "Buprofezin 40-60",
+        "DAS.",
+        "IRAC group 16.",
+        "WHO III",
+        "Buprofezin+ Isoprocarb 40-60",
+        "DAS.",
+        "Buprofezin:",
+        "IRAC group 16, WHO III Isoprocarb:",
+        "IRAC group 1A, WHO II Etofenprox (Control",
+        "Poison) 60",
+        "DAS - harvest.",
+        "IRAC group 3A.",
+        "WHO U Dinotefuran 60DAS - harvest.",
+        "IRAC group 4A Pymatrozin",
+        "IRAC 9B"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult GLH (Tarapron Yuneyong)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Green leafhoppers"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Nymph of GLH (BRRD)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damage caused by GLH (BRRD)"
+      }
+    ]
+  }
+}

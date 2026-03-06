@@ -1,0 +1,66 @@
+{
+  "title": "Groundnut tikka leaf spot",
+  "sections": {
+    "Header": [
+      "Groundnut tikka leaf spot",
+      "Mycosphaerella arachidis , Mycosphaerella berkeleyi tikka early leaf spot, tikka late leaf spot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Removal of infected plant debris",
+        "Deep summer ploughing",
+        "Apply farm yard manure @ 10 tonnes per acre",
+        "Apply neem cake @ 100 kg / acre",
+        "Crop rotation with pearl millet and sorghum",
+        "Removal of ‘volunteer’ seedlings from surrounding fields and from rotation crops."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Leaf spots although initially chlorotic soon become oval dark brown with chlorotic margins",
+        "Observe for development of chlorotic spots on leaflets, petioles and stem",
+        "Premature senescence (leaf fall) of leaves in advanced stages"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray 10% Calotropis leaf extract at disease initiation"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators.",
+        "Two sprays with carbendazim 100 g + mancozeb 400g/acre, first at appearance of symptoms followed up with second spray at 15 days intervals",
+        "Carbendazim and mancozeb are",
+        "WHO class",
+        "Alternatively, spray",
+        "Chlorothalonil 400g / acre or",
+        "Tebuconazole 0.1%.",
+        "First spray at appearance of symptoms and second spray at 15 day intervals.",
+        "Tebuconazole are",
+        "WHO class",
+        "II, Chlorothalonil falls in",
+        "WHO class",
+        "U and",
+        "Tebuconazole are",
+        "WHO class",
+        "II"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Early leaf spot infested leaves Source: agritech.tnau.ac.in/"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Groundnut tikka leaf spot"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Late leaf spot infested leaves. Source: agritech.tnau.ac.in/"
+      }
+    ]
+  }
+}

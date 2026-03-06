@@ -1,0 +1,80 @@
+{
+  "title": "Whitefly on watermelon",
+  "sections": {
+    "Header": [
+      "Whitefly on watermelon",
+      "Bemisia tabaci Inzi Weupe' in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant clean, certified seed free from pests.",
+        "Avoid planting in areas previously with alternate hosts e.g. sweet potato, other cucrbits, beans, brassicas, cassava, citrus plants, cotton, eggplant, green gram, mango, okra, papaya, peppers, pigeon pea, sesame, tomato.",
+        "Weed regulary to eliminate other hosts."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: beans, brassicas, cassava, citrus plants, cotton, cucumber, eggplant, green gram, mango, okra, papaya, peppers, pigeon pea, pumpkin, sesame, sweet potato, tomato, watermelon.",
+        "Look out for:",
+        "Whitish-brown eggs and/or whitish adults on the underside of young leaves.",
+        "A cloud of 3-5 white insects after shaking the young leaves.",
+        "Yellowing symptoms on lower leaves of the trees.",
+        "A sticky substance (honeydew) which makes leaves appear shiny and sooty (black).",
+        "The treatment threshold for watermelon whitefly is about 4 adults per leaf in a random 30-leaf sample of healthy leaves."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use yellow traps to monitor the presence of whiteflies at a rate of 1-4 traps per 300 square metres.",
+        "Use reflective mulch (silver, yellow, and white/black plastic mulches) to repel adult whiteflies.",
+        "Plant coriander and",
+        "Mexican marigold around the edge of the field to repel whiteflies.",
+        "Spray",
+        "Azadirachtin 0.03% +Neem",
+        "Oil based products (Neemroc",
+        "EC) at a rate of 50mls in 20L of water.",
+        "Liquid soap at a rate of 100 ml per 20L can be applied to control the pest.",
+        "In addition, this dosage can be mixed with a given pesticide to enhance its efficacy."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides wear protective clothing, follow the instruction on the product label such as dosage, timing of application, pre-harvest interval maximum number of sprays restricted re-entry interval",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Spray with",
+        "Lambda- cyhalothrin, e.g.",
+        "Karate 2.5",
+        "WG at 20g in 20L of water or",
+        "Dududthrin 1.7",
+        "EC at 60ml in 20",
+        "L of water",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "PHI 3 days.",
+        "Toxic to fish and aquatic invertebrate.",
+        "Spray with",
+        "Alpha- Cypermethrin (Bestox 100Ec at 6 ml in 20",
+        "L of water or",
+        "Tata alpha 10EC at 6ml in 20L of water",
+        "WHO class",
+        "II, (Moderately hazardous)",
+        "PHI 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Whitefly on watermelon"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Silverleaf whitefly ( Bemisia argentifolii ) (Scott Bauer, USDA Agricultural Research Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Silverleaf whitefly ( Bemisia argentifolii ) on melon ( Cucumis melo (Alton N. Sparks, Jr., University of Georgia, Bugwood.org)"
+      }
+    ]
+  }
+}

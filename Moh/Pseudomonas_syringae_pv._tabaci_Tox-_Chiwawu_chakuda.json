@@ -1,0 +1,71 @@
+{
+  "title": "Angular leaf spot on tobacco",
+  "sections": {
+    "Header": [
+      "Angular leaf spot on tobacco",
+      "Pseudomonas syringae pv. tabaci (Tox-) Chiwawu chakuda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Practice early ploughing in nurseries",
+        "Use certified disease free seed",
+        "Rotate nursery sites and fields every 3 to 4 years with the following non-host crops such as groundnuts and maize.",
+        "Keep nursery and fields weed free to prevent alternative hosts from harbouring the pathogen inoculum.",
+        "Fumigate seedbeds - See yellow direct control column",
+        "Uproot and burn all infected plants soon after complete reaping tobacco to prevent spread of pathogen",
+        "There are currently no resistant varieties of tobacco against this disease",
+        "Avoid overhead irrigation as this can spread the bacterium"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for brown to black angular leaf spot(s) with irregular shapes (as they are limited by the leaf veins) from 2 weeks after planting",
+        "When spots merge together they can form large dead areas.",
+        "The centre of the large area may fall out giving the leaves a ragged appearance",
+        "Diseased leaves become necrotic and dry",
+        "Monitor every 3 days in wet and humid weather as the disease is much worse in these conditions",
+        "Control should be carried out as soon as disease symptoms are noticed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn all infected plants soon after complete reaping tobacco to kill the pathogen",
+        "Reap from clean area with infected portions to avoid disease spread",
+        "Reap all mature infected leaves to prevent spread of disease and burn"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Spray copper oxychloride (any trade name) from 4 weeks after sowing at the rate of 20g/10 litres of water.",
+        "FRAC group:",
+        "M1",
+        "WHO Class",
+        "II (moderately harzadous).",
+        "Repeat application every 2 weeks after initial application in hot spot disease areas.",
+        "REI: 7days",
+        "Spray",
+        "Acibenzolar-s- methly (Bion 50",
+        "WG) at the rate of 60g/ha in 400 litres of water (in the field).",
+        "Host plant defence inducer.",
+        "FRAC group:",
+        "P1",
+        "WHO Class unavailable.",
+        "Apply 4 weeks after planting and repeat two weeks later.",
+        "Do not exceed two applications"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Brown/black lesions mainly on the lower leaves (R.J. Reynolds Tobacco Company Slide Set, R.J. Reynolds Tobacco Company, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Angular leaf spot on tobacco"
+      }
+    ]
+  }
+}

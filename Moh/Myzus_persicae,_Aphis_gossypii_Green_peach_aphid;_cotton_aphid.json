@@ -1,0 +1,56 @@
+{
+  "title": "Aphids on eggplant",
+  "sections": {
+    "Header": [
+      "Aphids on eggplant",
+      "Myzus persicae, Aphis gossypii Green peach aphid; cotton aphid"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "M. persicae are small aphids which feed on plant sap.",
+        "These aphids can transmit plant viruses.",
+        "Cover plants with agro nets (400 µm mesh) to prevent pest access.",
+        "Grow aphid repellant plants (e.g. marigold and onions) as border/barrier of crop plots.",
+        "Burn dried cow dung and herb/shrub leaves to make smoke in early mornings or late evenings to prevent pest colonisation.",
+        "Apply poultry manure (850 kg/Ha) to ensure high plant vigour.",
+        "Conserve natural enemies by avoiding broad spectrum insecticides and providing suitable habitat."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Begin monitoring at seedling stage, observe for associated ants around crops.",
+        "Observe underside of leaves for grey-black or green aphid insects (normally found in colonies).",
+        "Look for yellowing leaves, stunted growth and honeydew on infested crops.",
+        "Sooty mould may grown on the honeydew.",
+        "Look for curled, wrinkled or cupped leaves and mosaic patterns on the leaves (alternating dark and light patches) - these are symptoms of viruses that can be transmitted by the aphid",
+        "If 2-3 out of 20-30 plants have at least 2 aphid colonies, undertake control measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Wash infested areas of plants with a strong jet of water.",
+        "Use soapy water (1 ml/2",
+        "L water) on both sides of leaves, spray during early mornings/late evenings so spray does not dry quickly.",
+        "Release biocontrol agents (e.g.",
+        "Aphidius spp., ladybirds, lacewings and parasitic wasps).",
+        "Release roughly 5-25 per 100 square ft., weekly in areas of high infestation.",
+        "Spray with neem-based products and follow label instructions (e.g.",
+        "Azatrol, 1.2% Azadiractin. 1 part",
+        "Azatrol with 1 part water, spray at 7-10 day intervals)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult M. persicae (Scott Bauer, USDA Agricultural Research Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult A. gossypii (Timothy A. Ebert)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Aphids on eggplant"
+      }
+    ]
+  }
+}

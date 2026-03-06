@@ -1,0 +1,58 @@
+{
+  "title": "Red-banded thrips on cashew",
+  "sections": {
+    "Header": [
+      "Red-banded thrips on cashew",
+      "Selenothrips rubrocinctus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Thrips are tiny insects that cause damage to crop plants by feeding on the surface of the leaves and fruits.",
+        "Establish windbreaks before orchard planting.",
+        "Maintain good cultural practices to increase plant vigour and enhance plant tolerance to thrip damage (sufficient fertilizer application, pruning, plant spacing etc.).",
+        "Keep the soil well irrigated, avoid excessive application of nitrogen fertilizers which may promote thrip populations.",
+        "Conserve natural enemies of",
+        "S. rubrocinctus such as spiders, predatory mites, lacewings and predatory bugs (e.g. minute pirate bug) by avoiding the use of broad spectrum insecticides.",
+        "Prune trees to allow lighter conditions within the orchard (unfavourable conditions for thrips)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Plant parts attacked first show chlorotic spots and later turn to a silvery coloration.",
+        "Weekly, shake foliage/flowers over a white tray and observe for presence of nymphs with red bands on abdomen and black, elongated bodied adults.",
+        "Take note of clustered fruit, as low infestation levels show thrip preference to feed between clustered fruit rather than single fruit.",
+        "Sticky blue traps can be used to monitor the presence of thrips.",
+        "Observe plants for sooty mould, a symptom of thrip infestation.",
+        "Population numbers are higher during the dry season and severe attacks can result in premature leaf drop, the inflorescences drying and the pseudofruit can even crack.",
+        "Take direct control actions before silvery leaves turn brown/ appear burnt or when 4-6 adults are found per flower."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use pheromone lures in mass trappings, add a contaminant to kill trapped thrips.",
+        "Use of neem based products e.g. neem seed oil extract and",
+        "Buprofezin or neem oil soap spray (check product label for dosage or 3 tablespoons of liquid soap per litre of water).",
+        "Use of biological pesticides e.g.",
+        "Metarhizum anisopliae or",
+        "Beauveria bassiana and follow instructions and dosage on the labels."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Nymphs with characteristic red band across abdomen (GB Edwards, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult S. rubrocinctus (Lyle Buss, University of Florida, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Red-banded thrips on cashew"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "S. rubrocinctus damage to leaves (Scot Nelson, University of Hawaii at Manoa, Bugwood.org)"
+      }
+    ]
+  }
+}

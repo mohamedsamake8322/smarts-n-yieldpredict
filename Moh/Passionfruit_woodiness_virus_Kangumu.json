@@ -1,0 +1,88 @@
+{
+  "title": "Passionfruit woodiness disease",
+  "sections": {
+    "Header": [
+      "Passionfruit woodiness disease",
+      "Passionfruit woodiness virus Kangumu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant disease free seedlings from",
+        "HCDA certified nurseries such as",
+        "KALRO-Thika, JKUAT and",
+        "Good neighbours (Bungoma).",
+        "Keep the field weed free since weeds are alternate hosts for the vector.",
+        "Avoid planting cowpeas and cucurbits near a passionfruit orchard.",
+        "Control aphids at all growth stages (they transmit the causal virus).",
+        "Prune starting from clean to infected plants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: cucumber, pumpkin, cowpea, beans.",
+        "Look out for:",
+        "Mosaic patterns, mottling, crinkling or distortion of leaves.",
+        "Plants with shortened internodes, bunching of foliage and stunted growth.",
+        "Small misshapen fruits with scabs, cracks, very hard rinds and small pulp cavity.",
+        "Initiate control measures on noting 1 colony aphids in 10 plants or 10% infected plants."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot infected plants and burn or bury at least 2 feet deep.",
+        "Destroy infected prunings and fruits by burning.",
+        "Sterilize pruning tools with 10% jik solution (100 ml of jik in 1L of water).",
+        "Spray aphids using a strong jet of water or insecticidal soap (1/4 bar of soap in 4L of water or 1 teaspoon of liquid soap in 4L of water).",
+        "Spray aphids using azadirachtin (Neemark",
+        "EC®, Neemraj",
+        "Super® or",
+        "Nimbecidine ®) at the rate of 50ml/20L of water) - PHI 1 day."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides always wear protective clothing",
+        "Always follow the instructions on the product label such as dosage, timing of application, PHI, maximum number of sprays, Re entry",
+        "Interval e.t.c",
+        "Always consult current list of registered pesticides",
+        "Spray with",
+        "Lambda-cyhalothrin based products (Karate 2.5% WG® at 20g per 20L of water or",
+        "Tata",
+        "Umeme 2.5",
+        "EC® at 15-20 ml/20L of water)",
+        "Spray with",
+        "Cypermethrin-based products such as",
+        "Debush",
+        "EC ® at the rate of 100ml per 20L of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Toxicity class",
+        "II; PHI 3 days",
+        "WHO Toxicity class",
+        "II; PHI 1 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Passionfruit woodiness potyvirus (Mary Mendi Kinuthia, Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Passionfruit woodiness disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Passionfruit woodiness potyvirus (PM Kodwaran, Kenya)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Passionfruit woodiness virus (Nicholas Kimeu)"
+      }
+    ]
+  }
+}

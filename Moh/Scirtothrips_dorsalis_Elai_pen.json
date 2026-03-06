@@ -1,0 +1,107 @@
+{
+  "title": "Chilli Thrips",
+  "sections": {
+    "Header": [
+      "Chilli Thrips",
+      "Scirtothrips dorsalis Elai pen"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Crop rotation/intercrop with",
+        "Agathi ( Sesbania grandiflora ) to act as a barrier for pests.",
+        "Avoid chilli cropping after sorghum or following onion.",
+        "Also avoid mixed cropping with sorghum and sugarcane.",
+        "Intercrop chilli with tomato.",
+        "Tomato crop is recommended as a trap crop with chilli since it is not prone to thrips.",
+        "Planting of resistant varieties, such as",
+        "Pant",
+        "C1, Pant",
+        "C2, Dh-7-6-6, Jwala, Musalwadi, K-3435 and",
+        "IC 24343."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor for upward curling of leaf margins and mottling appearance.",
+        "Severe damage is leaf distortion, defoliation, stunting, flower drop and dwarfing of plant",
+        "Place blue sticky traps @10 no's per acre.",
+        "Consider direct control actions when 3 nymphs or adults are found per infested leaf."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Foliar application of 5% NSKE (Neem",
+        "Seed",
+        "Kernal",
+        "Extract) at a rate of 1 litre per acre.",
+        "Foliar application of",
+        "Pongamia oil 1.6 litre/acre (foiliar means as spraying on leaves).",
+        "Foliar application of",
+        "Neem oil at a rate of 2 litres per acre (foiliar means as spraying on leaves).",
+        "Foliar sprays with 300 ml tobacco decoction and 350 ml fish oil resin soap per acre.",
+        "Release of predatory mite",
+        "Amblyseius swirskii at a rate of 25-100 mites per m²."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Avoid resurgence causing pesticides.",
+        "Seed treatment with",
+        "Imidacloprid at a rate of 10 g/kg of seeds.",
+        "Seedling dips with",
+        "Imidacloprid 17.8",
+        "SL (Trade",
+        "Name:",
+        "Confidor, Atom,Imida",
+        "Gold) at a rate of 1.2 ml/litre of water.",
+        "Foliar application of",
+        "Imidacloprid 17.8 %SL (Trade",
+        "Name: eg.",
+        "Confidor, Atom,Imida",
+        "Gold) at a rate of 70 ml/acre.",
+        "Foliar application of",
+        "Thiamethoxam 25 %WG (Trade",
+        "Name:",
+        "Actara, Click, Evident) at a rate of 50 g/acre.",
+        "Foliar application of",
+        "Abamectin 1.8% EC (Trade",
+        "Name:",
+        "ABC, Vertimee, Abamectin) at a rate of 100 ml/acre.",
+        "Foliar application of",
+        "Buprofezin 10 %EC (Trade",
+        "Name:",
+        "Banzo, Blunt,Buplon, Appland) at a rate of 250 ml/acre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "Thiamethoxam is not listed in the",
+        "WHO guide lines.",
+        "Abamectin is not listed in the",
+        "WHO guide lines.",
+        "WHO Class",
+        "III (slightly hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult S. dorsalis (Andrew Derksen, USDA-APHIS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Developing egg (Andrew Derksen, USDA-APHIS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Chilli Thrips"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Aphids on tobacco",
+  "sections": {
+    "Header": [
+      "Aphids on tobacco",
+      "Myzus persicae Nsabwe za M'fodya"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant tobaccco early, with the first rains.",
+        "Late planted crop is prone to infection",
+        "Weed early in tobacco fields to remove alternate hosts (groundnut, brassicas, sweet potato.",
+        "Tomato, peppers, potato, maize) which harbour aphids",
+        "Rotate tobacco with non solanaceous crops like maize",
+        "Ensure good crop hygiene",
+        "Observe timely closed season",
+        "Do not spray broad spectrum insecticides to allow natural enemies-parasitic wasps and lady bird beetles which help reduce the populations"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for presence of aphids from the nursery onwards every week",
+        "Aphids are small oval shaped sap sucking insects 1 to 2 mm long.",
+        "They vary greatly in colour from bright yellow to almost black",
+        "They settle on underside leaves sometimes in large numbers",
+        "Populations build with onset of rains and they can overwinter on alternate hosts like",
+        "Amaranthus",
+        "Aphids excrete honey dew which encourage the growth of fungi which turns into sooty black mold which reduce photosynthesis procees",
+        "Feeding of aphids on leaves causes papery leaf which leads to low quality tobacco"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn all heavily infested tobacco stalks to kill aphids",
+        "When infestation is light or at an early stage apply soapy water.",
+        "Tablet soap or liquid soap can be mixed with water and applied using a knapsack sprayer",
+        "Apply",
+        "Nimbecidine",
+        "EC a neem based product.",
+        "Prepare a foliar spray of 5ml",
+        "Nimbecidine to 1 litre of water.",
+        "Add nimbecidine to water not water to nimbecidine and stir well"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Apply",
+        "Imidacloprid (Confidor 70",
+        "WG) at 1.5g/10 litres in the nursery.",
+        "A neonicotinoid, IRAC group: 4A",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "In the nursery drench 2 litres of the chemical mixture per square metre followed by another drench 45 days after germination.",
+        "Spray",
+        "Acetamiprid (Acetamark 20SP) at 3g/10 litres of water.",
+        "A neonicotinoid, IRAC group: 4A",
+        "WHO Class not classified.",
+        "In the field spray from 2 weeks after transplanting and repeat after 2 weeks.",
+        "Do not apply the insecticides beyond two times."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage on a tobacco leaf (R.J. Reynolds Tobacco Company, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Aphids on tobacco plants (Kondwani Msango, ARET 2018)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wingless adult (left) and nymphs (David Cappaert, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Aphids on tobacco"
+      }
+    ]
+  }
+}

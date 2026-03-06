@@ -1,0 +1,74 @@
+{
+  "title": "Okra Yellow Vein Mosaic Virus",
+  "sections": {
+    "Header": [
+      "Okra Yellow Vein Mosaic Virus",
+      "Virus vector (Whitefly, Bemisia tabaci ) local name; Sinhala- Bandakka kaha narati berime virasaya"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select a field free of virus infected plants",
+        "Establish banana plants as a barrier around the okra cultivation one or two months before planting",
+        "Use virus resistant varieties (Haritha)",
+        "Use good quality seeds",
+        "Use rice straw as a mulch"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Immature leaves turns into light yellow with clear yellow veins",
+        "Complete yellowing of leaf veins",
+        "Stunted growth",
+        "Misshaped and yellowish pods can be seen at the later stage of infection"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy symptomatic okra and other weeds (Hulanthala, Kapukinissa)",
+        "Spray",
+        "Citronell oil or",
+        "Neem oil (1 ml/1 l+teepol 2 ml) one month after planting and repeat in three weeks intervals",
+        "Spray insecticides to control the vector (seed yellow direct control)",
+        "For vector control.",
+        "Acetamiprid 20% SP (10g/10L)",
+        "Thiamethoxam 25% WG (5g/10L)",
+        "Imidacloprid 70% WG (1.5g/10L)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Systemic nionicotinoid.",
+        "Maximum number of sprays per season- not more than two.",
+        "Slightly toxic to predatory mites and other beneficial.",
+        "Spray in early morning when the activity of whitefly is low",
+        "Not classified by",
+        "WHO but considered to be moderately hazardous.",
+        "Systemic neonicotinoid pesticide.",
+        "Very toxic to aquatic organisms.",
+        "Spray in early morning when the activity of whitefly is low",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Systemic neonicotinoid pesticide.",
+        "Highly toxic to bees.",
+        "Do not apply at the flowering stage.",
+        "Maximum number of sprays per season- not more than two.",
+        "Spray in early morning when the activity of whitefly is low"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Okra Yellow Vein Mosaic Virus"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Virus symptoms on leaves (www.jnkv-vegsoft.com)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Virus vector whitefliy (www.usar-agropedias.in)"
+      }
+    ]
+  }
+}

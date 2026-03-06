@@ -1,0 +1,78 @@
+{
+  "title": "Cotton bollworm on sorghum",
+  "sections": {
+    "Header": [
+      "Cotton bollworm on sorghum",
+      "Helicoverpa armigera Guay til in Amharic language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Select and plant loose or open head sorghum varieties because they are rarely attacked by the bollworm.",
+        "Deep ploughing in off-season to expose the pupae of bollworm in the soil to sunlight and natural enemies."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The larvae feed on the sorghum head, monitor for bollworm larvae from head emergence to grain fill once in a week.",
+        "Look for larvae ranging from about 1 cm (small size) to about 4 cm (fully grown larvae) on the sorghum head.",
+        "Choose five different points in ¼ hectare, check 6-10 sorghum heads by beating heads to dislodge the larvae onto a sheet or onto the ground.",
+        "Count them.",
+        "In addition, look for sheared developing grain, and frass in leaf axils and into tight compacted head.",
+        "Consider control measures when larvae are seen on 5 to 10 % of the sampled plant heads.",
+        "The crop is considered heavily damaged when the larvae reach older stage (35-40 mm) and if the infestation is high."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Shaking the plants to induce the larvae to drop into a bucket or other appropriate materials; handpick and kill/crush larvae, in small fields.",
+        "Larvae on open panicles are exposed to predaceous insects and birds.",
+        "Spray on foliar and sorghum head with lambda-cyhalothrin (contact pyrethroids).",
+        "Follow the instructions on the label for use.",
+        "Spray foliar/head with",
+        "Diazinon (contact organophosphate).",
+        "Follow the instructions on the label for use.",
+        "Spray foliar/head with",
+        "Alpha-cypermethrin (contact pyrethroids).",
+        "Follow the instructions on the label for use."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always refer to the updated",
+        "List of registered pesticides by",
+        "Ministry of",
+        "Agriculture of",
+        "Ethiopia.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous to humans).",
+        "Must wear personal protective cloths.",
+        "PHI: 28 days.",
+        "REI: 1 day.",
+        "Toxic to water organisms",
+        "WHO class",
+        "II; moderately hazardous.",
+        "Must wear personal protective cloth.",
+        "PHI: 14 days.",
+        "REI: 1 day.",
+        "Toxic to water organisms.",
+        "Toxic to bees and other pollinators thus do not spray on flowering crop or near bee hives.",
+        "WHO class",
+        "II; moderately hazardous.",
+        "Toxic to water organisms.",
+        "Toxic to bees and other pollinators thus do not spray on flowering oranges or near bee hives.",
+        "Do not harvest for 7 days after last application."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Bollworm larvae feeding on sorghum head (Angus Catchot & Jeff Gore, Mississippi Crops)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cotton bollworm on sorghum"
+      }
+    ]
+  }
+}

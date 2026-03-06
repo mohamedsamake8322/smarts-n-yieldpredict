@@ -1,0 +1,62 @@
+{
+  "title": "Common mosaic of bean",
+  "sections": {
+    "Header": [
+      "Common mosaic of bean",
+      "Bean common mosaic virus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use seed that is certified/free from virus infection.",
+        "Use resistant varieties if available.",
+        "Plant mixtures of bean varieties.",
+        "Establish fields in isolated areas i.e. not near established bean fields or in areas with extensive bean production.",
+        "The virus is transmitted through seed and by aphids; interplant bean with maize to reduce aphid infestation and virus infection.",
+        "Smallholders who save their own seed should:",
+        "Carefully select plants for seed that do not show symptoms of disease.",
+        "Not use seed from plants if most of them show symptoms."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Affected crops:",
+        "Phaseolus species, especially",
+        "P. vulgaris (common, snap or",
+        "French bean) but also",
+        "Lablab purpurea (hyacinth bean) and",
+        "Vigna unguiculata subsp. sesquidpedalis (yard long bean).",
+        "Many pasture legumes are hosts, i.e. they are susceptible to infection.",
+        "Look out for:",
+        "Stunted growth.",
+        "Distorted leaves with dark green areas along the main veins and light green-yellow between ('mosaic' pattern).",
+        "Bubble-like (or blister-like) appearance of the green areas.",
+        "Leaves that curl downwards with rolling of the leaf blade.",
+        "Lack of pods.",
+        "Act as soon as the symptoms are detected in the fields."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot crop plants with symptoms as soon as they are seen.",
+        "After harvest, collect and burn or plough back the diseased crop to destroy the aphids.",
+        "Do not plant new crops next to those that have the disease.",
+        "Do not use insecticides to control the aphids.",
+        "The time is short between an aphid sucking up the virus when it feeds on a diseased plant and spreading the virus as it feeds again on a healthy one.",
+        "By the time the insecticide has killed the aphid it has spread the virus."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bubble-like appearance of leaf blades of a stunted Phaseolus plant (Howard F. Schwartz, Colorado State University, www.bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Mosaic patterns on the leaves of Vigna sp., yard long bean (Grahame Jackson, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Common mosaic of bean"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Thrips on mango",
+  "sections": {
+    "Header": [
+      "Thrips on mango",
+      "Selenothrips rubrocinctus Vithiripi (Kiswahili)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain good cultural practices to increase plant vigour and enhance plant tolerance to thrip damage",
+        "Keep the soil well irrigated and avoid excessive application of nitrogen fertilizers which may promote thrip populations",
+        "Conserve natural enemies by avoiding use of persistent pesticides",
+        "Avoid planting susceptible/ alternative hosts of mango thrips",
+        "Before planting, till the soil to bring the pupae to the surface",
+        "Prune the trees to allow light to penetrate into the ochard",
+        "Establish windbreaks before orchard plantation"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: cashew, grape, guava, avocado, ornamental shade trees",
+        "Look for the silvery sheen on young leaves caused by thrips feeding",
+        "Shake foliage/flowers on to white tray and look for the presence of nymphs with red bands on abdomen/black and elongate adults weekly",
+        "Sticky blue traps can be used to monitor the presence of thrips",
+        "Look for sooty mould symptoms",
+        "When more leaves turn silvery, take action before they turn brown or appear burnt and take action when 4-6 adults are found per flower"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray biological pesticides e.g.",
+        "Metarrhizium anisopliae 62 at a rate of 80ml per acre mixed with wetting agents like",
+        "Aquawet or",
+        "Bauveria bassiana (Botanigard",
+        "ES® or",
+        "Beauvitech",
+        "WP®) at the rate of 10ml per 20L of water",
+        "Use pheromone lures in mass trappings and/or add a contaminant to kill thrips",
+        "Spray neem based products e.g.",
+        "Achook 1.5% at 20-50ml in 20L, 3-4 times/season or",
+        "Nimbecidine at 50ml in 20L, repeated fortnightly"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing",
+        "Follow label instructions on the product",
+        "Always consult recent list of registered pesticides",
+        "Ensure safe disposal of empty containers",
+        "Use",
+        "Chlorpyrifos based products e.g.",
+        "Bullet 48%EC at rate of 40ml/ 20L of water.",
+        "Repeat sprays fortnightly if necessary",
+        "Chlorpyriphos is",
+        "WHO class",
+        "II, Moderately hazardous; PHI 14 days; MRLs 0.01mg/ kg",
+        "Spray",
+        "Imidachloprid based insecticides e.g. (Tata",
+        "Mida 200SL or",
+        "Confidor 200SL at the rate of 10ml/20L of water)",
+        "Imidachloprid",
+        "WHO class",
+        "III Slightly hazardous; PHI 3 days; MRLs 2mg/kg",
+        "Spray",
+        "Lambda cyhalothrin based product e.g.",
+        "Duduthrin 1.7EC @ 60ml/20L)",
+        "WHO Class",
+        "II, PHI = 3 days, MRL 0.02mg/ kg",
+        "Spray with",
+        "Spinosad (tracer 480",
+        "SC) at the rate of 4ml per 20L of water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Scarred mango leaves as result of thrip damage (Scot Nelson, University of Hawaii at Manoa, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Thrips on mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Mango nymphs (Lyle Buss University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Adult mango thrip (Lyle Buss University, Bugwood.org)"
+      }
+    ]
+  }
+}

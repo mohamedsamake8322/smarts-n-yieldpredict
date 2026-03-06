@@ -1,0 +1,65 @@
+{
+  "title": "Halo blight on dry beans",
+  "sections": {
+    "Header": [
+      "Halo blight on dry beans",
+      "Pseudomonas syringae pv. phaseolicola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties e.g.",
+        "GLP 92 (pinto bean), super rose coco, Miezi",
+        "Mbili, etc.",
+        "Plant certified seed from certified dealers.",
+        "Remove and burn crop debris before planting.",
+        "Do a one month soil solarisation to kill bacterial innoculun in known infected soil.",
+        "Rotate with non leguminous crops e.g. maize, cabbages for 2-3 seasons.",
+        "Ensure proper crop nutrition to improve plant vigour.",
+        "Avoid field operations when the leaves are wet.",
+        "Intercrop beans with maize to prevent spread of the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: lima beans, red kidney beans, snap beans, French beans.",
+        "Look out for:",
+        "Small water-soaked spots under the leaves which increase in size to form a characteristic \"halo\" of yellow tissue around the spot.",
+        "Oval greasy water-soaked spots on pods which increase and turn slightly sunken reddish/brown in colour as it progresses.",
+        "Take action when one plant is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy by burning or burying (at least 60cm deep) all infected plants and crop residues.",
+        "To suppress the disease, spray copper oxychloride (cuprocaffaro micro 37.5 at a rate of 50gm/20litres water or",
+        "Isacop 50WP at a rate of 60g/20litres of water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective gear when using a pesticides",
+        "Follow the instructions on the product label and safely dispose empty containers",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Disinfect all farm tools by dipping in 10% jik solution (3.85% sodium hypochlorite) at 50ml per litre of water for at least 5 minutes",
+        "WHO Class",
+        "II (Moderately hazardous) and",
+        "PHI 1 day.",
+        "P.H.I. 14 days, r.e.i. 3 days.",
+        "Usually applied at 40-80 mg per 20 litres and, 2-4kg per hectare, but double-check with product label.",
+        "When used too much, copper(II)-ions can accumulate in soil and water, it can burn leaves.",
+        "Do not use during fruit set"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Halo blight on dry beans"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bacterial blight of beans (Nilanka Herath, Department of Agriculture, Sri Lanka)"
+      }
+    ]
+  }
+}

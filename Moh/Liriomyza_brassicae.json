@@ -1,0 +1,71 @@
+{
+  "title": "Leaf miners on kale - Kenya",
+  "sections": {
+    "Header": [
+      "Leaf miners on kale - Kenya",
+      "Liriomyza brassicae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough early in the season to expose pupae in the soil.",
+        "Destroy crop debris at the end of cropping season to prevent build up of the leafminers.",
+        "Cover the soil with a transparent polythene for 1-2 months before planting to kill pupae in the soil.",
+        "Plant pest-free seedlings.",
+        "Remove weeds as they serve as a reservoir for leafminers.",
+        "Practice crop rotation with maize and other cereals."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crop: cabbage.",
+        "Look out for:",
+        "Small dark flies on the leaves.",
+        "Irregularly shaped mines on the leaves caused by the larvae.",
+        "Black frass within the mines.",
+        "Wilting of the leaves in severe infestations.",
+        "Transparent/yellowish maggots at the broad end of the mines/tunnels.",
+        "Use yellow sticky traps for monitoring adults.",
+        "Take appropriate control measures when 5% of leaves are affected by the mines."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick and burn/ compost the affected leaves.",
+        "Flood the soil to kill pupae.",
+        "Spray with neem based products - Nimbecidine @50ml/20L Achook @ 20ml/20L, Neemrok @ 20-50ml/20L Cover with plastic mulch - use colored polythene.",
+        "Use yellow sticky traps to control of adults."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear suitable protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spray with",
+        "Thiocyclam (Evisect@ 80 g/ Acre, Taurus @10g/20L)",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "PHI 3",
+        "Days.",
+        "Max 3 applications per season.",
+        "Re entry interval - 12hrs."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf miners on kale - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf miner damage to cabbage (James Kimani)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Leaf miner larvae (3mm) before they begin to tunnel into the leaf (Andrei Sourakov)"
+      }
+    ]
+  }
+}

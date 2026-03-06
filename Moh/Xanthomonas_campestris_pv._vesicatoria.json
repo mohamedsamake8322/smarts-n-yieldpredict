@@ -1,0 +1,68 @@
+{
+  "title": "Bacterial spot of eggplant",
+  "sections": {
+    "Header": [
+      "Bacterial spot of eggplant",
+      "Xanthomonas campestris pv. vesicatoria"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified seed free from bacterial spot pathogen.",
+        "Rotate with non-host crops such as maize, beans and peas for at least two seasons.",
+        "Remove severely infected plants.",
+        "Keep crop weed-free.",
+        "Maintain optimal soil fertility to increase crop vigour.",
+        "Observe recommended plant spacing to optimize aeration.",
+        "Destroy infected plant debris after harvesting."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: tomato, potato, pepper, Asian vegetables, melon.",
+        "Look out weekly for:",
+        "Small, yellow-brown, water-soaked lesions with brown-black necrotic centres on above ground plant parts.",
+        "Leaves with sunken upper surfaces and raised lower surfaces.",
+        "Small, circular green lesions on fruit surfaces which turn brown, crack and roughen with age.",
+        "Take action when 5% of plants are infected in 100 plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn severely infected plants."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear protective clothing when handling pesticides",
+        "Carefully follow label instructions",
+        "Dispose pesticide containers responsibly",
+        "Spray bronopol 27% e.g.",
+        "Enrich",
+        "BM (P) ® at the rate of 0.25-0.75kg per acre at the onset of disease and repeat forty nightly",
+        "WHO Class",
+        "II (moderately harzardous):",
+        "Preventive foliar application",
+        "Spray using copper based fungicides e.g.",
+        "Kocide 101, Kocide",
+        "DF or",
+        "Nordox 75WG, at the rate of 0.7kg to 1.4kg per acre",
+        "WHO class",
+        "II (moderately harzardous).",
+        "PHI - 1 day.",
+        "Repeat",
+        "Spraying forty nightly"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms of bacterial spot (Photo: Paul Bachi, University of Kentucky Research and Education Center, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial spot of eggplant"
+      }
+    ]
+  }
+}

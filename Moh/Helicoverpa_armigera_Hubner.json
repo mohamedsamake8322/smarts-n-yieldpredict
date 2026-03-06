@@ -1,0 +1,73 @@
+{
+  "title": "Cotton bollworm on tomato - China",
+  "sections": {
+    "Header": [
+      "Cotton bollworm on tomato - China",
+      "Helicoverpa armigera Hubner"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove tender leaves to reduce cotton bollworm eggs.",
+        "Set up insect nets at ventilation openings of greenhouse.",
+        "Cotton bollworms are attracted to succulent, rank-growing plants; keep water, fertilizer, and plant density at recommended levels to avoid rank growth."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Trap adult in",
+        "May using frequency- vibrancy pest-killing lamp to estimate the peak time of adult.",
+        "Check egg masses every three days in",
+        "June to estimate peak time of eggs."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Lure and kill adult using frequency- vibrancy pest-killing lamp.",
+        "Remove infected fruits.",
+        "BT WP (16000/mg).",
+        "Green lacewing ( Chrysopa spp.) and",
+        "Syrphid fly larvae are a good egg and small larvae predator.",
+        "Augmentation of egg parasites e.g., Trichogramma sp. is effective to keep population below economic injury level",
+        "Apply products containing",
+        "Helicoverpa armigera nucleopolyhedrovirus (HearNPV)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems",
+        "Rotational application of pesticides to avoid resistance",
+        "Use of",
+        "PPEs is mandatory while using chemical pesticides",
+        "Chlorantraniliprole",
+        "WHO Class",
+        "U (Unlikely to present acute hazard), Toxic to bees, PHI: 8 days",
+        "Cyantraniliprole",
+        "WHO Class",
+        "U (Unlikely to present acute hazard).",
+        "Toxic to bees.",
+        "PHI: 3 days",
+        "Lufenuron",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "Low toxicity to bees.",
+        "PHI: 3 days",
+        "Spinetoram",
+        "WHO Class",
+        "U (Unlikely to present acute hazard).",
+        "Toxic to bees.",
+        "PHI: 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cotton bollworm (Source: Baidu photo)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Cotton bollworm on tomato - China"
+      }
+    ]
+  }
+}

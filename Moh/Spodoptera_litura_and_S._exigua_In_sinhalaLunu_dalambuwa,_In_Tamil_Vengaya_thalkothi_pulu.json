@@ -1,0 +1,57 @@
+{
+  "title": "Onion Caterpillars",
+  "sections": {
+    "Header": [
+      "Onion Caterpillars",
+      "Spodoptera litura and S. exigua In sinhala:Lunu dalambuwa, In Tamil: Vengaya thalkothi pulu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of crop residues",
+        "Field sanitation"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular observation for caterpillars at base of the plant and inside leaves.",
+        "Observe for whitening or chlorotic lesions on leaves and dried leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Removal of egg masses and caterpillars"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Insecticide should be applied at the first sign of infestation",
+        "Repeated application may lead to resistance buildup",
+        "Emamectin benzoate 5% SG. 4 g / 10 lit",
+        "WHO class lll",
+        "Chlorfluazuron 50 g/l",
+        "EC. 10 ml /10 lit",
+        "WHO class",
+        "U (IV)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damaged plants (Photo by K.N.C.Gunewardena FCRDI, Maha Illuppallama)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "S. litura larvae (Photo by K.N.C.Gunewardena, FCRDI, Maha Illuppallama)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "S.exigua larvae (Photo by K.N.C.Gunewardena, FCRDI, Maha Illuppallama)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Onion Caterpillars"
+      }
+    ]
+  }
+}

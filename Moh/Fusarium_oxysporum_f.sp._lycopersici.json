@@ -1,0 +1,70 @@
+{
+  "title": "Fusarium wilt on tomato",
+  "sections": {
+    "Header": [
+      "Fusarium wilt on tomato",
+      "Fusarium oxysporum f.sp. lycopersici"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Fusarium wilt is a fungi transmitted by seeds that cause wilt in tomato plants",
+        "Use resistant cultivars if available",
+        "Use non-infected clean seeds from healthy tomatoes, or certified clean seeds/ seedlings from authorized agro-dealer",
+        "Ensure machinery is cleaned with a 10 % chlorine bleach solution before being used in another field, or another area of the same field.",
+        "Also clean shoes and clothes after working if field is infected.",
+        "If soil is acidic, adjust soil pH to 6.5-7 using a nitrate (e.g. calcium nitrate) rather than using an ammonium nitrogen source, to reduce the incidence of disease",
+        "Keep the soil well irrigated.",
+        "Dry weather and low soil moisture can encourage disease spread",
+        "However, avoid furrow and flood irrigation because water can move this disease (if using furrow irrigation ensure that water flows from fields not infected).",
+        "Keep the field clear of weeds since they can host the disease",
+        "Avoid damaging the roots of tomato plants.",
+        "The pathogen can enter through cuts and breaks",
+        "Control nematodes since they make resistant cultivars susceptible to the disease (see the 'Root knot nematodes on tomato' green list)",
+        "Carry out crop rotations of up to 5-7 years with non-susceptible crops such as wheat and rapeseed.",
+        "The pathogen can remain in the soil for years",
+        "After harvest, solarize the soil, leaving a clear plastic sheet on the soil surface for 4-6 weeks during the hottest part of the year.",
+        "This will help eliminating the fungi in the soil"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Symptoms often appear later in the growing season and are first noticed on the lower (older) leaves",
+        "Look out for:",
+        "Leaves: yellowing and drooping of lower leaves, often occurring on one side of the plant or on one shoot.",
+        "Gradually more leaves yellow, wilt and die, usually before the plant reaches maturity",
+        "Whole plant: stunted growth and little or no fruit",
+        "Root and sometimes stem rotting",
+        "To confirm for the disease, cut the stem and look for the presence of dark brown streaks running lengthwise through the stem",
+        "Consider taking control measures as soon as symptoms are noticed",
+        "Ensure that symptoms are caused by fusarium wilt and not bacterial wilt which induces similar symptoms.",
+        "Plants affected by bacterial wilt produce a milky exudate from stem pieces placed in water"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pull infected plants and destroy by burning (if allowed in your area).",
+        "Alternatively place in trash.",
+        "Be sure to destroy/get rid of any plant residues so that they are not left to harbour and spread the disease.",
+        "Do not compost.",
+        "Apply a heavy mulch to lower soil temperature and slow the growth of the pathogen"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Fusarium wilt symptoms in tomato stem (photo by Jim Correll)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Fusarium wilt symptoms on tomato leaf (photo by Jim Correll)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Fusarium wilt symptoms on tomato plant in field crop (photo by Jim Correll)"
+      }
+    ]
+  }
+}

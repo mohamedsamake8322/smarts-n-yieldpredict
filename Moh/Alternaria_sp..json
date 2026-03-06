@@ -1,0 +1,81 @@
+{
+  "title": "Leaf spot of Tree Tomato",
+  "sections": {
+    "Header": [
+      "Leaf spot of Tree Tomato",
+      "Alternaria sp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant clean planting materials from",
+        "KALRO Embu and nurseries registered by",
+        "HCD and inspected by",
+        "KEPHIS Avoid plant injury during transplanting",
+        "Maintain proper spacing of 2m x 3m",
+        "Avoid planting near related crops e.g. tomatoes, eggplants, potatoes",
+        "Maintain optimal crop fertility by applying manure and fertilizer as per soil test recommendation to ensure plant vigour",
+        "Keep the farm weed free",
+        "If irrigating, do it early in the morning to ensure drying of the foliage to lower humidity.",
+        "Destroy and bury infected crop debris 3 feet deep after harvesting",
+        "Rotate crop with non-Solanaceae family plants e.g. maize, beans and peas for at least 2 seasons"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Small dark brown to black spots on lower shaded leaves, stems and fruit",
+        "Spots that are brown and leathery with faint concentric rings, which later become uneven",
+        "Take control measures when one plant shows spots."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune and destroy by burying affected leaves and old leaves 3 feet deep, to reduce inculum.",
+        "Spray with",
+        "Azoxystrobin based fungicides e.g.",
+        "Ortiva or",
+        "Milestone @20ml/20L of water",
+        "Spray mancozeb e.g.",
+        "Farmcozeb @ 50 g per 20",
+        "L of water",
+        "Copper-based fungicide e.g. copper oxychloride (Amicop 50WP or",
+        "Cobox 50WP @ 60g per 20l water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear protective clothing when using pesticides.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, maximum number of sprays, restricted re-entry interval",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use).",
+        "Spray fortnightly.",
+        "Maximum 2 sprays/season.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "MRLs 0.5mg/kg.",
+        "REI 12hrs.",
+        "Repeat fortnightly.",
+        "Maximum 2 sprays/season.",
+        "Toxic to acquatic organisms.",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "PHI 7 days, REI 24hrs.",
+        "Spray fortnightly.",
+        "Maximum 2 sprays/season.",
+        "Toxic to acquatic organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf spot of Tree Tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown leathery spots with faint concentric rings, which later become uneven (photo: Hannah Oduor, MOALF)"
+      }
+    ]
+  }
+}

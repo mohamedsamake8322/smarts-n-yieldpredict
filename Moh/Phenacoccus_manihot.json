@@ -1,0 +1,85 @@
+{
+  "title": "Cassava mealybug",
+  "sections": {
+    "Header": [
+      "Cassava mealybug",
+      "Phenacoccus manihot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prepare land well by burning or burying volunteer cassava plants more than 50cm deep",
+        "Avoid planting cassava on the same piece of land for more than three years",
+        "Use clean, uninfested cassava planting material",
+        "Plant early in the rainy season to allow the plant to establish before the dry season to enable the plants to tolerate mealybug infection",
+        "Plant in fertile soil or improve the fertility (68 kg",
+        "N/ha, 45 kg",
+        "P 2",
+        "O 5 /ha and 68 kg",
+        "K 2",
+        "O/ha) by using manure (2kg/m 2 ) or fertilisers to improve general health",
+        "Practise crop rotation with maize or legumes",
+        "Restrict movement of infested planting materials across borders"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits to the farm at least fortnightly to look for signs and symptoms of the mealybugs",
+        "Observe shoot tips, leaves and stems for white waxy material",
+        "Look out for shoot tips with \"bunchy tops\" Look out for the presence of sooty moulds on shoots, tips, leaves and stems",
+        "Look for the presence of ants which feed on the honeydew secreted by the mealybug",
+        "Look out for curlings of the margins of leaves",
+        "Look for complete defolation of the cassava plant",
+        "A single",
+        "P. manihoti is enough to start an outbreak so apply a direct control as soon as it is observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infested plants or plant parts at early stages of infestation",
+        "Prune stems or leaves with high infestation and burn or bury more than 50 cm deep",
+        "Mix 5g of soap (alata samina) + 5g of powdered pepper in 1 liter of water and allow to stay for about 30 minutes.",
+        "Pour the mixture into knapsack and apply in 15 litres of water",
+        "Apply neem oil e.g.",
+        "Grow-safe.",
+        "Add 10ml soap to 1litre of water and stir to mix.",
+        "Add 50ml neem oil to the 1 litre water-soap solution and mix thouroughly.",
+        "Add the oil- water-soap solution to 14ltr water in the knapsack and apply within 8hrs.",
+        "Ensure thorough coverage"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Pesticide use is not recommended for this pest because they destroy the natural enemies",
+        "When infestation is severe, apply chlorpyrifos ethyl 480g/l (e.g. rainchlopyr, Farin 200EC).",
+        "Apply 20mls/15l knapsack as full coverage and repeat when necessary.",
+        "Organophosphate contact insecticide; IRAC Group:1B",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Do not enter treated areas within 4hrs after application, PHI is 7 days; highly toxic to fish and aquatic organisms do not spray near waterways"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cassava stem distorted by cassava mealybug (CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adults of cassava mealybug (G Georgen IITA, Benin from CABI CPC)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cassava shoot tip (bunchy top) caused by cassava mealybug (CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cassava mealybug"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Red rot of Sugarcane",
+  "sections": {
+    "Header": [
+      "Red rot of Sugarcane",
+      "Colletotrichum falcatum ( Glomerella tucumanensis ) Akher Lal patcha rog"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use a tolerant/ resistant variety, e.g.",
+        "ISD20-ISD40, ISD41, ISD42",
+        "Crop rotation: practise at 2-year intervals growing a non-grass crop",
+        "Collect seed setts from disease free field; or use certified seed setts; or hot air treatment of setts at 54°C & 95% humidity for 4hrs; or hot water treatment at 50-52°C for 2 hrs; or treat setts with fungicide (see yellow section)",
+        "Use balanced fertilizer",
+        "Field sanitation & proper weed control especially grass weeds",
+        "Avoid ratoon crops",
+        "Control sugarcane borers",
+        "Maintain good drainage system in the field",
+        "Do not allow irrigation water to flow from diseased fields to healthy fields",
+        "Avoid low land for sugarcane cultivation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field visit every week to look for the diagnostic symptom: red streak with ash grey center in the mid rib",
+        "Observe withering of the 3rd & 4th leaves from the top; later the whole plant may droop",
+        "Look out for alternate reddish and whitish lesions inside the stem when you have split it longitudinally",
+        "Disease spreads in hot weather"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Roguing of infected plants at early crop stage and destroy through burning"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear correct clothes when handling pesticides",
+        "Wash after handling pesticides",
+        "Don’t eat while handling pesticides.",
+        "Don’t smoke.",
+        "Sett treatment with",
+        "Carbendazim @ 0.1% for 30 mins.",
+        "WHO U; FRAC 1"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Red rot of Sugarcane"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Tissue discoloration and profuse greyish mycelial growth in the cavities within the affected stalk. Photo by R. Viswanathan"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "External symptom: Varying intensities of rind discolouration in red rot affected stalks. Photo by R. Viswanathan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Termites on sugarcane and cassava",
+  "sections": {
+    "Header": [
+      "Termites on sugarcane and cassava",
+      "Odontotermes obesus Karaiyaan"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing with a chisel plough.",
+        "Flooding the field before planting.",
+        "Locate the termite mounds/termitarium and destroy colonies.",
+        "Reduction of size of field bund.",
+        "Maintain the width of field bund at 30 cm.",
+        "Maintain suitable field sanitation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor for termite mounds during dry weather periods.",
+        "Symptoms include semi-circular feeding marks on the margin of the leaves, damage to canopies and drying of central shoots. 15% of dried central shoot is considered a trigger to action the direct control recommendations.",
+        "Monitor for the presence of loose soil, deposits of pressed mud and movement of worker temites."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Collection and destruction of the termite affected setts from the field.",
+        "Pour the juice of immature papaya fruit on termite mounds (100 ml of papaya juice dissolved in 5 litres of water per mound).",
+        "Mixing of botanicals consist of",
+        "Calatropis and",
+        "Kheemp at a rate of 5 litres per acre in irrigation channels.",
+        "Spraying of",
+        "Pseudomonas fluorescens at a rate of 10 g per litre or spraying of",
+        "Bacillus thuringiensis 5 ml per litre of water.",
+        "Spraying of",
+        "Metarrhizium anisopliae 2 grams per litre on termite mounds.",
+        "Spraying of",
+        "Bacillus thuringiensis 5 ml per litre of water on the termite mounds and also on the infected root portions."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Avoid spraying of resurgence causing insecticide.",
+        "Always wear protective clothing when handling chemicals.",
+        "Pouring of",
+        "Imidacloprid 17.8%SL (Trade",
+        "Name: eg.",
+        "Confidor, Atom, Imida",
+        "Gold) 1 ml/litre into the mounds.",
+        "Dip the setts in",
+        "Imidacloprid 70WS (Trade",
+        "Name: eg.",
+        "Gaucho 70",
+        "WS, Chemida70WS) 1 ml per litre of water.",
+        "Sprayig of",
+        "Fipronil 5% SC (Trade",
+        "Name: eg.",
+        "RegentSC, Devigent plus, Fipro) at a rate of 350 ml per acre.",
+        "Spraying of",
+        "Imidacloprid 17.8%SL (Trade",
+        "Name: eg.Confidor, Atom, Imida",
+        "Gold) at a rate of 100 ml/acre.",
+        "Spraying of",
+        "Thiamethoxam 25% WG (Trade",
+        "Name: eg.",
+        "Actara, Click, Evident) at a rate of 50 g per acre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Imidacloprid - WHO II (moderately hazardous).",
+        "Imidacloprid - WHO II (moderately hazardous).",
+        "Fipronil - WHO II (moderately hazardous)",
+        "Imidacloprid - WHO II (moderately hazardous).",
+        "Not listed in the",
+        "WHO guidelines."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Medium-sized termite mound (Whitney Cranshaw, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Odontotermes spp. (JMK, Wikimedia Commons)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Termites on sugarcane and cassava"
+      }
+    ]
+  }
+}

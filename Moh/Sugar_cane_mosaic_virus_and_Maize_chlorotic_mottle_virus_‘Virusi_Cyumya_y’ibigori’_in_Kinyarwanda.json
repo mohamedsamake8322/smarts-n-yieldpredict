@@ -1,0 +1,88 @@
+{
+  "title": "Maize lethal necrosis disease",
+  "sections": {
+    "Header": [
+      "Maize lethal necrosis disease",
+      "Sugar cane mosaic virus and Maize chlorotic mottle virus ‘Virusi Cyumya y’ibigori’ in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seeds available from",
+        "RAB and seed multipliers",
+        "Plant early (September-October in",
+        "A season and",
+        "February-March in",
+        "B season) with manure and fertilizers (100Kg of",
+        "DAP/ha or 250Kg of",
+        "NPK/ha at planting; and 100Kg/ha of urea 45 days later)",
+        "Crop rotation for at least two seasons with non-cereal crops (beans, potato or vegetables)",
+        "Avoid moving plants from infected to non-infected regions to reduce spread of the disease",
+        "Control of insect vectors suchas thrips and leaf beettles",
+        "Good weeding to reduce insect attacks in the field",
+        "Avoid planting too much maize in season",
+        "B (February-March) when the risk is higher"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect the field every 3 to 4 days a week",
+        "Look for plants with typical symptoms (stunting, yellowing and necrosis of young leaves, leaves yellowing from the center of the maize plant outward, drying of the leaf edges, empty cob or poor grain formation, premature drying of maize husks).",
+        "Inspect the field for vectors and examine plants early in the mornings before 11.00",
+        "AM and after 3.00",
+        "PM as thrips tend to hide underneath the leaves when temperatures are high",
+        "Threshold:",
+        "Take action when one infected plant is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and destroy plants with typical symptoms.",
+        "Bury 1 m deep (Farmers can use the maize stalk)",
+        "Lambda-cyhalothrin to control vectors @ rate of 10 ml/20",
+        "L of water.",
+        "Cypermethrin 4% +Profenofos 40% (Rocket, Jacket) @ rate of 1-2ml/1L of water",
+        "Pyrethrum 5% EWC@ rate of 8 ml/1L ofwater"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical control against viruses",
+        "Use of pesticides to control vectors (whiteflies) on cassava is not pratical: insecticides can kill natural enemies such as",
+        "Apoanagyrus lopezi (released before 1990 to control cassava mealybugs) and",
+        "Typhlodromalus aripo (natural enemy of cassava green mites).",
+        "Wear always",
+        "Personal",
+        "Protection equipments (PPE) and follow the instructions on the product label.",
+        "Respect and follow laws regulating pesticides use in",
+        "Rwanda.",
+        "WHO Class",
+        "II (Moderately hazardous); Mode of action: pyrethroid, quick acting pesticide with contact and stomach action.",
+        "Flammable.",
+        "PHI 14 days",
+        "WHO Class",
+        "II (Moderately hazardous); Mode of action: pyrethroid, quick acting pesticide with contact and stomach action.",
+        "PHI 14 days",
+        "Not classified by",
+        "WHO but it is registered and recommended in",
+        "Rwanda.",
+        "It is a contact insecticide with",
+        "PHI of 24 hours."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize lethal necrosis disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Maize with MLND (C. Ngaboyisonga, RAB)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Maize with MLND (C. Ngaboyisonga, RAB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Green gram pod borer",
+  "sections": {
+    "Header": [
+      "Green gram pod borer",
+      "Maruca vitrata"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant early and avoid planting the crop very close to each other",
+        "Practise deep ploughing and harrow to kill larvae/pupae or expose them to direct sunlight and predators",
+        "Plant castor crop (barrier crop) in 3 rows with close spacing (50cm) around the field, one month earlier before planting green grams",
+        "Remove and destroy volunteer green gram plants which may harbour the pod borer",
+        "Rotate or intercrop green gram with non host crop e.g. maize, sourghum, millet or sunflower"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the crops frequently as there is only a brief period from hatching to entering buds or pods",
+        "Check for damaged pods which have small, darkened circular entry holes",
+        "Inspect the leaves, buds and pods which are mostly webbed together.",
+        "The caterpillar feeds inside the web",
+        "Look out on flowers for any discolouration and damaged or missing reproductive parts",
+        "Take action when damage holes are seen on 2-4 plants"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick and destroy caterpillars.",
+        "This helps when their numbers are low and in small fields",
+        "Remove and destroy by burning or burying in a 30 cm pit all affected plants",
+        "Install pheromone traps 50 m apart @5 traps/ha, install bird perches @50/ha from the beginning of pod maturity",
+        "Create a conducive environment for natural enemies (e.g lady bird beetles, spiders, praying mantis etc.) to multiply by growing hedges of flowering plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides (PCPB)",
+        "Spray with",
+        "Azadirachtin 1% @3 ml/l or 5% @1 ml/l (like",
+        "Achook 0.15% EC, Fortune",
+        "AZA, Neemraj",
+        "Super, Nembecidine",
+        "EC, Ozoneem 1% EC)",
+        "WHO Class",
+        "U.",
+        "Product unlikely to present hazard under conditions of normal use.",
+        "PHI: 3 days.",
+        "REI: 1 day.",
+        "No more than 1 spray during flowering.",
+        "Toxic to bees and aquatic",
+        "Acetamiprid 35g/L + Lambda- cyhalothrin 15g/L (Kingcode",
+        "Elite 50",
+        "EC) at 10ml/20L.",
+        "WHO Class",
+        "II.",
+        "Moderately hazardous.",
+        "Yellow colour band.",
+        "PHI: 5 days.",
+        "REI: when spray dries",
+        "Spray with",
+        "Lambda-cyhalothrin 17.5g/L (like",
+        "Tata",
+        "Umeme 2.5",
+        "EC, Duduthrin 1.75EC, Duduthrin super",
+        "EC, Kingcode 5% EC, Pentagon 5% EC, Karate)",
+        "WHO Class",
+        "II.",
+        "Moderately hazardous.",
+        "Yellow colour band.PHI: 8 days.",
+        "REI: when spray dries;"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult pod borer moth (Don Herbison-Evans, University of Sydney, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Green gram pod borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pod borer larvae inside a damaged pod (Merle Shepard, Gerald R.Carner, and P.A.C Ooi, Insects and their Natural Enemies Associated with Vegetables and Soybean in Southeast Asia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Pod borer larvae damage (Ko Ko Maung, Bugwood)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Bacterial leaf blight of rice",
+  "sections": {
+    "Header": [
+      "Bacterial leaf blight of rice",
+      "Xanthomonas oryzae pv. Oryzae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant/tolerant varieties.",
+        "Regularly weed.",
+        "Species of",
+        "Leersia are considered to be the main weed host.",
+        "Use moderate amounts of fertilizer - 80-100 kg",
+        "N/ha is suggested, depending on local conditions.",
+        "Too much nitrogen increases shoot and leaf production and promotes disease development because of higher humidity.",
+        "When taking seedlings from the nursery ease them out gently with roots intact and do not clip leaves.",
+        "Damage could increase susceptibility to the disease.",
+        "Ensure good drainage of fields and nurseries.",
+        "Floodwater spreads the bacterial leaf blight between plants.",
+        "Only use plants without symptoms for seed production."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Seedlings: leaves show grey-green streaks starting from the tips and margins; later the streaks join together, turn yellowish-white with wavy edges, dry up and die.",
+        "Older leaves: pale yellow steaks with wavy margins from the tips towards the base.",
+        "Leaves then die.",
+        "Leaves:",
+        "Small milky drops of liquid (bacteria) ooze from the streaks on the leaves, later drying as a crust.",
+        "To check that bacteria are present in the leaves, cut a leaf across a young streak and place the cut end in a glass of water: if bacteria are present a cloudy liquid will stream out.",
+        "Streaks also occur on the leaf sheaths and the stems of susceptible varieties.",
+        "Bacterial leaf blight produces wavy leaf streaks whereas bacterial leaf blight produces wavy leaf streaks.",
+        "Squeeze the low part of the plant - if a yellow liquid oozes from the ends of cut leaves, the cause is bacterial leaf blight and not stem borer damage."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Plough land to bury rice stubble, straw, rattoon plants and volunteer seedlings.",
+        "Bacteria causing this disease do not live long in the soil."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bacterial leaf blight symptoms in the field (IRRI Photos, Flickr)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Pale yellow-whitish streaks caused by bacterial leaf blight on the leaves, showing wavy margins (Donald Groth, Louisiana State University AgCenter, www.bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial leaf blight of rice"
+      }
+    ]
+  }
+}

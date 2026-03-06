@@ -1,0 +1,66 @@
+{
+  "title": "Melon fruitfly",
+  "sections": {
+    "Header": [
+      "Melon fruitfly",
+      "Bactrocera cucurbitae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Cultural practices, hoeing up to one month of sowing of crops.",
+        "Bagging of fruits."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Pest scouting twice a week after start of fruiting.",
+        "Weather conditions are favourable at 20°C and above.",
+        "Check for infected fruits and maggots in the fruits; maggots are white in colour.",
+        "Observe flying adults on the plants; adults are reddish brown in colour.",
+        "Install pheromone traps to check the pest status.",
+        "Apply direct controls if 2-5 infected fruits are found out of one hundred fruits."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Methyl eugenol and",
+        "Cue lure traps in field @ 8/acre and change after 15 days.",
+        "Protein hydrolysate baits installed @ 8/ acre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spinosad + Methyl",
+        "Eugenol (Static",
+        "Spinosad",
+        "ME 53% RB (2% + 51%) @ 120 gm per acre.",
+        "WHO class",
+        "III (Slightly hazardous).",
+        "WHO class",
+        "III (Slightly hazardous).",
+        "Number of sprays dependent on pest attack; use recommended measures on label.",
+        "Spray of entire tree (need powerful machine) with",
+        "GF-120 (Active",
+        "Ingredient:",
+        "Spinosad).",
+        "Add 0.5",
+        "L of",
+        "GF-120 to 3.5-4.5",
+        "L water to make 4-5",
+        "L of solution.",
+        "This is enough to spray 1 acre."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Melon fly (Scott Bauer, USDA Agricultural Research Service, bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Melon fruitfly"
+      }
+    ]
+  }
+}

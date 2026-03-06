@@ -1,0 +1,88 @@
+{
+  "title": "Maize ear rots and mycotoxins",
+  "sections": {
+    "Header": [
+      "Maize ear rots and mycotoxins",
+      "Fusarium and Aspergillus species"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean seed for planting.",
+        "If saving own seed, discard mouldy ears.",
+        "Use varieties of maize with a tight husk.",
+        "This will help to limit bird and insect feeding damage on ears, which allows",
+        "Aspergillus and",
+        "Fusarium to become established.",
+        "Control insects attacking ears to reduce fungal ear infections.",
+        "Maintain good soil fertility and avoid water stress to strengthen the ability of maize plants to limit infections of",
+        "Aspergillus and",
+        "Fusarium .",
+        "Remove plant debris and practice crop rotation with non- hosts (such as vegetables) in order to reduce fungal inoculum in the field.",
+        "When harvesting maize, avoid damaging the grains, to prevent invasion by fungi.",
+        "Do not harvest and store rotten maize cobs.",
+        "Reject those with a mouldy appearance.",
+        "If not possible, remove at least the mouldy part of the ear before storage.",
+        "Dry maize grain on a raised platform or over a plastic sheet or tarpaulin.",
+        "Do not dry directly on the ground.",
+        "Store the grain in cool and dry conditions."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: cassava, soybean, sorghum, groundnut, wheat and other grain crops.",
+        "Inspect the field weekly after flowering.",
+        "Take action as soon as 1-2 in 10 plants per acre have ear rot.",
+        "Aspergillus symptoms include:",
+        "A yellow-green (sometimes brown to black) mould on maize ears.",
+        "The mould is similar in appearance to that found on decaying food.",
+        "Powdery appearance due to the production of millions of spores.",
+        "Fusarium symptoms:",
+        "Ear rot with mouldy growth occurring between the ear and the husk (enclosing leaves).",
+        "Symptoms usually start at the tip of the ear and advance downwards.",
+        "Sometimes the whole ear becomes rotten.",
+        "The mould is red to pink and more cottony or woolly when compared to",
+        "Aspergillus .",
+        "Both",
+        "Fusarium and",
+        "Aspergillus may be present on maize without producing moulds or other visible symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and bury severely infected cobs during crop growth to prevent spread to uninfected cobs.",
+        "Do not feed infected cobs to animals because these cobs are poisonous.",
+        "Aspergillus and",
+        "Fusarium produce mycotoxins that are toxic to humans and animals.",
+        "Spray the maize cobs with seed extract of neem to inhibit fungal growth.",
+        "For controlling",
+        "Aspergillus use",
+        "Aflasafe™:",
+        "Consists of sterile sorghum grains carrying a non-mycotoxin producing strain of",
+        "Aspergillus which excludes mycotoxin producing",
+        "Aspergillus from the field.",
+        "Follow manufacturer's instructions.",
+        "Under severe infection, harvest early in dry conditions.",
+        "Dry the grain and destroy mouldy ears and crop residues.",
+        "Aspergillus and",
+        "Fusarium persists on dead and decaying material and develops and spreads in damp conditions."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Unidentified fungal mould on ear rot, a potential source of mycotoxins (Eric Boa)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Maize cob with Apergillus ear rot showing yellow powder on surface of damaged grains (Purdue university)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize ear rots and mycotoxins"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Diseased maize cobs with discoloured grains and yellowish powder (CIMMYT)"
+      }
+    ]
+  }
+}

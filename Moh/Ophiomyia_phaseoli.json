@@ -1,0 +1,60 @@
+{
+  "title": "Bean fly",
+  "sections": {
+    "Header": [
+      "Bean fly",
+      "Ophiomyia phaseoli"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "It is essential to control bean fly during the first four to five weeks after germination as it causes high economic yield loss in the seedling stage, especially during the dry season:",
+        "Plant early in the season, 3-5 days after the onset of the rains",
+        "Mulch with dry banana leaves, grass, rice straw and other similar plant straw to promote root development and enhance tolerance to maggot damage",
+        "Don't plant leguminous crops next to each other such as common beans, cowpea, soybean, mung bean and peas",
+        "Ridge up the soil around the plants to cover the roots 2-3 weeks after germination to allow roots to grow more quickly",
+        "Encourage natural enemies presence in the fields by planting flower stripes and by not using pesticides",
+        "Remove and destroy volunteer crops",
+        "Frequently irrigate to reduce water stress and strengthen plant to better tolerate the bean flies",
+        "Crop rotation with non leguminous crops",
+        "Avoid overlapping bean crops in the season to reduce build-up"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: cowpea, soyabean, pigeon pea, common bean, mungbean, peas",
+        "Look for small black flies of 2 mm on bean leaves from plant emergence up to 2-leaf stage of plants",
+        "Look for tiny yellow feeding and oviposition punctures on the basal portion of the upper side of leaves",
+        "Stem:",
+        "Search for thickening of the stem at soil level which is made by the the fly larvae feeding inside.",
+        "Upon cutting the stem open, a brown or dark feeding area of damaged tissue can be seen just underneath the epidermis.",
+        "This portion will contain larvae and pupae.",
+        "Whole plant: yellowing, wilting, stunting and dying of young plants (2-3 leaf stage)",
+        "Take control measures when 5-10% of the plants are infested"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn withered and dead infested plants to kill the larvae and pupae",
+        "Spray using neem-based products early in the morning or late evening on the plants",
+        "Remove and destroy crop residues as maggots and pupae live in the bean stems."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult Ophiomyia phaseoli (James Litsinger)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaves show feeding and oviposition punctures on the upper side with corresponding light yellow spots (James Litsinger)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bean fly"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "When attack is severe, infested leaves become blotchy and later hang down. Leaves may dry out and be shed (James Litsinger)"
+      }
+    ]
+  }
+}

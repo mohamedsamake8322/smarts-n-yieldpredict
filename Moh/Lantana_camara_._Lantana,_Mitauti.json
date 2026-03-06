@@ -1,0 +1,74 @@
+{
+  "title": "Lantana camara in pastures",
+  "sections": {
+    "Header": [
+      "Lantana camara in pastures",
+      "Lantana camara . Lantana, Mitauti"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean pasture seed to reduce the chance of contamination",
+        "Remove all existing hedges by cutting and digging out the roots (15cm depth) from farms"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Perennial woody shrub, 2-5m high, erect or scrambling.",
+        "Branches with small thorns.",
+        "Leaves are yellow-green to green, rough, 2-12cm in length.",
+        "Flowers multicolored (yellow, orange, white, pale violet, pink or red), in dense clusters ca. 4 cm across.",
+        "Fruits are round, fleshy, 2-seeded, each 5mm wide, green turning purple then blue-black.",
+        "Arranged in dense, round clusters"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Removal of small infestations may be possible by cutting and digging out the roots (15cm depth)"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Cut the hedge to the soil level and allow for respouting during the rainy season.",
+        "Apply glyphosate to the active growing shoots/sprouts at 6L per ha after 4 weeks",
+        "Apply 2,4",
+        "D amine, at 2L/ha foliar application to actively growing stage, followed by digging out the roots",
+        "Cut the top of",
+        "Lantana, and apply",
+        "Tordon (Picloram 65g/L + 2,4-D 240g/L) mixed with diesel using low pressure sprayer targetting the stump to kill the roots and avoid drifts"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Glyphosate:",
+        "WHO Class",
+        "III (slightly hazardous)",
+        "After using 2,4-D in established pastures, allow 48 hrs before returning livestock. 2,4-D:",
+        "WHO Class",
+        "II (moderately hazardous)",
+        "Tordon:",
+        "WHO Class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Lantana camara in pastures"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Lantana flower and leaves (© CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Lantana infestation (© Dan Clark, USDI National Park Service, Bugwood.org)"
+      }
+    ]
+  }
+}

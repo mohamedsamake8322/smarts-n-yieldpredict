@@ -1,0 +1,61 @@
+{
+  "title": "Styler end rot disease in guava",
+  "sections": {
+    "Header": [
+      "Styler end rot disease in guava",
+      "Phomopsis psidii Sinhala - Phalaagraya kunuweema; Tamil – Koiya mukil adi alukal noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain recommended plant spacing (5-6m x 5-6m)",
+        "Follow soil test based fertilizer application",
+        "Cover fruits with paper bags 3-4 weeks after fruit setting",
+        "Maintain good field sanitation",
+        "Prevent fruit injuries",
+        "Prune excess and damaged branches to facilitate aeration and sunlight"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe discoloration of the region lying just below and adjoining the persistent calyx as a first visible symptom",
+        "Observe shrinking of fruits and concentric wrinkles on fruits during later infection",
+        "Observe discoloration of internal tissue in severe infected fruits"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected fruits",
+        "Chlorothalonil 500g/L SC.",
+        "Rate of dilution 30ml/ 10L of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply a fungicide once only at the initial stage of the fruit / before bagging fruits",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites, fish and earthworms",
+        "Mancozeb 75% WG.",
+        "Rate of dilution 20g/ 10 lit. of water",
+        "WHO Class",
+        "U.",
+        "Toxic to parasitoids and fish and moderately toxic to predatory mites"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Styler end rot disease in guava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Infected fruit. M.Kuruppu"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Inside appearance of the diseased fruit. vnrnursery.in"
+      }
+    ]
+  }
+}

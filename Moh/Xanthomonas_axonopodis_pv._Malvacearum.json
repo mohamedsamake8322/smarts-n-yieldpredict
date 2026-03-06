@@ -1,0 +1,59 @@
+{
+  "title": "Bacterial Blight of Cotton or Angular leaf spot of cotton",
+  "sections": {
+    "Header": [
+      "Bacterial Blight of Cotton or Angular leaf spot of cotton",
+      "Xanthomonas axonopodis pv. Malvacearum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Keep the canopy as open as possible to reduce humidity and promote drying of the foliage.",
+        "Do not cultivate or move equipment through fields when foliage is wet.",
+        "Plant high-quality, disease free, resistant, acid delinted seed.",
+        "Shred stalks and incorporate cotton debris.",
+        "Continue to irrigate as needed to meet crop demands, but do not over-irrigate.",
+        "Maintain good insect control to minimize the possibility of infection through wound.",
+        "Do not over fertilize.",
+        "Lush, rank foliage will contribute to higher humidity in the canopy, a longer period of leaf wetness, and will enhance infection.",
+        "Bury stubble rather than minimum tillage practices.",
+        "Rotate the crops preferably with corn, grain sorghum, peanut and soybean.",
+        "Crop rotation for one or more years will help control this disease.",
+        "Clean cultivation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The cotton variety, seed lot and a rating as to disease severity should be determined.",
+        "Scout fields and identify infected plants and varieties.",
+        "Check for infected leaves that have angular, dark-green water-soaked spots with a red to brown margin that will eventually turn dark-brown or black due to death of the infected tissues.",
+        "Disease can be spread by equipment or people moving through the field when the leaves are wet.",
+        "Avoid running ground rigs through or scouting fields when the foliage is still wet."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Once cotton has been deemed to be infected by the bacterium there are no curative measures that can be taken.",
+        "Spray streptomycin @30 mg concentration"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "EPA has classified as",
+        "Toxicity",
+        "Class – IV relatively non- toxic.",
+        "Spray when disease symptoms appear immediately."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Angular leaf spot of cotton. Photo: Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org, CC BY"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Blight of Cotton or Angular leaf spot of cotton"
+      }
+    ]
+  }
+}

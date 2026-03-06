@@ -1,0 +1,61 @@
+{
+  "title": "Stem and pod rot of groundnut",
+  "sections": {
+    "Header": [
+      "Stem and pod rot of groundnut",
+      "Athelia rolfsii"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Grow crop on land without previous history of the disease, if possible.",
+        "The fungus survives a long time in soil.",
+        "Never plant groundnut straight after crops of tomato, Capsicum or beans, as the fungus commonly attacks those crops and it may be present in the soil.",
+        "Add mulch to the soil, such as corn or sorghum straw.",
+        "This possibly increases certain organisms in the soil that compete with the stem and pod rot fungus.",
+        "Keep the soil well fertilized as nitrogen inhibits the fungus.",
+        "Remove weeds, but take care not to wound crop plant stems as it would allow entry of the fungus.",
+        "After harvest, collect and remove plant debris.",
+        "Burn it, or bury it to at least 20-30cm deep to kill the fungus.",
+        "Use a 2-3-year rotation between crops of groundnut on the same land; e.g. rotate with maize, sorghum, cassava or yam."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: legumes, solanaceous crops (tomato, potato, capsicum), cucurbits (pumpkin, squash).",
+        "Monitor for symptoms at least once a week.",
+        "Dark-brown spots on the stems just below soil level.",
+        "Yellowing and wilt of a single branch and, after a few days, the wilt of the entire plant.",
+        "Cottony growth of the fungus on the lower stem and, sometimes, over the soil surface (spreads from plant to plant in warm wet weather.)",
+        "Rotting pods.",
+        "Hardened round lumps of fungus, 0.5-2 mm diameter.",
+        "White at first, becoming light brown."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If plants are beginning to wilt, remove the plants together with the soil around the roots.",
+        "Burn them or bury to 20-30cm deep.",
+        "Try not to drop soil or lumps of fungus on other crop plants to avoid spreading it.",
+        "Some biological agents could suppress the disease, e.g.",
+        "Trichoderma harzianum , Gliocladium virens , Trichoderma viride , Bacillus subtilis , and",
+        "Penicillium spp.",
+        "After harvest, use soil solarization to kill the fungus.",
+        "Cover moistened soil with a clear polyethylene sheet during hot weather.",
+        "The fungus will be killed in 4-6 hours at 50°C and in 3 hours at 55°C."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Dense white mycelial growth and brown sclerotia of Sclerotium rolfsii, causing southern stem rot of peanut (North Carolina State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Sclerotia of the fungus Athelia rolfsii on groundnut stem – at first white, later light brown (Source: Grahame Jackson, CABI, CC BY 4.0)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem and pod rot of groundnut"
+      }
+    ]
+  }
+}

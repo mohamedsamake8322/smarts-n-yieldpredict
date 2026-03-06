@@ -1,0 +1,65 @@
+{
+  "title": "Verticillium wilt on Edible African Eggplant",
+  "sections": {
+    "Header": [
+      "Verticillium wilt on Edible African Eggplant",
+      "Verticillium dahliae and V. albo-atrum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Managing",
+        "Verticillium wilt is most successful using a multifaceted strategy.",
+        "There is no satisfactory control for this disease once plants are infected",
+        "Soil sterilization",
+        "Avoid moving soils or debris from areas of known infection",
+        "Disinfect all tools between cuts with a 10% solution of household bleach or 70% alcohol.",
+        "Long rotation of 4-5 years with other crops other than potatoes, tomatoes, and peppers is recommended",
+        "Grafting eggplants on resistant rootstocks reduces severity"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field and look out for wilting plants",
+        "Note that most symptoms are found on the stems and roots",
+        "Perform a lengthwise cut of the infected stem.",
+        "A dark-brown discoloration will be observed in the vascular tissue",
+        "The affected leaves turn yellow and then brown between veins followed by wilting and dropping off.",
+        "After the plant is thoroughly invaded, the roots and the base of the stem may decay",
+        "As soon as symptoms are observed, follow direct control measures"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Fungicides are not effective for control, but if plants exhibit mild symptoms, maintain vigour by following sound cultural practices.",
+        "These include:",
+        "Watering during periods of drought.",
+        "Fertilizing (based on a soil test).",
+        "Mulching to help maintain soil moisture and moderate soil temperatures.",
+        "Control weeds because the fungus can infect a variety of common weeds such as ragweed, cocklebur, and velvetleaf"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Soil-borne disease so chemicals are not recommended.",
+        "Wear protective clothing when using pesticides.",
+        "Follow product label (dosage, timing of application, pre-harvest interval etc.)",
+        "Always consult recent list of registered pesticides in your country"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "A diagnostic characteristic of Verticillium wilt is distinctive discoloration or streaking in the vascular system. (Photo: SHoward F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Symptoms on leaves of Verticillium wilt (Photo: Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Verticillium wilt on Edible African Eggplant"
+      }
+    ]
+  }
+}

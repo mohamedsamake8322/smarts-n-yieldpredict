@@ -1,0 +1,87 @@
+{
+  "title": "Early and late leaf spot of groundnut",
+  "sections": {
+    "Header": [
+      "Early and late leaf spot of groundnut",
+      "Mycosphaerella arachidis (Early) and Mycosphaerella berkeleyi (Late)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties (e.g.",
+        "CRI-Azivivi and",
+        "CRI-Genkaa) if available",
+        "Collect old plant debris from the field immediately after harvest and burn or bury to reduce inoculum levels for the next season crop",
+        "Plant early when disease pressure is low",
+        "Remove volunteer infected groundnut plants",
+        "Crop rotation with any other crop for at least 2 years to reduce inoculum levels of early and late leaf spot pathogens",
+        "Intercrop with millet, maize, cotton, sorghum and soy bean to reduce spread of spores",
+        "Regularly weed the fields to reduce humidity within groundnut crops, thus preventing infection"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Early and late leaf spot are caused by different fungi and can be difficult to tell apart and a single plant can have both diseases at the same time",
+        "Inspect field at least once a week looking for symptoms:",
+        "Early leaf spot: light brown spots with a yellow margin and rough silvery, hair- like spores can be seen on the upper surface of infected leaf",
+        "Late leaf spot: look for dark brown/ black circular spots (darker than early leaf spot).",
+        "Spores are formed on the lower side of the leaves.",
+        "The spores are arranged in circular rings and have a rough appearance",
+        "Lesions may develop on stem petioles and pegs.",
+        "In severe infections, the leaves or pods may fall off",
+        "Apply direct control as soon as leaf spots are seen.",
+        "Usually start 30-40 days after sowing."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected plants when disease incidence is low, then bury or burn to reduce the spread or reinfection of healthy plants",
+        "Apply",
+        "Carbendazim (e.g.",
+        "Carbendazim 50WP, Goldazim 500SC) at 1.5-2.0ml/L of water 30 days after sowing if signs of leaf spot outbreak persist.",
+        "Broad spectrum systemic fungicide.",
+        "FRAC group:1",
+        "Apply",
+        "Mancozeb (e.g.",
+        "Agrithane 80WP, Benco 80WP, Damazeb 80WP, Dizcozeb 80WP etc.) at a rate of 5g/L of water 30 days after sowing if signs of leaf spot outbreak persist.",
+        "Multi- site broad spectrum contact fungicide.",
+        "FRAC group:",
+        "M3"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Maximum of 2 applications at 14 day intervals.",
+        "REI-24 hrs.",
+        "PHI-14 days.",
+        "Do not use the same chemical group continuously on the same farm.",
+        "Very toxic to aquatic organisms - do not apply near waterways",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Apply 3 times at 10-14 day intervals based on field situation.",
+        "REI-24hrs; PHI-14 days.",
+        "Very toxic to aquatic organisms - do not apply near waterways"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Late leaf spot showing dark nearly black leaf spots on the underside of the leaves (Jill M. Lenné/ICRISAT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Early leaf spot showing much lighter spots than late leaf spot (Jill M. Lenné/ICRISAT)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Early and late leaf spot of groundnut"
+      }
+    ]
+  }
+}

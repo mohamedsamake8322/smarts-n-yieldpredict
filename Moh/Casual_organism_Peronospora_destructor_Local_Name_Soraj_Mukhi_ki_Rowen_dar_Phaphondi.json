@@ -1,0 +1,81 @@
+{
+  "title": "Downy Mildew of Sunflower",
+  "sections": {
+    "Header": [
+      "Downy Mildew of Sunflower",
+      "Casual organism: Peronospora destructor Local Name: Soraj Mukhi ki Rowen dar Phaphondi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Downy mildew is a fungus that is wind and seed- borne causing infection of above-ground plant parts and/or when seed is produced by infected plants.",
+        "Pathogens can live in soil for 8 to 10 years.",
+        "Crop rotation with a 3-4 year break in sunflower cultivation is the best prevention against downy mildew.",
+        "To minimize high humidity, plant in the direction of prevailing winds, avoid using windbreaks and manage plant density and spacing, i.e. row to row spacing: 75 cm and plant-to-plant spacing: 25 cm.",
+        "Cultivate disease-resistant sunflower varieties i.e.",
+        "Hysun-33, Hysun-39, Sun-flower",
+        "Gold 01, Cazola and",
+        "Cheeta etc.",
+        "Sunflowers should be planted 1 to 1.5 in deep.",
+        "Avoid dense stands, poorly drained soils and overhead irrigation.",
+        "Do not seed sunflowers in lowlands that flood frequently and that maintain high inoculum levels from alternate hosts."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Rain is not needed for infection.",
+        "Check for dews during the night and morning hours as (1.5 to 7 hours of leaf wetness and 6° to 26°C), besides cool and water saturated soil are favorable for development of disease.",
+        "White cottony masses (fungal spores) appear on the underside of infected leaves and are a good diagnostic sign of the disease.",
+        "Monitoring should be done twice a week when the disease occurs."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "The diseased plants should be removed and burnt soon after being detected in the field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear impermeable gloves, long pants & long-sleeve shirts during spray",
+        "Change clothes and wash your hands immediately after applying pesticides.",
+        "Don't spray outdoors on windy or rainy days.",
+        "Fungicides may be applied on a 7-day schedule, if necessary.",
+        "For all fungicides, thorough coverage of foliage is important for the control disease.",
+        "Treat the seed with thiophanate- methyl (e.g.",
+        "Topsin-M @ 2.5 grams/1 kg seed) while or",
+        "Imidacloprid+Tebuconazole (e.g.",
+        "Hombre 18.625% FS @ 0.4 ml into 30 ml of water for 1kg seed) to save the new crop from pathogen attack.",
+        "Thiophanate-methyl:",
+        "WHO Class",
+        "U (Unlikely to present acute hazard)",
+        "Imidacloprid +Tebuconazole:",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "Fosetyl aluminium (Aliette 80WP @250 gram/120L water/acre) followed by spraying.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard)",
+        "Azoxystrobin (Acute 50% SC) @ 100 ml / HLW.",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Sunflower severely affected by downy mildew (Ferenc Viranyi, Godollo University of Agricultural Sciences, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Downy Mildew of Sunflower"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Downy mildew symptoms on lower surface of infected leaf (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Downy mildew on sunflower leaves (Karen Snover-Clift, Cornell University, Bugwood.org)"
+      }
+    ]
+  }
+}

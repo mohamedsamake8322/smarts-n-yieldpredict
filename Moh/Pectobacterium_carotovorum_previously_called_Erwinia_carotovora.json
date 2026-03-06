@@ -1,0 +1,80 @@
+{
+  "title": "Bacterial Soft Rot on Carrot - Kenya",
+  "sections": {
+    "Header": [
+      "Bacterial Soft Rot on Carrot - Kenya",
+      "Pectobacterium carotovorum (previously called Erwinia carotovora )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant carrots in well-drained soils, and water twice a week.",
+        "Rotate with legumes, soybeans and fodder grasses",
+        "Avoid injuring carrots when weeding or harvesting to prevent entry of pathogen",
+        "Control vectors that can wound carrots e.g. cabbage maggot - see yellow section.",
+        "Start working from the healthy field towards the infected area",
+        "Disinfect all farm tools in 10% jik solution (50 mls in 1 litre) of water for 5 minutes",
+        "Avoid harvesting carrots during wet conditions"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Soft, watery, slimy rot on the taproot, which is grey to brown with a foul smell",
+        "Rapid decay that consumes the core of the carrot, often leaving the epidermis intact",
+        "General yellowing, wilting and collapse of the foliage above ground",
+        "Severe pitting of carrot roots observed after the roots are harvested and washed",
+        "Take action as soon as yellowing and wilting symptoms are seen on one plant"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and burn infected plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Bacterial diseases have no known cure hence avoid the introducing the pathogen.",
+        "Use of copper-based fungicides only suppress the pathogen.",
+        "When using a pesticide always wear protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max. number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spray with copper-based fungicide e.g. copper oxychloride (Amicop 50WP or",
+        "Cobox 50WP at 60g per 20L water).",
+        "Repeat spray after 2 weeks.",
+        "Maximum 2 sprays/season.",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous), PHI 7days, REI 12hrs.",
+        "Toxic to aquatic organisms.",
+        "WHO Class",
+        "U (unlikely to cause any effects if used as required)",
+        "For control of cabbage maggot, drench with",
+        "Azadirachtin-based products e.g.",
+        "Nimbecidine",
+        "EC or",
+        "Achook",
+        "EC at 50mls/20L of water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Soft, watery, slimy rot on the taproot, which is grey to brown (Photo: Oregon State University)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Soft Rot on Carrot - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Severe pitting of carrot roots observed after the roots are harvested and washed (Photo:Lindsey du Toit, Washington State University)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Rapid decay that consumes the core of the carrot, often leaving the epidermis intact (Photo: www.extension.umn.edu)"
+      }
+    ]
+  }
+}

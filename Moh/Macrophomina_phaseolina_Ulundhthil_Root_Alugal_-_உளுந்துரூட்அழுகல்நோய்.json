@@ -1,0 +1,60 @@
+{
+  "title": "Root rot in Black gram",
+  "sections": {
+    "Header": [
+      "Root rot in Black gram",
+      "Macrophomina phaseolina Ulundhthil Root Alugal / உளுந்துரூட்அழுகல்நோய்"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The disease occurs commonly at the podding stage.",
+        "Seed treatment with",
+        "Trichoderma viride 4 g/kg or",
+        "Pseudomonas fluorescens 10 g/kg"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe damage in the seeds as the disease shows its first symptom before sowing.",
+        "Observe for affected plant leaves.",
+        "Standing crop (5-10 days) turn yellow in colour and brown irregular lesions appear on leaves.",
+        "The roots and basal portion of the stem become black in colour and the bark peels off easily.",
+        "After 10 days of standing crop, the affected plants will dry up gradually.",
+        "When the tap root of the affected plant is split open, reddening of internal tissues is visible."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply zinc sulphate 25 kg/Ha as basal application.",
+        "Basal application of neem cake at 150 kg/ Ha.",
+        "Soil application of",
+        "T. viride at 2.5 kg/Ha + 50 kg of farm yard manure at 30 days after sowing."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Spot drenching of",
+        "Carbendazim at 1 gm/l.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Root rot symptom in field conditions (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Root rot in Black gram"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Blackened stem symptom (William M. Brown Jr., Bugwood.org)"
+      }
+    ]
+  }
+}

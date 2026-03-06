@@ -1,0 +1,81 @@
+{
+  "title": "Fusarium wilt in chickpea",
+  "sections": {
+    "Header": [
+      "Fusarium wilt in chickpea",
+      "Fusarium oxysporum f.sp. ciceri Kalae Pae Pin Nyoe in Burmese language"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant varieties such as",
+        "Yezin 3,4,5,6,8 and 11 (local varieties)",
+        "Apply green manure for reducing the activity this soil born fusarium wilt disease",
+        "Avoid overhead irrigation to prevent disease spreading",
+        "Soil solarization by covering it with a transparent polythene sheet for 6-8 weeks during summer",
+        "Rotate the crop except with peas and beans varieties with more than 4 year breaks in case of infection"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "When to look for:",
+        "Monitor symptoms in flowing stage (6-8 weeks after sowing) during daytime.",
+        "Where to look for:",
+        "Look for both stem and leave at seedling and flowering stage.",
+        "What to look for:",
+        "Check leave colour because they change from green to pale green initially, and finally infected leaves will wilt.",
+        "There is dark brown discolouration in the internal stem when split open.",
+        "When to act:",
+        "Consider preventive action when the wilt disease is known from the area.",
+        "Consider action when 5-15% of young plants are infected because the plant can be killed before it reaches maturity.",
+        "Action is too late if the disease occured in the late vegetative, flowering and maturity stages of the crop."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prevention is important as no green direct control is available.",
+        "Use seed treatment with non-pathogenic strains such as",
+        "Trichoderma biopesticide because it can protect from this soil born fusarium wilt disease",
+        "Removal and destruction of disease plants might help in limiting carry-over of the disease in the soil.",
+        "Tebuconazole; Sterol",
+        "Biosynthesis in membrane, (FRAC, G-group); Systemic fungicide applied as seed coating"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO toxicity class",
+        "II products may not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides",
+        "Plant",
+        "Protection",
+        "Division in",
+        "Department of",
+        "Agriculture of",
+        "Myanmar.",
+        "Fungicides can only be used preventively as seed coating.",
+        "Fungicides are only effective when applied to seed - spraying is not effective.",
+        "Once infected, fields cannot be cured.",
+        "Seed coating should be done by trained service providers as seed coating processes can be dangerous to the farmer.",
+        "Preferably the farmers should buy coated seeds.",
+        "Carbendazin",
+        "Mitosis and cell division activity on fungal disease (FARC, B1group)",
+        "Systemic fungicide applied as seed coating",
+        "WHO toxicity class",
+        "U (Unlikely acute hazardous to humans); Harmful to soil and water organisms; Moderately harmful to parasitoids and pollinators thus do not spray on flowering crop or near beehives; Slightly harmful to birds and ladybeetle; Possibility of resistance to this fungal disease",
+        "WHO Class",
+        "II (moderately acute hazardous to humans)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt in chickpea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Dark brown discolouration inside stem infected with Fusarium wilt (Left: Healthy, Right: Diseased) (K.P. Somachandra, Bandarawela Research field)"
+      }
+    ]
+  }
+}

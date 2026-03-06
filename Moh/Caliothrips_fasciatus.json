@@ -1,0 +1,62 @@
+{
+  "title": "Thrips on Green Bean - China",
+  "sections": {
+    "Header": [
+      "Thrips on Green Bean - China",
+      "Caliothrips fasciatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove weeds in and around the field to reduce overwintering population.",
+        "Irrigate less, but more often to interfere with pupation."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring should be conducted after seedlings appear, using blue boards. 10 blue boards per mu.",
+        "Blue boards should be hung 10-20cm above the crops and adjusted as the crop grows.",
+        "Check flowers and leaves at early flowering stage (5 monitoring sites per field; check at least 2 crops per site); direct control should be conducted once thrips appear."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected leaves and bury them outside the field.",
+        "Lure and kill using blue boards as described in monitoring section.",
+        "Bio-control: apply predatory mites ( Amblyseius barkeri or",
+        "Neoseiulus cucumeris oudermans ); 20000 mites per mu, one release each month.",
+        "Chemical pesticides should be avoided 7 days before and during the release.",
+        "Sex pheromone traps: combining sex pheromone traps onto blue boards can trap thrips better."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems.",
+        "Rotational application of pesticides to avoid resistance.",
+        "Use of",
+        "PPEs is mandatory while using chemical pesticides.",
+        "Spinetoram",
+        "WHO U, Maximum 3 sprays during each growing season, Spray when thrips population is high, PHI: 3 days.",
+        "Emamectin benzoate",
+        "WHO class",
+        "II (moderately hazardous), Spray when thrips population is low, PHI: 3 days, Acute toxicity and",
+        "PAN Bad",
+        "Actor chemical."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage on leaves (Source: Yanqing PPS)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Thrips on leaves (Source: Yaqing PPS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Thrips on Green Bean - China"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Powdery mildew on apple",
+  "sections": {
+    "Header": [
+      "Powdery mildew on apple",
+      "Podosphaera leucotricha Amharic: amedaye; Tigrigna: hammokshtay; Oromifa: dakuya"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "When planting a new orchard use proper spacing usually 6 x 6 m (but it depends on the variety)",
+        "Prune tree branches to allow air circulation.",
+        "Remove all dead and dried branches and shoots at the end of the season and burn.",
+        "Use clean pruning equipment to avoid contamination, sterilise by heating in fire",
+        "Pick up and bury fallen leaves and fruits 60 cm deep as these can harbour the fungus and help spread the disease in the following season",
+        "Keep the orchard weed free to eradicate alternative hosts of this pathogen",
+        "In nurseries, avoid overhead watering to reduce the relative humidity as excessive watering increases the incidence of the disease"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Before blossoming, mark 5 trees/ha randomly in the orchard and check for symptoms of the disease every week",
+        "Primary infection causes the terminal buds to become silver-grey in colour leading to defoliation, stunted growth, and die-back.",
+        "The disease spreads to the leaves, blossoms, and fruit.",
+        "Secondary symptoms appear on leaves as white/grey felt-like patches, frequently on the underside with yellow patches on the upper surface.",
+        "This causes curling and crinkling.",
+        "Infected fruit becomes russeted (reddish- brown in colour).",
+        "The fruits are smaller and may be deformed",
+        "When the primary symptoms are seen, carry out control methods"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune all dried and infected shoots and all infected plant parts after harvest and burn or bury 60 cm.",
+        "Do not compost infected plant debris",
+        "Also as the flower buds emerge early in the season, prune any with visible signs of infection",
+        "Spray infected shoots with a solution of 6 spoons of baking powder, 3 spoons of white oil and white bar soap foam and mix in 15 litres of water and spray every week to reduce infection"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no registered fungicides in",
+        "Ethiopia for the management of powdery mildew on apples"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Powdery fungal growth on leaves and blossom buds (Thorsten Kraska, University of Bonn, Germany)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery mildew on apple"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Secondary infection on a leaf, small white/grey powdery patch (P. Creemers)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Russeting on the skin of the fruit (P. Creemers)"
+      }
+    ]
+  }
+}

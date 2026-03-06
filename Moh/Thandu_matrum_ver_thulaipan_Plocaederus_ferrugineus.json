@@ -1,0 +1,48 @@
+{
+  "title": "Cashew Stem and Root Borer",
+  "sections": {
+    "Header": [
+      "Cashew Stem and Root Borer",
+      "Thandu matrum ver thulaipan Plocaederus ferrugineus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Swabbing the trunk with neem oil 5% for three times in a year. (Jan- Feb, May - June, Sep-Oct)",
+        "Swabbing the trunk with coaltar once in a year",
+        "Uproot and destory the completely damaged trees."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring the gummosis (oozing of gumlike substance) at the base of the tree.",
+        "Presence of chewed up material or excreta at the base of the tree.",
+        "Observe for the presence of eggs (resembling rice grains) on and underneath the bark"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Application of",
+        "Metarhizium anisopliae suspension on the excreta protruding outside the bore hole.",
+        "Drenching the ground around the affected plant with chlorpyriphos 0.2% (2ml per litre of water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Repeated drenching shall be avoided to reduce residue accumulation in the soil.",
+        "WHO class",
+        "II (moderately hazardous ), organophosphate, non systemic insecticide with contact, stomach and respiratory action."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Cashew Stem and Root Borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cashew stem borer (NBAIR)"
+      }
+    ]
+  }
+}

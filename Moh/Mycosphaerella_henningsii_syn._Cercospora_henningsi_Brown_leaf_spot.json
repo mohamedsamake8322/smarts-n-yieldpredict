@@ -1,0 +1,88 @@
+{
+  "title": "Cercospora brown leaf spot on cassava",
+  "sections": {
+    "Header": [
+      "Cercospora brown leaf spot on cassava",
+      "Mycosphaerella henningsii (syn. Cercospora henningsi) Brown leaf spot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Keep field clean by removing dead leaves and burn them because otherwise fungal disease spores will persist and spread",
+        "Avoid getting cuttings from previously infested fields to prevent spreading of the disease.",
+        "Get planting materials from a clean farmer’s field",
+        "Rotate cassava with unrelated crops, such as maize for 2 to 3 years to break the cycle of the disease",
+        "Plant with recommended spacing (usually at 1m x 1m) to allow air flow",
+        "For overgrown cassava plants, pruning will improve aeration and reduce disease development",
+        "Clean tools and personal protective gear to avoid spreading spores"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Cercospora leaf spot is a fungal disease mainly occurring in the hot and rainy season across the country",
+        "Check for disease symptoms on cassava leaves once per month",
+        "Check for brown spots with a yellowish ring on leaves throughout the growing period of cassava.",
+        "Look for lesions that are 0.15 to 0.2cm in diameter",
+        "Consider control when 1-3 plants out of 10 plants in the field are affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove most affected leaves (10 to 15 spots on the leaves) from the plant to reduce spread of the disease.",
+        "Remove fallen leaves and debris from the field and burn them.",
+        "Burning is usually not preferred in",
+        "IPM, but a good option to prevent fungal spore carry over.",
+        "Spray",
+        "Carbendazim (Carbendazim, Assure, and others); a protective fungicide that inhibits mitosis and cell division.",
+        "Cannot cure, but can prevent spread of disease.",
+        "Spray copper oxychloride products (such as",
+        "Cuprozin 35WP, Copper",
+        "Oxychloride, and many others).",
+        "Multisite activity group of fungicide, with protective and some curative action.",
+        "Spay",
+        "Tebuconazole products (such as",
+        "Folicur",
+        "C 300SC, Prosaro, and others).",
+        "Systemic fungicide with some curative action."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "The fungicides below are toxic to fish so do not mix, spray, clean near rivers or dispose container in water bodies (at least 50m distance)",
+        "When using a pesticide, always wear protective clothing.",
+        "Follow the instructions on the product label.",
+        "Do not empty into drains.",
+        "If disease persists after spraying with chemical, take samples to plant doctors for further advice.",
+        "WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "WHO U (Unlikely acute hazardous).",
+        "Pre- harvest interval (p.h.i.) 21 days; Re-entry",
+        "Interval (r.e.i.) 1 day, thus after drying of spray",
+        "WHO toxicity class",
+        "II (Moderately acute hazardous); Do",
+        "NOT spray more than 2 times in a growing season.",
+        "Do not pluck leaves for use as a vegetable at least 7 days after spraying; p.h.i. 7 days; r.e.i. 1 day, thus after drying of spray",
+        "WHO toxicity class",
+        "II (Moderately acute hazardous)’ Do",
+        "NOT spray more than 2 times in a growing season.",
+        "Do not pluck leaves for consumption at least 21 days after spray; p.h.i. 21 days; r.e.i. 1 day after spray"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Cercospora brown leaf spot on cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown cercospora leaf spots on cassava (E. McKenzie – Landcare research)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Light brown spot with with yellowish ring and fine dark outer ring (E. McKenzie)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Groundnut leaf rust",
+  "sections": {
+    "Header": [
+      "Groundnut leaf rust",
+      "Puccinia arachidis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant cultivars.",
+        "Adjust times of sowing to avoid favourable environmental conditions for rust outbreak (20-25 °C, < 85% HR).",
+        "Eradicate volunteer groundnut plants since they can host the fungus.",
+        "Practice crop rotation with two cereal crops, one after the other (e.g. with maize, sorghum, rice and sugarcane).",
+        "Control weeds as the disease may be favoured by the high humidity in a dense crop canopy.",
+        "Ensure a sufficiently long break of at least 4 weeks between successive groundnut crops where the disease is present.",
+        "Plant new crops as far as possible from infested fields.",
+        "If this is not possible, then do not plant downwind of them.",
+        "Remove any volunteer plants and weeds of the",
+        "Arachis genus which can host the fungus.",
+        "Keep weeds to a minimum in order to increase groundnut yield and to minimise humdity levels surrounding the crop (humid conditions favour the disease)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Leaf rust is caused by a fungus and can affect all above- ground parts of the plant.",
+        "Monitor twice a week for symptoms on leaves, starting 30 days after germination:",
+        "Orange-coloured pustules appear primarily on the undersides of the leaves, and turn reddish-brown.",
+        "Pustules may later appear on the upper surfaces opposing the pustules of the lower surfaces.",
+        "Rust-damaged leaves become necrotic and dry up, but remain attached to the plant.",
+        "In severe damage, the crop has a burnt appearance.",
+        "Infected plants tend to mature 2-3 weeks earlier than those that remain healthy.",
+        "Symptoms may first be noticed within patches of a field.",
+        "Monitor carefully for rust development during favourable conditions (20-25 °C, free water on the leaf surface and high relative humidity).",
+        "Consider applying control measures as soon as rust spots are seen, even if only on a few plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "At an early stage of the disease development, remove affected plants, carry them away from the field in a plastic bag and burn the debris to prevent the spores from spreading.",
+        "Plant debris can also be used as fodder.",
+        "Don't move infected plants to disease- free areas."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Pustules on the undersides of leaves (P. Subrahmanyam/ ICRISAT)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Orange-coloured pustules (ICRISAT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Groundnut leaf rust"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pustules on the upper surfaces of leaves (ICRISAT)"
+      }
+    ]
+  }
+}

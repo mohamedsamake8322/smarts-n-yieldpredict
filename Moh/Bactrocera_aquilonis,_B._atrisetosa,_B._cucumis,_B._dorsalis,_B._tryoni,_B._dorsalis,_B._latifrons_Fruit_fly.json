@@ -1,0 +1,55 @@
+{
+  "title": "Fruit fly on tomato",
+  "sections": {
+    "Header": [
+      "Fruit fly on tomato",
+      "Bactrocera aquilonis, B. atrisetosa, B. cucumis, B. dorsalis, B. tryoni, B. dorsalis, B. latifrons Fruit fly"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Bag immature fruits with polythene, paper or silk clothing within one month of flowering",
+        "Timely planting to avoid tomato ripening and harvesting period during ripening seasons of other fruit hosts (see below).",
+        "Otherwise flies may migrate from the fruits of these trees into tomato fields.",
+        "In order to prevent the spread of the insect pest, avoid rotating or planting near alternative hosts; guava, chillies, citrus, melons, avocado, pear, mango, banana, pepper, wild fruits",
+        "Expose pupae to sun by raking up soil surrounding tomato plants",
+        "Harvest fruits at physiological maturity before they become very ripe and soft which makes it easy for the flies to lay eggs in them"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Tomato fruits rot when larvae of fruit flies live and feed inside.",
+        "The fly adult is a small winged insect of nearly 1 cm in length.",
+        "It is like a house fly in shape but smaller, and its body can be colourful.",
+        "Look for adult flies on the flowers and fruits.",
+        "For early detection, use commercial pheromone traps with trimedlure (TML), or cue lure (CL), or methyl eugenol (ME) attractants (3 traps/ km2).",
+        "Follow infestation regularly, once flies are detected.",
+        "Inspect fruits for soft black spotted ovi-punctures on the fruits weekly.",
+        "Larvae enter the tomato and are yellowish whitish, 0.5 to 1 cm long, 2 to 3 mm thick.",
+        "When damage is detected on 1 to 2 tomatoes/ 10 plants on average, consider act quickly before more eggs are laid and hatching larvae feed inside tomatoes",
+        "At high infestations, i.e. in case of mass invasion, your tomatoes are likely to be lost.",
+        "Then no action is needed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply neem oil or neem seed extract to kill pupating larvae",
+        "Grind 50 g wild basil leaves; soak overnight in 2-3 litres water; strain; add 10g soap; then spray over un- ripened tomatoes (reach coverage) early in the mornings.",
+        "Collect all fallen fruits from below nearby fruit trees because they host many fruit fly larvae.",
+        "Place in black polythene bags, tie them up and expose to sun or bury infested fruits more than 50 cm deep in soil in order to kill larvae"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Bactrocera dorsalis (Oriental fruit fly); adult. (©Clive Lau)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Many 0.5 to 1 cm fly larvae (= maggots) in a tomato (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit fly on tomato"
+      }
+    ]
+  }
+}

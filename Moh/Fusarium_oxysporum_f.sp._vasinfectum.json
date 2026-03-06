@@ -1,0 +1,73 @@
+{
+  "title": "Fusarium wilt in okra - Zambia",
+  "sections": {
+    "Header": [
+      "Fusarium wilt in okra - Zambia",
+      "Fusarium oxysporum f.sp. vasinfectum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid fields with history of",
+        "Fusarium wilt disease.",
+        "The fungal spores can survive in the soil for up to 7 years.",
+        "Use certified clean seeds.",
+        "Buy seeds treated with fungicide if disease is known in your area (see yellow list).",
+        "Raise soil pH by applying lime /farmyard manure where soils are acidic.",
+        "Keep the field free of weeds if disease is known in your area.",
+        "Leave field fallow for 2- 3 months after cropping, even if disease is not there.",
+        "Rotate with cereals and other grassy crops.",
+        "Do not rotate with",
+        "Solanaceous family crop such as potatoes, tomato, pepper, eggplant or nightshade for 5 to 7 seasons after infestation with",
+        "Fusarium wilt."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Fusarium wilt, also called basal rot, is a fungal disease.",
+        "Monitor for wilted plants 2 to 5 weeks after germination.",
+        "This should be done daily as the disease attacks seedlings and can kill the plant",
+        "Look for yellowish leaves, stunted plant growth, and shaded leaves.",
+        "Lower leaves turn yellow (and may eventually die) and the stem becomes discoloured.",
+        "Consider action when 10-15 young plants per acre are infected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "It is easier to prevent this disease than to control it.",
+        "Uproot the infected young and old plants and destroy them to reduce the disease from spread.",
+        "Outside of the field, bury them or let them dry in the sun.",
+        "Ask agro-input dealers to organise biopesticide products based on",
+        "Trichoderma.",
+        "Read product label for instructions."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical sprays have little to no effect because the disease moves inside the plant, from the roots upward.",
+        "However, several seed companies now treat seeds to reduce infection.",
+        "Seed treatments can only be handled by expert personnel.",
+        "Never eat treated seeds and never feed to animals.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ZEMA"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt in okra - Zambia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Wilted, stunted okra with yellow lower leaves because of Fusarium disease on stem base and roots (Photo: H F. Schward. Colorado State University)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Wilted,stunted okra plants (Photo Howard F. Schwart, Colorado State University:)"
+      }
+    ]
+  }
+}

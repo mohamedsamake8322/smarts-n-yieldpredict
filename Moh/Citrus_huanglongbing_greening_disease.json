@@ -1,0 +1,66 @@
+{
+  "title": "Citrus greening disease",
+  "sections": {
+    "Header": [
+      "Citrus greening disease",
+      "Citrus huanglongbing (greening) disease"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant disease free seedlings from a certified nursery such as",
+        "KALRO Matuga, JKUAT.",
+        "Remove all the alternative hosts for citrus psyllid vector such as kie-apples around farm.",
+        "Space the plants about 10 -15 feet apart to reduce possible vector build up and infection.",
+        "Plant tissue culture cleaned propagating materials.",
+        "Select wind protected sites or plant wind breakers around the orchard to avoid wind blowing of the citrus psyllid vectors to the orchard.",
+        "Conserve the natural enemies in the enviroment such as lady beetle, parasitic wasp and other predators to suppress psyllid population by growing flowering plants such as lantana."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect regularly for yellowing on single shoots or branch for first appearance of early symptoms.",
+        "Set up pheromone traps and monitor the citrus psyllid (vector) infestation in the orchard in between the rows of the orchard and take action when more than 5 psyllids are observed per trap.",
+        "Look out for small upright shoots with short internodes, stiff and partially folded leaves (Rabbit ears).",
+        "Look out for stunted plants with premature leaf drop, twig die back and decay of lateral shoots.",
+        "Take action when 1-2 plants are affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot or prune infected plant and destroy by burning the infected debris.",
+        "Spray botanical based neem oil to citrus psyllids vector at all stages and",
+        "Azadirachtin products (Ozoneem, super neembecidine",
+        "EC, Achook 5%) at the rate of 20ml/20Litres water to control the spread of the disease.",
+        "Repeat sprays after 7 days."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides (PCPB)",
+        "Spray imidacloprid based products (Actara) to control citrus psyllid vector (rate 20mls/ 20L water).",
+        "WHO Class",
+        "II . (Moderately hazardous).",
+        "PHI 7 days intervals.",
+        "REI-24 hrs.",
+        "Repeat every 7-10 days for as long as needed."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf mottle on grapefruit (J.M. Bové - INRA, Bordeaux)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Citrus greening disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Uneven ripening (green on yellow) of mandarin oranges caused by Citrus greening disease (T.R. Gottwald and S.M. Garnsey - USDA APHIS)"
+      }
+    ]
+  }
+}

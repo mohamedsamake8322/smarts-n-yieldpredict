@@ -1,0 +1,80 @@
+{
+  "title": "Bakanae Disease of Rice",
+  "sections": {
+    "Header": [
+      "Bakanae Disease of Rice",
+      "Gibberella fujikuroi (telomorph) or Fusarium fujikuroi (anamorph) ( syn. Fusarium moniliforme )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Clean (healthy and disease free) seeds should be used to minimize the occurrence of the disease and increase tolerance to disease.",
+        "Apply seed treatment (see yellow direct controls).",
+        "Don’t grow susceptible varieties: basmati 385, kainat.",
+        "Use resistant varieties like",
+        "New",
+        "Super",
+        "Basmati, Supri, 386",
+        "Basmati, IRRI 6, Super",
+        "Fine, AARI-6, KS-282, KSK-133 and",
+        "NIAB AARI-9, Basmati-370, Basmati-385, Basmati",
+        "Pak, Basmati-2000 and",
+        "Basmati-515. and",
+        "Basmati-198.",
+        "Avoid excessive nitrogenous fertiliser (such as urea) application during the growing season, that makes plant more exposed to disease through higher vegetative growth.",
+        "Deep ploughing for 8-10 days before puddling to expose the soil to sunlight.",
+        "Apply one bag (50 kg)",
+        "SOP or",
+        "MOP (potash) per acre if disease was present in previous years."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Visit the nursery once a week until transplanting.",
+        "Visit the field once a week for the first 40 days after transplanting.",
+        "In the nursery, look for albino (totally white) plants.",
+        "These will die quickly and will indicate the disease is present.",
+        "In the field, aerial roots appear on nodes (joints) on stem above the water level after transplanting.",
+        "Also look for white powdery masses at the base above water level.",
+        "Infected plants are elongated, thin, pale yellow and produce less tillers.",
+        "High temperatures (30 to 35ºC) favour the development of the disease.",
+        "Wind or water carries the disease from one plant to another.",
+        "Control urgently when disease is first seen in the nursery or in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Removed dead (infected) plants from nursery.",
+        "Uproot and destroy (burn or bury) infected field plants (make sure to clean tool after use in the field with hot water).",
+        "Seed treatment using bleach"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Preventive measures only",
+        "Use protective clothing",
+        "Rate of 2 g/kg of pre-germinated seed before sowing; Unlikely to present acute hazard in normal use (WHO class:",
+        "U)",
+        "Seed treatment using fungicides",
+        "Thiophanate-methyl",
+        "Carbendazim",
+        "WHO class",
+        "U; Use protective clothing 5 gallons of bleach to 200 gallons of water, seed is soaked for 2 hours, then drained and soaked in fresh water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Bakanae disease (Yuan-Min Shen, Taichung District Agricultural Research and Extension Station)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bakanae Disease of Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Plant infected with Bakanae disease (Lalnunpuii Parte, Krishi Vigyan Kendra)"
+      }
+    ]
+  }
+}

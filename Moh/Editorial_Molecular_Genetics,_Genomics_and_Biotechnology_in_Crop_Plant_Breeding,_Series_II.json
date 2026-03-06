@@ -1,0 +1,28 @@
+{
+  "title": "agronomy",
+  "sections": {
+    "Header": [
+      "agronomy",
+      "Editorial Molecular Genetics, Genomics and Biotechnology in Crop Plant Breeding, Series II"
+    ],
+    "Table": {},
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Editorial Molecular Genetics, Genomics and Biotechnology in Crop Plant Breeding, Series II"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Editorial Molecular Genetics, Genomics and Biotechnology in Crop Plant Breeding, Series II"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Editorial Molecular Genetics, Genomics and Biotechnology in Crop Plant Breeding, Series II"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Copyright: © 2021 by the author."
+      }
+    ]
+  }
+}

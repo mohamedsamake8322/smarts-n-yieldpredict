@@ -1,0 +1,80 @@
+{
+  "title": "Green scales on coffee",
+  "sections": {
+    "Header": [
+      "Green scales on coffee",
+      "Coccus alpinus ; C. viridis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prune and remove old branches and leaves so as to enhance aeration",
+        "Avoid planting host plants such as avocados, guavas, pineapples, citrus, etc.as wind breaks",
+        "Improve shade by sparsely planting shade crops such as",
+        "Graveillia spp., Leucena spp., or",
+        "Macadamia spp. to encourage natural enemies"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout immediately after transplanting and later, on a weekly basis",
+        "Inspect for presence of shiny pale-green insects on the green wood and leaves (underside) especially along main leaf vein and near tips of green shoots",
+        "Institute control measures when 10 or more leaves are infested with one or more scales"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Spray with mineral oils at 200 mls per 20 lts of water",
+        "Spray with soapy solution (potassium soaps).",
+        "Add 10-15 tablespoons full of liquid soap in 20 lt bucket of water and spray.",
+        "Introduce natural enemies such as",
+        "Cryptolaemus montrouzieri and",
+        "Verticillium lecanii to reduce population of scales in the ecosystem"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear protective clothing when handling chemicals",
+        "Follow instruction on the product label such as dosage, pre-harvest interval and appropriate time of application",
+        "Spray only on the affected plants",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Apply with a brush at the base of the stem (1 foot from the base) a 15 cm wide band of a deltamethrin based product such as",
+        "Decis 2.5",
+        "EC, Atom 2.5EC etc at the rate of 10-15mls/20L of water mixed with 15gms of",
+        "Methylene blue which acts as a marker",
+        "Mode of action: pyrethroid with contact and residual activity",
+        "Alternatively use",
+        "Chlorpyrifos based products such as",
+        "Dusbarn 4EC at 50-100ml/20L of water, Bullet 48EC at 40mls/20L of water etc.",
+        "Add 15g",
+        "Methylene blue as a marker",
+        "Mode of action:",
+        "Organophosphate"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO II (Moderately hazardous); PHI 3 days; Toxic to aquatic organisms; High risk to bees",
+        "WHO II (Moderately hazardous)",
+        "Toxic to aquatic organisms, bees and livestock",
+        "PHI 14 days",
+        "Dangerous to some beneficial insects"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Green scales on leaf (United States National Collection of Scale Insects Photographs Archive, USDA ARS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Scales on Coffee stem, note the presence of ants. (Teresia Kodwaran, West Pokot County)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Green scales on coffee"
+      }
+    ]
+  }
+}

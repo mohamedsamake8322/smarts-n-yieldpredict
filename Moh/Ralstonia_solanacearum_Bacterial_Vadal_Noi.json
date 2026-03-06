@@ -1,0 +1,60 @@
+{
+  "title": "Groundnut Bacterial Wilt",
+  "sections": {
+    "Header": [
+      "Groundnut Bacterial Wilt",
+      "Ralstonia solanacearum Bacterial Vadal Noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use disease-free seed material.",
+        "Undertake crop rotation with rice, maize, sorghum and pearl millet.",
+        "Early sowing before 30-45 days before normal date of sowing.",
+        "Follow good field sanitation practices such as sufficient irrigation, as over- irrigating can increase the risk of spreading the bacteria."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Young plants remain with green leaves which leads to sudden wilting and death.",
+        "In mature plants leaves turn to light green with curling at the tip.",
+        "Dip the root in water to notice bacterial ooze coming from the cut end.",
+        "Dying branches often curl to form a \"shepherd's crook\".",
+        "Consider direct control actions as soon as symptoms are found on crops."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect and destroy infected plant parts by burning.",
+        "Spraying of",
+        "Pseudomonas fluorescens at a rate of 1 kg per acre.",
+        "Spraying of",
+        "Bacillus subtillus at a rate of 800 g per acre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always use precautionary wearing of goggles and protective clothing.",
+        "Spraying of 2- Bromo-2-Nitro",
+        "Propane (e.g., trade name:",
+        "Bacterimycin, Bactrinashak) (immunomodulators) at a rate of 60 g per acre.",
+        "Not classified in",
+        "WHO list."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Curling and drooping of stem and leaves (Clemson University, USDA, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Bacterial wilt on and inside plant stem (Clemson University, USDA, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Groundnut Bacterial Wilt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Brown spot on rice",
+  "sections": {
+    "Header": [
+      "Brown spot on rice",
+      "Cochliobolus miyabeanus ( Helminthosporium oryza ) Nthomba za m'mpunga"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Burn stubble after harvest to remove infected material for the next crop",
+        "Use disease-free certified seed - Plant at recommended spacing: 6 seeds per station at 23cm by 23cm.",
+        "Plant at start of rainy season in",
+        "December to",
+        "January but no later than 15",
+        "February",
+        "Apply potassium to correct deficiency (66kg muriate of",
+        "Potash).",
+        "Rice is more susceptible if the soil is deficient in potassium",
+        "Avoid irrigating from infected to uninfected plots",
+        "In suseptible areas get fungicide treated seed from a registered seed company or research station"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: maize, sorghum and other cereals",
+        "Look for disease symptoms on leaves soon after emergence - numerous oval spots, chocolate brown or light brown greyish centres with margins",
+        "On older leaves the lesions are initially small, circular, and dark brown to purple- brown.",
+        "Fully developed lesions are circular to oval with a light brown to grey center, surrounded by a reddish brown margin",
+        "Start to employ control measures when 2-5 % of the tillers are infected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and destroy by burning or burying severely infected plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Apply",
+        "Mancozeb (e.g.",
+        "Dithane",
+        "M45, Mancozeb 800",
+        "WP) 50g/10L of water.",
+        "Multisite preventative fungicide, FRAC Group:",
+        "M3",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Apply as full cover spray.",
+        "Do not enter the field until the spray has dried."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infected grain on the right of the photo compared to healthy on the left (Donald Groth, Louisiana State University AgCenter, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Numerous oval spots, chocolate brown or light brown greyish centres with yellow margins (Donald Groth, Louisiana State University AgCenter, Bugwood.org )"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Seedling blight also caused by the disease (Donald Groth, Louisiana State University AgCenter, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Brown spot on rice"
+      }
+    ]
+  }
+}

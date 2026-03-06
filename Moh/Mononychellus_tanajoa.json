@@ -1,0 +1,62 @@
+{
+  "title": "Cassava green mite",
+  "sections": {
+    "Header": [
+      "Cassava green mite",
+      "Mononychellus tanajoa"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties like",
+        "SLICASS 1-6",
+        "Practice field sanitation",
+        "Use clean cassava cuttings for planting",
+        "Plant at the onset of the rains to encourage vigorous growth and thereby increase tolerance to mite attack",
+        "Plant early, preferably in",
+        "June, for the crop to escape severe damage at young age",
+        "Practice intercropping.",
+        "Cassava intercropped with pigeon pea has been reported to suffer less damage from cassava green mite than grown in a pure culture in",
+        "Nigeria"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring 4-6 weeks after planting",
+        "Look under the leaf for green mite",
+        "Webs on leaves are signs of spider mite presence",
+        "Appearance of yellow chlorotic speckles on young leaves is a sign of green mite infestation"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Biological control using predatory mites has been a success",
+        "Use secateurs to remove infested tips and destroy outside the field",
+        "Prepare garlic spray by crushing 3 garlic plants in10 litres of water, then add 7 grams of powder soap and mix well",
+        "Prepare onion solution by crushing 500 g onion in 10 litres of water, plus 2 teaspoons of vegetable oil and 7grams of soap powder.",
+        "Spray evenly in the field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous); Spray early in the morning or late in the evening; Enter the field two weeks after spraying; Spray a maximum of twice per cropping season; Harvest no earlier than two weeks after spraying",
+        "Use of chemical insecticides like chlorpyrifos at the rate of 70 ml to 5 litres of water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cassava leaf with green mite damage (New Zealand Digital Library)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "The nymphs are green in colour and turn yellow as they get older. In the farm you can see them more clearly if you look at them under a hand lens. (Braima James et al.)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cassava green mite"
+      }
+    ]
+  }
+}

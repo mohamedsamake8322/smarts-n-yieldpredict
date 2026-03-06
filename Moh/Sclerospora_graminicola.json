@@ -1,0 +1,59 @@
+{
+  "title": "Pearl millet downy mildew",
+  "sections": {
+    "Header": [
+      "Pearl millet downy mildew",
+      "Sclerospora graminicola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant and open pollinated varieties.",
+        "Use certified/disease free seed.",
+        "Sow seed early as this tends to result in less downy mildew than seed sown late in the season.",
+        "Practice crop rotation to avoid infection from soil-borne resting spores.",
+        "Avoid watering in the evening to avoid leaf wetness and humidity which encourages fungal growth.",
+        "Leave as much space as possible between crop plants and weed regularly to avoid dense growth and resulting transfer of spores.",
+        "Transplant the crop rather than direct sow, both in rainy and post-rainy seasons."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Hosts also include",
+        "Setaria italica (foxtail millet) and wild grasses.",
+        "Crops should be monitored carefully, particularly during the first month after sowing.",
+        "Monitor for symptoms.",
+        "Symptoms first appear on the first or second leaf that forms:",
+        "Leaves: yellow at base and green above ('half-leaf' symptom).",
+        "Yellow area becomes larger as new leaves develop and can have a downy appearance, particularly on the lower surface.",
+        "Whole plant: stunted and lacks flowers, or parts of the flower head become leaf-like ('green ear' symptom).",
+        "Severe infection can cause plant death.",
+        "Control infestation as soon as it is identified to limit the number of oospores (resistant spores produced by",
+        "S. graminicola ) left in the soil.",
+        "These can survive from a few months up to 10 years."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Promptly burn plants with symptoms to reduce accumulation of spores in soil.",
+        "Plow the field deeply (to at least 20 cm) to bury the infected plant material."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sporulation on underside of infected pearl millet leaf produces a downy white growth (Rob Williams, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Deformed flower head of pearl millet caused by internal infection by downy mildew (Rikhab Raj-Bhansali, CAZRI, www.bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Pearl millet downy mildew"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Typical symptoms of systemic downy mildew (Rob Williams, CABI)"
+      }
+    ]
+  }
+}

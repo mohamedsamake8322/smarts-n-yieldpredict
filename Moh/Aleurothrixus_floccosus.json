@@ -1,0 +1,84 @@
+{
+  "title": "Woolly white flies",
+  "sections": {
+    "Header": [
+      "Woolly white flies",
+      "Aleurothrixus floccosus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean planting materials with phytosanitary certificates to reduce spread of infestation into new fields.",
+        "Apply banding materials like grease or tangle foot to prevent ants from climping to the canopy to introduce the white flies.",
+        "Construct slippery bands of plastic sheets around the tree trunk at about one meter above the ground level.",
+        "In very infested areas, it is important to leave a period of 3 months rotating with grasses.",
+        "Avoiding sequential planting in the infected areas to avoid whitefly spread between fields.",
+        "Enhance natural predators of whiteflies (ladybirds, spiders, lacewing larvae and dragonflies) by planting",
+        "Calendula or",
+        "Parsley in the orchard."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect regularly for small white-winged insects with a yellowish- white abdomen and a light dusting of white powder (scales).",
+        "Check for ants climbing to the plant canopy to collect honeydew.",
+        "Inspect the infested parts for black sooty mold which may be sticky due to honeydew.",
+        "Consider to control when more than 60% of the sampled leaves have at least 10 flies per leaf."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune the highly infested plant parts and destroy by burning.",
+        "Collect fallen fruit and leaves and destroy by burning.",
+        "Spray the affected plant part with a mild solution of water with dish washing detergent at rate of 1 tea spoonful of detergent in 1L of water",
+        "Spray with biological control products like",
+        "Beauvitech® WP or",
+        "Lecatech® WP sourced from",
+        "Dudutech at 250 g per hectare with 1,500 – 2,000L of water every 5–7 days with 2–4 repeat applications."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Spray with",
+        "Acetamiprid 200g/ Kg (e.g.",
+        "MANIK 20",
+        "SP at rates of 3-4g/20litres).",
+        "WHO Class",
+        "III.",
+        "Slightly hazardous.",
+        "PHI - 90 days.",
+        "REI: 12 hours.",
+        "Spray",
+        "Buprofezin 400g/L (e.g.",
+        "Applaud 40SC at a rate of 30 mL /100L water).",
+        "WHO Class",
+        "III.",
+        "Slightly hazardous.",
+        "PHI 14 days.",
+        "REI-12 hrs.",
+        "Repeat applications within 12 days if the pest is seen with maximum of 3 sprays per season."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Woolly white flies infestation on the underside of citrus leaves (J. Mulwa, KALRO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Woolly white flies"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Sooty mold on citrus leaf (J. Mulwa, KALRO)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Sooty mold on citrus fruits (J. Mulwa, KALRO)"
+      }
+    ]
+  }
+}

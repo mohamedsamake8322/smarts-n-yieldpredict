@@ -1,0 +1,98 @@
+{
+  "title": "Thrips on tomato - Zambia",
+  "sections": {
+    "Header": [
+      "Thrips on tomato - Zambia",
+      "Frankliniella occidentalis Western flower thrips, alfalfa thrips"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Thrips are tiny insect that can spread viruses on crops.",
+        "Use only thrips-free seedlings from certified nurseries.",
+        "Mulch with polythene to prevent thrips to pupate in the ground",
+        "Conserve natural enemies (predatory thrips, green lacewings, pirate bugs, parasitic wasps and predatory mites) by avoiding pesticides.",
+        "Keep old crop fields away from new ones (other vegetables, tobacco + commercial flower plants).",
+        "Avoid planting crop next to onions, garlic or cereals as high thrips numbers often build up on these.",
+        "Avoid using fields near greenhouses where ornamentals are grown as these act as hosts for the virus and thrips.",
+        "Use a fertilizer programme to avoid nutrient deficiencies as thrips prefer those crops.",
+        "Irregular ripening associated with thrips-transmitted",
+        "Tomato spotted wilt virus (David",
+        "Riley, University of",
+        "Georgia, Bugwood.org)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly for thrips/symptoms from seedlings-harvest.",
+        "Insect:",
+        "Adults + immature stages <1 mm.",
+        "Pale yellow/light brown.",
+        "Shake crop onto paper to monitor.",
+        "Thrips usually feed on young lower leaf surfaces, buds, flowers + fruits.",
+        "Symptoms:",
+        "Feeding by adults + immatures causes silvering (silver tiny spots) on leaves, distorts plant growth, deforms flowers.",
+        "Floral abortion occurs, fruits are not well- shaped (of poor selling quality).",
+        "Consider control measures when 5-15% of the plants are infected (pest is the vector for",
+        "Tomato spotted wilt virus)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Daily overhead irrigation (2-5 mm) at midday to reduce pest.",
+        "Leaves must dry quickly to avoid diseases.",
+        "Use blue/yellow sticky trap to attract + kill adults (8 traps per 0.5 acres).",
+        "Use neem-based products, spray once every two weeks if threshold is breached, maxium 3 times.",
+        "Spray late afternoon when thrips are active, but so the leaves dry before night.",
+        "Spray",
+        "Beauveria bassiana during late afternoon/after sunset as",
+        "UV light may degrade the product.",
+        "Check label for dosage as products may differ.",
+        "Flood the field after harvest to destroy pupae in the soil."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray late afternoon when thrips are most active.",
+        "Do not spray too late, so leaves dry before night.",
+        "Most pesticides are active against young thrips and at young plant stage.",
+        "Spray with a lot of water (even more as on labels) as all leaves must become wet to affect thrips (equals 600-1000 litres/ha).",
+        "When using a pesticide, always wear protective clothing, follow the instructions on the label, incl dosage, timing of applicationl, max number of sprays etc.",
+        "Do not empty into drains.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "Spray dimethoate – based products (Dimethoate40EC, and others).",
+        "Contact and systemic organophosphate",
+        "WHO class",
+        "II (moderately acute toxic), Spray maximum of 2 times (once per month); PHI 21 days at least; REI 3 days; High risk to bees and other beneficial arthropods; Dangerous to fish + soil organisms.",
+        "Do not contaminate water.",
+        "Soak planting materials into imidacloprid products before planting (AmigoPT, Ngwenya",
+        "T450FS, others) (usually at 0.4 to 15 ml/litre, but check label).",
+        "Neonicotinoid pesticide.",
+        "WHO class",
+        "II (moderately acute hazardous); REI 2 days, Highly toxic to bees.",
+        "Never spray when tomato/ weeds/neighbouring crops are in flower + not near beehives as bees may be killed."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult thrip and silvering damage on leaf (David Cappaert/Bugwood.org - CC BY-NC 3.0 US)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Frankliniella occidentalis adults (W.D.J. Kirk)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Frankliniella occidentalis adults (W.D.J. Kirk)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Thrips on tomato - Zambia"
+      }
+    ]
+  }
+}

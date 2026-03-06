@@ -1,0 +1,65 @@
+{
+  "title": "Collar Rot on Cowpea",
+  "sections": {
+    "Header": [
+      "Collar Rot on Cowpea",
+      "Sclerotium rolfsii (Sinhala: Padastha kunuwima, Tamil: Kaluthu alulkal noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing once in 3-4 season",
+        "Sterilization of soil by exposing to bright sunlight",
+        "Remove and destroy previous season's infected crop debris",
+        "Crop rotation with non- leguminous crops",
+        "Sowing on raised beds to improve drainage",
+        "Avoid accumulation of leaf litters in the crown area"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Make regular field visits and look for followings - yellowing of leaves in isolated patches decay of stem base or collar region at ground level and wilting",
+        "Appearance of white mycelium in collar region which extended into the soil and on organic debris.",
+        "Numerous tan to brown, spherical sclerotia of about mustard seed size near the collar region"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove affected plants with soil and burn",
+        "Avoid irrigation through infected to healthy fields",
+        "Thiophanate",
+        "Methyl 70% WP.",
+        "Application rate - 30g in 50 lit. of water for 10m2"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply fungicide as soil drench to infected area and surrounding healthy plants only",
+        "Always wear personal protective equipment while handling pesticides",
+        "Read the manufacturer’s instructions carefully before handling pesticides",
+        "Do not eat, smoke or drink while spraying pesticides",
+        "WHO Classification – class",
+        "U.",
+        "Moderately harmful to predatory mites and flower bugs"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "White mycelium at the collar region FCRDI, Mahailluppallama Lakmini Priyantha"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Seedling infection FCRDI, Mahailluppallama Lakmini Priyantha"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellowing of leaves FCRDI, Mahailluppallama Lakmini Priyantha"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Collar Rot on Cowpea"
+      }
+    ]
+  }
+}

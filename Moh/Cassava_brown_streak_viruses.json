@@ -1,0 +1,57 @@
+{
+  "title": "Cassava brown streak virus disease",
+  "sections": {
+    "Header": [
+      "Cassava brown streak virus disease",
+      "Cassava brown streak viruses"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant or tolerant varieties if available.",
+        "Use clean planting material.",
+        "Encourage neighbours to also scout their fields at the same time, particularly when",
+        "CBSD has been recently reported.",
+        "All farm implements need to be sterilised over fire or with bleach, especially when cutting cassava stems into planting materials (cuttings).",
+        "Intercrop cassava with maize, beans or sunflower as trap crops for the whiteflies, the main vector of the disease.",
+        "Uproot and bury all cassava volunteer plants.",
+        "Remove weeds to discourage habitats for the vectors.",
+        "Harvest early, don't leave tubers for more than 9 months in the soil as this increase the chances of getting the virus."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Sometimes symptoms only occur on tubers, not leaves, and sometimes they only occur on leaves, not tubers.",
+        "Symptoms may appear and disappear in young plants, but appear again in cassava plants at a later stage.",
+        "Leaves: patchy yellowing along the thin secondary veins which are more prominent on mature (bottom) leaves.",
+        "This can spread and form bigger patches, with a ‘feathery’ or ‘blotchy’ appearance.",
+        "Stems: brown streaks and spots on upper green portions and necrotic lesion on the leaf scar.",
+        "May show shoot top death which can progress into die-back.",
+        "Tubers: dry rot symptoms.",
+        "Begin with localised dead areas that are yellow-brown, with a cork-like appearance, and characteristic white threads on the outside of the tuber.",
+        "Some tubers have restricted growth, appearing like a series of rings stuck together.",
+        "Occurs alongside cassava mosaic disease (CMD) which is also spread by whiteflies and in infected planting material but the symptoms differ.",
+        "Daily monitor for the presence of whiteflies and take action when one whitefly is seen."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove diseased plants and dry all stems to use them as fire wood or stakes for climbing crops like beans.",
+        "However symptomless plants may still contain the virus.",
+        "There are no chemicals against viruses."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Typical dry brown rot is only evident when tubers are cut open (Eric Boa, CABI,)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf symptoms are seen clearly here against the light, but are easy to miss when walking through fields (Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cassava brown streak virus disease"
+      }
+    ]
+  }
+}

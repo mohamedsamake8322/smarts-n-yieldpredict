@@ -1,0 +1,45 @@
+{
+  "title": "Leaf petiole and stem blight disease of sweet potato",
+  "sections": {
+    "Header": [
+      "Leaf petiole and stem blight disease of sweet potato",
+      "Alternaria bataticola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use resistant/tolerant varieties if available.",
+        "When selecting planting material, avoid using any vine cuttings with symptoms on leaves, petioles and stems."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Leaves: at first, small dark brown to black oval spots occur on the fully-grown leaves and show a pattern of rings.",
+        "Leaves: veins turn black on underside of leaves.",
+        "Leaves: spots grow up to 5 mm in diameter, frequently join together and are often surrounded by yellow halos.",
+        "Leaves: later, the infected leaves turn yellow and fall off.",
+        "In severe cases they create a carpet of dead blackened leaves over the soil.",
+        "Petioles and stems: spots are grey at first, later becoming black and sunken.",
+        "If they grow right around the petiole and stem they will kill them."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Destory vines after harvest to prevent disease spread."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Black sunken spots with grey centres on stems (Carlos Lopes, EMBRAPA)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage to leaves and stems causing a blight (Carlos Lopes, EMBRAPA)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf petiole and stem blight disease of sweet potato"
+      }
+    ]
+  }
+}

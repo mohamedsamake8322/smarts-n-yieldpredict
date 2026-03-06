@@ -1,0 +1,53 @@
+{
+  "title": "Citrus nematode",
+  "sections": {
+    "Header": [
+      "Citrus nematode",
+      "Tylenchulus semipenetrans"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties for root stock e.g. sweet orange, trifoliate orange, grapefruit.",
+        "Clean tools after using in infected field.",
+        "Frequent irrigation can reduce damage.",
+        "Add compost or manure to improve water holding capacity.",
+        "Do not allow irrigation water to move from diseased plant to healthy plant."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Citrus nematode attacks can be seen by the lack of vigour in the citrus tree, twig dieback, a decline in growth, and reduced fruit size and yield.",
+        "Monitoring is mandatory, although it cannot be done at farm level.",
+        "There is a need to take soil and root samples from around 5 plants/acre at random and should be sent to the nearest facility or research station where experts can analyse them."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "There are few effective chemical controls for citrus nematodes.",
+        "Soil fumigation has been tried but is not recommended due to its phytotoxicity and human health hazards.",
+        "Additionally, soil fumigation only gives temporary relief."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Dirty root symptoms caused by citrus nematodes (left); healthy roots (right). Photo: Gerald Holmes, Cal Poly, San Luis Obispo, Bugwood.org, CC BY- NC"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Citrus nematode"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Irrigation layout"
+      }
+    ]
+  }
+}

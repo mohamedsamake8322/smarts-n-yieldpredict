@@ -1,0 +1,90 @@
+{
+  "title": "Citrus red mite on citrus",
+  "sections": {
+    "Header": [
+      "Citrus red mite on citrus",
+      "Panonychus citri citrus red spider mite, citrus red spider mite, red spider mite, 柑橘红蜘蛛 or 柑橘全爪螨 in Chinese"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Choose mite- tolerant varieties (such as",
+        "Jindan)",
+        "Plant at 3 m row space and 2 m tree space; change to 3 * 4m several years later",
+        "Grow cover vegetation like beans inside orchard to enhance natural enemies",
+        "Remove residues and litter in the orchard in winter to eliminate overwintering mites",
+        "About ½ mm tiny dark-red mites on fruit (Jim",
+        "Baker)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Adult and young mites feed mainly on leaves and sometimes on fruits.",
+        "Mites cause tiny grey or silvery spots on leaves and fruits (stippling).",
+        "Heavy damage can lead to necrosis of leaves and premature leaf fall",
+        "Choose 10 out of 100 trees randomly, and look for small, silvery spots on both leaf sides of new leaves with little up-curling at leaf edge.",
+        "Look once to twice a week when branches sprout and during blossoming",
+        "At few (1 to 4) mites on average per leaf on less than 10 to 30% of trees, then consider biocontrol, When more than 30% of trees are infected and at more than 5 mites on average per leaf, biocontrol may not be sufficient.",
+        "Consider chemical control.",
+        "If many ladybeetles, and their larvae are present act later."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hang 2 to 5 mite - release containers into each tree (each 500 to 600 predatory mites",
+        "Amblyseius cucumeris 胡瓜钝绥 螨, such as from",
+        "Fujian",
+        "Yanxuan bio- control technology",
+        "Ltd, or others) or other predatory mites, such as",
+        "Euseius into the top of trees at dusk in cloudy days.",
+        "No rain within two days is an advantage.",
+        "Repeat after a month if red spider mites are still abundant.",
+        "Prune branches with many mites or mite eggs in late winter or early spring"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray 7:00-9:00am or 5:00-8:00pm; into canopy reaching leave undersides",
+        "When using a chemical or botanical pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Always consult recent list of registered pesticides of",
+        "ICAMA/China, and of",
+        "China pesticide information network.",
+        "Chlorpyrifos products.",
+        "For example 毒 死蜱, 乐斯本 40%EC at 1000-1500 times dilution with water.",
+        "But double check product label as each product is different.",
+        "Organophosphate group of contact action.",
+        "No resistance so far reported, but moderate resistance risk.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); pre-harvest interval p.h.i. 20 days; restricted re- entry interval r.e.i. 2 days after spray; Maximum 2 sprays per season in min 14 day interval.",
+        "Toxic to fish and bees:",
+        "So don’t spray near water or during plant blossoming or near neighboring flowering crops or bee hives",
+        "Lambda-cyhalothrin products (such as pyridaben, 哒螨灵，哒螨 净, and others).",
+        "Usually 20%WP or 15%EC products at 50-70mg/L or 2300-3000 times dilution in water.",
+        "But double check product label as each product is different.",
+        "Pyrethroid group of contact action.",
+        "Moderate resistance reported.",
+        "WHO class",
+        "II (moderately acute hazardous); p.h.i. 15 days. r.e.i. 2 days after spray; Maximum 2 sprays per season in min 14 day interval.",
+        "But toxic to fish, so don’t spray near water."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Tiny grey silvery spots on leaves and mites (J. Baker)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "WHO toxicity class II pesticides may not be allowed in certain IPM or “green” production schemes"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Silvery infested and dark green uninfested leaf (B. Cartwright)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Citrus red mite on citrus"
+      }
+    ]
+  }
+}

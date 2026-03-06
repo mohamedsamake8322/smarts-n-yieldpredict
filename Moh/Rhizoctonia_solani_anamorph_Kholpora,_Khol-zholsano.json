@@ -1,0 +1,86 @@
+{
+  "title": "Rice sheath blight",
+  "sections": {
+    "Header": [
+      "Rice sheath blight",
+      "Rhizoctonia solani (anamorph) Kholpora, Khol-zholsano"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Collect and destroy floating plant debris from the field after final land preparation if using intensive rice cultivation",
+        "Use wide plant spacing (25cmX15 cm or 20cmX20cm) in intensive disease vulnerable areas",
+        "Burn crop stables and residues after harvesting rice",
+        "Apply",
+        "MOP fertilizer in two splits at basal (50%) and the rest at second top dress of urea",
+        "Use balanced fertilizers.",
+        "Exessive",
+        "N enhances the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: wheat, maize, barley, legumes, vegetables",
+        "Regularly visit and observe rice plants in the field starting from active tillering stage to booting stage.",
+        "Disease appears mostly in the wet season.",
+        "Initial water soaked greenish-grey lesions develop near the water level.",
+        "Lesions enlarge with an irregular dark-brown outline border centered with greyish-white centres",
+        "Some lesions may coalesce and the stem of the plant looks like a cobra skin.",
+        "Observe neighbours plants for symptoms, especially in the grasses.",
+        "High humidity and hot weather is favourable for disease development",
+        "Fungicide application is recommended when the relative",
+        "Lesion",
+        "Height (RLH) is above 30%"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice alternate wetting and drying in rice field",
+        "In",
+        "K deficincient conditions, apply additional 40 kg/ ha",
+        "MOP fertilizer in the second top dressing especially in light textured soil",
+        "Premixed",
+        "Tebuconazole + Trifloxystrobin 0.5 ml/L, Tebuconazole 1 ml/ L, Propiconazole application as per label."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use mask during pesticide spray and wash hands and clothes after pesticide application",
+        "Don’t drink or smoke during spraying",
+        "Apply fungicides during late afternoon",
+        "Mixtures of fungicides help to reduce the chance of resistance developing.",
+        "Don’t apply fungicide at high concentrations and not more than two times per season.",
+        "Follow web-sites of",
+        "BRRI, AIS for more information",
+        "Tebuconazole:",
+        "WHO II, FRAC Class 3.",
+        "Trifloxystrobin:",
+        "WHO U, FRAC Class 11.",
+        "Spray fungicides two times at 7-10 day intervals.",
+        "Tebuconazole:",
+        "WHO II, FRAC Class 3.",
+        "Spray fungicides two times at 7-10 day intervals.",
+        "Hexaconazole 2 ml/L Hexaconazole:",
+        "WHO III, FRAC Class 3.",
+        "Spray fungicides two times at 7-10 day intervals.",
+        "Propiconazole:",
+        "WHO II, FRAC Class 3.",
+        "Spray fungicides two times at 7-10 day intervals."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sheath blight caused by T. cucumeris - lesions on leaves. Photo by Chin Khoon Min"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice sheath blight symptoms. Photo by IRRI (CC BY-NC-SA)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rice sheath blight"
+      }
+    ]
+  }
+}

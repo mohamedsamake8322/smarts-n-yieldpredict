@@ -1,0 +1,80 @@
+{
+  "title": "Soya bean scale on broad beans and pigeon peas",
+  "sections": {
+    "Header": [
+      "Soya bean scale on broad beans and pigeon peas",
+      "Crypticerya genistae (white scale)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove any alternate host plants/ weeds from the area especially milkweed ( Euphorbia sp.)",
+        "The insect has a wide host range from vegetable crops to weed species and herbs.",
+        "This pest is now well established in",
+        "Barbados."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor plants from seedling stage.",
+        "Look for all stages of insect life cycle, e.g. nymphs (crawlers), as well as ants that could indicate their presence.",
+        "Adult insect with an orange body and black legs with a white fluted egg sac or ovisac.",
+        "Egg sac held at a 45 degree angle to the plant stalk.",
+        "Eggs are pinkish and crawlers move around plant after hatching from the ovisac."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Coccinelid beetle (e.g.",
+        "Anovia circumclusa ), and",
+        "Syrphid flies (e.g.",
+        "Syneura cocciphila ) attack the insect and they will reduce the populations but may be too late to save the crop and insecticide sprays may be required.",
+        "Acetamiprid (Aval) 3/4 tsp gal",
+        "Fipronil. (Regent, Flip, Mortel) ½ tsp/gal"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "All the insecticides above have systemic activity.",
+        "Ensure that appropriate personal protective equipment is worn when using agro-chemicals.",
+        "Restricted",
+        "Enter",
+        "Interval 24hrs, Pre harvest interval 3-5 days.",
+        "IRAC 4a.",
+        "WHO class",
+        "N/A",
+        "WHO Class",
+        "II.",
+        "IRAC 2b.",
+        "Restricted",
+        "Enter",
+        "Interval 24hrs, Pre harvest interval 7.",
+        "Highly toxic to fish and bees",
+        "Thiamethoxam (Actara). 3-4 oz per",
+        "Acre",
+        "IRAC 4a.",
+        "WHO N/A.",
+        "Highly toxic to bees.",
+        "Don’t spray during flowering.",
+        "Dimethoate (Perfekthion) at 1 to 1.5 pints/acre",
+        "IRAC 1b.",
+        "WHO class",
+        "II"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Soya bean scale on broad beans and pigeon peas"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Icerya purchasi ‘Cotton Cushion scale’ is similar to the ‘white scale’ Crypticerya genistae (below). The fluted ovisac is held parallel to the plant in this species but at a 45 degree angle in white scales. Photo: Richard Crook, CC BY- NC-ND"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Crypticerya genistae . Photo: Lyle Buss, University of Florida"
+      }
+    ]
+  }
+}

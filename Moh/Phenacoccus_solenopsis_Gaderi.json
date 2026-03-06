@@ -1,0 +1,77 @@
+{
+  "title": "Cotton mealybug",
+  "sections": {
+    "Header": [
+      "Cotton mealybug",
+      "Phenacoccus solenopsis Gaderi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of alternate host plants e.g. show flower, okra, brinjal and tomato before sowing.",
+        "Eradication of weeds in crop e.g. hazardani and itsit in crop.",
+        "Keep the water channels clean from weeds throughout the growing season.",
+        "Disinfect agricultural tools/implements after use in mildly hot water for ten minutes.",
+        "Decrease irrigation interval."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor alternate host plants initially and later on the crop after two weeks of emergence of the crop twice a week.",
+        "Observe very small yellow-coloured nymphs, white waxy adults (females) and white egg sacs attached to the female adults on twigs, on main stem and underside of the leaves.",
+        "Be prepared when the temperature is 35-40°C and",
+        "RH 60-70% as these favour development of the mealybugs.",
+        "Pest scouting can be done any time of the day.",
+        "Initially, the attack appears on the edges of the field near water channels and under the shade of the trees.",
+        "Do necessary action immediately on the appearance of the pest."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot the infested plants and bury.",
+        "Observe the mummified adults (brown to brick red in colour) in the field for the presence of parasitoids ( Aenasius bambawalei ).",
+        "Observe the presence of predators (coccinellids and green lacewing).",
+        "Avoid application of pesticides when reasonable levels of natural enemies are present in the field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Tagging and spot spraying with below mentioned pesticides if attack is in patches",
+        "Repeat chosen spray after 4 days to control the nymphs hatched from eggs.",
+        "Spray in the evening or early morning",
+        "Avoid drinking, eating and smoking during the spray",
+        "Use safety measures i.e. gloves, cloths, gum boots, masks and goggles while handling and spraying pesticides.",
+        "Preventive:",
+        "Imidacloprid 360 gm/lit + Tebuconazole 12.5 gm/lit (Hombre",
+        "Excel 372.5",
+        "FS) @ 10 ml/kg seed will control vector for almost 60 days or with",
+        "Thiamethoxam (Actara 25% WE) @ 48 gm/kg of seed or",
+        "Sulfoxaflor (Transform 50% WG) 30 gm/kg of seed",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Toxic to bees and harmful to aquatic and soil organisms.",
+        "Curative:",
+        "Profenofos 50",
+        "EC @ 1000 ml in 120 litres of water.",
+        "Organophosphate with contact and stomach action",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Cypermethrin + chlorpyrifos (Nurelle-D 55% EC) @ 40",
+        "EC @ 800 ml in 120 litres of water.",
+        "Organophosphate with contact and stomach action",
+        "WHO class",
+        "II (Moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Cotton Mealybug Adult Female (www.ohioline.osu.edu)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cotton mealybug"
+      }
+    ]
+  }
+}

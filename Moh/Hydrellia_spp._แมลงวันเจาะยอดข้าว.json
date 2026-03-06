@@ -1,0 +1,51 @@
+{
+  "title": "Rice whorl maggot (RWM) on rice",
+  "sections": {
+    "Header": [
+      "Rice whorl maggot (RWM) on rice",
+      "Hydrellia spp. แมลงวันเจาะยอดข้าว"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Control weeds around rice field before planting.",
+        "Its alternate hosts include grasses such as",
+        "Brachiaria sp., Cynodon sp., Echinochloa sp., Leersia sp., Leptochloa sp., Panicum sp. and wild rice."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitoring",
+        "Direct",
+        "Control",
+        "Drain water out of field when there is a",
+        "RWM outbreak to reduce",
+        "RWM egg laying",
+        "The rice plant can compensate for the damage caused by the rice whorl maggot."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Restrictions none"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Larva of rice armyworm (Rice Department, Thailand)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice whorl maggot (RWM) on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult of rice whorl maggot (Jintana Chaiwong)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damage by rice whorl maggot (Jintana Chaiwong)"
+      }
+    ]
+  }
+}

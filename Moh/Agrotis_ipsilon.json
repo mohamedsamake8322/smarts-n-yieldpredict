@@ -1,0 +1,67 @@
+{
+  "title": "Black cutworm in maize",
+  "sections": {
+    "Header": [
+      "Black cutworm in maize",
+      "Agrotis ipsilon"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting in fields with known history of cutworm problems",
+        "Farm sanitation:",
+        "Weed 2 weeks before planting; Brush around the field about 10 to 20 metres away"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for the presence of the eggs on the leaves and larvae at the base of the plant or underneath debris",
+        "Monitor for young larvae that may have clipped very near or just below the soil surface",
+        "Dig soil to confirm the presence of cutworm larvae",
+        "When the soil is moist, the cutworm caterpillars cut the plant just above the soil surface",
+        "When soil is dry, cutworms will feed on the plant just below the soil surface, causing the plant to wilt and die"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick adults and eggs on leaves",
+        "Dig soil to expose larvae to predators such as birds and ants",
+        "Apply",
+        "Bt ( Bacillus thurigiensis ) spray",
+        "Use",
+        "Chlorpyrifos (Chlorpyrifos ethyl",
+        "EC 48%; dose: 70ML: 5L/ 0.25 acre)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "NB:",
+        "Apply insecticides to the ground around affected plants; Always ensure your protective gears / apparels are put on, e.g. goggles, overalls, etc.",
+        "WHO Class",
+        "III (Slightly hazardous); Once sprayed, cutworms get sick the first day after application and then die",
+        "WHO Class",
+        "II (Moderately hazardous); REI: 12",
+        "Hrs; PHI: 24Hrs",
+        "Use",
+        "Carbaryl",
+        "WHO Class",
+        "II; REI: 12",
+        "Hrs; PHI: 24Hrs"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Black cutworm in maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cutworm caterpillar and a cut maize stalk (University of Georgia Archive, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Adult on maize leaf (Coutin R. / OPIE)"
+      }
+    ]
+  }
+}

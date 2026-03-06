@@ -1,0 +1,91 @@
+{
+  "title": "Cassava Brown Streak Disease (CBSD)",
+  "sections": {
+    "Header": [
+      "Cassava Brown Streak Disease (CBSD)",
+      "Cassava Brown Streak Virus (CBSV) Khate la chinangwa"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "One of the main ways this virus is spread is by planting infected plant material - always use virus/disease-free planting materials.",
+        "Plant resistant varieties such as",
+        "Sauti and",
+        "Silira, Phoso (tolerant)",
+        "Mpale (Tolerant), CH06/033 (Tolerant), CH05/143 (Tolerant), if available.",
+        "Avoid movement of planting materials from one place to another especially in areas whose cassava crop is infected with",
+        "CBSD.",
+        "Field hygiene - uproot and bury all volunteer cassava plants and plants that show symptoms."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor plants weekly for symptoms or the presence of the vector - whiteflies ( Bemisia tabaci ).",
+        "The whiteflies are approx. 0.8mm in length with white bodies and wings, usually found on the underside of leaves.",
+        "The first symptoms, although not always seen, are brown lesions/ streaks on green stems and leaf petioles.",
+        "Older and more mature leaves show yellow vein banding which turns into large yellow patches.",
+        "Tubers can be reduced in size, deformed and cracked but the major symptoms are dark brown lesions/staining - this can also result in post-harvest spoilage.",
+        "Severely affected roots become constricted.",
+        "As soon as symptoms and whiteflies are seen, carry out direct control."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot all infected plants showing symptoms in order to eleminate sources of inoculum for",
+        "CBSV."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink or smoke when mixing or applying pesticides.",
+        "Do not apply insecticides in areas where cassava leaves are harvested for food.",
+        "Using insecticides to manage white flies which are vectors of",
+        "CBSD is not advisable for small-scale farmers, as it is usually ineffective and not cost effective.",
+        "For larger producers growing planting materials (cuttings)",
+        "it might be advisable to use insecticides to manage whiteflies using the insecticides prescribed.",
+        "Apply cypermethrin 20g/L (Cypermethryn 20EC; Cyrux 20EC) at a rate of 5ml per 20L water.",
+        "Contact and stomach acting pyrethroid.",
+        "IRAC group: 3A",
+        "WHO II - Moderately hazardous.",
+        "Apply when whiteflies are noticed.",
+        "Very toxic to aquatic animals do not spray near water.",
+        "Apply deltamethrin 25g/L (Decis",
+        "EC; Deltamethrin",
+        "EC) at a rate of 70ml per 100L water.",
+        "Pyrethroid with contact and residual activity.",
+        "IRAC group: 3A",
+        "WHO II - Moderately hazardous.",
+        "Apply when whiteflies are noticed.",
+        "Very toxic to aquatic animals do not spray near water.",
+        "Apply profenophos (40g/L) & cypermethrin (4g/L) (Polytrin",
+        "C 44EC, Prosper 44EC).",
+        "Apply at a rate of 12ml/10L or 1L/ha.",
+        "Profenophos is an organophosphate",
+        "IRAC group 1B",
+        "Both",
+        "WHO II - Moderately hazardous.",
+        "Apply when whiteflies are noticed.",
+        "Very toxic to aquatic animals do not spray near water."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Tuber constrictions and dark brown necrotic areas internally (CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Brown leasions on the cassava stems (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellow coloration of the viens and yellow patches on the leaves (CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cassava Brown Streak Disease (CBSD)"
+      }
+    ]
+  }
+}

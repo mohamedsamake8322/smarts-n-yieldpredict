@@ -1,0 +1,65 @@
+{
+  "title": "Brown Streak Disease on Cassava",
+  "sections": {
+    "Header": [
+      "Brown Streak Disease on Cassava",
+      "Cassava Brown Streak Virus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid the movement of infected planting materials",
+        "Use disease free clean planting materials",
+        "Use tolerant varieties like",
+        "NASE3, NASE 14 and",
+        "NASE19.",
+        "Sterilize farm tools using",
+        "Jik, especially when cutting cassava stems into planting materials",
+        "Intercropping cassava with maize/ cowpeas reduces the whiteflies, a key vector to the spread of",
+        "CBSD"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor for disease symptoms of",
+        "CBSD regularly; checking mature (lower) leaves for yellow and green patches, stems for streak lines and storage roots for dark staining of the fresh root.",
+        "Check the presence of vectors (white fly) populations in the plantation.",
+        "If you notice any affected plant, immediately uproot and destroy by burying or burning"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot and destroy the infected plants"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No direct control to",
+        "CBSD",
+        "The use of pesticides to control vectors is discouraged",
+        "not only do most of them kill natural enemies, whiteflies quickly build up resistance to them",
+        "and many are not very effective in garden situations"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "CBSD sympltoms on cassava leaves (Photo: Titus Alicai, NARO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown Streak Disease on Cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "CBSD symptoms on cassava stems (Photo: Titus Alicai, NARO)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "CBSD sympltoms on tubers (Photo: Robert Reeder, CABI)"
+      }
+    ]
+  }
+}

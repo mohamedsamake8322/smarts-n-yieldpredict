@@ -1,0 +1,74 @@
+{
+  "title": "Bacterial Speck of Tomatoes - Kenya",
+  "sections": {
+    "Header": [
+      "Bacterial Speck of Tomatoes - Kenya",
+      "Pseudomonas syringae pv. tomato"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified seeds and disease-free transplants",
+        "Avoid planting in wet conditions",
+        "Use correct plant spacing i.e. 60cm x 60cm (outdoor) and 60cm x 45cm (greenhouse) for proper aeration",
+        "Avoid sprinkler irrigation",
+        "Irrigate early in the morning to allow the leaves to dry",
+        "Rotate tomatoes with non- solanaceous crops e.g. maize or beans"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Dark brown to black lesions of various sizes and shapes on leaves, fruit and stems, initially surrounded by a yellow halo and concentrated near leaf margins",
+        "Small slightly raised dark brown to black tiny flecks in immature fruit.",
+        "Raised black spots on mature fruit that are superficial, rarely penetrating deep and can be scraped by a fingernail",
+        "Stunted growth with delayed fruit maturity.",
+        "Take action when specks are seen on 1 plant",
+        "Additional relevant crops:",
+        "Potato, eggplant, capsicum, African nightshade"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Disinfect all farm tools in 10% jik solution (50mls in 1 litre of water) for 5 minutes",
+        "Start working from the healthy field towards the infected"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Bacterial diseases have no known cure hence avoid the introducing the pathogen.",
+        "Use of copper-based fungicides only suppresses the pathogen.",
+        "When using a pesticide always wear protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spray with copper-based fungicide e.g. copper oxychloride (Amicop 50WP or",
+        "Cobox 50WP) at 60g per 20L water",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous), PHI 7 days.",
+        "Repeat spraying fortynightly.",
+        "Maximum 2 sprays/season.",
+        "Toxic to aquatic organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Dark brown to black lesions (various sizes and shapes) on leaves surrounded by yellow halo concentrated near leaf margins, curling upwards (Photo: Gerald Holmes)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Speck of Tomatoes - Kenya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Dark brown to black lesions of various sizes and shapes on stems (Photo: Queen's Printer for Ontario, 2009)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Raised black spots on mature fruit that are superficial, rarely penetrating deep and can be scraped by a finger nail (Photo: Queen's Printer for Ontario, 2009)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Brown root disease of cocoa",
+  "sections": {
+    "Header": [
+      "Brown root disease of cocoa",
+      "Phellinus noxius"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove forest trees (alternative hosts) at least 4 years before planting cocoa in the same soil",
+        "It is important to remove as many roots as possible from the soil as they can harbour the disease.",
+        "Establish good ground cover on cleared land to speed up the decay of infected root parts",
+        "Ensure that soil and root fragments from affected areas are not transported to uninfected farms"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for the hard brittle encrustation of soil around the root and trunk from the base to 1m up from the ground",
+        "Soil encrustation at base of diseased plant incorporates brown mycelium of the fungus which may be seen under a hand lens",
+        "Look out also for foliar symptoms of yellowing of leaves followed by drying up of leaves, defoliation and dieback.",
+        "Infected trees with highly decayed root systems lose support and may be blown over in strong winds.",
+        "Disease is often discontinuous in distribution on farms",
+        "Routine inspection and early detection aids in green control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and burn infected trees and contact trees and their roots as soon as the disease is detected"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are currently no recommended chemical controls for this disease in",
+        "Ghana"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown root disease of cocoa"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cocoa stem showing brown encrustation on trunk (A. Y. Akrofi, Cocoa Research Institute of Ghana)"
+      }
+    ]
+  }
+}

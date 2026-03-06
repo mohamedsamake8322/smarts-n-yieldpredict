@@ -1,0 +1,67 @@
+{
+  "title": "Thread blight of cocoa (white and black)",
+  "sections": {
+    "Header": [
+      "Thread blight of cocoa (white and black)",
+      "Marasmiellus scandens and M. byssicola"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "This disease is common in areas with high rainfall and where farm management is poor",
+        "Ensure the following are carried out to improve management practices on the farm:",
+        "To increase air circulation, reduce shade levels - the correct number of shade trees to use on the farm is 5-8 trees/acre",
+        "Prune cocoa in",
+        "March/April and clear weeds 3-4 times a year.",
+        "Also remove chupons, mistletoes and epiphytes to improve air circulation and reduce humidity",
+        "Improve drainage and drain away stagnant water",
+        "Plant or thin out to recommended spacing of 3 x 3m for hybrid cacao from",
+        "COCOBOD Use improved planting materials from",
+        "COCOBOD Seed",
+        "Production",
+        "Division",
+        "Farm implements/tools used for pruning should be sterilized using fire or household bleach (1 in 5 solution) after pruning each branch"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cocoa fields throughout the year.",
+        "Look for white or black strands of the fungus which grow along the branches and on the underside of green leaves",
+        "Look out for sudden death of a branch with dead brown leaves hanging down but still attached by either the white or black mycelial strands (threads) of the fungi",
+        "The leaves remain attached to the branch when dead and this creates a humid environment in which the fungus can thrive",
+        "Take action when these symptoms are seen and continue to remove thread blight infected materials at regular intervals such as when pruning and weeding"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune out the infected leaves and branches at least 30 cm below any sign of the thread.",
+        "Pruning should be done as soon as symptoms are observed",
+        "Do not leave the pruned branches with threads on the farm, otherwise spores will continue to develop and infect the remaining trees",
+        "Burn infected leaves and branches on the farm"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Thread blight is difficult and uneconomical in many cases to manage with fungicides"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Dead leaves held in position by the thread fungus (A. Y. Akrofi, Cocoa Research Institute of Ghana)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Strands of white thread fungus on cocoa branch (A. Y. Akrofi, Cocoa Research Institute of Ghana)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Strands of black thread fungus growing on a branch (A. Y. Akrofi, Cocoa Research Institute of Ghana)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Thread blight of cocoa (white and black)"
+      }
+    ]
+  }
+}

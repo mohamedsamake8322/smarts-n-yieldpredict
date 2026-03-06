@@ -1,0 +1,86 @@
+{
+  "title": "Barnyard grass in lowland rice",
+  "sections": {
+    "Header": [
+      "Barnyard grass in lowland rice",
+      "Echinochloa crus-galli Myet-thee, Myet-cho, Be-sa-myet"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use good or certified seed source to get weed free seed; especially important if the weed is not yet present in your area",
+        "Consider preparing a seed bed by waiting for the first rains to promote weed germination; then plough fields when weeds are 2-3 weeks old or control using a post-emergent herbicide (glyphosate).",
+        "Practice good levelling of the rice field to cover thoroughly with water",
+        "Deep plough at depth of 15 cm and flood the field up to 15-22 cm before planting for circa 1-2 weeks",
+        "Rotate every year with upland crops such as pulses or oil seed crops",
+        "Fallow land for at least one growing season of rice (circa 4 months)",
+        "Control established weed populations near waterways by pulling or hoeing to prevent spread during flooding and storm events"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Annual grass, spreading or stiffly erect, tufted or reclining at base; 0.3-2 m high.",
+        "Leaves dark green, linear and flat; 10−65 cm long and 5-30 mm wide.",
+        "Inflorescences branched, upright or nodding (10−25 cm long) with flowerheads ('branches') ca. 5 cm long",
+        "Look out for grass weeds similar to rice but without hairy, sickle-shaped appendages (auricle) at the base of the leaves",
+        "Check weekly for weed infestation between the rows of rice plants before the rice canopy is closed",
+        "If the weed is present, consider direct control."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Manual weeding by hand, foot or simple hand tools such as weed intercultivator is the most common method",
+        "Flood the fields with 15-22 cm of water to supress the weed growth and to kill the weeds"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When spraying herbicide, take care to cover thoroughly the field with the right rate of herbicide , wear protective clothing",
+        "Apply",
+        "Glyphosate 48 % SL (Ridweed",
+        "RP) at a rate of 400-600 cc/ac; only to be used prior to planting for total weed control.",
+        "Glyphosate:",
+        "WHO Class",
+        "III (slightly hazardous), WSSA resistance group 9.",
+        "Should not be used once the crop is planted.",
+        "Apply",
+        "Pretilachlor 30% + Fenclorim 10 % safener (Sofit 300",
+        "EC) to the soil as a pre-emergence herbicide with the rate of 400-500 cc/ac to kill weed seed.",
+        "Apply at the first 0-3 days in both direct seeding and transplanting crop",
+        "Pretilachlor and",
+        "Fenclorim:",
+        "WHO Class",
+        "U (unlikely to present acute hazard); Pretilaclor:",
+        "WSSA Resistance group 15.",
+        "Take care not to enter water into the field within 24 hrs.",
+        "The weed is most sensitive to",
+        "Quinclorac 28 % + Bensulfuron- methyl 32 % (Yelao) when used as a post emergence herbicide 7-12 days after sowing/10-15 days after transplanting.",
+        "Spread powder onto saturated soil (200-250 g/ac).",
+        "Raise the water level to 4-6 inches after 24 hours.",
+        "Quinclorac:",
+        "WHO Class",
+        "III (slightly hazardous), WSSA resistance group 26 // Bensulfuron-methyl:",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use), WSSA resistance group 2."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Barnyard grass inflorescence ©M. Becker/Wikimedia Commons"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Barnyard grass in lowland rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Young plant at tillering ©T. Marquez/DuPont."
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Close-up of leaf without auricle ©Andrey Zharkikh/flickr"
+      }
+    ]
+  }
+}

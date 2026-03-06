@@ -1,0 +1,91 @@
+{
+  "title": "Cassava mosaic disease on cassava",
+  "sections": {
+    "Header": [
+      "Cassava mosaic disease on cassava",
+      "Cassava mosaic virus (CMV)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Always use disease free planting materials which can be obtained from",
+        "Golden",
+        "Valley",
+        "Agricultural",
+        "Research",
+        "Trust, from",
+        "Conservation",
+        "Farming",
+        "Unit in",
+        "Chisamba, from",
+        "Zambia",
+        "Agriculture",
+        "Research",
+        "Institute; or consult a",
+        "Plant",
+        "Doctor/ Extension",
+        "Officer in your area.",
+        "Avoid planting alternative hosts of the virus such as",
+        "Castor bean ( Ricinus communis ) adjacent to cassava.",
+        "Avoid planting cassava if your neighbours have virus-infected cassava as the virus will be carried by whiteflies to your field.",
+        "Avoid planting alternative hosts of the virus- vector whitefly, Bemisia tabaci , such as tomato in or nearby cassava field.",
+        "Remove weeds such as",
+        "Geratium sp. which are also alternative hosts of the whitefly",
+        "Intercrop with maize or cowpeas, to repel whiteflies.",
+        "Light yellow or green areas on the leaf blades due to cassava mosaic virus (Photo by:",
+        "S.",
+        "Toepfer, CABI)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Examine at least 20 plants per 150 plants during the day once a week for plant virus symptoms:",
+        "The symptoms are light yellow or green variegation on the leaf blades, curled leaves and stunted plants which can occur throughout the growing season of the plant.",
+        "Threshold: 3-5 plants out of 20 with virus symptoms.",
+        "The disease is carried and spread by whiteflies, Bemisia species .",
+        "Scout fields for white flies early morning or evenings twice per week on 20 plants.",
+        "If you shake plants, flying-off white flies can be seen.",
+        "Threshold:",
+        "Consider control of white flies if 3-5 whiteflies are found per plant out of 20 plants and if you have",
+        "Cassava",
+        "Mosaic",
+        "Virus in your area; 10-20 whiteflies per plant out of 20 plants if no such virus is known in your area."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Once, the plants are infected, rogueing and burying of diseased plants is the most important control option, and should be followed by crop rotation with non-host plants such as sorghum or cowpeas to reduce virus levels in your area.",
+        "Note that burning is not allowed in many areas of",
+        "Zambia.",
+        "Direct control options for the vector whitefly are available but are not useful due to the mobility of the whiteflies (after treatment new whiteflies immigrate into your field and may carry the virus)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Plenty of chemical control products against the whitefly are available but are usually not useful due to the mobility of the whiteflies (after treatment new whiteflies immigrate into your field and may carry the virus)",
+        "When using a pesticide (even for botanicals) always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "Always consult recent list of registered pesticides (ZEMA)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Weakened plant with curled leaves (Photo by Pasquale Piccirillo CPC)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "The 2 mm big white fly Bemisia tabaci is a vector of the virus(Photo by: Ian D. Bedford, CPC CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "WHO class II pesticides might not be allowed in local IPM schemes."
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cassava mosaic disease on cassava"
+      }
+    ]
+  }
+}

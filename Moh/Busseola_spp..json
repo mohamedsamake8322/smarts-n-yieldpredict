@@ -1,0 +1,60 @@
+{
+  "title": "Stem borer on maize",
+  "sections": {
+    "Header": [
+      "Stem borer on maize",
+      "Busseola spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Knowledge of history about the prevalence of the pest",
+        "Use of resistant varieties e.g.",
+        "DMR, Western yellow, etc.",
+        "Practice crop rotation e.g. plant groundnuts after maize.",
+        "Avoid growing crops of the same family (e.g. rice, millet)",
+        "Remove all crop residues and burn or bury away from the maize field"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits to farm to identify the presence/absence of the pest",
+        "Look for eggs at the axis of the leaves",
+        "Look for possible symptoms, e.g. brown/black tunnels on stems",
+        "Check level of attack on crop for severity of destruction/ damage"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Identify eggs on the leaves and destroy by removing infested leaves and safely dispose either by burning or burying.",
+        "Use of sharp instrument to prick the larvae in the tunnel(s).",
+        "Remove all affected crops and burn or bury away from the maize field"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Moderately hazardous (WHO Class",
+        "II); Do not use during flowering period to avoid killing pollinators (e.g. bees)",
+        "Apply cypermethrin"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Larvae feeding in stem (CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Eggs on maize leaf (J Linne, ICRISAT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Stem borer damage (CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Stem borer on maize"
+      }
+    ]
+  }
+}

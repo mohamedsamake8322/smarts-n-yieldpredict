@@ -1,0 +1,56 @@
+{
+  "title": "Lantana in pasture",
+  "sections": {
+    "Header": [
+      "Lantana in pasture",
+      "Lantana camara"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean pasture seed to reduce the chance of contamination",
+        "Remove all existing hedges by cutting and digging out the roots (15cm depth)",
+        "Move livestock out of previously infested fields.",
+        "Sow land with pasture and/or native vegetation.",
+        "Growth of new vegetation can outcompete the weed."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Perennial woody shrub, 2-5m high, erect or scrambling.",
+        "Branches with small thorns",
+        "Leaves: yellow-green to green, rough, 2-12 cm in length",
+        "Flowers: multicolored (yellow, orange, white, pale violet, pink or red), in dense clusters ca. 4 cm across.",
+        "Fruits: round, fleshy, 2-seeded, each 5 mm wide, green turning purple then blue-black.",
+        "Arranged in dense, round clusters",
+        "Look out for this weed on disturbed land, plantations, forest edges/gaps, gassland, water courses, lowlands and gullies"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Do not control with grazing as the weed is poisonous to livestock",
+        "Removal of small infestations may be possible by cutting and digging out the roots (15 cm depth)",
+        "Remove flower heads prior to seed set to prevent further spread",
+        "Slashing and burning can stimulate regrowth of the weed.",
+        "Combine with other control methods",
+        "Control will need to be repeated, potentially over many years as the weed is difficult to get rid of"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Largeleaf lantana ( Lantana camara ) (Forest and Kim Starr, Starr Environmental, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Largeleaf lantana ( Lantana camara ) (Forest and Kim Starr, Starr Environmental, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Lantana in pasture"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Largeleaf lantana ( Lantana camara ) (Rebekah D. Wallace, University of Georgia, Bugwood.org)"
+      }
+    ]
+  }
+}

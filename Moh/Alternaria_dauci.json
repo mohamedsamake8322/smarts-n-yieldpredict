@@ -1,0 +1,73 @@
+{
+  "title": "Leaf blight of carrot",
+  "sections": {
+    "Header": [
+      "Leaf blight of carrot",
+      "Alternaria dauci"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties if available.",
+        "Plant clean, certified seed or seed which has been treated with hot water at 50°C for 20 minutes.",
+        "Remove any volunteer carrots as they are sources of inoculum.",
+        "Do not plant carrots downwind of, or next to, an infected field since the disease can spread via wind and water.",
+        "Apply farmyard manure as necessary to maintain soil nutrient levels.",
+        "Nutrient deficiency can increase the susceptibility of carrot to the disease (particularly lack of potassium).",
+        "Use furrow irrigation if possible and maintain optimum irrigation levels.",
+        "Avoid overhead irrigation since this leaves the plant wet and encourages spread of the disease.",
+        "Irrigate early in the day to allow crop to dry - irrigating at night will leave crop damp and promote disease development.",
+        "Plant on raised beds with wide row spacing to allow soil to drain.",
+        "Keep carrots free of injury - injured carrots are more susceptible to the disease",
+        "If growing carrots in a greenhouse, cover it with a",
+        "UV-absorbing vinyl film to inhibit development of",
+        "A. dauci",
+        "Clean machinery after use since it can spread the disease",
+        "Rotate crop for at least three years with non-susceptible crops.",
+        "Do not rotate with alternative hosts garlic, dill, celery, cabbage, cucumber, carnation, lettuce, parsnip, parsley, radish, tomato, aubergine"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Leaves: dark brown to irregularly shaped lesions/spots on leaf blades and petioles.",
+        "These lesions usually appear on older leaves first and have a yellow margin.",
+        "Leaves: lesions gradually join together causing leaves to shrivel and die.",
+        "Results in a burnt appearance.",
+        "Seeds: shrivel and will not germinate.",
+        "Disease will first appear in small patches in a field and will gradually spread.",
+        "Monitor crop particularly closely when temperatures are around 27°C and there are long periods of rain/there is high humidity.",
+        "These are optimal conditions for disease development.",
+        "Syptoms can be similar to",
+        "Cercospora leaf blight, but lesions caused by",
+        "Cercospora become elliptical with tan centres and brown borders, whereas lesions caused by",
+        "Alternaria become dark brown and irregular.",
+        "Symptoms of bacterial blight are also similar but leaf spots are usually confined between leaf veins."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue infected leaves to reduce disease spread.",
+        "Burn the leaves (if allowed in your area) to completely remove the source if inoculum.",
+        "After harvest, plough in crop debris to speed up decomposition.",
+        "The pathogen only survives in the soil on infected carrot residue."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Symptoms of leaf blight on carrot plants at the end of vegetation (first year of seed production). (Krystyna Tylkowska)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Diseased carrot leaf. (Krystyna Tylkowska)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf blight of carrot"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms of leaf blight on flower - stalks (second year of seed production). (Krystyna Tylkowska)"
+      }
+    ]
+  }
+}

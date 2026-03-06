@@ -1,0 +1,57 @@
+{
+  "title": "Pod sucking bugs of cowpea",
+  "sections": {
+    "Header": [
+      "Pod sucking bugs of cowpea",
+      "Hemiptera spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant cultivars if available",
+        "Plant early to avoid periods of heavy infestation",
+        "Intercrop with sorghum or green gram to reduce populations and the need for insecticides",
+        "Do not intercrop with maize.",
+        "Doing this can cause an increase in pod damage caused by pod-sucking bugs",
+        "Clean up haulms to prevent the insects from over-seasoning in the crop residues"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: pigeon pea, chickpea, soyabean, hyacinth bean, common bean, hoary-pea",
+        "Look for pod sucking bugs at 45 days after planting.",
+        "Monitor crops regularly, particularly in the morning hours when bugs are active",
+        "Pods shrivel and dry prematurely due to nymphs and adults feeding on the sap",
+        "The shrivelling and drying symptoms can be confused with other stresses such as drought and disease, however, the feeding puncture wounds are a sign of pod-sucking bugs",
+        "The insects can often be found on the pods or under the leaves of cowpeas and other host plants"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "During flowering and pod formation, bugs can be collected and killed by hand in small plots",
+        "Apply a mixture of black soap and kerosene:",
+        "Dissolve 170 g of black soap in 150 ml of water",
+        "Dissolve this in 1",
+        "L of kerosene to form a thick concentrate of soap/kerosene mixture",
+        "Dissolve 400 ml of the mixture to 5",
+        "L of water",
+        "Spray at weekly intervals after the cowpea has developed pods",
+        "Apply plant based products, e.g.",
+        "African hot peppers, cashew nut, garlic bulb, bitter leaf",
+        "Pod-sucking bugs feed on a wide range of legumes and are very mobile, which makes them challenging to control"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Pod sucking bugs (IITA, Flickr)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Pod sucking bugs feeding on cowpea (IITA, Flickr)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Pod sucking bugs of cowpea"
+      }
+    ]
+  }
+}

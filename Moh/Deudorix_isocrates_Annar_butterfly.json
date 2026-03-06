@@ -1,0 +1,68 @@
+{
+  "title": "Pomegranate fruit borer",
+  "sections": {
+    "Header": [
+      "Pomegranate fruit borer",
+      "Deudorix isocrates Annar butterfly"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Dig or plough around pomegranate tree immediately after harvest to expose the pupae to predatory birds, other natural enemies and the sun.",
+        "Removal of weeds and plants which serve as alternate hosts.",
+        "Collection and destruction (by burying) of damaged fruits away from the field.",
+        "Covering the fruit with",
+        "Polythene bag or butter paper when fruits attain lemon size (30-40 days after fruit set)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use of light trap @ 1/acre to monitor the activity of adults.",
+        "ETL:",
+        "Observe the eggs on fruit calyx (flower) @ 5 eggs/plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release of",
+        "Trichogramma chilonis @ one lakh (5 cc)/acre at the time of flowering.",
+        "At flowering stage, spray",
+        "NSKE 5% or",
+        "Azadirachtin 1500 ppm @ 3.0 ml/litre of water at 15 days intervals commencing from initiation of flowering up to the harvesting subjected to the presence of fruit borer"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators",
+        "Cyperthethrin, Indoxacarb",
+        "WHO classification",
+        "Class",
+        "II Moderately",
+        "Hazardous.",
+        "Spinosad",
+        "WHO classification",
+        "Class",
+        "III Slightly",
+        "Hazardous",
+        "Spray any one of the following chemicals:",
+        "Indoxacarb 14.5% SC (0.5 ml/litre) or",
+        "Spinosad 45% SC (0.5 ml/litere) or",
+        "Cypermethrin 25% EC (1 ml/ litre) at fortnightly interval from flowering to fruit development."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Fruit damage by Annar butterfly (MSSRF)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Pomegranate fruit borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Source: MSSRF 2016 Wardha VRC"
+      }
+    ]
+  }
+}

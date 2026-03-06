@@ -1,0 +1,83 @@
+{
+  "title": "Streak disease of maize",
+  "sections": {
+    "Header": [
+      "Streak disease of maize",
+      "Maize streak virus (MSV)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Buy and plant certified resistant varieties such as",
+        "Obaatampa and",
+        "Mamaba from reputable source (registered certified seed dealers).",
+        "Use recommended spacing of the maize (80x40cm) and recommended fertilizer rates (4bags or 200kg of",
+        "NPK 15:15:15 per ha) to increase the growth vigor",
+        "Plant maize early in the major and minor seasons and avoid staggered planting",
+        "Rotate",
+        "Maize with legumes such as beans, cowpeas and soyabean",
+        "Weed the maize and clear the grass around the maize crop and maintain a barrier of 10m bare ground between plot and the sourrounding crop or weeds to reduce the vector (leaf hoppers) population and disease transmission"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Maize streak is a virus disease transmitted by plant hoppers and leaf hoppers",
+        "Scout frequently for leafhoppers and disease symptoms starting 1 week after germination if the virus is known from your area",
+        "Plants infected with maize streak virus show symptoms 10 to 14 days after infection",
+        "Symptoms appear mostly on young growing tender leaves, which are preferred by leafhoppers for feeding",
+        "Symptoms vary from clear narrow light green to mild chlorotic streaks centred on secondary and tertiary leaf veins.",
+        "They are uniformly distributed on the leaf surface thus cannot be mistaken with other diseases.",
+        "Parallel yellow streaks appear and the plants remain stunted, producing small ears",
+        "Consider control when 1-3 leaf hoppers (vectors) are seen per maize plant or if early symptoms of the disease are seen"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot / rogue infected maize plants when they first show signs of disease to avoid the disease from spreading to healthy plants.",
+        "Put the whole plant in a sack so the leaf hoppers do not go to other plants then destroy by burning or feed to livestock",
+        "Weed and remove grasses from the maize field to reduce vector population",
+        "Control the vector (leaf hoppers) which transmit the virus with insecticides",
+        "Chlopyriphos ethyl (e.g.",
+        "Conpyrifos, Dusfos, Dursban).",
+        "Applied at a rate of 60-70mls per 15 lts knapsack sprayer.",
+        "A contact and ingested organophosphorus insecicide; IRAC mode of action 1B",
+        "Apply",
+        "Deltamethrin based products (check product label for the recommended dosage).",
+        "It is a",
+        "Pyrethroid with a contact and stomach poison or with residual activity (i.e. 3-4 weeks persistence).",
+        "IRAC mode of action 3A"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "There are no pesticides for the virus but insecticides can be used to reduce the insect vector that spreads the disease",
+        "WHO class",
+        "II (Moderately hazardous), pre-harvest interval p.h.i. 35 days; restricted re-entry interval r.e.i. 3 days.",
+        "Repeat application max twice if the pests/ vectors persist and reach thresholds.",
+        "Apply early morning or late afternoon.",
+        "WHO class",
+        "II (Moderately hazardous), p.h.i. 3 days, r.e.i. ½ day. 5",
+        "High risk predators, pollinators, to fish and other aquatic organisms.",
+        "Do not contaminate surface waters or ditches; do not apply to plants suffering from drought or other physical distress; do not spray within 6m of field boundary."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Streak disease of maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Maize streak virus symptoms on leaves (Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Maize streak virus symptoms on whole plant (International Maize and Wheat Improvement, www.flickr.com)"
+      }
+    ]
+  }
+}

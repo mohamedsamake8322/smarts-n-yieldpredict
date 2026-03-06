@@ -1,0 +1,69 @@
+{
+  "title": "Brown Spot on Rice",
+  "sections": {
+    "Header": [
+      "Brown Spot on Rice",
+      "Bipolaris oryzae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use hot water seed treatment at 53-54°C for 10-12 minutes before sowing.",
+        "Increase plant spacing (25x25 cm) (depending on variety and soil) to increase aeration and reduce humidity.",
+        "Field sanitation such as removing weed hosts, rice straws, ratoons, and volunteer seedlings is important to avoid infection caused by this disease.",
+        "Avoid irrigating from infected to uninfected plots.",
+        "Seed treatment has been found to reduce seedling infection (see",
+        "Yellow",
+        "Direct",
+        "Control).",
+        "Apply fertilizer in balance (avoid overdosing with",
+        "Nitrogen)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scouting 3 times per weeks especially when the weather is cool.",
+        "Look for disease symptoms:",
+        "Small, brown circular lesions on seedlings.",
+        "On older leaves of plants, circular lesions with light brown to grey centre surrounded by reddish- brown margin and a golden halo can be observed",
+        "Start taking control measures when 2-5% of the tillers are infected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plants by burning or composting.",
+        "Mancozeb : 1 kg with 200-400L of water /ha",
+        "Cabendazim : 1l with 200-400L of water /ha",
+        "Seed treatments with: captanchitosan, carbendazim, or mancozeb"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray in morning between 6-10 am or in afternoon between 3-6 pm",
+        "FRAC code group",
+        "M3; WHO Class",
+        "U (Unlikely to present acute health hazard)",
+        "FRAC group 1; WHO Class",
+        "IV (U) (Unlikely to present acute health hazard); Spray at early tillering and pinnacle initiation to heading stage",
+        "FRAC group",
+        "M4; Captan:",
+        "WHO Class",
+        "IV (U)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms cause by Brown Spot on rice (www.bugguide.net)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown Spot on Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms (Garry Mann, Wikimedia Commons)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Brown Spot in rice - Thailand",
+  "sections": {
+    "Header": [
+      "Brown Spot in rice - Thailand",
+      "Helminthosporium oryzaeBreda de Haan โรคใบจุดสีน้ําตาล"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rice field sanitation (plough soil up and over to expose to the sun).",
+        "Mix seed with",
+        "Mancozeb or",
+        "Carbendazim + Mancozeb before.",
+        "Weed control.",
+        "Apply fertilizer (0-0-60 5-10 kg/rai) to reduce disease outbreak."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field",
+        "Survey",
+        "Observation every 2 weeks (seedling until harvesting by looking at leaf damage)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Rotate fungicide.",
+        "Mancozeb + Carbendazim"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Apply fungicide when 10% of disease incidence found in the rice field.",
+        "Mancozeb",
+        "WHO Class",
+        "U (Unlikely to present acute hazard)",
+        "WHO Class",
+        "U (Unlikely to present acute hazard)",
+        "Iprobenfos",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom of brown spot (Wannaphan junlapha)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown Spot in rice - Thailand"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptom of brown spot maximum tillering stage (Wannaphan junlapha)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptom of brown spot at ripening stage (Wannaphan junlapha)"
+      }
+    ]
+  }
+}

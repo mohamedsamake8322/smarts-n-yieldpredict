@@ -1,0 +1,85 @@
+{
+  "title": "Paddy Bacterial Leaf Blight",
+  "sections": {
+    "Header": [
+      "Paddy Bacterial Leaf Blight",
+      "Xanthomonas oryzae pv. oryzae (Oryza sativa) (Bacterial Ilai Karugal)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Grow",
+        "Tolerant varieties (IR 20, IR 72, TKM 6)",
+        "Secure disease free seed and from disease free source",
+        "Seed treatment with",
+        "Pseudomonas fluorescens at 10 gm per kg seed in 1 lit of water overnight",
+        "Establish nurseries preferably away from the main field and in upland conditions",
+        "Avoid injuries of seedlings during transplanting.",
+        "Apply",
+        "Nitrogen (N) fertilizer based on",
+        "Leaf",
+        "Colour",
+        "Chart.",
+        "Skip",
+        "N application at booting stage (if disease is moderate).",
+        "Drain the field (except at flowering stage of the crop)",
+        "Destruction of weeds and collateral hosts (e.g.",
+        "Watergrass, Barnyard grass)",
+        "Avoid flow of water from affected fields",
+        "Maintain proper plant spacing 20x15 cm",
+        "Monitor irrigation channels to avoid water from affected fields.",
+        "Monitor for disease free tools for intercultural operations"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular observation after 45",
+        "DAT for temperature (25-30° C), humidity (> 90%), splash rains and deep water (>2.5 cm height for a week).",
+        "Monitor after 45",
+        "DAT for leaf tip drying with yellow margins and follow the oozing test by cutting the cross section of the leaf in a pure water. (Also check for the development of streaks on the leaves for the possible cause of",
+        "Bacterial",
+        "Leaf",
+        "Streak disease).",
+        "Disease score exceeds 3 (5-25% leaf area infected) then follow curative measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Avoid continuous deep water, water from affected fields and use of infected tools",
+        "Spray",
+        "Pseudomonas fluorescens at 1kg per acre with 200 lit. of water",
+        "Spray neem oil 30 ml per lit of water or neem seed kernel powder 50 gm of 1 lit of water",
+        "Application of bleaching powder @ 2 kg/acre in the irrigation water at “Kresek stage” (>60",
+        "DAT)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Bacterial leaf blight is airborne so apply recommended chemicals on entire crop.",
+        "Spray",
+        "Plantomycin 7",
+        "SP @ 100 gm per acre in 200 lit of water when the disease attains grade 3",
+        "Plantomycin is not classified by",
+        "WHO but should be used with care"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Wavy margins (source: TNAU agri portal December 2015)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Paddy Bacterial Leaf Blight"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bacterial oozing (source: T.W. Mew, IRRI, bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Severely infected crop (source: rkmp.co.in)"
+      }
+    ]
+  }
+}

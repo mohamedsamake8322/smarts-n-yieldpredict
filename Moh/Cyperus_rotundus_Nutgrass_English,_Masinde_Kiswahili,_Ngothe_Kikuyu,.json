@@ -1,0 +1,86 @@
+{
+  "title": "Purple Nutsedge in Maize",
+  "sections": {
+    "Header": [
+      "Purple Nutsedge in Maize",
+      "Cyperus rotundus Nutgrass (English), Masinde (Kiswahili), Ngothe (Kikuyu),"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prevention particulaly important as difficult to contol.",
+        "Seeds considered unimportant;tubers are the main means of spread",
+        "Clean tools and farm machinery to prevent tubers being spread",
+        "Do not accept potentially contaminated materials, e.g. soil on planting stock",
+        "Control established populations near waterways to prevent spread during flooding and storm events",
+        "Promote cover crops such as legume crops like alfalfa to suppress establishment"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Erect, perennial sedge (30-60 cm high), with extensive underground network of tubers.",
+        "Tubers dark brown/black, irregular shaped, 1-2 cm long at maturity, with several buds.",
+        "Leaves linear with distinct midrib, 7 mm wide.",
+        "Flowering stems 3-sided, erect.",
+        "Inflorescence with several unequal 'branches', each 2-6 cm long, emerging from the tip of the stem; each with 3-8 purplish-brown flowerheads.",
+        "Regularly inspect fields, at least fortnightly and in particular during and shortly after the wet season, and consider direct control when found",
+        "Look our for it in low spots, wetlands and along waterways.",
+        "Water and storm events can spread tubers",
+        "Regular monitoring at least fortinightly at beginning of every growing season. (over 10 sedge plants /m2 control with glyphosate)"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Tubers and rhizomes in the soil can be destroyed by dessication (most effective in dry soil) or exhausting food reserves.",
+        "Cultivate every 2-3 weeks until crop canopy forms: the weed is shade intolerant",
+        "Place organic mulch over areas where the weed is expect to grow: provides temporary suppression",
+        "Black polyethylene sheet can be used in high value crops as a barrier or for soil solarization",
+        "Tillage must be deep (>12cm) in order to disturb as many of the rhizomes and tubers as possible.",
+        "Do this under dry conditions so the exposed rhizomes dessicate.",
+        "Fortnightly spot weeding should be carried out",
+        "Use",
+        "Delayed",
+        "Planting: before planting seed, allow the weed to emerge after the rains/ irrigation for early control with post emergence herbicide",
+        "Use",
+        "Bromacil at recommended rate (2 lt/ha) to be used to suppress the weed until crop canopy develops to suppress the weed."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Most effective herbicide is glyhposate, applied post-emergence at the flowering stage, at 3L/ ha (480g a.e.",
+        "IPA salt).",
+        "Repeated applications when you see the weed within a season, to eliminate weed in an area, at 2L/ha (480g a.e.",
+        "IPA salt)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Glyphosate",
+        "WHO Class",
+        "III (slightly hazardous)",
+        "Bromacil:",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Purple Nutsedge in Maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Cyperus rotundus inflorescence (© S.D. Sawant)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Plants with underground tubers, basal bulbs, rhizomes and fibrous roots (© S.D. Sawant)"
+      }
+    ]
+  }
+}

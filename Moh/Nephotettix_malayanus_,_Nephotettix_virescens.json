@@ -1,0 +1,67 @@
+{
+  "title": "Green leafhoppers - Cambodia",
+  "sections": {
+    "Header": [
+      "Green leafhoppers - Cambodia",
+      "Nephotettix malayanus , Nephotettix virescens"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use",
+        "GLH resistant varieties if available (e.g.",
+        "IR66).",
+        "Contact the local agriculture office for an up-to-date list of available varieties.",
+        "Synchronize rice planting with other farms",
+        "Transplant older seedlings (>3 weeks) to reduce viral disease susceptibility transmitted by leafhoppers.",
+        "Apply sufficient nitrogen to avoid contributing to population outbreaks by applying too much nitrogen, or hindering plant recovery from green leaf hopper (GLH) damage by not applying enough nitrogen.",
+        "Encourage biological control agents: small wasps (parasitize the eggs), mirid bug; Strepsipterans, fungal pathogens (attacks both nymph and adult)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor fields at weekly intervals.",
+        "When populations appear to be increasing, check twice a week, spray chemicals if outbreak (>5",
+        "GLH per hill)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If",
+        "GLH attack in young rice seedlings, where the plants are still small/ short (below 20cm), use net scarf to catch/ collect and kill.",
+        "Not practical for bigger plants.",
+        "Spray pesticides if high infestation (>5",
+        "GLH per hill).",
+        "Buprofezin",
+        "Use 0.5 ml/l water",
+        "Fenobucarb.",
+        "Use 20-30ml/8lit water.",
+        "Non- systemic, contact action"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray onto top of rice canopy as",
+        "GLH tend to feed at the top.",
+        "Buprofezin (Insect",
+        "Growth regulators).",
+        "IRAC Group 16.",
+        "WHO IV (Unlikely hazardous)",
+        "Carbamate.",
+        "IRAC Group 1A.",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Green leaf hopper adult (NBAIR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Green leafhoppers - Cambodia"
+      }
+    ]
+  }
+}

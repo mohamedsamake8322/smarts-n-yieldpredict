@@ -1,0 +1,79 @@
+{
+  "title": "Rice - Yellow Stem Borer",
+  "sections": {
+    "Header": [
+      "Rice - Yellow Stem Borer",
+      "Scirpophaga incertulas (Walker)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "After harvest, plough and flood the field to kill larvae and pupae",
+        "Cut/slash the weeds around the rice field (on the bund) 30 days after planting",
+        "Synchronize planting with neighbouring farms",
+        "Don’t over fertilize with",
+        "Nitrogen",
+        "Conserve natural enemies.",
+        "Do not use",
+        "Broad",
+        "Spectrum insecticides",
+        "Practise crop rotation (e.g.",
+        "Legumes or vegetable) and maintain proper crop spacing",
+        "Harvest crops at ground level to remove the larvae in stubble"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Larva feeds inside the stem producing deadheart during tillering and whiteheads during flowering stage.",
+        "Scout rice field for dead hearts or white heads 3 times/week",
+        "Use sweep net to monitor population",
+        "Observe natural enemies (e.g. crickets, spiders, dragon flies, parasitic wasps, and bats)",
+        "Use light traps, 12 per acre between 7-9 pm",
+        "Use direct control if more than 10% deadhearts during tillering or more than 5% whitehead during flowering are observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plant (dead heart or white head) from field and destroy/ burn the stalk",
+        "Remove egg masses by hand from plants",
+        "Before transplanting, clip the tip of leaf blades to remove any eggs",
+        "Collect stem borer larvae from floating leaves by skimming the water with a net",
+        "Diazinon; 1-1.5",
+        "Liters/ ha/300-600",
+        "Liters water",
+        "Cartap hydrochloride (eg",
+        "Padan); 1-1.5 liter/300-600 liter water/ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Stem borers are difficult to control with pesticides, as the caterpillar is well protected inside the plant.",
+        "Spray in morning between 6-10 am or in afternoon between 3-6 pm",
+        "Use pesticides cautiously.",
+        "Killing natural enemies could lead to outbreaks of secondary pests",
+        "Organophosphates; IRAC group 1B; WHO Class",
+        "II (Moderately hazardous)",
+        "Nereistoxin analogues; IRAC group 14; WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult Stem Borer (Merle Shepard, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice - Yellow Stem Borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larvae (Merle Shepard, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Pupae 12.0 x 3.0 mm, pale- coloured at first, gradually turning dark brown; the abdominal region remains pale (Merle Shepard, CABI)"
+      }
+    ]
+  }
+}

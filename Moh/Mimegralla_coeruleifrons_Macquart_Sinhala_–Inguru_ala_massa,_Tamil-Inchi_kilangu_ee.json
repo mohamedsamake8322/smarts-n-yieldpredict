@@ -1,0 +1,74 @@
+{
+  "title": "Rhizome fly on Ginger",
+  "sections": {
+    "Header": [
+      "Rhizome fly on Ginger",
+      "Mimegralla coeruleifrons Macquart Sinhala –Inguru ala massa, Tamil-Inchi kilangu ee"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use healthy planting materials",
+        "Treat rhizome pieces before storage and planting (see yellow direct control)",
+        "Avoid continuous planting in the same field more than two times and practise crop rotation with leguminous crops",
+        "Use recommended fertilizer to increase the plant vigour",
+        "Avoid water logging conditions",
+        "Maintain field sanitation, i.e. destroy infested crop residues after harvest",
+        "Conserve natural vegetation around the field to encourage natural enemies, e.g.",
+        "Trichopria sp"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Watch out for yellowing and dying of growing shoots and at later stages for dead bushes",
+        "Check for larval stages and galleries in rhizomes"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and burn the damaged bushes."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear personal protective equipment while handling pesticides.",
+        "Read manufacturer’s instructions carefully before handling pesticides.",
+        "Do not eat, drink or smoke while spraying pesticide",
+        "WHO class",
+        "III – Slightly hazardous.",
+        "WHO class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Thiamethoxam 25% WG.",
+        "Rate of dilution - 5g / 10 lit. of water",
+        "Treat rhizome pieces before storage and planting.",
+        "WHO class",
+        "U.",
+        "Highly toxic to bees",
+        "Emamectin benzoate 5% SG.",
+        "Rate of dilution – 5 g / 10 lit. of water / 2 m2",
+        "Drench soil in damaged and surrounding areas.",
+        "IRAC MOA 6.",
+        "WHO class",
+        "III"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damaged field (Damayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult fly (Damayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Pupae inside the rhizome (Damayanthi Samarasinghe)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rhizome fly on Ginger"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Coffee berry borer in coffee",
+  "sections": {
+    "Header": [
+      "Coffee berry borer in coffee",
+      "Hypothenemus hampei Ruhuka in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting alternative host plants near coffee, legumes such as",
+        "Lantana camara . ( = mimea jamii ya mikunde in",
+        "Swahili)",
+        "Prune regularly to reduce heavy shade which is preferred by the pest",
+        "Avoid movement of infested berries to un-infested areas",
+        "Collect any left-over berries after every season",
+        "Apply mulch in the field to encourage natural enemies.",
+        "Mulch reduces water loss from the soil."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visit to the farm to check infested berries at least once a week",
+        "Look for damaged berries having a clearly visible tiny 1 mm hole at the tip, which is the egg laying hole of the beetle",
+        "When the first fresh still non-rotten non-crusted holes are seen on a few trees per plantation, this implies the egg laying period of the adult beetles is on-going and direct control measures might be considered.",
+        "This is usually at the coffee growth stage of older not yet hardened berries close to maturity.",
+        "If many older tiny egg laying holes are found (crusted, brown, rotten), then larvae are already inside the berries and protected from sprays.",
+        "Sprays might be considered in time during the following season."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Mass trapping by use of local brews made from banana, finger millet etc. (“Mbege”), or alcohols, e.g. methanol and ethanol (1:1), or spirit and water (1:1), or banana juice, filled into half cut plastic bottles and hang on coffee tree canopies.",
+        "Pick ripe berries regularly at least every 2 weeks to reduce more breeding of the pest.",
+        "Collect berries by putting mats on the ground so as to collect all fallen berries to minimize fruit left over in the ground which acts as breeding place for the pest.",
+        "Strip off remaining ripe and unripe cherries at the end of harvesting season to reduce more breeding of the pest.",
+        "Destroy collected infested berries by burying 18 inches (1/2 m) deep into soil or by burning"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Preventive measures are more effective against this pest than chemical control.",
+        "Any pesticide application has to be done before the adult beetles lay eggs.",
+        "The best time to spray is when the adult females are flying around looking for new homes.",
+        "This happens all year long but happens most often at 60 days and 150 days after flowering.",
+        "This is usually at the growth stage of older not yet hardened berries close to maturity.",
+        "However, there are currently no least or slightly toxic products available.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Farmers are not allowed to buy and use",
+        "WHO toxicity class",
+        "Ia, Ib, II products without special permits (Plant",
+        "Protection",
+        "Act",
+        "Tanzania).",
+        "Always consult recent list of registered pesticides (MAFC / TPRI)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Entry holes on coffee berry (photo CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "3 to 5 mm tiny adult coffee berry borer beetle (photo Georg Goergen/IITA)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Less than ½ a cm coffee berry borer larva hidden inside berry (photo Kona coffee farmers)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Coffee berry borer in coffee"
+      }
+    ]
+  }
+}

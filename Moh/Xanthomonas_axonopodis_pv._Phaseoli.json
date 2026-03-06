@@ -1,0 +1,62 @@
+{
+  "title": "Bean blight",
+  "sections": {
+    "Header": [
+      "Bean blight",
+      "Xanthomonas axonopodis pv. Phaseoli"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use seed that is certified/free from bacterial infection.",
+        "Use tolerant or resistant varieties if available.",
+        "For smallholders who save their own seed:",
+        "Select plants for seed without marks on the leaves or pods (disease symptoms).",
+        "If most plants show symptoms, do not use them as a source of seed.",
+        "Sterilize the seed.",
+        "Use heat treatment (20 minutes at 52°C) and a certified antibacterial agent (try this on just a few seeds first).",
+        "Remove weeds, volunteer beans and other legume crops from the field before planting and as they appear.",
+        "This eliminates sources of the bacterium and improves aeration.",
+        "Do not plant new crops next to infested crops.",
+        "Use maize as an intercrop; it reduces spread of the bacterium between bean plants by creating a physical barrier.",
+        "Allow plants to dry before allowing workers or machinery to enter the field to prevent the spread of the bacterium.",
+        "Avoid over-irrigation.",
+        "Rotate crops of beans every 2-3 years with non-susceptible crops, e.g. maize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Relevant crops: common bean (snap or",
+        "French bean), Phaseolus spp., including",
+        "Phaseolus vulgaris ,and",
+        "Vigna beans.",
+        "Monitor for symptoms from seedlings to harvest, especially during favourable conditions (wet weather and temperatures between 28-32°C):",
+        "Seedlings: spots which then produce spores to infect other leaves.",
+        "Leaves: small angular spots that look water-soaked, expanding as large brown dead areas.",
+        "Spots may continue to expand and the leaves appear burnt and become torn.",
+        "Stems: dark streaks becoming lighter as they age.",
+        "Pods: spots are water-soaked at first, becoming red- brown and sunken, mostly circular.",
+        "A yellow liquid containing bacteria seeps out of the spots when plants are wet and humidity is high.",
+        "In severe cases, the pods shrivel and die."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "After harvest, collect and burn or plough back the diseased crop.",
+        "The bacterium probably survives only a few months in soil in the absent of a host."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Brown spots with wide yellow halos caused by bean blight (V.R. Wallen, Agriculture and Agri-Food Canada, www.bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Spots, some water-soaked, others brown, on the pods. Roughly circular and joining together (Howard F. Schwartz, Colorado State University, www.bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bean blight"
+      }
+    ]
+  }
+}

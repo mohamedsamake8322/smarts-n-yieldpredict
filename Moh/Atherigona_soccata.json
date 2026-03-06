@@ -1,0 +1,83 @@
+{
+  "title": "Sorghum shoot fly",
+  "sections": {
+    "Header": [
+      "Sorghum shoot fly",
+      "Atherigona soccata"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant mixtures of cultivars with different levels of resistence and similar stage of maturity to minimise losses.",
+        "Sow early (7-10 days before the onset of monsoon rains) so that crop growth does not coincide with high shoot fly populations.",
+        "Encourage high density growth to reduce shoot fly damage:",
+        "Use a high seeding rate.",
+        "Seedlings under high planting density have narrow leaves, which are less attractive for egg laying.",
+        "Delay thinning of crop.",
+        "Grow a healthy crop to reduce shoot fly damage:",
+        "Grow seedlings in a nursery under high planting density before transplating.",
+        "Apply nitrogenous and phosphatic fertlizers.",
+        "Do not use cattle manure as the resulting odour may attract shoot flies.",
+        "Maintain optimum irrigation.",
+        "Remove and burn weeds which act as hosts of shoot fly, such as grasses:",
+        "Johnson grass, ( Sorghum halepense ), Brachiaria , Cynodon , Echinochloa , Eragrostis , Panicum , Pennisetum , Setaria",
+        "Encourage natural enemies population (egg parasitoids and predators) by decreasing the amount of pesticides used in the fields.",
+        "Rotate or intercrop with cotton, groundnut, sunflower, sugarcane or legumes.",
+        "Collect and burn sorghum stubbles.",
+        "Let the land lie fallow for 2 months in the warmer part of the year.",
+        "This reduces the carryover and build-up of pest populations from one season to the next.",
+        "Soil may contain pupae so should not be moved around."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: maize, finger millet, bullrush millet, rice, wheat.",
+        "Look out for symptoms:",
+        "Young plants:",
+        "Damage at 5-30 days after seedling emergence.",
+        "The central leaf dries up forming a deadheart - it becomes thin and papery, and wraps around the other leaves.",
+        "The damaged leaf can be pulled out easily and produces a rotting smell.",
+        "Older plants (>30 days after seedling emergence, >35 to 45 cm in height):",
+        "Do not produce deadheart symptoms.",
+        "They may have damaged leaf margins or partially damaged panicles with a portion which is rotting or dried up.",
+        "Plants:",
+        "Produce axillary tillers due to stress.",
+        "Insect:",
+        "Eggs:",
+        "Laid on the underside of seedling leaves or on young tillers. 1-3 eggs are laid per leaf.",
+        "They are white, elongated and measure 0.8 x 0.2 mm.",
+        "Larva: 8-10 mm long when full grown, whitish/yellowish in colour.",
+        "They crawl down inside the sheath and bore into the base of the young shoot, killing the growing point and youngest leaf (causing deadheart).",
+        "Pupa:",
+        "Reddy-brown, 8-10 mm long.",
+        "Found in the base of the dead shoot or in the soil.",
+        "Adults: rest on the underside of leaves.",
+        "About 4 mm long and look like small house flies.",
+        "Assess infestation level using yellow sticky traps or a fishmeal baited square pan/plastic jar to catch adults.",
+        "Alternatively, count the number of infested \"hearts\" in young sorghum plants.",
+        "Shoot flies are abundant during the rainy season under moderate temperatures and high humidity."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Check crop for shoot fly damage while thinning and destroy damaged plants."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sorghum shoot fly egg on the undersurface of the leaf; the damaged plant showing typical deadheart symptoms (H.C. Sharma/ICRISAT)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Atherigona soccata adult (Georg Goergen/IITA Insect Museum, Cotonou)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Sorghum shoot fly"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Atherigona soccata larvae (H.C. Sharma/ICRISAT)"
+      }
+    ]
+  }
+}

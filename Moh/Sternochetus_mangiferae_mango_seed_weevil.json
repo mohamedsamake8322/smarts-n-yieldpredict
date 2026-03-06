@@ -1,0 +1,70 @@
+{
+  "title": "Seed weevil on Mango",
+  "sections": {
+    "Header": [
+      "Seed weevil on Mango",
+      "Sternochetus mangiferae mango seed weevil"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destroy rotten fruit from infected trees (field sanitation).",
+        "This involves collecting and burning fallen fruit.",
+        "Purchase grafted plants from the ministry."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check trees for adult insects.",
+        "Search among the cracks in the trunk and branches and among the leaves.",
+        "This is especially important at fruit set.",
+        "Check young fruits for eggs (white and in groups near the stalk)",
+        "Take action if eggs are seen.",
+        "However, fruit is marketable even if infested",
+        "Cut mature fruit in halves to check for infestation"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Field sanitation: collect infested fruits",
+        "Burn infected seeds",
+        "Put a grease band around the base of the tree to prevent the weevils climbing (they are not strong flyers"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Rotate chemicals to prevent buildup of resistance (change chemicals regularly)",
+        "Protective equipment should be worn when handling pesticides",
+        "Spray the trunk and branches with",
+        "Bifenthrin (Bifen) to control adult insects1 oz or 30ml/gal",
+        "IRAC MoA Classification- 3A.",
+        "WHO classifcation",
+        "II After fruit set spray with",
+        "Acephate (Orthene)0.25-0.5oz/ gal",
+        "Acephate.",
+        "DTH= 14.",
+        "IRAC MoA 1B.",
+        "WHO Class",
+        "II Thiamethoxam (Actara) 2.5gm/gal",
+        "IRAC MoA 4A.",
+        "DTH =14.",
+        "WHO Class",
+        "Not available"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult mango seed weevil. (Photo by USDA APHIS PPQ Archive, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Seed weevil on Mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Grub within mango seed. (Photo by Peter A. Follett)"
+      }
+    ]
+  }
+}

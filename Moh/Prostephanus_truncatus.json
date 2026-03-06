@@ -1,0 +1,100 @@
+{
+  "title": "Larger grain borer of maize (LGB)",
+  "sections": {
+    "Header": [
+      "Larger grain borer of maize (LGB)",
+      "Prostephanus truncatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove and burn infected crop residue of the previous season",
+        "Timely harvest of cobs at physiological maturity to avoid infestations starting from the field",
+        "Ensure that only undamaged cobs are selected immediately after harvest, shelled and grains dried properly",
+        "Inspect grains during drying to ensure that they are properly dried and sieve maize grain to remove debris before storage",
+        "Use clean storage facilities, ensure cracks, crevices and holes are sealed",
+        "Keep grains in a well- ventillated store",
+        "Treat grain before storage in areas with high incidence (see direct controls)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cobs at maturity to ensure early harvesting in order to reduce field infestation",
+        "Sample grains in storage regularly at 2 weeks intervals.",
+        "Look for adults and powder from damaged grain to detect early infestation.",
+        "The body of the adult is usually black/dark brown and 3-4.5 mm long with 2 segmented antennae.",
+        "Use",
+        "Delta",
+        "Pheromone traps or sticky traps to detect the presence of adults for early decision making",
+        "Control as soon as signs of infestation are observed (e.g. maize turning into powder) or the presence of",
+        "LGB damage (3%) in cobs is observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Bring grain out of store after storing for about a month and dry for about three days to kill",
+        "LGB if there are any present",
+        "Use biological control, e.g. predatory beetle, Teretrius nigrescens (Tn) as a long term control measure for",
+        "LGB control in the field",
+        "Store grain in undamaged sacks or in an airtight chamber (hermatic bags) and seal",
+        "The body of the adult is usually black/dark brown and 3-4.5 mm long with 2 segmented antennae.",
+        "Malathion 700g/l (Envigold 70",
+        "SL)",
+        "Apply at a rate of 50-60ml/L.",
+        "Pirimiphos-methyl + Permethrin (Antuka",
+        "EC, Betallic",
+        "Super, Super",
+        "Guard)",
+        "Apply powder at 50g to 90Kg of maize (1 maxi bag ).",
+        "Apply liquid at 300ml per 2L for 1000kg (10 maxi bags) of maize and mix well using a shovel)",
+        "Aluminium phosphide 56% (Phostoxin, Temaphos, Celphos",
+        "P, Bextoxin, Agroxin",
+        "Tablet).",
+        "Rate: 3 tablets per tonne (10 maxi bags)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO class",
+        "III (Slightly hazardous).",
+        "Contact organophosphate.",
+        "Pre-treatment interval 7-8 days before consumption.",
+        "Pirimiphos-methyl - organophosphate, WHO class",
+        "II (Moderately hazardous) contact insecticide.",
+        "Permethrin - pyrethroid, WHO class",
+        "II (Moderately hazardous) contact insecticide.",
+        "Pre-treatment interval 7-8 days before consumption.",
+        "Both active ingredients are toxic marine life, don't use near water ways.",
+        "WHO class",
+        "FM (Fumigant).",
+        "Flammable, Aluminium phosphide reacts with moisture in the air to produce phosphine gas, which is highly toxic to humans and wildlife.",
+        "To be applied by trained, authorized person.",
+        "Re-entry- 4 days after application.",
+        "Do not put tablets directly inside the bags with the grains.",
+        "Put the tablets between the bags and ensure residues do not get in contact with the grain"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Maize grain damaged by LGB (Mavis Acheampong, University of Ghana)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "LGB adult (Pest and Diseases Image Library, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize cobs damaged by LGB (Mavis Acheampong, University of Ghana)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Larger grain borer of maize (LGB)"
+      }
+    ]
+  }
+}

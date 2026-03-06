@@ -1,0 +1,77 @@
+{
+  "title": "Root rot on beans",
+  "sections": {
+    "Header": [
+      "Root rot on beans",
+      "Fusarium spp., Pythium spp. and Rhizoctonia spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified disease free seeds.",
+        "Rotate with sorghum for three seasons.",
+        "Don’t plant in soils where there has been previous occurrence of the disease.",
+        "Plant on well drained soils.",
+        "Deep plough the previous year's residue.",
+        "Use proper spacing of 25cm x 15cm.",
+        "Do not use excessive nitrogen fertilizer use 80kg per acre .",
+        "Plant tolerant varieties e.g.",
+        "KK 22 (RWR 719), KK 8 (SCAM 80/15), KK15 (MLB49/879)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "French bean, snap bean, beets, cabbage, peas, melons, squash, cucumbers.",
+        "Look out for:",
+        "Poor seed germination.",
+        "Death of seedlings shortly after germination.",
+        "Rotting of the taproots which turn brick red and become hollow and dry.",
+        "Elongated water soaked areas on the roots.",
+        "Stunting and eventually death of the plant.",
+        "Start direct control when 1% of the crop is affected.",
+        "Sunken dark lesions on seedling hypocotyls and the collar regions (soil levels) of the infected plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Drench with",
+        "Trichoderma -based products e.g.",
+        "Trianum",
+        "P and trichotech at 1:5 (Trianum to water).",
+        "Remove infected plants and destroy by burning or burying at a depth of 2 feet."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Make reference to the",
+        "PCPB list of approved chemicals",
+        "When using chemical wear protective clothing",
+        "Read and follow the manufacturers instructions carefully",
+        "Drench",
+        "Carbendazim-based products (e.g.",
+        "Rodazim @ 20ml/20l, SAAF @ 20g/20l, Chariot @ 20ml/20L)",
+        "WHO U, Unlikely to present acute hazard in normal use, PHI 7-14",
+        "DAYS",
+        "Dress seeds with",
+        "Fludioxinil + Metalaxyl-M based products (e.g.",
+        "Maxim",
+        "XL @ 1ml/kg",
+        "WHO III, slightly hazadous (seed dressing to be done by a trained expert)",
+        "Dress seeds with",
+        "Imidacloprid + Metalaxy + carbendazim- based products (Murtano super 10g/2kg seed, seed plus @10g/2kg seed)",
+        "WHO II, Moderately harzadous. (seed dressing to be done by a trained expert)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Root rot on beans"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Roots of drybeans showing advanced symptoms of Rhizoctonia root rot caused by Rhizoctonia solani (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

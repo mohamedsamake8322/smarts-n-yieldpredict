@@ -1,0 +1,58 @@
+{
+  "title": "Anthracnose on Sorghum",
+  "sections": {
+    "Header": [
+      "Anthracnose on Sorghum",
+      "Colletotrichum sublineolum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant two weeks after onset of rains",
+        "Plant resistant varieties/hybrids",
+        "Use certified seed from known seed dealers.",
+        "Treat seeds with fungicides prior planting such as",
+        "Mancozeb",
+        "Practice crop rotation with other crops preferably legumes soybean, groundnuts, cowpea.",
+        "Sorghum should not follow maize in the rotation.",
+        "Remove or plough deep (bury) crop residues after harvest",
+        "Remove alternative hosts such as",
+        "Johnson grass from the field on nearby fields.",
+        "Remove volunteer sorghum plants in the field"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for small tan to reddish‐purple circular",
+        "Spots on the leaves, and midrib starting 4 weeks after planting",
+        "Start controlling when 20% of the plant parts (leaves) show symptoms and at least 20% of the field is affected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "When isolated plants are affected, uproot and burn or bury at least 15cm deep.",
+        "Apply",
+        "Mancozeb. 20g in 20l tank"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Follow manufacturer’s instruction.",
+        "When using a pesticide always wear protective clothing.",
+        "Follow the instructions on the product label such as dosage, timing of spray, pre-harvest interval, application rate, restricted re-entry interval.",
+        "Don’t empty into drains",
+        "WHO U, unlikely to pose health hazard."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose on Sorghum"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf and stem symptoms of a sorghum plant severely affected by Anthracnose (Photo: Photchana Trakunsukharat, Department of Agriculture, Thailand)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Striped bean weevil",
+  "sections": {
+    "Header": [
+      "Striped bean weevil",
+      "Alcidodes leucogrammus Bean stem weevil"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove and burn or bury all crop residues at the end of the growing season.",
+        "Practice intercropping with sorghum or maize.",
+        "Avoid crop rotation with host plants (i.e.",
+        "Phaseolus and",
+        "Vigna spp.).",
+        "Encourage natural enemies that feed on cocoons, larvae and adults such as robber flies, damsel bugs, assassin bugs, centipedes and ground beetles by reducing chemical use."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The striped bean weevil is not consider a major field pest, but if you had weevil damage in the previous year, monitor weekly.",
+        "Adults or grubs, or signs of their presence:",
+        "Grubs are",
+        "C-shaped, white, 10 mm long and do not have legs.",
+        "They bore and feed inside the stem causing cankerous swellings or galls.",
+        "Adults are 10-15 mm long, dark brown with white/yellow stripes and will chew the leaves.",
+        "Pupae are attached to the plant by an earthen cell or enclosed in the swollen stem.",
+        "Affected plants show stunted growth, lodging and may eventually die.",
+        "During harvesting, stems break easily."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect adult weevils manually and destroy them.",
+        "Remove and burn or bury infected plants."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult A. leucogrammus (A.M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damaged plant showing a larva inside of the stem (A.M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Striped bean weevil"
+      }
+    ]
+  }
+}

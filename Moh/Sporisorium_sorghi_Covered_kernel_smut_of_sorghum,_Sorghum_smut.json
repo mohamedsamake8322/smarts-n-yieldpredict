@@ -1,0 +1,47 @@
+{
+  "title": "Covered smut of sorghum",
+  "sections": {
+    "Header": [
+      "Covered smut of sorghum",
+      "Sporisorium sorghi Covered kernel smut of sorghum, Sorghum smut"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified disease-free seeds.",
+        "Use resistant cultivars.",
+        "As the disease is seed-borne, avoid harvesting diseased grain and contaminating grain used for seed with spores."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Seedling infection occurs between seed germination and seedling emergence, but the disease is apparent only after heading.",
+        "Severity of infection is influenced by soil temperature and soil moisture.",
+        "Severe smut infection generally occurs when soil temperature ranges from 18-23°C and soil moisture is 15-20% during the infection period.",
+        "Monitor after heading for symptoms:",
+        "Individual grains of sorghum become misshapen as they develop and are filled with dark smut spores on maturity.",
+        "The smut sori (cone-shaped gall) is inside the seed coat.",
+        "The panicle may be reduced to a few twisted, distorted branches covered with large, superficial smut sori.",
+        "In some cases, the panicle branches may be completely destroyed, leaving only the distorted central rachis covered with sori.",
+        "Infected plants are generally the same height and size as healthy plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove the smutted heads and bury in soil or burn."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sorghum smut (Courtesy EcoPort (http:// www.ecoport.org): Jürgen Kranz)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Sorghum smut (Courtesy EcoPort (http:// www.ecoport.org): Jürgen Kranz)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Covered smut of sorghum"
+      }
+    ]
+  }
+}

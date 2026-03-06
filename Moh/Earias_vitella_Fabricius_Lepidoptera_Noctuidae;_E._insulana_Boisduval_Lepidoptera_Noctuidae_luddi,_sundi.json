@@ -1,0 +1,74 @@
+{
+  "title": "Fruit and shoot borer of Okra",
+  "sections": {
+    "Header": [
+      "Fruit and shoot borer of Okra",
+      "Earias vitella (Fabricius) (Lepidoptera Noctuidae); E. insulana (Boisduval) (Lepidoptera Noctuidae) luddi, sundi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove and destroy affected fruits and shoots; for shoots by nipping them off below pest hole.",
+        "Grow carrot, sunflower and buckwheat to attract pest away from okra.",
+        "Cover beds with polythene sheet 45 gauge (0.45 mm) thickness for three weeks before sowing, this will reduce the pest in the soil.",
+        "Use pheromone traps (5-8 per acre), put at least one foot above the crop canopy.",
+        "Avoid growing",
+        "Malvaceous crops (cotton, hollyhock ) in sequence.",
+        "Deep plough fields during summer."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for withered and drooping terminal shoots, shedding of buds and flowers, bore holes in fruits and deformed fruits.",
+        "Look for blue eggs on the underside of leaves and brown, boat shaped larvae in terminal shoots and fruits.",
+        "Set up pheromone traps (3-5 per acre).",
+        "If 2-4 silvery green adults are caught per trap then consider direct control actions."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release egg parasitoid",
+        "Trichogramma chilonis at a rate of 40,000 per acre.",
+        "Apply neem cake at 100 kg/acre at the time of transplanting.",
+        "Spray azadirachtin 0.03% (300 ppm) as neem oil at a rate of 1000-2000 ml in 200-400 litres of water per acre.",
+        "Apply azadirachtin 5% w/w neem extract concentrate at 80 ml in 160 litres of water per acre",
+        "Conserve predators of the borer, such as coccinellids, parasitic wasps, dragonflies, spiders, robber flies, reduviid bugs, praying mantis, fire ants, earwings and ground beetles."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personnel protection equipments (PPE) while using chemical pesticides",
+        "Spray crop with chloranthraniliprole 18.5% SC (50 ml in 200",
+        "L of water/acre).",
+        "WHO class",
+        "U (unlikely to present acute hazard).",
+        "Cypermethrin 25% EC (60-80 ml in 200",
+        "L of water/acre).",
+        "WHO class",
+        "II (moderately hazardous).",
+        "Deltamethrin 2.8% EC (160-240 ml in 160-240",
+        "L of water/ acre).",
+        "WHO class",
+        "II (moderately hazardous).",
+        "During flowering stage spray with",
+        "Spinosad (2 ml/litre of water).",
+        "WHO class",
+        "III (slightly hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "E. vitella larvae (NBAIR)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult moth (NBAIR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit and shoot borer of Okra"
+      }
+    ]
+  }
+}

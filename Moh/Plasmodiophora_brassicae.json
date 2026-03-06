@@ -1,0 +1,52 @@
+{
+  "title": "Club root in Cabbage (Crucifer)",
+  "sections": {
+    "Header": [
+      "Club root in Cabbage (Crucifer)",
+      "Plasmodiophora brassicae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Carefully choose sites for crucifer seedbeds that do not have a history of club root.",
+        "If there is any doubt about soil contamination, then increase to pH 7 of the seedbed areas.",
+        "If a field is known to be infested, the soil pH should be adjusted to pH 6.8 to 7 with ground limestone (CaCO3).",
+        "Always thoroughly clean farm equipment after working in a field suspected of having the club root fungus.",
+        "Plant resistant variety if available, e.g.",
+        "Amor, Apollo",
+        "F1, Deneko cultivars",
+        "Crop rotation with a non-crucifer crop like corn or rice"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor fields regularly – at weekly intervals",
+        "Look for poor crop growth or stunted plants; confirm disease by uprooting affected plants to confirm the presence of root deformation."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all infected plant roots and destroy by burning."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No known chemical control that is effective as it is a soil born disease."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Symptoms of damage caused by club root disease (Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms of club root on roots (Gerald Holmes, California Polytechnic State University at San Luis Obispo, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Club root in Cabbage (Crucifer)"
+      }
+    ]
+  }
+}

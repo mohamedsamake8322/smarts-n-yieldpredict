@@ -1,0 +1,98 @@
+{
+  "title": "Maize Weevil Management",
+  "sections": {
+    "Header": [
+      "Maize Weevil Management",
+      "Sitophilus zeamais Aburomumoa"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant or tolerant maize varieties such as mamaba",
+        "Timely harvest of mature cobs and select only uninfested cobs for storage",
+        "Ensure that grains are dried properly (less than 14% moisture content) before storage",
+        "Use clean storage facilities, ensure cracks, crevices and holes are sealed because insects can hide inside",
+        "Shell, dry and sieve maize grain to remove debris and any adult insects before storage and burn the infested residues",
+        "Spray store 4-6 weeks before storing grain to kill any weevils from previous harvest (See yellow direct control)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cobs for adult weevils and maturity to ensure early harvesting to reduce field infestation",
+        "Sample grains in storage regularly (at 2 weeks intervals) to detect early infestation and increase in temperature",
+        "The eggs, larvae and pupae may not always be seen as they develop inside the maize grains.",
+        "After emergence, adult beetles can be seen on the surface of the grains",
+        "Adults are 2.5-4 mm long, dark brown with four reddish spots on the wing covers.",
+        "It has a long, thin snout and antennae.",
+        "When the adults emerge from the grain, holes with irregular edges can be seen and white dust/flour mixed with frass from feeding",
+        "Act as soon as you observe 3% weevil infestation"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Treat grain with inert dust such as ash from wood or rice husk.",
+        "Apply at a rate of 0.5-1% (0.5-1kg of rice husk ash to 100 kg of grains, and 1% (1kg) of wood ash to 100kg of maize grains)",
+        "Take grain out of storage and dry for about three days to kill weevils and sieve to remove adult weevils and burn the infested residues",
+        "Store grain in undamaged sacks or airtight sacks, e.g. hermatic bags, and seal",
+        "Contact the nearest",
+        "Department of",
+        "Agriculture, PPRSD or",
+        "MoFA office for release of the bioagent",
+        "Terestrius nigrescens",
+        "Malathion 700g/l (Envigold 70",
+        "SL)",
+        "Apply at a rate of 50-60ml/L",
+        "Pirimiphos-methyl + Permethrin (Antuka",
+        "EC, Betallic",
+        "Super, Super",
+        "Guard)",
+        "Apply powder at 50g to 90Kg of maize (1 maxi bag ).",
+        "Apply liquid at 300ml per 2L for 1000kg (10 maxi bags) of maize and mix well using a shovel",
+        "Aluminium phosphide 56% (Phostoxin, Temaphos, Celphos",
+        "P, Bextoxin, Agroxin",
+        "Tablet).",
+        "Rate: 3 tablets per tonne (10 maxi bags)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Any storage pesticides are highly toxic and should only be used by trained pesrons/farmers",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO class",
+        "III (Slightly hazardous).",
+        "Contact organophosphate.",
+        "Pre-treatment interval 7-8 days before consumption.",
+        "Pirimiphos-methyl - organophosphate, WHO class",
+        "II (Moderately hazardous) contact insecticide.",
+        "Permethrin - pyrethroid, WHO class",
+        "II (Moderately hazardous) contact insecticide.",
+        "Pre-treatment interval 7-8 days before consumption.",
+        "Both active ingredients are toxic to marine life, do not use near waterways.",
+        "WHO class",
+        "FM (Fumigant).",
+        "Flammable, Aluminium phosphide reacts with moisture in the air to produce phosphine gas, which is highly toxic to humans and wildlife.",
+        "To be applied by trained, authorized person.",
+        "Re- entry- 4 days after application.",
+        "Do not put tablets directly inside the bags with the grains.",
+        "Put the tablets between the bags and ensure residues do not get in contact with the grain"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize Weevil Management"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult weevil, Sitophilus zeamais (USDA, www.flickr.com)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Maize weevil damage in maize cob (Frank Peairs, Colorado State University, www.bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Leaf and fruit spot disease on citrus - Uganda",
+  "sections": {
+    "Header": [
+      "Leaf and fruit spot disease on citrus - Uganda",
+      "Pseudocercospora angolensis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified seedlings.",
+        "Do not plant species of citrus in the same fields.",
+        "Restrict materials – manure, crop residues from affected fields.",
+        "Plant wind breaks around the orchard.",
+        "Prune shoots that have die back to allow light penetration and free aeration."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect your orchard regularly for disease symptoms.",
+        "Check for dark brown spots with yellow halos on leaves and fruits.",
+        "High humid conditions increase the incidence of the disease and when it is high consider direct control.",
+        "Spray when the first symptoms are observed on the trees."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Collect and destroy all fallen fruit in affected orchards by burning.",
+        "Remove leaves and branches with severe symptoms of the disease and burn them."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when using pesticides.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "Mancozeb",
+        "WHO Class",
+        "U; Unlikely to present acute hazard in normal use.",
+        "Chlorothalonil",
+        "WHO Class",
+        "U; Unlikely to present acute hazard in normal use.",
+        "Copper hydroxide",
+        "WHO Class",
+        "II; Moderately hazardous."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaf and fruit spot disease on citrus - Uganda"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf spot (Photo: Idd Ramathani)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Fruit spot (Photo: Idd Ramathani)"
+      }
+    ]
+  }
+}

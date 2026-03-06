@@ -1,0 +1,106 @@
+{
+  "title": "Beet armyworm on cotton",
+  "sections": {
+    "Header": [
+      "Beet armyworm on cotton",
+      "Spodoptera exigua lesser armyworm, cottonworm, 甜菜夜蛾 in Chinese"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Shred residues before planting by cultivator or shredder to reduce moth`s egg laying sites",
+        "Destroy weeds mechanically before and during growing season",
+        "Grow insect tolerant varieties",
+        "GK1, GK12",
+        "Select healthy seeds for good plant growth",
+        "Avoid planting other host crops (cabbage, beet) around cotton, and as intercropping",
+        "After harvest, plough more than 20 cm deep to expose pupae to freezing temperatures.",
+        "If no major pests or diseases were in your field leave residues to improve soil and prevent moisture loss.",
+        "Rotate with crops from different family than cotton; but don’t grow brassicas (cabbage, beet, rape) which are moths` oviposition sites."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Hang up black light traps to monitor moths (1 lamps/ 667m 2 ).",
+        "If many are captured release biocontrol agent",
+        "Monitor surface of leaves for egg masses and young caterpillars every 3 to 5 days after crop germination",
+        "Masses of 50 to 150 eggs are on upperside of leaves (white, round, sesame size eggs).",
+        "The optimal time for controlling armyworm is after egg hatch before caterpillars begin to eat leaves.",
+        "Control caterpillar before they reach the 4th instar (overeating stage). 3rd instar caterpillar 0.4 to 0.7 cm, back is light brown and chest is dark- green or yellow-green. 4th instar caterpillar: 0.7 to 1.4 cm yellow-green or dark green.",
+        "If you miss this time, consider action at 8-10 damaged plants per 100 plants.",
+        "Caterpillars eat windows into leaves but veins remain.",
+        "Watch for armyworm caterpillars on adjacent crops and on weeds in and around the field.",
+        "If many larvae are present while cotton plants are small, consider action"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hang up black light lamps traps to capture adult moths (2 lamps / 667m2)",
+        "Release agent",
+        "Trichogramma confusum against armyworm eggs every month after germination, at least 2 x (180-210000 wasps per hectare; 8-10 releasing spots every 667 m 2 ).",
+        "Buy from",
+        "Jinlin",
+        "Agricultural",
+        "University or other sources.",
+        "Flat spray soap against young caterpillars over leaves (Gaidehuagong",
+        "Ltd., and others)",
+        "Spray beneficial fungus, such as",
+        "Beauveria bassiana (many products).",
+        "Dust formulation and 1.5kg diluted in water and sprayed per hectare against young caterpillars."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spay before caterpillar reach 2th, latest at 3rd instar because older caterpillars are hard to control.",
+        "Spray under and upperside of leaves.",
+        "Spray at dusk of rainless day.",
+        "Sometimes sprays on field edges are enough.",
+        "When using a chemical or botanical pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "WHO toxicity class",
+        "II pesticides may not be allowed in certain",
+        "IPM or “green” production schemes",
+        "Always consult recent list of registered pesticides of",
+        "ICAMA/China, and of",
+        "China pesticide information network.",
+        "Novaluron – (氟 酰 脲) products (such as 2-Thiohydantoin 2- 硫代 乙内酰脲, or",
+        "Chlorbenzuron 3",
+        "SC 幼脲 3号, YidingbaoSC 抑丁, Eshaling",
+        "SC 蛾杀 灵). 25% Chlorbenzuron formulations diluted 1000 times, but double check product labels as products may differ.",
+        "The effective duration of this pesticide is about 30 days.",
+        "Insect chitin-synthesis stopper",
+        "WHO toxicity class",
+        "U (Unlikely to present acute hazard in normal use); Pre-harvest interval p.h.i. 35 days; restricted re-entry interval r.e.i. 3 days after spray; max 2 sprays in min 20 day intervals.",
+        "Relatively environmentally friendly, but harmful to fish and",
+        "Trichogramma biocontrol agents.",
+        "Diflubenzuron – products (such as",
+        "Chuchongniao",
+        "WP 除虫 脲, Dimieling",
+        "WP 敌灭 灵).",
+        "It is an insect growth regulator, therefore needs to be sprayed on young larvae.",
+        "It will take 3-5 days to have effects.",
+        "WHO class",
+        "III (slightly acute hazardous); p.h.i. 20 days; r.e.i. 3 days after spray; max 1 spray.",
+        "Do not mix with quick acting insecticides.",
+        "Do not mix with alkaline matters."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Old (5th) intsar catarpillar are 2-3 cm (Nigel Cattlin)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Young ½ to 1 cm catarpillar (2nd instar) cause mesh in leaves (Nigel Cattlin)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Armyworm egg mass, sesame- size (B. Wang)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Beet armyworm on cotton"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Blister Beetle on Pigeon Pea",
+  "sections": {
+    "Header": [
+      "Blister Beetle on Pigeon Pea",
+      "Mylabris pustulata Vernacular name: Bhunga"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing at summer season.",
+        "Remove the plant debris from the field.",
+        "Remove the weeds from field.",
+        "The beetles can be controlled manually by picking them by hand"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Field infestation 3 to 4 adults per meter row length."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Application of neem seed kernel extract (5%) as a repellent for egg laying."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use proper quantity of water, i.e. 750 litres per ha",
+        "Lambda-cyhalothrin 5",
+        "EC at 10 ml/10 litre (pyrethroid).",
+        "Non-systemic, contact and stomach action.",
+        "Some repellent properties",
+        "Quinalphos 1.5% at 20 kg/ha (organophosphate).",
+        "Broad spectrum contact and stomach poison"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "II (Moderately hazardous)",
+        "WHO Class",
+        "II (Moderately hazardous)",
+        "Cypermethrin 10",
+        "EC at 10 ml/10 litre (pyrethroid)",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Blister Beetle on Pigeon Pea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Beetle feeds on flower of pigeon pea (Source: Nilesh Patkar)"
+      }
+    ]
+  }
+}

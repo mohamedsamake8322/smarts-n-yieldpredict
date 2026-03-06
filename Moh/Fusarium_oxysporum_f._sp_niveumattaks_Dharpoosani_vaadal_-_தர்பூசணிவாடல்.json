@@ -1,0 +1,70 @@
+{
+  "title": "Fusarium wilt on watermelon",
+  "sections": {
+    "Header": [
+      "Fusarium wilt on watermelon",
+      "Fusarium oxysporum f. sp niveumattaks Dharpoosani vaadal / தர்பூசணிவாடல்"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Long rotations of six years or more are necessary to keep inoculum from building up in the soil during the winter season.",
+        "Fusarium wilt may be seed borne.",
+        "Inspect seedlings for symptoms of fusarium wilt.",
+        "Use new transplant trays or sanitize trays well.",
+        "Do not save seed from fields where",
+        "Fusarium wilt has been observed.",
+        "Avoid flood irrigation to prevent spreading of the disease.",
+        "Follow drip irrigation to prevent the disease spreading.",
+        "Symptoms on leaves (Philip",
+        "Taylor, CABI)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Symptoms include damping off in seedling from infested fields.",
+        "Wilting and chlorosis symptoms visible in older leaves.",
+        "Wilt is most evident in the heat of the day (afternoon hours).",
+        "Stem cracks and brown streaks often appear near the crown of the plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply",
+        "Pseudomonas fluorescence at 2.5 kg/Ha along with 50 kg",
+        "FYM (sieved) and 100 kg neem cake before last ploughing."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard).",
+        "PHI: 14 days.",
+        "Top drenching with",
+        "Carbendazim at 1 g/l of water and 5-10 ml per plant.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Foliar spray of Carbendazim at 2 g/l of water at 15 day intervals."
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt on watermelon"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Wilt symptoms in a plant stem (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Severe symptoms on young plants (William M. Brown, Bugwood.org)"
+      }
+    ]
+  }
+}

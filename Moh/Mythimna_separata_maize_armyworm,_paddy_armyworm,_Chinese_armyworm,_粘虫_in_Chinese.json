@@ -1,0 +1,88 @@
+{
+  "title": "Armyworm on maize",
+  "sections": {
+    "Header": [
+      "Armyworm on maize",
+      "Mythimna separata maize armyworm, paddy armyworm, Chinese armyworm, 粘虫 in Chinese"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Control grassy weeds as they are egg laying sites of armyworms.",
+        "Plant trees as barriers around fields to divert armyworm moths.",
+        "Deep plough after harvest to expose in-soil hibernating pupae.",
+        "Rotate maize with non-cereals, such as legumes."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "From the north, armyworm moths immigrate to",
+        "Henan in",
+        "July",
+        "The management of armyworm is based on early detection.",
+        "Young tiny less than 1 cm dull white to greenish caterpillars with orange head only cause small holes in leaves.",
+        "If about 1 to 3 small larvae are found per 10 plants consider control action.",
+        "Older up to 3 cm light brown caterpillars with narrow white dorsal line eat large areas of leave edges, leaving leaf blades, or eat up entire leaves.",
+        "Direct control is then often too late."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release parasitic flies 2 to 3 times in weekly intervals ( Exorista civilis order at",
+        "Taobao)",
+        "Release when caterpillars are 1 to 2 cm small.",
+        "Pour kerosene around maize field to repel armyworms.",
+        "Place",
+        "MFE black light lamps around field to interfere with adult moths` flying path when immigrating in large numbers.",
+        "Cypermethrin - products (such as 灭百可 10%EC, 安绿宝 10%EC， 兴棉宝 10%EC, 赛波凯 10%EC, and others.",
+        "Pyrethroid group, contact insecticide.",
+        "Spray 灭百可 at 0.37 ~ 2.33g active ingredient per mu with water according to product label.",
+        "Apply flat spray with good coverage to reach young larvae.",
+        "Fenitrothion-based products (such as 杀螟松 12%EC, and others).",
+        "Organophosphate group of contact pesticide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a chemical or botanical pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "WHO toxicity class",
+        "II pesticides may not be allowed in certain",
+        "IPM or “green” production schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ICAMA/China, and of",
+        "China pesticide information network.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); pre-harvest interval p.h.i. 15 days; restricted re- entry interval 1 day after spray.",
+        "Max 2 sprays per season in min 7 day intervals.",
+        "Do not mix with alkaline pesticides.",
+        "Apply pesticide before 9 a.m or after 5 pm.",
+        "Pyrethroids do not work well above 25",
+        "C.",
+        "Do not spray near water sources, because toxic to aquatic organisms.",
+        "Toxic to bees, thus do not spray in/near flowering crops or bee hives.",
+        "WHO class",
+        "II (moderately acute hazardous); p.h.i. 21 days, r.e.i. 1 day; max 2 sprays per season.",
+        "Easy to decompose in high temperature.",
+        "Toxic to bees, thus do not spray in/near flowering crops or bee hives."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult moth with two small pale round spots on each wing. (photo D. Hobern)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Chewed leaves by armyworm (photo Yunan)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Caterpillars ½ up to 3 cm long, head orange-brown, body light brown with narrow white dorsal line (photo NBAIR)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Armyworm on maize"
+      }
+    ]
+  }
+}

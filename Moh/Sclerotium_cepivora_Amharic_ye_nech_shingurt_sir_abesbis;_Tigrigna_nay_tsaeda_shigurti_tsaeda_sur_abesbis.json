@@ -1,0 +1,60 @@
+{
+  "title": "White rot of onion and garlic",
+  "sections": {
+    "Header": [
+      "White rot of onion and garlic",
+      "Sclerotium cepivora Amharic: ye nech shingurt sir abesbis; Tigrigna: nay tsaeda shigurti tsaeda sur abesbis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The fungus can survive in the soil for 20 years making the disease virtually impossible to eradicate - It is extremely important to avoid moving infected material into disease-free areas",
+        "Onion seeds do not carry the disease but bulbs can - use clean planing material from an area with no history of white rot",
+        "The disease can spread in contaminated soil on tools and footwear.",
+        "Clean before moving to a disease free area",
+        "Do not let irrigation water run from an infected field to a clean field",
+        "Follow a long-term rotation with anyother crops except allium crops",
+        "After harvest do not compost infected bulbs - dispose of them by burning or burying"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: leek",
+        "The disease can occur at any stage of plant growth but the symptoms are usually seen when the plant has 3-5 leaves",
+        "Check plants from the seedling stage every week and look for yellowing of the leaves starting from the tips and moving downwards",
+        "As the disease continues the leaves will wilt, collapse and die",
+        "Symptoms on the uprooted bulb include white fluffy fungal growth around the base, stunted/ rotted roots, soft rot of the bulb and small balck sclerotia (fungal structures)",
+        "As soon as the first symptoms are seen implement control measures"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove affected plants at first symptoms and destroy by burning in the field"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no registered chemical treatment in",
+        "Ethiopia for management of this disease"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sclerotia visible on garlic (Elizabeth Bush, Virginia Polytechnic Institute and State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Infected onion bulbs with black sclerotia and white fungal frowth on the base (Dean A. Metcalf)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Above ground symptoms of white rot (Dean A. Metcalf)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "White rot of onion and garlic"
+      }
+    ]
+  }
+}

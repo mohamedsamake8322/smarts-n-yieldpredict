@@ -1,0 +1,69 @@
+{
+  "title": "Rice Grassy Stunt Virus - Cambodia",
+  "sections": {
+    "Header": [
+      "Rice Grassy Stunt Virus - Cambodia",
+      "Nilaparvata lugens , N. bakeri , N. muiri"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "If locally available, use varieties which are resistant to the insect vector brown planthopper (BPH).",
+        "Apply fertilizer in balance.",
+        "Avoid overdosing with nitrogen fertilizer.",
+        "Field sanitation, such as removing weed hosts.",
+        "Remove infected hills from the field and destroy them.",
+        "Following harvest, remove rice stubble from the field.",
+        "Control",
+        "BPH by practicing",
+        "IPM (See",
+        "G&Y List for",
+        "BPH)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scouting 3 times per week especially when the weather is cool.",
+        "Symptoms:",
+        "Look for",
+        "RGSV which causes short erect plants with many tillers and narrow pale yellowish green leaves.",
+        "The plant may show mottling symptoms."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plants by burning or composting.",
+        "There is no chemical control for",
+        "RGS virus.",
+        "Need to control the vector",
+        "BPH which is given in the",
+        "Yellow",
+        "Direct",
+        "Control list.."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Fenobucarb (e.g.",
+        "Bascide); Use 20-30ml/8lit water; Non- systemic, contact action.",
+        "Carbamate",
+        "IRAC Group 1A; WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom caused by RGSV (www.bugguide.net)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice Grassy Stunt Virus - Cambodia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown Planthopper, the virus vector (Sri Lanka Rice knowledge bank, IRRI)"
+      }
+    ]
+  }
+}

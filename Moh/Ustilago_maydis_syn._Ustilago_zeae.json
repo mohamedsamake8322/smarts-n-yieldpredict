@@ -1,0 +1,75 @@
+{
+  "title": "Maize Smut on maize",
+  "sections": {
+    "Header": [
+      "Maize Smut on maize",
+      "Ustilago maydis syn. Ustilago zeae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Resistant varieties available are the best means of controlling common smut.",
+        "Use certified disease-free seeds.",
+        "Rotate with non-cereals and plough deep.",
+        "Maintain well-balanced soil fertility based on a soil test.",
+        "Avoid mechanical injuries to plants during cultivation and spraying.",
+        "Avoid injury of roots, stalks, and leaves during cultivation.",
+        "Protect corn against insects (such as corn earworms and corn borers) by timely applications of insecticides.",
+        "Weed control is very important.",
+        "Maize is very sensitive to weed competition during the first 4-6 weeks after emergence.",
+        "Avoid irrigation water coming into the field from an infected field."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout the field two or three times a week during the earing stage of maize.",
+        "Inspect the inflorescence of the plant to look for black powder.",
+        "The corn plant may be infected at any time in the early stages of growth but becomes less susceptible after the formation of the ear.",
+        "Corn smut overwinters on debris and in the soil.",
+        "It is carried by wind, rain and irrigation and does best in hot, dry weather.",
+        "Spores may remain viable for 5 to 7 years."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "The removal of the smut should always be accompanied by long crop rotations.",
+        "Cutting out all the smut balls before they have time to break open and destroying them by burial or fire, could reduce smut.",
+        "One year of cutting is not enough to cause a noticeable difference in the amount of the disease, but if this cutting is continued for 2 or more years, the smut will gradually be reduced.",
+        "Do not compost infected plant parts."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply sulphur or copper fungicides.",
+        "Copper and sulphur fungicides are toxic for aquatic life and mammals.",
+        "Always spray under the recommendations of labels.",
+        "Use protective clothing.",
+        "Spray weekly when the disease is first noticed and continue the applications as long as the disease conditions are favourable.",
+        "Seed treatment with",
+        "Thiophanate-methyl (Topsin-M 70",
+        "WP) @ 2-2.5 gm/lit. water to save new crop from pathogen attack.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Seed treatment with",
+        "Carbendazim (Derosal 80",
+        "WP) @ 2 gm/kg seed.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Tebuconazole (Folicure 430",
+        "SC) @ 120 ml per acre.",
+        "WHO Class",
+        "II (Moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Maize smut (William M. Brown Jr., Bugwood.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize Smut on maize"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Common smut of Maize",
+  "sections": {
+    "Header": [
+      "Common smut of Maize",
+      "Ustilago zeae Common smut, boil smut, blister smut"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Common smut is a disease caused by a fungus which can be spread via wind and water.",
+        "It can also survive on plant debris and in soil for long periods of time.",
+        "Use certified disease-free seeds since the disease can be seedborne.",
+        "Use resistant varieties if available.",
+        "Mechanical damage to plants is the primary means of infection since the pathogen enters wounds; avoid mechanical damage to roots, stalks and leaves.",
+        "High levels of nitrogen increase disease severity; balance soil fertility and avoid applying excess nitrogen fertilizer.",
+        "Insect injury is a means of infection; control insect pests such as earworms and borers.",
+        "Ideally, do not plant maize in areas with a history of maize smut since spores can remain viable in the soil for 5-7 years.",
+        "If there is no option but to plant maize in a field with a history of maize smut, practice deep ploughing (to at least 50 cm) before planting in order to bury any spores and encourage decomposition of the plant debris it can survive on.",
+        "Rotate with non-cereal crops.",
+        "Control weeds during the first 4-6 weeks to ensure healthy growth.",
+        "Do not allow irrigation water to enter the field from an infected field, since water spreads the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout the field two or three times a week during the earing stage of maize.",
+        "After the earing stage, the crop is less susceptible.",
+        "Monitor for symptoms during dry and warm conditions:",
+        "Tumour-like galls form most frequently on the ears, tassels, stalks, nodal shoots and mid-ribs of leaves, but infection is localised.",
+        "Galls vary in diameter from 1cm to more than 30 cm, are covered by a whitish-green membrane and contain powdery black spore masses.",
+        "Most severe on young, actively growing plants, which it may stunt or kill.",
+        "Look for black powder in the tassel and ears.",
+        "Consider taking action as soon as one infected plant is observed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "In small-scale cultivation, remove and destroy smut galls (by burning or burying deeply to at least 50 cm) before the smuts rupture.",
+        "Rogue and deep plough (to at least 50 cm) diseased maize stalks after harvest.",
+        "Do not compost infected plant parts as the spores may survive on the plant material and spread (the spores can spread via wind and water)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infected ears (CIMMYT)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Infected ears (CIMMYT)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Common smut of Maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Infected plants (CIMMYT)"
+      }
+    ]
+  }
+}

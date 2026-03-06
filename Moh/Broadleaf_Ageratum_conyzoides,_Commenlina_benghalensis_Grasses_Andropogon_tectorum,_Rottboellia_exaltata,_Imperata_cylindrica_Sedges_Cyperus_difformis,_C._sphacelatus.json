@@ -1,0 +1,57 @@
+{
+  "title": "Weed management in cowpea",
+  "sections": {
+    "Header": [
+      "Weed management in cowpea",
+      "Broadleaf: Ageratum conyzoides, Commenlina benghalensis Grasses: Andropogon tectorum, Rottboellia exaltata, Imperata cylindrica Sedges: Cyperus difformis, C. sphacelatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Sort planting materials (crop seeds) to remove weed seeds",
+        "Remove weeds at an early stage of growth (do not wait for weeds to mature and develop flowers and seeds).",
+        "Mature weeds with flowers and seeds have the potential to add more seeds to weed seed bank",
+        "Plough deep and harrow to bury weeds in the soil",
+        "Carefully handpick/cut rhizomes of lang-lang grass ( Imperata cylindrica ) and burn them",
+        "Control movement of animals (e.g. goats, sheep, cow, etc.) to prevent dispersal of weed seeds",
+        "Water management in developed plots/swamp.",
+        "Weeds get rot when submerged under water.",
+        "This should be done before planting",
+        "Puddling of weeds in swamps before planting has the potential to suppress weeds and also bury them into the soil.",
+        "This is also a good source of organic matter.",
+        "Always clean tools after operation (e.g. hoes, shovel or spade, tractor, power tiller, etc.) to prevent weed dispersal",
+        "Plant and soil materials imported in the country must be examined / inspected for exotic/invasive weeds.",
+        "Clean drainages or waterways to remove debris (among the debris could have weed seeds)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Always visit field to assess weed species composition and density"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Mulch plots with botanical leaf extracts (siam weed, pawpaw or neem) or plastic to suppress or smother weeds",
+        "Remove weeds using hand or hoe in between crop stands and rows (weed twice at 3 and 6 weeks after planting)",
+        "Atrazine (70 ml/ gallon of cold and clean water)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO class",
+        "III (slightly hazardous); Re-entry period: 2 weeks; Pre- harvest interval: 2 weeks; Apply prior to planting.; Apply early in the morning or late in the evening; Do not apply when it is raining or windy; Maximum number of applications:",
+        "Apply only once initially or twice if weeds were not adequately controlled; Use protective gears to avoid being poisoned; Avoid using dirty or contaminated water for preparation of solution"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Weed management in cowpea"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Imperata cylindrica seed head"
+      }
+    ]
+  }
+}

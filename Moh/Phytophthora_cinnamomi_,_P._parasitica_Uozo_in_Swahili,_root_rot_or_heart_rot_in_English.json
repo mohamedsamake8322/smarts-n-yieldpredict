@@ -1,0 +1,98 @@
+{
+  "title": "Phytophthora rot diseases in pineapple",
+  "sections": {
+    "Header": [
+      "Phytophthora rot diseases in pineapple",
+      "Phytophthora cinnamomi , P. parasitica Uozo in Swahili, root rot or heart rot in English"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid growing pineapples in shady, humid areas.",
+        "Plant the crop on well drained non-heavy soils, and not in low land.",
+        "Raise planting beds at least 23 cm high for settling of the plant.",
+        "Between raised beds, build trenches to get rid of excess water without causing soil erosion.",
+        "Deep rip down the slope before hilling if soil is compact",
+        "Plant disease free planting materials",
+        "Practice plant space of at least 60 cm",
+        "Apply phosphorus fertilizers to strengthen plant.",
+        "Avoid evening irrigation, as moisture cannot dry on leaves.",
+        "Avoid overhead irrigation to minimize splashes.",
+        "Avoid flooding or furrow irrigation otherwise disease will be carried over.",
+        "Only irrigate from healthy to unhealthy crop areas.",
+        "Mulch and re-mulch with any dry plant debris except from pineapples to reduce muddy conditions",
+        "Remove pineapple residue after harvest, and leave in sun to reduce disease.",
+        "However, if no major insect pests and diseases are in your crop, then leave the residues to improve the soil, and reduce water evaporation.",
+        "After heavy rot disease infestation, do not grow pineapples for several years on the same plot."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Root rots, top rots, or heart rots are all watery mould diseases, a bit like fungal diseases.",
+        "Start scouting for symptoms two weeks after planting; then every two weeks.",
+        "Look for: reddish heart leaves; then light brown with light tinge; then yellowish with necrotic leaf edges.",
+        "Curved leaf edges that become limp and die back from tips.",
+        "Heart leaves wilt.",
+        "Terminal whorl can easily be pulled from mother plant",
+        "Water soaked tissue at base of leaves have a foul smell",
+        "If symptoms are seen on 5-7 plants per quarter of an acre, quick action is advised"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rouge out diseased plants and deeply bury them outside the field",
+        "Propineb-based products (Antracol 70WP, Melody",
+        "Duo",
+        "WG 66.8, and others); dithiocarbamate group of fungicides, with protective action.",
+        "Foliar fungicide."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Farmers are not allowed to buy and/or use",
+        "WHO toxicity class",
+        "II products without special training in",
+        "Tanzania.",
+        "WHO class",
+        "II (and",
+        "Tanzanian red and yellow-label products) are not advised in",
+        "Tanzanian",
+        "IPM schemes.",
+        "Losses from top and root rots are usually a result of poorly drained soils.",
+        "However, tops may also be affected on well-drained soils if long wet weather follows planting.",
+        "Only then chemical control options may be advised.",
+        "Pineapple rots are not true fungi; therefore most fungicides do not work, except for those listed here.",
+        "Use metalaxyl-based products; or products based on a mix of metalxyl and mancoceb (Agrilax 720WP, Eureka 72WP, Mancolax 72%WP, Ridomil",
+        "Gold 68WG, and many others).",
+        "Nucleic",
+        "Acid",
+        "Synthesis affecting group of fungicide with systemic activity.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); Max 3 sprays over 4-8 weeks.",
+        "Pre-harvest interval p.h.i 14 days, restricted re-entry interval r.e.i. 3 days.",
+        "Harmful to aquatic organisms, do not use near water.",
+        "Unlikely to present acute hazard in normal use (WHO Class",
+        "U); p.h.i. 10 d r.e.i 1/2d, max 2 sprays/season."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Soft rot symptoms, showing leaf easily pulled away from crown (Brantlee Spakes Richter, University of Florida, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Phytophthora rot diseases in pineapple"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pineapple roots infected by phytophthora (Scot Nelson, via Wikimedia Commons)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Root rot of pineapple ( Ananas comosus ) caused by Phytophthora cinnamomi (Scot Nelson, via Wikimedia Commons)"
+      }
+    ]
+  }
+}

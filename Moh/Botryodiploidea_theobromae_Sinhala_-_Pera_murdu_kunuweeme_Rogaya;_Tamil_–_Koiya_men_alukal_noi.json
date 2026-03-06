@@ -1,0 +1,59 @@
+{
+  "title": "Soft rot disease in Guava",
+  "sections": {
+    "Header": [
+      "Soft rot disease in Guava",
+      "Botryodiploidea theobromae Sinhala - Pera murdu kunuweeme Rogaya; Tamil – Koiya men alukal noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Maintain recommended plant spacing (5-6m x 5-6m)",
+        "Follow soil test based fertilizer application",
+        "Cover fruits with paper bags 3-4 weeks after fruit setting",
+        "Maintain good field sanitation",
+        "Prevent fruit injuries",
+        "Prune excess and damaged branches to facilitate aeration and sunlight"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe soft rotten surface on fruits",
+        "Differentiate fruit fly damage with dark coloured puncture wounds and soft oozing",
+        "Maggots can be seen in fruit fly damaged fruits",
+        "Both fruit fly attack and soft rot symptoms can be observed in same fruit"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected fruits",
+        "Chlorothalonil 500g/l",
+        "SC.",
+        "Rate of dilution 30ml/ 10 lit. of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply a fungicide once only at the initial stage of the fruit / before bagging fruits",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites, fish and earthworms",
+        "Mancozeb 75% WG.",
+        "Rate of dilution 20g/ 10l of water",
+        "WHO Class",
+        "U.",
+        "Toxic to parasitoids and fish and moderately toxic to predatory mites"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Soft rot disease in Guava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Infected fruit (M. Kuruppu)"
+      }
+    ]
+  }
+}

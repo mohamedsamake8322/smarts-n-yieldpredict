@@ -1,0 +1,83 @@
+{
+  "title": "Fusarium wilt on passion fruit",
+  "sections": {
+    "Header": [
+      "Fusarium wilt on passion fruit",
+      "Fusarium oxysporum f.sp. Passiflorae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Solarize the soil 5-6 weeks before planting the crop",
+        "Plant disease free seedlings from certified nurseries such as",
+        "KALRO- Thika, JKUAT, Good neighbours and other",
+        "HCDA registered nurseries",
+        "Plant seedlings grafted to wilt-resistant yellow passion fruit rootstocks",
+        "Rotate passion fruit with maize, beans, cabbage, kales and non solaneceous crops",
+        "Avoid injuring plant stems and roots; these serve as entry avenues for the pathogen",
+        "Plant orchard in well drained soils",
+        "Avoid planting a new orchard near a previously infected one as movement of soil from infected to new site may lead to spread of the disease"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for yellowing and drooping of leaves even when the soil has sufficient moisture",
+        "Check for browning and vertical cracking of the collar region of the stem at ground level",
+        "Disect the stem and check for a distinctive browning of vascular tissues",
+        "Look for wilting of plant from the base upwards, defoliation and complete death of plant",
+        "Take immediate action once one plant shows the signs"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and destroy infected plants by burning or burying",
+        "Sterilize all farm tools especially during pruning with 2% jik solution (500 ml of jik in 20 litres of water)",
+        "Control run off water from infected areas to clean areas to avoid spreading the pathogen",
+        "Start working from disease free areas before proceeding to affected parts of the field",
+        "Dip the roots of young seedlings in a bio pesticide containing",
+        "Trichoderma e.g.",
+        "Trianum",
+        "P @1:5 (1 part",
+        "Trianum:5 parts of water), Trichotech, during planting"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides always wear protective clothing",
+        "Always follow the instructions on the product label such as dosage, timing of application, PHI, maximum number of sprays, re",
+        "entry interval, etc.",
+        "Always consult current list of registered pesticides",
+        "Drench the soil with",
+        "Propamocarb",
+        "Hydrochloride based products e.g.",
+        "Previcur",
+        "N @50ml/ 20lts, Propeller@60-120ml/20L",
+        "WHO Toxicity class",
+        "U (unlikely to present acute hazard); PHI 7 days.",
+        "Drench the soils before planting or during the observation of initial disease symptoms",
+        "Drench the soil with",
+        "Carbendazim + Mancozeb based products such as",
+        "Saaf",
+        "WP at the rate of 25g/ 20lts,Sherrif",
+        "WHO Toxicity class",
+        "III (slightly hazardous)",
+        "PHI 7 days.",
+        "Drench the soils before planting or during the observation of initial disease symptoms"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Fusarium wilt of passionfruit (Francis Nduati)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fusarium wilt on passion fruit"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on stem. The bark was removed to show the dark discoloration of the xylem (J.R. Liberato, DPI&F, Australia)"
+      }
+    ]
+  }
+}

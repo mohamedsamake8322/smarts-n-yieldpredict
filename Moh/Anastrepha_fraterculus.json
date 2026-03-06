@@ -1,0 +1,59 @@
+{
+  "title": "Fruit fly on cherimoya",
+  "sections": {
+    "Header": [
+      "Fruit fly on cherimoya",
+      "Anastrepha fraterculus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting susceptible varieties in nearby plantations",
+        "Use training, pruning and thinning to control tree vigour, shape and form",
+        "Bag fruits into paper bags when they reach a diameter of between 4 and 6 cm",
+        "Remove and bury weeds and fallen leaves around the plantation",
+        "Harvest fruits early to avoid attack",
+        "Harvest all the fruits, including small and deformed fruits at the end of the season",
+        "Collect the fallen and very small fruits remaining on trees.",
+        "Bury them at a depth of 30 cm or more, submerge in water or leave them out in the sun",
+        "To kill the larvae and pupae, plough the soil at the base of the trees",
+        "Implement the same fruit fly management practices for other hosts (citrus, guava and mango)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "In trees, set traps (3",
+        "L plastic bottles with the base painted yellow and holes of 2 cm in the middle part) with 250 cc of bait.",
+        "Count adults every week during the fruiting period.",
+        "Wash and re-bait the traps every 15 days",
+        "Bait: use 50 cc of molasses, 200g of urea, 10 g of borax and 740 ml of water",
+        "The adult fruit fly has a yellow-brown colouring body and pale blue eyes.",
+        "The wings are transparent with irregular yellow- orange and brown bands",
+        "Symptoms on the fruit: perforations, circular spots and premature ripening",
+        "Monitor 20 fallen fruits for oviposition punctures on the skin of the fruits and cut open them to see small white larvae inside",
+        "Collect also fruits for examination directly from the tree as the larvae might have left the fallen fruits and pupate into the soil",
+        "Apply control measures when 2 flies are found per trap every 15 days"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Place a pheromone trap every three trees to control adults.",
+        "Use traps all year round, especially during and after the harvest period",
+        "Throughout the whole season, collect the attacked fruits remained on trees or fallen on soil and bury",
+        "Release of parasitoids available in your country as",
+        "Aganaspis pelleranoi or",
+        "Diachasmimorpha longicaudata , or spray entomopathogenic fungus such as",
+        "Beauveria bassiana",
+        "These strategies are more effective on large scale area"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adulto A. fraterculus (Taina Litwak, Anastrepha and Toxotrypana, USDA APHIS ITP, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Fruit fly on cherimoya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Coffee berry borer in coffee",
+  "sections": {
+    "Header": [
+      "Coffee berry borer in coffee",
+      "Hypothenemus hampei (syn. Cryphalus hampei , Hypothenemus coffeae ) Agakoko gapfumura imbuto z’ikawa in Kinyarwanda, Scolyte des baies de café in French"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant coffee varieties (Harrar; POP 3303/21; Jackson 2/1257; BM 139) tolerant to coffee berry borer damage",
+        "Mix shade trees (Alnus, Calliandra, Leuceana) with coffee trees for shade to favour natural enemies of borers",
+        "Harvest every time there are fully ripe berries as these are susceptible to infestation.",
+        "Place sacks or sheets under the trees you are harvesting from to prevent berries from being lost in mulch",
+        "Prune in",
+        "June-August coupled with de- suckering all shoots and excessive suckers- leave 2 suckers",
+        "Branch stripping:",
+        "Pick remaining berries after harvest (including fallen ones) as they are hosts of the borers.",
+        "Boil in water and bury."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for tiny dark cylindrical holes at bottom of coffee berries or black beetles of 1 ½ mm.",
+        "Open some coffee berries to observe beetle, white beetle larvae or black dead cells due to borer damage",
+        "Inspect coffee plants at least once per week for coffee berry borers, 8-32 weeks after flowering as that is when they attack both green and ripe berries",
+        "Count all berries on at least 3 lower branches of 10 trees per hectare and evaluate percentage attack.",
+        "Threshold: consider action at 4-6% infested berries per tree on average."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Place 20 traps/ ha (plastic water bottles painted with red colour and containing kairomones), or traps with 1:1 ethanol + methanol lure to trap flying borers.",
+        "Inspect traps 14 days after and remove berry borers.",
+        "Check if there are still kairomones in the trap bottles.",
+        "Use",
+        "Beauveria bassiana (such as",
+        "BOTANIGARD® ES), usually apply 1.0 to 1.5",
+        "L/acre in 50",
+        "L of water to berries and the soil surface (where berries fall) between 60 and 150 days after flowering.",
+        "But check product labels.",
+        "Use",
+        "Azadirachitin – based products; (such as",
+        "Nimbecidine, and others), usually applied at 5mL/L of water (max 2.5-3L/ha), but double-check product label.",
+        "Use",
+        "Pyrethrin – based products (e.g.",
+        "Pyrethrum 5",
+        "EW) usually applied at 20mL/5L of water, but double-check product label.",
+        "Imidacloprid",
+        "based products",
+        "(Confidor®, Admire® , or others), a systemic neo",
+        "neonicotinoid pesticide.",
+        "Alpha-cypermethrin – based products (e.g:",
+        "Astound, Fastac, and others), a synthetic pyrethroid, non- systemic with contact and stomach action.",
+        "Usually applied at 5-10mL/L water, but check label."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Pesticide sprays must be done before the beetles lay eggs.",
+        "The best time is when the adult females are flying (see traps).",
+        "This happens all year long but most often between 60 and 150 days after flowering.",
+        "This is at older not yet hardened berries close to maturity.",
+        "Spray mornings or evenings.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Always consult recent list of registered pesticides of",
+        "RALIS in",
+        "Rwanda.",
+        "Not-WHO classified, but considered unlikely acute hazardous in normal use.",
+        "Harmful to predatory mites, flower bugs, parasitoids, Max. 1 spray. pre-harvest interval p.h.i: 0 days, restricted re-entry interval r.e.i: ½ day",
+        "Not",
+        "WHO-classified, but considered slightly acute hazardous in normal use.",
+        "Harmful to parasitoids and fish. p.h.i: 1-3 days, r.e.i: ½ day",
+        "WHO toxicity class",
+        "II (moderately acute hazardous). r.e.i. ½ day, p.h.i: 14 days.",
+        "Toxic to bees (do not apply when coffee or other plants are flowering).",
+        "Max. 1 spray.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous). r.e.i.: 12 hrs, p.h.i: 24 hours; Toxic to bees (do not apply when bees are foraging; not when coffee or other plants are flowering).",
+        "Max. 1 spray per season"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "White beetle larva damaging inside a coffee bean (Kumashiro et al, Hawaii Department of Agriculture)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Dark cylindrical holes due to berry borer at bottom of green, ripining or fully ripe coffee beans (Kono coffee)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult coffee berry borer beetle on a coffee bean (Peggy Greb, USDA Agricultural Research Service, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Coffee berry borer in coffee"
+      }
+    ]
+  }
+}

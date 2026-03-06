@@ -1,0 +1,87 @@
+{
+  "title": "Powdery Mildew on Strawberry",
+  "sections": {
+    "Header": [
+      "Powdery Mildew on Strawberry",
+      "Podosphaera macularis f. sp. Fragariae ( Podosphaera aphanis ) Powdery mildew disease"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant resistant varieties such as pajero, douglas from",
+        "Simlaws and",
+        "Kenya",
+        "Seed",
+        "Company.",
+        "Plant in soils with good drainage",
+        "Space the plants with 3-4 feet between rows to increase aeration within the crop",
+        "Practice crop rotation with non-host crops, such as maize or sorghum, for at least 2 years.",
+        "Prune the affected leafy vegetation and weed regularly to remove host plants within the farm.",
+        "P. aphanis , strawberry (Elizabeth",
+        "Bush, Virginia",
+        "Polytechnic",
+        "Institute and",
+        "State",
+        "University, Bugwood.org)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for purple reddish blotches on the upper and lower surface of leaves",
+        "Look for young small leaves with white to grey powdery deposits on the undersides, causing leaf roll up",
+        "Look for immature hard and deformed fruits",
+        "Look for infected mature fruits with white powdery deposits",
+        "Take action when 2 to 3 leaves have grey to white powdery growth on one plant"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Uproot and burn infected plants in the field to reduce the spread of disease to healthy plants",
+        "Avoid overhead irrigation to reduce spread of the disease",
+        "Clean your tools thoroughly with",
+        "Jik solution (3 to 5 ml in 1 litre of water) before using them on clean plants",
+        "Water early in the morning or after sunset, and try to keep the water on the soil, not the leaves",
+        "Spray the plants by using",
+        "Trianum-P ( Trichoderma harzianum ) at a rate of 15g in 5L or",
+        "Trichotech ( Trichoderma asperellum ) at a rate of 2.5g in 20L of water"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Spray",
+        "Azoxystrobin 250 g/ L, such as",
+        "Ortiva® 250",
+        "SC.",
+        "Apply 20ml in 20L of water.",
+        "Apply at 0.5L/ha",
+        "Spray mancozeb 80WP 640g/L, appropriately diluted, and repeat at an interval of 7 to 10 days."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Class",
+        "III (Slightly hazardous).",
+        "REI: 12hrs.",
+        "PHI: 5days.",
+        "Apply twice at 7-14 day interval.",
+        "WHO class",
+        "U.",
+        "REI 4 hours.",
+        "PHI 7 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Always consult the most recent list of registered pesticides (PCPB)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Powdery Mildew on Strawberry"
+      }
+    ]
+  }
+}

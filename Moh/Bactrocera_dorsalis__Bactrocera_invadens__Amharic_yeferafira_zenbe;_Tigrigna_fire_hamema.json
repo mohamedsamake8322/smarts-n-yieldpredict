@@ -1,0 +1,54 @@
+{
+  "title": "Fruit fly on guava",
+  "sections": {
+    "Header": [
+      "Fruit fly on guava",
+      "Bactrocera dorsalis ( Bactrocera invadens ) Amharic: yeferafira zenbe; Tigrigna: fire hamema"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove fruit fly hosts such as neglected citrus, mango, hot and sweet pepper plants",
+        "Cover fruits immediately after fruit set with plastic bags to prevent flies from laying eggs on the fruit",
+        "Hoe the ground underneath the guava tree canopy to expose pupae to sunlight and predators",
+        "Do not use collected damaged fruits to compost as this will increase the infestation",
+        "Conserve natural enemies by preventing ants from climbing the guava trees by applying ashes at the base of the tree"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: mango, citrus, peppers",
+        "Intensify monitoring during hot weather conditions which are favourable for fruit fly development",
+        "Look for brown spots on the skin of fruits during fruit setting",
+        "Cut fruits open to look for maggots (white worm the length of a fingernail) in the fruit, leaving a soft rot on the skin of the fruit",
+        "As soon as the pest is present consider using the direct control methods"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "At least twice a week throughout the season remove infested fruits from the tree and the ground and bury them more than 60 cm deep to avoid spread of the pest",
+        "Or collect infested fruits in a plastic bag, seal the bag and expose to sun light untill the maggots and flies are dead"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are currently no registered pesticides in",
+        "Ethiopia for the management of guava pests"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult fruit fly (Wade Jenner, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit fly on guava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Injury to guava fruit caused by fruit fly (Scot Nelson, www.flickr.org)"
+      }
+    ]
+  }
+}

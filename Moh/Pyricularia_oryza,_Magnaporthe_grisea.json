@@ -1,0 +1,78 @@
+{
+  "title": "Management of Rice blast",
+  "sections": {
+    "Header": [
+      "Management of Rice blast",
+      "Pyricularia oryza, Magnaporthe grisea"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing with organic matter",
+        "Use of disease/ spot free seed",
+        "Avoid the use of exessive",
+        "N and apply balanced fertilizer",
+        "Weed control to remove alternate host plants"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits and observation of the rice plants immediately if low night and high day temperature, drizzly rain, morning dew and windy weather",
+        "Look for angular shaped lesions (eye shaped) with pointed ends on the leaves",
+        "Look for infected nodes, panicle and neck",
+        "Observe alternative host grasses for symptoms",
+        "Late wet and dry season is favorable",
+        "Sandy loam soil and dry condition also favour the disease"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spraying of",
+        "MOP (@6g/L) and elemental sulphur (@6g/L) during",
+        "PI-boot stage",
+        "Split application of nitrogen fertilizer do not exceed recommended dose",
+        "Keep soil moist and apply irrigation during drought",
+        "Application of fungicide during boot and after flowering is recommended",
+        "Spray premixed",
+        "Tebuconazole +Trifloxystrobin usually @ 0.5g/L of water",
+        "Spraying of powder formulation of",
+        "Tricyclazole @ 0.75g/L of water",
+        "Spraying premixed",
+        "Tricyclazole and",
+        "Propiconazole- @ 2-3 ml/L water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply fungicides during early morning and or late afternoon",
+        "Use mask during spraying of pesticides",
+        "Don’t apply fungicides high concentrations of chemical or more than two times",
+        "Trifloxystrobin",
+        "WHO U , FRAC 11",
+        "Tebuconazole",
+        "WHO II , FRAC 3 (Use two sprays 7",
+        "10 day intervals apart)",
+        "WHO II FRAC 16.1 (Use two sprays 7-10 day intervals apart)",
+        "Tricyclazole",
+        "WHOII, FRAC 16.1",
+        "Propiconazole",
+        "WHO II, FRAC 3 (Use two sprays 7",
+        "10 day intervals apart)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Lesions on leaves are elliptical or spindle-shaped. Photo by Chin Khoon Min"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice blast. Photo by IRRI (CC BY-NC-SA)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Management of Rice blast"
+      }
+    ]
+  }
+}

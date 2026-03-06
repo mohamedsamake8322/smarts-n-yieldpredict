@@ -1,0 +1,72 @@
+{
+  "title": "Rice Blast - Rwanda",
+  "sections": {
+    "Header": [
+      "Rice Blast - Rwanda",
+      "Pyricularia grisea ( Magnaporthe grisea )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Seed treatment using hot water (50°C/2mn) using clean, disease-free seeds.",
+        "Respect sowing dates: wet season starting 15",
+        "December and dry season starting 15",
+        "July.",
+        "Plant resistant varieties such as",
+        "Nerica rice.",
+        "Practice crop rotation using different rice varieties.",
+        "Practice proper spacing between rows and within plants (20x20cm) to facilitate air circulation.",
+        "Weed control to remove host plants.",
+        "Apply 100kg/ha of",
+        "Nitrogen fertilizer two weeks after transplanting and 50kg/ha 60 days after transplanting.",
+        "Compost infected rice straws of previous season."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly visit your crop, starting at nursery stage.",
+        "Observe the crop for the following symptoms:",
+        "Leaves: oval spots with grey or white centres and narrow brown borders.",
+        "Nodes:",
+        "Rotten nodes.",
+        "Neck:",
+        "Rotten neck.",
+        "Panicles:",
+        "Straw-coloured.",
+        "If infection on the leaves is more than 5%, think on chemical control."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply 15g of tricyclazole 75% WP in 15 litres of water at nursery, tillering and booting stages"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Wear protective equipment when applying pesticides."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infected pannicle. (Source: IRRI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Lesions on rice. (Source: IRRI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Infected nodes. (Source: IRRI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rice Blast - Rwanda"
+      }
+    ]
+  }
+}

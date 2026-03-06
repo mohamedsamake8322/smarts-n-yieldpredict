@@ -1,0 +1,82 @@
+{
+  "title": "Flea beetle on okra",
+  "sections": {
+    "Header": [
+      "Flea beetle on okra",
+      "Podagrica uniforma"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant in the raining season since beetles develop a fungal disease that can reduce their population",
+        "Clean farm tools after use to reduce the spread of the eggs and larvae",
+        "Remove crop debris after harvesting and burn because adults shelter under plant debris",
+        "Practice crop rotation with cereals (maize, sorghum, millet)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect every part of the plant for different stages of the pest and symptoms from germination to harvest:",
+        "Observe many small short round holes on leaves at seedling stage",
+        "Look for perforated and skeletized (sievelike) leaves",
+        "Look for tiny shiny, dark brown or black beetles on the plants",
+        "Uproot the plant and observe the roots for larvae and root feeding",
+        "Control when 5-10% leaf area for young crop or 20-40% for older crop is damaged"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Ensure good agricultural practices (fertilization, irrigation, soil management) to allow plant to out grow the damage",
+        "Weed and lightly stir soil around plants to exposed eggs and grub in the soil to predators (e.g. birds, ants) because flea beetles lay eggs in the soil cracks around the base of the plant",
+        "Thiamethoxam 350g/l (e.g",
+        "Raintham)",
+        "Apply at a rate of 10-13 mls / 15L knapsack.",
+        "Broad spectrum systemic neonicotinoid, IRAC group 4A",
+        "Fenvelerate 200g/l (e.g.Shoker 20EC or",
+        "Sanitox 20EC)",
+        "Apply at a rate of 2-4mls per 15L knapsack.",
+        "Pyrethroid with contact and stomach action.",
+        "IRAC group 3A",
+        "Alpha-cypermephrin (eg",
+        "Fastrack 10SC).",
+        "Apply at a rate of 8-15mls / 15L knapsack.",
+        "Pyrethroid with contact and stomach action, IRAC group 3A"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO class",
+        "III (Slightly hazardous)",
+        "Neonicotinoid.",
+        "For optimum control, apply when pest populations are first observed.",
+        "Repeat at 7 days after monitoring when pest pesist.",
+        "REI is 12 hours.",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Apply at 7 days interval.",
+        "PHI is 2days and",
+        "REI is 12hours.",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Apply to seedlings and vegetative stage.",
+        "Repeat application after 7-10 days if the pest persist.",
+        "PHI is one day.",
+        "Do not enter the field until spray droplets are dry."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Flea beetle on okra"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Flea beetle feeding damage on an okra leaf (K.O. Fening, University of Ghana)"
+      }
+    ]
+  }
+}

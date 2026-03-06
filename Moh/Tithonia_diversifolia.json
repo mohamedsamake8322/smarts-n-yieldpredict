@@ -1,0 +1,51 @@
+{
+  "title": "Mexican sunflower",
+  "sections": {
+    "Header": [
+      "Mexican sunflower",
+      "Tithonia diversifolia"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Clean material, boots, clothing and vehicles when moving out of infested areas",
+        "Seeds are spread by animals - do not allow livestock into an affected area to avoid spread",
+        "Species is spread by water - use only water from sources free of the weed and avoid runoff from surrounding infested fields",
+        "The species is spread by wind - limit seed set in surrounding populations",
+        "Mulching using plastic sheeting or wood shavings reduces establishment from seed"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Annual or perennial herbaceous broadleaved shrub, woody at the base [2–3 (–5) m high]",
+        "Leaves greyish-green, finely hairy on underside giving a grey appearance.",
+        "Simple, 3–5 (–7) pointed lobes (6–33 cm long and 5–22cm wide)",
+        "Flowers bright yellow, daisy or sunflower-like (up to 10 cm across), carried on long and swollen stalks (7–30 cm long)",
+        "Regularly check fields for presence of the weed and consider direct control when present",
+        "Check for flowering and seed development to prevent seed set, spread and build up of seed bank"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "During the rainy season, regularly cut the weeds before flowering.",
+        "Either chop plants into pieces and heap them within the hedge to dry and decompose of feed to livestock",
+        "Hand-pull and destroy the weeds emerging in the crop field, ensuring the taproot is severed well below the crown to prevent regrowth.",
+        "Allow them to dry and decompose or feed them to livestock",
+        "Do not slash the plants, as plants can regrow from cut fragments",
+        "Consistent follow-up work is required for sustainable management"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Flowers are bright yellow, up to 10 cm across (John M. Randall, The Nature Conservancy, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaves have 3-5 pointed lobes (Arne Witt, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mexican sunflower"
+      }
+    ]
+  }
+}

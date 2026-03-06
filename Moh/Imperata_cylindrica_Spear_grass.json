@@ -1,0 +1,73 @@
+{
+  "title": "Cogon grass",
+  "sections": {
+    "Header": [
+      "Cogon grass",
+      "Imperata cylindrica Spear grass"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Clean tillage equipment and other farm machinery to prevent rhizomes being spread.",
+        "For maize: weed infested fields at least five times to minimise yield reduction.",
+        "After eradication of",
+        "I. cylindrica , it is necessary to establish useful species which suppress regrowth of weeds and conserve soil fertility.",
+        "Use legume cover crops to smother the weeds, stabilize the soil and fix nitrogen.",
+        "Calopogonium caeruleum , C. mucunoides , Desmodium intortum , Centrosema pubescens , Mucuna spp., Pueraria phaseoloides , P. triloba and",
+        "Stylosanthes guianensis are examples of legumes that are used to rehabilitate grassland or provide ground cover in plantation crops.",
+        "Or gradually change your cropping system to include agroforestry by planting trees in the field to increase shade e.g. plant mahogany ( Swietenia mahogani ), sungkai ( Peronema canescens ) or candle nut ( Aleurites moluccanus .",
+        "Use alley cropping to shade and surpress weeds e.g. plant",
+        "Gliricidia sepium and",
+        "Leucaena leucocephala ."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Perennial grass; can be up to 3 m tall.",
+        "Rhizomes (underground stems): tough; white; around 1 m deep; concentrated in upper 15-20 cm of soil; produced from seedlings after 4 weeks:",
+        "Remain dormant but viable for a long time.",
+        "Can reshoot from fragments – shorter fragments are less likely to survive.",
+        "Leaves: can be green or red; stiff; finely toothed edges; hairy upper surface near plant base; 120 cm long, 4-18 mm wide.",
+        "Flowers: white; two stamens; fluffy; 5-20 cm long, 2.5 cm wide.",
+        "Flowers after exposure to stress such as burning, overgrazing and repeated slashing.",
+        "Seeds: dispersed by wind; one plant can produce 3000; have little or no dormancy period; remain viable for over a year.",
+        "Check for presence of weed every 2 months in cassava fields, and every 2 weeks in other crops.",
+        "Take control measures if present."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Any management strategy should aim to destroy the grass rhizomes.",
+        "Control strategies should be based on an integrated approach.",
+        "Extract using a hoe or hand-pull weed.",
+        "Dispose of fragments by burial or burning.",
+        "Do not only burn as this enhances seed production.",
+        "Cultivate soil during the dry season when most of the weed's biomass is in the rhizomes and when dessication is most effective.",
+        "If done in the wet season there is not enough sun to kill the exposed rhizomes.",
+        "To expose the rhizomes, execute deep mechanical tillage (30-40 cm) with tractor during field preparation.",
+        "Leave for at least 2 weeks to desiccate rhizomes in the sun and plough again at right angles to the previous direction to expose fragmented rhizomes.",
+        "After, harrow field twice at an interval of about 2 weeks.",
+        "Execute grass pressing to decomposes and dry up weeds within 1 month and to enable the establishment of legume ground covers:",
+        "Ensure grass shoots are only bent, not broken, otherwise it will send up new shoots.",
+        "Do this when weed is about 1 m high to ensure stems remain bent.",
+        "Roll logs or stand on planks."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leaves and inflorescence a white, spike-like panicle (NOVARTIS)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "I. cylindrica shoots held at soil level to show variable depth of origin (©Chris Parker/Bristol, UK)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cogon grass"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Roots fibrous, emerging from the base of the culm and the nodes on the rhizome (NOVARTIS)"
+      }
+    ]
+  }
+}

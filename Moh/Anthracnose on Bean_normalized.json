@@ -1,0 +1,60 @@
+{
+  "source": {
+    "title": "PEST MANAGEMENT DECISION GUIDE: GREEN LIST",
+    "publisher": "unknown",
+    "license": "",
+    "language": [
+      "en"
+    ],
+    "region": []
+  },
+  "host": {
+    "crop": "bean",
+    "plant_part": [],
+    "growth_stage": []
+  },
+  "problem": {
+    "type": null,
+    "common_name": null,
+    "scientific_name": null,
+    "synonyms": []
+  },
+  "monitoring": [
+    "Monitoring",
+    "Look at every part of the plant for symptoms from germination to harvest: On cotyledons: small, dark brown to black lesions On leaves and stems: rust-coloured specks, abnormal colours and necrotic areas On the underside of leaves: brick-red to purple veins, which eventually turn black On pods: black-red sunken spots, necrotic areas and lesions Seeds: discolorations and lesions"
+  ],
+  "practices": {
+    "prevention": [
+      "PEST MANAGEMENT DECISION GUIDE: GREEN LIST",
+      "Anthracnose on Bean",
+      "Colletotrichum lindemuthianum",
+      "Prevention",
+      "As this disease is seed-borne, use certified anthracnose-free seeds Plant resistant varieties Restrict the activity and movement of field workers and agricultural implements in fields when the foliage is wet from rain or dew Use furrow irrigation system rather than sprinklers Remove and destroy crop debris after harvest Disinfect tools after use Use recommended fertilizers Practice crop rotation for 2-3 years with non-susceptible crops (non-leguminous plants)",
+      "Necrotic areas on petiole (Howard F. Schwartz, Colorado State University, Bugwood.org)",
+      "Black-red sunken spots on bean pods (Howard F. Schwartz, Colorado State University, Bugwood.org)",
+      "Bean leaves displaying symptoms (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+    ],
+    "control_nonchemical": [
+      "Direct Control",
+      "If anthracnose symptoms are detected at an early stage in the field, remove and bury infected plants before the disease spreads"
+    ],
+    "control_biological": [],
+    "control_chemical": [],
+    "restrictions": []
+  },
+  "figures": [
+    {
+      "caption": "Necrotic areas on petiole (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+    },
+    {
+      "caption": "Black-red sunken spots on bean pods (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+    },
+    {
+      "caption": "Direct Control"
+    },
+    {
+      "caption": "Bean leaves displaying symptoms (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+    }
+  ],
+  "references": []
+}

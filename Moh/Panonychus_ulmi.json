@@ -1,0 +1,63 @@
+{
+  "title": "Apple mites on apple",
+  "sections": {
+    "Header": [
+      "Apple mites on apple",
+      "Panonychus ulmi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Collecting, burning and burying of plant residues in garden during the winter.",
+        "Plough and shovel the earth around the trees in winter",
+        "Collection and burning of fallen leaves in spring as they may contain the insect",
+        "Keep trees well irrigated to reduce the chance of mite infestation"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The plant mite will be widespread, when the temperature be 28-35ºC Regular monitoring in the end of spring and beginning of summer",
+        "Mites can be seen in both sides of leaves.",
+        "Infected trees are covered with webbing.",
+        "Farmers shake webbing cover leaves on a sheet of white paper, then they can see the mites.",
+        "When the mite population reach 4-15/ leaf, the controlling program must start."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Washing of tree by water or water spray.",
+        "Washing of trees with soap powder (2.5gr/liter).",
+        "Spray with onion extract.",
+        "Grind one",
+        "Kg of onion and take the extract by filtering.",
+        "Add the onion extract in 15 litres of water and spray on infected trees.",
+        "Use winter oil during the dormant period",
+        "Use of milk 1L/10L water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when spraying to protect your eyes, mouth and skin",
+        "Buy chemicals from a certified dealer and keep them out of the reach of children",
+        "Do not eat, drink or smoke during the spray",
+        "Application of",
+        "Bromopropylate (Neuron) at the rate of 1 ml/ litre",
+        "Apply acaricides only once, when the mite population increases.",
+        "Wash the trees with water spray one week after application.",
+        "Do not eat the fruits for 15-20 days after pesticide applications.",
+        "U class of",
+        "WHO list"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "1. Undamaged apple shoot; 2. Shoot bronzed by P. ulmi. (Horticulture Research International)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Apple mites on apple"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Groundnut bud borer",
+  "sections": {
+    "Header": [
+      "Groundnut bud borer",
+      "Anarsia ephippias shendepokharnari ali"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Dig or plough immediately after harvest to expose the pupae to predatory birds, other natural enemies and the heat of the sun.",
+        "Removal of weeds and plants which serve as alternate hosts."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The larva bores into the terminal buds and shoots and tip of the stem",
+        "The tender leaflets emerging from central spindle will show shot-hole symptoms initially",
+        "In severe infestation emerging leaflets will have only the midribs or several oblong feeding holes"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Application of any one of the following sprays.",
+        "Neem seed kernel extract 5% (50 ml/litre of water) and neem oil @ 3% 30 ml/ litre of water)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators.",
+        "Spray any one of the following chemicals.",
+        "Indoxacarb 14.5% SC (0.5 ml/litre ) or",
+        "Spinosad 45% SC (0.5 ml/ litere) or",
+        "Cypermethrin 25% EC (1 ml/ litre) at fortnightly interval from flower bud imitation.",
+        "Cyperthethrin, Indoxacarb",
+        "WHO classification",
+        "Class",
+        "II Moderately",
+        "Hazardous.",
+        "Spinosad",
+        "WHO classification",
+        "Class",
+        "III Slightly",
+        "Hazardous"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Groundnut bud borer. Source: www.agritech.tnau.co.in"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Groundnut bud borer"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bud borer damaged plant. Source: www.agritech.tnau.co.in"
+      }
+    ]
+  }
+}

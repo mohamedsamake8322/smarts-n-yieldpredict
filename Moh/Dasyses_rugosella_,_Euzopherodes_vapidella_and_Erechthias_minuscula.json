@@ -1,0 +1,45 @@
+{
+  "title": "Yam moths",
+  "sections": {
+    "Header": [
+      "Yam moths",
+      "Dasyses rugosella , Euzopherodes vapidella and Erechthias minuscula"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Clean the storage facility and avoid storing damaged tubers.",
+        "Use clean planting stock that does not have moth eggs or caterpillars on it.",
+        "Try not to pierce or damage the yams during harvest, as this can provide an easy access point for the yam moths.",
+        "If using a temperature-controlled storage facility, storing the tubers between 12°C and 20°C will delay the development of the moths and help control damage.",
+        "Be careful not to store below 12°C as this will cause chilling damage to the tubers."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly for symptoms on tubers during harvest and storage as yam moths are post-harvest pests of yam tubers:",
+        "The adult pyralid moths",
+        "Euzopherodes vapidella lay eggs in wounds on the surfaces of the tubers soon after harvest.",
+        "The larvae bore into the tubers during harvest and storage, leaving tunnels.",
+        "This causes the tubers to deteriorate, decreasing the value of the crop.",
+        "Look for black frass (faecal matter) woven together by silk threads left by larvae and pupa cases that are left behind after the adult emerges.",
+        "The tineid moths ( Dasyses rugosella and",
+        "Erechthias minuscula ) are a secondary pest that attack the tubers once the pyralid moths have already caused damage and the yams have lost moisture.",
+        "The tineid larvae eat the inside of the tuber leaving only the skin."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Do not store tubers that show signs of damage with undamaged tubers.",
+        "Sort the tubers prior to storage and keep the damaged tubers separate.",
+        "To prevent hatching and emergence of the adult moth, apply by lightly dusting pepper powder (sweet pepper",
+        "Capsicum annum and chili pepper) on cuts or other visible damage on the yam tuber surface.",
+        "The powder can persist for 14 days and continue to provide control during that time."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yam moths"
+      }
+    ]
+  }
+}

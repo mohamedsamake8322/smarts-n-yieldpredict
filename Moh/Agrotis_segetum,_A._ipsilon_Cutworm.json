@@ -1,0 +1,68 @@
+{
+  "title": "Cutworms on lettuce",
+  "sections": {
+    "Header": [
+      "Cutworms on lettuce",
+      "Agrotis segetum, A. ipsilon Cutworm"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Keep the nursery and field free of weeds as many weed species are hosts of cutworms",
+        "Plough the field during dry spells, before transplanting, to expose the cutworm to natural enemies and extreme heat",
+        "Remove and burn crop debris before planting to reduce food for cutworms",
+        "Conserve natural enemies such as ground beetles, lacewings, spiders, parasitic wasps, praying mantis, ants, and birds by avoiding the use of chemical pesticides if possible",
+        "Delay transplanting slightly so that stems are as wide as possible (so cutworm cannot completely cut through them)",
+        "If possible, flood the field for a few days before sowing or transplanting as this can help kill cutworm caterpillars in the soil",
+        "Avoid planting host crops before/after or near lettuce field such as okra, leek, groundnut, peppers, melon, cotton.",
+        "Cutworms attack a wide range of crops."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start monitoring for cutworms at seedling stage i.e. soon after germination.",
+        "As cutworms hide during daytime and are mostly found on plants at night, the best time to look for cutworm is early morning.",
+        "Look out for:",
+        "Dry wilted lettuce, discoloured plants, or cut or fallen seedlings in a small zone",
+        "Larvae - soft bodied, green to dark brown caterpillars at the base of the plant and on the underside of leaves. and",
+        "Whitening or chlorotic lesions on leaves and dried leaves",
+        "Blacklight and pheromone traps can be used to monitor numbers of adults/moths (2 traps/ha)",
+        "Consider direct control when there are more than 5 larvae/10 plants in the farm"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Check and remove egg masses and caterpillars from plants and crush them",
+        "Dig around the damaged plant to get the cutworms and mechanically kill them",
+        "Flood the area to suffocate the larvae in the soil if you are growing lettuce in deep soils",
+        "Mix equal quantities of sawdust, bran and molasses with enough water to make mixture sticky and spread around base of plants to attract and kill caterpillars",
+        "Drench at seedling stage with",
+        "Azadrachtin 0.03% (e.g.",
+        "Nimbedicine",
+        "EC, Nematech",
+        "WG) at a rate of 35ml/L of water to reduce infestation drastically",
+        "Natural extracts such as lemongrass and ginger can also be applied at 1",
+        "L/ 15",
+        "L water",
+        "If available in your country, release",
+        "Trichogramma weekly for 3 consecutive weeks at the first sign of moths to parasitize cutworms eggs."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "An adult cutworm moth (Whitney Cranshaw, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Cutworm caterpillar cutting through a seedling (Francis Nduati, Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cutworms on lettuce"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Black cutworm (Agrotis ipsilon) (James Kalisch, University of Nebraska, Bugwood.org)"
+      }
+    ]
+  }
+}

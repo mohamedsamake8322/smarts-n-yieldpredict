@@ -1,0 +1,58 @@
+{
+  "title": "Potato tuber moth",
+  "sections": {
+    "Header": [
+      "Potato tuber moth",
+      "Tecia solanivora Potato moth"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Good management practices:",
+        "Use healthy tuber seeds",
+        "Deep planting: planting tuber seed at a depth of 5-10 cm prevents female moths from ovipositing in seed tubers and keeps larvae from migrating to tubers from infested sprouts above ground",
+        "High hilling of growing plants protects the developing tubers from ovipositing females and reduces the possibility of larvae reaching the bulking tubers",
+        "Frequent irrigation prevents cracks from forming in the soil, which would allow female moths to reach potato tubers for laying eggs and provide shelter for adult moths",
+        "During harvest, select healthy tubers, defoliate when the crop is mature and remove harvest residues from the field",
+        "Store harvested tubers immediately or cover; do not leave exposed tubers overnight when females lay eggs",
+        "Crop rotation; the potato tuber moth attacks potato tubers only"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Larvae feed exclusively on potato tubers in the field and in store.",
+        "Monitor weekly for damage:",
+        "At early stages, the symptoms are not visible externally.",
+        "Cut open the tuber and look for larval damage, including the presence of frass in dark coloured galleries",
+        "Circular exit holes (around 2-3 mm in diameter) on the surface of the potato tuber",
+        "If the tubers have been infected for a long time, the tubers might be rotten",
+        "Brown adult moths may be observed in the field at dusk, when they fly around or gather in the border of the crop, amongst weeds",
+        "Set pheromone traps (16/ha) and check weekly to detect the level of adults in the field",
+        "Damage looks similar to other species of potato tuber moth",
+        "Take action when you detect symptoms, or presence of larvae and moths"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "In the field, use sex pheromone traps or light traps (16/ha from planting to harvest)",
+        "In storage:",
+        "Use bioinsecticides (e.g. dusting seed tubers with a powder preparation of the virus",
+        "Baculovirus phthorimaea )",
+        "When infestation is severe, clean carefully (periodic elimination of damaged tubers) and use diffused lighting (results in greening of the tubers which is unfavourable for the moth)",
+        "Use one pheromone trap to disrupt mating during storage"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage on potato tuber (CIP)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult T. solanivora (CIP)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Potato tuber moth"
+      }
+    ]
+  }
+}

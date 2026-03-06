@@ -1,0 +1,107 @@
+{
+  "title": "Brown Planthopper (BPH) on rice",
+  "sections": {
+    "Header": [
+      "Brown Planthopper (BPH) on rice",
+      "Nilaparvata lugens เพลี้ยกระโดดสีน้ำตาล"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use appropriate planting date: avoid planting during",
+        "Feb – March for irrigated areas",
+        "Use resistant varieties (e.g.",
+        "RD29, RD31, RD41, RD47, RD49, PSL2, SPR1, SPR2, SPR90).",
+        "Change varieties every 6-8 cropping cycles",
+        "Avoid continuous cropping (allow fallow period), and don’t plant the same variety in large area (plant more than 2 varieties with same harvesting days)",
+        "Preferred planting method: transplanting by hand or machine, or parachuting",
+        "If direct seeding use sowing rate of 15-20 kg/ rai",
+        "Fertilizer use: split application of",
+        "Nitrogen fertilizer (i.e. apply 2 times)",
+        "Crop rotation (with mungbean, vegetables, or peanut)",
+        "Plant yellow or white flowering plants on the bund (to increase diversity for natural enemies such as mirid bug)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start surveying field 2 times per month 15",
+        "DAS or counting in the field 15",
+        "DAS) look at stem above water level).",
+        "ETL: 5 nymphs/tiller 40-60",
+        "DAS and 1 adult/tiller 60",
+        "DAS-harvest",
+        "Use yellow pan trap.",
+        "ETL 3 long-wing",
+        "BPH /pan per week",
+        "Look for huge populations of",
+        "BPH at lights along the road or at home",
+        "Use sticky board to monitor",
+        "Sweep net 15",
+        "DAT.",
+        "Observe for ratio of",
+        "BPH to",
+        "Mirid bug (6-8:1)",
+        "Observe natural enemies (mirid bug, spider, lady beetle, rove beetle, long- horned grasshoppers, ground beetles, damselfly, dragonfly)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Trapping: use giant light trap (sucking machine) for long- wing",
+        "BPH in seedling and pre- harvesting stage",
+        "Biological control:",
+        "Beauveria bassiana .",
+        "Spray for every stage of",
+        "BPH (most effective during nymph stage)",
+        "Botanical control: neem extract (most effective during nymph stage)",
+        "If >70% of crop damage plough soil up and over, and replant (wait 1 month to start new crop)",
+        "In irrigated areas, drain water to create unsuitable environment for",
+        "BPH and encourage ants to come in and eat the nymphs"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Don’t use insecticide <40",
+        "DAS When outbreak (at",
+        "ET level) use",
+        "RD recommended insecticides",
+        "Follow",
+        "RD recommendations for insecticide dosage, application method and crop stages",
+        "Don’t use 36 prohibited resurgence insecticide on",
+        "RD list",
+        "Rotate chemicals to prevent resistance",
+        "Buprofezin 40-60",
+        "DAS, IRAC group 16, WHO III Buprofezin + Isoprocarb 40-60",
+        "DAS.",
+        "Buprofezin:",
+        "IRAC group 16, WHO III.",
+        "Isoprocarb:",
+        "IRAC group 1A, WHO II Dinotefuran 60",
+        "DAS - harvest.",
+        "IRAC group 4A Pymetrozine 60",
+        "DAS - harvest.",
+        "IRAC group 9B Ethofenprox 60",
+        "DAS - harvest.",
+        "IRAC group 3A.",
+        "WHO U"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult BPH (Jintana Chaiwong)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown Planthopper (BPH) on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Nymph of BPH (Jintana Chaiwong)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damage caused by BPH (Jintana Chaiwong)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Cowpea beetle (bruchid)",
+  "sections": {
+    "Header": [
+      "Cowpea beetle (bruchid)",
+      "Callosobruchus maculatus Osama"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Harvest grains early or promptly to avoid field infestation transfer into storage",
+        "Clean the storage facility thoroughly and burn all sweepings, stored cowpea should not be kept on a bare floor",
+        "Paint the storage facility or fill up all cracks and crevices to make insect pests easy to detect",
+        "Avoid the use of old storage bags and containers.",
+        "Otherwise clean bags and storage containers before filling grain",
+        "Ensure that grains are clean and dried to a safe moisture level of 8- 10 % before storage",
+        "Use airtight containers, e.g.",
+        "Purdue tripple plastic bags for storage"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: groundnuts, french beans, pigeon pea, mung beans",
+        "Monitor 2-3 weeks after storage of grains.",
+        "Adults are small brown beetles.",
+        "Larvae (which are responsible for major damage) are small, white, C-shaped worms",
+        "Look in grains for adult beetles or cream coloured eggs or exit holes on grains",
+        "Look for powder or dust in the bag.",
+        "This is the crumbs created by the larvae feeding on the grains",
+        "If inspection reveals at least 3 infested grains or 1 adult beetles per 2kg of sample, initiate direct control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove grains from store and sun dry for at least 3 days to kill adults and developing larvae",
+        "Mix 5 ml of groundnut oil to 1 kg of cowpea grains and store in air-tight containers (for short-time storage and small quantities of grains)",
+        "Add 1500 g of dried chilli to one bag of dried cowpea grains (for long-time storage)",
+        "Mix seeds with non-toxic chemicals such as vegetable oils or neem ( Azadirachta indica ) seed extracts (e.g. 0.03 % Nimbedicine",
+        "EC), Nematech",
+        "WG.",
+        "Mix at 2",
+        "L to 1 kg seed and sun dry before storage"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance, always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Disinfect storage facility and bags with pirimiphos- methyl product (e.g.",
+        "Antuka",
+        "EC, Ateco super 25",
+        "EC) at 250g/L.",
+        "Organophosphate, IRAC group 1B",
+        "Moderately hazardous (WHO Class",
+        "II); Following disinfection wait 6 hours before entry; Maximum 2 applications per 6 months.",
+        "Fumigate grains with aluminium phosphide (e.g.",
+        "Temephos or phostoxin tablet).",
+        "Use one tablet per 25 kg storage bag.",
+        "Phosphide, IRAC group 24A",
+        "WHO - Fumigant, Very toxic if swallowed or inhaled; Following fumigation, wait 6 months before consumption or sale.",
+        "Tablets are recommended to be used in air-tight containers"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult beetle and damage on cowpea seeds (Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult cowpea beetle (Charles Fox, www.flickr.com)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cowpea beetle (bruchid)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Bacterial spot in tree tomato",
+  "sections": {
+    "Header": [
+      "Bacterial spot in tree tomato",
+      "Xanthomonas sp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant clean certified seeds/seedlings from reliable sources (Contact",
+        "KALRO & Practical",
+        "Training",
+        "Centre).",
+        "Practice field sanitation and weed control (nightshade, horse nettle, jimsonweed).",
+        "Grow own clean seedlings to avoid importing diseased seedlings purchased from unreliable sources.",
+        "Rotate for 3 years with maize, wheat, onions.",
+        "Do not rotate with pepper, tomato, eggplant, or potato.",
+        "Plough the field immediately after the final harvest to hasten the breakdown of crop residue.",
+        "Avoid overhead irrigation and minimize splashing water which can further spread the inoculum.",
+        "Avoid working in fields when the plants are wet and work on infected areas last."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Small, dark brown or black circular spots that may be surrounded by a yellow halo.",
+        "Fruit lesions that are initially small and dark brown in color.",
+        "Older spots that are black, slightly raised and measure up to 0.3 inch (7.5 mm) in diameter.",
+        "Spots on immature fruit are at first slightly sunken and surrounded by a water-soaked halo, which soon disappears.",
+        "Take action when one plant in the entire farm shows disease symptoms.",
+        "Additional crops affected: tomato, pepper."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot all infected plants and destroy by burning.",
+        "Remove infected crop debris and weeds since they act as additional source of inoculum."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when handling insecticides",
+        "Follow product label instructions",
+        "Rotate insecticide classes to reduce resistance.",
+        "Ensure proper spray coverage of flowers and foliage",
+        "Spray with copper based fungicides e.g. copper oxichloride (Amicop 50WP and",
+        "Cobox 50WP at 60g/20L of water) and copper hydroxide (Cuprocaffaro",
+        "Micro 37.5",
+        "WG and",
+        "Kocide",
+        "DF at 50g/20L of water) to minimize bacterial infection.",
+        "WHO Class",
+        "II (Moderately hazardous), PHI 7 days",
+        "Disinfect farm tools between plants and farms (use 50 ml",
+        "JIK in 1 litre of water)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial spot in tree tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Bacterial spot of tree tomato (Source: Ruth Amata)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Leaf spots on leaves (Ruth Amata)"
+      }
+    ]
+  }
+}

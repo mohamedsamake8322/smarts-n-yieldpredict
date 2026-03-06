@@ -1,0 +1,68 @@
+{
+  "title": "Termites on cassava",
+  "sections": {
+    "Header": [
+      "Termites on cassava",
+      "e.g. Coptotermes spp. white ant, bog-bog"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "When selecting planting sites, avoid fields infested with termites",
+        "Destroy termite nest before planting",
+        "For small, localized areas with infestation, sterilize soil before planting (e.g., with hot water)",
+        "Plant basil ( Ocimum spp. ) as a barrier to repel termites.",
+        "Leave space between basil and crop because this native plant may reduce growth/ survival of cassava if grown too close",
+        "Clear plant debris and burn",
+        "Early burning of vegetation before planting",
+        "Plant during rainy season",
+        "Phytosanitary measures (for example, do not move infested material)",
+        "Plant clean (termite-free) cuttings",
+        "Deep planting of transplants",
+        "If mulch material is used, do not mulch close to the cassava plant as this will attract termites",
+        "Keep soil moist in the dry season"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visitation to farms during the dry season",
+        "Identify termite mounds and pay close attention to the cassava plants nearest to those mounds",
+        "Look for damage signs: for example, mud on stems or cuts on stems",
+        "Uproot young plants that fail to sprout to check for termites"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use driver ants.",
+        "Collect driver ants and put them in areas affected by termites",
+        "Physically destroy colonies by digging out white ant hills/ termite mounds.",
+        "Apply wood ash to the base of the plant."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Diazinon",
+        "Spray around the edges of the field to prevent termites from entering the crop or spot treat infestations within the crop.; Moderately hazardous (WHO Class",
+        "II); Maximum of 2 application per season",
+        "Chlorpyrifos",
+        "Spray around the edges of the field to prevent termites from entering the crop or spot treat infestations within the crop.; Moderately hazardous (WHO Class",
+        "II); Maximum of 2 application per season; High risk to bees.",
+        "Do not apply to crops in flower or to those in which bees are actively foraging"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Close-up of termites (A Varela, ICIPE)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Termite mounds (M Bateman, CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Termites on cassava"
+      }
+    ]
+  }
+}

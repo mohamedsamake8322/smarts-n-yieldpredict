@@ -1,0 +1,67 @@
+{
+  "title": "Potato scab on Irish potato",
+  "sections": {
+    "Header": [
+      "Potato scab on Irish potato",
+      "Streptomyces scabiei scab; scab of potato"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties such as",
+        "Valor and",
+        "Sifra.",
+        "Plant disease-free seed tubers i.e. clean certified tubers.",
+        "Avoid applying fertilizers and other material (ash, lime, poultry manure) that make the soil alkaline just before planting as this will encourage the disease development especially in region 3 of",
+        "Zambia which is highly acidic.",
+        "Avoid planting in fields that had diseased crops such as tomato, eggplant, Irish potatoes, and carrots.",
+        "Maintain high soil moisture for 2-3 weeks by regular irrigation (4-5 days intervals) in early stages after tubers form (about 3 weeks after sowing).",
+        "This closes the soil surface and reduces the penetration of the disease to the tubers.",
+        "Avoid overhead irrigation.",
+        "Clearing crop debris that were affected in previous harvests and alternate hosts such as tomato, carrots and eggplants near the field.",
+        "Incorporate cabbage and mustard residues into the soil to suppress the development of the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Common scab is caused by a soil and tuber borne bacterium.",
+        "There are no leaf symptoms.",
+        "Check some tubers during the tuber formation stage for scab spots which are circular, brown, roughened areas, with irregular margins that are sunken or raised.",
+        "The spots are corky (differentiates it from powdery scab lesions).",
+        "Check for surface lesions and discoloration on the stems.",
+        "When you find symptoms on several plants in your field, consider direct control actions."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and destroy diseased plants.",
+        "Ensure tools are disinfected after use to avoid contamination and spread to other areas.",
+        "Test the pH of the soil using a laboratory service, this will allow you to use the right type and amount of acid forming nitrogen fertilizer to regulate the soil pH."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical control available for the common scab disease on potatoes at present",
+        "Always consult the",
+        "Zambia",
+        "Environmental",
+        "Management",
+        "Agency for recent registered list of pesticides"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Potato scab on Irish potato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms of potato scap of potato (Flordia Division of Plant Industry, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Potato scap of potato (Clemson University, USDA Cooperative Extension Slide Series, Bugwood.org)"
+      }
+    ]
+  }
+}

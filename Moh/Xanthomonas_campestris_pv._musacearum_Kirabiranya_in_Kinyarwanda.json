@@ -1,0 +1,58 @@
+{
+  "title": "Banana Xanthomonas wilt (BXW)",
+  "sections": {
+    "Header": [
+      "Banana Xanthomonas wilt (BXW)",
+      "Xanthomonas campestris pv. musacearum Kirabiranya in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove male flower buds with forked stick",
+        "Clean agriculture tools with fire & disinfectants like",
+        "JIK, ordinary soap",
+        "Use clean/certified planting material",
+        "Avoid movement of animals and free movement of people in banana plantation",
+        "Follow national regulations (local quarantine and restrictions, e.g. do not sell banana bunches from infected areas in",
+        "BXW free areas)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Always monitor for the presence of symptoms after plantation establishment",
+        "Observe symptoms like wilting and yellowing of leaves, degeneration of male flower buds, premature ripening of banana fingers, occurrence of ooze on cut pseudostems",
+        "Thresholds:",
+        "Once infection is noticed take action as soon as they are at early stage."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Infected plants should be removed as soon as they are noticed at early stage",
+        "At 70% of banana disease incidence, uproot the whole plantation and bury them"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "No pesticide recommended"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Premature banana finger with dried male flowe bud (Rubavu 2007)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Ooze in pseudostem (Rubavu, 2007)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wilted leaves (Kicukiro 2012)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana Xanthomonas wilt (BXW)"
+      }
+    ]
+  }
+}

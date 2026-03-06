@@ -1,0 +1,73 @@
+{
+  "title": "Weedy rice",
+  "sections": {
+    "Header": [
+      "Weedy rice",
+      "Oryza sativa f. spontanea ข้าววัชพืช"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use pure seed or certified seeds (if outbreak in next crop change seed)",
+        "Clean field implements after and before entering in a field",
+        "After harvesting stop planting 2-4 week and release ducks into the field",
+        "Preferred method of transplanting is by hand or machine or parachuting",
+        "Rotation of rice with another plants (reduce weedy rice problems)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe rice plant that are taller, easy shattering, flowering before others, longer awns than others, fewer tillers, brighter leaves than others.",
+        "Paddy rice is black or brown or red- brown.",
+        "Red pericarb.",
+        "High percentage of red rice in milled rice."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Control weedy rice by hand (in tillering stage) or cut and remove from the field (in flowering stage)",
+        "In case of extreme outbreak, stop planting 1 crop to promote the germinated weedy rice and manage by plowing. (more than twice)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply herbicides in prepare field before planting / after planting 8-10 days",
+        "When applying herbicides:",
+        "Before applying herbicides, keep water level at 5 cm (for 3 days) and drain water before sowing. 8-10 days after sowing, keep water level above weedy rice 10- 15 days.",
+        "Followed",
+        "DOA and",
+        "RD recommendation for herbicides dosage, method, and crop stages.",
+        "dimethenamid; thiobencarb",
+        "Both",
+        "WHO class",
+        "II pretilachlor; butachlor pretilachlor- WHO class",
+        "U; butachlor-WHO class",
+        "III oxyfluorfen",
+        "WHO class",
+        "U oxadiargyl",
+        "WHO class",
+        "II pendimethalin",
+        "WHO class",
+        "II"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "weedy rice (Rice Department)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Weedy rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "weedy rice (Rice Department)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "clean farm implement (Rice Department)"
+      }
+    ]
+  }
+}

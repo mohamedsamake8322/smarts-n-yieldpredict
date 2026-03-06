@@ -1,0 +1,79 @@
+{
+  "title": "Mango fruit fly",
+  "sections": {
+    "Header": [
+      "Mango fruit fly",
+      "Ceratitis cosyra (Walker)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting mango trees near alternate hosts like guava, citrus, melons, pawpaw, coffee, avocados and wild fruits to reduce pest population",
+        "Keep the orchard canopy open to improve aeration and spray penetration.",
+        "Harvest early when crop is mature and green because over-ripe fruits attract fruit flies",
+        "Plant",
+        "Lantana camara hedge rows to attract and host natural enemies like ants, rove beetles, birds and parasitic wasps",
+        "Release poultry in the orchard to feed on pupae at the base of plants."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly check fruit surfaces for small holes, punctured fruit, black lesions, soft spots, rotting, maggots, discolouration and oozing sap.",
+        "Look for pupae 2-5 cm beneath the host plant.",
+        "Use fruit fly pheromone traps 1 trap per 5 trees to monitor presence of fruit fly (males)",
+        "Take action when 20 flies per trap are noticed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use traps and baits.",
+        "The traps should contain ½ cup (150 ml) of vinegar mixed with water.",
+        "Trap fruit flies using pheromone traps - Methyl",
+        "Euginol (Bactrolure liquid) at 1 trap per 5 trees.",
+        "Till the orchard top soil (5 to 10cm deep) to expose pupae to the sun, birds, poultry and parasites.",
+        "Infested fallen fruits should be collected daily in a tightly sealed polythene bag and exposed to the sun for two days before burying (60cm deep).",
+        "Destroy fallen infested fruits to break the pest's lifecycle since pupation takes place in the soil."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear personal protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spot treat affected trees with poison baits of molasses with deltamethrin (Decis 2.5",
+        "EC) or bifenthrin (Brigade 25EC or defender 2.5% EC) or",
+        "Buprofezin (Applaud 40% SC).",
+        "Bifenthrin (MRLs 0.1mg/kg) and deltamethrin (0.2mg/kg):",
+        "WHO Class",
+        "II (Moderately hazardous), Buprofezin( MRLs 0.1mg/kg):",
+        "WHO Class",
+        "III (Slightly hazardous) and",
+        "PHI 3 days.",
+        "Use pyrethrin extract (e.g.",
+        "Flower",
+        "DS) at a rate of 60ml per 20 litres of water every 5 days to two weeks depending on infestation severity.",
+        "Start applications shortly after flowering",
+        "Pyrethrin extract(MRLs 0.05mg/kg):",
+        "WHO Class",
+        "II (Moderately hazardous), Neem extract:",
+        "WHO Class",
+        "U (unlikely to present acute hazard in normal use), PHI 8 hours."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Mango fruit fly"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult female fruit fly (reddish brown with yellow marks) ovipositing on a mango fruit (Photo: CIRAD, J.F. Vayssières)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Sliced mango fruit showing a whitish mango fruit fly larvae (Photo: U.S. Customs and Border Protection)"
+      }
+    ]
+  }
+}

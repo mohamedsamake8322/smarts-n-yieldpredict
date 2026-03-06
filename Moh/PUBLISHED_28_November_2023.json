@@ -1,0 +1,24 @@
+{
+  "title": "TYPE Review",
+  "sections": {
+    "Header": [
+      "TYPE Review",
+      "PUBLISHED 28 November 2023"
+    ],
+    "Table": {},
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "OPEN ACCESS"
+      },
+      {
+        "file": "p4_img1.png",
+        "caption": "FIGURE 1 Illustration showing cisgene and intragene gene constructs. In cisgene, genes from the pool of sexually compatible individuals that include the promoter, introns, and terminator (A, B) . When using agrobacterium-mediated transformation, the cisgene is inserted within agrobacterium-derived T-DNA borders. Within the sexually compatible gene pool, intragenesis enables in vitro recombination of components isolated from several genes (A, C) . Furthermore, cDNA or gene fragments may be employed; introns are not necessary. Consequently, both silencing and expression intragenic constructions are possible ( Schouten et al., 2006a )."
+      },
+      {
+        "file": "p5_img1.png",
+        "caption": "FIGURE 2 Marker elimination by co-transformation ( Jaiwal et al. 2002 )."
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Ramie moth on ramie",
+  "sections": {
+    "Header": [
+      "Ramie moth on ramie",
+      "Arcte (old Cocytodes) coerulea"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant tolerant varieties (e.g. chuanzhu",
+        "NO.8)",
+        "Spray elicitor (1.2 mM Salicylic",
+        "Acid or 80 mg/ mL Chitosan oligosaccharide 300-450L/ha) when plants are 15-20cm height, to improve resistance to and reduce oviposition by ramie moth)",
+        "Plant attractant plants (e.g.",
+        "Yuanyeqing",
+        "Boehmeria nivea one of susceptible ramie varieties) around the field.",
+        "After harvest, clean, destroy residues to kill larvae+pupae of ramie moth"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect ramie plants once / week, from 15 cm height to harvest",
+        "Observe the ramie plants for holes in leaves and look for the larvae and egg blocks (the egg blocks lie in black of ramie leaves together and are covered by gray tomentose).",
+        "We can see the color is different with no egg blocks)",
+        "Monitor the ramie adult moths by light traps (e.g.OK-CQ2 type automatic pest forecast lamp) from",
+        "April to",
+        "October and check once per week",
+        "Consider early controls such as cleaning egg blocks.",
+        "Consider to spray a pesticide when 5-10% of leaves are damaged and larvae found"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove eggs blocks",
+        "Use black light traps (e.g.",
+        "TDB-2218 frequency trembler grid lamp) to kill the adult moths between 18:00-22:00, from",
+        "April to",
+        "September; 1 light trap per ha",
+        "Early control of young larvae (before 3rd instar larvae) that have not spread.",
+        "Spray with 0.3% nimbin",
+        "EC (azadiractin) usually at 750-800mL/ha, but check label)",
+        "Place egg cards of",
+        "Trichogramma wasps, 1 card per 10m, 3 days after the adult full flight period"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Always consult recent list of registered pesticides http:// www.chinapesticide.gov.cn/",
+        "Spray",
+        "Bacillus thuringiensis products against larvae.",
+        "Biological multisite stomach poison for insects, thus must be eaten by the insect; Usually suspensions at 4000IU or 450-600L/ha.",
+        "But double-check product label.",
+        "Apply as soon as possible after preparation.",
+        "Spray with emamectin-benzoate –based products.",
+        "Avermectin group of pesticide.",
+        "Usually 1% EC products at 150-200 mL product per hectare, which is 10 mL product per 30 litres.",
+        "But double-check product label.",
+        "Use against larvae in cloudy or afternoon",
+        "Spray with beta cypermethrin –products.",
+        "Pyrethroid group of pesticide.",
+        "Usually 4.5% EC products at 300-375 mL product per hectare, which is 20 mL product per 30 litres.",
+        "But double-check label.",
+        "Use against larvae in cloudy weather or late afternoons.",
+        "Spray with chlorantraniliprole –based products.",
+        "Diamides group of pesticide.",
+        "Usually 20% EC products at 150-225 mL product per hectare, which is 10 mL product per 30 litres.",
+        "But double-check product label.",
+        "Use against larvae from 10 to 16 o’clock."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO toxicity class",
+        "III (slightly hazardous); pre-harvest interval (PHI) 1 day, restricted re-entry interval (REI) 1 day, min retreatment 7 day, max 2 sprays per season.",
+        "Not listed in",
+        "WHO classification, but considered at least moderately toxic in normal use; PHI 7 days; REI 1 day, min retreatment 7 days, max 2 sprays per season.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "High risk to bees, very toxic to aquatic organisms.",
+        "PHI 10 day, REI 1 day, max 2 sprays per season.",
+        "Not listed in",
+        "WHO classification, but considered unlikely hazardous in normal use.",
+        "PHI 14 days, REI 1 day.",
+        "Toxic to silkworm, thus not to be used near mulberry."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult ramie moth 28-32 mm (photo by Zeng Liangbin)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Larva about 6 cm (photo by Zeng Liangbin)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Feeding damage by larvae (photo by Zeng Liangbin)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Ramie moth on ramie"
+      }
+    ]
+  }
+}

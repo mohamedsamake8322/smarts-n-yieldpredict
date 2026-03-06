@@ -1,0 +1,102 @@
+{
+  "title": "African armyworm on maize",
+  "sections": {
+    "Header": [
+      "African armyworm on maize",
+      "Spodoptera exempta Viwavi jeshi in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The migratory behaviour of armyworm enables them to move each generation to new areas where there are suitable conditions for breeding.",
+        "Certain practices make a crop less suitable:",
+        "Cut grassy weeds from bordering fields.",
+        "Remove weeds regularly to reduce breeding sites and shelter for armyworm",
+        "Remove all plant debris after harvesting",
+        "Avoid planting susceptible varieities like",
+        "Katumani",
+        "Plough and harrow field thoroughly to expose pupae to natural enemies and desiccation",
+        "Plough a deep trench around field and fill with water",
+        "Preserve habitat for beneficial insects"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "At the onset of the rainy season regularly monitor for the presence of armyworm:",
+        "Be aware of the",
+        "National",
+        "Armyworm",
+        "Control",
+        "Programme’s outbreak forecasts. (Listen to radio announcements)",
+        "Use",
+        "Pheromone traps to determine the main flight period for moths",
+        "Look for egg masses",
+        "Look for masses of dark larvae migrating between fields",
+        "Look for the presence of larvae or signs of damage to the crop.",
+        "Detect larvae by looking under leaves and in leaf whorls (where they feed at night) and under debris and at the base of plants (where they hide during the day)",
+        "Report any infestation detected to the",
+        "National",
+        "Crop",
+        "Protection",
+        "Services",
+        "Consider taking action when eggs are present on 5% of seedling or when 25% of plants show signs of feeding damage"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "For small farms crush egg masses and hand-pick larvae.",
+        "Do not use larvae as food, because they are poisonous",
+        "Apply neem against larvae:",
+        "Seed extract: 50g/liter water with a little soap; Seed powder mix 1:1-1:2 with sawdust/soil into leaf sheaths; Neem leaves: 50-150g- 1-2 handful/ litre water, soap",
+        "Place egg cards with",
+        "Trichogramma wasps that will hatch and then parasitise and kill armyworm eggs (read and follow label instructions)",
+        "Apply product based on",
+        "S. exempta nucleopolyhedrovirus (SpexNPV) against larvae (read and follow label instructions)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre- harvest interval, max number of sprays, restricted re- entry interval, min retreatment interval.",
+        "Do not empty into drains",
+        "Always double-check with recent list of registered pesticides in",
+        "Tanzania (MAFSC through",
+        "TPRI)",
+        "Products based on",
+        "Bacillus thuringiensis (e.g.",
+        "Ascopel",
+        "WP).",
+        "Bacterial insecticide",
+        "Slightly toxic (WHO Class",
+        "III); Apply product onto young plants particularly onto or into leaf sheath funnels; Apply as soon as possible after preparation",
+        "Diazinon (e.g.",
+        "Riyazinon 60EC).",
+        "Organophosphate with contact, stomach and respiratory action",
+        "Moderately toxic (WHO Class",
+        "II); Spray only once per season",
+        "Fenitrothion (e.g.",
+        "Thioba 96ULV).",
+        "Organophosphate with contact action",
+        "Moderately toxic (WHO Class",
+        "II); Spray only once per season"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Armyworm eggs (Roy Ellis)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "African armyworm on maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Larva (Rikus Kloppers/ PANNAR (Pty) Ltd)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Migrating larvae (Photo by James W. Borton)"
+      }
+    ]
+  }
+}

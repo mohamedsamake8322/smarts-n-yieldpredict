@@ -1,0 +1,56 @@
+{
+  "title": "Fusarium wilt on African Eggplant, Cowpea and Pumpkin",
+  "sections": {
+    "Header": [
+      "Fusarium wilt on African Eggplant, Cowpea and Pumpkin",
+      "Fusarium oxysporum f.sp. melongenae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rotate with non-solanaceaus species (Cereals, grasses) for longer seasons at least for 4 to 6 years because the fungus persist several in the soil for a long time",
+        "Remove and destroy all infested crop debris",
+        "Reduce the irrigation frequency and amount of water",
+        "Ensure proper drainage of fields",
+        "Disinfect all pruning tools with 10% JIK Maintain high level of plant vigour with appropriate fertilization",
+        "Deeply plough the fields and leave them to fallow for 2-3 months where feasible"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Keep on monitoring the field and look out for wilting plants.",
+        "Can be observed as slight vein clearing on outer leaflets and drooping of leaf petioles.",
+        "Lower leaves wilt, turn yellow and die",
+        "The entire plant may be killed, often before it reaches maturity.",
+        "In most cases a single-shoot wilts before the rest of the plant shows symptoms or one side of the plant is affected first."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected plant parts by burning or burying.",
+        "This will prevent the spread of the disease from spreading to neighbouring plants.",
+        "Spraying with fungicides will not control this disease.",
+        "The control of nematodes (especially root knot nematodes) is important as these interact positively with fusarium wilt and can lead to the loss of resistance in some cultivars."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Soil-borne disease so chemicals are not recommended."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leaves wilting due to Fusarium wilt (Photo: Gerald Holmes, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wilting crop caused by Fusarium spp. (Photo: William M. Brown Jr, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Fusarium wilt on African Eggplant, Cowpea and Pumpkin"
+      }
+    ]
+  }
+}

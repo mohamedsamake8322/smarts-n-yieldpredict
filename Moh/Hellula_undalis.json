@@ -1,0 +1,85 @@
+{
+  "title": "Webworm on tomato",
+  "sections": {
+    "Header": [
+      "Webworm on tomato",
+      "Hellula undalis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean planting materials: transplant only healthy, vigorous insect-free seedlings",
+        "Dispose off crop residues: uproot and burn tomato stalks after harvest",
+        "Crop rotate or intercrop with non-host crops (e.g mustard, onion, carrot) to reduce field populations by webworms",
+        "Avoid use of chemical insecticides to help conserve natural enemies of webworm such as spiders, parasitic wasps, lacewings, praying mantis, ants, and birds",
+        "Till soil to remove tomato stubbles and dispose out of field before planting"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: okro, eggplant, cabbage",
+        "Start monitoring at seedling stage or shortly after transplanting into the field",
+        "Inspect plants for egg masses, eggs are usually laid in plant buds, upon hatching, the larvae feed on the underside of the leaves and cover themselves with webs, which become covered with dirt and excrement",
+        "Check plants for adults and caterpillars twice a week as soon as seedling emergence begins",
+        "Normally, spraying should occur when there is more than 1 caterpillar per 5 plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick and destroy caterpilars which are usually found underside leaves at initial (lower) infestations",
+        "Webworm populations can be reduced by ploughing under weeds at least one month prior to planting",
+        "Use botanical pesticide (e.g. fresh neem, lemongrass, ginger) at rate of 1 litre/15 litres of water",
+        "Spray with",
+        "Imidacloprid product (eg",
+        "Consider super 200",
+        "SL, Condifor",
+        "Super) at 200g/l"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance, always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "Spray with",
+        "Emamectin benzoate product ( eg",
+        "Control 5% WDG, Protect 1.9",
+        "EC) at the rate of 0.5 ml/l water, Avermectin family group",
+        "WHO class",
+        "II (moderately hazardous)",
+        "Yellow colour band; REI- when spray dries; PHI-3 days.",
+        "WHO class",
+        "II (moderately hazardous).",
+        "Contact systemic pesticide, Maximum number of treatments: one per season .",
+        "Treated plants are harmful to humans and wildlife.",
+        "PHI is 10 days",
+        "Spray with",
+        "Lambda-cyhalothrin product (eg.",
+        "Frankocylon 2.5",
+        "EC, Karate 5",
+        "EC, K-Lambda 2.5",
+        "EC, Lambdacot",
+        "EC, K-Optimal",
+        "EC) at rate of 20-50g/l",
+        "WHO class",
+        "II (moderately hazardous).",
+        "Contact systemic.",
+        "Yellow colour band; REI- when spray dries; PHI-3 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Webworm on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Webworm larva feeding leaf (Merle Shepard/Coastal Research & Education Center, Charleston, USA)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Webworm adult (David Agassiz)"
+      }
+    ]
+  }
+}

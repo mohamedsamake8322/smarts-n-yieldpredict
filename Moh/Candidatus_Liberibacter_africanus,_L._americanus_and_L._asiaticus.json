@@ -1,0 +1,70 @@
+{
+  "title": "Citrus greening (Huanglongbing)",
+  "sections": {
+    "Header": [
+      "Citrus greening (Huanglongbing)",
+      "Candidatus Liberibacter africanus, L. americanus and L. asiaticus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "This disease is transmitted by the psyllid vector",
+        "Trioza erytreae",
+        "Avoid planting citrus in monoculture",
+        "Use disease-free material for replanting",
+        "Remove alternative hosts (eg. wild plants, other citrus spp) from around the field",
+        "Encourage natural enemy populations in the orchard (e.g., spiders, lacewings, predatory mites, ladybird beetles, hover flies) by reducing pesticide use in the general area",
+        "Citrus greening symptoms can be confused with zinc deficiency.",
+        "So use appropriate fertilizers containing zinc micronutrient to avoid confusion",
+        "Enforce phytosanitary measures: it is difficult to ensure plants are free from eggs and nymphs so importation of planting material from affected areas should be prohibited",
+        "Only clean and healthy plants, without any insects on them, should be transported & transplanted into new plantations"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor regularly the whole year for presence of psyllids and disease symptoms to avoid it spreading",
+        "Monitoring psyllids (vectors): 1)",
+        "Adults feeding on leaves resemble winged aphids 2)",
+        "Orange/yellow eggs appearing on the edges of tender young leaves 3)",
+        "Raised bumps on the underside of leaves hide nymphs, which are small green/ yellow scale-like insects",
+        "Disease symptoms: 1)",
+        "Leaves: pale- yellow, yellow veins and blotchy mottling 2)",
+        "Whole tree: sparsely foliated, extensive branch dieback and reduced size 3)",
+        "Fruits: small, lopsided and poorly colored with aborted seeds, severe fruit drop",
+        "Act quickly as soon as symptoms of the disease are seen or when the vector is detected"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If only a few branches are affected, prune them immediately and bury them more than 60cm deep",
+        "It is important to destroy only very severely infected trees not producing economical yield",
+        "Disinfect tools after pruning each tree with bleach",
+        "Remove any young citrus trees that become infected, as they will never produce fruits and replace with disease free planting material"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no registered insecticides in",
+        "Ethiopia for the management of psyllids on citrus."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "African citrus psyllid adult in characteristic feeding position (SP van Vuuren, Citrus Research International, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Citrus greening (Huanglongbing)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Psyllid nymphs and damage to citrus leaves (Peter Stephen, Citrus Research International, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptoms of citrus greening disease (US Department of Agriculture, www.flickr.com)"
+      }
+    ]
+  }
+}

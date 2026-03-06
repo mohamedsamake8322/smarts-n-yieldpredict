@@ -1,43 +1,70 @@
 import os
-import json
-import re
-import pandas as pd
+import csv
 
-# 📁 Dossier contenant les fichiers
-DATA_FOLDER = r"C:\smarts-n-yieldpredict.git"
-JSON_PATH = os.path.join(DATA_FOLDER, "vectorized_dataset.json")
-PARQUET_PATH = os.path.join(DATA_FOLDER, "vectorized_dataset.parquet")
+# ==============================
+# CONFIGURATION
+# ==============================
+TRAIN_DIR = r"C:\smarts-n-yieldpredict.git\dataset_final\train"
+MIN_IMAGES = 80   # 🔥 change ici le seuil
+EXPORT_CSV = True
+EXPORT_TXT = True
 
-# 🧼 Fonction de nettoyage du texte
-def clean_text(text):
-    if not text:
-        return ""
-    text = re.sub(r"\bPage\s*\d+\b", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"(Figure\s*\d+.*|Table\s*\d+.*)", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\n+", " ", text)
-    text = re.sub(r"\s{2,}", " ", text)
-    return text.strip()
+# ==============================
+# ANALYSE
+# ==============================
+class_counts = {}
 
-# 🔄 Nettoyage du JSON
-def clean_json_file(path):
-    print(f"\n🧼 Nettoyage du fichier JSON : {path}")
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    for entry in data:
-        entry["text"] = clean_text(entry.get("text", ""))
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"✅ JSON nettoyé et sauvegardé.")
+for class_name in os.listdir(TRAIN_DIR):
+    class_path = os.path.join(TRAIN_DIR, class_name)
 
-# 🔄 Nettoyage du Parquet
-def clean_parquet_file(path):
-    print(f"\n🧼 Nettoyage du fichier Parquet : {path}")
-    df = pd.read_parquet(path)
-    df["text"] = df["text"].apply(clean_text)
-    df.to_parquet(path, index=False)
-    print(f"✅ Parquet nettoyé et sauvegardé.")
+    if os.path.isdir(class_path):
+        images = [
+            f for f in os.listdir(class_path)
+            if f.lower().endswith((".jpg", ".jpeg", ".png", ".bmp"))
+        ]
+        class_counts[class_name] = len(images)
 
-# 🚀 Exécution
-clean_json_file(JSON_PATH)
-clean_parquet_file(PARQUET_PATH)
-print("\n🎉 Nettoyage terminé pour les deux fichiers.")
+# ==============================
+# FILTRAGE
+# ==============================
+low_classes = {
+    k: v for k, v in class_counts.items()
+    if v < MIN_IMAGES
+}
+
+# ==============================
+# AFFICHAGE
+# ==============================
+print("\n🔎 CLASSES SOUS LE SEUIL :", MIN_IMAGES)
+print("-------------------------------------------------")
+
+if not low_classes:
+    print("✅ Toutes les classes respectent le seuil.")
+else:
+    for cls, count in sorted(low_classes.items(), key=lambda x: x[1]):
+        print(f"📁 {cls} → {count} images")
+
+print("\n📊 RÉSUMÉ")
+print("-------------------------------------------------")
+print("Nombre total de classes :", len(class_counts))
+print("Classes sous seuil :", len(low_classes))
+
+# ==============================
+# EXPORT TXT
+# ==============================
+if EXPORT_TXT:
+    with open("classes_sous_seuil.txt", "w", encoding="utf-8") as f:
+        for cls, count in sorted(low_classes.items(), key=lambda x: x[1]):
+            f.write(f"{cls},{count}\n")
+
+# ==============================
+# EXPORT CSV
+# ==============================
+if EXPORT_CSV:
+    with open("classes_sous_seuil.csv", "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Classe", "Nombre_images"])
+        for cls, count in sorted(low_classes.items(), key=lambda x: x[1]):
+            writer.writerow([cls, count])
+
+print("\n✅ Script terminé.")

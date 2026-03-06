@@ -1,0 +1,71 @@
+{
+  "title": "Rice Leaf Folder",
+  "sections": {
+    "Header": [
+      "Rice Leaf Folder",
+      "Cnaphalocrocis medinalis Local name: Ilai madakkum puzhu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Summer ploughing, trimming of bunds and destruction of crop residues.",
+        "Avoid excessive use of nitrogenous fertilizers, Avoid close planting; leave 30 cm space at every 2.5 m."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use light traps at 12 places in paddy field in between 6 to 9 pm to monitor pest incidence."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Release",
+        "Trichogramma chilonis thrice at 3 cc per acre.",
+        "Spread neem leaves randomly in the field to deter the adults from egg laying.",
+        "Spray of neem oil 300 ml + kerosene 250 ml + 50 g khadi soap will be very effective.",
+        "Spray of 300 ml neem oil + 300 ml pongamia oil + 50 grams khadi soap will afford protection.",
+        "Place bamboo tops or twigs for perching of predatory birds soon after planting.",
+        "However, these are to be removed at flowering stage of the crop."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spraying of quinalphos 25",
+        "EC @ 25 ml / 10 litre water (Ekalux).",
+        "Organophosphate.",
+        "Broad spectrum contact and stomach poison",
+        "Spraying of profenofos 50",
+        "EC @ 10 ml / 10 litre water.",
+        "Organophosphate.",
+        "Broad spectrum insecticide with contact and stomach action"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class",
+        "II (Moderately hazardous)",
+        "WHO class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leaf damaged by rice leaf folder (IRRI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Larva of rice leaf folder (IRRI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult of rice leaf folder (IRRI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Rice Leaf Folder"
+      }
+    ]
+  }
+}

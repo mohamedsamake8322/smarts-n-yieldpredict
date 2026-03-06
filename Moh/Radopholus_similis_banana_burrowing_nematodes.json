@@ -1,0 +1,68 @@
+{
+  "title": "Burrowing nematodes in banana",
+  "sections": {
+    "Header": [
+      "Burrowing nematodes in banana",
+      "Radopholus similis banana burrowing nematodes"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Fallow the land prior to planting for a period of at least 6-12 months to reduce potential nematode populations, or at least plough deeply in summer to expose nematodes to heat and desiccation",
+        "Cover the soil with a clear polyethylene sheet for a month during hot weather to kill some nematodes",
+        "Use nematode-free tissue-cultured planting materials from a guaranteed source like",
+        "DARS or from certified nematode free nursery blocks",
+        "Clean and pare conventional planting materials before planting",
+        "Apply plenty of well – decomposed compost from non–banana plants into the soil of banana plantation, as nematodes do not like this",
+        "Avoid movement of planting materials and soil as well as run off of irrigation water to prevent spread of nematodes.",
+        "They can only move few metres in the soil per year",
+        "Rotate for 2-3 years with non-banana crops such as rape and marigold flowers.",
+        "Note that citrus may also host nematodes on their roots"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Nematodes are invisible tiny worms living in the soil and roots that spread with soil and planting materials",
+        "Arrange for a soil and root analysis prior to a new plantation to identify nematodes.",
+        "At a threshold of 1-5,000 nematodes per 100g soil- root mix, decide on action or do not plant banana in the considered plot",
+        "Look out for single stunted plants on smallholder farms, or groups of stunted plants in larger plantations",
+        "Observe banana plants that are growing slowly and reach fruiting stage late due to limited root capacity to absorb water for the for plant growth",
+        "Remove some soil and look for cankers on the roots.",
+        "Cut some roots and observe necrosis on the inner edges of the cut root to confirm nematodes.",
+        "Consider green direct control",
+        "Then check for fallen bananas, especially the older ones, and take action when 2-3 plants start to fall or have fallen.",
+        "Don’t confuse with the banana weevil where the plant starts to lean as the stem becomes weaker"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Support infected plants with wire or hooked post to prevent falling over and assure at least some harvest",
+        "Spray chilli fruit solution around the base of the remaining standing plants at a rate of 50mg/ 10 litres of water per plant",
+        "Leave pulled out rhizomes of fallen plant in the sun for 14 days to reduce the nematodes"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There are no recommended chemicals to control burrowing nematodes in bananas"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sliced-open nematode infected banana roots showing necrosis at the edges (CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Microscopic banana nematode with a stylet that penetrates and damages the banana roots (John Bridge/CABI BioScience)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fallen bananas due to root damage by nematodes (Helen Tsatsia & Grahame Jackson)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Burrowing nematodes in banana"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Corn ear rot",
+  "sections": {
+    "Header": [
+      "Corn ear rot",
+      "Stenocarpella maydis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destroy previous crop residues.",
+        "Deep ploughing to a depth of 20 cm when destroying crop residues.",
+        "Avoid mechanical damage that may be caused by insects and birds if possible because it helps entry of disease in the cob.",
+        "Hot water treatment of seed: 52°C (when the water is hot but you can still put your finger in) for 8 minutes.",
+        "Use resistant or tolerant varieties",
+        "FH 810; Yousaf wala hybrid."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Crop should be visited twice a week from early silking stage to 2-3 weeks after silking.",
+        "Look for whitish powdery-like material on corn grains.",
+        "This rots the ears during warm and dry weather (mainly",
+        "April and",
+        "August).",
+        "The whitish powder can be observed by removing the husk of the cob.",
+        "Apply control measures when 10 out of 100 ears are damaged and a quarter of the cob is infected.",
+        "Check for insect damage to ears which can cause disease to develop and check for the stalk rot phase of this disease which can occur before the ears get diseased."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Very early removal of infected cobs (do not feed to livestock) to remove disease from the field.",
+        "Hot water treatment of seeds at 50°C (hot but bearable for the hand) for 10 minutes before sowing will help kill the pathogen.",
+        "Harvest at around 25% moisture and dry to 15% moisture within 24-48 hours for shelled corn to minimise kernel damage and field losses."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Make sure you wear protective clothing such as gloves, and a mask when using chemicals.",
+        "Do not smoke or eat when applying chemicals.",
+        "Seed treatment with thiophanate methyl @ 2-3g/kg of seed",
+        "WHO Class",
+        "U (Unlikely to cause harm when used correctly).",
+        "Seed treatment with tebuconazole @ 8 g/kg of seed.",
+        "Carry out activity if 10% of plants were affected in the previous year.",
+        "WHO Class",
+        "II (Moderately hazardous)."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Corn ear rot. Photo by Paul Bachi, University of Kentucky Research and Education Center, Bugwood.org, CC BY- NC"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Corn ear rot"
+      }
+    ]
+  }
+}

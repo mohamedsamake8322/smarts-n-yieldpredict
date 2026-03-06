@@ -1,0 +1,68 @@
+{
+  "title": "Bacterial Leaf Blight (BLB) on Rice",
+  "sections": {
+    "Header": [
+      "Bacterial Leaf Blight (BLB) on Rice",
+      "Xanthomonas oryzae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Cultivation of resistant variety e.g.",
+        "Surkha",
+        "Zrati",
+        "Use of",
+        "SRI system for rice cultivation.",
+        "Make sure you get rid of the weeds in the field so that the disease cannot stay on them between seasons.",
+        "Removing crop residue of the rice field.",
+        "Using suitable fertilizer in the field at the rate of 16",
+        "Kg in one 2000 meter square.",
+        "Crop rotation should be observed"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Weekly observation from seedling up to booting stages of rice.",
+        "Observing the leaves of plant.",
+        "Yellow colour appears on sides of the down part of the leaves.",
+        "The yellowish improving, finally completely leaves become yellow and removed.",
+        "Observation during heading stage of the plant because the leaves seem yellow."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Decrease the irrigation:",
+        "Drying the rice field not as dry but should be a little wetted.",
+        "The field should not make cracks because of dryness.",
+        "Using of medicine ampicillin capsules",
+        "Carboxin seed dressing at 2 g per",
+        "Kg of seed"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use protective clothing when spraying to protect your eyes, mouth and skin",
+        "Buy chemicals from a certified dealer and keep them out of the reach of children",
+        "Do not eat, drink or smoke during the spray",
+        "The capsules should be used at the rate of 10 caps per one litre water.",
+        "Spraying should be in the morning or afternoon.",
+        "Carboxin has",
+        "Class",
+        "U:",
+        "Unlikely to present acute hazard in normal use.",
+        "In humid bags, place mixture and seeds, and shake to mix properly.",
+        "This should be done one week before sowing."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms of severe damage on rice (T.W. Mew/IRRI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Leaf Blight (BLB) on Rice"
+      }
+    ]
+  }
+}

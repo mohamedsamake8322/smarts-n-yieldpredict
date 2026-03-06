@@ -1,0 +1,71 @@
+{
+  "title": "Anthracnose on Bean",
+  "sections": {
+    "Header": [
+      "Anthracnose on Bean",
+      "Colletotrichum lindemuthianum Akaribata in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use healthy/certified seeds (available from seed multipliers, agrodealers, RAB)",
+        "Remove plant residues after harvesting",
+        "Crop rotation for two seasons with tubers or cereals (e.g. maize, potato)",
+        "Use resistant or tolerant varieties (eg; Muhondo (G2331), Nyiramata (CAB2), RWR2154, RWV3316, MAC44",
+        "Use fertilizers to help plants be more vigorous, basal application organic fertilizer 20-30ton/Ha and",
+        "DAP 50 -100kg/Ha.",
+        "Top dressing fertilizer, urea 50-100kg/Ha.",
+        "Clean field tools (eg hoe by heat, etc.) after use",
+        "Avoid movement in the field when it is wet/touching from infected to non-infected plants"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field from 2 weeks after planting to pod filling",
+        "Observe cotyledons, lower side of the leaves, stem, shoots and pods",
+        "Look for symptoms including brick-red to dark brown lesions on above - grounds part of the plants.",
+        "On stems, leaf petioles and veins on the lower side of leaves, lesions are usually sunken and elongate.",
+        "On pods, lesions are sunken and circular",
+        "Monitor especially during pod filling",
+        "Take action if you find one plant with anthracnose infection"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot infected plants and bury",
+        "Chlorothalonil, 50%WP 30gr/20L two times a season",
+        "Mancozeb 80% WP (40-50 gr/20L of water)",
+        "Seed dressing with",
+        "Captan 80%WP 2 ml in 1 kg of seeds"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear protective equipment",
+        "Do not eat or drink while manipulating pesticides",
+        "Unlikely to present acute hazards in normal use (WHO Class",
+        "U); broad spectrum, non systemic.",
+        "Do not harvest for 7 days after application;",
+        "Unlikely to present acute hazards in normal use (WHO Class",
+        "U); Contact protectant fungicide.; Do not harvest for 7 days after application; Spray when leaves, flowers or pods on plants first show signs of infection and weather conditions are likely to remain humid or wet and favour disease development.",
+        "If disease pressure is severe, repeat sprays at 2 to 3 weeks to protect new growth and developing pods.",
+        "Unlikely to present acute hazards in normal use (WHO Class",
+        "U); Keep stock solution well agitated and do not allow it to stand overnight.; Treated seeds must be clearly labelled; Do not use treated seeds for human consumption."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose on Bean"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Anthracnose on leaves (D. Mukankubana, RAB)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Anthracnosis symptoms on pods (D. Mukankubana, RAB)"
+      }
+    ]
+  }
+}

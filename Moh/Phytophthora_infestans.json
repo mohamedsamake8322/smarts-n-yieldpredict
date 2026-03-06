@@ -1,0 +1,67 @@
+{
+  "title": "Late blight on potato",
+  "sections": {
+    "Header": [
+      "Late blight on potato",
+      "Phytophthora infestans"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Resistant",
+        "Varieties (Zhongshu",
+        "No. 2)",
+        "Disease-free tubers",
+        "Enhance field management, practice early sowing, choose a field that has loosened soil and good drainage capability, reduce the humidity in the field, promote strong growth to increase resistance to the disease.",
+        "Destroy residues of potato and tomato crops by burning or burying at the end of the season to prevent disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "After seedlings emerge, conduct routine field monitoring (every 3 days) in the morning to see if the disease occurs.",
+        "Symptoms: water-soaked brown-green lesions appear at leaf edge and leaf apex.",
+        "When climate is humid, the lesions expand quickly and turn brown, with white mildew attached (especially on the underside of the leaves); when climate is dry, the lesions dry up and also turn brown, but expand slowly (no white mildew appears).",
+        "Direct control should be carried out when late blight occurs sporadically."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove the infected crops and bury them outside the field.",
+        "Fluopicolide. propamocarb"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems",
+        "Rotational application of pesticides to avoid resistance",
+        "Use of",
+        "PPEs is recommended when using chemical pesticides",
+        "Dimethomorph",
+        "WHO U, 3~4 sprays at the early stage of infection with 5~7 days intervals",
+        "Mancozeb",
+        "WHO U, 3~4 sprays at the early stage of infection with 5~7 days intervals",
+        "Mandipropamid",
+        "WHO U, 3~4 sprays at the early stage of infection with 5~7 days intervals",
+        "WHO classification unclear, 3~4 sprays at the early stage of infection with 5~7 days intervals"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Syptom on upper side of potato leaves (photo source: Pengshan PPS)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Syptom on underside of potato leaves (photo source: Pengshan PPS)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Late blight on potato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Syptom on potato stem (photo source: Pengshan PPS)"
+      }
+    ]
+  }
+}

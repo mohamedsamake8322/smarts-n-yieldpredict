@@ -1,0 +1,77 @@
+{
+  "title": "Soybean Purple seed stain - Sri Lanka",
+  "sections": {
+    "Header": [
+      "Soybean Purple seed stain - Sri Lanka",
+      "Cercospora kikuhii Sinhala: Beeja dampallam Rogaya Tamil: Cercosphora ootha karai noi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use disease free seeds (use seeds without purple lesions).",
+        "Consider seed treatments when likelihood of occurrence is high (see yellow direct control).",
+        "Destroy infected crop debris of previous cultivation.",
+        "Maintain proper plant spacing (40 x 10 cm).",
+        "Avoid excess application of",
+        "N fertilizers."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe the following symptoms especially at rapid pod growth stage to seed filling stage:",
+        "Light purplish colour on mature leaves.",
+        "Red colour lesions on young leaves.",
+        "During later stages, leaves become dry and show blight symptoms.",
+        "Also, young leaves may fall off while mature leaves remain on the plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Avoid overhead irrigation and water logged conditions.",
+        "Consider the following for seed treatment:",
+        "For foliar spray:",
+        "Mancozeb 80% WP.",
+        "Rate of dilution – 20 g / 10 lit .of water.",
+        "Rate of application – 650 – 800 ml /ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "If",
+        "Rhizobium inoculum is used, seed treatment should be applied one day before sowing (Inoculum is applied at the time of sowing)",
+        "Captan 50% WP.",
+        "Application rate - 6 g/ kg",
+        "WHO class",
+        "U.",
+        "Chlorothalonil 500g /l",
+        "SC.",
+        "Rate of dilution – 30 ml/ 10 lit. of water.",
+        "Rate of application – 950 – 1800 ml /ha",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites and earthworms",
+        "WHO Class",
+        "U.",
+        "Toxic to predatory mites, parasitoids and fish and moderately toxic to flower bugs"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Purple stain symptoms Smptoms on seeds (Lakmini Priyantha)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on leaves, www.pioneer.com"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Symptoms on leaves, www.pioneer.com"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Soybean Purple seed stain - Sri Lanka"
+      }
+    ]
+  }
+}

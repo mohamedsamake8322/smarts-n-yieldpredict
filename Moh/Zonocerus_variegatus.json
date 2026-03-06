@@ -1,0 +1,63 @@
+{
+  "title": "Grasshoppers on maize",
+  "sections": {
+    "Header": [
+      "Grasshoppers on maize",
+      "Zonocerus variegatus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Identify aggregation sites of nymphs (Instars",
+        "I-IV) and destroy before planting",
+        "Remove weeds in and around the maize field",
+        "Burn or destroy all crops residues around the maize planting area",
+        "Identify egg laying sites and destroy by ploughing or digging before first planting (April/ May)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Frequent visitation to farm sites particularly in the dry season",
+        "Conduct survey around the field for the presence of the grasshoppers",
+        "Observe symptoms of attack on the crop",
+        "Best to control the pest in the early stage of their life cycle (nymph stage)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand picking of adults if few or if the field is small",
+        "Use of",
+        "Green",
+        "Muscle:",
+        "Dissolve 10 g of green muscle powder in 280",
+        "M L of kerosene and add to 120",
+        "ML of vegetable oil; Apply to one acre of land using",
+        "ULV sprayer",
+        "Introduce driver ants (natural enemies) into the maize field of grasshopper outbreak",
+        "Sprinkle wood ash on the leaves of the small plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use malathion.",
+        "Organophosphate with contact, stomach and respiratory action",
+        "Slightly hazardous (WHO Class",
+        "III); Apply on a calm day during the morning or evening"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Grasshoppers on maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Grasshopper nymph (Georg Goergen, IITA)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Grasshopper aggregation (W Jenner, CABI)"
+      }
+    ]
+  }
+}

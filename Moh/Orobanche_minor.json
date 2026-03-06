@@ -1,0 +1,65 @@
+{
+  "title": "Broomrape in Tomato",
+  "sections": {
+    "Header": [
+      "Broomrape in Tomato",
+      "Orobanche minor"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean seed to reduce the chance of contamination",
+        "Seeds are transported by water - Prevent water runoff from infested land to prevent seed introduction",
+        "Seeds are spread by animals - do not allow livestock into an affected area to avoid spread",
+        "Seeds travel on machinery - clean equipment and vehicles after work in infested areas",
+        "Crop rotation with non-hosts such as linseed, onion, cucumber or carrots, may help to deplete seed bank",
+        "Avoid seed set, as the seeds are very long-lived",
+        "Before planting, cover the soil with transparent plastic for four weeks to kill the weed seeds and germinating young seedlings"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Annual, herbaceaeous, succulent, parasitic plants that lack chlorophyll. 30-50cm tall but can exceed 100cm (especially in",
+        "Ethiopia).",
+        "Stems are un-branched, yellowish- brown, often tinged with purple.",
+        "A root parasite seen only on host roots.",
+        "Look for stunted crop growth and chlorosis"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Light infestations can usually be controlled by hand pulling or hoeing before seed is produced.",
+        "Then bury them deep, at least 60 cm if possible",
+        "Wash hands after handling the plants to prevent spread of seed"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemical herbicides may lead to the development of herbicide resistance.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval.",
+        "Use glyphosphate when infestation is severe in order to prevent the estabshment of seed bank.",
+        "This will kill the weed and the crop.",
+        "Use 2L/ha.",
+        "Glyphosate is",
+        "WHO Class",
+        "III (slightly hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Broomrape in Tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Flowering shoot (© Chris Parker)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Orobanche minor parasitizing tobacco plant (© Chris Parker)"
+      }
+    ]
+  }
+}

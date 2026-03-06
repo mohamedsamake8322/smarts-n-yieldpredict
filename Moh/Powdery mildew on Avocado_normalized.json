@@ -1,0 +1,52 @@
+{
+  "source": {
+    "title": "PEST MANAGEMENT DECISION GUIDE: GREEN LIST",
+    "publisher": "unknown",
+    "license": "",
+    "language": [
+      "en"
+    ],
+    "region": []
+  },
+  "host": {
+    "crop": null,
+    "plant_part": [],
+    "growth_stage": []
+  },
+  "problem": {
+    "type": null,
+    "common_name": null,
+    "scientific_name": null,
+    "synonyms": []
+  },
+  "monitoring": [
+    "Monitoring"
+  ],
+  "practices": {
+    "prevention": [
+      "PEST MANAGEMENT DECISION GUIDE: GREEN LIST",
+      "Powdery mildew on Avocado",
+      "Oidium perseae-americanae sp. nov.",
+      "Prevention",
+      "When transplanting in a new area, use only healthy seedlings and provide adequate plant spacing to reduce the density of the canopy, minimising humidity. Good orchard hygiene: Prune trees to reduce humidity and increase the transmission of sunlight. Crop residues (fallen leaves and inflorescences) should be removed from the field and buried after harvest. The fungi are transmitted by wind and rain; intercropping with other fruit trees or forestry species reduces the ease with which the disease can spread.",
+      "Starting before blooming, monitor visually every week (10 marked trees/ha). Especially in damp shaded areas (nurseries) with mild temperatures (< 24°C) and drier seasons: Young flushes are affected; terminal shoots may be killed. Juvenile parts (inflorescence and leaves) are covered by a white mycelium causing necrosis. Leaf surface: dark, watery discoloration along the midribs. Leaves may be curled and distorted. The underside of the leaves: white, powdery mycelium and spores. Eventually, purplish net-like blotches appear. Can weaken the tree and lead to defoliation. Act as soon as any modification in the colour of the floral cluster is observed.",
+      "Oidium sp. on avocado leaves (EcoPort, www.ecoport.org: Kranz J.)"
+    ],
+    "control_nonchemical": [
+      "Direct Control",
+      "Prune infected shoots and inflorescences and burn or bury them. This disease is normally not serious enough to require control measures."
+    ],
+    "control_biological": [],
+    "control_chemical": [],
+    "restrictions": []
+  },
+  "figures": [
+    {
+      "caption": "Oidium sp. on avocado leaves (EcoPort, www.ecoport.org: Kranz J.)"
+    },
+    {
+      "caption": "Direct Control"
+    }
+  ],
+  "references": []
+}

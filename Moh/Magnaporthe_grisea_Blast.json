@@ -1,0 +1,79 @@
+{
+  "title": "Blast disease of Rice",
+  "sections": {
+    "Header": [
+      "Blast disease of Rice",
+      "Magnaporthe grisea Blast"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified disease free seeds for planting or consider using tolerant varieties (eg.",
+        "Amankwatia, Jasmine and",
+        "AGRA rice)",
+        "Avoid excessive use of nitrogen fertilizer as this can increase the severity of the disease",
+        "Avoid drought stress to plants and extended drainage period as this makes the plants more susceptible to the disease",
+        "Practice continuous flooding to limit blast development"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Remove leaves with lesions or symptoms if they are not many during monitoring",
+        "Apply",
+        "Maneb (80%) (Trimangol 80WP)",
+        "Apply 70g/knapsack; Broad spectrum protectant fungicide with a multi-site mode of action (FRAC group",
+        "M3)",
+        "Apply",
+        "Kingstar",
+        "WG (Azoxystrobin (60%)+Cyproconazole (24%) )",
+        "Apply at a rate of 75ml/15l knapsack; FRAC groups: azoxystrobin",
+        "C3 & cyproconazole",
+        "G1"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Monitor plants by observing leaves for appearance of major symptom - diamond shaped lesions with grey centre and brown or reddish borders and start post planting control measures",
+        "Presence of blast lesions just before booting often dictates decisions for chemical treatment"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use)",
+        "Start application when lesions first appear and just before booting to prevent neck blast.",
+        "Repeat application at 10days interval.Observe",
+        "PHI of 14 days and :",
+        "DO NOT enter into treated areas until the spray has dried unless wearing cotton overall.",
+        "WHO Class",
+        "II (Moderately hazardous), Apply at first sign of disease attack, usually from tillering to early flowering.",
+        "Ensure thorough coverage of application.",
+        "Repeat application upon monitoring at early booting stage.",
+        "PHI is 15 days.",
+        "DO NOT enter into treated areas until the spray has dried unless wearing cotton overalls"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Rice stem nodes showing symtoms of rice blast (Donald Groth, Louisiana State University AgCenter, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Rice field with blast symptoms on the leaves (E. Moses, Crops Research Institute)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Blast lesions on leaves (Donald Groth, Louisiana State University AgCenter, Bugwood.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Blast disease of Rice"
+      }
+    ]
+  }
+}

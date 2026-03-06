@@ -1,0 +1,68 @@
+{
+  "title": "Water melon - Gummy stem blight",
+  "sections": {
+    "Header": [
+      "Water melon - Gummy stem blight",
+      "Didymella bryoniae ( Stagonosporopsis cucurbitacearum ) Tormoger ros jhora rog"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use healthy, disease-free seed.",
+        "Follow crop rotation with non- cucurbit crops (such as maize and sorghum) every 2 years.",
+        "Destruction of crop debris.",
+        "Follow clean cultivation practices.",
+        "Maintain proper drainage in field.",
+        "Soil amendment with poultry refuse @ 6-8 kg/pit 15 days before seed sowing."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect the water melon field at least twice a week during the growing season.",
+        "Early symptoms are round water-soaked lesions, wrinkled spots on young leaves and dark sunken areas on stems.",
+        "Stem cankers develop in the infected plant.",
+        "Gummy red exudation may be seen from infected stems.",
+        "Consider direct control actions as soon as disease symptoms are identified in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected plant parts from the field and burn to destroy.",
+        "Rouging of infected plants at early stages.",
+        "Apply",
+        "Bordeaux paste (1:1:10) on the stem up to one foot from the soil at the early stage."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear protective clothing such as gloves, goggles, apron, etc. during the spraying and handling of fungicides.",
+        "Avoid drinking, eating and smoking while mixing and spraying fungicides.",
+        "Mancozeb (Indofil",
+        "M-45 and",
+        "Dithane",
+        "M-45 at a rate of 2 g/ litre water) 3 times with 12 days interval.",
+        "Mancozeb - WHO class",
+        "U, unlikely to present acute hazard in normal use.",
+        "Spraying copper fungicide (Cupravit and",
+        "Sunvit 2 g/litre water) 3 times with 12 days interval.",
+        "Copper oxychloride:",
+        "WHO class",
+        "II (moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Water melon - Gummy stem blight"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Gummy stem blight symptoms on crop stems (David B. Langston, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptoms on leaves (David B. Langston, University of Georgia, Bugwood.org)"
+      }
+    ]
+  }
+}

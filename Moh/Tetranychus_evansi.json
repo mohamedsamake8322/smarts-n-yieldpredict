@@ -1,0 +1,80 @@
+{
+  "title": "Red spider mites in Irish potato - Kenya",
+  "sections": {
+    "Header": [
+      "Red spider mites in Irish potato - Kenya",
+      "Tetranychus evansi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid dusty conditions around potato crop; they predispose crop to mite infestation.",
+        "Avoid planting on the windward side of infested field.",
+        "Mites can be transmitted by wind.",
+        "Keep field free of weeds.",
+        "Perform farm operations starting from the non-infested areas to minimize spread.",
+        "Apply mulch and incorporate organic matter to increase soil moisture.",
+        "Uproot and burn infested plants soon after harvest.",
+        "Encourage natural enemies such as",
+        "Phytoseiulus persimilis , predatory mites, ladybird beetles and lacewings by planting flowering strips or hedgerows."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: tomato, eggplant, pepper and many common weeds.",
+        "Look out for:",
+        "Small red mites barely visible to the naked eye on the underside of leaves.",
+        "White to yellow speckling of leaves which later turn pale or bronze with increasing infestation.",
+        "Withering and browning of leaves leading to leaf fall.",
+        "Take action when 10 mites are seen on 1 plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray a strong jet of water to dislodge mites and destroy their webs.",
+        "Apply",
+        "Azadirachtin (Achook® or",
+        "Nimbecidine®) at the rate of 40ml in 20L of water) - PHI 1 day.",
+        "Soap sprays can also be used.",
+        "Test on one or two plants to be sure they don’t burn leaves before spraying whole field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear personal protective equipment when handling pestides.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Do not empty into drains and water sources.",
+        "Spray propargite e.g.",
+        "Omite® at the rate of 50ml per 20L of water - PHI 7 days.",
+        "WHO Class",
+        "III (slightly hazardous).",
+        "Spray spiromesifen (Oberon® at the rate of 10ml per 20L of water) - PHI 7 days",
+        "Not classified by",
+        "WHO.",
+        "Do spot spraying targeting the lower side of leaves",
+        "Apply bifenthrin e.g.",
+        "Brigade at 24ml in 20L of water - PHI 3 days",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "Use garlic extract (GC Mite) or",
+        "Pyrethrin + Garlic (Pyegar) at 60m in 20L of water or",
+        "Petroleum oil (DC Tron plus at 50ml in 20L of water.",
+        "PHI: 1 day",
+        "WHO class",
+        "II (Moderately hazardous). (MRLs 0.05mg/kg), PHI 8 hours."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Red spider mite webbing (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Red spider mites in Irish potato - Kenya"
+      }
+    ]
+  }
+}

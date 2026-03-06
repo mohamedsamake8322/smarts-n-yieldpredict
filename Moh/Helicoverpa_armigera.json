@@ -1,0 +1,83 @@
+{
+  "title": "Cotton bollworm on cotton",
+  "sections": {
+    "Header": [
+      "Cotton bollworm on cotton",
+      "Helicoverpa armigera"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove cotton stalk, bad boll and dead cotton after harvest to reduce overwintering pupae.",
+        "Deep tillage (5-10cm) to reduce the overwintering pupae as tillage damages pupae; Irrigation in winter to freeze pupae to death.",
+        "Select later-maturing varieties to avoid the first generation of bollworm moths to lay eggs on the cotton.",
+        "Plant maize around the cotton field to attract moths laying eggs because bollworm moths prefer to oviposit on maize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "After harvest, choose 9-10 places in the field in",
+        "November, then choose five points of soil.",
+        "Dig 0.01m2, 10cm deep soil to search and record the number of pupae.",
+        "In",
+        "March of next year, record again to assess the survived pupae over winter.",
+        "During",
+        "May, choose five points in a field to survey larvae on wheat around the cotton field every ten days.",
+        "Examine tips of plant leaves for egg laying twice weekly for effective application of recommended pesticides.",
+        "Target",
+        "L1 and",
+        "L2 larvae.",
+        "If red eggs are found which are about to hatch, apply pesticide within three days.",
+        "Use light traps to attract and monitor the adults.",
+        "At 30-40 eggs/100plants or 10-15 larvae/100plants, or 5 adults /week actions might be considered."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release the parasitic wasp ( Trichogramma egg cards) 3 days before the peak moth captures in traps (= laying eggs).",
+        "Use a dose of 30,000-50,000 eggs/mu; Spray the",
+        "Helicoverpa armigera nuclear polyhedrosis virus",
+        "HaNPV (80~100g/mu) at peak period of egg laying; Plant corn, sorghum around the cotton field to attract oviposition, and then kill the eggs (using the chemical pesticides see that in yellow list).",
+        "Put a couple of poplar branch in the cotton field to attract adults.",
+        "Using high frequency oscillation pest-killing lamp traps in the field to kill the adults; 2 lamps/mu."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "It is easy for cotton bollworm to develop resistance to insecticides, therefore it is essential to switch between pesticide",
+        "groups to avoid resistance development.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Always consult recent list of registered pesticides http:// www.chinapesticide.gov.cn/",
+        "Chlorfluazuron",
+        "WHO U, Contact poison for insects, Avoid use with alkaline pesticides, PHI: 21 days, 7-day re-treatment interval; maximum 4 sprays / season.",
+        "Spray against eggs and young larvae.",
+        "Usually at 80~100 ml (50g/l miscible oil) /30~60 kg water, but double-check label",
+        "Flufenoxuron",
+        "WHO III, Stomach and contact poison for insects; avoid using with alkaline pesticides, PHI: 30 days, spray 3 times max",
+        "Spinosad",
+        "WHO class",
+        "III (slightly hazardous), PHI: 3 days, 7 d retreatment interval, max 2 sprays.",
+        "Spray at days without rain, but not at bright sunlight.",
+        "It is safe to most insects but toxic to fish"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damaging the cotton flower (Photoed by A. Franck)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Cotton bollworm larve feeds on a cotton boll 2.0cm～2.5cm ((Photo by Wu Kongming)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Life cycle of cotton bollorm (Photo by Zhang Wanna)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Cotton bollworm on cotton"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Mealybug in cassava",
+  "sections": {
+    "Header": [
+      "Mealybug in cassava",
+      "Phenacoccus manihoti Vidung’ata in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Grow cassava varieties which tolerate the pest (moderately tolerant are",
+        "Rangiabili, 83/017220(2), Dalama)",
+        "Soak cuttings for 5 minutes in hot, not boiling, water to kill pests that might be present",
+        "Plant healthy cuttings",
+        "Improve soil fertility by manuring to grow crop vigorously",
+        "Mulch to suffocate weeds and to prevent moisture loss",
+        "Intercrop with other crops like maize to counterbalance cassava pests",
+        "Avoid planting cassava during dry and hot periods"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Mealybugs are tiny, less than 0.5 cm wingless insects.",
+        "They are soft- bodied and covered by white wax.",
+        "Note that whiteflies are also white and small, but will fly off when shaking the plant.",
+        "Mealybugs do not fly.",
+        "Mealybugs are found around stems and leaf nodes.",
+        "They do not move or only slowly move.",
+        "Examine field for white non-moving mealy bugs at least once per week.",
+        "Consider control when about 5 to 10 mealybugs have been found on 4-10 plants per quarter of an acre"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Spray fermented, diluted cow urine as it irritates the soft body of the insect",
+        "Put urine or urine/manure mixture in a hole of about 45cm 3 ; add soil of about half a spade; leave it to ferment for 10-14 days; dilute with water at ratios of 1:2 -1:6; add soap of 0.5-1g per 10 to 20L of solution.",
+        "Test the diluted cow urine on one or two plants to ensure a safe concentration.",
+        "Restricted re-entry interval - once spray is dry, entry is permitted.",
+        "Pre-harvest interval of 3 days if plant parts are used as food.",
+        "If tubers are used, p.h.i. is not important.",
+        "In a small plot, and with a light infestation, wash off the mealybugs from the plants with a steady strong stream of water.",
+        "Note that",
+        "IITA and partners may release parasitic wasps, Anagyrus lopezi in certain areas of",
+        "Tanzania, which will kill mealybugs.",
+        "Contact",
+        "IITA for details."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spraying of pesticides on cassava plant is not advisable as these will kill natural enemies of the cassava pests.",
+        "Moreover, cassava leaves are consumed and should not be covered with pesticides.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "Spray solution made of ground garlic, onion and pepper.",
+        "Mix 1 ground garlic + 1 ground small onion + 1 teaspoon of cayenne pepper in 1 litre of water; let the mixture stand for for 1 hour then add 1 teaspoon of soap.",
+        "Filter; then spray."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Garlic smell may remain on the plant for a month; pre- harvest interval 0 days, restricted re-entry interval 0 days.",
+        "The ingredient can cause painful skin and eye irritation.",
+        "Farmers are not allowed to buy and/or use",
+        "WHO toxicity class",
+        "II products without special permits and training in",
+        "Tanzania.",
+        "WHO class",
+        "II (and",
+        "Tanzanian red and yellow-label products) may not be allowed in",
+        "Tanzanian",
+        "IPM schemes."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Melaybug infestation on cassava (CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mealybug in cassava"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Colonies of mealybugs (CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damage caused by cassava mealybugs (CABI)"
+      }
+    ]
+  }
+}

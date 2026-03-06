@@ -1,0 +1,69 @@
+{
+  "title": "Rice Ragged Stunt Virus - Cambodia",
+  "sections": {
+    "Header": [
+      "Rice Ragged Stunt Virus - Cambodia",
+      "Vector: Brown Plant Hopper Nilaparvata lugens"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "If available locally, use varieties which are resistant to insect vectors (brown planthopper).",
+        "Apply fertilizer in balance.",
+        "Avoid overdosing with nitrogen fertilizer.",
+        "Field sanitation, such as removing weeds that act as hosts to",
+        "BPH.",
+        "Remove infected hills from the field and destroy them.",
+        "Following harvest, remove rice stubble from the field.",
+        "Control brown planthoppers by practicing",
+        "IPM (See",
+        "G&Y list for",
+        "BPH)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scouting 3 times per week especially when the weather is cool.",
+        "Look for",
+        "RRSV - causes short, dark-green, ragged leaves with vein swelling to form galls on the outer surface of the leaf blades and sheaths."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infested plants by burning or composting.",
+        "There is no chemical control for",
+        "RRS virus.",
+        "Need to control the vector",
+        "BPH.",
+        "Fenobucarb (e.g.",
+        "Bascide); Use 20-30ml/8lit water; Non-systemic, contact action"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Carbamate",
+        "IRAC Group 1A; WHO Class",
+        "II (Moderately hazardous); Use only when high infestation",
+        "Permethrin; Use 1 ml/l water; Non- systemic, contact and stomach poison; or",
+        "Alpha-cypermethrin (e.g.",
+        "Attach)",
+        "Synthetic pyrethroid; IRAC Group 3A; WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms on leaves (Chin Khoon Min)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice Ragged Stunt Virus - Cambodia"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Ragged virus on leaves (www.IRRI.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Red spider mites on black nightshade - Kenya",
+  "sections": {
+    "Header": [
+      "Red spider mites on black nightshade - Kenya",
+      "Tetranychus spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove and destroy the old crop, infested residue and weeds by burning or burying after harvesting.",
+        "Plant new crops away from infested fields.",
+        "Avoid movement of tools and people from infested fields.",
+        "Plant perennial hedges such as pigeon peas that host predatory mites and other natural enemies."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Amaranth, beans, cucumber, eggplant, okra, peas, peppers, pigeon pea, tomato, watermelon.",
+        "Look out for:",
+        "Clusters of yellow spots on the upper surface of leaves giving the leaf a speckled or mottled appearance.",
+        "Tiny red or yellow-greenish mites on the underside of leaves with whitish particles and webbings.",
+        "Mites seen on white paper when leaf is tapped on it.",
+        "Take action when 5-7 spider mites seen on three leaves per plant."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use preditory mites e.g.",
+        "Phytoseiulus persimilis and",
+        "Amblyseius californicus from",
+        "Dudutec in infested crop.",
+        "Intercrop with garlic or onion to repel the pest.",
+        "Spray a mixture of 1 teaspoon of liquid soap in 4L of water or quarter bar soap in 20L of water.",
+        "Spray neem based insecticides- Azadirachtin e.g.",
+        "Nimbecidine",
+        "EC or",
+        "Achook 0.15% at 20-50ml in 20L of water 3-4 times per season.",
+        "Use overhead irrigation."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "None of the below pesticides have been registered in",
+        "Kenya for use on the blacknight shade crop to control the target pest but they have been registered for use on the target pest on related crops in the same family as black nightshade crop.",
+        "However, biocontrol agents usually, even when not registered, pose no danger to the crop and user and can be recommended with no cause of alarm.",
+        "Fenpyroximate (Ortus 5",
+        "SC at the rate of 20ml/20L water)",
+        "WHO class",
+        "II, PHI - 1 day, MRL 0.2mg/kg",
+        "Spray with",
+        "Dictator plus 28.7% EC (Propargite 21.2% + Tetradifon 7.5% at rate of 16ml/20L water)",
+        "WHO class",
+        "III, PHI - 14 days, MRL 0.2mg/kg"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellowish white and mottled upper surface of the leaf (Photo: Thomas Kwambai, KALRO, Kenya)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Red spiter mites on the lower side of leaf (Photo: Thomas Kwambai, KALRO, Kenya)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Red spider mites on black nightshade - Kenya"
+      }
+    ]
+  }
+}

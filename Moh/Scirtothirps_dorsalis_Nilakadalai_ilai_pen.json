@@ -1,0 +1,82 @@
+{
+  "title": "Groundnut thrips",
+  "sections": {
+    "Header": [
+      "Groundnut thrips",
+      "Scirtothirps dorsalis Nilakadalai ilai pen"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Raise five rows of maize densely as border crop.",
+        "Use of resistant varieties such as kadiri 3 and",
+        "ICGS 86031.",
+        "Avoid planting rows closer than 2 m to reduce pest movement.",
+        "Maintain weed free field and field santation.",
+        "Use",
+        "F20:F26 mulching sheet in between rows."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor crops for pest activity on a weekly basis during growing season.",
+        "Symptoms include white patches on the upper surface of the leaves, nectrotic patches on the lower leaf surface and leaf crinkling.",
+        "Pest activity and presence increases during high temperatures with low rainfall.",
+        "The pest is known to transmit the virus for bud necrosis, hence monitor for symptoms of bud necrosis.",
+        "Consider direct control actions when 3-5 thrips are found per plant."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Removal and destruction of severly affected plants.",
+        "Set",
+        "F20:F26up blue sticky trap at a rate of 5 traps per acre.",
+        "Spray neem oil (3 litres per acre) or pungam oil (6 litres per acre).",
+        "Soil application of neem cake at a rate of 50 kg per acre.",
+        "Forceful water spray once in 15 days.",
+        "Spraying of 1% azadiractin (trade name:",
+        "Neemole,Neemten, Azatin) at a rate of 400 ml per acre.",
+        "Spraying of verticillium lecani at a rate of 1 litre per acre."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Avoid resurgence pesticides.",
+        "Always wear protective clothing when handling pesticides, follow product label instructions.",
+        "Spray",
+        "Thiomethaxom 25% WG (e.g., trade name:",
+        "Actara, Anant, Renova, Evident, Spike, Click) at a rate of 50 g per acre.",
+        "Spray",
+        "Imidacloprid 17.8",
+        "SL (e.g., trade name:",
+        "Confidor, ltimo) at a rate of 60 ml per acre.",
+        "Spray",
+        "Fipronil 5% SC (e.g., trade name:",
+        "RegentSC, Devigent plus, Fipro) at a rate of 300 ml per acre."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Not classfied by",
+        "WHO.",
+        "WHO II classified.",
+        "WHO II classified."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult thrip (Andrew Derksen, USDA-APHIS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Thrip damage on the underside of leaf (Andrew Derksen, USDA-APHIS, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Groundnut thrips"
+      }
+    ]
+  }
+}

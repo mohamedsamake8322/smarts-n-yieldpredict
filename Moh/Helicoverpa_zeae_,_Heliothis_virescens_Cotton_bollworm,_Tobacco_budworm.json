@@ -1,0 +1,81 @@
+{
+  "title": "Bollworm of Cotton",
+  "sections": {
+    "Header": [
+      "Bollworm of Cotton",
+      "Helicoverpa zeae , Heliothis virescens Cotton bollworm, Tobacco budworm"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid growing cotton in close proximity to alternate host crops, e.g. pigeon pea, sweet potato, tomato",
+        "Use of trap count information to determine if",
+        "Heliothis sp. will be a serious pest in your area.",
+        "If numbers are high, consider planting elsewhere or planting an alternative crop"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for bollworms every week.",
+        "Eggs - spherical, flattened, 10-15 perpendicular rows of toothed ribs, range from white, cream and dark brown.",
+        "Act when 10% of plant terminals examined contain eggs.",
+        "Larvae- rows of dark bristled tubercles along back, mature larvae are green, brown or yellow.",
+        "Search for young larvae at the base of young bolls.",
+        "At post-bloom stage, act if 3 terminals per 100 terminals contain live larvae or when more than 5% bolls are affected.",
+        "Look for squares, floral buds or immature bolls that have fallen to the ground and rosetted flowers.",
+        "Adults – use pheromone traps to attract male adults (1 trap for every 5 acres) act if you trap more than 7 in one night"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Obey thresholds",
+        "Delay use of insecticides as long as possible to allow build-up of natural enemies e.g.",
+        "Trichogramma sp., Green lacewing ( Chrysopa sp.) larvae and minute pirate bugs ( Orius insidiosus )",
+        "Acephate (Acephate, Orthene) 1 lb per acre"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Ensure correct",
+        "PPE is worn when spraying these chemicals",
+        "Bacillus thuringiensis (New",
+        "Bt) at a rate of 1-3 tbs per gallon, 0.5 – 1.5 pints per acre.",
+        "Apply",
+        "Bt when the immature stages of the target pest are feeding.",
+        "Slightly hazardous (Class",
+        "III).",
+        "IRAC MoA– 11A.",
+        "PHI (days) – 14.",
+        "Bt pest control products have a shorter shelf life than most chemical insecticides and should be stored in a cool, dark place.",
+        "Do not apply if there is a risk of rain within 24 hours of application.",
+        "Neem oil (Trilogy) emulsion at a rate of 1 tbsp neem oil for 0.25 litre of water and 4 tbsp neem oil for 1 gal. of water",
+        "Slightly hazardous (Class",
+        "III).",
+        "IRAC MoA– 11A.",
+        "Strictly avoid adding more neem oil than the recommended quantity.",
+        "Slightly hazardous (WHO Class",
+        "III).",
+        "IRAC MoA -1B Thiamethoxam (Actara) at 2.5g per gal. or 26-39g per ac.",
+        "IRAC MoA - 4A"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Cotton boll damaged by Heliothis sp. (Tony Rawlins, MAFFW)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage caused by mature bollworm larva (Tony Rawlins, MAFFW)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Heliothis sp. egg (Yelitza Colmenarez, (CABI))"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Bollworm of Cotton"
+      }
+    ]
+  }
+}

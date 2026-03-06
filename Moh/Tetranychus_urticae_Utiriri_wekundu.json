@@ -1,0 +1,78 @@
+{
+  "title": "Red spider mites in watermelon",
+  "sections": {
+    "Header": [
+      "Red spider mites in watermelon",
+      "Tetranychus urticae Utiriri wekundu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant perennial pigeon pea hedges to encourage predatory mites.",
+        "Keep the fields weedfree to remove alternate hosts.",
+        "Maintain soil fertility to improve crop vigour and intercrop with sunflower or parsley to lure beneficial insects into the garden.",
+        "Water plants during hot, dusty seasons to reduce water stress and remove dust on the plants (encourages mite outbreaks)."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: tomatoes, potatoes, courgettes, cucumber, cowpeas, beans, pigeon peas, dolichos lab lab, garden peas.",
+        "Monitor the crop regularly since mites population build up is very rapid.",
+        "Randomly select 20 plants (3 leaflets/ plant) and assess the level of damage.",
+        "Look for:",
+        "Stippled /yellowish/ bronze blotches on the upper part of the leaves.",
+        "Tiny, reddish dot like soft bodied insects which moves fast once disturbed.",
+        "Adult mites, their eggs, and webbing on the underside of the leaves.",
+        "Webbing on the leaf surface and/or on the whole plants in severe conditions.",
+        "Take action when 5% of the crop is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all infested plants or plant parts and burn them.",
+        "Spray with",
+        "Real",
+        "Metarhizium 78 at the rates of 1 litre per hectare,early in the morning.",
+        "Release",
+        "Phytoseiulus persimilis at the rate of 1-2 per infested leaf, 20-30 per medium sized plant, 2,000 per 700 square feet.",
+        "Spray 70% neem oil (mix 2 tablespoons per 1 gallon of water), more emphasis on the leaf undersides, until the whole plant gets wet.",
+        "Soap sprays can also be used.",
+        "Test on one or two plants to be sure they don’t burn leaves before spraying whole field."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear personal protective equipment.",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re",
+        "entry interval.",
+        "Always consult recent list of registered pesticides (PCPB).",
+        "Spray with",
+        "Abamectine 18g/l based products (Avirmec 1.8",
+        "EC, Romectin, Abalone 18EC, Acaramik 1.8EC at the rate of 10mls/20L (1L per",
+        "Ha).",
+        "Abamectin is not classified by",
+        "WHO (Rotate miticides to avoid pests developing chemical resistance)",
+        "Spray with",
+        "Diafenthiuron 500g/L based products (Mercur 500SC or",
+        "Pegasus at the rate of 15 - 20mls/20L)",
+        "WHO class",
+        "III (Moderately hazardous) and",
+        "PHI 10 days (Rotate miticides to avoid pests developing chemical resistance)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Red spider mites in watermelon"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Red spider mite adult resting on the underside of a watermelon leaf (source Gilles San Martin, CC BY-SA)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Red spider mite symptoms on the upper side of the watermelon leaf (source: M. Otipa)"
+      }
+    ]
+  }
+}

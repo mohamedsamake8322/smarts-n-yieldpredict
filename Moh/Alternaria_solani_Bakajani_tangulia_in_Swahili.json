@@ -1,0 +1,85 @@
+{
+  "title": "Early blight on tomato",
+  "sections": {
+    "Header": [
+      "Early blight on tomato",
+      "Alternaria solani Bakajani tangulia in Swahili"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Apply crop rotation with non- solanaceous crops like maize, beans, sunflower etc for at least two years before re-planting with tomato",
+        "Use tolerant varieties such as",
+        "Duruti, Tengeru 2010, Rio",
+        "Grande, Kiboko, Meru",
+        "Use clean, certified seeds",
+        "Use compost, old manure, or rotation with nitrogen-fixing legumes to maintain soil fertility. (Nutrient deficiency increases susceptibility to early blight)",
+        "Orient tomato rows to the direction of the wind",
+        "Irrigate early in the day to allow drying of leaves",
+        "Promote good air circulation in the field by proper spacing (e.g. 60 cm x 30 cm for small varieties, 90 cm x 45 cm for tall varieties)",
+        "Remove",
+        "Solanaceous weeds that may act as hosts",
+        "After tomato harvest, bury all plant residues to reduce the spread of the disease to the next season."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Wet weather favours the development of early blight",
+        "Inspect the crop twice per week for symptoms of the disease: 0.5 - 3 cm brown irregular spots with sunken rings on leaves and on fruits near fruit stems; The disease starts from the lower, older leaves and moves upwards in the plant.",
+        "If 3-5% of plant population have the symptoms, consider action"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand-pick and remove the diseased foliage outside the field and bury.",
+        "Transport the diseased material away from the field in bags to prevent the spread of the disease",
+        "Mancozeb (e.g.",
+        "Ivory 80",
+        "WP, Lotus 80",
+        "WP).",
+        "Protectant fungicide; Chlorothalonil (e.g.",
+        "Agrothatlonil 720",
+        "SC).",
+        "Protectant fungicide",
+        "Metalaxyl + mancozeb (e.g.",
+        "Ivory 72).",
+        "Systemic and protectant fungicide"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Prevention is the most powerful and often only measure; and chemical sprays are often too late or have little effect.",
+        "The following products are mainly protectants, thus they may prevent further spread, and cannot or only moderately suppress already established fungi:",
+        "Some examples:",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval, min retreatment interval.",
+        "Do not empty into drains",
+        "Always double-check with recent list of registered pesticides in",
+        "Tanzania (MAFSC through",
+        "TPRI)",
+        "Unlikely to present acute hazard in normal use (WHO Class",
+        "U); Fungicide spraying on the foliage and pseudo stem should commence with the initial appearance of the disease and should be repeated at two week intervals; Rotate fungicides to prevent the development of resistance; Unlikely to present acute hazard in normal use (WHO Class",
+        "U); Very toxic to aquatic organisms.",
+        "Avoid spraying near ditches or other water surfaces",
+        "Metalaxyl:",
+        "Moderately toxic (WHO Class",
+        "II); Mancozeb:",
+        "Unlikely to present acute hazard in normal use (WHO Class",
+        "U); Very toxic to aquatic organisms; Do not harvest tomato for human consumption for at least 7 days after final application; Apply a maximum of 2-3 times per season"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Tomato fruit with early blight (Yuan-Min Shen, Taichung District Agricultural Research and Extension Station, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Early blight on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf with early blight (WR Stevenson, APSnet.org)"
+      }
+    ]
+  }
+}

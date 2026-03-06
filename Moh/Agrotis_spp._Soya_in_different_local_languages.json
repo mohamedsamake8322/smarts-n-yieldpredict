@@ -1,0 +1,88 @@
+{
+  "title": "Cutworms on soybeans",
+  "sections": {
+    "Header": [
+      "Cutworms on soybeans",
+      "Agrotis spp. Soya in different local languages"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deeply plough before and after cropping to expose cutworms to sun and natural enemies",
+        "Use good agronomic and cultural methods to produce strong plants that can tolerate some cutworms.",
+        "Prepare land early, this is, at least two weeks before planting.",
+        "Plant early, this is, mid to end of",
+        "December if enough rain.",
+        "Avoid low dump areas of the field that have poor drainage.",
+        "Control weeds in fall and early season.",
+        "Rotate with non- host plants such as cotton."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout for cutworm larvae as soon as crop emerges and continue twice weekly until plant reaches knee height.",
+        "Monitor early morning as larvae go deeper into soil during the day.",
+        "Look for 2 to 4 cm long c-shaped thick soft larvae around freshly damaged plants:",
+        "Examine at least 2 series of 20 consecutive plants.",
+        "Record number of plants that are cut, wilted or showing signs of feeding on lower leaves.",
+        "Scratch soil off plant roots to check for cutworms.",
+        "Control action may be required when 3% or more plants are cut/ damaged and one or more cutworms are found near or below damaged plants.",
+        "If available use pheromone or black light traps to monitor cutworm moth (appears reddish to blackish with front wings that are brown to black)."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick larvae from the soil at night or early in the morning (during the day they are hidden in the soil)",
+        "Chop 30 -40 hot peppers or 1/2 litres of hot pepper powder into a 10 litre big bucket of warm water (not boiling).",
+        "Let liquid sleep (infuse) for 1 day.",
+        "Remove the pepper and dilute with 10 litres of cold water in the knapsack sprayer.",
+        "Add 20 drops of dishwashing soap.",
+        "Spray in the evening directly on the soil around the stem of seedlings or young plants until soil is wet."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Only apply products when verified by monitoring.",
+        "Spray in the evening directly on to the soil around stems of young plantings.",
+        "Larvae will crawl near plant stem at night.",
+        "When using a pesticide (even a botanical home-brew), always wear protective clothing.",
+        "Follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains.",
+        "WHO class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides (ZEMA).",
+        "Chlorpyrifos –based products (PYRINEX 250CS; and others); organophosphate pesticide group.",
+        "Usually applied onto the soil near plant stem base at 50-100ml per 20 litre or 0.8-1.25 litres per hectare, but double- check with product labels.",
+        "WHO toxicity class",
+        "II (moderately hazardous); restricted re-entry interval (r.e.i.) 1 day after spray.",
+        "Pre- harvest interval 21 d, max 1 spray early in the season.",
+        "Toxic to bees.",
+        "Acephate –based products (ACE; ACEPHATE 750SP; ACEPHATE 72SP ACEPACK; and others).",
+        "Organophosphate pesticide group.",
+        "Usually applied onto the soil near base of plant stem at 0.5kg/ha, but double- check with product labels.",
+        "WHO toxicity class",
+        "II (moderately hazardous); r.e.i. 3 days p.h.i. 21 days, max 1 spray early in the season.",
+        "Toxic to bees."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "About 3 cm cutworm larvae just below soil surface (Photo by: A.M. Varela, icipe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Cutworms on soybeans"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Feeding damage of cutworm on stem base (Photo by: Purdue University)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Searching for cutworm larvae in the soil surface below the cut plant (Photo by: High Desert Garden)"
+      }
+    ]
+  }
+}

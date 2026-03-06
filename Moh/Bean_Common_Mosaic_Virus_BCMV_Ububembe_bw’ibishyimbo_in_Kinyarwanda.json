@@ -1,0 +1,73 @@
+{
+  "title": "Bean Common Mosaic Disease",
+  "sections": {
+    "Header": [
+      "Bean Common Mosaic Disease",
+      "Bean Common Mosaic Virus (BCMV) Ububembe bw’ibishyimbo in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use healthy/certified seeds (available from seed multipliers, agrodealers, RAB)",
+        "Use tolerant varieties (eg",
+        "Muhondo (G2331), Nyiramata (CAB2), RWR2154, RWV3316, MAC44, RWV1129, RWR2245)",
+        "Use fertilizers to help plants be more vigorous, basal application of organic fertilizer 20-30ton/Ha and",
+        "DAP 50 -100kg/Ha.",
+        "Top dressing fertilizer, urea 50-100kg/Ha.",
+        "Clean field tools (eg clean hoe by heat, etc.) after use",
+        "Avoid movement in the field /touching from infected to non-infected plants",
+        "Control aphids in the field and other fields around (see direct control)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field from 2 weeks after planting to flowering",
+        "Observe the leaves for symptoms which include: mosaic, necrosis, downward curling on leaves; stunting, irregular shape leaves, light- yellow and dark green areas in a mosaic pattern.",
+        "Monitor the disease symptoms especially during flowering early morning",
+        "Take action if you find 1 plant infected",
+        "Monitor for the presence of aphids on shoots, stem and leaves",
+        "Threshold for aphids is 20 aphids on 2.5 cm of shoot"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot infected plants and burry as soon as spotted",
+        "Control aphids using:",
+        "Soapy water on plants and under leaves; (mix 8 gr of soap in 10 liters of water and spray on plants); Mix 1 kg of",
+        "Neem leaves with 5 liters of water and boil them till the colour of leaves become yellow.",
+        "After 12 hours you mix the extracted juice with water and spray on plants.",
+        "You need 80kg of leaves for 1 ha"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear personal protective equipments (PPE)",
+        "Do not eat or drink while manipulating pesticide",
+        "Spray",
+        "Lambda- cyhalothrin 50g/l",
+        "EC, (20ml/20L of water at 14 days interval)",
+        "WHO Class",
+        "II (Moderately hazardous); contact insecticide; Do not harvest before 6 days after the last application.",
+        "Avoid spraying when plants in flower or near water sources.",
+        "WHO Class",
+        "II (Moderately hazardous); Contact insecticide; Do not harvest before 14 days after the last application; It is toxic to bees and aquatic organisms.",
+        "Avoid spraying when plants in flower or near water sources.",
+        "Cypermethrin 5%EC , 20ml/20L of water"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Bean Common Mosaic Disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf with BCMV symptoms (Nicola Spence/Horticulture Research International)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Close-up of leaf with BCMV (Nicola Spence/Horticulture Research International)"
+      }
+    ]
+  }
+}

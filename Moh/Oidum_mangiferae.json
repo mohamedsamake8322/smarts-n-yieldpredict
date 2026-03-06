@@ -1,0 +1,71 @@
+{
+  "title": "Powdery mildew on mango",
+  "sections": {
+    "Header": [
+      "Powdery mildew on mango",
+      "Oidum mangiferae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant at wider spacing from 8x8m to 12x12m.",
+        "If you plant at 2x2m, keep thinning until the standard spacing is reached",
+        "Prune the trees once every year soon after harvest to open up the canopy for free circulation of air (to reduce humidity and the disease)",
+        "Grow less susceptible varieties such as",
+        "Tommy",
+        "Atkins"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check for circular, powdery white spots on young leaves as soon as plants germinate and during flushing (new leaves and flowers) stages",
+        "Check for dusty white to grey coating on the underside of the leaves and on flowers",
+        "Check for leaf distortions followed by drying and eventual defoliation",
+        "Check for greyish moulds on fruitlets which when the fruitlets enlarge become purple- brown blotchy lesions that crack and form corky tissue",
+        "If a quarter of the canopy is showing symptoms (brownish leaves) and signs (presence of mycelium of the affected parts) of the disease follow the direct control methods"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove/prune and destroy infected plant parts by burning.",
+        "Keep all equipment used during the operation clean and dry in the right place.",
+        "Clear all the bushes and trash that are in the orchard",
+        "Spray with a solution of 6 spoonfuls of baking powder",
+        "OR 3 spoonfuls of white oil and white bar soap foam in 15 litres of water and spray the trees"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink or smoke when mixing or applying pesticides.",
+        "Alternate fungicides to avoid resistance occuring",
+        "Spray with thiophanate-methyl (Topsin, T-methyl) at the rate of 10g in 10L of water.",
+        "FRAC group: 1",
+        "WHO Class",
+        "II - Moderately hazardous.",
+        "Apply as soon as symptoms are seen, spray fortnightly.",
+        "Pre-harvest interval 14 days, re-entry interval of 7 days",
+        "Spray with tebuconanzole (e.g.",
+        "Folicur 250EW), 20ml/100L of water.",
+        "FRAC group: 3",
+        "WHO Class",
+        "II - Moderately hazardous.",
+        "Apply at the first signs of infection and repeat every 10-14 days up to 100% petal drop, re-entry interval 3 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Infection of the flowers (Scot Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Leaves showing symptoms of the disease (Scot Nelson, www.flickr.com)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Powdery mildew on mango"
+      }
+    ]
+  }
+}

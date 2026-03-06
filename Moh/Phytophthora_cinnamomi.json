@@ -1,0 +1,90 @@
+{
+  "title": "Phytophthora root rot",
+  "sections": {
+    "Header": [
+      "Phytophthora root rot",
+      "Phytophthora cinnamomi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified disease free nursery stock from",
+        "KALRO- Kandara, JKUAT, Olivado such as",
+        "Fuete and",
+        "Hass.",
+        "Plant resistant cultivars that are more resistant to root rot (e.g.",
+        "Dusa and",
+        "Latas from",
+        "KALRO Kandara).",
+        "Solarize infected soils by covering surface with a polythene sheet for 3 weeks.",
+        "Control run off water by digging trenches around the nursery to prevent the fungus from spreading to healthy seedlings.",
+        "Plant on well drained soils by digging trenches to avoid accumulation of excess moisture that can contribute to root rot.",
+        "Avoid injuring the plant when pruning since wounds provide entry points for the water mold.",
+        "Avoid planting in an area near a previously infected field.",
+        "Apply woodchip mulch (2-3 in) beneath canopies to conserve moisture and enhance development of beneficial microorganisms antagonistic to",
+        "P. cinnamomi",
+        "Begin harvesting in healthy areas of the orchard and diseased areas last to minimize pathogen movement.",
+        "Do not work in infected areas when the soil surface is wet as the fungus can be easily spread."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for small, pale green or yellowish leaves that have brown necrotic tips.",
+        "Check for trees with sparse foliage with little leaf litter that exposes the fruit to sunscald.",
+        "Look out for for small, fibrous feeder roots that are black, brittle or dead from infection.",
+        "Diseased trees frequently have a heavy crop of small fruits and foliage remains dry even when the soil is wet.",
+        "Take action when symptoms appear on one tree."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all dead, dying and diseased twigs or trees and burn them.",
+        "Use",
+        "Bio-Cure-F @ 10 ml-20ml/L of water by dipping the roots of the seedlings into the solution for 30 min prior to planting.",
+        "Use antagonistic fungi like",
+        "Trichoderma harzinium at 1.5g/2.5L water every 10 -12 weeks."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Drench metaxyl and mancozeb based fungicide such as",
+        "Ridomil",
+        "Gold",
+        "MZ 68WP at 50g/20L on young trees that have been replanted into",
+        "Phytophthora-infested soil.",
+        "WHO Class",
+        "III.",
+        "Slightly hazardous.",
+        "PHI 3 days intervals.",
+        "REI- when it dries.",
+        "Repeat every 10-14 days.",
+        "Inject",
+        "Phosphoric acid on trunks 3-4 times in a year until the rot is under control.",
+        "WHO Class",
+        "U.",
+        "Product unlikely to present hazard under conditions of normal use.",
+        "PHI 3 days.",
+        "REI 1 day.",
+        "No more than 1 spray during flowering.",
+        "Toxic to bees and aquatic organisms."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Avocado trees with dead twigs and leafless branches (Dorothy -KALRO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Phytophthora root rot"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Sparse foliage with yellowish leaves caused by Phytophthora cinnamomi (Dorothy- KALRO)"
+      }
+    ]
+  }
+}

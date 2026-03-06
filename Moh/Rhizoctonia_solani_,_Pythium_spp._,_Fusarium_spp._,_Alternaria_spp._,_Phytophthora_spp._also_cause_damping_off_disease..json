@@ -1,0 +1,65 @@
+{
+  "title": "Rhizoctonia Damping Off Disease of Crucifer Vegetables",
+  "sections": {
+    "Header": [
+      "Rhizoctonia Damping Off Disease of Crucifer Vegetables",
+      "Rhizoctonia solani , Pythium spp. , Fusarium spp. , Alternaria spp. , Phytophthora spp. also cause damping off disease."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Good seedbed management.",
+        "Avoid fields with a history of the disease.",
+        "Avoid excessive watering and nitrate fertilisation.",
+        "Plant on raised beds which provide good drainage to prevent waterlogged conditions and reduce moisture saturation in the root zone.",
+        "As free water is important for distribution and development of the diseases, efforts to reduce soil moisture will help to reduce disease severity.",
+        "Solarisation of soil – cover with polythene sheeting to heat by sunlight for up to a week."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor fields regularly – at weekly intervals.",
+        "Look for die back of seedlings.",
+        "Spray fungicides when you detect infestation to protect seedlings from fresh attack."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove the disease seedlings and destroy, as there is no cure for plants that already have damping off.",
+        "Copper hydroxide, Copper oxychloride",
+        "Soil drench at 3% solution"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray fungicide as soon as disease infestation is observed",
+        "Hexaconazole. 1ml/lit",
+        "FRAC CODE group 3.",
+        "WHO Class",
+        "III (Slightly hazardous)",
+        "Azoxystrobin. 0.5 ml/lit",
+        "FRAC CODE group 11.",
+        "WHO Class",
+        "IV (U) (Unlikely to present acute health hazard)",
+        "FRAC CODE group",
+        "M1.",
+        "WHO Class",
+        "II (Moderately hazardous)"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Crucifers already affected by Damping off disease (AA Seif and AM Varela, icipe)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rhizoctonia Damping Off Disease of Crucifer Vegetables"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptom affected by Damping off disease (Courtesy EcoPort (http://www.ecoport.org): McKenzie, LandCare Ltd. New Zealand)"
+      }
+    ]
+  }
+}

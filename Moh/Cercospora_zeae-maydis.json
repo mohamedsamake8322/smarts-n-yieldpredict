@@ -1,0 +1,68 @@
+{
+  "title": "Grey Leaf Spot",
+  "sections": {
+    "Header": [
+      "Grey Leaf Spot",
+      "Cercospora zeae-maydis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Resistant varieties:",
+        "The most efficient and economical method to reduce yield losses from",
+        "Grey",
+        "Leaf",
+        "Spot is the use of resistant varieties such",
+        "Kigega (ZM607), ISARM101 and",
+        "ISARM102",
+        "Crop rotation:",
+        "The amount of initial inoculum will be reduced when a non- cereal crop like beans and potato is planted for ≥2 years in that given field",
+        "Residue management:",
+        "Burying the debris and maize crop residues from the previous season reduce the presence of",
+        "Cercospera zeae-maydis , as the fungal- infected debris can only survive above the soil surface"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The initial symptoms of grey leaf spot emerge as small, dark, moist spots that are encircled by a thin, yellow radiance.",
+        "Initially brownish and yellow colours become grey with the presence of grey fungal spores (conidia) on the lesion surface.",
+        "These symptoms that are similar in shape, size and discoloration, are also prevalent on the corn husks and leaf sheaths.",
+        "Leaf sheath lesions are not surrounded by a yellow radiance, rather a brown or dark purple radiance.",
+        "Inspect the field every week starting at seedling stage to monitor the appearance and the severity of symptoms on leaves"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Direct",
+        "Control",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply propiconazole (e.g.",
+        "Tilt 250",
+        "E or",
+        "Bumper 418",
+        "EC).",
+        "Tilt 250E is to be applied at 500 mL per/ha.; Bumper 418",
+        "EC is to be applied at 300 mL per/ha.; Apply chemical when symptoms first appear.; If disease is prevalent after primary application, a second application 14 days later may be necessary.; Two weeks later, a third application can be made under severe symptoms"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO II (moderately hazardous); propiconazole is a broad spectrum foliar fungicide with systemic properties; Propiconazole permits protective, curative or eradicative use.",
+        "Best results are achieved when the product is applied when the disease is active but still in the early stage of development"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Grey Leaf Spot"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms of Grey Leaf Spot on the whole plant (Claver Ngaboyisonga)."
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Symptoms of Grey Leaf Spot (Claver Ngaboyisonga). Pictures taken on 27 June 2012 at Nyagatare/ Cyabayaga."
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Onion Bacterial Bulb Rot",
+  "sections": {
+    "Header": [
+      "Onion Bacterial Bulb Rot",
+      "Ralstonia spp , Erwinia spp. Sinhala: “bulba kunuweema”"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use disease free seedlings /bulbs for cultivation",
+        "Destruction of crop residue",
+        "Crop rotation with non lilaceous crops e.g. maize, finger millet, legumes",
+        "Use of organic manure i.e. compost",
+        "Soil sterilization by solarization exposing to direct sun light",
+        "Avoid cultivation of susceptible varieties like",
+        "Vethalam.",
+        "Proper land preparation i.e. raised beds or separate channel to remove excess water"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular field visit to observe rotten bulb",
+        "Bad smell in the field",
+        "Check infected bulbs for bacterial oozing by dipping in clean glass of water",
+        "Take action when symptoms first seen/detected",
+        "Observe soft rot symptoms in middle young leaves for bacterial rot (fungal rot symptoms started from mature outer leaves, leaf yellowing, slight twisting)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Removal of infected bulbs with surrounding soil at 10 day intervals and destroy e.g. by burning and burying",
+        "Soil sterilization by exposing infected area to direct sun light after removal of infected plants",
+        "Avoid surface irrigation from infected field to healthy field",
+        "Increase irrigation intervals",
+        "Deepen drainage channels"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of chemicals is not recommended for bulb rot management"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Onion Bacterial Bulb Rot"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Initial symptoms of bulb rot (MGDL Priyantha)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Bulb rot symptoms at severe stage (MGDL Priyantha)"
+      }
+    ]
+  }
+}

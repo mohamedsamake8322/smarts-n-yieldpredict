@@ -1,0 +1,84 @@
+{
+  "title": "Ascochyta blight on beans",
+  "sections": {
+    "Header": [
+      "Ascochyta blight on beans",
+      "Didymella fabae (teleomorph) Ascochyta fabae (anamorph) Leaf and pod spot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified clean seed",
+        "Plant a resistant cultivar if available",
+        "If using farm-saved seed then use the cleanest seed possible - use seed with 5 % to nil levels of ascochyta present.",
+        "Do not use old, frosted or damaged seed (with low vigour).",
+        "If crop has been infected, do not plant any legumes in the field for four years to prevent reinfection",
+        "Before sowing seeds, remove all sources of inoculum such as weeds and volunteer plants",
+        "Thoroughly cultivate the land following a bean crop harvest.",
+        "Crop debris left on the soil surface can be a source of inoculum.",
+        "Do not plant crop downwind of an infected field, or adjacent to one, since the disease can be spread by wind and water (splashing)",
+        "Intercrop beans with cereals such as maize or wheat to create barrier to prevent the aerial spread of the disease",
+        "Separate this year's bean crop from last year's bean stubble by a distance of 500 m.",
+        "Do not sow seed adjacent to vetch, chickpea or lentil stubble",
+        "Sow at a time when conditions are not expected to be cool and wet for a long period.",
+        "These conditions favour disease development."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Relevant crops: broad beans ( Vicia faba ), vetch, chickpea, lentil",
+        "Lesions on leaves, stems and pods.",
+        "Lesions may be more apparent on upper parts of stem and on older leaves if seedlings have grown from infected seed",
+        "Leaves:",
+        "Lesions are usually circular, dark brown, initially about 1 mm in diameter.",
+        "Eventually the lesions join together to become larger and more irregular in shape.",
+        "They are sunken with a pale brown to dark grey centre surrounded by a broad, dark, chocolate-covered margin.",
+        "Within the lesions, pinhead-sized black spots may develop under damp conditions",
+        "Leaves:",
+        "Browning of the vascular issue of the leaf may occur",
+        "Stems:",
+        "Small lesions at the early stages of infection which gradually elongate up the stem and become sunken.",
+        "Lesions are usually darker than those on leaves.",
+        "They can cause the plants to lodge or a kink in the stem.",
+        "Whole plant: seedling death if seedling grows from infected seed",
+        "Pods:",
+        "Lesions may appear on the surface.",
+        "These are very deep with pale centres and dark brown margins.",
+        "Pin-head sized black spots may appear within lesions.",
+        "Seeds:",
+        "Shrunken and discoloured.",
+        "Yellowish brown stains on outer seed coat if badly infected",
+        "Lesions can look similar to those caused by chocolate spot ( Botrytis fabae ).",
+        "However",
+        "B. faba lesions do not contain pin-head sized black spots (pycnidia).",
+        "Sometimes both ascochyta blight",
+        "AND chocolate spot are present on the plant.",
+        "Lab analysis may be required to identify the disease.",
+        "Take controls actions as soon as symptoms are seen"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Using a combination of methods is the best way to control",
+        "Ascochyta.",
+        "Harvest as early as possible to minimize discolouration of seed caused by ascochyta infection"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Ascochyta leaf and pod spot on Vicia faba. (Source: PGRO)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf lesions (Source: PGRO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Ascochyta blight on beans"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Leaf lesion showing fungal fruiting bodies (Source: PGRO)"
+      }
+    ]
+  }
+}

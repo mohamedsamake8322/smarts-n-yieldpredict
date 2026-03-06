@@ -1,0 +1,67 @@
+{
+  "title": "Fruit flies on fruit trees",
+  "sections": {
+    "Header": [
+      "Fruit flies on fruit trees",
+      "Bactrocera invadens and Ceratitis cosyra"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "At the end of the season/harvest collect and bury all fallen fruits in a pit (0.5-1m deep) or tie them in a black plastic bag, then place the bag in the sun to kill potential larvae in the fruits in order to prevent infestation in the next season",
+        "Harvest fruits at physiological maturity before they become very ripe and soft which makes it easy for the flies to lay eggs in them",
+        "Remove alternate host plants like guava, chillies, citrus, melons, coffee, avocados, wild fruits to reduce pest",
+        "Prune regulary to improve aeration",
+        "Release poultry in the orchard to feed on pupa at the base of plants"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops:",
+        "Avocado pear, citrus, mango",
+        "Check for adult fruit flies weekly in tree canopies when fruits have set.",
+        "C. cosyra looks like a housefly but is yellow with black spots on the back of the chest while",
+        "B. invadens looks like a wasp but is brown with a yellow strip on each side of the chest",
+        "Check for egg-laying holes ('stings') on the surface of the fruits.",
+        "These holes may be indicated by oozing or dry sap",
+        "Sample fallen fruits and dissect them for fruit fly larvae which are small white maggots",
+        "Set 10 pheromone traps per ha.",
+        "A catch of 2-3 adult fruit flies per trap per week necessitates control measures (see factsheet on fruit fly traps)"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "During harvesting collect and bury all fallen fruits in a pit (0.5-1m deep) or tie them in black plastic bags then place the bag in the sun to kill potential larvae in the fruits",
+        "Store harvested fruit in cool place or cold storage for 5 days"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Spray with cypermethrin 200",
+        "EC at a dilution rate of 1ml / 10 litres of water when fruit flies are noticed",
+        "WHO class",
+        "II - moderately hazardous"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Internal damage of mango caused by fruit fly infestagion (CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Fruit fly 'stings' on the skin of guavas (EcoPort, Bedford, ECG and de Villiers, EA)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Fruit fly larvae in citrus fruit (E. Boa, CABI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Fruit flies on fruit trees"
+      }
+    ]
+  }
+}

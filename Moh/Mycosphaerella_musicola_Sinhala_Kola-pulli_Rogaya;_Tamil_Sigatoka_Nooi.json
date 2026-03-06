@@ -1,0 +1,81 @@
+{
+  "title": "Banana Yellow sigatoka",
+  "sections": {
+    "Header": [
+      "Banana Yellow sigatoka",
+      "Mycosphaerella musicola Sinhala: Kola-pulli Rogaya; Tamil: Sigatoka Nooi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use field tolerant cultivars (e.g.",
+        "Seeni)",
+        "Use proper spacing in order to avoid mutual shading and the contact of leaves (8 to 12 ft)",
+        "Keep an appropriate distance (100 – 500ft) between new plantations and disease-affected existing plantations",
+        "Establish live wind barriers around the field (eg.",
+        "Gliricidia)",
+        "Avoid surface irrigation / sprinkler irrigation to minimize the relative humidity of micro environment.",
+        "Drip irrigation is preferred",
+        "Balanced fertilization (follow",
+        "DOA recommendations and avoid excessive",
+        "N fertilizer)",
+        "Avoid high density planting methods for highly susceptible cultivars (e.g.",
+        "Cavendish) and high risk areas (e.g. some down south areas)",
+        "Allow fields to dry as soon as possible just after rain by improving drainage / runoff",
+        "Keep minimum or no weed cover"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular visits to the farm to identify the characteristic small yellow lesions parallel to veins towards the leaf margin in lower most leaves",
+        "Check for drying out of leaf margins (in severe cases)",
+        "If the fourth leaf from the bottom is infected, chemical control measures should be applied"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove infected leaves and burn them",
+        "Field sanitation by removing old dried hanging leaves",
+        "Alternate spraying of a contact fungicide and a systemic fungicide",
+        "Chlorothalonil 500g/l",
+        "SC (30ml/ 10l)",
+        "Mancozeb 75% WG (20g/ 10l)",
+        "Tebuconazole 250g/l",
+        "EW (3.5 ml/10l)",
+        "Propiconazole 250g/l",
+        "EC (3.5 ml/ 10l)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Fungicides are sprayed only during epidemic conditions.",
+        "Alternate spraying of contact and systemic fungicides",
+        "Very toxic to aquatic organisms; Non systemic; WHO Class",
+        "U (Unlikely to present acute hazard in normal use)",
+        "Very toxic to aquatic organisms; Non systemic with protective action; WHO Class U",
+        "Toxic to environment; Moderately hazardous; Systemic with preventive, curative and eradicative action; WHO Class",
+        "II (Moderately hazardous)",
+        "Toxic to aquatic organisms; Risk to non-target insects; Systemic with protective and curative action; WHO Class",
+        "II"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellowing and drying of outer leaves (INIBAP)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Elongated brown leisions with yellow hallo and grey center (www.agric.wa.gov.au)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Drying out of leaf margins (www.apsnet.org)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Banana Yellow sigatoka"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Mango white scale on mango",
+  "sections": {
+    "Header": [
+      "Mango white scale on mango",
+      "Aulacaspis tubercularis Mango white scale"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use seedlings that are free of scales",
+        "Use recommended spacing and size of planting holes",
+        "Avoid movement of farm tools, animals, seedlings and fruits from infested areas to the orchard because they can spread the scales",
+        "Use recommended fertilizer rates and irrigation schedules for the mango orchard because healthy plants are less susceptible",
+        "Remove weeds and other plant residues from the orchard"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout the orchard fortinightly and inspect the whole plant particularly leaves, branches, twigs and growing points",
+        "Look for soft bodied white scales (1.5-3 mm in diameter) on upper side of the leaves and twigs.",
+        "Lift the white transparent scale covering to check for live females, crawlers and eggs under the scales",
+        "The females white scale changes to a pink colour when eggs are laid under the scale",
+        "Infested leaves turn pale green to yellow and leaves and branches can eventually die",
+        "Check fruits for external feeding conspicuous pink lessions can be seen around the feeding sites"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Prune to remove infested twigs, leaves and fruits and burn or burry more than 20cm deep",
+        "Remove unnecessary branches before flower setting and after harvesting of the fruit",
+        "Conserve natural enemies by not spraying during high peaks of natural enemies",
+        "Intercrop with sesame, soyabeans or haricot beans to improve the field diversity and to encourage natural enemies",
+        "Application of a liquid soap solution can reduce the problem.",
+        "Apply at a rate of 1-2 ml per 1 litre of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MoA, Plant",
+        "Health",
+        "Regulatory",
+        "Directorate, Ethiopia",
+        "Thiamethoxam (Spark 250",
+        "WG)",
+        "Apply as a drench, 6g of product in 1 litre of water per tree.",
+        "Neonicotinoid, IRAC Group 4A",
+        "WHO (II Moderately hazardous).",
+        "Must only be applied to healthy, actively growing trees.",
+        "Must only be applied as a soil drench application if a micro or drip irrigation system is present and not under dry land conditions .",
+        "PHI 130 days.",
+        "Toxic to bees do not apply when bees are active."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Femal adult mango scale insects (John W. Dooley, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Mango white scale on mango"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Mango white scale adult males on leaf (Luizpuodzius, wikimedia.com)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Feeding damage and female cover (John .A. Davidson, Univ. Md, College Pk, Bugwood.org)"
+      }
+    ]
+  }
+}

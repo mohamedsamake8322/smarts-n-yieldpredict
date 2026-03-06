@@ -1,0 +1,60 @@
+{
+  "title": "Anthracnose on citrus",
+  "sections": {
+    "Header": [
+      "Anthracnose on citrus",
+      "Colletotrichum gleosporioides Penz"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Till, irrigate regularly; lay mulch on the ground to keep humid and warm, thus preventing frost; get rid of stagnant water during raining season.",
+        "Prune during the winter to remove the infected twigs and leaves as well as the overcrowded ones; rake the fallen leaves and bury them outside the garden so as to reduce overwintering pathogen source.",
+        "Careful pruning to avoid physical damages, reducing the infection.",
+        "Careful harvesting and post harvest treatment of fruit is needed to prevent post-harvest losses."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Intensive monitoring to be carried out from",
+        "April to",
+        "September using 5 points sampling method at each plot; 100 to 200 leaves to be detected for the symptoms.",
+        "Symptoms: water-soaked, dark green lesions appear at leaf edge and leaf apex at earlier infection phase, then the lesions expand to cloud- like, yellow brown round lesions.",
+        "When climate is humid, dark red, sticky liquid drops could be found at the infected parts; when climate is dry, the infected parts turns to grey white and become dried, with large number of dark spots.",
+        "Direct control should be carried out immediately when leaves, twigs or fruits get infected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pruning infected leaves, twigs and fruits; burying them outside the garden.",
+        "Fruit bagging at fruit-set stage (late",
+        "October to early",
+        "November)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical pesticides must be applied strictly according to the prescribed dosages to avoid residue problems",
+        "Rotational application of pesticides to avoid resistance",
+        "Use of",
+        "PPEs is mandatory while using chemical pesticides",
+        "Propineb",
+        "WHO U, Spray at the early phase of infection, PHI: 7 days",
+        "Tebuconazole",
+        "WHO II, Spray at the early phase of infection, PHI: 14 days",
+        "Prochloraz",
+        "WHO II, Spray at the early phase of infection, PHI: 10~14 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Leaf damage (photo source: Baidu picture)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Anthracnose on citrus"
+      }
+    ]
+  }
+}

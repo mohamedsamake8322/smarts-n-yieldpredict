@@ -1,0 +1,99 @@
+{
+  "title": "Anthracnose of chilli & pepper",
+  "sections": {
+    "Header": [
+      "Anthracnose of chilli & pepper",
+      "Colletotrichum species ( C. capsici and C. gloeoesporioides )"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified seeds and do not use seeds from infected fields.",
+        "Extract seeds from healthy pepper plants (obtain seeds from healthy fruits)",
+        "Effectively destroy old plant debris through burning immediately afer harvest",
+        "Transplant only healthy seedlings from nursery",
+        "Chilli and peppers should be rotated every 2 years with other non-host crops (e.g. maize, sorghum or groundnuts)",
+        "Ensure good drainage on the fields",
+        "Control weeds effectively because of wide host range of pathogen."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor field after transplanting looking for early leaf spot lesions (dark brown to black spots).",
+        "Anthracnose can appear at any stage of development.",
+        "As plant grows, look for dieback in stem branches",
+        "Look also for black sunken lesions on matured fruits and fruit drop",
+        "Check for circular or angular sunken lesions with concentric rings on fruits",
+        "Use direct control measures at the first signs of disease.",
+        "Fungicides can be applied at first symptoms to reduce spread but preventative applications can also be used"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue and destroy early plants that show disease symptoms and burn to destroy",
+        "Apply mancozeb (80%) (e.g.",
+        "Agrithane 80WP, Benco 80WP, Damazeb 80WP Dizcozeb 80WP) at a rate of 75g/15L of water.",
+        "Multi-site broad spectrum fungicide.",
+        "FRAC group:",
+        "M3",
+        "Apply fosetyl-Al (e.g.",
+        "Chemoliete) at 35-40g/15L when symptoms persist.",
+        "Systemic fungicide, FRAC group: 33",
+        "Apply",
+        "Folpet (Folpan 50WP) at 45g/15L of water.",
+        "Broad spectrum, contact.",
+        "FRAC group:",
+        "M4",
+        "Apply",
+        "Maneb (e.g.",
+        "Trimangol 80WP, Kenmaneb etc) at a rate of 30-45g/15L.",
+        "Multi-site contact fungicide.",
+        "FRAC group:",
+        "M3"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance",
+        "Always consult the most recent list of registered pesticides of",
+        "MOFA, Ghana",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Apply 3 times in a season at 7-10 day intervals based on field situation.",
+        "REI-24hrs; PHI-14 days.",
+        "Very toxic to aquatic organisms - do not apply near waterways",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "REI-24hrs; PHI-14 days.",
+        "Apply 3 times in a season at 7-10 day intervals based on field situation.",
+        "Harmful to aquatic organisms",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "REI-24hrs; PHI-14 days.",
+        "Apply 3 times in a season at 7-10 day intervals based on field situation.",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use.",
+        "Start application as soon as symptoms are observed.",
+        "Spray at 7-10 day intervals.",
+        "Observe",
+        "PHI of 7days and",
+        "REI of 24hrs"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Chilli fruit with typical anthracnose lesion (AVRDC - The World Vegetable Center)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose on pepper (Thaddeus Peters, Ministry of Agriculture, Grenada)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Anthracnose of chilli & pepper"
+      }
+    ]
+  }
+}

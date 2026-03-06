@@ -1,0 +1,82 @@
+{
+  "title": "Maize lethal necrosis disease",
+  "sections": {
+    "Header": [
+      "Maize lethal necrosis disease",
+      "Maize lethal necrosis disease MLND is a combination of Maize chlorotic mottle virus and Sugarcane mosaic virus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Eliminate host plants of thrips, aphids and plant hoppers that can transmit this disease.",
+        "Clear and/or burn grasses around farm.",
+        "Use clean seeds from a reliable source or certified seeds every season.",
+        "Do not buy maize seeds from local markets.",
+        "Do not recycle maize seeds from your field.",
+        "Synchronize planting date among farmers of the area to break continuous disease spread between maize fields of farms.",
+        "Plant before rain onset.",
+        "Remove and burn maize stalks after harvesting if the disease is in your area.",
+        "If your farmland is less than 500 meter away from infected farms, avoid growing maize.",
+        "Rotate maize with non-cereal crops (e.g. beans, sunflowers) for three consecutive growing seasons."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Get informed about the outbreaks of this disease in your area because it is new in",
+        "Tanzania.",
+        "Regularly visit the farm to identify the presence/absence of thrips, aphids and plant hoppers on the crop.",
+        "Look under the leaves in the morning once per week from crop emergence onwards.",
+        "These insect transmit the disease.",
+        "If the disease is known to be in the area, and when 20 plants / quarter acre have these insects, consider controlling these insects.",
+        "Observe symptoms of the diseases e.g. yellowing of top leaves, followed by drying up of leafs from edges inwards, and premature drying of husks and tassels.",
+        "At late stage, maize plants will die in a scattered pattern across the field.",
+        "If the disease is detected, immediate action is advised.",
+        "Note the difference to grey angular leaf spot disease, which has in its early stage yellow stripes that are short (thin short angular) and not long along entire leaves as for",
+        "MLND.",
+        "Angular leaf spot rarely kills a plant.",
+        "Note the difference to maize streak virus which has thinner yellow stripes along leaves than",
+        "MLND.",
+        "Unlike",
+        "MLND, Maize streak virus usually does not lead to necrotic dead leaves and plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Entirely uproot and burn/bury the diseased plants as soon as possible.",
+        "Do not leave any diseased plant in the field as they will be a source of new infections.",
+        "Diafenthiuron products (Efenthiuron, Pegasus, and others)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There exist no preventive or curative chemical sprays against",
+        "MLND.",
+        "Chemical sprays against the virus transmitting insects only make sense if all diseased plants have been removed.",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Farmers are not allowed to buy and use",
+        "WHO toxicity class",
+        "Ia, Ib, II products without special permits (Plant",
+        "Protection",
+        "Act",
+        "Tanzania).",
+        "Always consult recent list of registered pesticides (MAFC / TPRI).",
+        "WHO toxicity class",
+        "III (slightly hazardous); diafenthiuron pesticide group; p.h.i. 7 d, r.e.i. 1 d, Max 3 sprays in min 10 d intervals, in mornings."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Plant infected with MLND after ear formation: dying of leaf edges (photo SARI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Yellowing and whitening at edges of leaves on young plant (photo SARI)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Maize lethal necrosis disease"
+      }
+    ]
+  }
+}

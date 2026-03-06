@@ -1,0 +1,95 @@
+{
+  "title": "Maize weevil on maize",
+  "sections": {
+    "Header": [
+      "Maize weevil on maize",
+      "Sitophilus zeamais Nankafumbwe"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove, burn and bury crop residues from the previous cropping season.",
+        "Farmers should cultivate varieties which are flat and with tip covers.",
+        "Harvest when the cobs have attained physiological maturity.",
+        "Select sound/healthy cobs after harvesting for shelling.",
+        "Shell and sun-dry the grains on cemented floors, plastic sheets, mats or tarpaulins.",
+        "Winnow and remove all damaged grains before treatment.",
+        "Use modern granaries and mini silos with no cracks and built-in, isolated, well-ventilated areas to store grains.",
+        "Treat old storage bags with hot water (50-60°C) for 5 mins and allow them to dry before storing grain.",
+        "Treat the grain before storage - see yellow column.",
+        "Place bagged maize on pallets.",
+        "Do not plant maize near the storage area."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor cobs at maturity to ensure timely harvesting.",
+        "Monitor cobs for maize weevil infestation.",
+        "Look for holes in the grains - the females lay eggs inside the grain and the larva eat the inside of the grain.",
+        "The adult weevils are small and brown with a long narrow snout.",
+        "Monitor for the presence of a bad smell in storage caused by weevil feeding.",
+        "Monitor for sounds in storage.",
+        "Weevils are known to produce sound when they are feeding, especially when their population is high.",
+        "Collect grain samples at random points and check for adult weevils or damage.",
+        "Treat produce when there are less than 5 weevils.",
+        "Record all treatments carried out on the stack card."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use metallic silos, cemented silos, clay pots or drums for storage of grain.",
+        "Use hermetic storage bags like",
+        "PICS bag, Agroz.",
+        "Pirimiphos-methyl 400g/L + Permethrin 100g/L (Super",
+        "Guard 50EC)",
+        "Pirimiphos methyl: organophosphate, IRAC 1B; Permethrin: a pyrethroid",
+        "IRAC 3A",
+        "Fenitrothion 50g/L + Deltamethrin 5g/5L (Wivokil)",
+        "OR Fenitrothion 10g/L + Deltamethrin 1.3g/Kg (Shumba super 200G, Shumba",
+        "Super",
+        "Max 200",
+        "G)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "Treat the grain soon after harvesting",
+        "and make sure it has dried sufficiently before storing in polypropylene or in sealed storage facilities",
+        "Both",
+        "WHO II – Moderately hazardous.",
+        "Bagged grain:",
+        "Dilute 200-400 ml in 5L water & apply 10 ml to 100 m2 of bag surface.",
+        "Loose grain: dilute 1 ml in 250ml of water and apply uniformly to 50kg of grain. 45 days treatment to consumption",
+        "Pirimiphos-methyl 16g/Kg + permethrin 4g/Kg (Super",
+        "Guard",
+        "Dust).",
+        "Pirimiphos methyl: organophosphate, IRAC 1B; Permethrin: a pyrethroid",
+        "IRAC 3A",
+        "Both",
+        "WHO II- Moderately hazardous.",
+        "Admix 25g/One box full with 50kg of shelled grain using a plate or shovel. 45 days treatment to consumption",
+        "Pirimiphos-methyl 16g/Kg + Thiamethoxam 3.6g/kg (Actellic",
+        "Gold dust)",
+        "As above.",
+        "Pirimiphos-methyl: organophosphate, IRAC 1B; Thiamethoxam: neonicotinoid, IRAC 4A As above.",
+        "Fenitrothion: organophosphate, IRAC 1B; Deltamethrin: pyrethroid, IRAC 3A"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult maize weevil (Georg Goergen/IITA Insect Museum, Cotonou, Benin)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize weevil on maize"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damage caused to maize cob by maize weevil (Frank Peairs, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

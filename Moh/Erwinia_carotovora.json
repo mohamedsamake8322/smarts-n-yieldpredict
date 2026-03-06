@@ -1,0 +1,73 @@
+{
+  "title": "Arabicum soft rot",
+  "sections": {
+    "Header": [
+      "Arabicum soft rot",
+      "Erwinia carotovora"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use clean seed/certified from reliable sources.",
+        "Control run-off or splashing of water from infected areas to avoid bacteria spread to healthy plants.",
+        "Avoid injuring the plants while weeding.",
+        "Practise crop rotation with crops such as maize, beans and garden peas.",
+        "Damage on",
+        "Arabicum bulb by soft rot (source:",
+        "S.",
+        "Kihara and",
+        "M.",
+        "Otipa",
+        "KALRO)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: carrots, potatoes, cucumbers, onions, tomatoes, lettuce and iris.",
+        "Look out for:",
+        "Leaves that rot from the tip downwards, later turn brown black and die off.",
+        "Rotten bulbs that crumble when pressed.",
+        "Foul smell from the rotten bulbs.",
+        "Regularly scout the",
+        "Arabicum crop and immediately remove diseased plants from the farm.",
+        "Take action when one plant is infected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and destroy (bury below 2 feet) all severely diseased plants as soon as they are detected.",
+        "Soil solarization in hot weather for one month and two months in cold weather can give some control.",
+        "Disinfect farm implements before using in clean sections of the farm (use jik solution diluted at a ratio of 50ml in 1L of water)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide always wear personal protective equipment",
+        "Follow the instructions on the product label, such as dosage, timing of application, max number of sprays, restricted re-entry interval",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Drench copper based fungicides e.g. isacop (70-140g/20L, cupracaffaro, Kocide 101 at the root zone of infected plant or those adjacent to infection sites",
+        "WHO class",
+        "III (Slightly hazardous) and",
+        "PHI of 7 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Yellowing of leaves and rotting of bulb in advanced soft rot infection (source: S. Kihara and M. Otipa KALRO)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Initial damage on Arabicum leaves (source: S. Kihara and M. Otipa KALRO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Initial damage on Arabicum leaves (source: S. Kihara and M. Otipa KALRO)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Arabicum soft rot"
+      }
+    ]
+  }
+}

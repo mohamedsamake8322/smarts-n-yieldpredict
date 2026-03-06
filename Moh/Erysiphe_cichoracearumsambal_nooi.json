@@ -1,0 +1,59 @@
+{
+  "title": "Bhendi Powdery mildew",
+  "sections": {
+    "Header": [
+      "Bhendi Powdery mildew",
+      "Erysiphe cichoracearumsambal nooi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Avoid planting during",
+        "November to",
+        "February in endemic areas",
+        "Maintain proper plant spacing (45 x 30 cm)",
+        "Avoid excessive application of nitrogenous fertilizer"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for white powdery growth on upper surface",
+        "Observe for shedding of severely infected leaves",
+        "Apply direct control measures when disease first observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray",
+        "Ampelomyces quisqualis @ 2% conc. at disease initiation stage"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators",
+        "Spray",
+        "Wettable sulphur @ 0.3% or",
+        "Propineb @ 0.25% at disease initiation stage and repeat at weekly intervals.",
+        "Wettable sulphur falls in",
+        "WHO class",
+        "III.",
+        "Propineb falls in",
+        "WHO class"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Powdery mildew infested leaves (MSSRF, Wardha VRC)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bhendi Powdery mildew"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Powdery mildew infested fruits. (MSSRF, Wardha VRC)"
+      }
+    ]
+  }
+}

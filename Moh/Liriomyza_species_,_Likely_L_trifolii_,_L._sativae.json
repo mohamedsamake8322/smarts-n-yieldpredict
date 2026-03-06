@@ -1,0 +1,85 @@
+{
+  "title": "Serpentine leaf miner on beans",
+  "sections": {
+    "Header": [
+      "Serpentine leaf miner on beans",
+      "Liriomyza species , Likely L trifolii , L. sativae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant crop varieties such as",
+        "Lukupa or",
+        "Kabulangeti",
+        "Where possible, cover small plants with transparent plastic (such as polytunnels) to prevent insects from laying eggs.",
+        "Weed out leguminous plants which can be alternative hosts such as sweet clover, Lathyrus, and many others.",
+        "Plant maize around beans because maize acts as a barrier against the leaf miners",
+        "Rotate beans with cereals, and not with legumes, tomatoes, garlic, onions, groundnut, rape, melon or cucumber."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor weekly at all growth stages of crop.",
+        "Look for tiny thread -like tunnels (mines) on the upper leaf sides.",
+        "Look for larvae inside tunnels or on the upper side of leaves (tiny legless maggots with no separate head, whitish transparent and later yellow-orange)",
+        "Threshold:",
+        "At 8 to 12 infected plants (with 5-6 infected leaves) per 100 plants, consider green direct control action.",
+        "If, after green direct control, leaf miner damage still increases up to 20 to 30 infected plants per 100 plants, then consider chemical action."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick heavily infested leaves with many leaf miner tunnels, and destroy them by crushing or burying them, or feeding them to cattle.",
+        "Spray neem extract against larvae onto leaves in the early morning or late evening.",
+        "Add a sticker such as liquid soap to the neem water mix.",
+        "Reach good leaf coverage.",
+        "Neem slightly enters the leaves and reaches some of the larvae inside the tunnel.",
+        "If possible cover soil under infested plants with plastic sheets to prevent larvae from reaching the ground and pupating"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a chemical pesticide or botanical pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "WHO toxicity class",
+        "II pesticides might not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides of",
+        "ZEMA",
+        "Dimethoate - based products, (Sinothoate, Dimethoate 40EC, and others) against leaf miner larvae.",
+        "Contact and systemic organophosphate group of pesticide, IRAC insecticide",
+        "Group 1B.",
+        "WHO toxicity class",
+        "II (moderately acute hazardous); Maximum 2 sprays per season at vegetative stage in min 2 week interval; pre- harvest interval p.h.i. 14 days.; restricted re- entry interval r.e.i. 3 days after spray; Broad spectrum pesticides that kill many natural enemies.",
+        "Toxic to pollinators, soil organisms like earthworms, and fish.",
+        "Double-check recent laws whether this pesticide is still allowed in",
+        "IPM",
+        "Imidacloprid - based products.",
+        "Usually used at 200g/L but double-check labels. (Premise 200SC, Amigo",
+        "GT, Ngenya",
+        "T450",
+        "FS , and others)",
+        "Systemic neonicotinoid insecticide group",
+        "IRAC 4.",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Max 2 sprays per season at min 7 day interval. p.h.i. 14 days, r.e.i. 3 days.",
+        "Highly toxic to pollinators such as bees, thus do not spray on flowering crop, and not when weeds are flowering and not near bee hives."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult leaf miner fly 1-2 mm (Source: Ian Marsman, CC By- NC-ND)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf miner larvae (3mm) before they begin to tunnel into the leaf (Source: Andrei Sourakov)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Serpentine leaf miner on beans"
+      }
+    ]
+  }
+}

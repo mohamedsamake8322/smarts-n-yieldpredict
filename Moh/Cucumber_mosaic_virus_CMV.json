@@ -1,0 +1,52 @@
+{
+  "title": "Cucumber mosaic virus on celery",
+  "sections": {
+    "Header": [
+      "Cucumber mosaic virus on celery",
+      "Cucumber mosaic virus (CMV)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The",
+        "CMV is transmitted by aphids so prevent the entry of this vector into the crop:",
+        "Plant natural barriers around the field with non- susceptible crops like poaceae (e.g. maize).",
+        "Use floating row covers to protect the seedlings from the winged aphids in the first weeks.",
+        "Remove for pollination.",
+        "The seeds of infected plants can serve as inoculum so only use certified seeds.",
+        "Avoid transplanting plants from affected areas or fields near these areas or from susceptible crops.",
+        "Remove weeds that can serve as reservoir plants (weeds and ornamentals are often asymptomatic) in and around the crop before transplanting, and continue to remove weeds throughout the crop cycle."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "The symptoms can vary widely depending on when infection occurs:",
+        "Leaves: at the beginning, vein clearing and mosaic patterns are seen and later leaves become yellow with vein necrosis.",
+        "Petioles: look for brown spots to translucent sunken lesions (distinctive symptom of the",
+        "Celery mosaic virus (CeMV).",
+        "Whole plant: if the infection is early in development, plants are stunted with yellow leaves, show vein necrosis and show distinctive brown elongated lesions or translucent sunken lesions on the petioles.",
+        "If the conditions are fresh or the infection happens late in the growing season, the symptoms may be hidden.",
+        "Monitor for aphids and virus symptoms once a week, especially early in the season when the crop is more vulnerable to the virus.",
+        "Apply control measures when aphids are seen in the field."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and burn the infected plants immediately.",
+        "To reduce the propagation of the aphids:",
+        "Use yellow sticky traps to attract and kill the winged aphids.",
+        "In the early morning or late afternoon, apply a solution of neem oil and soap (160-220 cc neem: 100 g of soap in 20",
+        "L of water) to both sides of the leaves.",
+        "There is no chemical control for this virus, and chemical insecticides are not effective to reduce the aphid population that transmits the virus."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Petioles showing brown sunken spots (William M. Brown Jr., Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Cucumber mosaic virus on celery"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Rodents on groundnut",
+  "sections": {
+    "Header": [
+      "Rodents on groundnut",
+      "Mus musculus, Rattus rattus, Arvicanthus niloticus"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove weeds, heavy mulches, and dense vegetative cover which provide rodents food and protection from predators and environmental stresses.",
+        "Use weed-free strips to serve as buffers around areas requiring protection.",
+        "Wire fences at least 12 inches above ground with a mesh size of 1/4 inch or smaller will help to exclude voles from the field",
+        "Put metal guards around stands of storage structures to prevent rodents from climbing and entering stores"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Additional relevant crops: maize, rice, sorghum, yam, cassava, sweet potato",
+        "Be alert for the presence of rats and mice both in production field and during storage.",
+        "Look for fresh trails in the grass, burrows, droppings, furs and evidence of feeding in the field and stores",
+        "Pay particular attention to adjacent areas that have heavy vegetation, because such areas are likely sources of invasions.",
+        "Frequently check protective devices to make sure meadow mice haven’t gnawed through or dug beneath the cylinders and are hiding inside the tree guard while they feed on the tree.",
+        "Take action when evidence of rodent presence as outlined above is clear"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Trap and destroy rodents using locally made traps baited with peanut butter-fish meal mixture.",
+        "Place traps at right angles to runaways with the trigger end on the runaway.",
+        "Use predators such as dogs and cats to to reduce rodent population in the area",
+        "Rodents can also be killed by hunting using catapults, and bows and arrows"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Rodenticides are available but are classed as highly hazardous by",
+        "WHO and so are not recommended here."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Rodents on groundnut"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult mouse (IRRI)"
+      }
+    ]
+  }
+}

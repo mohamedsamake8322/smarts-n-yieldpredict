@@ -1,0 +1,74 @@
+{
+  "title": "Iron deficiency in rice",
+  "sections": {
+    "Header": [
+      "Iron deficiency in rice",
+      "Iron deficiency"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Take soil to",
+        "KALRO Kabete, KEPHIS or",
+        "Soilcare for iron deficiency evaluation",
+        "If the soil test report indicates soil alkalinity, use acidifying ammonium fertilizers e.g. ammonium sulphate or urea and",
+        "Iron-containing fertilizers such as iron sulphate @ 6kg/acre in two split applications",
+        "Apply organic manures e.g.",
+        "FYM (farmyard manure) and disease-free crop residues to improve iron uptake.",
+        "Broadcast organic manure and mix with the soil during land preparation",
+        "At planting, place 2 handfuls of well- decomposed",
+        "FYM in each planting hole"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Check out symptoms in young emerging leaves",
+        "Check for light green chlorosis of all tissues between veins",
+        "Look for green viens between chlorotic areas",
+        "Older leaves are rarely affetced",
+        "In small grains, check for yellow stripes between veins"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Apply the following foliar sprays on growing plants to improve crop appearance:",
+        "Farmphoska",
+        "FE 13EDTA @ 6ml/ 20litres/acre or iron sulphate chelate @ 3% solution.",
+        "For kitchen gardens, dissolve 0.5 ml in 5 litres of water and spray on plant leaves.",
+        "Apply 2 handfuls of well decomposed",
+        "FYM in each planting hole"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Always wear protective gear when applying fertilizer and dissolving the foliar feed",
+        "Wash protective gear after application of fertilizer and foliar feed",
+        "Do not use fertilizer and foliar application apparatus for domestic use",
+        "Dispose of foliar holding containers safely",
+        "Keep foliar feed out of reach of children",
+        "Excessive liming and high application of phosphatic fertilizer e.g.",
+        "DAP (diammonium phosphate), NPK SSP (single superphosphate) can induce iron deficiency.",
+        "Follow soil test report recommendation on amounts of fertilizer to apply.",
+        "Apply ferrous iron sulphate @ 6 kg iron sulphate /acre in split application"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Rice leaves showing iron deficiency. Source: Dr Prakash Kumar"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Iron deficiency in rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Iron deficiency in rice. Source: IRRI"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Rice leaves showing the later stages of iron deficiency. Source: Dr Prakash Kumar"
+      }
+    ]
+  }
+}

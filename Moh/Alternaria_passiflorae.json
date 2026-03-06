@@ -1,0 +1,81 @@
+{
+  "title": "Brown spot on passionfruit",
+  "sections": {
+    "Header": [
+      "Brown spot on passionfruit",
+      "Alternaria passiflorae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant disease free seedlings from certified nurseries such as",
+        "KALRO-Thika, JKUAT, Good neighbours and other",
+        "HCDA registered nurseries.",
+        "Plant seedlings grafted to brown spot tolerant yellow passion fruit rootstocks.",
+        "To improve aeration use recommended spacing of 3 metres between plants and 2 metres between rows."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look out for:",
+        "Brown spots up to 10mm in diameter on the leaves extending along the veins and drying out in the centre.",
+        "Brown lesions on the stem that cause dieback when they occur at the leaf axils.",
+        "Spots that are light brown, round and sunken which often merge covering large areas and produce red brown spore masses.",
+        "Take immediate action once you see signs of the disease on one plant."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Remove and burn all infected plant parts.",
+        "Use drip irrigation and avoid overhead irrigation to reduce spread of pathogen.",
+        "Prune to promote proper orchard aeration and reduce disease build up.",
+        "Disinfect tools regulary e.g. by the use of jik solution 500ml in ten litres of water to prevent the spread of the fungus."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides always wear protective clothing",
+        "Always follow the instructions on the product label such as dosage, timing of application, PHI, maximum number of sprays, re",
+        "entry interval, etc.",
+        "Always consult current list of registered pesticides",
+        "Spray with",
+        "Carbendazim + Mancozeb based products such as",
+        "Saaf",
+        "WP at the rate of 25g/ 20lts of water",
+        "Spray with copper based fungicides such as cupracaffaro at the rate of 50gm/20lts of water",
+        "Spray with",
+        "Propineb based products like",
+        "Antracol",
+        "WP 70 at the rate of 50ml/20lts of water",
+        "Spray with saaf and alternate with",
+        "Antracol after 7 days and repeat again untill the disease is controlled"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO Toxicity class",
+        "IV; PHI 7 days",
+        "WHO Toxicity class",
+        "IV; PHI 3 days; WHO Toxicity class",
+        "U; PHI 7 days",
+        "WHO Toxicity class",
+        "III; PHI 7 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Passion fruit brown spot (Nicholas Kimeu)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Brown spot on passionfruit"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Brown spot ( Alternaria passiflorae ) (Daniel Kamaru)"
+      }
+    ]
+  }
+}

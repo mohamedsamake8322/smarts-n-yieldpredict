@@ -1,0 +1,78 @@
+{
+  "title": "Banana xanthomonas wilt",
+  "sections": {
+    "Header": [
+      "Banana xanthomonas wilt",
+      "Xanthomonas campestris pv. musacearum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "The bacterium can be spread by insects feeding on flowers of infected plants and then feeding on clean plants, and also via cutting tools contaminated with bacteria",
+        "Use healthy planting material:",
+        "Select planting material from areas where the disease is absent.",
+        "Obtain suckers from trusted sources.",
+        "Do not use suckers from banana plants affected by",
+        "BXW, even if the suckers appear healthy",
+        "Remove male buds by hand or with a forked stick.",
+        "Male buds need to be cut off quickly after the fruit has been set.",
+        "This is to reduce the risk of moving bacteria on cutting tools",
+        "Clean cutting tools.",
+        "Use household bleach (1 bleach : 4 water), solutions containing local plants with antibiotic activity, such as tobacco or chilli, or by passing through a flame.",
+        "Bleach is the most effective method for killing bacteria",
+        "Avoid the movement of animals in the banana plantation to prevent disease spread",
+        "Follow national regulations (local quarantine and restrictions, e.g. do not sell banana bunches from infected areas in",
+        "BXW free areas)",
+        "If an area has been infected, crop rotation using any other crop besides banana for 5-10 years"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly check crop at least 6 months after planting.",
+        "Observe 2-3 times per week",
+        "Thresholds:",
+        "Remove infected plants as soon as they are noticed; When there is up to 70% of banana disease incidence, uproot the whole plantation and bury the plants",
+        "Fruit:",
+        "Individual bananas start to go yellow while others in the bunch remain green",
+        "Fruit:",
+        "When cut open, the bananas have dark stains, including those that are green.",
+        "The bananas quickly blacken and eventually the whole bunch decays",
+        "Bracts:",
+        "Purple leaves of the male flower bud and shrivel, go black and die",
+        "Young leaves:",
+        "Leaves in the crown go yellow, fold in the centre and then collapse",
+        "To detect the disease, cut the fruit stalk and, once the milky juices stop oozing, look for small yellow dots (which may be difficult to see).",
+        "These indicate that the bacteria are blocking the flow of water and nutrients",
+        "A fungus disease of banana, known as",
+        "Fusarium wilt (Panama disease) also causes yellowing but on older leaves and fruits develop normally.",
+        "The most distinctive symptom of",
+        "Fusarium wilt is a dark staining inside the trunk, which is absent in bananas with bacterial wilt"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove trunks (pseudostems) showing symptoms of",
+        "BXW and dispose of these carefully.",
+        "Bury deeply or burn outside of the area of banana cultivation",
+        "Single stem removal will reduce the amount of bacteria capable of infecting new plants, but this will not eliminate the disease",
+        "Once the plant is infected there is no treatment to control the disease"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "BXW produces a distinctive premature ripening of fruit, which eventually rots (Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "BXW affects younger leaves, though, and leaves collapse inwards (Eric Boa, CABI)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Banana xanthomonas wilt"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "The rachis of an infected banana plant showing the yellow bacteria-laden ooze characteristic of Xanthomonas wilt (Pascale Lepoint, Bioversity International)"
+      }
+    ]
+  }
+}

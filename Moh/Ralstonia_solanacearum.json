@@ -1,0 +1,66 @@
+{
+  "title": "Bacterial wilt on Edible African Eggplant",
+  "sections": {
+    "Header": [
+      "Bacterial wilt on Edible African Eggplant",
+      "Ralstonia solanacearum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Actively remove weeds to reduce presence of alternate hosts.",
+        "Practice crop rotation with legumes, maize, onions and cabbage.",
+        "Plant in well-drained soil and avoid over watering.",
+        "Avoid injuring roots during field operations.",
+        "Use organic manure to suppress bacterial wilt pathogen.",
+        "Soil should be tested for presence of",
+        "Ralstonia solanacearum before planting seeds.",
+        "Farm tools must be disinfected before and after using on a farm by dipping in",
+        "JIK bleach."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the field frequently and observe for wilting and death of whole plants without yellowing or spotting.",
+        "Observe for fallen vegetative parts.",
+        "Infected plant parts are still green but have lost turbidity.",
+        "Take direct control action when one plant is infected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "There are no known fungicide/bactericides for curing bacterial wilt disease of eggplant.",
+        "However, if copper based fungicides are sprayed early enough they may suppress the infection.",
+        "Copper oxychloride products (e.g.",
+        "Isacop 50, 50 g/20",
+        "L of water, PHI 28 days).",
+        "Prune affected plant parts and destroy by burning or deep burying."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "PHI 7 days, toxic to aquatic organisms.",
+        "FRAC Code",
+        "M1.",
+        "Copper oxychloride:",
+        "WHO Class",
+        "II.",
+        "When using a pesticide, always wear protective clothing and follow product label instructions (e.g. dosage, timing of application, pre-harvest interval etc.).",
+        "WHO Class",
+        "II pesticides may not be allowed in local",
+        "IPM schemes.",
+        "Always consult recent list of registered pesticides in your country."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial wilt on Edible African Eggplant"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Bacterial wilt symptoms amongst crops (National Plant Protection Organization, Bugwood.org)"
+      }
+    ]
+  }
+}

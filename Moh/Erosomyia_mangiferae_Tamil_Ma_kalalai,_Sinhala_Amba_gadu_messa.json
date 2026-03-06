@@ -1,0 +1,53 @@
+{
+  "title": "Mango gall midge",
+  "sections": {
+    "Header": [
+      "Mango gall midge",
+      "Erosomyia mangiferae Tamil: Ma kalalai, Sinhala: Amba gadu messa"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Slash the weeds in and around the mango field",
+        "Conserveparasitoid wasps and ants.",
+        "Maintain the field free of infested plant debris",
+        "Use healthy planting materials"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor the new shoot carefully after pruning",
+        "Observe for small reddish-brown spots on tender leaves and inflorescence.",
+        "Observe swollen and soft leaf tissue under the brown spot",
+        "Monitor black to brown colour midges using yellow sticky trap around the field",
+        "Look for immature leaf fall"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Plough the land to expose the pupa to sunlight",
+        "Cover the soil under the canopy of the tree with polythene sheet to destruct lifecycle of the pest.",
+        "Create smoke under the tree by using coconut husk or other materials to repel adult insects"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical recommendation."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Mango gall midge"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damage on Mango leaves and twigs (S. Rajeshkanna)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Galls on leaf surface (S.Rajeshkanna)"
+      }
+    ]
+  }
+}

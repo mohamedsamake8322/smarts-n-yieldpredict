@@ -1,0 +1,68 @@
+{
+  "title": "Almond fungal shot hole",
+  "sections": {
+    "Header": [
+      "Almond fungal shot hole",
+      "Wilsonomyces carpophilus Shot hole"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Never irrigate too much as it increases the strength of the disease",
+        "Collect and remove fallen leaves and tree residues at end of the growing season.",
+        "Burn them as they can be the source of infection",
+        "Try to control aphids if you can because they can transfer the disease from tree to tree"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "In the month of",
+        "April and",
+        "May, look at the leaves of the almond trees.",
+        "Monitor the field twice a week in particular during those months",
+        "Leaves are pale green and see small spots that turn to brown and then leave a small hole in the leaf.",
+        "The leaf looks like a sieve when severely affected",
+        "When a few leaves on the tree have 2-3 holes in them, it is time to start the direct control"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Pruning of dried and diseased shoots during the growing season",
+        "Always prevent the excessive irrigation which cause severity of the pest",
+        "Spray copper oxychloride when you see symptoms for the first time",
+        "Spray concentration of 3-4 grams per litre",
+        "Lime sulfur at 1litre per 9 litre of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Do not eat drink or smoke whilst using chemicals of any kind",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label, such as dosage",
+        "timing of application, and pre",
+        "harvest interval",
+        "During the use of pesticides, prevent children and animals from entering the field",
+        "Change your clothes and wash your body and face after using chemicals",
+        "Keep pesticides out of reach of children",
+        "The spray intervals should be 7 days",
+        "Copper oxychloride is a",
+        "Class",
+        "II WHO chemical; Classified as moderately hazardous",
+        "Lime sulphur is slightly hazardous; Class",
+        "III; may be harmful if swallowed or absorbed through the skin",
+        "Spray during dormant period in winter.",
+        "Don’t use it for",
+        "Apricot."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Shot hole lesions on fruit and leaf of almond. Photo by Jack Kelly Clark, UC IPM Project"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Almond fungal shot hole"
+      }
+    ]
+  }
+}

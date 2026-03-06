@@ -1,0 +1,99 @@
+{
+  "title": "Brown planthopper on rice",
+  "sections": {
+    "Header": [
+      "Brown planthopper on rice",
+      "Nilaparvata lugens Badami gach foring, current poka"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use 20x20 cm spacing and double spacing every 10 rows",
+        "Cultivate short duration varieties in",
+        "BPH prone areas, e.g.",
+        "BRRI dhan28",
+        "Judicious use of",
+        "N-fertlizer",
+        "Remove weeds from the field and surrounding areas",
+        "Practice alternate wetting and drying in rice production"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Use light traps to monitor the presence of",
+        "BPH Visit field weekly starting from early",
+        "February in",
+        "Boro (dry) season and",
+        "August in",
+        "Aman (wet) season, observe the lower canopy",
+        "Consider economic threshold levels (ETL), which is 4 gravid females/hill or 10 nymphs/hill from direct visual counts (random)",
+        "Insecticide should not be applied if there are spiders in more than 50% of the rice hills",
+        "Only apply an insecticide to a seedbed if there is more than one",
+        "BPH per stem"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "In",
+        "BPH prone area, apply additional 40 kg/ ha potash fertilzer during third urea topdressing",
+        "Drain out the standing water to reduce humidity in the crop",
+        "Drain water completely from the field for a week.",
+        "Then apply intermittent (weekly) irrigation"
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Don't use synthetic pyrethroids e.g. cypermethrin",
+        "Avoid indiscriminate insecticide use as it may destroy natural enemies, e.g. spiders, mirid bugs, water striders",
+        "Carbosulfan 20EC at the rate of 1",
+        "L / ha, mixed with 600 to 800",
+        "L water.",
+        "Attention should be taken to apply insecticide at the base of the hill.",
+        "In that case double nozzle sprayer should be used",
+        "If exceed",
+        "ETL, use",
+        "Diazinon 60EC at the rate of 1",
+        "L / ha, mixed with 600 to 800",
+        "L water.",
+        "Attention should be taken to apply insecticide at the base of the hill.",
+        "In that case double nozzle sprayer should be used",
+        "If exceed",
+        "ETL, use",
+        "Chlorphyrifos 20EC at the rate of 1",
+        "L / ha, mixed with 600 to 800",
+        "L water.",
+        "Attention should be taken to apply insecticide at the base of the hill.",
+        "In that case double nozzle sprayer should be used"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Carbosulfan",
+        "WHO II; IRAC 1a",
+        "Diazinon",
+        "WHO II; IRAC 1b",
+        "Chlorphyrifos",
+        "WHO II; IRAC 1b"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Brown planthopper nymph (source: NBAIR)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "N. lugens : nymphs and exuviae on stem (source: Ernst Neering)"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Nilaparvata lugens adult (source: CABI)"
+      },
+      {
+        "file": "p1_img7.png",
+        "caption": "Brown planthopper on rice"
+      }
+    ]
+  }
+}

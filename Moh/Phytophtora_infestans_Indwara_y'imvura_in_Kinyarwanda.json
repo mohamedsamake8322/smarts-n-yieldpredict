@@ -1,0 +1,88 @@
+{
+  "title": "Late blight on Irish potato",
+  "sections": {
+    "Header": [
+      "Late blight on Irish potato",
+      "Phytophtora infestans Indwara y'imvura in Kinyarwanda"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use of tolerant varieties (e.g:",
+        "Cruza)",
+        "Plant certified seed that is free of late blight (from",
+        "RAB and seed multipliers)",
+        "Crop husbandry:",
+        "Select site with good drainage and avoid fields bordered by trees and dense vegetation; Weeding to reduce moisture around the plant; Eradication of source of inoculum by removing plant residues; Respect planting time (September to",
+        "October for season",
+        "A and",
+        "February-March for",
+        "Season",
+        "B); Harvesting at suitable time; Earthing; Water management; Rotate with maize, wheat, or beans after each season",
+        "Wash field equipment and machinery after use",
+        "Avoid free movement of animals in the field",
+        "Remove volunteers potatoes and",
+        "Solanum weeds as secondary source of inoculum.",
+        "Follow phytosanitary regulations on movement of planting materials",
+        "Before you see symptoms you can spray fungicide (Metalaxyl to prevent the disease) - See yellow direct control",
+        "For avoiding serious build up of disease, choose early maturing variety",
+        "Use of recommended fertilizers (300kg/Ha of",
+        "NPK 17-17-17) to avoid too much nitrogen fertilizer as this may increase the vegetative growth, and consequently delay the time to crop maturity."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Inspect the field frequently (every two/ three days after sprouting)",
+        "The first symptoms are small light to dark green, circular to irregular- shaped water-soaked spots.",
+        "These lesions usually appear first on the lower leaves.",
+        "Lesions often begin to develop near the leaf tips or edges, where dew is retained the longest.",
+        "Examine also the white mycelium on the underside of the leaf and stems throughout the canopy.",
+        "Act immediately when first symptoms are noticed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove dead leaves",
+        "Cut off stems three weeks before harvesting for reducing the infection of tubers",
+        "Mancozeb: 50-70 g/tanks of 15",
+        "L, 480",
+        "L/ha."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Wear full protective clothing such as a long",
+        "sleeved shirt, long pants, rubber gloves, boots, glasses, etc.",
+        "Do not allow product to enter the waterways or sewer",
+        "Do not smoke, drink, eat and chew anything while spraying and store away from foodstuffs, empty foodstuffs containers and animals feed",
+        "Chemical sprayers and mix tanks have to be cleaned in designated areas",
+        "Metalaxyl.",
+        "Mode of action:",
+        "Systemic; Rate of application: 40-50g/20L of water",
+        "Metalaxyl:",
+        "WHO Class",
+        "II (moderately hazardous); 1 to 2 times until harvesting; PHI 7 days.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use); Mode of action: contact; PHI 7 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Tuber affected by late blight (Source: http://www.gnb.ca)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptom of late blight on potato leaf. (Source: NDSU)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Symptoms of late blight on the stem of potato (Source: NDSU)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Late blight on Irish potato"
+      }
+    ]
+  }
+}

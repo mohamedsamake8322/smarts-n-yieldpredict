@@ -1,0 +1,70 @@
+{
+  "title": "Cassava Brown Streak Disease",
+  "sections": {
+    "Header": [
+      "Cassava Brown Streak Disease",
+      "Cassava Brown Streak Virus Kinyarwanda: Kabore"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties such as",
+        "NASE 14, NAROCASS 1.",
+        "Plant virus-free' planting material from inspected fields (RAB and seed multipliers)",
+        "Do not move cassava cuttings from affected areas to new fields.",
+        "Uproot and bury all cassava volunteer plants",
+        "Dry all stems after harvesting and use them as fire wood or stakes.",
+        "Do not leave them on the farm",
+        "Remove weeds to discourage habitat for the vectors"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for interveinal chlorosis and chlorotic blotches on lower/old leaves 3 months after planting, once a month until harvesting time.",
+        "Check for dark brown streaks on upper, young green stem 6 months after planting.",
+        "In severe cases there may be leaf drying and shoot die-back",
+        "Observe brown necrosis and hard rot inside the tuber when you cut it at 10 months after planting.",
+        "It often causes reduction in root size, root constriction and malformation.",
+        "Threshold:",
+        "Take action when one infected plant is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove diseased plants, dry them and use them as fire wood or stakes for climbing crops like beans.",
+        "Early harvesting at least 10 to 12 months after planting to reduce yield losses."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical control against viruses",
+        "Use of pesticides to control vectors (whiteflies) on cassava is not pratical: insecticides can kill natural enemies such as",
+        "Apoanagyrus lopezi released before 1990 to control cassava mealybugs and",
+        "Typhlodromalus aripo (natural enemy of cassava green mites).",
+        "Wear always",
+        "Personal",
+        "Protection equipments (PPE) and follow the instructions on the product label.",
+        "Respect and follow laws regulating pesticides use in",
+        "Rwanda."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Brown rot on tuber (Source: ASARECA)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Chlorosis on leaf (Source: ASARECA)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Dark brown streaks on stem (Source: ASARECA)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Cassava Brown Streak Disease"
+      }
+    ]
+  }
+}

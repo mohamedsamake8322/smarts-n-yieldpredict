@@ -1,0 +1,84 @@
+{
+  "title": "Stem borer in maize",
+  "sections": {
+    "Header": [
+      "Stem borer in maize",
+      "Buseola fusca , Chilo partellus , Sesamia calamistis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove infested stems and stubbles from the previous harvest and destroy by composting or shred for mulch and use in plantain farm away from maize.",
+        "Rotate maize with cassava, root crops or legumes and come back to plant maize after 2 years.",
+        "Remove leftover maize, sorghum, millet and/or alternate hosts (elephant grass, guinea grass) to reduce carry over of larvae from one growing season to next.",
+        "Modify sowing periods by planting early in the major and minor rain seasons to avoid periods of heavy infestation.",
+        "Intercrop with legumes such as cowpea, or cassava to reduce the incidence of stem borer infestation on maize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor 3 weeks after planting.",
+        "Larvae are creamy-white to yellowish-brown, with dark- brown spots on the back.",
+        "They can grow up to 25 mm long.",
+        "The larvae are found in the leaf funnels, causing scars and holes by feeding.",
+        "They later feed at the growing point, which may be killed (death of the growing point of the plant = dead heart); especially seen in young plants.",
+        "Look for older larvae burrowing into stems and into cobs, weakening the stems, which may break and lodge.",
+        "Then, direct control is too late.",
+        "Early control can be considered when 5-10% of young plants are damaged, meaning having feeding holes in leaves."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "When young larvae have not yet entered stalks consider spraying hot pepper solution (50g/L) onto young plants every 10 days until tasseling.",
+        "Pour ash dust (half matches box) into leaf- funnel of knee- high young plant.",
+        "Spray",
+        "Neem extract 50-60ml per 15 litres of water onto young plants every 10-14 days until flowering if threshold is reached.",
+        "Apply",
+        "Deltamethrin-based products (check product label for dosage).",
+        "It is a",
+        "Pyrethroid with a contact and stomach poison (2-3 weeks persistence in field).",
+        "IRAC mode of action 3A",
+        "Chlopyriphos ethyl-based products (e.g.",
+        "Dursban 4E, Pyrinex 48EC, Conpyrifos).",
+        "Usually at a rate of 60-70mls per 15L knapsack sprayer, but check labels as product differs.",
+        "A contact and ingested organophosphorus insecticide; IRAC mode of action 1B"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply products onto young plants particularly onto or into leaf sheath funnels when larvae are still on leaves.",
+        "When larvae are inside stems or cobs, spraying has no effect",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre- harvest interval, maximum number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Always consult the most recent list of registered pesticides of",
+        "EPA, Ghana.",
+        "WHO toxicity class",
+        "II (Moderately hazardous); restricted re-entry interval r.e.i. ½ day; pre-harvest interval p.h.i. 3 days.",
+        "High risk to predators, pollinators; to fish and other aquatic organisms.",
+        "Do not contaminate surface waters or ditches; do not apply to plants suffering from drought or other physical distress; do not spray within 6m of field boundary.",
+        "WHO class",
+        "II (Moderately hazardous).",
+        "Repeat application twice if the pests persist and reaches threshold.",
+        "Apply early morning or late afternoon, maximum two times per planting season. p.h.i. 35 days; r.e.i. 3 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Maize affected by the stem borer feeding inside (IITA, CC BY-NC)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Larvae of maize stem borer creamy-white to yellowish- brown, with dark-brown spots on back. About 25 mm long when fully grown. (NBAIR)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bore holes by larvae on the stem near the nodes. (S. Eyres, Department of Agriculture WA)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Stem borer in maize"
+      }
+    ]
+  }
+}

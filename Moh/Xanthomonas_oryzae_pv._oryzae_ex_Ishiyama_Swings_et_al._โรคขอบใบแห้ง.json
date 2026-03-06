@@ -1,0 +1,69 @@
+{
+  "title": "Bacterial Blight on rice",
+  "sections": {
+    "Header": [
+      "Bacterial Blight on rice",
+      "Xanthomonas oryzae pv. oryzae (ex Ishiyama) Swings et al. โรคขอบใบแห้ง"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Rice field sanitation (plough soil up and over to expose to the sun)",
+        "Use resistant varieties such as",
+        "RD23, SPR60, SPR90, NSG19, etc.",
+        "Avoid susceptible varieties in the hot spots for bacterial blight disease (e.g.",
+        "RD47, RD41, PSL2, KDML105, RD15 and",
+        "RD6)",
+        "Avoid mono-rice variety",
+        "If sowing use seed rate of 15-20 kg/rai",
+        "Apply lower rate of",
+        "Nitrogen fertilizer(<25 kg/rai in fertile soil)",
+        "If need to apply fertilizer, split fertilizer application 2 times (~10 kg/rai each time)",
+        "Crop rotation (not with peanut or mungbean)",
+        "Plant no more than 2 rice crops/year"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly visit rice field every two weeks (if 10% disease incidence/area need to control)",
+        "Monitor conditions to be prepared for disease outbreak: monitor the weather such as temperature (28ºC), humidity (RH over 80%), heavy raining (high level of water in the rice field and windy). clay soil and fertile field will be favourable for disease development and epidemic"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Do not drain water from infected rice field to another rice field to reduce source of infection in irrigated rice area",
+        "Re-planting (less than 1 month rice seedling)",
+        "Bacbicure (merpazole)",
+        "Copper oxychloride",
+        "Copper hydroxide"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "WHO II WHO II WHO II",
+        "Copper sulfate",
+        "Apply bactericide when 10% of disease incidence found in the rice field.",
+        "Rotate the bactericides and fungicide as this will induce resistance in",
+        "Xanthomonas oryzae pv. oryzae"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Leaf blight symptom and bacterial ooze at maximum tillering stage (Payorm Corbelli)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bacterial Blight on rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Severity of bacterial leaf blight symptom (Payorm Corbelli)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Wilt or Kresek symptom at seedling stage (Payorm Corbelli)"
+      }
+    ]
+  }
+}

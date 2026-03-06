@@ -1,0 +1,70 @@
+{
+  "title": "Damping off on tomatoes",
+  "sections": {
+    "Header": [
+      "Damping off on tomatoes",
+      "Phytophthora, Pythium, Rhizoctonia, Fusarium spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "This disease is caused by different fungi that live in damp wet soils.",
+        "Plant certified seeds that have been fungicide-treated (e.g. copper oxychloride).",
+        "Sterilize the soil by burning plant debris on the nursery site before seeding and incorporating the hot materials into the soil surface.",
+        "Or, in hot weather, cover the site with black plastic sheets for a week to heat up the soil and kill the pathogen.",
+        "Plant disease-free seedlings.",
+        "Avoid planting in previously affected areas.",
+        "Avoid planting tomatoes in periods of heavy rains.",
+        "Select nursery sites far away from tomato fields which are not too shaded or humid.",
+        "Ensure there is good soil drainage by elevating seed beds and mixing top soil with a thin coating of sand and gravel.",
+        "Do not over water because this favours the disease.",
+        "Minimise leaf wetness by irrigating early in the day and using a drip irrigation system instead of overhead irrigation.",
+        "Maintain a low soil pH by encoporating organic matter into the soil, such as compost, composted manure or acidic mulches.",
+        "Apply a thin layer of sand, perlite or sphagnum peat moss on the soil surface to discourage fungi and bacteria.",
+        "Ensure aeration through spacing of seeds (>5 cm (2”) space) and staking of plants with wooden sticks.",
+        "Disinfect seedling pots and trays with bleach (=NaOCl) before storage.",
+        "Wear gloves or wash hands with water afterwards."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Look for symptoms on seedlings every day during the first 3 weeks after sowing.",
+        "When tomato seedlings reach the 3- leaf stage, they are less susceptible.",
+        "Search for areas of poor germination in seedbed, because this disease may rot seeds before or during germination.",
+        "Look out for:",
+        "Thin and tough stem of the seedline (wirestem) resulting in reduced seedling vigour.",
+        "Dark, water-soaked, soft lesions on stem bases of seedlings.",
+        "Seedlings wilt and fall over.",
+        "Fuzzy white substance on the surface of the damp soil.",
+        "Consider taking action as soon as one plant is affected."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "It is easier to prevent this disease than to control it.",
+        "Move unaffected seedlings away from those that are showing symptoms in order to reduce spread.",
+        "Uproot diseased seedlings and young plants.",
+        "Bury deeply (to at least 50 cm), or burn.",
+        "Do not compost as the damping off fungi may stay alive and spread.",
+        "Drench with",
+        "Trichoderma based products."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Rhizoctonia damping-off, blight and rot ( Rhizoctonia solani ) (University of Georgia Plant Pathology, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Rhizoctonia damping-off, blight and rot ( Rhizoctonia solani ) (University of Georgia Plant Pathology, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Damping off on tomatoes"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damping off disease of kale (Edward Owiti - Dudutech IPM Solutions)"
+      }
+    ]
+  }
+}

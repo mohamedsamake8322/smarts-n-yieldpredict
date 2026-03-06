@@ -1,0 +1,67 @@
+{
+  "title": "Anthracnose of Chillies - Nepal",
+  "sections": {
+    "Header": [
+      "Anthracnose of Chillies - Nepal",
+      "Colletotrichum capsici, Glomerella cingulata, C. acutatum , and C. coccodes खुसा ᭅनीको को ᮢे रोग"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove and destroy crop debris and weed plants especially if they are susceptible to the disease.",
+        "Rotate crop for 2-3 years with non-solanaceous crops (e.g. cowpea, cucumber, pea etc.)",
+        "Mulch to reduce rain splashes to avoid inoculum dispersal.",
+        "Avoid dense planting.",
+        "Plant 30-40cm apart with 90cm row spacing.",
+        "Avoid overhead irrigation, water the soil directly to keep leaves dry and reduce spore dispersal.",
+        "Maintain proper drainage.",
+        "Harvest fruits as soon as they ripen.",
+        "Use disease-free seed.",
+        "Practice deep ploughing at the end of the season."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor field for drying of twigs or branches from the tip (dieback) and irregular tan/ brown lesions with darker brown borders in leaves at weekly interval at vegetative stage.",
+        "Inspect fruit at ripening stage for sunken lesions with blackish fungal growth, usually in rings.",
+        "In humid weather, observe orange/pink spore masses on lesions."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Drain out excess water if the plot gets water-logged.",
+        "Without spreading the disease, carefully remove diseased plants, plant parts (diseased twigs) and fruit and dispose of in a pit (at least 50cm deep) outside the field or burn."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protection equipment (PPE) while using fungicides.",
+        "Seed treatment with captan 50% WP @ 2 gm per kg seed or carbendazim 50% WP @ 2 gm per kg seed",
+        "Captan & carbendazim:",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use)",
+        "Spray copper oxychloride (COC) 50% WP @ 2 g/litre water at first visible symptom observed in leaves and twigs and during fruit setting period.",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "COC has 21 day waiting period.",
+        "Spray carbendazim 50% WP @ 2 g/litre water during fruit setting period.",
+        "WHO Class",
+        "U, Carbendazim has 14 day waiting period."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Sunken lesions on fruits with dark fungal growth (Source: Thaddeaus Peters, MoA Grenada)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Anthracnose on leaves (Source: UAS Raichur, Agropedia)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose of Chillies - Nepal"
+      }
+    ]
+  }
+}

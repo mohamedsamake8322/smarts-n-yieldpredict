@@ -1,0 +1,81 @@
+{
+  "title": "Purple Blotch on onion",
+  "sections": {
+    "Header": [
+      "Purple Blotch on onion",
+      "Alternaria porri"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use certified or disease free seeds.",
+        "Grow recommended varieties:",
+        "Red",
+        "Creole, Pyramid, Texas",
+        "Grano.",
+        "Maintain field sanitation: remove all debris and volunteer crops before transplanting.",
+        "If the disease is present in the soil practice crop rotation: break of three years and rotate with non host crops like maize, cabbage, beans or tomatoes.",
+        "Ensure correct spacing: 30cm by 10cm.",
+        "Keep the area around onions weed free to increase air circulation, which will allow plants to dry rapidly from dew or irrigation water.",
+        "Consider control of onion thrips if they are present as they spread the disease."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor onion plants from emergence once every week.",
+        "Initial symptoms are small white lesions mostly on the older leaves.",
+        "As the disease progresses the lesions enlarge and become purplish with light yellow concentric rings on the margins.",
+        "Leaves may turn yellowish-brown, lose erectness and eventually wilt, if the disease is not controlled.",
+        "Take action when first symptoms are seen.",
+        "Younger leaves become more susceptible as the bulb matures.",
+        "If the pathogen enters neck wounds during harvesting, bulbs can also be infected, making them to eventually become papery.",
+        "At harvest bulbs need to be checked for signs of the disease around the bulb neck.",
+        "Any affected bulbs should be destroyed as this disease can cause post-harvest losses."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Rogue out infected plants that show symptoms and burn.",
+        "Spray mancozeb (Dithane",
+        "M45), a protective fungicide at the rate of 20g per 10 litres every two weeks.",
+        "FRAC Code",
+        "M3",
+        "Spray chlorothalonil 720g/l (Bravo, daconil) at the rate of 20 grams per 10 litres of water",
+        "FRAC Code",
+        "M5"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides.",
+        "WHO class",
+        "U (Unlikely to prevent acute in normal use).",
+        "Fungicide spraying on leaves should commence with the appearance of symptoms on leaves.",
+        "Rotate the fungicides to prevent development of resistance-can alternate with propiconazale.",
+        "PHI and",
+        "REI is 3 days.",
+        "WHO class",
+        "U (Unlikely to prevent acute in normal use).",
+        "PHI and",
+        "REI is 1 day.",
+        "Apply as soon as you see the disease and repeat every two weeks.",
+        "Wet and humid conditions are conducive condtios for the spread of the disease therefor spray as soon as the conditions are attained."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Typical eliptical shaped lesion with concentric rings on the leaves (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Purple Blotch on onion"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Lesion on the neck area of the onion (Howard F. Schwartz, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

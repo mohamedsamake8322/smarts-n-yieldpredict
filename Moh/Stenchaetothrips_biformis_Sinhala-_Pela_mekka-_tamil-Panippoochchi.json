@@ -1,0 +1,77 @@
+{
+  "title": "Thrips on Rice",
+  "sections": {
+    "Header": [
+      "Thrips on Rice",
+      "Stenchaetothrips biformis Sinhala- Pela mekka/ tamil-Panippoochchi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Timely cultivation (for",
+        "Maha season mid",
+        "October and yala season",
+        "April).",
+        "Synchronized cultivation.",
+        "Use of recommended seed rates(for long grain rice- Broadcasting- 100kg/Ha, Trans planting- 50 kg/ha, Parachute – 10-12 kg/ha)",
+        "Seed treatment (Refer",
+        "Yellow",
+        "Direct control)",
+        "Use of recommended fertilizer.",
+        "Use of enough compost where possible."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start random observation after crop establishment.",
+        "To monitor, move wet hand across top of plants and count thrips who stick to hand",
+        "Observe for rolled edges of leaves and drying from tips.",
+        "Damaged leaves have silvery streaks and translucent marks.",
+        "Both the larva and adult fold the leaf longitudinally to form a protective chamber.",
+        "Typical symptoms also include stunting and wilting or scorching.",
+        "In severe infestations, seedlings may be killed."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Flood field for two -three days if population is high.",
+        "Impound water and drag banana logs."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "For seed treatment:",
+        "Thiamethoxam 70%WS 20g/500ml water/100kg seed. (In late planting seed treatment is strongly advisable.)",
+        "WHO Class",
+        "IV.",
+        "Toxic to bees",
+        "For foliar application:",
+        "Apply foliar sprays when 50% of leaves/ hill show damage symptoms",
+        "Ethiprole 100g/l",
+        "SC -320-400ml per ha (10 ml/10 l)",
+        "WHO class",
+        "IV Carbosulfan200g/l",
+        "SC - 640-800ml per ha (20 ml/ 10 l)",
+        "WHO Class",
+        "II Diazinon 500g/l",
+        "EW- 480-600ml per ha (15 ml/ 10 l)",
+        "WHO Class",
+        "II"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Thrips on Rice"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Damage field Photo by G.D.S.N.Chandrasiri"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "nymphs of rice thrips"
+      }
+    ]
+  }
+}

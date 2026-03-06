@@ -1,0 +1,72 @@
+{
+  "title": "Anthracnose on mangoes",
+  "sections": {
+    "Header": [
+      "Anthracnose on mangoes",
+      "Glomerella cingulata (asexual stage: Colletotrichum gloeosporioides)"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties such as",
+        "Tommy atkins, Irwin and",
+        "Zill to reduce losses",
+        "Pruning may help in reducing prolonged wetness which is ideal for disease development",
+        "Remove old diseased branches, leaves and twigs from orchard before planting new trees"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Weekly scouting",
+        "Check for brownish black sunken spots on leaves, twigs and inflorensence especially under warm, humid conditions",
+        "Check for dark affected areas from the tip backwards on new twigs and defoliation of new shoots in severe cases defoliation of the young shoots.",
+        "Check for dark sunken lesions on the fruits usually as they mature",
+        "Check for linear necrotic regions on the fruit that may or may not be associated with superficial cracking of the epidermis, which may even cause fruits to develop wide, deep cracks in the epidermis that extend into the pulp"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove all the dead leaves, twigs from the mango farm and burn them",
+        "Where possible destroy all flowers that have failed to set fruits",
+        "Pluck and destroy all infected fruits"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray with",
+        "Mancozeb (eg.",
+        "Dithane",
+        "M45 800wp, Emthan",
+        "M45) at a dilution rate of 20g/10L of water when flowers appear but before flowers open.",
+        "Carry out second spray at fruit set and repeat there after at 14-21 day intervals.",
+        "Apply a full cover spray if you have a mist brower (motorized sprayer), although a knapsack sprayer can be used in the nursery.",
+        "Do not apply after fruits reach golf ball size.",
+        "WHO Class",
+        "U - Unlikely to present acute hazard in normal use",
+        "Spray with",
+        "Copper",
+        "Hydroxide at a rate of 20g/10L of water at 4 weeks interval from end of flowering up harvest.",
+        "During extended wet weather, spray every 14 days.",
+        "Alternate with",
+        "Mancozeb as above",
+        "WHO Class",
+        "III - Slightly",
+        "Hazardous."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Fruit symptoms. Photo by Scot Nelson, CC BY"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Anthracnose on mangoes"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Symptoms on stem. Photo by Scot Nelson, CC BY-SA"
+      }
+    ]
+  }
+}

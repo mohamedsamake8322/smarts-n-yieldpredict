@@ -1,0 +1,58 @@
+{
+  "title": "Paddy mites",
+  "sections": {
+    "Header": [
+      "Paddy mites",
+      "Oligonychus oryzae senchilanthi"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Sowing in the month of early",
+        "April.",
+        "Maintain",
+        "Blackgram (Variety",
+        "ADT 5), and cowpea as border crops to encourage multiplication of natural enemies like predatory mites, coccinellid beetles, anthocorid bugs, and staphylinid beetles"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for the occurrence of eggs, nymphs and adults on the lower surface of the leaves using a hand lens during hot summer and humid climate (May – June), Take immediate action.",
+        "Observe for the development of intermittent red and yellow patches on the leaves and whitening of leaves."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Flood the nursery with water for about 15 minutes and then drain.",
+        "Application of 3% Neem oil @ 100ml/ 8 cents of nursery."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Use of personal protective equipment (PPEs) such as",
+        "Hand gloves, mask, Goggles and keeping antidotes are mandatory by the spray applicators.",
+        "There is no known direct control of",
+        "Paddy mites."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Eggs of paddy mites (MSSRF)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Paddy mites"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Nymphs of Paddy mites. Source: MSSRF, Thiruvaiyaru VRC."
+      }
+    ]
+  }
+}

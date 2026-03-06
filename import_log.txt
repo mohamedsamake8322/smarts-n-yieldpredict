@@ -1,2 +1,0 @@
-=== Nouveau log de traitement === 
-Répertoire actif : C:\smarts-n-yieldpredict.git 

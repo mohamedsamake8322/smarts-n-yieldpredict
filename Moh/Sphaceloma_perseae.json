@@ -1,0 +1,57 @@
+{
+  "title": "Avocado scab",
+  "sections": {
+    "Header": [
+      "Avocado scab",
+      "Sphaceloma perseae"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prune the canopies regularly to improve air circulation and the penetration of sunlight.",
+        "Use resistant or tolerant varieties.",
+        "Remove fallen rotten fruits and fallen leaves from the orchard and bury or burn them.",
+        "Injuries caused by thrips create entry wounds and exacerbate scab development.",
+        "Control thrips in the orchard:",
+        "Add coarse organic mulch (composted yard waste) beneath trees and maintain the mulch layer 6 inches thick to help reduce the survival of thrips that drop from trees to pupate.",
+        "Encourage the presence of natural enemies (predatory thrips, green lacewings and parasitoids) by reducing the use of chemicals."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "During cool and moist weather, look on young, succulent tissues of leaves, twigs and fruits for symptoms:",
+        "Fruits:",
+        "Small brown to purple-brown, oval to elongated and slightly raised spots with a sandpaper-like surface.",
+        "Eventually, the spots enlarge and merge, giving a corky appearance to the surface.",
+        "Fruit symptoms can be confused with wind damage and some insect damage.",
+        "Leaves:",
+        "Lesions less than 3.5 mm become necrotic and brown to black, often concentrated along leaf veins.",
+        "Leaves can become stunted, crinkled and distorted, and lesions may merge into star-like patterns and shot holes develop.",
+        "Twigs: oval to elongated, raised and corky lesions.",
+        "Leaves become resistant 1 month after emergence, and fruit become resistant once they are half-grown."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove scabby fruits from the orchard as they often become primary sources of inoculum the following year if left in the trees during harvest.",
+        "Remove dead branches and twigs from the orchard to prevent the disease from spreading as it can survive on dead material for a long time."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Lesions on leaves (Coleacp)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Spots on fruits (Cesar Calderon, USDA APHIS PPQ, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Avocado scab"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Corky appearance on the fruit surface (A.A. Seif, icipe)"
+      }
+    ]
+  }
+}

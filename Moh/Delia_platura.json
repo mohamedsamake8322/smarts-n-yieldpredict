@@ -1,0 +1,56 @@
+{
+  "title": "Bean seed fly",
+  "sections": {
+    "Header": [
+      "Bean seed fly",
+      "Delia platura"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Bean seed fly is a pest that feed on the swollen, ungerminated seed of vegetable crops at larval stage, called maggot.",
+        "The use of winter cover crops (e.g. grasses) may increase fly populations, if this is needed then plant bean crop 3.5 weeks after the cover crop has been incorportated into the soil.",
+        "Avoid planting during wet periods to reduce infestation of maggots.",
+        "Plant crops when the weather and soil promotes rapid germination to reduce impact of maggots.",
+        "Remove flowering weeds from the area to reduce nearby food sources for flies."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "When monitoring fields, look out for wilting plants and gaps in vegetation where seedlings have failed to emerge.",
+        "To identify maggots, search in the soil around these areas.",
+        "Maggots can also be found tunneling up the stem of newly emerged seedlings.",
+        "Eggs: 1-2 mm long, white eggs.",
+        "Larvae:",
+        "Up to 10 mm long, white maggots.",
+        "Pupae are brown and are up to 7 mm long.",
+        "Adults:",
+        "Small, grey bodied flies, up to 5.2 mm long.",
+        "The symptoms can be confused with wireworm feeding injury and dieback"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "The only method for controlling",
+        "D. platura is targeting the maggot stage.",
+        "Seed treatments are the cheapest and most effective control for maggots."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Adult been seed fly (Pest and Diseases Image Library, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "D. platura maggot emerging from pupal stage (Caroline Harding, MAF)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bean seed fly"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Seedling damage from maggots (Whitney Cranshaw, Colorado State University, Bugwood.org)"
+      }
+    ]
+  }
+}

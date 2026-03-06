@@ -1,0 +1,64 @@
+{
+  "title": "Chilli Fusarium wilt",
+  "sections": {
+    "Header": [
+      "Chilli Fusarium wilt",
+      "Fusarium oxysporum fsp. capsici"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep summer ploughing to eliminate soil borne pathogen",
+        "Apply farm yard manure @ 10 tonnes per acre",
+        "Apply neem cake @ 100 kg per acre",
+        "Crop rotation with non-solanaceous crops",
+        "Use certified and resistant disease- free seeds.",
+        "Avoid growing in areas where root knot nematodes are prevalent"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly observe for yellowing and wilting of plants",
+        "Observe for vascular browning at the basal region of plants",
+        "Observe for root modification/ deformities of diseased plant (root knot nematode infestation)"
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Roguing of diseased plant",
+        "Apply 2.5 litres of",
+        "Pseudomonas fluorescens or",
+        "Trichoderma viride precolonized in farm yard manure",
+        "Apply basally",
+        "Paecilomyces lilacinous @ 2.5 kg/hectare to control root knot nematodes",
+        "Raise seedlings in soil that has been solarised to kill off the pathogen and nematodes."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators.",
+        "Treat the seed with",
+        "Carbendazim @ 2g/kg or",
+        "Trichoderma viride @ 4g/kg.",
+        "Soil drenching with",
+        "Carbendazim 0.1%"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "WHO class U"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Chilli plant infected with Fusarium wilt. Source: A.A. Seif and B. Nyambo, icipe via Biovision"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Chilli Fusarium wilt"
+      }
+    ]
+  }
+}

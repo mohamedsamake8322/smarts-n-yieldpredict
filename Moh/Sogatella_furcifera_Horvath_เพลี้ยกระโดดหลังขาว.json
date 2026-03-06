@@ -1,0 +1,91 @@
+{
+  "title": "Whitebacked planthopper",
+  "sections": {
+    "Header": [
+      "Whitebacked planthopper",
+      "Sogatella furcifera (Horvath) เพลี้ยกระโดดหลังขาว"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Planting more than 2 varieties with same harvesting",
+        "Use resistant varieties (RD29, RD31, RD41, RD47, RD49, PSL2, SPR1, SPR2, SPR90)",
+        "If direct seeding, sowing rate 15-20",
+        "Kg/rai",
+        "Preferred planting method: transplanting or parachuting"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Monitor light setting along roadside",
+        "Field survey: observation every 2 weeks",
+        "Sweep net (15-40 days)",
+        "Direct counting (day 41 to harvesting).",
+        "Look at stem above water level"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "B. bassiana every week",
+        "Giant light trap",
+        "Long",
+        "Way",
+        "Yellow",
+        "Sticky",
+        "Trap (40 days- harvesting)",
+        "Draining ,water control, wet and dry (5-7 days)",
+        "Irritated field",
+        "For irrigated area, drain water to invite ants which eat the nymphs",
+        "Neem extract (during nymph state)",
+        "Do not mix insecticides",
+        "Ethofenprox (Control",
+        "Poison)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When to use",
+        "Chemical",
+        "Control 5 nymphs/tiller, 1-2rd nymphs/tiller, ETLs",
+        "Don’t use abamectin (will kill natural enemies) and do not use granular insecticides",
+        "Do not use 36 chemicals in the",
+        "RD recommendation list",
+        "Rotate chemicals to prevent resistance",
+        "Buprofezin 40-60",
+        "DAS.",
+        "IRAC group 16.",
+        "WHO III",
+        "Buprofezin+ Isoprocarb 40-60",
+        "DAS.",
+        "Buprofezin:",
+        "IRAC group 16.",
+        "WHO III Isoprocarb:",
+        "IRAC group 1A.",
+        "WHO II 60",
+        "DAS - harvest.",
+        "IRAC group 3A.",
+        "WHO U Dinotefuran 60DAS - harvest.",
+        "IRAC group 4A Pymatrozin",
+        "IRAC 9B"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Adult WBPH (Tarapron Yuneyong)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Whitebacked planthopper"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Nymph of WBPH (Kornsiri Srinil)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Damge WBPH (Noppadol Somma)"
+      }
+    ]
+  }
+}

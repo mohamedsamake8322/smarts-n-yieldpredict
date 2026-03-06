@@ -1,0 +1,55 @@
+{
+  "title": "Maize smut",
+  "sections": {
+    "Header": [
+      "Maize smut",
+      "Ustilago maydis"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Deep ploughing",
+        "Practice crop rotation i.e. plant cassava after maize",
+        "Plant clean and disease-free maize seeds",
+        "Plant resistant/ tolerant varieties e.g.",
+        "DMR/ Western yellow obtained from",
+        "SLARI/ MAFFS Timely planting:",
+        "April 1st planting; Sept 2nd planting"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Observe for the presence of galls swelling on: tassels, husks, ears/kernels, stalks, leaves, prop roots"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Destruction of infected plants by burning or burying away from the maize farm",
+        "Cut out and destroy the gall before the smut ruptures"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use cost effective and readily available fungicides e.g.",
+        "Kocide; AI:",
+        "Cupric oxide (CuO); 50 g to 5 litres of water per 0.5 acres",
+        "WHO Class",
+        "II (Moderately hazardous); Re-entry interval: 2 weeks; Pre-harvest interval: 10 weeks; Always ensure your protective gears / apparels are put on, e.g. goggles, overalls , respirators etc."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Maize smut"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Maize with smut (M Mulaa, CABI)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Maize with smut (IMO Shamie, MAFFS)"
+      }
+    ]
+  }
+}

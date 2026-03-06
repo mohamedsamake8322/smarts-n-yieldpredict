@@ -1,0 +1,79 @@
+{
+  "title": "Diamondback Moth on Cabbage",
+  "sections": {
+    "Header": [
+      "Diamondback Moth on Cabbage",
+      "Plutella xylostella In Sinhala: Diyamanthi pitahedathi salabhaya , In Tamil: Diamond muthuku anthu"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Destruction of crop residues of all crucifers",
+        "Soil treatment (ploughing 15-20cm, solarisation)",
+        "Use moderately tolerant variety",
+        "AS cross",
+        "Healthy planting materials.",
+        "Use of organic manure to improve soil",
+        "Border crop with",
+        "Mustard as a trap crop",
+        "Inter crop with",
+        "Tomato as a repellent crop",
+        "Use of",
+        "Sprinkler irrigation",
+        "Use recommended fertilizers. (Avoid excessive amount of nitrogen )",
+        "Conservation of natural vegetation in the system to conserve natural enemies."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regular field visit to observe",
+        "DBM Monitoring to detect feeding damage, green larvae, pupae in cocoons on leaves",
+        "Use of light trap to detect the presence of the pest",
+        "Apply insecticides, at the first sign of damage"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Use of light traps",
+        "Hand picking of larva and pupa at very early stages",
+        "Use botanicals such as neem seed water extract",
+        "Apply chemical",
+        "Flubendiamide 24% WG Apply chemical",
+        "Spinosad 25g/l",
+        "SP Apply chemical",
+        "Tebufenozide 200g/l",
+        "SC Apply chemical",
+        "Chlorfluazuron 50g/l",
+        "EC"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Apply insecticides, at the first sign of damage and repeat at 2 week intervals, if necessary.",
+        "Maximum number of treatments 4; Dangerous for environment; Very toxic to aquatic organisms; WHO Class",
+        "III (Slightly hazardous)",
+        "WHO class",
+        "U (Unlikely to present acute hazard in normal use)",
+        "WHO class U"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Damage symptom on leaves (Whitney Cranshaw, Colorado State University, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Larval stage of the DBM (Alton N. Sparks Jr., University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Adult stage of DBM (NYSAES, Cornell University)"
+      },
+      {
+        "file": "p1_img6.png",
+        "caption": "Diamondback Moth on Cabbage"
+      }
+    ]
+  }
+}

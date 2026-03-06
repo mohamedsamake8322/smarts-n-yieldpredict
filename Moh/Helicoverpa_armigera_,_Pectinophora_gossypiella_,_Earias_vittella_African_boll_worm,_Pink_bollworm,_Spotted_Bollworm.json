@@ -1,0 +1,68 @@
+{
+  "title": "Bollworm on cotton",
+  "sections": {
+    "Header": [
+      "Bollworm on cotton",
+      "Helicoverpa armigera , Pectinophora gossypiella , Earias vittella African boll worm, Pink bollworm, Spotted Bollworm"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Seed treatment with",
+        "Imidacloprid (7 g/kg seed) increases plant’s tolerance level",
+        "Plant trap crops such as okra and malakwang around cotton garden to attract the bollworm",
+        "Practice crop rotation with cereals and include a fallowing stage",
+        "Practice intercropping with cowpea, sunflower, maize and marigold, which prevents spreading and favours colonization of more natural enemies of bollworm ( Earias spp.) parasitoids",
+        "Incorporate plant residues immediately after harvesting into the soil to kill any surviving life stages of the pest"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout once or twice a week, starting in the second week of squaring or once blooms appear",
+        "Examine five entire plants in each of 10 locations for signs of cotton bollworm eggs, larvae (caterpillars), feeding damage and faeces",
+        "Continue scouting until the last effective boll matures",
+        "Also look out for the adult moth, especially in the evenings."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Immediately remove and destroy all bolls on which bollworm damage is observed.",
+        "Handpick and destroy eggs and small caterpillars.",
+        "Erect bird perches (20-25/ ha) to attract birds that prey on the larvae"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray with",
+        "Agro-Cypro 440",
+        "EC or",
+        "Rockett 44EC (Cypermethrin + Profenofos)",
+        "WHO class",
+        "II; it is moderately hazardous.",
+        "Must be used with protective gears.",
+        "Treat seed with",
+        "Confidor or",
+        "Gaucho (Imidacloprid).",
+        "Consult your extension worker and always read the label for direction on use.",
+        "Always wear protective gear (overalls, gumboots, goggles, caps, gloves and face masks) when handling chemicals",
+        "WHO class",
+        "II; it is moderately hazardous.",
+        "Must be used with protective gear"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Bollworm on cotton"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Old world bollworm, cotton bollworm (Helicoverpa armigera) (Gyorgy Csoka, Hungary Forest Research Institute, Bugwood.org"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Cotton bollworm larvae feeds on a cotton boll (Photo by Wu Kongming)"
+      }
+    ]
+  }
+}

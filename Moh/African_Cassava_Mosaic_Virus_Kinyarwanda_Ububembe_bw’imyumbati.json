@@ -1,0 +1,63 @@
+{
+  "title": "African Cassava Mosaic Disease",
+  "sections": {
+    "Header": [
+      "African Cassava Mosaic Disease",
+      "African Cassava Mosaic Virus Kinyarwanda: Ububembe bw’imyumbati"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Use tolerant varieties such as",
+        "NASE 14, NAROCASS 1.",
+        "Use clean planting materials from inspected fields (RAB or",
+        "Seed",
+        "Multipliers)",
+        "Remove weeds to discourage habitat for the vectors.",
+        "Uproot and bury volunteers plants in the fields",
+        "Crop rotation with cereals such as maize or leguminous crops (beans or soya bean)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start observing symptoms immeditely after sprouting when young leaves are developed and continue twice a month",
+        "Observe leaves for symptoms twice a month.",
+        "Observe for green yellowish areas (mosaic), leaf deformation, reduction in size of young leaves and stunting of diseased plants in severe cases",
+        "Threshold:",
+        "Take action when one infected plant is observed"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot and bury infected plants when symptoms appear."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "There is no chemical control against viruses",
+        "Use of pesticides to control vectors (whiteflies) on cassava is not pratical: insecticides can kill natural enemies such as",
+        "Apoanagyrus lopezi (released before 1990 to control cassava mealybugs) and",
+        "Typhlodromalus aripo (natural enemy of cassava green mites).",
+        "Wear always",
+        "Personal",
+        "Protection equipments (PPE) and follow the instructions on the product label.",
+        "Respect and follow laws regulating pesticides use in",
+        "Rwanda."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "African Cassava Mosaic Disease"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Characteristic symptoms of the disease (Source: M. Mutumwinka)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Field infected by ACMV (Source: M. Mutumwinka)"
+      }
+    ]
+  }
+}

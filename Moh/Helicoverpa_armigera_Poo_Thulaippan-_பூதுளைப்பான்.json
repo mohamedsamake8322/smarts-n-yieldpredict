@@ -1,0 +1,71 @@
+{
+  "title": "Bud Borer on Tuberose",
+  "sections": {
+    "Header": [
+      "Bud Borer on Tuberose",
+      "Helicoverpa armigera Poo Thulaippan/ பூதுளைப்பான்"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Trim the bunds before crop sowing to prevent egg laying by pest.",
+        "Destroy the pupae by ploughing during the summer.",
+        "Collect and destroy (by burning) damaged buds to reduce the spread of the pest.",
+        "Plant border crop with red gram/cowpea/ black gram to increase natural enemies.",
+        "Grow trap crop of castor or chrysanthemum around the field for attracting the pest towards the trap crop.",
+        "Install 10 bird perches per acre from planting to encourage natural bird predators."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Set up light traps (1/acre from planting) and observe during 6 to 11 pm.",
+        "Set up sex pheromone traps (Heli lure) at 5/acre at the stage of 5-10 pod damage or 5 larvae per 10 plants.",
+        "Observe between 6-11 pm.",
+        "Eggs are deposited individually on growing spikes.",
+        "Larvae bore into buds and flowers and feed on them by making holes."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Spray a solution of 250 ml of",
+        "HaNPV at 250",
+        "Larval",
+        "Equivalents (LE) + 1 kg palm jaggery + 200 litre of water/ acre.",
+        "Spray in the evening hours with a hand sprayer.",
+        "Apply 2 applications with 10 day intervals. 3 sprays of",
+        "Bacillus thuringiensis at 2 g/l at 15 day intervals.",
+        "Immerse 50 kg powder form of",
+        "NSKE in 500 litres of water for 8 hours.",
+        "Filter and add 500 ml of teepol to spray 1",
+        "Ha at 15 day intervals.",
+        "Spray",
+        "Neem oil at 30 ml in 1 litre of water at 15 day intervals."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label, such as dosage, timing of application, pre-harvest interval, max number of sprays, restricted re-entry interval.",
+        "Do not empty into drains and water sources.",
+        "Foliar spray of",
+        "Quinolphos 2 ml/l of water at 15 day intervals",
+        "Quinalphos- WHO Class",
+        "II. (Moderately hazardous).",
+        "PHI - 7 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Larval stage of borer (Paolo Mazzei, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Bud Borer on Tuberose"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Adult moth of bud borer (Julieta Brambila, USDA APHIS PPQ, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Whitefly on tomato",
+  "sections": {
+    "Header": [
+      "Whitefly on tomato",
+      "Bemisia tabaci"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Remove barnyard grass weed ( Echinochola crus-galli ) and",
+        "Bermuda grass ( Cynodon dactylon ) because they host whiteflies.",
+        "Transplant after or during rainy season as whiteflies prefer warm, dry seasons.",
+        "Plant at least 0.5-2 feet apart with at least 3 feet between rows for good aeration.",
+        "Place 1 to 3 inches of neem leaf mulch or with white or black plastic sheets 1 week after transplanting.",
+        "Reduce nitrogen fertilization to below 15 g per acre once per cropping season as too succulent tomato growth would attract whiteflies.",
+        "Plant black gram as a trap crop around crops to pull the whiteflies, or barrier crops such as sorghum or maize.",
+        "Intercrop with peppermint as an insect repellent.",
+        "Avoid planting tomato for more than two seasons.",
+        "Rotate with summer rice.",
+        "This activity is only effective if other farmers in the area do the same.",
+        "Plant flowering plants such as wild sunflower to conserve natural enemies such as wasps, lacewings and spiders.",
+        "Remove infested tomato residues after harvest."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Start to monitor when plants are 2 weeks old.",
+        "Inspect weekly until fruiting during early mornings or evenings.",
+        "Check the whole plant and underside of leaves.",
+        "Consider action when several whiteflies are found per plant at young plant stages, and 10 to 20 per plant at the flowering stage.",
+        "Action is too late when finding server infestations causing wilting, curling and yellowing of leaves.",
+        "Hang 2 to 4 yellow containers with water or yellow sticky traps per acre to attract whiteflies, consider action at 20-40 whiteflies/trap/week.",
+        "If yellow leaf curl virus in tomato is known to be in your area, earlier actioned is needed as whiteflies transmit the disease."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Place 50 yellow sticky traps per acre, 30 feet apart in the field to mass trap whiteflies.",
+        "Change traps 2-3 times per cropping season.",
+        "Spray on and below leaves in the morning starting 2 weeks after transplanting:",
+        "Azadirachtin (neem) 0.03% (50 ml/20",
+        "L water).",
+        "Liquid soap at 25 ml per litre water.",
+        "Hot pepper spray at rate of 30 chopped peppers in warm water.",
+        "Soak for 1 day, dilute in 10",
+        "L water.",
+        "Do not spray too much as it may be phytotoxic."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Spray pesticides on the underside of the leaves, in the early morning or after sunset when whiteflies are most active.",
+        "Apply a maximum of 3 times depending on infestation.",
+        "Don't apply in the flowering stage as sprays are toxic to bees.",
+        "Apply contact and systemic pesticides alternately because whiteflies become resistant to pesticides quickly.",
+        "When using a pesticide or botanical, always wear protective clothing and follow the instructions on the product label.",
+        "Always consult recent list of registered pesticides.",
+        "Permethrin - contact pesticide.",
+        "Usually at 30 g per 4 gallons of water per backpack sprayer, check product label.",
+        "Use 5 backpack sprayer fillings per acre.",
+        "Pyrethroid group, WHO toxicity class",
+        "II (moderately acute hazardous).",
+        "Harmful to fish, predatory mites, flower bugs and parasitoids.",
+        "Pre-harvest interval (PHI) of 21 days.",
+        "Dimethoate - systemic pesticide.",
+        "Usually at 50 g per 4 gallons of water per backpack sprayer and apply 5 backpack sprayers per acre.",
+        "Double- check product label.",
+        "Organophosphates group, WHO class",
+        "II (Moderately acute hazardous), Apply a maximum of twice per season.",
+        "Toxic to pollinators.",
+        "PHI 14 days.",
+        "Imidacloprid - systemic pesticide.",
+        "Usually at 30 g per 4 gallons of water per backpack sprayer but check label.",
+        "Use 5 backpack sprayers per acre.",
+        "Neonicotinoid group, WHO class",
+        "II moderately hazardous).",
+        "Toxic to bees.",
+        "PHI 21 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "1 to 2 mm long adult whiteflies feeding on the underside of leaves (David Riley, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Whitefly on tomato"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Yellowing is a severe late damage symptom caused by many whiteflies (David Riley, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Wilting of upper leaves where many whiteflies suck plant sap (Stefan Toepfer)"
+      }
+    ]
+  }
+}

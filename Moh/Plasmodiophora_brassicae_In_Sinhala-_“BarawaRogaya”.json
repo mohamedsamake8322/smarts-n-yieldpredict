@@ -1,0 +1,58 @@
+{
+  "title": "Club root on Cruciferous crops",
+  "sections": {
+    "Header": [
+      "Club root on Cruciferous crops",
+      "Plasmodiophora brassicae In Sinhala- “BarawaRogaya”"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Collect",
+        "Information on pathogen history in the area so that non-infested sites for crop production can be selected",
+        "Do, at least, four year crop rotation with non-host crops (Tomato, Potato, Bean)",
+        "Remove and destroy",
+        "Cruciferous crop debris (Cabbage, Cauliflower, Broccoli, Knol-khol) before cultivation",
+        "Apply lime (2 t/ha), two weeks before planting, to",
+        "Increase soil pH Use poultry litter (10 t/ha) as organic manure to reduce disease severity",
+        "Establish nurseries in disease-free fields to produce healthy seedlings",
+        "Plant disease-free seedlings",
+        "Do not use infected crop debris for compost preparation",
+        "Remove and destroy alternate hosts (e.g. wild mustard, wild radish)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Infected seedlings show small galls on roots or clubbed roots",
+        "Look for wilted leaves/ plants during the hottest part of the day",
+        "When uprooted, plants show enlarged root system",
+        "At latter stages, the clubbed roots will rot and disintegrate"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Remove and destroy infected plants",
+        "Do not overwater the plants"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Chemical controls are not available for club root"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img3.png",
+        "caption": "Club root on Cruciferous crops"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Clubbed cabbage root (Photo: K.P. Somachandra, Research field, RARDC, Bandarawela"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Severely clubbed cabbage root (Photo: K.P. Somachandra, Resaerch field, RARDC, Bandarawela)"
+      }
+    ]
+  }
+}

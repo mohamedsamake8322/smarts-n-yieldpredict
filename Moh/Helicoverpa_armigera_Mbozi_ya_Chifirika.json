@@ -1,0 +1,85 @@
+{
+  "title": "African Bollworm on Cotton",
+  "sections": {
+    "Header": [
+      "African Bollworm on Cotton",
+      "Helicoverpa armigera Mbozi ya Chifirika"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant",
+        "BT cotton varieties like",
+        "Borgud.",
+        "Ensure that the fields are free of weeds which could harbour the insect",
+        "Uproot and burn crop residues at the end of the harvest as early as possible",
+        "Avoid leaving lots of trash in the field which might harbour the overwintering stages of the pest.",
+        "Avoid the application of broad spectrum pesticides in order to preserve natural enemies such as lady bird beetles and parasitic wasps and",
+        "Tachinid flies, which assist in reducing pest populations",
+        "Rotate cotton with alternate crops like cassava, or other vegetables every two years",
+        "Tasselling maize may act as trap crop because it is said to be more attractive to egg laying moth than cotton."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Eggs are cream, which turn brown and are laid individually.",
+        "Young larvae are yellowish- white to reddish-brown with prominent hairs.",
+        "Mature larvae are brown, green or pale yellow, with a characteristic dark band along the centre of the back.",
+        "A parallel pale band, a dark band and then another pale band traverse the sides of the body.",
+        "Spray the chemical when symptoms are first noticed or when there are 6 bollworms per 24 plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Hand pick all visible larvae and crush them.",
+        "Spray recommended insecticides indicated in the",
+        "Yellow",
+        "Direct",
+        "Control section.",
+        "Apply",
+        "Indoxacarb 400g/L (Steward 150EC) at the rate of 1ml/L of water.",
+        "An",
+        "Oxadiazine, IRAC group:22A",
+        "Spray",
+        "Cypermethrin 200g/L (Cyrux 20EC; Cypermethrin 20EC) at the rate of 2.5-5mls/20L of water.",
+        "A pyrethroid, IRAC group: 3A"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use personal protective equipment when handling and applying pesticides, follow the label recommendations.",
+        "Do not eat, drink, smoke when mixing or applying pesticides",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Observe a",
+        "Pre-harvest interval (PHI) of 14 days; Re-entry interval (REI) 12 hrs.",
+        "Minimal interval between treatments is 5 days and make no more than 4 applications per crop.",
+        "WHO Class",
+        "II (Moderately",
+        "Hazardous).",
+        "Observe a",
+        "Preharvest",
+        "Interval (PHI) of 14 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Damage caused by larvae (Metin Gulesci, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "African Bollworm on Cotton"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Immature larva feeding in cotton boll (Russ Ottens, University of Georgia, Bugwood.org)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Mature larva (Scott Bauer, USDA ARS, Bugwood.org)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Citrus rust mite",
+  "sections": {
+    "Header": [
+      "Citrus rust mite",
+      "Phyllocoptruta oleivora"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Prevent the use of broad spectrum insecticides, as these will kill the pests natural enemies such as ladybird beetles and predatory mites.",
+        "Citrus rust mites are only a cause for concern when found in high populations.",
+        "To keep population levels low maintain suitable conditions for predatory species such as other insects and birds.",
+        "Prune to maintain good air circulation within the trees.",
+        "Control weed populations within the orchard by uprooting."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "To observe for mite infestations, use a hand lens to examine green fruit in tree canopies.",
+        "Note that citrus mites are usually found in the stylar end of fruit.",
+        "If one or more fruit are found to be infested, undertake direct control measures.",
+        "Citrus mites are commonly found in mixed populations with broad mites ( Polyphagotarsonemus latus ).",
+        "Citrus rust mites are 0.1-0.2 mm long, with yellow-brown bodies.",
+        "Symptoms include:",
+        "Discolouration of fruit, turning grey-brown due to mite feeding.",
+        "Undeveloped fruit that do not store well.",
+        "Leaves and twigs bronze from heavy infestations.",
+        "If more than 30% of trees are infested then consider direct action measures."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "If available in your country, release predatory mites such as",
+        "Amblyseius victoriensis and",
+        "Agistemus exsertus (release roughly 2 00 mites/tree, seek advice from local extension officers).",
+        "Use of white oil spray (3 tablespoons of cooking oil with 4 litres of water and half a tablespoon of detergent soap).",
+        "Spray the underside of leaves and re-spray after 3 to 4 weeks if neccesary.",
+        "Use of soap solution spray (2 tablespoons of soap/ washing liquid with 4 litres of water).",
+        "Spray the underside of leaves and re-spray after 3-4 weeks if necessary."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Citrus rust mite are only able to be seen under a hand lens magnifications (Florida Division of Plant Industry, Bugwood.org)"
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Symptoms of citrus rust mite infestation on fruit (Don Ferrin, Louisiana State University Agricultural Center, Bugwood.org)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Citrus rust mite"
+      }
+    ]
+  }
+}

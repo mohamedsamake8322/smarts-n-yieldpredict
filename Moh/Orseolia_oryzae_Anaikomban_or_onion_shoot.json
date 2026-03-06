@@ -1,0 +1,76 @@
+{
+  "title": "Rice Gall Midge",
+  "sections": {
+    "Header": [
+      "Rice Gall Midge",
+      "Orseolia oryzae Anaikomban or onion shoot"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plough the field after harvest & keep land fallow during off season.",
+        "Remove the alternate hosts ( Oryza glaberrima , Oryza longistaminata ) and three grasses viz. , Eleusine indica , Bothriochloa sp. and",
+        "Paspalum sp",
+        "Use resistant variety",
+        "MDU3, PTB 21, PTB 18",
+        "Root dipping of seedlings in chlorpyriphos 20",
+        "EC 2 ml per lit of water for 20 min before transplanting in",
+        "Kharif & Rabi crop season.",
+        "Transplanting during early",
+        "June.",
+        "Avoid close planting (maintain 20x20cm spacing).",
+        "Avoid staggered planting.",
+        "Optimum recommendation of",
+        "Nitrogen & potash fertilizer (150 kg",
+        "N &50 kg",
+        "P)"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Setup a light trap per acre and monitor the adult flies",
+        "Observe economic threshold level 10 % silver shoot"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Release",
+        "Platygaster oryzae parasitised galls at 1/10 m2 on 10 days after transplanting (DAT)",
+        "Spray",
+        "NSKE 5% at 50 ml or",
+        "Neem",
+        "Oil 3% at 30 ml per liter 15 days after transplanting"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "Use of personal protective equipment (PPEs) such as gloves, mask, goggles and keeping antidotes are mandatory by the spray applicators.",
+        "Fipronil, Chlorpyrifos:",
+        "WHO Class",
+        "II (Moderately hazardous).",
+        "Thiamethoxam:",
+        "No",
+        "WHO classification",
+        "Apply",
+        "Thiamethoxam 25% WG 100 g/ha or",
+        "Fipronil 5% SC at 400 ml/acre or",
+        "Fipronil 0.3",
+        "G 10 kg per acre"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Drying of Terminal Shoot (Dead heart) Source: MSSRF 2014"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Rice Gall Midge"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Source: MSSRF 2014"
+      }
+    ]
+  }
+}

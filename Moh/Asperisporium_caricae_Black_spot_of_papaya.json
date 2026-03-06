@@ -1,0 +1,83 @@
+{
+  "title": "Black spot of papaya",
+  "sections": {
+    "Header": [
+      "Black spot of papaya",
+      "Asperisporium caricae Black spot of papaya"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "A. caricae is a fungus that cause black spot on fruits and leaves of papaya.",
+        "It is spread from tree to tree by wind and wind-driven rains",
+        "Initiate orchards hygienically using seedlings that are free from pathogens from",
+        "KALRO, JKUAT Prune the trees to reduce humidity and improve air circulation in the orchard",
+        "Avoid overhead irrigation which spreads the spores through splash",
+        "Ensure crop vigor and good health through fertilizer and manure application",
+        "Keep the orchard free of weeds to minimize alternative hosts to the pathogen",
+        "Avoid working in fields when plants are wet and work on infected areas last"
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout the farm regularly for initial small, black spots on fruits and underside of leaves.",
+        "Spots are sunken yellow on the upper leaf surface",
+        "The black spot pathogen is hyperparasitized by another fungus ( Cephalosporium sp.) showing a white fungal growth around affected spots in the later stages",
+        "Take action once spots are observed on plants since the disease spreads fast through dispersion of spores, by air and splash and compromise fruit quality"
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Practice field sanitation by removing and destroying (by burning) severely infected plant parts and plant debris to reduce disease inoculum on the farm",
+        "Disinfect farm tools between plants and farms (Use 50 ml",
+        "JIK in 1 litre of water), to prevent spread of the fungus",
+        "Spray the plants by using",
+        "Trianum-P ( Trichoderma harzianum ) at a rate of 15g in 5L or",
+        "Trichotech ( Trichoderma asperellum ) at a rate of 2.5g in 20L of water"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using pesticides, wear protective gear",
+        "Follow instructions on the product label",
+        "Disinfect all farm tools by dipping in 10% jik solution at 50ml/ L of water for atleast 5 minutes",
+        "Always consult recent list of registered pesticides (PCPB)",
+        "Spray",
+        "Copper based fungicides such as",
+        "Amicop 50WP and",
+        "Cobox 50",
+        "WP at 60g/20L of water.",
+        "Ensure proper coverage of leaves and fruits",
+        "WHO class",
+        "U (unlikely to present acute hazard in normal use); PHI 14 days, REI 14 days, toxic to aquatic organisms",
+        "Spray with",
+        "Mancozeb based products such as",
+        "Moshothane, Oshothane, Farmcozeb 75WG, Dithane",
+        "M45 @40-80g/20L.",
+        "Ensure proper coverage of the plants.",
+        "WHO Class",
+        "U (Unlikely to present acute hazard in normal use).",
+        "Apply when disease is expected or 1st symptoms seen.",
+        "Repeat after 14 days until flowering is over; REI 1 day; PHI 7 days"
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Black spot of papaya on leaves and fruit (Ruth Amata, KALRO)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Black spot of papaya"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Infected papaya fruits (Lusike Wasilwa, KALRO)"
+      },
+      {
+        "file": "p1_img5.png",
+        "caption": "Infected papaya fruits (Lusike Wasilwa, KALRO)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Sooty Mold on Tree Crops - Grenada",
+  "sections": {
+    "Header": [
+      "Sooty Mold on Tree Crops - Grenada",
+      "Capnodium spp. or Scorias spp."
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Monitor plants for the presence of ants and sucking insects and take action.",
+        "Prune plants with excessive branches to maintain adequate space and allow air and light movement through the field.",
+        "Keep plans healthy with nutrients but do not over fertilize."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Regularly look for:",
+        "Black surface growth on leaves, branches and fruit, that rubs of easily by the finger.",
+        "Whitefly, aphids, psyllids, leafhoppers, mealybugs, and soft bodied scale insects in shoot tips and back of leaves.",
+        "Distorted leaves that may indicate presence of these insects.",
+        "Sticky card board painted yellow or white can help trap some of these insects."
+      ],
+      "Direct Control (Non-chemical)": [
+        "Direct Control (Non-chemical)",
+        "Direct",
+        "Control",
+        "Place yellow sticky traps in fields as a means of monitoring and controlling whitefly, psyllids and leafhoppers.",
+        "Cut back heavily infested branches.",
+        "Schedule annual pruning early in the rainy season.",
+        "Use oil sprays, such as",
+        "Saf-T-Add, Golden",
+        "Pest",
+        "Spray",
+        "Oil, Neem",
+        "Oil or any horticultural oil.",
+        "Support the activities of biological control agents; such as parasitic wasps and lady bird beetles."
+      ],
+      "Direct Control (Chemical)": [
+        "Direct Control (Chemical)",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When considering insecticidal control, always use personal protective equipment, and read and follow the pesticide label.",
+        "Do not apply to mature fruits or during periods of flowering.",
+        "Oil sprays can be combined with some of the following insecticides: pyrimethanil (e.g.",
+        "Protector) and pyrethroids such as alpha- cypermethrin (e.g.",
+        "Fastac) or lambda-cyhalothrin (e.g.",
+        "Karate)"
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Pyrimethanil - WHO class",
+        "III; alpha- cypermethrin - WHO class",
+        "II; lambda-Cyhalothrin - WHO class",
+        "II."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img2.png",
+        "caption": "Grapefruit covered in sooty mold (Photo: T. Peters)"
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Sooty Mold on Tree Crops - Grenada"
+      },
+      {
+        "file": "p1_img4.png",
+        "caption": "Pink Hibiscus mealybug on sousop (Photo: T. Peters)"
+      }
+    ]
+  }
+}

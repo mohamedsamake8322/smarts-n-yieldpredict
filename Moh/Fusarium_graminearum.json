@@ -1,0 +1,92 @@
+{
+  "title": "Wheat Head blight",
+  "sections": {
+    "Header": [
+      "Wheat Head blight",
+      "Fusarium graminearum"
+    ],
+    "Table": {
+      "Prevention": [
+        "Prevention",
+        "Plant certified clean seeds from reputable seed companys and avoid recycling seeds from infected fields.",
+        "Plant tolerant varieties such as",
+        "Njoro",
+        "BW1, Njoro",
+        "BW2.",
+        "Practice crop rotatation using legume based crops.",
+        "Select sites with good drainage and a good soil profile to avoid water logging.",
+        "Deeply plough the soils to expose the innoculum to harsh conditions 3 to 4 months before planting.",
+        "Avoid use of overhead irrigation, especially during cool and wet conditions.",
+        "Avoid reuse of water for irrigation.",
+        "Sow seeds in well prepared nursery and fertilized soils for good root growth and vigorous development."
+      ],
+      "Monitoring": [
+        "Monitoring",
+        "Scout wheat farms during the flowering stage and high humidity levels for disease incidences.",
+        "Check for light-straw and bleached spikelets.",
+        "Look out for white/light brown color on wheat spikes.",
+        "Look out for shrivelling and discolouration of kernels on the infected spikes.",
+        "Towards the end of the season look for dark purple-black fruiting bodies on the infected spike.",
+        "Consider direct control actions when symptoms are observed on 1-3 plants."
+      ],
+      "Direct Control": [
+        "Direct Control",
+        "Uproot or prune infected plants and destroy by burning the infected debris.",
+        "Sterilize farm tools with 10% sodium hypochloride or",
+        "Jik while working in the wheat farm.",
+        "Drain soggy or water logged soils to reduce humidity that enhance spread of the disease.",
+        "Use",
+        "Trichotech",
+        "WP at 1.25 g/L water every 2 weeks to one month depending on disease pressure.",
+        "Apply leaf extract of neem (Achook, Nembecidine) at 20 ml/20",
+        "L of water (maximum 3 times)."
+      ],
+      "Restrictions": [
+        "Restrictions",
+        "Direct",
+        "Control",
+        "Restrictions",
+        "When using a pesticide, always wear protective clothing and follow the instructions on the product label.",
+        "Do not use chemicals with the same mode of action year after year as this can lead to resistance.",
+        "Always consult the most recent list of registered pesticides (PCPB).",
+        "Spray tebuconazole and prothioconazole based products such as",
+        "Prosaro 250",
+        "EC (5 mls/20",
+        "L).",
+        "WHO Class",
+        "III (slightly hazardous).",
+        "PHI: 35 days intervals, REI: 24 hrs.",
+        "Repeat every 7-10 days for as long as needed.",
+        "Drench soil with carbendazim based products (Rodazim",
+        "SC, pearl 500SC) before planting (Rate 15 to 20 ml/20",
+        "L water).",
+        "WHO Class",
+        "III (slightly",
+        "Hazardous).",
+        "PHI: 14 days.",
+        "Low toxocity on bees, do not allow entry into treated areas until the spray has dried up.",
+        "Spray on the onset of the disease up to 42 days after planting.",
+        "Spray copper oxychloride such as cobox",
+        "WP at the rate of 40-80 g per 20",
+        "L.",
+        "WHO Class",
+        "II (moderately hazardous).",
+        "PHI: 7 days."
+      ]
+    },
+    "Figures": [
+      {
+        "file": "p1_img1.png",
+        "caption": "Diseased spikelets versus non- infected crop (Brian Steffenson, University of Minnesota, Public Domain CC0)."
+      },
+      {
+        "file": "p1_img2.png",
+        "caption": "Bleaching of wheat spikelets due to wheat blight (Howard F. Schwartz, Colorado State University, Bugwood.org)."
+      },
+      {
+        "file": "p1_img3.png",
+        "caption": "Wheat Head blight"
+      }
+    ]
+  }
+}
