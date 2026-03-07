@@ -72,7 +72,11 @@ Moh
 .pytest_cache/
 .coverage
 htmlcov/
-
+.venv/
+env310/
+env311/
+__pycache__/
+*.pyc
 # Jupyter
 .ipynb_checkpoints/
 outputs
