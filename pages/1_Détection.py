@@ -48,6 +48,29 @@ from utils.styles import load_custom_css
 
 load_custom_css()
 
+# Dossier des images légères pour la confirmation visuelle
+DATASET_LIGHT_ROOT = Path("dataset_light")
+
+
+def _map_to_dataset_light(original_path: str) -> str:
+    """
+    Essaie de remapper un chemin d'image du dataset complet vers dataset_light.
+    On conserve la même structure relative à partir de 'dataset_final' si possible.
+    """
+    try:
+        p = Path(original_path)
+        parts = p.parts
+        if "dataset_final" in parts:
+            idx = parts.index("dataset_final")
+            rel = Path(*parts[idx + 1 :]) if idx + 1 < len(parts) else Path(".")
+            candidate = DATASET_LIGHT_ROOT / rel
+            if candidate.exists():
+                return str(candidate)
+    except Exception:
+        pass
+    # Fallback: on garde le chemin original si on ne trouve rien dans dataset_light
+    return original_path
+
 # Titre
 st.title("📸 Détection Intelligente des Plantes")
 st.markdown(
@@ -270,7 +293,9 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                 col = cols[idx % 3]
                 with col:
                     try:
-                        ref_img = Image.open(n["image_path"]).convert("RGB")
+                        source_path = n["image_path"]
+                        light_path = _map_to_dataset_light(source_path)
+                        ref_img = Image.open(light_path).convert("RGB")
                         st.image(ref_img, use_column_width=True)
                     except Exception:
                         st.warning("Image non disponible")
