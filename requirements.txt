@@ -18,3 +18,7 @@ albumentations
 
 fpdf2
 plotly
+
+huggingface_hub
+timm
+faiss-cpu
