@@ -16,7 +16,6 @@ Pillow==10.1.0
 albumentations==2.0.8
 
 fpdf2==2.8.5
-
 plotly==5.17.0
 
-rich<14
+rich==13.7.1
