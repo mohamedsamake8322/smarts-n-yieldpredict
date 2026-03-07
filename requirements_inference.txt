@@ -14,7 +14,7 @@ faiss-cpu>=1.7.4
 # Image processing
 opencv-python>=4.8.0
 Pillow>=10.0.0
-
+huggingface_hub
 # Data handling
 numpy>=1.24.0
 pandas>=2.0.0

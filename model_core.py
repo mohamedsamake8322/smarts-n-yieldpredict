@@ -25,6 +25,8 @@ from PIL import Image
 import torch
 import sys
 sys.path.append(".")
+
+from huggingface_hub import hf_hub_download
 try:
     import faiss  # type: ignore
 except Exception:  # pragma: no cover - FAISS optionnel
@@ -37,6 +39,9 @@ MODELS_PATH_PHASE2 = Path("./outputs/phase2_swin_base_production/models")
 DATASET_ROOT_LOCAL = Path("./dataset_final")
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# Référentiel Hugging Face contenant les artefacts du modèle
+MODEL_REPO = "mohamedsamake8322/plant-diseaseS-swin-faiss"
 
 
 def load_phase2_model_and_metadata(
@@ -55,12 +60,21 @@ def load_phase2_model_and_metadata(
     metric_model_path = models_path / "metric_model.pt"
     metadata_path = models_path / "metadata.pkl"
 
+    # 1) On tente d'utiliser les fichiers locaux (utile en dev hors-ligne)
     if not metric_model_path.exists() or not metadata_path.exists():
-        raise RuntimeError(
-            f"Fichiers manquants dans {models_path}. "
-            "Assure-toi d'y avoir copié metric_model.pt et metadata.pkl "
-            "de la phase2_swin_base_production."
-        )
+        # 2) Fallback pro : téléchargement depuis Hugging Face
+        try:
+            metric_model_path = Path(
+                hf_hub_download(repo_id=MODEL_REPO, filename="metric_model.pt")
+            )
+            metadata_path = Path(
+                hf_hub_download(repo_id=MODEL_REPO, filename="metadata.pkl")
+            )
+        except Exception as e:
+            raise RuntimeError(
+                f"Impossible de trouver les artefacts modèles localement dans {models_path} "
+                f"et le téléchargement depuis Hugging Face a échoué: {e}"
+            ) from e
 
     import pickle
 
@@ -86,6 +100,15 @@ def load_phase2_model_and_metadata(
         models_path / "faiss_index.bin"
     )
     faiss_index_file = Path(faiss_index_path)
+
+    # Si l'index FAISS n'existe pas localement, on essaie de le récupérer depuis Hugging Face
+    if faiss is not None and not faiss_index_file.exists():
+        try:
+            faiss_index_file = Path(
+                hf_hub_download(repo_id=MODEL_REPO, filename="faiss_index.bin")
+            )
+        except Exception:
+            faiss_index_file = Path("")
     if faiss is not None and faiss_index_file.exists():
         try:
             index = faiss.read_index(str(faiss_index_file))
