@@ -71,12 +71,125 @@ def _map_to_dataset_light(original_path: str) -> str:
     # Fallback: on garde le chemin original si on ne trouve rien dans dataset_light
     return original_path
 
-# Titre
-st.title("📸 Détection Intelligente des Plantes")
-st.markdown(
-    "Téléversez une image pour identifier la **maladie probable** et comparer avec quelques images similaires."
-)
 
+def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
+    """
+    Heuristique simple pour filtrer les images qui ne sont manifestement
+    pas des feuilles de cultures (basée sur la dominance du canal vert).
+    Ce n'est pas un classifieur, juste un garde‑fou UX.
+    """
+    try:
+        arr = np.array(image.convert("RGB")).astype("float32") / 255.0
+        r, g, b = arr[:, :, 0], arr[:, :, 1], arr[:, :, 2]
+        green_dominance = (g > r) & (g > b)
+        ratio_green = float(green_dominance.mean())
+        return ratio_green >= green_threshold
+    except Exception:
+        return True  # en cas de doute, on laisse l'IA décider
+
+
+# --------------------------
+# Internationalisation simple
+# --------------------------
+
+SUPPORTED_LANGS = {
+    "fr": "Français",
+    "en": "English",
+    "tr": "Türkçe",
+    "sw": "Kiswahili",
+    "ha": "Hausa",
+}
+
+TRANSLATIONS = {
+    "page_title": {
+        "fr": "📸 Détection Intelligente des Plantes",
+        "en": "📸 Smart Plant Disease Detection",
+        "tr": "📸 Akıllı Bitki Hastalığı Tespiti",
+        "sw": "📸 Utambuzi Mahiri wa Magonjwa ya Mimea",
+        "ha": "📸 Ganewar Cutar Shuka Mai Hikima",
+    },
+    "page_subtitle": {
+        "fr": "Téléversez une image pour identifier la **maladie probable** et comparer avec quelques images similaires.",
+        "en": "Upload an image to identify the **most probable disease** and compare with similar examples.",
+        "tr": "En olası hastalığı belirlemek ve benzer örneklerle karşılaştırmak için bir görüntü yükleyin.",
+        "sw": "Pakia picha ili kutambua **ugonjwa unaowezekana zaidi** na kuulinganisha na mifano inayofanana.",
+        "ha": "Loda hoto don gano **mummanan cutar da za ta fi yiwuwa** kuma kwatanta ta da hotuna makamanta.",
+    },
+    "sidebar_instructions": {
+        "fr": "1. **Prenez une photo** avec votre caméra\n2. **Ou téléversez** une image depuis votre galerie\n3. Attendez l'**analyse par l'IA**\n4. Consultez les **résultats et recommandations**",
+        "en": "1. **Take a photo** with your camera\n2. **Or upload** an image from your gallery\n3. Wait for the **AI analysis**\n4. Check the **results and recommendations**",
+        "tr": "1. Kameranızla **fotoğraf çekin**\n2. Ya da galerinizden bir **görüntü yükleyin**\n3. **Yapay zekâ analizini** bekleyin\n4. **Sonuçları ve önerileri** inceleyin",
+        "sw": "1. **Piga picha** kwa kutumia kamera\n2. Au **pakia** picha kutoka kwenye galeri\n3. Subiri **uchambuzi wa AI**\n4. Angalia **matokeo na mapendekezo**",
+        "ha": "1. **Dauki hoto** da kamara\n2. Ko **loda** hoto daga gallery\n3. Jira **binciken AI**\n4. Duba **sakamako da shawarwari**",
+    },
+    "image_to_analyze": {
+        "fr": "🖼️ Image à analyser",
+        "en": "🖼️ Image to analyze",
+        "tr": "🖼️ Analiz edilecek görüntü",
+        "sw": "🖼️ Picha ya kuchambua",
+        "ha": "🖼️ Hoton da za a bincika",
+    },
+    "analyze_button": {
+        "fr": "🔍 Lancer la détection",
+        "en": "🔍 Run detection",
+        "tr": "🔍 Tespiti başlat",
+        "sw": "🔍 Anzisha utambuzi",
+        "ha": "🔍 Fara gano cuta",
+    },
+    "analysis_done": {
+        "fr": "✅ Analyse terminée !",
+        "en": "✅ Analysis completed!",
+        "tr": "✅ Analiz tamamlandı!",
+        "sw": "✅ Uchambuzi umekamilika!",
+        "ha": "✅ Bincike ya kammala!",
+    },
+    "probable_disease": {
+        "fr": "🦠 Maladie probable",
+        "en": "🦠 Probable disease",
+        "tr": "🦠 Muhtemel hastalık",
+        "sw": "🦠 Ugonjwa unaowezekana",
+        "ha": "🦠 Cutar da ake zargi",
+    },
+    "unknown_disease": {
+        "fr": "Maladie inconnue – veuillez essayer une autre image ou consulter un expert.",
+        "en": "Unknown disease – please try another image or consult an expert.",
+        "tr": "Bilinmeyen hastalık – lütfen başka bir görüntü deneyin veya bir uzmana danışın.",
+        "sw": "Ugonjwa haujatambuliwa – tafadhali jaribu picha nyingine au wasiliana na mtaalam.",
+        "ha": "An kasa gane cutar – don Allah a gwada wani hoto ko a tuntuɓi ƙwararre.",
+    },
+    "visual_confirmation": {
+        "fr": "### 🔎 Confirmation visuelle",
+        "en": "### 🔎 Visual confirmation",
+        "tr": "### 🔎 Görsel doğrulama",
+        "sw": "### 🔎 Uthibitisho wa kuona",
+        "ha": "### 🔎 Tabbatarwa ta gani",
+    },
+    "not_leaf_message": {
+        "fr": "Cette image ne ressemble pas à une feuille de culture. Veuillez prendre une photo plus proche de la feuille ou choisir une autre image.",
+        "en": "This image does not look like a crop leaf. Please take a closer photo of the leaf or choose another image.",
+        "tr": "Bu görüntü bir ürün yaprağına benzemiyor. Lütfen yaprağa daha yakın bir fotoğraf çekin veya başka bir görüntü seçin.",
+        "sw": "Picha hii haionekani kama jani la zao. Tafadhali piga picha karibu zaidi ya jani au chagua picha nyingine.",
+        "ha": "Wannan hoto ba ya kama da ganyen amfanin gona. Don Allah dauki hoto kusa da ganyen ko ka zabi wani hoto.",
+    },
+}
+
+
+def get_lang() -> str:
+    if "lang" not in st.session_state:
+        st.session_state["lang"] = "fr"
+    return st.session_state["lang"]
+
+
+def t(key: str) -> str:
+    lang = get_lang()
+    return TRANSLATIONS.get(key, {}).get(
+        lang, TRANSLATIONS.get(key, {}).get("fr", key)
+    )
+
+
+# Titre
+st.title(t("page_title"))
+st.markdown(t("page_subtitle"))
 
 @st.cache_resource
 def load_model_and_index():
@@ -167,13 +280,19 @@ def diagnose_image(
 
 # Sidebar
 st.sidebar.title("📸 Détection")
+
+# Sélecteur de langue
+current_lang = get_lang()
+lang_options = [f"{code.upper()} - {label}" for code, label in SUPPORTED_LANGS.items()]
+default_index = list(SUPPORTED_LANGS.keys()).index(current_lang)
+selected = st.sidebar.selectbox("🌐 Langue / Language", lang_options, index=default_index)
+for code, label in SUPPORTED_LANGS.items():
+    if selected.startswith(code.upper()):
+        st.session_state["lang"] = code
+        break
+
 st.sidebar.markdown("### Instructions")
-st.sidebar.markdown("""
-1. **Prenez une photo** avec votre caméra
-2. **Ou téléversez** une image depuis votre galerie
-3. Attendez l'**analyse par l'IA**
-4. Consultez les **résultats et recommandations**
-""")
+st.sidebar.markdown(t("sidebar_instructions"))
 
 # Zone de capture/téléversement
 col1, col2 = st.columns([1, 1])
@@ -236,26 +355,33 @@ with col2:
 # Afficher l'image sélectionnée
 if 'uploaded_image' in st.session_state:
     st.markdown("---")
-    st.subheader("🖼️ Image à analyser")
+    st.subheader(t("image_to_analyze"))
     
     st.markdown("#### Image analysée")
     st.image(st.session_state.uploaded_image, use_column_width=True)
     
     # Bouton de détection
-    if st.button("🔍 Lancer la détection", type="primary", use_container_width=True):
+    if st.button(t("analyze_button"), type="primary", use_container_width=True):
         with st.spinner("🔬 Analyse de l'image en cours..."):
             try:
-                # Ouvrir l'image et lancer le pipeline metric learning
+                # Ouvrir l'image
                 image = Image.open(io.BytesIO(st.session_state.image_bytes)).convert("RGB")
-                diagnosis = diagnose_image(
-                    image,
-                    uploaded_image_path=st.session_state.get("uploaded_image_path"),
-                    k=5,
-                    unknown_threshold=0.55,
-                )
 
-                st.session_state.detection_result = diagnosis
-                st.session_state.show_results = True
+                # Garde‑fou: image manifestement non végétale
+                if not _is_plant_like(image):
+                    st.error(t("not_leaf_message"))
+                    st.session_state.show_results = False
+                else:
+                    # Lancer le pipeline metric learning
+                    diagnosis = diagnose_image(
+                        image,
+                        uploaded_image_path=st.session_state.get("uploaded_image_path"),
+                        k=5,
+                        unknown_threshold=0.55,
+                    )
+
+                    st.session_state.detection_result = diagnosis
+                    st.session_state.show_results = True
                 
             except Exception as e:
                 st.error(f"❌ Erreur lors de la détection: {str(e)}")
@@ -266,21 +392,21 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     diagnosis = st.session_state.detection_result
 
     st.markdown("---")
-    st.success("✅ Analyse terminée !")
+    st.success(t("analysis_done"))
 
     pred_disease = diagnosis.get("predicted_disease")
     is_unknown = diagnosis.get("is_unknown", False)
     neighbors = diagnosis.get("neighbors", [])
 
-    st.subheader("🦠 Maladie probable")
+    st.subheader(t("probable_disease"))
     if is_unknown or not pred_disease or pred_disease == "UNKNOWN DISEASE":
-        st.error("Maladie inconnue – veuillez essayer une autre image ou consulter un expert.")
+        st.error(t("unknown_disease"))
     else:
         st.markdown(f"## 🌿 {pred_disease}")
 
     # Visual confirmation : 3–4 images similaires de la même classe
     if neighbors:
-        st.markdown("### 🔎 Confirmation visuelle")
+        st.markdown(t("visual_confirmation"))
 
         if pred_disease and pred_disease != "UNKNOWN DISEASE":
             confirmation = [n for n in neighbors if n["disease"] == pred_disease][:4]
