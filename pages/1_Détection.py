@@ -72,6 +72,30 @@ def _map_to_dataset_light(original_path: str) -> str:
     return original_path
 
 
+def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]:
+    """
+    Récupère jusqu'à max_images images dans dataset_light pour une maladie donnée.
+    On essaie plusieurs variantes de nom de dossier pour être robuste
+    (espaces vs underscores).
+    """
+    candidates = [
+        disease_name,
+        disease_name.replace(" ", "_"),
+        disease_name.replace(" ", ""),
+    ]
+
+    for name in candidates:
+        disease_dir = DATASET_LIGHT_ROOT / name
+        if disease_dir.exists() and disease_dir.is_dir():
+            imgs = []
+            for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
+                imgs.extend(sorted(str(p) for p in disease_dir.glob(ext)))
+            if imgs:
+                return imgs[:max_images]
+
+    return []
+
+
 def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
     """
     Heuristique simple pour filtrer les images qui ne sont manifestement
@@ -404,24 +428,19 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     else:
         st.markdown(f"## 🌿 {pred_disease}")
 
-    # Visual confirmation : 3–4 images similaires de la même classe
-    if neighbors:
+    # Visual confirmation : 3–4 images de dataset_light pour la classe prédite
+    if not is_unknown and pred_disease:
         st.markdown(t("visual_confirmation"))
 
-        if pred_disease and pred_disease != "UNKNOWN DISEASE":
-            confirmation = [n for n in neighbors if n["disease"] == pred_disease][:4]
-        else:
-            confirmation = neighbors[:4]
+        light_images = _get_light_images_for_disease(pred_disease, max_images=4)
 
-        if confirmation:
-            cols = st.columns(3)
-            for idx, n in enumerate(confirmation):
-                col = cols[idx % 3]
+        if light_images:
+            cols = st.columns(min(3, len(light_images)))
+            for idx, img_path in enumerate(light_images):
+                col = cols[idx % len(cols)]
                 with col:
                     try:
-                        source_path = n["image_path"]
-                        light_path = _map_to_dataset_light(source_path)
-                        ref_img = Image.open(light_path).convert("RGB")
+                        ref_img = Image.open(img_path).convert("RGB")
                         st.image(ref_img, use_column_width=True)
                     except Exception:
                         st.warning("Image non disponible")

@@ -113,6 +113,9 @@ def load_phase2_model_and_metadata(
         model_name=model_name, embedding_dim=embedding_dim, image_size=image_size
     )
     model.load_state_dict(checkpoint["model_state_dict"])
+    # On peut maintenant libérer le checkpoint pour réduire l'empreinte mémoire
+    del checkpoint
+
     model = model.to(DEVICE)
     model.eval()
 
