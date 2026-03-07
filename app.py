@@ -1,5 +1,5 @@
 """
-Application principale Agro-Scan avec Streamlit
+Application principale Sènè Disease Detection avec Streamlit
 Interface inspirée de Plantix mais avec des fonctionnalités uniques
 """
 
@@ -35,14 +35,14 @@ import json
 
 # Configuration de la page Streamlit
 st.set_page_config(
-    page_title="Agro-Scan - Détection Intelligente",
+    page_title="Sènè Disease Detection - Détection Intelligente",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
         'Get Help': None,
         'Report a bug': None,
-        'About': "# Agro-Scan\nApplication intelligente de détection des plantes et maladies agricoles"
+        'About': "# Sènè Disease Detection\nApplication intelligente de détection des maladies des cultures"
     }
 )
 
@@ -88,7 +88,7 @@ services = get_services()
 header_col1, header_col2 = st.columns([3, 1])
 
 with header_col1:
-    st.markdown("### 🌱 Agro-Scan")
+    st.markdown("### 🌱 Sènè Disease Detection")
 
 with header_col2:
     if st.button("⚙️", help="Paramètres"):

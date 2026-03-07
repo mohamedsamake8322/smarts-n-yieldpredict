@@ -6,7 +6,7 @@ import streamlit as st
 
 # Configuration de la page - DOIT être la première commande Streamlit
 st.set_page_config(
-    page_title="Agro-Scan - Accueil",
+    page_title="Sènè Disease Detection - Accueil",
     page_icon="🌱",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -149,8 +149,8 @@ st.markdown("""
     <div class="logo-circle">
         <div class="logo-plant">🌱</div>
     </div>
-    <h1 class="app-title">Agro-Scan</h1>
-    <p class="app-subtitle">Détection Intelligente des Plantes</p>
+    <h1 class="app-title">Sènè Disease Detection</h1>
+    <p class="app-subtitle">Détection intelligente des maladies des cultures</p>
     <div class="loading-bar">
         <div class="loading-progress"></div>
     </div>
@@ -164,6 +164,6 @@ if 'splash_shown' not in st.session_state:
     st.session_state.splash_shown = True
     st.rerun()
 else:
-    # Rediriger vers la page principale
-    st.switch_page("app.py")
+    # Rediriger vers la page de détection principale
+    st.switch_page("pages/1_Détection.py")
 
