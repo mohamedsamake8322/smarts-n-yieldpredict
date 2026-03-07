@@ -67,7 +67,7 @@ frontend/.vite/
 .DS_Store
 Thumbs.db
 local_model
-
+Moh
 # Testing
 .pytest_cache/
 .coverage
