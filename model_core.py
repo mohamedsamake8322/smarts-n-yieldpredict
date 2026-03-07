@@ -38,7 +38,10 @@ from training_pipelines.metric_training_core import DiagnosticModel  # type: ign
 MODELS_PATH_PHASE2 = Path("./outputs/phase2_swin_base_production/models")
 DATASET_ROOT_LOCAL = Path("./dataset_final")
 
-DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# Sur Streamlit Cloud, il n'y a pas de GPU disponible.
+# Pour éviter les allocations inutiles et garder une empreinte mémoire prévisible,
+# on force l'utilisation du CPU pour l'inférence.
+DEVICE = torch.device("cpu")
 
 # Référentiel Hugging Face contenant les artefacts du modèle
 MODEL_REPO = "mohamedsamake8322/plant-diseaseS-swin-faiss"
@@ -81,6 +84,25 @@ def load_phase2_model_and_metadata(
     with open(metadata_path, "rb") as f:
         metadata = pickle.load(f)
 
+    # Pour limiter l'empreinte mémoire en production (Streamlit Cloud),
+    # on supprime explicitement les champs lourds dont on n'a pas besoin
+    # pour l'inférence (embeddings bruts, métriques détaillées, etc.).
+    for heavy_key in [
+        "embeddings",
+        "train_embeddings",
+        "val_embeddings",
+        "test_embeddings",
+        "logits",
+        "train_metrics",
+        "val_metrics",
+    ]:
+        if heavy_key in metadata:
+            try:
+                tmp = metadata.pop(heavy_key, None)
+                del tmp
+            except Exception:
+                metadata[heavy_key] = None
+
     checkpoint = torch.load(metric_model_path, map_location=DEVICE)
     cfg = checkpoint.get("config", {})
     model_name = cfg.get("model_name", "swin_base_patch4_window7_224")
@@ -111,16 +133,8 @@ def load_phase2_model_and_metadata(
             faiss_index_file = Path("")
     if faiss is not None and faiss_index_file.exists():
         try:
+            # Index FAISS chargé en CPU uniquement (pas de GPU sur Streamlit Cloud)
             index = faiss.read_index(str(faiss_index_file))
-
-            # Si un GPU est disponible, on tente de déplacer l'index FAISS en GPU
-            if torch.cuda.is_available():
-                try:
-                    res = faiss.StandardGpuResources()
-                    index = faiss.index_cpu_to_gpu(res, 0, index)
-                except Exception:
-                    # On reste en CPU si la conversion GPU échoue
-                    pass
         except Exception:
             index = None
 
