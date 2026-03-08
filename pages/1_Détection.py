@@ -48,6 +48,20 @@ from utils.styles import load_custom_css
 
 load_custom_css()
 
+# Initialisation de l'état de session
+def init_session_state():
+    defaults = {
+        "uploaded_image": None,
+        "image_bytes": None,
+        "uploaded_image_path": None,
+        "lang": "fr",
+    }
+    for key, value in defaults.items():
+        if key not in st.session_state:
+            st.session_state[key] = value
+
+init_session_state()
+
 # Dossier des images légères pour la confirmation visuelle
 DATASET_LIGHT_ROOT = Path("dataset_light")
 
@@ -382,7 +396,11 @@ if 'uploaded_image' in st.session_state:
     st.subheader(t("image_to_analyze"))
     
     st.markdown("#### Image analysée")
-    st.image(st.session_state.uploaded_image, use_column_width=True)
+    # Utiliser image_bytes au lieu de l'objet PIL pour éviter les problèmes de format
+    if 'image_bytes' in st.session_state and st.session_state.image_bytes:
+        st.image(st.session_state.image_bytes, use_column_width=True)
+    elif st.session_state.uploaded_image is not None:
+        st.image(st.session_state.uploaded_image, use_column_width=True)
     
     # Bouton de détection
     if st.button(t("analyze_button"), type="primary", use_container_width=True):
