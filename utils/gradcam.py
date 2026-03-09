@@ -5,8 +5,8 @@ import numpy as np
 
 def generate_gradcam(model: torch.nn.Module, image_tensor: torch.Tensor, target_layer: torch.nn.Module):
     """
-    Génère une carte Grad-CAM normalisée (0‑1) pour une image.
-    image_tensor: tensor de forme (1, C, H, W) déjà sur le bon device.
+    Generate a normalized (0-1) Grad-CAM heatmap for an image.
+    image_tensor: tensor of shape (1, C, H, W) already on the correct device.
     """
     gradients = []
     activations = []

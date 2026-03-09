@@ -1,5 +1,5 @@
 """
-Intégration du modèle Phi-3-mini pour Agro-Scan
+Integration of the Phi-3-mini model for Agro-Scan
 """
 
 import os
@@ -12,7 +12,7 @@ import requests
 logger = logging.getLogger(__name__)
 
 class ModelManager:
-    """Gestionnaire du modèle local Phi-3-mini"""
+    """Local Phi-3-mini model manager"""
     
     def __init__(self):
         self.model_path = Path("local_model/Phi-3-mini-4k-instruct-q4.gguf")
@@ -22,21 +22,21 @@ class ModelManager:
         self.is_running = False
     
     def check_model_exists(self):
-        """Vérifie si le modèle existe"""
+        """Check if model file exists"""
         return self.model_path.exists()
     
     def start_server(self):
-        """Démarre le serveur du modèle"""
+        """Start the model server"""
         if not self.check_model_exists():
-            logger.warning(f"Modèle non trouvé: {self.model_path}")
+            logger.warning(f"Model not found: {self.model_path}")
             return False
         
         if self.is_server_running():
-            logger.info("Le serveur du modèle est déjà en cours d'exécution")
+            logger.info("Model server is already running")
             return True
         
         try:
-            # Démarrer le serveur en arrière-plan
+            # Start the server in the background
             self.server_process = subprocess.Popen(
                 ["python", str(self.server_script)],
                 cwd=str(self.server_script.parent.parent),
@@ -44,34 +44,34 @@ class ModelManager:
                 stderr=subprocess.PIPE
             )
             
-            # Attendre que le serveur démarre
+            # Wait for the server to start
             for _ in range(10):
                 time.sleep(1)
                 if self.is_server_running():
                     self.is_running = True
-                    logger.info("Serveur du modèle démarré avec succès")
+                    logger.info("Model server started successfully")
                     return True
             
-            logger.error("Le serveur n'a pas démarré dans les temps")
+            logger.error("Server did not start in time")
             return False
             
         except Exception as e:
-            logger.error(f"Erreur lors du démarrage du serveur: {str(e)}")
+            logger.error(f"Error starting server: {str(e)}")
             return False
     
     def stop_server(self):
-        """Arrête le serveur du modèle"""
+        """Stop the model server"""
         if self.server_process:
             try:
                 self.server_process.terminate()
                 self.server_process.wait(timeout=5)
                 self.is_running = False
-                logger.info("Serveur du modèle arrêté")
+                logger.info("Model server stopped")
             except Exception as e:
-                logger.error(f"Erreur lors de l'arrêt du serveur: {str(e)}")
+                logger.error(f"Error stopping server: {str(e)}")
     
     def is_server_running(self):
-        """Vérifie si le serveur est en cours d'exécution"""
+        """Check if server is running"""
         try:
             response = requests.get(f"{self.server_url}/docs", timeout=2)
             return response.status_code == 200
@@ -79,7 +79,7 @@ class ModelManager:
             return False
     
     def get_model_info(self):
-        """Retourne les informations sur le modèle"""
+        """Return model info"""
         info = {
             "model_path": str(self.model_path),
             "model_exists": self.check_model_exists(),

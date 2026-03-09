@@ -1,16 +1,16 @@
 """
-Styles CSS personnalisés pour Streamlit
-Responsive design pour mobile, tablette et ordinateur
+Custom CSS styles for Streamlit
+Responsive design for mobile, tablet, and desktop
 """
 
 import streamlit as st
 
 def load_mobile_css():
-    """Charge le CSS mobile-first pour l'application"""
+    """Load mobile-first CSS for the application"""
     
     mobile_css = """
     <style>
-    /* Design mobile-first inspiré de Plantix */
+    /* Mobile-first design inspired by Plantix */
     .main {
         padding: 0.5rem;
     }
@@ -37,7 +37,7 @@ def load_mobile_css():
         box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     }
     
-    /* Boutons circulaires pour cultures */
+    /* Circular buttons for crops */
     .crop-button {
         width: 80px;
         height: 80px;
@@ -78,7 +78,7 @@ def load_mobile_css():
         right: -5px;
     }
     
-    /* Navigation inférieure */
+    /* Bottom navigation */
     .bottom-nav {
         position: fixed;
         bottom: 0;
@@ -108,7 +108,7 @@ def load_mobile_css():
         }
     }
     
-    /* Masquer les éléments Streamlit */
+    /* Hide Streamlit elements */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
@@ -118,11 +118,11 @@ def load_mobile_css():
     st.markdown(mobile_css, unsafe_allow_html=True)
 
 def load_custom_css():
-    """Charge le CSS personnalisé pour l'application"""
+    """Load custom CSS for the application"""
     
     custom_css = """
     <style>
-    /* Styles généraux */
+    /* General styles */
     .main {
         padding: 1rem;
     }
@@ -172,14 +172,14 @@ def load_custom_css():
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
     
-    /* Styles pour les métriques */
+    /* Styles for metrics */
     .stMetric {
         background-color: #f8f9fa;
         border-radius: 8px;
         padding: 1rem;
     }
     
-    /* Amélioration de la sidebar */
+    /* Sidebar enhancements */
     .css-1d391kg {
         padding-top: 3rem;
     }
@@ -217,14 +217,14 @@ def load_custom_css():
         gap: 8px;
     }
     
-    /* Amélioration de la lisibilité sur mobile */
+    /* Improving mobile readability */
     @media (max-width: 480px) {
         .stMarkdown {
             font-size: 0.9rem;
         }
         
         .stTextInput>div>div>input {
-            font-size: 16px; /* Évite le zoom sur iOS */
+            font-size: 16px; /* Prevent zoom on iOS */
         }
     }
     
@@ -249,13 +249,13 @@ def load_custom_css():
     st.markdown(custom_css, unsafe_allow_html=True)
 
 def load_mobile_css():
-    """Charge le CSS spécifique pour mobile"""
+    """Load mobile-specific CSS"""
     
     mobile_css = """
     <style>
     /* Optimisations mobile */
     @media (max-width: 768px) {
-        /* Réduction des espacements */
+        /* Reduce spacing */
         .main .block-container {
             padding: 0.5rem;
         }
@@ -278,19 +278,19 @@ def load_mobile_css():
             line-height: 1.6;
         }
         
-        /* Colonnes empilées sur mobile */
+        /* Stacked columns on mobile */
         [data-testid="column"] {
             width: 100% !important;
             margin-bottom: 1rem;
         }
     }
     
-    /* Amélioration du scroll sur mobile */
+    /* Improve mobile scrolling */
     .main {
         -webkit-overflow-scrolling: touch;
     }
     
-    /* Touch targets optimisés */
+    /* Optimized touch targets */
     button, a, [role="button"] {
         min-height: 44px;
         min-width: 44px;

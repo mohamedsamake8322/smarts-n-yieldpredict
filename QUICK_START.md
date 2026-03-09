@@ -37,9 +37,9 @@ The app opens at: **`http://localhost:8501`**
 | 🔍 Detect | `pages/1_Detect_Disease.py` | AI diagnosis with feedback |
 | 📜 History | `pages/2_History.py` | See all past diagnoses |
 | 📊 Stats | `pages/3_Statistics.py` | Platform analytics |
-| 👥 Community | `pages/4_Community.py` | Join Facebook group |
-| 📚 Library | `pages/5_Library.py` | Disease knowledge base |
-| 👤 Profile | `pages/6_Profile.py` | Your user settings |
+| 👥 Community | `pages/4_Farmers_Community.py` | Join Facebook group |
+| 📚 Library | `pages/5_Disease_Library.py` | Disease knowledge base |
+| 👤 Profile | `pages/6_User_Dashboard.py` | Your user settings |
 
 ### **Automatic Data Storage**
 
@@ -96,7 +96,7 @@ The app opens at: **`http://localhost:8501`**
 ## 🔧 Quick Customization
 
 ### **Update Facebook Community Link**
-File: `pages/4_Community.py`
+File: `pages/4_Farmers_Community.py`
 ```python
 # Line ~40, change:
 "https://www.facebook.com/share/1AkjYeh8ty/"  # YOUR URL HERE
@@ -124,7 +124,7 @@ st.title("🌾 YOUR PLATFORM NAME")
 ```
 
 ### **Add Country/Crops**
-File: `pages/6_Profile.py`
+File: `pages/6_User_Dashboard.py`
 ```python
 st.selectbox("Country", ["Your Country", ...])
 ```

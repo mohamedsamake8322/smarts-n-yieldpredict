@@ -330,8 +330,8 @@ with col2:
 
         if is_unknown:
             st.warning(
-                "⚠️ Similarite sous le seuil: cas marque comme **UNKNOWN DISEASE**. "
-                "A verifier avec un expert ou a ajouter comme nouvelle classe."
+                "⚠️ Similarity below threshold: case marked **UNKNOWN DISEASE**. "
+                "Please check with an expert or add as a new class."
             )
         
         # All results table

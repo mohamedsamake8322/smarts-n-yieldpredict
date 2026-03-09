@@ -62,9 +62,9 @@ The app will:
 | 🔍 **Detect Disease** | `pages/1_Detect_Disease.py` | AI diagnosis with image upload and feedback |
 | 📜 **History** | `pages/2_History.py` | View all past diagnoses with charts |
 | 📊 **Statistics** | `pages/3_Statistics.py` | Global platform analytics |
-| 👥 **Community** | `pages/4_Community.py` | Facebook integration + expert consultation |
-| 📚 **Library** | `pages/5_Library.py` | Disease knowledge base with treatments |
-| 👤 **Profile** | `pages/6_Profile.py` | User profile, settings, community standing |
+| 👥 **Community** | `pages/4_Farmers_Community.py` | Facebook integration + expert consultation |
+| 📚 **Library** | `pages/5_Disease_Library.py` | Disease knowledge base with treatments |
+| 👤 **Profile** | `pages/6_User_Dashboard.py` | User profile, settings, community standing |
 
 ## 💾 Data Storage Architecture
 
@@ -297,7 +297,7 @@ unknown_threshold = st.slider(
 ```
 
 ### Change Facebook Link
-In `pages/4_Community.py`:
+In `pages/4_Farmers_Community.py`:
 ```python
 "https://www.facebook.com/share/1AkjYeh8ty/"  # ← Replace with your group
 ```

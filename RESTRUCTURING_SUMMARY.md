@@ -32,9 +32,9 @@ save_wrong_image_for_review(image_bytes, disease, confidence)
 | 🔍 | Detect Disease | `pages/1_Detect_Disease.py` | AI diagnosis with feedback |
 | 📜 | History | `pages/2_History.py` | Traceable diagnosis history |
 | 📊 | Statistics | `pages/3_Statistics.py` | Platform analytics |
-| 👥 | Community | `pages/4_Community.py` | Facebook community link |
-| 📚 | Library | `pages/5_Library.py` | Disease knowledge base |
-| 👤 | Profile | `pages/6_Profile.py` | User settings & stats |
+| 👥 | Community | `pages/4_Farmers_Community.py` | Facebook community link |
+| 📚 | Library | `pages/5_Disease_Library.py` | Disease knowledge base |
+| 👤 | Profile | `pages/6_User_Dashboard.py` | User settings & stats |
 
 ---
 
@@ -84,7 +84,7 @@ save_wrong_image_for_review(image_bytes, disease, confidence)
 - ✅ Quality metrics analysis
 - ✅ Platform insights
 
-### 👥 **COMMUNITY** (`pages/4_Community.py`)
+### 👥 **COMMUNITY** (`pages/4_Farmers_Community.py`)
 - ✅ **Facebook Integration**: Direct link to group
   - `https://www.facebook.com/share/1AkjYeh8ty/`
 - ✅ Forum section (coming soon)
@@ -94,7 +94,7 @@ save_wrong_image_for_review(image_bytes, disease, confidence)
 - ✅ Community guidelines
 - ✅ Event registration system
 
-### 📚 **LIBRARY** (`pages/5_Library.py`)
+### 📚 **LIBRARY** (`pages/5_Disease_Library.py`)
 - ✅ Disease search & filter
 - ✅ 5 disease categories:
   - 🦠 Fungal diseases
@@ -113,7 +113,7 @@ save_wrong_image_for_review(image_bytes, disease, confidence)
 - ✅ Quick reference guides
 - ✅ Prevention strategies
 
-### 👤 **PROFILE** (`pages/6_Profile.py`)
+### 👤 **PROFILE** (`pages/6_User_Dashboard.py`)
 - ✅ 4 tabs:
   - 📋 Profile info (name, email, country, farm size, crops, experience)
   - 📊 My statistics (scans, contributions, points, achievements)

@@ -1,17 +1,17 @@
 """
-PROFILE - User Profile & Settings Page
+USER DASHBOARD - Profile & Settings Page
 """
 
 import streamlit as st
 from utils.storage import get_user_stats, create_or_update_user
 
 st.set_page_config(
-    page_title="👤 Profile",
+    page_title="👤 User Dashboard",
     page_icon="👤",
     layout="wide",
 )
 
-st.title("👤 My Profile")
+st.title("👤 User Dashboard")
 st.markdown("Manage your profile, view statistics, and customize settings.")
 
 st.markdown("---")

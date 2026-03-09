@@ -1,5 +1,5 @@
 """
-Utilitaires d'animation pour Streamlit
+Animation utilities for Streamlit
 """
 
 import streamlit as st
@@ -8,7 +8,7 @@ import streamlit.components.v1 as components
 
 def typewriting_effect(placeholder, text, speed=0.03):
     """
-    Effet de machine à écrire pour le texte
+    Typewriter effect for text
     """
     try:
         displayed_text = ""
@@ -17,12 +17,12 @@ def typewriting_effect(placeholder, text, speed=0.03):
             placeholder.markdown(displayed_text)
             time.sleep(speed)
     except:
-        # En cas d'erreur, afficher directement
+        # On error, display text directly
         placeholder.markdown(text)
 
 def pulsing_title(components_module):
     """
-    Effet de pulsation pour le titre (optionnel)
+    Pulsing effect for the title (optional)
     """
     try:
         pulsing_css = """

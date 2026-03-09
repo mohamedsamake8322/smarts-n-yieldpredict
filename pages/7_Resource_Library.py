@@ -1,12 +1,12 @@
 """
-Page de la bibliothèque de ressources agricoles
+Agricultural resources library page
 """
 
 import streamlit as st
 
 # Configuration de la page - DOIT être la première commande Streamlit
 st.set_page_config(
-    page_title="Bibliothèque - Agro-Scan",
+    page_title="Resource Library - Agro-Scan",
     page_icon="📚",
     layout="wide"
 )
@@ -21,103 +21,103 @@ from utils.styles import load_custom_css, load_mobile_css
 load_custom_css()
 load_mobile_css()
 
-st.title("📚 Bibliothèque Agricole")
+st.title("📚 Agricultural Resource Library")
 
-# Onglets
-tab1, tab2, tab3 = st.tabs(["🌿 Conseils de Culture", "🦠 Maladies & Ravageurs", "⚠️ Alertes"])
+# Tabs
+tab1, tab2, tab3 = st.tabs(["🌿 Cultivation Tips", "🦠 Diseases & Pests", "⚠️ Alerts"])
 
 with tab1:
-    st.subheader("🌿 Conseils de Culture")
+    st.subheader("🌿 Cultivation Tips")
     
     crop_selected = st.selectbox(
-        "Sélectionnez une culture",
-        ["Tomate", "Maïs", "Riz", "Manioc", "Banane", "Cacao", "Café", "Arachide"]
+        "Select a crop",
+        ["Tomato", "Corn", "Rice", "Cassava", "Banana", "Cocoa", "Coffee", "Peanut"]
     )
     
-    if crop_selected == "Tomate":
+    if crop_selected == "Tomato":
         st.markdown("""
-        ### 🍅 Guide de culture de la Tomate
+        ### 🍅 Tomato Cultivation Guide
         
-        **Plantation:**
-        - Période: Février-Mars ou Septembre-Octobre
-        - Espacement: 50-60 cm entre plants, 80-100 cm entre rangs
-        - Profondeur: 5-7 cm
+        **Planting:**
+        - Season: February-March or September-October
+        - Spacing: 50-60 cm between plants, 80-100 cm between rows
+        - Depth: 5-7 cm
         
-        **Sol:**
-        - Sol bien drainé, riche en matière organique
-        - pH optimal: 6.0-6.8
-        - Éviter les sols trop acides
+        **Soil:**
+        - Well-drained soil rich in organic matter
+        - Optimal pH: 6.0-6.8
+        - Avoid overly acidic soils
         
-        **Arrosage:**
-        - Fréquence: 2-3 fois par semaine
-        - Quantité: 2-3 L par plant
-        - Éviter l'arrosage sur les feuilles
+        **Watering:**
+        - Frequency: 2-3 times per week
+        - Amount: 2-3 L per plant
+        - Avoid wetting leaves
         
-        **Fertilisation:**
-        - Engrais NPK 15-15-15: 200-300 kg/ha
+        **Fertilization:**
+        - NPK 15-15-15 fertilizer: 200-300 kg/ha
         - Compost: 10-15 tonnes/ha
-        - Fumure de fond avant plantation
+        - Basal dressing before planting
         
-        **Récolte:**
-        - 60-90 jours après plantation
-        - Récolter tôt le matin
-        - Conserver à température ambiante
+        **Harvesting:**
+        - 60-90 days after planting
+        - Harvest early morning
+        - Store at room temperature
         """)
     
-    elif crop_selected == "Maïs":
+    elif crop_selected == "Corn":
         st.markdown("""
-        ### 🌽 Guide de culture du Maïs
+        ### 🌽 Corn Cultivation Guide
         
-        **Plantation:**
-        - Période: Avril-Mai (saison des pluies)
-        - Espacement: 25-30 cm entre plants, 75-80 cm entre rangs
-        - Densité: 40,000-50,000 plants/ha
+        **Planting:**
+        - Season: April-May (rainy season)
+        - Spacing: 25-30 cm between plants, 75-80 cm between rows
+        - Density: 40,000-50,000 plants/ha
         
-        **Sol:**
-        - Sol profond, bien drainé
-        - pH optimal: 5.5-7.0
-        - Éviter les sols compacts
+        **Soil:**
+        - Deep, well-drained soil
+        - Optimal pH: 5.5-7.0
+        - Avoid compacted soils
         
-        **Arrosage:**
-        - Besoins: 500-800 mm pendant le cycle
-        - Critique pendant la floraison
-        - Irrigation si pluies insuffisantes
+        **Watering:**
+        - Needs: 500-800 mm during cycle
+        - Critical during flowering
+        - Irrigate if rainfall is insufficient
         
-        **Fertilisation:**
-        - Azote: 120-150 kg/ha
-        - Phosphore: 40-60 kg/ha
+        **Fertilization:**
+        - Nitrogen: 120-150 kg/ha
+        - Phosphorus: 40-60 kg/ha
         - Potassium: 80-100 kg/ha
         
-        **Récolte:**
-        - 90-120 jours après plantation
-        - Récolter à maturité physiologique
-        - Sécher rapidement après récolte
+        **Harvesting:**
+        - 90-120 days after planting
+        - Harvest at physiological maturity
+        - Dry quickly after harvest
         """)
     
     # Ajouter d'autres cultures...
 
 with tab2:
-    st.subheader("🦠 Base de données des Maladies & Ravageurs")
+    st.subheader("🦠 Diseases & Pests Database")
     
-    search_term = st.text_input("🔍 Rechercher une maladie ou un ravageur")
+    search_term = st.text_input("🔍 Search for a disease or pest")
     
     diseases_db = {
-        "Mildiou": {
-            "description": "Maladie fongique causée par Phytophthora infestans",
-            "symptoms": "Taches brunes sur les feuilles, duvet blanc au revers",
-            "affected_crops": ["Tomate", "Pomme de terre"],
-            "treatment": "Bouillie bordelaise, fongicides systémiques",
-            "prevention": "Éviter l'humidité excessive, espacement des plants"
+        "Late Blight": {
+            "description": "Fungal disease caused by Phytophthora infestans",
+            "symptoms": "Brown spots on leaves, white downy growth on underside",
+            "affected_crops": ["Tomato", "Potato"],
+            "treatment": "Bordeaux mixture, systemic fungicides",
+            "prevention": "Avoid excessive moisture, space plants apart"
         },
-        "Oïdium": {
-            "description": "Maladie fongique causée par différents champignons",
-            "symptoms": "Poudre blanche sur les feuilles et tiges",
-            "affected_crops": ["Cucurbitacées", "Vigne", "Rosiers"],
-            "treatment": "Soufre mouillable, fongicides anti-oïdium",
-            "prevention": "Bonne circulation d'air, traitement préventif"
+        "Powdery Mildew": {
+            "description": "Fungal disease caused by various fungi",
+            "symptoms": "White powder on leaves and stems",
+            "affected_crops": ["Cucurbits", "Grapevine", "Roses"],
+            "treatment": "Wettable sulfur, anti-mildew fungicides",
+            "prevention": "Good air circulation, preventive treatment"
         },
-        "Rouille": {
-            "description": "Maladie fongique causée par Puccinia spp.",
+        "Rust": {
+            "description": "Fungal disease caused by Puccinia spp.",
             "symptoms": "Pustules orange/brunes sur les feuilles",
             "affected_crops": ["Céréales", "Haricot"],
             "treatment": "Fongicides systémiques",

@@ -8,12 +8,12 @@ Fast customization guide for the agricultural AI platform
 # ============================================================================
 
 # 1. FACEBOOK COMMUNITY
-# File: pages/4_Community.py
+# File: pages/4_Farmers_Community.py
 # Find and replace this URL with yours:
 FACEBOOK_GROUP_URL = "https://www.facebook.com/share/1AkjYeh8ty/"
 
 # 2. SUPPORT EMAIL
-# File: app.py, pages/4_Community.py
+# File: app.py, pages/4_Farmers_Community.py
 SUPPORT_EMAIL = "contact@plantdisease.ai"
 
 # 3. PLATFORM NAME
@@ -21,7 +21,7 @@ SUPPORT_EMAIL = "contact@plantdisease.ai"
 PLATFORM_NAME = "🌾 AI Plant Disease Diagnostic Platform"
 
 # 4. AVAILABLE CROPS (for user profile)
-# File: pages/6_Profile.py
+# File: pages/6_User_Dashboard.py
 AVAILABLE_CROPS = [
     "Maize", "Rice", "Cassava", "Banana", "Potato",
     "Tomato", "Onion", "Pepper", "Beans", "Groundnut",
@@ -29,7 +29,7 @@ AVAILABLE_CROPS = [
 ]
 
 # 5. COUNTRIES FOR PROFILE
-# File: pages/6_Profile.py
+# File: pages/6_User_Dashboard.py
 COUNTRIES = [
     "Senegal", "Mali", "Côte d'Ivoire", "Burkina Faso", "Niger",
     "Ghana", "Nigeria", "Cameroon", "Kenya", "Tanzania",
@@ -248,7 +248,7 @@ PAGES:
 ├── pages/3_Statistics.py       # 📊 Platform analytics
 ├── pages/4_Community.py        # 👥 Community & Facebook
 ├── pages/5_Library.py          # 📚 Disease database
-├── pages/6_Profile.py          # 👤 User management
+├── pages/6_User_Dashboard.py          # 👤 User management
 │
 DATA:
 ├── data/disease_info.json      # 🦠 Disease database

@@ -314,7 +314,7 @@ with col2:
             st.markdown(f"## 🌿 {pred_disease}")
             st.metric("Confidence Score", f"{pred_score:.2%}")
 
-        # Informations textuelles sur la maladie (JSON externe)
+        # Textual information about the disease (external JSON)
         disease_info = load_disease_info()
         if (not is_unknown) and pred_disease and pred_disease in disease_info:
             info = disease_info[pred_disease]

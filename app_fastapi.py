@@ -1,6 +1,6 @@
 """
-Application principale Agro-Scan (FastAPI)
-Point d'entrée unique qui charge les 2 modèles et démarre l'API
+Main Agro-Scan application (FastAPI)
+Single entry point that loads both models and starts the API
 """
 
 import os
@@ -14,7 +14,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 import uvicorn
 
-# Configuration du logging
+# Logging configuration
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
@@ -29,11 +29,11 @@ try:
     from local_model.vision.vision_model import VisionModel
     vision_model = VisionModel()
     if vision_model.is_ready():
-        logger.info("✅ Modèle de vision chargé")
+        logger.info("✅ Vision model loaded")
     else:
-        logger.warning("⚠️ Modèle de vision en mode simulation")
+        logger.warning("⚠️ Vision model running in emulation mode")
 except Exception as e:
-    logger.warning(f"⚠️ Erreur chargement modèle vision: {e}")
+    logger.warning(f"⚠️ Error loading vision model: {e}")
 
 # Modèle 2 : Langage (Phi-3 pour le chatbot)
 chat_model = None
@@ -41,17 +41,17 @@ try:
     from local_model.chat.chat_model import ChatModel
     chat_model = ChatModel()
     if chat_model.is_ready():
-        logger.info("✅ Modèle de langage (Phi-3) chargé")
+        logger.info("✅ Language model (Phi-3) loaded")
     else:
-        logger.warning("⚠️ Modèle de langage en mode simulation")
+        logger.warning("⚠️ Language model running in emulation mode")
 except Exception as e:
-    logger.warning(f"⚠️ Erreur chargement modèle langage: {e}")
+    logger.warning(f"⚠️ Error loading language model: {e}")
 
 # ================= INITIALISATION FASTAPI =================
 
 app = FastAPI(
     title="Agro-Scan API",
-    description="API pour la détection des plantes et maladies agricoles",
+    description="API for agricultural plant and disease detection", 
     version="2.0.0"
 )
 
@@ -97,11 +97,11 @@ class ChatRequest(BaseModel):
 
 # ================= ROUTES =================
 
-@app.get("/", summary="Bienvenue")
+@app.get("/", summary="Welcome")
 async def root():
     """Point d'entrée de l'API"""
     return {
-        "message": "Bienvenue sur Agro-Scan API",
+        "message": "Welcome to the Agro-Scan API",
         "version": "2.0.0",
         "status": "active",
         "models": {
@@ -110,9 +110,9 @@ async def root():
         }
     }
 
-@app.get("/health", summary="État du système")
+@app.get("/health", summary="System health")
 async def health_check():
-    """Vérification de l'état de l'API et des modèles"""
+    """Check API and model status"""
     return {
         "status": "healthy",
         "timestamp": datetime.now().isoformat(),
@@ -127,7 +127,7 @@ async def health_check():
         }
     }
 
-@app.post("/api/detect", response_model=DetectionResult, summary="Détection de maladies")
+@app.post("/api/detect", response_model=DetectionResult, summary="Disease detection")
 async def detect_plant_disease(
     file: UploadFile = File(...),
     user_id: Optional[str] = None,
@@ -135,7 +135,7 @@ async def detect_plant_disease(
     text_description: Optional[str] = None
 ):
     """
-    Endpoint pour la détection de plantes et maladies
+    Endpoint for plant and disease detection
     
     Supporte maintenant l'analyse combinée image + texte
     """
@@ -259,9 +259,9 @@ async def get_plants_list(search: Optional[str] = None):
         logger.exception("Erreur lors de la récupération des plantes")
         return JSONResponse(status_code=500, content={"error": str(e)})
 
-@app.get("/api/stats/{user_id}", summary="Statistiques utilisateur")
+@app.get("/api/stats/{user_id}", summary="User statistics")
 async def get_user_stats(user_id: str):
-    """Statistiques de l'utilisateur"""
+    """User statistics"""
     try:
         stats = await database_service.get_user_stats(user_id)
         return stats

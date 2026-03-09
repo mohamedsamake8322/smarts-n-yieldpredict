@@ -1,20 +1,20 @@
 """
-Workaround pour le problème de compatibilité PyTorch/Streamlit
-Empêche Streamlit d'inspecter torch.classes qui cause une RuntimeError
+Workaround for PyTorch/Streamlit compatibility issue
+Prevents Streamlit from inspecting torch.classes which triggers a RuntimeError
 """
 
 def apply_pytorch_fix():
     """
-    Applique un workaround pour empêcher Streamlit d'inspecter torch.classes
-    Cela résout l'erreur: RuntimeError: Tried to instantiate class '__path__._path', but it does not exist!
+    Apply a workaround to prevent Streamlit from inspecting torch.classes
+    This fixes the error: RuntimeError: Tried to instantiate class '__path__._path', but it does not exist!
     """
     try:
         import torch
-        # Empêcher Streamlit d'inspecter torch.classes en créant un mock __path__
+        # Prevent Streamlit from inspecting torch.classes by creating a mock __path__
         if hasattr(torch, 'classes'):
             if not hasattr(torch.classes, '__path__'):
                 class MockPath:
-                    """Mock __path__ pour torch.classes"""
+                    """Mock __path__ for torch.classes"""
                     def __iter__(self):
                         return iter([])
                     
@@ -26,7 +26,7 @@ def apply_pytorch_fix():
                 
                 torch.classes.__path__ = MockPath()
     except (ImportError, AttributeError, TypeError):
-        # PyTorch n'est pas installé ou pas de problème
+        # PyTorch not installed or no issue detected
         pass
 
 # Appliquer le fix automatiquement lors de l'import
