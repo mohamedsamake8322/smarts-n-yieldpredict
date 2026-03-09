@@ -1,12 +1,12 @@
 """
-Page des paramètres de l'application
+Application settings page
 """
 
 import streamlit as st
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
-    page_title="Paramètres - Agro-Scan",
+    page_title="Settings - Agro-Scan",
     page_icon="⚙️",
     layout="wide"
 )
@@ -22,32 +22,32 @@ from services.local_model_service import get_local_model_service
 load_custom_css()
 load_mobile_css()
 
-st.title("⚙️ Paramètres")
+st.title("⚙️ Settings")
 
-tab1, tab2, tab3 = st.tabs(["🔧 Application", "🤖 Modèle IA", "📊 Données"])
+tab1, tab2, tab3 = st.tabs(["🔧 Application", "🤖 AI Model", "📊 Data"])
 
 with tab1:
-    st.subheader("🔧 Paramètres de l'application")
+    st.subheader("🔧 Application Settings")
     
-    st.markdown("### 🌍 Langue et Région")
+    st.markdown("### 🌍 Language and Region")
     col1, col2 = st.columns(2)
     
     with col1:
-        language = st.selectbox("Langue", ["Français", "English", "Bambara", "Wolof"])
+        language = st.selectbox("Language", ["Français", "English", "Bambara", "Wolof"])
     
     with col2:
-        region = st.selectbox("Région", ["Mali", "Sénégal", "Burkina Faso", "Côte d'Ivoire"])
+        region = st.selectbox("Region", ["Mali", "Sénégal", "Burkina Faso", "Côte d'Ivoire"])
     
     st.markdown("### 🔔 Notifications")
-    notif_detection = st.checkbox("Notifications pour nouvelles détections", value=True)
-    notif_alerts = st.checkbox("Alertes maladies", value=True)
-    notif_community = st.checkbox("Notifications communauté", value=False)
+    notif_detection = st.checkbox("Notifications for new detections", value=True)
+    notif_alerts = st.checkbox("Disease alerts", value=True)
+    notif_community = st.checkbox("Community notifications", value=False)
     
-    st.markdown("### 🎨 Apparence")
-    theme = st.selectbox("Thème", ["Clair", "Sombre", "Auto"])
+    st.markdown("### 🎨 Appearance")
+    theme = st.selectbox("Theme", ["Light", "Dark", "Auto"])
     
-    if st.button("Enregistrer", type="primary"):
-        st.success("✅ Paramètres enregistrés !")
+    if st.button("Save", type="primary"):
+        st.success("✅ Settings saved!")
 
 with tab2:
     st.subheader("🤖 Configuration du Modèle IA")

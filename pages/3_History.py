@@ -1,12 +1,12 @@
 """
-Page de l'historique des détections et conversations
+History page for detections and conversations
 """
 
 import streamlit as st
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
-    page_title="Historique - Agro-Scan",
+    page_title="History - Agro-Scan",
     page_icon="📊",
     layout="wide"
 )
@@ -24,11 +24,11 @@ from utils.service_adapters import SyncDatabaseService
 
 load_custom_css()
 
-# Titre
-st.title("📊 Historique")
-st.markdown("Consultez vos détections et conversations précédentes")
+# Title
+st.title("📊 History")
+st.markdown("View your previous detections and conversations")
 
-# Initialiser le service
+# Initialize service
 @st.cache_resource
 def get_database_service():
     async_service = DatabaseService()
@@ -37,15 +37,15 @@ def get_database_service():
 database_service = get_database_service()
 
 # Sidebar
-st.sidebar.title("📊 Historique")
-st.sidebar.markdown("### Filtres")
-limit = st.sidebar.slider("Nombre d'éléments", 5, 50, 20)
+st.sidebar.title("📊 History")
+st.sidebar.markdown("### Filters")
+limit = st.sidebar.slider("Number of items", 5, 50, 20)
 
-# Onglets
-tab1, tab2 = st.tabs(["📸 Détections", "💬 Conversations"])
+# Tabs
+tab1, tab2 = st.tabs(["📸 Detections", "💬 Conversations"])
 
 with tab1:
-    st.subheader("📸 Détections précédentes")
+    st.subheader("📸 Previous detections")
     
     try:
         detections = database_service.get_user_detections(get_user_id(), limit)

@@ -1,10 +1,10 @@
 """
-Page de l'assistant conversationnel
+Conversational assistant page
 """
 
 import streamlit as st
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
     page_title="Assistant - Agro-Scan",
     page_icon="💬",
@@ -25,9 +25,9 @@ from utils.service_adapters import SyncChatbotService, SyncDatabaseService
 
 load_custom_css()
 
-# Titre
-st.title("💬 Assistant Agricole")
-st.markdown("Posez vos questions sur les plantes, maladies, traitements et pratiques agricoles")
+# Title
+st.title("💬 Agricultural Assistant")
+st.markdown("Ask your questions about plants, diseases, treatments and agricultural practices")
 
 # Initialiser les services
 @st.cache_resource

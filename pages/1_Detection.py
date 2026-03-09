@@ -54,7 +54,7 @@ def init_session_state():
         "uploaded_image": None,
         "image_bytes": None,
         "uploaded_image_path": None,
-        "lang": "fr",
+        "lang": "en",
     }
     for key, value in defaults.items():
         if key not in st.session_state:

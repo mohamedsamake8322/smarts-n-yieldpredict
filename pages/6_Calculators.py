@@ -1,12 +1,12 @@
 """
-Page des calculateurs agricoles
+Agricultural calculators page
 """
 
 import streamlit as st
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
-    page_title="Calculateurs - Agro-Scan",
+    page_title="Calculators - Agro-Scan",
     page_icon="🧮",
     layout="wide"
 )
@@ -22,10 +22,10 @@ from utils.calculators import FertilizerCalculator, PesticideCalculator, Farming
 load_custom_css()
 load_mobile_css()
 
-st.title("🧮 Calculateur de Pesticides")
+st.title("🧮 Pesticide Calculator")
 
-st.subheader("Calculateur de Pesticides")
-st.markdown("Calculez les doses de pesticides pour vos traitements")
+st.subheader("Pesticide Calculator")
+st.markdown("Calculate pesticide doses for your treatments")
 
 col1, col2 = st.columns(2)
 

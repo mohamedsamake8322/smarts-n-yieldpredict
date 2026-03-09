@@ -4,7 +4,7 @@ Agricultural resources library page
 
 import streamlit as st
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
     page_title="Resource Library - Agro-Scan",
     page_icon="📚",
