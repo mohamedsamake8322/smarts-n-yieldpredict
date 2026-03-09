@@ -1,10 +1,10 @@
 """
-Page de détection des maladies – mode Plantix :
-- Identifie UNIQUEMENT la maladie
-- Affiche le nom + quelques images similaires
+Disease detection page – Plantix mode:
+- Identifies ONLY the disease
+- Displays the name + some similar images
 """
 
-# WORKAROUND: Empêcher Streamlit d'inspecter torch.classes (problème de compatibilité)
+# WORKAROUND: Prevent Streamlit from inspecting torch.classes (compatibility issue)
 import sys
 from pathlib import Path
 import io
@@ -12,12 +12,12 @@ import json
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-# Appliquer le workaround PyTorch/Streamlit
+# Apply PyTorch/Streamlit workaround
 try:
     from utils.pytorch_fix import apply_pytorch_fix
     apply_pytorch_fix()
 except ImportError:
-    # Fallback minimal : neutraliser simplement __path__ si présent
+    # Minimal fallback: simply neutralize __path__ if present
     try:
         import torch
 
@@ -37,9 +37,9 @@ from model_core import (
 import numpy as np
 
 
-# Configuration de la page - DOIT être la première commande Streamlit
+# Page configuration - MUST be the first Streamlit command
 st.set_page_config(
-    page_title="Détection - Agro-Scan",
+    page_title="Detection - Agro-Scan",
     page_icon="📸",
     layout="wide",
 )
@@ -48,7 +48,7 @@ from utils.styles import load_custom_css
 
 load_custom_css()
 
-# Initialisation de l'état de session
+# Session state initialization
 def init_session_state():
     defaults = {
         "uploaded_image": None,
@@ -62,14 +62,14 @@ def init_session_state():
 
 init_session_state()
 
-# Dossier des images légères pour la confirmation visuelle
+# Folder for light images for visual confirmation
 DATASET_LIGHT_ROOT = Path("dataset_light")
 
 
 def _map_to_dataset_light(original_path: str) -> str:
     """
-    Essaie de remapper un chemin d'image du dataset complet vers dataset_light.
-    On conserve la même structure relative à partir de 'dataset_final' si possible.
+    Tries to remap an image path from the full dataset to dataset_light.
+    Keeps the same relative structure from 'dataset_final' if possible.
     """
     try:
         p = Path(original_path)
@@ -82,15 +82,15 @@ def _map_to_dataset_light(original_path: str) -> str:
                 return str(candidate)
     except Exception:
         pass
-    # Fallback: on garde le chemin original si on ne trouve rien dans dataset_light
+    # Fallback: keep the original path if nothing found in dataset_light
     return original_path
 
 
 def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]:
     """
-    Récupère jusqu'à max_images images dans dataset_light pour une maladie donnée.
-    On essaie plusieurs variantes de nom de dossier pour être robuste
-    (espaces vs underscores).
+    Retrieves up to max_images images in dataset_light for a given disease.
+    Tries several folder name variants for robustness
+    (spaces vs underscores).
     """
     candidates = [
         disease_name,
@@ -112,9 +112,9 @@ def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> lis
 
 def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
     """
-    Heuristique simple pour filtrer les images qui ne sont manifestement
-    pas des feuilles de cultures (basée sur la dominance du canal vert).
-    Ce n'est pas un classifieur, juste un garde‑fou UX.
+    Simple heuristic to filter images that are obviously not crop leaves
+    (based on green channel dominance).
+    This is not a classifier, just a UX safeguard.
     """
     try:
         arr = np.array(image.convert("RGB")).astype("float32") / 255.0
@@ -123,11 +123,11 @@ def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
         ratio_green = float(green_dominance.mean())
         return ratio_green >= green_threshold
     except Exception:
-        return True  # en cas de doute, on laisse l'IA décider
+        return True  # in case of doubt, let the AI decide
 
 
 # --------------------------
-# Internationalisation simple
+# Simple internationalization
 # --------------------------
 
 SUPPORTED_LANGS = {
@@ -231,7 +231,7 @@ st.markdown(t("page_subtitle"))
 
 @st.cache_resource
 def load_model_and_index():
-    """Chargement unique du modèle metric learning et de l'index FAISS."""
+    """Unique loading of the metric learning model and FAISS index."""
     model, index, metadata, prototypes, prototype_labels, device = (
         load_phase2_model_and_metadata(MODELS_PATH_PHASE2)
     )
@@ -240,28 +240,28 @@ def load_model_and_index():
 
 def _is_confident_unknown(result, faiss_threshold: float = 0.55, min_agreement: int = 3):
     """
-    Double logique pro pour 'maladie inconnue':
-    - seuil sur la similarité prototype (déjà géré dans infer_on_image)
-    - cohérence des voisins FAISS (au moins min_agreement de la même classe)
+    Double logic pro for 'unknown disease':
+    - threshold on prototype similarity (already handled in infer_on_image)
+    - coherence of FAISS neighbors (at least min_agreement of the same class)
     """
     is_unknown_flag = result.get("is_unknown", False)
     neighbors = result.get("topk_neighbors", [])
 
-    # S'il n'y a pas de voisins (FAISS absent, index vide, etc.),
-    # on se fie uniquement à la logique interne de model_core.
+    # If there are no neighbors (FAISS missing, empty index, etc.),
+    # we rely only on the internal logic of model_core.
     if not neighbors:
         return bool(is_unknown_flag)
 
-    # Vérifier si les top voisins partagent la même classe
+    # Check if the top neighbors share the same class
     top = neighbors[:min_agreement]
     diseases = [n["disease"] for n in top]
     main = diseases[0]
     same_count = sum(1 for d in diseases if d == main)
 
-    # On ne marque comme inconnu que si:
-    # - le modèle interne le considère déjà comme inconnu
-    #   ET
-    # - les voisins ne sont pas d'accord entre eux.
+    # We mark as unknown only if:
+    # - the internal model already considers it unknown
+    #   AND
+    # - the neighbors do not agree among themselves.
     return bool(is_unknown_flag) and same_count < min_agreement
 
 
@@ -271,7 +271,7 @@ def diagnose_image(
     k: int = 5,
     unknown_threshold: float = 0.55,
 ):
-    """Pipeline d'inférence commun pour cette page + logique Plantix."""
+    """Common inference pipeline for this page + Plantix logic."""
     (
         model,
         index,
@@ -281,7 +281,7 @@ def diagnose_image(
         device,
     ) = load_model_and_index()
 
-    # Redimensionner pour mobile / perfs
+    # Resize for mobile / performance
     image_resized = image.resize((224, 224))
 
     result = infer_on_image(
@@ -296,12 +296,12 @@ def diagnose_image(
         unknown_threshold=unknown_threshold,
     )
 
-    # Surcouche "unknown" plus robuste
+    # More robust "unknown" overlay
     is_unknown = _is_confident_unknown(result, faiss_threshold=unknown_threshold)
 
     neighbors = result["topk_neighbors"]
 
-    # Éviter de montrer l'image uploadée dans les voisins (si même chemin)
+    # Avoid showing the uploaded image in neighbors (if same path)
     filtered_neighbors = []
     for n in neighbors:
         path = n.get("image_path")
@@ -317,9 +317,9 @@ def diagnose_image(
     return diagnosis
 
 # Sidebar
-st.sidebar.title("📸 Détection")
+st.sidebar.title("📸 Detection")
 
-# Sélecteur de langue
+# Language selector
 current_lang = get_lang()
 lang_options = [f"{code.upper()} - {label}" for code, label in SUPPORTED_LANGS.items()]
 default_index = list(SUPPORTED_LANGS.keys()).index(current_lang)
@@ -332,89 +332,89 @@ for code, label in SUPPORTED_LANGS.items():
 st.sidebar.markdown("### Instructions")
 st.sidebar.markdown(t("sidebar_instructions"))
 
-# Zone de capture/téléversement
+# Capture/upload area
 col1, col2 = st.columns([1, 1])
 
 with col1:
-    st.subheader("📷 Prendre une photo")
-    camera_input = st.camera_input("Capturez une image", label_visibility="collapsed")
+    st.subheader("📷 Take a photo")
+    camera_input = st.camera_input("Capture an image", label_visibility="collapsed")
     
     if camera_input:
         try:
-            # Obtenir les bytes de l'image
+            # Get the image bytes
             image_bytes = camera_input.getvalue()
             if not isinstance(image_bytes, bytes):
                 image_bytes = bytes(image_bytes)
             
-            # Vérifier que les bytes ne sont pas vides
+            # Check that bytes are not empty
             if len(image_bytes) == 0:
-                st.error("❌ L'image capturée est vide. Veuillez réessayer.")
+                st.error("❌ The captured image is empty. Please try again.")
             else:
-                # Ouvrir l'image pour l'afficher
+                # Open the image to display
                 image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
                 st.session_state.uploaded_image = image
                 st.session_state.image_bytes = image_bytes
                 st.session_state.uploaded_image_path = None
         except Exception as e:
-            st.error(f"❌ Erreur lors du traitement de l'image: {str(e)}")
+            st.error(f"❌ Error processing the image: {str(e)}")
 
 with col2:
-    st.subheader("📁 Téléverser une image")
+    st.subheader("📁 Upload an image")
     uploaded_file = st.file_uploader(
-        "Choisissez une image",
+        "Choose an image",
         type=['jpg', 'jpeg', 'png', 'webp'],
         label_visibility="collapsed"
     )
     
     if uploaded_file:
         try:
-            # Lire les bytes du fichier
-            uploaded_file.seek(0)  # S'assurer qu'on est au début
+            # Read the file bytes
+            uploaded_file.seek(0)  # Ensure we're at the beginning
             image_bytes = uploaded_file.read()
             
             if not isinstance(image_bytes, bytes):
                 image_bytes = bytes(image_bytes)
             
-            # Vérifier que les bytes ne sont pas vides
+            # Check that bytes are not empty
             if len(image_bytes) == 0:
-                st.error("❌ Le fichier image est vide. Veuillez sélectionner un autre fichier.")
+                st.error("❌ The image file is empty. Please select another file.")
             else:
-                # Ouvrir l'image pour l'afficher
+                # Open the image to display
                 image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
                 st.session_state.uploaded_image = image
                 st.session_state.image_bytes = image_bytes
                 st.session_state.uploaded_image_path = uploaded_file.name
                 
-                # Réinitialiser le pointeur pour une utilisation ultérieure
+                # Reset the pointer for later use
                 uploaded_file.seek(0)
         except Exception as e:
-            st.error(f"❌ Erreur lors du traitement du fichier: {str(e)}")
+            st.error(f"❌ Error processing the file: {str(e)}")
 
-# Afficher l'image sélectionnée
+# Display the selected image
 if 'uploaded_image' in st.session_state:
     st.markdown("---")
     st.subheader(t("image_to_analyze"))
     
-    st.markdown("#### Image analysée")
-    # Utiliser image_bytes au lieu de l'objet PIL pour éviter les problèmes de format
+    st.markdown("#### Analyzed image")
+    # Use image_bytes instead of PIL object to avoid format issues
     if 'image_bytes' in st.session_state and st.session_state.image_bytes:
         st.image(st.session_state.image_bytes, use_column_width=True)
     elif st.session_state.uploaded_image is not None:
         st.image(st.session_state.uploaded_image, use_column_width=True)
     
-    # Bouton de détection
+    # Detection button
     if st.button(t("analyze_button"), type="primary", use_container_width=True):
-        with st.spinner("🔬 Analyse de l'image en cours..."):
+        with st.spinner("🔬 Analyzing image..."):
             try:
-                # Ouvrir l'image
+                # Open the image
                 image = Image.open(io.BytesIO(st.session_state.image_bytes)).convert("RGB")
 
-                # Garde‑fou: image manifestement non végétale
+                # Safeguard: obviously non-plant image
                 if not _is_plant_like(image):
                     st.error(t("not_leaf_message"))
                     st.session_state.show_results = False
                 else:
-                    # Lancer le pipeline metric learning
+                    # Launch the metric learning pipeline
                     diagnosis = diagnose_image(
                         image,
                         uploaded_image_path=st.session_state.get("uploaded_image_path"),
@@ -426,10 +426,10 @@ if 'uploaded_image' in st.session_state:
                     st.session_state.show_results = True
                 
             except Exception as e:
-                st.error(f"❌ Erreur lors de la détection: {str(e)}")
+                st.error(f"❌ Error during detection: {str(e)}")
                 st.session_state.show_results = False
 
-# Afficher les résultats – mode Plantix (nom + images similaires)
+# Display results – Plantix mode (name + similar images)
 if st.session_state.get("show_results", False) and "detection_result" in st.session_state:
     diagnosis = st.session_state.detection_result
 
@@ -446,7 +446,7 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     else:
         st.markdown(f"## 🌿 {pred_disease}")
 
-    # Visual confirmation : 3–4 images de dataset_light pour la classe prédite
+    # Visual confirmation: 3–4 images from dataset_light for the predicted class
     if not is_unknown and pred_disease:
         st.markdown(t("visual_confirmation"))
 
@@ -461,10 +461,10 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                         ref_img = Image.open(img_path).convert("RGB")
                         st.image(ref_img, use_column_width=True)
                     except Exception:
-                        st.warning("Image non disponible")
+                        st.warning("Image not available")
 
-    # Bouton pour nouvelle détection
-    if st.button("🔄 Nouvelle détection", use_container_width=True):
+    # Button for new detection
+    if st.button("🔄 New detection", use_container_width=True):
         for key in ["uploaded_image", "image_bytes", "detection_result", "show_results"]:
             if key in st.session_state:
                 del st.session_state[key]
