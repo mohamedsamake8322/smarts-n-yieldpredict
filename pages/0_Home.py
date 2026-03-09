@@ -1,12 +1,12 @@
 """
-Page d'accueil avec écran de démarrage (Splash Screen)
+Home page with splash screen
 """
 
 import streamlit as st
 
 # Configuration de la page - DOIT être la première commande Streamlit
 st.set_page_config(
-    page_title="Sènè Disease Detection - Accueil",
+    page_title="Sène Disease Detection - Home",
     page_icon="🌱",
     layout="centered",
     initial_sidebar_state="collapsed"
