@@ -1,0 +1,9 @@
+{
+  "title": "Plant Disease Detection API",
+  "emoji": "🌾",
+  "colorFrom": "green",
+  "colorTo": "blue",
+  "sdk": "docker",
+  "pinned": false,
+  "license": "mit"
+}

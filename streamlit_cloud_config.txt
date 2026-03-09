@@ -1,0 +1,15 @@
+# Configuration pour le déploiement sur Streamlit Cloud
+# Copiez ce fichier dans votre projet Streamlit
+
+# packages.txt (pour Streamlit Cloud)
+streamlit
+requests
+pillow
+plotly
+
+# requirements.txt (si nécessaire)
+# fastapi==0.104.0
+# uvicorn==0.24.0
+
+# secrets.toml (à créer dans .streamlit/)
+# API_URL = "https://mohamedsamake8322-sene-disease-api.hf.space"
