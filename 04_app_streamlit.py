@@ -17,6 +17,8 @@ from PIL import Image
 import plotly.express as px
 from typing import Dict, List, Tuple, Any
 import os
+import base64
+import mimetypes
 from dotenv import load_dotenv
 from datetime import datetime
 
@@ -116,13 +118,19 @@ img {
 # ============================================================================
 
 @st.cache_data(ttl=300)  # Cache for 5 minutes
-def load_disease_info_cached(label: str) -> Dict[str, Any]:
+def load_disease_info_cached(label: str, language_code: str = "en") -> Dict[str, Any]:
     """Charge la fiche maladie depuis BLIP2/ ou BLIP2_normalized/."""
     try:
+        lang = (language_code or "en").lower()
         # Préférence: BLIP2_normalized (si présent), sinon BLIP2 original (plus structuré)
         for lib in (Path("BLIP2_normalized"), Path("BLIP2")):
             try:
-                info = load_disease_card(label, library_dir=lib, allow_fuzzy=False)
+                info = load_disease_card(
+                    label,
+                    library_dir=lib,
+                    allow_fuzzy=False,
+                    language_code=lang,
+                )
                 # Si on a au moins des symptômes structurés, on s'arrête.
                 symptoms = info.get("symptoms") or []
                 if isinstance(symptoms, list) and len(symptoms) >= 2:
@@ -131,7 +139,12 @@ def load_disease_info_cached(label: str) -> Dict[str, Any]:
                 continue
 
         # fallback minimal
-        return load_disease_card(label, library_dir=Path("BLIP2"), allow_fuzzy=False)
+        return load_disease_card(
+            label,
+            library_dir=Path("BLIP2"),
+            allow_fuzzy=False,
+            language_code=lang,
+        )
     except Exception:
         return {
             "disease": label,
@@ -242,6 +255,59 @@ def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> Lis
 
     return imgs[:max_images]
 
+
+def _img_to_data_uri(img_path: str) -> str | None:
+    """Convertit une image locale en data-URI (base64) pour un affichage HTML horizontal."""
+    try:
+        mime, _ = mimetypes.guess_type(img_path)
+        if mime is None:
+            # fallback simple
+            ext = Path(img_path).suffix.lower()
+            mime = "image/png" if ext == ".png" else "image/jpeg"
+        with open(img_path, "rb") as f:
+            b64 = base64.b64encode(f.read()).decode("utf-8")
+        return f"data:{mime};base64,{b64}"
+    except Exception:
+        return None
+
+
+def render_horizontal_gallery(img_paths: List[str], height_px: int = 180) -> None:
+    """Affiche une galerie d'images en ligne horizontale avec scroll."""
+    img_paths = [p for p in img_paths if p]
+    if not img_paths:
+        return
+
+    items_html: str = ""
+    for p in img_paths:
+        uri = _img_to_data_uri(p)
+        if not uri:
+            continue
+        items_html += (
+            "<div style='flex:0 0 auto; margin-right:12px; text-align:center;'>"
+            f"<img src='{uri}' style='height:{height_px}px; width:auto; object-fit:cover; "
+            "border-radius:12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);'/>"
+            "</div>"
+        )
+
+    if not items_html:
+        return
+
+    # Scroll horizontal natif (pro UX)
+    st.markdown(
+        f"""
+        <div style="
+            display:flex;
+            flex-wrap:nowrap;
+            overflow-x:auto;
+            padding-bottom:6px;
+            margin-top:6px;
+        ">
+          {items_html}
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
 def call_hf_api(image_bytes: bytes) -> Dict[str, Any]:
     """
     Call Hugging Face Spaces API for prediction
@@ -337,6 +403,29 @@ examples from a training dataset. *Not a classification system - a diagnostic as
 # Sidebar config
 with st.sidebar:
     st.header("⚙️ Settings")
+    # Language selection (used for i18n disease JSON + BLIP-2 prompt)
+    SUPPORTED_LANGS = {
+        "fr": "Français",
+        "en": "English",
+        "tr": "Türkçe",
+        "sw": "Kiswahili",
+        "ha": "Hausa",
+        "ar": "العربية",
+        "zh": "中文",
+        "ff": "Pulaar",
+        "bm": "Bambara",
+        "wo": "Wolof",
+    }
+    if "lang" not in st.session_state:
+        st.session_state["lang"] = "en"
+    lang_options = [f"{code.upper()} - {label}" for code, label in SUPPORTED_LANGS.items()]
+    default_index = list(SUPPORTED_LANGS.keys()).index(st.session_state["lang"])
+    selected_lang = st.selectbox("🌐 Language", lang_options, index=default_index)
+    for code, label in SUPPORTED_LANGS.items():
+        if selected_lang.startswith(code.upper()):
+            st.session_state["lang"] = code
+            break
+
     k = st.slider("Number of similar images (K)", 1, 10, 5)
     show_ref_images = st.checkbox("Show reference images", value=True)
     unknown_threshold = st.slider(
@@ -368,6 +457,63 @@ else:
 # ============================================================================
 # MAIN INTERFACE
 # ============================================================================
+LANG = st.session_state.get("lang", "en")
+
+TRANSLATIONS_CARD = {
+    "scientific_name_label": {
+        "fr": "Nom scientifique",
+        "en": "Scientific name",
+        "ar": "الاسم العلمي",
+        "zh": "学名",
+        "sw": "Jina la kisayansi",
+        "ha": "Sunan kimiyya",
+    },
+    "pathogen_type_label": {
+        "fr": "Type de pathogène",
+        "en": "Pathogen type",
+        "ar": "نوع الممرض",
+        "zh": "病原体类型",
+        "sw": "Aina ya pathojeni",
+        "ha": "Nau'in kwayar cuta",
+    },
+    "visual_confirmation_caption": {
+        "fr": "Confirmation visuelle",
+        "en": "Visual confirmation",
+        "ar": "تأكيد بصري",
+        "zh": "视觉确认",
+        "sw": "Uthibitisho wa kuona",
+        "ha": "Tantancewa ta gani",
+    },
+    "description_header": {"fr": "### Description", "en": "### Description"},
+    "hosts_header": {"fr": "### Hôtes", "en": "### Hosts"},
+    "susceptibility_header": {"fr": "### Susceptibilité", "en": "### Susceptibility"},
+    "highly_susceptible_label": {"fr": "Très sensible", "en": "Highly susceptible"},
+    "moderately_susceptible_label": {"fr": "Sensibilité modérée", "en": "Moderately susceptible"},
+    "more_tolerant_label": {"fr": "Plus tolérant", "en": "More tolerant"},
+    "symptoms_header": {"fr": "### Symptômes", "en": "### Symptoms"},
+    "no_structured_symptoms_data": {"fr": "_Aucune donnée structurée sur les symptômes._", "en": "_No structured symptoms data available._"},
+    "what_caused_it": {
+        "fr": "Qu'est-ce qui l'a causé ?",
+        "en": "What caused it?",
+    },
+    "confirm_treatment_btn_api": {
+        "fr": "✅ Confirmer et voir le traitement",
+        "en": "✅ Confirm & see treatment",
+    },
+    "disease_cycle_and_spread": {"fr": "Disease cycle and spread", "en": "Disease cycle and spread"},
+    "favorable_conditions": {"fr": "Conditions favorables", "en": "Favorable conditions"},
+    "pathogen_characteristics": {"fr": "Caractéristiques du pathogène", "en": "Pathogen characteristics"},
+    "monitoring": {"fr": "Suivi", "en": "Monitoring"},
+    "management_treatment_header": {"fr": "### Gestion / Traitement", "en": "### Management / Treatment"},
+    "no_management_guidance": {"fr": "_Aucune recommandation de gestion disponible._", "en": "_No management guidance available._"},
+    "prevention": {"fr": "Prévention", "en": "Prevention"},
+}
+
+
+def t_card(key: str) -> str:
+    return TRANSLATIONS_CARD.get(key, {}).get(LANG, TRANSLATIONS_CARD.get(key, {}).get("en", key))
+
+
 col1, col2 = st.columns([1, 1.5])
 
 with col1:
@@ -447,7 +593,10 @@ with col2:
             st.session_state.confirmed_disease = None
 
         if (not is_unknown) and pred_disease and pred_disease != "UNKNOWN DISEASE":
-            info = load_disease_info_cached(pred_disease)
+            info = load_disease_info_cached(
+                pred_disease,
+                language_code=st.session_state.get("lang", "en"),
+            )
 
             # Plantix UX: infos scientifiques en premier (avant Symptoms)
             scientific_name = info.get("scientific_name") or ""
@@ -457,22 +606,27 @@ with col2:
             susceptibility = info.get("susceptibility") or {}
 
             if scientific_name:
-                st.markdown(f"**Scientific name:** {scientific_name}")
+                st.markdown(f"**{t_card('scientific_name_label')}:** {scientific_name}")
             if pathogen_type:
-                st.markdown(f"**Pathogen type:** {pathogen_type}")
+                st.markdown(f"**{t_card('pathogen_type_label')}:** {pathogen_type}")
+                # Pro UX: images de confirmation directement après pathogen type
+                light_imgs = _get_light_images_for_disease(pred_disease, max_images=4)
+                if light_imgs:
+                    st.caption(t_card("visual_confirmation_caption"))
+                    render_horizontal_gallery(light_imgs)
             if description:
-                st.markdown("### Description")
+                st.markdown(t_card("description_header"))
                 st.write(description)
             if hosts:
-                st.markdown("### Hosts")
+                st.markdown(t_card("hosts_header"))
                 for h in hosts:
                     st.markdown(f"- {h}")
             if isinstance(susceptibility, dict) and susceptibility:
-                st.markdown("### Susceptibility")
+                st.markdown(t_card("susceptibility_header"))
                 key_order = [
-                    ("highly_susceptible", "Highly susceptible"),
-                    ("moderately_susceptible", "Moderately susceptible"),
-                    ("more_tolerant", "More tolerant"),
+                    ("highly_susceptible", t_card("highly_susceptible_label")),
+                    ("moderately_susceptible", t_card("moderately_susceptible_label")),
+                    ("more_tolerant", t_card("more_tolerant_label")),
                 ]
                 rendered_any = False
                 for k, label in key_order:
@@ -485,26 +639,31 @@ with col2:
                 if not rendered_any:
                     for k, items in susceptibility.items():
                         if items:
-                            st.markdown(f"**{k}:**")
+                            fallback_label = {
+                                "highly_susceptible": t_card("highly_susceptible_label"),
+                                "moderately_susceptible": t_card("moderately_susceptible_label"),
+                                "more_tolerant": t_card("more_tolerant_label"),
+                            }.get(k, k)
+                            st.markdown(f"**{fallback_label}:**")
                             for item in items:
                                 st.markdown(f"- {item}")
 
-            st.markdown("### Symptoms")
+            st.markdown(t_card("symptoms_header"))
             symptoms = info.get("symptoms") or []
             if symptoms:
                 for s in symptoms:
                     st.markdown(f"- {s}")
             else:
-                st.markdown("_No structured symptoms data available._")
+                st.markdown(t_card("no_structured_symptoms_data"))
 
             cause = info.get("cause") or ""
             if cause:
-                with st.expander("What caused it?"):
+                with st.expander(t_card("what_caused_it")):
                     st.write(cause)
 
             if st.session_state.confirmed_disease != pred_disease:
                 if st.button(
-                    "✅ Confirm & see treatment",
+                    t_card("confirm_treatment_btn_api"),
                     use_container_width=True,
                     key="confirm_treatment_btn_api",
                 ):
@@ -519,28 +678,28 @@ with col2:
                             st.markdown(f"- {item}")
 
                 _render_bullets(
-                    "Disease cycle and spread",
+                    t_card("disease_cycle_and_spread"),
                     info.get("disease_cycle_and_spread") or [],
                 )
                 _render_bullets(
-                    "Favorable conditions",
+                    t_card("favorable_conditions"),
                     info.get("favorable_conditions") or [],
                 )
                 _render_bullets(
-                    "Pathogen characteristics",
+                    t_card("pathogen_characteristics"),
                     info.get("pathogen_characteristics") or [],
                 )
-                _render_bullets("Monitoring", info.get("monitoring") or [])
+                _render_bullets(t_card("monitoring"), info.get("monitoring") or [])
 
-                st.markdown("### Management / Treatment")
+                st.markdown(t_card("management_treatment_header"))
                 mgmt = info.get("management") or []
                 if mgmt:
                     for m in mgmt:
                         st.markdown(f"- {m}")
                 else:
-                    st.markdown("_No management guidance available._")
+                    st.markdown(t_card("no_management_guidance"))
 
-                _render_bullets("Prevention", info.get("prevention") or [])
+                _render_bullets(t_card("prevention"), info.get("prevention") or [])
         
         # Grad-CAM not available with API (model runs on servers)
         st.info("🔬 **Grad-CAM Heatmap**: Not available in API mode (model runs on Hugging Face servers)")
@@ -665,40 +824,6 @@ with col2:
             st.success("Feedback submitted! Thank you for helping improve the system.")
     else:
         st.info("👆 Upload an image and click 'Diagnose' to start")
-
-# ============================================================================
-# VISUAL CONFIRMATION (Plantix Style)
-# ============================================================================
-if "results" in st.session_state and st.session_state.results:
-    st.divider()
-    st.subheader("🔎 Visual Confirmation")
-
-    diagnosis = st.session_state.get("diagnosis", {})
-    pred_class = diagnosis.get("predicted_disease")
-
-    if pred_class and pred_class != "UNKNOWN DISEASE":
-        light_imgs = _get_light_images_for_disease(pred_class, max_images=4)
-    else:
-        light_imgs = []
-
-    if light_imgs:
-        cols = st.columns(min(4, len(light_imgs)))
-        for i, img_path in enumerate(light_imgs):
-            with cols[i % len(cols)]:
-                try:
-                    ref_image = Image.open(img_path).convert("RGB")
-                    st.image(ref_image, use_column_width=True)
-                except Exception:
-                    st.warning("Image not available")
-    else:
-        st.info(
-            "Aucune image de confirmation trouvée. "
-            "Sur Streamlit Cloud, ajoutez un petit `dataset_light/` dans le repo "
-            "ou définissez `DATASET_LIGHT_ROOT`."
-        )
-
-    if st.button("❓ Not matching?"):
-        st.info("Try another image or consult an agronomist.")
 
 # ============================================================================
 # FOOTER

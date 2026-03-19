@@ -16,6 +16,7 @@ based on the structured prompt.
 from __future__ import annotations
 
 import json
+import os
 import re
 from functools import lru_cache
 from pathlib import Path
@@ -44,7 +45,7 @@ def _normalize_label(label: str) -> str:
     return s
 
 
-@lru_cache(maxsize=1)
+@lru_cache(maxsize=8)
 def _build_disease_index(library_dir: Path) -> Dict[str, Path]:
     """Build a mapping of normalized names -> JSON file path."""
     library_dir = Path(library_dir)
@@ -104,12 +105,29 @@ def load_disease_info(
     predicted_label: str,
     library_dir: Path = Path("BLIP2"),
     allow_fuzzy: bool = False,
+    language_code: str = "en",
 ) -> Dict[str, Any]:
     """Load the disease JSON info for a predicted class.
 
     If no matching JSON is found, returns a minimal dictionary.
     """
-    json_path = _find_best_json_path(predicted_label, library_dir, allow_fuzzy=allow_fuzzy)
+    # Si un dossier de traductions existe, on le tente en priorité, puis on retombe
+    # sur le dossier original (BLIP2 ou BLIP2_normalized) si le fichier n'existe pas.
+    translations_root = Path(os.environ.get("BLIP2_I18N_ROOT", "BLIP2_i18n"))
+    dirs_to_try: List[Path] = []
+    if language_code and language_code.lower() not in {"en", ""}:
+        candidate = translations_root / language_code
+        if candidate.exists() and candidate.is_dir():
+            dirs_to_try.append(candidate)
+
+    dirs_to_try.append(Path(library_dir))
+
+    json_path: Optional[Path] = None
+    for lib in dirs_to_try:
+        json_path = _find_best_json_path(predicted_label, lib, allow_fuzzy=allow_fuzzy)
+        if json_path is not None and json_path.exists():
+            break
+
     if json_path is None or not json_path.exists():
         return {
             "disease": predicted_label,
@@ -204,7 +222,7 @@ def load_disease_info(
     }
 
 
-def build_blip_prompt(disease_data: Dict[str, Any]) -> str:
+def build_blip_prompt(disease_data: Dict[str, Any], language_code: str = "en") -> str:
     """Build a structured prompt for BLIP-2 from disease JSON data."""
     symptoms = disease_data.get("symptoms") or []
     management = disease_data.get("management") or []
@@ -213,8 +231,24 @@ def build_blip_prompt(disease_data: Dict[str, Any]) -> str:
     # sur certaines versions Python / environnements).
     symptom_lines = "\n".join([f"- {s}" for s in symptoms]).strip()
     management_lines = "\n".join([f"- {s}" for s in management]).strip()
+    # Keep the prompt deterministic: only the language instruction changes.
+    lang_instruction_map = {
+        "fr": "Respond in French.",
+        "en": "Respond in English.",
+        "tr": "Respond in Turkish.",
+        "sw": "Respond in Swahili.",
+        "ha": "Respond in Hausa.",
+        "ar": "Respond in Arabic.",
+        "zh": "Respond in Chinese.",
+        "ff": "Respond in Pulaar.",
+        "bm": "Respond in Bambara.",
+        "wo": "Respond in Wolof.",
+    }
+    lang_instruction = lang_instruction_map.get(language_code.lower(), lang_instruction_map["en"])
+
     prompt = f"""
 You are an agricultural plant pathology expert.
+{lang_instruction}
 
 Disease: {disease_data.get('disease', '')}
 
@@ -294,9 +328,15 @@ def generate_explanation_for_image(
     predicted_label: str,
     model_name: str = "Salesforce/blip2-flan-t5-base",
     library_dir: Path = Path("BLIP2"),
+    language_code: str = "en",
 ) -> str:
     """High level helper: given an image and a predicted label, returns a BLIP-2 explanation."""
-    disease_data = load_disease_info(predicted_label, library_dir=library_dir)
-    prompt = build_blip_prompt(disease_data)
+    disease_data = load_disease_info(
+        predicted_label,
+        library_dir=library_dir,
+        allow_fuzzy=False,
+        language_code=language_code,
+    )
+    prompt = build_blip_prompt(disease_data, language_code=language_code)
     explainer = BLIP2Explainer(model_name=model_name)
     return explainer.generate(image, prompt)

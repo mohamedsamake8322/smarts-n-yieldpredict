@@ -13,7 +13,7 @@ from PIL import Image
 import torch
 import numpy as np
 from transformers import AutoModelForImageClassification, AutoFeatureExtractor
-from config import BLIP2_NORMALIZED_DIR, SWIN_MODEL_PATH
+from config import BLIP2_NORMALIZED_DIR, BLIP2_I18N_DIR, SWIN_MODEL_PATH
 from models.swin_classifier import SwinDiseaseClassifier
 from models.blip2_explainer import BLIP2Explainer
 from models.prediction_logger import PredictionLogger
@@ -22,7 +22,12 @@ from models.prediction_logger import PredictionLogger
 from models.error_handler import RobustErrorHandler
 
 class VisualDiagnosis:
-    def __init__(self, blip2_json_dir=None, strict_swin_model: bool = True):
+    def __init__(
+        self,
+        blip2_json_dir=None,
+        strict_swin_model: bool = True,
+        language_code: str = "en",
+    ):
         """Initialize the visual diagnosis module.
 
         Args:
@@ -31,7 +36,16 @@ class VisualDiagnosis:
             strict_swin_model: If True, require the trained Swin model + FAISS index
                                to be present (no mock fallback).
         """
-        self.blip2_json_dir = blip2_json_dir or BLIP2_NORMALIZED_DIR
+        self.language_code = (language_code or "en").lower()
+
+        if blip2_json_dir is not None:
+            self.blip2_json_dir = blip2_json_dir
+        else:
+            if self.language_code not in {"en", ""}:
+                candidate_dir = os.path.join(BLIP2_I18N_DIR, self.language_code)
+                self.blip2_json_dir = candidate_dir if os.path.exists(candidate_dir) else BLIP2_NORMALIZED_DIR
+            else:
+                self.blip2_json_dir = BLIP2_NORMALIZED_DIR
         self.strict_swin_model = strict_swin_model
 
         # Initialize error handler
@@ -375,6 +389,7 @@ class VisualDiagnosis:
                 image_path,
                 disease_info,
                 use_constrained=True,
+                language_code=self.language_code,
             )
         else:
             # Fallback explanation

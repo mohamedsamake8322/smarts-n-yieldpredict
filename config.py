@@ -42,6 +42,7 @@ BASE_PATH = find_project_root()
 
 # Directory paths
 BLIP2_NORMALIZED_DIR = os.path.join(BASE_PATH, 'BLIP2_normalized')
+BLIP2_I18N_DIR = os.path.join(BASE_PATH, 'BLIP2_i18n')
 MOH_DIR = os.path.join(BASE_PATH, 'Moh')
 MODELS_DIR = os.path.join(BASE_PATH, 'models')
 MOH_INDEX_FILE = os.path.join(BASE_PATH, 'moh_index.faiss')
@@ -62,7 +63,7 @@ SWIN_METADATA_FULL = os.path.join(SWIN_MODEL_DIR, 'metadata.pkl')
 # Ensure directories exist
 def ensure_directories():
     """Ensure all required directories exist."""
-    dirs = [BLIP2_NORMALIZED_DIR, MOH_DIR, MODELS_DIR, SWIN_MODEL_DIR, SWIN_CHECKPOINT_DIR]
+    dirs = [BLIP2_NORMALIZED_DIR, BLIP2_I18N_DIR, MOH_DIR, MODELS_DIR, SWIN_MODEL_DIR, SWIN_CHECKPOINT_DIR]
     for dir_path in dirs:
         os.makedirs(dir_path, exist_ok=True)
 
