@@ -1,0 +1,13 @@
+{
+  "name": "Maize Tar Spot",
+  "scientific_name": "Phyllachora maydis",
+  "causal_agent": "",
+  "hosts": [
+    "Maize (corn)"
+  ],
+  "symptoms": "Small raised black spots on leaves that look like drops of tar Black stromata on upper and lower leaf surfaces Brown or tan lesions around black spots (fisheye lesions) Rough or bumpy leaf surface Large blighted areas when spots merge Reduced grain filling and weak stalks in severe infections",
+  "description": "A fungal leaf disease of maize that produces black tar-like spots on leaves. Severe infections reduce photosynthesis, grain filling, and can cause yield loss and stalk lodging.",
+  "management": "Monitor fields regularly for early symptoms Harvest early if stalk strength declines Use tolerant maize hybrids when available Manage nitrogen fertilization carefully Use crop risk prediction tools when available",
+  "prevention": "Crop rotation with non-host crops Tillage to bury infected corn residues Plant tolerant hybrids Regular scouting and early detection",
+  "sources": []
+}

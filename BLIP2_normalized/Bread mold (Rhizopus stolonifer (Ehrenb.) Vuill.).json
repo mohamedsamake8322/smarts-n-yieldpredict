@@ -1,0 +1,30 @@
+{
+  "name": "Rhizopus soft rot (Black bread mold)",
+  "scientific_name": "Rhizopus stolonifer",
+  "causal_agent": "",
+  "hosts": [
+    "strawberry",
+    "tomato",
+    "peach",
+    "melon",
+    "watermelon",
+    "banana",
+    "grape",
+    "mango",
+    "papaya",
+    "sweet potato",
+    "carrot",
+    "cucumber",
+    "eggplant",
+    "pepper",
+    "onion",
+    "garlic",
+    "beans",
+    "various stored fruits and vegetables"
+  ],
+  "symptoms": "Soft watery rot on fruits or vegetables Rapid tissue breakdown and leakage of juice White cotton-like fungal growth on the surface Development of black sporangia (black mold dots) Sour or acidic smell from infected produce Rapid decay spreading to nearby fruits",
+  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "management": "Handle fruits carefully to avoid wounds Remove and destroy infected fruits quickly Maintain good hygiene in storage areas Store produce at low temperature Improve ventilation and reduce humidity",
+  "prevention": "Harvest fruits carefully to avoid injuries Maintain proper cold storage Keep storage areas clean and disinfected Avoid stacking damaged produce with healthy fruits Reduce humidity during storage and transport",
+  "sources": []
+}

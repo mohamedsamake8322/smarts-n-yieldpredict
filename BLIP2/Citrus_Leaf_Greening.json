@@ -1,0 +1,67 @@
+{
+  "disease": "Citrus Leaf Greening",
+  "other_names": [
+    "Huanglongbing",
+    "HLB",
+    "Citrus Greening"
+  ],
+  "scientific_name": "Candidatus Liberibacter spp.",
+  "pathogen_type": "Bacterium",
+  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "hosts": [
+    "Citrus sinensis (sweet orange)",
+    "Citrus reticulata (mandarin)",
+    "Citrus paradisi (grapefruit)",
+    "Citrus limon (lemon)",
+    "Other Citrus species"
+  ],
+  "vectors": [
+    "Asian citrus psyllid (Diaphorina citri)",
+    "African citrus psyllid (Trioza erytreae)"
+  ],
+  "symptoms_and_damage": [
+    "Blotchy yellow mottling on leaves",
+    "Yellowing of leaf veins and shoots",
+    "Stunted tree growth",
+    "Twig dieback and premature leaf drop",
+    "Small, irregular, poorly colored fruits",
+    "Fruits remain partly green when ripe",
+    "Fruits taste bitter or sour",
+    "Aborted seeds and poor fruit development"
+  ],
+  "disease_cycle_and_spread": [
+    "Bacteria live in the phloem tissue of citrus trees",
+    "Spread mainly by psyllid insects feeding on infected plants",
+    "Can also spread through grafting infected plant material",
+    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+  ],
+  "favorable_conditions": [
+    "Warm climates in tropical and subtropical regions",
+    "Presence of psyllid insect vectors",
+    "Dense citrus production areas"
+  ],
+  "distribution": [
+    "Asia",
+    "Africa",
+    "United States (Florida, Texas, California and others)",
+    "Brazil",
+    "Mexico",
+    "Many tropical and subtropical citrus-growing regions worldwide"
+  ],
+  "management": [
+    "Control psyllid insect populations",
+    "Remove and destroy infected trees",
+    "Use clean and certified planting material",
+    "Regular monitoring and early detection",
+    "Research on resistant citrus varieties"
+  ],
+  "notes": [
+    "No effective cure currently exists",
+    "Infected trees usually die within a few years",
+    "The disease has caused major economic losses in citrus industries worldwide"
+  ],
+  "sources": [
+    "Wikipedia – Citrus greening disease",
+    "USDA – Citrus Greening and Asian Citrus Psyllid"
+  ]
+}

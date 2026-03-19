@@ -1,0 +1,16 @@
+{
+  "name": "Banana Leaf Black Sigatoka",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "early_stage: Tiny reddish or rusty-brown flecks on the underside of banana leaves Small streaks parallel to leaf veins intermediate_stage: Streaks elongate and darken into reddish-brown or black lines Lesions become visible on both sides of the leaf advanced_stage: Oval-shaped lesions with grey centers Yellow halos surrounding lesions Large necrotic areas causing leaf death",
+  "description": "",
+  "management": "cultural_control: Removal of infected leaves Improving field drainage Reducing humidity around plants Planting resistant banana varieties chemical_control: Triazole fungicides Demethylation inhibitor fungicides Methyl benzimidazole carbamates (MBC) biological_or_genetic_control: Breeding resistant banana cultivars Genetically modified resistant banana varieties",
+  "prevention": "",
+  "sources": [
+    "Biosecurity Queensland – Black Sigatoka pest profile",
+    "FAO Banana disease reports",
+    "Cook et al., 2013. Crop Protection Journal",
+    "Pattison, 2014. Australian Bananas"
+  ]
+}

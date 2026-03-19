@@ -1,0 +1,19 @@
+{
+  "name": "Soft Rot of Allium",
+  "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
+  "causal_agent": "",
+  "hosts": [
+    "Onion",
+    "Shallot",
+    "Garlic",
+    "Leek",
+    "Chive",
+    "Spring onion",
+    "Other Allium species"
+  ],
+  "symptoms": "Young leaves become pale, bleached and wilted Soft watery rot of bulb scales Yellow discoloration of infected tissues Brown streaks inside bulbs Entire bulb becomes soft and rotten Bad-smelling viscous fluid oozing from the neck of bulbs",
+  "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
+  "management": "Use certified disease-free planting material Avoid injuries during planting and harvest Use drip irrigation instead of overhead irrigation Allow onion tops to mature before harvest Remove and destroy infected plants Maintain balanced fertilization Store bulbs at low temperature and moderate humidity Use tolerant cultivars",
+  "prevention": "Plant certified pathogen-free bulbs or seeds Avoid waterlogging in fields Disinfect tools and equipment Remove crop debris after harvest Store bulbs at about 4°C with 65–70% relative humidity Avoid excessive nitrogen fertilization and maintain adequate calcium levels",
+  "sources": []
+}

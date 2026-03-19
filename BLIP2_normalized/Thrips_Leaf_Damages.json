@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [
+    "Chrysanthemum",
+    "Cineraria",
+    "Cyclamen",
+    "Dahlia",
+    "Dianthus",
+    "Fuchsia",
+    "Impatiens",
+    "lily",
+    "Nemesia",
+    "Primula",
+    "Ranunculus",
+    "Verbena",
+    "Coleus",
+    "Diascia",
+    "Lobelia",
+    "Gerbera",
+    "Capsicum annuum",
+    "Begonia x hiemalis",
+    "Pelargonium",
+    "Lettuce",
+    "Tomato",
+    "Potatoes",
+    "Peppers",
+    "Shallots",
+    "Garlic",
+    "Winter wheat",
+    "Alfalfa",
+    "Legumes",
+    "Onions",
+    "Beans",
+    "Cucumber",
+    "Cabbage",
+    "Leek",
+    "Asparagus",
+    "Cauliflower"
+  ],
+  "symptoms": "",
+  "description": {
+    "size": "1–1.5 mm (0.03–0.06 inches)",
+    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
+    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
+    "species_of_major_concern": [
+      "Western flower thrips (Frankliniella occidentalis)",
+      "Onion thrips (Thrips tabaci)"
+    ]
+  },
+  "management": "cultural: Monitor plants regularly for early signs of thrips Remove and destroy heavily infested plant parts Maintain healthy populations of natural enemies chemical: Use insecticides judiciously; follow local guidelines and label instructions integrated: Combine monitoring, cultural control, natural predators, and targeted insecticide use",
+  "prevention": "",
+  "sources": [
+    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
+    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+  ]
+}

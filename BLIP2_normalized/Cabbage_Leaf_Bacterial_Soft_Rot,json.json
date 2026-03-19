@@ -1,0 +1,22 @@
+{
+  "name": "Cabbage bacterial soft rot",
+  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
+  "causal_agent": "",
+  "hosts": [
+    "cabbage",
+    "broccoli",
+    "cauliflower",
+    "lettuce",
+    "potato",
+    "carrot",
+    "onion",
+    "pepper",
+    "tomato",
+    "many vegetable crops"
+  ],
+  "symptoms": "Water-soaked spots on leaves or cabbage heads Soft, sunken lesions that enlarge rapidly Tissues become soft, mushy, and wet Discoloration from cream to brown or black Liquid seepage from infected tissues Strong unpleasant rotten odor Leaves, stems or roots may completely decay in severe infections",
+  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
+  "management": "Use healthy and disease-free planting material Handle plants carefully to avoid wounds Remove and destroy infected plants immediately Rotate crops with non-host plants for at least 3 years Avoid overhead irrigation Maintain good field sanitation Ensure proper plant nutrition especially calcium",
+  "prevention": "Plant resistant or tolerant varieties Use disease-free seeds and seedlings Avoid injuring plants during cultivation Harvest during dry conditions Inspect cabbages before storage Keep storage areas clean and dry",
+  "sources": []
+}

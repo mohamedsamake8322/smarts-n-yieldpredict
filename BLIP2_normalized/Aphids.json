@@ -1,0 +1,18 @@
+{
+  "name": "Aphids",
+  "scientific_name": "Aphididae",
+  "causal_agent": "",
+  "hosts": [
+    "Vegetables, fruits, cereals, legumes, ornamental plants",
+    "Many crops and garden plants"
+  ],
+  "symptoms": "Stunted growth and leaf curling Yellowing or mottling of leaves Honeydew deposits on leaves and stems Sooty mold growth reducing photosynthesis Transmission of plant viruses",
+  "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
+  "management": "Release of predatory insects and parasitoids Encourage natural enemies in gardens or greenhouses Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)",
+  "prevention": "Monitor populations using yellow-pan or Moericke traps Avoid excessive nitrogen fertilization to reduce aphid attraction Remove infested plant parts promptly Encourage mutualistic ants only in controlled environments Crop rotation and maintaining plant health",
+  "sources": [
+    "Wikipedia – Aphid",
+    "Plant Pest Management Literature",
+    "Integrated Pest Management (IPM) references"
+  ]
+}

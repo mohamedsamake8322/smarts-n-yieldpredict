@@ -1,0 +1,22 @@
+{
+  "name": "Phytophthora Blight of Cucurbits",
+  "scientific_name": "Phytophthora capsici",
+  "causal_agent": "",
+  "hosts": [
+    "Cucumber",
+    "Pumpkin",
+    "Squash",
+    "Watermelon",
+    "Cantaloupe",
+    "Honeydew melon",
+    "Gourd",
+    "Pepper",
+    "Tomato",
+    "Eggplant"
+  ],
+  "symptoms": "Seedling damping-off with water-soaked rot at soil line Sudden wilting of plants without leaf yellowing Water-soaked dark lesions on stems and vines Leaf spots that become necrotic with olive or yellow borders Fruit rot starting at the point touching the soil White mold growth on rotting fruits Rapid fruit collapse and decay",
+  "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
+  "management": "Plant in well-drained fields Avoid excessive irrigation Use raised beds for cucurbit crops Rotate fields with non-host crops for at least 3 years Remove and destroy infected plants Clean farm equipment before moving between fields",
+  "prevention": "Use clean fields without previous disease history Avoid contaminated irrigation water Monitor fields after heavy rainfall Remove infected fruits quickly",
+  "sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Cherry Leaf Spot",
+  "scientific_name": "Blumeriella jaapii",
+  "causal_agent": "",
+  "hosts": [
+    "sweet cherry",
+    "sour cherry"
+  ],
+  "symptoms": "small purple, brown or tan spots on leaves irregular or circular lesions across leaf surface center of spots may dry and fall out creating holes leaves turn yellow and drop prematurely cream-colored fungal spore masses on underside of leaves fruit may develop spots and become soft infected fruit stems may cause fruit drop",
+  "description": "Cherry leaf spot is a fungal disease affecting cherry trees, especially in humid or rainy regions. It causes small purple or brown spots on leaves that enlarge over time. Severe infections lead to yellowing and premature leaf drop, reducing fruit quality and yield.",
+  "management": "remove and destroy fallen leaves clean infected plant debris under trees apply mulch to reduce soil splash prune trees to improve air circulation monitor trees during wet seasons",
+  "prevention": "good orchard sanitation regular pruning for airflow early fungicide application during rainy seasons",
+  "sources": []
+}

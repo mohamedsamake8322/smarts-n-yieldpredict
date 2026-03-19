@@ -1,0 +1,15 @@
+{
+  "name": "Late Blight (Leaf)",
+  "scientific_name": "Phytophthora infestans",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Potato",
+    "Other Solanaceae crops"
+  ],
+  "symptoms": "Dark brown to black leaf spots Leaf edges turn pale and die Rapid wilting of infected leaves",
+  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "management": "Plant resistant cultivars Remove and destroy infected leaves Improve air circulation with proper spacing and pruning Rotate crops to prevent inoculum buildup",
+  "prevention": "Avoid overhead irrigation Use certified disease-free seeds or tubers Remove plant debris after harvest",
+  "sources": []
+}

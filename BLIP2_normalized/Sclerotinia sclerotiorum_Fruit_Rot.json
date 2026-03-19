@@ -1,0 +1,23 @@
+{
+  "name": "Sclerotinia Fruit Rot",
+  "scientific_name": "Sclerotinia sclerotiorum",
+  "causal_agent": "",
+  "hosts": [
+    "Lettuce",
+    "Beans",
+    "Peas",
+    "Tomato",
+    "Cucumber",
+    "Celery",
+    "Chicory",
+    "Sunflower",
+    "Oilseed rape (canola)",
+    "Carrot",
+    "Many ornamental plants"
+  ],
+  "symptoms": "Plants suddenly wilt and collapse Soft wet rot on stems or fruits White cotton-like fungal growth on infected tissues Black seed-like structures (sclerotia) forming on infected areas Yellowing leaves before plant collapse Rotting of stems, fruits, bulbs, or roots",
+  "description": "Sclerotinia fruit rot is a fungal disease that affects many crops and vegetables. The fungus survives in soil as black structures called sclerotia and infects plants during cool and wet conditions, causing soft rot and plant collapse.",
+  "management": "Remove and destroy infected plants immediately Avoid overcrowding of plants Improve air circulation in crops Rotate crops with non-host plants Remove crop debris from the field",
+  "prevention": "Avoid planting susceptible crops repeatedly in the same field Maintain proper plant spacing Monitor fields during wet seasons Use integrated disease management practices",
+  "sources": []
+}

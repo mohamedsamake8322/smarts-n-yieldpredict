@@ -1,0 +1,24 @@
+{
+  "name": "Rhizoctonia Root Rot and Damping-off",
+  "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
+  "causal_agent": "",
+  "hosts": [
+    "Beans",
+    "Soybean",
+    "Maize",
+    "Rice",
+    "Potato",
+    "Tomato",
+    "Lettuce",
+    "Cabbage",
+    "Carrot",
+    "Pepper",
+    "Cotton",
+    "Many vegetable and field crops"
+  ],
+  "symptoms": "Seedlings collapsing at the soil line Brown or reddish lesions on stems near the soil surface Root rot and poor root development Wilting and stunted plant growth Irregular patches of dead or weak plants in the field Stem girdling causing plant death",
+  "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
+  "management": "Use well-drained soils Avoid planting in cold or very wet soil Rotate crops with non-host plants Reduce plant density Remove infected plant debris",
+  "prevention": "Use certified healthy seeds Improve soil drainage Avoid excessive irrigation Practice crop rotation",
+  "sources": []
+}

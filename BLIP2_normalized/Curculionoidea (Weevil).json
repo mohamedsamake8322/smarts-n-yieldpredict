@@ -1,0 +1,28 @@
+{
+  "name": "Weevils (Snout beetles)",
+  "scientific_name": "Superfamily Curculionoidea; family Curculionidae",
+  "causal_agent": "",
+  "hosts": [
+    "Rice",
+    "Maize",
+    "Wheat",
+    "Cotton",
+    "Coffee",
+    "Banana",
+    "Citrus",
+    "Apple",
+    "Mango",
+    "Coconut",
+    "Stored grains"
+  ],
+  "symptoms": "Small holes in leaves, fruits or seeds Damaged or hollow seeds and grains Premature fruit drop Larval tunnels inside stems or fruits Stunted plant growth Presence of adult beetles with a long snout",
+  "description": "Weevils are plant-feeding beetles characterized by a long snout (rostrum). Both larvae and adults damage crops by feeding on plant tissues such as leaves, fruits, seeds, stems or roots. Many species are serious pests in agriculture and storage systems.",
+  "management": "Predators such as birds, spiders and predatory beetles Parasitic wasps attacking larvae or eggs Entomopathogenic fungi such as Beauveria bassiana and Metarhizium anisopliae Entomopathogenic nematodes (Steinernema spp., Heterorhabditis spp.)",
+  "prevention": "",
+  "sources": [
+    "CABI Crop Protection Compendium",
+    "USDA Agricultural Research Service",
+    "FAO Integrated Pest Management guides",
+    "Triplehorn & Johnson – Borror and DeLong's Introduction to the Study of Insects"
+  ]
+}

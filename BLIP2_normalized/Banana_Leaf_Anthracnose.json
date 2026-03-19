@@ -1,0 +1,15 @@
+{
+  "name": "Banana Leaf Anthracnose",
+  "scientific_name": "Colletotrichum musae",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "Small dark brown to black spots on leaves Irregular necrotic lesions with defined margins Yellow halo around lesions in some cases Expansion of lesions leading to leaf blight Premature defoliation in severe infections Reduced plant vigor and growth",
+  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "management": "cultural_control: Remove and destroy infected leaves and plant debris Improve air circulation in plantations Use disease-free planting material Maintain field sanitation biological_control: Use of antagonistic fungi such as Trichoderma spp. Application of beneficial microbial biocontrol agents chemical_control: Fungicides such as carbendazim, mancozeb or thiophanate-methyl Apply according to recommended agricultural guidelines",
+  "prevention": "",
+  "sources": [
+    "Plant pathology literature on Colletotrichum musae",
+    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
+    "Plant disease management guides and Plantwise resources"
+  ]
+}

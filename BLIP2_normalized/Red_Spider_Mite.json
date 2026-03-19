@@ -1,0 +1,25 @@
+{
+  "name": "Red Spider Mite Infestation",
+  "scientific_name": "Tetranychus urticae (and related spider mite species)",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Strawberry",
+    "Bean",
+    "Cucumber",
+    "Pepper",
+    "Eggplant",
+    "Apple",
+    "Citrus",
+    "Grapevine",
+    "Cotton",
+    "Maize",
+    "Ornamental plants",
+    "Greenhouse crops"
+  ],
+  "symptoms": "Small pale or yellow spots on leaves (stippling) Leaves losing their green color Fine silk webbing on leaves and stems Leaves turning yellow or brown Leaf drying and falling Severely weakened plants or plant death",
+  "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
+  "management": "Increase humidity around plants Regularly spray plants with water Remove heavily infested leaves or plants Clean crop debris and weeds Avoid dusty conditions in fields or greenhouses",
+  "prevention": "Monitor leaves regularly with a hand lens Maintain good irrigation and humidity Remove plant debris after harvest Use integrated pest management (IPM)",
+  "sources": []
+}

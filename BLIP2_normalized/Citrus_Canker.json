@@ -1,0 +1,20 @@
+{
+  "name": "Citrus Canker",
+  "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
+  "causal_agent": "",
+  "hosts": [
+    "Citrus spp. (orange, lime, grapefruit, lemon)",
+    "Poncirus trifoliata",
+    "Fortunella spp. (kumquat)",
+    "Severinia spp.",
+    "Swinglea spp."
+  ],
+  "symptoms": "Small raised blister-like lesions with water-soaked margins Yellow halos surrounding lesions on leaves and fruits Necrotic spots on leaves, stems, and fruits Fruit cracking and deformation Premature fruit drop Severe infections cause defoliation",
+  "description": "Citrus canker is a highly contagious bacterial disease affecting citrus plants. It causes lesions on leaves, stems, and fruits, leading to premature leaf and fruit drop and reduced fruit quality. Although infected fruits are edible, they are not marketable due to their appearance.",
+  "management": "Use certified disease-free planting material Apply copper-based sprays as preventive treatment Install windbreaks to reduce spread by wind-driven rain Control citrus leafminer populations Disinfect tools, equipment, and clothing when entering or leaving orchards Remove infected trees in areas where the disease is not yet established",
+  "prevention": "",
+  "sources": [
+    "Wikipedia – Citrus Canker",
+    "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
+  ]
+}

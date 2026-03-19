@@ -1,0 +1,21 @@
+{
+  "name": "Bean rust",
+  "scientific_name": "Uromyces appendiculatus",
+  "causal_agent": "",
+  "hosts": [
+    "common bean",
+    "kidney bean",
+    "pinto bean",
+    "black bean",
+    "snap bean",
+    "lima bean",
+    "soybean",
+    "cowpea",
+    "other Phaseolus species"
+  ],
+  "symptoms": "Small white or pale yellow spots on leaves Orange, brown or rust-colored pustules on leaf underside Powdery spores released from pustules Yellowing around lesions Severely infected leaves dry and fall early Occasional pustules on stems and pods",
+  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "management": "Plant resistant bean varieties Rotate crops with non-host plants Remove infected crop residues Improve plant spacing for airflow Monitor fields early during the growing season",
+  "prevention": "Use certified disease-free seeds Avoid dense planting Remove infected plant debris after harvest Use resistant cultivars Monitor crops during humid weather",
+  "sources": []
+}

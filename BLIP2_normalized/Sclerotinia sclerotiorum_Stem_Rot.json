@@ -1,0 +1,22 @@
+{
+  "name": "Sclerotinia Stem Rot",
+  "scientific_name": "Sclerotinia sclerotiorum",
+  "causal_agent": "",
+  "hosts": [
+    "Soybean",
+    "Sunflower",
+    "Canola (oilseed rape)",
+    "Lettuce",
+    "Tomato",
+    "Beans",
+    "Peas",
+    "Carrot",
+    "Cucumber",
+    "Many vegetable and ornamental plants"
+  ],
+  "symptoms": "Water-soaked lesions on stems Soft rot on stems near the soil line White cotton-like fungal growth on stems Black seed-like sclerotia inside or on infected stems Wilting and yellowing of leaves Plants collapsing due to stem decay",
+  "description": "Sclerotinia stem rot is a fungal disease that attacks the stems of many crops. The fungus produces white cotton-like mold and black survival structures called sclerotia. Infected stems become soft, rot, and may cause the plant to collapse.",
+  "management": "Rotate crops with non-host plants Improve plant spacing and airflow Remove and destroy infected plants Manage crop residue after harvest",
+  "prevention": "Avoid dense planting Monitor crops regularly during cool and wet periods Use integrated disease management practices",
+  "sources": []
+}

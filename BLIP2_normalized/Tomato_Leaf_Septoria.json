@@ -1,0 +1,18 @@
+{
+  "name": "Tomato Leaf Septoria",
+  "scientific_name": "",
+  "causal_agent": "Septoria lycopersici",
+  "hosts": [
+    "Tomato (Solanum lycopersicum L.)",
+    "Solanaceous weeds (e.g., horsenettle)"
+  ],
+  "symptoms": "foliage: Circular spots with dark brown margins and tan to gray centers Centers dotted with black pycnidia Narrow yellow halo often surrounds leaf lesions Severe infections cause leaf yellowing, browning, wilting, and defoliation fruit: Fruit infection is rare",
+  "description": "",
+  "management": "cultural: Rotate crops for at least 1–2 years to non-solanaceous crops Control susceptible weeds such as horsenettle Remove and destroy crop debris (burn or bury infested plants where allowed) Staking or trellising plants to improve air circulation and reduce foliage-soil contact Increase spacing between plants and avoid overmulching to reduce humidity Monitor irrigation to prevent prolonged leaf wetness Use resistant tomato varieties where available chemical: Apply registered protective fungicide sprays at regular intervals Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective Common trade names include Daconil, Mancozeb, Fungonil Reapply frequently (typically every 7 days) as per label instructions Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection",
+  "prevention": "",
+  "sources": [
+    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
+    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
+    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+  ]
+}

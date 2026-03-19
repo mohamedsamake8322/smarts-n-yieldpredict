@@ -1,0 +1,21 @@
+{
+  "name": "Tomato Early Blight",
+  "scientific_name": "",
+  "causal_agent": "Alternaria solani",
+  "hosts": [
+    "Tomato (Solanum lycopersicum L.)",
+    "Potato (S. tuberosum)",
+    "Eggplant (S. melongena L.)",
+    "Bell pepper and hot pepper (Capsicum spp.)",
+    "Black nightshade (Solanum nigrum)"
+  ],
+  "symptoms": "tomato: Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm Yellowing or chlorosis around leaf spots Stem lesions, dark and slightly sunken with concentric rings Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass Seedlings: collar rot (basal girdling), death potato: Concentric dark brown spots on older leaves Premature defoliation leading to tuber yield reduction Stem spots gaunt and diffuse Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage",
+  "description": "",
+  "management": "Clear infected debris to reduce inoculum Water plants in the morning to minimize leaf wetness Use drip irrigation Apply mulch to block soil splash Rotate to non-solanaceous crops for at least three years Control wild solanaceous plants near fields Plant resistant cultivars Increase air circulation in rows Monitor fields closely in warm, damp weather",
+  "prevention": "",
+  "sources": [
+    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
+    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
+    "https://doi.org/10.1094/PHYTO-94-11-1231"
+  ]
+}

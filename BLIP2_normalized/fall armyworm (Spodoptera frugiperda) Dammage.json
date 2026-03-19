@@ -1,0 +1,21 @@
+{
+  "name": "Fall Armyworm Damage",
+  "scientific_name": "Spodoptera frugiperda",
+  "causal_agent": "",
+  "hosts": [
+    "Maize",
+    "Rice",
+    "Sorghum",
+    "Millet",
+    "Sugarcane",
+    "Wheat",
+    "Cotton",
+    "Soybean",
+    "Vegetables"
+  ],
+  "symptoms": "Irregular holes and chewing damage on leaves Window-pane feeding on young leaves Large ragged holes in maize leaves Frass (insect droppings) inside leaf whorl Severely damaged or destroyed plant growing point",
+  "description": "Fall armyworm is a destructive caterpillar pest that attacks maize and many other crops. Larvae feed on leaves and growing points, causing severe crop damage and yield loss.",
+  "management": "Regular field scouting for early detection Hand removal of larvae in small fields Destroy heavily infested plants Use pheromone traps for monitoring",
+  "prevention": "Early planting to avoid peak infestation Crop rotation Plant resistant maize varieties Maintain field sanitation",
+  "sources": []
+}

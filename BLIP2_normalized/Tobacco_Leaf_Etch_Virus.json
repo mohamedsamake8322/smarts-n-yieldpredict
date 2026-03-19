@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [
+    "Capsicum annuum",
+    "Capsicum frutescens",
+    "Tomato (Solanum lycopersicum)",
+    "Tobacco (Nicotiana spp.)",
+    "Solanum nigrum",
+    "Solanum aculeatissimum",
+    "Chenopodium album",
+    "Datura stramonium",
+    "Linaria canadensis",
+    "Physalis spp."
+  ],
+  "symptoms": "Vein clearing on leaves Mosaic or mottling patterns Necrotic streaks or etched patterns on leaves Leaf deformation and curling Stunted plant growth Reduced fruit yield and quality Occasional fruit discoloration or necrotic lesions",
+  "description": "",
+  "management": "cultural: Remove weed hosts that serve as virus reservoirs Use virus-free planting materials Implement crop rotation vector_control: Monitor aphid populations Use reflective mulches to repel aphids Apply insecticides if aphid pressure is high resistance: Use resistant or tolerant cultivars when available",
+  "prevention": "",
+  "sources": [
+    "ICTV Virus Taxonomy",
+    "APS Plant Disease Compendium",
+    "Plant Virus Online Database"
+  ]
+}

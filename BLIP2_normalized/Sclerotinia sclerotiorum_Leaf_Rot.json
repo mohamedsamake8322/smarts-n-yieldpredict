@@ -1,0 +1,22 @@
+{
+  "name": "Sclerotinia Leaf Rot",
+  "scientific_name": "Sclerotinia sclerotiorum",
+  "causal_agent": "",
+  "hosts": [
+    "Lettuce",
+    "Beans",
+    "Peas",
+    "Tomato",
+    "Sunflower",
+    "Cabbage",
+    "Carrot",
+    "Celery",
+    "Cucumber",
+    "Many ornamental plants"
+  ],
+  "symptoms": "Water-soaked spots on leaves Leaves turning yellow and wilting Soft rot on infected leaf tissue White cotton-like fungal growth on leaves or stems Black seed-like sclerotia forming in infected areas Leaves collapsing and dying",
+  "description": "Sclerotinia leaf rot is a fungal disease that affects many crops. The fungus infects leaves and stems under cool and wet conditions. It produces white cotton-like mold and black survival structures called sclerotia.",
+  "management": "Remove infected plants quickly Improve plant spacing and airflow Rotate crops with non-host plants Remove infected plant debris from fields",
+  "prevention": "Avoid overcrowded planting Monitor crops during cool and wet seasons Practice crop rotation Use integrated disease management",
+  "sources": []
+}

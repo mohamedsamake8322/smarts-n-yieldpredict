@@ -1,0 +1,68 @@
+{
+ "pest": "Mealybug",
+ "scientific_name": "Family Pseudococcidae",
+ "pest_type": "Insect",
+ "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
+ "symptoms": [
+  "White cotton-like insects on leaves, stems, or fruits",
+  "Sticky honeydew on plant surfaces",
+  "Black sooty mold growing on honeydew",
+  "Yellowing or curling leaves",
+  "Stunted plant growth",
+  "Premature leaf drop in severe infestations"
+ ],
+ "hosts": [
+  "Citrus",
+  "Grapevine",
+  "Banana",
+  "Papaya",
+  "Pineapple",
+  "Coffee",
+  "Cassava",
+  "Sugarcane",
+  "Sunflower",
+  "Orchids",
+  "Cactus",
+  "Garden plants and greenhouse crops"
+ ],
+ "favorable_conditions": [
+  "Warm and humid climates",
+  "Dense vegetation or greenhouse conditions",
+  "Presence of ants that protect mealybugs",
+  "Poor natural predator activity"
+ ],
+ "spread": [
+  "Movement of infested plant material",
+  "Wind or insects carrying crawlers",
+  "Ants transporting and protecting colonies"
+ ],
+ "damage": [
+  "Plant weakening due to sap feeding",
+  "Transmission of plant viruses in some crops",
+  "Reduced yield and plant growth",
+  "Development of sooty mold on honeydew"
+ ],
+ "biological_control": [
+  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
+  "Green lacewing larvae (Chrysopidae)",
+  "Parasitic wasps attacking mealybugs",
+  "Encourage natural predators by reducing broad insecticides"
+ ],
+ "chemical_control": [
+  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
+  "Insecticidal soaps or horticultural oils",
+  "Systemic insecticides when infestations are severe"
+ ],
+ "prevention": [
+  "Inspect plants regularly for early infestations",
+  "Control ants that protect mealybugs",
+  "Remove heavily infested plant parts",
+  "Avoid excessive nitrogen fertilization",
+  "Use clean planting material"
+ ],
+ "source": [
+  "Entomology literature on Pseudococcidae",
+  "Agricultural pest management references",
+  "Wikipedia – Mealybug"
+ ]
+}

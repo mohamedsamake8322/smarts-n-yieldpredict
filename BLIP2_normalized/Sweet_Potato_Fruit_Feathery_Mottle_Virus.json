@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "typical: Feathery purple patterns on leaves severe_strains: root necrosis leaf chlorosis root discoloration co-infections: SPVD: Occurs when SPFMV co-infects with SPCSV; causes stunted growth, severe mosaic, leaf distortion, reduced yield synergism_effects: SPFMV titers up to 600x higher in SPVD; enhanced spread and replication",
+  "description": "",
+  "management": "early_detection: ELISA for virus identification removal: Remove infected plants to prevent spread prevention: Plant virus-free propagation material Properly clean tools to prevent mechanical transmission Use transgenic plants expressing antiviral genes",
+  "prevention": "",
+  "sources": [
+    "Various sources from plant virology and sweet potato disease studies as cited in user-provided content"
+  ]
+}

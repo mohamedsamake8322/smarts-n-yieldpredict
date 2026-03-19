@@ -1,0 +1,17 @@
+{
+  "name": "Bacterial Wilt (Leaf)",
+  "scientific_name": "Ralstonia solanacearum",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Potato",
+    "Eggplant",
+    "Pepper",
+    "Other Solanaceae"
+  ],
+  "symptoms": "Sudden wilting of leaves Yellowing and drooping of older leaves Brown discoloration in vascular tissue",
+  "description": "A soil-borne bacterial disease causing wilting of leaves and stems, eventually killing plants. Can persist in soil and water for years.",
+  "management": "Use resistant or tolerant cultivars Remove and destroy infected plants Improve soil drainage and avoid waterlogging Practice crop rotation with non-hosts",
+  "prevention": "Use pathogen-free planting material Sanitize tools and equipment Avoid moving soil from infected fields",
+  "sources": []
+}

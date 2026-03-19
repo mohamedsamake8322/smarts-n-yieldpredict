@@ -1,0 +1,21 @@
+{
+  "name": "Brown rot of fruit",
+  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
+  "causal_agent": "",
+  "hosts": [
+    "peach",
+    "apricot",
+    "plum",
+    "cherry",
+    "nectarine",
+    "apple",
+    "pear",
+    "almond",
+    "other stone fruits"
+  ],
+  "symptoms": "Small brown spots on fruit surface Soft brown rot spreading across the fruit Circular grey or beige spore masses on the fruit Fruit shriveling and drying on the tree Mummified fruits remaining attached to branches Flower blight and twig dieback in severe infections",
+  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "management": "Remove and destroy infected fruits Prune trees to improve airflow Remove mummified fruits from trees Avoid fruit injuries during harvest Maintain orchard sanitation",
+  "prevention": "Remove infected fruit during the season Avoid fruit damage by insects Maintain good orchard hygiene Harvest fruit carefully Store fruit in dry and cool conditions",
+  "sources": []
+}

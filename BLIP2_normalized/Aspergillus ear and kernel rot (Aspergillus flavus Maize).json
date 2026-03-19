@@ -1,0 +1,21 @@
+{
+  "name": "Aspergillus Ear Rot of Corn",
+  "scientific_name": "Aspergillus flavus",
+  "causal_agent": "",
+  "hosts": [
+    "Corn (maize)",
+    "Peanuts",
+    "Cereal grains",
+    "Legumes",
+    "Tree nuts"
+  ],
+  "symptoms": "Olive-green powdery mold on kernels Mold usually begins at the tip of the ear but may spread to the base Powdery spores disperse like dust when husk is opened Small ears and stunted plants in dry or stressed areas Kernel discoloration and reduced seed germination",
+  "description": "Aspergillus ear rot is an important fungal disease of maize caused mainly by Aspergillus flavus. The disease produces olive-green powdery mold on corn kernels and contaminates grain with aflatoxin, a highly toxic and carcinogenic mycotoxin that threatens livestock and human health and reduces grain marketability.",
+  "management": "Pichia anomala yeast competes with Aspergillus flavus and reduces growth up to 97% Atoxigenic strain Aspergillus flavus AF36 used as biocontrol to reduce aflatoxin production",
+  "prevention": "",
+  "sources": [
+    "University Extension Plant Disease Publications",
+    "USDA Agricultural Research Service",
+    "Scientific literature on Aspergillus flavus and aflatoxin contamination"
+  ]
+}

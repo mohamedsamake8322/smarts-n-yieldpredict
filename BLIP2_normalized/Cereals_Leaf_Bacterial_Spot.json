@@ -1,0 +1,20 @@
+{
+  "name": "Bacterial leaf streak of cereals",
+  "scientific_name": "Xanthomonas translucens",
+  "causal_agent": "",
+  "hosts": [
+    "wheat",
+    "barley",
+    "rye",
+    "oat",
+    "maize",
+    "sorghum",
+    "wild grasses",
+    "forage grasses"
+  ],
+  "symptoms": "Long water-soaked streaks on leaves Light green or yellow stripes between veins Lesions become brown and elongated Streaks run parallel to leaf veins Leaves may dry and die in severe infections Sticky yellow bacterial exudate may appear on lesions Leaves may look shredded along the streaks",
+  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
+  "management": "Use certified disease-free seeds Apply strict seed health testing Avoid planting infected seed lots Use resistant or tolerant cultivars when available Monitor fields regularly for early symptoms Follow quarantine rules for seed movement",
+  "prevention": "",
+  "sources": []
+}

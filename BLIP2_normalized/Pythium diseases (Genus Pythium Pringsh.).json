@@ -1,0 +1,20 @@
+{
+  "name": "Pythium Damping-off",
+  "scientific_name": "Genus Pythium",
+  "causal_agent": "",
+  "hosts": [
+    "Tobacco",
+    "Vegetable seedlings",
+    "Cucumber",
+    "Tomato",
+    "Pepper",
+    "Lettuce",
+    "Beans",
+    "Many nursery crops"
+  ],
+  "symptoms": "Irregular patches of wilted or yellow plants in seedbeds Soft brown watery rot at the base of stems Seedlings falling over at the soil line Stunted growth of young plants Yellowing of older plants due to root damage Stem rot in newly transplanted plants",
+  "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
+  "management": "Use well-drained seedbeds Avoid overwatering Improve air circulation in nurseries Use sterile soil or seedling substrate Reduce planting density",
+  "prevention": "Use certified disease-free seeds Sterilize nursery trays and tools Avoid excessive irrigation Rotate crops when possible",
+  "sources": []
+}

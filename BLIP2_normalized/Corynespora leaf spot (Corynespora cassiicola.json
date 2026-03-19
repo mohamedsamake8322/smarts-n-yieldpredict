@@ -1,0 +1,18 @@
+{
+  "name": "Corynespora Leaf Spot",
+  "scientific_name": "",
+  "causal_agent": "Corynespora cassiicola",
+  "hosts": [
+    "Tobacco",
+    "Tomato",
+    "Cucumber",
+    "Soybean",
+    "Cotton",
+    "Rubber tree"
+  ],
+  "symptoms": "Small dark green water-soaked spots on leaves Spots gradually turn brown Circular or irregular necrotic lesions Lesions expand and merge forming large patches Disease often begins on lower or middle leaves",
+  "description": "Corynespora leaf spot is a destructive fungal disease affecting over 500 plant species, including economically important crops such as tobacco, tomato, cucumber, soybean, cotton, and rubber tree. Infection begins on lower or middle leaves, forming dark green water-soaked spots that turn brown and expand into large lesions. The pathogen can exist as a necrotroph, saprophyte, or endophyte, and thrives under high humidity and slightly acidic conditions.",
+  "management": "{'agent': 'Bacillus subtilis', 'type': 'Beneficial bacterium', 'mode_of_action': 'Produces antifungal metabolites and inhibits fungal growth'} {'agent': 'Bacillus amyloliquefaciens', 'type': 'Beneficial bacterium', 'mode_of_action': 'Produces lipopeptides that damage fungal cell membranes'} {'agent': 'Trichoderma harzianum', 'type': 'Biocontrol fungus', 'mode_of_action': 'Mycoparasitism and competition with plant pathogens'} {'agent': 'Trichoderma viride', 'type': 'Biocontrol fungus', 'mode_of_action': 'Produces antifungal enzymes and secondary metabolites'}",
+  "prevention": "",
+  "sources": []
+}

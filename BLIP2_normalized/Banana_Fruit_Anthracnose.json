@@ -1,0 +1,15 @@
+{
+  "name": "Banana Fruit Anthracnose",
+  "scientific_name": "Colletotrichum musae",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "Dark sunken lesions on banana fruit surface Lesions enlarge and become black or dark brown during ripening Orange spore masses (acervuli) appear on mature lesions Fruit rot and peel necrosis Leaf blight and shoot dieback in severe cases Premature leaf drop and reduced yield",
+  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "management": "Use of biological antagonists such as Trichoderma species Natural plant extracts and microbial biocontrol agents Integrated disease management strategies combining biological agents and cultural practices",
+  "prevention": "Select resistant banana varieties where available Apply integrated disease management strategies Monitor fruit during pre-harvest and postharvest stages Maintain clean storage and transport conditions",
+  "sources": [
+    "Plant pathology research on Colletotrichum musae",
+    "Agricultural extension publications on banana diseases",
+    "Scientific literature on anthracnose management"
+  ]
+}

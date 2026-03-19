@@ -1,0 +1,18 @@
+{
+  "name": "Cabbage bacterial leaf spot",
+  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
+  "causal_agent": "",
+  "hosts": [
+    "cabbage",
+    "broccoli",
+    "cauliflower",
+    "kale",
+    "mustard greens",
+    "other Brassica crops"
+  ],
+  "symptoms": "Small brown spots on cabbage leaves Spots enlarge and join together Irregular dead tissue on leaves Lesions often limited by leaf veins Leaves turn yellow Severely infected leaves become rotten Plant growth becomes weak",
+  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
+  "management": "Use certified disease-free seeds Remove infected plants immediately Avoid growing cabbage repeatedly on the same land Practice crop rotation for 2–3 years Mulch soil to reduce rain splash Avoid damaging plants during weeding Clean and disinfect tools regularly",
+  "prevention": "Use tolerant or resistant cabbage varieties Plant healthy seedlings Avoid working in fields when plants are wet Maintain good field sanitation Control insect damage to reduce entry points for bacteria",
+  "sources": []
+}

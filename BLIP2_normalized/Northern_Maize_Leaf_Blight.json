@@ -1,0 +1,19 @@
+{
+  "name": "Northern Maize Leaf Blight",
+  "scientific_name": "Exserohilum turcicum (Setosphaeria turcica)",
+  "causal_agent": "",
+  "hosts": [
+    "Maize (corn)",
+    "Sweet corn",
+    "Sorghum",
+    "Pearl millet",
+    "Johnson grass",
+    "Sudan grass",
+    "Elephant grass"
+  ],
+  "symptoms": "Small water-soaked spots on lower leaves Long elliptical or cigar-shaped lesions Gray-green lesions that later turn tan or brown Dark fungal sporulation in mature lesions Large blighted leaf areas when lesions merge Severe infections can kill entire leaves or plants",
+  "description": "A common fungal leaf disease of maize worldwide. It causes long cigar-shaped lesions on leaves that reduce photosynthesis and can lead to major yield losses.",
+  "management": "Plant resistant or tolerant maize hybrids Rotate maize with non-host crops such as soybean or sunflower Scout fields regularly for early symptoms Use integrated disease management strategies Apply fungicides when first lesions appear below the ear leaf",
+  "prevention": "Crop rotation with non-host crops Deep ploughing or residue management to reduce inoculum Use resistant maize hybrids Monitor fields during humid weather conditions",
+  "sources": []
+}

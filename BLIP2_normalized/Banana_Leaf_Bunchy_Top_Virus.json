@@ -1,0 +1,17 @@
+{
+  "name": "Banana Bunchy Top Disease",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "early_stage: Dark green streaks along leaf veins Short and narrow young leaves Morse code streaking on leaf petioles intermediate_stage: Leaves become upright and clustered Yellowing and chlorosis of leaves Reduced leaf size advanced_stage: Bunchy appearance at the top of the plant Severe plant stunting Deformed or absent fruit",
+  "description": "",
+  "management": "cultural_control: Use virus-free planting material Remove and destroy infected plants (roguing) Avoid planting infected suckers vector_control: Control banana aphid populations Use insecticides such as imidacloprid or carbaryl Monitor alternate aphid host plants preventive_measures: Strict quarantine regulations Monitoring of planting material movement Use of certified tissue culture plants research_directions: Biopriming with beneficial bacteria Development of resistant banana varieties",
+  "prevention": "",
+  "sources": [
+    "FAO Plant Disease Reports",
+    "ICTV Virus Taxonomy",
+    "Plant Pathology Journals",
+    "University of Hawaii Plant Disease Publications",
+    "Queensland Department of Agriculture"
+  ]
+}

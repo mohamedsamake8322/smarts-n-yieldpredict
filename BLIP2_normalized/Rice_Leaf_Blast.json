@@ -1,0 +1,15 @@
+{
+  "name": "Rice Leaf Blast",
+  "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
+  "causal_agent": "",
+  "hosts": [
+    "Rice (Oryza sativa)",
+    "Wild rice species",
+    "Some grasses"
+  ],
+  "symptoms": "Diamond or spindle-shaped lesions on leaves Lesions with gray or white center and brown or reddish border Small spots that enlarge and merge on leaves Leaf drying or death in severe infections Reduced plant growth In severe cases young plants may die",
+  "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
+  "management": "Use resistant rice varieties Plant certified disease-free seed Maintain continuous flooding when possible Avoid excessive nitrogen fertilization Destroy infected crop residue",
+  "prevention": "Regular field monitoring for early symptoms Balanced fertilization Maintain proper irrigation management Use integrated disease management practices",
+  "sources": []
+}

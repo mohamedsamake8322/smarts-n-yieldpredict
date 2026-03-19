@@ -1,0 +1,17 @@
+{
+  "name": "Corn smut",
+  "scientific_name": "Mycosarcoma maydis",
+  "causal_agent": "",
+  "hosts": [
+    "Maize (Zea mays)",
+    "Teosinte (Zea mexicana)"
+  ],
+  "symptoms": "general: Tumor-like galls on plant tissues Swollen kernels or plant organs Black powdery spores inside galls leaves: Small galls on leaf veins or blades stems: Large galls on stalks or nodes ears: Kernels replaced by swollen galls Galls turn black and rupture releasing spores",
+  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "management": "cultural: Use resistant maize varieties Practice crop rotation Remove infected plant debris Avoid mechanical injury to plants Manage nitrogen fertilization chemical: Fungicides are generally ineffective for controlling corn smut",
+  "prevention": "",
+  "sources": [
+    "Wikipedia – Corn smut",
+    "University plant pathology references"
+  ]
+}

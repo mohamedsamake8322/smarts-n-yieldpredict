@@ -1,0 +1,20 @@
+{
+  "name": "Citrus Leaf Greening",
+  "scientific_name": "Candidatus Liberibacter spp.",
+  "causal_agent": "",
+  "hosts": [
+    "Citrus sinensis (sweet orange)",
+    "Citrus reticulata (mandarin)",
+    "Citrus paradisi (grapefruit)",
+    "Citrus limon (lemon)",
+    "Other Citrus species"
+  ],
+  "symptoms": "Blotchy yellow mottling on leaves Yellowing of leaf veins and shoots Stunted tree growth Twig dieback and premature leaf drop Small, irregular, poorly colored fruits Fruits remain partly green when ripe Fruits taste bitter or sour Aborted seeds and poor fruit development",
+  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "management": "Control psyllid insect populations Remove and destroy infected trees Use clean and certified planting material Regular monitoring and early detection Research on resistant citrus varieties",
+  "prevention": "",
+  "sources": [
+    "Wikipedia – Citrus greening disease",
+    "USDA – Citrus Greening and Asian Citrus Psyllid"
+  ]
+}

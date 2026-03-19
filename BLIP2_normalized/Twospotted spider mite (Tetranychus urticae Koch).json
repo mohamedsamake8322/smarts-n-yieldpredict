@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "scientific_name": "Tetranychus urticae Koch",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Cucumber",
+    "Pepper",
+    "Strawberry",
+    "Many ornamentals, vegetables, and fruit crops",
+    "Common weed hosts can harbor populations during off-season"
+  ],
+  "symptoms": "foliage: Tiny yellow or pale spots on upper leaf surface (stippling) Webbing on undersides of leaves under heavy infestations Leaves may turn bronze, curl, and drop prematurely overall_impact: Reduced photosynthesis, stunted growth, lower yield, increased plant stress",
+  "description": {
+    "size": "Adults 0.4–0.5 mm long",
+    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
+    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
+    "notes": "Very small, often requires a hand lens or magnification for detection"
+  },
+  "management": "cultural: Maintain adequate irrigation and humidity to reduce stress on plants Remove infested plant debris and weeds Avoid excessive use of broad-spectrum insecticides that disrupt natural predators biological: Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus) Encourage natural predators such as lady beetles and lacewings chemical: Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance Apply to undersides of leaves where mites are concentrated",
+  "prevention": "",
+  "sources": [
+    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+  ]
+}

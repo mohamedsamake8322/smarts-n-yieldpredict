@@ -1,0 +1,21 @@
+{
+  "name": "Bean bacterial blight",
+  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
+  "causal_agent": "",
+  "hosts": [
+    "common bean",
+    "kidney bean",
+    "pinto bean",
+    "black bean",
+    "navy bean",
+    "lima bean",
+    "snap bean",
+    "soybean",
+    "other Phaseolus species"
+  ],
+  "symptoms": "Small water-soaked spots on leaves Brown or dark lesions with yellow halos Large irregular dead areas on leaves Leaf tearing or drying Water-soaked spots on pods Pods becoming brown, shriveled, or deformed",
+  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "management": "Use certified disease-free seeds Remove infected plant residues Avoid overhead irrigation Rotate crops for 2–3 years Improve field ventilation",
+  "prevention": "Plant resistant varieties when available Use clean seeds Avoid working in wet fields Disinfect tools Maintain good field sanitation",
+  "sources": []
+}

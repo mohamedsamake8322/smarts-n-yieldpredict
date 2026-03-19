@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "scientific_name": "Bemisia argentifolii",
+  "causal_agent": "",
+  "hosts": [
+    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
+    "Other vegetable crops as incidental hosts"
+  ],
+  "symptoms": "",
+  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "management": "cultural: Delay planting or create host-free periods to reduce infestation Plant crops upwind from other whitefly hosts Maintain sanitation: remove weeds and crop residues promptly Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies biological: Parasitic wasps (Encarsia, Eretmocerus) Predators: bigeyed bugs, lacewing larvae, lady beetles Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea chemical: {'name': 'Cyantraniliprole (Exirel, Verimark)', 'targets': 'Adults', 'MOA_group': '28'} {'name': 'Chlorantraniliprole (Coragen)', 'targets': 'Adults', 'MOA_group': '28'} {'name': 'Dinotefuran (Venom)', 'targets': 'Adults', 'MOA_group': '4A'} {'name': 'Imidacloprid (Admire Pro)', 'targets': 'Nymphs', 'MOA_group': '4A'} {'name': 'Acetamiprid (Assail 70 WP)', 'targets': 'Nymphs/Adults', 'MOA_group': '4A'} {'name': 'Flupyradifurone (Sivanto 200 SL)', 'targets': 'Eggs and nymphs', 'MOA_group': '4D'} {'name': 'Sulfoxaflor (Sequoia CA)', 'targets': 'Eggs and nymphs', 'MOA_group': '4C'} {'name': 'Thiamethoxam (Actara)', 'targets': 'Nymphs/Adults', 'MOA_group': '4A'} {'name': 'Bifenthrin (Brigade 2EC)', 'targets': 'Adults', 'MOA_group': '3A'} {'name': 'Spirotetramat (Movento)', 'targets': 'Nymphs', 'MOA_group': '23'} {'name': 'Spiromesifen (Oberon 2 SC)', 'targets': 'Nymphs', 'MOA_group': '23'} {'name': 'Buprofezin (Courier SC)', 'targets': 'Nymphs', 'MOA_group': '16'} {'name': 'Insecticidal soaps', 'targets': 'Nymphs and adults', 'mode': 'contact'} {'name': 'Narrow-range oils (Omni Oil, JMS Stylet-Oil)', 'targets': 'Nymphs and adults', 'mode': 'contact/coverage'} organic: Beauveria bassiana and Isaria fumosorosea for nymph control Insecticidal soaps and narrow-range oils Heat-killed Burkholderia spp. (Venerate) resistance_management: Rotate insecticides with different mode-of-action groups Optimize coverage and application timing",
+  "prevention": "",
+  "sources": []
+}

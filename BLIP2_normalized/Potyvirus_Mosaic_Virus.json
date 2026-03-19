@@ -1,0 +1,22 @@
+{
+  "name": "Potyvirus Mosaic",
+  "scientific_name": "Genus Potyvirus (family Potyviridae)",
+  "causal_agent": "",
+  "hosts": [
+    "Potato",
+    "Tomato",
+    "Pepper",
+    "Cucumber",
+    "Pumpkin",
+    "Bean",
+    "Soybean",
+    "Sweet potato",
+    "Tobacco",
+    "Many ornamental plants"
+  ],
+  "symptoms": "Mosaic or mottled patterns on leaves Light and dark green patches on foliage Leaf curling or distortion Stunted plant growth Reduced fruit size and yield Yellow streaks or vein clearing on leaves",
+  "description": "Potyviruses are a large group of plant viruses with single-stranded RNA genomes. They infect many crops and cause mosaic diseases that reduce plant growth and yield.",
+  "management": "Use virus-free planting materials Control aphid populations Remove infected plants quickly Use resistant crop varieties when available Avoid handling plants when wet",
+  "prevention": "Plant resistant varieties Monitor fields for aphids Use reflective mulches to repel aphids Practice field sanitation and remove infected plants",
+  "sources": []
+}

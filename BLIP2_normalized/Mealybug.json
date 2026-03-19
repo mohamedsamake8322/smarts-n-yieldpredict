@@ -1,0 +1,24 @@
+{
+  "name": "Mealybug",
+  "scientific_name": "Family Pseudococcidae",
+  "causal_agent": "",
+  "hosts": [
+    "Citrus",
+    "Grapevine",
+    "Banana",
+    "Papaya",
+    "Pineapple",
+    "Coffee",
+    "Cassava",
+    "Sugarcane",
+    "Sunflower",
+    "Orchids",
+    "Cactus",
+    "Garden plants and greenhouse crops"
+  ],
+  "symptoms": "White cotton-like insects on leaves, stems, or fruits Sticky honeydew on plant surfaces Black sooty mold growing on honeydew Yellowing or curling leaves Stunted plant growth Premature leaf drop in severe infestations",
+  "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
+  "management": "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer) Green lacewing larvae (Chrysopidae) Parasitic wasps attacking mealybugs Encourage natural predators by reducing broad insecticides",
+  "prevention": "Inspect plants regularly for early infestations Control ants that protect mealybugs Remove heavily infested plant parts Avoid excessive nitrogen fertilization Use clean planting material",
+  "sources": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Lettuce Chlorosis Virus (LCV)",
+  "scientific_name": "Lettuce chlorosis virus",
+  "causal_agent": "",
+  "hosts": [
+    "Lettuce",
+    "Beetroot",
+    "More than 27 plant species in 12 botanical families"
+  ],
+  "symptoms": "Yellowing and reddening of leaves Curling of leaves Thinning of leaf veins Stunted or dwarf plants Reduced yield and flower quality",
+  "description": "A viral disease affecting lettuce and other crops, causing yellowing, reddening, and curling of leaves, stunted growth, and reduced yield. Transmitted by whiteflies and contaminated plant material.",
+  "management": "Remove and destroy infected plants Monitor and control whitefly populations Use virus-free seeds and cuttings Maintain good hygiene and sanitation of tools Remove weeds that act as reservoirs",
+  "prevention": "Use certified virus-free planting material Isolate new plants from infected areas Control weed hosts in and around fields Regular monitoring for whiteflies",
+  "sources": []
+}

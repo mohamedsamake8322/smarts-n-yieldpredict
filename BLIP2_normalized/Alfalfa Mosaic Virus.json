@@ -1,0 +1,32 @@
+{
+  "name": "Alfalfa Mosaic Virus",
+  "scientific_name": "Alfalfa mosaic virus (AMV)",
+  "causal_agent": "",
+  "hosts": [
+    "Pepper",
+    "Alfalfa",
+    "Tomato",
+    "Potato",
+    "Eggplant",
+    "Cucumber",
+    "Squash",
+    "Pumpkin",
+    "Pea",
+    "Bean",
+    "Lentil",
+    "Chickpea",
+    "Soybean",
+    "Clover",
+    "Lucerne",
+    "Tobacco",
+    "Spinach",
+    "Lettuce",
+    "Carrot",
+    "Celery"
+  ],
+  "symptoms": "Yellow mosaic patterns on leaves Leaf vein deformation Leaf curling Whitish or bleached leaf spots Black necrotic spots between veins (rare) Mottled or blotchy fruits Dark sunken spots on fruits Stunted plant growth",
+  "description": "A plant virus that infects peppers and many other crops. It spreads mainly by aphids and causes mosaic patterns, leaf deformation and reduced plant growth.",
+  "management": "Plant resistant or tolerant cultivars Remove infected seedlings before planting Plant peppers away from alfalfa fields Use barrier crops such as corn Use trap crops such as peas Sanitize tools, pots and stakes Adjust planting dates when possible",
+  "prevention": "Use resistant cultivars Keep distance between peppers and alfalfa fields Use reflective mulch or straw mulch to repel aphids Remove infected plants early Control aphid populations in surrounding crops",
+  "sources": []
+}

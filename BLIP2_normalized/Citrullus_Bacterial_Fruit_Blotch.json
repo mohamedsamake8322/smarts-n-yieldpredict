@@ -1,0 +1,20 @@
+{
+  "name": "Bacterial Fruit Blotch",
+  "scientific_name": "Acidovorax citrulli",
+  "causal_agent": "",
+  "hosts": [
+    "Watermelon (Citrullus lanatus)",
+    "Melon (Cucumis melo)",
+    "Cucumber (Cucumis sativus)",
+    "Pumpkin (Cucurbita spp.)",
+    "Zucchini (Cucurbita pepo)",
+    "Other cucurbit plants"
+  ],
+  "symptoms": "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon Leaf lesions often spread along the main midrib Fruits: small water-soaked lesions that enlarge and become sunken Fruit rind becomes necrotic, leading to cracking and decay Lesions allow secondary infections by other pathogens Severely infected fruits rot and may contaminate seeds",
+  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "management": "No widely established biological control methods are currently available Research is ongoing to identify effective biological antagonists",
+  "prevention": "",
+  "sources": [
+    "Wikipedia – Bacterial fruit blotch"
+  ]
+}

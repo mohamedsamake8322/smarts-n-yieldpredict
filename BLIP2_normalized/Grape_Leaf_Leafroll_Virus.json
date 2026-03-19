@@ -1,0 +1,16 @@
+{
+  "name": "Grapevine Leafroll Disease",
+  "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
+  "causal_agent": "",
+  "hosts": [
+    "Grapevine (Vitis vinifera)",
+    "Table grapes",
+    "Wine grapes",
+    "Wild Vitis species"
+  ],
+  "symptoms": "Leaves roll downward from the edges Red or purple leaves in red varieties Yellow leaves in white varieties Green veins remain visible Delayed fruit ripening Reduced sugar content in grapes",
+  "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
+  "management": "Remove infected vines Control mealybugs and scale insects Use certified virus-free planting material Monitor vineyards regularly",
+  "prevention": "Plant certified virus-free vines Control insect vectors early Remove infected vines quickly Sanitize propagation materials",
+  "sources": []
+}

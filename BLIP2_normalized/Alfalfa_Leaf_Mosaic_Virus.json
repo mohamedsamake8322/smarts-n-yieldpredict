@@ -1,0 +1,15 @@
+{
+  "name": "Alfalfa_Leaf_Mosaic_Virus",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "leaves: Bright yellow mosaic patterns Chlorotic mottling Leaf distortion Narrow or elongated leaves Reduced leaf size plants: Stunted growth Reduced vigor Reduced yield",
+  "description": "",
+  "management": "cultural_control: Use virus-free certified seeds Remove infected plants Control weeds that act as virus reservoirs vector_control: Monitor and manage aphid populations resistant_varieties: Some tolerant cultivars available depending on crop",
+  "prevention": "",
+  "sources": [
+    "APS Plant Disease Handbook",
+    "CABI Crop Protection Compendium",
+    "ICTV Virus Taxonomy"
+  ]
+}

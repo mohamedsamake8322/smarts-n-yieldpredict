@@ -743,6 +743,23 @@ def validate(
     metrics["recall_at1"] = recall_at_k(all_embeddings_t, all_labels_t, k=1)
     metrics["map"] = mean_average_precision(all_embeddings_t, all_labels_t)
 
+    # Accuracy computed as Recall@1 (nearest neighbor classification accuracy)
+    # We also store correct/total for clear reporting
+    total = all_labels_t.size(0)
+    if total > 0:
+        # Vectorized nearest-neighbor prediction (excluding self-match)
+        sim = torch.mm(all_embeddings_t, all_embeddings_t.T)
+        sim.fill_diagonal_(-1)
+        top1 = torch.topk(sim, 1, dim=1).indices.squeeze(1)
+        correct = (all_labels_t[top1] == all_labels_t).sum().item()
+        metrics["accuracy"] = correct / total
+        metrics["accuracy_correct"] = int(correct)
+        metrics["accuracy_total"] = int(total)
+    else:
+        metrics["accuracy"] = 0.0
+        metrics["accuracy_correct"] = 0
+        metrics["accuracy_total"] = 0
+
     if ema is not None and original_state is not None:
         model.load_state_dict(original_state)
 
@@ -936,6 +953,7 @@ def run_training(config: TrainingConfig) -> None:
     # Reprise depuis last_checkpoint si demande et fichier present
     start_epoch = 0
     best_metric = -float("inf")
+    best_accuracy = 0.0
     patience = 5
     patience_counter = 0
     history: Dict[str, List[float]] = {
@@ -944,6 +962,7 @@ def run_training(config: TrainingConfig) -> None:
         "intra_dist": [],
         "top_k_acc": [],
         "recall_at1": [],
+        "accuracy": [],
         "map": [],
     }
 
@@ -998,12 +1017,18 @@ def run_training(config: TrainingConfig) -> None:
             print(f"  Intra-class distance: {metrics['intra_dist']:.4f}")
             print(f"  Top-5 accuracy: {metrics['top5_acc']:.4f}")
             print(f"  Recall@1: {metrics['recall_at1']:.4f}")
+            if "accuracy" in metrics:
+                print(
+                    f"  Validation accuracy: {metrics['accuracy']:.4f} "
+                    f"({metrics.get('accuracy_correct', 0)}/{metrics.get('accuracy_total', 0)})"
+                )
             print(f"  mAP: {metrics['map']:.4f}")
 
             history["val_loss"].append(metrics["val_loss"])
             history["intra_dist"].append(metrics["intra_dist"])
             history["top_k_acc"].append(metrics["top5_acc"])
             history["recall_at1"].append(metrics["recall_at1"])
+            history["accuracy"].append(metrics.get("accuracy", 0.0))
             history["map"].append(metrics["map"])
 
             scheduler.step()
@@ -1011,6 +1036,7 @@ def run_training(config: TrainingConfig) -> None:
             current_metric = metrics["recall_at1"]
             if current_metric > best_metric:
                 best_metric = current_metric
+                best_accuracy = metrics.get("accuracy", best_accuracy)
                 patience_counter = 0
 
                 checkpoint_path = (
@@ -1027,7 +1053,7 @@ def run_training(config: TrainingConfig) -> None:
                     checkpoint_path,
                 )
                 print(
-                    f"  ✅ Best model saved (Recall@1={best_metric:.4f}): "
+                    f"  ✅ Best model saved (Recall@1={best_metric:.4f}, accuracy={best_accuracy:.4f}): "
                     f"{checkpoint_path}"
                 )
             else:
@@ -1115,6 +1141,7 @@ def run_training(config: TrainingConfig) -> None:
         "timestamp": datetime.now().isoformat(),
         "history": history,
         "best_recall_at1": best_metric,
+        "best_accuracy": best_accuracy,
         "faiss_index_path": str(index_path) if index_path is not None else None,
     }
 

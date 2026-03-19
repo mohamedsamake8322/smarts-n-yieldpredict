@@ -1,0 +1,24 @@
+{
+  "name": "Tomato Yellow Leaf Curl Virus",
+  "scientific_name": "",
+  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "hosts": [
+    "Tomato (Solanum lycopersicum L.)",
+    "Eggplant (Solanum melongena)",
+    "Potato (Solanum tuberosum)",
+    "Tobacco (Nicotiana spp.)",
+    "Beans (Phaseolus vulgaris)",
+    "Peppers (Capsicum annuum)",
+    "Datura stramonium",
+    "Malva parviflora"
+  ],
+  "symptoms": "foliage: Severe stunting Reduction of leaf size Upward cupping/curling of leaves Chlorosis on leaves and flowers fruit: Reduced fruit production Distorted fruit overall_impact: Yield losses of 90–100% possible in severe outbreaks",
+  "description": "",
+  "management": "cultural: Plant TYLCV-resistant or tolerant tomato varieties Rotate crops to non-hosts to reduce inoculum Eliminate or control weed hosts Use greenhouse production to reduce vector access chemical: Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance Timing of applications is critical due to rapid virus transmission by whiteflies genetic: Breeding or transgenic approaches to produce TYLCV-resistant tomato lines",
+  "prevention": "",
+  "sources": [
+    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
+    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
+    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+  ]
+}

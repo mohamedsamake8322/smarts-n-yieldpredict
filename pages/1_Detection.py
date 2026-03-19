@@ -34,6 +34,7 @@ from model_core import (
     load_phase2_model_and_metadata,
     infer_on_image,
 )
+from utils.blip2_explainer import generate_explanation_for_image, load_disease_info
 import numpy as np
 
 
@@ -62,14 +63,14 @@ def init_session_state():
 
 init_session_state()
 
-# Folder for light images for visual confirmation
-DATASET_LIGHT_ROOT = Path("dataset_light")
+# Dossier dataset_final pour la confirmation visuelle (train/val/test par classe)
+DATASET_FINAL_ROOT = Path("dataset_final")
 
 
-def _map_to_dataset_light(original_path: str) -> str:
+def _map_to_dataset_final(original_path: str) -> str:
     """
-    Tries to remap an image path from the full dataset to dataset_light.
-    Keeps the same relative structure from 'dataset_final' if possible.
+    Remappe un chemin absolu Colab (/content/drive/MyDrive/dataset_final/...)
+    vers le dataset local ./dataset_final/... si nécessaire.
     """
     try:
         p = Path(original_path)
@@ -77,20 +78,18 @@ def _map_to_dataset_light(original_path: str) -> str:
         if "dataset_final" in parts:
             idx = parts.index("dataset_final")
             rel = Path(*parts[idx + 1 :]) if idx + 1 < len(parts) else Path(".")
-            candidate = DATASET_LIGHT_ROOT / rel
+            candidate = DATASET_FINAL_ROOT / rel
             if candidate.exists():
                 return str(candidate)
     except Exception:
         pass
-    # Fallback: keep the original path if nothing found in dataset_light
     return original_path
 
 
-def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]:
+def _get_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]:
     """
-    Retrieves up to max_images images in dataset_light for a given disease.
-    Tries several folder name variants for robustness
-    (spaces vs underscores).
+    Récupère jusqu'à max_images images depuis dataset_final pour une maladie.
+    Recherche dans train/, val/, test/ pour la classe correspondante.
     """
     candidates = [
         disease_name,
@@ -99,13 +98,14 @@ def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> lis
     ]
 
     for name in candidates:
-        disease_dir = DATASET_LIGHT_ROOT / name
-        if disease_dir.exists() and disease_dir.is_dir():
-            imgs = []
-            for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
-                imgs.extend(sorted(str(p) for p in disease_dir.glob(ext)))
-            if imgs:
-                return imgs[:max_images]
+        imgs = []
+        for split in ("train", "val", "test", "train_new"):
+            disease_dir = DATASET_FINAL_ROOT / split / name
+            if disease_dir.exists() and disease_dir.is_dir():
+                for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
+                    imgs.extend(sorted(str(p) for p in disease_dir.glob(ext)))
+        if imgs:
+            return imgs[:max_images]
 
     return []
 
@@ -423,6 +423,7 @@ if 'uploaded_image' in st.session_state:
                     )
 
                     st.session_state.detection_result = diagnosis
+                    st.session_state.image_for_explanation = image
                     st.session_state.show_results = True
                 
             except Exception as e:
@@ -446,11 +447,65 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     else:
         st.markdown(f"## 🌿 {pred_disease}")
 
-    # Visual confirmation: 3–4 images from dataset_light for the predicted class
+    # Load the base knowledge from JSON (deterministic source of truth)
+    # Source: BLIP2_normalized/ (109 JSON). Aucune source n'est affichée.
+    disease_data = load_disease_info(pred_disease, allow_fuzzy=False)
+
+    # Confidence
+    confidence = diagnosis.get("predicted_similarity")
+    if confidence is not None:
+        st.markdown(f"**Confidence:** {confidence*100:.0f}%")
+
+    # -----------------------------
+    # Plantix UX: preview then confirm
+    # -----------------------------
+    if "confirmed_disease" not in st.session_state:
+        st.session_state.confirmed_disease = None
+
+    # Preview: name + symptoms only
+    st.markdown("### Symptoms")
+    if disease_data.get("symptoms"):
+        for item in disease_data["symptoms"]:
+            st.markdown(f"- {item}")
+    else:
+        st.markdown("_No structured symptoms data available._")
+
+    # (Optionnel) Cause courte
+    if disease_data.get("cause"):
+        with st.expander("What caused it?"):
+            st.write(disease_data["cause"])
+
+    # Confirm button: reveals treatment/prevention
+    if (not is_unknown) and pred_disease and st.session_state.confirmed_disease != pred_disease:
+        if st.button("✅ Confirm & see treatment", use_container_width=True):
+            st.session_state.confirmed_disease = pred_disease
+
+    if st.session_state.confirmed_disease == pred_disease:
+        st.markdown("### Management / Treatment")
+        mgmt = disease_data.get("management") or []
+        if mgmt:
+            for item in mgmt:
+                st.markdown(f"- {item}")
+        else:
+            st.markdown("_No management guidance available._")
+
+        prev = disease_data.get("prevention") or []
+        if prev:
+            st.markdown("### Prevention")
+            for item in prev:
+                st.markdown(f"- {item}")
+
+        hosts = disease_data.get("hosts") or []
+        if hosts:
+            with st.expander("Hosts"):
+                for h in hosts:
+                    st.markdown(f"- {h}")
+
+    # Visual confirmation: 3–4 images from dataset_final for the predicted class
     if not is_unknown and pred_disease:
         st.markdown(t("visual_confirmation"))
 
-        light_images = _get_light_images_for_disease(pred_disease, max_images=4)
+        light_images = _get_images_for_disease(pred_disease, max_images=4)
 
         if light_images:
             cols = st.columns(min(3, len(light_images)))
@@ -463,9 +518,33 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                     except Exception:
                         st.warning("Image not available")
 
+        # Optionnel: explication IA (désactivée par défaut, coûteuse).
+        # Si tu ne veux PAS du tout de BLIP-2 en local, on peut supprimer ce bloc.
+        if "image_for_explanation" in st.session_state:
+            with st.expander("Optional: AI explanation (BLIP-2)", expanded=False):
+                if st.checkbox("Generate AI explanation", value=False):
+                    with st.spinner("Generating explanation..."):
+                        try:
+                            explanation = generate_explanation_for_image(
+                                st.session_state.image_for_explanation,
+                                pred_disease,
+                                library_dir=Path("BLIP2_normalized"),
+                            )
+                            st.markdown("### 🤖 AI Explanation")
+                            st.write(explanation)
+                        except Exception as e:
+                            st.error(f"⚠️ Failed to generate explanation: {e}")
+
     # Button for new detection
     if st.button("🔄 New detection", use_container_width=True):
-        for key in ["uploaded_image", "image_bytes", "detection_result", "show_results"]:
+        for key in [
+            "uploaded_image",
+            "image_bytes",
+            "image_for_explanation",
+            "detection_result",
+            "show_results",
+            "confirmed_disease",
+        ]:
             if key in st.session_state:
                 del st.session_state[key]
         st.rerun()

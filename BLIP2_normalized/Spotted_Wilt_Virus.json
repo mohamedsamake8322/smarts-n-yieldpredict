@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [
+    "tomato",
+    "tobacco",
+    "capsicum",
+    "lettuce",
+    "potato",
+    "peanut",
+    "eggplant",
+    "onion",
+    "various ornamentals",
+    "sowthistle",
+    "capeweed",
+    "thornapples",
+    "cobbler's pegs",
+    "nightshades",
+    "Jamaican snakeweed"
+  ],
+  "symptoms": "Stunting of plants Ringspots and mottling on leaves and fruit Chlorotic blotches and line patterns on leaves Wilting and purpling of leaves Necrotic lesions on stems Distorted or necrotic fruits",
+  "description": "",
+  "management": "prevention: Use virus- and thrips-free transplants Remove infected plants and old crops Maintain weed-free buffers of at least 25 m Sanitation practices in greenhouses and fields resistant_varieties: Use TSWV-resistant capsicum and tomato varieties Consider resistance-breaking strains and maintain hygiene chemical_control: Limited value of insecticides against vectors due to rapid resistance Insecticides may reduce thrips populations but do not eliminate virus spread biological_control: Predators of thrips such as Orius insidiosus (minute pirate bugs) and Geocoris punctipes (big-eyed bugs)",
+  "prevention": "",
+  "sources": []
+}

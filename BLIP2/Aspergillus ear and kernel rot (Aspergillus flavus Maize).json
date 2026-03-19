@@ -1,0 +1,84 @@
+{
+  "disease": "Aspergillus Ear Rot of Corn",
+  "scientific_name": "Aspergillus flavus",
+  "pathogen_type": "Fungus",
+  "description": "Aspergillus ear rot is an important fungal disease of maize caused mainly by Aspergillus flavus. The disease produces olive-green powdery mold on corn kernels and contaminates grain with aflatoxin, a highly toxic and carcinogenic mycotoxin that threatens livestock and human health and reduces grain marketability.",
+  "hosts": [
+    "Corn (maize)",
+    "Peanuts",
+    "Cereal grains",
+    "Legumes",
+    "Tree nuts"
+  ],
+  "symptoms": [
+    "Olive-green powdery mold on kernels",
+    "Mold usually begins at the tip of the ear but may spread to the base",
+    "Powdery spores disperse like dust when husk is opened",
+    "Small ears and stunted plants in dry or stressed areas",
+    "Kernel discoloration and reduced seed germination"
+  ],
+  "toxins": [
+    "Aflatoxin (carcinogenic mycotoxin)",
+    "Contaminates grain and livestock feed",
+    "Can be present even when kernels appear healthy"
+  ],
+  "disease_cycle": [
+    "Fungus survives in soil and crop residues as mycelia or sclerotia",
+    "Produces conidia (spores) that spread by wind and insects",
+    "Infection occurs through silks or wounds caused by insects, birds, or hail",
+    "Can infect crops before harvest and remain dormant until storage",
+    "Continues producing aflatoxin during hot, dry conditions or delayed harvest"
+  ],
+  "favorable_conditions": [
+    "Hot and dry weather",
+    "Drought stress or nutrient deficiency",
+    "Insect damage to ears",
+    "High temperature and moisture during storage"
+  ],
+  "spread": [
+    "Wind-borne spores",
+    "Insect vectors (stink bugs, lygus bugs)",
+    "Infected crop residue and soil",
+    "Contaminated seeds",
+    "Improper grain storage conditions"
+  ],
+  "monitoring": [
+    "Inspect at least 30 ears in different field locations before harvest",
+    "Peel husks and check for olive-green mold",
+    "Focus on dry areas such as sandy soils or hillsides",
+    "Monitor stressed plants with small ears"
+  ],
+  "cultural_management": [
+    "Control ear-feeding insects",
+    "Reduce plant stress through irrigation and proper nutrition",
+    "Harvest infected fields early",
+    "Separate contaminated grain from healthy grain",
+    "Remove damaged kernels and maintain sanitation"
+  ],
+  "postharvest_management": [
+    "Dry grain immediately after harvest",
+    "Keep grain moisture below 11.5%",
+    "Store grain at low temperature (below 5°C when possible)",
+    "Use aeration systems in storage bins",
+    "Maintain clean storage facilities"
+  ],
+  "biological_control": [
+    "Pichia anomala yeast competes with Aspergillus flavus and reduces growth up to 97%",
+    "Atoxigenic strain Aspergillus flavus AF36 used as biocontrol to reduce aflatoxin production"
+  ],
+  "chemical_or_physical_control": [
+    "Use fumigants to control insects in storage",
+    "Maintain aeration systems to remove heat and moisture",
+    "No widely effective fungicide treatments in field conditions"
+  ],
+  "economic_impact": [
+    "Postharvest losses can reach 10–30%",
+    "Higher losses possible in developing countries",
+    "Major economic losses due to aflatoxin contamination rather than yield reduction"
+  ],
+  "sources": [
+    "University Extension Plant Disease Publications",
+    "USDA Agricultural Research Service",
+    "Scientific literature on Aspergillus flavus and aflatoxin contamination"
+  ]
+}

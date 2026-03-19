@@ -1,0 +1,18 @@
+{
+  "name": "Cucurbit Downy Mildew",
+  "scientific_name": "Pseudoperonospora cubensis",
+  "causal_agent": "",
+  "hosts": [
+    "Cucumber",
+    "Melon",
+    "Watermelon",
+    "Pumpkin",
+    "Squash",
+    "Other cucurbit species"
+  ],
+  "symptoms": "Angular yellow or chlorotic spots on leaves Lesions limited by leaf veins (especially on cucumber) Gray to purple fuzzy growth on the underside of leaves Lesions enlarge and become brown or necrotic Leaves dry and die quickly Reduced canopy leading to sunburn and fruit damage",
+  "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
+  "management": "Use tolerant or resistant cultivars when available Improve airflow through plant spacing and pruning Monitor crops regularly for early symptoms Use forecasting systems to predict outbreaks Remove heavily infected plant material",
+  "prevention": "Plant resistant cultivars when available Ensure good air circulation in fields Avoid prolonged leaf wetness from irrigation Use disease forecasting tools to time fungicide sprays",
+  "sources": []
+}

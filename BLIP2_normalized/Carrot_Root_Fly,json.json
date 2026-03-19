@@ -1,0 +1,17 @@
+{
+  "name": "Carrot root fly damage",
+  "scientific_name": "Chamaepsila rosae",
+  "causal_agent": "",
+  "hosts": [
+    "carrot",
+    "parsnip",
+    "parsley",
+    "celery",
+    "other Apiaceae crops"
+  ],
+  "symptoms": "Carrot leaves wilt and become weak Leaves turn rusty red or yellow Rusty-brown tunnels under the carrot skin Roots become deformed and damaged Carrots rot easily after infection Reduced yield and poor quality roots",
+  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
+  "management": "Use crop rotation to avoid planting carrots repeatedly in the same field Remove infected plants and damaged roots Use physical barriers such as mesh or insect netting Use horticultural fleece to cover crops Plant resistant carrot varieties when available",
+  "prevention": "Use fine insect netting around crops Cover crops with horticultural fleece Intercrop carrots with aromatic plants Maintain field sanitation Avoid leaving damaged carrots in the soil",
+  "sources": []
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Blossom End Rot",
+  "scientific_name": "Calcium deficiency disorder",
+  "causal_agent": "",
+  "hosts": [
+    "watermelon",
+    "tomato",
+    "pepper",
+    "eggplant",
+    "pumpkin",
+    "squash"
+  ],
+  "symptoms": "water-soaked spot at blossom end of fruit light tan lesion that enlarges over time dark brown or black sunken area on fruit leathery or dry tissue at blossom end secondary soft rot when fungi or bacteria invade affected fruit ripen earlier than normal",
+  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
+  "management": "maintain uniform soil moisture water plants regularly and deeply mulch soil to conserve moisture avoid excessive nitrogen fertilization improve soil drainage",
+  "prevention": "soil testing before planting maintain soil pH around 6.5–7 avoid large fluctuations in watering",
+  "sources": []
+}

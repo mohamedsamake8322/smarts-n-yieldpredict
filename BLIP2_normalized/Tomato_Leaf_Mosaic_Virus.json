@@ -1,0 +1,23 @@
+{
+  "name": "Tomato Leaf Mosaic Virus (ToMV)",
+  "scientific_name": "",
+  "causal_agent": "Tomato mosaic virus (ToMV), genus Tobamovirus",
+  "hosts": [
+    "Tomato (Solanum lycopersicum L.)",
+    "Pepper (Capsicum spp.)",
+    "Petunia spp.",
+    "Snapdragon (Antirrhinum spp.)",
+    "Delphinium spp.",
+    "Marigold (Tagetes spp.)",
+    "Various other ornamental and crop plants"
+  ],
+  "symptoms": "foliage: Mottling with alternating yellowish and dark green areas Dark green areas often raised or thicker, giving a blister-like appearance Leaves may appear fern-like with pointed tips Younger leaves may be twisted fruit: Distortion and yellow blotches Necrotic spots on both green and ripe fruits Internal browning of the fruit wall overall_plant: Dwarfing of young plants Discoloration of flowers Reduced fruit set and distorted growth",
+  "description": "",
+  "management": "cultural: Use virus-free certified seed and healthy transplants Sanitize tools, hands, and clothing when handling plants Remove and destroy infected seedlings promptly to reduce spread Control weeds that may serve as alternate hosts resistant_varieties: Plant cultivars known to have resistance to ToMV where available chemical: No chemical control is effective against viral infections; management relies on prevention and hygiene",
+  "prevention": "",
+  "sources": [
+    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
+    "Tomato leaf mosaic virus. American Phytopathological Society (APS) – Plant Disease Factsheets",
+    "Brunt, A.A., et al. 1996. Plant Viruses Online: Descriptions and Lists from the VIDE Database"
+  ]
+}

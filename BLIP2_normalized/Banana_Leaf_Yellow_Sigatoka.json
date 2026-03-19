@@ -1,0 +1,16 @@
+{
+  "name": "Yellow Sigatoka",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "early_stage: Small pale yellow streaks (1–2 mm) on young leaves Chlorotic spots appearing near leaf margins or midrib intermediate_stage: Streaks enlarge into elongated brown lesions Spindle-shaped spots with yellow halos around them advanced_stage: Dark brown to black necrotic spots Large necrotic areas on leaves Premature leaf drying and defoliation",
+  "description": "",
+  "management": "cultural_control: Remove infected leaves (de-leafing) Improve plantation sanitation Maintain proper drainage Avoid overcrowding of plants chemical_control: Protectant fungicides Systemic fungicides Products containing tebuconazole, mancozeb, chlorothalonil biological_control: Bacillus subtilis Trichoderma viride Pseudomonas fluorescens preventive_measures: Use tolerant banana varieties Balanced fertilization Regular monitoring of plantations",
+  "prevention": "",
+  "sources": [
+    "Crop Science Australia – Yellow Sigatoka",
+    "CABI Crop Protection Compendium",
+    "CSIRO Plant Pathology Resources",
+    "Plant Pathology Journal Publications"
+  ]
+}

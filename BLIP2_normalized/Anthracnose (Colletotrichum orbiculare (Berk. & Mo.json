@@ -1,0 +1,18 @@
+{
+  "name": "Anthracnose of Cucurbits",
+  "scientific_name": "Colletotrichum orbiculare",
+  "causal_agent": "",
+  "hosts": [
+    "Cucumber",
+    "Melon",
+    "Squash",
+    "Watermelon",
+    "Pumpkin",
+    "Other cucurbits"
+  ],
+  "symptoms": "Leaves: oily spots near veins, angular brown/red/black lesions, tissue death or drop Stems and petioles: elongated, depressed, yellowish lesions, may produce black acervules under humid conditions Fruits: circular, sunken brown lesions, may ooze red gummy exudate on melon; gelatinous salmon-colored spores on watermelon",
+  "description": "A fungal disease affecting cucurbits (cucumber, melon, squash, watermelon, pumpkin). Causes lesions on leaves, stems, and fruits, especially in warm, humid, rainy conditions. Can survive on seeds, soil, and plant debris, and spreads by rain, wind, tools, workers, and insects.",
+  "management": "Use certified disease-free seeds Plant resistant or tolerant cultivars Destroy infected plants and crop debris Rotate cucurbits with non-host crops for 2–3 seasons Prune plants to increase airflow and reduce humidity Avoid overhead irrigation and work when plants are wet",
+  "prevention": "Use certified, disease-free seeds Remove volunteer crops and crop debris Avoid wounding plants Maintain good field sanitation and air circulation Implement crop rotation with cereals, legumes, or brassicas",
+  "sources": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "",
+  "scientific_name": "Mecinus janthinus Germar",
+  "causal_agent": "",
+  "hosts": [
+    "yellow toadflax (Linaria vulgaris)",
+    "Dalmatian toadflax (Linaria dalmatica)"
+  ],
+  "symptoms": "",
+  "description": {
+    "eggs": {
+      "color": "white",
+      "shape": "oval"
+    },
+    "larvae": {
+      "shape": "C-shaped",
+      "color": "creamy-white",
+      "head_capsule": "brown",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "creamy-white",
+      "features": [
+        "conspicuous appendages",
+        "long snout"
+      ]
+    },
+    "adults": {
+      "color": "bluish-black (rarely greenish-black)",
+      "length_mm": "2.4–3.4",
+      "shape": "elongated with long snouts and elbowed antennae",
+      "metallic_sheen": "subtle when newly emerged, dulls with age",
+      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+    }
+  },
+  "management": "",
+  "prevention": "",
+  "sources": [
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+  ]
+}

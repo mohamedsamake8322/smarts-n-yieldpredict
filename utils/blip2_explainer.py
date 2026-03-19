@@ -1,0 +1,265 @@
+"""BLIP-2 explanation helper.
+
+This module provides utilities to:
+- Load disease knowledge from JSON files (symptoms, causes, management).
+- Build a structured prompt for BLIP-2.
+- Load BLIP-2 (Salesforce/blip2-flan-t5-*) and generate a short explanation.
+
+The idea is that your existing Swin-based classifier identifies a disease class,
+then we load the corresponding JSON information and feed it to a VLM to produce
+an explanation in natural language.
+
+The BLIP-2 model is **NOT** used for classification, only for text generation
+based on the structured prompt.
+"""
+
+from __future__ import annotations
+
+import json
+import re
+from functools import lru_cache
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+from PIL import Image
+import torch
+
+
+def _normalize_label(label: str) -> str:
+    """Normalize a disease label / filename to support fuzzy matching."""
+    s = label.lower().strip()
+    # Replace common separators with spaces
+    s = re.sub(r"[\-_]+", " ", s)
+    # Remove common punctuation
+    s = re.sub(r"[\.,()\[\]{}'\"]", "", s)
+    # Collapse whitespace
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+
+@lru_cache(maxsize=1)
+def _build_disease_index(library_dir: Path) -> Dict[str, Path]:
+    """Build a mapping of normalized names -> JSON file path."""
+    library_dir = Path(library_dir)
+    mapping: Dict[str, Path] = {}
+
+    if not library_dir.exists():
+        return mapping
+
+    for json_path in sorted(library_dir.glob("*.json")):
+        key = _normalize_label(json_path.stem)
+        mapping[key] = json_path
+    return mapping
+
+
+def _find_best_json_path(
+    predicted_label: str,
+    library_dir: Path = Path("BLIP2"),
+    allow_fuzzy: bool = False,
+) -> Optional[Path]:
+    """Find the best matching JSON file for a predicted disease label.
+
+    By default, this uses an exact normalized match (safe). If allow_fuzzy=True,
+    it will fall back to looser matching heuristics.
+    """
+    if not predicted_label:
+        return None
+
+    idx = _normalize_label(predicted_label)
+    mapping = _build_disease_index(library_dir)
+
+    # Exact (normalized) match – this is the safest strategy.
+    if idx in mapping:
+        return mapping[idx]
+
+    if not allow_fuzzy:
+        return None
+
+    # Fuzzy fallback: try to match by prefix
+    for key, path in mapping.items():
+        if idx.startswith(key) or key.startswith(idx):
+            return path
+
+    # Fuzzy fallback: try words overlap
+    idx_words = set(idx.split())
+    best_path = None
+    best_score = 0
+    for key, path in mapping.items():
+        score = len(idx_words & set(key.split()))
+        if score > best_score:
+            best_score = score
+            best_path = path
+
+    return best_path if best_score > 0 else None
+
+
+def load_disease_info(
+    predicted_label: str,
+    library_dir: Path = Path("BLIP2_normalized"),
+    allow_fuzzy: bool = False,
+) -> Dict[str, Any]:
+    """Load the disease JSON info for a predicted class.
+
+    If no matching JSON is found, returns a minimal dictionary.
+    """
+    json_path = _find_best_json_path(predicted_label, library_dir, allow_fuzzy=allow_fuzzy)
+    if json_path is None or not json_path.exists():
+        return {
+            "disease": predicted_label,
+            "symptoms": [],
+            "cause": "",
+            "management": [],
+            "prevention": [],
+            "hosts": [],
+            "scientific_name": "",
+            "description": "",
+        }
+
+    with open(json_path, "r", encoding="utf-8") as f:
+        try:
+            data = json.load(f)
+        except Exception:
+            return {
+                "disease": predicted_label,
+                "symptoms": [],
+                "cause": "",
+                "management": [],
+                "prevention": [],
+                "hosts": [],
+                "scientific_name": "",
+                "description": "",
+            }
+
+    def _to_list(value: Any) -> List[str]:
+        if value is None:
+            return []
+        if isinstance(value, list):
+            return [str(x).strip() for x in value if str(x).strip()]
+        if isinstance(value, str):
+            s = value.strip()
+            if not s:
+                return []
+            # Heuristique simple: beaucoup de JSON normalisés sont des phrases séparées par des espaces
+            # ou des sections "cultural:", "chemical:", etc. On coupe d'abord par "  " / "\n" / ";"
+            # puis on garde des items non vides.
+            parts = re.split(r"[\n;]+", s)
+            out: List[str] = []
+            for p in parts:
+                p = re.sub(r"\s+", " ", p).strip()
+                if p:
+                    out.append(p)
+            return out
+        return [str(value).strip()] if str(value).strip() else []
+
+    # Supporte 2 schémas:
+    # - "BLIP2_normalized": name / causal_agent / symptoms(str) / management(str) / prevention(str) / hosts(list)
+    # - legacy éventuel: disease / cause / symptoms(list) / management(list)
+    disease_name = data.get("name") or data.get("disease") or predicted_label
+    cause = data.get("causal_agent") or data.get("cause") or ""
+    symptoms = data.get("symptoms", [])
+    management = data.get("management", [])
+    prevention = data.get("prevention", [])
+
+    # Ensure required fields exist (⚠️ on ignore volontairement "sources")
+    return {
+        "disease": str(disease_name),
+        "scientific_name": str(data.get("scientific_name", "") or ""),
+        "description": str(data.get("description", "") or ""),
+        "hosts": _to_list(data.get("hosts", [])),
+        "symptoms": _to_list(symptoms),
+        "cause": str(cause),
+        "management": _to_list(management),
+        "prevention": _to_list(prevention),
+    }
+
+
+def build_blip_prompt(disease_data: Dict[str, Any]) -> str:
+    """Build a structured prompt for BLIP-2 from disease JSON data."""
+    symptoms = disease_data.get("symptoms") or []
+    management = disease_data.get("management") or []
+
+    prompt = f"""
+You are an agricultural plant pathology expert.
+
+Disease: {disease_data.get('disease', '')}
+
+Symptoms:
+{''.join(['- ' + s + '\n' for s in symptoms])}
+Cause:
+{disease_data.get('cause', '')}
+
+Management:
+{''.join(['- ' + s + '\n' for s in management])}
+
+Explain this disease in a simple way for farmers.
+""".strip()
+
+    return prompt
+
+
+class BLIP2Explainer:
+    """Helper for BLIP-2 inference.
+
+    This class caches the model and processor to avoid reloading them on every call.
+    """
+
+    def __init__(self, model_name: str = "Salesforce/blip2-flan-t5-base", device: Optional[torch.device] = None):
+        self.model_name = model_name
+        self.device = device or (torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu"))
+        self._model: Optional[Any] = None
+        self._processor: Optional[Any] = None
+
+    def _load_model(self):
+        from transformers import Blip2ForConditionalGeneration, Blip2Processor
+
+        self._processor = Blip2Processor.from_pretrained(self.model_name)
+        self._model = Blip2ForConditionalGeneration.from_pretrained(
+            self.model_name,
+            torch_dtype=torch.float16 if self.device.type == "cuda" else torch.float32,
+        ).to(self.device)
+
+    @property
+    def model(self):
+        if self._model is None:
+            self._load_model()
+        return self._model
+
+    @property
+    def processor(self):
+        if self._processor is None:
+            self._load_model()
+        return self._processor
+
+    def generate(\n        self,
+        image: Image.Image,
+        prompt: str,
+        max_new_tokens: int = 120,
+        num_beams: int = 1,
+        min_length: int = 10,
+    ) -> str:
+        """Generate an explanation for the given image + prompt."""
+        inputs = self.processor(image, prompt, return_tensors="pt").to(self.device)
+
+        generated_ids = self.model.generate(
+            **inputs,
+            max_new_tokens=max_new_tokens,
+            num_beams=num_beams,
+            min_length=min_length,
+            early_stopping=True,
+        )
+
+        output = self.processor.decode(generated_ids[0], skip_special_tokens=True)
+        return output
+
+
+def generate_explanation_for_image(
+    image: Image.Image,
+    predicted_label: str,
+    model_name: str = "Salesforce/blip2-flan-t5-base",
+    library_dir: Path = Path("BLIP2"),
+) -> str:
+    """High level helper: given an image and a predicted label, returns a BLIP-2 explanation."""
+    disease_data = load_disease_info(predicted_label, library_dir=library_dir)
+    prompt = build_blip_prompt(disease_data)
+    explainer = BLIP2Explainer(model_name=model_name)
+    return explainer.generate(image, prompt)

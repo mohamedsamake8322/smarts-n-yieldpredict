@@ -1,0 +1,14 @@
+{
+  "name": "Hosta Virus X",
+  "scientific_name": "Hosta Virus X (HVX)",
+  "causal_agent": "",
+  "hosts": [
+    "Hosta species",
+    "Ornamental hosta cultivars"
+  ],
+  "symptoms": "Ink-bleed pattern along leaf veins Mottled or patchy leaf discoloration Sunken or compressed leaf tissue Irregular light and dark green patterns on leaves Distorted or unhealthy leaf appearance",
+  "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
+  "management": "Remove and destroy infected plants completely Do not compost infected plant material Disinfect tools and equipment after handling plants Avoid planting new hostas in contaminated soil for at least 2 years Use virus testing kits when infection is suspected",
+  "prevention": "Buy plants from reputable nurseries with sanitation protocols Inspect plants carefully before purchase Quarantine new hosta plants for several weeks Minimize plant wounding during maintenance Wash hands and disinfect tools between plants Use disinfectant solutions such as trisodium phosphate or laboratory detergents",
+  "sources": []
+}

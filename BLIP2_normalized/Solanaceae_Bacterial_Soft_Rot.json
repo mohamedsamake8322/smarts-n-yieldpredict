@@ -1,0 +1,17 @@
+{
+  "name": "Solanaceae Bacterial Spot",
+  "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Pepper",
+    "Chili pepper",
+    "Sweet pepper",
+    "Other Solanaceae crops"
+  ],
+  "symptoms": "Small brown water-soaked spots on leaves Circular lesions without concentric rings Spots merging to form large dark streaks Yellowing of leaves around lesions Leaves may drop early (defoliation) Raised scab-like spots on fruits",
+  "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
+  "management": "Use certified disease-free seeds Rotate crops for 2–3 years Remove infected plant debris Avoid working in fields when plants are wet Use resistant varieties when available",
+  "prevention": "Use healthy transplants Maintain field sanitation Control weeds and volunteer plants Monitor crops regularly during warm wet weather",
+  "sources": []
+}

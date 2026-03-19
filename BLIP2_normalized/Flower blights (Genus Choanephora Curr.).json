@@ -1,0 +1,22 @@
+{
+  "name": "Choanephora Flower Blight",
+  "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
+  "causal_agent": "",
+  "hosts": [
+    "Okra",
+    "Pumpkin",
+    "Squash",
+    "Cucumber",
+    "Zucchini",
+    "Bottle gourd",
+    "Beans",
+    "Cowpea",
+    "Eggplant",
+    "Other cucurbits and vegetables"
+  ],
+  "symptoms": "Water-soaked spots on flowers Flowers quickly rot and collapse Soft rot on young fruits Cottony white fungal growth on infected tissues Black pin-like spores forming on rotting flowers Infected flowers stick to developing fruits and cause fruit rot",
+  "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
+  "management": "Remove and destroy infected flowers and fruits Improve plant spacing to increase airflow Avoid overhead irrigation Harvest regularly to remove infected tissues Practice crop rotation",
+  "prevention": "Plant in well-ventilated fields Remove crop debris after harvest Avoid excess irrigation and prolonged leaf wetness Use healthy seeds and maintain field sanitation",
+  "sources": []
+}

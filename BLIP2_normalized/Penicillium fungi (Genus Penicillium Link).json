@@ -1,0 +1,20 @@
+{
+  "name": "Penicillium Mold",
+  "scientific_name": "Genus Penicillium",
+  "causal_agent": "",
+  "hosts": [
+    "Apple",
+    "Citrus fruits",
+    "Grapes",
+    "Pear",
+    "Peach",
+    "Tomato",
+    "Strawberry",
+    "Stored grains and seeds"
+  ],
+  "symptoms": "Soft watery rot on fruits or plant tissues Blue-green or green powdery mold on infected areas Sunken lesions on fruit surfaces Rapid decay during storage Musty odor from infected produce",
+  "description": "Penicillium is a genus of fungi commonly found in soil, air, and decaying organic matter. Many species cause post-harvest diseases in fruits and vegetables, producing blue or green molds and leading to significant storage losses.",
+  "management": "Handle fruits carefully to avoid wounds Store produce at recommended temperature and humidity Remove infected fruits immediately Maintain clean storage facilities Use resistant varieties when available",
+  "prevention": "Sanitize storage rooms and containers Avoid mechanical injury during harvest Proper ventilation in storage facilities Maintain cold chain for perishable crops",
+  "sources": []
+}

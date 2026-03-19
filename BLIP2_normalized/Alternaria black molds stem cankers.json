@@ -1,0 +1,17 @@
+{
+  "name": "Alternaria Black Mold Stem Canker",
+  "scientific_name": "Alternaria spp.",
+  "causal_agent": "",
+  "hosts": [
+    "Tomato",
+    "Potato",
+    "Eggplant",
+    "Pepper",
+    "Various Solanaceae crops"
+  ],
+  "symptoms": "Dark brown to black mold growth on stems Stem cankers or sunken lesions Leaf spots with concentric rings Yellowing and wilting of leaves Reduced plant growth",
+  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "management": "cultural: Use disease-free seeds Rotate crops with non-host plants Remove infected plant debris Improve air circulation around plants chemical: Apply fungicides such as Mancozeb Chlorothalonil Copper-based fungicides",
+  "prevention": "",
+  "sources": []
+}

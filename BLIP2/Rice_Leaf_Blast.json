@@ -1,0 +1,87 @@
+{
+ "disease": "Rice Leaf Blast",
+ "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
+ "pathogen_type": "Fungus",
+ "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
+ "symptoms": [
+  "Diamond or spindle-shaped lesions on leaves",
+  "Lesions with gray or white center and brown or reddish border",
+  "Small spots that enlarge and merge on leaves",
+  "Leaf drying or death in severe infections",
+  "Reduced plant growth",
+  "In severe cases young plants may die"
+ ],
+ "visual_symptoms": [
+  "diamond-shaped leaf spots",
+  "gray or white center with brown border",
+  "multiple lesions merging on leaves",
+  "damaged or dried rice leaves"
+ ],
+ "hosts": [
+  "Rice (Oryza sativa)",
+  "Wild rice species",
+  "Some grasses"
+ ],
+ "plant_parts_affected": [
+  "leaves",
+  "leaf collar",
+  "stem nodes",
+  "panicles"
+ ],
+ "favorable_conditions": [
+  "High humidity above 90%",
+  "Long periods of leaf wetness (dew, rain, fog)",
+  "Warm temperatures around 25–28°C",
+  "Dense crop canopy",
+  "Excess nitrogen fertilization"
+ ],
+ "spread": [
+  "Airborne fungal spores (conidia)",
+  "Wind",
+  "Splashing rain or irrigation water",
+  "Infected seeds",
+  "Crop residue from previous season"
+ ],
+ "disease_cycle": [
+  "Fungus survives on infected seeds and crop residues",
+  "Spores are produced on infected tissues",
+  "Spores spread by wind or water",
+  "Infection occurs when leaves remain wet",
+  "New lesions produce more spores causing rapid disease cycles"
+ ],
+ "impact": [
+  "Reduced photosynthesis",
+  "Leaf damage and plant weakening",
+  "Lower grain yield",
+  "Poor grain quality",
+  "Severe outbreaks can cause major crop losses"
+ ],
+ "cultural_control": [
+  "Use resistant rice varieties",
+  "Plant certified disease-free seed",
+  "Maintain continuous flooding when possible",
+  "Avoid excessive nitrogen fertilization",
+  "Destroy infected crop residue"
+ ],
+ "biological_control": [
+  "Use beneficial microbes such as Trichoderma species",
+  "Promote balanced soil microbiology"
+ ],
+ "chemical_control": [
+  "Azoxystrobin",
+  "Trifloxystrobin",
+  "Propiconazole combinations",
+  "Difenoconazole combinations"
+ ],
+ "prevention": [
+  "Regular field monitoring for early symptoms",
+  "Balanced fertilization",
+  "Maintain proper irrigation management",
+  "Use integrated disease management practices"
+ ],
+ "source": [
+  "Rice Research and Extension Center",
+  "Crop Protection Network",
+  "Plant pathology references on rice blast"
+ ]
+}

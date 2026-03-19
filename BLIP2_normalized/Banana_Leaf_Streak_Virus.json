@@ -1,0 +1,16 @@
+{
+  "name": "Banana streak disease",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [],
+  "symptoms": "early_stage: Yellow streaks running from leaf midrib to leaf margin Continuous or broken yellow lines across the leaf intermediate_stage: Streaks appear scattered or arranged in bands Reduced plant vigor and smaller plant size advanced_stage: Yellow streaks turn brown or black with leaf aging Smaller banana bunches Possible pseudostem internal rot and dieback in severe cases",
+  "description": "",
+  "management": "cultural_control: Use virus-free planting material Remove and destroy infected plants Monitor plantations regularly vector_control: Control mealybug populations Use horticultural oils or soap sprays Use commercial horticultural oil products quarantine: Follow FAO germplasm movement guidelines for Musa species Use certified disease-free tissue culture plants",
+  "prevention": "",
+  "sources": [
+    "CABI Crop Protection Compendium (2020)",
+    "CSIRO Publishing – Diseases of Fruit Crops in Australia (2009)",
+    "Pacific Pests, Pathogens and Weeds Database",
+    "Bioversity International – FAO Musa Germplasm Movement Guidelines"
+  ]
+}

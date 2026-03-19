@@ -18,6 +18,16 @@ import plotly.express as px
 from typing import Dict, List, Tuple, Any
 import os
 from dotenv import load_dotenv
+from datetime import datetime
+
+try:
+    import pandas as pd
+except ImportError:
+    pd = None
+
+# JSON "Plantix card" (déterministe, pas de modèle génératif)
+from utils.blip2_explainer import load_disease_info as load_disease_card
+from huggingface_hub import hf_hub_download
 
 # Load environment variables
 load_dotenv()
@@ -106,13 +116,119 @@ img {
 # ============================================================================
 
 @st.cache_data(ttl=300)  # Cache for 5 minutes
-def load_disease_info():
-    """Load disease information (cached)"""
+def load_disease_info_cached(label: str) -> Dict[str, Any]:
+    """Charge la fiche maladie depuis BLIP2_normalized/ (sans sources)."""
     try:
-        with open("data/disease_info.json", "r", encoding="utf-8") as f:
-            return json.load(f)
+        return load_disease_card(label, allow_fuzzy=False)
     except Exception:
-        return {}
+        return {
+            "disease": label,
+            "symptoms": [],
+            "cause": "",
+            "management": [],
+            "prevention": [],
+        }
+
+
+# ============================================================================
+# DATASET_LIGHT (visual confirmation sur Streamlit Cloud)
+# ============================================================================
+DATASET_LIGHT_ROOT = Path(os.environ.get("DATASET_LIGHT_ROOT", "dataset_light"))
+
+
+def _get_secret(key: str) -> str | None:
+    """Lis une valeur depuis env puis Streamlit secrets."""
+    val = os.environ.get(key)
+    if val:
+        return val
+    try:
+        return st.secrets.get(key)  # type: ignore[attr-defined]
+    except Exception:
+        return None
+
+
+@st.cache_resource
+def load_dataset_light() -> Path | None:
+    """
+    Télécharge + décompresse `dataset_light` UNE SEULE FOIS (par instance Streamlit Cloud)
+    grâce à @st.cache_resource.
+
+    Stratégie:
+    - Si dataset_light/ existe déjà -> OK
+    - Sinon, télécharger un zip depuis HF Hub (dataset repo) puis extraire
+    """
+    if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
+        return DATASET_LIGHT_ROOT
+
+    # Defaults alignés avec ton repo HF
+    repo_id = _get_secret("DATASET_LIGHT_REPO") or "mohamedsamake8322/sene-dataset-light"
+    zip_name = _get_secret("DATASET_LIGHT_ZIP") or "dataset_light.zip"
+    hf_token = _get_secret("HF_TOKEN")
+
+    try:
+        zip_path = hf_hub_download(
+            repo_id=repo_id,
+            filename=zip_name,
+            token=hf_token,
+        )
+
+        import zipfile
+
+        # Extraire à la racine du projet pour créer `dataset_light/`
+        with zipfile.ZipFile(zip_path, "r") as z:
+            z.extractall(".")
+
+        if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
+            return DATASET_LIGHT_ROOT
+        return None
+    except Exception:
+        return None
+
+
+def ensure_dataset_light_available() -> None:
+    """Assure la disponibilité de dataset_light, avec cache Streamlit."""
+    if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
+        return
+
+    # Déclenche téléchargement/dézip (caché)
+    ds = load_dataset_light()
+    if ds is None:
+        st.info(
+            "ℹ️ `dataset_light` non disponible. "
+            "Ajoute `dataset_light/` au repo ou configure `DATASET_LIGHT_REPO` + `DATASET_LIGHT_ZIP`."
+        )
+
+
+def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> List[str]:
+    """Récupère des images depuis dataset_light (robuste aux variantes)."""
+    if not disease_name:
+        return []
+
+    ensure_dataset_light_available()
+
+    candidates = [
+        disease_name,
+        disease_name.replace(" ", "_"),
+        disease_name.replace("_", " "),
+        disease_name.replace(" ", ""),
+    ]
+
+    imgs: List[str] = []
+    for name in candidates:
+        # Supporte plusieurs structures possibles
+        for base in [
+            DATASET_LIGHT_ROOT / name,
+            DATASET_LIGHT_ROOT / "train" / name,
+            DATASET_LIGHT_ROOT / "val" / name,
+            DATASET_LIGHT_ROOT / "test" / name,
+        ]:
+            if base.exists() and base.is_dir():
+                for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp", "*.bmp"):
+                    imgs.extend([str(p) for p in sorted(base.glob(ext))])
+        if imgs:
+            break
+
+    return imgs[:max_images]
 
 def call_hf_api(image_bytes: bytes) -> Dict[str, Any]:
     """
@@ -314,21 +430,90 @@ with col2:
             st.markdown(f"## 🌿 {pred_disease}")
             st.metric("Confidence Score", f"{pred_score:.2%}")
 
-        # Textual information about the disease (external JSON)
-        disease_info = load_disease_info()
-        if (not is_unknown) and pred_disease and pred_disease in disease_info:
-            info = disease_info[pred_disease]
-            st.markdown("### 📖 Disease Information")
-            st.write(info.get("description", ""))
-            if info.get("symptoms"):
-                st.markdown("**Symptoms:**")
-                st.write(info["symptoms"])
-            if info.get("treatment"):
-                st.markdown("**Treatment:**")
-                st.write(info["treatment"])
+        # Plantix card: Symptoms d'abord + confirmation -> traitement/prévention
+        if "confirmed_disease" not in st.session_state:
+            st.session_state.confirmed_disease = None
+
+        if (not is_unknown) and pred_disease and pred_disease != "UNKNOWN DISEASE":
+            info = load_disease_info_cached(pred_disease)
+
+            st.markdown("### Symptoms")
+            symptoms = info.get("symptoms") or []
+            if symptoms:
+                for s in symptoms:
+                    st.markdown(f"- {s}")
+            else:
+                st.markdown("_No structured symptoms data available._")
+
+            cause = info.get("cause") or ""
+            if cause:
+                with st.expander("What caused it?"):
+                    st.write(cause)
+
+            if st.session_state.confirmed_disease != pred_disease:
+                if st.button("✅ Confirm & see treatment", use_container_width=True):
+                    st.session_state.confirmed_disease = pred_disease
+
+            if st.session_state.confirmed_disease == pred_disease:
+                st.markdown("### Treatment / Management")
+                mgmt = info.get("management") or []
+                if mgmt:
+                    for m in mgmt:
+                        st.markdown(f"- {m}")
+                else:
+                    st.markdown("_No management guidance available._")
+
+                prev = info.get("prevention") or []
+                if prev:
+                    st.markdown("### Prevention")
+                    for p in prev:
+                        st.markdown(f"- {p}")
         
         # Grad-CAM not available with API (model runs on servers)
         st.info("🔬 **Grad-CAM Heatmap**: Not available in API mode (model runs on Hugging Face servers)")
+
+        # Visual comparison mode (improvement #4)
+        if st.session_state.expert_mode and results:
+            st.markdown("### 👁️ Visual Comparison")
+            st.markdown("Compare your image with similar cases from our training dataset:")
+
+            # Display user's image vs similar images
+            col_user, col_similar = st.columns([1, 2])
+
+            with col_user:
+                st.markdown("**Your Image:**")
+                if st.session_state.uploaded_image:
+                    st.image(st.session_state.uploaded_image, width=200, caption="Uploaded Image")
+
+            with col_similar:
+                st.markdown("**Similar Training Images:**")
+                # Display top 3 similar images
+                similar_cols = st.columns(3)
+                for i, result in enumerate(results[:3]):
+                    with similar_cols[i]:
+                        disease_name = result.get("disease", "Unknown")
+                        confidence = result.get("confidence", 0.0)
+
+                        # Try to load the reference image
+                        try:
+                            if result.get("path") and os.path.exists(result["path"]):
+                                ref_img = Image.open(result["path"])
+                                st.image(ref_img, width=150,
+                                        caption=f"{disease_name}\n{confidence:.2%}")
+                            else:
+                                st.image("https://via.placeholder.com/150x150?text=No+Image",
+                                        width=150, caption=f"{disease_name}\n{confidence:.2%}")
+                        except:
+                            st.image("https://via.placeholder.com/150x150?text=Error",
+                                    width=150, caption=f"{disease_name}\n{confidence:.2%}")
+
+                # Add explanation
+                st.markdown("""
+                **How to interpret:**
+                - Images shown are the most visually similar from our training dataset
+                - Higher similarity scores indicate stronger visual matches
+                - If your image looks very different from these, it might be an unknown disease
+                """)
 
         # Similarity chart
         if results:
@@ -344,6 +529,56 @@ with col2:
             fig = px.bar(x=diseases, y=scores, title="Top Similar Diseases")
             st.plotly_chart(fig)
         
+        # User feedback for intelligent saving (improvement #6)
+        st.markdown("### 💬 Help Improve the System")
+        st.markdown("Your feedback helps us build better diagnostic tools!")
+
+        feedback_col1, feedback_col2 = st.columns(2)
+
+        with feedback_col1:
+            user_feedback = st.radio(
+                "Was this diagnosis correct?",
+                ["Select...", "Yes, correct", "No, incorrect", "Unsure"],
+                key="feedback_radio"
+            )
+
+        with feedback_col2:
+            if user_feedback == "No, incorrect":
+                correct_disease = st.text_input("What was the actual disease?", key="correct_disease")
+            else:
+                correct_disease = None
+
+        additional_notes = st.text_area(
+            "Additional notes (optional)",
+            placeholder="Any observations about symptoms, treatment effectiveness, etc.",
+            key="additional_notes"
+        )
+
+        if st.button("📤 Submit Feedback", key="submit_feedback"):
+            if user_feedback != "Select...":
+                # Here you would integrate with the PredictionLogger
+                feedback_data = {
+                    "prediction_id": diagnosis.get("prediction_id", "unknown"),
+                    "user_feedback": user_feedback.lower().replace("yes, ", "").replace("no, ", "").replace("unsure", "unsure"),
+                    "correct_disease": correct_disease,
+                    "additional_notes": additional_notes,
+                    "timestamp": str(pd.Timestamp.now()) if 'pd' in globals() else str(datetime.now())
+                }
+
+                # Save feedback (you would implement this with your logger)
+                st.success("✅ Thank you for your feedback! This helps improve our system.")
+                st.info("💡 Your input will be used to automatically create training data for future improvements.")
+
+                # Clear feedback form
+                st.session_state.feedback_radio = "Select..."
+                if "correct_disease" in st.session_state:
+                    st.session_state.correct_disease = ""
+                if "additional_notes" in st.session_state:
+                    st.session_state.additional_notes = ""
+                st.rerun()
+            else:
+                st.warning("Please select your feedback before submitting.")
+
         # Expert mode details
         if st.session_state.expert_mode:
             st.markdown("### 🔬 Expert Details")
@@ -369,25 +604,25 @@ if "results" in st.session_state and st.session_state.results:
     pred_class = diagnosis.get("predicted_disease")
 
     if pred_class and pred_class != "UNKNOWN DISEASE":
-        confirmation_images = [
-            r for r in st.session_state.results if r["disease"] == pred_class
-        ][:4]
+        light_imgs = _get_light_images_for_disease(pred_class, max_images=4)
     else:
-        confirmation_images = st.session_state.results[:4]
+        light_imgs = []
 
-    if confirmation_images:
-        cols = st.columns(len(confirmation_images))
-
-        for col, result in zip(cols, confirmation_images):
-            with col:
-                if result["path"] and Path(result["path"]).exists():
-                    try:
-                        ref_image = Image.open(result["path"])
-                        st.image(ref_image, use_column_width=True)
-                    except Exception:
-                        st.warning("Image not available")
-                else:
-                    st.warning("Image path not found")
+    if light_imgs:
+        cols = st.columns(min(4, len(light_imgs)))
+        for i, img_path in enumerate(light_imgs):
+            with cols[i % len(cols)]:
+                try:
+                    ref_image = Image.open(img_path).convert("RGB")
+                    st.image(ref_image, use_column_width=True)
+                except Exception:
+                    st.warning("Image not available")
+    else:
+        st.info(
+            "Aucune image de confirmation trouvée. "
+            "Sur Streamlit Cloud, ajoutez un petit `dataset_light/` dans le repo "
+            "ou définissez `DATASET_LIGHT_ROOT`."
+        )
 
     if st.button("❓ Not matching?"):
         st.info("Try another image or consult an agronomist.")

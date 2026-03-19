@@ -1,0 +1,18 @@
+{
+  "name": "Fall Armyworm Larva",
+  "scientific_name": "Spodoptera frugiperda",
+  "causal_agent": "",
+  "hosts": [
+    "Maize",
+    "Rice",
+    "Sorghum",
+    "Millet",
+    "Sugarcane",
+    "Vegetables"
+  ],
+  "symptoms": "Caterpillars feeding inside maize whorl Large chewing damage on leaves Presence of dark frass near feeding areas Leaves shredded or skeletonized",
+  "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
+  "management": "Scout fields regularly for larvae Crush egg masses and young larvae Apply biological or chemical control early",
+  "prevention": "Early detection in maize whorl Use resistant crop varieties Crop rotation",
+  "sources": []
+}

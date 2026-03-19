@@ -1,0 +1,16 @@
+{
+  "name": "Grape Esca",
+  "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
+  "causal_agent": "",
+  "hosts": [
+    "Grapevine (Vitis vinifera)",
+    "Table grapes",
+    "Wine grapes",
+    "Wild Vitis species"
+  ],
+  "symptoms": "Yellow and brown tiger-stripe patterns on leaves Leaf drying and burning from margins Reduced vine growth and weak shoots Dark streaks inside trunk wood White spongy rot inside the trunk Sudden wilting or death of vines (apoplexy)",
+  "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
+  "management": "Remove and destroy infected vines Prune during dry weather Protect pruning wounds Use healthy certified planting material Avoid large pruning wounds",
+  "prevention": "Disinfect pruning tools Use certified disease-free vines Protect pruning wounds immediately after pruning Maintain vineyard sanitation",
+  "sources": []
+}

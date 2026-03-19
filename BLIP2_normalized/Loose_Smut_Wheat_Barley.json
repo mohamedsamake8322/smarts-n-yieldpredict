@@ -1,0 +1,14 @@
+{
+  "name": "Loose Smut of Wheat and Barley",
+  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
+  "causal_agent": "",
+  "hosts": [
+    "Wheat (Triticum aestivum)",
+    "Barley (Hordeum vulgare)"
+  ],
+  "symptoms": "Spikelets replaced by black, powdery spores Affected heads emerge earlier than healthy ones No vegetative symptoms on leaves or stems Yield loss proportional to infection rate",
+  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "management": "Use certified, disease-free seeds Seed treatment with systemic fungicides Avoid saving seeds from infected crops Crop rotation with non-host species",
+  "prevention": "Plant only certified clean seed Implement crop rotation Sanitize storage and planting equipment",
+  "sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Apple Scab",
+  "scientific_name": "Venturia inaequalis",
+  "causal_agent": "",
+  "hosts": [
+    "Malus spp. (apple, crabapple)",
+    "Sorbus spp.",
+    "Cotoneaster spp.",
+    "Pyrus spp."
+  ],
+  "symptoms": "Leaves: velvety-brown to olive-green spots with distinct margins, often cupping underside of leaf Older leaves: raised dark-green to gray-brown lesions causing cupping and leaf curl Fruits: small black spots that become brown, corky, and scabby Fruit deformation and premature drop Increases susceptibility to secondary infections and abiotic stress",
+  "description": "Apple scab is a common fungal disease of plants in the Rosaceae family, particularly Malus species (apple and crabapple). It causes dark, irregular lesions on leaves, blossoms, and fruits, leading to fruit deformation, premature leaf and fruit drop, and potential crop losses up to 70%. The disease rarely kills the host but reduces yield and quality significantly.",
+  "management": "Bacillus subtilis @ 50 ml/ropani (e.g., Serenade Opti) before/during rainy season Trichoderma harzianum 100 ml/ropani under high-risk conditions Fungal antagonist Cladosporium cladosporioides strain H39 reduces leaf scab 42–98% and fruit scab 41–94%",
+  "prevention": "",
+  "sources": [
+    "Wikipedia – Apple Scab",
+    "Plant Pest Management Literature",
+    "Integrated Pest Management (IPM) references",
+    "PRI Apple Breeding Program, Purdue University, Rutgers University, University of Illinois"
+  ]
+}

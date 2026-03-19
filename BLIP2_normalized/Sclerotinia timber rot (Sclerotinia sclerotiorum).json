@@ -1,0 +1,23 @@
+{
+  "name": "Sclerotinia Timber Rot",
+  "scientific_name": "Sclerotinia sclerotiorum",
+  "causal_agent": "",
+  "hosts": [
+    "Soybean",
+    "Sunflower",
+    "Canola (oilseed rape)",
+    "Beans",
+    "Peas",
+    "Lettuce",
+    "Tomato",
+    "Potato",
+    "Carrot",
+    "Cucumber",
+    "Many vegetable and ornamental crops"
+  ],
+  "symptoms": "White cotton-like fungal growth on stems Stem rot or dry decay (timber-like appearance) Black seed-like sclerotia inside or on stems Yellowing and wilting of leaves Plants collapsing due to stem damage",
+  "description": "Sclerotinia timber rot is a fungal disease that causes severe stem decay in many crops. The fungus produces white cotton-like mold and black survival bodies called sclerotia. Infected stems become dry or rotten, leading to plant wilting and collapse.",
+  "management": "Rotate crops with non-host plants Improve spacing and airflow between plants Remove and destroy infected plant debris Avoid excessive irrigation",
+  "prevention": "Use clean seeds and healthy transplants Monitor crops during cool and wet weather Apply integrated disease management practices",
+  "sources": []
+}

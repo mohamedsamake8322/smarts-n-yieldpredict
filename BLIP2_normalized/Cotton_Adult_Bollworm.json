@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "scientific_name": "Helicoverpa armigera",
+  "causal_agent": "",
+  "hosts": [
+    "Cotton",
+    "Tomato",
+    "Maize",
+    "Chickpea",
+    "Pigeon pea",
+    "Rice",
+    "Sorghum",
+    "Cowpea",
+    "Soybean",
+    "Potato",
+    "Okra",
+    "Peas",
+    "Tobacco"
+  ],
+  "symptoms": "Holes in leaves and flowers Larvae boring into fruits or pods Premature fruit or flower drop Damaged cotton bolls producing poor quality lint Presence of frass and feeding tunnels in fruits or grains",
+  "description": "Cotton bollworm (Helicoverpa armigera) is a highly destructive agricultural pest widely distributed across Africa, Europe, Asia, Australia, and South America. The adult moth itself does not directly damage crops, but it lays eggs on host plants. The larvae that emerge feed on leaves, buds, flowers, fruits, and seeds of many economically important crops. Due to its high reproductive capacity and strong migratory ability, this pest can spread rapidly and produce multiple generations per year in warm climates.",
+  "management": "monitoring: Regular field scouting for eggs and larvae Use pheromone traps to detect adult moth activity Monitor plant damage in buds, fruits, and flowers cultural_control: Crop rotation with non-host crops Removal of crop residues and weeds Deep ploughing after harvest to destroy pupae Use of trap crops such as sunflower or marigold mechanical_control: Handpicking and destroying eggs and larvae Removing infested fruits and plant parts Installing pheromone or light traps biological_control: microorganisms: Helicoverpa nucleopolyhedrovirus (HaNPV) Baculovirus species targeting lepidopteran larvae Isaria fumosorosea macroorganisms: Trichogramma pretiosum (egg parasitoid wasp) Habrobracon hebetor (larval parasitoid) chemical_control: note: Chemical insecticides should be used within an Integrated Pest Management strategy and only when pest populations exceed economic thresholds. active_ingredients: Spinosad Emamectin benzoate Indoxacarb Lambda-cyhalothrin Chlorantraniliprole",
+  "prevention": "",
+  "sources": [
+    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "CABI Crop Protection Compendium – Helicoverpa armigera.",
+    "FAO Integrated Pest Management Guidelines.",
+    "Plantwise Knowledge Bank – Pest Management Recommendations."
+  ]
+}

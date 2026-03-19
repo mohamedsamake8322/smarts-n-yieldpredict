@@ -57,7 +57,7 @@ def load_model_once():
         return True
     except Exception as e:
         print(f"❌ Error loading model: {e}")
-        return False
+                    return False
 
 @app.on_event("startup")
 async def startup_event():

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "scientific_name": "",
+  "causal_agent": "",
+  "hosts": [
+    "Tobacco (Nicotiana spp.)",
+    "Soybean",
+    "Tomato",
+    "Peanut",
+    "Potato",
+    "Lettuce",
+    "Zamia furfuracea",
+    "Chrysanthemum",
+    "Petunia",
+    "Chenopodium spp.",
+    "Amaranthus spp.",
+    "Solanum nigrum"
+  ],
+  "symptoms": "Chlorotic ringspots on leaves Necrotic ringspots as disease progresses Leaf deformation and distortion Stunted growth in infected plants Reduced yield and plant vigor",
+  "description": "",
+  "management": "cultural: Use certified virus-free seeds Remove infected plants early Rotate crops with non-host species vector_management: Control nematode populations in soil Monitor and manage insect vectors sanitation: Disinfect tools and equipment Avoid mechanical transmission between plants",
+  "prevention": "",
+  "sources": [
+    "APS Plant Disease Handbook",
+    "ICTV Virus Taxonomy",
+    "NCBI Virus Database"
+  ]
+}
