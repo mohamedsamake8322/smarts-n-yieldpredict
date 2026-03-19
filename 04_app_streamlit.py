@@ -117,9 +117,21 @@ img {
 
 @st.cache_data(ttl=300)  # Cache for 5 minutes
 def load_disease_info_cached(label: str) -> Dict[str, Any]:
-    """Charge la fiche maladie depuis BLIP2_normalized/ (sans sources)."""
+    """Charge la fiche maladie depuis BLIP2/ ou BLIP2_normalized/."""
     try:
-        return load_disease_card(label, allow_fuzzy=False)
+        # Préférence: BLIP2_normalized (si présent), sinon BLIP2 original (plus structuré)
+        for lib in (Path("BLIP2_normalized"), Path("BLIP2")):
+            try:
+                info = load_disease_card(label, library_dir=lib, allow_fuzzy=False)
+                # Si on a au moins des symptômes structurés, on s'arrête.
+                symptoms = info.get("symptoms") or []
+                if isinstance(symptoms, list) and len(symptoms) >= 2:
+                    return info
+            except Exception:
+                continue
+
+        # fallback minimal
+        return load_disease_card(label, library_dir=Path("BLIP2"), allow_fuzzy=False)
     except Exception:
         return {
             "disease": label,
@@ -451,11 +463,36 @@ with col2:
                     st.write(cause)
 
             if st.session_state.confirmed_disease != pred_disease:
-                if st.button("✅ Confirm & see treatment", use_container_width=True):
+                if st.button(
+                    "✅ Confirm & see treatment",
+                    use_container_width=True,
+                    key="confirm_treatment_btn_api",
+                ):
                     st.session_state.confirmed_disease = pred_disease
 
             if st.session_state.confirmed_disease == pred_disease:
-                st.markdown("### Treatment / Management")
+                # Plantix-like card after confirmation (deterministic from JSON)
+                def _render_bullets(title: str, items: list[str]):
+                    if items:
+                        st.markdown(f"### {title}")
+                        for item in items:
+                            st.markdown(f"- {item}")
+
+                _render_bullets(
+                    "Disease cycle and spread",
+                    info.get("disease_cycle_and_spread") or [],
+                )
+                _render_bullets(
+                    "Favorable conditions",
+                    info.get("favorable_conditions") or [],
+                )
+                _render_bullets(
+                    "Pathogen characteristics",
+                    info.get("pathogen_characteristics") or [],
+                )
+                _render_bullets("Monitoring", info.get("monitoring") or [])
+
+                st.markdown("### Management / Treatment")
                 mgmt = info.get("management") or []
                 if mgmt:
                     for m in mgmt:
@@ -463,11 +500,7 @@ with col2:
                 else:
                     st.markdown("_No management guidance available._")
 
-                prev = info.get("prevention") or []
-                if prev:
-                    st.markdown("### Prevention")
-                    for p in prev:
-                        st.markdown(f"- {p}")
+                _render_bullets("Prevention", info.get("prevention") or [])
         
         # Grad-CAM not available with API (model runs on servers)
         st.info("🔬 **Grad-CAM Heatmap**: Not available in API mode (model runs on Hugging Face servers)")

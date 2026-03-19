@@ -9,6 +9,7 @@ import sys
 from pathlib import Path
 import io
 import json
+import os
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -63,33 +64,18 @@ def init_session_state():
 
 init_session_state()
 
-# Dossier dataset_final pour la confirmation visuelle (train/val/test par classe)
-DATASET_FINAL_ROOT = Path("dataset_final")
-
-
-def _map_to_dataset_final(original_path: str) -> str:
-    """
-    Remappe un chemin absolu Colab (/content/drive/MyDrive/dataset_final/...)
-    vers le dataset local ./dataset_final/... si nécessaire.
-    """
-    try:
-        p = Path(original_path)
-        parts = p.parts
-        if "dataset_final" in parts:
-            idx = parts.index("dataset_final")
-            rel = Path(*parts[idx + 1 :]) if idx + 1 < len(parts) else Path(".")
-            candidate = DATASET_FINAL_ROOT / rel
-            if candidate.exists():
-                return str(candidate)
-    except Exception:
-        pass
-    return original_path
+# Dossier dataset_light pour la confirmation visuelle (léger, compatible Streamlit Cloud)
+DATASET_LIGHT_ROOT = Path(os.environ.get("DATASET_LIGHT_ROOT", "dataset_light"))
 
 
 def _get_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]:
     """
-    Récupère jusqu'à max_images images depuis dataset_final pour une maladie.
-    Recherche dans train/, val/, test/ pour la classe correspondante.
+    Récupère jusqu'à max_images images depuis dataset_light pour une maladie.
+    Recherche robuste:
+    - dataset_light/<classe>/
+    - dataset_light/train/<classe>/
+    - dataset_light/val/<classe>/
+    - dataset_light/test/<classe>/
     """
     candidates = [
         disease_name,
@@ -99,11 +85,16 @@ def _get_images_for_disease(disease_name: str, max_images: int = 4) -> list[str]
 
     for name in candidates:
         imgs = []
-        for split in ("train", "val", "test", "train_new"):
-            disease_dir = DATASET_FINAL_ROOT / split / name
-            if disease_dir.exists() and disease_dir.is_dir():
-                for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
-                    imgs.extend(sorted(str(p) for p in disease_dir.glob(ext)))
+        for base in [
+            DATASET_LIGHT_ROOT / name,
+            DATASET_LIGHT_ROOT / "train" / name,
+            DATASET_LIGHT_ROOT / "val" / name,
+            DATASET_LIGHT_ROOT / "test" / name,
+            DATASET_LIGHT_ROOT / "train_new" / name,
+        ]:
+            if base.exists() and base.is_dir():
+                for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp", "*.bmp"):
+                    imgs.extend(sorted(str(p) for p in base.glob(ext)))
         if imgs:
             return imgs[:max_images]
 
@@ -477,10 +468,37 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
 
     # Confirm button: reveals treatment/prevention
     if (not is_unknown) and pred_disease and st.session_state.confirmed_disease != pred_disease:
-        if st.button("✅ Confirm & see treatment", use_container_width=True):
+        if st.button(
+            "✅ Confirm & see treatment",
+            use_container_width=True,
+            key="confirm_treatment_btn",
+        ):
             st.session_state.confirmed_disease = pred_disease
 
     if st.session_state.confirmed_disease == pred_disease:
+        # After confirmation: show full Plantix-like card content.
+        # On évite volontairement d'afficher "sources" (pour jurys/recherche).
+
+        def _render_bullets(title: str, items: list[str]):
+            if items:
+                st.markdown(f"### {title}")
+                for item in items:
+                    st.markdown(f"- {item}")
+
+        _render_bullets(
+            "Disease cycle and spread",
+            disease_data.get("disease_cycle_and_spread") or [],
+        )
+        _render_bullets(
+            "Favorable conditions",
+            disease_data.get("favorable_conditions") or [],
+        )
+        _render_bullets(
+            "Pathogen characteristics",
+            disease_data.get("pathogen_characteristics") or [],
+        )
+        _render_bullets("Monitoring", disease_data.get("monitoring") or [])
+
         st.markdown("### Management / Treatment")
         mgmt = disease_data.get("management") or []
         if mgmt:
@@ -489,19 +507,12 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
         else:
             st.markdown("_No management guidance available._")
 
-        prev = disease_data.get("prevention") or []
-        if prev:
-            st.markdown("### Prevention")
-            for item in prev:
-                st.markdown(f"- {item}")
+        _render_bullets("Prevention", disease_data.get("prevention") or [])
 
         hosts = disease_data.get("hosts") or []
-        if hosts:
-            with st.expander("Hosts"):
-                for h in hosts:
-                    st.markdown(f"- {h}")
+        _render_bullets("Hosts", hosts)
 
-    # Visual confirmation: 3–4 images from dataset_final for the predicted class
+    # Visual confirmation: images from dataset_light for the predicted class
     if not is_unknown and pred_disease:
         st.markdown(t("visual_confirmation"))
 

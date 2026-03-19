@@ -95,7 +95,7 @@ def _find_best_json_path(
 
 def load_disease_info(
     predicted_label: str,
-    library_dir: Path = Path("BLIP2_normalized"),
+    library_dir: Path = Path("BLIP2"),
     allow_fuzzy: bool = False,
 ) -> Dict[str, Any]:
     """Load the disease JSON info for a predicted class.
@@ -151,14 +151,24 @@ def load_disease_info(
             return out
         return [str(value).strip()] if str(value).strip() else []
 
-    # Supporte 2 schémas:
-    # - "BLIP2_normalized": name / causal_agent / symptoms(str) / management(str) / prevention(str) / hosts(list)
-    # - legacy éventuel: disease / cause / symptoms(list) / management(list)
+    # Supporte 2+ schémas:
+    # - "BLIP2_normalized" (format normalisé): name / causal_agent / symptoms / management / prevention / hosts
+    # - format "dossier BLIPD" (Plantix-like): disease / scientific_name / symptoms_and_damage / disease_cycle_and_spread /
+    #   favorable_conditions / pathogen_characteristics / monitoring / management / hosts / ...
     disease_name = data.get("name") or data.get("disease") or predicted_label
     cause = data.get("causal_agent") or data.get("cause") or ""
-    symptoms = data.get("symptoms", [])
-    management = data.get("management", [])
-    prevention = data.get("prevention", [])
+    # Symptoms: peut être soit "symptoms" soit "symptoms_and_damage"
+    symptoms = data.get("symptoms", None)
+    if symptoms is None:
+        symptoms = data.get("symptoms_and_damage", []) or []
+
+    management = data.get("management", []) or []
+    prevention = data.get("prevention", []) or []
+
+    disease_cycle_and_spread = data.get("disease_cycle_and_spread", []) or []
+    favorable_conditions = data.get("favorable_conditions", []) or []
+    pathogen_characteristics = data.get("pathogen_characteristics", []) or []
+    monitoring = data.get("monitoring", []) or []
 
     # Ensure required fields exist (⚠️ on ignore volontairement "sources")
     return {
@@ -170,6 +180,10 @@ def load_disease_info(
         "cause": str(cause),
         "management": _to_list(management),
         "prevention": _to_list(prevention),
+        "disease_cycle_and_spread": _to_list(disease_cycle_and_spread),
+        "favorable_conditions": _to_list(favorable_conditions),
+        "pathogen_characteristics": _to_list(pathogen_characteristics),
+        "monitoring": _to_list(monitoring),
     }
 
 
