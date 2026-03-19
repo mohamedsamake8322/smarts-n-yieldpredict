@@ -28,12 +28,19 @@ import torch
 def _normalize_label(label: str) -> str:
     """Normalize a disease label / filename to support fuzzy matching."""
     s = label.lower().strip()
+    # Fix common filename artifacts like "... ,json.json" or "... ,json"
+    # by removing any embedded/ending "json" token left after extension stripping.
+    s = s.replace(".json", "")
+    s = s.replace(",json", "")
+    s = s.replace("json,", "")
     # Replace common separators with spaces
     s = re.sub(r"[\-_]+", " ", s)
     # Remove common punctuation
     s = re.sub(r"[\.,()\[\]{}'\"]", "", s)
     # Collapse whitespace
     s = re.sub(r"\s+", " ", s)
+    # If "json" remained as a trailing token, remove it
+    s = re.sub(r"\bjson\b", "", s).strip()
     return s
 
 
