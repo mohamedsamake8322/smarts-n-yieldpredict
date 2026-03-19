@@ -7,6 +7,8 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+dataset_light/
+dataset_light.zip
 downloads/
 eggs/
 .eggs/
