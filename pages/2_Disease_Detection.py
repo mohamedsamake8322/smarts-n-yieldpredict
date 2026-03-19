@@ -31,32 +31,8 @@ if 'show_details' not in st.session_state:
 if 'feedback_given' not in st.session_state:
     st.session_state.feedback_given = False
 
-# Language selector (for disease JSON i18n)
-SUPPORTED_LANGS = {
-    "fr": "Français",
-    "en": "English",
-    "tr": "Türkçe",
-    "sw": "Kiswahili",
-    "ha": "Hausa",
-    "ar": "العربية",
-    "zh": "中文",
-    "ff": "Pulaar",
-    "bm": "Bambara",
-    "wo": "Wolof",
-}
-if "lang" not in st.session_state:
-    st.session_state["lang"] = "en"
-
-lang_options = [f"{code.upper()} - {label}" for code, label in SUPPORTED_LANGS.items()]
-default_index = list(SUPPORTED_LANGS.keys()).index(st.session_state["lang"])
-selected_lang = st.sidebar.selectbox("🌐 Language", lang_options, index=default_index)
-for code, label in SUPPORTED_LANGS.items():
-    if selected_lang.startswith(code.upper()):
-        st.session_state["lang"] = code
-        break
-
 # Initialize visual diagnosis
-vd = VisualDiagnosis(language_code=st.session_state.get("lang", "en"))
+vd = VisualDiagnosis()
 
 # Sidebar configuration
 st.sidebar.title("⚙️ Analysis Settings")
@@ -78,7 +54,7 @@ uploaded_file = st.sidebar.file_uploader("Choose an image", type=['jpg', 'jpeg',
 if uploaded_file is not None:
     # Display uploaded image
     image = Image.open(uploaded_file)
-    st.sidebar.image(image, caption="Uploaded Image", use_column_width=True)
+    st.sidebar.image(image, caption="Uploaded Image", width=None)
 
     # Run diagnosis
     if st.sidebar.button("🔍 Analyze Image", key="analyze_btn"):

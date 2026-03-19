@@ -197,7 +197,7 @@ with col1:
     
     if uploaded_file:
         image = Image.open(uploaded_file).convert("RGB")
-        st.image(image, use_column_width=True, caption="Uploaded Image")
+        st.image(image, width=None, caption="Uploaded Image")
         
         image_bytes = BytesIO()
         image.save(image_bytes, format="JPEG")
@@ -295,7 +295,7 @@ with col2:
         # Heatmap
         if show_gradcam and st.session_state.get("gradcam_overlay"):
             with st.expander("🔥 Grad-CAM Analysis"):
-                st.image(st.session_state["gradcam_overlay"], use_column_width=True,
+                st.image(st.session_state["gradcam_overlay"], width=None,
                         caption="Heat regions: brighter = more important for diagnosis")
 
         # Similarity chart
@@ -333,7 +333,7 @@ if st.session_state.detection_done and 'diagnosis' in st.session_state:
                     if result["path"] and Path(result["path"]).exists():
                         try:
                             ref_image = Image.open(result["path"])
-                            st.image(ref_image, use_column_width=True)
+                            st.image(ref_image, width=None)
                             st.caption(f"{result['disease']}\n{result['confidence']:.1%}")
                         except:
                             st.warning("Image not available")
