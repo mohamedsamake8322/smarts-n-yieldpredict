@@ -235,7 +235,8 @@ class BLIP2Explainer:
             self._load_model()
         return self._processor
 
-    def generate(\n        self,
+    def generate(
+        self,
         image: Image.Image,
         prompt: str,
         max_new_tokens: int = 120,
