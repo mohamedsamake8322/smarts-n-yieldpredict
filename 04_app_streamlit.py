@@ -449,6 +449,46 @@ with col2:
         if (not is_unknown) and pred_disease and pred_disease != "UNKNOWN DISEASE":
             info = load_disease_info_cached(pred_disease)
 
+            # Plantix UX: infos scientifiques en premier (avant Symptoms)
+            scientific_name = info.get("scientific_name") or ""
+            pathogen_type = info.get("pathogen_type") or ""
+            description = info.get("description") or ""
+            hosts = info.get("hosts") or []
+            susceptibility = info.get("susceptibility") or {}
+
+            if scientific_name:
+                st.markdown(f"**Scientific name:** {scientific_name}")
+            if pathogen_type:
+                st.markdown(f"**Pathogen type:** {pathogen_type}")
+            if description:
+                st.markdown("### Description")
+                st.write(description)
+            if hosts:
+                st.markdown("### Hosts")
+                for h in hosts:
+                    st.markdown(f"- {h}")
+            if isinstance(susceptibility, dict) and susceptibility:
+                st.markdown("### Susceptibility")
+                key_order = [
+                    ("highly_susceptible", "Highly susceptible"),
+                    ("moderately_susceptible", "Moderately susceptible"),
+                    ("more_tolerant", "More tolerant"),
+                ]
+                rendered_any = False
+                for k, label in key_order:
+                    items = susceptibility.get(k) or []
+                    if items:
+                        st.markdown(f"**{label}:**")
+                        for item in items:
+                            st.markdown(f"- {item}")
+                        rendered_any = True
+                if not rendered_any:
+                    for k, items in susceptibility.items():
+                        if items:
+                            st.markdown(f"**{k}:**")
+                            for item in items:
+                                st.markdown(f"- {item}")
+
             st.markdown("### Symptoms")
             symptoms = info.get("symptoms") or []
             if symptoms:

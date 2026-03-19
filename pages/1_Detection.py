@@ -442,6 +442,47 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     # Source: BLIP2_normalized/ (109 JSON). Aucune source n'est affichée.
     disease_data = load_disease_info(pred_disease, allow_fuzzy=False)
 
+    # Plantix UX: infos scientifiques en premier (avant Symptoms)
+    scientific_name = disease_data.get("scientific_name") or ""
+    pathogen_type = disease_data.get("pathogen_type") or ""
+    description = disease_data.get("description") or ""
+    hosts = disease_data.get("hosts") or []
+    susceptibility = disease_data.get("susceptibility") or {}
+
+    if scientific_name:
+        st.markdown(f"**Scientific name:** {scientific_name}")
+    if pathogen_type:
+        st.markdown(f"**Pathogen type:** {pathogen_type}")
+    if description:
+        st.markdown("### Description")
+        st.write(description)
+    if hosts:
+        st.markdown("### Hosts")
+        for h in hosts:
+            st.markdown(f"- {h}")
+    if isinstance(susceptibility, dict) and susceptibility:
+        st.markdown("### Susceptibility")
+        key_order = [
+            ("highly_susceptible", "Highly susceptible"),
+            ("moderately_susceptible", "Moderately susceptible"),
+            ("more_tolerant", "More tolerant"),
+        ]
+        rendered_any = False
+        for k, label in key_order:
+            items = susceptibility.get(k) or []
+            if items:
+                st.markdown(f"**{label}:**")
+                for item in items:
+                    st.markdown(f"- {item}")
+                rendered_any = True
+        if not rendered_any:
+            # fallback: show whatever keys exist
+            for k, items in susceptibility.items():
+                if items:
+                    st.markdown(f"**{k}:**")
+                    for item in items:
+                        st.markdown(f"- {item}")
+
     # Confidence
     confidence = diagnosis.get("predicted_similarity")
     if confidence is not None:

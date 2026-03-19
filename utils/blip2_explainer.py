@@ -177,11 +177,20 @@ def load_disease_info(
     pathogen_characteristics = data.get("pathogen_characteristics", []) or []
     monitoring = data.get("monitoring", []) or []
 
+    pathogen_type = data.get("pathogen_type", "") or ""
+
+    susceptibility_raw = data.get("susceptibility", {}) or {}
+    susceptibility: Dict[str, List[str]] = {}
+    if isinstance(susceptibility_raw, dict):
+        for k, v in susceptibility_raw.items():
+            susceptibility[str(k)] = _to_list(v)
+
     # Ensure required fields exist (⚠️ on ignore volontairement "sources")
     return {
         "disease": str(disease_name),
         "scientific_name": str(data.get("scientific_name", "") or ""),
         "description": str(data.get("description", "") or ""),
+        "pathogen_type": str(pathogen_type),
         "hosts": _to_list(data.get("hosts", [])),
         "symptoms": _to_list(symptoms),
         "cause": str(cause),
@@ -191,6 +200,7 @@ def load_disease_info(
         "favorable_conditions": _to_list(favorable_conditions),
         "pathogen_characteristics": _to_list(pathogen_characteristics),
         "monitoring": _to_list(monitoring),
+        "susceptibility": susceptibility,
     }
 
 
