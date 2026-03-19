@@ -178,18 +178,23 @@ def build_blip_prompt(disease_data: Dict[str, Any]) -> str:
     symptoms = disease_data.get("symptoms") or []
     management = disease_data.get("management") or []
 
+    # Éviter les f-string avec `'\n'` dans l'expression `{...}` (bug SyntaxError
+    # sur certaines versions Python / environnements).
+    symptom_lines = "\n".join([f"- {s}" for s in symptoms]).strip()
+    management_lines = "\n".join([f"- {s}" for s in management]).strip()
     prompt = f"""
 You are an agricultural plant pathology expert.
 
 Disease: {disease_data.get('disease', '')}
 
 Symptoms:
-{''.join(['- ' + s + '\n' for s in symptoms])}
+{symptom_lines}
+
 Cause:
 {disease_data.get('cause', '')}
 
 Management:
-{''.join(['- ' + s + '\n' for s in management])}
+{management_lines}
 
 Explain this disease in a simple way for farmers.
 """.strip()
