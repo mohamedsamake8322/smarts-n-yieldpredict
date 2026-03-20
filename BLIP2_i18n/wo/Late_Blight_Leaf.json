@@ -1,0 +1,41 @@
+{
+  "disease": "Late Blight (Leaf)",
+  "scientific_name": "Phytophthora infestans",
+  "pathogen_type": "Oomycete (fungal-like)",
+  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "symptoms": [
+    "Dark brown to black leaf spots",
+    "Leaf edges turn pale and die",
+    "Rapid wilting of infected leaves"
+  ],
+  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "favorable_conditions": [
+    "Cool and wet weather",
+    "High humidity",
+    "Poor air circulation in dense plantings"
+  ],
+  "spread": [
+    "Wind and rain dispersal of spores",
+    "Contaminated tools or hands",
+    "Infected seedlings or tubers"
+  ],
+  "management": [
+    "Plant resistant cultivars",
+    "Remove and destroy infected leaves",
+    "Improve air circulation with proper spacing and pruning",
+    "Rotate crops to prevent inoculum buildup"
+  ],
+  "chemical_control": [
+    "Copper-based fungicides",
+    "Mancozeb sprays on foliage during wet periods"
+  ],
+  "prevention": [
+    "Avoid overhead irrigation",
+    "Use certified disease-free seeds or tubers",
+    "Remove plant debris after harvest"
+  ],
+  "source": [
+    "CABI Crop Protection Compendium",
+    "USDA, Plant Disease Management Guide"
+  ]
+}

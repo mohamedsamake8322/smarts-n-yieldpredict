@@ -1,0 +1,64 @@
+{
+  "disease_name": "Tomato Leaf Bacterial Canker",
+  "type": "bacterial disease",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "hosts": {
+    "primary": ["Tomato (Solanum lycopersicum L.)"],
+    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+  },
+  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "symptoms": {
+    "leaves": [
+      "Older leaves develop brown, scorched margins that curl upward and inward",
+      "Distinct border between brown and green tissue, often with a thin yellow line",
+      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+    ],
+    "stems": [
+      "Light streaks develop that darken and split forming shallow cankers",
+      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
+      "Branches may break off easily in advanced infections"
+    ],
+    "fruit": [
+      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
+      "Fruit near calyx may have brown seeds due to vascular invasion"
+    ],
+    "seedlings": [
+      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
+      "Symptoms often appear at flowering or later"
+    ]
+  },
+  "disease_cycle": [
+    "Introduced via infected seed or transplants",
+    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
+    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
+    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+  ],
+  "management": {
+    "prevention": [
+      "Use disease-free seeds and transplants; certified seeds recommended",
+      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
+      "Steam or disinfect greenhouse flats, benches, and potting media",
+      "Rotate crops out of tomatoes for at least one season"
+    ],
+    "cultural": [
+      "Incorporate plant debris thoroughly at season end",
+      "Control nightshade weeds that may harbor bacteria",
+      "Avoid working in fields when foliage is wet",
+      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+    ],
+    "chemical": [
+      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
+      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+    ]
+  },
+  "notes": [
+    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
+    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
+    "Even a few infected seeds can result in high levels of infected transplants"
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
+    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
+    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+  ]
+}

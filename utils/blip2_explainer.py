@@ -113,7 +113,14 @@ def load_disease_info(
     """
     # Si un dossier de traductions existe, on le tente en priorité, puis on retombe
     # sur le dossier original (BLIP2 ou BLIP2_normalized) si le fichier n'existe pas.
-    translations_root = Path(os.environ.get("BLIP2_I18N_ROOT", "BLIP2_i18n"))
+    translations_root = None
+    try:
+        # Prefer explicit config if available
+        from config import BLIP2_I18N_DIR
+
+        translations_root = Path(BLIP2_I18N_DIR)
+    except Exception:
+        translations_root = Path(os.environ.get("BLIP2_I18N_ROOT", "BLIP2_i18n"))
     dirs_to_try: List[Path] = []
     if language_code and language_code.lower() not in {"en", ""}:
         candidate = translations_root / language_code

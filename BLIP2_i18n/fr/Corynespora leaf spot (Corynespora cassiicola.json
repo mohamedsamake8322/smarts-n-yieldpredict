@@ -1,0 +1,90 @@
+{
+  "disease_name": "Corynespora Leaf Spot",
+  "causal_agent": "Corynespora cassiicola",
+  "disease_type": "Fungal",
+  "description": "Corynespora leaf spot is a destructive fungal disease affecting over 500 plant species, including economically important crops such as tobacco, tomato, cucumber, soybean, cotton, and rubber tree. Infection begins on lower or middle leaves, forming dark green water-soaked spots that turn brown and expand into large lesions. The pathogen can exist as a necrotroph, saprophyte, or endophyte, and thrives under high humidity and slightly acidic conditions.",
+  "hosts": [
+    "Tobacco",
+    "Tomato",
+    "Cucumber",
+    "Soybean",
+    "Cotton",
+    "Rubber tree"
+  ],
+  "symptoms": [
+    "Small dark green water-soaked spots on leaves",
+    "Spots gradually turn brown",
+    "Circular or irregular necrotic lesions",
+    "Lesions expand and merge forming large patches",
+    "Disease often begins on lower or middle leaves"
+  ],
+  "favorable_conditions": {
+    "temperature_optimum": "25-30°C",
+    "temperature_range": "15-35°C",
+    "humidity": "High humidity (>90%) favors infection",
+    "pH_optimum": "Around 5.5"
+  },
+  "biological_control": [
+    {
+      "agent": "Bacillus subtilis",
+      "type": "Beneficial bacterium",
+      "mode_of_action": "Produces antifungal metabolites and inhibits fungal growth"
+    },
+    {
+      "agent": "Bacillus amyloliquefaciens",
+      "type": "Beneficial bacterium",
+      "mode_of_action": "Produces lipopeptides that damage fungal cell membranes"
+    },
+    {
+      "agent": "Trichoderma harzianum",
+      "type": "Biocontrol fungus",
+      "mode_of_action": "Mycoparasitism and competition with plant pathogens"
+    },
+    {
+      "agent": "Trichoderma viride",
+      "type": "Biocontrol fungus",
+      "mode_of_action": "Produces antifungal enzymes and secondary metabolites"
+    }
+  ],
+  "chemical_control": {
+    "fungicides": [
+      {
+        "active_ingredient": "Mancozeb",
+        "type": "Contact fungicide",
+        "mode_of_action": "Prevents spore germination"
+      },
+      {
+        "active_ingredient": "Chlorothalonil",
+        "type": "Protectant fungicide",
+        "mode_of_action": "Inhibits fungal growth on leaf surface"
+      },
+      {
+        "active_ingredient": "Azoxystrobin",
+        "type": "QoI fungicide",
+        "mode_of_action": "Inhibits mitochondrial respiration"
+      },
+      {
+        "active_ingredient": "Difenoconazole",
+        "type": "Triazole fungicide",
+        "mode_of_action": "Inhibits sterol biosynthesis"
+      },
+      {
+        "active_ingredient": "Tebuconazole",
+        "type": "Triazole fungicide",
+        "mode_of_action": "Blocks ergosterol synthesis"
+      },
+      {
+        "active_ingredient": "Carbendazim",
+        "type": "Systemic fungicide",
+        "mode_of_action": "Disrupts fungal cell division"
+      }
+    ]
+  },
+  "management_notes": [
+    "Use resistant cultivars when available",
+    "Rotate fungicides with different modes of action to prevent resistance",
+    "Avoid prolonged leaf wetness",
+    "Remove infected plant debris",
+    "Use integrated disease management strategies"
+  ]
+}

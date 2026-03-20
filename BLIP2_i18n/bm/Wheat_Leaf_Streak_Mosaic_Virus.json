@@ -1,0 +1,65 @@
+{
+  "disease_name": "Wheat Leaf Streak Mosaic Virus",
+  "abbreviation": "WSMV",
+  "pathogen_type": "Virus",
+  "family": "Potyviridae",
+  "genus": "Tritimovirus",
+  "hosts": [
+    "Wheat (Triticum spp.)",
+    "Corn (Zea mays)",
+    "Rye (Secale spp.)",
+    "Oats (Avena spp.)",
+    "Barley (Hordeum spp.)",
+    "Sorghum",
+    "Millet",
+    "Some grassy weeds"
+  ],
+  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "vector": {
+    "name": "Wheat curl mite",
+    "scientific_name": "Aceria tosichella",
+    "transmission_type": "semi-persistent",
+    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+  },
+  "symptoms": [
+    "Streaks of yellowed, non-uniform discoloration on leaves",
+    "Stunted growth",
+    "Severe infections can cause 100% crop loss",
+    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+  ],
+  "disease_cycle": [
+    "Virus overwinters in grasses and cereal crops and in infected seeds",
+    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
+    "Mites depend on wind to move between plants and fields",
+    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
+    "Multiple generations of mites per season can amplify spread"
+  ],
+  "conditions_for_development": [
+    "Warm weather favors mite reproduction and virus transmission",
+    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
+    "Early planting increases risk due to longer exposure to mites"
+  ],
+  "management": {
+    "cultural": [
+      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
+      "Avoid early planting to reduce exposure to mites",
+      "Select wheat varieties with lower susceptibility to WSMV"
+    ],
+    "chemical": [
+      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+    ],
+    "resistance": [
+      "Use resistant/tolerant wheat cultivars where available",
+      "Research on RNAi-based resistance is ongoing"
+    ]
+  },
+  "impact": [
+    "Yield losses can reach up to 100% in susceptible varieties",
+    "Co-infection with other viruses can exacerbate damage"
+  ],
+  "references": [
+    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
+    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
+    "USDA-ARS research on WSMV and vector biology."
+  ]
+}

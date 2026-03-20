@@ -1,0 +1,73 @@
+{
+  "disease": "Citrus Kanseri",
+  "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
+  "pathogen_type": "Bakteri",
+  "description": "Citrus kanseri, narenciye bitkilerini etkileyen yüksek derecede bulaşıcı bir bakteriyel hastalıktır. Yapraklarda, gövdede ve meyvelerde lezyonlara yol açar, erken yaprak ve meyve dökülmesine ve meyve kalitesinin düşmesine neden olur. Enfekte meyveler yenilebilir olsa da, görünüşleri nedeniyle pazarlanamaz.",
+  "hosts": [
+    "Citrus spp. (portakal, limon, greyfurt, misket limonu)",
+    "Poncirus trifoliata",
+    "Fortunella spp. (kumkuat)",
+    "Severinia spp.",
+    "Swinglea spp."
+  ],
+  "susceptibility": {
+    "highly_susceptible": [
+      "Greyfurt",
+      "Navel portakalı",
+      "Erken turunç çeşitleri"
+    ],
+    "moderately_susceptible": [
+      "Acı portakal",
+      "Limon",
+      "Tatlı portakal"
+    ],
+    "more_tolerant": [
+      "Mandalina",
+      "Bazı narenciye hibritleri (ör. Murcott, Valencia)"
+    ]
+  },
+  "symptoms_and_damage": [
+    "Su emmiş kenarlara sahip küçük, kabarık kabarcık benzeri lezyonlar",
+    "Yaprak ve meyvelerde lezyonları çevreleyen sarı halkalar",
+    "Yaprak, gövde ve meyvelerde nekrotik lekeler",
+    "Meyve çatlaması ve deformasyonu",
+    "Erken meyve dökümü",
+    "Şiddetli enfeksiyonlar yaprak dökümüne yol açar"
+  ],
+  "disease_cycle_and_spread": [
+    "Bakteri yaprak, gövde ve meyvelerdeki lezyonlarda hayatta kalır",
+    "Rüzgarla taşınan yağmur ve su sıçramasıyla yayılır",
+    "Uzun mesafe yayılımı çoğunlukla enfekte bitki materyalinin hareketiyle olur",
+    "Böcekler, kuşlar ve hayvanlar yerel yayılmaya katkıda bulunabilir",
+    "Yaprakbiti hasarı, yaralar oluşturarak enfeksiyonu artırır"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar (ideal yaklaşık 28–30°C)",
+    "Yüksek nem",
+    "Yağmur ve rüzgar",
+    "Bitki yüzeylerindeki serbest suyun varlığı"
+  ],
+  "pathogen_characteristics": [
+    "Gram-negatif çubuk şeklinde bakteri",
+    "Boyut yaklaşık 1–3 mikrometre",
+    "Hareket için tek kutuplu kamçıya sahip",
+    "Kültürde ksantomonadin adı verilen sarı pigment üretir"
+  ],
+  "monitoring": [
+    "Yapraklardaki sarı halkalı kabarık lezyonları inceleyin",
+    "Meyvelerde mantar veya çatlak lezyonlar için kontrol edin",
+    "Enfeksiyon kaynakları olabilecek dal lezyonlarını gözlemleyin"
+  ],
+  "management": [
+    "Sertifikalı hastalıktan arındırılmış dikim materyali kullanın",
+    "Önleyici tedavi olarak bakır bazlı spreyler uygulayın",
+    "Rüzgarla taşınan yağmurun yayılmasını azaltmak için rüzgar kesiciler kurun",
+    "Narenciye yaprakbitlerini kontrol edin",
+    "Bahçeye girerken/çıkarken aletleri, ekipmanı ve giysileri dezenfekte edin",
+    "Hastalık henüz yerleşmemiş alanlarda enfekte ağaçları çıkarın"
+  ],
+  "sources": [
+    "Wikipedia – Citrus Canker",
+    "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
+  ]
+}

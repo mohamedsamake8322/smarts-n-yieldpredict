@@ -1,0 +1,62 @@
+{
+ "disease": "Maize Tar Spot",
+ "scientific_name": "Phyllachora maydis",
+ "pathogen_type": "Fungus",
+ "description": "A fungal leaf disease of maize that produces black tar-like spots on leaves. Severe infections reduce photosynthesis, grain filling, and can cause yield loss and stalk lodging.",
+ "symptoms": [
+  "Small raised black spots on leaves that look like drops of tar",
+  "Black stromata on upper and lower leaf surfaces",
+  "Brown or tan lesions around black spots (fisheye lesions)",
+  "Rough or bumpy leaf surface",
+  "Large blighted areas when spots merge",
+  "Reduced grain filling and weak stalks in severe infections"
+ ],
+ "hosts": [
+  "Maize (corn)"
+ ],
+ "favorable_conditions": [
+  "Cool temperatures between 18°C and 23°C",
+  "High humidity",
+  "Frequent rain, fog, or dew",
+  "Long periods of leaf wetness (at least 7 hours)",
+  "Presence of infected corn residues in the field"
+ ],
+ "spread": [
+  "Wind-driven rain spreading fungal spores",
+  "Overwintering fungus on infected corn residues",
+  "Rapid spread between nearby fields under favorable weather"
+ ],
+ "management": [
+  "Monitor fields regularly for early symptoms",
+  "Harvest early if stalk strength declines",
+  "Use tolerant maize hybrids when available",
+  "Manage nitrogen fertilization carefully",
+  "Use crop risk prediction tools when available"
+ ],
+ "biological_control": [
+  "No widely adopted biological control currently available",
+  "Research ongoing on microbial antagonists"
+ ],
+ "chemical_control": [
+  "Fungicide application between tasseling (VT) and silking (R1) stages",
+  "Fungicides such as prothioconazole or trifloxystrobin mixtures",
+  "Repeat application after 7–14 days if conditions remain favorable"
+ ],
+ "prevention": [
+  "Crop rotation with non-host crops",
+  "Tillage to bury infected corn residues",
+  "Plant tolerant hybrids",
+  "Regular scouting and early detection"
+ ],
+ "impact": [
+  "Yield losses up to about 50 bushels per acre reported in severe cases",
+  "Poor kernel filling and reduced ear weight",
+  "Increased risk of stalk lodging",
+  "Reduced silage quality"
+ ],
+ "source": [
+  "Crop Protection Network",
+  "Purdue University Extension",
+  "Tar Spot of Corn Research Publications"
+ ]
+}

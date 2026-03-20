@@ -1,0 +1,139 @@
+{
+  "disease": "Choanephora Fruit Rot",
+  "scientific_name": "Choanephora cucurbitarum",
+  "pathogen_type": "Fungus",
+
+  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
+
+  "common_names": [
+    "fruit rot",
+    "Choanephora fruit rot",
+    "cucurbit flower blight",
+    "melon blossom blight",
+    "wet rot"
+  ],
+
+  "taxonomy": {
+    "kingdom": "Fungi",
+    "order": "Mucorales",
+    "family": "Choanephoraceae"
+  },
+
+  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
+
+  "symptoms": [
+    "soft watery rot on flowers",
+    "mushy brown or translucent fruit tissue",
+    "rot starting at blossom end of fruit",
+    "rapid fruit decay within a few days",
+    "fuzzy fungal growth covering infected tissue",
+    "white mold turning purple or black",
+    "pinhead-like fungal structures on rotten fruit"
+  ],
+
+  "visual_signature": [
+    "mushy soft rot on squash or cucumber fruit",
+    "white fluffy mold turning dark purple or black",
+    "black pinhead-like structures on rotting tissue",
+    "wet translucent fruit rot"
+  ],
+
+  "affected_plant_parts": [
+    "flowers",
+    "fruit",
+    "fruit blossom end",
+    "senescent floral organs"
+  ],
+
+  "plant_family": "Cucurbitaceae",
+
+  "hosts": [
+    "pumpkin",
+    "squash",
+    "zucchini",
+    "watermelon",
+    "melon",
+    "luffa",
+    "cucumber",
+    "eggplant",
+    "chili pepper",
+    "beans",
+    "okra",
+    "spinach",
+    "sweet potato",
+    "cassava"
+  ],
+
+  "important_hosts": [
+    "Cucurbita pepo",
+    "Cucurbita maxima",
+    "Citrullus lanatus",
+    "Cucumis melo",
+    "Luffa cylindrica"
+  ],
+
+  "favorable_conditions": [
+    "high humidity",
+    "frequent rainfall",
+    "wet flowers and fruits",
+    "poor air circulation",
+    "warm temperatures above 25°C"
+  ],
+
+  "spread": [
+    "wind-dispersed spores",
+    "rain splash",
+    "insects carrying spores",
+    "contaminated plant debris",
+    "infected crop residues"
+  ],
+
+  "disease_cycle": [
+    "fungus survives in crop debris and soil",
+    "spores infect senescent flowers",
+    "infection spreads from flowers to developing fruit",
+    "fungus produces abundant spores on rotting tissue",
+    "spores spread by wind, rain, irrigation and insects"
+  ],
+
+  "damage": [
+    "rapid fruit rot",
+    "loss of marketable cucurbit fruits",
+    "fruit liquefaction",
+    "yield losses in cucurbit crops"
+  ],
+
+  "management": [
+    "remove infected flowers and fruits immediately",
+    "avoid overhead irrigation",
+    "use drip irrigation if possible",
+    "space plants for good air circulation",
+    "harvest fruit before overmaturity",
+    "reduce humidity in greenhouses"
+  ],
+
+  "cultural_control": [
+    "crop rotation when possible",
+    "raised beds or well-drained soil",
+    "plastic mulch to reduce soil contact",
+    "good sanitation and removal of plant debris"
+  ],
+
+  "biological_control": [
+    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+  ],
+
+  "chemical_control": [
+    "fungicides generally ineffective because flowers open continuously"
+  ],
+
+  "confusable_diseases": [
+    "Rhizopus fruit rot"
+  ],
+
+  "source": [
+    "University of Minnesota Extension",
+    "Plant pathology research publications",
+    "Cucurbit disease management guides"
+  ]
+}

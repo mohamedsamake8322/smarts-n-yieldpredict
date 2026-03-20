@@ -1,0 +1,60 @@
+{
+ "disease": "Geotrichum Fruit Rot of Cucurbits",
+ "scientific_name": "Geotrichum candidum",
+ "pathogen_type": "Fungus",
+ "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
+ "symptoms": [
+  "Soft watery rot on fruits",
+  "White cottony mold on infected areas",
+  "Fruit tissue becomes soft and collapses",
+  "Sour or fermented smell from infected fruit",
+  "Rot usually starts at wounds or damaged areas"
+ ],
+ "hosts": [
+  "Cucumber",
+  "Melon",
+  "Watermelon",
+  "Pumpkin",
+  "Squash",
+  "Other cucurbit crops"
+ ],
+ "favorable_conditions": [
+  "Warm temperatures",
+  "High humidity",
+  "Wounded or damaged fruits",
+  "Poor ventilation during storage"
+ ],
+ "spread": [
+  "Contaminated soil",
+  "Infected plant debris",
+  "Handling of infected fruits",
+  "Wounds caused during harvest or transport"
+ ],
+ "management": [
+  "Handle fruits carefully to avoid wounds",
+  "Remove and destroy infected fruits",
+  "Improve field and storage sanitation",
+  "Ensure good ventilation during storage",
+  "Harvest fruits at proper maturity"
+ ],
+ "biological_control": [
+  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
+  "Apply Bacillus-based biofungicides to reduce pathogen development"
+ ],
+ "chemical_control": [
+  "Post-harvest fungicides containing thiabendazole",
+  "Imazalil-based treatments in storage facilities",
+  "Sanitation with approved disinfectants to reduce contamination"
+ ],
+ "prevention": [
+  "Avoid fruit injuries during harvest and transport",
+  "Maintain clean storage conditions",
+  "Remove plant debris from fields",
+  "Store fruits in cool and dry conditions"
+ ],
+ "source": [
+  "Plant pathology references on cucurbit post-harvest diseases",
+  "CABI Crop Protection Compendium",
+  "Plant disease management guides"
+ ]
+}

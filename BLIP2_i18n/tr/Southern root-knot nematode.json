@@ -1,0 +1,63 @@
+{
+  "pest_name": "Southern root-knot nematode",
+  "scientific_name": "Meloidogyne incognita",
+  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
+  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
+  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "host_range": {
+    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
+    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+  },
+  "symptoms": {
+    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
+    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+  },
+  "morphology": {
+    "female": {
+      "shape": "Pear-shaped",
+      "posterior_protuberance": "None",
+      "stylet_length": "15–16 μm",
+      "stylet_knobs": "Rounded, offset",
+      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+    },
+    "male": {
+      "shape": "Vermiform",
+      "head": "Not offset, elevated labial disc, usually without lateral lips",
+      "stylet_length": "23–26 μm",
+      "stylet_knobs": "Rounded to oval, offset"
+    },
+    "juvenile": {
+      "stage": "Second stage (J2)",
+      "body_length": "350–450 μm",
+      "tail_length": "43–65 μm",
+      "hyaline_region": "6–14 μm long",
+      "shape": "Rounded tail tip"
+    }
+  },
+  "life_cycle": {
+    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
+    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
+    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+  },
+  "behavior": {
+    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
+    "chemotaxis": "Responsive to chemical cues from host roots"
+  },
+  "management": {
+    "cultural_control": [
+      "Crop rotation with nonhost or resistant varieties",
+      "Use of organic amendments",
+      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+    ],
+    "biological_control": [
+      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+    ],
+    "chemical_control": [
+      "Several nematicides available commercially"
+    ]
+  },
+  "notes": [
+    "Causes severe galling and yield loss in many crops",
+    "Major economic importance in tropical and subtropical agriculture"
+  ]
+}

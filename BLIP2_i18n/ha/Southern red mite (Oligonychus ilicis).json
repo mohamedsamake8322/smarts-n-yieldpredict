@@ -1,0 +1,92 @@
+{
+  "pest_name": "Southern Red Mite",
+  "scientific_name": "Oligonychus ilicis",
+  "common_abbreviation": "SRM",
+  "description": "Southern red mite is a spider mite pest recorded on a wide range of plants including camellia, rhododendron, holly, and coffee. Individuals tend to inhabit the upper leaf. Pesticide resistance has been reported overseas, and typical two-spotted mite predators are ineffective against SRM.",
+  "appearance": {
+    "size": "<0.5 mm",
+    "color": "Reddish brown to deep purplish-red, sometimes with a pale central patch and lighter legs",
+    "sexual_dimorphism": "Females slightly larger, rounded posteriorly; males slender and paler",
+    "eggs": "Reddish brown, spherical; normally on upper leaf surface, overwintering eggs mainly on lower leaf surface"
+  },
+  "life_cycle": {
+    "stages": ["egg", "larva (6 legs)", "nymph1 (8 legs)", "nymph2 (8 legs)", "adult"],
+    "generation_time": "7 days under favorable conditions",
+    "population_peaks": "Spring and autumn (moderate temperatures 15–30°C, dry conditions)",
+    "overwintering": "Eggs on lower leaf surface and sometimes bark"
+  },
+  "dispersal": [
+    "Wind-borne; may dangle from silk threads",
+    "Hitch-hiking on people and equipment",
+    "Spread by touching leaves"
+  ],
+  "host_range": [
+    {"common_name": "Azalea", "scientific_name": "Rhododendron spp."},
+    {"common_name": "Camellia", "scientific_name": "Camellia japonica"},
+    {"common_name": "American sycamore", "scientific_name": "Platanus occidentalis"},
+    {"common_name": "Boxwood", "scientific_name": "Buxus spp."},
+    {"common_name": "Camphor tree", "scientific_name": "Cinnamonum camphora"},
+    {"common_name": "Coffee", "scientific_name": "Coffea arabica"},
+    {"common_name": "Cotoneaster", "scientific_name": "Cotoneaster sp."},
+    {"common_name": "Cranberry", "scientific_name": "Vaccinium macrocarpon"},
+    {"common_name": "Deer grass", "scientific_name": "Rhexia sp."},
+    {"common_name": "Doghobble", "scientific_name": "Leucothoe sp."},
+    {"common_name": "Elaeagnus/silverthorn", "scientific_name": "Elaeagnus pungens"},
+    {"common_name": "English walnut", "scientific_name": "Juglans regia"},
+    {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus spp."},
+    {"common_name": "Guava", "scientific_name": "Psidium guajava"},
+    {"common_name": "Holly", "scientific_name": "Ilex spp."},
+    {"common_name": "Hibiscus", "scientific_name": "Hibiscus spp."},
+    {"common_name": "Juniper", "scientific_name": "Juniperus sp."},
+    {"common_name": "Laurel or bay leaf", "scientific_name": "Laurus nobilis"},
+    {"common_name": "Loquat", "scientific_name": "Eriobotrya japonica"},
+    {"common_name": "Oak", "scientific_name": "Quercus sp."},
+    {"common_name": "Pear", "scientific_name": "Pyrus communis"},
+    {"common_name": "Pecan", "scientific_name": "Carya illinoensis"},
+    {"common_name": "Photinia/red tip", "scientific_name": "Photinia spp."},
+    {"common_name": "Pyracantha", "scientific_name": "Pyracantha coccinea"},
+    {"common_name": "Rose apple", "scientific_name": "Syzygium jambos"},
+    {"common_name": "Silky oak", "scientific_name": "Grevillea robusta"},
+    {"common_name": "Spruce", "scientific_name": "Picea sp."},
+    {"common_name": "Summersweet", "scientific_name": "Clethra alnifolia"},
+    {"common_name": "Strawberry", "scientific_name": "Fragaria x ananassa"},
+    {"common_name": "Tea", "scientific_name": "Camellia sinensis"},
+    {"common_name": "Viburnum", "scientific_name": "Viburnum spp."},
+    {"common_name": "Oxalis", "scientific_name": "Oxalis"},
+    {"common_name": "Sheep laurel", "scientific_name": "Kalmia angustifolia"},
+    {"common_name": "Chokeberry", "scientific_name": "Prunus virginiana"},
+    {"common_name": "Leatherleaf", "scientific_name": "Chamaedaphne calyculata"},
+    {"common_name": "Walnut", "scientific_name": "Juglans regia"},
+    {"common_name": "Rice", "scientific_name": "Oryza sativa"}
+  ],
+  "damage_symptoms": [
+    "Feeding on upper leaves causes mesophyll collapse, graying, and stippling",
+    "Leaves lose luster, appear bronzed or dull",
+    "Bronzing starts along midrib and veins, eventually covering entire leaf",
+    "Large populations cause severe leaf drop",
+    "Reduced plant vigor and growth, particularly on dry or water-stressed plants"
+  ],
+  "detection_monitoring": [
+    "Direct visual observation of damage, living mites, and cast-off skins",
+    "Hand lens for confirmation",
+    "Plant beating on tray (white/black) for low populations",
+    "Observation of red eggs on host plants"
+  ],
+  "chemical_control": [
+    "Older generation pesticides historically used",
+    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad effective under certain conditions",
+    "Abamectin, chlorfenapyr, dimethoate, fenbutatin oxide, maldison not always effective",
+    "Late applications less effective; early application when populations low recommended"
+  ],
+  "biological_control": [
+    "Predatory mites (Neoseiulus fallacis) and ladybeetle (Stethorus punctillum) effective overseas",
+    "Predators such as Neoseiulus californicus and Phytoseiulus persimilis not recommended for SRM",
+    "Conservation of natural predators can help reduce populations"
+  ],
+  "notes": [
+    "SRM prefers upper leaf surface, moves lower as populations increase",
+    "Populations peak in moderate temperature and dry conditions",
+    "High rainfall reduces populations",
+    "Australian commercial predators have not been tested against SRM"
+  ]
+}

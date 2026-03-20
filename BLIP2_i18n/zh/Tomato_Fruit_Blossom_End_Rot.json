@@ -1,0 +1,51 @@
+{
+  "disease_name": "Tomato Fruit Blossom-End Rot",
+  "type": "physiological disorder",
+  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "hosts": {
+    "primary": ["Tomato (Solanum lycopersicum L.)"],
+    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+  },
+  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "symptoms": {
+    "fruit": [
+      "Dark, sunken lesion at blossom end of fruit",
+      "Lesion may enlarge, become leathery, and lead to fruit rot",
+      "First visible on young developing fruits, often in clusters",
+      "Internal tissues may also be discolored if condition persists"
+    ],
+    "leaves_and_stems": [
+      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+    ]
+  },
+  "cause_and_risk_factors": [
+    "Insufficient calcium uptake by developing fruit",
+    "Irregular watering leading to fluctuating soil moisture",
+    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
+    "High humidity reducing transpiration and calcium transport"
+  ],
+  "management": {
+    "cultural": [
+      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
+      "Mulch to retain soil moisture and reduce fluctuations",
+      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
+      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
+      "Monitor plant vigor to ensure balance between root and shoot development"
+    ],
+    "chemical": [
+      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
+      "Apply sprays in the early morning to reduce risk of phytotoxicity",
+      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+    ],
+    "preventive_notes": [
+      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
+      "Monitor soil calcium levels prior to planting and amend soils if needed"
+    ]
+  },
+  "references": [
+    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
+    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+  ]
+}

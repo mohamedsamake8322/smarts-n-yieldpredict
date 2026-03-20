@@ -130,7 +130,7 @@ pip install -r requirements.txt
 ```
 
 ### Données
-- Dataset d'entraînement dans `dataset_final/`
+- Dataset d'entraînement dans `dataset_light/`
 - Connaissances Plantwise dans `data/disease_info.json`
 
 ## 🔄 Workflow de Développement

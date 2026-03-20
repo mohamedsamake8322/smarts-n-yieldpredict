@@ -1,0 +1,84 @@
+{
+  "pest_name": "Cotton Bollworm",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_type": "Insect",
+  "description": "Helicoverpa armigera, known as the cotton bollworm, is a highly polyphagous moth pest distributed across Africa, Europe, Asia, Australia, and South America. The larval stage feeds on leaves, buds, flowers, fruits, and seeds of many crops, causing severe economic losses. Adults are capable of long-distance migration, allowing rapid spread and multiple generations per year in warm climates.",
+  "hosts": [
+    "Cotton",
+    "Tomato",
+    "Maize",
+    "Chickpea",
+    "Pigeon pea",
+    "Rice",
+    "Sorghum",
+    "Cowpea",
+    "Soybean",
+    "Potato",
+    "Okra",
+    "Peas",
+    "Tobacco"
+  ],
+  "symptoms": [
+    "Holes in leaves and flowers",
+    "Larvae boring into fruits or pods",
+    "Premature fruit or flower drop",
+    "Damaged cotton bolls producing poor quality lint",
+    "Presence of frass and feeding tunnels in fruits or grains"
+  ],
+  "life_cycle": {
+    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers or fruits. Eggs hatch within 3–11 days.",
+    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
+    "pupae": "Pupation occurs in the soil or plant debris; pupae overwinter in colder climates.",
+    "adults": "Adults are light brown moths with a wingspan of about 3.5–4 cm and live about 10 days.",
+    "generations_per_year": "Up to 11 generations per year in warm climates."
+  },
+  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea and other crops. Larvae damage reproductive plant parts and reduce both yield and product quality. Secondary infections by fungi and bacteria may occur in damaged fruits.",
+  "management": {
+    "monitoring": [
+      "Regular scouting for eggs, larvae, and feeding damage",
+      "Use pheromone traps to monitor adult populations",
+      "Light traps can also help detect moth activity"
+    ],
+    "cultural_control": [
+      "Crop rotation with non-host crops",
+      "Removal of crop residues and weeds",
+      "Deep ploughing after harvest to destroy pupae",
+      "Use of trap crops such as sunflower or marigold"
+    ],
+    "mechanical_control": [
+      "Handpicking and destroying larvae and eggs",
+      "Using traps and physical barriers",
+      "Removal of infested fruits or plant parts"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
+        "Baculovirus species targeting lepidopteran larvae",
+        "Isaria fumosorosea (entomopathogenic fungus)"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (egg parasitoid wasp)",
+        "Habrobracon hebetor (larval parasitoid)"
+      ]
+    },
+    "chemical_control": {
+      "note": "Chemical control should be used as part of Integrated Pest Management (IPM) and only when pest populations exceed economic thresholds.",
+      "active_ingredients": [
+        "Spinosad",
+        "Emamectin benzoate",
+        "Indoxacarb",
+        "Lambda-cyhalothrin",
+        "Chlorantraniliprole"
+      ]
+    },
+    "genetic_control": [
+      "Cultivation of Bt cotton expressing Bacillus thuringiensis toxins (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+    ]
+  },
+  "references": [
+    "CABI. Cotton Bollworm (Helicoverpa armigera) – Crop Pest Management Information.",
+    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "FAO. Integrated Pest Management Guidelines.",
+    "Plantwise Knowledge Bank – Pest Management Recommendations."
+  ]
+}

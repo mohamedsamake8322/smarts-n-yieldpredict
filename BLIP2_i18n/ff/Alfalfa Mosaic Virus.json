@@ -1,0 +1,84 @@
+{
+ "disease": "Alfalfa Mosaic Virus",
+ "scientific_name": "Alfalfa mosaic virus (AMV)",
+ "pathogen_type": "Virus (RNA virus)",
+ "description": "A plant virus that infects peppers and many other crops. It spreads mainly by aphids and causes mosaic patterns, leaf deformation and reduced plant growth.",
+ "symptoms": [
+  "Yellow mosaic patterns on leaves",
+  "Leaf vein deformation",
+  "Leaf curling",
+  "Whitish or bleached leaf spots",
+  "Black necrotic spots between veins (rare)",
+  "Mottled or blotchy fruits",
+  "Dark sunken spots on fruits",
+  "Stunted plant growth"
+ ],
+ "hosts": [
+  "Pepper",
+  "Alfalfa",
+  "Tomato",
+  "Potato",
+  "Eggplant",
+  "Cucumber",
+  "Squash",
+  "Pumpkin",
+  "Pea",
+  "Bean",
+  "Lentil",
+  "Chickpea",
+  "Soybean",
+  "Clover",
+  "Lucerne",
+  "Tobacco",
+  "Spinach",
+  "Lettuce",
+  "Carrot",
+  "Celery"
+ ],
+ "favorable_conditions": [
+  "High aphid populations",
+  "Pepper fields close to alfalfa crops",
+  "Aphid movement after alfalfa harvest"
+ ],
+ "spread": [
+  "Aphids feeding briefly on plants",
+  "Mechanical transmission through contaminated tools",
+  "Seed transmission (low rate)"
+ ],
+ "management": [
+  "Plant resistant or tolerant cultivars",
+  "Remove infected seedlings before planting",
+  "Plant peppers away from alfalfa fields",
+  "Use barrier crops such as corn",
+  "Use trap crops such as peas",
+  "Sanitize tools, pots and stakes",
+  "Adjust planting dates when possible"
+ ],
+ "biological_control": [
+  "Use natural predators such as lady beetles",
+  "Use minute pirate bugs (Orius spp.) to reduce aphid populations",
+  "Encourage beneficial insects in the field",
+  "Apply neem-based products containing azadirachtin"
+ ],
+ "chemical_control": [
+  "Mineral oil sprays to reduce virus transmission",
+  "Insecticidal soaps (fatty acids)",
+  "Imidacloprid",
+  "Acetamiprid",
+  "Flonicamid",
+  "Pymetrozine",
+  "Kaolin clay sprays to deter aphids"
+ ],
+ "prevention": [
+  "Use resistant cultivars",
+  "Keep distance between peppers and alfalfa fields",
+  "Use reflective mulch or straw mulch to repel aphids",
+  "Remove infected plants early",
+  "Control aphid populations in surrounding crops"
+ ],
+ "source": [
+  "Colorado State University Extension",
+  "Journal of Integrated Pest Management",
+  "Frontiers in Microbiology"
+ ]
+}

@@ -1,0 +1,112 @@
+{
+  "disease": "Cabbage bacterial soft rot",
+  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
+  "pathogen_type": "Bacterium",
+
+  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
+
+  "symptoms": [
+    "Water-soaked spots on leaves or cabbage heads",
+    "Soft, sunken lesions that enlarge rapidly",
+    "Tissues become soft, mushy, and wet",
+    "Discoloration from cream to brown or black",
+    "Liquid seepage from infected tissues",
+    "Strong unpleasant rotten odor",
+    "Leaves, stems or roots may completely decay in severe infections"
+  ],
+
+  "visual_signature": [
+    "wet soft rot on cabbage tissue",
+    "mushy decaying plant tissue",
+    "dark rotting areas with liquid leakage"
+  ],
+
+  "affected_plant_parts": [
+    "leaves",
+    "stem",
+    "cabbage head",
+    "roots"
+  ],
+
+  "hosts": [
+    "cabbage",
+    "broccoli",
+    "cauliflower",
+    "lettuce",
+    "potato",
+    "carrot",
+    "onion",
+    "pepper",
+    "tomato",
+    "many vegetable crops"
+  ],
+
+  "favorable_conditions": [
+    "warm temperatures (25–30°C)",
+    "high humidity",
+    "wet weather",
+    "poor air circulation",
+    "plant wounds caused by insects or tools",
+    "low calcium in plants"
+  ],
+
+  "spread": [
+    "infected plant debris in soil",
+    "contaminated irrigation water",
+    "rain splash",
+    "insects such as maggot flies",
+    "contaminated tools",
+    "handling during harvest and storage"
+  ],
+
+  "management": [
+    "Use healthy and disease-free planting material",
+    "Handle plants carefully to avoid wounds",
+    "Remove and destroy infected plants immediately",
+    "Rotate crops with non-host plants for at least 3 years",
+    "Avoid overhead irrigation",
+    "Maintain good field sanitation",
+    "Ensure proper plant nutrition especially calcium"
+  ],
+
+  "biological_control": [
+    "Bacillus subtilis based bio-bactericides",
+    "Pseudomonas fluorescens biological treatments"
+  ],
+
+  "chemical_control": [
+    "Copper oxychloride",
+    "Copper hydroxide",
+    "Copper sulfate bactericides"
+  ],
+
+  "example_products": [
+    "Greencop 500WP",
+    "Trinity Gold 452WP",
+    "Colonizer 440WP",
+    "Biodistinction Xtra 700CS",
+    "Pyramid 700WP"
+  ],
+
+  "prevention": [
+    "Plant resistant or tolerant varieties",
+    "Use disease-free seeds and seedlings",
+    "Avoid injuring plants during cultivation",
+    "Harvest during dry conditions",
+    "Inspect cabbages before storage",
+    "Keep storage areas clean and dry"
+  ],
+
+  "storage_management": [
+    "Store cabbages at 0–4°C (32–39°F)",
+    "Maintain storage humidity around 90–95%",
+    "Avoid storing damaged or infected vegetables",
+    "Use soft materials like straw or paper to prevent injuries"
+  ],
+
+  "source": [
+    "CABI Crop Protection Compendium",
+    "Plant Pathology Extension Publications",
+    "Vegetable Disease Management Guides"
+  ]
+}

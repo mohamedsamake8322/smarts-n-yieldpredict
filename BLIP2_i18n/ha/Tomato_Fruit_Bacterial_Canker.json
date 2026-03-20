@@ -1,0 +1,72 @@
+{
+  "disease_name": "Tomato Fruit Bacterial Canker",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "type": "bacterial pathogen",
+  "hosts": {
+    "primary": ["Tomato (Solanum lycopersicum L.)"],
+    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
+    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+  },
+  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "symptoms": {
+    "seedlings": [
+      "No symptoms in most cases",
+      "Young plants may show poor growth or temporary branch wilting"
+    ],
+    "mature_plants_systemic": [
+      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
+      "Stunted growth and general plant wilting",
+      "Yellow to reddish-brown pith with mealy appearance",
+      "Stem streaks, branch breakage, and potential plant death"
+    ],
+    "mature_plants_secondary": [
+      "Dark brown to almost black lesions on leaf margins",
+      "Round or irregular leaf spotting",
+      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
+      "Vascular tissue under calyx may be discolored, affecting seeds"
+    ]
+  },
+  "disease_cycle": {
+    "introduction": "Through infected seeds or transplants",
+    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "spread": [
+      "Windblown rain and sprinkler irrigation",
+      "Mechanical cultivation and hand harvesting",
+      "Overhead irrigation splash from infected plants",
+      "Direct contact with infected plants or equipment"
+    ],
+    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+  },
+  "management": {
+    "prevention": [
+      "Use disease-free seeds and transplants",
+      "Plant certified clean transplants",
+      "Strict monitoring of seed fields; discard contaminated lots",
+      "Soak seed in 130°F water for 25 minutes"
+    ],
+    "greenhouse_measures": [
+      "Steam potting mix and flats",
+      "Disinfect benches, flats, and irrigation hoses",
+      "Empty greenhouses between crops"
+    ],
+    "field_measures": [
+      "Avoid working when foliage is wet",
+      "Incorporate all plant tissue at season's end",
+      "Rotate fields out of tomato for at least one year",
+      "Control related weeds around fields"
+    ],
+    "chemical_control": [
+      "Repeated copper applications may reduce disease spread but are not fully reliable",
+      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+    ]
+  },
+  "notes": [
+    "Economic losses in direct-seeded fields are usually uncommon",
+    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
+    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+  ],
+  "references": [
+    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
+    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+  ]
+}

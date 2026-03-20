@@ -1,0 +1,100 @@
+{
+  "virus_name": "Tobacco Ringspot Virus",
+  "abbreviation": "TRSV",
+  "family": "Secoviridae",
+  "genus": "Nepovirus",
+  "taxonomy": {
+    "order": "Picornavirales",
+    "virus_group": "Plant RNA virus"
+  },
+  "genome": {
+    "type": "positive-sense single-stranded RNA",
+    "structure": "bipartite genome (RNA1 and RNA2)",
+    "particle_shape": "isometric",
+    "particle_size": "approximately 28 nm diameter"
+  },
+  "transmission": {
+    "vectors": [
+      "nematodes (Xiphinema spp.)",
+      "thrips",
+      "mites",
+      "grasshoppers",
+      "flea beetles"
+    ],
+    "mechanical": true,
+    "seed_transmission": true,
+    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+  },
+  "hosts": {
+    "major_crops": [
+      "Tobacco (Nicotiana spp.)",
+      "Soybean",
+      "Tomato",
+      "Peanut",
+      "Potato",
+      "Lettuce"
+    ],
+    "ornamental_plants": [
+      "Zamia furfuracea",
+      "Chrysanthemum",
+      "Petunia"
+    ],
+    "weed_hosts": [
+      "Chenopodium spp.",
+      "Amaranthus spp.",
+      "Solanum nigrum"
+    ]
+  },
+  "symptoms": [
+    "Chlorotic ringspots on leaves",
+    "Necrotic ringspots as disease progresses",
+    "Leaf deformation and distortion",
+    "Stunted growth in infected plants",
+    "Reduced yield and plant vigor"
+  ],
+  "disease_cycle": [
+    "Virus survives in infected plants, seeds, and soil via nematode vectors",
+    "Nematodes acquire virus while feeding on infected roots",
+    "Vectors transmit virus to healthy plants during feeding",
+    "Mechanical transmission may occur during cultivation"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Characteristic ringspots on leaves",
+      "Chlorosis and necrosis around lesions"
+    ],
+    "laboratory_methods": [
+      "ELISA",
+      "PCR-based diagnostics",
+      "Electron microscopy"
+    ],
+    "viral_inclusions": [
+      "Vacuolate inclusions (Vac Inc)",
+      "Crystalloid inclusions (Cyst Inc)"
+    ]
+  },
+  "impact": {
+    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
+    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+  },
+  "management": {
+    "cultural": [
+      "Use certified virus-free seeds",
+      "Remove infected plants early",
+      "Rotate crops with non-host species"
+    ],
+    "vector_management": [
+      "Control nematode populations in soil",
+      "Monitor and manage insect vectors"
+    ],
+    "sanitation": [
+      "Disinfect tools and equipment",
+      "Avoid mechanical transmission between plants"
+    ]
+  },
+  "references": [
+    "APS Plant Disease Handbook",
+    "ICTV Virus Taxonomy",
+    "NCBI Virus Database"
+  ]
+}

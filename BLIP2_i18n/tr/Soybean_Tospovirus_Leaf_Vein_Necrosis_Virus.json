@@ -1,0 +1,57 @@
+{
+  "pest_name": "Soybean Tospovirus",
+  "scientific_name": "Soybean vein necrosis virus (SVNV)",
+  "common_name": "Leaf Vein Necrosis Virus",
+  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
+  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "host_range": {
+    "primary_host": "Glycine max (soybean)",
+    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+  },
+  "symptoms": {
+    "leaf": [
+      "Necrotic streaks along the veins",
+      "Interveinal chlorosis or yellowing",
+      "Leaf deformation or curling",
+      "Small necrotic spots or flecks on older leaves"
+    ],
+    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "plant": [
+      "Stunting",
+      "Reduced seed quality in severe infections"
+    ]
+  },
+  "conditions_favoring_disease": {
+    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
+    "environment": "Mild temperatures and presence of vectors favor spread",
+    "season": "Infections can occur throughout the growing season"
+  },
+  "biology": {
+    "pathogen_type": "Virus",
+    "virus_family": "Tospoviridae",
+    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
+    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+  },
+  "damage": [
+    "Vein necrosis and leaf discoloration",
+    "Reduced photosynthesis and plant vigor",
+    "Potential yield loss and reduced seed quality in severe cases"
+  ],
+  "management": {
+    "cultural_control": [
+      "Use pathogen-free seed",
+      "Remove volunteer soybean and other host plants to reduce inoculum",
+      "Avoid planting near areas with high thrips populations"
+    ],
+    "chemical_control": [
+      "Insecticides targeting thrips may reduce virus spread"
+    ],
+    "genetic_control": [
+      "No fully resistant soybean cultivars currently available; research ongoing"
+    ]
+  },
+  "notes": [
+    "SVNV is a relatively newly recognized tospovirus in soybean.",
+    "Early detection and vector management are key to reducing disease impact."
+  ]
+}

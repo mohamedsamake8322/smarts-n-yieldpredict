@@ -1,0 +1,69 @@
+{
+  "pest_name": "Stem-Boring Weevil",
+  "scientific_name": "Mecinus janthinus Germar",
+  "type": "insect",
+  "native_range": ["Europe", "Asia"],
+  "introduced_range": ["United States"],
+  "hosts": {
+    "primary": ["yellow toadflax (Linaria vulgaris)"],
+    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+  },
+  "description": {
+    "eggs": {
+      "color": "white",
+      "shape": "oval"
+    },
+    "larvae": {
+      "shape": "C-shaped",
+      "color": "creamy-white",
+      "head_capsule": "brown",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "creamy-white",
+      "features": ["conspicuous appendages", "long snout"]
+    },
+    "adults": {
+      "color": "bluish-black (rarely greenish-black)",
+      "length_mm": "2.4–3.4",
+      "shape": "elongated with long snouts and elbowed antennae",
+      "metallic_sheen": "subtle when newly emerged, dulls with age",
+      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+    }
+  },
+  "life_cycle": {
+    "generation_per_year": 1,
+    "overwintering_stage": "adult in previous year's toadflax stems",
+    "spring_emergence": "early spring, timing varies by site-specific factors",
+    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "egg_laying": {
+      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
+      "quantity_per_lifetime": "60–160 under lab conditions"
+    },
+    "larval_feeding": "3 instars, mine lower stems in tunnels",
+    "pupation": "mid-summer in larval tunnels",
+    "adult_emergence": "late summer, overwinter inside pupal chambers"
+  },
+  "damage": {
+    "adult": [
+      "chews growing tips, stems, leaves",
+      "distinctive shot hole injury pattern",
+      "weakens plants, suppresses flowering and seed production",
+      "stunts shoots, shoot tips turn brown and shrivel"
+    ],
+    "larval": [
+      "mines stems, severs water/nutrient-conducting tissues",
+      "causes desiccation and death of plant tissue",
+      "likely depletes root nutrient reserves, impacting plant persistence"
+    ],
+    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+  },
+  "management_notes": [
+    "Biocontrol agent used against invasive toadflax in North America",
+    "Monitoring adult emergence in spring can guide management strategies",
+    "Supports long-term reduction of toadflax populations"
+  ],
+  "references": [
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+  ]
+}

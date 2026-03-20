@@ -1,0 +1,76 @@
+{
+ "pest": "Aphids",
+ "scientific_name": "Aphididae",
+ "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
+ "life_cycle": [
+  "Asexual reproduction dominates; females give live birth to female nymphs",
+  "Winged females disperse to new plants later in the season",
+  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
+  "Symbiosis with Buchnera aphidicola provides essential amino acids"
+ ],
+ "hosts": [
+  "Vegetables, fruits, cereals, legumes, ornamental plants",
+  "Many crops and garden plants"
+ ],
+ "symptoms_and_damage": [
+  "Stunted growth and leaf curling",
+  "Yellowing or mottling of leaves",
+  "Honeydew deposits on leaves and stems",
+  "Sooty mold growth reducing photosynthesis",
+  "Transmission of plant viruses"
+ ],
+ "favorable_conditions": [
+  "Warm temperatures",
+  "High humidity",
+  "Rainy weather",
+  "Dense plant canopy and stressed plants"
+ ],
+ "spread": [
+  "Direct contact with infested plants",
+  "Wind-dispersed winged females",
+  "Ants that tend aphids",
+  "Tools, workers, and irrigation water"
+ ],
+ "natural_enemies": [
+  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
+  "Hoverfly larvae",
+  "Parasitic wasps",
+  "Aphid midge larvae",
+  "Green lacewing larvae",
+  "Spiders",
+  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
+ ],
+ "biological_control": [
+  "Release of predatory insects and parasitoids",
+  "Encourage natural enemies in gardens or greenhouses",
+  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
+ ],
+ "chemical_control": [
+  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
+  "Systemic insecticides may not penetrate flowers",
+  "For small infestations: insecticidal soap, strong water jets (contact action only)"
+ ],
+ "prevention": [
+  "Monitor populations using yellow-pan or Moericke traps",
+  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
+  "Remove infested plant parts promptly",
+  "Encourage mutualistic ants only in controlled environments",
+  "Crop rotation and maintaining plant health"
+ ],
+ "ant_mutualism": [
+  "Some ants farm aphids for honeydew, protect them from predators",
+  "Ants may carry aphid eggs over winter and return them to plants in spring",
+  "Ant attendance increases honeydew production and affects aphid behavior"
+ ],
+ "adaptations": [
+  "Woolly or fluffy wax coating for protection",
+  "Soldier morphs in gall-forming species for defense",
+  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
+  "Ability to drop off plants to escape predators"
+ ],
+ "sources": [
+  "Wikipedia – Aphid",
+  "Plant Pest Management Literature",
+  "Integrated Pest Management (IPM) references"
+ ]
+}

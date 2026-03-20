@@ -1,0 +1,78 @@
+{
+  "disease": "Corn smut",
+  "other_names": [
+    "Common smut",
+    "Boil smut",
+    "Blister smut",
+    "Huitlacoche",
+    "Cuitlacoche"
+  ],
+  "scientific_name": "Mycosarcoma maydis",
+  "synonym": "Ustilago maydis",
+  "pathogen_type": "Fungus",
+  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "hosts": [
+    "Maize (Zea mays)",
+    "Teosinte (Zea mexicana)"
+  ],
+  "symptoms": {
+    "general": [
+      "Tumor-like galls on plant tissues",
+      "Swollen kernels or plant organs",
+      "Black powdery spores inside galls"
+    ],
+    "leaves": [
+      "Small galls on leaf veins or blades"
+    ],
+    "stems": [
+      "Large galls on stalks or nodes"
+    ],
+    "ears": [
+      "Kernels replaced by swollen galls",
+      "Galls turn black and rupture releasing spores"
+    ]
+  },
+  "disease_cycle": [
+    "The fungus survives in soil or crop debris as teliospores",
+    "Spores germinate and produce haploid sporidia",
+    "Compatible sporidia mate and form infectious hyphae",
+    "Hyphae penetrate young plant tissues",
+    "Tumor-like galls form and produce new teliospores",
+    "Spores spread by wind and rain"
+  ],
+  "favorable_conditions": [
+    "Warm temperatures",
+    "Plant injuries or wounds",
+    "High nitrogen levels in soil",
+    "Wind and rain that spread spores",
+    "Periods of poor pollination or plant stress"
+  ],
+  "distribution": [
+    "Worldwide in maize-growing regions"
+  ],
+  "management": {
+    "cultural": [
+      "Use resistant maize varieties",
+      "Practice crop rotation",
+      "Remove infected plant debris",
+      "Avoid mechanical injury to plants",
+      "Manage nitrogen fertilization"
+    ],
+    "chemical": [
+      "Fungicides are generally ineffective for controlling corn smut"
+    ]
+  },
+  "economic_importance": [
+    "Usually causes low yield losses in field corn",
+    "Can significantly affect sweet corn production",
+    "Ear galls reduce market value of fresh corn"
+  ],
+  "additional_notes": [
+    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
+    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+  ],
+  "sources": [
+    "Wikipedia – Corn smut",
+    "University plant pathology references"
+  ]
+}

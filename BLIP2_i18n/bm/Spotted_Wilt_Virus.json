@@ -1,0 +1,76 @@
+{
+  "pest_name": "Tomato Spotted Wilt Virus",
+  "abbreviation": "TSWV",
+  "type": "virus",
+  "family": "Tospoviridae",
+  "genome": {
+    "type": "negative-sense RNA",
+    "structure": "spherical, 80-110 nm diameter",
+    "segments": [
+      {"name": "L", "length_kb": 8.9},
+      {"name": "M", "length_kb": 4.8},
+      {"name": "S", "length_kb": 2.9, "genes": ["N", "NSs"]}
+    ]
+  },
+  "hosts": {
+    "primary": ["tomato", "tobacco", "capsicum", "lettuce", "potato", "peanut", "eggplant", "onion", "various ornamentals"],
+    "weeds": ["sowthistle", "capeweed", "thornapples", "cobbler's pegs", "nightshades", "Jamaican snakeweed"]
+  },
+  "symptoms": [
+    "Stunting of plants",
+    "Ringspots and mottling on leaves and fruit",
+    "Chlorotic blotches and line patterns on leaves",
+    "Wilting and purpling of leaves",
+    "Necrotic lesions on stems",
+    "Distorted or necrotic fruits"
+  ],
+  "transmission": {
+    "vector": "thrips",
+    "vector_species": [
+      "Frankliniella occidentalis (western flower thrips)",
+      "Frankliniella sulphurea (yellow tomato thrips)",
+      "Thrips palmi (melon thrips)",
+      "Thrips tabaci (onion thrips)"
+    ],
+    "mechanism": [
+      "Acquisition occurs only in larval stage (1st and early 2nd instar)",
+      "Virus circulates and multiplies in vector's gut and salivary glands",
+      "Adult thrips remain infective for life but do not transmit to offspring",
+      "Transmission can occur in 5–10 minutes of feeding"
+    ]
+  },
+  "life_cycle": {
+    "thrips_larval_stage": "1–3 days",
+    "thrips_adult_lifespan": "20–30 days",
+    "TSWV_infection_duration": "lifelong in vector acquired as larva"
+  },
+  "economic_impact": [
+    "Serious losses in vegetables, field crops, and ornamentals",
+    "Considered one of the most economically devastating plant viruses globally"
+  ],
+  "management": {
+    "prevention": [
+      "Use virus- and thrips-free transplants",
+      "Remove infected plants and old crops",
+      "Maintain weed-free buffers of at least 25 m",
+      "Sanitation practices in greenhouses and fields"
+    ],
+    "resistant_varieties": [
+      "Use TSWV-resistant capsicum and tomato varieties",
+      "Consider resistance-breaking strains and maintain hygiene"
+    ],
+    "chemical_control": [
+      "Limited value of insecticides against vectors due to rapid resistance",
+      "Insecticides may reduce thrips populations but do not eliminate virus spread"
+    ],
+    "biological_control": [
+      "Predators of thrips such as Orius insidiosus (minute pirate bugs) and Geocoris punctipes (big-eyed bugs)"
+    ]
+  },
+  "notes": [
+    "Infected plants cannot be cured",
+    "Virus spreads only via thrips, not by seed, other insects, handling, or soil",
+    "TSWV has a very wide host range (>900 species in Australia alone)",
+    "Other related tospoviruses include CaCV, INSV, IYSV"
+  ]
+}

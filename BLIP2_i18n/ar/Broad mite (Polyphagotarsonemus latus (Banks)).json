@@ -1,0 +1,79 @@
+{
+  "disease": "Broad mite damage",
+  "scientific_name": "Polyphagotarsonemus latus",
+  "pathogen_type": "Mite (arthropod pest)",
+  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "symptoms": [
+    "Distorted or twisted young leaves",
+    "Leaf curling and thickening",
+    "Bronzing or darkening of leaf surface",
+    "Stunted plant growth",
+    "Cracked or scarred fruits",
+    "Deformed buds and flowers",
+    "Young tissues become hard and brittle"
+  ],
+  "hosts": [
+    "pepper",
+    "chili pepper",
+    "tomato",
+    "eggplant",
+    "potato",
+    "cucumber",
+    "melon",
+    "beans",
+    "cotton",
+    "tea",
+    "citrus",
+    "papaya",
+    "avocado",
+    "mango",
+    "ornamental plants"
+  ],
+  "favorable_conditions": [
+    "Warm temperatures",
+    "High humidity",
+    "Dense plant canopy",
+    "Poor air circulation",
+    "Greenhouse environments"
+  ],
+  "spread": [
+    "Wind movement",
+    "Contaminated tools and plant material",
+    "Movement by insects such as whiteflies",
+    "Transport on workers' clothing"
+  ],
+  "management": [
+    "Regular monitoring of young leaves",
+    "Remove heavily infested plant parts",
+    "Improve air circulation between plants",
+    "Use resistant or tolerant varieties when available",
+    "Avoid excessive nitrogen fertilization"
+  ],
+  "biological_control": [
+    "Predatory mites such as Neoseiulus californicus",
+    "Predatory mites such as Amblyseius swirskii",
+    "Predatory mites such as Phytoseiulus persimilis",
+    "Use of entomopathogenic fungi such as Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Abamectin",
+    "Spiromesifen",
+    "Spirodiclofen",
+    "Bifenazate",
+    "Sulfur-based miticides",
+    "Fenpyroximate"
+  ],
+  "prevention": [
+    "Inspect seedlings before planting",
+    "Maintain good greenhouse hygiene",
+    "Control weeds that may host mites",
+    "Avoid moving infested plants",
+    "Monitor regularly during warm humid periods"
+  ],
+  "source": [
+    "CABI Crop Protection Compendium",
+    "University of Florida IFAS Extension",
+    "Integrated Pest Management literature",
+    "Plant protection entomology references"
+  ]
+}

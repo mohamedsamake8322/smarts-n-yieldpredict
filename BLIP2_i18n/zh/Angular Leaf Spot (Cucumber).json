@@ -1,0 +1,40 @@
+{
+  "title": [
+    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
+    "Pseudomonas syringae pv. lachrymans"
+  ],
+  "Table": {
+    "Prevention": [
+      "Planting pathogen-free seed is the primary control strategy",
+      "Treat contaminated seed with hot water to reduce bacteria levels",
+      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
+      "Avoid overhead irrigation and reuse of irrigation tail water",
+      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
+      "Plant resistant cucumber varieties if the disease is a recurrent problem",
+      "No biological control practices have been developed for angular leaf spot"
+    ],
+    "Monitoring": [
+      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
+      "Check for angular appearance of lesions (they do not cross plant veins)",
+      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
+      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
+      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
+      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+    ],
+    "Direct Control": [
+      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
+      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
+      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
+      "Apply Nordox at 1.5-2.0 lb per acre",
+      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
+      "Chemical controls are most effective when integrated with sound cultural control practices"
+    ],
+    "Restrictions": [
+      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
+      "Copper-Count-N: 7 days application frequency; may cause injury",
+      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
+      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
+      "Always follow product label for specific dosage and timing of application"
+    ]
+  }
+}

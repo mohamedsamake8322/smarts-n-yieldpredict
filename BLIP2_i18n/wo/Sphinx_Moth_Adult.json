@@ -1,0 +1,22 @@
+{
+  "pest_name": "Sphinx Moth",
+  "stage": "adult",
+  "common_name": "Hawk Moth",
+  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "damage": [
+    "Adults do not usually cause direct plant damage",
+    "May be attracted to lights at night and act as pollinators"
+  ],
+  "behavior": [
+    "Nocturnal; active at dusk and night",
+    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+  ],
+  "control": [
+    "Monitoring adults can help predict larval outbreaks",
+    "Light traps can reduce adult activity in small areas"
+  ],
+  "notes": [
+    "Adult stage is mainly beneficial for pollination",
+    "Focus management on larvae to prevent crop damage"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pest_name": "Target Spot Leaf",
+  "causal_agent": "Corynespora cassiicola",
+  "type": "fungus",
+  "distribution": "Worldwide",
+  "host_plants": ["Cucurbits, especially cucumber"],
+  "symptoms": {
+    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
+    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
+    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
+    "roots_flowers": "Infections possible but less common."
+  },
+  "conditions_favoring_disease": {
+    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
+    "humidity": "High humidity favors infection",
+    "light": "Long days promote disease development",
+    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+  },
+  "pathogen_lifecycle": {
+    "survival": "On infected plant residues for at least two years, or on weed hosts",
+    "dispersal": "Airborne spores",
+    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+  },
+  "management": {
+    "cultural": [
+      "Use resistant varieties when available",
+      "Implement good sanitation in fields and greenhouses",
+      "Remove and destroy infected plant debris",
+      "Control weed hosts near crops"
+    ],
+    "chemical": [
+      "Preventive fungicide sprays according to label instructions"
+    ],
+    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+  },
+  "references": [
+    "Cucurbit crop disease guides and extension publications",
+    "Global distribution reports of Corynespora cassiicola"
+  ]
+}

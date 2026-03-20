@@ -1,0 +1,56 @@
+{
+ "pest": "Kudzu Bug",
+ "scientific_name": "Megacopta cribraria",
+ "pest_type": "Insect (Hemiptera: Plataspidae)",
+ "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
+ "symptoms": [
+  "Clusters of small brown shield-shaped insects on stems and leaves",
+  "Yellowing or browning of leaves",
+  "Reduced plant growth and vigor",
+  "Lower pod production in soybean",
+  "Sticky honeydew deposits that may lead to sooty mold"
+ ],
+ "hosts": [
+  "Soybean",
+  "Kudzu",
+  "Bean",
+  "Cowpea",
+  "Other legume crops"
+ ],
+ "favorable_conditions": [
+  "Warm temperatures",
+  "Presence of kudzu plants near fields",
+  "Dense vegetation where insects can reproduce"
+ ],
+ "spread": [
+  "Adult insects flying to new fields",
+  "Movement from kudzu plants to nearby crops",
+  "Overwintering adults emerging in spring"
+ ],
+ "management": [
+  "Monitor fields regularly for insect clusters",
+  "Remove nearby kudzu plants when possible",
+  "Use resistant or tolerant soybean varieties",
+  "Encourage natural enemies in fields"
+ ],
+ "biological_control": [
+  "Parasitic wasps such as Paratelenomus saccharalis",
+  "General predators like spiders and lady beetles",
+  "Conservation of beneficial insects"
+ ],
+ "chemical_control": [
+  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
+  "Neonicotinoid insecticides such as imidacloprid",
+  "Apply when pest populations reach economic threshold"
+ ],
+ "prevention": [
+  "Monitor fields early in the season",
+  "Control kudzu near crop fields",
+  "Maintain field sanitation and crop rotation"
+ ],
+ "source": [
+  "University of Georgia Extension",
+  "USDA Pest Management Guides",
+  "Integrated Pest Management literature"
+ ]
+}
