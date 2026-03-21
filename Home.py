@@ -10,7 +10,7 @@ st.set_page_config(
     page_title="Smart Disease Detection",
     page_icon="🌱",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 import time
@@ -160,41 +160,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Call to action for user to go to Detection
-st.markdown("""
-<div style='text-align:center; margin-top: 25px;'>
-    <a href='#' id='start_diagnosis' style='display:inline-flex;
-       align-items:center; justify-content:center;
-       background-color:#28a745; color:white; padding:14px 28px;
-       border-radius:8px; font-size:18px; text-decoration:none;'>
-       ▶️ Start Diagnosis
-    </a>
-</div>
-""", unsafe_allow_html=True)
-
-# JavaScript redirection (works in browser click)
-st.markdown(
-    """
-    <script>
-    const btn = document.getElementById('start_diagnosis');
-    if (btn) {
-        btn.addEventListener('click', (event) => {
-            event.preventDefault();
-            window.location.href = '/Detection';
-        });
-    }
-    </script>
-    """,
-    unsafe_allow_html=True,
-)
-
-# Auto-redirect after 3 seconds via browser (safe in Streamlit Cloud)
-st.markdown(
-    """
-    <script>
-    setTimeout(function() {
-        window.location.href = '/Detection';
-    }, 3000);
-    </script>
-    """,
-    unsafe_allow_html=True,
-)
+col1, col2, col3 = st.columns([1, 1, 1])
+with col2:
+    if st.button("▶️ Start Diagnosis", key="start_btn", use_container_width=True):
+        st.switch_page("pages/1_Detection.py")
