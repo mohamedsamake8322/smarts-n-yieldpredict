@@ -1,6 +1,6 @@
 """
 Smart Disease Detection - Main Application
-Professional AI-powered crop disease diagnostic assistant
+Professional Sènè crop disease diagnostic assistant
 """
 
 import streamlit as st
@@ -187,11 +187,6 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# For Streamlit, also render a native button
-if st.button("Start Diagnosis"):
-    st.experimental_set_query_params(page="Detection")
-    st.experimental_rerun()
-
 # Auto-redirect after 3 seconds via browser (safe in Streamlit Cloud)
 st.markdown(
     """
@@ -203,5 +198,3 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
-st.info("You will be redirected to Detection in 3 seconds; or click Start Diagnosis.")
