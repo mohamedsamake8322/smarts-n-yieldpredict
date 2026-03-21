@@ -36,26 +36,8 @@ from model_core import (
     infer_on_image,
 )
 from utils.blip2_explainer import generate_explanation_for_image, load_disease_info
+from utils.i18n import language_selector, get_lang, t, LANGUAGE_OPTIONS
 import numpy as np
-
-LANGUAGE_OPTIONS = [
-    ("English", "en"),
-    ("Français", "fr"),
-    ("العربية", "ar"),  # Arabic
-    ("中文", "zh"),  # Chinese
-    ("Русский", "ru"),  # Russian
-    ("Español", "es"),  # Spanish
-    ("Deutsch", "de"),  # German
-    ("Türkçe", "tr"),  # Turkish
-    ("Swahili", "sw"),
-
-    ("አማርኛ", "am"),  # Amharic
-    ("Igbo", "ig"),
-    ("Hausa", "ha"),
-]
-
-LANGUAGE_CODE_MAP = {label: code for label, code in LANGUAGE_OPTIONS}
-LANGUAGE_LABEL_MAP = {code: label for label, code in LANGUAGE_OPTIONS}
 
 
 # Page configuration - MUST be the first Streamlit command
@@ -155,131 +137,6 @@ def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
 # --------------------------
 
 SUPPORTED_LANGS = {code: label for label, code in LANGUAGE_OPTIONS}
-
-TRANSLATIONS = {
-    "page_title": {
-        "fr": "📸 Détection Intelligente des Plantes",
-        "en": "📸 Smart Plant Disease Detection",
-        "tr": "📸 Akıllı Bitki Hastalığı Tespiti",
-        "sw": "📸 Utambuzi Mahiri wa Magonjwa ya Mimea",
-        "ha": "📸 Ganewar Cutar Shuka Mai Hikima",
-    },
-    "page_subtitle": {
-        "fr": "Téléversez une image pour identifier la **maladie probable** et comparer avec quelques images similaires.",
-        "en": "Upload an image to identify the **most probable disease** and compare with similar examples.",
-        "tr": "En olası hastalığı belirlemek ve benzer örneklerle karşılaştırmak için bir görüntü yükleyin.",
-        "sw": "Pakia picha ili kutambua **ugonjwa unaowezekana zaidi** na kuulinganisha na mifano inayofanana.",
-        "ha": "Loda hoto don gano **mummanan cutar da za ta fi yiwuwa** kuma kwatanta ta da hotuna makamanta.",
-    },
-    "sidebar_instructions": {
-        "fr": "1. **Prenez une photo** avec votre caméra\n2. **Ou téléversez** une image depuis votre galerie\n3. Attendez l'**analyse par l'IA**\n4. Consultez les **résultats et recommandations**",
-        "en": "1. **Take a photo** with your camera\n2. **Or upload** an image from your gallery\n3. Wait for the **AI analysis**\n4. Check the **results and recommendations**",
-        "tr": "1. Kameranızla **fotoğraf çekin**\n2. Ya da galerinizden bir **görüntü yükleyin**\n3. **Yapay zekâ analizini** bekleyin\n4. **Sonuçları ve önerileri** inceleyin",
-        "sw": "1. **Piga picha** kwa kutumia kamera\n2. Au **pakia** picha kutoka kwenye galeri\n3. Subiri **uchambuzi wa AI**\n4. Angalia **matokeo na mapendekezo**",
-        "ha": "1. **Dauki hoto** da kamara\n2. Ko **loda** hoto daga gallery\n3. Jira **binciken AI**\n4. Duba **sakamako da shawarwari**",
-    },
-    "image_to_analyze": {
-        "fr": "🖼️ Image à analyser",
-        "en": "🖼️ Image to analyze",
-        "tr": "🖼️ Analiz edilecek görüntü",
-        "sw": "🖼️ Picha ya kuchambua",
-        "ha": "🖼️ Hoton da za a bincika",
-    },
-    "analyze_button": {
-        "fr": "🔍 Lancer la détection",
-        "en": "🔍 Run detection",
-        "tr": "🔍 Tespiti başlat",
-        "sw": "🔍 Anzisha utambuzi",
-        "ha": "🔍 Fara gano cuta",
-    },
-    "analysis_done": {
-        "fr": "✅ Analyse terminée !",
-        "en": "✅ Analysis completed!",
-        "tr": "✅ Analiz tamamlandı!",
-        "sw": "✅ Uchambuzi umekamilika!",
-        "ha": "✅ Bincike ya kammala!",
-    },
-    "probable_disease": {
-        "fr": "🦠 Maladie probable",
-        "en": "🦠 Probable disease",
-        "tr": "🦠 Muhtemel hastalık",
-        "sw": "🦠 Ugonjwa unaowezekana",
-        "ha": "🦠 Cutar da ake zargi",
-    },
-    "symptoms_heading": {
-        "fr": "### Symptômes",
-        "en": "### Symptoms",
-        "tr": "### Belirtiler",
-        "sw": "### Dalili",
-        "ha": "### Alamomin",
-    },
-    "cause_heading": {
-        "fr": "### Cause",
-        "en": "### Cause",
-        "tr": "### Sebep",
-        "sw": "### Sababu",
-        "ha": "### Sabo",
-    },
-    "management_heading": {
-        "fr": "### Gestion",
-        "en": "### Management",
-        "tr": "### Yönetim",
-        "sw": "### Usimamizi",
-        "ha": "### Gudanarwa",
-    },
-    "no_data": {
-        "fr": "_Aucune donnée disponible._",
-        "en": "_No data available._",
-        "tr": "_Veri yok._",
-        "sw": "_Hakuna data iliyoipatikana._",
-        "ha": "_Babu bayanin da aka samu._",
-    },
-    "unknown_disease": {
-        "fr": "Maladie inconnue – veuillez essayer une autre image ou consulter un expert.",
-        "en": "Unknown disease – please try another image or consult an expert.",
-        "tr": "Bilinmeyen hastalık – lütfen başka bir görüntü deneyin veya bir uzmana danışın.",
-        "sw": "Ugonjwa haujatambuliwa – tafadhali jaribu picha nyingine au wasiliana na mtaalam.",
-        "ha": "An kasa gane cutar – don Allah a gwada wani hoto ko a tuntuɓi ƙwararre.",
-    },
-    "visual_confirmation": {
-        "fr": "### 🔎 Confirmation visuelle",
-        "en": "### 🔎 Visual confirmation",
-        "tr": "### 🔎 Görsel doğrulama",
-        "sw": "### 🔎 Uthibitisho wa kuona",
-        "ha": "### 🔎 Tabbatarwa ta gani",
-    },
-    "not_leaf_message": {
-        "fr": "Cette image ne ressemble pas à une feuille de culture. Veuillez prendre une photo plus proche de la feuille ou choisir une autre image.",
-        "en": "This image does not look like a crop leaf. Please take a closer photo of the leaf or choose another image.",
-        "tr": "Bu görüntü bir ürün yaprağına benzemiyor. Lütfen yaprağa daha yakın bir fotoğraf çekin veya başka bir görüntü seçin.",
-        "sw": "Picha hii haionekani kama jani la zao. Tafadhali piga picha karibu zaidi ya jani au chagua picha nyingine.",
-        "ha": "Wannan hoto ba ya kama da ganyen amfanin gona. Don Allah dauki hoto kusa da ganyen ko ka zabi wani hoto.",
-    },
-}
-
-
-def get_lang() -> str:
-    if "lang" not in st.session_state:
-        st.session_state["lang"] = os.environ.get("DEFAULT_LANG", "en")
-    return st.session_state["lang"]
-
-
-def language_selector() -> None:
-    current = LANGUAGE_LABEL_MAP.get(get_lang(), "English")
-    label = st.sidebar.selectbox(
-        "🌍 Choisir la langue", [label for label, _ in LANGUAGE_OPTIONS], index=[label for label, _ in LANGUAGE_OPTIONS].index(current),
-    )
-    code = LANGUAGE_CODE_MAP.get(label, "en")
-    st.session_state["lang"] = code
-    st.sidebar.caption(f"Langue active : **{label}** ({code})")
-
-
-def t(key: str) -> str:
-    lang = get_lang()
-    return TRANSLATIONS.get(key, {}).get(
-        lang, TRANSLATIONS.get(key, {}).get("en", key)
-    )
-
 
 # Titre
 st.title(t("page_title"))
