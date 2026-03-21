@@ -35,14 +35,16 @@ with tab1:
     language_map = {
         "English": "en",
         "Français": "fr",
-        "Bambara": "bm",
-        "Wolof": "wo",
-        "Türkçe": "tr",
+        "العربية": "ar",  # Arabic
+        "中文": "zh",  # Chinese
+        "Русский": "ru",  # Russian
+        "Español": "es",  # Spanish
+        "Deutsch": "de",  # German
+        "Türkçe": "tr",  # Turkish
         "Swahili": "sw",
+        "አማርኛ": "am",  # Amharic
+        "Igbo": "ig",
         "Hausa": "ha",
-        "Arabic": "ar",
-        "Chinese": "zh",
-        "Fulah": "ff",
     }
     language = st.selectbox("Language", list(language_map.keys()))
 
