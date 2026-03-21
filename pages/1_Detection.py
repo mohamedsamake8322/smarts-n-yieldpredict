@@ -432,7 +432,7 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                             pred_disease,
                             language_code=get_lang(),
                         )
-                        st.markdown("### 🤖 AI Explanation")
+                        st.markdown(" 🤖 AI Explanation")
                         st.write(explanation)
                     except Exception as e:
                         st.error(f"⚠️ Failed to generate explanation: {e}")
