@@ -1,0 +1,56 @@
+{
+  "pest": "Iji Ọgwụ Eme Ihe n'Ụzọ Amamihe Dị na Ya",
+  "scientific_name": "Megatatatararia",
+  "pest_type": "Flaxa: Plaglaglaxe)",
+  "description": "Ụmụ ahụhụ ndị na-eme ka ahụhụ ndị na-eme ihe ike na ihe ndị ọzọ dị mkpa ghara ito ngwa ngwa, ma ndị toworo eto ma ndị na-eme ka ihe ọkụkụ too, belata uto na ihe ịga nke ọma. Mgbe e si Eshia nweta ha, ọ ghọọla ihe dị mkpa n'ọtụtụ ebe.",
+  "symptoms": [
+    "Ihe ndị e ji amata obere ọta ndị na - acha nchara nchara-shaha nyere ahụhụ n'azụ nakwa n'akwụkwọ osisi",
+    "Akwụkwọ ya nke na - acha nchara nchara ma ọ bụ nke na - acha nchara nchara",
+    "Ọ na - eme ka ihe ọkụkụ na - eto nke ọma, meekwa ka ike na - agwụ ha",
+    "A na - emepụta ihe ndị e ji achọ ụlọ mma n'ebe a na - emepụta ihe ndị e ji esi nri",
+    "Ebe aṅụ na - esi ísì ọma bụ́ ndị pụrụ iduga n'ihe ndị e ji esiji ákwà bụ́ ndị pụrụ iduga n'ihe ndị e ji esiji ákwà"
+  ],
+  "hosts": [
+    "Sobon",
+    "Kudzu",
+    "Belan",
+    "Tlapea",
+    "Ihe ndị ọzọ a kụrụ n'ubi n'ime ala"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ala ubi ndị dị nso n'ubi",
+    "Ihe ọkụkụ ndị ahịhịa na - adịghị amị mkpụrụ bụ́ ebe ụmụ ahụhụ pụrụ ịmị mkpụrụ"
+  ],
+  "spread": [
+    "Ụmụ ahụhụ ndị na - egbu egbu na - efe efe n'ubi ndị ọhụrụ",
+    "Site n'osisi ndị a kụrụ n'ala ruo n'ihe ọkụkụ ndị dị nso",
+    "Ọnụ Ọgụgụ Na - arịwanye Elu nke ndị toworo eto bụ́ ndị na - akpa àgwà ọjọọ na - amụba n'oge opupu ihe ubi"
+  ],
+  "management": [
+    "Ụmụ ahụhụ na - atakarị ụmụ ahụhụ n'ubi ha",
+    "Wepụ ahịhịa ndị dị nso n'ebe ahụ mgbe o kwere mee",
+    "Jiri ụdị dị iche iche nke ndị na - eguzogide ọgwụ mee ihe",
+    "Na - agba ndị iro anụ ahụ́ ume n'ubi"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ihe nketa bụ ihe ndị dị ka ihe ndị dị ka ihe e ji eme ihe n'oge ochie bụ́ ndị e ji eme ihe maka ndị na - adịghị ihe ha bụ",
+    "Anụ ọhịa ndị na - eri ibe ha dị ka nkịta ọhịa na nnekwu ọkụkọ",
+    "Ụmụ ahụhụ ndị bara uru na - amụba"
+  ],
+  "chemical_control": [
+    "Ndị na - ere akwụkwọ n'oge ochie (eeee.g.g., binsisi, nwa atụrụ bụ́da-mzusisimherisihe)",
+    "Ndị na - emepụta ọgwụ ndị na - eme ka a ghara iji ha mee ihe n'ụzọ na - ezighị ezi na - eme ihe n'ụzọ na - ezighị ezi",
+    "Tinye ya n'ọrụ mgbe ọnọdụ akụ̀ na ụba kọrọ ụkọ"
+  ],
+  "prevention": [
+    "Na - akọ ugbo n'oge",
+    "N'ebe dị nso n'ubi mkpụrụ akụ́kụ́",
+    "Nọgide na - edebe ihe ọcha n'ubi ma na - akụ ihe ọkụkụ n'ụzọ na - ekwesịghị ekwesị"
+  ],
+  "source": [
+    "Mahadum Georgia nke dị na Georgia",
+    "Ebe Ndị A Na - anọ Akparịta Ụka n'Intanet",
+    "Akwụkwọ ndị e ji amụ Bible bụ́ ndị e dere n'ụdị dị iche iche"
+  ]
+}

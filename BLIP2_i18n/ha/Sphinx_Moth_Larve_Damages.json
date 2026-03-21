@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "pest_name": "KCharselect unicode block name",
+  "stage": "@ action",
+  "common_name": "QShortcut",
+  "description": "Sau da yawa ana kiran wutar lantarki a bakin teku da ke kusa da teku.",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "Sa'ad da suke tafiya, su kan tashi, kuma a wasu lokatai ' ya'yan itatuwa masu yawa",
+    "Za a iya yin amfani da na'ura idan aka yi ruwan sama",
+    "A yawancin lokaci, mutane sukan yi amfani da abubuwan da ba su dace ba ko kuma su yi tunani sosai a kan abubuwan da ba su dace ba",
+    "Za su iya raunana shuke - shuke kuma su rage gona cikin shuke - shuke kamar su shan taba da taba da kuma wasu abubuwa masu kyau"
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon.",
+    "Ashe, zai yiwu a sãmi littãfi ba'ajame da Manzo Balãrabe?\"",
+    "MGBOKO UMUORIA 7 (Igbo)",
+    "Wasu Abubuwan da Ke Kawo Farin Ciki a Iyali"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "KCharselect unicode block name",
+    "Yin amfani da abubuwan da aka samo daga kano",
+    "' Yan zane kamar tsuntsaye da kuma zane - zane"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "Sau da yawa ana rikice da wata babbar ma'aikata mai girma; ka duba busa ƙaho da ke bakin teku.",
+    "Ana mai da hankali musamman a kan abubuwan da ake gani da rana, yayin da manya suke da amfani."
   ]
 }

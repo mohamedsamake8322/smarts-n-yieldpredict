@@ -1,41 +1,41 @@
 {
-  "pest_name": "Lesser Cornstalk Borer",
-  "scientific_name": "Elasmopalpus lignosella",
-  "pest_type": "insect",
-  "order": "Lepidoptera",
+  "pest_name": "Moins de Cornstalk Borer",
+  "scientific_name": "Élasmopalpus lignosella",
+  "pest_type": "Insecte",
+  "order": "Lépidoptères",
   "family": "Pyralidae",
-  "description": "The lesser cornstalk borer is a moth whose larvae attack the lower stems of many crops. The larvae bore into stems near the soil surface, damaging seedlings and young plants. Severe infestations can cause plant death and significant yield reduction.",
+  "description": "Les larves ont percé dans les tiges près de la surface du sol, endommageant les semis et les jeunes plantes. Les infestations graves peuvent causer la mort des plantes et une réduction significative du rendement.",
   "hosts": [
-    "Corn",
-    "Peanut",
-    "Soybean",
-    "Sorghum",
-    "Various legumes"
+    "Maïs",
+    "Tourteaux",
+    "Soja",
+    "Sorgho",
+    "Différentes légumineuses"
   ],
   "damage": [
-    "Larvae bore into stems near soil line",
-    "Wilting and death of seedlings",
-    "Stunted growth",
-    "Reduced plant population"
+    "Les larves percent dans les tiges près de la ligne du sol",
+    "Wilting et la mort des semis",
+    "Croissance assourdie",
+    "Réduction de la population végétale"
   ],
   "life_cycle": [
-    "Egg",
-    "Larva (damaging stage)",
+    "Oeufs",
+    "Larve (stade de dégradation)",
     "Pupa",
-    "Adult moth"
+    "Mèthe adulte"
   ],
   "spread": [
-    "Adult moth flight",
-    "Movement of infested plant debris or soil"
+    "Vol de papillons de nuit adultes",
+    "Mouvement de débris végétaux ou de sols infestés"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate soil moisture",
-      "Rotate crops",
-      "Remove crop residues"
+      "Maintenir une humidité adéquate du sol",
+      "Cultures en rotation",
+      "Enlever les résidus de culture"
     ],
     "chemical": [
-      "Apply soil insecticides when infestations are severe"
+      "Appliquer des insecticides dans le sol lorsque les infestations sont graves"
     ]
   }
 }

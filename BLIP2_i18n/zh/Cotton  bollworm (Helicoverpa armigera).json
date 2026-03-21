@@ -1,84 +1,84 @@
 {
-  "pest_name": "Cotton Bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Helicoverpa armigera, known as the cotton bollworm, is a highly polyphagous moth pest distributed across Africa, Europe, Asia, Australia, and South America. The larval stage feeds on leaves, buds, flowers, fruits, and seeds of many crops, causing severe economic losses. Adults are capable of long-distance migration, allowing rapid spread and multiple generations per year in warm climates.",
+  "pest_name": "棉花虫",
+  "scientific_name": "直升机武装武装直升机",
+  "pest_type": "昆虫",
+  "description": "被称为棉花虫的阿米热卡(Hellicoverpa afrigera)是一种高多元虫虫害虫,分布在非洲、欧洲、亚洲、澳大利亚和南美洲。 幼虫阶段依靠叶子、芽子、鲜花、水果和许多作物的种子为生,造成严重的经济损失。 成年人能够长途迁徙,在温暖的气候下能够迅速蔓延,每年多代人。",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "棉花棉花",
+    "番茄",
+    "成熟",
+    "恰克比亚",
+    "梨",
+    "大米稻米",
+    "高 orghum",
+    "考比亚",
+    "豆类",
+    "马铃薯",
+    "奥克拉",
+    "青豆",
+    "烟草"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "树叶和鲜花的洞洞",
+    "荒凉无味于水果或豆类",
+    "早产水果或花朵",
+    "造成质量低劣的破棉布",
+    "水果或谷物中存在裂谷和进食隧道"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae overwinter in colder climates.",
-    "adults": "Adults are light brown moths with a wingspan of about 3.5–4 cm and live about 10 days.",
-    "generations_per_year": "Up to 11 generations per year in warm climates."
+    "eggs": "黄白蛋放在叶子、芽子、鲜花或水果上,蛋在3至11天内孵化。",
+    "larvae": "通过几颗恒星喂食19至36天,造成主要厂房损坏。",
+    "pupae": "在土壤或植物残块中发生潮湿;在寒冷的气候中,幼虫会过冬。",
+    "adults": "成人是浅棕蛾,翅膀宽约3.5至4厘米,活约10天。",
+    "generations_per_year": "在温暖的气候下,每年高达11代。"
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea and other crops. Larvae damage reproductive plant parts and reduce both yield and product quality. Secondary infections by fungi and bacteria may occur in damaged fruits.",
+  "economic_significance": "害虫导致棉花、番茄、玉米、小鸡pea和其他作物的产量严重损失,大鼠破坏生殖植物的部件,降低产量和产品质量,真菌和细菌的二级感染可能发生在受损水果中。",
   "management": {
     "monitoring": [
-      "Regular scouting for eggs, larvae, and feeding damage",
-      "Use pheromone traps to monitor adult populations",
-      "Light traps can also help detect moth activity"
+      "定期侦察鸡蛋、幼虫和喂养损害",
+      "使用pheomone 陷阱来监测成年人口",
+      "灯光捕捉器还可以帮助探测飞蛾活动"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "非东道作物作物轮作",
+      "作物残留物和杂草的清除",
+      "收割后深入耕种,以摧毁小狗",
+      "使用向日葵或金刚石等陷阱作物"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae and eggs",
-      "Using traps and physical barriers",
-      "Removal of infested fruits or plant parts"
+      "手工挑选和销毁幼虫和卵",
+      "使用陷阱和有形屏障",
+      "清除渗入的水果或植物部件"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea (entomopathogenic fungus)"
+        "Helicoverpa nucleopopolyhedro病毒(HANPV)",
+        "以幼虫为攻击目标的Baculo病毒物种",
+        "硫丹海(异虫病原真菌)"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "敌百虫黄蜂(Egg 寄生虫黄蜂)",
+        "Habrobracon 教唆者(幼寄生虫)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control should be used as part of Integrated Pest Management (IPM) and only when pest populations exceed economic thresholds.",
+      "note": "化学品控制应作为综合虫害管理的一部分使用,并且只有在害虫人口超过经济阈值时才使用。",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "脊柱状",
+        "Emmectin 苯甲酸",
+        "印毒carb",
+        "Lambda-cyhalotsrin(辛巴威辛)",
+        "氯氯化物"
       ]
     },
     "genetic_control": [
-      "Cultivation of Bt cotton expressing Bacillus thuringiensis toxins (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+      "种植Bt 棉花,表示二丁基毒素(Cry1Ab、Cry1Ac、Cry2Ab、Vip3A)"
     ]
   },
   "references": [
-    "CABI. Cotton Bollworm (Helicoverpa armigera) – Crop Pest Management Information.",
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "FAO. Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "CABI. 棉花虫(Helicoverpa afrigera) - 作物害虫管理信息。",
+    "维基百科的撰稿人 维基百科自由百科全书",
+    "粮农组织,《虫害综合管理准则》。",
+    "植物知识银行-害虫管理建议。"
   ]
 }

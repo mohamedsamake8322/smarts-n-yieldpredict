@@ -1,85 +1,85 @@
 {
-  "pest_name": "Cotton_Adult_Bollworm",
-  "common_name": "Cotton bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Cotton bollworm (Helicoverpa armigera) is a highly destructive agricultural pest widely distributed across Africa, Europe, Asia, Australia, and South America. The adult moth itself does not directly damage crops, but it lays eggs on host plants. The larvae that emerge feed on leaves, buds, flowers, fruits, and seeds of many economically important crops. Due to its high reproductive capacity and strong migratory ability, this pest can spread rapidly and produce multiple generations per year in warm climates.",
+  "pest_name": "K_ar ka Goge",
+  "common_name": "QShortcut",
+  "scientific_name": "@ item Spelling dictionary",
+  "pest_type": "QShortcut",
+  "description": "Wata ' yar'uwa mai kama da \" ya'yan itacen zaitun (Wanda ya gina ta) tana da faɗi a gabashin Afirka, Turai, Asiya ta Kudu, da Amirka ta Kudu; ta faɗi amfanin gona, ba za ta iya bada amfanin gona ba, amma yadda za ta iya ciyar da shuke - shuke masu yawa a wannan shekara.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "QShortcut",
+    "QShortcut",
+    "Indian National weekday 7 - LongDayName",
+    "Indian National month 5 - LongName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ethiopian month 5 - LongName",
+    "Ethiopian weekday 3 - LongDayName",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "Ethiopian month 7 - LongName",
+    "KCharselect unicode block name"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "Da shuke-shuke da matsayi mai kyau",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "@ item Spelling dictionary",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers, or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae can overwinter in colder climates.",
-    "adult": "Adult moths are light brown with a wingspan of about 3.5–4 cm. Adults live around 10 days and females can lay hundreds to thousands of eggs."
+    "eggs": "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "larvae": "Wata ' yar'uwa da take cin abinci na kwanaki goma sha biyar a cikin teku kuma tana sa tsiron ya yi ɓarna.",
+    "pupae": "Idan aka yi ruwan sama a ƙasa ko kuma aka yi ruwa, za a iya yin ruwan sama.",
+    "adult": "Masu zane - zane suna da haske a kan ƙafa guda uku na rana 10 da kuma ' yan mata da yawa."
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea, and other crops. Larvae attack reproductive plant parts and reduce yield and quality. Damage can also allow secondary fungal and bacterial infections.",
+  "economic_significance": "Ainihin abin da ke kawo hasara mai tsanani cikin rashin aiki, rashin la'ana, da kuma wasu shuke - shuke.",
   "management": {
     "monitoring": [
-      "Regular field scouting for eggs and larvae",
-      "Use pheromone traps to detect adult moth activity",
-      "Monitor plant damage in buds, fruits, and flowers"
+      "Ku riƙa motsa jiki a kai a kai sa'ad da ake noman hatsi da rana",
+      "Ka yi amfani da tarkuna guda don ka gano ayyukan girma da suka fi girma",
+      "shuke - shuke suna ɓarna a cikin daji, ' ya'yan itatuwa, da furanni"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+      "' Ya'yan inabi da zawan",
+      "Sa'ad da kake son ka gama tseren, ka yi amfani da shi a hanyar da ba ta dace ba",
+      "Ka yi amfani da irin waɗannan shuke - shuke kamar su rana da ake amfani da su ko kuma wasu abubuwa masu kama da rana"
     ],
     "mechanical_control": [
-      "Handpicking and destroying eggs and larvae",
-      "Removing infested fruits and plant parts",
-      "Installing pheromone or light traps"
+      "Sa'an nan Ya daidaita ta, kuma Ya hũra a cikinsa, daga ruhinSa kuma Ya sanya muku ji, da ganunuwa da zukãta.",
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+      "Yin Amfani da Shi Yadda Ya Kamata"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea"
+        "@ item Text character set",
+        "KCharselect unicode block name",
+        "@ item Spelling dictionary"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Tsãwa mai tsanani (Ka duba wata ƙungiyar Jehobah)",
+        "Ḥ. M̃."
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used within an Integrated Pest Management strategy and only when pest populations exceed economic thresholds.",
+      "note": "Ya kamata a yi amfani da abubuwan da ba su dace ba a wurin da ake yin amfani da su don a yi amfani da su a hanyar da ba ta dace ba da kuma a lokacin da tattalin arziki ya wuce tattalin arziki.",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "Indian National weekday 3 - LongDayName",
+        "KCharselect unicode block name",
+        "KCharselect unicode block name",
+        "An la'ani mãsu ƙiri-faɗi.",
+        "KCharselect unicode block name"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "Wani littafin nan The New International Encyclopedia.",
+    "IGWURUTA ALI 9 (Turanci)",
+    "MGBOKO UMUORIA 1 (Igbo)",
+    "Sanin Hikima Yadda Za a Iya Yin Amfani da Shi a Nan Gaba."
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
-    "https://www.cabi.org"
+    "@ item Spelling dictionary",
+    "@ item Text character set"
   ]
 }

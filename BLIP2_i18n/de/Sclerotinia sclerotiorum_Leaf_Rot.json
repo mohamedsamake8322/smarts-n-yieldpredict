@@ -1,0 +1,87 @@
+{
+  "disease": "Sklerotinia Blattrot",
+  "scientific_name": "Sklerotinia sclerotiorum",
+  "pathogen_type": "Pilze",
+  "description": "Sklerotinia Blattfäule ist eine Pilzkrankheit, die viele Kulturen betrifft. Der Pilz infiziert Blätter und Stängel unter kühlen und nassen Bedingungen. Es produziert weiße baumwolleähnliche Schimmel und schwarze Überlebensstrukturen genannt Sklerotia.",
+  "symptoms": [
+    "Wassergetränkte Stellen auf Blättern",
+    "Blätter werden gelb und verwelken",
+    "Weiche Fäule auf infiziertem Blattgewebe",
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf Blättern oder Stängeln",
+    "Schwarze Samen-ähnliche Sklerotie bilden sich in infizierten Gebieten",
+    "Blätter kollabieren und sterben"
+  ],
+  "visual_symptoms": [
+    "weiße flauschige Form auf Blättern",
+    "weiche wässrige Blattfäule",
+    "Schwarze Sklerotie im Inneren Pilzwachstum",
+    "kollabierte oder verwelkte Blätter"
+  ],
+  "hosts": [
+    "Kopfsalat",
+    "Bohnen",
+    "Erbsen",
+    "Tomaten",
+    "Sonnenblume",
+    "Kohl",
+    "Karotten",
+    "Sellerie",
+    "Gurken",
+    "Viele Zierpflanzen"
+  ],
+  "plant_parts_affected": [
+    "Blätter",
+    "Stängel",
+    "Blattläuse"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Längere Blattnaßigkeit",
+    "Dichtes Pflanzendach",
+    "Schlechte Luftzirkulation"
+  ],
+  "spread": [
+    "Sporen aus der Luft aus der Apothezie",
+    "Sklerotie im Boden",
+    "Infizierte Pflanzenabfälle",
+    "Wasserspritzen oder Wind"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt im Boden als Sklerotie seit mehreren Jahren",
+    "Sclerotia keimen und produzieren becherförmige Apothezie",
+    "Apothecia lösen Sporen in die Luft",
+    "Sporen infizieren Blätter bei nassen Bedingungen",
+    "Neue Sklerotie-Form auf infizierten Pflanzen und Rückkehr in den Boden"
+  ],
+  "impact": [
+    "Blattfäule und Pflanzenschwächung",
+    "Reduzierte Photosynthese",
+    "Niedrigere Ernteerträge",
+    "Möglicher Pflanzenkollaps bei schweren Infektionen"
+  ],
+  "cultural_control": [
+    "Befallene Pflanzen schnell entfernen",
+    "Verbesserung des Anlagenabstands und des Luftstroms",
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Entferne infizierte Pflanzenreste aus Feldern"
+  ],
+  "biological_control": [
+    "Verwenden Sie Biokontrollpilze wie Coniothyrium minitans",
+    "Benutze wohltuende Mikroben wie Trichoderma-Arten"
+  ],
+  "chemical_control": [
+    "Bei hohem Krankheitsrisiko registrierte Fungizide anwenden",
+    "Präventive Fungizidsprays unter feuchten Bedingungen"
+  ],
+  "prevention": [
+    "Überfüllte Pflanzung vermeiden",
+    "Überwachen Sie die Kulturen während der kühlen und feuchten Jahreszeiten",
+    "Praxis Fruchtfolge",
+    "Integriertes Seuchenmanagement nutzen"
+  ],
+  "source": [
+    "Leitfaden für Pflanzenpathologie",
+    "Mittel für die Erweiterung der Landwirtschaft"
+  ]
+}

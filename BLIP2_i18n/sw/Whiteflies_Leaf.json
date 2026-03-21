@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
-  "scientific_name": "Bemisia argentifolii",
+  "pest_name": "Mwisho wa Whitefly",
+  "scientific_name": "Mwisho wa Argenti",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "Mafuta ya Whitefly",
+    "Mwisho wa Whitefly"
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "Watoto ni muda wa 1.5 mm, mavuno na nyama, nyama za kijani; nymphs ni oval, translucent au yellow. instar ya mwisho inajulikana kama 'nymph ya macho ya kijani'.",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "Mazao ya Cole (broccoli, cabbage, cauliflower, kale, kohlrabi, china cabbage, Brussels sprouts)",
+    "Vitu vingine vya matunda kama wateja wa ajali"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "Kupata safi inazidi kukua na kukua kwa haraka",
+    "Uchafu wa wanyama husaidia kuongezeka kwa muundo, kupunguza photosynthesis",
+    "Maua ya nyama na nyama ya pepe katika broccoli (nyama ya bia)"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "Nyama zilizotumika juu ya nyama za chini",
+    "Siku ya kwanza (crawler) ni mobile; nymph ya baadaye ni sessile",
+    "Mtazamo wa mwisho (pupa/red-eye) unahesabiwa kwa watu wazima",
+    "Wanawake wanaweza kuondoka kwa urahisi wakati mimea huathiriwa"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "Kwa bahari na uhamiaji kutoka kwa matunda ya karibu",
+    "Mchakani ya kuongezeka kwa njia ya vifaa au wafanyakazi",
+    "Idadi ya wakazi inaongezeka kwa haraka wakati wakazi wa karibu wanaongezeka"
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "Utafiti wa mipaka 2x / wiki (Aug-Oct) au kila wiki (Nov-Mar)",
+    "Mchakato wa kijani husaidia kutambua uhamiaji wa awali",
+    "Kutoa juu ya tiketi ili kuangalia nymphs"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "Kuanzisha kupanda au kuunda muda wa bure ili kupunguza infestation",
+      "Mazao ya mimea yanaongezeka kutoka kwa wauzaji wengine wa Whitefly",
+      "Uhifadhi wa afya: kuondoa mimea na mbegu ya mimea kwa haraka",
+      "Utawala na nitrogen ili kuepuka uzalishaji mbaya wa mimea kuongezeka kwa faida"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "Maumivu ya mimea (Encarsia, Eretmocerus)",
+      "Wapiganaji: mbegu ya kuvutia, larvae ya kuvutia, lady beetles",
+      "Maumivu ya Entomopathogenic: Beauveria bassiana, Isaria fumosorosea"
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "Kifungu cha Kifungu cha Kifungu cha Kifungu (Exirel, Verimark)",
+        "targets": "Wanawake",
+        "MOA_group": "28 ya"
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "Chlorantraniliprole (Koragen) kwa ajili ya",
+        "targets": "Wanawake",
+        "MOA_group": "28 ya"
       },
       {
-        "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
+        "name": "Maisha ya Dinotefuran (Venom)",
+        "targets": "Wanawake",
         "MOA_group": "4A"
       },
       {
-        "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
+        "name": "Maelezo ya Imidacloprid (Admire Pro)",
+        "targets": "ya Nymph",
         "MOA_group": "4A"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
+        "name": "Asetamiprid (Usalama wa 70 WP)",
+        "targets": "Nymphs / watu wazima",
         "MOA_group": "4A"
       },
       {
-        "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
+        "name": "Mifumo ya Mifumo ya Mifumo (Sivanto 200)",
+        "targets": "Wanyama na nymphs",
         "MOA_group": "4D"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
+        "name": "Mafuta ya Suluhisho (Sequoia CA)",
+        "targets": "Wanyama na nymphs",
         "MOA_group": "4C"
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
+        "name": "Maisha ya Thiamethoxam (Actara)",
+        "targets": "Nymphs / watu wazima",
         "MOA_group": "4A"
       },
       {
-        "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
+        "name": "Bifenthrin (Brigade ya 2EC)",
+        "targets": "Wanawake",
         "MOA_group": "3A"
       },
       {
-        "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "name": "Mchakato wa Mchakato (Movento)",
+        "targets": "ya Nymph",
+        "MOA_group": "23 ya"
       },
       {
-        "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "name": "Mchakato wa Mchakato (Oberon 2 SC)",
+        "targets": "ya Nymph",
+        "MOA_group": "23 ya"
       },
       {
-        "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
-        "MOA_group": "16"
+        "name": "Buprofezin (Courier ya SC)",
+        "targets": "ya Nymph",
+        "MOA_group": "16 ya"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "Sababu ya insecticide",
+        "targets": "Nymphs na watu wazima",
+        "mode": "Mawasiliano ya"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "Mafuta ya rangi ya chini (Omni Oil, JMS Stylet-Oil)",
+        "targets": "Nymphs na watu wazima",
+        "mode": "Kuwasiliana / kuhifadhi"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "Beauveria bassiana na Isaria fumosorosea kwa usimamizi wa nymph",
+      "Sababu ya insecticide na mafuta ya rangi ndogo",
+      "Mchakato wa Burkholderia spp. (Venerate)"
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "Rotate insecticides na makundi tofauti ya mode-of-action",
+      "Ufanisi wa kuhifadhi na wakati wa maombi"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "Hatari haifanyiwa vizuri; katika maeneo ya asili au yasiyo ya matibabu, matibabu ya mipaka ni bora ikiwa infestation ni ya juu kwenye mipaka."
 }

@@ -1,0 +1,123 @@
+{
+  "pest_name": "የሽያጭ የሽያጭ",
+  "order": "የቴክኖሎጂ",
+  "family": "ፎቶዎች",
+  "type": "መሳሪያዎች",
+  "description": {
+    "size": "1–1.5 ሚሜ (0.03–0.06 ኢንች)",
+    "body": "ቀዝቃዛ, ቀዝቃዛ ወይም ቀዝቃዛ, ሁለት ቀዝቃዛ, ቀዝቃዛ ቀዝቃዛ",
+    "mouthparts": "አሲሚሜቲክ; የፕላስቲክ አጠቃቀም እና የፕላስቲክ አጠቃቀም",
+    "species_of_major_concern": [
+      "የአውሮፕላኖች (Frankliniella occidentalis)",
+      "የኦሪጂናል ፎቶዎች (Thrips tabaci)"
+    ]
+  },
+  "hosts": {
+    "ornamentals": [
+      "የክሬንቲክ",
+      "ቻይና",
+      "የክክሌት",
+      "የላኪያ",
+      "የንግድ",
+      "ፎቶዎች",
+      "ግምገማ",
+      "የሊያ",
+      "መኖሪያ ቤት",
+      "መኖሪያ ቤት",
+      "ጓደኛ",
+      "የንግድ",
+      "ኮሊስ",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "የካፕቲክ Annuum",
+      "መኖሪያ ቤት x hiemalis",
+      "ፎቶዎች"
+    ],
+    "vegetables": [
+      "ደንበኞች",
+      "የቶማስ",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "የንግድ",
+      "ጓደኛ ጓደኛ",
+      "የላኪያ",
+      "ምርቶች",
+      "የኦሪጂናል",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "መጋቢት",
+      "ፎቶዎች",
+      "አዝናኝ",
+      "ፎቶዎች"
+    ]
+  },
+  "damage": {
+    "direct_feeding": "የፕላስቲክ መሣሪያዎች እና የፕላስቲክ መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች",
+    "feeding_preferences": {
+      "Western flower thrips": "ፎቶዎች እና ፎቶዎች; ፎቶዎች / ፎቶዎች ፎቶዎች ፎቶዎች",
+      "Japanese flower thrips": "ፎቶዎች የመጀመሪያው ነው; በክፍያዎች ውስጥ ሊሆን ይችላል"
+    },
+    "secondary_effects": "የሽያጭ በ Botrytis በሽያጭ ላይ ሊሆን ይችላል."
+  },
+  "virus_transmission": {
+    "vector": [
+      "የአውሮፕላኖች Flower Thrips",
+      "የኦሪጂናል ንድፍ",
+      "Japanese flower thrips (TSWV ብቻ)"
+    ],
+    "viruses": [
+      "የኦሪጂናል የኦሪጂናል የኦሪጂናል (TSWV)",
+      "Impatiens Necrotic Spot Virus (አንሲቪ)"
+    ],
+    "mechanism": "የመጀመሪያው ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ",
+    "host_plants": [
+      "የክሬንቲክ",
+      "ቻይና",
+      "የክክሌት",
+      "የላኪያ",
+      "የንግድ",
+      "ፎቶዎች",
+      "ግምገማ",
+      "የሊያ",
+      "መኖሪያ ቤት",
+      "መኖሪያ ቤት",
+      "ጓደኛ",
+      "የንግድ",
+      "ኮሊስ",
+      "ፎቶዎች",
+      "ፎቶዎች"
+    ]
+  },
+  "symptoms_of_virus_infection": [
+    "የክሎሮቲክ ወይም የክሮቲክ ፎቶዎች",
+    "ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+    "የክፍያ, የክፍያ, የክፍያ, የክፍያ, የክፍያ",
+    "ግምገማዎች",
+    "ልምድ ፎቶ மரணம்"
+  ],
+  "regulatory_status": {
+    "TSWV": "የተመሠረተ Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
+    "INSV": "የተመሠረተ Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+  },
+  "life_cycle": {
+    "reproduction": "አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ አዝናኝ",
+    "notes": "የአውሮፕላኖች የተመሠረተ ምርቶች የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ ምርቶች"
+  },
+  "management": {
+    "cultural": [
+      "የፕላስቲክ መሣሪያዎች ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ",
+      "የኃይል አቅርቦት እና የኃይል አቅርቦት የኃይል አቅርቦት",
+      "የኃይል አቅርቦት የኃይል አቅርቦት የኃይል አቅርቦት"
+    ],
+    "chemical": [
+      "የሽያጭ መሳሪያዎች ይሰጣሉ; የ lokal guidelines እና label instructions ይሰጣሉ"
+    ],
+    "integrated": "የሙዚቃ መቆጣጠሪያ, የሙዚቃ መቆጣጠሪያ, የሙዚቃ መቆጣጠሪያ, የሙዚቃ መቆጣጠሪያ, የሙዚቃ መቆጣጠሪያ"
+  },
+  "references": [
+    "UK Ornamental Crop Guides: የተጠበቀ የኦሪጂናል መሳሪያዎች ውስጥ መቆጣጠሪያዎች",
+    "Colorado State University Extension, Pest Notes: ጓደኛ እና ጓደኛ ውስጥ ጓደኛ"
+  ]
+}

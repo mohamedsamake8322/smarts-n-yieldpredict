@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
-    "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "disease": "Flea Beetle Çerçeve",
+    "scientific_name": "Hocam spp .",
+    "pathogen_type": "Böcekler (biolojik kontrol ajanı)",
+    "description": "Küçük bitkiler, Euphorbia esula'ya karşı biyolojik kontrol böcekler olarak kullanılır.Larvae, yetişkinler yaprakları tüketirken kökleri besler, bitkinin büyümesini ve üremeyi azaltır.",
+    "hosts": [
+      "Euforbya Esula",
+      "Leaf Spurge Hakkında"
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "Yetişkin bitkiler tarafından tüketilen yapraklar",
+      "Bitki büyümesi ve çiçeklenmesi",
+      "Zamanla zayıflamış veya ölmüş bitkiler"
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "Bahar ve yaz sıcaklıkları",
+      "iyi ıslatılmış topraklar larval gelişimini teşvik eder"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "Yetişkin yavruların doğal hareketleri",
+      "Biyolojik kontrol programları için insan tanıtımı"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "Bir biyolojik kontrol aracı olarak kullanılır.",
+      "Aphthona nüfusunu öldürebilecek pestisitlerden kaçının",
+      "Topluluk kurulumu ve yayılmasını izlemek"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "Uygulamayan: Biyolojik kontrol ajanı olarak kullanılır"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "Sürdürülebilir kontrol için sağlıklı beetle nüfusları korumak",
+      "Seçimsiz pestisitlerin uygulanmasını önlemek"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "CABI invaziv türleri Compendium",
+      "USDA Leaf Spurge Biyolojik Kontrol Programı"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
+    "disease": "Daha az Cornstalk Borer",
     "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "pathogen_type": "Böcekler (phytophagous larva)",
+    "description": "Çoğunlukla tereyağı, sorghum ve diğer tahılların çamurlarını ve köklerini saldırıya uğrayan bir caterpillar, bu da genç tohumların yırtılmasını ve ölümüne neden olur.",
+    "hosts": [
+      "Maize",
+      "Özürler",
+      "Şekerli",
+      "Tohumlar",
+      "Bean tohumları"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "Genç bitkilerin yeşillendirilmesi ve sarılması",
+      "Çamur tabanında delikler ve tüneller",
+      "Ölü veya zayıflatılmış bitkiler"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "Kuru ve kumlu topraklar",
+      "Sıcak ve kuru iklimler yumurta dökülmesini destekler",
+      "Yetiştirilmiş bitkiler"
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "Yumurtalar toprakta veya bitkilerin temelinde yerleştirilir.",
+      "Larvae, genç çamurlara saldırı düzenliyor",
+      "Enfekte bitkilerin veya bitki malzemelerinin hareketleri"
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "Ev sahibi olmayan bitkilerle bitki dönüşü",
+      "Enfekte bitki kalıntılarının kaldırılması",
+      "Genç tohumları korumak için derin bitki yetiştirme"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "Sistemik veya toprakta uygulanan böcek ilacı (örneğin, Chlorpyrifos, Imidacloprid)",
+      "Önceki Önceki yazı: Seedling Emergency"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "Kullanılabilir olduğunda toleranslı bitki çeşitleri",
+      "Toprakları bitki çöpleri olmadan koruyun",
+      "Genç bitkileri izlemek ve enfeksiyon ortaya çıktığında erken tedavi etmek"
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "CABI Bitki Koruma Ödülü",
+      "FAO Pest Gerçek Listesi"
     ]
   }
 ]

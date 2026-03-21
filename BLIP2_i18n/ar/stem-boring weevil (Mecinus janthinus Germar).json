@@ -1,69 +1,81 @@
 {
-  "pest_name": "Stem-Boring Weevil",
-  "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "pest_name": "ستم - تُنْشِل",
+  "scientific_name": "(ج) (أ) (أ)(أ)(أ)(أ)(أ)(أ)(أ)(أ)(أ)(أ)(أ)((أ)((أ)((أ)((أ)((أ)(((((((((((((((((((((((((((((((((((((((((((((((((",
+  "type": "الزراعـة",
+  "native_range": [
+    "أوروبا",
+    "آسيا"
+  ],
+  "introduced_range": [
+    "الولايات المتحدة الأمريكية"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "أصفر إلى أصفر فلافلاكس (ليناريا فولغاريس)"
+    ],
+    "secondary": [
+      "دالماتيان إلى أفلاكس (الليناريا دالالماتسا)"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م",
+      "shape": "::"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "C- على شكل",
+      "color": "كريمات - بيضاء",
+      "head_capsule": "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م أ م",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "كريمات - بيضاء",
+      "features": [
+        "عدد الصفحات",
+        "طويل طويل"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "بلونيش - أسود - أسود (أخضر في الأخضر - أسود)",
+      "length_mm": "٢-٤-",
+      "shape": "ممتدة بفترات طويلة وهويات مرفقة",
+      "metallic_sheen": "عندما ظهرت حديثاً، كانت مملة مع العمر",
+      "comparison": "أصغر وأقل انحنارات منحنى بشكل مفاجئ من M. Janthiniformis"
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "في السنة السابقة من سنوات السنة الماضية",
+    "spring_emergence": "في أوائل الربيع، يتفاوت التوقيت حسب العوامل الخاصة بكل موقع",
+    "adult_feeding": "أطماط وأوراق إطلاق جديدة، تنتج نمطا لإصابة في ثقب رصاصة",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "تمضغ الإناث الثقوب في الجينات، تضع البيض بالتفرد، تغطي مع أنسجة نباتية ممضغة",
+      "quantity_per_lifetime": "60 - 160 تحت شروط المختبر"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "3 في النجوم، اللغم الأسفل في الأنفاق",
+    "pupation": "منتصف الصيف في أنفاق اليرق",
+    "adult_emergence": "في وقت متأخر من الصيف، فوق الشتاء داخل غرفتين"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "المضغات التي تزرع الإكراميات، السلاسل، الأوراق",
+      "(أ) معدل إصابة",
+      ":: تُضعف النباتات، وتُهدد الأزهار، وتُنتج البذور؛",
+      "تبادل إطلاق النار، تبادل إطلاق النار، تبادل إطلاق النار"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "المناجم المستخرجة من الألغام، التي تقطع أنسجة المياه/المغذيات المتناولة",
+      "- جفاف ووفاة الأنسجة النباتية",
+      "(أ) ما يترتب على ذلك من استنفاد لاحتياطيات المغذيات الأساسية، مما يؤثر على بقاء النباتات"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "الهجوم السنوي المتكرر يقلّل من كثافة نُبَّة التفريض"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "عامل المكافحة البيولوجية المستخدم ضد التضخيم الغازي في أمريكا الشمالية",
+    "رصد ظهور البالغين في الربيع يمكن أن يسترشدوا باستراتيجيات الإدارة",
+    "يدعم التخفيض الطويل الأجل في عدد السكان الذين يعانون من طفط ط ط ط ط ط ط"
   ],
   "references": [
-    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+    "() Sing, S.E., De Clerck-Floate, R.A., Randal, C.B., Toschevski, I. 2022."
   ]
 }

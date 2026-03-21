@@ -1,0 +1,77 @@
+{
+  "disease_name": "Tomate Gelb Blatt Curl Virus",
+  "type": "Viruserkrankung",
+  "causal_agent": "Tomatengelbblattlockenvirus (TYLCV), Gattung Begomovirus, Familie Geminiviridae",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Auberginen (Solanum melongena)",
+      "Kartoffeln (Solanum tuberosum)",
+      "Tabak (Nicotiana-Arten)",
+      "Bohnen (Phaseolus vulgaris)",
+      "Pfeffer (Capsicum annuum)"
+    ],
+    "weeds": [
+      "Datura stramonium",
+      "Malva parviflora"
+    ]
+  },
+  "distribution": "Weltweit, insbesondere tropische und subtropische Regionen",
+  "vector": {
+    "species": "Bemisia tabaci (Weißfliege aus Silberblatt oder Süßkartoffel)",
+    "transmission_type": "persistent-zirkulierend, nicht propagativ",
+    "notes": [
+      "Zugangsdauer: 15–20 Minuten",
+      "Latenzzeit: 8–24 Stunden",
+      "Frauen übertragen Viren effizienter als Männer",
+      "Transovariale Übertragung über zwei Generationen beobachtet",
+      "Sexuelle Übertragung zwischen weißen Fliegen dokumentiert"
+    ]
+  },
+  "symptoms": {
+    "foliage": [
+      "Schweres Stunting",
+      "Verringerung der Blattgröße",
+      "Nach oben schnüren/häkeln von Blättern",
+      "Chlorose auf Blättern und Blüten"
+    ],
+    "fruit": [
+      "Verringerte Fruchterzeugung",
+      "Verzerrte Früchte"
+    ],
+    "overall_impact": "Ertragsverluste von 90–100 % bei schweren Ausbrüchen möglich"
+  },
+  "disease_cycle": [
+    "Virus über infizierte Sämlinge, kontaminierte Werkzeuge oder Whitefly-Vektor eingeführt",
+    "Sobald festgestellt, verbreiten Whiteflies Virus schnell von Pflanze zu Pflanze",
+    "Virus bleibt in alternativen Wirten, einschließlich Unkraut und anderen Kulturpflanzen",
+    "Umweltfaktoren wie warme tropische Klimazonen begünstigen die Virusproliferation"
+  ],
+  "management": {
+    "cultural": [
+      "Pflanzen TYLCV-resistente oder tolerante Tomatensorten",
+      "Pflanzen auf Nichtwirte umdrehen, um Inokulum zu reduzieren",
+      "Beseitigung oder Kontrolle von Unkrautwirten",
+      "Nutzung der Gewächshausproduktion zur Verringerung des Vektorzugangs"
+    ],
+    "chemical": [
+      "Insektizide auf Bemisia tabaci anwenden, rotieren oder Wirkstoffe mischen, um Resistenzen zu verhindern",
+      "Timing von Anwendungen ist aufgrund der schnellen Virusübertragung durch Whiteflyen von entscheidender Bedeutung"
+    ],
+    "genetic": [
+      "Züchtung oder transgene Ansätze zur Herstellung von TYLCV-resistenten Tomatenlinien"
+    ]
+  },
+  "notes": [
+    "TYLCV ist eine der schwerwiegendsten Viruserkrankungen von Tomaten weltweit",
+    "Die Entwicklungsländer sind aufgrund des Klimas und der hohen Kontrollkosten am stärksten betroffen",
+    "Integriertes Schädlingsmanagement, das resistente Sorten, Vektorkontrolle und kulturelle Praktiken kombiniert, ist am effektivsten"
+  ],
+  "references": [
+    "Czosnek, H. & Laterrot, H. 1997. Tomato gelbes Blattlockenvirus, ein neu entstehender Viruskomplex, der weltweit Epidemien verursacht. Adv Virus Res 47: 85–138.",
+    "Polston, J.E. & Lapidot, M. 2007. Verwaltung des Tomato Yellow Leaf Curl Virus: Ein Review. Plant Dis 91: 125–134.",
+    "Brown, J.K., 2015. Der Bemisia-Tabaci-Artenkomplex und TYLCV-Übertragung. Virus Res 202: 150–162."
+  ]
+}

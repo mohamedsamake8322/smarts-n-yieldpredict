@@ -1,71 +1,71 @@
 {
-  "disease_name": "Alternaria_Leaf_Spot",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
+  "disease_name": "Alnaria_Leaf_Spot",
+  "pathogen_type": "Kuvu",
+  "genus": "Altaniria",
   "common_species": [
-    "Alternaria solani",
-    "Alternaria alternata",
-    "Alternaria brassicae",
-    "Alternaria brassicicola",
-    "Alternaria melongenae"
+    "Altania solani",
+    "Altaniria formata",
+    "Mwanaria shabacae",
+    "Alternaria berguricicola",
+    "Altania melomenae"
   ],
   "affected_crops": [
-    "Tomato",
+    "Nyanya",
     "Potato",
-    "Eggplant",
-    "Pepper",
-    "Lettuce",
-    "Brassica crops (cabbage, broccoli, mustard)",
-    "Pomegranate",
-    "Many ornamental and wild plants"
+    "Kupanda Mayai",
+    "Pilipili",
+    "Letuce",
+    "Mimea ya Brasica (cabbage, brokoli, haradali)",
+    "Pomegrate",
+    "Mimea mingi ya fahari na ya mwitu"
   ],
   "symptoms": [
-    "Small brown to black spots on leaves",
-    "Spots often have concentric rings forming a 'target-like' pattern",
-    "Yellow halo around lesions",
-    "Lesions enlarge and may merge together",
-    "Leaf yellowing and premature leaf drop",
-    "Severe infections can reduce plant growth and yield"
+    "Alama ndogo za kahawia hadi nyeusi kwenye majani",
+    "Mara nyingi mapambo huwa na pete zenye umbo la pia zinazofanyiza mtindo wa \"kielelezi'",
+    "Maganda ya manjano kuzunguka vidonda",
+    "Lenzi hupanuka na kuungana",
+    "Jani lenye rangi ya manjano na jani lililokatwa kabla ya wakati",
+    "Magonjwa makali yanaweza kupunguza ukuzi wa mimea na kutokeza mazao"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity or prolonged leaf wetness",
-    "Frequent rain or overhead irrigation",
-    "Presence of infected plant debris"
+    "Halijoto yenye joto (20furahi30furahi1C)",
+    "Unyevu mkali au unyevu wa majani unaoendelea kwa muda mrefu",
+    "Mvua ya mara kwa mara au unyunyizaji wa maji juu ya ardhi",
+    "Kuwapo kwa mabaki ya mimea iliyoambukizwa"
   ],
   "disease_cycle": [
-    "The fungus survives in infected crop residues, seeds, and weeds",
-    "Spores are produced on infected tissues",
-    "Spores spread through wind, rain splash, irrigation water, and tools",
-    "Infection occurs when spores land on wet leaves",
-    "Multiple infection cycles can occur during a growing season"
+    "Kuvu hiyo hubaki katika mabaki ya mazao, mbegu, na magugu yaliyoambukizwa",
+    "Sporees hutokezwa juu ya tishu zilizoambukizwa",
+    "Soreshi walisambaza maji kupitia upepo, maji ya mvua, maji ya kunyunyizia mashamba, na vifaa",
+    "Ambukizo hutokea wakati chembe za urithi zinapotua juu ya majani yaliyolowa maji",
+    "Duru mbalimbali za maambukizo zaweza kutokea wakati wa kipindi cha ukuzi"
   ],
   "monitoring": [
-    "Inspect leaves regularly for brown or black spots",
-    "Look for concentric ring patterns on lesions",
-    "Monitor humidity and temperature conditions favorable to the disease"
+    "Majani yanayotunzwa kwa ukawaida kwa ajili ya madoa ya kahawia au meusi",
+    "Tafuta miundo ya pete iliyo katikati ya vidonda",
+    "Ubainiji wa unyevuanga na hali ya halijoto kwa habari ya maradhi hayo"
   ],
   "management": {
     "cultural": [
-      "Use certified disease-free seeds and planting materials",
-      "Practice crop rotation with non-host crops",
-      "Remove and destroy infected plant debris after harvest",
-      "Improve air circulation by proper plant spacing and pruning",
-      "Avoid overhead irrigation when possible"
+      "Tumia mbegu zisizo na magonjwa na vifaa vya kupanda",
+      "Fanya kazi kwa mzunguko wa mazao yasiyo ya asili",
+      "Ondoa na kuharibu mabaki ya mimea iliyoambukizwa baada ya mavuno",
+      "Kuboresha mzunguko wa hewa kwa kupanda na kupunguza matawi",
+      "Epuka unyunyizaji wa maji juu inapowezekana"
     ],
     "chemical": [
-      "Apply protective fungicides such as Mancozeb",
-      "Use Chlorothalonil-based fungicides",
-      "Copper-based fungicides can help reduce disease spread",
-      "Rotate fungicides with different FRAC groups to avoid resistance"
+      "Tumia dawa za kuzuia kuvu kama vile Mancozeb",
+      "Tumia dawa za kuua kuvu zinazoitwa Chlorothalonil",
+      "Kuvu zinaweza kupunguza kuenea kwa magonjwa",
+      "Kukomesha kuvu kwa vikundi tofauti - tofauti vya FRAC ili kuepuka kukinza"
     ],
     "biological": [
-      "Use biological control agents such as Bacillus subtilis formulations",
-      "Encourage beneficial microorganisms that suppress fungal pathogens"
+      "Tumia viini kama vile bakteria inayoitwa Bacillus gretils",
+      "Watie moyo vijiumbe vyenye manufaa ambavyo huzuia viini vya kuvu"
     ]
   },
   "impact": {
-    "crop_loss": "Moderate to severe depending on environmental conditions and crop susceptibility",
-    "economic_importance": "Common disease in many vegetable crops worldwide that can significantly reduce yield and quality"
+    "crop_loss": "Kiasi kiwe kibaya sana ikitegemea hali za kimazingira na wingi wa mazao",
+    "economic_importance": "Maradhi ya kawaida katika mimea mingi ya mboga ulimwenguni pote ambayo yaweza kupunguza sana mazao na ubora wa mazao"
   }
 }

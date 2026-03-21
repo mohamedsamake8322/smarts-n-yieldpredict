@@ -1,0 +1,81 @@
+{
+  "pest_name": "ቪቪቪል ቪቪል",
+  "scientific_name": "ማክኒስ Janthinus Germar",
+  "type": "መሳሪያዎች",
+  "native_range": [
+    "የአውሮፓ",
+    "አሲያ"
+  ],
+  "introduced_range": [
+    "የአሜሪካ"
+  ],
+  "hosts": {
+    "primary": [
+      "የላቀ የላቀ (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "Dalmatian toadflax (አልማቲያ የላማቲያ)"
+    ]
+  },
+  "description": {
+    "eggs": {
+      "color": "ጥቁር",
+      "shape": "የኦሪጂናል"
+    },
+    "larvae": {
+      "shape": "የ C-አንድ",
+      "color": "የክሬም-ቢት",
+      "head_capsule": "የካርቦን",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "የክሬም-ቢት",
+      "features": [
+        "ፎቶዎች",
+        "ቀጣይ Snoot"
+      ]
+    },
+    "adults": {
+      "color": "ጥቁር ጥቁር ጥቁር (ገደማ ጥቁር ጥቁር)",
+      "length_mm": "2.4 በ 3.4",
+      "shape": "ቀጣይ ፎቶዎች እና ቀጣይ ፎቶዎች",
+      "metallic_sheen": "የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ",
+      "comparison": "ከ M. janthiniformis ከ ከ M. janthiniformis ከ ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M. janthiniformis ከ M."
+    }
+  },
+  "life_cycle": {
+    "generation_per_year": 1,
+    "overwintering_stage": "የቀድሞው ዓመት toadflax ስሜት",
+    "spring_emergence": "መጋቢት ውስጥ, የሙከራዎች የሙከራዎች የሙከራዎች የሙከራዎች የሙከራዎች",
+    "adult_feeding": "አዲስ ፎቶዎች እና ፎቶዎች, ፎቶ ፎቶ ፎቶ ፎቶ ፎቶ ፎቶ ፎቶ",
+    "egg_laying": {
+      "method": "ሴቶች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች",
+      "quantity_per_lifetime": "60-160 የፕላስቲክ መስፈርቶች ውስጥ"
+    },
+    "larval_feeding": "3 ሰከንዶች, ደንበኞች ውስጥ ደንበኞች ደንበኞች",
+    "pupation": "የካርቦን ቱቦዎች ውስጥ የካርቦን",
+    "adult_emergence": "የሙቀት, የሙቀት, የሙቀት, የሙቀት, የሙቀት"
+  },
+  "damage": {
+    "adult": [
+      "ፎቶዎች, ፎቶዎች, ፎቶዎች",
+      "ፎቶ ፎቶ ፎቶ ፎቶ ፎቶ",
+      "መሳሪያዎች ይሰጣል, ምርት እና ምርት ይሰጣል",
+      "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች"
+    ],
+    "larval": [
+      "የኃይል አቅርቦት / የኃይል አቅርቦት / የኃይል አቅርቦት / የኃይል አቅርቦት",
+      "መሳሪያዎች እና መሳሪያዎች መሳሪያዎች እና መሳሪያዎች",
+      "የኃይል መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች"
+    ],
+    "long_term_impact": "አንድ ዓመት ልምድ toadflax ፋብሪካ ጥንካሬ ያካትታል"
+  },
+  "management_notes": [
+    "Biocontrol መሣሪያ በዩናይትድ ስቴትስ ውስጥ invasive toadflax ላይ መጠቀም",
+    "ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ ልምድ",
+    "የ toadflax ስሜት መጠን በከፍተኛ መጠን መጠን መጠን መጠን መጠን መጠን"
+  ],
+  "references": [
+    "SING, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Vegetables in North America. NAISMA-BCW-2022-29-TOADFLAXES-A. በዩናይትድ ስቴትስ ውስጥ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ"
+  ]
+}

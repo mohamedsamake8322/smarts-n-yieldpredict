@@ -1,112 +1,112 @@
 {
-  "disease_name": "Banana streak disease",
-  "dataset_label": "Banana_Leaf_Streak_Virus",
+  "disease_name": "香蕉病",
+  "dataset_label": "香蕉 Leaf_ Streak_ Virus",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana streak virus",
-    "scientific_name": "Banana streak badnavirus",
-    "family": "Caulimoviridae",
-    "genus": "Badnavirus",
-    "genome": "Double-stranded DNA (dsDNA)"
+    "type": "病毒病毒",
+    "name": "香蕉病病毒",
+    "scientific_name": "香蕉病原虫病毒",
+    "family": "Caulimimiridae( 科伊莫里米里达)e",
+    "genus": "巴德纳病毒",
+    "genome": "双层DNA(dsDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "香蕉(Musa pp.)",
     "other_hosts": [
-      "Plantain"
+      "平面"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Whole plant vigor"
+    "休假请请假",
+    "优度",
+    "整个工厂振动剂"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Mealybugs",
+    "type": "昆虫",
+    "name": "计算错误",
     "genera": [
-      "Planococcus",
-      "Pseudococcus"
+      "计划(Plancoccus)",
+      "普塞多科"
     ]
   },
   "symptoms": {
     "early_stage": [
-      "Yellow streaks running from leaf midrib to leaf margin",
-      "Continuous or broken yellow lines across the leaf"
+      "从中叶叶到叶边的黄线",
+      "横跨叶叶的连续或折断黄线"
     ],
     "intermediate_stage": [
-      "Streaks appear scattered or arranged in bands",
-      "Reduced plant vigor and smaller plant size"
+      "堆叠似乎散散散或按波段排列",
+      "降低植物活力和缩小工厂规模"
     ],
     "advanced_stage": [
-      "Yellow streaks turn brown or black with leaf aging",
-      "Smaller banana bunches",
-      "Possible pseudostem internal rot and dieback in severe cases"
+      "黄黄线随着叶叶老化,变成棕色或黑色",
+      "小型香蕉类",
+      "可能假牙内部腐烂和重病后死回生"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Infected planting material (suckers)",
-      "Vector transmission by mealybugs",
-      "Activation of integrated viral DNA in plant genome under stress"
+      "感染的种植材料(鼠鼠)",
+      "由粉虫传导的矢量",
+      "在压力下的植物基因组中激活综合病毒DNA"
     ],
-    "latent_behavior": "Virus fragments can integrate into banana genome and reactivate under stress conditions",
+    "latent_behavior": "病毒碎片可纳入香蕉基因组并在压力条件下恢复活力",
     "favorable_conditions": [
-      "Plant stress",
-      "Tissue culture propagation stress",
-      "Environmental stress"
+      "植物压力",
+      "组织文化传播压力",
+      "环境压力"
     ]
   },
   "impact": {
-    "severity": "Variable",
+    "severity": "变量变量",
     "effects": [
-      "Reduced plant vigor",
-      "Smaller fruit bunches",
-      "Yield losses depending on cultivar and infection intensity",
-      "Delayed harvest"
+      "减少植物振动",
+      "小型果类",
+      "取决于耕种和感染强度的收成损失",
+      "延迟收成"
     ],
-    "estimated_losses": "Up to about 6% annually in some regions, higher in susceptible cultivars"
+    "estimated_losses": "在一些地区,每年约6%左右在某些地区,易受感染的栽种品种较多"
   },
   "distribution": [
-    "Asia",
-    "Africa",
-    "North America",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania",
-    "Pacific Islands"
+    "亚洲 亚洲",
+    "非洲 非洲 非洲 非洲",
+    "北美北美",
+    "中美洲 中美洲",
+    "南美洲南美洲",
+    "加勒比加勒比",
+    "大洋洲",
+    "太平洋岛屿"
   ],
   "similar_diseases_or_confusions": [
-    "Cucumber mosaic virus",
-    "Banana bunchy top virus",
-    "Nutrient deficiency causing chlorosis"
+    "黄瓜马赛克病毒",
+    "香蕉暴毒顶级病毒",
+    "致氯酸缺乏症"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants",
-      "Monitor plantations regularly"
+      "使用无病毒种植材料",
+      "清除和销毁受感染植物",
+      "定期监测种植园"
     ],
     "vector_control": [
-      "Control mealybug populations",
-      "Use horticultural oils or soap sprays",
-      "Use commercial horticultural oil products"
+      "控制虫虫种群",
+      "使用园艺油或肥皂喷剂",
+      "使用商业园艺油产品"
     ],
     "quarantine": [
-      "Follow FAO germplasm movement guidelines for Musa species",
-      "Use certified disease-free tissue culture plants"
+      "遵循粮农组织关于穆萨种种种的种状运动准则",
+      "使用经认证的无疾病组织培养植物"
     ]
   },
   "spread_risk_factors": [
-    "Planting infected suckers",
-    "Unscreened tissue culture propagation",
-    "Presence of mealybug vectors",
-    "Plant stress conditions activating integrated virus DNA"
+    "种植受感染的吸虫",
+    "未筛选的组织培养传播",
+    "存在百虫矢量",
+    "激活集成病毒DNA"
   ],
   "references": [
-    "CABI Crop Protection Compendium (2020)",
-    "CSIRO Publishing – Diseases of Fruit Crops in Australia (2009)",
-    "Pacific Pests, Pathogens and Weeds Database",
-    "Bioversity International – FAO Musa Germplasm Movement Guidelines"
+    "CABI 作物保护简编(2020年)",
+    "CSIRO出版 - 澳大利亚水果作物疾病(2009年)",
+    "太平洋虫害、病原体和杂草数据库",
+    "生物多样性国际 -- -- 粮农组织Musa Gemplasm运动准则"
   ]
 }

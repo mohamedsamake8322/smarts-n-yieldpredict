@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "Banana Bunchy Maladie du dessus",
+  "dataset_label": "Banane_Leaf_Bunchy_Top_Virus",
   "pathogen": {
     "type": "Virus",
-    "name": "Banana bunchy top virus",
+    "name": "Virus du dessus de la banane",
     "abbreviation": "BBTV",
     "family": "Nanoviridae",
     "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "genome": "DNA circulaire à brin unique (ADNsss)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Banane (Musa spp.)",
     "other_hosts": [
       "Plantain",
       "Abaca"
     ],
     "vector_alternate_hosts": [
-      "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "Héliconie",
+      "Gingembre fleuri (Zingiberaceae)"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "Feuilles",
+    "Tissus de phloème",
+    "Fruits",
+    "Croissance totale de la plante"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
+    "type": "Insecte",
+    "name": "Aphidés de bananes",
     "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "transmission_type": "Non-propagation circulative"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "Traînées vert foncé le long des nervures des feuilles",
+      "Feuilles jeunes courtes et étroites",
+      "Morse code stries sur les pétioles de feuilles"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "Les feuilles deviennent droites et agglomérées",
+      "Jaune et chlorose des feuilles",
+      "Taille réduite des feuilles"
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "Aspect bunchy au sommet de la plante",
+      "Ralentissement sévère de la plante",
+      "Fruits déformés ou absents"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "Aphid se nourrissant de tissus de phloème",
+      "Plantation de meuniers infectés",
+      "Mouvement de matériel de plantation infecté"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "Très élevé",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "Ralentissement sévère de la plante",
+      "Réduction ou absence de la production de fruits",
+      "Groupes de bananes déformés",
+      "Principales pertes économiques dans la production de bananes"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
-    "Taiwan",
-    "India",
+    "Asie du Sud-Est",
+    "États-Unis d'Amérique",
+    "Taïwan",
+    "Inde",
     "Pakistan",
-    "East Asia",
-    "Oceania",
-    "Pacific Islands",
+    "Asie de l ' Est",
+    "Océanie",
+    "Îles du Pacifique",
     "Hawaii",
-    "Africa"
+    "Afrique"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "Virus de la chaîne de bananes",
+    "Virus de la mosaïque de la banane",
+    "Déficience en éléments nutritifs causant la chlorose"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "Utiliser du matériel de plantation exempt de virus",
+      "Enlever et détruire les plantes infectées (rongage)",
+      "Évitez de planter des meuniers infectés"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "Contrôler les populations de pucerons de bananes",
+      "Utiliser des insecticides tels que l'imidaclopride ou le carbaryl",
+      "Surveiller les plantes hôtes alternées du puceron"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "Réglementation stricte en matière de quarantaine",
+      "Surveillance des mouvements de matériel de plantation",
+      "Utilisation de plantes de culture de tissus certifiées"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "Bioamorçage avec des bactéries bénéfiques",
+      "Développement de variétés de bananes résistantes"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "Mouvement de matériel de plantation de bananes infectée",
+    "Présence de populations de pucerons de bananes",
+    "Mauvaises pratiques d ' assainissement agricole"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
-    "Queensland Department of Agriculture"
+    "Rapports de la FAO sur les maladies des plantes",
+    "Taxonomie du virus du VCI",
+    "Revues de pathologie végétale",
+    "Publications de l'Université d'Hawaii sur les maladies des plantes",
+    "Département de l'agriculture du Queensland"
   ]
 }

@@ -1,72 +1,72 @@
 {
- "disease": "Soft Rot of Allium",
- "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
- "pathogen_type": "Bacteria",
- "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
- "symptoms": [
-  "Young leaves become pale, bleached and wilted",
-  "Soft watery rot of bulb scales",
-  "Yellow discoloration of infected tissues",
-  "Brown streaks inside bulbs",
-  "Entire bulb becomes soft and rotten",
-  "Bad-smelling viscous fluid oozing from the neck of bulbs"
- ],
- "hosts": [
-  "Onion",
-  "Shallot",
-  "Garlic",
-  "Leek",
-  "Chive",
-  "Spring onion",
-  "Other Allium species"
- ],
- "favorable_conditions": [
-  "Heavy rainfall",
-  "Waterlogged or poorly drained soil",
-  "Wounds on bulbs or leaves",
-  "Warm temperatures between 20 and 30°C",
-  "High humidity during storage"
- ],
- "spread": [
-  "Infected planting material",
-  "Contaminated soil",
-  "Crop residues",
-  "Rain splash and irrigation water",
-  "Insects",
-  "Mechanical injuries during field operations"
- ],
- "management": [
-  "Use certified disease-free planting material",
-  "Avoid injuries during planting and harvest",
-  "Use drip irrigation instead of overhead irrigation",
-  "Allow onion tops to mature before harvest",
-  "Remove and destroy infected plants",
-  "Maintain balanced fertilization",
-  "Store bulbs at low temperature and moderate humidity",
-  "Use tolerant cultivars"
- ],
- "biological_control": [
-  "Encourage beneficial soil microbes through organic matter management",
-  "Use biological control agents such as Bacillus-based biofungicides",
-  "Improve soil health to suppress bacterial pathogens"
- ],
- "chemical_control": [
-  "Copper-based bactericides such as copper hydroxide",
-  "Kocide 2000",
-  "Mankocide",
-  "Copper sprays applied regularly to slow disease development"
- ],
- "prevention": [
-  "Plant certified pathogen-free bulbs or seeds",
-  "Avoid waterlogging in fields",
-  "Disinfect tools and equipment",
-  "Remove crop debris after harvest",
-  "Store bulbs at about 4°C with 65–70% relative humidity",
-  "Avoid excessive nitrogen fertilization and maintain adequate calcium levels"
- ],
- "source": [
-  "Plant Research International, Wageningen",
-  "IVEGRI Indonesia",
-  "Van der Wolf & Duriat – Soft rot diseases in Allium"
- ]
+  "disease": "Roti Dogo la Allium",
+  "scientific_name": "Erwinia carotovora clotovora, Erwinia chrysanthemi na bakteria zinazohusiana na hilo",
+  "pathogen_type": "Bakteria",
+  "description": "Maradhi ya bakteria ambayo husababisha kuoza kwa kitunguu na mazao mengine ya Allium, mara nyingi huonekana karibu na mavuno au wakati wa uhifadhi na hutokeza kuoza kwa uchafu.",
+  "symptoms": [
+    "Majani madogo huwa na rangi hafifu, madoa - doa na kunyauka",
+    "Mabubujiko makubwa yaliyooza kwa magamba ya globusi",
+    "Rangi ya manjano ya tishu zilizoambukizwa",
+    "Neti za rangi ya kahawia ndani ya tulipu",
+    "Balbu nzima huwa nyororo na iliyooza",
+    "Maji machafu yanayotiririka kutoka kwenye shingo ya tulipu"
+  ],
+  "hosts": [
+    "Onion",
+    "\" Ahasi \"",
+    "Garlic",
+    "Leek",
+    "Chive",
+    "Upigaji - Picha wa Majira ya Kuchipua",
+    "Aina nyingine za iriamu"
+  ],
+  "favorable_conditions": [
+    "Mvua nzito",
+    "Udongo uliokaushwa kwa maji au ambao hauna maji mengi",
+    "Majeraha kwenye tulipu au majani",
+    "Halijoto yenye joto kati ya 20 na 30tokataksidi",
+    "Unyevu mwingi wakati wa kuhifadhi nafaka"
+  ],
+  "spread": [
+    "Vifaa vya kupanda vilivyoathiriwa",
+    "Udongo uliochafuliwa",
+    "Mabaki ya matunda",
+    "Maji ya mvua yanayonyunyizwa na kunyunyizia maji",
+    "Wadudu",
+    "Majeraha ya mashine wakati wa upasuaji wa shambani"
+  ],
+  "management": [
+    "Tumia vifaa vilivyothibitishwa vya kupanda magonjwa bure",
+    "Epuka majeraha wakati wa kupanda na kuvuna",
+    "Tumia unyunyizaji wa maji badala ya unyunyizaji ulio juu ya kichwa",
+    "Acha sehemu ya juu ya kitunguu ikomae kabla ya mavuno",
+    "Ondoa na kuharibu mimea iliyoambukizwa",
+    "Dumisha mimba yai lililosawazika",
+    "Hifadhi tulipu kwa kiwango cha chini cha halijoto na unyevu wa kiasi",
+    "Tumia Waabudu Wavumilivu"
+  ],
+  "biological_control": [
+    "Watie moyo vijiumbe - maradhi vya udongo vyenye manufaa kupitia usimamizi wa mata ya kikaboni",
+    "Tumia vifaa vya kudhibiti bakteria kama vile Bacillus, biofungunides iliyo na makao yake",
+    "Kuboresha afya ya udongo ili kuzuia viini vya bakteria"
+  ],
+  "chemical_control": [
+    "Dawa za bakteria za shaba kama vile shaba hidraidi",
+    "Kocide 2000",
+    "Mankocide",
+    "Minyunyizo ya shaba ilitumika kwa ukawaida katika ukuzi wa polepole wa maradhi"
+  ],
+  "prevention": [
+    "Panda matunda au mbegu zisizo na kinga",
+    "Epuka kuchota maji mashambani",
+    "Vifaa na vifaa vya kuua viini",
+    "Ondoa mabaki ya mazao baada ya mavuno",
+    "Hifadhi ya tulipu karibu 476C ikiwa na asilimia 6570 kwa kulinganisha na unyevuanga",
+    "Epuka kutungishwa kwa nitrojeni kupita kiasi na kudumisha viwango vya kutosha vya kalisi"
+  ],
+  "source": [
+    "Utafiti wa Mimea Kimataifa, Wageningen",
+    "IVEGRI Indonesia",
+    "Van der Wolf & Duriat deutsche Soft magonjwa yanayooza katika jiji la Allium"
+  ]
 }

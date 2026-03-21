@@ -1,116 +1,116 @@
 {
-  "disease_name": "Yellow Sigatoka",
-  "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
+  "disease_name": "Sarı Sigatoka",
+  "dataset_label": "Banana_Leaf_Yellow_Sigatoka için tıklayınız",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "Sigatoka yaprak noktası",
+    "Banana Yaprakları"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora musae",
-    "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
+    "type": "Fonksiyon",
+    "scientific_name": "Pseudocercospora Musae",
+    "synonym": "Mycosphaerella Müzik",
+    "kingdom": "Mantarlar",
     "phylum": "Ascomycota"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Bananlar (Musa spp)",
     "other_hosts": [
-      "Plantain"
+      "Bitkiler"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "Yazıları"
   ],
   "symptoms": {
     "early_stage": [
-      "Small pale yellow streaks (1–2 mm) on young leaves",
-      "Chlorotic spots appearing near leaf margins or midrib"
+      "Küçük parlak sarı çubuklar (1-2 mm) genç yapraklarda",
+      "Yaprak marjları veya midrib yakınında görünen klor noktaları"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "Kırışıklıklar uzun süreli kahverengi yaralanmalara yayılıyor",
+      "Onların etrafında sarı haloslar ile çamur şekli noktaları"
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "Karanlık kahverengi siyah nekrotik noktalar",
+      "Yapraklarda büyük necrotik alanlar",
+      "Erken kağıt kurutma ve defolasyon"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "Mantar enfekte yaprak dokusunda hayatta kalır",
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "Konya",
+      "Askosporlar"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "rüzgar",
+      "yağmur splash",
+      "su damlası"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "Yüksek nem",
+      "Sıcak sıcaklıklar (25-30°C)",
+      "Uzun süreli yaprak ıslaklığı",
+      "Yağmur ya da ıslak mevsim"
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "Yüzeyde orta",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "Düşük fotosentez kapasitesi",
+      "Küçük Banana Çubukları",
+      "Düşük meyve kalitesi",
+      "Daha kısa yeşil meyve ömrü",
+      "Erken Meyve Sıcaklığı"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "Ağır enfeksiyonlarda %50'ye kadar"
   },
   "distribution": [
-    "Australia",
-    "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania"
+    "Avustralya",
+    "Asya",
+    "Afrika",
+    "Orta Amerika",
+    "Güney Amerika",
+    "Karayipler",
+    "Okyanus"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "Siyah Sigatoka (Pseudocercospora fijiensis)",
+    "Banana Yaprakları Hastalıkları"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "Enfekte yaprakların kaldırılması (de-leafing)",
+      "Planlama Sanitasyonu İyileştirmek",
+      "Doğru drenajı koruyun",
+      "Bitkilerin aşırı çoğaltılmasından kaçının"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "Fonksiyon koruyucu",
+      "sistemik fungicidler",
+      "Tebuconazole, mancozeb, klorothalonil içeren ürünler"
     ],
     "biological_control": [
-      "Bacillus subtilis",
-      "Trichoderma viride",
-      "Pseudomonas fluorescens"
+      "Bacillus Subtilisi",
+      "Üçlü viride",
+      "Pseudomonas Fluoresenç"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "toleranslı banana çeşitleri",
+      "Dengeli Üreme",
+      "Çiftliklerin düzenli izlenmesi"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "Yüksek nemli ortamlar",
+    "Kötü drenaj",
+    "Enfekte yaprakların varlığı",
+    "Şüpheli Banana çeşitleri"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "Crop Science Avustralya - Sarı Sigatoka",
+    "CABI Bitki Koruma Ödülü",
+    "CSIRO Bitki Patolojisi Kaynakları",
+    "Patoloji Dergisi Yayınları"
   ]
 }

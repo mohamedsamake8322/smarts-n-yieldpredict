@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
-  "scientific_name": "Bemisia argentifolii",
+  "pest_name": "银叶白蝇",
+  "scientific_name": "贝米西亚",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "甜蛋蛋白苍蝇",
+    "银叶白蝇"
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "成人长1.5毫米,黄腹、黄胸、黄胸、白翅膀;乳胶是奥瓦尔、半透明或黄色的。最后一颗恒星被称为“红眼鼻”。",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "Cole作物(花椰菜、卷心菜、花椰菜、卡莱、科拉比、中国卷心菜、棕榈树)",
+    "其他作为附带主食作物的其他植物作物"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "垃圾吸食导致增长受阻和收成延缓",
+    "蜜豆的排出会促进软软模子,减少光合作用。",
+    "以花椰菜(白干)冲洗花茎和叶木木"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "下边叶叶子上的鸡蛋",
+    "第一颗恒星( 爬行器) 是移动的; 随后的尼姆phs 是西塞",
+    "成人出现之前的最后一颗恒星(pupa/red-eye)",
+    "当植物被扰动时,成人可以随时飞翔"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "通过风和从附近作物迁移",
+    "通过被污染的工具或工人传播机械技术",
+    "当附近东道主减少时人口迅速增加"
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "检查2x/周(Aug-Oct)或每周(Nov-Mar)",
+    "黄粘网帮助检测初始迁移",
+    "把叶子翻过来检查尼姆芬"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "推迟种植或设立无宿主时间,以减少虫害",
+      "来自其他白苍蝇宿主的植物作物上风",
+      "维持环境卫生:迅速清除杂草和作物残留物",
+      "管理灌溉和氮气,避免植物过度生长,以有利于苍蝇"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "寄生虫黄蜂(恩卡西亚、埃雷托摩塞罗斯)",
+      "捕食者:大眼睛的虫虫、诱食幼虫、蜜蜂女士",
+      "致虫致病真菌:波维里亚·贝西亚纳、伊萨里亚·福莫索里海"
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "氰光( 外出, 韦里马克)",
+        "targets": "成年人",
+        "MOA_group": "28日, 28"
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "氯(Coragen)",
+        "targets": "成年人",
+        "MOA_group": "28日, 28"
       },
       {
-        "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
-        "MOA_group": "4A"
+        "name": "亚硝酸(Venom)",
+        "targets": "成年人",
+        "MOA_group": "4A 4A"
       },
       {
-        "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
-        "MOA_group": "4A"
+        "name": "(亚德密尔普罗)",
+        "targets": "尼微字",
+        "MOA_group": "4A 4A"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "Acetamiprid(70 WP)",
+        "targets": "Nymmphs/Adults",
+        "MOA_group": "4A 4A"
       },
       {
-        "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4D"
+        "name": "(Sivanto 200 SL)",
+        "targets": "鸡蛋和鼻孔",
+        "MOA_group": "4D 4D"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4C"
+        "name": "Sulfoxaflor(塞科亚CA)",
+        "targets": "鸡蛋和鼻孔",
+        "MOA_group": "4C 4C"
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "Thiamethoxam( 行动)",
+        "targets": "Nymmphs/Adults",
+        "MOA_group": "4A 4A"
       },
       {
-        "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
-        "MOA_group": "3A"
+        "name": "Bifenthrin (2EC旅)",
+        "targets": "成年人",
+        "MOA_group": "3A 3A"
       },
       {
         "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "targets": "尼微字",
+        "MOA_group": "23, 23, 23, 23"
       },
       {
-        "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "name": "斯皮罗梅西芬(Oberon 2 SC)",
+        "targets": "尼微字",
+        "MOA_group": "23, 23, 23, 23"
       },
       {
-        "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
-        "MOA_group": "16"
+        "name": "Buprofezin (SC委员会)",
+        "targets": "尼微字",
+        "MOA_group": "16) 16"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "杀虫肥皂",
+        "targets": "Nymmphs和成人",
+        "mode": "联系人"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "近距离油(Omni油、JMS Stylet-Oil)",
+        "targets": "Nymmphs和成人",
+        "mode": "联系/覆盖"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "Beauveria Bassiana和Isaria fumosorose 用于鼻腔控制",
+      "杀虫肥皂和窄带油",
+      "热杀的Burkdestantia spp. (乙酸)"
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "使用不同行动模式组的旋转杀虫剂",
+      "优化覆盖范围和应用时间"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "门槛尚未完全确定;在有机或未经处理的田地中,如果边缘的侵扰程度较高,则优先处理边界问题。"
 }

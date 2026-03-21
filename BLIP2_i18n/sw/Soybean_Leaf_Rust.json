@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
-  "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "pest_name": "Somo ya Somo ya Somo",
+  "scientific_name": "Maisha ya Phakopsora Pachyrhizi",
+  "common_name": "Maisha ya Soybean",
+  "description": "Rust ya soya ni ugonjwa wa folia wa soya iliyoundwa na fungi ya Phakopsora pachyrhizi. inaweza kusababisha uharibifu mkubwa wa bidhaa chini ya hali nzuri.",
+  "distribution": "Mwanzoni kutoka Asia; katika Marekani, kwa mara ya kwanza imeonekana katika Kusini mwaka 2004 na kuenea kaskazini kwa kila msimu wa ukuaji.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "Glycine max (kumbukumbu ya sauti)",
+    "other_hosts": "Haijulikani; kuwajibika patogene kuishi tu juu ya mwili wa kijani mwenyeji"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "Picha ndogo za kijani juu ya mbolea za chini za nyuma ambazo zitatengeneza tan au redish-brown",
+      "Uharibifu uliotumika ndani ya halosi ya kijani",
+      "Pustules (blisters) kuongezeka katika magonjwa kuondoa tan spores",
+      "Maambukizi ya awali ni vigumu kuchanganya kutoka kwa magonjwa mengine ya nywele"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "Ugonjwa na pustules inaweza kuonekana kwenye nyama na nyama"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "Mara nyingi baada ya kukua, wakati wa hatua za kuzalisha"
   },
   "conditions_favoring_disease": {
-    "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "temperature": "59 - 85 ° F (15 - 29 ° C)",
+    "humidity": "Ukosefu wa maji (> 75%)",
+    "weather": "Mzunguko wa muda wa hali ya hewa",
+    "plant_stage": "Mzunguko wa mazao, baada ya maua na maendeleo ya pod"
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "Fungus ya",
+    "species": [
+      "Maisha ya Phakopsora Pachyrhizi",
+      "Phakopsora meibomiae (mchakato patogen, si kusababisha uharibifu mkubwa wa mapato)"
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "juu ya wanyama wa kijani wa kuishi katika nchi za Kusini na Mexico; rangi zilizoenea kwa maua kaskazini kila mwaka",
+    "infection": "Uharibifu unaendelea juu ya karatasi ya chini kwanza; inaweza kuenea kwa nyama na nyama"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "Maonyesho ya maonyesho na defolia",
+    "Uharibifu wa faida zaidi ya 50% katika hali nzuri"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "Kupata nyama ya chini kwa wiki, hasa wakati wa hali ya hewa",
+      "Maandamano ya utamaduni yana madhara mdogo"
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "Matumizi ya fungicides ya folio iliyotumika mapema au mara moja baada ya infection"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "Vyanzo vya Sojia zinazohusiana na rusti zinatengenezwa"
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "Mti wa Sojia inahitaji mfululizo wa kila mwaka wa mtiririko wa mtiririko wa kaskazini ili kusababisha epidemics katika maeneo ya kaskazini",
+    "P. pachyrhizi ni patogen ya kigaidi ambayo huathiri uharibifu mkubwa; P. meibomiae ni rahisi na bado haijulikana katika Amerika ya Kusini."
   ]
 }

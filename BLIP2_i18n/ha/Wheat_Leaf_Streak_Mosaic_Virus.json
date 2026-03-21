@@ -1,65 +1,65 @@
 {
-  "disease_name": "Wheat Leaf Streak Mosaic Virus",
-  "abbreviation": "WSMV",
-  "pathogen_type": "Virus",
-  "family": "Potyviridae",
-  "genus": "Tritimovirus",
+  "disease_name": "MGBOKO UMUORIA 7 (Igbo)",
+  "abbreviation": "Indian National weekday 1 - LongDayName",
+  "pathogen_type": "Ethiopian weekday 5 - LongDayName",
+  "family": "KCharselect unicode block name",
+  "genus": "KCharselect unicode block name",
   "hosts": [
-    "Wheat (Triticum spp.)",
-    "Corn (Zea mays)",
-    "Rye (Secale spp.)",
-    "Oats (Avena spp.)",
-    "Barley (Hordeum spp.)",
-    "Sorghum",
-    "Millet",
-    "Some grassy weeds"
+    "KCharselect unicode block name",
+    "DakataCoptic month 11 - ShortName",
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "L̃. M̃.",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Wasu ciyayi"
   ],
-  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "distribution": "A dukan duniya; ana samun ci gaba a manyan birane (a ƙasar Ostareliya, Ostareliya, da kuma manyan yankunan alkama",
   "vector": {
-    "name": "Wheat curl mite",
-    "scientific_name": "Aceria tosichella",
-    "transmission_type": "semi-persistent",
-    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+    "name": "KCharselect unicode block name",
+    "scientific_name": "KCharselect unicode block name",
+    "transmission_type": "KCharselect unicode block name",
+    "notes": "Masu tsere suna jinkirin tuƙa jirgin ruwa, musamman iska, kuma za su iya kawar da alkama da hatsi"
   },
   "symptoms": [
-    "Streaks of yellowed, non-uniform discoloration on leaves",
-    "Stunted growth",
-    "Severe infections can cause 100% crop loss",
-    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+    "Mãsu duhun inuwa.",
+    "@ action",
+    "Yawan shan giya suna iya sa mutane kashi 100 su yi hasarar rayukansu",
+    "A yawancin lokaci, ana yin amfani da na'ura mai zafi sa'ad da mutane suka soma shan giya ko kuma manyan motoci."
   ],
   "disease_cycle": [
-    "Virus overwinters in grasses and cereal crops and in infected seeds",
-    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
-    "Mites depend on wind to move between plants and fields",
-    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
-    "Multiple generations of mites per season can amplify spread"
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "Ƙari ga haka, ana warkar da shuke - shuke masu kyau daga shuke - shuke kuma ana zuba su ga shuke - shuke masu kyau",
+    "Mar ta dangana ne ga iska don ta ƙaura tsakanin shuke - shuke da gonaki",
+    "Satar alkama da ciyayi suna aiki ne a matsayin ma'aikaci da kuma ciyayi.",
+    "Abubuwa masu rai suna iya yaɗuwa a kowane lokaci"
   ],
   "conditions_for_development": [
-    "Warm weather favors mite reproduction and virus transmission",
-    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
-    "Early planting increases risk due to longer exposure to mites"
+    "Media controller element",
+    "Rashin ba da kai ko kuma manyan tumaki suna daɗa cuta",
+    "Idan mutum ya yi girma da farko, zai iya daɗa kasancewa da sauƙi idan ya ga cewa ana bukatar a yi amfani da shi don a yi amfani da shi."
   ],
   "management": {
     "cultural": [
-      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
-      "Avoid early planting to reduce exposure to mites",
-      "Select wheat varieties with lower susceptibility to WSMV"
+      "Ba da kai a kai kafin a shuka alkama",
+      "Ka guje wa yin noma tun da wuri don ka rage yawan barci",
+      "Zaɓi alkama da zarin ci da aka gana da ita"
     ],
     "chemical": [
-      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+      "Ƙasan alkama ba su da amfani sosai a kan alkama da aka yi wa ruwan sama da aka yaɗa a ko'ina"
     ],
     "resistance": [
-      "Use resistant/tolerant wheat cultivars where available",
-      "Research on RNAi-based resistance is ongoing"
+      "Yi amfani da ƙarfi wajen tsayayya wa mugun shirin hanawa na'urar alkama inda ake da shi",
+      "A yau, ana yin shari'a ga mutanen da ba sa bauta wa Jehobah kuma hakan ya ci gaba da faruwa."
     ]
   },
   "impact": [
-    "Yield losses can reach up to 100% in susceptible varieties",
-    "Co-infection with other viruses can exacerbate damage"
+    "Rashin aiki zai kai ga kashi 100 a kasuwar fata",
+    "Za'a iya yin ɓarna da wasu abubuwa da ba za su iya ɓatawa ba"
   ],
   "references": [
-    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
-    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
-    "USDA-ARS research on WSMV and vector biology."
+    "Waɗanda suke aiki tare a matsayin masu kula da da'ira sun ba da kansu don su yi aikin da Allah ya ba su.",
+    "Wani ɗan'uwa mai suna Franz E.",
+    "MU YI bincike a kan W.M.B."
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "pest": "Früchte-Bollwurm",
+  "scientific_name": "Helicoverpa armigera",
+  "pathogen_type": "Insekten (Lepidoptera moth larva)",
+  "description": "Ein hoch destruktiver Raupenschädling in tropischen und subtropischen Regionen. Die Larven ernähren sich von Blättern, Blumen und Früchten vieler Kulturen, insbesondere Tomaten und Baumwolle, was zu großen Ertragsverlusten führt.",
+  "symptoms": [
+    "Kleine Löcher an jungen Blättern durch frühe Larvenfütterung",
+    "Kleine Einstiegslöcher an Früchten, oft in der Nähe des Stiels",
+    "Raupen, die innerhalb von Früchten füttern",
+    "Beschädigte oder geminte Früchte mit innerer Fütterung",
+    "Früchte hören auf zu wachsen, reifen früh und fallen aus der Pflanze",
+    "Beschädigte Blüten und durchbohrte Samenkapseln in Hülsenfrüchten"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Baumwolle",
+    "Sorghum",
+    "Zuckermais",
+    "Bohnen",
+    "Sojabohnen",
+    "Tabak",
+    "Sonnenblume",
+    "Melonen",
+    "Verschiedene Obstkulturen"
+  ],
+  "favorable_conditions": [
+    "Warmes tropisches und subtropisches Klima",
+    "Hohe Verfügbarkeit von Gastpflanzen",
+    "Gewächshausbedingungen für die Tomatenerzeugung"
+  ],
+  "spread": [
+    "Erwachsene Motten, die Eier auf Blättern und Früchten legen",
+    "Larven bewegen sich zwischen nahe gelegenen Pflanzen",
+    "Wanderung von erwachsenen Motten zwischen Ackerland"
+  ],
+  "management": [
+    "Regelmäßige Überwachung der Eier- und Junglarvenkulturen",
+    "Entfernen und zerstören Sie befallene Früchte",
+    "Verwenden Sie Pheromonfallen, um Mottenpopulationen zu überwachen",
+    "Ermutigen Sie natürliche Raubtiere und Parasitoide",
+    "Verwenden Sie resistente oder tolerante Pflanzensorten, wenn verfügbar"
+  ],
+  "biological_control": [
+    "Bacillus thuringiensis (Bt) Bioinsektizid-Sprays",
+    "Freisetzung von parasitoiden Wespen wie Trichogramma-Arten",
+    "Predatoren wie Käfer, Spitzenkäfer und Vögel",
+    "Entomopathogene Pilze wie Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Spinosad",
+    "Emamectinbenzoat",
+    "Indoxacarb",
+    "Chlorantraniliprol",
+    "Lambda-Cyhalothrin (Verwendung mit Resistenzmanagement)"
+  ],
+  "prevention": [
+    "Fruchtfolge mit nicht gastgebenden Kulturen",
+    "Feldsanierung und Entfernung von Pflanzenrückständen",
+    "Pheromonfallen zur Früherkennung verwenden",
+    "Insektennetz in Gewächshäusern installieren",
+    "Ausgewogene Befruchtung beibehalten, um übermäßiges Pflanzenwachstum zu vermeiden"
+  ],
+  "source": [
+    "Leitfaden für die Schädlingsbekämpfung in der Landwirtschaft",
+    "Literatur zum Pflanzenschutz in Gewächshäusern",
+    "Referenzen zur Schädlingsbekämpfung in der Helicoverpa armigera"
+  ]
+}

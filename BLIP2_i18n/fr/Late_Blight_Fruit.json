@@ -1,46 +1,46 @@
 {
-  "disease_name": "Late Blight Fruit",
+  "disease_name": "Fruits légers tardifs",
   "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "oomycete",
-  "description": "Late blight fruit rot is a destructive disease caused by the oomycete Phytophthora infestans. It mainly affects tomato and potato plants. The pathogen infects fruits, leaves and stems and can spread rapidly under cool and humid conditions, often leading to severe crop losses.",
+  "pathogen_type": "oomycète",
+  "description": "La pourriture tardive des fruits de mèche est une maladie destructrice causée par l'oomycète Phytophthora infestans. Elle affecte principalement les plants de tomates et de pommes de terre. L'agent pathogène infecte les fruits, les feuilles et les tiges et peut se propager rapidement dans des conditions fraîches et humides, entraînant souvent de graves pertes de cultures.",
   "affected_parts": [
-    "Fruit",
-    "Leaf",
-    "Stem"
+    "Fruits",
+    "Feuille",
+    "Tige"
   ],
   "hosts": [
-    "Tomato",
-    "Potato"
+    "Tomates",
+    "Pommes de terre"
   ],
   "symptoms": [
-    "Dark brown or black lesions on fruits",
-    "Firm rot with greasy appearance",
-    "White mold growth under humid conditions",
-    "Rapid fruit decay"
+    "Lésions brunes foncées ou noires sur les fruits",
+    "Pourriture ferme avec aspect gras",
+    "Croissance de moisissures blanches dans des conditions humides",
+    "Pourriture rapide des fruits"
   ],
   "favorable_conditions": [
-    "Cool temperatures (10–20°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Long periods of leaf wetness"
+    "Températures froides (10-20°C)",
+    "Humidité élevée",
+    "Pluies fréquentes",
+    "Longues périodes d'humidité des feuilles"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Contaminated tools and equipment"
+    "Spores transmises par le vent",
+    "éclaboussure de pluie",
+    "Débris de plantes infectées",
+    "Outils et équipements contaminés"
   ],
   "management": {
     "cultural": [
-      "Remove infected plants",
-      "Improve air circulation",
-      "Avoid overhead irrigation",
-      "Use resistant cultivars when available"
+      "Enlever les plantes infectées",
+      "Améliorer la circulation aérienne",
+      "Éviter l'irrigation aérienne",
+      "Utiliser des cultivars résistants lorsqu'ils sont disponibles"
     ],
     "chemical": [
-      "Metalaxyl-based fungicides",
+      "Fongicides à base de métalaxyle",
       "Chlorothalonil",
-      "Mancozeb"
+      "Mancozéb"
     ]
   }
 }

@@ -1,0 +1,78 @@
+{
+  "disease": "Mandioca de maíz",
+  "other_names": [
+    "Mandioca común",
+    "Hierve la escoria",
+    "Blister smut",
+    "Huitlacoche",
+    "Cuitlacoche"
+  ],
+  "scientific_name": "Micosarcoma maydis",
+  "synonym": "Ustilago maydis",
+  "pathogen_type": "Hongos",
+  "description": "El maíz es una enfermedad fúngica del maíz que produce bilis tumorales en diferentes partes de la planta. Estas bilis contienen masas de esporas oscuras y pueden reducir significativamente el rendimiento. En México, las bilis inmaduras se consideran un manjar culinario conocido como huitlacoche.",
+  "hosts": [
+    "Maíz (Zea mays)",
+    "Teosinte (Zea mexicana)"
+  ],
+  "symptoms": {
+    "general": [
+      "Hemorragias similares a los tumores en los tejidos de las plantas",
+      "Huevos hirviendo u órganos vegetales",
+      "Esporas polvorientas negras en el interior de las agallas"
+    ],
+    "leaves": [
+      "Gallos pequeños en las venas de las hojas o las hojas"
+    ],
+    "stems": [
+      "Gallos grandes en tallos o nodos"
+    ],
+    "ears": [
+      "Kernels reemplazados por bilis hinchada",
+      "Las galeras se vuelven negras y se rompen liberando esporas"
+    ]
+  },
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo o los desechos de los cultivos como teliosporas",
+    "Las esporas germinan y producen esporidios haploides",
+    "Esporidios compatibles se aparean y forman hifas infecciosas",
+    "Hyphae penetra tejidos de plantas jóvenes",
+    "Tumor-como las agallas forman y producen nuevos teliosporos",
+    "Esporas esparcidas por el viento y la lluvia"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Lesiones o heridas de plantas",
+    "Altos niveles de nitrógeno en el suelo",
+    "Viento y lluvia que esparcen esporas",
+    "Períodos de pobre polinización o estrés vegetal"
+  ],
+  "distribution": [
+    "En todo el mundo en las regiones productoras de maíz"
+  ],
+  "management": {
+    "cultural": [
+      "Utilizar variedades de maíz resistentes",
+      "Practicar la rotación de cultivos",
+      "Eliminar los desechos vegetales infectados",
+      "Evitar lesiones mecánicas a las plantas",
+      "Gestionar la fertilización de nitrógeno"
+    ],
+    "chemical": [
+      "Los fungicidas son generalmente ineficaces para controlar la mugre de maíz"
+    ]
+  },
+  "economic_importance": [
+    "Generalmente causa pérdidas de bajo rendimiento en el maíz de campo",
+    "Puede afectar significativamente la producción de maíz dulce",
+    "Las agallas para las orejas reducen el valor de mercado del maíz fresco"
+  ],
+  "additional_notes": [
+    "Galinas inmaduras son comestibles y se venden como una comida gourmet llamada huitlacoche en México",
+    "El hongo es ampliamente utilizado como organismo modelo en la genética fúngica y la investigación de patología vegetal"
+  ],
+  "sources": [
+    "Wikipedia – Mandioca de maíz",
+    "Referencias de patología vegetal universitaria"
+  ]
+}

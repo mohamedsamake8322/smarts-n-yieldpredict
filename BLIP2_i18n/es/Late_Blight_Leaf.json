@@ -1,0 +1,45 @@
+{
+  "disease": "Late Blight (Leaf)",
+  "scientific_name": "Phytophthora infestans",
+  "pathogen_type": "Oomiceto (fúngico)",
+  "description": "Una enfermedad devastadora de las hojas de papa y tomate, causando manchas marrones oscuras y la muerte rápida de las hojas.",
+  "symptoms": [
+    "Manchas de hojas oscuras de color marrón a negro",
+    "Los bordes de las hojas se ponen pálidos y mueren.",
+    "Marchitamiento rápido de las hojas infectadas"
+  ],
+  "hosts": [
+    "Tomate",
+    "Patata",
+    "Otros cultivos de solanáceas"
+  ],
+  "favorable_conditions": [
+    "Clima fresco y húmedo",
+    "Alta humedad",
+    "Mala circulación del aire en plantaciones densas"
+  ],
+  "spread": [
+    "Dispersión de esporas por viento y lluvia",
+    "Herramientas o manos contaminadas",
+    "plántulas o tubérculos infectados"
+  ],
+  "management": [
+    "Cultivadores resistentes a las plantas",
+    "Quitar y destruir las hojas infectadas",
+    "Mejorar la circulación del aire con espaciamiento y poda adecuados",
+    "Rotar los cultivos para evitar la acumulación de inóculo"
+  ],
+  "chemical_control": [
+    "Fungicidas a base de cobre",
+    "Mancozeb pulveriza sobre follaje durante períodos húmedos"
+  ],
+  "prevention": [
+    "Evitar el riego por encima del suelo",
+    "Utilizar semillas o tubérculos certificados libres de enfermedades",
+    "Eliminar los restos vegetales después de la cosecha"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "USDA, Guía de Manejo de Enfermedades Vegetales"
+  ]
+}

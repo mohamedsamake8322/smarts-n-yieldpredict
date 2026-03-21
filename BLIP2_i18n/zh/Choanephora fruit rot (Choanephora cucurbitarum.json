@@ -1,139 +1,119 @@
 {
-  "disease": "Choanephora Fruit Rot",
+  "disease": "Choanephora 水果罗",
   "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "pathogen_type": "蘑菇",
+  "description": "Choanephora水果腐烂是一种真菌病,在温暖和潮湿的气候中影响着作物。 病原体先感染了花朵,然后传播到水果上,导致软水腐烂。 感染的组织迅速变得黏糊糊糊的,覆盖着从白到黑紫或黑的模糊的真菌生长。",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "果子腐烂",
+    "Chhoanephora 水果腐烂",
+    "ccurbit 花",
+    "甜瓜花 闪闪闪闪发光",
+    "湿腐烂"
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
-    "order": "Mucorales",
-    "family": "Choanephoraceae"
+    "kingdom": "真菌",
+    "order": "穆科勒",
+    "family": "氯乙磷色e"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "一种真菌疾病,它导致花和水果迅速软化腐烂,特别是在温暖和湿润的条件下。",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "软水在花朵上腐烂",
+    "mushy 褐色或半透明水果组织",
+    "从水果开花端开始腐烂",
+    "几天内迅速水果腐烂",
+    "覆盖感染组织、覆盖感染组织",
+    "变紫或变黑的白模白",
+    "在腐烂水果上建造象长头头像真菌结构"
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "南瓜或黄瓜果上的软软软质腐烂",
+    "白色毛发色,变黑紫色或黑色",
+    "腐烂组织上类似黑针头的黑针头结构",
+    "潮湿半透明的水果腐烂"
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花花",
+    "果果",
+    "果果开花结束",
+    "白种植物器官"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "库库比塔塞ecurbiticaceae. kgm",
   "hosts": [
-    "pumpkin",
-    "squash",
-    "zucchini",
-    "watermelon",
-    "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
-    "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "南南瓜",
+    "壁球",
+    "",
+    "西瓜",
+    "甜瓜",
+    "鲁法( luffa)",
+    "黄黄瓜",
+    "茄茄茄",
+    "辣椒辣椒",
+    "豆豆",
+    "亚克拉",
+    "菠菜",
+    "甜土豆",
+    "木薯木薯"
   ],
-
   "important_hosts": [
-    "Cucurbita pepo",
-    "Cucurbita maxima",
-    "Citrullus lanatus",
-    "Cucumis melo",
-    "Luffa cylindrica"
+    "库库比塔比索",
+    "库库比塔最高标准a",
+    "特鲁卢斯·拉纳图斯",
+    "曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲",
+    "卢法"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "高湿湿度",
+    "频繁降雨",
+    "湿鲜花和水果",
+    "空气循环不良",
+    "温度高于25°C"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "风分散的螺纹",
+    "雨水喷雨",
+    "昆虫携带昆虫的颗粒",
+    "受污染植物碎片",
+    "受感染作物残留物"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "真菌在作物碎片和土壤中存活",
+    "感染白月花",
+    "从花卉到果实的传播",
+    "菌菌在腐烂组织上产生大量菌类",
+    "风、雨、灌溉和昆虫散布的微粒"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "快速水果腐烂",
+    "失去可销售的水果",
+    "果果液",
+    "作物的产量损失"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "立即除去被感染的鲜花和水果",
+    "避免间接灌溉",
+    "在可能的情况下使用滴滴灌溉",
+    "用于良好空气循环的空间空间设备",
+    "超成熟前收获果实",
+    "减少温室湿度"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "在可能的情况下轮作作物",
+    "高床上铺床或深水土壤",
+    "减少土壤接触的塑料溶液",
+    "良好环境卫生和清除植物碎片"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "据报,Piptocephalis Firviyana 曾抑制真菌"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "杀真菌杀杀菌剂一般无效,因为花朵不断地开着"
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Rhizopus 水果腐烂"
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "明尼苏达大学扩展大学",
+    "植物病理研究出版物",
+    "病管理指南"
   ]
 }

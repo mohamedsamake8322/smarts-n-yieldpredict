@@ -1,25 +1,25 @@
 {
   "disease_name": "Yellow Sigatoka",
-  "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
+  "dataset_label": "Ndizi_Leaf_Yellow_Sigatoka",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "Sehemu ya majani ya Sigatoka",
+    "Sehemu ya jani la ndizi"
   ],
   "pathogen": {
-    "type": "Fungus",
+    "type": "Kuvu",
     "scientific_name": "Pseudocercospora musae",
-    "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
+    "synonym": "Muziki wa Mycosphaerella",
+    "kingdom": "Kuvu",
     "phylum": "Ascomycota"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Migomba (Musa pp.)",
     "other_hosts": [
       "Plantain"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "Majani"
   ],
   "symptoms": {
     "early_stage": [
@@ -27,90 +27,90 @@
       "Chlorotic spots appearing near leaf margins or midrib"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "Vichuguu vya kahawia hupanuka na kuwa lesi ndefu",
+      "Madoa yaliyopakwa rangi ya manjano yanayowazunguka"
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "Rangi nyeusi ya kahawia hadi madoa meusi ya necroti",
+      "Maeneo makubwa ya necrotic kwenye majani",
+      "Majani yaliyokauka hukauka na kuoza"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "Kuvu hubaki katika jani lililoambukizwa",
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "Conidaa",
+      "Ascosspores"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "Upepo",
+      "Maji ya mvua",
+      "Matone ya maji"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "Unyevu mwingi",
+      "Halijoto yenye joto (252525252530tokaC)",
+      "Kulowesha majani kwa muda mrefu",
+      "Majira ya mvua au ya mvua"
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "Mwenye Kiasi hadi juu",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "Utumizi wa chembe za urithi za photosynthetic",
+      "Mikunjo midogo ya ndizi",
+      "Ubora wa matunda ulipunguzwa",
+      "Maisha mafupi zaidi ya kijani - kibichi ya matunda",
+      "Tunda lililokomaa kabla ya kuiva"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "Asilimia 50 hivi ya watu walioambukizwa vibaya sana"
   },
   "distribution": [
     "Australia",
     "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
+    "Afrika",
+    "Amerika ya Kati",
+    "Amerika Kusini",
+    "Karibea",
     "Oceania"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "Black Sigatoka (Pseudocercospora fijeensis)",
+    "Jani la ndizi lina magonjwa"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "Ondoa majani yaliyoambukizwa",
+      "Kuboresha usafi wa mashamba",
+      "Dumisha njia inayofaa ya kuondoa maji machafu",
+      "Epuka msongamano wa mimea"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "Dawa za Kukinga Kuvu",
+      "Kuvu za Mfumo",
+      "Bidhaa zenye tebuconazole, mancozeb, kloroothalonil"
     ],
     "biological_control": [
-      "Bacillus subtilis",
-      "Trichoderma viride",
-      "Pseudomonas fluorescens"
+      "Bacillus mistili",
+      "Trichoderma Allide",
+      "Vyeo vya Kung'aa"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "Tumia aina mbalimbali za ndizi",
+      "Kutungishwa kwa njia yenye usawaziko",
+      "Kutunza Mashamba kwa Ukawaida"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "Mazingira yenye unyevu mwingi",
+    "Uondoaji mbaya wa maji machafu",
+    "Kuwapo kwa majani yaliyoambukizwa",
+    "Aina mbalimbali za ndizi zinazoweza kuliwa"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "Sayansi ya Mimea ya Australia KING Sigatoka",
+    "KABI Protection Compendium",
+    "Magonjwa ya CSIRO",
+    "Mimea Pathology Journal Publications"
   ]
 }

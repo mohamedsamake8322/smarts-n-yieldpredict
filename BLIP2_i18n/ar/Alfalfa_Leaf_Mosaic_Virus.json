@@ -1,70 +1,70 @@
 {
-  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "disease_name": "ألفالفا_Leaf_ Mosiac_ Virus",
+  "common_name": "الولفلفا داء المُصَصَصَ",
   "pathogen": {
-    "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
-    "abbreviation": "AMV",
-    "family": "Bromoviridae",
-    "genus": "Alfamovirus"
+    "type": "- - - - - - - - - - - - - - - - - - -",
+    "scientific_name": "فيروس الفالفة",
+    "abbreviation": "في الطريق",
+    "family": "بروموفريدا",
+    "genus": "المُرْمُوس"
   },
   "host_plants": [
-    "Alfalfa",
-    "Potato",
-    "Tomato",
-    "Pepper",
-    "Soybean",
-    "Clover",
-    "Pea",
-    "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "الكفل",
+    "",
+    "طاطاطاطاط",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "Soyban",
+    "المجلد",
+    "من أصل",
+    "بكanan",
+    "اللسنج",
+    "العديد من النباتات"
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "الأنماط الصفراء الطاهية",
+      "",
+      "",
+      "نون أو مناور مطولة",
+      ""
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "النمو المتوقع",
+      "مُقَزِج مُقَزِج",
+      "انخفاض الناتج"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "القاردات (أكثر من 20 نوعا)"
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "السكان المرتفعون",
+    "درجة حرارة",
+    "عدد المنشآت المضيفة المصابة في المناطق القريبة من"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "البذور المعتمدة الخالية من الفيروس/",
+      "النباتات التي أُزيل",
+      "الضوابط التي تعمل كمستودعات للفيروس"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      ":: رصد وإدارة المجموعات السكانية المرفية"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "بعض الطوائف المتسامحة والمتاحة اعتماداً على المحصول"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "الحد من غلة المحاصيل ونوعيتها في كثير من البقول والمحاصيل النباتية",
+    "distribution": "المنظمة الدولية للمنقول (LALLLLLLS"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "دليل APSS",
+    "مجموعة حماية المُنتَجَب",
+    "تكنولوجيا تكنولوجيا تكنولوجيا تكنولوجيا المعلومات والاتصالات"
   ]
 }

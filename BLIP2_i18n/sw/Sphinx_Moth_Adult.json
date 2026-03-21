@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "Maisha ya Sphinx",
+  "stage": "wazee",
+  "common_name": "Mji wa Hawk Moth",
+  "description": "Mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti.",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "Kwa kawaida watu wazima hawana madhara ya moja kwa moja ya mimea.",
+    "Inaweza kuvutia kwa mwanga usiku na kufanya kazi kama pollinators"
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "Siku ya usiku; inafanya kazi kwa dhahabu na usiku",
+    "Fliers ya muda mrefu; inaweza kuhamisha na kuenea larva kwa mimea mpya ya mwenyeji"
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "Ufuatiliaji wa watu wazima inaweza kusaidia kutabiri uharibifu wa larva",
+    "Picha za mwanga zinaweza kupunguza shughuli za watu wazima katika maeneo ndogo"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "Hatua ya watu wazima ni muhimu sana kwa ajili ya kuvutia",
+    "Kuanzisha usimamizi juu ya larva kuzuia uharibifu wa mimea"
   ]
 }

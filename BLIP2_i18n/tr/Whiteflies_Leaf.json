@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
-  "scientific_name": "Bemisia argentifolii",
+  "pest_name": "Gümüş Whitefly",
+  "scientific_name": "Arjantin Arjantin",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "tatlı biber beyaz",
+    "Gümüş Whitefly"
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "Yetişkinler 1.5 mm uzunluğundadır, sarı mide ve göğüsler, beyaz kanatlar; nymfler oval, translucent veya sarıdır. son instar 'kırmızı göz nymf' olarak adlandırılır.",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "Cole tohumları (broccoli, kabbage, cauliflower, kale, kohlrabi, Çin kabbage, Brüksel spruts)",
+    "Diğer sebze bitkileri tesadüfi ev sahipleri olarak"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "Sap-sucking çarpıcı büyüme ve gecikme hasatına yol açar",
+    "Bal çamurunun çıkarılması yumuşak şekil teşvik eder, fotosentezi azaltır",
+    "Broccoli'de çamur ve yaprak peteollerinin pürüzsüzleşmesi (beyaz çamur)"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "Yumurtalar yaprak alt kısmına yerleştirilir",
+    "İlk instar (crawler) hareketlidir; sonraki nymphler sessizdir",
+    "Son instar (pupa/red-eye) yetişkin acil durum öncesi",
+    "Yetişkinler bitkiler bozulduğunda kolayca uçuyor"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "Rüzgâr ve yakın bitkilerden göç",
+    "Mekanik yayılma, kirlenmiş araçlar veya işçiler aracılığıyla",
+    "Yakın ev sahipleri düştüğünde hızla nüfus artışı"
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "Kontrol alan marjları haftada 2x (Ağustos-Oct) veya haftalık (Nov-Mar)",
+    "Sarı yapışkan kalıntılar başlangıç göçünü tespit etmeye yardımcı olur",
+    "Nymph'leri incelemek için yaprakları çevirin"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "Yetiştirmeyi geciktirin veya infestasyonu azaltmak için evsiz dönemler oluşturun",
+      "Bitki bitkileri diğer Whitefly ev sahiplerinden yükselir",
+      "Sanitasyonu koruyun: tahıl ve bitki kalıntılarını hızlı bir şekilde çıkarın",
+      "Aşırı bitki büyümesini önlemek için sulama ve azot yönetimi beyazlatma"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "Parazit kaslar (Encarsia, Eretmocerus)",
+      "Hırsızlar: bigeyed bugs, kaybolan larvae, lady beetles",
+      "Entomopathogenik mantarlar: Beauveria bassiana, Isaria fumosorosea"
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
+        "name": "Çiantraniliprole (Exirel ve Verimark)",
+        "targets": "Yetişkinler",
         "MOA_group": "28"
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
+        "name": "Chlorantraniliprole (Korajen)",
+        "targets": "Yetişkinler",
         "MOA_group": "28"
       },
       {
-        "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
+        "name": "Dinotefuran ve Venom",
+        "targets": "Yetişkinler",
         "MOA_group": "4A"
       },
       {
-        "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
+        "name": "Imidacloprid (Admire Pro için)",
+        "targets": "Nymfler",
         "MOA_group": "4A"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
+        "name": "Asetamiprid (Saldırı 70 WP)",
+        "targets": "Yetişkinler / Nymphs",
         "MOA_group": "4A"
       },
       {
-        "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
+        "name": "Flupyradifuron (Sivanto 200 SL)",
+        "targets": "Yumurta ve nymphs",
         "MOA_group": "4D"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
+        "name": "Sülfoxaflor (Sequoia CA)",
+        "targets": "Yumurta ve nymphs",
         "MOA_group": "4C"
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
+        "name": "Thiamethoxam ( Aktarı )",
+        "targets": "Yetişkinler / Nymphs",
         "MOA_group": "4A"
       },
       {
         "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
+        "targets": "Yetişkinler",
         "MOA_group": "3A"
       },
       {
-        "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
+        "name": "Spirotetramat (Movento için)",
+        "targets": "Nymfler",
         "MOA_group": "23"
       },
       {
         "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
+        "targets": "Nymfler",
         "MOA_group": "23"
       },
       {
         "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
+        "targets": "Nymfler",
         "MOA_group": "16"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "Insektisit sabunları",
+        "targets": "Nymfler ve Yetişkinler",
+        "mode": "İletişim"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "Omni Yağı (Omni Yağı, JMS Stylet Yağı)",
+        "targets": "Nymfler ve Yetişkinler",
+        "mode": "İletişim / Kapak"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "Nymph kontrolü için Beauveria bassiana ve Isaria fumosorosea",
+      "Böcek sabunları ve dar aralıklı yağlar",
+      ""
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "Farklı mod-of-action grupları ile döndürülen böcek ilacı",
+      "Kapsama ve uygulama zamanlaması optimizasyonu"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "Sınırlar iyi belirlenmemiştir; organik veya tedavi edilmemiş alanlarda, enfeksiyonun kenarlarda daha yüksek olması durumunda sınırları tercih edilir."
 }

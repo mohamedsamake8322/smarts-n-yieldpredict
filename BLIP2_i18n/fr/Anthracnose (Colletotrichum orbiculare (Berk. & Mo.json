@@ -1,67 +1,67 @@
 {
- "disease": "Anthracnose of Cucurbits",
- "scientific_name": "Colletotrichum orbiculare",
- "pathogen_type": "Fungus",
- "description": "A fungal disease affecting cucurbits (cucumber, melon, squash, watermelon, pumpkin). Causes lesions on leaves, stems, and fruits, especially in warm, humid, rainy conditions. Can survive on seeds, soil, and plant debris, and spreads by rain, wind, tools, workers, and insects.",
- "symptoms": [
-  "Leaves: oily spots near veins, angular brown/red/black lesions, tissue death or drop",
-  "Stems and petioles: elongated, depressed, yellowish lesions, may produce black acervules under humid conditions",
-  "Fruits: circular, sunken brown lesions, may ooze red gummy exudate on melon; gelatinous salmon-colored spores on watermelon"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Squash",
-  "Watermelon",
-  "Pumpkin",
-  "Other cucurbits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (26–32°C)",
-  "High humidity and rainfall",
-  "Wet leaves or prolonged dew",
-  "Soil and crop debris harboring pathogen"
- ],
- "spread": [
-  "Infected seeds",
-  "Contaminated soil",
-  "Crop debris",
-  "Wind, rain splash, irrigation water",
-  "Tools and workers",
-  "Cucumber beetles"
- ],
- "management": [
-  "Use certified disease-free seeds",
-  "Plant resistant or tolerant cultivars",
-  "Destroy infected plants and crop debris",
-  "Rotate cucurbits with non-host crops for 2–3 seasons",
-  "Prune plants to increase airflow and reduce humidity",
-  "Avoid overhead irrigation and work when plants are wet"
- ],
- "biological_control": [
-  "Trichoderma harzianum: competes with pathogen, inhibits growth up to 72%",
-  "Bacillus subtilis: bio-pesticide to prevent pathogen establishment",
-  "Plant extracts: horsetail decoction, garlic or neem extracts inhibit fungal growth",
-  "Adjust pH on leaf surface with bicarbonate to reduce fungus development"
- ],
- "chemical_control": [
-  "Difenoconazole (Score) at 0.2 L/ha",
-  "Apply early morning or late evening",
-  "Ensure proper coverage, absorbed in 2 hours",
-  "Limit to one application per season or rotate with other fungicides",
-  "Follow safety precautions (gants, masque, lunettes) and pre-harvest interval"
- ],
- "prevention": [
-  "Use certified, disease-free seeds",
-  "Remove volunteer crops and crop debris",
-  "Avoid wounding plants",
-  "Maintain good field sanitation and air circulation",
-  "Implement crop rotation with cereals, legumes, or brassicas"
- ],
- "source": [
-  "Plantwise Knowledge Bank – Anthracnose in watermelon, Mooya A.M Nzila, CABI",
-  "Sherriff et al., 1994, Experimental Mycology",
-  "US Center for Agriculture, Food and Environment",
-  "French agronomic sources on cucurbit anthracnose"
- ]
+  "disease": "Anthracnose des Cucurbites",
+  "scientific_name": "Colletotrichum orbiculare",
+  "pathogen_type": "Champignons",
+  "description": "Une maladie fongique touchant les cucurbites (cucumber, melon, courge, pastèque, citrouille). Cause des lésions sur les feuilles, les tiges et les fruits, en particulier dans des conditions chaudes, humides, pluvieuses. Peut survivre sur les graines, le sol et les débris végétaux, et se propage par la pluie, le vent, les outils, les travailleurs et les insectes.",
+  "symptoms": [
+    "Feuilles : taches grasses près des nervures, lésions angulaires brunes/rouges/noires, mort ou goutte de tissu",
+    "Tiges et pétioles : allongés, déprimés, lésions jaunâtres, peuvent produire des acervules noirs dans des conditions humides",
+    "Fruits : lésions brunes circulaires, ensanglantées, pouvant exsuder sur melon la gomme rouge; spores gélatineuses de couleur saumon sur pastèque"
+  ],
+  "hosts": [
+    "Concombre",
+    "Mélône",
+    "Courge",
+    "Pastèque",
+    "Citrouille",
+    "Autres coucurbites"
+  ],
+  "favorable_conditions": [
+    "Températures chaudes (26–32°C)",
+    "Humidité et précipitations élevées",
+    "Feuilles humides ou rosée prolongée",
+    "Débris de sol et de culture abritant un agent pathogène"
+  ],
+  "spread": [
+    "Graines infectées",
+    "Sol contaminé",
+    "Débris végétaux",
+    "Vent, éclaboussure de pluie, eau d'irrigation",
+    "Outils et travailleurs",
+    "Scarabées du concombre"
+  ],
+  "management": [
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Cultivars résistants ou tolérants aux végétaux",
+    "Détruire les plantes infectées et les débris végétaux",
+    "Rotation des cucurbites avec des cultures non hôtes pendant 2–3 saisons",
+    "Plantes de prune pour augmenter le débit d'air et réduire l'humidité",
+    "Éviter l'irrigation et le travail en cas d'humidité des plantes"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum: concurrence avec les pathogènes, inhibe la croissance jusqu'à 72%",
+    "Bacillus subtilis : biopesticide pour prévenir l'établissement d'agents pathogènes",
+    "Extraits végétaux : décoction de la queue de cheval, extraits d'ail ou de neem inhibent la croissance fongique",
+    "Ajuster le pH à la surface foliaire avec du bicarbonate pour réduire le développement des champignons"
+  ],
+  "chemical_control": [
+    "Difénoconazole (score) à 0,2 L/ha",
+    "Appliquer tôt le matin ou tard le soir",
+    "Assurer une couverture adéquate, absorbée en 2 heures",
+    "Limite à une application par saison ou rotation avec d'autres fongicides",
+    "Suivre les précautions de sécurité (manchons, masques, lunettes) et l'intervalle de pré-récolte"
+  ],
+  "prevention": [
+    "Utiliser des semences certifiées et exemptes de maladies",
+    "Enlever les cultures volontaires et les débris végétaux",
+    "Éviter de blesser les plantes",
+    "Maintien d ' une bonne hygiène sur le terrain et circulation de l ' air",
+    "Mettre en œuvre la rotation des cultures avec les céréales, les légumineuses ou les brassicas"
+  ],
+  "source": [
+    "Banque de connaissances végétales – Anthracnose dans la pastèque, Mooya A.M Nzila, CABI",
+    "Sherriff et coll., 1994, Mycologie expérimentale",
+    "Centre américain pour l'agriculture, l'alimentation et l'environnement",
+    "Sources agronomiques françaises sur l'anthracnose de la cucurbite"
+  ]
 }

@@ -1,86 +1,86 @@
 {
- "disease": "Sclerotinia Stem Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia stem rot is a fungal disease that attacks the stems of many crops. The fungus produces white cotton-like mold and black survival structures called sclerotia. Infected stems become soft, rot, and may cause the plant to collapse.",
- "symptoms": [
-  "Water-soaked lesions on stems",
-  "Soft rot on stems near the soil line",
-  "White cotton-like fungal growth on stems",
-  "Black seed-like sclerotia inside or on infected stems",
-  "Wilting and yellowing of leaves",
-  "Plants collapsing due to stem decay"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "soft watery stem rot",
-  "black hard sclerotia in infected tissue",
-  "collapsed plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Lettuce",
-  "Tomato",
-  "Beans",
-  "Peas",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "leaves",
-  "sometimes fruits"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia surviving in soil",
-  "Infected plant debris",
-  "Wind and water splash"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and form apothecia (cup-like structures)",
-  "Apothecia release spores into the air",
-  "Spores infect stems or leaves during wet conditions",
-  "New sclerotia develop on infected plants and return to the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced nutrient and water transport",
-  "Major yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve plant spacing and airflow",
-  "Remove and destroy infected plants",
-  "Manage crop residue after harvest"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Apply beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply fungicides when environmental conditions favor the disease",
-  "Use protective fungicide treatments during high-risk periods"
- ],
- "prevention": [
-  "Avoid dense planting",
-  "Monitor crops regularly during cool and wet periods",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Sclerotinia çamurlu",
+  "scientific_name": "Sclerotinia sclerotiorum Hakkında",
+  "pathogen_type": "Fonksiyon",
+  "description": "Sclerotinia kökü, birçok bitkinin köklerine saldırı yapan bir mantar hastalığıdır. mantar beyaz pamuk gibidir ve sclerotia olarak adlandırılan siyah hayatta kalma yapıları üretir. enfekte kökler yumuşak, kökleşir ve bitkinin çökmesine neden olabilir.",
+  "symptoms": [
+    "Su geçirmez yaralanmalar çamurlarda",
+    "Yumuşak çubuklar toprak çizgisinin yakınında",
+    "Beyaz pamuk gibi mantar büyümesi",
+    "Siyah tohum gibi skleroti içeride veya enfekte çamurlarda",
+    "Yaprakların sarılaşması ve sarılaşması",
+    "Bitkiler çöküş nedeniyle çöktü"
+  ],
+  "visual_symptoms": [
+    "Beyaz çamur çamur çamur üzerinde",
+    "Yumuşak su damlası",
+    "enfekte dokularda siyah sert skleroti",
+    "çökmüş bitkiler"
+  ],
+  "hosts": [
+    "Soylu",
+    "Güneş",
+    "Canola (Yakıtlı Tecavüz)",
+    "Mutluluk",
+    "domates",
+    "Beanlar",
+    "Ayak",
+    "araba",
+    "Çanakkale",
+    "Çok sayıda sebze ve dekoratif bitki"
+  ],
+  "plant_parts_affected": [
+    "oyları",
+    "Petişler",
+    "Sayfalar",
+    "Bazen meyveler"
+  ],
+  "favorable_conditions": [
+    "Soğuk sıcaklıklar",
+    "Yüksek nem",
+    "Yağmur ya da sıklıkla sulama",
+    "Yetişkin Canopy",
+    "Kötü hava dolaşımı"
+  ],
+  "spread": [
+    "Airborne, apothecia'dan serbest bırakıldı",
+    "Toprakta hayatta kalan skleroz",
+    "Enfekte bitki çöpleri",
+    "rüzgar ve su kaydırma"
+  ],
+  "disease_cycle": [
+    "Mantar birkaç yıl boyunca sklerotiya olarak toprakta hayatta kalır.",
+    "Sclerotia germinate ve form apothecia (kap gibi yapılar)",
+    "Apothecia serbest bırakma spores havaya",
+    "ıslak koşullarda enfekte çamurları veya yaprakları izler",
+    "Yeni sklerotiya enfekte bitkilerde gelişir ve topraklara geri döner"
+  ],
+  "impact": [
+    "Bitki çöküşü ve bitki çöküşü",
+    "Suyun ve besin taşımacılığının azaltılması",
+    "Hassas bitkilerde büyük hasar kaybı"
+  ],
+  "cultural_control": [
+    "Ev sahibi olmayan bitkilerle döndürülen bitkiler",
+    "Bitki alanı ve hava akışını iyileştirmek",
+    "Enfekte bitkileri kaldırmak ve yok etmek",
+    "Yetiştirildikten sonra bitki kalıntılarını yönetmek"
+  ],
+  "biological_control": [
+    "Coniothyrium minitans gibi biyolojik maddeler kullanın",
+    "Trichoderma türleri gibi faydalı mantarlar uygulayın"
+  ],
+  "chemical_control": [
+    "Çevre koşulları hastalığı teşvik ettiğinde fungicidler uygulayın",
+    "Yüksek riskli dönemlerde koruyucu fungicid tedavileri kullanın"
+  ],
+  "prevention": [
+    "yoğun bitki yetiştirmekten kaçının",
+    "Soğuk ve ıslak dönemlerde tahılları düzenli olarak izlemek",
+    "Entegre Hastalık Yönetimi Uygulamaları"
+  ],
+  "source": [
+    "Bitki Patolojisi Referansları",
+    "Tarımsal Hastalık Yönetimi Rehberi"
+  ]
 }

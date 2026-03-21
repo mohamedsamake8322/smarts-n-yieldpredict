@@ -1,0 +1,60 @@
+{
+  "disease": "Geotrichum mkpụrụ osisi ndị so ná mkpụrụ osisi ndị so ná mkpụrụ osisi ndị a na - akụ n'obodo a",
+  "scientific_name": "Geotrichum na - ekwu eziokwu",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọrịa na - asọ oyi, bụ́ nke na - eme ka mkpụrụ osisi ndị na - esi ísì ụtọ ghara ịdị ọcha, dị ka mkpụrụ osisi ndị dị n'ime ala, mlon, nakwa nke a na - emepụta n'ime mmiri, na - emetụta mkpụrụ osisi ndị chara acha ma ọ bụ ndị mebiri emebi ma na - emepụta ihe na - acha ọcha bụ́ ndị mesịrị ghọọ ihe na - esi ísì ụtọ na mmiri.",
+  "symptoms": [
+    "N'ihi ya, mmiri dị n'ime ala na - ere mkpụrụ osisi",
+    "Ihe ndị e ji esiji ákwà dị ọcha bụ́ ndị dị n'ebe ndị nwere nje ndị ahụ",
+    "Mkpụrụ osisi na - aghọ ihe na - esighị ike ma na - ada ada",
+    "Ihe na - esi ísì ọma ma ọ bụ ísì ụtọ si ná mkpụrụ osisi ndị butere ọrịa ahụ",
+    "A na - amalitekarị n'ebe ndị e merụrụ ahụ́ ma ọ bụ ndị mebiri emebi"
+  ],
+  "hosts": [
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Metaon",
+    "Mmiri dị n'ime ala",
+    "23.pkin",
+    "Trush",
+    "Ihe ọkụkụ ndị ọzọ na - egbuke egbuke"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ọ na - amị mkpụrụ ndị na - adịghị mma ma ọ bụ ndị mebiri emebi",
+    "Nsogbu Ndị Na - adịghị n'Oge A Na - edebe Ihe Ndị Dị Ndụ"
+  ],
+  "spread": [
+    "Ala e tere ágbá",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Ịchọta mkpụrụ osisi ndị bu nje ahụ",
+    "Ụgbọ mmiri na - akpata ọdachi n'oge owuwe ihe ubi ma ọ bụ n'oge a na - ebu ya"
+  ],
+  "management": [
+    "Na - amị mkpụrụ nke ọma iji zere ọnyá",
+    "Wepụ ma bibie mkpụrụ osisi ndị bu ya",
+    "Ime ka ubi na idebe ihe ọcha ka mma",
+    "Ebe a na - echekwa ihe nke ọma mgbe a na - echekwa ya",
+    "Mkpụrụ Owuwe ihe ubi mgbe ha tozuru okè n'ụzọ kwesịrị ekwesị"
+  ],
+  "biological_control": [
+    "Jiri nje ndị bara uru dị ka nje bacteria ndị dị ka nje bacteria mee ihe iji gbochie uto na - atọ ọchị nke mmiri ọgwụ ahụ́",
+    "Itinye akara na-enweghị isi-adịghị n'ime ka ọ ghara ito ngwa ngwa"
+  ],
+  "chemical_control": [
+    "Post-N'ọ́máàlụ̀ ndị nwere laalazzle",
+    "usoro ọgwụgwọ-ọ́nụ̄ n'ụlọ nchekwa",
+    "Iji ọgwụ ndị a nabatara nke ọma na - ebelata ihe ndị na - adịghị ọcha"
+  ],
+  "prevention": [
+    "Zere mmerụ ahụ́ nke mkpụrụ osisi mgbe ị na - ewe ihe ubi ma na - ebu ya",
+    "Nọgide na - edebe ebe nchekwa ihe ọcha",
+    "Wepụ ahịhịa ndị dị n'ubi",
+    "Na - amị mkpụrụ n'ọnọdụ jụrụ oyi na nke kpọrọ nkụ"
+  ],
+  "source": [
+    "Mkpụrụ ndụ ihe nketa na-enye echiche banyere ọrịa ndị na-enweghị isi-enweghị isi",
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Otú e si emepụta ọrịa"
+  ]
+}

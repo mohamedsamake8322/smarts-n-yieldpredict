@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "Media controller element",
+  "scientific_name": "Iyali: @ item Text character set",
+  "pathogen_type": "@ action",
+  "description": "A wasu lokatai, itatuwa suna kai wa mutanen da suke kai hari da itatuwa da itatuwa hari.",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "\"Kuma ya yalwata muku game da dũkiya da ɗiya, Ya sanya muku (albarka) ga gõnaki, kuma Ya sanya muku koguna.\"",
+    "Mãsu duhun inuwa.",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "KCharselect unicode block name",
+    "@ action"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "Da wata ayaba mai yawan 'ya'ya.",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "(Sunã) a cikin itãcen magarya maras ƙaya.",
+    "Da itãcen dabĩno dõgãye, sunã da'ya'yan itãce gunda mãsu hauhawar jũna."
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "Sa'an nan Ya sanya daga gare shi, nau'i biyu: namiji damace?",
+    "KCharselect unicode block name",
+    "An kasa yin duhu ko kuma an kashe wani itace kusa da shi"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "Kuma idan rãƙuma mãsu cikunna aka sakẽ su wãwai, bã ga kõwa ba.",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Sabuwar gona ta nemi sababbin shuke - shuke masu kyau"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Lõkacin da abin da yake rufe magaryar tuƙẽwa ya rufe ta.",
+    "Yin girma ya zama ruwan dare gama gari a duniya",
+    "Ci gaba da lafiyar jiki don a rage nauyin da ake samu na'ura",
+    "Ka guje wa yin amfani da itace ko kuma ka shuka abin da ake bukata daga wurare dabam - dabam"
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "' Yan Adam suna amfani da ƙasa ko kuma su yi amfani da itatuwa don su yi girma.",
+    "QXml",
+    "Tim: Ana son matasa su kalli manyan yara"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "Ana sanye da katako da kuma kayan da ake amfani da su don a kula da itatuwa da kuma kula da su",
+    "Ka Ci Gaba da Kasancewa da ƙoshin lafiya",
+    "Matattu ko kuma sun damu da itatuwa nan da nan",
+    "Yi amfani da bishiyar zaitun ko kuma makaman kāriya a inda ba za a iya samun kāriya ba"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "MU YI Hidima da ta Fi Muhimmanci",
+    "@ item Text character set",
+    "Media controller element"
   ]
 }

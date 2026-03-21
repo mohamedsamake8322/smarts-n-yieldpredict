@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "Matumizi ya Longhorn Beetle",
+  "scientific_name": "Familia ya Cerambycidae",
+  "pathogen_type": "Ugonjwa wa wanyama",
+  "description": "Longhorn wanyama ni wanyama wa kijani ambao huathiri mti na mimea ya kijani. Larvae wanyama katika mti na wanyama, kuharibu mimea na kusababisha madhara ya utamaduni, mara kwa mara kusababisha kifo cha mwenyeji.",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "Mto na tune katika mto, mtaji, au trunks",
+    "Frassi (kumbukumbu kama saudi) karibu na burudani ya kuingia",
+    "Kuongezeka au kuongezeka kwa rangi ya rangi",
+    "Mwisho wa Branches",
+    "Kuanzisha ukuaji"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "Baadhi ya mti wa haraka (oak, maple, ash)",
+    "Maji ya matunda (apple, cherry, peach)",
+    "Mti wa jua",
+    "Baadhi ya mti na shrubs"
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "Baadhi ya miti ya kuongezeka au kuongezeka",
+    "Hali ya hewa na ya hewa",
+    "Kutokana na kuanguka au kufa mti karibu"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "Wanawake wakiondoka kwenye mti wa karibu",
+    "Mabadiliko ya mafuta ya moto, logs, au madaktari magazeti",
+    "Uharibifu wa asili kwa watu wazima kutafuta mimea mpya"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "Utafiti na kuondoa miti ya kuvutia",
+    "Kuondoa na kuharibu maeneo yaliyoathiriwa",
+    "Ufuatiliaji wa idadi ya watu wazima na mbegu",
+    "Kuendeleza afya ya mti ili kupunguza uvumilivu",
+    "Kuepuka usafirishaji wa mafuta au vifaa vya mimea kutoka maeneo yaliyoathiriwa"
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "Mfumo wa insecticides (kwa mfano, imidacloprid) zilizotumika kwenye ardhi au zilizotumika katika miti",
+    "Kuwasiliana na insecticides (pyrethroids) kwenye bark kwa ajili ya kudhibiti wa watu wazima",
+    "Timu ni muhimu: lengo la larva vijana na watu wazima"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "Quarantine na utafiti wa viwanda vya mazao na matibabu yaliyochaguliwa",
+    "Kuhifadhi afya ya mti yenye nguvu",
+    "Kuondoa miti ya kufa au kuanguka kwa haraka",
+    "Kutumia mbegu za mti au vikwazo vya kulinda ambapo inawezekana"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "Usalama wa Usalama Usalama Usalama Usalama Usalama Usalama",
+    "Kumbukumbu ya aina ya Invasive",
+    "Sayansi ya Kirusi juu ya Ulinzi wa Cerambycidae"
   ]
 }

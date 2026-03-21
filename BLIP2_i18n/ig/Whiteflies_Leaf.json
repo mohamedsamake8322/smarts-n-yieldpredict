@@ -1,0 +1,129 @@
+{
+  "pest_name": "Okporo ụzọ a na - esi abanye n'ime ala, bụ́ nke e si abanye n'ime ala, na - adị ọcha n'anya",
+  "scientific_name": "Belsia alrili",
+  "common_names": [
+    "N'ụzọ dị mfe, a na - enwe ihe ndị na - acha ọcha na - acha ọcha",
+    "Otú o si acha na - acha ọcha"
+  ],
+  "description": "Ndị toworo eto na - adị sentimita iri abụọ na ise n'ogologo, na - arọkwa odo odo, nku ọcha; a na - akpọ ya nku na - acha odo odo ma ọ bụ odo odo.",
+  "hosts": [
+    "Mkpụrụ akụ́kụ́ ndị China, ihe ọkụkụ ndị na - esi ísì ọma na - eto n'elu ala, n'elu ugwu, n'ebe a na - akụ ihe ọkụkụ, n'ebe a na - akụ ihe ọkụkụ, n'ebe a na - akọ ihe n'ubi, n'ebe a na - akụ ihe ọkụkụ n'ubi, n'ebe ndị a na - akụ ihe ọkụkụ",
+    "Ihe ndị ọzọ a na - akụ n'akwụkwọ nri dị ka ihe ndị a na - eme n'oge a na - eri akwụkwọ nri"
+  ],
+  "damage": [
+    "Ọ bụrụ na ị na-agba mbọ ka ọ ghara ito ngwa ngwa, ị ga-ebutere ya ihe ubi",
+    "Mmanụ aṅụ e ji mmanụ aṅụ mee na - akwalite nnọọ ihe e ji esiji ákwà, na - ebelata ihe e ji esi nri",
+    "Ihe ndị e si na ha enweta ihe e ji ebi akwụkwọ na ihe ndị e ji ebi akwụkwọ bụ́ ndị e ji ebi akwụkwọ bụ́ ndị dị n'ebe a na - esi nri (nke a na - eji aka ya emepụta ihe)"
+  ],
+  "life_cycle": [
+    "A na - etinye ùkwù akwụkwọ n'okpuru ibe ha",
+    "Nke mbụ n'ime kpakpando ndị a na - eji agagharị agagharị bụ nke a na - eji agagharị agagharị; mgbe e mesịrị a na - eji ígwè arụ ọrụ",
+    "N'ikpeazụ n'ime ụgbọ mmiri (papa/n'anya) tupuu ndị toworo eto",
+    "Ndị toworo eto na - efe efe ngwa ngwa mgbe ihe ọkụkụ na - enye ha nsogbu"
+  ],
+  "spread": [
+    "Site n'ikuku na isi n'ihe ọkụkụ ndị dị nso kwaga",
+    "Ngwá ọrụ ma ọ bụ ndị ọrụ e metọrọ emetọ na - agbasa n'oge ochie",
+    "Ọnụ ọgụgụ na - arị elu nke ndị bi nso na - amụba mgbe ìgwè ndị njem na - adalata n'ike n'ike"
+  ],
+  "monitoring": [
+    "Lee ma è nwere ụzọ abụọ n'ime ụzọ ndị ahụ e si egwu ala mmiri ma ọ bụ kwa izu (na - enyocha ebe a na - egwu mmiri)",
+    "Ọnyà ndị na - esi ísì ọma na - enye aka ịmata mgbe mbụ ị ga - akwaga ebe ọzọ",
+    "Na - ele akwụkwọ ndị ị ga - eji na - enyocha ihe ndị dị n'ime ya"
+  ],
+  "management": {
+    "cultural": [
+      "M mbụ mọọbụ ime ka onye nwe ụlọ ghara inwe ohere ọ ga - eji mee ka ọ ghara inwe oge ọ ga - eji mee ihe ndị ọzọ",
+      "Ihe ọkụkụ ndị a kụrụ n'ubi na - esi n'ìgwè ndị ọzọ na - acha ọcha apụta",
+      "Nọgide Na - edebe Ihe ọcha: wepụ ahịhịa na ihe ọkụkụ n'egbughị oge",
+      "Ịgba ala mmiri n'ụzọ iwu na - akwadoghị na iji zere ịrị elu gabigara ókè nke ihe ọkụkụ ndị na - eme ka e nwee mmasị n'ihe ọkụkụ ndị na - acha ọcha"
+    ],
+    "biological": [
+      "Mkpụrụ ndụ ihe nketa bụ ihe ndị e ji eme ihe n'oge ochie",
+      "Ndị na - eme fim: Nsogbu ndị buru ibu, ọrịa ndị na - efe efe bụ́ ndị na - eme ka ahụ́ na - ama jijiji, bụ́ ndị na - eme ka mmiri na - agba n'ahụ́ nwanyị",
+      "N'otu obodo dị n'ebe ọdịda anyanwụ Yurop, e nwere otu nwanna nwaanyị aha ya bụ Etomo."
+    ],
+    "chemical": [
+      {
+        "name": "Cyrannnla (Exirel, Mpịakọtai)",
+        "targets": "Ndị toworo eto",
+        "MOA_group": "28"
+      },
+      {
+        "name": "ga - enyere gị aka ịna - ejidekwu onwe gị ma ọnwụnwa bịara gị",
+        "targets": "Ndị toworo eto",
+        "MOA_group": "28"
+      },
+      {
+        "name": "Sikaran (Venrem)",
+        "targets": "Ndị toworo eto",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Ihe e ji emenwu ọkụ (Adrererererererererere)",
+        "targets": "Anụ ọhịa ndị dị n'ime ala",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Mmiri ọgwụ ahụ́ bụ́ alicol (nke a na - akpọ ral 70 WP)",
+        "targets": "Nymfs/Apals",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Trupradras (Srito 200 SL)",
+        "targets": "Ihe ndị e ji eme achịcha na ihe ndị e ji esi nri",
+        "MOA_group": "4D"
+      },
+      {
+        "name": "Flax clabha (Sequaia )",
+        "targets": "Ihe ndị e ji eme achịcha na ihe ndị e ji esi nri",
+        "MOA_group": "4C"
+      },
+      {
+        "name": "Tlalelethxam (Accrea)",
+        "targets": "Nymfs/Apals",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Trithhe (Brigade 2C)",
+        "targets": "Ndị toworo eto",
+        "MOA_group": "3A"
+      },
+      {
+        "name": "Mkpụrụ akwụkwọ e ji ede ihe (nke biri ebi)",
+        "targets": "Anụ ọhịa ndị dị n'ime ala",
+        "MOA_group": "24"
+      },
+      {
+        "name": "Srelilisen (Osron 24)",
+        "targets": "Anụ ọhịa ndị dị n'ime ala",
+        "MOA_group": "24"
+      },
+      {
+        "name": "Bu bearezin (Courerier)",
+        "targets": "Anụ ọhịa ndị dị n'ime ala",
+        "MOA_group": "16"
+      },
+      {
+        "name": "Ihe ndị e ji eme ncha bụ́ ndị nwere nje ndị na - akpata ọrịa",
+        "targets": "Ndị nọ n'afọ iri na ụma na ndị toworo eto",
+        "mode": "Gị na ya nọrọ"
+      },
+      {
+        "name": "Mmanụ e ji esi mmanụ e ji esi nri (Omnini, JMOUUM-OUt)",
+        "targets": "Ndị nọ n'afọ iri na ụma na ndị toworo eto",
+        "mode": "Ịkpọtụrụ /Windo ndị ahụ/_ụzọ dọ́ọ̀kụ̀"
+      }
+    ],
+    "organic": [
+      "Beluialanaa and Isaasososora iji gbochie ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+      "Ihe ndị e ji asa ezé na mmanụ dị warara",
+      "Shet-killllililignath century. (Verrav)"
+    ],
+    "resistance_management": [
+      "Tụgharịa uche n'ụdị dị iche iche",
+      "Usoroiheomume nke a kara chọọ"
+    ]
+  },
+  "notes": "A dịghị eguzobe ebe ndị a na - edebe ihe ndị e ji ebi ndụ nke ọma; n'ebe a na - edebe ihe n'ala ma ọ bụ n'ebe a na - edebe ihe n'ala, n'ógbè ndị a na - elekọta ndị mmadụ, ọ na - akasị mma ma ọ bụrụ na ebe a na - egwu ihe n'ọnụ ụzọ dị elu karịa n'ọnụ ọnụ ala."
+}

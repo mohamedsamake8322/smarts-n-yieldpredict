@@ -1,74 +1,74 @@
 {
-  "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
-  "common_name": "Black rot of crucifers",
-  "scientific_name": "Xanthomonas campestris pv. campestris",
-  "pathogen_type": "Bacterium",
-  "description": "Black rot is a serious bacterial disease affecting cruciferous crops. It is caused by the bacterium Xanthomonas campestris pv. campestris and spreads mainly through infected seeds, plant debris, water splash, and contaminated tools. The pathogen enters plants through hydathodes at the leaf margins or through wounds, then spreads through the vascular system, causing characteristic blackened veins and leaf necrosis.",
+  "disease_name": "十字架_Xanthomonas_campestris_pv_campestris_Black_rot",
+  "common_name": "十字十字架的黑色腐烂",
+  "scientific_name": "Xanthomonas 野营",
+  "pathogen_type": "细菌",
+  "description": "黑腐是一种严重的细菌疾病,影响着十字架作物。 黑腐是细菌Xanthomonas 野营病原造成的,主要通过受感染的种子、植物残块、水滴和被污染的工具传播。 病原体通过叶边的海绵或伤口进入植物,然后通过血管系统扩散,导致典型的黑静脉和叶子坏死。",
   "hosts": [
-    "Cabbage",
-    "Broccoli",
-    "Cauliflower",
-    "Brussels sprouts",
-    "Kale",
-    "Radish",
-    "Turnip",
-    "Mustard",
-    "Other cruciferous crops (Brassicaceae family)"
+    "菜菜菜",
+    "花花椰菜",
+    "花椰菜花",
+    "布鲁塞尔芽",
+    "卡莱",
+    "半紫",
+    "",
+    "芥芥末",
+    "其他十字路口作物(Brassiicaceae家庭)"
   ],
   "symptoms": [
-    "Yellow V-shaped lesions starting from leaf margins",
-    "Lesions progressing toward the center of the leaf",
-    "Blackening of leaf veins",
-    "Leaf wilting and necrosis",
-    "Stunted plant growth",
-    "Severe infections may cause plant death"
+    "从叶边开始的黄色V形损伤",
+    "向叶中央进发的遗迹",
+    "叶叶静脉的黑化",
+    "叶叶枯枯和坏死",
+    "抑制植物生长",
+    "严重感染可能导致植物死亡"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall or overhead irrigation",
-    "Presence of infected seeds",
-    "Mechanical injuries on plants"
+    "温度(25-30°C)",
+    "高湿湿度",
+    "频繁降雨或临时灌溉",
+    "受感染种子的存在",
+    "工厂机械伤害"
   ],
   "management": {
     "monitoring": [
-      "Regular field scouting for V-shaped lesions on leaves",
-      "Inspection of seedlings and young plants",
-      "Monitoring fields after periods of rain or high humidity"
+      "对树叶上的V形损伤进行常规实地侦察",
+      "对幼苗和幼苗植物的检查",
+      "降雨或高湿度后监测田地"
     ],
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Practice crop rotation for at least 3–4 years",
-      "Remove and destroy infected plant residues",
-      "Avoid overhead irrigation to reduce leaf wetness",
-      "Disinfect agricultural tools and equipment",
-      "Plant resistant or tolerant varieties when available"
+      "使用经核证的无疾病的种子",
+      "实际作物轮作至少3-4年",
+      "清除和销毁受感染植物残留物",
+      "避免高空灌溉,以减少叶叶湿度",
+      "驱除农业工具和设备",
+      "现有耐植物植物或耐植物的品种"
     ],
     "biological_control": {
       "microorganisms": [
-        "Bacillus subtilis",
-        "Bacillus amyloliquefaciens",
-        "Pseudomonas fluorescens"
+        "Bacillus 亚基",
+        "氨基氨基氨基辛基氨基辛基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基",
+        "氟化烃"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control of bacterial diseases is limited. Copper-based bactericides are commonly used as preventive treatments.",
+      "note": "对细菌疾病的化学控制有限,铜基杀菌剂通常用作预防性治疗。",
       "active_ingredients": [
-        "Copper hydroxide",
-        "Copper oxychloride",
-        "Copper sulfate"
+        "氢氧化铜",
+        "氧化氯化铜",
+        "硫酸铜"
       ]
     }
   },
-  "economic_importance": "Black rot can cause significant yield losses in cruciferous crops worldwide. Severe infections may destroy entire fields, particularly in warm and humid climates where the disease spreads rapidly.",
+  "economic_importance": "黑腐可能会在全世界受难作物中造成巨大的产量损失。 严重的感染可能会摧毁整个农田,特别是在疾病迅速蔓延的温暖和潮湿气候中。",
   "references": [
-    "Agrios, G. N. Plant Pathology.",
-    "CABI Crop Protection Compendium.",
-    "FAO Integrated Pest Management resources.",
-    "Wikipedia – Black rot of crucifers."
+    "Agrios, G.N.植物病理学。",
+    "CABI 作物保护简编。",
+    "粮农组织虫害综合防治资源。",
+    "维基百科 — — 十字架的黑腐烂。"
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
-    "https://www.cabi.org"
+    "http://en.wikipedia.org/wiki/Xanthomonas_campestris https://en.wikipedia.org/wiki/Xanthomonas_campestris https://en.wikipedia.org/wiki/Xanthomonas_campestris",
+    "http://www.cabi.org"
   ]
 }

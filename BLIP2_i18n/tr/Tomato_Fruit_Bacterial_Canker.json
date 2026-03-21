@@ -1,72 +1,81 @@
 {
-  "disease_name": "Tomato Fruit Bacterial Canker",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
-  "type": "bacterial pathogen",
+  "disease_name": "Tomat Meyveleri Bakteriyel Kanser",
+  "causal_agent": "Clavibacter michiganensis pv.",
+  "type": "Bakteriyel Patogen",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
-    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Pirinç ( Capsicum spp )",
+      "Yumurta Bitkileri (Solanum melongena L)"
+    ],
+    "weeds": [
+      "Perennial gece gölgesi (Solanum douglasii)",
+      "Siyah gece gölgesi (S. nigrum)",
+      "S. Üçlü"
+    ]
   },
-  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "distribution": "Dünya çapında; özellikle sera ve alan yetiştirilmiş domateslerde sorunlu",
   "symptoms": {
     "seedlings": [
-      "No symptoms in most cases",
-      "Young plants may show poor growth or temporary branch wilting"
+      "Çoğu durumda belirtileri yoktur.",
+      "Genç bitkiler zayıf büyüme gösterebilir veya geçici şubeler"
     ],
     "mature_plants_systemic": [
-      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
-      "Stunted growth and general plant wilting",
-      "Yellow to reddish-brown pith with mealy appearance",
-      "Stem streaks, branch breakage, and potential plant death"
+      "Yumuşak, sarı, yumuşak ve en eski yaprakların tıraş",
+      "Sıkıntılı büyüme ve genel bitki tahriş",
+      "Yellow to reddish-brown pith ile mealy görünüm",
+      "Ses çöküşleri, dal çöküşü ve potansiyel bitki ölümü"
     ],
     "mature_plants_secondary": [
-      "Dark brown to almost black lesions on leaf margins",
-      "Round or irregular leaf spotting",
-      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
-      "Vascular tissue under calyx may be discolored, affecting seeds"
+      "Karanlık kahverengi, yaprak kenarlarında neredeyse siyah yaralanmalar",
+      "Çerçeve veya düzensiz çerçeve",
+      "Meyve: sarı kahverengi kalıcı beyaz halo (bir kuş gözü) ile yükseltilmiş noktalar ~3 mm çapında",
+      "Kalik altında vasküler doku bozulabilir, tohumları etkileyebilir"
     ]
   },
   "disease_cycle": {
-    "introduction": "Through infected seeds or transplants",
-    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "introduction": "Enfekte tohumlar veya transplantasyonlar",
+    "overwintering": "3 yıla kadar bitki kalıntılarında; tahıllarda; sera malzemelerinde (kırışıklıklar, tahıllar, tahıllar)",
     "spread": [
-      "Windblown rain and sprinkler irrigation",
-      "Mechanical cultivation and hand harvesting",
-      "Overhead irrigation splash from infected plants",
-      "Direct contact with infected plants or equipment"
+      "Windblown yağmur ve sprinkler sulama",
+      "Mekanik yetiştirme ve el hasat",
+      "Enfekte bitkilerden aşırı sulama splash",
+      "Enfekte bitkiler veya ekipmanlarla doğrudan temas"
     ],
-    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+    "entry": "Bakteriler, cotyledonlarda küçük yaralar yoluyla tohumlara girer ve sistematik olarak xylem yoluyla hareket eder."
   },
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants",
-      "Plant certified clean transplants",
-      "Strict monitoring of seed fields; discard contaminated lots",
-      "Soak seed in 130°F water for 25 minutes"
+      "Hastalığı olmayan tohumlar ve transplantasyonlar",
+      "Bitki Sertifikası Temiz Transplantasyonlar",
+      "Tohum alanlarının sıkı izlenmesi; kirlenmiş tohumları ortadan kaldırmak",
+      "25 dakika boyunca 130°F suya dökülür."
     ],
     "greenhouse_measures": [
-      "Steam potting mix and flats",
-      "Disinfect benches, flats, and irrigation hoses",
-      "Empty greenhouses between crops"
+      "Steam potting mix ve flats",
+      "Dezenfekte çubuklar, çubuklar ve sulama kasları",
+      "Bitkiler arasındaki boş sera"
     ],
     "field_measures": [
-      "Avoid working when foliage is wet",
-      "Incorporate all plant tissue at season's end",
-      "Rotate fields out of tomato for at least one year",
-      "Control related weeds around fields"
+      "Foyage ıslak olduğunda çalışmaktan kaçının",
+      "Tüm bitki dokusunu sezon sonuna kadar ekleyin",
+      "En az bir yıl boyunca domates dışına döndürme alanları",
+      "Alanlar etrafında bağlantılı bitki kontrolü"
     ],
     "chemical_control": [
-      "Repeated copper applications may reduce disease spread but are not fully reliable",
-      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+      "Tekrarlanan bakır uygulamaları hastalığın yayılmasını azaltabilir, ancak tamamen güvenilir değildir.",
+      "Yüzey dezenfektanları: beyazlatma (0.5-1% kalsiyum veya sodyum hipoklorit), Physan, vb."
     ]
   },
   "notes": [
-    "Economic losses in direct-seeded fields are usually uncommon",
-    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
-    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+    "Doğrudan toplanmış alanlarda ekonomik kayıplar genellikle alışılmadık",
+    "Çok az bakteri ile tohum kirliliği önemli bir sera enfeksiyonuna yol açabilir",
+    "Sistemik enfeksiyonlar baktericidlerle tedavi edilemez; odak önleme ve sanitasyon"
   ],
   "references": [
-    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
-    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+    "HTTPS://ucanr.edu/ siteleri/UCIPM/Tomato_Leaf_Canker/",
+    "HTTPS://www.apsnet.org/edcenter/intropp/lesons/bacteria/Pages/Clavibacter.aspx"
   ]
 }

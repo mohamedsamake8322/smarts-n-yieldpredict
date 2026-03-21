@@ -1,68 +1,68 @@
 {
- "pest": "Fruit Bollworm",
- "scientific_name": "Helicoverpa armigera",
- "pathogen_type": "Insect (Lepidoptera moth larva)",
- "description": "A highly destructive caterpillar pest found in tropical and subtropical regions. The larvae feed on leaves, flowers, and fruits of many crops, especially tomato and cotton, causing major yield losses.",
- "symptoms": [
-  "Small holes on young leaves caused by early larvae feeding",
-  "Small entry holes on fruits, often near the stalk",
-  "Caterpillars feeding inside fruits",
-  "Damaged or mined fruits with internal feeding",
-  "Fruits stop growing, ripen early, and drop from the plant",
-  "Damaged flowers and pierced seed pods in legumes"
- ],
- "hosts": [
-  "Tomato",
-  "Cotton",
-  "Sorghum",
-  "Sweet corn",
-  "Beans",
-  "Soybean",
-  "Tobacco",
-  "Sunflower",
-  "Melon",
-  "Various fruit crops"
- ],
- "favorable_conditions": [
-  "Warm tropical and subtropical climates",
-  "High availability of host crops",
-  "Greenhouse conditions for tomato production"
- ],
- "spread": [
-  "Adult moths laying eggs on leaves and fruits",
-  "Larvae moving between nearby plants",
-  "Migration of adult moths between crop fields"
- ],
- "management": [
-  "Regular monitoring of crops for eggs and young larvae",
-  "Remove and destroy infested fruits",
-  "Use pheromone traps to monitor moth populations",
-  "Encourage natural predators and parasitoids",
-  "Use resistant or tolerant crop varieties when available"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt) bioinsecticide sprays",
-  "Release of parasitoid wasps such as Trichogramma species",
-  "Predators such as lady beetles, lacewings, and birds",
-  "Entomopathogenic fungi like Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Indoxacarb",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin (use with resistance management)"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Field sanitation and removal of crop residues",
-  "Use pheromone traps for early detection",
-  "Install insect netting in greenhouses",
-  "Maintain balanced fertilization to avoid excessive plant growth"
- ],
- "source": [
-  "Agricultural pest management guides",
-  "Greenhouse crop protection literature",
-  "Helicoverpa armigera pest management references"
- ]
+  "pest": "Matunda ya Bollworm",
+  "scientific_name": "Mwisho wa Helicoverpa Armigera",
+  "pathogen_type": "Wanyama (Lepidoptera moth larva)",
+  "description": "Uharibifu mkubwa wa caterpillar unapatikana katika mikoa ya tropical na subtropical. larvae hutoa majani, maua, na matunda ya matunda mengi, hasa tomato na cotton, ambayo hufanya uharibifu mkubwa wa bidhaa.",
+  "symptoms": [
+    "Nyumba ndogo kwenye tiketi ndogo zilizoathiriwa na matibabu ya mapema ya larva",
+    "Ndani ndogo ya kuingia juu ya matunda, mara nyingi karibu na stalk",
+    "Matunda ya Caterpillars ndani ya matunda",
+    "Matunda ya kuharibiwa au kuharibiwa na chakula cha ndani",
+    "Matunda kuacha kukua, kuanguka mapema, na kuanguka kutoka kwa mimea",
+    "Maua ya kuharibiwa na mbegu za mimea katika matunda ya mimea"
+  ],
+  "hosts": [
+    "Mji wa Tomato",
+    "Baadhi ya Cotton",
+    "Maombi ya",
+    "Maua ya nguruwe",
+    "ya Beans",
+    "Soya ya",
+    "Mafuta ya Tabaka",
+    "Maua ya jua",
+    "Meloni ya",
+    "Matunda mbalimbali ya matunda"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa ya tropical na subtropical",
+    "Uwezekano wa juu wa matunda ya mwenyeji",
+    "Hali ya hewa kwa uzalishaji wa tomato"
+  ],
+  "spread": [
+    "Mtoto wa watu wazima huweka maua juu ya tiketi na matunda",
+    "Vifaa vya kuongezeka kati ya mimea ya karibu",
+    "Uhamiaji wa matunda ya watu wazima kati ya maeneo ya matunda"
+  ],
+  "management": [
+    "Ufuatiliaji wa mara kwa mara wa mimea kwa maua na larva vijana",
+    "Kuondoa na kuharibu matunda ya kuvutia",
+    "Matumizi ya mbegu za pheromone kwa kufuatilia idadi ya watu",
+    "Kuimarisha predators ya asili na paraziti",
+    "Tumia aina ya mimea ya kudumu au ya kudumu wakati inapatikana"
+  ],
+  "biological_control": [
+    "Bacillus thuringiensis (Bt) ya bioinsecticide",
+    "Kuondoa wanyama wa parazit, kama vile aina ya Trichogramma",
+    "Wapiganaji kama vile nyama ya mwanamke, nyama, na ndege",
+    "Maumivu ya kawaida kama Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "ya Spinoza",
+    "ya Emamectin benzoate",
+    "Mafuta ya Indoxacarb",
+    "ya chlorantraniliprole",
+    "Lambda-cyhalothrin (kuhusishwa na usimamizi wa upinzani)"
+  ],
+  "prevention": [
+    "Mzunguko wa mimea na mimea yasiyo ya mimea",
+    "Usalama wa ardhi na kuondoa mbegu za mimea",
+    "Matumizi ya mbegu za pheromone kwa ajili ya kutambua mapema",
+    "Kuendesha mimea ya wanyama katika nyumba za greenhouse",
+    "Kuhifadhi mazao ya kiwango cha juu ili kuepuka uzalishaji mkubwa wa mimea"
+  ],
+  "source": [
+    "Ulinzi wa Kazi ya Kazi ya Kazi",
+    "Usalama wa mazao ya Greenhouse",
+    "Mchakato wa Helicoverpa Armigera"
+  ]
 }

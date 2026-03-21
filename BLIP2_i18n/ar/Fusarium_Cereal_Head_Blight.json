@@ -1,69 +1,69 @@
 {
- "disease": "Fusarium Head Blight",
- "scientific_name": "Fusarium graminearum (main species)",
- "pathogen_type": "Fungus",
- "description": "A serious fungal disease of cereal crops that infects the heads of plants such as wheat and barley. It reduces grain yield and quality and can produce a toxic compound (mycotoxin) in the grain.",
- "symptoms": [
-  "Premature bleaching of cereal heads",
-  "One or more spikelets turn white while the rest remain green",
-  "Pink or orange fungal spores at the base of glumes",
-  "Whitish or pink fluffy fungal growth on infected heads in wet weather",
-  "Shriveled, lightweight and bleached kernels (tombstone kernels)"
- ],
- "hosts": [
-  "Wheat",
-  "Durum wheat",
-  "Barley",
-  "Oats",
-  "Corn (maize)",
-  "Rye",
-  "Wild and cultivated grasses"
- ],
- "favorable_conditions": [
-  "Warm temperatures around 25°C",
-  "High humidity or continuous moisture for 36 hours",
-  "Rain during flowering stage",
-  "Presence of infected crop residues in the field"
- ],
- "spread": [
-  "Wind-borne spores from infected residues",
-  "Rain splash spreading spores between plants",
-  "Planting infected seeds",
-  "Movement of contaminated crop residues or grain"
- ],
- "management": [
-  "Use resistant or tolerant cereal varieties",
-  "Rotate crops and avoid planting cereals after corn",
-  "Use clean certified seeds",
-  "Apply seed treatment before planting",
-  "Scout fields during flowering for symptoms",
-  "Harvest early when infection risk is high",
-  "Dry and aerate grain properly during storage"
- ],
- "biological_control": [
-  "Trichoderma species used as biological antagonists in soil or seed treatment",
-  "Beneficial microbes to suppress Fusarium in crop residues"
- ],
- "chemical_control": [
-  "Apply triazole fungicides (e.g. tebuconazole, prothioconazole, metconazole) during flowering stage",
-  "Use registered fungicides according to local agricultural recommendations"
- ],
- "prevention": [
-  "Rotate crops for at least 2 years with non-host crops",
-  "Manage crop residues by tillage or decomposition",
-  "Avoid highly susceptible varieties",
-  "Use proper irrigation management during flowering",
-  "Separate and test contaminated grain before feeding livestock"
- ],
- "impact": [
-  "Reduced grain yield and quality",
-  "Production of mycotoxin deoxynivalenol (DON)",
-  "Contaminated grain affects food processing, malting and biofuel production",
-  "High DON levels reduce feed intake and immunity in livestock"
- ],
- "source": [
-  "Alberta Agriculture – Fusarium Head Blight",
-  "Canadian Grain Commission",
-  "Plant pathology literature on cereal diseases"
- ]
+  "disease": "أولاً- أولاً- أولاً- مقدمة",
+  "scientific_name": "(الأنواع الرئيسية)",
+  "pathogen_type": "المنقوس",
+  "description": "وهو مرض فطري خطير من محاصيل الحبوب يصيب رؤوس النباتات مثل القمح والشعير، ويقلل من غلة الحبوب ونوعيتها، ويمكن أن ينتج مركبا ساما (mycotoxen) في الحبوب.",
+  "symptoms": [
+    "ما قبل ما قبل ما قبل ما قبل ما قبل تجليات الحبوب",
+    "واحد أو أكثر من المُسْطَلَ أو أكثر يَنْقلبُ أبيضُ بينما الباقي يَبْقى أخضرَ",
+    "بزوغات وردية أو برتقالية في قاعدة الكسور",
+    "نمو النمو الفطري على الرؤوس المصابة في الطقس الرطب",
+    "نوايل مذوبة، خفيفة الوزن، ومُبيَّضة (نوايات طمبب الحجر)"
+  ],
+  "hosts": [
+    "الصبح",
+    "(أ) ما إذا كان مقرراً",
+    "مُسند",
+    "",
+    "الكورنة (التروية)",
+    "الرايش",
+    "البرية والمزروعة"
+  ],
+  "favorable_conditions": [
+    "درجة حرارة حرارة درجة حرارة درجة حرارة درجة حرارة حول درجة حرارة درجة حرارة حول درجة حرارة درجة حرارة حول 25 درجة مئوية",
+    "الرطوبة العالية أو الرطوبة المستمرة لمدة 36 ساعة",
+    "المطر أثناء مرحلة الزهرة",
+    "وجود بقايا المحاصيل المصابة في الميدان"
+  ],
+  "spread": [
+    "بُوغات الرياح المحمولة من المخلفات المُصابة",
+    "تَطْرُحُ مَطْرُسَ بَيْنَ مَنْ مِنْ",
+    "مُحْكِكة",
+    "حركة مخلفات أو حبات المحاصيل الملوثة"
+  ],
+  "management": [
+    "الأصناف المقاومة أو المهيكة للاستخدام",
+    "- دوران المحاصيل وتجنب زراعة الحبوب بعد الذرة؛",
+    "استخدام البذور الموثقة النظيفة",
+    "تطبيق العلاج قبل الغرس",
+    "ميادين الكشافة أثناء الزهرة من أجل الأعراض",
+    "يجري في وقت مبكر عندما يكون خطر الإصابة مرتفعاً",
+    "(و) والحبوب الجافة والجافة والحبوب أثناء تخزينها بصورة سليمة"
+  ],
+  "biological_control": [
+    "استخدام أنواع التريشودرما المستخدمة كمفارقات بيولوجية في معالجة التربة أو البذور",
+    "الميكروبات المنتفعة من قمع التراكم في مخلفات المحاصيل"
+  ],
+  "chemical_control": [
+    "تُطبق مبيدات فطريات ثلاثيازول (مثل التيبوكونازول، البروثيوكونازول، الميكونازول، الميكونازول) أثناء مرحلة الزهرة",
+    "استخدام مبيدات الفطريات المسجلة وفقاً للتوصيات الزراعية المحلية"
+  ],
+  "prevention": [
+    "محاصيل دورانية لمدة سنتين على الأقل مع محاصيل غير مستهلكة",
+    "مخلفات محصول العرض بالحر أو التحلل",
+    ":: تجنب الأنواع شديدة التعرض",
+    "الاستخدام السليم لإدارة الري أثناء الزهرة",
+    "الحبوب المنفصلة والملوثة بالاختبار قبل إطعام الماشية"
+  ],
+  "impact": [
+    "انخفاض غلة الحبوب ونوعيتها",
+    "إنتاج ميكوتوكسين ديوكسين فيكالينول (DON)",
+    "تؤثر الحبوب الملوثة على تجهيز الأغذية، والأكل الصحي وإنتاج الوقود الأحيائي",
+    "الحد من مستوى الحد المرتفع من استهلاك العلف والحصانة في المواشي"
+  ],
+  "source": [
+    "الزراعة في ألبرتا -",
+    "لجنة الحبوب الكندية",
+    "دراسات علم النبات عن أمراض الحبوب"
+  ]
 }

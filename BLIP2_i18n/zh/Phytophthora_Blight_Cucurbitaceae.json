@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "的植物食谱之光",
+  "scientific_name": "眼眼科",
+  "pathogen_type": "Oomycete(类似蘑菇的有机体)",
+  "description": "肉眼发炎是食道作物的破坏性疾病,由水下和湿润条件下的树苗、葡萄树、树叶和水果感染,往往导致植物迅速崩溃和作物严重损失。",
+  "symptoms": [
+    "在土壤线上用浸水的腐烂腐烂的树苗拖拉拉",
+    "植物蒸发,无黄叶叶",
+    "干茎和葡萄上浸水的深色病变",
+    "橄榄或黄或橄榄边界腐烂的叶斑点",
+    "水果从触及土壤的地方开始腐烂",
+    "腐烂水果的白芽生长",
+    "水果迅速崩溃和腐烂"
+  ],
+  "visual_symptoms": [
+    "花茎和葡萄上浸水的腐蚀",
+    "在受感染的水果上涂上白色的模子",
+    "柔软的腐烂南瓜、黄瓜或瓜",
+    "突然的植物 和葡萄树倒塌"
+  ],
+  "hosts": [
+    "黄瓜",
+    "南瓜",
+    "安静",
+    "西瓜",
+    "坎塔罗普",
+    "蜜瓜甜甜瓜",
+    "",
+    "辣椒",
+    "番茄",
+    "茄子种植"
+  ],
+  "plant_parts_affected": [
+    "幼苗",
+    "根根",
+    "树冠数",
+    "葡萄树",
+    "叶叶叶",
+    "果果"
+  ],
+  "favorable_conditions": [
+    "温度(20-30°C)",
+    "水饱和土壤",
+    "暴雨或洪水",
+    "贫乏的田地",
+    "频繁灌溉"
+  ],
+  "spread": [
+    "土壤中的水流动",
+    "雨水喷雨",
+    "灌溉用水",
+    "受污染土壤和农用设备",
+    "受感染植物碎片"
+  ],
+  "disease_cycle": [
+    "几年来,病原体在土壤中作为食水动物生存",
+    "发芽和生产草药和动物食动物",
+    "动物动物在水中游泳,感染植物组织",
+    "在受感染的植物上形成新的微粒,通过水或雨水传播"
+  ],
+  "impact": [
+    "严重植物枯萎和死亡",
+    "水果在田地或储藏室腐烂",
+    "暴雨后迅速蔓延的疾病",
+    "严重爆发的暴发中,产量损失高达100%"
+  ],
+  "cultural_control": [
+    "田里的植物,",
+    "避免过度灌溉",
+    "利用加盖床位种植二次作物",
+    "至少有3年非主机作物的旋转字段",
+    "清除和销毁受感染植物",
+    "在田间移动前的清洁农场设备"
+  ],
+  "chemical_control": [
+    "使用甲基氟氧辛或金属氧基的种子治疗",
+    "花粉喷雾",
+    "基于铜的杀真菌剂",
+    "在湿湿条件下经常使用杀真菌剂"
+  ],
+  "prevention": [
+    "使用没有前疾病史的干净字段",
+    "避免受污染灌溉用水",
+    "暴雨后监测田",
+    "迅速除去已感染的水果"
+  ],
+  "source": [
+    "伊利诺伊大学植物健康教官",
+    "Babadoost M. 2005年。 食道动物"
+  ]
 }

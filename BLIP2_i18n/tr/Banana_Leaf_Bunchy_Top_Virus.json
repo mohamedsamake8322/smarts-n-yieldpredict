@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "Banana Bunchy Top Hastalığı",
+  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus Hakkında",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana bunchy top virus",
+    "type": "Virüsler",
+    "name": "Banana Bunchy Top Virüsü",
     "abbreviation": "BBTV",
-    "family": "Nanoviridae",
-    "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "family": "Nanoviridae için",
+    "genus": "Babuvirüs",
+    "genome": "Çevre tek taraflı DNA (ssDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Bananlar (Musa spp)",
     "other_hosts": [
-      "Plantain",
-      "Abaca"
+      "Bitkiler",
+      "Abacı"
     ],
     "vector_alternate_hosts": [
-      "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "Helikopter",
+      "Çiçekli Ginger (Zingiberaceae)"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "Yazıları",
+    "Phloem dokusu",
+    "Meyve",
+    "Tüm bitki büyümesi"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
-    "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "type": "böcekler",
+    "name": "Bananlar aphid",
+    "scientific_name": "Pentalonia nigronervosa Hakkında",
+    "transmission_type": "Propagatif olmayan dolaşım"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "Karanlık yeşil çizgiler yaprak damarları boyunca",
+      "Kısa ve dar genç yapraklar",
+      "Morse kodu kağıt peteol üzerinde çarpıyor"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "Yapraklar düz ve gruplaşır",
+      "Sarı ve kloroz yaprakları",
+      "Düşük yaprak boyutu"
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "Bunchy görünüşü bitkinin üstünde",
+      "Güçlü Bitki Stunting",
+      "Deformalı veya eksik meyveler"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "Floem dokusu üzerinde Aphid beslenmesi",
+      "Enfekte çilekler yetiştirmek",
+      "Enfekte bitki malzemelerinin hareketleri"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "çok yüksek",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "Güçlü Bitki Stunting",
+      "Düşük veya eksik meyve üretimi",
+      "Deformasyon Banana Çubukları",
+      "Banan üretiminde büyük ekonomik kayıplar"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
-    "Taiwan",
-    "India",
+    "Güneydoğu Asya",
+    "Filipinler",
+    "Tayvan",
+    "Hindistan",
     "Pakistan",
-    "East Asia",
-    "Oceania",
-    "Pacific Islands",
+    "Doğu Asya",
+    "Okyanus",
+    "Pasifik Adaları",
     "Hawaii",
-    "Africa"
+    "Afrika"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "Banana streak virüsü",
+    "Banana mosaik virüsü",
+    "Chlorosis neden olan besin eksikliği"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "Virüssüz bitki malzemesi kullanın",
+      "Enfekte bitkileri ortadan kaldırmak ve yok etmek (roguing)",
+      "Enfekte çileklerin yetiştirilmesinden kaçının"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "Banana aphid popülasyon kontrolü",
+      "Imidacloprid veya carbaryl gibi böcek ilacı kullanın",
+      "Monitör alternate aphid ev sahipliği bitkileri"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "Sıkı Karantina Kuralları",
+      "Yetiştirme malzemelerinin hareketini izlemek",
+      "Sertifikalı kumaş kültürü bitkilerinin kullanımı"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "faydalı bakterilerle biopriming",
+      "dayanıklı banana çeşitleri geliştirme"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "Enfekte Banana Yetiştirme Malzemesi Hareketi",
+    "Banana aphid popülasyonlarının varlığı",
+    "Kötü çiftlik sanitasyon uygulamaları"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
-    "Queensland Department of Agriculture"
+    "FAO Bitki Hastalıkları Raporu",
+    "ICTV Virüs Taksonları",
+    "Bitki Patolojisi Dergisi",
+    "Hawaii Üniversitesi Bitki Hastalıkları Yayınları",
+    "Queensland Tarım Bölümü"
   ]
 }

@@ -1,56 +1,72 @@
 {
   "pest_name": "Halo Blight",
   "scientific_name": "Pseudomonas syringae pv. phaseolicola",
-  "common_abbreviations": ["Pseudomonas blight", "bean halo blight", "Phaseolous blight", "bacterial leaf spot of beans"],
-  "description": "Halo blight is a bacterial disease of beans caused by Pseudomonas syringae pv. phaseolicola. It is seedborne and thrives under cool, humid conditions.",
-  "distribution": "Worldwide, especially in temperate and subtropical regions of North America, South America, Europe, Africa, and Asia.",
+  "common_abbreviations": [
+    "Pseudomonas brumeux",
+    "Halo-brûlure de haricots",
+    "Brûlures progressives",
+    "tache bactérienne des feuilles de haricots"
+  ],
+  "description": "Le mildiou est une maladie bactérienne des haricots causée par Pseudomonas syringae pv. phaseolicola. Il est transmis par les graines et prospère dans des conditions fraîches et humides.",
+  "distribution": "Dans le monde entier, en particulier dans les régions tempérées et subtropicales de l'Amérique du Nord, de l'Amérique du Sud, de l'Europe, de l'Afrique et de l'Asie.",
   "host_range": {
-    "general": "Primarily beans (Phaseolus spp.)",
-    "notable_hosts": ["Light Red Kidney drybean", "Other common bean varieties"]
+    "general": "Haricots (Phaseolus spp.)",
+    "notable_hosts": [
+      "Haricots secs au rein rouge clair",
+      "Autres variétés de haricots communs"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Small water-soaked lesions initially",
-      "Lesions surrounded by yellow-green halo",
-      "Lesions expand and coalesce into large necrotic areas",
-      "Irregular brown necrotic spots as disease progresses",
-      "Severe cases: extensive defoliation, reduced vigor"
+      "Petites lésions apaisées par l'eau initialement",
+      "Lésions entourées d'auréole jaune-vert",
+      "Les lésions s'étendent et se fondent dans de grandes zones nécrotiques",
+      "Les taches nécrotiques brunes irrégulières au fur et à mesure de l'évolution de la maladie",
+      "Cas sévères : défoliation extensive, vigueur réduite"
     ],
     "pod": [
-      "Dark, sunken lesions with greasy appearance",
-      "Discolored or shriveled seeds"
+      "Lésions sombres, ensanglantées et d'aspect gras",
+      "Graines décolorées ou râpées"
     ]
   },
   "damage": [
-    "Significant yield and seed quality reduction",
-    "Can cause complete crop failure in high-incidence fields",
-    "Weakened plants more susceptible to secondary infections",
-    "Quarantine restrictions due to infected seed lots"
+    "Réduction significative du rendement et de la qualité des semences",
+    "Peut causer une défaillance complète des cultures dans les champs à forte incidence",
+    "Plantes faibles plus sensibles aux infections secondaires",
+    "Restrictions à la quarantaine dues aux lots de semences infectés"
   ],
   "biology": {
-    "pathogen_type": "Seedborne bacterium",
-    "survival": "Persists in crop debris and contaminated plant surfaces",
-    "infection_routes": ["Through natural openings (stomata, hydathodes)", "Wounds"],
-    "favorable_conditions": "Cool (16–24°C), humid environments",
-    "spread": ["Infected seeds", "Rain splash", "Irrigation", "Mechanical contact"]
+    "pathogen_type": "Bactérie à base de graines",
+    "survival": "Persists dans les débris végétaux et les surfaces des plantes contaminées",
+    "infection_routes": [
+      "Par des ouvertures naturelles (stomates, hydathodes)",
+      "Blessures"
+    ],
+    "favorable_conditions": "Cool (16-24°C), milieux humides",
+    "spread": [
+      "Graines infectées",
+      "éclaboussure de pluie",
+      "Irrigation",
+      "Contact mécanique"
+    ]
   },
   "management": {
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Crop rotation with non-hosts",
-      "Avoid overhead irrigation",
-      "Proper field sanitation"
+      "Utiliser des semences certifiées exemptes de maladies",
+      "Rotation des cultures avec les non-hôtes",
+      "Éviter l'irrigation aérienne",
+      "Assainissement sur le terrain"
     ],
     "chemical_control": [
-      "Copper-based bactericides to suppress spread",
-      "Seed treatments to prevent early infection"
+      "Bactéricides à base de cuivre pour supprimer la propagation",
+      "Traitements de semences pour prévenir les infections précoces"
     ],
     "genetic_control": [
-      "Planting resistant varieties to reduce reliance on chemicals"
+      "Variétés résistantes à la plantation pour réduire la dépendance à l'égard des produits chimiques"
     ]
   },
   "notes": [
-    "Integrated management combining cultural, chemical, and genetic strategies is most effective",
-    "Strict seed certification and quarantine measures are important to prevent spread"
+    "La gestion intégrée combinant les stratégies culturelles, chimiques et génétiques est la plus efficace",
+    "Une certification stricte des semences et des mesures de quarantaine sont importantes pour prévenir la propagation"
   ]
 }

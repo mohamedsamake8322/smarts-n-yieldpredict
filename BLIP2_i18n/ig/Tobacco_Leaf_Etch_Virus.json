@@ -1,0 +1,104 @@
+{
+  "virus_name": "Ịṅụ Oké Mmanya Na - aba n'Anya",
+  "abbreviation": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "family": "Pyviviae",
+  "genus": "Pyviru",
+  "taxonomy": {
+    "order": "Mkpụrụ Akụ́kụ́ Ndị Dị Oké Ọnụ Ahịa",
+    "virus_group": "Nje HIV nke Na - akpata Ọrịa AIDS"
+  },
+  "genome": {
+    "type": "Ítụ̀ nà-dēèlụ̀",
+    "structure": "Ebe a na - eme oriri oké mkpọtụ",
+    "particle_shape": "Ndị Na - eto Eto Na - ajụ Sị...",
+    "length": "Ihe dị ka 730m",
+    "proteins_encoded": 7
+  },
+  "transmission": {
+    "vectors": [
+      "Ihe osise ndị gụnyere ihe osise ndị dị n'akwụkwọ akụkọ bụ́ Myzus freee",
+      "Ndị na - ere ihe n'oge ochie na - eme nke ọma",
+      "Ellilii eplaiae"
+    ],
+    "mode": "Kewapụta dọkumentị na templéètì \"%s\"",
+    "mechanical": true,
+    "seed_transmission": false,
+    "notes": "Ndị ọrụ ugbo na - enweta nje virus ahụ ngwa ngwa n'oge ha na - eri nri, ha pụkwara iweta ya n'ime minit ole na ole."
+  },
+  "hosts": {
+    "cultivated": [
+      "Mkpụrụ Ndụ Ihe Nketa n'Oge Ochie",
+      "Ihe Ndị Na - eme Ka E Nwee Ume Ọhụrụ",
+      "Ihe e ji mara obodo a bụ obodo dị́ n'ebe ndịda Spen.",
+      "Ịṅụ sịga (n'asụsụ Igbo)"
+    ],
+    "wild_hosts": [
+      "N'ihi Gịnị Ka A Ga - eji Na - eme Ihe n'Ụzọ Ziri Ezi?",
+      "N'ihi ya, a na - eji ihe na - eme ka nri na - atọ ụtọ n'oge a na - akọ ya",
+      "Achịcha Ndị Na - enye Ume Ọhụrụ Na - acha",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Dị ka ihe atụ, e nwere otu nwa agbọghọ aha ya bụ Lina.",
+      "Ọ bụ ihe ndị a na - eme ka ahụ́ na - adị mmadụ mma."
+    ]
+  },
+  "symptoms": [
+    "A na - eji akwụkwọ ndị dị n'ime ala ewepụ ihe ndị dị n'ime ya",
+    "Omume Mozis Ma Ọ Bụ nke Na - akụda Mmụọ",
+    "Otú akwụkwọ osisi si eto n'ike n'ike ma ọ bụ otú e si hazie ya",
+    "Ihe Ndị Na - akpali Agụụ Mmekọahụ na Ihe Ndị Na - akpali Agụụ Mmekọahụ",
+    "Uto nke ihe ọkụkụ a tụrụ atụ",
+    "Ọ na - eme ka mkpụrụ osisi ndị na - amị mkpụrụ ghara mkpụrụ, meekwa ka ha na - amị ezigbo mkpụrụ",
+    "Mkpụrụ osisi ndị na - esi ísì ọma ma ọ bụ ihe ndị na - esi ísì ụtọ"
+  ],
+  "disease_cycle": [
+    "A na - enwe ahịhịa ndụ na ahịhịa ndị nwere ihe ndị na - edozi ahụ́ bụ́ ndị e ji ebi ndụ",
+    "Ndị ọrụ ugbo na - ebute nje virus mgbe ha na - eri nri n'elu ihe ọkụkụ ndị bu ọrịa ahụ",
+    "A na - enye mkpụrụ akụ́kụ́ ndị na - edozi ahụ́ mmiri ọgwụ n'oge a na - awa ha ahụ́",
+    "A pụrụ iji ngwá ọrụ ndị rụrụ arụ ma ọ bụ ndị e ji eme ihe n'ụzọ na - ezighị ezi mee ihe"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Ụdị nke nwere ike ime ka mmadụ na - enwe mmekọahụ rụrụ arụ n'akwụkwọ osisi",
+      "Ihe ndị ọkà mmụta na - ekwu banyere ihe ọkụkụ ndị na - esi ísì ọma na - egosi na ihe ndị a na - akọ n'ubi na - eme nke ọma"
+    ],
+    "laboratory_methods": [
+      "IHE NDỊ A GA - ECHEBARA ECHICHE",
+      "RT-CR dị ka ndị na-ahụ ụzọ",
+      "Ihe Ndị Na - enyere Anụ Ahụ́ Aka Ịghọta Ihe Ndị Na - edozi Ahụ́"
+    ],
+    "viral_inclusions": [
+      "Ihe Ndị Na - eme Ka A Dị Ọcha n'Ahụ́ Bụ́ Ndị Dị n'Ime Ala",
+      "Ngwá agha ọgwụrụ mba ndị dị n'ime mkpụrụ ndụ ndị bu ọrịa ahụ"
+    ]
+  },
+  "molecular_features": {
+    "special_protein": {
+      "name": "IHE NDỊ GA - ENYERE GỊ AKA",
+      "function": "N'ụzọ doro nnọọ anya, a na - eji mmiri ọgwụ ahụ́ bụ́ hormone eme ihe n'ụzọ sara mbara iji mee ka protein ndị na - esi ísì ụtọ dịgide n'oge a na - eme ka ahụ́ dị ọcha."
+    }
+  },
+  "management": {
+    "cultural": [
+      "Wepụ ụgbọ mmiri ndị na - ebu nje virus",
+      "Jiri nje virus-ọ́á ọrụ ndị e ji akụ ihe",
+      "Ihe a kụrụ n'ubi na - eme nke ọma"
+    ],
+    "vector_control": [
+      "Na - atụ ìgwè mmadụ a na - emegbu emegbu n'ihe ọ̀tụ̀tụ̀",
+      "Na - eji Ihe Ndị Na - egbochi Agụụ Mmekọahụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Tinye ihe n'ọrụ ma ọ bụrụ na nrụgide a na - enye onye na - abụghị nwoke ma ọ bụ nwanyị ibe gị karịrị akarị"
+    ],
+    "resistance": [
+      "Jiri òtù nzuzo ndị na - eguzogide ndị mmadụ ma ọ bụ ndị na - adịghị ekwe ekwe mee ihe mgbe e nwere ha"
+    ]
+  },
+  "impact": {
+    "economic": "Ihe ndị a kụrụ n'ubi na ihe ndị a kụrụ n'ubi ụtaba pụrụ ịkpata mfu ndị dị ịrịba ama",
+    "agronomic": "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ na - ebelata ịdị mma nke mkpụrụ osisi ma na - eme ka mkpụrụ osisi nwee ume"
+  },
+  "references": [
+    "IHE NDỊ NA - EME KA E NWEE OBI ỤTỌ N'OGE OCHIE",
+    "Nsogbu Na - esi n'erighị Ihe Ndị Na - edozi Ahụ́",
+    "Mkpụrụ ndụ ihe nketa"
+  ]
+}

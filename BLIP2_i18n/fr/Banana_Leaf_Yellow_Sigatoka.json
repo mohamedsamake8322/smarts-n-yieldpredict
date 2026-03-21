@@ -1,94 +1,94 @@
 {
-  "disease_name": "Yellow Sigatoka",
+  "disease_name": "Sigatoka jaune",
   "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "Spot de feuille de Sigatoka",
+    "Spot de feuille de banane"
   ],
   "pathogen": {
-    "type": "Fungus",
+    "type": "Champignons",
     "scientific_name": "Pseudocercospora musae",
     "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
+    "kingdom": "Champignons",
     "phylum": "Ascomycota"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Banane (Musa spp.)",
     "other_hosts": [
       "Plantain"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "Feuilles"
   ],
   "symptoms": {
     "early_stage": [
-      "Small pale yellow streaks (1–2 mm) on young leaves",
-      "Chlorotic spots appearing near leaf margins or midrib"
+      "Petites stries jaunes pâles (1–2 mm) sur les jeunes feuilles",
+      "Spots chlorotiques apparaissant près des bords des feuilles ou de la nervure médiane"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "Les éraflures s'élargissent en lésions brunes allongées",
+      "Spots en forme de broche avec des halos jaunes autour d'eux"
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "Taches nécrotiques brunes foncées à noires",
+      "Grandes zones nécrotiques sur les feuilles",
+      "Séchage et défoliation précoces des feuilles"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "Les champignons survivent dans les tissus foliaires infectés",
     "spores": [
-      "Conidia",
+      "Conidie",
       "Ascospores"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "Vent",
+      "éclaboussure de pluie",
+      "gouttelettes d'eau"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "Humidité élevée",
+      "Températures chaudes (25-30°C)",
+      "Humidité prolongée des feuilles",
+      "Saison pluvieuse ou humide"
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "Moyenne à élevée",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "Capacité photosynthétique réduite",
+      "Petites grappes de bananes",
+      "Qualité réduite des fruits",
+      "Vie verte plus courte des fruits",
+      "Maturisation précoce des fruits"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "Jusqu'à 50 % dans les infections sévères"
   },
   "distribution": [
-    "Australia",
-    "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania"
+    "Australie",
+    "Asie",
+    "Afrique",
+    "Amérique centrale",
+    "Amérique du Sud",
+    "Caraïbes",
+    "Océanie"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "Sigatoka noir (Pseudocercospora fijiensis)",
+    "Maladies des taches foliaires de la banane"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "Enlever les feuilles infectées (dépliant)",
+      "Améliorer l'assainissement des plantations",
+      "Maintenir un drainage adéquat",
+      "Éviter le surpeuplement des plantes"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "Fongicides protecteurs",
+      "Fongicides systémiques",
+      "Produits contenant du tebuconazole, du mancozeb, du chlorothalonil"
     ],
     "biological_control": [
       "Bacillus subtilis",
@@ -96,21 +96,21 @@
       "Pseudomonas fluorescens"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "Utiliser des variétés de bananes tolérantes",
+      "Fertilisation équilibrée",
+      "Surveillance régulière des plantations"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "Environnements à forte humidité",
+    "Mauvais drainage",
+    "Présence de feuilles infectées",
+    "Variétés de bananes sensibles"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "Sciences des cultures Australie – Sigatoka jaune",
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Ressources en pathologie végétale du CSIRO",
+    "Publications du Journal de pathologie végétale"
   ]
 }

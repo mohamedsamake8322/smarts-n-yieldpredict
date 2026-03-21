@@ -1,0 +1,91 @@
+{
+  "pest_name": "Baumwolle_Larve_Bollwurm",
+  "common_name": "Larve aus Baumwolle (Bollenwurm)",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_stage": "Larve",
+  "pest_type": "Insekten",
+  "description": "Das Larvenstadium des Baumwoll-Bollwurms (Helioverpa armigera) ist die zerstörerischste Phase dieses Schädlings. Die Raupen ernähren sich aggressiv von Blättern, Knospen, Blumen, Früchten und Samen vieler Kulturen. Larven variieren in der Farbe von grün, braun, rosa oder schwarz und haben in der Regel Längsstreifen entlang des Körpers. Da sie sich direkt von reproduktiven Pflanzenstrukturen ernähren, können sie erhebliche Ertragsverluste in Kulturen wie Baumwolle, Tomaten, Mais und Kichererbsen verursachen.",
+  "hosts": [
+    "Baumwolle",
+    "Tomaten",
+    "Mais",
+    "Kichererbsen",
+    "Erbsen",
+    "Reis",
+    "Sorghum",
+    "Cowpea",
+    "Sojabohnen",
+    "Kartoffeln",
+    "Okra",
+    "Erbsen",
+    "Tabak"
+  ],
+  "symptoms": [
+    "Löcher in Blättern, Knospen und Blüten",
+    "Larven, die zu Früchten oder Hülsen gebohrt werden",
+    "Beschädigte Baumwollborsten und junge Früchte",
+    "Vorhandensein von Friss (Insect Excrement) um Futterstellen",
+    "Vorzeitiges Abwerfen von Blumen oder Früchten"
+  ],
+  "larva_characteristics": {
+    "length": "3–4 cm bei vollständiger Entwicklung",
+    "color_variation": [
+      "Grün",
+      "Braun",
+      "Rosa",
+      "Schwarz",
+      "Rotbraun"
+    ],
+    "distinctive_features": "Prominente Längsstreifen entlang des Körpers und eine braune Kopfkapsel."
+  },
+  "economic_significance": "Larven verursachen schwere Ernteschäden durch die direkte Fütterung von Fortpflanzungspflanzenstrukturen. Diese Fütterung kann Ertrag und Qualität insbesondere in Baumwolle, Tomaten und Mais deutlich reduzieren. Schäden können auch sekundäre Infektionen durch Pilze oder Bakterien ermöglichen.",
+  "management": {
+    "monitoring": [
+      "Pflanzen regelmäßig auf Eier und junge Larven untersuchen",
+      "Verwenden Sie Pheromonfallen, um erwachsene Mottenpopulationen zu überwachen",
+      "Überprüfen Sie Knospen, Blumen und Früchte für Futterschäden"
+    ],
+    "cultural_control": [
+      "Fruchtfolge mit nicht gastgebenden Kulturen",
+      "Entfernung von Unkraut und pflanzlichen Rückständen",
+      "Tief pflügen nach der Ernte, um Pupae zu zerstören",
+      "Pflanzkartoffeln wie Sonnenblumen oder Ringelblumen"
+    ],
+    "mechanical_control": [
+      "Handpicken und Zerstören von Larven",
+      "Entfernen von befallenen Früchten und Pflanzenteilen",
+      "Verwendung von Pheromonen und leichten Fallen zur Überwachung von Populationen"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa Nucleopolyhedrovirus (HaNPV)",
+        "Baculovirus-Arten, die auf Larven abzielen",
+        "Isaria fumosorosea"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (Eierparasitoide Wespe)",
+        "Habrobracon hebetor (larval parasitoide)"
+      ]
+    },
+    "chemical_control": {
+      "note": "Chemische Insektizide sollten nur verwendet werden, wenn die Schädlingspopulationen die wirtschaftlichen Schwellen überschreiten und Teil einer integrierten Strategie für Schädlingsbekämpfung sind.",
+      "active_ingredients": [
+        "Spinosad",
+        "Emamectinbenzoat",
+        "Indoxacarb",
+        "Lambda-Cyhalothrin",
+        "Chlorantraniliprol"
+      ]
+    }
+  },
+  "references": [
+    "Wikipedia-Mitwirkende. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "CABI Crop Protection Compendium – Helicoverpa armigera.",
+    "Integrierte Leitlinien für die Schädlingsbekämpfung der FAO.",
+    "Plantwise Knowledge Bank – Pest Management Empfehlungen."
+  ],
+  "source_urls": [
+    "Veröffentlichungen der Europäischen Gemeinschaften: Januar 2002.",
+    "Die Veröffentlichungen der Europäischen Union werden im Amtsblatt der Europäischen Union veröffentlicht (http://www.cabi.org)."
+  ]
+}

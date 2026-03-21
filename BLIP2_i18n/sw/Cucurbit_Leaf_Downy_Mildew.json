@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "Maonyesho ya Downy Mildew",
+  "scientific_name": "Maelezo ya Pseudoperonospora cubensis",
+  "pathogen_type": "Oomycete (mchakato kama fungus)",
+  "description": "Ugonjwa wa folia ya kuharibu kuathiri matunda ya cucurbit ulimwenguni. Hii huathiri majeruhi ya nyekundu na kifo cha haraka ya nyekundu, kupunguza ukuaji wa mimea na matunda ya matunda. Mafuriko makubwa yanaweza kusababisha uharibifu mkubwa wa mimea.",
+  "symptoms": [
+    "Picha za nyekundu au chlorothic kwenye nyekundu",
+    "Maambukizi yanayohusiana na maambukizi ya nywele (kwa ujumla juu ya nywele)",
+    "Gray hadi purple fuzzy ukuaji juu ya chini ya karatasi",
+    "Uharibifu unaongezeka na kuwa nyekundu au necrotic",
+    "kufa kwa haraka na kufa haraka",
+    "Matangazo ya kupunguza kanopi yanayotokana na ugonjwa wa jua na madhara ya matunda"
+  ],
+  "hosts": [
+    "ya Cucumber",
+    "Meloni ya",
+    "Mji wa maji",
+    "ya Pumpkin",
+    "Siku ya Squash",
+    "Vyanzo vingine vya kukumbuka"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa ya baridi hadi ya chini (15-20 ° C)",
+    "Ukosefu wa juu",
+    "Mara nyingi mvua au nyama ya nyama ya muda mrefu",
+    "Mchakato wa mimea na uharibifu wa hewa"
+  ],
+  "spread": [
+    "Mchakato wa sporangia",
+    "Mchezo wa mvua",
+    "vifaa au vifaa vya uchafuzi",
+    "Uwanja wa Ndege wa Uzito wa Uzito wa Uzito wa Uzito wa Uzito wa Uzito wa Uzito"
+  ],
+  "infection_process": [
+    "Matokeo ya ardhi juu ya bustani ya nyekundu",
+    "Zoospores kupanda kwa nyama ya stomata",
+    "Pathogen kuingia barua kupitia stomata",
+    "Hyphae kukua ndani ya mwili wa nywele na kuondoa virutubisho"
+  ],
+  "management": [
+    "Tumia bidhaa za kutafsiri au za kutafsiri wakati inapatikana",
+    "kuboresha usafiri wa hewa kwa njia ya mzunguko wa mimea na pruning",
+    "Ufuatilia mimea mara kwa mara kwa ajili ya madhara ya awali",
+    "Kutumia mifumo ya tahadhari ya kutabiri matukio",
+    "Kuondoa vifaa vya mazao yaliyoathiriwa sana"
+  ],
+  "biological_control": [
+    "Matumizi ya biopesticides mikrobial kama vile bidhaa za Bacillus",
+    "Kuimarisha mikrobiome ya ardhi salama ili kupunguza shinikizo la magonjwa"
+  ],
+  "chemical_control": [
+    "Mchakato wa fungicide katika kipindi cha hatari kubwa",
+    "Kutoa fungicides kila siku 5-7 kwa kukumbuka au siku 7-10 kwa kukumbuka wengine wakati wa maumivu",
+    "Rote fungicides kwa njia tofauti ya hatua ili kuzuia upinzani",
+    "Bidhaa za kiuchumi zinaweza kuunganisha mbadala za metalaxyl, strobilurins, au fungicides nyingine zilizoandikwa"
+  ],
+  "prevention": [
+    "Mafuta ya mimea yanayotumika wakati inapatikana",
+    "kuhakikisha usafiri mzuri wa hewa katika maeneo",
+    "Kuepuka kupumzika kwa muda mrefu kwa ajili ya kupumzika",
+    "Kutumia vifaa vya kutarajia magonjwa kwa muda fungicide sprues"
+  ],
+  "impact": [
+    "Inaweza kusababisha uharibifu wa faida hadi 80-100% katika mateso makubwa",
+    "Hatari kubwa ya kuongezeka kwa uzalishaji duniani kote"
+  ],
+  "source": [
+    "Michigano Chuo Kikuu cha Taifa cha Pathology",
+    "Savory et al. - Matokeo ya matibabu ya mimea ya molekuli",
+    "Tumia kesi kwa Cucurbit Downy Mildew IPM"
+  ]
 }

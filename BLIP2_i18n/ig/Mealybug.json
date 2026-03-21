@@ -1,0 +1,68 @@
+{
+  "pest": "Iji Nri Eme Ihe n'Ụzọ Amamihe Dị na Ya",
+  "scientific_name": "Ezinụlọ Ezigbo Ụlọ",
+  "pest_type": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "description": "Ha na - eji ọtụtụ ihe ọkụkụ na ihe ndị mara mma awakpo ihe ọkụkụ, na - eme ka ihe ọkụkụ ghara isi ike ma na - emepụta mmanụ aṅụ ndị na - esi ísì ụtọ bụ́ ndị na - eme ka a na - eto eto.",
+  "symptoms": [
+    "Fláàgị̀ dị ka ụmụ ahụhụ ndị dị n'akwụkwọ, n'isi, ma ọ bụ ná mkpụrụ osisi",
+    "Mmanụ aṅụ a na - agbanye n'osisi",
+    "Otú e si emepụta mmanụ aṅụ na - eme ka e nwee ihe dị iche iche e ji ajị anụ mee",
+    "Akwụkwọ ndị e sere ihe na ha ma ọ bụ akwụkwọ ndị e sere ihe na ha",
+    "Uto nke ihe ọkụkụ a tụrụ atụ",
+    "Akwụkwọ osisi ndị toro ogologo na - ada n'ọ̀tụ̀tụ̀ ndị siri ike"
+  ],
+  "hosts": [
+    "Cakaru",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Gana",
+    "Papaya",
+    "Flap",
+    "HỌL",
+    "Ihe Ndị Na - akpata Ọrịa",
+    "[ Ihe e dere n'ala ala peeji]",
+    "Anwụ Na - acha",
+    "Ihe ndị a kpụrụ akpụ",
+    "C effectus",
+    "Osisi ndị dị n'ubi na ihe ọkụkụ ndị na - amị mkpụrụ"
+  ],
+  "favorable_conditions": [
+    "Ihu igwe na - ekpo ọkụ na nke na - ekpo ọkụ",
+    "Ọ̀tụ̀tụ̀ ikpo ahịhịa ma ọ bụ ọnọdụ ndị na - agbanwe ngwa ngwa",
+    "Ụmụ ahụhụ ndị na - echebe ụmụ ahụhụ ndị a na - eri eri",
+    "Inwe Ihe Ịga nke Ọma n'Ọrụ Ndị Dị Ize Ndụ"
+  ],
+  "spread": [
+    "Ihe ọkụkụ ndị dị n'ebe a na - ere ihe n'ala",
+    "Ifufe ma ọ bụ ahụhụ ndị na - ebu ụmụ ahụhụ",
+    "Ìgwè nnụnụ na - ebu ma na - echebe ógbè ndị dịpụrụ adịpụ"
+  ],
+  "damage": [
+    "Mkpụrụ akụ́kụ́ na - agwụ ike n'ihi ime ka nri ghara isi ike",
+    "Nje virus ndị na - akpata ọrịa akụ́kụ́ n'ihe ọkụkụ ụfọdụ",
+    "Ọ na - eme ka ihe a kụrụ akụ na - eto nke ọma ma na - eme nke ọma",
+    "Otú mmanụ aṅụ si arụ ọrụ"
+  ],
+  "biological_control": [
+    "Ụgbọ mmiri ndị a gbara n'elu mmiri na - agba n'ọdụ ụgbọ mmiri ndị a na - agba n'elu mmiri, bụ́ ndị na - agba n'elu mmiri, na - egbu ndị mmadụ.",
+    "Ebe a na - akpọ laces las lavae (Cyyslaxlae)",
+    "Ngwá agha ndị e ji alụso nje HIV ọgụ na - awakpo ihe oriri ndị a na - eri eri",
+    "Ịgba anụ ndị bi n'ọhịa ume site n'ime ka nje ndị na - egbu egbu belata"
+  ],
+  "chemical_control": [
+    "Mkpụrụ ndụ ihe nketa ndị dị ka ụdị nke ọ bụla n'ime ihe ndị ahụ e ji agwọ ọrịa",
+    "A na - eji ncha ma ọ bụ mmanụ na - esi ísì ụtọ eme ncha ndị na - esi ísì ụtọ",
+    "Ihe mgbaàmà ndị e nwere n'oge a bụ́ mgbe nkwurịta okwu siri ike"
+  ],
+  "prevention": [
+    "Osisi ndị na - esi ísì ọma na - akụkarị n'oge.",
+    "Ọ na - egbochi ahụhụ ndị na - echebe ụmụ ahụhụ ndị na - eri nri",
+    "Wepụ akụkụ dị iche iche nke ihe ọkụkụ n'ụzọ dị egwu",
+    "Zere Imebiga Ihe Ókè n'Ụzọ Na - ezighị Ezi",
+    "Jiri ihe ndị dị ọcha na - akụ ya"
+  ],
+  "source": [
+    "Akwụkwọ ndị e ji amụ banyere ihe ndị mgbe ochie, bụ́ ndị e dere n'akwụkwọ ndị kọwara ihe ndị mere n'oge ochie",
+    "Onye ọrụ ugbo nke na - ahazi ebe ndị a na - edebe ihe ọmụma bụ́ ndị na - ezo aka n'ebe ndị a na - egwupụta ihe ọmụma n'ala",
+    "Ahụ́ a na - agba n'oge a na - eri nri ehihie n'ebe a na - ere nri"
+  ]
+}

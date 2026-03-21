@@ -1,0 +1,79 @@
+{
+  "disease": "Breiter Milbenschaden",
+  "scientific_name": "Polyphagotarsonemus latus",
+  "pathogen_type": "Milz (Arthropodenpest)",
+  "description": "Breitmilbe ist ein mikroskopischer Schädling, der junge Pflanzengewebe angreift. Es ernährt sich von Blättern, Stängeln und Früchten, indem es giftigen Speichel injiziert, der das Pflanzenwachstum verzerrt.",
+  "symptoms": [
+    "Verzerrte oder verdrehte junge Blätter",
+    "Blattlocken und Verdickung",
+    "Bronzing oder Verdunkelung der Blattoberfläche",
+    "Stuntes Pflanzenwachstum",
+    "gekrackte oder vernarbte Früchte",
+    "Verformte Knospen und Blüten",
+    "Junge Gewebe werden hart und spröde"
+  ],
+  "hosts": [
+    "Pfeffer",
+    "Chilipfeffer",
+    "Tomaten",
+    "Auberginen",
+    "Kartoffeln",
+    "Gurken",
+    "Melone",
+    "Bohnen",
+    "Baumwolle",
+    "Tee",
+    "Zitrusfrüchte",
+    "Papaya",
+    "Avocado",
+    "Mango",
+    "Zierpflanzen"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Dichtes Pflanzendach",
+    "Schlechte Luftzirkulation",
+    "Umgebungen von Gewächshäusern"
+  ],
+  "spread": [
+    "Windbewegung",
+    "Kontaminierte Werkzeuge und Pflanzenmaterial",
+    "Bewegung von Insekten wie Weißfliegen",
+    "Beförderung auf der Arbeitskleidung"
+  ],
+  "management": [
+    "Regelmäßige Überwachung der Jungblätter",
+    "Stark befallene Pflanzenteile entfernen",
+    "Verbesserung der Luftzirkulation zwischen Pflanzen",
+    "Verwenden Sie resistente oder tolerante Sorten, wenn verfügbar",
+    "Vermeiden Sie übermäßige Stickstoffdüngung"
+  ],
+  "biological_control": [
+    "Prädatormilben wie Neoseiulus californicus",
+    "Prädatormilben wie Amblyseius swirskii",
+    "Prädatorische Milben wie Phytoseiulus persimilis",
+    "Verwendung entomopathogener Pilze wie Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Abamectin",
+    "Spiromesifen",
+    "Spirodiclofen",
+    "Bifenazat",
+    "Mitizide auf Schwefelbasis",
+    "Fenpyroximat"
+  ],
+  "prevention": [
+    "Inspizieren Sie Sämlinge vor der Pflanzung",
+    "Erhaltung einer guten Gewächshaushygiene",
+    "Unkraut kontrollieren, das Milben bewirtet",
+    "Vermeiden Sie das Verschieben von befallenen Pflanzen",
+    "Überwachen Sie regelmäßig in warmen feuchten Perioden"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Universität von Florida IFAS Erweiterung",
+    "Integrierte Literatur zur Schädlingsbekämpfung",
+    "Hinweise zur Entomologie des Pflanzenschutzes"
+  ]
+}

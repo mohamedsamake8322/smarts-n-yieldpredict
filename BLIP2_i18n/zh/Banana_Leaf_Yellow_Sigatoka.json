@@ -1,116 +1,116 @@
 {
-  "disease_name": "Yellow Sigatoka",
-  "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
+  "disease_name": "黄西加托卡",
+  "dataset_label": "香蕉 Leaf_ Yellow_ 锡加托卡",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "辛加托卡叶点",
+    "香蕉叶点"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora musae",
-    "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
-    "phylum": "Ascomycota"
+    "type": "蘑菇",
+    "scientific_name": "普塞多尔斯波斯波拉",
+    "synonym": "脑旋律音乐",
+    "kingdom": "真菌",
+    "phylum": "Ascomycota( 阿科密科塔)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "香蕉(Musa pp.)",
     "other_hosts": [
-      "Plantain"
+      "平面"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "休假请请假"
   ],
   "symptoms": {
     "early_stage": [
-      "Small pale yellow streaks (1–2 mm) on young leaves",
-      "Chlorotic spots appearing near leaf margins or midrib"
+      "青叶上的小黄黄小青色(1-2毫米)",
+      "叶边或中叶附近出现的氯斑点"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "串状体膨胀成长长的棕色损伤",
+      "周围有黄色光环的旋翼形斑点"
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "黑褐色至黑腐烂斑点",
+      "叶叶上的大型坏死区",
+      "干燥和除叶"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "在被感染的树叶组织中,芬古存活下来",
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "协 员",
+      "食 食 食 食 食 食 食 食"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "风风",
+      "雨水喷雨",
+      "水滴子"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "高湿湿度",
+      "温度(25-30°C)",
+      "长长的叶叶湿润",
+      "雨季或雨季"
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "中等到高",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "减少光合光合能力",
+      "小型香蕉类",
+      "水果质量下降",
+      "水果的绿色寿命缩短",
+      "成熟成熟的早成熟水果"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "50%至50%的重度感染"
   },
   "distribution": [
-    "Australia",
-    "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania"
+    "澳大利亚 澳大利亚",
+    "亚洲 亚洲",
+    "非洲 非洲 非洲 非洲",
+    "中美洲 中美洲",
+    "南美洲南美洲",
+    "加勒比加勒比",
+    "大洋洲"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "黑锡加托卡(Pseudocercospora firjiens)",
+    "香蕉叶斑点疾病"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "删除受感染的叶叶(脱叶)",
+      "改善种植园环境卫生",
+      "保持适当的排水",
+      "避免工厂过分拥挤"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "保护性杀真菌剂",
+      "系统杀菌杀菌剂",
+      "含有丁二甲甲甲醚、甲醇、氯氟化碳的产品"
     ],
     "biological_control": [
-      "Bacillus subtilis",
-      "Trichoderma viride",
-      "Pseudomonas fluorescens"
+      "Bacillus 亚基",
+      "三角体震动",
+      "氟化烃"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "使用宽容的香蕉品种",
+      "平衡肥化",
+      "定期监测种植园"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "高湿度环境",
+    "排水差",
+    "存在受感染的树叶",
+    "易感见香蕉品种"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "澳大利亚作物科学-黄西加托卡",
+    "CABI 作物保护简编",
+    "CSIRO 植物病理资源",
+    "《植物病理学杂志》出版物"
   ]
 }

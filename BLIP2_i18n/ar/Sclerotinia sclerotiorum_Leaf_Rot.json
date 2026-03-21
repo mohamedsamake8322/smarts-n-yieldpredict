@@ -1,87 +1,87 @@
 {
- "disease": "Sclerotinia Leaf Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia leaf rot is a fungal disease that affects many crops. The fungus infects leaves and stems under cool and wet conditions. It produces white cotton-like mold and black survival structures called sclerotia.",
- "symptoms": [
-  "Water-soaked spots on leaves",
-  "Leaves turning yellow and wilting",
-  "Soft rot on infected leaf tissue",
-  "White cotton-like fungal growth on leaves or stems",
-  "Black seed-like sclerotia forming in infected areas",
-  "Leaves collapsing and dying"
- ],
- "visual_symptoms": [
-  "white fluffy mold on leaves",
-  "soft watery leaf rot",
-  "black sclerotia inside fungal growth",
-  "collapsed or wilted leaves"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Sunflower",
-  "Cabbage",
-  "Carrot",
-  "Celery",
-  "Cucumber",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "petioles"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Prolonged leaf wetness",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia in soil",
-  "Infected plant debris",
-  "Water splash or wind"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce cup-shaped apothecia",
-  "Apothecia release spores into the air",
-  "Spores infect leaves during wet conditions",
-  "New sclerotia form on infected plants and return to soil"
- ],
- "impact": [
-  "Leaf rot and plant weakening",
-  "Reduced photosynthesis",
-  "Lower crop yield",
-  "Possible plant collapse in severe infections"
- ],
- "cultural_control": [
-  "Remove infected plants quickly",
-  "Improve plant spacing and airflow",
-  "Rotate crops with non-host plants",
-  "Remove infected plant debris from fields"
- ],
- "biological_control": [
-  "Use biocontrol fungi such as Coniothyrium minitans",
-  "Use beneficial microbes like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply registered fungicides when disease risk is high",
-  "Preventive fungicide sprays in humid conditions"
- ],
- "prevention": [
-  "Avoid overcrowded planting",
-  "Monitor crops during cool and wet seasons",
-  "Practice crop rotation",
-  "Use integrated disease management"
- ],
- "source": [
-  "Plant pathology disease guides",
-  "Agricultural extension resources"
- ]
+  "disease": "من طراز Sclruteinia Leaf rut",
+  "scientific_name": "SSSSSultrulinia sculturrum",
+  "pathogen_type": "المنقوس",
+  "description": "إن تعفن أوراق الشجر في سلروتينيا مرض فطري يؤثر على العديد من المحاصيل. فالفطريات تصيب أوراق الشجر وتنبع في ظل ظروف باردة ورطبة. وهي تنتج عفن أبيض شبيه بالقطن وبنيات سوداء للبقاء على قيد الحياة تسمى سلروتيا.",
+  "symptoms": [
+    "بقع متسربة من الماء على الأوراق",
+    "تَحُولُ ٱلْأُسُسُ أَسْسًا مُسْطِحًا وَذَيْنًا",
+    "التعفن الناضح على أنسجة مُصابة",
+    "النمو الفطري الأبيض الذي يشبه القطن الأبيض",
+    "تتشكل في المناطق الموبوءة",
+    "يَحْصرُ يَتَحَطَّرُ وَيَحْمَنُ"
+  ],
+  "visual_symptoms": [
+    "منسوج أبيض أبيض منقوش على أوراق",
+    "ماء عذب تعفن",
+    "داخل النمو الفطري",
+    "أو مُنَظَّر أو مُنَظَّر"
+  ],
+  "hosts": [
+    "لِسِسْس",
+    "كهنس",
+    "عدد الطا",
+    "طاطاطاطاط",
+    "",
+    "",
+    "شيء",
+    "المسيل",
+    "",
+    "العديد من النباتات"
+  ],
+  "plant_parts_affected": [
+    "أولاً -",
+    "مُنْسَج",
+    ""
+  ],
+  "favorable_conditions": [
+    "درجات الحرارة",
+    "الرطوبة العالية",
+    "مُطَلَق ورقة مِطْ طويلة",
+    "معلق معلق",
+    ""
+  ],
+  "spread": [
+    "الأوجـات الجويـة المنـجـة مـن",
+    "سلسلتوريا في التربة",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "الماء أو الرياح"
+  ],
+  "disease_cycle": [
+    "الفطريات تنجو في التربة كسلسلوريا لعدة سنوات",
+    "السلسلسلتوريا التي تُنتِج وتُنتِج كُسُبًا من البول",
+    "(أ) أن تُطلق في الهواء أو تُطلق في الهواء",
+    "البوطرات في الأوراق المصحّة خلال الظروف الرطب",
+    "شكل جديد للسلسلوتيا على النباتات المصابة والعودة إلى التربة"
+  ],
+  "impact": [
+    "التعفن وإضعاف النبتة",
+    "اززدج",
+    "غلة المحاصيل",
+    "النبتة المحتملة في حالات إصابة خطيرة"
+  ],
+  "cultural_control": [
+    "احذف المُحِكّات بسرعة",
+    "تحسين المباعة بين النبات والتدفق الجوي",
+    "محاصيل دوران مع نباتات غير مستهلكة",
+    "(أ) أن يكون قد أُزيل"
+  ],
+  "biological_control": [
+    "استخدام فطريات المكافحة البيولوجية مثل ميكروتانات كونيثيوثيريوم",
+    "استخدام كائنات مجهرية مفيدة مثل نوع تريشوديرما"
+  ],
+  "chemical_control": [
+    "تطبيق مبيدات الفطريات المسجلة عندما يكون خطر المرض مرتفعاً",
+    "مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات في الظروف الرطبة"
+  ],
+  "prevention": [
+    "(أ) تجنب الغرس",
+    ":: رصد المحاصيل أثناء المواسم الباردة والرطبة",
+    "تناوب ممارسة الممارسة في المحصول",
+    "الإدارة المتكاملة لمعالجة الأمراض"
+  ],
+  "source": [
+    "دليل أمراض مَمرضات مُنْعِجَة",
+    "موارد الإرشاد الزراعي"
+  ]
 }

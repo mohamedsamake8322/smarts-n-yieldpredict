@@ -1,84 +1,84 @@
 {
-  "pest_name": "Cotton Bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Helicoverpa armigera, known as the cotton bollworm, is a highly polyphagous moth pest distributed across Africa, Europe, Asia, Australia, and South America. The larval stage feeds on leaves, buds, flowers, fruits, and seeds of many crops, causing severe economic losses. Adults are capable of long-distance migration, allowing rapid spread and multiple generations per year in warm climates.",
+  "pest_name": "Pamuk Bollworm",
+  "scientific_name": "Helicoverpa Saldırısı",
+  "pest_type": "böcekler",
+  "description": "Helicoverpa armigera, pamuk bollworm olarak bilinen, Afrika, Avrupa, Asya, Avustralya ve Güney Amerika'da dağıtılan çok polifago bir moth pestisidir. larval aşaması, yaprakları, çiçekleri, meyveleri ve birçok bitkinin tohumlarını besler, ciddi ekonomik kayıplara neden olur. Yetişkinler uzun mesafeli göç edebilir, hızlı yayılmasını ve sıcak iklimlerde yılda birden fazla nesil sağlar.",
   "hosts": [
-    "Cotton",
-    "Tomato",
+    "Pamuk",
+    "domates",
     "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
+    "Çilek",
+    "pigeon peya",
+    "pirinç",
+    "Özürler",
+    "Koyun",
+    "Soylu",
+    "Patates",
     "Okra",
-    "Peas",
-    "Tobacco"
+    "Ayak",
+    "Tütün"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "Yapraklarda ve çiçeklerde delikler",
+    "Meyvelere ya da meyvelere sıkıldıklar",
+    "Erken meyve veya çiçek düşüşü",
+    "Kötü kaliteli çerçeve üreten hasarlı pamuk topu",
+    "Meyvelerde ve tahıllarda fırın ve besleme tünellerinin varlığı"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae overwinter in colder climates.",
-    "adults": "Adults are light brown moths with a wingspan of about 3.5–4 cm and live about 10 days.",
-    "generations_per_year": "Up to 11 generations per year in warm climates."
+    "eggs": "Sarı-beyaz yumurtalar yapraklara, çamurlara, çiçeklere veya meyvelere yerleştirilir.",
+    "larvae": "Larva, birkaç kez 19-36 gün boyunca beslenir ve ana bitki hasarına neden olur.",
+    "pupae": "Toprağın ya da bitki çöplerinde popülasyon meydana gelir; soğuk iklimlerde pupae süper kış.",
+    "adults": "Yetişkinler, yaklaşık 3.5-4 cm uzunluğundaki ve yaklaşık 10 gün boyunca yaşayan hafif kahverengi motlardır.",
+    "generations_per_year": "Sıcak hava koşullarında yılda 11 nesil."
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea and other crops. Larvae damage reproductive plant parts and reduce both yield and product quality. Secondary infections by fungi and bacteria may occur in damaged fruits.",
+  "economic_significance": "Böbrek, pamuk, domates, tereyağı, çilek ve diğer bitkilerde ciddi üretim kaybına neden olur. larvae, üreme bitki parçalarına zarar verir ve hem üretim hem de ürün kalitesini azaltır. mantar ve bakteriler tarafından ikincil enfeksiyonlar hasarlı meyvelerde meydana gelebilir.",
   "management": {
     "monitoring": [
-      "Regular scouting for eggs, larvae, and feeding damage",
-      "Use pheromone traps to monitor adult populations",
-      "Light traps can also help detect moth activity"
+      "Yumurta, larva ve beslenme hasarları için düzenli kaydırma",
+      "Yetişkin popülasyonları izlemek için feromon çubukları kullanın",
+      "Işık çubukları da moth aktivitesini tespit etmeye yardımcı olabilir"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "Ev sahibi olmayan bitkilerle bitki dönüşü",
+      "Bitki kalıntılarının ve tahılların çıkarılması",
+      "Köpek yavrusu yok etmek için hasat sonrası derin çamur",
+      "Güneş çiçeği veya marigold gibi çöp bitkileri kullanımı"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae and eggs",
-      "Using traps and physical barriers",
-      "Removal of infested fruits or plant parts"
+      "Yumurtaları ve larvaları yıkmak ve yok etmek",
+      "Sıkıntılar ve fiziksel engeller",
+      "Enfekte meyvelerin veya bitki parçalarının çıkarılması"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea (entomopathogenic fungus)"
+        "Helicoverpa Nükleopolyhedrovirüs (HaNPV)",
+        "Bakulovirüs türleri lepidopteran larvaları hedefliyor",
+        "Isaria fumosorosea (entomopathogenik mantar)"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trichogramma pretiosum (yumurta parazit wasp)",
+        "Habrobracon hepetor (kırışıklık parazitleri)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control should be used as part of Integrated Pest Management (IPM) and only when pest populations exceed economic thresholds.",
+      "note": "Kimyasal kontrol, bütünleşik pest yönetimi (IPM) bir parçası olarak kullanılmalıdır ve sadece pest nüfusu ekonomik sınırları aştığında.",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
+        "Spinoza",
+        "Emamektin benzoat",
+        "Indoksakarb",
         "Lambda-cyhalothrin",
         "Chlorantraniliprole"
       ]
     },
     "genetic_control": [
-      "Cultivation of Bt cotton expressing Bacillus thuringiensis toxins (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+      "Bacillus thuringiensis toksinlerini ifade eden Bt pamuk yetiştirme (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
     ]
   },
   "references": [
-    "CABI. Cotton Bollworm (Helicoverpa armigera) – Crop Pest Management Information.",
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "FAO. Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "CABI. Cotton Bollworm (Helicoverpa armigera) – Bitki Pest Yönetimi Bilgileri.",
+    "Wikipedia katılımcıları. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "FAO: Entegre Pest Yönetimi Yönergeleri",
+    "Plantwise Knowledge Bank – Pest Management Önerileri."
   ]
 }

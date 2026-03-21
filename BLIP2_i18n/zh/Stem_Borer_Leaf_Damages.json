@@ -1,38 +1,38 @@
 {
-  "pest_name": "Stem Borer Leaf Damages",
-  "pest_type": "insect",
-  "description": "Stem borers are insect pests whose larvae feed on plant stems and leaves. They are common in cereal crops such as maize, rice and sorghum. Larvae bore into stems and cause internal damage that reduces plant growth and productivity.",
+  "pest_name": "Stem Borer 叶叶损害",
+  "pest_type": "昆虫",
+  "description": "刺死虫是昆虫,其幼虫以植物和树叶为食,玉米、大米和高梁等谷物作物中常见。 Larvae自生,造成内部破坏,降低植物生长和生产力。",
   "affected_parts": [
-    "Leaf",
-    "Stem"
+    "叶叶",
+    "斯特丁"
   ],
   "hosts": [
-    "Maize",
-    "Rice",
-    "Sugarcane",
-    "Sorghum"
+    "成熟",
+    "大米稻米",
+    "甘甘蔗",
+    "高 orghum"
   ],
   "symptoms": [
-    "Leaf holes and feeding marks",
-    "Dead heart symptom in young plants",
-    "Stem tunneling",
-    "Reduced plant growth"
+    "叶洞和喂食标记",
+    "年轻植物中的死亡心脏病症状",
+    "Stem 隧道隧道",
+    "减少植物增长"
   ],
   "spread": [
-    "Adult insects laying eggs on plant leaves",
-    "Larvae moving into plant stems"
+    "成人昆虫在植物叶叶上产卵",
+    "草茎变植物茎"
   ],
   "management": {
     "cultural": [
-      "Remove crop residues",
-      "Crop rotation",
-      "Use resistant varieties"
+      "删除作物残留物",
+      "作物轮轮作",
+      "使用抗抗药品种"
     ],
     "biological": [
-      "Encourage parasitoid wasps and natural predators"
+      "鼓励寄生虫黄蜂和自然掠食动物"
     ],
     "chemical": [
-      "Apply recommended insecticides when infestation levels are high"
+      "侵扰程度高时应用推荐的杀虫剂"
     ]
   }
 }

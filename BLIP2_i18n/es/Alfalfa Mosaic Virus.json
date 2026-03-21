@@ -1,0 +1,84 @@
+{
+  "disease": "Virus del mosaico de la alfalfa",
+  "scientific_name": "Virus del mosaico de la alfalfa (AMV)",
+  "pathogen_type": "Virus (virus ARN)",
+  "description": "Un virus vegetal que infecta los pimientos y muchos otros cultivos. Se propaga principalmente por pulgones y causa patrones de mosaico, deformación de las hojas y crecimiento reducido de las plantas.",
+  "symptoms": [
+    "Diseños de mosaico amarillo en hojas",
+    "Deformación de la vena de hoja",
+    "Rizado de hojas",
+    "Manchas de hoja blanquecina o blanqueada",
+    "Manchas necróticas negras entre venas (raras)",
+    "Frutas moteadas o manchadas",
+    "Manchas oscuras hundidas en las frutas",
+    "Crecimiento de plantas aturdidas"
+  ],
+  "hosts": [
+    "Pimienta",
+    "Alfalfa",
+    "Tomate",
+    "Patata",
+    "Berenjenas",
+    "Pepino",
+    "Squash",
+    "Calabaza",
+    "Guisantes",
+    "Judía",
+    "Lenteja",
+    "Guisantes",
+    "Semillas de soja",
+    "Clover",
+    "Lucerna",
+    "Tabaco",
+    "Espinacas",
+    "Lechuga",
+    "Zanahoria",
+    "Apio"
+  ],
+  "favorable_conditions": [
+    "Poblaciones áfidas altas",
+    "Campos de pimientos cercanos a los cultivos de alfalfa",
+    "Movimiento aphid después de la cosecha de alfalfa"
+  ],
+  "spread": [
+    "Aphids se alimenta brevemente de plantas",
+    "Transmisión mecánica a través de herramientas contaminadas",
+    "Transmisión de semillas (tasa baja)"
+  ],
+  "management": [
+    "Cultivadores resistentes a las plantas o tolerantes",
+    "Eliminar las plántulas infectadas antes de plantar",
+    "Plantar pimientos lejos de los campos de alfalfa",
+    "Utilizar cultivos de barrera como el maíz",
+    "Utilizar cultivos trampa como guisantes",
+    "Limpiar herramientas, macetas y estacas",
+    "Ajustar las fechas de plantación cuando sea posible"
+  ],
+  "biological_control": [
+    "Utilice depredadores naturales como escarabajos dama",
+    "Utilizar insectos piratas minúsculos (Orius spp.) para reducir las poblaciones de áfidos",
+    "Fomentar insectos beneficiosos en el campo",
+    "Aplicar productos a base de neem que contengan azadiractina"
+  ],
+  "chemical_control": [
+    "Pulverizadores de aceite mineral para reducir la transmisión de virus",
+    "Jabones insecticidas (ácidos grasos)",
+    "Imidacloprid",
+    "Acetamiprid",
+    "Flonicamid",
+    "Pimetrozina",
+    "Sprays de arcilla de Kaolin para disuadir a los áfidos"
+  ],
+  "prevention": [
+    "Utilizar cultivares resistentes",
+    "Mantener distancia entre pimientos y campos de alfalfa",
+    "Utilice mantillo reflectante o mantillo de paja para repeler los áfidos",
+    "Eliminar las plantas infectadas antes de tiempo",
+    "Controlar las poblaciones de áfidos en los cultivos circundantes"
+  ],
+  "source": [
+    "Extensión de la Universidad Estatal de Colorado",
+    "Revista de Gestión Integrada de Plagas",
+    "Fronteras en Microbiología"
+  ]
+}

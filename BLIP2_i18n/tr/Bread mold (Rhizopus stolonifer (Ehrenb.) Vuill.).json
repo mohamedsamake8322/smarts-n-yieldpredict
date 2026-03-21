@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
-  "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "disease": "Rhizopus soft rot (kırmızı ekmek şekli)",
+  "scientific_name": "Rhizopus stolonifer Hakkında",
+  "pathogen_type": "Fonksiyon",
+  "description": "Rhizopus stolonifer birçok meyve ve sebze, özellikle hasat sonrası yumuşak çürümeye neden olan yaygın bir mantardır. sıcak ve ıslak koşullarda hızlı bir şekilde büyür ve kolayca havalandırılmış spores aracılığıyla yayılır. hastalık öncelikle yüksek şeker içeriği ile yumuşak veya yaralı ürünler saldırır.",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "Meyve ya da sebzeler üzerinde yumuşak su damlası",
+    "Hızlı doku kırılması ve meyve suyu sızıntısı",
+    "Yüzeyde beyaz pamuk gibi mantar büyüme",
+    "Siyah sporangia gelişimi (siyah çerçeve noktaları)",
+    "Enfekte ürünlerden koku veya asit kokusu",
+    "Yakın meyvelere yayılan hızlı çöküş"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
+    "Strawberry için",
+    "domates",
+    "Peach için",
     "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
+    "su melonları",
+    "Banana",
+    "Şövalye",
+    "Mango",
     "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "tatlı patates",
+    "Karot",
+    "Cevapla",
+    "Yumurta",
+    "peynir",
+    "Onyon",
+    "Çilek",
+    "Beyonce",
+    "çeşitli depolanan meyveler ve sebzeler"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "Yüksek nem",
+    "Sıcaklık sıcaklığı (25-30°C)",
+    "Yaralı veya hasarlı meyveler",
+    "Çiğ meyvelerde yüksek şeker içeriği",
+    "Kötü depolama koşulları",
+    "Depolama sırasında düşük havalandırma"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "Airborne Mantar Spores",
+    "Enfekte ve sağlıklı meyveler arasındaki ilişki",
+    "Spore taşıyan böcekler",
+    "Kirlenmiş depolama konteynerleri veya yüzeyleri"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "Yaraları önlemek için meyveleri dikkatlice kullanın.",
+    "Enfekte meyveleri hızlı bir şekilde çıkarın ve yok edin.",
+    "Depolama alanlarında iyi hijyen sağlamak",
+    "Ürünler düşük sıcaklıkta",
+    "Havalandırmayı iyileştirir ve nemi azaltır"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "Rhizopus'u parazitize eden sincefalis türleri",
+    "Antifungal bileşikler üreten bacillus türleri",
+    "Fengisin üreten bakteriler mantar büyümesini inhibe eder"
   ],
   "chemical_control": [
     "Thiabendazole",
-    "Benomyl",
-    "Imazalil",
-    "Propiconazole",
+    "Benimle",
+    "İmazalya",
+    "Propikonazol",
     "Thiocarbamates",
-    "Fludioxonil",
-    "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
-    "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "Fludioksonil",
+    "Tebuconazol",
+    "Feneksamide",
+    "Azoksitrobin",
+    "klorür",
+    "Sodyum Hypochlorite",
+    "Kalsiyum Hypochlorite"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "Yaralanmaları önlemek için meyveleri dikkatlice toplayın.",
+    "• Doğru soğuk depolama",
+    "Depolama alanlarını temiz ve temiz tutun",
+    "Sağlıklı meyvelerle hasarlı ürünleri saklamaktan kaçının.",
+    "Depolama ve taşıma sırasında nemin azaltılması"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "Bautista-Baños et al., Meyve ve sebze bitkisi",
+    "Smith'in Endüstriyel Mykolojiye Giriş",
+    "Bitki-mikrobe etkileşimleri – Rhizopus stolonifer",
+    "Bilimsel edebiyat, hasat sonrası mantar hastalıkları"
   ]
 }

@@ -1,62 +1,72 @@
 {
-  "disease_name": "Tomato Early Blight",
-  "causal_agent": "Alternaria solani",
-  "other_agents": ["Alternaria tomatophila"],
-  "type": "fungal pathogen",
+  "disease_name": "Zuwa ga Haske na Farko",
+  "causal_agent": "Indian National weekday 3 - LongDayName",
+  "other_agents": [
+    "Wata ' yar'uwa mai suna Wadda take aiki tare da masu shela sosai"
+  ],
+  "type": "MGBOKO UMUORIA 8 (Igbo)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)", "Potato (S. tuberosum)"],
-    "secondary": ["Eggplant (S. melongena L.)", "Bell pepper and hot pepper (Capsicum spp.)"],
-    "weeds": ["Black nightshade (Solanum nigrum)"]
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon.",
+      "Indian National weekday 5 - LongDayName"
+    ],
+    "secondary": [
+      "UYO 7 (Efik)",
+      "A cikinsu akwai wasu littafai mãsu ƙĩma da daraja."
+    ],
+    "weeds": [
+      "Mãsu gudu suna ɓũya."
+    ]
   },
-  "distribution": "Worldwide; problematic east of the Rocky Mountains and midwest USA for tomato; common in potato-growing regions",
+  "distribution": "A dukan duniya; matsaloli suna raba hankalin dutsen da ke gabashin dutsen da kuma na GAME da Ofishin Shaidun Jehobah don su yi wa'azi a wurare dabam - dabam",
   "symptoms": {
     "tomato": [
-      "Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm",
-      "Yellowing or chlorosis around leaf spots",
-      "Stem lesions, dark and slightly sunken with concentric rings",
-      "Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass",
-      "Seedlings: collar rot (basal girdling), death"
+      "Wata ' yar'uwa mai kama daya tana yin girma kuma tana da tsawon inci ɗaya.",
+      "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+      "Masu zane - zane masu duhu, da rana da ba a san da su sosai ba",
+      "' Ya'ya a nuna dangantaka ko kuma cikin rashin haɗin kai, ba a sanye da ƙwayoyin cuta da aka yi da su ba.",
+      "An haifi ' ya'ya: mutuwa!"
     ],
     "potato": [
-      "Concentric dark brown spots on older leaves",
-      "Premature defoliation leading to tuber yield reduction",
-      "Stem spots gaunt and diffuse",
-      "Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage"
+      "Mãsu gudu suna ɓũya.",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Yadda Za a Shiga: Yana da duhu, yana da duhu, yana shiga ciki; yana iya ƙara girma a lokacin wahala"
     ]
   },
   "life_cycle": {
-    "type": "polycyclic",
-    "overwintering": "Crop residues or wild solanaceous plants",
-    "infection": "Conidia produced in spring, splashed or wind-dispersed, infect through wounds, stomata or direct penetration",
-    "spread": "Conidia from lesions infect other parts of plant or neighboring plants during the same season"
+    "type": "KCharselect unicode block name",
+    "overwintering": "Da ƙwãya mai sõshiya da ƙamshi.",
+    "infection": "Tarin, ko kuma iska mai ƙarfi, ta wajen haɗawa, ko kuma taki, ko kuma ta yi masa ja - gora a hanyar da ba ta dace ba.",
+    "spread": "Wata ' yar'uwa mai suna Encyclopa daga ƙasar Ruwanda ta yi shuki zuwa wasu wurare dabam - dabam a lokacin."
   },
-  "pathogen_type": "Necrotrophic",
+  "pathogen_type": "KCharselect unicode block name",
   "cultural_control": [
-    "Clear infected debris to reduce inoculum",
-    "Water plants in the morning to minimize leaf wetness",
-    "Use drip irrigation",
-    "Apply mulch to block soil splash",
-    "Rotate to non-solanaceous crops for at least three years",
-    "Control wild solanaceous plants near fields",
-    "Plant resistant cultivars",
-    "Increase air circulation in rows",
-    "Monitor fields closely in warm, damp weather"
+    "QXml",
+    "Ba da abinci da safe don mu rage lokacin da muke aiki",
+    "Ka Yi Amfani da Abin da Littafi Mai Tsarki Ya Ce",
+    "Media controller element",
+    "Kuma ka yi gargaɗi ga danginka mafiya kusanci.",
+    "Ku nĩsanci abu mai girman kai",
+    "Yin Tsayayya da Cin Hanci",
+    "Media controller element",
+    "@ item Text character set"
   ],
   "chemical_control": [
-    "Azoxystrobin (QoI fungicide)",
-    "Pyraclostrobin",
-    "Bacillus subtilis",
-    "Chlorothalonil",
-    "Copper-based products",
-    "Hydrogen dioxide (Hydroperoxyl)",
-    "Mancozeb",
-    "Potassium bicarbonate",
-    "Ziram"
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Da wasu kõfuna da shantula da hinjãlai daga (giya) mai ɓuɓɓuga.",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary"
   ],
-  "notes_on_resistance": "Decreased sensitivity to QoI fungicides due to F129L amino acid substitution in A. solani",
+  "notes_on_resistance": "@ item Text character set",
   "references": [
-    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
-    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
-    "https://doi.org/10.1094/PHYTO-94-11-1231"
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

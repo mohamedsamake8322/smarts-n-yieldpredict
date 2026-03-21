@@ -1,90 +1,90 @@
 {
- "disease": "Pythium Damping-off",
- "scientific_name": "Genus Pythium",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
- "symptoms": [
-  "Irregular patches of wilted or yellow plants in seedbeds",
-  "Soft brown watery rot at the base of stems",
-  "Seedlings falling over at the soil line",
-  "Stunted growth of young plants",
-  "Yellowing of older plants due to root damage",
-  "Stem rot in newly transplanted plants"
- ],
- "visual_symptoms": [
-  "seedlings collapsed at soil surface",
-  "soft brown water-soaked stem base",
-  "patches of dead or stunted seedlings"
- ],
- "hosts": [
-  "Tobacco",
-  "Vegetable seedlings",
-  "Cucumber",
-  "Tomato",
-  "Pepper",
-  "Lettuce",
-  "Beans",
-  "Many nursery crops"
- ],
- "host_specific_example": {
-  "crop": "Burley tobacco",
-  "scientific_name": "Nicotiana tabacum (burley type)"
- },
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "lower stem",
-  "hypocotyl"
- ],
- "image_type": "Field",
- "favorable_conditions": [
-  "Wet or poorly drained soil",
-  "High soil moisture",
-  "Cool to moderate temperatures",
-  "Dense seedbeds with poor air circulation",
-  "Excessive irrigation"
- ],
- "spread": [
-  "Contaminated soil",
-  "Irrigation water",
-  "Infected plant debris",
-  "Contaminated tools or trays in nurseries"
- ],
- "disease_cycle": [
-  "Pythium survives in soil as spores or mycelium",
-  "Spores germinate in wet soil conditions",
-  "Pathogen infects seeds or young seedlings",
-  "Infected tissues produce more spores that spread through water"
- ],
- "impact": [
-  "Loss of seedlings in nurseries",
-  "Poor crop establishment",
-  "Reduced plant population",
-  "Yield reduction due to weak plant stands"
- ],
- "cultural_control": [
-  "Use well-drained seedbeds",
-  "Avoid overwatering",
-  "Improve air circulation in nurseries",
-  "Use sterile soil or seedling substrate",
-  "Reduce planting density"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment with fungicides such as metalaxyl or mefenoxam",
-  "Soil drenches with appropriate fungicides in nurseries"
- ],
- "prevention": [
-  "Use certified disease-free seeds",
-  "Sterilize nursery trays and tools",
-  "Avoid excessive irrigation",
-  "Rotate crops when possible"
- ],
- "source": [
-  "Plant pathology references on Pythium damping-off",
-  "Agricultural disease management guides"
- ]
+  "disease": "Püskürtme Damping-off",
+  "scientific_name": "Genüs Pythium",
+  "pathogen_type": "Oomycete (Fungus gibi bir organizma)",
+  "description": "Pythium türleri, birçok bitkide damping-off ve kök rotasına neden olan toprak patogenleridir. hastalık çoğunlukla tohumlara saldırır, toprak çizgisinin yakınında yumuşak su rotasına neden olur ve bitki çöküşüne ve ölümüne yol açar.",
+  "symptoms": [
+    "Tohumlarda sarı veya sarı bitkilerin düzensiz patlamaları",
+    "Yumuşak kahverengi su damlası çamur tabanında",
+    "Toprak çizgisinde düşen tohumlar",
+    "Genç bitkilerin büyümesi",
+    "Yaşlı bitkilerin sarılaşması kök hasarından dolayı",
+    "Yeni transplantasyon yapan bitkilerde çamur"
+  ],
+  "visual_symptoms": [
+    "Toprak yüzeyinde çökmüş tohumlar",
+    "Yumuşak kahverengi su kaynatılmış çelik taban",
+    "Ölü ya da çürümüş bitkiler"
+  ],
+  "hosts": [
+    "Tütün",
+    "Bitkisel tohumlar",
+    "Çanakkale",
+    "domates",
+    "Pepper için",
+    "Mutluluk",
+    "Beanlar",
+    "Birçok hemşirelik bitkileri"
+  ],
+  "host_specific_example": {
+    "crop": "Burley Tütün",
+    "scientific_name": "Nicotiana tabak (burley türü)"
+  },
+  "plant_parts_affected": [
+    "tohumları",
+    "Kökleri",
+    "Düşük ses",
+    "hipotek"
+  ],
+  "image_type": "alanı",
+  "favorable_conditions": [
+    "ıslak veya kötü ıslak toprak",
+    "Yüksek toprak ıslaklığı",
+    "Soğuk, ılımlı sıcaklıklar",
+    "Düşük hava dolaşımı ile ince tohumlar",
+    "aşırı sulama"
+  ],
+  "spread": [
+    "kirlenmiş toprak",
+    "Irigasyon suyu",
+    "Enfekte bitki çöpleri",
+    "Hemşirelerde kirlenmiş araçlar veya çubuklar"
+  ],
+  "disease_cycle": [
+    "Pythium toprakta spores veya mycelium olarak hayatta kalır",
+    "ıslak toprak koşullarında germinasyon",
+    "Patojenler tohumları veya genç tohumları enfekte eder",
+    "Enfekte dokular su yoluyla yayılan daha fazla spora üretir."
+  ],
+  "impact": [
+    "Hemşirelerde Yetiştiricilerin Kaybı",
+    "Kötü bitki tesisleri",
+    "Bitki nüfusunun azaltılması",
+    "Zayıf fabrikalar nedeniyle kâr düşüşü"
+  ],
+  "cultural_control": [
+    "iyi ıslatılmış tohumları kullanın",
+    "Su geçirmekten kaçının",
+    "Hemşirelerde hava dolaşımının iyileştirilmesi",
+    "Steril toprak veya toplanma substratı kullanın",
+    "Bitki yoğunluğunu azaltmak"
+  ],
+  "biological_control": [
+    "Trichoderma türleri gibi faydalı mantarlar kullanın",
+    "Bacillus subtilis gibi faydalı bakterileri kullanın"
+  ],
+  "chemical_control": [
+    "Tohum tedavisi metalaxil veya mefenoksam gibi fungicidler ile",
+    "Topraklar hemşirelerde uygun fungicidlerle içilir"
+  ],
+  "prevention": [
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Sterilizasyon hemşirelik ipuçları ve araçları",
+    "Aşırı sulama önlemek",
+    "Mümkün olduğunda bitki yetiştirmek"
+  ],
+  "source": [
+    "Bitki patolojisi referansları Pythium damping-off",
+    "Tarımsal Hastalık Yönetimi Rehberi"
+  ]
 }

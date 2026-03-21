@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
+  "pest_name": "Volée à feuilles d'argent",
   "scientific_name": "Bemisia argentifolii",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "Volée blanche de patate douce",
+    "Volée blanche de feuilles d'argent"
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "Les adultes mesurent 1,5 mm de long, l'abdomen jaune et le thorax, les ailes blanches; les nymphes sont ovales, translucides ou jaunâtres.",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "Cultures de col (brocoli, chou, chou-fleur, choux-kolé, choux-kolés, choux chinois, choux de Bruxelles)",
+    "Autres cultures végétales en tant qu'hôtes accessoires"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "La consommation de copeaux entraîne un ralentissement de la croissance et un retard dans la récolte.",
+    "L'excrétion de miel favorise la moisissure de suie, réduisant la photosynthèse",
+    "Blanchiment des tiges et des pétioles des feuilles dans le brocoli (signe blanche)"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "Oeufs pondus sur le dessous des feuilles",
+    "La première étoile (crawler) est mobile; les nymphes suivantes sont sessiles",
+    "Le dernier stade instar (pupa/rouge-oe) précède l'émergence chez l'adulte",
+    "Les adultes volent facilement lorsque les plantes sont perturbées"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "Par le vent et la migration des cultures voisines",
+    "Éparpillement mécanique par des outils ou des travailleurs contaminés",
+    "Augmentation rapide de la population lorsque les hôtes à proximité sont en déclin"
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "Vérifier les marges de champ 2x/semaine (août-octobre) ou hebdomadaire (novembre-mars)",
+    "Les pièges collants jaunes aident à détecter la migration initiale",
+    "Retournez les feuilles pour inspecter les nymphes"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "Retarder la plantation ou créer des périodes sans hôte pour réduire l'infestation",
+      "Plantes cultivées au vent à partir d'autres hôtes de mouches blanches",
+      "Maintenir l'assainissement : éliminer rapidement les mauvaises herbes et les résidus de cultures",
+      "Gérer l'irrigation et l'azote pour éviter la croissance excessive des plantes favorisant les lucioles"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "Les guêpes parasitaires (Encarsia, Eretmocerus)",
+      "Predators: insectes bigeyed, larves de lacets, coccinelles",
+      "Champignons entomopathogènes: Beauveria bassiana, Isaria fumosorosea"
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "Cyantraniliprole (Exirel, Veritmark)",
+        "targets": "Adultes",
+        "MOA_group": "Les États membres sont destinataires de la présente décision."
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "Chlorantraniliprole (Coragène)",
+        "targets": "Adultes",
+        "MOA_group": "Les États membres sont destinataires de la présente décision."
       },
       {
         "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
+        "targets": "Adultes",
         "MOA_group": "4A"
       },
       {
         "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
+        "targets": "Nymphes",
         "MOA_group": "4A"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
+        "name": "Acetamipride (Assail 70 WP)",
+        "targets": "Nymphes/adultes",
         "MOA_group": "4A"
       },
       {
         "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
+        "targets": "Oeufs et nymphes",
         "MOA_group": "4D"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
+        "name": "Sulfoxaflor (Séquoia CA)",
+        "targets": "Oeufs et nymphes",
         "MOA_group": "4C"
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
+        "name": "Thiaméthoxam (Actara)",
+        "targets": "Nymphes/adultes",
         "MOA_group": "4A"
       },
       {
-        "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
+        "name": "Bifenthrine (Brigade 2EC)",
+        "targets": "Adultes",
         "MOA_group": "3A"
       },
       {
-        "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
+        "name": "Spirotétramat (Movento)",
+        "targets": "Nymphes",
         "MOA_group": "23"
       },
       {
-        "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
+        "name": "Spiromésifène (Oberon 2 SC)",
+        "targets": "Nymphes",
         "MOA_group": "23"
       },
       {
         "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
+        "targets": "Nymphes",
         "MOA_group": "16"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "Savons insecticides",
+        "targets": "Nymphes et adultes",
+        "mode": "Personne-ressource"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "Huiles de gamme étroite (Huile d'Omni, JMS Stylet-Oil)",
+        "targets": "Nymphes et adultes",
+        "mode": "contact/couverture"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "Beauveria bassiana et Isaria fumosorosea pour le contrôle de la nymphe",
+      "Savons insecticides et huiles de gamme étroite",
+      "Burkholderia spp. (Vénérer)"
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "Rotation des insecticides avec différents groupes de modes d'action",
+      "Optimiser la couverture et le calendrier de l'application"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "Les seuils ne sont pas bien établis; dans les champs organiques ou non traités, traiter les bordures de préférence si l'infestation est plus élevée aux bords."
 }

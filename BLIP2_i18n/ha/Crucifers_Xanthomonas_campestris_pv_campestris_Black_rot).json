@@ -1,74 +1,74 @@
 {
-  "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
-  "common_name": "Black rot of crucifers",
-  "scientific_name": "Xanthomonas campestris pv. campestris",
-  "pathogen_type": "Bacterium",
-  "description": "Black rot is a serious bacterial disease affecting cruciferous crops. It is caused by the bacterium Xanthomonas campestris pv. campestris and spreads mainly through infected seeds, plant debris, water splash, and contaminated tools. The pathogen enters plants through hydathodes at the leaf margins or through wounds, then spreads through the vascular system, causing characteristic blackened veins and leaf necrosis.",
+  "disease_name": "G_ar ka Goge- key- key- name",
+  "common_name": "KCharselect unicode block name",
+  "scientific_name": "X Alanananyen sansanin sojoji mafi girma a sansanin fursuna.",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Cin hanci wata cuta ce mai tsanani da ke sa ruwa ya yi ɓarna, kuma hakan yana sa ta yi wuya sosai. A lokacin, ana iya yin amfani da wani irin na'urar da ake amfani da ita don a yi amfani da na'urar da ke ɗauke da ruwa.",
   "hosts": [
-    "Cabbage",
-    "Broccoli",
-    "Cauliflower",
-    "Brussels sprouts",
-    "Kale",
-    "Radish",
-    "Turnip",
-    "Mustard",
-    "Other cruciferous crops (Brassicaceae family)"
+    "Indian National weekday 5 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ action",
+    "Dole ne a Yi Wa'azi",
+    "Wasu shuke - shuke masu kyau (daga iyali)"
   ],
   "symptoms": [
-    "Yellow V-shaped lesions starting from leaf margins",
-    "Lesions progressing toward the center of the leaf",
-    "Blackening of leaf veins",
-    "Leaf wilting and necrosis",
-    "Stunted plant growth",
-    "Severe infections may cause plant death"
+    "Za ku iya koyan abubuwa game da wasu abubuwa masu ban sha'awa da za ku iya samu daga kayan lambu.",
+    "Ana samun ci gaba ne zuwa cibiyar kayan.",
+    "Sao'i Masu Ban Al'ajabi",
+    "Za a Yi Nasara da Kuma Yin Wa'azi a Kai a Kai",
+    "@ action",
+    "Mutane da yawa suna iya sa a daina mutuwa"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall or overhead irrigation",
-    "Presence of infected seeds",
-    "Mechanical injuries on plants"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "@ action"
   ],
   "management": {
     "monitoring": [
-      "Regular field scouting for V-shaped lesions on leaves",
-      "Inspection of seedlings and young plants",
-      "Monitoring fields after periods of rain or high humidity"
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+      "Yadda iri yake girma da kuma shuke - shuke",
+      "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\""
     ],
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Practice crop rotation for at least 3–4 years",
-      "Remove and destroy infected plant residues",
-      "Avoid overhead irrigation to reduce leaf wetness",
-      "Disinfect agricultural tools and equipment",
-      "Plant resistant or tolerant varieties when available"
+      "KCharselect unicode block name",
+      "Yin amfani da kayan aiki na ɗan lokaci na aƙalla shekaru 32",
+      "Wahala kuma ta halaka ƙwayoyin cuta da aka shuka",
+      "Ka guji yawan shan giya don ka rage yawan abinci da muke da shi",
+      "QXml",
+      "Mãsu yin ɗã'a ga Allah, mãsu shirki."
     ],
     "biological_control": {
       "microorganisms": [
-        "Bacillus subtilis",
-        "Bacillus amyloliquefaciens",
-        "Pseudomonas fluorescens"
+        "KCharselect unicode block name",
+        "@ item Text character set",
+        "KCharselect unicode block name"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control of bacterial diseases is limited. Copper-based bactericides are commonly used as preventive treatments.",
+      "note": "Ba za a iya yin amfani da cuta masu yawa don a kawar da cuta ba.",
       "active_ingredients": [
-        "Copper hydroxide",
-        "Copper oxychloride",
-        "Copper sulfate"
+        "KCharselect unicode block name",
+        "KCharselect unicode block name",
+        "KCharselect unicode block name"
       ]
     }
   },
-  "economic_importance": "Black rot can cause significant yield losses in cruciferous crops worldwide. Severe infections may destroy entire fields, particularly in warm and humid climates where the disease spreads rapidly.",
+  "economic_importance": "Cin hanci yana iya jawo hasara mai tsanani a dukan duniya.",
   "references": [
-    "Agrios, G. N. Plant Pathology.",
-    "CABI Crop Protection Compendium.",
-    "FAO Integrated Pest Management resources.",
-    "Wikipedia – Black rot of crucifers."
+    "UYO 7 (Efik)",
+    "MGBOKO UMUORIA 7 (Igbo)",
+    "IGWURUTA ALI 10 (Turanci)",
+    "UYO 7 (Efik)"
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
-    "https://www.cabi.org"
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

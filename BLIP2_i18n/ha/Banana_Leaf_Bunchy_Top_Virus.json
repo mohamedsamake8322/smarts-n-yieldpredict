@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "KCharselect unicode block name",
+  "dataset_label": "KCharselect unicode block name",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana bunchy top virus",
-    "abbreviation": "BBTV",
-    "family": "Nanoviridae",
-    "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "type": "Ethiopian weekday 5 - LongDayName",
+    "name": "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "abbreviation": "keyboard- key- name",
+    "family": "@ action",
+    "genus": "KCharselect unicode block name",
+    "genome": "@ item Text character set"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Wata ' yar'uwa mai suna Raka (ana duba hoton da ke wannan talifin.)",
     "other_hosts": [
-      "Plantain",
-      "Abaca"
+      "Shirin Hana Haske",
+      "KCharselect unicode block name"
     ],
     "vector_alternate_hosts": [
-      "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "QDialogButtonBox",
+    "@ item Spelling dictionary",
+    "' Ya'ya",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
-    "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "type": "QShortcut",
+    "name": "KCharselect unicode block name",
+    "scientific_name": "KCharselect unicode block name",
+    "transmission_type": "KCharselect unicode block name"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "Media controller element",
+      "@ item Spelling dictionary",
+      "Yadda Za a Ci Gaba da Yin Amfani da Shi a Kan Abubuwa Masu Ban Al'ajabi"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "Kuma daga mutãne akwai mai yin musu ga Allah bã da wani ilmi ba kuma bã da wata shiriya ba, kuma bã da wani littãfi mai haskakãwa ba.",
+      "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+      "Sa'an nan, Muka tsirar da ƙwaya, a cikinta."
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+      "KCharselect unicode block name",
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "Ci Gaba da Yin Nasara a Kan Al'ada",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "(Ita) mai ƙasƙantãwa ce, mai ɗaukakãwa.",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "KCharselect unicode block name",
+      "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+      "KCharselect unicode block name",
+      "Rashin tattalin arziki da ake samu a buga littattafai"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
-    "Taiwan",
-    "India",
-    "Pakistan",
-    "East Asia",
-    "Oceania",
-    "Pacific Islands",
-    "Hawaii",
-    "Africa"
+    "KCharselect unicode block name",
+    "Filifin",
+    "ƙasar waje",
+    "Indiya",
+    "@ item Spelling dictionary",
+    "Asiya ta Gabas",
+    "K_ar ka Goge",
+    "@ item Spelling dictionary",
+    "@ item Spelling dictionary",
+    "Afirka"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "Yi Amfani da kayan daidaita na'ura",
+      "Da ƙwãya mai sõshiya da ƙamshi.",
+      "Ka guje wa yin maye da giya"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "KCharselect unicode block name",
+      "Ka yi amfani da na'urar da aka yi amfani da su a ƙasa ko kuma na'urar da ake amfani da su don ɗaukan kaya",
+      "@ item Text character set"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "Ƙa'idodi na Ruhaniya",
+      "Mai da hankali ga tsarin kayan duniya",
+      "Yin Amfani da Yadda Ya Kamata"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+      "Kasancewa da Gaba Gaɗi Wajen Yin Tsayayya da Matsi Mai Kyau"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "KCharselect unicode block name",
+    "Abin da Ke Kawo Farin Ciki a Duniya",
+    "@ item Text character set"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
-    "Queensland Department of Agriculture"
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "Yadda Za a Sami Hanya Mai Kyau",
+    "@ item Text character set",
+    "Inda Aka Ɗaukoa National month 9 - LongName"
   ]
 }

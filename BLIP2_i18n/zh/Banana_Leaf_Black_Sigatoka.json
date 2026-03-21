@@ -1,105 +1,105 @@
 {
-  "disease_name": "Banana Leaf Black Sigatoka",
-  "common_name": "Black Sigatoka",
+  "disease_name": "香蕉叶叶黑西加托卡",
+  "common_name": "黑西加托卡",
   "other_names": [
-    "Black leaf streak",
-    "BLS"
+    "黑叶",
+    "BLS BLS"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora fijiensis"
+    "type": "蘑菇",
+    "scientific_name": "纤维纤维"
   },
   "host_plant": {
-    "common_name": "Banana",
-    "scientific_name": "Musa spp."
+    "common_name": "香蕉香蕉",
+    "scientific_name": "穆萨(Musa spp)."
   },
   "affected_parts": [
-    "Leaves"
+    "休假请请假"
   ],
   "symptoms": {
     "early_stage": [
-      "Tiny reddish or rusty-brown flecks on the underside of banana leaves",
-      "Small streaks parallel to leaf veins"
+      "香蕉叶下边的细细红色或生锈褐色花粉",
+      "与叶静脉平行的小连线"
     ],
     "intermediate_stage": [
-      "Streaks elongate and darken into reddish-brown or black lines",
-      "Lesions become visible on both sides of the leaf"
+      "变长变暗成红褐色或黑线",
+      "叶子两侧的遗迹都变得可见"
     ],
     "advanced_stage": [
-      "Oval-shaped lesions with grey centers",
-      "Yellow halos surrounding lesions",
-      "Large necrotic areas causing leaf death"
+      "灰色中心造成的无状形损伤",
+      "周围黄光环绕的损害",
+      "导致叶叶死亡的大面积坏死"
     ]
   },
   "disease_cycle": {
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "协 员",
+      "食 食 食 食 食 食 食 食"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Air currents"
+      "风风",
+      "雨水喷雨",
+      "空中洋流"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Frequent rainfall",
-      "Warm tropical climate"
+      "高湿湿度",
+      "频繁降雨",
+      "温暖热带气候"
     ],
     "infection_time_days": 27
   },
   "impact": {
     "yield_loss_percent": "30-50%",
     "effects": [
-      "Leaf death",
-      "Reduced fruit size",
-      "Reduced fruit quality",
-      "Premature and uneven fruit ripening"
+      "叶叶死亡",
+      "水果规模缩小",
+      "水果质量下降",
+      "成熟成熟的水果早成熟和不均衡"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "India",
-    "China",
-    "Pacific Islands",
-    "East Africa",
-    "West Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Papua New Guinea",
-    "Hawaii (USA)"
+    "东南亚东南亚",
+    "印度 印度 印度",
+    "中国 中国 中国 中国 中国 中国 中国",
+    "太平洋岛屿",
+    "东非东非东非",
+    "西非西非",
+    "中美洲 中美洲",
+    "南美洲南美洲",
+    "加勒比加勒比",
+    "巴布亚新几内亚 巴布亚新几内亚",
+    "夏威夷( 美国)"
   ],
   "similar_diseases": [
-    "Yellow Sigatoka (Pseudocercospora musae)",
-    "Eumusae leaf spot (Pseudocercospora eumusae)"
+    "黄西加托卡(Pseudocercospora musae)",
+    "Eumusae叶斑点(Pseudocercospora eumusae)"
   ],
   "management": {
     "cultural_control": [
-      "Removal of infected leaves",
-      "Improving field drainage",
-      "Reducing humidity around plants",
-      "Planting resistant banana varieties"
+      "取消被感染的树叶",
+      "改善实地排水系统",
+      "减少工厂周围的湿度",
+      "种植抗种植性香蕉品种"
     ],
     "chemical_control": [
-      "Triazole fungicides",
-      "Demethylation inhibitor fungicides",
-      "Methyl benzimidazole carbamates (MBC)"
+      "三联苯杀真菌剂",
+      "脱甲基脱甲基抑制剂杀真菌剂",
+      "甲基苯并氨基氨基甲酸酯(MBC)"
     ],
     "biological_or_genetic_control": [
-      "Breeding resistant banana cultivars",
-      "Genetically modified resistant banana varieties"
+      "耐种性香蕉种植品种",
+      "抗遗传改良耐遗传的香蕉品种"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected plant material",
-    "Transport of banana leaves used for food packaging",
-    "Contaminated equipment or packaging materials"
+    "受感染植物材料的流动",
+    "运输用于食品包装的香蕉叶",
+    "受污染设备或包装材料"
   ],
   "references": [
-    "Biosecurity Queensland – Black Sigatoka pest profile",
-    "FAO Banana disease reports",
-    "Cook et al., 2013. Crop Protection Journal",
-    "Pattison, 2014. Australian Bananas"
+    "昆士兰州生物安保 — — 黑西加托卡病虫害简介",
+    "粮农组织香蕉疾病报告",
+    "Cook等人,2013年,《作物保护杂志》。",
+    "《2014年澳大利亚香蕉》,巴蒂森,2014年。"
   ]
 }

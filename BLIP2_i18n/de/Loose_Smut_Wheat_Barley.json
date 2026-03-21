@@ -1,0 +1,43 @@
+{
+  "disease": "Lösen Smut von Weizen und Gerste",
+  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
+  "pathogen_type": "Pilzerreger",
+  "description": "Lose Smut ist eine systemische Pilzkrankheit, die Weizen und Gerste betrifft. Der Pilz infiziert die sich entwickelnden Kerne und ersetzt sie durch Massen von schwarzen Sporen, die während der Blüte von Wind zerstreut werden und zu erheblichen Ertragsverlusten führen.",
+  "symptoms": [
+    "Gewürze durch schwarze, pulverförmige Sporen ersetzt",
+    "Betroffene Köpfe treten früher auf als gesunde.",
+    "Keine vegetativen Symptome an Blättern oder Stängeln",
+    "Ertragsverlust proportional zur Infektionsrate"
+  ],
+  "hosts": [
+    "Weizen (Triticum aestivum)",
+    "Gerste (Hordeum vulgare)"
+  ],
+  "favorable_conditions": [
+    "Kühle und feuchte Bedingungen während der Blüte",
+    "Pflanzung von infizierten Samen"
+  ],
+  "spread": [
+    "Windzerstreuung von Sporen auf gesunde Blüten",
+    "Samenübertragung aus infizierten Körnern"
+  ],
+  "management": [
+    "Verwendung zertifiziertes, seuchenfreies Saatgut",
+    "Saatgutbehandlung mit systemischen Fungiziden",
+    "Vermeiden Sie die Rettung von Saatgut aus infizierten Kulturen",
+    "Fruchtrotation mit Nicht-Host-Arten"
+  ],
+  "chemical_control": [
+    "Saatgutbehandlung mit Carboxin, Triadimenol oder Thiramfungiziden"
+  ],
+  "prevention": [
+    "Nur zertifiziertes Sauberes Saatgut",
+    "Durchführung der Fruchtfolge",
+    "sanitäre Lager- und Pflanzgeräte"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "FAO-Pflanzengesundheitsleitfäden",
+    "Wissenschaftliche Literatur zu Ustilago tritici"
+  ]
+}

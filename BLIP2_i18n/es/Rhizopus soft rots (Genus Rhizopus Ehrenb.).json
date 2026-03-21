@@ -1,0 +1,74 @@
+{
+  "disease": "Roto blando de Rhizopus",
+  "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre blanda de Rhizopus es una enfermedad fúngica que afecta principalmente a las frutas, verduras y cultivos almacenados. El hongo infecta los tejidos de las plantas heridas y causa una rápida descomposición suave y acuosa. Es común durante el almacenamiento, transporte y en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Putrefacción acuosa suave en los tejidos infectados",
+    "Desglose rápido de los tejidos de frutas y hortalizas",
+    "Crecimiento fúngico de algodón blanco en la superficie",
+    "Estructuras de espora tipo alfiler negro en áreas infectadas",
+    "Olor a mal olor en decaimiento avanzado",
+    "Los tejidos infectados se vuelven musculosos y colapsan"
+  ],
+  "hosts": [
+    "Tomate",
+    "Fresa",
+    "Melocotón",
+    "Papayas",
+    "Plátano",
+    "Patatas dulces",
+    "Zanahoria",
+    "Calabaza",
+    "Squash",
+    "Pepino",
+    "Melón",
+    "Mango",
+    "Berenjenas",
+    "Pimienta",
+    "Hortalizas y frutas almacenadas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Alta humedad",
+    "Tejidos vegetales dañados o heridos",
+    "Condiciones de almacenamiento deficientes",
+    "Mala ventilación durante el almacenamiento"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el aire",
+    "Contacto entre productos infectados y sanos",
+    "Contenedores o herramientas de almacenamiento contaminados",
+    "Insectos o daños mecánicos que crean heridas"
+  ],
+  "impact": [
+    "Pérdidas rápidas posteriores a la cosecha",
+    "Caída de frutas y hortalizas durante el almacenamiento o transporte",
+    "Reducción del valor de mercado de los cultivos"
+  ],
+  "cultural_control": [
+    "Manipule las frutas y verduras con cuidado para evitar heridas",
+    "Cultivos cosechados en condiciones secas",
+    "Eliminar los productos dañados o infectados rápidamente",
+    "Mantener una buena higiene en las zonas de almacenamiento",
+    "Garantizar una ventilación adecuada en las instalaciones de almacenamiento"
+  ],
+  "biological_control": [
+    "Utilice microbios beneficiosos como las especies Bacillus",
+    "Utilizar levaduras de biocontrol que inhiben el crecimiento fúngico"
+  ],
+  "chemical_control": [
+    "Tratamientos con fungicida post-cosecha cuando esté permitido",
+    "Utilización de desinfectantes para contenedores y equipos de almacenamiento"
+  ],
+  "prevention": [
+    "Evitar lesiones mecánicas durante la cosecha",
+    "Almacene los cultivos a temperatura y humedad adecuadas",
+    "Utilizar contenedores limpios e instalaciones de almacenamiento",
+    "Separar los productos infectados de los productos sanos"
+  ],
+  "source": [
+    "Referencias fitopatológicas sobre enfermedades post-cosecha",
+    "Guías de gestión de enfermedades de almacenamiento agrícola"
+  ]
+}

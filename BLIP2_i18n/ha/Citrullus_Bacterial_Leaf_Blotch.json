@@ -1,119 +1,119 @@
 {
-  "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
-  "common_name": "Bacterial Fruit Blotch",
+  "disease_name": "K_ar ka Goge",
+  "common_name": "KCharselect unicode block name",
   "causal_agent": {
-    "type": "bacterium",
-    "scientific_name": "Acidovorax citrulli",
+    "type": "KCharselect unicode block name",
+    "scientific_name": "KCharselect unicode block name",
     "taxonomy": {
-      "domain": "Bacteria",
-      "class": "Betaproteobacteria",
-      "order": "Burkholderiales",
-      "family": "Comamonadaceae",
-      "genus": "Acidovorax",
-      "species": "citrulli"
+      "domain": "An Yi Wa'azi da Ƙarfin Zuciya",
+      "class": "Ka Zama Mai Tawali'u",
+      "order": "KCharselect unicode block name",
+      "family": "KCharselect unicode block name",
+      "genus": "KCharselect unicode block name",
+      "species": "KCharselect unicode block name"
     }
   },
   "microbiological_properties": {
-    "gram_stain": "Gram-negative",
-    "shape": "Rod-shaped",
-    "size": "Approximately 0.5 μm × 1.7 μm",
-    "oxygen_requirement": "Strictly aerobic",
-    "motility": "Motile with polar flagellum",
-    "optimal_growth_temperature_celsius": "27-30"
+    "gram_stain": "Ethiopian month 8 - LongName",
+    "shape": "Indian National weekday 3 - LongDayName",
+    "size": "An buga wani talifi mai jigo \"Yadda Ake Sha'ani ' (Turanci) a shekara ta 0 A.Z., wanda aka yi amfani da shi a cikin jirgin ruwa ya kai miliyan ɗaya da rabi.",
+    "oxygen_requirement": "KCharselect unicode block name",
+    "motility": "KCharselect unicode block name",
+    "optimal_growth_temperature_celsius": "27 Abin da Muka Koya Daga Wurin Yesu - Game da Rayuwar ' Yan Adam"
   },
   "host_plants": [
-    "Watermelon",
-    "Melon",
-    "Cucumber",
-    "Squash",
-    "Pumpkin",
-    "Zucchini"
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - ShortNamePossessive",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name"
   ],
   "symptoms": {
     "seedlings": [
-      "Water-soaked lesions on cotyledons",
-      "Necrotic lesions near veins",
-      "Lesions on hypocotyl",
-      "Seedling collapse and death"
+      "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Zuriyar da aka tayar ta da kuma mutuwa"
     ],
     "leaves": [
-      "Irregular dark-brown to black lesions (watermelon)",
-      "Reddish-brown lesions (melon)",
-      "Lesions spreading along veins",
-      "Leaf blight symptoms"
+      "Mãsu duhun inuwa.",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "fruits": [
-      "Small irregular water-soaked lesions",
-      "Sunken rind spots",
-      "Lesions turn brown and crack",
-      "Internal fruit decay",
-      "Fruit rot before harvest"
+      "KCharselect unicode block name",
+      "Media controller element",
+      "KCharselect unicode block name",
+      "' Ya'yan itace da ba a san da su sosai ba suna daɗa ƙaruwa",
+      "' Ya'ya suna ba da ' ya'ya kafin girbi"
     ]
   },
   "disease_cycle": {
-    "primary_inoculum": "Contaminated seeds",
+    "primary_inoculum": "Media controller element",
     "transmission_methods": [
-      "Seed transmission",
-      "Splashing water",
-      "Wind-driven rain",
-      "Overhead irrigation"
+      "Ɗabi'a Mai Ban Al'ajabi",
+      "Sa'an nan da girãgizai mãsu ɗaukar nauyi (na ruwa).",
+      "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+      "QShortcut"
     ],
     "infection_entry_points": [
-      "Stomata",
-      "Plant wounds"
+      "DakataCoptic weekday 3 - LongDayName",
+      "KCharselect unicode block name"
     ],
-    "fruit_infection_stage": "2–3 weeks after flowering"
+    "fruit_infection_stage": "2 makonni 7 idan muka yi aure, za mu yi farin ciki sosai a hidimarmu ga Jehobah kuma za mu iya yin wa'azi gida - gida."
   },
   "favorable_conditions": {
-    "temperature_celsius": "High (around 27–30°C)",
-    "humidity": "High relative humidity",
+    "temperature_celsius": "@ item Spelling dictionary",
+    "humidity": "KCharselect unicode block name",
     "environment": [
-      "Greenhouses",
-      "Dense plant populations",
-      "Overhead irrigation"
+      "@ item Spelling dictionary",
+      "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "QShortcut"
     ]
   },
   "economic_importance": {
-    "impact": "Severe losses in cucurbit crops, especially watermelon and melon",
-    "possible_loss_percentage": "Up to 90–100% fruit loss in severe outbreaks",
+    "impact": "Mutane da yawa suna rasa abin da yake sa ni sanyin gwiwa, musamman ma ruwan jini da kuma ruwan sama",
+    "possible_loss_percentage": "Ƙari ga haka, akwai ' ya'yan itace guda 90 da suka yi hasarar ' ya'yan itace masu tsanani sosai",
     "global_distribution": true
   },
   "management": {
     "seed_management": [
-      "Use pathogen-free certified seeds",
-      "Seed health testing (PCR or grow-out assays)"
+      "Yi Amfani da hanyar da ba ta dace ba",
+      "Za a iya gwada ko a yi girma da rashin lafiya (daga wurin aiki)."
     ],
     "seed_treatments": [
-      "Dry heat treatment (85°C for 3–5 days)",
-      "Peroxyacetic acid treatment",
-      "Chlorine treatments"
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "cultural_practices": [
-      "Reduce humidity in greenhouses",
-      "Avoid overhead irrigation",
-      "Remove infected plants"
+      "Mãsu duhun inuwa.",
+      "Ka Guji Abubuwan Raba Hankali",
+      "KCharselect unicode block name"
     ],
     "chemical_control": [
-      "Copper-based bactericides"
+      "KCharselect unicode block name"
     ],
-    "host_resistance": "No commercially reliable resistant cultivars available"
+    "host_resistance": "@ item Text character set"
   },
   "genetic_diversity": {
     "groups": [
       {
-        "name": "Group I",
-        "characteristics": "Moderately aggressive on multiple cucurbits"
+        "name": "@ item Spelling dictionary",
+        "characteristics": "KCharselect unicode block name"
       },
       {
-        "name": "Group II",
-        "characteristics": "Highly aggressive on watermelon"
+        "name": "@ item Spelling dictionary",
+        "characteristics": "Media controller element"
       }
     ]
   },
   "sources": [
-    "APS Plant Disease Lessons",
-    "Journal of Plant Pathology studies on Acidovorax citrulli",
-    "International Seed Health Initiative (ISHI)",
-    "Plant Pathology research publications"
+    "Darasin da Ya Dace",
+    "@ item Text character set",
+    "Ɗabi'a ta Dukan Duniya Za Ta Zama Kamar Al'umma (A. M.)",
+    "Media controller element"
   ]
 }

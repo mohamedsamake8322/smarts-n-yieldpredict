@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
-  "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "disease": "مُنْصِجِل",
+  "scientific_name": "Aciduفورس cstrulli",
+  "description": "إن بقع فاكهة البكتريا (BFB) هي مرض بكتيري مدمر يؤثر على محاصيل القرعة في جميع أنحاء العالم، ويسببه البكتيريا الخبيثة من النوع Aciduvorax ctroluli وينتشر في المقام الأول من خلال البذور الملوثة، ويمكن أن يتسبب المرض في خسائر اقتصادية حادة، خاصة في البطيخ وإنتاج البطيخ، ويؤدي العدوى إلى إصابة الشتلات والأوراق والفواكه بآفات ممتصة للمياه، مما يؤدي في نهاية المطاف إلى تعفن الفاكهة، والتشقق، وفقدان المحاصيل. ولأن البكتريا قادرة على البقاء على قيد الحياة داخل البذور لسنوات عديدة، فإن مكافحة الأمراض تعتمد أساساً على الصرف الصحي للبذور وممارسات النظافة الصحية الصارمة.",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
-    "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
+    "بطياطل (Citrurullus lanatus)",
+    "ميلون (كول الكوكوميات ميلو)",
+    "المقدار (Cucums acivus)",
     "Pumpkin (Cucurbita spp.)",
-    "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "Zuschini (Cucurbita bipo)",
+    "نباتات أخرى"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "الشتلات: إصابات ممتصة بالماء على الكوتيليدينات والهيبوكوتيل تؤدي إلى الانهيار والموت",
+    "الأوراق: إصابات كبيرة غير منتظمة التي هي من البني إلى الأسود في البطيخ واللون الأحمر - الدديش - البنين في البطيخ",
+    "غالباً ما تنتشر الآفات الليفية على طول المنتصف الرئيسي",
+    "الفواكه: آفات صغيرة ممتصة بالماء تتسع وتصبح غائرة",
+    "تُصبحُ النواةُ النواةُ النثريةُ، تُؤدّي إلى التشقّقِ والإضمحلالِ",
+    "الأمراض التي تسمح بإصابات ثانوية من قبل مسببات أمراض أخرى",
+    "تعفن الثمار المصابة بإصابات شديدة وقد تلوث البذور"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "يجري الانتقال الأولي عن طريق البذور المُصابة",
+    "يمكن للكثيريوم البقاء داخل البذور لسنوات عديدة",
+    "السلوكيات الأولى كعامل زئبق يستخدم المغذيات من البذرة",
+    "التحولات إلى نمو مسبب للمرض عندما تظهر الشتات",
+    "البكتريا في حالة تنمية الفواكه من خلال الستوماتا ٣ - ٤ أسابيع بعد وضع الفاكهة",
+    "غالباً ما تظهر الأعراض في وقت متأخر، أو قرب الحصاد، مما يحدث تأخيراً بين العدوى والكشف",
+    "يمكن للثمرات المصابة أن تلوث بذوراً جديدة، مع استمرار الدورة"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "درجات الحرارة العالية",
+    "الرطوبة العالية",
+    "ظروف الحرارة والرطبة من ظروف غازات الدفيئة",
+    "تحميل البكتريا العالي على البذور الملوثة",
+    "سكان النباتات الكثيفة والري"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "استخدام البذور المعتمدة الخالية من الأمراض",
+    "إجراء اختبارات صحية قبل الغرس",
+    "المحافظة على الصرف الصحي الصارم في الحضانات والصوبات",
+    "تحاشي تَدْجِزْ أُسْجِزْزِ",
+    ":: الري للحد من انتشار البكتريا",
+    "أزل الأنقاض النباتية المُصابة والمصانع المتطوّعة للتكيّر"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "يمكن استخدام مبيدات البكترات القائمة على أساس النحاس في أغراض وقائية للحد من انتشار البكتريا",
+    "تكون الرقابة الكيميائية محدودة في الفعالية عموماً",
+    "ينبغي أن تتبع التطبيقات اللوائح الزراعية المحلية وعلامات المنتجات المحلية"
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "لا توجد في الوقت الراهن أساليب مراقبة بيولوجية راسخة على نطاق واسع",
+    "البحث جار لتحديد الخصومات البيولوجية الفعالة"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "لا توجد في الوقت الراهن أي أصنام تجارية ذات مقاومة قوية",
+    "بعض التجارب التي أظهرت مقاومة جزئية",
+    "تستمر برامج التسرُّج في البحث عن الپالازمات المقاومة"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "تُسَبَّبُ تَسْتَنْبِلَاتٍ مُسْبَقَةً مِنْ الماءِ على cotelions",
+    "أوراق مراقبة لصور غير منتظمة بنية أو سوداء على طول الأوردة",
+    "تفقّد فواكه للأماكن التي تتسع وتصبح مُغَرَقة",
+    "(أ) اختبار الحصول على درجة اختبار للتلويث قبل الغرس"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "(د) منع انتشار النباتات التي أُصيبت بالحوامل؛",
+    "استخدام المعالجة الحرارية للبذور (نحو 85 درجة مئوية لمدة تتراوح بين 3 و5 أيام) للحد من التلوث البكتريا",
+    "تطبيق النظافة الصحية الصارمة في إنتاج البذور ومرافق زرعها",
+    "تجنب ادخار البذور من الثمار المُحَكة"
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "ويكيبيديا - فاكهة البكتيريا"
   ]
 }

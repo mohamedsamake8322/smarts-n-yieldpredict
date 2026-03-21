@@ -1,0 +1,77 @@
+{
+  "disease_name": "Virus del Curl de Hoja Amarilla de Tomate",
+  "type": "enfermedad viral",
+  "causal_agent": "Virus del rizo de la hoja amarilla de tomate (TYLCV), género Begomovirus, familia Geminiviridae",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Berenjena (Solanum melongena)",
+      "Patata (Solanum tuberosum)",
+      "Tabaco (Nicotiana spp.)",
+      "Judías (Faseolus vulgaris)",
+      "Pimientos (Capsicum annuum)"
+    ],
+    "weeds": [
+      "Datura stramonium",
+      "Malva parviflora"
+    ]
+  },
+  "distribution": "En todo el mundo, especialmente en las regiones tropicales y subtropicales",
+  "vector": {
+    "species": "Bemisia tabaci (fly blanca de hojalata o batata)",
+    "transmission_type": "no propagativo-circulativo persistente",
+    "notes": [
+      "Período de acceso a la adquisición: 15-20 minutos",
+      "Período latente: 8–24 horas",
+      "Las hembras transmiten el virus más eficientemente que los machos",
+      "Transmisión transovaria observada durante dos generaciones",
+      "Transmisión sexual entre moscas blancas documentada"
+    ]
+  },
+  "symptoms": {
+    "foliage": [
+      "Atrocidad grave",
+      "Reducción del tamaño de la hoja",
+      "Ventosa/curling hacia arriba de hojas",
+      "Clorosis en hojas y flores"
+    ],
+    "fruit": [
+      "Reducción de la producción frutícola",
+      "Frutas distorsionadas"
+    ],
+    "overall_impact": "Pérdidas de rendimiento del 90 al 100% posibles en brotes graves"
+  },
+  "disease_cycle": [
+    "Virus introducido a través de plántulas infectadas, herramientas contaminadas, o vector Whitefly",
+    "Una vez establecidas, las moscas blancas se propagan rápidamente de planta en planta",
+    "El virus persiste en los hospedadores alternativos, incluidas las malas hierbas y otros cultivos de solanáceas",
+    "Factores ambientales como climas tropicales cálidos favorecen la proliferación del virus"
+  ],
+  "management": {
+    "cultural": [
+      "Variedades de tomate resistentes o tolerantes a TYLCV",
+      "Gire los cultivos a no huéspedes para reducir el inóculo",
+      "Eliminar o controlar los hospedadores de malas hierbas",
+      "Utilizar la producción de invernadero para reducir el acceso a los vectores"
+    ],
+    "chemical": [
+      "Aplicar insecticidas dirigidos a Bemisia tabaci, rotando o mezclando ingredientes activos para prevenir la resistencia",
+      "La sincronización de las aplicaciones es crítica debido a la rápida transmisión de virus por las moscas blancas"
+    ],
+    "genetic": [
+      "Métodos de reproducción o transgénicos para producir líneas de tomate resistentes a los TYLCV"
+    ]
+  },
+  "notes": [
+    "TYLCV es una de las enfermedades virales más graves del tomate a nivel mundial",
+    "Los países en desarrollo se ven más afectados por el clima y el alto costo de las medidas de control",
+    "El manejo integrado de plagas que combina variedades resistentes, control de vectores y prácticas culturales es más eficaz"
+  ],
+  "references": [
+    "Czosnek, H. & Laterrot, H. 1997. Virus de rizo de hoja amarilla de tomate, un complejo de virus emergente que causa epidemias en todo el mundo. Adv Virus Res 47: 85-138.",
+    "Polston, J.E. & Lapidot, M. 2007. Manejo del Virus del Curl de Hoja Amarilla de Tomate: Una revisión. Planta Dis 91: 125–134.",
+    "Brown, J.K., 2015. El complejo de especies Bemisia tabaci y transmisión de TYLCV. Virus Res 202: 150-162."
+  ]
+}

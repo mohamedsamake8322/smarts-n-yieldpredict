@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "Sphinx Moth Hakkında",
+  "stage": "Yetişkin",
+  "common_name": "Hawk Moth Hakkında",
+  "description": "Yetişkin sphinx moth, dar kanatları ve sağlam bir vücuda sahip büyük, hızlı uçan bir moth. Yetişkinler uzun bir proboscis kullanarak nektar üzerinde beslenir ve birçok bitki türü için kirleticilerdir.",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "Yetişkinler genellikle doğrudan bitki hasarına neden olmaz.",
+    "Geceleri ışıklara çekilebilir ve kirleticiler olarak hareket edebilir."
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "Gece akışı: Aktif ve gece akışı",
+    "Uzun mesafeli uçaklar; larvaları yeni ev sahipliği tesislerine göç edebilir ve dağıtabilir"
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "Yetişkinlerin izlenmesi larval patlamaları tahmin etmeye yardımcı olabilir",
+    "Hafif lekeler küçük alanlarda yetişkin aktivitesini azaltabilir"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "Yetişkinlik aşaması çoğunlukla polen için yararlıdır",
+    "Bitki hasarını önlemek için larva üzerinde odaklanma yönetimi"
   ]
 }

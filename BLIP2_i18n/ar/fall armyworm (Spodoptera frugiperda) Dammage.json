@@ -1,63 +1,63 @@
 {
- "disease": "Fall Armyworm Damage",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (Lepidoptera pest)",
- "description": "Fall armyworm is a destructive caterpillar pest that attacks maize and many other crops. Larvae feed on leaves and growing points, causing severe crop damage and yield loss.",
- "symptoms": [
-  "Irregular holes and chewing damage on leaves",
-  "Window-pane feeding on young leaves",
-  "Large ragged holes in maize leaves",
-  "Frass (insect droppings) inside leaf whorl",
-  "Severely damaged or destroyed plant growing point"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Wheat",
-  "Cotton",
-  "Soybean",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Rainy season",
-  "Continuous maize cultivation"
- ],
- "spread": [
-  "Adult moth migration over long distances",
-  "Egg masses laid on crop leaves",
-  "Larvae moving between nearby plants"
- ],
- "management": [
-  "Regular field scouting for early detection",
-  "Hand removal of larvae in small fields",
-  "Destroy heavily infested plants",
-  "Use pheromone traps for monitoring"
- ],
- "biological_control": [
-  "Trichogramma parasitoid wasps",
-  "Predators such as lady beetles and lacewings",
-  "Biopesticides based on Bacillus thuringiensis (Bt)",
-  "Entomopathogenic fungi such as Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin",
-  "Indoxacarb"
- ],
- "prevention": [
-  "Early planting to avoid peak infestation",
-  "Crop rotation",
-  "Plant resistant maize varieties",
-  "Maintain field sanitation"
- ],
- "source": [
-  "FAO Fall Armyworm Guide",
-  "CABI Invasive Species Compendium"
- ]
+  "disease": "أولاً- التردر",
+  "scientific_name": "سابعاً -",
+  "pathogen_type": "الحشرة (الآفات)",
+  "description": "ودودة الجيش الخريفية هي آفة يرقة مدمرة تهاجم الذرة والعديد من المحاصيل الأخرى، حيث تتغذى اليرقات على الأوراق ونقاط النمو، مما يتسبب في أضرار جسيمة في المحاصيل وفي خسائر في الغلة.",
+  "symptoms": [
+    "الثقوب غير المنتظمة والأضرار الناجمة عن مضغ الأوراق",
+    "تغذّي نوافذ النافذة على أوراق الشوّاب",
+    "الثقوب الكبيرة في أوراق الذرة",
+    "الإطارات (نقطات الحشرة) داخل ورقة الوميض",
+    "نقطة نمو للنباتات التي تضررت أو دمرت بشدة أو دمرت بشدة"
+  ],
+  "hosts": [
+    "",
+    "",
+    "سُرْج هوجم",
+    "المققدم",
+    "",
+    "الصبح",
+    "القطن",
+    "Soyban",
+    "الخضرس"
+  ],
+  "favorable_conditions": [
+    "درجة حرارة",
+    "",
+    "زراعة ذرة"
+  ],
+  "spread": [
+    "هجرة عُثّر الغار على مسافات طويلة",
+    "وضع كتل على أوراق المحاصيل",
+    "الانتقال بين النباتات المجاورة"
+  ],
+  "management": [
+    "الكشافة الميدانية المنتظمة من أجل الكشف المبكّر",
+    "إزالة اليرقات باليد في الحقول الصغيرة",
+    "تدمير النباتات الموبوءة",
+    "استخدم محارخ في الرصد"
+  ],
+  "biological_control": [
+    "Trerichograma aps",
+    "« مسوخات مثل خزائن نساويات » خزائن « وعيون » منسوخات",
+    "مبيدات مبيدات أحيائية تستند إلى Bacidlus thuriginsis (Bt)",
+    "فطريات مثل بوفيريا باسيانا"
+  ],
+  "chemical_control": [
+    "((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+    "المُنْكِتَل",
+    "كلورانان يسيل",
+    "لومدا - كيلوثرين",
+    "في حالة سكر"
+  ],
+  "prevention": [
+    "الزراعة لتجنب ذروة الحمل المبكر",
+    "المُنْكِل",
+    "المُنْيِر",
+    "الصرف الصحي الميداني"
+  ],
+  "source": [
+    "دليل منظمة الأمم المتحدة للأغذية والزراعة",
+    "CABI CAB CAB CAB"
+  ]
 }

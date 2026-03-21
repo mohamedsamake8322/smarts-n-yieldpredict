@@ -1,0 +1,78 @@
+{
+  "disease": "Corngmut",
+  "other_names": [
+    "Ihe A Na - emekarị",
+    "Ihe e ji emenwu ọkụ",
+    "BOmchag",
+    "Ọ na - ewute m nke ukwuu na ọ na - adị m ka m̀ bụ onye a ma ama n'ụwa a.",
+    "Ihe na - afụ ụfụ n'ahụ́"
+  ],
+  "scientific_name": "Mkpụrụ ndụ ihe nketa m",
+  "synonym": "Okporo ụzọ ndị ọzọ e si abanye n'ụgbọ mmiri.",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Akụkụ dị iche iche nke ihe ọkụkụ nwere akụkụ dị iche iche, ọ pụkwara ibelata ihe ndị na - esi ísì ọma na Mexico apụta. Na Mexico, a na - ele ndị na - eme ka ihe na - esi ísì ụtọ anya dị ka ihe na - eme ka ihe na - esi ísì ụtọ, bụ́ nke a maara dị ka ihe na - agwọ akpụ akpụ.",
+  "hosts": [
+    "Mpụta (Zea)",
+    "Teosinte (Zeea mexna)"
+  ],
+  "symptoms": {
+    "general": [
+      "Tum-iheọrụ ya na mkpụrụ osisi",
+      "Mkpụrụ akụ́kụ́ ma ọ bụ akụkụ ahụ́ ndị e ji akụ ihe",
+      "Ihe Ndị Na - esi ísì Ọma Na - eme Ka Ahụ́ Ruo Onye Ọ Bụla Ala"
+    ],
+    "leaves": [
+      "Obere akpa ndị dị n'elu akwụkwọ osisi ma ọ bụ n'ogwe osisi"
+    ],
+    "stems": [
+      "Nnukwu ụgbọ okporo ígwè ndị dị n'elu okporo ígwè ma ọ bụ ndị nke na - adịghị eto eto"
+    ],
+    "ears": [
+      "Ụgbọ mmiri ndị na - agba n'elu mmiri na - anọchi anya ndị na - akwọ ụgbọ mmiri",
+      "Ndị na - eme ngagharị iwe na - eme ka ndị isi ojii na ndị na - eme ka ndị na - enweghị ebe obibi nwere onwe ha"
+    ]
+  },
+  "disease_cycle": [
+    "Ihe ndị ahụ na - atọ ọchị na - adịgide n'ala ma ọ bụ n'ihe ọkụkụ ndị dị ka ihe ndị na - esi ísì ọma",
+    "Ndị na - emepụta ngwá egwú ndị na - esi ísì ọma na ndị na - emepụta ha",
+    "Di ma ọ bụ nwunye nke na - arịa ọrịa shuga na - arịa ya, ọ na - adịkwa ka ọ̀ na - efe efe",
+    "Anụ ndị na - eto eto bi n'ime ala",
+    "Tum-blablablas ma mepụta ihe ọhụrụ ndị a na-enweghị isi",
+    "Ifufe na mmiri ozuzo na - agbasa ebe nile"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ndị mmadụ na - emerụ ibe ha ahụ́ ma ọ bụ merụọ ha ahụ́",
+    "Oké ọ̀tụ̀tụ̀ ịjụ oyi nke mmiri ọgwụ ahụ́",
+    "Ifufe na mmiri ozuzo bụ́ ndị na - agbasa mmiri ozuzo",
+    "Ihe ndị na - adịghị mma na - akpata nchegbu ma ọ bụ na - eme ka e nwee nrụgide n'ụlọ ọrụ"
+  ],
+  "distribution": [
+    "Zuru ụwa ọnụ n'ógbè ndị na-enweghị nsogbu"
+  ],
+  "management": {
+    "cultural": [
+      "Jiri ụdị dị iche iche nke ndị na - eguzogide ọgwụ mee ihe",
+      "Mkpụrụ akụ́kụ́ ndị a na - akụ n'ubi na - amụba",
+      "Wepụ irighiri ahịhịa ndị nwere nje ndị na - akpata ọrịa",
+      "Ekwela ka ihe ọkụkụ merụọ gị ahụ́",
+      "IHE NDỊ GA - ENYERE GỊ AKA"
+    ],
+    "chemical": [
+      "A na - ejikarị ihe ndị na - esi ísì ọma eme ihe n'ụzọ na - ezighị ezi maka ịchịkwa ọka ndị a na - akụ n'ubi"
+    ]
+  },
+  "economic_importance": [
+    "Dị ka ọ na - adịkarị, ọ na - akpata mfu dị nta nke ọka ndị a na - eri n'ubi",
+    "Mkpụrụ akụ́kụ́ ndị na - atọ ụtọ pụrụ imetụta n'ụzọ dị ukwuu",
+    "Ihe ndị e ji esi nri na - ebelata ọnụ ahịa ọka ndị e nwetara ọhụrụ"
+  ],
+  "additional_notes": [
+    "A na - eri nri e ji ọka mee ma ree ya dị ka ihe oriri a na - akpọ rarararat na Mexico",
+    "A na - eji ihe ndị na - atọ ọchị eme ihe n'ebe nile dị ka ihe e ji amata ụdị mkpụrụ ndụ ihe nketa dị iche iche ma na - eme nnyocha banyere ihe ọkụkụ"
+  ],
+  "sources": [
+    "Wikita sere lana Corn smmut",
+    "Ọ́bá akwụkwọ mahadum dị iche iche na - ezo aka n'ebe ndị a na - edebe ihe ọmụma"
+  ]
+}

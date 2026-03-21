@@ -1,85 +1,85 @@
 {
- "disease": "Solanaceae Bacterial Spot",
- "scientific_name": "Xanthomonas campestris pv. vesicatoria",
- "pathogen_type": "Bacterium",
- "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
- "symptoms": [
-  "Small brown water-soaked spots on leaves",
-  "Circular lesions without concentric rings",
-  "Spots merging to form large dark streaks",
-  "Yellowing of leaves around lesions",
-  "Leaves may drop early (defoliation)",
-  "Raised scab-like spots on fruits"
- ],
- "visual_symptoms": [
-  "dark brown leaf spots",
-  "water-soaked lesions",
-  "scab-like lesions on fruit",
-  "yellowing leaves with many spots"
- ],
- "hosts": [
-  "Tomato",
-  "Pepper",
-  "Chili pepper",
-  "Sweet pepper",
-  "Other Solanaceae crops"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (27–32°C)",
-  "High humidity",
-  "Frequent rain or overhead irrigation",
-  "Wet foliage"
- ],
- "spread": [
-  "Infected seeds",
-  "Plant debris",
-  "Wind-driven rain",
-  "Contaminated tools and equipment",
-  "Workers handling plants"
- ],
- "disease_cycle": [
-  "Bacteria survive in infected seeds and crop debris",
-  "Bacteria spread by rain splash or contact",
-  "They enter plants through stomata or wounds",
-  "Lesions form on leaves and fruit",
-  "Bacteria multiply and spread to nearby plants"
- ],
- "impact": [
-  "Leaf drop and reduced photosynthesis",
-  "Fruit quality loss due to lesions",
-  "Severe yield reduction",
-  "Possible crop failure in severe outbreaks"
- ],
- "cultural_control": [
-  "Use certified disease-free seeds",
-  "Rotate crops for 2–3 years",
-  "Remove infected plant debris",
-  "Avoid working in fields when plants are wet",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus-based bio-pesticides",
-  "Apply biological plant protection products where available"
- ],
- "chemical_control": [
-  "Copper-based bactericides",
-  "Copper + mancozeb mixtures",
-  "Copper hydroxide",
-  "Copper oxychloride"
- ],
- "prevention": [
-  "Use healthy transplants",
-  "Maintain field sanitation",
-  "Control weeds and volunteer plants",
-  "Monitor crops regularly during warm wet weather"
- ],
- "source": [
-  "UMass Extension Vegetable Disease Guide",
-  "Plant pathology references"
- ]
+  "disease": "细菌点",
+  "scientific_name": "桑托莫纳斯野营",
+  "pathogen_type": "细菌",
+  "description": "细菌是影响西红柿和辣椒的严重细菌疾病,在叶子和水果上造成深水浸泡点,导致脱落和产量下降,在温暖和湿润的条件下很容易传播。",
+  "symptoms": [
+    "叶子上小棕色水浸浅点",
+    "没有同心环环的圆环损伤",
+    "点数合并成大暗线",
+    "黄叶围绕损伤",
+    "假期可提前落叶(脱落)",
+    "水果上长出象刺状的斑点"
+  ],
+  "visual_symptoms": [
+    "深棕色棕色叶斑点",
+    "水浸着的损害",
+    "果实上像刺状的损伤",
+    "多斑点黄黄树叶"
+  ],
+  "hosts": [
+    "番茄",
+    "辣椒",
+    "辣椒辣椒",
+    "甜辣椒辣椒",
+    "其他索拉纳塞作物"
+  ],
+  "plant_parts_affected": [
+    "叶叶叶",
+    "源根",
+    "水果水果果"
+  ],
+  "favorable_conditions": [
+    "温度(27-32°C)",
+    "高湿湿度",
+    "经常下雨或高空灌溉",
+    "湿叶子"
+  ],
+  "spread": [
+    "感染种子",
+    "植物碎片",
+    "风驱雨",
+    "受污染工具和设备",
+    "工人装卸厂工人"
+  ],
+  "disease_cycle": [
+    "细菌在受感染的种子和作物碎片中生存",
+    "由雨水喷洒或接触散布的细菌",
+    "他们通过石塔或伤口进入植物",
+    "叶叶和果实上的遗树,",
+    "细菌增加并扩散到附近的植物"
+  ],
+  "impact": [
+    "叶叶滴落和减少光合作用",
+    "水果质量因损伤造成的损失",
+    "严重减少产量",
+    "严重爆发可能作物歉收"
+  ],
+  "cultural_control": [
+    "使用经核证的无疾病的种子",
+    "2-3年旋转作物",
+    "清除受感染植物碎片",
+    "当植物湿润时避免在田地中工作",
+    "如有抗药品种,使用抗药性品种"
+  ],
+  "biological_control": [
+    "使用有益的微生物,如碱性生物农药,如碱基生物农药。",
+    "酌情应用生物植物保护产品"
+  ],
+  "chemical_control": [
+    "铜基杀菌剂",
+    "铜 + 烟雾混合物",
+    "氢氧化铜",
+    "氧化氯化铜"
+  ],
+  "prevention": [
+    "使用健康移植",
+    "维持外地环境卫生",
+    "管制杂草和志愿工厂",
+    "在温暖湿湿天气期间定期监测作物"
+  ],
+  "source": [
+    "UMAS 推广推广推广蔬菜疾病指南",
+    "植物病理学参考"
+  ]
 }

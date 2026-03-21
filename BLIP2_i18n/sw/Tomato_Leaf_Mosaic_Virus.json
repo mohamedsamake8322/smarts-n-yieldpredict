@@ -1,59 +1,69 @@
 {
-  "disease_name": "Tomato Leaf Mosaic Virus (ToMV)",
-  "type": "viral disease",
-  "causal_agent": "Tomato mosaic virus (ToMV), genus Tobamovirus",
+  "disease_name": "Virusi ya Mosaic ya Tomato Leaf (ToMV)",
+  "type": "Ugonjwa wa virusi",
+  "causal_agent": "Virusi ya Mosaic ya Tomato (ToMV), aina ya Tobamovirus",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Petunia spp."],
-    "other_hosts": ["Snapdragon (Antirrhinum spp.)", "Delphinium spp.", "Marigold (Tagetes spp.)", "Various other ornamental and crop plants"]
+    "primary": [
+      "Matunda ya mimea (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Maua ya pepe (Capsicum spp)",
+      "Sifa ya SPP."
+    ],
+    "other_hosts": [
+      "Mchakato wa Snapdragon (Antirrhinum spp)",
+      "ya Delphinium SPP.",
+      "Maandiko ya Maandiko (Tagsetes spp.)",
+      "Vyanzo vingi vingine vya mazao na mazao"
+    ]
   },
-  "distribution": "Worldwide",
+  "distribution": "duniani kote",
   "symptoms": {
     "foliage": [
-      "Mottling with alternating yellowish and dark green areas",
-      "Dark green areas often raised or thicker, giving a blister-like appearance",
-      "Leaves may appear fern-like with pointed tips",
-      "Younger leaves may be twisted"
+      "Kuunganisha na maeneo mabadiliko ya kijani na ndogo ya kijani",
+      "maeneo ya kijani ya dhahabu mara nyingi kuongezeka au mbaya, kutoa kuonekana kama blister",
+      "Maonyesho yanaweza kuonekana mbali na matumaini yaliyoelekezwa",
+      "Maonyesho ya vijana yanaweza kuongezeka"
     ],
     "fruit": [
-      "Distortion and yellow blotches",
-      "Necrotic spots on both green and ripe fruits",
-      "Internal browning of the fruit wall"
+      "Uharibifu na nyama ya kijani",
+      "Picha za Necrotic juu ya matunda ya kijani na rangi",
+      "Kazi ya ndani ya muundo wa matunda"
     ],
     "overall_plant": [
-      "Dwarfing of young plants",
-      "Discoloration of flowers",
-      "Reduced fruit set and distorted growth"
+      "Kuimarisha mimea ya vijana",
+      "Ukosefu wa maua",
+      "Kupunguza uzalishaji na kupoteza uzalishaji"
     ]
   },
   "disease_cycle": [
-    "Virus can be introduced through infected seeds",
-    "Only a few infected seedlings can lead to rapid spread",
-    "Spread also occurs via contaminated tools, hands, and clothing during routine handling",
-    "Environmental factors such as temperature, day length, light intensity, plant variety, plant age at infection, and strain virulence influence symptom expression"
+    "Virusi inaweza kutumika kwa njia ya mbegu zilizoathirika.",
+    "Baadhi ya wanyama wadogo wanaweza kuongezeka kwa haraka.",
+    "Kupanda pia hutokea kwa njia ya vifaa, mikono, na mavazi wakati wa usimamizi wa kawaida",
+    "Matokeo ya mazingira kama vile joto, muda wa siku, nguvu ya mwanga, aina ya mimea, umri wa mimea wakati wa ugonjwa, na virulence virulence athari ya ishara."
   ],
   "management": {
     "cultural": [
-      "Use virus-free certified seed and healthy transplants",
-      "Sanitize tools, hands, and clothing when handling plants",
-      "Remove and destroy infected seedlings promptly to reduce spread",
-      "Control weeds that may serve as alternate hosts"
+      "Matumizi ya mbegu zisizo na virusi na transplants salama",
+      "Kuhifadhi bidhaa, mikono, na mavazi wakati wa kuendesha mimea",
+      "Kuondoa na kuharibu mimea ya kuvutia kwa haraka ili kupunguza kupanua",
+      "Vifaa vya usimamizi ambazo zinaweza kutumika kama wawekezaji wa kipekee"
     ],
     "resistant_varieties": [
-      "Plant cultivars known to have resistance to ToMV where available"
+      "Mazao ya mimea yanajulikana kuwa na upinzani wa ToMV ambapo inapatikana"
     ],
     "chemical": [
-      "No chemical control is effective against viral infections; management relies on prevention and hygiene"
+      "Hakuna usimamizi wa kemikali ni sahihi dhidi ya virusi; usimamizi unatumika katika kuzuia na afya"
     ]
   },
   "notes": [
-    "ToMV is mechanically transmitted; it does not require insect vectors",
-    "Seedlings in nurseries are particularly vulnerable, especially during transplanting",
-    "Symptoms may vary depending on environmental conditions and plant growth stage"
+    "ToMV inatumika mechanically; hauhitaji injini za wanyama",
+    "Wanyama katika matibabu ni hasa hatari, hasa wakati wa transplantation",
+    "Maonyesho yanaweza kuwa tofauti kulingana na hali ya mazingira na hatua ya ukuaji wa mimea"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "Tomato leaf mosaic virus. American Phytopathological Society (APS) – Plant Disease Factsheets",
-    "Brunt, A.A., et al. 1996. Plant Viruses Online: Descriptions and Lists from the VIDE Database"
+    "Jones, J.B., et al. 2014 Compendium of Tomato Diseases and Pests, 2nd Edition.",
+    "Virusi ya mosaiki ya nyama. shirika la Phytopathological la Marekani (APS) – Taarifa za Magonjwa ya Mimea",
+    "Brunt, A.A., et al. 1996.Virus ya mimea Online: maelezo na orodha kutoka kwa database ya VIDE"
   ]
 }

@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "Virus mosaïque de feuille de soja",
+  "scientific_name": "Virus de la mosaïque du soja (MVS)",
+  "common_abbreviations": [
+    "SMV"
+  ],
+  "description": "Le virus de la mosaïque du soja (MVS) est un virus végétal répandu qui touche principalement le soja, causant la mosaïque des feuilles, le retard de croissance, la réduction du nombre de gousses et la décoloration des graines.",
+  "distribution": "Dans le monde entier, dans toutes les régions productrices de soja, en particulier dans les régions tempérées et subtropicales.",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "Glycine max (soya cultivé) et G. soja (soya sauvage)",
+    "notable_hosts": [
+      "Pois",
+      "Snapper le haricot"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "Mottling avec des taches vert clair et vert foncé",
+      "Piquetage le long des veines",
+      "Curling vers le bas des lames des feuilles",
+      "Aggravation et diminution de la vigueur"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "Nombre réduit de gousses par plante",
+      "Graines décolorées et broyées"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "Réduction de la qualité, de la taille et de la germination des graines",
+    "Nodulation et rendement réduits",
+    "Les symptômes peuvent être légers ou absents à haute température",
+    "Impact grave en cas de co-infection avec d'autres virus (p. ex. VMPB)"
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "Virus, genre Potyvirus, famille des Potyviridae",
+    "particle": "Particules filamenteuses ~7500 Å de long, diamètre 120 Å",
+    "genome": "RNA (~9,6 kb) à un brin positif avec la protéine VPg à la fin de 5′, codant une seule polyprotéine transformée en ~10 protéines fonctionnelles",
+    "transmission": [
+      "Transmission non persistante d'Aphid",
+      "Transmission des semences",
+      "Sap"
+    ],
+    "favorable_conditions": "Températures froides à modérées (16 à 28°C), l'activité du puceron favorise la propagation",
+    "seed_transmission_rate": "Typiquement < 5 %, mais variable selon le cultivar"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "Utiliser des semences exemptes de pathogènes",
+      "Planter au début de la saison pour réduire l'impact",
+      "Surveiller et gérer les populations de pucerons"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "Utiliser des cultivars avec des gènes de résistance (genèses R)"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "Efficacité limitée des insecticides pour lutter contre les pucerons afin de réduire la propagation du virus"
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "Les interactions SMV avec les gènes R sont étudiées comme un modèle de résistance génique pour les gènes",
+    "Le silencieux de l'ARN joue un rôle dans la transmission des semences et la mise au rebut des couches de semences.",
+    "La transmission par les pucerons est influencée par les protéines virales HC-Pro et les protéines du manteau (CP)"
   ]
 }

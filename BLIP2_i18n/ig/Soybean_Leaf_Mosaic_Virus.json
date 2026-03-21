@@ -1,0 +1,64 @@
+{
+  "pest_name": "Ihe Ndị Na - eme Ka E Nwee Ihe Ịga nke Ọma n'Ahụ́ Mozis",
+  "scientific_name": "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi (SMMV)",
+  "common_abbreviations": [
+    "IHE NDỊ GA - ENYERE GỊ AKA"
+  ],
+  "description": "Nje virus nke na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi (SMV) bụ nje na - emetụta n'ụzọ bụ́ isi, nke na - akpata oké mmiri ozuzo, na - ebelata ọ̀tụ̀tụ̀ ikpo ọkụ, ọ̀tụ̀tụ̀ ịjụ oyi, na ọnụ ọgụgụ mkpụrụ akụ́kụ́.",
+  "distribution": "N'ụwa nile n'ebe nile a na-eme ihe ike, karịsịa n'ógbè ndị dị jụụ nakwa n'ebe okpomọkụ ụwa.",
+  "host_range": {
+    "general": "Ihe ka n'ọnụ ọgụgụ n'ime ha bụ Glyccine (onye na - ede akwụkwọ bụ́ Gja (onye na - ede uri) na G.",
+    "notable_hosts": [
+      "Naa",
+      "Ebe a na - edebe ihe n'ala"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Jiri ìhè na akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ ndị na - acha akwụkwọ ndụ akwụkwọ ndụ bụ́ ndị na - egbuke egbuke mee ihe",
+      "Iji Ụgbọ Mmiri Gaa n'Ebe Ndị Dị Anya",
+      "A na - eji akwụkwọ osisi ndị dị n'ime ala bụ́ ndị e ji akwụkwọ osisi mee eme ihe",
+      "Iji Ike Eme Ihe n'Ụzọ Na - ezighị Ezi Na - ebelata ma Na - ebelata Ike"
+    ],
+    "pod": [
+      "Nke a na - eme ka ọnụ ọgụgụ a na - enweta n'ubi ọ bụla belata",
+      "Mkpụrụ akụ́kụ́ Ndị A Na - erighị Ihe Ma Na - amị Mkpụrụ"
+    ]
+  },
+  "damage": [
+    "Ọ na - eme ka mkpụrụ akụ́kụ́ ghara ịdị mma n'anya, mee ka ọ ghara ịdị mma n'anya, meekwa ka ọ ghara ito ngwa ngwa",
+    "Ha Akwụsịghị Ịnọgidesi Ike n'Ihe Ha Ma Mee Ya",
+    "Ọgwụ nje pụrụ ịdị nwayọọ ma ọ bụ ghara ịdị ụkọ n'oké okpomọkụ",
+    "Mmetụta na-enweghị isi mgbe mụ na nje virus ndị ọzọ (ya bụ,g., BPMV) nwere njikọ"
+  ],
+  "biology": {
+    "pathogen_type": "E nwere otu nwa agbọghọ aha ya bụ genuschayviru, bụ́ onye ikwu ya, aha ya bụ genus",
+    "particle": "Ụmụ irighiri ihe ndị dị ndụ bụ́ ndị nwere àgwà dị iche iche na - adịghị mma bụ́ ndị na - adị n'ahụ́ ha ruo otu narị puku afọ na iri puku ise, narị abụọ na iri abụọ",
+    "genome": "Ndị na-ahụ maka nanị di ma ọ bụ nwunye na-eme ka nri nwee nchekwube (66666) na VPgg protein n'ọgwụgwụ , na-eme ka otu onye n'ime ha nwee protein ndị na-achaghị anya.",
+    "transmission": [
+      "Mèé nsụnye apụghị apụ",
+      "Mmịnye Mkpụrụ",
+      "Sp"
+    ],
+    "favorable_conditions": "N'ịbụ nke na - ebelata ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi ya na - ebelata ebelata, ọrụ a na - arụ iji mee ka ọ̀tụ̀tụ̀ ikpo ọkụ nke ọ̀tụ̀tụ̀ okpomọkụ na - arị elu na - arị elu",
+    "seed_transmission_rate": "Dị ka ọ na - adịkarị, <5%, ma mgbanwe ndị e mere na - adabere ná njikọ òtù nzuzo"
+  },
+  "management": {
+    "cultural_control": [
+      "Jiri mkpụrụ na-enweghị isi",
+      "Ihe ndị a na - akụ n'oge mbụ n'oge iji belata mmetụta ha na - enwe",
+      "Na - elekọta ma na - elekọta ọnụ ọgụgụ ndị oké ozu"
+    ],
+    "genetic_control": [
+      "Jiri mkpụrụ ndụ ihe nketa ndị na - eguzogide ọgwụ mee ihe"
+    ],
+    "chemical_control": [
+      "Ịdị irè nke ọgwụ mgbochi ọrịa maka ịchịkwa ọgwụ ndị e ji egbochi nje virus ịgbasa"
+    ]
+  },
+  "notes": [
+    "A na- amụ otú mkpụrụ ndụ ihe nketa si emetụta mkpụrụ ndụ ihe nketa dị iche iche na mkpụrụ ndụ ihe nketa maka igbochi afọ ime.",
+    "Ụmụ irighiri ihe ndị dị ndụ na - ekere òkè n'ime ka mkpụrụ akụ́kụ́ na mkpụrụ akụ́kụ́ gaa n'ihu",
+    "Nje virus bụ́ HC-PO na protein (CP) na - emetụta ndị na - emepụta ọgwụ mgbochi ọrịa bụ́ ndị nje virus na - akpata"
+  ]
+}

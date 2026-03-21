@@ -1,90 +1,90 @@
 {
- "disease": "Pythium Damping-off",
- "scientific_name": "Genus Pythium",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
- "symptoms": [
-  "Irregular patches of wilted or yellow plants in seedbeds",
-  "Soft brown watery rot at the base of stems",
-  "Seedlings falling over at the soil line",
-  "Stunted growth of young plants",
-  "Yellowing of older plants due to root damage",
-  "Stem rot in newly transplanted plants"
- ],
- "visual_symptoms": [
-  "seedlings collapsed at soil surface",
-  "soft brown water-soaked stem base",
-  "patches of dead or stunted seedlings"
- ],
- "hosts": [
-  "Tobacco",
-  "Vegetable seedlings",
-  "Cucumber",
-  "Tomato",
-  "Pepper",
-  "Lettuce",
-  "Beans",
-  "Many nursery crops"
- ],
- "host_specific_example": {
-  "crop": "Burley tobacco",
-  "scientific_name": "Nicotiana tabacum (burley type)"
- },
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "lower stem",
-  "hypocotyl"
- ],
- "image_type": "Field",
- "favorable_conditions": [
-  "Wet or poorly drained soil",
-  "High soil moisture",
-  "Cool to moderate temperatures",
-  "Dense seedbeds with poor air circulation",
-  "Excessive irrigation"
- ],
- "spread": [
-  "Contaminated soil",
-  "Irrigation water",
-  "Infected plant debris",
-  "Contaminated tools or trays in nurseries"
- ],
- "disease_cycle": [
-  "Pythium survives in soil as spores or mycelium",
-  "Spores germinate in wet soil conditions",
-  "Pathogen infects seeds or young seedlings",
-  "Infected tissues produce more spores that spread through water"
- ],
- "impact": [
-  "Loss of seedlings in nurseries",
-  "Poor crop establishment",
-  "Reduced plant population",
-  "Yield reduction due to weak plant stands"
- ],
- "cultural_control": [
-  "Use well-drained seedbeds",
-  "Avoid overwatering",
-  "Improve air circulation in nurseries",
-  "Use sterile soil or seedling substrate",
-  "Reduce planting density"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment with fungicides such as metalaxyl or mefenoxam",
-  "Soil drenches with appropriate fungicides in nurseries"
- ],
- "prevention": [
-  "Use certified disease-free seeds",
-  "Sterilize nursery trays and tools",
-  "Avoid excessive irrigation",
-  "Rotate crops when possible"
- ],
- "source": [
-  "Plant pathology references on Pythium damping-off",
-  "Agricultural disease management guides"
- ]
+  "disease": "Simu ya Damping-off",
+  "scientific_name": "Simu ya Pythium",
+  "pathogen_type": "Oomycete (kila mwili kama fungus)",
+  "description": "aina ya Pythium ni virutubisho vya ardhi ambayo huathiri damping-off na root katika matunda mengi. ugonjwa huo huathiri majani, huathiri root ya maji ya kuvutia karibu na mzunguko wa ardhi ambayo huathiri uharibifu wa mimea na kifo.",
+  "symptoms": [
+    "Matangazo isiyo ya kawaida ya mimea ya kuvutia au ya kijani katika mimea ya mimea",
+    "Rangi ya maji ya rangi katika msingi wa rangi ya rangi",
+    "Wanyama wanaanguka juu ya barabara ya nchi",
+    "Kuanzishwa kwa ukuaji wa mimea vijana",
+    "Maua ya mimea ya zamani kutokana na uharibifu wa rangi",
+    "Matunda ya nyama katika mimea iliyopangwa mapema"
+  ],
+  "visual_symptoms": [
+    "Mazao yaliyoongezeka kwenye eneo la ardhi",
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "Matengenezo ya matengenezo ya maua au matengenezo ya matengenezo"
+  ],
+  "hosts": [
+    "Mafuta ya Tabaka",
+    "Matunda ya mimea",
+    "ya Cucumber",
+    "Mji wa Tomato",
+    "Pepsi ya",
+    "Furaha ya",
+    "ya Beans",
+    "Baadhi ya mimea ya matibabu"
+  ],
+  "host_specific_example": {
+    "crop": "Burley ya Tobacco",
+    "scientific_name": "Nicotiana tabacum (kila aina ya burley)"
+  },
+  "plant_parts_affected": [
+    "Mji wa",
+    "Roho ya",
+    "Simu ya chini",
+    "ya hypocotyl"
+  ],
+  "image_type": "Uwanja wa",
+  "favorable_conditions": [
+    "maji ya chini au chini ya maji",
+    "Ukosefu wa juu wa ardhi",
+    "Hali ya baridi kwa joto ya chini",
+    "Mafuta ya kuvutia na usafiri wa hewa",
+    "Ulimwengu wa Irrigation"
+  ],
+  "spread": [
+    "ardhi ya kuvutia",
+    "Maji ya Irrigation",
+    "Ukosefu wa mbegu za mimea",
+    "vifaa au vifaa vya kuvutia katika hospitali ya matibabu"
+  ],
+  "disease_cycle": [
+    "Pythium kuishi katika ardhi kama spores au mikeli",
+    "Matangazo ya kuongezeka katika mazingira ya ardhi ya mvua",
+    "Matibabu ya kuvutia ya mimea au mimea ya vijana",
+    "Mafuta yaliyoathiriwa hutoa spores zaidi ambayo hutoa kupitia maji"
+  ],
+  "impact": [
+    "Uharibifu wa wanyama katika matibabu",
+    "Uwekezaji wa mafuta mbaya",
+    "Ukosefu wa idadi ya mimea",
+    "Ukosefu wa faida kwa sababu ya viwango vya chini vya viwanda"
+  ],
+  "cultural_control": [
+    "Kutumia mbegu za kuvutia",
+    "Kuepuka maji ya juu",
+    "Kuimarisha usafiri wa hewa katika madaktari",
+    "Kutumia ardhi ya sterile au substrate ya kupanda",
+    "Kupunguza umeme wa mimea"
+  ],
+  "biological_control": [
+    "Kutumia mbegu za faida kama vile aina ya Trichoderma",
+    "Kutumia bakteria nzuri kama Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Matibabu ya mbolea na fungicides kama metalaxyl au mefenoxam",
+    "Mji huchukuliwa na fungicides sahihi katika matibabu"
+  ],
+  "prevention": [
+    "Kutumia matunda yasiyo ya magonjwa",
+    "Matibabu ya matibabu ya matibabu na vifaa",
+    "Kuepuka uchafuzi wa mvua",
+    "Kupata mimea wakati inawezekana"
+  ],
+  "source": [
+    "Matokeo ya ugonjwa wa mimea juu ya Pythium damping-off",
+    "Utawala wa magonjwa ya kilimo"
+  ]
 }

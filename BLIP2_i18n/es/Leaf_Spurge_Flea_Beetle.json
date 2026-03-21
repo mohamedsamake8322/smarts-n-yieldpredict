@@ -1,0 +1,87 @@
+[
+  {
+    "disease": "Escarabajo de la pulpa de la hoja",
+    "scientific_name": "Aphthona spp.",
+    "pathogen_type": "Insecto (agente de control biológico)",
+    "description": "Pequeños escarabajos utilizados como insectos de control biológico contra Euphorbia esula. Las larvas se alimentan de las raíces mientras los adultos consumen las hojas, reduciendo el crecimiento y la reproducción de la planta.",
+    "hosts": [
+      "Euphorbia esula",
+      "Spurge de hojas"
+    ],
+    "symptoms": [
+      "Hojas consumidas por escarabajos adultos",
+      "Reducción del crecimiento y la floración de las plantas",
+      "Plantas debilitadas o agonizantes con el tiempo"
+    ],
+    "favorable_conditions": [
+      "Temperaturas moderadas de primavera y verano",
+      "Suelos bien drenados que favorecen el desarrollo larvario"
+    ],
+    "spread": [
+      "Movimiento natural de escarabajos adultos",
+      "Introducción humana para programas de control biológico"
+    ],
+    "management": [
+      "Uso como agente de control biológico",
+      "Evite los pesticidas que pueden matar poblaciones de Aphthona",
+      "Supervisar el establecimiento y la propagación de la población"
+    ],
+    "chemical_control": [
+      "No aplicable: utilizado como agente de control biológico"
+    ],
+    "prevention": [
+      "Mantener poblaciones sanas de escarabajos para un control sostenible",
+      "Evitar la introducción de plaguicidas no selectivos"
+    ],
+    "source": [
+      "Compendio de especies invasoras del CABI",
+      "USDA Programa de Control Biológico de Espurgo de Hojas"
+    ]
+  },
+  {
+    "disease": "Lesser Cornstalk Borer",
+    "scientific_name": "Elasmopalpus lignosella",
+    "pathogen_type": "Insecto (larva fitófaga)",
+    "description": "Una oruga que ataca principalmente los tallos y raíces del maíz, el sorgo y otras hierbas, causando marchitamiento y muerte de plántulas jóvenes.",
+    "hosts": [
+      "Maíz",
+      "Sorgo",
+      "Caña de azúcar",
+      "Hierbas",
+      "Semilleros de frijoles"
+    ],
+    "symptoms": [
+      "Afilado y amarillento de plantas jóvenes",
+      "Agujeros y túneles en la base de los tallos",
+      "Plantas muertas o debilitadas"
+    ],
+    "favorable_conditions": [
+      "Suelos secos y arenosos",
+      "Climas cálidos y secos que favorecen la puesta de huevos",
+      "Cultivos densamente plantados"
+    ],
+    "spread": [
+      "Huevos depositados en el suelo o en la base de las plantas",
+      "Las larvas se mueven para atacar los tallos jóvenes",
+      "Movimiento de plantas o materiales vegetales infestados"
+    ],
+    "management": [
+      "Rotación de cultivos con plantas no anfitrionas",
+      "Eliminación de residuos de cultivos infectados",
+      "Plantación profunda para proteger las plántulas jóvenes"
+    ],
+    "chemical_control": [
+      "Insecticidas sistémicos o aplicados al suelo (por ejemplo, clorpirifos, Imidacloprid)",
+      "Aplicación preventiva antes de la aparición de plántulas"
+    ],
+    "prevention": [
+      "Variedades tolerantes a las plantas cuando se dispone de ellas",
+      "Mantener los campos libres de desechos vegetales",
+      "Vigilar las plantas jóvenes y tratar tempranamente si aparece infestación"
+    ],
+    "source": [
+      "Compendio de protección de cultivos CABI",
+      "Hojas informativas sobre plagas de la FAO"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "disease": "Crucece Kolorosis (LCV)",
+  "scientific_name": "Nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+  "pathogen_type": "Ndị na - arụ ọrụ n'ụlọ ọrụ a bụ ndị na - arụ ọrụ n'ebe a na - arụ ọrụ, ndị na - arụ n'ebe a na - arụ ọrụ ugbo na ndị na - arụ ọrụ n'ebe a na - anọ arụ ọrụ.",
+  "description": "Ọrịa na - efe efe nke na - emetụta mmiri ọgwụ ahụ́ bụ́ hormone na ihe ọkụkụ ndị ọzọ, na - akpata odo odo, na - eme ka akwụkwọ osisi na - acha odo odo, na - eto nke ọma, ma na - ebelata ihe ndị na - esi na ya apụta.",
+  "symptoms": [
+    "Akwụkwọ ya ndị na - acha uhie uhie na akwụkwọ ya na - acha uhie uhie",
+    "Akwụkwọ ya",
+    "Akụkụ dị iche iche nke akwụkwọ osisi",
+    "Ọ̀tụ̀tụ̀ a tụrụ atụ ma ọ bụ nke a tụrụ atụ",
+    "Ọ na - eme ka okooko osisi na - eto nke ọma ma na - eme ka ọ ghara ito nke ọma"
+  ],
+  "hosts": [
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Bụrụ Onye Na - ede Akwụkwọ",
+    "Ihe karịrị ụdị ákụ́kụ́ 27 n'ezinụlọ 12"
+  ],
+  "favorable_conditions": [
+    "N'ịbụ nke ìgwè ụgbọ mmiri ndị na - ebu ibu bụ́ ndị dị nso n'ihe ọkụkụ (ee.g.g.g., bụ́ ọkà mmụta ihe ọkụkụ na - amụ banyere ihe ọkụkụ, bụ́ Conyza pụrụ inwe mmetụta n'ahụ́ nwa ọhụrụ, bụ́ Lachacacasla)",
+    "Ọnụ ọgụgụ dị elu nke ndị ọcha",
+    "Ebe a na - akụ mkpụrụ ma ọ bụ ubi n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe e ji enweta nri site n'ime ka mmiri na - acha ọcha (Tmilesasas / and Bemisia alrilili)",
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́, ihe ndị a kụrụ akụ, ma ọ bụ ihe ndị ọzọ a kụrụ akụ",
+    "Ngwá ọrụ ndị e ji arụ ọrụ na ngwá ọrụ ndị e ji arụ ọrụ"
+  ],
+  "management": [
+    "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+    "Ọnụ ọgụgụ ndị ọcha bụ́ ndị na - adịghị emega ahụ́ na ndị na - achịkwa ha",
+    "Jiri nje HIV na-enweghị mkpụrụ akụ́kụ́ na mmebi ikuku",
+    "Na - edebe ihe ọcha ma na - edebe ihe ọcha",
+    "Wepụ ata ndị na - eme ka à ga - asị na ha bụ ata"
+  ],
+  "chemical_control": [
+    "Ihe ndị e ji esiji ákwà bụ́ ndị e ji esiji ákwà bụ́ ndị e ji esiji ákwà ọcha (ag.g.g., ihe ndị e ji esiji ákwà)",
+    "Mmanụ a na - agbanye n'ahụ́ aṅụ ma ọ bụ ncha ụmụ ahụhụ na - agbanye iji gbochie afọ ime"
+  ],
+  "prevention": [
+    "Jiri nje virus ndị a na-amaghị́ọ̀kụ̀ pịaa ya",
+    "Ihe ọkụkụ ndị ọhụrụ si n'ebe ndị bu ọrịa ahụ pụta",
+    "Ọ na - achịkwa ìgwè anụmanụ na ubi ndị gbara ha gburugburu",
+    "Ịnọgidesi Ike Na - edozi Ahụ́ Iji Hụ na A Na - edozi Ihe Ndị Na - acha ọcha"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ihe Ndị Bụ́ Eziokwu Banyere Ihe Ndị Dị n'Ime Ha",
+    "Akwụkwọ ndị ọkà mmụta sayensị dere n'Ihe Ndekọ Akụkọ Ihe Mere Eme"
+  ]
+}

@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "Örümcek Mit",
+  "stage": "Kayıp / Damage",
+  "common_name": "Örümcek Mit",
+  "description": "Örümcek mitleri, meyve ağaçlarının, sebzelerin, tahılların, şarapların, ev bitkilerinin ve dekoratif bitkilerin yaygın pıhtılarıdır.",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "Yetişkinler 1 / 20 inç uzunluğundadır, bir oval vücudu ve başın yakınında iki renkli göz noktası vardır.",
+    "Kolonlarda yaşamak, çoğunlukla yaprakların alt kısmında; tek bir koloni yüzlerce efsane içerebilir",
+    "Yüksek popülasyonlar, yaprakları, çamurları ve meyveleri kaplayan yoğun çamur üretir.",
+    "Yapraklar, bronz bozulma, sarılaşma ve yaprak düşüşü üzerine ışık noktaları sıkıştırmak için arayın"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "Yapraklardan hücre içeriğini kaynatın, sıkışmaya ve bozulmaya neden olur",
+    "Birçok enfekte yapraklar sarıya dönüşür ve düşebilir",
+    "hasar sıcak, tozlu koşullarda ve su stresli bitkilerde en şiddetlidir."
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "Predatory çarpışma",
+    "Lacewings Hakkında",
+    "1 Dakikalık Pirate Bugs",
+    "Predatory mitler (daha uzun bacaklar ve daha aktif)"
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "Kuru stresi önlemek için su bitkileri",
+    "Toprak kaplamaları, çamurları ve düzenli sulama kullanılarak toz azaltın",
+    "Doğal düşmanların nüfusları kontrol altına almasını teşvik etmek",
+    "Günlük olarak yaprakların alt kısmında su veya çamur yıkayın, enfekte ise"
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "Böcek yağı veya böcek sabunu, yaprakların alt kısmına derinlemesine uygulanır.",
+    "Bitkiler su stresinde veya yüksek sıcaklıkta sprey yapmaktan kaçının.",
+    "Doğal düşmanları öldüren böcek maddelerinden kaçının, çünkü bunlar mite nüfus atışlarına neden olabilir."
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "Örümcek efsaneleri genellikle organofosfat veya piretroid böcek ilacı uygulamalarından sonra sorunlu hale gelir.",
+    "Pesticid kullanımını en aza indirin, kimyasal olmayan veya daha az toksik seçenekleri tercih edin",
+    "Doğru kullanım ve dağıtım için ürün etiketlerini dikkatlice okuyun"
   ]
 }

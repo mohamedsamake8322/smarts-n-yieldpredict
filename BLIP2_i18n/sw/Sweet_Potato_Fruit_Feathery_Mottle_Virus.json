@@ -1,77 +1,128 @@
 {
-  "pest_name": "Sweet Potato Feathery Mottle Virus",
-  "abbreviation": "SPFMV",
-  "type": "virus",
-  "history": "Initially discovered in the United States ~70 years ago. Most widely spread sweet potato virus worldwide, recently identified in Italy as primary contributor to SPVD.",
+  "pest_name": "Virusi ya Feathery Mottle",
+  "abbreviation": "ya SPFMV",
+  "type": "Virusi ya",
+  "history": "Mwanzoni alionekana nchini Marekani ~70 miaka iliyopita. virusi maarufu ya kioo ya kioo duniani kote, hivi karibuni ilionyeshwa nchini Italia kama mshiriki mkuu wa SPVD.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "Hifadhi ya RNA ya moja kwa moja",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "Njia ya wazi ya kusoma",
+      "3 ya UTR",
+      "Picha ya A (A)"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "P1 ya",
+        "function": "Proteinase, athari ya kuunganisha ssRNA"
+      },
+      {
+        "name": "Mchakato wa Pro",
+        "function": "Proteinase, msaada katika usambazaji wa aphid, usambazaji wa muda mrefu"
+      },
+      {
+        "name": "P3",
+        "function": "Mfumo wa Viral Replication"
+      },
+      {
+        "name": "6K1",
+        "function": "kutokuwa najua"
+      },
+      {
+        "name": "kwa ajili ya",
+        "function": "Protein ya Inklusion ya Cytoplasmic, Helikasi ya RNA"
+      },
+      {
+        "name": "6K2",
+        "function": "Kutembea, kuhusiana na replication ya virusi"
+      },
+      {
+        "name": "Hiyo ni",
+        "function": "VPg na Proteinase"
+      },
+      {
+        "name": "Mwisho",
+        "function": "Replika ya virusi"
+      },
+      {
+        "name": "ya Cistron",
+        "function": "Protein, kukusanya virion, kuongezeka kwa viral, kuongezeka"
+      }
+    ],
+    "virion_shape": "ya muda mrefu, flexuous, rood-shaped",
+    "virion_length_nm": "810 - 865"
   },
   "life_cycle": {
-    "entry": "Mechanical or vector-mediated via aphid stylets",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "translation_helpers": ["HC-Pro binds eIF4E, VPg, NIa"],
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Mchakani au Vector-mediated kwa njia ya aphid stylets",
+    "replication": "Genome iliyoundwa kwa polyprotein, iliyoundwa kwa P1, HC-Pro, NIa proteases",
+    "translation_helpers": [
+      "HC-Pro kuunganisha eIF4E, VPg, NIa"
+    ],
+    "gene_silencing_suppression": "HC-Pro inapunguza siRNA na miRNA",
+    "packaging": "Genoa ya replicated iliyopatikana katika virions"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent, via stylet tips",
-    "seed_transmission": "Not transmitted via seed",
+    "vectors": [
+      "ya Afid"
+    ],
+    "mechanism": "Usio wa kawaida, kwa njia ya stylet tips",
+    "seed_transmission": "Hakuna kuwasilishwa kwa njia ya mimea",
     "host_range": [
-      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
-      "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
-      "Chenopodium quinoa",
-      "Datura stramonium"
+      "I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
+      "Nikotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
+      "Chenopodium ya Quinoa",
+      "Simu ya Stramonium"
     ]
   },
   "symptoms": {
-    "typical": "Feathery purple patterns on leaves",
-    "severe_strains": ["root necrosis", "leaf chlorosis", "root discoloration"],
+    "typical": "Maonyesho ya maonyesho ya maonyesho ya maonyesho",
+    "severe_strains": [
+      "Mzunguko wa Root Necrosis",
+      "Mafuta ya Chlorosis",
+      "Ukosefu wa Root"
+    ],
     "co-infections": {
-      "SPVD": "Occurs when SPFMV co-infects with SPCSV; causes stunted growth, severe mosaic, leaf distortion, reduced yield",
-      "synergism_effects": "SPFMV titers up to 600x higher in SPVD; enhanced spread and replication"
+      "SPVD": "Inaonekana wakati SPFMV inaunganika na SPCSV; huathiri ukuaji mgumu, mosaic kubwa, uharibifu wa barua, kupunguza uzalishaji",
+      "synergism_effects": "SPFMV titers hadi 600x juu katika SPVD; kuboresha usambazaji na replication"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "ya EA",
+        "location": "Afrika ya Mashariki"
+      },
+      {
+        "name": "ya RC",
+        "location": "Australia, Afrika, Amerika ya Kaskazini, Asia"
+      },
+      {
+        "name": "ya",
+        "location": "Afrika, Asia, Amerika ya Kusini"
+      },
+      {
+        "name": "ya C",
+        "location": "Australia, Afrika, Asia, Amerika ya Kaskazini na Kusini"
+      }
     ],
-    "mutation_sources": "Geographical separation; coat protein gene variation affects immune response"
+    "mutation_sources": "Mabadiliko ya geographical; muundo wa gen ya proteini ya mbegu huathiri jibu la immunity"
   },
   "agricultural_impact": {
-    "affected_tissues": "Vegetative tissues, not reproductive",
-    "yield_loss": "Can range from 50% to near complete loss, especially in SPVD co-infections",
-    "affected_regions": "Oceania, Southern Africa, Barbados, other SPVD-affected areas",
-    "social_impact": "Impacts subsistence farmers relying on sweet potato as staple food"
+    "affected_tissues": "Mafuta ya mimea, si ya kurekebisha",
+    "yield_loss": "Inaweza kuongezeka kutoka 50% hadi karibu na uharibifu kamili, hasa katika maambukizi ya SPVD",
+    "affected_regions": "Oceania, Afrika Kusini, Barbados, maeneo mengine yaliyoathiriwa na SPVD",
+    "social_impact": "Matokeo ya uzalishaji wakulima wanaohitajika na karatasi kama chakula cha nyama"
   },
   "management": {
-    "early_detection": "ELISA for virus identification",
-    "removal": "Remove infected plants to prevent spread",
+    "early_detection": "ELISA kwa ajili ya kutambua virusi",
+    "removal": "Kuondoa mimea ya kuvutia ili kuzuia kuongezeka",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Properly clean tools to prevent mechanical transmission",
-      "Use transgenic plants expressing antiviral genes"
+      "Bidhaa za kuongezeka kwa virusi bila virusi",
+      "Mchakato mzuri ili kuzuia usambazaji wa mashine",
+      "Matumizi ya mimea transgenic kuonyesha gen antiviral"
     ]
   },
   "references": [
-    "Various sources from plant virology and sweet potato disease studies as cited in user-provided content"
+    "Nguvu mbalimbali za virology ya mimea na utafiti wa magonjwa ya karoti kama ilivyoelezwa katika maudhui yaliyotolewa na mtumiaji"
   ]
 }

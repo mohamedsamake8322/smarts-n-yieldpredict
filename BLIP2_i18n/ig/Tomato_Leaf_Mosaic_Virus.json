@@ -1,0 +1,69 @@
+{
+  "disease_name": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+  "type": "Ọrịa na - efe efe",
+  "causal_agent": "Nje virus nke Na - akpata Ọrịa ogbu na nkwonkwo nke Na - ebibi Ihe (SVV), bụ́ nke na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "Ma, e nwere ihe ụfọdụ nwere ike ime ka mmadụ chewe echiche igbu onwe ya.",
+      "Ma, e nwere ihe ụfọdụ nwere ike inyere anyị aka ịna - eche echiche nke ọma."
+    ],
+    "other_hosts": [
+      "OTA 7 (Bekee)",
+      "Foto ndị dị n'etiti ha dị n'okpuru ebe a, bụ́ ebe a na - edebe ihe ọmụma n'Intanet.",
+      "Ma, e nwere otu nwa agbọghọ aha ya bụ Mari Sik (n'ebe a na - edebe ihe n'Ịntanet).",
+      "Ụdị akụ́kụ́ dịgasị iche iche na akụ́kụ́ dịgasị iche iche"
+    ]
+  },
+  "distribution": "Zuru Ụwa Ọnụ",
+  "symptoms": {
+    "foliage": [
+      "Ebe ndị na - acha odo odo na akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ jupụtara",
+      "Ebe ndị dị ize ndụ n'akụkụ akwụkwọ ndụ na - azụlitekarị ma ọ bụ ndị siri ike, na - eme ka ọdịdị ala-ihe ọ̀tụ̀tụ̀",
+      "azụ ndị ahụ nwere ike iyi ka òpèrétọ̀-obere aro ndị e zoro aka na ha",
+      "Akwụkwọ osisi ndị na - eto eto nwere ike gbagọrọ agbagọ"
+    ],
+    "fruit": [
+      "Ọ na - acha odo odo ma na - acha odo odo",
+      "Ebe ndị a na - ahụ mkpụrụ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ na ndị chara acha",
+      "Ka mkpụrụ osisi ahụ na - acha nchara nchara"
+    ],
+    "overall_plant": [
+      "Ụmụ ahụhụ ndị na - eto eto na - ata",
+      "Ụdị okooko osisi dị iche iche",
+      "Ọ na - eme ka mkpụrụ osisi ndị a kụrụ amị ghara ito nke ọma, meekwa ka ha ghara ito nke ọma"
+    ]
+  },
+  "disease_cycle": [
+    "A pụrụ isi ná mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa nweta ọgwụ",
+    "Ọ bụ nanị mkpụrụ akụ́kụ́ ole na ole butere ya pụrụ ime ka e gbasaa ngwa ngwa",
+    "A na - ejikwa ngwá ọrụ ndị rụrụ arụ, aka, na uwe ndị e ji eme ihe mgbe a na - eme ihe mgbe nile",
+    "Ihe ndị na - eme gburugburu ebe obibi, ndị dị ka ọ̀tụ̀tụ̀ okpomọkụ, ọ̀tụ̀tụ̀ ikpo ọkụ, ọ̀tụ̀tụ̀ ìhè, akụ́kụ́ dịgasị iche iche, afọ ndụ ndị a na - akụ mgbe a na - arịa ọrịa, na nsogbu na - esi n'erighị ihe ọmụma apụta"
+  ],
+  "management": {
+    "cultural": [
+      "Jiri nje HIV nweta mkpụrụ akụ́kụ́ na ihe ndị ọzọ na - eme ka ahụ́ gbasie gị ike",
+      "Jiri ngwá ọrụ, aka, na uwe na - arụ ọrụ mgbe ị na - elekọta osisi",
+      "Wepụ na ibibi mkpụrụ akụ́kụ́ ndị bu ọrịa ahụ ngwa ngwa iji belata mgbasa a na - agbasa",
+      "N'ihi ya, o nwere ike ime ka ahịhịa ndị ahụ ghara ịna - eto nke ọma."
+    ],
+    "resistant_varieties": [
+      "Ụlọ ọrụ ndị na - emepụta ngwá ahịa bụ́ ndị a maara na ha na - eguzogidesi TIV ike n'ebe e nwere ha"
+    ],
+    "chemical": [
+      "Ọ dịghị mmiri ọgwụ ahụ́ bụ́ hormone dị irè megide ibute nje virus; usoro nlekọta nke igbochi na idebe ihe ọcha"
+    ]
+  },
+  "notes": [
+    "TIV bụ ihe e bu pụta ụwa; ọ dịghị achọ ụmụ ahụhụ ndị nwere nje ndị na - akpata ọrịa",
+    "Mkpụrụ akụ́kụ́ ndị dị n'ebe a na - elekọta ndị ọrịa na - akasị esi ike, karịsịa mgbe a na - awa ha ahụ",
+    "Ọnọdụ gburugburu ebe obibi na uto nke ihe ọkụkụ pụrụ ịdịgasị iche na - adabere n'ọnọdụ e nwere na gburugburu ebe obibi"
+  ],
+  "references": [
+    "Jones, J.B., n'afọ 2014, e nwere ọrịa na - efe efe n'ebe a na - edebe ihe ndị dị ndụ n'ebe a na - edebe ihe ọmụma n'Ịntanet.",
+    "Nje virus ndị na - akpata ọrịa ogbu na nkwonkwo nke America bụ́ ndị na - agwọ ọrịa ogbu na nkwonkwo nke na - ebibi ihe bụ́ ndị na - akpata ịba ọcha n'anya, na - akpata ọrịa ogbu na nkwonkwo nke yiri nke ahụ",
+    "Mkpụrụ ego bụ́ But, A.A.A., n'afọ 1996, nke e nwetara n'aka Òtù Na - ahụ Maka Ihe Ndị Na - eme n'Ụwa: Ihe ndị e dere n'akwụkwọ akụkọ na ihe ndị e dere n'akwụkwọ akụkọ bụ́ ndị si n'Ụlọ Ọrụ Na - ahụ Maka Ihe Ndị Na - eme Eme n'Ụwa"
+  ]
+}

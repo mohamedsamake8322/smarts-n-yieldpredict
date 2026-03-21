@@ -1,0 +1,88 @@
+{
+  "disease": "Punto de hojas de cereza",
+  "scientific_name": "Blumeriella jaapii",
+  "pathogen_type": "Hongos",
+  "description": "La mancha de la hoja de cereza es una enfermedad fúngica que afecta a los cerezos, especialmente en las regiones húmedas o lluviosas. Causa pequeñas manchas púrpuras o marrones en las hojas que se agrandan con el tiempo.",
+  "symptoms": [
+    "pequeñas manchas púrpuras, marrones o bronceadas en las hojas",
+    "lesiones irregulares o circulares a través de la superficie de la hoja",
+    "centro de las manchas pueden secar y caer creando agujeros",
+    "las hojas se vuelven amarillas y caen prematuramente",
+    "masas de esporas fúngicas color crema en la parte inferior de las hojas",
+    "frutas pueden desarrollar manchas y se vuelven blandas",
+    "tallos de fruta infectados pueden causar gota de fruta"
+  ],
+  "visual_signature": [
+    "numerosas pequeñas manchas púrpuras o marrones en las hojas de cereza",
+    "hojas amarillentas con lesiones dispersas",
+    "agujeros en las hojas después de que el tejido se cae",
+    "racimos de esporas de color crema en la parte inferior de la hoja"
+  ],
+  "affected_plant_parts": [
+    "hojas",
+    "Tallos de fruta",
+    "Frutas (ocasionalmente)"
+  ],
+  "hosts": [
+    "cereza dulce",
+    "Cerezas agrias"
+  ],
+  "plant_family": "Rosaceae",
+  "important_hosts": [
+    "Prunus avium",
+    "Prunus cerasus"
+  ],
+  "favorable_conditions": [
+    "alta humedad",
+    "hojas húmedas",
+    "frecuentes precipitaciones",
+    "temperaturas frías a moderadas"
+  ],
+  "spread": [
+    "Esporas dispersadas por el viento",
+    "salpicadura de lluvia",
+    "Hojas caídas infectadas"
+  ],
+  "disease_cycle": [
+    "hongos sobrecogedores en las hojas infectadas caídas",
+    "Esporas producidas durante el tiempo húmedo",
+    "viento o lluvia esparce esporas a hojas nuevas",
+    "la infección se produce cuando las hojas permanecen húmedas",
+    "la enfermedad se propaga repetidamente durante la temporada de cultivo"
+  ],
+  "damage": [
+    "caída prematura de la hoja",
+    "fotosíntesis reducida",
+    "mala calidad de las frutas",
+    "Frutas blandas",
+    "reducción del rendimiento de los frutos en la temporada siguiente"
+  ],
+  "management": [
+    "quitar y destruir las hojas caídas",
+    "Desechos de plantas limpios infectados bajo los árboles",
+    "aplicar mantillo para reducir la salpicadura del suelo",
+    "podar árboles para mejorar la circulación del aire",
+    "monitorear los árboles durante las estaciones húmedas"
+  ],
+  "organic_treatment": [
+    "fungicida de azufre en aerosol",
+    "Aplicar aceite de neem",
+    "solución para pulverización de bicarbonato de sodio"
+  ],
+  "chemical_control": [
+    "Fungicidas a base de cobre",
+    "sprays de fungicida protectores durante períodos húmedos"
+  ],
+  "prevention": [
+    "buen saneamiento de las huertas",
+    "poda regular para flujo de aire",
+    "Aplicación temprana de fungicida durante las estaciones de lluvias"
+  ],
+  "source": [
+    "Gestión Integrada de Plagas de la Universidad de California",
+    "Extensión de la Universidad de Minnesota",
+    "Extensión de la Universidad Estatal de Ohio",
+    "Extensión del Pacífico Noroeste",
+    "El huerto holístico"
+  ]
+}

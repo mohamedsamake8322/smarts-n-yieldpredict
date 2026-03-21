@@ -1,88 +1,88 @@
 {
- "disease": "Sclerotinia Timber Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia timber rot is a fungal disease that causes severe stem decay in many crops. The fungus produces white cotton-like mold and black survival bodies called sclerotia. Infected stems become dry or rotten, leading to plant wilting and collapse.",
- "symptoms": [
-  "White cotton-like fungal growth on stems",
-  "Stem rot or dry decay (timber-like appearance)",
-  "Black seed-like sclerotia inside or on stems",
-  "Yellowing and wilting of leaves",
-  "Plants collapsing due to stem damage"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "dry or rotting stems",
-  "black hard sclerotia in infected tissue",
-  "collapsed or wilted plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Beans",
-  "Peas",
-  "Lettuce",
-  "Tomato",
-  "Potato",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental crops"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "sometimes leaves and flowers"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia surviving in soil",
-  "Contaminated plant debris",
-  "Wind and splashing water"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce apothecia (small cup-like structures)",
-  "Apothecia release airborne spores",
-  "Spores infect plant tissues during wet conditions",
-  "New sclerotia develop in infected stems and fall into the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced plant growth and productivity",
-  "Severe yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve spacing and airflow between plants",
-  "Remove and destroy infected plant debris",
-  "Avoid excessive irrigation"
- ],
- "biological_control": [
-  "Apply biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Boscalid",
-  "Fluazinam",
-  "Iprodione",
-  "Procymidone",
-  "Thiophanate-methyl"
- ],
- "prevention": [
-  "Use clean seeds and healthy transplants",
-  "Monitor crops during cool and wet weather",
-  "Apply integrated disease management practices"
- ],
- "source": [
-  "Plant pathology guides",
-  "Agricultural extension resources"
- ]
+  "disease": "Tourteaux de bois de Sclérotinia",
+  "scientific_name": "Sclérotinia sclérotiorum",
+  "pathogen_type": "Champignons",
+  "description": "La pourriture du bois de Sclerotinia est une maladie fongique qui provoque une grave décomposition de la tige dans de nombreuses cultures. Le champignon produit des moules de coton blanc et des corps noirs de survie appelés sclerotia. Les tiges infectées deviennent sèches ou pourries, entraînant la flétrissement et l'effondrement des plantes.",
+  "symptoms": [
+    "Croissance fongique en coton blanc sur les tiges",
+    "Pourriture de la tige ou pourriture sèche (aspect similaire à celui d'un arbre)",
+    "Sclérotes noirs ressemblant à des graines à l'intérieur ou sur les tiges",
+    "Jaune et flétrissement des feuilles",
+    "Les plantes s'effondrent en raison des dommages causés à la tige"
+  ],
+  "visual_symptoms": [
+    "moule blanc moelleux sur les tiges",
+    "tiges sèches ou pourrissantes",
+    "sclérotes noirs dans les tissus infectés",
+    "plantes effondrées ou flétries"
+  ],
+  "hosts": [
+    "Soja",
+    "Tournesol",
+    "Canola (colza de graines oléagineuses)",
+    "Haricots",
+    "Pois",
+    "Laitue",
+    "Tomates",
+    "Pommes de terre",
+    "Carotte",
+    "Concombre",
+    "Nombreuses cultures végétales et ornementales"
+  ],
+  "plant_parts_affected": [
+    "tiges",
+    "les pétioles",
+    "parfois des feuilles et des fleurs"
+  ],
+  "favorable_conditions": [
+    "Températures fraîches",
+    "Humidité élevée",
+    "Pluie fréquente ou irrigation",
+    "Canopée dense des cultures",
+    "Mauvaise circulation d'air"
+  ],
+  "spread": [
+    "Spores aéroportées de l'apothécie",
+    "Les sclérotes survivent dans le sol",
+    "Débris de plantes contaminées",
+    "Vent et eau d'éclaboussure"
+  ],
+  "disease_cycle": [
+    "Le champignon survit dans le sol sous forme de sclérotes pendant plusieurs années",
+    "Les sclérotes germent et produisent de l'apothécie (petites structures en forme de tasse)",
+    "L'apothécie libère des spores aéroportées",
+    "Les spores infectent les tissus végétaux en conditions humides",
+    "De nouvelles sclérotes se développent dans les tiges infectées et tombent dans le sol"
+  ],
+  "impact": [
+    "Dégradation de la tige et effondrement de la plante",
+    "Réduction de la croissance et de la productivité des usines",
+    "Pertes graves de rendement dans les cultures sensibles"
+  ],
+  "cultural_control": [
+    "Cultures en rotation avec des plantes non hôtes",
+    "Améliorer l'espacement et le débit d'air entre les usines",
+    "Enlever et détruire les débris végétaux infectés",
+    "Éviter l'irrigation excessive"
+  ],
+  "biological_control": [
+    "Appliquer des agents biologiques tels que les minitans de Coniothyrium",
+    "Utiliser des champignons bénéfiques comme les espèces de Trichoderma"
+  ],
+  "chemical_control": [
+    "Boscalid",
+    "Fluaziname",
+    "Iprodione",
+    "Procymidone",
+    "Thiophanate-méthyle"
+  ],
+  "prevention": [
+    "Utiliser des semences propres et des greffes saines",
+    "Surveiller les cultures par temps frais et humide",
+    "Appliquer des pratiques de gestion intégrée des maladies"
+  ],
+  "source": [
+    "Guides de pathologie végétale",
+    "Ressources de vulgarisation agricole"
+  ]
 }

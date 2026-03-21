@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "小麦和巴利的松软地",
+  "scientific_name": "洛斯特,罗斯特。",
+  "pathogen_type": "寄生虫病原体",
+  "description": "松芽是一种影响小麦和大麦的系统性真菌病。 真菌感染了发展中的内核,代之以黑螺,在开花期间被风吹散,导致大量产量损失。",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "由黑粉粉状细粒取代",
+    "受影响头头比健康头还早出现",
+    "叶叶或根叶上没有植物症状",
+    "与感染率成比例的减肥损失"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "小麦(小麦)",
+    "贝利(Hordeum粗俗)"
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "花朵期间的凉凉和潮湿条件",
+    "播种感染种子"
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "风向向向健康花朵散布微粒",
+    "来自感染谷物的种子传播"
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "使用经核证的无疾病的种子",
+    "使用系统杀真菌杀菌剂的种子治疗",
+    "避免从受感染作物中拯救种子",
+    "非宿主物种作物轮作"
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "使用碳箱、三亚狄美宁或三丁基杀真菌剂进行种子治疗"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "工厂仅经核证的清洁种子",
+    "实行作物轮作",
+    "清洁储存和种植设备"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "CABI 作物保护简编",
+    "粮农组织植物卫生指南",
+    "有关利用三维科学文献"
   ]
 }

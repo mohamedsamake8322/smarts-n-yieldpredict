@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "番茄水果花朵",
+  "type": "生理障碍",
+  "causal_agent": "钙缺乏,加不定期水吸收",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "番茄"
+    ],
+    "secondary": [
+      "辣椒(Capsicum pp.)",
+      "茄子种植 (Solanum melogenena L.)"
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "全世界;在土壤湿度波动或钙含量低的地区常见",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "黑暗,下沉的损伤 在果实开花的尽头",
+      "地产可能膨胀,变成皮革,导致水果腐烂",
+      "首先可见于青年开发的水果,往往以集群形式出现",
+      "如果病情持续,内部组织也可能会变色"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "叶叶或根叶没有直接症状;植物通常在地面上看起来健康"
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "开发水果,吸收的钙摄入量不足",
+    "导致土壤湿度波动的不规则用水",
+    "过度施肥导致过度的植被过度增长,造成根能力和水果需求之间的不平衡",
+    "高湿湿度减少蒸发和钙运输"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "在通过受控水或滴灌进行水果生产时甚至保持土壤湿度",
+      "Mulch 保持土壤湿度和减少波动",
+      "提供足够的间隔和间隔,以确保空气流通良好,减少相对湿度",
+      "避免过量的氮肥化;只在需要维持适度增长时才穿侧面服装",
+      "监测植物振动,以确保根与射出开发之间的平衡"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "每周在水果生产期间使用硝酸钙或氯化钙(每加仑水1.5吨+0.5吨表面活性剂,例如CapSil)",
+      "在清晨施喷剂,以减少植物毒性风险",
+      "避免过度使用钙,因为它可能减少产量或造成叶子伤害"
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "重点注意一贯的文化习俗和钙供应,而不是仅仅依靠叶粉喷雾",
+      "在种植之前监测土壤的钙含量,必要时对土壤进行修正"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "Brubaker, V. 2016. Calcium:它是一个好植物。1月,温室种植者。",
+    "Macedo, F.G., José de Melo, W.等人,2022年。 即使是在钙缺乏条件下,镍也能够减少开花的腐烂;NI-CA相互作用的生理反应证据。 J. Plant Convention 46(12):893-2904.DOI: 10.1080/01904167.202.2160759。",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M.和Mohamad, A. 2021. Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., 和 Mohamad, A. 2021. 马来西亚不同低地番茄品种的生长、产量、质量和储存期延长的氯化钙丰收前叶喷雾,Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466。",
+    "Reitz, N.F., Shackel, K.A.和Mitcham, E.J. 2021. 超量钙对整个植物与对番茄花尾腐烂的切除水果组织的不同影响,Scientia Horticulturae 290:110514, https://doi.org/10.1016/j.scienta.2021.110514。"
   ]
 }

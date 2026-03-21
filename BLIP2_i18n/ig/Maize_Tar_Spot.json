@@ -1,0 +1,62 @@
+{
+  "disease": "Jiri Mkpụrụ Ndụ Ihe Nketa Na - eme Ihe n'Ụzọ Ziri Ezi",
+  "scientific_name": "Ụgbọ mmiri ndị na - agba n'elu mmiri nwere ike ịdị n'elu mmiri",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọrịa akụ́kụ́ na - asọ oyi nke mkpụrụ akụ́kụ́ ndị na - akpata ihe ndị dị ka mkpụrụ ndụ ojii n'akwụkwọ osisi. Ọrịa ndị a na - eme ka mmiri ghara ịbanye n'ime ala, na - eme ka mkpụrụ akụ́kụ́ belata, ọ pụkwara ime ka mmadụ gharazie inwe ebe obibi nke osisi na - adịghị na ya.",
+  "symptoms": [
+    "Obere ihe ndị a kpụrụ akpụ dị n'akwụkwọ ya bụ́ ndị yiri ka hà na - ata ikikere ezé",
+    "Ngwá agha ndị e ji eme ihe n'elu elu na n'ala ala akwụkwọ ndị dị ala",
+    "Brown ma ọ bụ ákwà mgbochi gburugburu ebe ndị isi ojii na - anọ (anya na - acha odo odo)",
+    "Na - agba akwụkwọ ma ọ bụ na - agba ya n'anwụ",
+    "Nnukwu ọnọdụ ndị na - ebibi ihe bụ́ ndị a na - enwe mgbe e nwere ebe ndị a na - edebe ihe ọmụma n'Intanet",
+    "Ọ bụrụ na mkpụrụ akụ́kụ́ na - amị mkpụrụ nke ọma, ọ ga - eme ka ọ ghara ịdị ike, meekwa ka ọ ghara ịdị ike n'ahụ́ ya mgbe ọ na - arịa ọrịa ndị siri ike"
+  ],
+  "hosts": [
+    "Tinye (n'ọnọdụ)"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke ọ̀tụ̀tụ̀ ịjụ oyi nke dị n'agbata 18°C na 23°C",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri ozuzo, mmiri ozuzo, ma ọ bụ igirigi",
+    "Ogologo oge (ma ọ dịkarịa ala awa 7)",
+    "Mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa n'ubi"
+  ],
+  "spread": [
+    "Mmiri ozuzo-drime na-enye nsogbu n'ahụ́, na-eme ka mmiri zoo",
+    "Ụmụ irighiri ihe ndị na - atọ ọchị na - eme ka e nwee ebe ndị a na - ere ọka ndị nwere nje ndị na - akpata ọrịa",
+    "Ala ọma jijiji na - agbasa n'agbata ubi ndị dị nso n'ebe ahụ n'ọnọdụ dị mma"
+  ],
+  "management": [
+    "Na - enyocha ubi mgbe nile maka mgbaàmà ndị mbụ ọ na - enwe",
+    "Owuwe ihe ubi n'isi ụtụtụ ma ọ bụrụ na ike gwụa ya",
+    "Jiri ọgwụ mgbochi ọrịa mee ihe mgbe e nwere ya",
+    "Jiri nlezianya Na - enyocha Ihe Ndị Na - edozi Ahụ́",
+    "Jiri ihe ubi mee ihe n'ihe ize ndụ ndị e buru n'amụma mgbe e nwere ya"
+  ],
+  "biological_control": [
+    "E nwebeghị ọgwụ ndị e ji alụso nje HIV ọgụ n'ebe nile ugbu a",
+    "Nnyocha E Mere n'Akụkụ Dị Iche Iche"
+  ],
+  "chemical_control": [
+    "Ebe e dere otú e si ede ihe na otú e si ede ihe n'oge ochie bụ n'agbata oge e ji ede ihe n'oge a na oge e dere ihe na ya",
+    "Ihe ndị e ji emenwu ọkụ, dị ka ihe ndị a kpụrụ akpụ bụ́ ndị a na - eji eme ihe na ha",
+    "Na - etinye ya n'ọrụ mgbe ụbọchị 7444 gasịrị ma ọ bụrụ na ọnọdụ ka dị mma"
+  ],
+  "prevention": [
+    "Tinyere ihe ọkụkụ ndị na-enweghị isi",
+    "Ihe ndị e ji eli ọka ndị nwere nje ndị na - akpata ọrịa",
+    "Ọrụ ịkwa nkà na - eme ka ndị nkịtị nọrọ n'ọnọdụ kwesịrị ekwesị",
+    "Imechi Ya Anya na Ime Ka Ọ Mata Ihe Ndị Mere n'Oge"
+  ],
+  "impact": [
+    "Ọnụ ọgụgụ ndị nwụrụ n'ihe ruru ihe dị ka mmadụ 50 n'ime ọhịa ndị a kọrọ na ha mere n'ọnọdụ ndị jọgburu onwe ha",
+    "Ndị ogbenye na - eri nri ndị dị oké ọnụ ahịa ma na - eme ka ha ghara ịdị arọ",
+    "Ihe ize ndụ ka ukwuu nke inweta ebe obibi e ji ahịhịa mee",
+    "Nke a ga - eme ka ọ ghara ịna - esi ike ime ihe ndị ọzọ na - ekwesịghị ime"
+  ],
+  "source": [
+    "Ebe Ndị A Na - edebe Ihe Ndị Ruuru Mmadụ n'Ụzọ Nchebe",
+    "Ụlọ Ọrụ Na - ahụ Maka Mmekọrịta Mmadụ na Ibe Ya na Mahadum",
+    "Ihe Ndị Na - enyocha Akwụkwọ Ndị A Na - eji Eme Ihe"
+  ]
+}

@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
-  "scientific_name": "Bemisia argentifolii",
+  "pest_name": "ألف من طراز SAA",
+  "scientific_name": "Bemensia argentepholii",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "حلّ حلّ حلّ حلّ سوّى",
+    ""
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "البالغون يبلغ طولهم 1.5 ملم، صفراء البطن والصدر والأجنحة البيضاء؛ الحوريات بيضاويات، أو شبه مشتتة أو صفراء. آخر نجمة تدعى \"حورية العين الحمراء\".",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "محاصيل كولية (البروكولي، الملفوف، القرنبوط، القرنبيط، الكرنب، الكرنب الصيني، الكرنب الصيني، الكرمل، الكرمل، الكرنب الصيني، الكرمل، الكرملبز)",
+    "المحاصيل النباتية الأخرى كمضيفات"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "يؤدي اقتناص المناقصات إلى توقف النمو وتأخر الحصاد",
+    "يروِّج ابتكار العسل العسّيد العفن العفن العفن ، يقلِّل من القِيَلات الضوئية",
+    "ببقع الجينات والورق في القرنفل (الجذع الأبيض)"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "بيضات وضعت على ورقة",
+    "الأولى في النجمة الأولى (Crawler) متحركة؛ يليها حوريات متحركة",
+    "النجمة الأخيرة (pupa/red-ay) تسبق ظهور البالغين",
+    "الراشرون يطيرون بسرعة عندما تكون النباتات مضطربة"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "بالرياح والهجرة من المحاصيل المجاورة",
+    "الانتشار الميكانيكي بواسطة أدوات أو عمال ملوثين",
+    "الزيادة السريعة في عدد السكان عند انخفاض عدد المضيفات القريبة"
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "هوامش تدقيق ميدانية 2x/أسبوع (Aug–Oct) أو أسبوعي (تشرين الثاني/نوفمبر - آذار/مارس)",
+    "تُساعد المُلْصِصّات على كشف الهجرة الأولية",
+    "انقلب على الأوراق لتفتيش الهويات"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "تأخير الغرس أو إيجاد فترات خالية من الاستضافة للحد من الإصابة",
+      "(أ) المحاصيل الزراعية المصحوبة بالرياح من غيرها من الاستضافة البيضاء الأخرى؛",
+      ":: صيانة المرافق الصحية: إزالة الأعشاب الضارة ومخلفات المحاصيل بسرعة",
+      "الري والنيتروجين لتجنب النمو المفرط للنباتات المفضل للبيض"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "الزبيبات المظلية (انكارسيا، Eretmocerus)",
+      "حشرات كبيرة، حشرات كبيرة، يرقات، خنافس نسائية",
+      "فطريات: بيوفيريا باسيانا، إيساريا فوموسورو"
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "(الإكسيرل، فيريمارك)",
+        "targets": "",
+        "MOA_group": ""
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
-        "MOA_group": "28"
+        "name": "كلوراندرانيسيليبرولي (كوراجين)",
+        "targets": "",
+        "MOA_group": ""
       },
       {
-        "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
-        "MOA_group": "4A"
+        "name": "نونية الفونتان (Vorm)",
+        "targets": "",
+        "MOA_group": "4 نيسان/أبريل 2004"
       },
       {
-        "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
-        "MOA_group": "4A"
+        "name": "Imidaclogrid (Admire Pro)",
+        "targets": "النعمات",
+        "MOA_group": "4 نيسان/أبريل 2004"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "الأسيتاميريد (النهاية 70 WP)",
+        "targets": "النعمات/الأدلت",
+        "MOA_group": "4 نيسان/أبريل 2004"
       },
       {
-        "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4D"
+        "name": "(Sevananto 200 SSL)",
+        "targets": "1 - البيض والورمات",
+        "MOA_group": "٤ دال"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4C"
+        "name": "السلفوكسافور (Secquoia CA)",
+        "targets": "1 - البيض والورمات",
+        "MOA_group": "٤C"
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "ثيماثلوكسام (تأرار)",
+        "targets": "النعمات/الأدلت",
+        "MOA_group": "4 نيسان/أبريل 2004"
       },
       {
-        "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
-        "MOA_group": "3A"
+        "name": "بيفينثرين (بردج 2EC)",
+        "targets": "",
+        "MOA_group": "3 أ م"
       },
       {
-        "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "name": "Sspirotetramt (موفنتو)",
+        "targets": "النعمات",
+        "MOA_group": ""
       },
       {
-        "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
-        "MOA_group": "23"
+        "name": "Scoprissifen (Oberon 2 SC)",
+        "targets": "النعمات",
+        "MOA_group": ""
       },
       {
-        "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
-        "MOA_group": "16"
+        "name": "(الصف (الصف))",
+        "targets": "النعمات",
+        "MOA_group": "١٦"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "الصابون",
+        "targets": "النعميات والكبار",
+        "mode": "الاتصال"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "زيوت عطرة (نفط أومني، JMS Stylet-Oil)",
+        "targets": "النعميات والكبار",
+        "mode": "ما قبل/النفقات"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "بوفيريا باسيانا وإيساريا فوموسورو في البحر من أجل السيطرة على النرنم",
+      "الصابونات والزيز الضيق",
+      "(الفينيرات)"
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "دوران المبيدات الحشرية مع مختلف مجموعات طرائق العمل",
+      ":: التوقيت الأمثل للتغطية والتطبيق"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "وفي الحقول العضوية أو غير المعالجة، تعامل الحدود على نحو تفضيلي إذا كان التلقيح أعلى عند الحواف."
 }

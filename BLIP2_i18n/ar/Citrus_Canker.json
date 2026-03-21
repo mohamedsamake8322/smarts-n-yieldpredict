@@ -1,73 +1,73 @@
 {
-  "disease": "Citrus Canker",
-  "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus canker is a highly contagious bacterial disease affecting citrus plants. It causes lesions on leaves, stems, and fruits, leading to premature leaf and fruit drop and reduced fruit quality. Although infected fruits are edible, they are not marketable due to their appearance.",
+  "disease": "CCukkkt Name",
+  "scientific_name": "(Syn. Xanthomonas axonpodes pv. cistri)",
+  "pathogen_type": "بكثير",
+  "description": "إن هذه المادة تشكل مرضاً بكتيرياً معدياً إلى حد كبير يؤثر على نباتات الحمضيات. فهو يتسبب في أضرار على الأوراق، والجرثوم، والفواكه، مما يؤدي إلى سقوط الأوراق والفواكه قبل الأوان، وانخفاض جودة الفاكهة. ورغم أن الفواكه المصابة قابلة للأكل، فإنها غير قابلة للتسويق بسبب مظهرها.",
   "hosts": [
-    "Citrus spp. (orange, lime, grapefruit, lemon)",
-    "Poncirus trifoliata",
-    "Fortunella spp. (kumquat)",
-    "Severinia spp.",
-    "Swinglea spp."
+    "Citrus spp. (الرعي، الجير، الجير، الكرب فروت، الليمون)",
+    "Poncisis TrifFoliata",
+    "Fortununella spp. (kumquat)",
+    "Severininia spp.",
+    "Swinglelea spp."
   ],
   "susceptibility": {
     "highly_susceptible": [
-      "Grapefruit",
-      "Navel orange",
-      "Early orange varieties"
+      "",
+      "",
+      ""
     ],
     "moderately_susceptible": [
-      "Sour orange",
-      "Lemon",
-      "Sweet orange"
+      "السور",
+      ")ليمون(",
+      ")١ بمتوسط"
     ],
     "more_tolerant": [
-      "Mandarin",
-      "Some citrus hybrids (e.g., Murcott, Valencia)"
+      "",
+      "بعض الهجينات (مثل موركوت، فالنسيا)"
     ]
   },
   "symptoms_and_damage": [
-    "Small raised blister-like lesions with water-soaked margins",
-    "Yellow halos surrounding lesions on leaves and fruits",
-    "Necrotic spots on leaves, stems, and fruits",
-    "Fruit cracking and deformation",
-    "Premature fruit drop",
-    "Severe infections cause defoliation"
+    "آفات صغيرة مُثارة شبيهة بمُبرّق ذات شُحّات مُشَكَّلة بالماء",
+    "أُطلـال أُطلـال أُطلـال أُطلـال محيطة بآثـار علـى أوراق الشـرق والفواكـر",
+    "بقع نخرية على الأوراق والأجزاء والفواكه",
+    "التشقق والتشويه",
+    "قطر ما قبل سن ما قبل الولادة",
+    "حالات العدوى الخطيرة سبب القشرة"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria survive in lesions on leaves, stems, and fruits",
-    "Spread through wind-driven rain and water splash",
-    "Long-distance spread occurs mainly through movement of infected plant material",
-    "Insects, birds, and animals may contribute to local spread",
-    "Leafminer damage increases infection by creating wounds"
+    "البكتيريا تنجو من الآفات في الاوراق ، العجر ، والثمرات",
+    "من خلال الأمطار التي تحركها الرياح ورش الماء",
+    "ويحدث الانتشار البعيد المدى بصورة رئيسية عن طريق حركة المواد النباتية المسببة للإصابات",
+    "قد تساهم الحشرات والطيور والحيوانات في الانتشار المحلي",
+    ":: زيادة الضرر الناجم عن الليفنة يزيد من الإصابة عن طريق إحداث جروح"
   ],
   "favorable_conditions": [
-    "Warm temperatures (optimal around 28–30°C)",
-    "High humidity",
-    "Rain and wind",
-    "Presence of free water on plant surfaces"
+    "درجات الحرارة (الأفضل حوالي 28 - 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "الأمطار والرياح",
+    "وجود مياه حرة على أسطح النباتات"
   ],
   "pathogen_characteristics": [
-    "Gram-negative rod-shaped bacterium",
-    "Size approximately 1–3 micrometers",
-    "Single polar flagellum for movement",
-    "Produces yellow pigment called xanthomonadin in culture"
+    ")أ( - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "حجم حوالي ١-٣ ميكرومترات",
+    "أُحادي أعلام قطب واحد للتحرك",
+    "إنتاج صباغ أصفر أصفر يُدعى \"Xanthomonadin في الثقافة\""
   ],
   "monitoring": [
-    "Inspect leaves for raised lesions with yellow halos",
-    "Check fruits for corky or cracked lesions",
-    "Observe twig lesions that may serve as infection sources"
+    "أوراق شُرْفِيَّةٍ لإصابة مُصَرَّفَةٍ مِنْ أَسْفَاحٍ أَسْفَرَةٍ",
+    "كِش لـ أو",
+    "حالات الإصابة التي يمكن أن تستخدم كمصادر للانتحار"
   ],
   "management": [
-    "Use certified disease-free planting material",
-    "Apply copper-based sprays as preventive treatment",
-    "Install windbreaks to reduce spread by wind-driven rain",
-    "Control citrus leafminer populations",
-    "Disinfect tools, equipment, and clothing when entering or leaving orchards",
-    "Remove infected trees in areas where the disease is not yet established"
+    "مواد الزراعة الخالية من الأمراض المعتمدة",
+    "الرشات القائمة على أساس النحاس بوصفها علاجاً وقائياً",
+    "(ج) الحد من انتشاره بفعل الأمطار التي تحركها الرياح",
+    "عدد السكان من مجموعات مَنْبِرْسِهم",
+    "أدوات ومعدات وملابس المطهر عند دخول أو مغادرة البساتين",
+    ":: إزالة الأشجار المصابة في المناطق التي لم يثبت فيها المرض بعد"
   ],
   "sources": [
-  "Wikipedia – Citrus Canker",
-  "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
-]
+    "Wikedia - Citrus Canker",
+    "جامعة فلوريدا، الامتداد - مركز البحوث والتعليم، بحيرة ألفريد، فلوريدا"
+  ]
 }

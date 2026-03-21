@@ -1,0 +1,66 @@
+{
+  "disease": "Choanephora Flower Blight",
+  "scientific_name": "Choanephora spp. (por ejemplo, Choanephora cucurbitarum)",
+  "pathogen_type": "Hongos",
+  "description": "Una enfermedad fúngica que ataca las flores y los frutos jóvenes de muchas verduras, especialmente las cucurbitáceas y legumbres. Provoca una rápida putrefacción de las flores y la decadencia de los frutos en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Manchas empapadas de agua en las flores",
+    "Las flores se pudren y colapsan rápidamente",
+    "Suave pudrición en frutos jóvenes",
+    "Crecimiento de hongos blancos algodonosos en los tejidos infectados",
+    "Esporas en forma de alfiler negro sobre flores podridas",
+    "Las flores infectadas se adhieren al desarrollo de las frutas y causan putrefacción de las frutas"
+  ],
+  "hosts": [
+    "Okra",
+    "Calabaza",
+    "Squash",
+    "Pepino",
+    "Zucchini",
+    "Calabaza",
+    "Judías",
+    "Cowpea",
+    "Berenjenas",
+    "Las demás cucurbitáceas y hortalizas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (alrededor de 25–30°C)",
+    "Alta humedad",
+    "Lluvias frecuentes",
+    "Dosel denso con mala circulación de aire"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el viento",
+    "Salpicadura de la lluvia",
+    "Desechos de plantas infectados",
+    "Contacto entre flores infectadas y frutas"
+  ],
+  "management": [
+    "Quitar y destruir flores y frutas infectadas",
+    "Mejorar el espaciamiento de la planta para aumentar el flujo de aire",
+    "Evitar el riego por encima del suelo",
+    "Cosecha regularmente para eliminar los tejidos infectados",
+    "Practicar la rotación de cultivos"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum como suelo o biocontrol foliar",
+    "Biofungicidas a base de bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Clorotalonil",
+    "Fungicidas a base de cobre",
+    "Aplicar preventivamente durante el clima húmedo"
+  ],
+  "prevention": [
+    "Planta en campos bien ventilados",
+    "Eliminar los desechos de los cultivos después de la cosecha",
+    "Evitar el exceso de riego y la humedad prolongada de las hojas",
+    "Utilizar semillas saludables y mantener el saneamiento en el campo"
+  ],
+  "source": [
+    "CABI Plantwise Knowledge Bank",
+    "Patología Vegetal de la Universidad de Florida IFAS",
+    "APS Plant Disease Handbook"
+  ]
+}

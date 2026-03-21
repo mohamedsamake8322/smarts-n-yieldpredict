@@ -1,0 +1,41 @@
+{
+  "pest_name": "Ọnụ Ọgụgụ Na - arịwanye Elu nke Ndị Na - eto Eto Na - ajụ, Sị",
+  "scientific_name": "Elamofus liglas stake",
+  "pest_type": "Ụmụ ahụhụ",
+  "order": "Levira",
+  "family": "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+  "description": "Mkpụrụ akụ́kụ́ ndị ka nta na - arụ ọrụ bụ nla nke na - awakpo ebe dị ala nke ọtụtụ ihe ọkụkụ.",
+  "hosts": [
+    "Corn",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Sobon",
+    "Sorghum",
+    "Echiche Dị Iche Iche"
+  ],
+  "damage": [
+    "E si n'ebe dị nso n'ala nweta ya",
+    "Imetọ na ịnwụ n'ihi mkpụrụ akụ́kụ́",
+    "Uto e nwere n'ụzọ a na - achịkwaghị achịkwa",
+    "Ọnụ ọgụgụ na - arị elu nke ndị ọrụ ugbo"
+  ],
+  "life_cycle": [
+    "Flag",
+    "Lrva (n'elu ikpo okwu)",
+    "Pupa",
+    "nla dị afọ iri na ụma"
+  ],
+  "spread": [
+    "Nla nla n'ike",
+    "Ihe ndị dị n'ala ahịhịa ma ọ bụ n'ala"
+  ],
+  "management": {
+    "cultural": [
+      "Na - eme ka mmiri dị n'ala nke ọma",
+      "Na - atụgharị uche n'ihe ndị a kụrụ n'ubi",
+      "Wepụ akụ́kụ́ ndị a kụrụ n'ubi"
+    ],
+    "chemical": [
+      "Ime ka ájá dị n'ime ya dị ike mgbe ala dị n'ike n'ike"
+    ]
+  }
+}

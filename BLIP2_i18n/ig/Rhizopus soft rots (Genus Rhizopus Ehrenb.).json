@@ -1,0 +1,74 @@
+{
+  "disease": "Ndị Na - eto Eto Na - ajụ Sị...",
+  "scientific_name": "Ọtụtụ ndị na - eto eto na - ekwu, sị: \"Ndị na - eto eto ibe m na - achọ ka mụ na ha na - akpa. \"",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọ bụ ọrịa na - asọ oyi nke na - emetụtakarị mkpụrụ osisi, akwụkwọ nri, na ihe ọkụkụ ndị e chekwara echekwa.",
+  "symptoms": [
+    "N'ihi ya, mmiri dị n'ime ime ahụ́ mmadụ",
+    "Ọ̀tụ̀tụ̀ mkpụrụ osisi ma ọ bụ ihe ndị e ji ebi akwụkwọ na - ebelata ngwa ngwa",
+    "Ụcha ogho dị ọcha- bụ otu n'ime ihe ndị ahụ yiri ihe na - atọ ụtọ, nke na - eto n'elu",
+    "A dọ́ọ̀kụ̀-ihe owuwu ndị yiri ụlọ ndị dị n'ebe ndị e nwere nsogbu",
+    "Ihe ndị na - esi ísì ọma na - esi ísì ọma n'ime ka ezé ghara imebi ngwa ngwa",
+    "Ahụ́ na - emepụta mmiri ọgwụ ahụ́ bụ́ hormone na - aghọ ihe na - eme ka ahụ́ na - ama jijiji ma na - ada ada"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Onye ọ bụla n'ime ha",
+    "Papaya",
+    "Gana",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Kèánáhụ́chāghị́ányá",
+    "23.pkin",
+    "Trush",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Metaon",
+    "Mago",
+    "Ńgwānụ́ banye",
+    "Ndị Na - atụchasị Mmadụ",
+    "Akwụkwọ nri na mkpụrụ osisi ndị a gbara ná mkpọ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ihe ọkụkụ ndị e merụrụ ahụ́ ma ọ bụ ndị e merụrụ ahụ́",
+    "Ebe ndị a na - edebe ihe ndị dị oké ọnụ ahịa",
+    "Nsogbu Ndị Na - adịghị n'Oge A Na - edebe Ihe Ndị Dị Ndụ"
+  ],
+  "spread": [
+    "Ihe Ndị Na - eme Ka E Nwee Ihe Ndị Na - enye Obi Ụtọ n'Ahụ́",
+    "Chọpụta ihe dị n'etiti ihe ndị butere ọrịa ahụ na ihe ndị ga - eme ka ahụ́ gbasie gị ike",
+    "Ihe ndị e ji echekwa ihe ma ọ bụ ngwá ọrụ",
+    "Ibu ma ọ bụ ibu ndị na - emebi ihe bụ́ ndị na - akpata ọnyá"
+  ],
+  "impact": [
+    "Egosiri agwụ ike mgbe a tọhapụsịrị ya",
+    "Mkpụrụ osisi na akwụkwọ nri na - emebi mgbe a na - echekwa ma ọ bụ mgbe a na - ebu ha",
+    "Ọnụ ahịa ihe ọkụkụ na - ebelata"
+  ],
+  "cultural_control": [
+    "Jiri nlezianya na - eri mkpụrụ osisi na akwụkwọ nri iji zere ọnyá",
+    "Ihe ubi ndị a kụrụ n'ubi n'oge ọkọchị",
+    "Wepụ ihe ndị mebiri emebi ma ọ bụ ndị butere ọrịa ahụ ngwa ngwa",
+    "Nọgide na - adị ọcha n'ebe ndị a na - echekwa ihe",
+    "Ihe ndị e ji echekwa ihe n'ụzọ kwesịrị ekwesị n'ebe ndị a na - edebe ihe ndị e ji echekwa ihe"
+  ],
+  "biological_control": [
+    "Jiri nje ndị bara uru dị ka ụdị dị iche iche nke mmiri ọgwụ ahụ́",
+    "Jiri mmiri ọgwụ ahụ́ bụ́ hormone mee ihe bụ́ ndị na - egbochi uto na - atọ ụtọ nke mmiri ọgwụ ahụ́"
+  ],
+  "chemical_control": [
+    "Mgbe a na-enye akwụkwọ ikike iji ígwè obibi akwụkwọ agwọ ọrịa",
+    "Jiri ihe ndị e ji echekwa ihe na ihe ndị e ji echekwa ihe mee ihe"
+  ],
+  "prevention": [
+    "Zere imerụ ahụ́ n'oge owuwe ihe ubi",
+    "Na - akọ ihe ọkụkụ n'ọ̀tụ̀tụ̀ okpomọkụ na n'ọ̀tụ̀tụ̀ kwesịrị ekwesị",
+    "Jiri arịa ndị dị ọcha na ebe ndị a na - edebe ihe ochie na - eme ihe",
+    "Nje virus ndị dị ize ndụ bụ́ ndị a na - emepụta site n'ihe ndị dị mma"
+  ],
+  "source": [
+    "Mkpụrụ okwu nkọwa na-enweghị isi n'ọrịa ndị na-enweghị isi",
+    "Ụlọ ọrụ na - echekwa ihe ndị e ji echekwa ọrịa na - enye aka n'ilekọta ya"
+  ]
+}

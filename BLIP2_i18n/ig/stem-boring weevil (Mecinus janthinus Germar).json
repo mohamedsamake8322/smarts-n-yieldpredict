@@ -1,0 +1,81 @@
+{
+  "pest_name": "N'ekwe ntị-Ị́ọ̀kụ̀ Anyị",
+  "scientific_name": "Mkpụrụ ndụ ihe nketa na - atọ ọchị nke na - eme ka a ghara ịdị na - ahụ ihe ndị na - akpali agụụ mmekọahụ",
+  "type": "Ụmụ ahụhụ",
+  "native_range": [
+    "Europe",
+    "Eshia"
+  ],
+  "introduced_range": [
+    "United States"
+  ],
+  "hosts": {
+    "primary": [
+      "Anya odo odo a na - ete n'Allax (Linaria)"
+    ],
+    "secondary": [
+      "Dalalian toflax (Linaria dalalica)"
+    ]
+  },
+  "description": {
+    "eggs": {
+      "color": "ọcha",
+      "shape": "Ńgwānụ́ banye"
+    },
+    "larvae": {
+      "shape": "C-sha sere",
+      "color": "Ńgwānụ́ banye",
+      "head_capsule": "Ńgwānụ́ banye",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "Ńgwānụ́ banye",
+      "features": [
+        "Ihe Ndị E Ji Kpọrọ Ihe",
+        "Ogologo oge gara aga"
+      ]
+    },
+    "adults": {
+      "color": "Mpụtara-ime (na-enweghị isi-enweghị isi)",
+      "length_mm": "2.43.4.4",
+      "shape": "E nwere ọtụtụ ihe ndị na - atọ ọchị na ihe ndị na - egbuke egbuke na - adị n'ime ya",
+      "metallic_sheen": "Nke a na - eme ka ahụ́ ghara iru anyị ala mgbe anyị dị obere",
+      "comparison": "Obere ígwè ọrụ ndị na - egbuke egbuke bụ́ ndị na - adịchaghị arọ na ndị na - adịchaghị arọ karịa M."
+    }
+  },
+  "life_cycle": {
+    "generation_per_year": 1,
+    "overwintering_stage": "Ndị toworo eto nọ n'afọ bu ụzọ nke Tlax",
+    "spring_emergence": "Oge opupu ihe ubi n'isi isi aka nri, oge e ji arụ ọrụ na-adịghị iche site n'ebe ndesịta ngosi-ihe ndị na-enweghị isi",
+    "adult_feeding": "Mkpụrụ akụ́kụ́ ndị ọhụrụ na akwụkwọ osisi, na - emepụta ụkpụrụ ndị na - emerụ ahụ́",
+    "egg_laying": {
+      "method": "Ụmụ nwanyị na - ata ahịhịa n'ala, na - eyi àkwá na - abụ abụ, na - eji ihe a kụrụ akụ ekpuchi ya",
+      "quantity_per_lifetime": "60 Ụlọ Ọrụ Na - ahụ Maka Ahụ́ Ike n'okpuru ọnọdụ mkpụrụ ndụ ihe nketa"
+    },
+    "larval_feeding": "3 n'ime ụgbọ epeepe, n'ala ala ya ka ọ na - adị n'akụkụ ọwa mmiri",
+    "pupation": "N'etiti-ala Igbo n'ime ọwa mmiri ndị dị n'ime ala",
+    "adult_emergence": "Ná ngwụsị oge okpomọkụ, ihe karịrị otu onye na - agba ọsọ n'ime ebe ndị a na - egwu mmanụ bụ́ ndị dị n'ime ụlọ ndị a na - ere ọgwụ bụ́ ndị dị n'ime ala"
+  },
+  "damage": {
+    "adult": [
+      "Ebe e si enweta ihe oriri ndị na - eto eto, bụ́ ndị e si na ha nweta, akwụkwọ osisi",
+      "Ihe ndị nwere ike imerụ mmadụ ahụ́",
+      "Ihe ọkụkụ ndị na - amị mkpụrụ, na - ekpuchi okooko osisi ma na - emepụta mkpụrụ",
+      "Mkpụrụ akụ́kụ́ ndị na - acha nchara nchara na ndị na - acha nchara nchara na - acha nchara nchara"
+    ],
+    "larval": [
+      "Ebe a na-amaghị, mmiri na-enweghị isi",
+      "Ihe ndị na - akpata ahụ́ ọkụ na ọnwụ nke ihe ọkụkụ",
+      "O yiri ka ọ̀ na - agbanye mkpọrọgwụ n'ihe ndị a kụrụ akụ, na - emetụta nnọgidesi ike"
+    ],
+    "long_term_impact": "Kwa afọ, mwakpo ndị a na - eme n'ụlọ ọrụ mmepụta ihe na - ebelata ọ̀tụ̀tụ̀ ikpo ọkụ nke ihe ọkụkụ"
+  },
+  "management_notes": [
+    "Ndị na - arụ ọrụ n'ụlọ ọrụ ndị na - emepụta ngwá ahịa bụ́ ndị na - alụso ọrịa ọgụ bụ́ ndị e ji alụso ọrịa ọgụ n'Ebe Ugwu America ọgụ",
+    "Iburu n'uche oge opupu ihe ubi pụrụ iduzi usoro nduzi nke ndị toworo eto",
+    "Ndị nkwado na-enye nkwado ruo ogologo oge belata ndakpọ nke ọnụ ọgụgụ ndị na-enweghị ebe ha dị"
+  ],
+  "references": [
+    "S.O.A., De Cerck-Flolo, R.A., R., C.B., T.B., I. 2022. 2022.Tflalalax Claoss: History and Ecala in North America. N'afọ America: N'IL of Wexs in North America.R.R."
+  ]
+}

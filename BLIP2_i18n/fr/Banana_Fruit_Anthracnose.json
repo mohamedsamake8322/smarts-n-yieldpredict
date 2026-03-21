@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
+  "disease": "Anthracnose des fruits de la banane",
   "scientific_name": "Colletotrichum musae",
-  "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "other_name": "Gloéosporium musarum",
+  "pathogen_type": "Champignons",
+  "description": "L'anthracnose de la banane est une maladie fongique majeure affectant les fruits de la banane avant et après la récolte. Il est principalement causé par le champignon Colletotrichum musae. La maladie produit des lésions sombres ensoleillées sur les fruits qui se développent pendant le mûrissement et peuvent causer de graves pertes post-récolte pendant le stockage et le transport.",
   "affected_parts": [
-    "Fruit",
-    "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "Fruits",
+    "Peler",
+    "Parties florissantes (couronne)",
+    "Feuilles et pousses dans les infections sévères"
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "Lésions sombres sur la surface des fruits de la banane",
+    "Les lésions s'élargissent et deviennent noires ou brun foncé pendant la maturation.",
+    "Les masses de spores oranges (acervuli) apparaissent sur les lésions matures",
+    "Pourriture de fruits et nécrose pelée",
+    "Brûlure des feuilles et dépérissement des pousses dans les cas graves",
+    "Goutte prématurée des feuilles et rendement réduit"
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "Les champignons infectent les fruits de banane immatures dans le champ",
+    "Les spores germent et forment une appressorie pour pénétrer les tissus végétaux.",
+    "L'infection reste latente (stade de repos) dans les fruits immatures",
+    "Les symptômes se manifestent lorsque les fruits mûrissent après la récolte.",
+    "Les spores se propagent par éclaboussure de pluie, le vent, les outils et le matériel végétal infecté"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "Températures chaudes entre 22 et 32°C",
+    "Humidité élevée supérieure à 90 %",
+    "Saisons pluvieuses ou moussons",
+    "Mauvaise circulation d'air dans les plantations"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "Spores fongiques dispersées par le vent et la pluie",
+    "Débris de plantes infectées",
+    "Manipulation pendant la récolte et le transport",
+    "Outils ou surfaces de stockage contaminés"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "Pourriture des fruits pendant la maturation",
+    "Pourriture de la Couronne dans les grappes de bananes récoltées",
+    "Réduction de la qualité et de la valeur marchande des fruits",
+    "Pertes importantes après récolte"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "Difenconazole 25% CE (CONCOR): 120–150 ml par acre",
+    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g par acre",
+    "Thiophanate Méthyl 70% WP (KTM): 250-600 g par acre",
+    "Mancozeb 75% WP (K ZEB): 500 g par acre",
+    "Tous dans un fongicide: 1,5–2 g par litre"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "Utilisation d'antagonistes biologiques tels que les espèces de Trichoderma",
+    "Extraits de plantes naturelles et agents de biocontrôle microbiens",
+    "Stratégies intégrées de gestion des maladies combinant les agents biologiques et les pratiques culturelles"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "Maintenir une bonne hygiène des plantations et éliminer les débris végétaux infectés",
+    "Assurer une bonne circulation de l'air dans les plantations de bananes",
+    "Éviter l'humidité excessive dans le stockage",
+    "Récolter soigneusement les fruits pour éviter les blessures",
+    "Utiliser du matériel de plantation exempt de maladies"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "Choisir des variétés de bananes résistantes lorsqu'elles sont disponibles",
+    "Appliquer des stratégies intégrées de gestion des maladies",
+    "Surveiller les fruits au cours des étapes pré-récolte et post-récolte",
+    "Maintenir des conditions de stockage et de transport propres"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "Recherche en pathologie végétale sur Colletotrichum musae",
+    "Publications de vulgarisation agricole sur les maladies de la banane",
+    "Documentation scientifique sur la gestion de l'anthracnose"
   ]
 }

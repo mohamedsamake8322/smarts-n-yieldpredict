@@ -1,0 +1,105 @@
+{
+  "disease_name": "Ala Ọma Jijiji Bụ́ Sigatoka",
+  "common_name": "Black Sigaka",
+  "other_names": [
+    "A na - eji akwụkwọ osisi Ojii eme ihe n'ụzọ sara mbara",
+    "Ụchà dọ́ọ̀kụ̀"
+  ],
+  "pathogen": {
+    "type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+    "scientific_name": "Mkpụrụ ndụ ihe nketa nke na - agbanwe agbanwe"
+  },
+  "host_plant": {
+    "common_name": "Gana",
+    "scientific_name": "Ọ na - adị m ka m̀ bụ onye a jụrụ ajụ."
+  },
+  "affected_parts": [
+    "/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Ihe ndị e ji esiji ákwà ma ọ bụ ndị nke e ji ata nchara, bụ́ ndị dị n'azụ akwụkwọ unere",
+      "Obere ígwè ọrụ ndị e jikọtara ha na akwụkwọ osisi ndị ahụ"
+    ],
+    "intermediate_stage": [
+      "Ụda ụda olu na-enweghị isi ma ọ bụ kwụrụ ọtọ n'ahịrị ndị isi ojii",
+      "A na - ahụ ihe ndị na - akpali agụụ mmekọahụ n'akụkụ abụọ nke akwụkwọ osisi ahụ"
+    ],
+    "advanced_stage": [
+      "Ndị na-ahụ maka ala na ebe ndị a na-amaghị ama",
+      "Ihe Ndị Na - agbawa Ahụ́ Ọkụ Na - agba Ahụ́ Ọkụ",
+      "Ebe ndị buru ibu a na - anọ enwe mmekọahụ rụrụ arụ bụ́ ndị na - akpata ọnwụ akwụkwọ osisi"
+    ]
+  },
+  "disease_cycle": {
+    "spores": [
+      "Condia",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ],
+    "spread_mechanism": [
+      "Ifufe",
+      "Mmiri Na - ezo n'Ime Mmiri",
+      "Ngwá Agha Ndị E Nwere Ugbu A"
+    ],
+    "favorable_conditions": [
+      "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+      "Mmiri Na - ezo n'Oge Ochie",
+      "Ihu igwe na - ekpo ọkụ nke ebe okpomọkụ"
+    ],
+    "infection_time_days": 27
+  },
+  "impact": {
+    "yield_loss_percent": "30-50%",
+    "effects": [
+      "Ọnwụ mberede",
+      "Nke a mere ka mkpụrụ osisi ndị ahụ ghara ibu ibu",
+      "Nke a mere ka mkpụrụ osisi ndị ahụ ghara ịna - amị mkpụrụ nke ọma",
+      "Itozu Okè na ịmị mkpụrụ na - ekwekọghị ekwekọ"
+    ]
+  },
+  "distribution": [
+    "Ya mere, n'Ebe Ndịda Ọwụwa Anyanwụ Eshia",
+    "India",
+    "China",
+    "Agwaetiti Pacific",
+    "Ebe Ọwụwa Anyanwụ Africa",
+    "West Africa",
+    "Ebe Etiti America",
+    "Ebe Ndịda America",
+    "Caribbean",
+    "Papua New Guinea",
+    "Hawaii (SA)"
+  ],
+  "similar_diseases": [
+    "E nwere otu nwoke aha ya bụ Sigatoka.",
+    "Ebe e nwere akwụkwọ osisi e ji ede akwụkwọ bụ́ Ecrateae (Pdratesras elrae)"
+  ],
+  "management": {
+    "cultural_control": [
+      "Akwụkwọ osisi ndị nwere nje ndị na - akpata ọrịa dị iche iche",
+      "Usoro mgbasa ozi nke ubi na - eme ka e nwee ebe dị iche iche a na - anọ ehi ụra",
+      "Ụmụ irighiri ihe ndị na - egbuke egbuke bụ́ ndị gbara ihe ọkụkụ dị iche iche gburugburu",
+      "Ọ bụ ịkọ ụdị ụyọkọ kpakpando ndị na - eguzogide anyanwụ"
+    ],
+    "chemical_control": [
+      "Ihe ndị a bụ ihe ndị na - atọ ọchị na ihe ndị na - akpali agụụ mmekọahụ",
+      "Ihe ndị na - eme ka ahụ́ na - ama jijiji na - eme ka ahụ́ ghara iru mmadụ ala",
+      "Methlililalalilalale ndị e ji ụgbọala mee bụ́ ndị nọ n'ụlọ mkpọrọ a na - eji ụgbọala eme ihe bụ́ ndị na - arụ ọrụ na ha (CCC)"
+    ],
+    "biological_or_genetic_control": [
+      "Ndị na - eguzogide òtù nzuzo dị iche iche",
+      "Ụdị ụyọkọ kpakpando dị iche iche na - eguzogide mkpụrụ ndụ ihe nketa ha"
+    ]
+  },
+  "spread_risk_factors": [
+    "Ọ̀tụ̀tụ̀ ihe ọkụkụ ndị butere ọrịa ahụ ji alụso ọrịa ọgụ",
+    "Akwụkwọ unere ndị e ji eme nri bụ́ ndị e ji eme ihe maka ihe oriri",
+    "Ngwá ọrụ ndị e ji awa osisi ma ọ bụ ndị e ji awa osisi"
+  ],
+  "references": [
+    "Ihe osise ndị e nwetara site n'aka ndị ọkà mmụta mmekọrịta ọha na eze bụ́ Sigato",
+    "A na - akọ banyere ọrịa a na - ebute n'aka ndị uwe ojii, bụ́ nke a na - akọ banyere ya",
+    "Cook nghọta n'ihe banyere ichebe mbara igwe, n'afọ 2013",
+    "Kanyason, 2014 Australia e si n'ụlọ mkpọrọ dị n'okpuru ala nweta"
+  ]
+}

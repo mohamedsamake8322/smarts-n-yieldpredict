@@ -1,0 +1,90 @@
+{
+  "disease": "Pyret Dmov-off",
+  "scientific_name": "Genus Pyumumum",
+  "pathogen_type": "Kèánáhụ́chāghị́ányá",
+  "description": "Ụdị dị iche iche nke mmiri bụ ụmụ irighiri ihe ndị na - akpata ọrịa na - ebibi ikuku na mkpọrọgwụ n'ọtụtụ ihe ọkụkụ. Ọrịa ahụ na - awakpo mkpụrụ akụ́kụ́, na - eme ka e nwee mmiri dị nro n'akụkụ ala nke na - akpata ịda ada na ọnwụ.",
+  "symptoms": [
+    "Osisi ndị na - acha odo odo bụ́ ndị dị n'ime ala",
+    "N'ihi ya, mmiri na - acha nchara nchara dị n'ala ala ya",
+    "Mkpụrụ na - ada n'ala",
+    "Uto dị ukwuu nke ahịhịa ndị na - eto eto na - eto eto",
+    "Ime ka ihe ọkụkụ ndị kataworo ahụ́ kwụsị ịrụ ọrụ n'ihi mmebi nke mkpọrọgwụ",
+    "A na - agbawa osisi ndị ọhụrụ n'ime ha"
+  ],
+  "visual_symptoms": [
+    "Mkpụrụ akụ́kụ́ dara n'ala",
+    "Mmiri na-enweghị isi",
+    "Mkpụrụ akụ́kụ́ Ndị Nwụrụ Anwụ"
+  ],
+  "hosts": [
+    "_Hichaa",
+    "Mkpụrụ Ndị A Pụrụ Ịtụkwasị Obi",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "AGBOR 1 (Bekee)",
+    "Ndị Na - atụchasị Mmadụ",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ndị Na - asụ Asụsụ Dị Iche Iche",
+    "Ọtụtụ ihe ọkụkụ ndị na - adịghị amị mkpụrụ"
+  ],
+  "host_specific_example": {
+    "crop": "anwụrụ ụtaba",
+    "scientific_name": "Nconanana _cccum (ihe dị ka ụdịley)"
+  },
+  "plant_parts_affected": [
+    "Mkpụrụ",
+    "Mepee ya na _usoroiheomume ndị ahụ",
+    "_Ebe ndesịta ngosi ebe na faịlụ",
+    "Olalala"
+  ],
+  "image_type": "Ubi",
+  "favorable_conditions": [
+    "Ala kpọrọ nkụ ma ọ bụ ala na - adịghị mma",
+    "Mmiri dị n'ime ala",
+    "Ndị Na - eto Eto Na - ajụ, Sị",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma",
+    "Ịgba Ala Ọzọ n'ụzọ gabigara ókè"
+  ],
+  "spread": [
+    "Ala e tere ágbá",
+    "Mmiri nke na - asọ asọ",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Ngwá ọrụ ndị e ji awa ahụ́ ma ọ bụ ndị a tụrụ atụ n'ebe a na - elekọta ndị nọọsụ"
+  ],
+  "disease_cycle": [
+    "Anwụrụ ọkụ na - ebi n'ala dị ka ihe na - agwọ ọrịa ma ọ bụ ihe na - eme ka ọbara na - agba m n'ahụ́",
+    "A na - eji osisi ndị dị n'ala kpọrọ ihe",
+    "Mkpụrụ akụ́kụ́kụ́ na - amị mkpụrụ ma ọ bụ mkpụrụ ndị na - eto eto",
+    "Ihe ndị dị n'ime mmiri bụ́ ndị dị n'ime ala na - eme ka e nwee oghere ndị ọzọ a pụrụ isi na ha nweta mmiri"
+  ],
+  "impact": [
+    "Ọnwụ nke Mkpụrụ Osisi Ndị Dị n'Ebe A Na - elekọta Ndị Nọọsụ",
+    "Ebe a na - akụ ihe ọkụkụ dara ogbenye",
+    "Ọnụ ọgụgụ na - arị elu nke ndị ọrụ ugbo",
+    "Ncha dị nta a na - enwe n'ihi ihe ọkụkụ ndị na - adịghị ike na - apụta"
+  ],
+  "cultural_control": [
+    "Jiri ebe ndesịta ngosi ebe maka ebe na anaghị arụ ọrụ",
+    "Zere Ịdị Na - aṅụ Mmiri",
+    "Ime ka ikuku na - abatakwu n'ebe ndị a na - elekọta ndị ọrịa",
+    "Jiri ihe ndị dị n'ime ala ma ọ bụ mkpụrụ akụ́kụ́ mee ihe",
+    "Wepụ otú ị ga - esi na - akụ ya"
+  ],
+  "biological_control": [
+    "Jiri ihe ndị bara uru dị ka ụdị dị iche iche nke mmiri ara ehi mee ihe",
+    "Jiri nje bacteria ndị bara uru mee ihe dị ka ndị na - egbu nje bacteria"
+  ],
+  "chemical_control": [
+    "Mkpụrụ akụ́kụ́ ndị a na - akụ n'ebe a na - akụ ha n'ụzọ dị ụtọ, dị ka exlililili ma ọ bụ mefnox",
+    "Ihe ndị e ji atụrụ ndụ na ihe ndị e ji atụrụ ndụ n'ebe a na - elekọta ndị nọọsụ"
+  ],
+  "prevention": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Iji ígwè ọrụ emepụta ígwè ọrụ na ngwá ọrụ",
+    "Zere ịgba ala mmiri n'ụzọ gabigara ókè",
+    "Na - atụgharị uche n'ihe ọkụkụ mgbe o kwere mee"
+  ],
+  "source": [
+    "Ihe osise ndị e zoro aka na ha n'akwụkwọ akụkọ bụ́ ndị na-eme ka ihe na-enweghị isi-enweghị isi",
+    "Onye ọrụ ugbo nke na - ahụ maka ọrịa na - enye nduzi"
+  ]
+}

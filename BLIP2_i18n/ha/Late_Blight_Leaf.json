@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "disease": "Ka Shiga Duk da Haka",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "Za a iya halaka gonaki nan da nan a yanayi dabam - dabam.",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "Abubuwan da Ke Kawo Farin Ciki a Iyali",
+    "Mai twãle fãtar goshi.",
+    "KCharselect unicode block name"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "QShortcut",
+    "QFontDatabase",
+    "Wasu shuke - shuke da ba Su da kyau"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "QShortcut",
+    "Media controller element"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "KCharselect unicode block name",
+    "Ana Mai da Tawali'u ko Kuma Mai Ban Al'ajabi"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "Yin Tsayayya da Cin Hanci",
+    "Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).",
+    "Media controller element",
+    "Yanã ɓõyẽwa daga mutãne dõmin mũnin abin da aka yimasa bushãra da shi."
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "Indian National weekday 6 - LongDayName",
+    "' Yan Adam suna ɗaukan kayan lambu a lokacin da muke aiki"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "Ka Guji Abubuwan Raba Hankali",
+    "Yi Amfani da cuta da ba ta dace ba ko kuma mai ba da ma'ana",
+    "Sa'ad da kaka ya yi girma, ka yi shuka mai yawa bayan ka gama girbi"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "@ item Text character set",
+    "MU YI Shirin Ja - gora"
   ]
 }

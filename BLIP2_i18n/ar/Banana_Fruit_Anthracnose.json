@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "disease": "المنبتة",
+  "scientific_name": "ملفetetetetetturerisum musae",
+  "other_name": "Gloeoessporium",
+  "pathogen_type": "المنقوس",
+  "description": "إن مرض \" بانانا \" هو مرض فطري رئيسي يؤثر على فاكهة الموز قبل الحصاد وبعده، وينتج أساساً عن فطريات \" كوليتوتريكوم موساي \" ، وينتج عن هذا المرض آفاتاً غامرة على الفواكه التي تزداد اتساعاً أثناء النضوج ويمكن أن تتسبب في خسائر خطيرة بعد الحصاد أثناء التخزين والنقل.",
   "affected_parts": [
-    "Fruit",
-    "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "ما ما قبله",
+    "قِيل",
+    "قطع الغيار المزهرة )المنتجة(",
+    "الأوراق والطلقات في حالات العدوى الشديدة"
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "آثار ضارة بسطح فاكهة الموز",
+    "تتسع و تصبح سوداء أو داكة البنية أثناء النضج",
+    "تظهر كتل برتقالية (Assurverli) على البُقع الناضجة",
+    "واو - التعفن والفاكهة والقُرْر",
+    "الرشح و تبادل إطلاق النار في حالات الطوارئ",
+    "قطرة ورقة ما قبل سن ما قبل الأوان وقلة الغلة"
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "المغذيات الدقيقة التي تصيب فواكه الموز غير المنتجة في الميدان",
+    "البُطر التي تُزرع وتُشكّل ضغطاً لاختراق أنسجة النبتة",
+    "لا يزال المرض موجوداً (المرحلة الثانية) في الفواكه الناعمة",
+    "تظهر الأعراض عندما تنضج الفواكه بعد الحصاد",
+    "الأوج التي تنتشر من خلال المطر، والرياح، والأدوات، والمواد النباتية المسببة للإصابات"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "درجات حرارة حرارة تتراوح بين 22 و32 درجة مئوية",
+    "الرطوبة العالية أعلى من 90٪",
+    "الأمطار أو الفصول الموسمية الموسمية",
+    "سوء السير الجوي في المزارع"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "« وريا ورياح ورياح و » طير « طير » طير صبح صبح طير صبح صبح صبح  طير صبح  طير",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "المناولة أثناء الحصاد والنقل",
+    "الأدوات الملوثة أو أسطح التخزين"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "روتات النكهة أثناء النض",
+    "التعفن التاجي في مجموعات",
+    "انخفاض نوعية الفواكه والقيمة السوقية",
+    "الخسائر الكبيرة بعد انتهاء الحصاد"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "Defenconzazole 25٪ EC (CONCOR): 120-150 150 ملل لكل هكتار",
+    "كاربداندعزيزيم 12٪ + مانكوزيب 63٪ WP (السمارتا): 300 - 40000 جرام لكل أكر",
+    "TIofanate TEL WP (KTM): 250 - 600 1 ميكروغرام لكل أكر",
+    "Mancozezeb 75٪ WPWP (KZEB): 500 غم لكل هكتار",
+    "الكل في حالة واحدة: 1,5- 2 غم لكل لتر"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "استخدام الخصومات البيولوجية مثل أنواع الترايشودرما",
+    "مستخلصات النباتات الطبيعية وعوامل الضبط الأحيائي المجهري",
+    "استراتيجيات الإدارة المتكاملة للأمراض التي تجمع بين العوامل البيولوجية والممارسات الثقافية"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "المحافظة على سلامة النظافة الصحية للمزرعات وإزالة النفايات المُصابة",
+    "ضمان حسن سيرة الهواء في مزارع الموز",
+    "تجنب الإفراط في الرطوبة في التخزين",
+    "تُجَاهَلُ كَثُوَاكُمَا مُجَهَّلَةً لتَجَنُّبِ ٱلْمَحَاةِ",
+    "مواد الزرع الخالية من الأمراض"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "الانتقاص من نوع الجنس القابل للانتقاص حيثما كان متاحاً",
+    "تطبيق استراتيجيات إدارة الأمراض المتكاملة",
+    "(أ) الفواكه الراصدة أثناء مرحلتي ما قبل الحصاد وما بعده",
+    "ظروف التخزين والنقل النظيفة"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "بحوث في مجال علم النبات بشأن Colleetotrichum musae",
+    "منشورات الإرشاد الزراعي عن أمراض الموز",
+    "المؤلفات العلمية عن إدارة المفارقات"
   ]
 }

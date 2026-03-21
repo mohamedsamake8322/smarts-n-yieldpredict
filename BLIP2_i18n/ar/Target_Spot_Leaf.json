@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
-  "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "pest_name": "هدف الهدف",
+  "causal_agent": "كورينسبورا كاسيكولا",
+  "type": "الفطر",
+  "distribution": "المنظمة الدولية للمنقول (LALLLLLLS",
+  "host_plants": [
+    "لا سيما الخيار"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "تتوسع البقع وتصبح دائرية مع مراكز بنية فاتحة وحدود بنية داكنة. في المراحل المتقدمة، تتسرب المراكز الرمادية مما يسبب ثقباً بالرصاص أو المظهر الممزق. وفي ظل ظروف الاحتباس الحراري، قد يكون للبقع مراكز خفيفة، وحلقات من أنسجة الزيتون الخضراء، والحدود الصفراء. ويمكن أن تؤدي العدوى الحادة إلى الانحلال.",
+    "stem_petiole": "بقع ممتدة ، تساعد على التفريق من مفارقة مُهَرَكَةٍ أُخْرَى ، أُخْرَى أُخْرَى ، أَوْ بَقْطَةٍ شَرِيطِيَّةٍ أَوْ أَوْ أُزْوِجَةِيَّةٍ .",
+    "fruit": "فاكهة قاتمة مهتزة إذا حدثت العدوى في وقت مبكر من نهاية الزهرة.",
+    "roots_flowers": "العدوى ممكنة لكن أقل شيوعاً"
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "25 - 35 درجة مئوية (77 - 95 درجة مئوية) تعزز التنمية؛ ويمكن أن تحدث الإصابة عند درجة حرارة 21 - 26 درجة مئوية (70 - 80 درجة مئوية)",
+    "humidity": "تفضيلات عالية جداً",
+    "light": "الأيام الطويلة الترويج لتطور الأمراض",
+    "other_factors": "تقلب درجات الحرارة اليومية ووجود مخلفات أو أعشاب نباتية مُصابة"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "على مخلفات النباتات المصابة لمدة سنتين على الأقل، أو على مُضيفات الأعشاب",
+    "dispersal": "بُغَثِشات جوية",
+    "infection": "الاوراق ، السَّقَر ، الجُزْر ، الپتِيول ، الجذور ، الازهار ، والفواكه في ظروف مواتية"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "استخدام الأصناف المقاومة عند توافرها",
+      "توفير الصرف الصحي الجيد في الحقول والصوبات",
+      "(أ) أن تقوم بإزالة وتدمير",
+      "مقبِّضات المراقبة"
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات الرش وفقاً لتعليمات الوسم"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": ":: مجموعات من الأصناف المقاومة، وبرامج الصرف الصحي، وبرامج مبيدات الفطر للحد من حالات الإصابة بالأمراض"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "أدلة الأمراض المُحْضِرة ومنشورات الإرشاد",
+    "تقارير التوزيع العالمي لكورينسبورا كاسيكولا"
   ]
 }

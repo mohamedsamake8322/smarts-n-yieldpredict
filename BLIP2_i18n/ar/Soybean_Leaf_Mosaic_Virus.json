@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "Soybbane ليف فيروس فساء",
+  "scientific_name": "فيروس Soyban Soy",
+  "common_abbreviations": [
+    "SSMS"
+  ],
+  "description": "إن فيروس فسيفساسي الصويا (SMV) هو فيروس نباتي واسع الانتشار يؤثر في المقام الأول على فول الصويا، مما يتسبب في فسيفساء الأوراق، والتقزم، وانخفاض عدد الأزقة، وتحلل البذور. ويمكن أن يحدث فقدان البذور وانخفاض جودتها.",
+  "distribution": "في جميع مناطق زراعة فول الصويا في جميع أنحاء العالم، ولا سيما في المناطق المعتدلة وشبه المدارية.",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "غالباً ما يكون الغليسين في الحد الأقصى (تزرع فول الصويا) وG. soja (فول الصويا ويلد)",
+    "notable_hosts": [
+      "من أصل",
+      "انبص abanan"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "مُقَرَّع بالضوء ورُقَقَقَاتٍ خضراء داكة",
+      "يَنْكِسُ على طول العروق",
+      "نزوليًا إلى أسفل تَحَجُّسُ أُسسُسُ",
+      "الطازج والمقلل من القوة"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "أقل من الرقم في كل منشأة",
+      "البذاران المتخلفان والمهتزان"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "انخفاض نوعية البذور وحجمها وزرعها",
+    "انخفاض العول والعائد",
+    "قد تكون الأعراض معتدلة أو غير موجودة في درجات الحرارة المرتفعة",
+    "التأثير الجسيم عندما يكون متعايشاً مع فيروسات أخرى (مثل BPMV)"
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "فيروس نقص المناعة البشرية/متلازمة نقص المناعة المكتسب (الإيدز)",
+    "particle": "جزيئات إطفائية: حوالي 000 7500 1 طول، 120 كيلوغرام",
+    "genome": "RNA (~9.6 كيلوب) أحادي المُنتَبِد والإيجابي المُحسّز مع بروتين VPg عند 5,5 في النهاية، مع ترميز بولي بروتين واحد جُهِّز إلى حوالي 10 بروتينات وظيفية",
+    "transmission": [
+      "الانتقال غير المستمر",
+      "محول",
+      ""
+    ],
+    "favorable_conditions": "درجة الحرارة المعتدلة (16 - 28 درجة مئوية)",
+    "seed_transmission_rate": "أقل من 5 في المائة، ولكن متغير تبعاً للتربّص"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "استخدام البذور المُمْرِثة",
+      "النباتات في أوائل الموسم للحد من التأثير",
+      ":: رصد وإدارة المجموعات السكانية المرفية"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "(ج) استخدام مستنبتات مع جينات مقاومة (مجينات R)"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "محدودية فعالية مبيدات الحشرات في الحد من انتشار الفيروسات"
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "دراسة تفاعلات SMV SMV مع جينات R كنموذج لمقاومة الجينات",
+    "يؤدي إخماد NA RNA دوراً في نقل البذور وتطهير المعاطف",
+    "يُتأثر نقل المغذيات بالبروتينات الفيروسية HC-Pro والبروتينات المعاطفية (CP)"
   ]
 }

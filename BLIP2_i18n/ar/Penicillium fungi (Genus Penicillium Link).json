@@ -1,70 +1,70 @@
 {
- "disease": "Penicillium Mold",
- "scientific_name": "Genus Penicillium",
- "pathogen_type": "Fungus",
- "description": "Penicillium is a genus of fungi commonly found in soil, air, and decaying organic matter. Many species cause post-harvest diseases in fruits and vegetables, producing blue or green molds and leading to significant storage losses.",
- "symptoms": [
-  "Soft watery rot on fruits or plant tissues",
-  "Blue-green or green powdery mold on infected areas",
-  "Sunken lesions on fruit surfaces",
-  "Rapid decay during storage",
-  "Musty odor from infected produce"
- ],
- "visual_symptoms": [
-  "blue or green mold growth on fruit surface",
-  "powdery fungal spores covering lesions",
-  "soft rotting tissue around infection site"
- ],
- "hosts": [
-  "Apple",
-  "Citrus fruits",
-  "Grapes",
-  "Pear",
-  "Peach",
-  "Tomato",
-  "Strawberry",
-  "Stored grains and seeds"
- ],
- "favorable_conditions": [
-  "High humidity",
-  "Cool to moderate temperatures",
-  "Poor storage conditions",
-  "Wounded or damaged fruits"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers and tools"
- ],
- "impact": [
-  "Post-harvest fruit decay",
-  "Loss of product quality during storage",
-  "Reduced market value of produce",
-  "Potential production of mycotoxins in some species"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Store produce at recommended temperature and humidity",
-  "Remove infected fruits immediately",
-  "Maintain clean storage facilities",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use of beneficial microbes such as Bacillus species",
-  "Application of antagonistic yeasts to suppress mold growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicides such as thiabendazole or imazalil",
-  "Use of approved storage fungicides depending on crop"
- ],
- "prevention": [
-  "Sanitize storage rooms and containers",
-  "Avoid mechanical injury during harvest",
-  "Proper ventilation in storage facilities",
-  "Maintain cold chain for perishable crops"
- ],
- "source": [
-  "Plant pathology literature on post-harvest diseases",
-  "Mycology references on Penicillium species"
- ]
+  "disease": "المنجلي (ط)",
+  "scientific_name": "المُحْكَسِلِلِيْ",
+  "pathogen_type": "المنقوس",
+  "description": "البينسيليوم هو نوع من الفطريات التي توجد عادة في التربة والهواء والمواد العضوية المتحللة. والعديد من الأنواع تسبب أمراض ما بعد الحصاد في الفواكه والخضروات، وتنتج عفن أزرق أو أخضر، وتؤدي إلى خسائر كبيرة في التخزين.",
+  "symptoms": [
+    "تعفن الماء العذب على الفواكه أو أنسجة النبات",
+    "النموذج الأزرق - الأخضر - الأخضر أو الخضر - المسحوقي في المناطق المُصابة",
+    "الأُقُصَر على أسطح الأُسرة",
+    "التعفن السريع أثناء التخزين أثناء التخزين",
+    "من المنتجات المُحْتة"
+  ],
+  "visual_symptoms": [
+    "النمو باللون الأزرق أو الأخضر على سطح الفواكه",
+    "بُغَرَجَاتٌ مَسْكَبَاتٍ",
+    "أنسجة محفوظة في موقع"
+  ],
+  "hosts": [
+    "",
+    "المكس",
+    "",
+    "المتخلف",
+    "رقي",
+    "طاطاطاطاط",
+    "الفراء",
+    "الحبوب والبذور"
+  ],
+  "favorable_conditions": [
+    "الرطوبة العالية",
+    "درجة الحرارة المعتدلة",
+    "ظروف سوء ظروف التخزين",
+    "أو الثمار المقطوعة أو المتلفة"
+  ],
+  "spread": [
+    "بُغَرَجَات الجو",
+    "الاتصال بين المصاب والمنتج الصحي",
+    "حاويات وأدوات التخزين الملوثة"
+  ],
+  "impact": [
+    "ثالثاً - التعفن اللاحق للفواكه",
+    "فقدان جودة المنتج أثناء التخزين",
+    "انخفاض القيمة السوقية للمنتج",
+    "الإنتاج المحتمل لميسكوتوكسينات في بعض الأنواع"
+  ],
+  "management": [
+    "تَدْوِنَا مِنْاةً مِنْ تَجَنُّبِ ٱلْجُرْحِ",
+    "يُنتج في درجة حرارة ورطوبة موصى بهما",
+    "(أ) أُزيلت الثمار المُحْكِسَة",
+    ":: مرافق تخزين نظيفة",
+    "استخدام الأصناف المقاومة عند توافرها"
+  ],
+  "biological_control": [
+    "استخدام الميكروبات المفيدة مثل أنواع الباسيلوس",
+    "تطبيق الخمير المناوئة لكبح نمو العفن"
+  ],
+  "chemical_control": [
+    "مبيدات فطريات ما بعد الحصاد مثل الثيابيندازول أو أيمازاليل",
+    "استخدام المبيدات الفطرية المعتمدة للتخزين بحسب المحاصيل"
+  ],
+  "prevention": [
+    ":: تصحية غرف وحجرات التخزين والحاويات",
+    "الإصابة الميكانيكية أثناء الحصاد",
+    "التهين السليم في مرافق التخزين",
+    "المحافظة على سلسلة التبريد للمحاصيل القابلة للتلف"
+  ],
+  "source": [
+    "دراسات أمراض النبات بشأن أمراض ما بعد الحصاد",
+    "المراجع المتعلقة بأنواع البنسليوم"
+  ]
 }

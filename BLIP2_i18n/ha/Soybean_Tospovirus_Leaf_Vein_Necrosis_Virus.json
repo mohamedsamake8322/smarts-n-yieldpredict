@@ -1,57 +1,57 @@
 {
-  "pest_name": "Soybean Tospovirus",
-  "scientific_name": "Soybean vein necrosis virus (SVNV)",
-  "common_name": "Leaf Vein Necrosis Virus",
-  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
-  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "common_name": "KCharselect unicode block name",
+  "description": "Saboda haka, yadda ake amfani da na'ura ne don a yi amfani da na'urar da ake samu don a yi amfani da na'urar da ke ɗauke da ƙarfi da kuma amfani da iri.",
+  "distribution": "Wani rahoto na musamman da aka ba da a Amirka, musamman a yankunan da ke kusa da teku sosai.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+    "primary_host": "KCharselect unicode block name",
+    "other_hosts": "Wasu abubuwan da ba su da amfani za su iya zama abin da za a iya yi; ka ci gaba da bincike."
   },
   "symptoms": {
     "leaf": [
-      "Necrotic streaks along the veins",
-      "Interveinal chlorosis or yellowing",
-      "Leaf deformation or curling",
-      "Small necrotic spots or flecks on older leaves"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Yadda Za a Iya Yin Amfani da Shi ko Kuma Yadda Ya Kamata",
+      "QXml"
     ],
-    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "timing": "A yawancin lokaci, ana bayyana a ƙasa a ƙasa amma a dukan sararin samaniya zai iya shafan wasu abubuwa",
     "plant": [
-      "Stunting",
-      "Reduced seed quality in severe infections"
+      "DakataCoptic weekday 3 - LongDayName",
+      "Yadda aka shuka iri a yanayi mai tsanani"
     ]
   },
   "conditions_favoring_disease": {
-    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
-    "environment": "Mild temperatures and presence of vectors favor spread",
-    "season": "Infections can occur throughout the growing season"
+    "vector": "@ item Spelling dictionary",
+    "environment": "Nuna tawali'u da kuma bayyanuwar ' yan'uwa da aka yaɗa",
+    "season": "Za a iya yin girma a lokacin da ake girma"
   },
   "biology": {
-    "pathogen_type": "Virus",
-    "virus_family": "Tospoviridae",
-    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
-    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+    "pathogen_type": "Ethiopian weekday 5 - LongDayName",
+    "virus_family": "KCharselect unicode block name",
+    "transmission": "Za a iya ba da umurni da kuma yadda za a yi amfani da ƙwayoyin halitta a hanyar da ba ta dace ba da kuma yadda za a yi amfani da ita a hanyar da ba ta dace ba.",
+    "infection_process": "A wasu lokatai, ana yin amfani da na'urar cin abinci a manyan motoci, kuma hakan yana sa mutane su ji daɗin cin abinci sosai."
   },
   "damage": [
-    "Vein necrosis and leaf discoloration",
-    "Reduced photosynthesis and plant vigor",
-    "Potential yield loss and reduced seed quality in severe cases"
+    "KCharselect unicode block name",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Idan mutum ya yi rashin aiki kuma ya rage iri a yanayi mai tsanani"
   ],
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Remove volunteer soybean and other host plants to reduce inoculum",
-      "Avoid planting near areas with high thrips populations"
+      "Yi Amfani da hanyar da ba ta dace ba",
+      "Waɗanda suka ba da kansu sosai da kuma wasu shuke - shuke suna aiki tuƙuru don su rage yawan kuɗin da suke da shi",
+      "Ka guje wa yin noma kusa da manyan motoci"
     ],
     "chemical_control": [
-      "Insecticides targeting thrips may reduce virus spread"
+      "Za a iya rage yawan gasan da ake yi a kan hanya"
     ],
     "genetic_control": [
-      "No fully resistant soybean cultivars currently available; research ongoing"
+      "Ba za mu iya guje wa mutanen da ba sa bauta wa gumaka a yanzu; yin bincike a kai a kai"
     ]
   },
   "notes": [
-    "SVNV is a relatively newly recognized tospovirus in soybean.",
-    "Early detection and vector management are key to reducing disease impact."
+    "MGBOKO UMUORIA 8 (Igbo) Wani sabon abu ne da aka gano cewa bai daɗe ba.",
+    "Yin amfani da kayan ado na farko da na fasaha suna da muhimmanci wajen rage cuta."
   ]
 }

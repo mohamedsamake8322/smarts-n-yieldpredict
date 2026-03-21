@@ -1,0 +1,76 @@
+{
+  "pest": "Aphids",
+  "scientific_name": "Aphididae",
+  "description": "Pequeños insectos chupa-savias que afectan a muchos cultivos y plantas ornamentales. La rápida reproducción mediante generaciones telescópicas permite que las poblaciones se multipliquen rápidamente. Algunas especies alternan entre las plantas hospedadoras; otras son generalistas. Producen melocotón, lo que conduce al crecimiento de mohos de soja. Los aphids actúan como vectores de virus vegetales.",
+  "life_cycle": [
+    "La reproducción asexual domina; las hembras dan a luz en vivo a las ninfas femeninas",
+    "Las hembras aladas se dispersan a nuevas plantas más adelante en la temporada",
+    "En las regiones templadas, la reproducción sexual se produce en otoño, invernando como huevos",
+    "La simbiosis con Buchnera aphidicola proporciona aminoácidos esenciales"
+  ],
+  "hosts": [
+    "Hortalizas, frutas, cereales, legumbres, plantas ornamentales",
+    "Muchos cultivos y plantas de jardín"
+  ],
+  "symptoms_and_damage": [
+    "Crecimiento aturdido y rizado de hojas",
+    "Amarillado o moteado de hojas",
+    "Depósitos de honeydew en hojas y tallos",
+    "Crecimiento de moho suave que reduce la fotosíntesis",
+    "Transmisión de virus vegetales"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Alta humedad",
+    "Clima lluvioso",
+    "Dosel de plantas densas y plantas estresadas"
+  ],
+  "spread": [
+    "Contacto directo con plantas infestadas",
+    "hembras aladas dispersas por el viento",
+    "Hormigas que tienden áfidos",
+    "Herramientas, trabajadores y agua de riego"
+  ],
+  "natural_enemies": [
+    "Escarabajos (por ejemplo, Coccinella septempunctata, Adalia bipunctata)",
+    "Larvas de anhídrido antártico",
+    "Avispas parasitarias",
+    "Aphid midge larvas",
+    "Larvas de lazo verdes",
+    "Arañas",
+    "Hongos entomopatógenos (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
+  ],
+  "biological_control": [
+    "Liberación de insectos depredadores y parasitoides",
+    "Animar a los enemigos naturales en jardines o invernaderos",
+    "Uso de bioplaguicidas fúngicos (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "Los insecticidas suelen ser limitados debido a la resistencia (carbamatos, organofosfatos, piretroides)",
+    "Los insecticidas sistémicos pueden no penetrar en las flores",
+    "Para infestaciones pequeñas: jabón insecticida, chorros de agua fuertes (solo acción de contacto)"
+  ],
+  "prevention": [
+    "Monitoriza las poblaciones usando trampas de pan amarillo o Moericke",
+    "Evitar la fertilización excesiva de nitrógeno para reducir la atracción del áfido",
+    "Retire rápidamente las partes infestadas de la planta",
+    "Alentar las hormigas mutualistas sólo en ambientes controlados",
+    "Rotación de cultivos y mantenimiento de la sanidad vegetal"
+  ],
+  "ant_mutualism": [
+    "Algunas hormigas cultivan pulgones para la miel, los protegen de los depredadores",
+    "Las hormigas pueden llevar huevos de áfido durante el invierno y devolverlos a las plantas en primavera",
+    "La presencia de hormigas aumenta la producción de miel y afecta el comportamiento del áfido"
+  ],
+  "adaptations": [
+    "Revestimiento de cera esponjosa o de lana para protección",
+    "Morphs soldados en especies de formación de bilis para la defensa",
+    "Defensas químicas a través de cornículas (allomonas, cera pegajosa, feromonas)",
+    "Capacidad de abandonar las plantas para escapar de los depredadores"
+  ],
+  "sources": [
+    "Wikipedia – Aphid",
+    "Literatura sobre manejo de plagas vegetales",
+    "Referencias a la gestión integrada de plagas (IPM)"
+  ]
+}

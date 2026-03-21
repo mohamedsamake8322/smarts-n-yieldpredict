@@ -1,0 +1,81 @@
+{
+  "pest_name": "Weevil de aburrimiento de tallo",
+  "scientific_name": "Mecinus janthinus Germar",
+  "type": "insecto",
+  "native_range": [
+    "Europa",
+    "Asia"
+  ],
+  "introduced_range": [
+    "Estados Unidos"
+  ],
+  "hosts": {
+    "primary": [
+      "sapo amarillo (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "Toadflax dálmata (Linaria dalmatica)"
+    ]
+  },
+  "description": {
+    "eggs": {
+      "color": "blanco",
+      "shape": "oval"
+    },
+    "larvae": {
+      "shape": "En forma de C",
+      "color": "Cremoso-blanco",
+      "head_capsule": "marrón",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "Cremoso-blanco",
+      "features": [
+        "apéndices conspicuos",
+        "hocico largo"
+      ]
+    },
+    "adults": {
+      "color": "Negro azulado (raramente negro verdoso)",
+      "length_mm": "2.4–3.4",
+      "shape": "Alargado con hocicos largos y antenas codadas",
+      "metallic_sheen": "sutil cuando recién emergió, embotado con la edad",
+      "comparison": "hocicos más pequeños y menos bruscamente curvados que M. janthiniformis"
+    }
+  },
+  "life_cycle": {
+    "generation_per_year": 1,
+    "overwintering_stage": "adultos en los tallos de sapo del año anterior",
+    "spring_emergence": "principios de primavera, el tiempo varía según los factores específicos del sitio",
+    "adult_feeding": "nuevas puntas de tiro y hojas, produce patrón de lesión de agujero de disparo",
+    "egg_laying": {
+      "method": "hembras mastican agujeros en los tallos, ponen huevos individualmente, cubren con tejido vegetal masticado",
+      "quantity_per_lifetime": "60–160 en condiciones de laboratorio"
+    },
+    "larval_feeding": "3 estrellas, mina los tallos inferiores en los túneles",
+    "pupation": "medio verano en túneles larvarios",
+    "adult_emergence": "finales del verano, invierno dentro de las habitaciones de los cachorros"
+  },
+  "damage": {
+    "adult": [
+      "mastica puntas de crecimiento, tallos, hojas",
+      "patrón distintivo de lesión del agujero de disparo",
+      "debilita las plantas, suprime la floración y la producción de semillas",
+      "acrobacias dispara, tiro puntas se vuelven marrones y estridentes"
+    ],
+    "larval": [
+      "tallos de minas, severs agua/tejidos conductores de nutrientes",
+      "causa desecación y muerte de tejido vegetal",
+      "probable agotamiento de las reservas de nutrientes de las raíces, afectando la persistencia de las plantas"
+    ],
+    "long_term_impact": "El ataque anual repetido reduce la densidad de la planta de sapo"
+  },
+  "management_notes": [
+    "Agente de biocontrol utilizado contra el adflax invasivo en América del Norte",
+    "El seguimiento de la emergencia de adultos en primavera puede orientar las estrategias de gestión",
+    "Apoya la reducción a largo plazo de las poblaciones de sapo"
+  ],
+  "references": [
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Agentes de biocontrol de toadflax: Historia y Ecología en América del Norte. En: Control biológico de las malas hierbas en América del Norte. NAISMA-BCW-2022-29-TOADFLAXES-A."
+  ]
+}

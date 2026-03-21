@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
-  "causal_agent": "Septoria lycopersici",
+  "disease_name": "Tomat Yaprakları Septoria",
+  "type": "Mantar Hastalığı",
+  "causal_agent": "Septoria Lycopersici Hakkında",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Solanace yeşillikleri (örneğin, horsenettle)"
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "Dünya çapında",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "Karanlık kahverengi marjları ve tan ile gri merkezleri ile dolaşım noktaları",
+      "Siyah pycnidia ile dolu merkezler",
+      "Koyu sarı halo genellikle yaprak yaralanmalarını çevirir",
+      "Şiddetli enfeksiyonlar, yaprakların sarılaşmasına, kahverengi, dökülmesine ve defolasyonuna neden olur."
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "Meyve enfeksiyonu nadirdir"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "Mantar, enfekte domates çöpleri veya solanace çöpleri üzerinde kış geçirir",
+    "Ayrıca, bitki bahçeleri ve kabuklar gibi ekipmanlarda da hayatta kalabilir.",
+    "Conidia yağmur ya da spreykler sulama su ile yayılır",
+    "Yüksek nispeten nem, yüksek sıcaklıklar ve uzun süreli yaprak nemi hastalık gelişimini teşvik eder"
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "En az 1-2 yıl boyunca güneşlenmemiş bitkiler için tahıl bitkileri",
+      "kontrol hassas bitkiler, örneğin horsenettle",
+      "Bitki çöpleri kaldırmak ve yok etmek (mümkünse yakılmış bitkileri yakmak veya gömmek)",
+      "Hava dolaşımını iyileştirmek ve folaj-toprak temasını azaltmak için bitkilerin çürümesi veya çürümesi",
+      "Bitkiler arasındaki boşluğu arttırın ve nemi azaltmak için aşırı moleküllerden kaçının",
+      "Uzun süreli yaprak nemini önlemek için sulama izleme",
+      "Kullanılabildiğince dayanıklı domates çeşitleri kullanın"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "Düzenli aralıklarla kayıtlı koruyucu fungicid sprey uygulayın",
+      "Klorothalonil veya etilen bisditiokarbamat (EBDC) gibi aktif maddeler içeren fungicidler etkili",
+      "Ortak ticari isimler Daconil, Mancozeb, Fungonil içerir",
+      "Çoğu zaman (genellikle her 7 günde bir) etiket talimatlarına göre yanıtlayın",
+      "Bakır tabanlı veya klorothalonil fungicidlerin önleyici uygulamaları kronik enfeksiyon alanlarında garanti edilebilir."
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "Önleyici önlemler, enfekte bitkileri iyileştirmeye çalışmaktan daha etkili",
+    "Conidia hem bitki çöpleri hem de ekipman üzerinde hayatta kalır, bu nedenle sanitasyon kritiktir.",
+    "Aşırı yıkama veya yüksek nem hastalığın yayılmasını arttırır"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC).",
+    "Brannen, P. & Sugar, D. 2020 Tomato Leaf Spot Management in Home Gardens.",
+    "Jones, J.B., et al. 2014 Tomato Hastalıkları ve Hastalıkları Compendium, 2. Sürüm."
   ]
 }

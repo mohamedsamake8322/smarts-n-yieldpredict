@@ -1,0 +1,84 @@
+{
+  "pest_name": "Baumwoll-Bollwurm",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_type": "Insekten",
+  "description": "Helicoverpa armigera, bekannt als Baumwoll-Bollwurm, ist ein hoch polyphagen Mottenpest in Afrika, Europa, Asien, Australien und Südamerika verteilt. Die Larvenstufe ernährt sich von Blättern, Knospen, Blumen, Früchten und Samen vieler Kulturen, was zu schweren wirtschaftlichen Verlusten führt. Erwachsene sind in der Lage, weit entfernte Migration, ermöglicht schnelle Verbreitung und mehrere Generationen pro Jahr in warmen Klimazonen.",
+  "hosts": [
+    "Baumwolle",
+    "Tomaten",
+    "Mais",
+    "Kichererbsen",
+    "Erbsen",
+    "Reis",
+    "Sorghum",
+    "Cowpea",
+    "Sojabohnen",
+    "Kartoffeln",
+    "Okra",
+    "Erbsen",
+    "Tabak"
+  ],
+  "symptoms": [
+    "Löcher in Blättern und Blüten",
+    "Larven, die zu Früchten oder Hülsen gebohrt werden",
+    "Vorzeitige Frucht oder Blütentropfen",
+    "Beschädigte Baumwollbolls produzieren schlechte Qualität funte",
+    "Vorhandensein von Fraß und Futtertunneln in Früchten oder Körnern"
+  ],
+  "life_cycle": {
+    "eggs": "Gelblich-weiße Eier auf Blättern, Knospen, Blüten oder Früchten gelegt. Eier schlüpfen innerhalb von 3–11 Tagen.",
+    "larvae": "Larven ernähren sich 19–36 Tage lang durch mehrere Instars und verursachen den Hauptschaden der Pflanze.",
+    "pupae": "Pupation tritt im Boden oder Pflanzenmüll auf; Puppen überwintern in kälteren Klimazonen.",
+    "adults": "Erwachsene sind hellbraune Motten mit einer Flügelspannweite von etwa 3,5–4 cm und leben etwa 10 Tage.",
+    "generations_per_year": "Bis zu 11 Generationen pro Jahr in warmen Klimazonen."
+  },
+  "economic_significance": "Der Schädling verursacht schwere Ertragsverluste in Baumwolle, Tomaten, Mais, Kichererbsen und anderen Kulturen. Larven schädigen Fortpflanzungspflanzenteile und reduzieren sowohl Ertrag als auch Produktqualität. Sekundärinfektionen durch Pilze und Bakterien können in beschädigten Früchten auftreten.",
+  "management": {
+    "monitoring": [
+      "Regelmäßige Erkundung von Eiern, Larven und Futterschäden",
+      "Verwenden Sie Pheromonfallen, um erwachsene Populationen zu überwachen",
+      "Leichte Fallen können auch helfen, Mottenaktivität zu erkennen"
+    ],
+    "cultural_control": [
+      "Fruchtfolge mit nicht gastgebenden Kulturen",
+      "Entfernung von Rückständen und Unkraut",
+      "Tief pflügen nach der Ernte, um Pupae zu zerstören",
+      "Verwendung von Fallpflanzen wie Sonnenblumen oder Ringelblumen"
+    ],
+    "mechanical_control": [
+      "Handpicken und Zerstören von Larven und Eiern",
+      "Verwendung von Fallen und physischen Barrieren",
+      "Entfernung von befallenen Früchten oder Pflanzenteilen"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa Nucleopolyhedrovirus (HaNPV)",
+        "Baculovirus-Arten, die auf Lepidopteranlarven abzielen",
+        "Isaria fumosorosea (entomopathogener Pilz)"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (Eierparasitoide Wespe)",
+        "Habrobracon hebetor (larval parasitoide)"
+      ]
+    },
+    "chemical_control": {
+      "note": "Die chemische Kontrolle sollte als Teil des integrierten Pflanzenschutzes (IPM) und nur dann angewendet werden, wenn die Schädlingspopulationen die wirtschaftlichen Schwellen überschreiten.",
+      "active_ingredients": [
+        "Spinosad",
+        "Emamectinbenzoat",
+        "Indoxacarb",
+        "Lambda-Cyhalothrin",
+        "Chlorantraniliprol"
+      ]
+    },
+    "genetic_control": [
+      "Anbau von Bt-Baumwolle mit Bacillus thuringiensis-Toxinen (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+    ]
+  },
+  "references": [
+    "CABI. Baumwoll-Bollwurm (Helioverpa armigera) – Informationen über die Ernte Schädlingsbekämpfung.",
+    "Wikipedia-Mitwirkende. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "FAO. Integrierte Leitlinien für die Schädlingsbekämpfung.",
+    "Plantwise Knowledge Bank – Pest Management Empfehlungen."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pest_name": "Zweifleckiger Spinnenmitt",
+  "scientific_name": "Tetranychus urticae Koch",
+  "type": "Arthropod / Milbe",
+  "description": {
+    "size": "Erwachsene 0,4–0,5 mm lang",
+    "appearance": "Ovaler, grüner bis gelblicher Körper mit zwei dunklen Flecken auf dem Rücken; acht Beine",
+    "life_cycle": "Ei → Larve → Protonymph → Deutonymph → Erwachsene; mehrere Generationen pro Saison",
+    "notes": "Sehr klein, erfordert oft eine Handlinse oder Vergrößerung zur Erkennung"
+  },
+  "hosts": {
+    "primary": [
+      "Tomaten",
+      "Gurken",
+      "Pfeffer",
+      "Erdbeere"
+    ],
+    "secondary": [
+      "Viele Zierpflanzen, Gemüse und Obstpflanzen"
+    ],
+    "weeds": [
+      "Übliche Unkrautwirte können während der Nebensaison Populationen beherbergen"
+    ]
+  },
+  "distribution": "Weltweit, vor allem bei warmen, trockenen Bedingungen",
+  "symptoms": {
+    "foliage": [
+      "Kleine gelbe oder blasse Flecken auf der oberen Blattoberfläche (Stipping)",
+      "Weben auf Unterseiten der Blätter unter schweren Befall",
+      "Blätter können bronze, curl, und fallen vorzeitig"
+    ],
+    "overall_impact": "Reduzierte Photosynthese, verkümmertes Wachstum, geringerer Ertrag, erhöhter Pflanzenstress"
+  },
+  "conditions_for_development": [
+    "Tränke bei heißem, trockenem Wetter",
+    "Bevölkerungswachstum unter Temperaturen von 25–35°C",
+    "Niedrige relative Luftfeuchtigkeit begünstigt Ausbrüche"
+  ],
+  "spread": [
+    "Wind, Bewässerungswasser, kontaminierte Werkzeuge",
+    "Transportiert über befallene Pflanzen oder Pflanzenabfälle"
+  ],
+  "management": {
+    "cultural": [
+      "Aufrechterhaltung einer ausreichenden Bewässerung und Feuchtigkeit, um Stress auf Pflanzen zu reduzieren",
+      "Befallene Pflanzenreste und Unkraut entfernen",
+      "Vermeiden Sie übermäßigen Einsatz von Insektiziden mit breitem Spektrum, die natürliche Raubtiere stören"
+    ],
+    "biological": [
+      "räuberische Milben einführen (z. B. Phytoseiulus persimilis, Neoseiulus californicus)",
+      "Ermutigen Sie natürliche Raubtiere wie Käfer und Schnürsenkel"
+    ],
+    "chemical": [
+      "Mitizide (Akarizide) als letztes Mittel verwenden und chemische Klassen rotieren, um Resistenzen zu vermeiden",
+      "Anwenden auf Unterseiten von Blättern, bei denen Milben konzentriert sind"
+    ]
+  },
+  "notes": [
+    "Einer der häufigsten und wirtschaftlich wichtigsten Milbenschädlinge weltweit",
+    "Kann schnell Resistenz gegen mehrere chemische Klassen entwickeln"
+  ],
+  "references": [
+    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Ihre Biologie, ihre natürlichen Feinde und Kontrolle. Elsevier.",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) für Pest Control. Blackwell Science.",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Milben schädigen wirtschaftliche Pflanzen. University of California Press."
+  ]
+}

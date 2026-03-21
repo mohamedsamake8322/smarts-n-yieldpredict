@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "Pourriture molle bactérienne du chou",
+  "scientific_name": "Pectobacterium carotovorum (anciennement Erwinia carotovora)",
+  "pathogen_type": "Bactérie",
+  "description": "La pourriture molle bactérienne est une maladie destructrice du chou qui provoque la décomposition rapide des tissus végétaux. Les bactéries entrent par des blessures ou des ouvertures naturelles et se propagent rapidement dans des conditions chaudes et humides. La maladie peut se produire sur le terrain, mais provoque souvent de graves pertes pendant le stockage et le transport.",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "Taches saupoudrées d'eau sur les feuilles ou les têtes de chou",
+    "Lésions molles et ensanglantées qui s'élargissent rapidement",
+    "Les tissus deviennent mous, mousseux et humides",
+    "Décoloration de la crème au brun ou au noir",
+    "L'infiltration de liquides dans les tissus infectés",
+    "Forte odeur désagréable pourrie",
+    "Les feuilles, les tiges ou les racines peuvent se dégrader complètement dans les infections graves."
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "pourriture molle humide sur les tissus de choux",
+    "tissu végétal en décomposition musculo-squelettique",
+    "zones de pourriture foncées avec fuite de liquide"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "feuilles",
+    "tige",
+    "Tête de chou",
+    "racines"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "Choux",
+    "brocoli",
+    "chou-fleur",
+    "laitue",
+    "pommes de terre",
+    "Carotte",
+    "oignon",
+    "poivre",
+    "tomate",
+    "de nombreuses cultures végétales"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "températures chaudes (25-30°C)",
+    "humidité élevée",
+    "temps humide",
+    "Mauvaise circulation d'air",
+    "Blessures de plantes causées par des insectes ou des outils",
+    "faible taux de calcium dans les plantes"
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "débris végétaux infectés dans le sol",
+    "eau d'irrigation contaminée",
+    "éclaboussure de pluie",
+    "des insectes tels que les mouches de l'aigle",
+    "outils contaminés",
+    "manipulation pendant la récolte et l'entreposage"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "Utiliser du matériel de plantation sain et exempt de maladies",
+    "Manipulation soigneuse des plantes pour éviter les blessures",
+    "Enlever et détruire immédiatement les plantes infectées",
+    "Rotation des cultures avec des plantes non hôtes pendant au moins 3 ans",
+    "Éviter l'irrigation aérienne",
+    "Maintenir de bonnes conditions d ' assainissement sur le terrain",
+    "Assurer une bonne nutrition végétale, en particulier le calcium"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Biobactéricides à base de Bacillus subtilis",
+    "Pseudomonas fluorescens traitements biologiques"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "Oxychlorure de cuivre",
+    "Hydroxyde de cuivre",
+    "Bactéricides de sulfate de cuivre"
   ],
-
   "example_products": [
     "Greencop 500WP",
     "Trinity Gold 452WP",
-    "Colonizer 440WP",
+    "Coloniseur 440WP",
     "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "Pyramide 700WP"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "Variétés résistantes ou tolérantes aux végétaux",
+    "Utiliser des semences et des semis exempts de maladies",
+    "Éviter de blesser les plantes pendant la culture",
+    "Récolte en conditions sèches",
+    "Inspecter les choux avant stockage",
+    "Conserver les aires de stockage propres et sèches"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "A conserver à 0–4°C (32–39°F)",
+    "Maintenir l'humidité de stockage autour de 90 à 95 %",
+    "Évitez de stocker des légumes endommagés ou infectés",
+    "Utiliser des matériaux mous comme la paille ou le papier pour prévenir les blessures"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Élargissement de la pathologie végétale Publications",
+    "Guides de gestion des maladies végétales"
   ]
 }

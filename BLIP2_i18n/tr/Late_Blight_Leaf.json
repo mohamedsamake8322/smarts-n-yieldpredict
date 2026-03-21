@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "disease": "Geç Blight (Late Blight)",
+  "scientific_name": "Phytophthora Sıkıntılar",
+  "pathogen_type": "Oomycete (Fungal gibi)",
+  "description": "Patates ve domates yapraklarının yıkıcı bir hastalığı, karanlık kahverengi noktalara ve yaprakların hızlı ölümüne neden olur.",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "Karanlık kahverengi siyah yaprak noktaları",
+    "Sırt çubukları parlıyor ve ölüyor",
+    "Enfekte yaprakların hızlı dökülmesi"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "domates",
+    "Patates",
+    "Diğer Solanaceae bitkileri"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "Soğuk ve ıslak hava",
+    "Yüksek nem",
+    "Sıcak bitkilerde düşük hava dolaşımı"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "Rüzgar ve yağmur spores yayılır",
+    "kirlenmiş araçlar veya eller",
+    "Enfekte tohumlar veya tüpler"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "Bitki dayanıklı yetiştiriciler",
+    "Enfekte yaprakları kaldırmak ve yok etmek",
+    "Hava dolaşımını iyileştirmek, doğru boşaltma ve pruning ile",
+    "Inokulum inşaatını önlemek için rotat tahılları"
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "bakır tabanlı fungicidler",
+    "Mancozeb ıslak dönemlerde folya üzerine spreyler"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "Aşırı sulama önlemek",
+    "Sertifikalı hastalık dışı tohumlar veya tüpler kullanın",
+    "Yetiştirildikten sonra bitki çöpleri çıkarın"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "CABI Bitki Koruma Ödülü",
+    "USDA, Bitki Hastalıkları Yönetimi Kılavuzu"
   ]
 }

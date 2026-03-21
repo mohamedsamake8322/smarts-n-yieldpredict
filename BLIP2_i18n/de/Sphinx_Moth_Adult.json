@@ -1,0 +1,22 @@
+{
+  "pest_name": "Sphinx-Motte",
+  "stage": "Erwachsener",
+  "common_name": "Hawk Moth",
+  "description": "Die erwachsene Sphinx-Motte ist eine große, schnell fliegende Motte mit schmalen Flügeln und einem robusten Körper. Erwachsene ernähren sich von Nektar mit einem langen Proposcis und sind Bestäuber für viele Pflanzenarten.",
+  "damage": [
+    "Erwachsene verursachen in der Regel keinen direkten Pflanzenschaden",
+    "Kann bei Nacht von Lichtern angezogen werden und als Bestäuber fungieren"
+  ],
+  "behavior": [
+    "Nacht; in der Dämmerung und Nacht aktiv",
+    "Fernflieger; kann Larven zu neuen Wirtspflanzen migrieren und zerstreuen"
+  ],
+  "control": [
+    "Überwachung von Erwachsenen kann helfen, Larvenausbrüche vorherzusagen",
+    "Leichte Fallen können die Aktivität von Erwachsenen in kleinen Gebieten reduzieren"
+  ],
+  "notes": [
+    "Erwachsene Stadium ist vor allem vorteilhaft für Bestäubung",
+    "Fokussierung auf Larven zur Vermeidung von Ernteschäden"
+  ]
+}

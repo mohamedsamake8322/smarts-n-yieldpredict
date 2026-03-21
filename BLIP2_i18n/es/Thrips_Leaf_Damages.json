@@ -1,0 +1,123 @@
+{
+  "pest_name": "Trips Daños a las Hojas",
+  "order": "Thysanoptera",
+  "family": "Trípidos",
+  "type": "insecto",
+  "description": {
+    "size": "1–1,5 mm (0,03–0,06 pulgadas)",
+    "body": "Slender, amarillo o marrón, dos pares de alas estrechas y flecadas",
+    "mouthparts": "Asimétrico; utilizado para raspar superficies de hojas y extraer líquidos",
+    "species_of_major_concern": [
+      "Trips de flores occidentales (Frankliniella occidentalis)",
+      "Trips de cebolla (Thrips tabaci)"
+    ]
+  },
+  "hosts": {
+    "ornamentals": [
+      "Crisantemo",
+      "Cineraria",
+      "Ciclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fucsia",
+      "Impacientes",
+      "lirio",
+      "Nemesia",
+      "Primula",
+      "Ranunculus",
+      "Verbena",
+      "Coleus",
+      "Diascia",
+      "Lobelia",
+      "Gerbera",
+      "Capsicum annuum",
+      "Begonia x hiemalis",
+      "Pelargonium"
+    ],
+    "vegetables": [
+      "Lechuga",
+      "Tomate",
+      "Patatas",
+      "Pimientos",
+      "Chalotes",
+      "Ajos",
+      "Trigo de invierno",
+      "Alfalfa",
+      "Leguminosas",
+      "Cebollas",
+      "Judías",
+      "Pepino",
+      "Repollo",
+      "Puerros",
+      "Espárragos",
+      "Coliflores"
+    ]
+  },
+  "damage": {
+    "direct_feeding": "Piercing de células vegetales y succión de contenido celular, dejando manchas blanqueadas o plateadas o parches que pueden volverse marrones y necróticos. Causa distorsión de hojas y flores y retraso en el crecimiento. Pequeñas manchas fecales negras visibles dentro de áreas dañadas.",
+    "feeding_preferences": {
+      "Western flower thrips": "Hojas y flores; flores/yemas de flores preferidas",
+      "Japanese flower thrips": "Hojas principalmente; pueden ocurrir en flores"
+    },
+    "secondary_effects": "El daño puede predisponer las plantas a la infección por Botrytis."
+  },
+  "virus_transmission": {
+    "vector": [
+      "Trips de flores occidentales",
+      "Trips de cebolla",
+      "Trips de flores japonesas (TSWV solamente)"
+    ],
+    "viruses": [
+      "Virus de la marchitez manchada con tomate (TSWV)",
+      "Impatiens necrotic spot virus (INSV)"
+    ],
+    "mechanism": "Las primeras larvas instar adquieren virus de plantas infectadas; los adultos transmiten virus durante la alimentación. Los adultos permanecen infecciosos de por vida.",
+    "host_plants": [
+      "Crisantemo",
+      "Cineraria",
+      "Ciclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fucsia",
+      "Impacientes",
+      "lirio",
+      "Nemesia",
+      "Primula",
+      "Ranunculus",
+      "Verbena",
+      "Coleus",
+      "Diascia",
+      "Lobelia"
+    ]
+  },
+  "symptoms_of_virus_infection": [
+    "Manchas de hojas cloróticas o necróticas",
+    "Anillos de hojas y patrones de líneas",
+    "Distorsión de las hojas, bronzado, amarillento y necrosis",
+    "Ennegrecimiento del tallo",
+    "Punto de crecimiento de la muerte"
+  ],
+  "regulatory_status": {
+    "TSWV": "Plagas no cuarantinas reguladas (RNQP) en Begonia x hiemalis, Capsicum annuum, Crisantemo, Gerbera, Impatiens, Pelargonium",
+    "INSV": "Plagas no-cuarantina reguladas (RNQP) en Begonia x hiemalis"
+  },
+  "life_cycle": {
+    "reproduction": "Puede reproducirse asexualmente; múltiples generaciones por estación de crecimiento",
+    "notes": "Plantas cultivadas en interiores más vulnerables debido a menos enemigos naturales"
+  },
+  "management": {
+    "cultural": [
+      "Monitorear las plantas regularmente para detectar los primeros signos de trips",
+      "Retirar y destruir las partes de plantas fuertemente infestadas",
+      "Mantener poblaciones sanas de enemigos naturales"
+    ],
+    "chemical": [
+      "Utilice insecticidas con juicio; siga las directrices locales y las instrucciones de etiquetado"
+    ],
+    "integrated": "Combina el monitoreo, el control cultural, los depredadores naturales y el uso selectivo de insecticidas"
+  },
+  "references": [
+    "Guías de Cultivos Ornamentales del Reino Unido: Control de impulsos en cultivos ornamentales protegidos",
+    "Extensión de la Universidad Estatal de Colorado, notas de plagas: impulsos en vegetales y ornamentales"
+  ]
+}

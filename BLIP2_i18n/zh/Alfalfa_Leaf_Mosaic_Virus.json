@@ -1,70 +1,70 @@
 {
-  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "disease_name": "Alfalfa_ Leaf_ Mosaic_ 病毒",
+  "common_name": "Alfalfa Mosaic疾病",
   "pathogen": {
-    "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
-    "abbreviation": "AMV",
-    "family": "Bromoviridae",
-    "genus": "Alfamovirus"
+    "type": "艾滋病毒/病毒病毒/病毒",
+    "scientific_name": "Alfalfa马赛克病毒",
+    "abbreviation": "猛虎人民汽车协会",
+    "family": "布鲁莫维里达ec. kgm",
+    "genus": "Afamo病毒"
   },
   "host_plants": [
-    "Alfalfa",
-    "Potato",
-    "Tomato",
-    "Pepper",
-    "Soybean",
-    "Clover",
-    "Pea",
-    "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "阿尔法法",
+    "马铃薯",
+    "番茄",
+    "辣椒",
+    "豆类",
+    "切缩",
+    "皮蜂",
+    "豆豆",
+    "烟草",
+    "许多装饰植物"
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "明亮黄色马赛克图案",
+      "色调剂",
+      "叶叶扭曲",
+      "窄叶或长叶叶",
+      "叶叶面积减少"
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "强劲增长增长",
+      "降低振动",
+      "减少产量"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "虫类(20多种物种)"
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "高栖类人口",
+    "温温温度",
+    "附近有受感染的宿主植物"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "使用无病毒无病毒核证种子",
+      "消除感染植物",
+      "用作病毒储存库的控制杂草"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      "监测并管理两栖人口"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "根据作物情况,可提供一些容忍的栽种品种"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "在许多豆类和蔬菜作物中降低作物产量和质量",
+    "distribution": "世界范围"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "APPS 植物疾病手册",
+    "CABI 作物保护简编",
+    "ICTV 病毒分类"
   ]
 }

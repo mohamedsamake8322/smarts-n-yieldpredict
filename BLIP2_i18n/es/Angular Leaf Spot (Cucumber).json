@@ -1,0 +1,40 @@
+{
+  "title": [
+    "Punto de Hoja Angular (Cucumber, Melon, Calabaza, Squash y Zucchini)",
+    "Pseudomonas syringae pv. lachrymans"
+  ],
+  "Table": {
+    "Prevention": [
+      "Plantar semillas libres de patógenos es la estrategia de control principal",
+      "Tratar las semillas contaminadas con agua caliente para reducir los niveles de bacterias",
+      "Practicar una rotación de cultivos de tres años o más a no huéspedes como granos pequeños o maíz",
+      "Evitar la irrigación y la reutilización del agua de cola de riego",
+      "Sólo cultivar y trabajar en campos cuando el dosel está seco para reducir la propagación secundaria",
+      "Variedades de pepino resistentes a las plantas si la enfermedad es un problema recurrente",
+      "No se han desarrollado prácticas de control biológico para la mancha angular de la hoja"
+    ],
+    "Monitoring": [
+      "Busque lesiones pequeñas y empapadas de agua en hojas en gran parte confinadas por grandes venas vegetales",
+      "Comprobar la apariencia angular de las lesiones (no cruzan venas vegetales)",
+      "Busque exudado claro a lechoso en la superficie inferior de las lesiones durante el clima húmedo",
+      "Observe si las lesiones se vuelven marrón bronceado y salen de la hoja (apariencia de agujero de tiro)",
+      "Revise los frutos para lesiones pequeñas (de 0.04 a 0.1 pulgadas) empapadas en agua con centros de bronceado ligeros",
+      "Supervisar las extremidades de crecimiento en tipos determinados para la infección sistémica que detiene el crecimiento de la vid"
+    ],
+    "Direct Control": [
+      "Utilizar bactericidas a base de cobre (Champ, Kocide, Nordox, Tri Basic Copper) para reducir la gravedad",
+      "Aplicar Champ Dry Prill o Champ Formula 2 a 1,33 lb/pt por acre",
+      "Aplicar Kocide (101, DF, 4.5LF, 3000) a las tasas recomendadas (0,5 a 3 lbs/pts)",
+      "Aplicar Nordox a 1,5-2,0 lb por acre",
+      "Utilice mezclas de cobre/EBDC como Dispersores Cuprofix MZ a 4-7.25 lb",
+      "Los controles químicos son más eficaces cuando se integran con buenas prácticas de control cultural"
+    ],
+    "Restrictions": [
+      "Fungicidas de cobre: 5-7 días de frecuencia de aplicación; puede causar daño a la planta",
+      "Cobre-Count-N: 7 días de frecuencia de aplicación; puede causar lesiones",
+      "Dispersores de Cuprofix MZ: Máximo de 63.1 libras por temporada; PHI 5 días",
+      "Un intervalo de pulverización de 4 a 7 días es necesario cuando las condiciones son altamente favorables",
+      "Siga siempre la etiqueta del producto para la dosificación específica y el momento de aplicación"
+    ]
+  }
+}

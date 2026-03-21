@@ -1,0 +1,65 @@
+{
+  "disease_name": "Moho de hoja de tomate",
+  "type": "enfermedad fúngica",
+  "causal_agent": "Passalora fulva (sin. Fulvia fulva, Cladosporium fulvum)",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ]
+  },
+  "distribution": "En todo el mundo; especialmente problemático en invernaderos y túneles altos con alta humedad",
+  "symptoms": {
+    "leaves": [
+      "Manchas amarillas en las superficies superiores de las hojas",
+      "Fuzzy verde oliva a gris crecimiento de moho en las superficies de la hoja inferior",
+      "Las hojas pueden enroscarse y distorsionarse",
+      "Las infecciones graves pueden causar defoliación"
+    ],
+    "stems": [
+      "Ocasionalmente los tallos pueden ser infectados, pero la enfermedad es principalmente foliar"
+    ]
+  },
+  "disease_cycle": [
+    "Las esporas se forman en las superficies inferiores de la hoja dentro de los 10-12 días de la infección",
+    "Alta humedad relativa (≥85%) favorece la producción de esporas y la infección",
+    "Múltiples generaciones pueden ocurrir dentro de una sola temporada de crecimiento",
+    "La propagación se produce a través del viento, la lluvia y el riego, herramientas, trabajadores y posiblemente insectos",
+    "El patógeno puede persistir en los residuos de los cultivos y en las superficies de invernadero contaminadas"
+  ],
+  "environmental_conditions": [
+    "Temperatura óptima: 21–24 °C (70–75 °F), pero la enfermedad puede desarrollarse entre 10–32 °C (50–90 °F)",
+    "Alta humedad relativa (>85%) es crítica para epidemias graves",
+    "La mala circulación del aire y la humedad de las hojas favorecen la infección"
+  ],
+  "management": {
+    "cultural": [
+      "Use riego por goteo y evite humedecer follaje",
+      "Plantas espaciales para mejorar la circulación del aire",
+      "Estacas, cuerdas o poda de plantas para reducir la humedad alrededor de las hojas",
+      "Circular el aire en invernaderos / túneles altos con respiraderos, ventiladores, o enrollando los lados",
+      "Mantener temperaturas nocturnas más altas que fuera para reducir la formación de rocío",
+      "Retirar y destruir los residuos de cultivos al final de la temporada; desinfectar superficies y equipos de invernadero"
+    ],
+    "resistant_varieties": [
+      "Utilizar cultivares resistentes con precaución, ya que la resistencia es a menudo específica de la raza",
+      "Variedades resistentes a ensayo a pequeña escala antes de la plantación a gran escala",
+      "Referencia: Lista de variedades vegetales resistentes a la enfermedad de Cornell"
+    ],
+    "chemical": [
+      "Aplicar fungicidas preventivamente cuando las condiciones favorecen la enfermedad",
+      "Rotar familias químicas para prevenir el desarrollo de resistencia",
+      "Para la producción ecológica, los productos a base de cobre (por ejemplo, Champ) pueden proporcionar un control parcial",
+      "Siga todas las etiquetas de los plaguicidas y las restricciones legales para el uso de invernaderos y túneles altos"
+    ]
+  },
+  "notes": [
+    "La exploración temprana durante los periodos de alta humedad es crítica para el manejo oportuno",
+    "Pueden surgir nuevas razas de P. fulva, por lo que la monitorización de la eficacia de cultivar resistente es importante",
+    "El manejo efectivo combina estrategias culturales, genéticas y químicas"
+  ],
+  "references": [
+    "Guía de producción de vegetales del medio oeste para cultivadores comerciales, 2023",
+    "Extensión de Minnesota, gestión de moho de hoja de tomate",
+    "Jones, J.B., et al. 2014. Compendio de Enfermedades y Plagas de Tomate, 2a Edición. APS Press."
+  ]
+}

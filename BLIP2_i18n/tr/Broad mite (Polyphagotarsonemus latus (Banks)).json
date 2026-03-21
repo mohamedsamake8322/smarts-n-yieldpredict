@@ -1,79 +1,79 @@
 {
-  "disease": "Broad mite damage",
-  "scientific_name": "Polyphagotarsonemus latus",
-  "pathogen_type": "Mite (arthropod pest)",
-  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "disease": "Geniş Mite hasar",
+  "scientific_name": "Polyphagotarsonemus latus ile ilgili",
+  "pathogen_type": "Arthropod pest (Arthropod pest hastalığı)",
+  "description": "Geniş mite, genç bitki dokularını etkileyen mikroskobik bir pesttir. bitki büyümesini bozacak toksik saliva enjekte ederek yaprakları, çamurları ve meyveleri besler. hasar, yaprak ve meyvelerin şiddetli deformasyonuna neden olur ve bitki üretimi önemli ölçüde azaltabilir.",
   "symptoms": [
-    "Distorted or twisted young leaves",
-    "Leaf curling and thickening",
-    "Bronzing or darkening of leaf surface",
-    "Stunted plant growth",
-    "Cracked or scarred fruits",
-    "Deformed buds and flowers",
-    "Young tissues become hard and brittle"
+    "bozulmuş veya döndürülmüş genç yapraklar",
+    "Yumuşatma ve kalınlaştırma",
+    "Yaprak yüzeyinin bronzlaşması veya karanlıklaşması",
+    "Bitki büyümesi bekleniyor",
+    "Kırık ya da kırık meyveler",
+    "Deformasyonlar ve çiçekler",
+    "Genç dokular sert ve parlak hale gelir"
   ],
   "hosts": [
-    "pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "potato",
-    "cucumber",
+    "peynir",
+    "Çilek Pepper",
+    "domates",
+    "Yumurta",
+    "patates",
+    "Cevapla",
     "melon",
-    "beans",
-    "cotton",
-    "tea",
-    "citrus",
+    "Beyonce",
+    "Pamuk",
+    "Çay",
+    "Citrüs",
     "papaya",
-    "avocado",
-    "mango",
-    "ornamental plants"
+    "Avokado",
+    "Mango",
+    "dekoratif bitkiler"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "High humidity",
-    "Dense plant canopy",
-    "Poor air circulation",
-    "Greenhouse environments"
+    "Sıcak sıcaklıklar",
+    "Yüksek nem",
+    "Yetişkin Canopy",
+    "Kötü hava dolaşımı",
+    "Yeşillik ortamları"
   ],
   "spread": [
-    "Wind movement",
-    "Contaminated tools and plant material",
-    "Movement by insects such as whiteflies",
-    "Transport on workers' clothing"
+    "rüzgar hareketleri",
+    "kirlenmiş araçlar ve bitki malzemeleri",
+    "Beyazlar gibi böceklerin hareketleri",
+    "İşçilerin giysileriyle ulaşım"
   ],
   "management": [
-    "Regular monitoring of young leaves",
-    "Remove heavily infested plant parts",
-    "Improve air circulation between plants",
-    "Use resistant or tolerant varieties when available",
-    "Avoid excessive nitrogen fertilization"
+    "Genç yaprakların düzenli izlenmesi",
+    "Çok kirlenmiş bitki parçaları çıkarın",
+    "Bitkiler arasındaki hava dolaşımının iyileştirilmesi",
+    "Mevcut olduğunda dayanıklı veya hoşgörülü çeşitleri kullanın.",
+    "Aşırı nitrojen yağlanmasını önleyin"
   ],
   "biological_control": [
-    "Predatory mites such as Neoseiulus californicus",
-    "Predatory mites such as Amblyseius swirskii",
-    "Predatory mites such as Phytoseiulus persimilis",
-    "Use of entomopathogenic fungi such as Beauveria bassiana"
+    "Neoseiulus californicus gibi öfkeli efsaneler",
+    "Amblyseius swirskii gibi öfkeli efsaneler",
+    "Phytoseiulus persimilis gibi öfkeli efsaneler",
+    "Beauveria bassiana gibi entomopathogenik mantarların kullanımı"
   ],
   "chemical_control": [
-    "Abamectin",
-    "Spiromesifen",
-    "Spirodiclofen",
-    "Bifenazate",
-    "Sulfur-based miticides",
-    "Fenpyroximate"
+    "Abamektin",
+    "spiral",
+    "Spirodiklofen",
+    "Bifenazat",
+    "Sulfur tabanlı mitisitler",
+    "Fenpyroximat"
   ],
   "prevention": [
-    "Inspect seedlings before planting",
-    "Maintain good greenhouse hygiene",
-    "Control weeds that may host mites",
-    "Avoid moving infested plants",
-    "Monitor regularly during warm humid periods"
+    "Yetiştirmeden önce tohumları inceleyin",
+    "İyi bir sera hijyenini korumak",
+    "Mitleri barındırabilecek kontrol bitkileri",
+    "Enfekte bitkilerin taşınmasını önlemek",
+    "Sıcak ıslak dönemlerde düzenli olarak izleme"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "University of Florida IFAS Extension",
-    "Integrated Pest Management literature",
-    "Plant protection entomology references"
+    "CABI Bitki Koruma Ödülü",
+    "Florida Üniversitesi IFAS Uzantısı",
+    "Entegre Pest Yönetimi Edebiyatı",
+    "Bitki Koruma Entomolojisi Referansları"
   ]
 }

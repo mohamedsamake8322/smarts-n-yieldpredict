@@ -1,0 +1,56 @@
+{
+  "disease_name": "Mkpụrụ osisi na-enweghị isi",
+  "type": "Nsogbu Na - adịghị Ala Ala",
+  "causal_agent": "Ọ̀tụ̀tụ̀ ikpo ọkụ nke mmiri dị n'ime ala nakwa ụkọ mmiri na - adịghị emebi emebi",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "Ma, e nwere ihe ụfọdụ nwere ike ime ka mmadụ chewe echiche igbu onwe ya.",
+      "Ngwá ọrụ ndị e ji akwọ ụgbọ mmiri bụ́ ndị na - arụ ọrụ n'ebe a na - edebe ihe ndị mgbe ochie na - arụ ọrụ bụ́ ndị na - adị n'ime ala."
+    ]
+  },
+  "distribution": "Gburugburu ụwa; ihe a na - ahụkarị n'ebe ndị a na - enwekarị mmiri ọkụ ma ọ bụ ọ̀tụ̀tụ̀ ịjụ oyi",
+  "symptoms": {
+    "fruit": [
+      "Ebe ọ dị ize ndụ, ebe anwụ na - acha bụ ebe mkpụrụ osisi na - ama ifuru",
+      "A pụrụ ime ka uru ahụ́ dịkwuo ukwuu, ghọọ ihe e ji akpụkpọ anụ mee, ma na - eduga n'ire mkpụrụ osisi",
+      "Nke mbụ bụ mgbe a na - ahụ mkpụrụ osisi ndị na - eto eto na - amị, mgbe mgbe, ha na - amịkarị mkpụrụ n'ụba",
+      "A pụkwara imegharị uru ahụ́ ndị dị n'ọbara ma ọ bụrụ na ọnọdụ adịgide"
+    ],
+    "leaves_and_stems": [
+      "Ọ dịghị mgbaàmà ndị a kapịrị ọnụ dị n'akwụkwọ ma ọ bụ n'azụ; ihe ọkụkụ na - eyi ka hà dị mma n'elu ala"
+    ]
+  },
+  "cause_and_risk_factors": [
+    "Mkpụrụ osisi ndị na - esi ísì ọma na - ekuru mmiri dị n'ime ala",
+    "Mmiri ọgwụ ndị nwere nje ndị na - akpata ọrịa bụ́ ndị na - eduga n'ájá ọkụ",
+    "Uto gabigara ókè nke ihe na-enweghị isi, na-enye ọ̀tụ̀tụ̀ n'agbata ikike mgbọrọgwụ na mkpụrụ osisi n'ọ̀tụ̀tụ̀",
+    "Nnukwu ụgbọ mmiri na - ebelata ụgbọ mmiri ndị e ji ebu ibu na ndị e ji ebu ibu bụ́ ndị e ji ebu ibu"
+  ],
+  "management": {
+    "cultural": [
+      "Ọbụna na - eme ka mmiri dị n'ala mgbe ị na - amị mkpụrụ site n'ịgba ya mmiri ma ọ bụ ịgba ya mmiri n'ọkụ",
+      "Ọ na - eme ka mmiri ghara ịbanye n'ime ya ma mee ka mmiri ghara ịbanye ya n'ahụ́",
+      "Na - ewepụta ihe ndị ga - eme ka ikuku na - abata gị n'ahụ́ nke ọma iji mee ka ikuku na - abata gị n'ahụ́ ma belata ọ̀tụ̀tụ̀ dị ala",
+      "Zere iribiga nri ókè; akụkụ na-enweghị isi nanị ma ọ bụrụ na ọ dị mkpa ka ị nọgide na - eto n'ụzọ kwesịrị ekwesị",
+      "Ọ̀tụ̀tụ̀ okpomọkụ nke mkpụrụ akụ́kụ́ dị n'ime ala na - eme ka e nwee ike ịhụ na mkpọrọgwụ ya na ịgba ya n'anwụ na - aga n'ihu"
+    ],
+    "chemical": [
+      "Ebe a na - etinye ihe na - eme ka mmiri na - abanye n'ime ala, bụ́ nke na - eme ka mmiri na - abanye n'ime ala, bụ́ nke a na - agbanye n'ime mmiri, n'ime ala kwa izu, n'oge a na - amị mkpụrụ.",
+      "Ihe ndị a na - etinye n'akpa ume n'isi ụtụtụ iji belata ihe ize ndụ nke ọ̀tụ̀tụ̀ nke mmiri ọgwụ bụ́ \"mgin \"",
+      "Zere usoroiheomume ndị na - adịghị oké ọnụ ka ọ pụrụ ibelata ihe ndị na - esi na ya apụta ma ọ bụ na - akpata mmerụ ahụ́ n'akwụkwọ nri"
+    ],
+    "preventive_notes": [
+      "Lekwasị anya n'omenala obodo nakwa n'omenala ndị a na - eme n'ebe dị iche iche kama ịdabere nanị n'ebe ndị a na - ere ọgwụ",
+      "Ọ bụrụ na ọ dị mkpa, ọ̀tụ̀tụ̀ okpomọkụ nke ala tupu a kụọ ya, ọ bụrụkwa na ọ dị mkpa"
+    ]
+  },
+  "references": [
+    "V. 2016 Calcccum: Ọ na - eme ka osisi na - eto nke ọma.",
+    "F.G.G.G., José de Melo, W., nke dị afọ 2022.A., na-enweghị ihe àmà ọ bụla; ihe àmà nke na-ahụ anya nke ndị N'I-AA., J. . . . . .",
+    "Mazum, M.N.N.N.N.N., A., D., P., Wahb, P.M.M.M.A., nakwa Nanamama, A. 2 n'ihe dị ka puku afọ atọ na narị afọ isii gara aga, narị afọ atọ na iri isii na atọ gara aga, narị atọ na iri isii na atọ gara aga, ndị na - eto eto, ndị na - arụpụta ihe dị iche iche, na ndị na - eme ka ihe na - esi ísì ọma na - esi ísì ọma na - esi ísì ụtọ dịgasị iche iche.",
+    "Reike, N.F.F., Shegrael, K.A., nakwa Misilam, E.J.J."
+  ]
+}

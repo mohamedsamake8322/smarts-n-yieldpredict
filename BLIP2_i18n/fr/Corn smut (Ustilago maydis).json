@@ -1,78 +1,78 @@
 {
-  "disease": "Corn smut",
+  "disease": "Smut de maïs",
   "other_names": [
-    "Common smut",
-    "Boil smut",
-    "Blister smut",
+    "Smuts fréquents",
+    "Smut de bouillie",
+    "Plaquette smut",
     "Huitlacoche",
     "Cuitlacoche"
   ],
   "scientific_name": "Mycosarcoma maydis",
   "synonym": "Ustilago maydis",
-  "pathogen_type": "Fungus",
-  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "pathogen_type": "Champignons",
+  "description": "Le maïs smut est une maladie fongique du maïs qui produit des galles tumorales sur différentes parties de la plante. Ces galles contiennent des masses de spores foncées et peuvent réduire significativement le rendement. Au Mexique, les galles immatures sont considérées comme une délicatesse culinaire connue sous le nom d'huitlacoche.",
   "hosts": [
-    "Maize (Zea mays)",
+    "Maïs (Zea mays)",
     "Teosinte (Zea mexicana)"
   ],
   "symptoms": {
     "general": [
-      "Tumor-like galls on plant tissues",
-      "Swollen kernels or plant organs",
-      "Black powdery spores inside galls"
+      "Des galles de type tumoral sur les tissus végétaux",
+      "Amandes de loup ou d'organes végétaux",
+      "Spores poudreuses noires à l'intérieur des galles"
     ],
     "leaves": [
-      "Small galls on leaf veins or blades"
+      "Petites galles sur les nervures ou les lames des feuilles"
     ],
     "stems": [
-      "Large galls on stalks or nodes"
+      "Grandes galles sur les tiges ou les noeuds"
     ],
     "ears": [
-      "Kernels replaced by swollen galls",
-      "Galls turn black and rupture releasing spores"
+      "Amandes remplacées par des galles gonflées",
+      "Les Galles deviennent noires et les spores de rupture libèrent"
     ]
   },
   "disease_cycle": [
-    "The fungus survives in soil or crop debris as teliospores",
-    "Spores germinate and produce haploid sporidia",
-    "Compatible sporidia mate and form infectious hyphae",
-    "Hyphae penetrate young plant tissues",
-    "Tumor-like galls form and produce new teliospores",
-    "Spores spread by wind and rain"
+    "Le champignon survit dans le sol ou les débris végétaux sous forme de téliospores",
+    "Les spores germent et produisent des sporidies haploïdes",
+    "Sporidies maté compatibles et forme des hyphes infectieux",
+    "Hyphae pénètre dans les tissus des jeunes plantes",
+    "Des galles de type tumoral forment et produisent de nouvelles téliospores",
+    "Spores répandues par le vent et la pluie"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "Plant injuries or wounds",
-    "High nitrogen levels in soil",
-    "Wind and rain that spread spores",
-    "Periods of poor pollination or plant stress"
+    "Températures chaudes",
+    "Blessures ou blessures d'origine végétale",
+    "Concentrations élevées d'azote dans le sol",
+    "Vent et pluie qui propagent les spores",
+    "Périodes de mauvaise pollinisation ou de stress végétal"
   ],
   "distribution": [
-    "Worldwide in maize-growing regions"
+    "Dans le monde entier, dans les régions productrices de maïs"
   ],
   "management": {
     "cultural": [
-      "Use resistant maize varieties",
-      "Practice crop rotation",
-      "Remove infected plant debris",
-      "Avoid mechanical injury to plants",
-      "Manage nitrogen fertilization"
+      "Utiliser des variétés de maïs résistantes",
+      "Pratiquer la rotation des cultures",
+      "Enlever les débris végétaux infectés",
+      "Éviter les blessures mécaniques aux végétaux",
+      "Gérer la fertilisation de l'azote"
     ],
     "chemical": [
-      "Fungicides are generally ineffective for controlling corn smut"
+      "Les fongicides sont généralement inefficaces pour contrôler la mue du maïs"
     ]
   },
   "economic_importance": [
-    "Usually causes low yield losses in field corn",
-    "Can significantly affect sweet corn production",
-    "Ear galls reduce market value of fresh corn"
+    "Cause habituellement des pertes de rendement faibles dans le maïs de champ",
+    "Peut affecter significativement la production de maïs doux",
+    "Les galles d'oreille réduisent la valeur marchande du maïs frais"
   ],
   "additional_notes": [
-    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
-    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+    "Les galles immatures sont comestibles et vendues comme une nourriture gourmande appelée huitlacoche au Mexique",
+    "Le champignon est largement utilisé comme organisme modèle dans la recherche en génétique fongique et en pathologie végétale."
   ],
   "sources": [
-    "Wikipedia – Corn smut",
-    "University plant pathology references"
+    "Wikipedia – Smut de maïs",
+    "Références universitaires en phytopathologie"
   ]
 }

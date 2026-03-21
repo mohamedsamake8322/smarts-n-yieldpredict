@@ -1,113 +1,96 @@
 {
-  "disease": "Blossom End Rot",
-  "crop": "Watermelon",
-  "scientific_context": "Physiological disorder caused by localized calcium deficiency",
-  "pathogen_type": "Physiological disorder (not caused by a pathogen)",
-
-  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
-
-  "scientific_name": "Calcium deficiency disorder",
-
+  "disease": "انقلب روت",
+  "crop": "",
+  "scientific_context": "اضطراب في الاعتلال الطبيعي الناجم عن نقص في الكالسيوم المحلي",
+  "pathogen_type": "اضطرابات في الفسيلية (لا يسببها مسبب مرض)",
+  "description": "إن التعفن النهائي في بلوسوم هو اضطراب فسيولوجي يؤثر على البطيخ وغيره من الخضروات المثمرة، ويسببه عدم كفاية الكالسيوم الذي يصل إلى تطوير أنسجة الفاكهة، ويرجع ذلك عادة إلى عدم انتظام السقي، أو الجفاف، أو الملوحة العالية، أو الإخصاب المفرط في النيتروجين. ويسفر هذا الاضطراب عن أضرار قاتمة وضاربة في نهاية أزهار الفاكهة.",
+  "scientific_name": "اضطراب الكالسيوم",
   "symptoms": [
-    "water-soaked spot at blossom end of fruit",
-    "light tan lesion that enlarges over time",
-    "dark brown or black sunken area on fruit",
-    "leathery or dry tissue at blossom end",
-    "secondary soft rot when fungi or bacteria invade",
-    "affected fruit ripen earlier than normal"
+    "ماء مُسْقُورُ في زهرِ نهايةِ فواكه",
+    "تتسع مع مرور الزمن",
+    "لون أو أسود داكن أو أسود",
+    "الجلدي أو الجاف عند الزهر",
+    "تُعَرَضُ عُرُونًا ثانويًا عندما يَجِزُ فُجُوُّهُ أَوْ بكتيريا",
+    "الأمم المتحدة في وقت أبكر من المعتاد"
   ],
-
   "visual_signature": [
-    "dark black patch at blossom end of watermelon",
-    "sunken leathery lesion on fruit tip",
-    "dry black rot on blossom end",
-    "discolored depressed area on fruit surface"
+    "سُنّة سوداء مظلمة عند نهاية البطيخ",
+    "تَعْلَمُ مِنْظَمَةِ تَقْيِيمِ",
+    "تعفن أسود جاف في نهاية الزهرة",
+    "منطقة مكتئبة على سطح فاكهة"
   ],
-
   "affected_plant_parts": [
-    "fruit blossom end",
-    "developing fruit tissue"
+    "(يحدث) (يحدث) (يحدث)",
+    "(أ) ما إذا كان من الميض"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "Curpitaceale",
   "hosts": [
-    "watermelon",
-    "tomato",
-    "pepper",
-    "eggplant",
-    "pumpkin",
-    "squash"
+    "",
+    "ط ط ط ط ط ط ط ط",
+    "(بآلاف دولارات الولايات المتحدة)",
+    "(ب) ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي ي الي الي الي الي الي",
+    "أولاً - ما قبل"
   ],
-
   "important_hosts": [
-    "Citrullus lanatus",
-    "Solanum lycopersicum",
-    "Capsicum annuum",
-    "Solanum melongena",
-    "Cucurbita pepo"
+    "Cittrulllus lanatus",
+    "(أ) إذا كان",
+    "الفصل الذي يُنتحـوم",
+    "Sullanm melen en",
+    "QQcurbita o"
   ],
-
   "causes": [
-    "calcium deficiency in developing fruit",
-    "irregular watering",
-    "drought stress",
-    "high soil salinity",
-    "excess nitrogen fertilization",
-    "rapid plant growth",
-    "poor calcium uptake by roots"
+    "نقص الكالسيوم في الفواكهة النامية",
+    ": غير منتظم",
+    "(ج)",
+    "ملوحة تربة مرتفعة",
+    "(ك) (ك) (ك) (ك) (ك) (ك) (ك)",
+    "النمو السريع للنباتات",
+    "الفقر المدقع الذي يُمَزج من جذور"
   ],
-
   "favorable_conditions": [
-    "hot temperatures",
-    "drought stress",
-    "fluctuating soil moisture",
-    "poor soil drainage",
-    "raised beds drying quickly"
+    "درجة الحرارة",
+    "(ج)",
+    "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "٪ ٪  ٪",
+    "(أ) أن تكون سريعة التصرّف بسرعة"
   ],
-
   "spread": [
-    "not contagious",
-    "caused by environmental and nutritional imbalance"
+    "غير مُعد",
+    "الناجمة عن اختلال التوازن البيئي والتغذوي"
   ],
-
   "damage": [
-    "fruit becomes unmarketable",
-    "reduced crop yield",
-    "premature fruit ripening",
-    "secondary infections may destroy fruit"
+    "(أ) تصبح غير قابلة للتسويق",
+    "المخفضة الغلة المخفضة",
+    "ما قبل ما قبل ما قبل",
+    "يمكن أن تدمّر الأمراض الثانوية الفاكهة"
   ],
-
   "management": [
-    "maintain uniform soil moisture",
-    "water plants regularly and deeply",
-    "mulch soil to conserve moisture",
-    "avoid excessive nitrogen fertilization",
-    "improve soil drainage"
+    "(أ) المحافظة على الرطوبة في تربة موحدة",
+    "النباتات التي تستهلك مياهها بصورة منتظمة وعميقة",
+    "تربة معطرة لحفظ الرطوبة",
+    "(أ) تجنب الإفراط في التلقيح",
+    ":: تحسين الصرف الصحي"
   ],
-
   "nutritional_management": [
-    "maintain adequate calcium in soil",
-    "apply agricultural lime to adjust soil pH",
-    "use calcium nitrate or calcium chloride foliar sprays when needed"
+    "(أ) المحافظة على ما يكفي من الكالسيوم في التربة",
+    "(ب) الجير الزراعي لتكييف درجة حرارة التربة",
+    "استخدام نترات الكسيوم أو رشات بولير كلوريد كلس عند الحاجة"
   ],
-
   "cultural_control": [
-    "proper plant spacing for air circulation",
-    "balanced fertilization practices",
-    "consistent irrigation schedule"
+    "لفترات الانتقال بين الدورات",
+    "ممارسات التسمم المتوازنة",
+    "الجدول الزمني للري المستمر"
   ],
-
   "prevention": [
-    "soil testing before planting",
-    "maintain soil pH around 6.5–7",
-    "avoid large fluctuations in watering"
+    "اختبار التربة قبل الغرس",
+    "(أ) صيانتها في التربة",
+    "عدم حدوث تقلبات كبيرة في المياه"
   ],
-
   "source": [
-    "University extension plant pathology guides",
-    "Greenhouse Grower",
-    "Horticulturae journal",
-    "Journal of Plant Nutrition"
+    "أدلة لممرضات مُعلمي مُعلمي مُعلمي مُعلمات مُعلمات مُعلمات مُدْرَجِيَة جامعية",
+    "مُزْْرِج مُجْجِ",
+    "مجلة Horticulurale",
+    "مجلة النبتة"
   ]
 }

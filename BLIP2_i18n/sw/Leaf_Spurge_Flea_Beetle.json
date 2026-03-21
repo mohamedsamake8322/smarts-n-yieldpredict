@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
-    "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "disease": "Picha ya Flea Beetle",
+    "scientific_name": "Mwisho wa SPP.",
+    "pathogen_type": "Matumizi ya mbegu (biological control agent)",
+    "description": "Wanyama wadogo hutumiwa kama mbegu ya kudhibiti wa biolojia dhidi ya Euphorbia esula (Laf Spurge). Wanyama wadogo hutafakari juu ya rangi wakati watu wazima hutafakari rangi, kupunguza ukuaji na uzalishaji wa mimea.",
+    "hosts": [
+      "Maisha ya Euphoria",
+      "Maelezo ya Spurge"
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "Mafuta yaliyochaguliwa na watu wazima",
+      "Kupunguza ukuaji na maua ya mimea",
+      "Mimea ya kuongezeka au kufa kwa muda"
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "Mabadiliko ya jua na majira ya joto",
+      "Mji mzuri ambayo husaidia maendeleo ya larva"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "Mabadiliko ya asili ya watu wazima",
+      "Maonyesho ya binadamu kwa mipango ya usimamizi wa biolojia"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "Kutumika kama mwongozo wa Biological Control",
+      "Kuepuka pesticides ambayo inaweza kuua idadi ya Aphthona",
+      "Ufuatiliaji wa idadi ya wakazi na kupanua"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "Hakuna matumizi: kutumika kama mwongozo wa Biological Control"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "Kuhifadhi watu wenye afya kwa ajili ya uendeshaji wa kudumu",
+      "Kuepuka matumizi ya mbolea zisizochaguliwa"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "Kumbukumbu ya aina ya Invasive",
+      "Programu ya Ulinzi wa Biolojia ya USDA Leaf"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
-    "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "disease": "Mchakato wa Cornstalk Borer",
+    "scientific_name": "ya Elasmopalpus lignosella",
+    "pathogen_type": "Mchakato wa nyama (phytophagous larva)",
+    "description": "Katerpillar ambayo huathiri juu ya mizizi na nyama ya maize, sorghum, na mizizi mengine, ambayo huathiri na kifo cha wanyama vijana.",
+    "hosts": [
+      "Maisha ya",
+      "Maombi ya",
+      "Maua ya Sugar",
+      "Mafuta ya",
+      "Mji wa Bean"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "Kuongezeka na kuongezeka kwa mimea vijana",
+      "Mto na tune kwenye msingi wa mto",
+      "Wanyama waliokufa au kuharibiwa"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "Mji wa maji na sandy",
+      "Hali ya hewa na safi ambayo husaidia kuhifadhi nyama",
+      "Matunda ya kupanda kwa ufanisi"
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "Matunda yaliyotumika katika ardhi au kwenye msingi wa mimea",
+      "Larvae inatarajiwa kuathiri wanyama vijana",
+      "Mabadiliko ya matunda ya mimea au matunda ya mimea"
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "Mzunguko wa mimea na mimea yasiyo ya mwenyeji",
+      "Kuondoa mbegu za mazao yaliyoathiriwa",
+      "Mimea ya kuhifadhi kwa ajili ya kulinda wanyama vijana"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "Matumizi ya mbegu ya mfumo au ya ardhi (kwa mfano, Chlorpyrifos, Imidacloprid)",
+      "Matumizi ya kuzuia kabla ya kuzuia hali ya hewa"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "Vyanzo vya kupumzika wakati inapatikana",
+      "Kuhifadhi maeneo bila mbegu za mimea",
+      "Kuangalia mimea vijana na kutibu mapema ikiwa infestation inaonekana"
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "Mkataba wa Ulinzi wa CABI",
+      "Maelezo ya Fao Pest"
     ]
   }
 ]

@@ -1,0 +1,91 @@
+{
+  "disease": "Phytophthora Blight of Cucurbits",
+  "scientific_name": "Phytophthora capsici",
+  "pathogen_type": "Oomycete (fungusähnlicher Organismus)",
+  "description": "Phytophthora blight ist eine zerstörerische Krankheit von Cucurbit-Pflanzen, die durch den Oomycete Phytophthora capsici verursacht wird. Es infiziert Sämlinge, Reben, Blätter und Früchte, die oft zu einem schnellen Pflanzenzusammenbruch und schweren Ernteverlusten unter warmen und nassen Bedingungen führen.",
+  "symptoms": [
+    "Sämlingsdämpfung mit wassergetränkter Fäule an der Bodenlinie",
+    "Plötzliches Verwelken der Pflanzen ohne Blattvergilbung",
+    "Wassergetränkte dunkle Läsionen an Stängeln und Rebstöcken",
+    "Blattflecken, die mit oliv- oder gelben Rändern nekrotisch werden",
+    "Fruchtfäule beginnend an der Stelle, die den Boden berührt",
+    "Weißes Schimmelwachstum auf verrottenden Früchten",
+    "Schneller Fruchtbruch und Verfall"
+  ],
+  "visual_symptoms": [
+    "Wassergetränkte Läsionen an Stängeln und Reben",
+    "weißer Schimmel auf infizierten Cucurbit-Früchten",
+    "Weichverrottende Kürbisse, Gurken oder Melonen",
+    "plötzliche Pflanzenwelke und Weinstockkollaps"
+  ],
+  "hosts": [
+    "Gurken",
+    "Kürbisgewächse",
+    "Squash",
+    "Wassermelone",
+    "Cantaloupe",
+    "Honigmelone",
+    "Kürbisgewächse",
+    "Pfeffer",
+    "Tomaten",
+    "Auberginen"
+  ],
+  "plant_parts_affected": [
+    "Sämlinge",
+    "Wurzeln",
+    "Krone",
+    "Rebflächen",
+    "Blätter",
+    "Obst"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (20–30°C)",
+    "Wassergesättigte Böden",
+    "Starke Regenfälle oder Überschwemmungen",
+    "Schlecht entwässerte Felder",
+    "Häufige Bewässerung"
+  ],
+  "spread": [
+    "Wasserbewegung im Boden",
+    "Regenspritzer",
+    "Bewässerungswasser",
+    "Kontaminierte Boden- und landwirtschaftliche Ausrüstung",
+    "Infizierte Pflanzenabfälle"
+  ],
+  "disease_cycle": [
+    "Krankheitserreger überlebt im Boden mehrere Jahre lang als Oosporen",
+    "Sporen keimen und produzieren Sporangia und Zoosporen",
+    "Zoosporen schwimmen in Wasser und infizieren Pflanzengewebe",
+    "Neue Sporen bilden sich auf infizierten Pflanzen und verbreiten sich durch Wasser oder Regen"
+  ],
+  "impact": [
+    "Schweres Pflanzenwelken und Tod",
+    "Obstfäule im Feld oder Lagerung",
+    "Schnelle Krankheitsausbreitung nach starkem Regen",
+    "Ertragsverluste bis zu 100% bei schweren Ausbrüchen"
+  ],
+  "cultural_control": [
+    "Anlage in gut durchlässigen Feldern",
+    "Vermeiden Sie übermäßige Bewässerung",
+    "Verwenden Sie erhöhte Betten für Cucurbit-Pflanzen",
+    "Rotierende Felder mit nicht gastgebenden Kulturen für mindestens 3 Jahre",
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Saubere landwirtschaftliche Ausrüstung vor dem Wechsel zwischen Feldern"
+  ],
+  "chemical_control": [
+    "Saatgutbehandlung mit Mefenoxam oder Metalaxyl",
+    "Blattsprays von Dimethomorph",
+    "Fungizide auf Kupferbasis",
+    "Regelmäßige Fungizid-Anwendungen bei nassen Bedingungen"
+  ],
+  "prevention": [
+    "Verwenden Sie saubere Felder ohne vorherige Krankheitsgeschichte",
+    "Vermeiden Sie kontaminiertes Bewässerungswasser",
+    "Überwachen Sie Felder nach starken Niederschlägen",
+    "Entfernen infizierte Früchte schnell"
+  ],
+  "source": [
+    "Universität von Illinois Plant Health Instructor",
+    "Babadoost M. 2005. Phytophthora blight of cucurbits"
+  ]
+}

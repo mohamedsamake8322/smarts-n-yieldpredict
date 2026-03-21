@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "Sphinx 双月",
+  "stage": "成年成人",
+  "common_name": "鹰蛾",
+  "description": "成年斯芬克斯飞蛾是一个大型、飞快的飞蛾,有着狭窄的翅膀和坚固的身体。 成年人以花蜜为食,使用长长的长长长长的长毛丝状,并且是许多植物物种的授粉者。",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "成年人通常不造成直接的植物损害",
+    "晚上可能被吸引到灯光下 并充当授粉者"
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "夜间; 黄昏和夜间活动",
+    "长途传单;可以迁移和将幼虫散布到新的宿主工厂"
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "监测成人可以帮助预测幼虫爆发",
+    "灯光陷阱可以减少小地区的成人活动"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "成人阶段主要有利于授粉",
+    "重点管理幼虫,防止作物损害"
   ]
 }

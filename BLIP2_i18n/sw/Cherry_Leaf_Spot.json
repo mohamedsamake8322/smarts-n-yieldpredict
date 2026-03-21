@@ -1,104 +1,88 @@
 {
-  "disease": "Cherry Leaf Spot",
-  "scientific_name": "Blumeriella jaapii",
-  "pathogen_type": "Fungus",
-
-  "description": "Cherry leaf spot is a fungal disease affecting cherry trees, especially in humid or rainy regions. It causes small purple or brown spots on leaves that enlarge over time. Severe infections lead to yellowing and premature leaf drop, reducing fruit quality and yield.",
-
+  "disease": "Maelezo ya Cherry Leaf",
+  "scientific_name": "ya Blumeriella Jaapii",
+  "pathogen_type": "Fungus ya",
+  "description": "Maua ya Cherry ni ugonjwa wa fungal ambayo huathiri maua ya Cherry, hasa katika maeneo ya baridi au ya mvua. Huu huathiri maua ndogo au ya baridi juu ya maua ambayo huongezeka kwa muda. Maambukizi makubwa huathiri kupotea na kupotea mapema ya maua, kupunguza ubora wa matunda na matunda.",
   "symptoms": [
-    "small purple, brown or tan spots on leaves",
-    "irregular or circular lesions across leaf surface",
-    "center of spots may dry and fall out creating holes",
-    "leaves turn yellow and drop prematurely",
-    "cream-colored fungal spore masses on underside of leaves",
-    "fruit may develop spots and become soft",
-    "infected fruit stems may cause fruit drop"
+    "Picha ndogo ya pink, brown au tan kwenye tiketi",
+    "uharibifu wa kawaida au ya mzunguko juu ya mbolea",
+    "Kituo cha maeneo inaweza kucha na kuanguka kuunda giza",
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "Mzunguko wa nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama",
+    "Matunda inaweza kuongezeka na kuwa ya kuvutia",
+    "Matunda ya matunda inaweza kusababisha matunda ya matunda"
   ],
-
   "visual_signature": [
-    "numerous small purple or brown spots on cherry leaves",
-    "yellowing leaves with scattered lesions",
-    "holes in leaves after tissue falls out",
-    "cream-colored spore clusters on leaf underside"
+    "Sehemu nyingi za ndogo za purple au za brown kwenye tiketi za cherry",
+    "Maua ya nyekundu na maua ya kuongezeka",
+    "Nyumba katika karatasi baada ya kudumu kuanguka",
+    "Rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "fruit stems",
-    "fruit (occasionally)"
+    "Makala ya",
+    "Matumizi ya matunda",
+    "Matunda ya matunda (kwa wakati)"
   ],
-
   "hosts": [
-    "sweet cherry",
-    "sour cherry"
+    "Maua ya Cherry",
+    "Maua ya Cherry"
   ],
-
-  "plant_family": "Rosaceae",
-
+  "plant_family": "Rosacea ya",
   "important_hosts": [
-    "Prunus avium",
-    "Prunus cerasus"
+    "Uwanja wa Ndege",
+    "Maisha ya CERASUS"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "wet leaves",
-    "frequent rainfall",
-    "cool to moderate temperatures"
+    "Ukosefu wa juu",
+    "Maonyesho ya nyuma",
+    "Mvua ya kawaida",
+    "Hali ya hewa kwa joto ya chini"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "infected fallen leaves"
+    "Mchakato wa umeme",
+    "Siku ya mvua",
+    "Maonyesho ya kuanguka"
   ],
-
   "disease_cycle": [
-    "fungus overwinters on fallen infected leaves",
-    "spores produced during wet weather",
-    "wind or rain spreads spores to new leaves",
-    "infection occurs whenever leaves remain wet",
-    "disease spreads repeatedly during the growing season"
+    "Mvua ya baridi ya baridi juu ya baridi iliyopangwa",
+    "Matokeo yaliyofanywa wakati wa hali ya hewa",
+    "Mafuriko ya mvua na mafuriko ya mafuriko ya mafuriko ya mafuriko ya mafuriko",
+    "Maambukizi hutokea kila wakati nyenzo zitatumika",
+    "Ugonjwa unaendelea mara kwa mara wakati wa msimu wa ukuaji"
   ],
-
   "damage": [
-    "premature leaf drop",
-    "reduced photosynthesis",
-    "poor fruit quality",
-    "soft fruit",
-    "reduced fruit yield the following season"
+    "Mchakato wa mapumziko mapema",
+    "ya kupunguza photosynthesis",
+    "ubora wa matunda",
+    "Matunda ya kutosha",
+    "Matunda ya kupunguza kwa kipindi cha mwisho"
   ],
-
   "management": [
-    "remove and destroy fallen leaves",
-    "clean infected plant debris under trees",
-    "apply mulch to reduce soil splash",
-    "prune trees to improve air circulation",
-    "monitor trees during wet seasons"
+    "kuondoa na kuharibu barua zilizopo",
+    "Ukosefu wa mbegu za mimea chini ya miti",
+    "Kuendesha mulch ili kupunguza udongo wa ardhi",
+    "Maji ya mti ili kuboresha usafiri wa hewa",
+    "kuangalia mti wakati wa msimu wa mvua"
   ],
-
   "organic_treatment": [
-    "spray sulfur fungicide",
-    "apply neem oil",
-    "baking soda spray solution"
+    "Fungicide ya Sulfur",
+    "Kupata mafuta ya neem",
+    "Soda ya Soda ya Soda"
   ],
-
   "chemical_control": [
-    "copper-based fungicides",
-    "protective fungicide sprays during wet periods"
+    "Magonjwa ya fungicide",
+    "Mbinu za kulinda fungicide wakati wa kipindi cha mvua"
   ],
-
   "prevention": [
-    "good orchard sanitation",
-    "regular pruning for airflow",
-    "early fungicide application during rainy seasons"
+    "Sehemu nzuri ya orchard",
+    "Mchakato wa kawaida kwa ajili ya hewa",
+    "Matumizi ya mapema ya fungicide wakati wa msimu wa mvua"
   ],
-
   "source": [
-    "University of California Integrated Pest Management",
-    "University of Minnesota Extension",
-    "Ohio State University Extension",
-    "Pacific Northwest Extension",
-    "The Holistic Orchard"
+    "Chuo Kikuu cha California Integrated Pest Management",
+    "Chuo Kikuu cha Minnesota Extension",
+    "Chuo Kikuu cha Ohio",
+    "Pasifiki ya Kaskazini",
+    "Mchakato wa Holistic"
   ]
 }

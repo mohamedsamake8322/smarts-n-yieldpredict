@@ -1,91 +1,91 @@
 {
- "disease": "Sclerotinia Fruit Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia fruit rot is a fungal disease that affects many crops and vegetables. The fungus survives in soil as black structures called sclerotia and infects plants during cool and wet conditions, causing soft rot and plant collapse.",
- "symptoms": [
-  "Plants suddenly wilt and collapse",
-  "Soft wet rot on stems or fruits",
-  "White cotton-like fungal growth on infected tissues",
-  "Black seed-like structures (sclerotia) forming on infected areas",
-  "Yellowing leaves before plant collapse",
-  "Rotting of stems, fruits, bulbs, or roots"
- ],
- "visual_symptoms": [
-  "white fluffy mold on plant tissue",
-  "black hard sclerotia inside white fungal growth",
-  "soft watery rot on stems or fruits",
-  "collapsed plants"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Cucumber",
-  "Celery",
-  "Chicory",
-  "Sunflower",
-  "Oilseed rape (canola)",
-  "Carrot",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "fruits",
-  "leaves",
-  "bulbs",
-  "roots"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Wet weather",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia in soil",
-  "Contaminated plant debris",
-  "Direct contact with infected plants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce small cup-like structures (apothecia)",
-  "Apothecia release spores that spread by wind",
-  "Spores infect plant tissues during wet conditions",
-  "Infected plants produce new sclerotia that return to the soil"
- ],
- "impact": [
-  "Plant wilting and collapse",
-  "Fruit and stem rot",
-  "Major crop losses in vegetables and oilseed crops",
-  "Reduced yield and product quality"
- ],
- "cultural_control": [
-  "Remove and destroy infected plants immediately",
-  "Avoid overcrowding of plants",
-  "Improve air circulation in crops",
-  "Rotate crops with non-host plants",
-  "Remove crop debris from the field"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi such as Trichoderma species"
- ],
- "chemical_control": [
-  "Use registered fungicides when disease pressure is high",
-  "Apply protective fungicides during favorable disease conditions"
- ],
- "prevention": [
-  "Avoid planting susceptible crops repeatedly in the same field",
-  "Maintain proper plant spacing",
-  "Monitor fields during wet seasons",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural extension disease guides"
- ]
+  "disease": "Sclerotinia 水果腐烂",
+  "scientific_name": "丙烯二烯丙烯二烯二烯三烯二烯二烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯三烯二烯三烯三烯二烯三烯三烯三烯二烯三烯三烯三烯三烯三烯二烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯二烯三烯三烯",
+  "pathogen_type": "蘑菇",
+  "description": "Sclerotinia水果腐烂是一种影响许多作物和蔬菜的真菌病。 真菌在土壤中生存,因为黑结构被称为,在冷湿条件下感染植物,导致软质腐烂和植物崩溃。",
+  "symptoms": [
+    "植物突然枯萎和崩溃",
+    "柔软湿润的植物或水果腐烂",
+    "受感染组织在白棉类真菌类真菌生长",
+    "在受感染地区形成的黑种子类结构(clerotia)",
+    "植物倒塌前黄叶叶",
+    "果茎、水果、灯泡或根根的旋转"
+  ],
+  "visual_symptoms": [
+    "植物组织上的白青青青青色模霉",
+    "白色真菌生长中的黑硬骨质素",
+    "软软水腐烂于果实或果实上",
+    "崩溃的工厂"
+  ],
+  "hosts": [
+    "发生",
+    "豆豆",
+    "青豆",
+    "番茄",
+    "黄瓜",
+    "切菜",
+    "渐变",
+    "向向日向",
+    "油籽强奸(卡诺拉)",
+    "胡萝",
+    "许多装饰植物"
+  ],
+  "plant_parts_affected": [
+    "源根",
+    "水果水果果",
+    "叶叶叶",
+    "灯泡灯泡",
+    "根根"
+  ],
+  "favorable_conditions": [
+    "凉凉温度",
+    "高湿湿度",
+    "湿天气",
+    "密集作物树冠",
+    "空气循环不畅"
+  ],
+  "spread": [
+    "从Apothecia释放出来的空降螺子",
+    "土壤中的短血素",
+    "受污染植物碎片",
+    "与受感染植物直接接触"
+  ],
+  "disease_cycle": [
+    "这些真菌在土壤中生存了几年 以血清的形式存活",
+    "发芽并生产小型杯状结构(apothecia)",
+    "Apothecia释放出由风吹散的微粒",
+    "在湿湿条件下喷泉渗入植物组织",
+    "受感染的植物产生新的可返回土壤的血清"
+  ],
+  "impact": [
+    "植物贫化和崩溃",
+    "水果和干枯腐烂",
+    "蔬菜和油籽作物的主要作物损失",
+    "产量和产品质量下降"
+  ],
+  "cultural_control": [
+    "立即清除和销毁被感染的植物",
+    "避免工厂过分拥挤",
+    "改善作物的空气循环",
+    "非宿主植物的旋转作物",
+    "从田间清除作物碎片"
+  ],
+  "biological_control": [
+    "使用生物制剂,如微型",
+    "使用有益的真菌,如三头菌种。"
+  ],
+  "chemical_control": [
+    "在疾病压力高时使用注册杀真菌剂",
+    "在有利疾病条件下应用保护性杀真菌杀菌剂"
+  ],
+  "prevention": [
+    "避免在同一田地反复种植易种植作物",
+    "保持适当的植物间距",
+    "湿季期间监测字段",
+    "使用综合疾病管理做法"
+  ],
+  "source": [
+    "植物病理学参考",
+    "农业推广疾病指南"
+  ]
 }

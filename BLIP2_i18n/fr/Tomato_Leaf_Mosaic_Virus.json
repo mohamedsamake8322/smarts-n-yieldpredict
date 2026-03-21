@@ -1,59 +1,69 @@
 {
-  "disease_name": "Tomato Leaf Mosaic Virus (ToMV)",
-  "type": "viral disease",
-  "causal_agent": "Tomato mosaic virus (ToMV), genus Tobamovirus",
+  "disease_name": "Virus mosaïque de feuilles de tomates (ToMV)",
+  "type": "maladie virale",
+  "causal_agent": "Virus de la mosaïque de tomates (ToMV), genre Tobamovirus",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Petunia spp."],
-    "other_hosts": ["Snapdragon (Antirrhinum spp.)", "Delphinium spp.", "Marigold (Tagetes spp.)", "Various other ornamental and crop plants"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Poivre (Capsicum spp.)",
+      "Petunia spp."
+    ],
+    "other_hosts": [
+      "Snapdragon (Antirrhinum spp.)",
+      "Delphinium spp.",
+      "Marigold (Tagetes spp.)",
+      "Autres plantes ornementales et végétales"
+    ]
   },
-  "distribution": "Worldwide",
+  "distribution": "Dans le monde entier",
   "symptoms": {
     "foliage": [
-      "Mottling with alternating yellowish and dark green areas",
-      "Dark green areas often raised or thicker, giving a blister-like appearance",
-      "Leaves may appear fern-like with pointed tips",
-      "Younger leaves may be twisted"
+      "Mottling avec des zones alternées jaunâtres et vert foncé",
+      "Les zones vert foncé souvent élevées ou plus épaisses, donnant une apparence blister-comme",
+      "Les feuilles peuvent apparaître comme de la fougère avec des pointes pointues",
+      "Les feuilles plus jeunes peuvent être tordues"
     ],
     "fruit": [
-      "Distortion and yellow blotches",
-      "Necrotic spots on both green and ripe fruits",
-      "Internal browning of the fruit wall"
+      "Distortion et taches jaunes",
+      "Taches nécrotiques sur les fruits verts et mûrs",
+      "Brunissement interne de la paroi des fruits"
     ],
     "overall_plant": [
-      "Dwarfing of young plants",
-      "Discoloration of flowers",
-      "Reduced fruit set and distorted growth"
+      "Nains de jeunes plantes",
+      "Décoloration des fleurs",
+      "Réduction de l'assortiment de fruits et de la croissance déformée"
     ]
   },
   "disease_cycle": [
-    "Virus can be introduced through infected seeds",
-    "Only a few infected seedlings can lead to rapid spread",
-    "Spread also occurs via contaminated tools, hands, and clothing during routine handling",
-    "Environmental factors such as temperature, day length, light intensity, plant variety, plant age at infection, and strain virulence influence symptom expression"
+    "Le virus peut être introduit par des graines infectées",
+    "Seulement quelques semis infectés peuvent conduire à une propagation rapide",
+    "La propagation se fait également par l'intermédiaire d'outils, de mains et de vêtements contaminés lors de manipulations courantes.",
+    "Des facteurs environnementaux tels que la température, la longueur du jour, l'intensité lumineuse, la variété végétale, l'âge de la plante à l'infection et la virulence de la souche influencent l'expression des symptômes"
   ],
   "management": {
     "cultural": [
-      "Use virus-free certified seed and healthy transplants",
-      "Sanitize tools, hands, and clothing when handling plants",
-      "Remove and destroy infected seedlings promptly to reduce spread",
-      "Control weeds that may serve as alternate hosts"
+      "Utiliser des semences certifiées exemptes de virus et des transplantations saines",
+      "Sanitiser les outils, les mains et les vêtements lors de la manipulation des plantes",
+      "Enlever et détruire rapidement les semis infectés pour réduire la propagation",
+      "Les mauvaises herbes de contrôle qui peuvent servir d'hôtes alternatifs"
     ],
     "resistant_varieties": [
-      "Plant cultivars known to have resistance to ToMV where available"
+      "Les cultivars végétaux dont on sait qu'ils résistent au ToMV, le cas échéant."
     ],
     "chemical": [
-      "No chemical control is effective against viral infections; management relies on prevention and hygiene"
+      "Aucun contrôle chimique n'est efficace contre les infections virales; la gestion repose sur la prévention et l'hygiène."
     ]
   },
   "notes": [
-    "ToMV is mechanically transmitted; it does not require insect vectors",
-    "Seedlings in nurseries are particularly vulnerable, especially during transplanting",
-    "Symptoms may vary depending on environmental conditions and plant growth stage"
+    "Le toMV est transmis mécaniquement; il ne nécessite pas de vecteurs d'insectes",
+    "Les semis dans les pépinières sont particulièrement vulnérables, en particulier pendant la transplantation.",
+    "Les symptômes peuvent varier selon les conditions environnementales et le stade de croissance de la plante."
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "Tomato leaf mosaic virus. American Phytopathological Society (APS) – Plant Disease Factsheets",
-    "Brunt, A.A., et al. 1996. Plant Viruses Online: Descriptions and Lists from the VIDE Database"
+    "Jones, J.B., et al. 2014. Compendium des maladies et parasites de la tomate, 2e édition. APS Press.",
+    "Le virus de la mosaïque de feuilles de tomate. American Phytopathological Society (APS) – Fiches d'information sur les maladies des plantes",
+    "Brunt, A.A., et al. 1996. Virus végétaux en ligne: Descriptions et listes de la base de données VIDE"
   ]
 }

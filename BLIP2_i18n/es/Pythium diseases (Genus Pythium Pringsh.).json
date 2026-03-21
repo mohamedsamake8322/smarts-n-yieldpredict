@@ -1,0 +1,90 @@
+{
+  "disease": "Pythium Dampping-off",
+  "scientific_name": "Genus Pythium",
+  "pathogen_type": "Oomiceto (organismo similar a los hongos)",
+  "description": "Las especies de pitio son patógenos transmitidos por el suelo que causan amortiguación y pudrición de las raíces en muchos cultivos. La enfermedad ataca principalmente las plántulas, causando una pudrición acuosa suave cerca de la línea del suelo que conduce al colapso de las plantas y la muerte.",
+  "symptoms": [
+    "Parches irregulares de plantas marchitas o amarillas en lechos de siembra",
+    "Pudrición acuosa marrón suave en la base de los tallos",
+    "Las plántulas caen en la línea del suelo",
+    "Crecimiento aturdido de plantas jóvenes",
+    "Amarillamiento de plantas más antiguas debido a daños en las raíces",
+    "Pudrición de tallos en plantas recién trasplantadas"
+  ],
+  "visual_symptoms": [
+    "plántulas colapsadas en la superficie del suelo",
+    "Base de tallo suave y marrón empapada en agua",
+    "parches de plántulas muertas o atrofiadas"
+  ],
+  "hosts": [
+    "Tabaco",
+    "Plantas de hortalizas",
+    "Pepino",
+    "Tomate",
+    "Pimienta",
+    "Lechuga",
+    "Judías",
+    "Muchos cultivos para viveros"
+  ],
+  "host_specific_example": {
+    "crop": "Tabaco Burley",
+    "scientific_name": "Nicotiana tabacum (tipo burley)"
+  },
+  "plant_parts_affected": [
+    "plántulas",
+    "Rábanos rusticanos",
+    "tallo inferior",
+    "hipocotilo"
+  ],
+  "image_type": "Campo",
+  "favorable_conditions": [
+    "Suelo húmedo o mal drenado",
+    "Alta humedad del suelo",
+    "Temperaturas frías a moderadas",
+    "Semilleros densos con mala circulación del aire",
+    "Riego excesivo"
+  ],
+  "spread": [
+    "Suelo contaminado",
+    "Agua de riego",
+    "Desechos de plantas infectados",
+    "Herramientas o bandejas contaminadas en viveros"
+  ],
+  "disease_cycle": [
+    "El pitio sobrevive en el suelo como esporas o micelio",
+    "Las esporas germinan en condiciones de suelo húmedo",
+    "Patógeno infecta semillas o plántulas jóvenes",
+    "Los tejidos infectados producen más esporas que se diseminan a través del agua"
+  ],
+  "impact": [
+    "Pérdida de plántulas en viveros",
+    "Establecimiento de cultivos deficientes",
+    "Reducción de la población vegetal",
+    "Reducción del rendimiento debido a la debilidad de las plantas"
+  ],
+  "cultural_control": [
+    "Utilizar semilleros bien drenados",
+    "Evitar el regado excesivo",
+    "Mejorar la circulación del aire en los viveros",
+    "Utilizar suelo estéril o sustrato de plántula",
+    "Reducir la densidad de plantación"
+  ],
+  "biological_control": [
+    "Use hongos beneficiosos como la especie Trichoderma",
+    "Utilice bacterias beneficiosas como Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Tratamiento de semillas con fungicidas como metalaxil o mefenoxam",
+    "Drenches de suelo con fungicidas apropiados en viveros"
+  ],
+  "prevention": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Esterilizar bandejas y herramientas para viveros",
+    "Evitar el riego excesivo",
+    "Rotar los cultivos cuando sea posible"
+  ],
+  "source": [
+    "Referencias de patología vegetal sobre amortiguación de pitio",
+    "Guías de gestión de enfermedades agrícolas"
+  ]
+}

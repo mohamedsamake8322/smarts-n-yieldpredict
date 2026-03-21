@@ -1,0 +1,209 @@
+{
+  "pest_name": "Ebe Ndịda Red Mite",
+  "scientific_name": "Ihe E Ji Ama Onye Bụ́ Nwoke Ma Ọ Bụ Nwanyị",
+  "common_abbreviation": "SRM",
+  "description": "A kọrọ na n'Ebe Ndịda Ụwa, a na - akọ na e nwere ụdị akụ́kụ́ dịgasị iche iche e dekọrọ n'ụdị dị iche iche, gụnyere kamel camel, nnekwu ọkụkọ, na kọfị. O yiri ka ndị mmadụ hà na - abanye n'akwụkwọ osisi ndị dị n'elu. A na - akọ na ha na - eguzogide ọgwụ ndị na - alụso ọrịa ọgụ ná mba ọzọ, ihe dị ka ụdị anụ abụọ na - eri ibe ha na - abụkarị ndị na - eri ibe ha na - alụso SRM ọgụ.",
+  "appearance": {
+    "size": "<0.5 nke dị n'elekere atọ nke ụtụtụ",
+    "color": "Mgbe ụfọdụ, ọ na - adị ka ihe na - acha nchara nchara ọ̀tụ̀tụ̀ miri emi nke mmiri ọgwụ ahụ́ si n'ahụ́ nke na - acha nchara nchara na ụkwụ nkịtị",
+    "sexual_dimorphism": "Ụmụ nwanyị na - ebu ibu karị, na - adị gburugburu; ndị nke oké na ndị nke obere",
+    "eggs": "Ihe na - abụkarị àkwá ndị na - acha nchara nchara, ndị na - acha nchara nchara, ndị na - acha nchara nchara; ndị a na - ahụkarị n'elu elu, ndị na - eyi àkwá ndị na - acha odo odo n'elu elu ha"
+  },
+  "life_cycle": {
+    "stages": [
+      "àkwá",
+      "lava ( ogwe ụkwụ isii)",
+      "ụkwụ otu narị na iri asatọ na otu",
+      "ụkwụ ihe dị ka otu narị na iri asatọ na abụọ",
+      "Ndị toworo eto"
+    ],
+    "generation_time": "Ụbọchị 7 n'ọnọdụ ndị dị mma",
+    "population_peaks": "Oge oyi na oge mgbụsị akwụkwọ (n'oge oyi, ọ̀tụ̀tụ̀ ikpo ọkụ nke ọ̀tụ̀tụ̀ ịjụ oyi nke mmiri na - akpata)",
+    "overwintering": "Ihe ndị dị n'elu akwụkwọ osisi ndị dị ala, mgbe ụfọdụkwa, ụgbụgbọ osisi"
+  },
+  "dispersal": [
+    "Ifufe-efu; nwere ike si n'ogwe osisi ndị e siri esi",
+    "H- na-akakọta ndị mmadụ na ngwá ọrụ",
+    "Hazigharịa site n'akwụkwọ ndị na - emetụ n'ahụ́"
+  ],
+  "host_range": [
+    {
+      "common_name": "Azalea",
+      "scientific_name": "Ma, e nwere ihe ndị ọzọ na - enyere mmadụ aka ịkwụsị ịṅụ sịga."
+    },
+    {
+      "common_name": "Kaliia",
+      "scientific_name": "Kakeia lajaa"
+    },
+    {
+      "common_name": "Ndị America Bụ́ Ndị Ọkà n'Ihe Banyere Anụ Ndị Bi n'Oge Ochie",
+      "scientific_name": "Ihe na - eme ka ahụ́ na - adị mmadụ mma n'ahụ́"
+    },
+    {
+      "common_name": "Igbewood",
+      "scientific_name": "Romanus nke Mbụ, bụ́ onye dị afọ iri abụọ na ise, kwuru ihe gosiri na nke a bụ eziokwu."
+    },
+    {
+      "common_name": "Osisi ndị dị n'ubi",
+      "scientific_name": "Cinnarabmohora"
+    },
+    {
+      "common_name": "HỌL",
+      "scientific_name": "Coffea arabica"
+    },
+    {
+      "common_name": "Ala Na - emepụta Ihe nke Ọma",
+      "scientific_name": "Ụgbọ mmiri ndị na - agba n'elu mmiri na - agba n'ike n'ike."
+    },
+    {
+      "common_name": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "scientific_name": "Anwụrụ ọkụ na - esi ísì ụtọ nke na - esi n'ahụ́ apụta"
+    },
+    {
+      "common_name": "ata ndị na - acha akwụkwọ ndụ akwụkwọ ndụ",
+      "scientific_name": "Ọ na - agba ọsọ n'ike n'ike."
+    },
+    {
+      "common_name": "Ike ọgwụgwụ",
+      "scientific_name": "Ụgbọ mmiri na - agba n'elu mmiri."
+    },
+    {
+      "common_name": "Elagyas / ogwu",
+      "scientific_name": "Mkpụrụ Ndụ Ihe Nketa Ndị Dị n'Ime Ha"
+    },
+    {
+      "common_name": "Bekee a na - akpọ walut",
+      "scientific_name": "Gelsgigia"
+    },
+    {
+      "common_name": "Eucapus",
+      "scientific_name": "Eucapus, nke dị n'Amerịka, dere."
+    },
+    {
+      "common_name": "Guva",
+      "scientific_name": "Ihe a bụ ihe e sere ese nke na - egosi ebe a na - anọ akparịta ụka n'Intanet"
+    },
+    {
+      "common_name": "ịna - eme ihe ndị ga - eme ka obi na - adị ndị ọzọ mma",
+      "scientific_name": "Ọ na - esi ike ịhụ ebe ndị mmadụ na - emezi emezi."
+    },
+    {
+      "common_name": "Ihe Ndị Na - enye Aka n'Ahụ́",
+      "scientific_name": "Ọ bụrụ na ị chọrọ ịmatakwu banyere ya, gụọ isiokwu bụ́ \"Ihe Ndị Ga - enyere Gị Aka Ịna - erubere Chineke Isi. \""
+    },
+    {
+      "common_name": "Jniper",
+      "scientific_name": "Onye na - agba ọsọ n'otu ntabi anya."
+    },
+    {
+      "common_name": "A na - eji akwụkwọ nri ma ọ bụ akwụkwọ aka azụ ya",
+      "scientific_name": "Limennonoss"
+    },
+    {
+      "common_name": "_Ebe ndesịta ngosi ebe na faịlụ",
+      "scientific_name": "Eribribia japria"
+    },
+    {
+      "common_name": "Kèánáhụ́chāghị́ányá",
+      "scientific_name": "Ha na - aga n'ihu n'ebe a na - akwọ ụgbọala."
+    },
+    {
+      "common_name": "Mkpụrụ ndụ ndị dị n'ime ala",
+      "scientific_name": "Ihe Na - enye Afọ Ojuju"
+    },
+    {
+      "common_name": "ga - enyere unu aka ịna - ebi n'udo",
+      "scientific_name": "Ọrịa ogbu na nkwonkwo nke na - ebibi ihe"
+    },
+    {
+      "common_name": "Mmiri Na - ezo n'Ime Ime Mmiri",
+      "scientific_name": "Ma, e nwere ihe ndị ọzọ na - enyere mmadụ aka ịmata ihe bụ́ nsogbu onye ahụ."
+    },
+    {
+      "common_name": "Pyraraka",
+      "scientific_name": "Pyraklacccca"
+    },
+    {
+      "common_name": "Nwunye m na - eji mkpụrụ osisi a eme ihe ọchị.",
+      "scientific_name": "Ihe ndị e ji eme ihe n'oge ochie"
+    },
+    {
+      "common_name": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+      "scientific_name": "AGBOR 3 (Bekee)"
+    },
+    {
+      "common_name": "Áị̀sị́ị̀lụ̀",
+      "scientific_name": "Na - agba ọsọ n'akwụsịghị akwụsị."
+    },
+    {
+      "common_name": "Oge Krismas",
+      "scientific_name": "Clera almala"
+    },
+    {
+      "common_name": "IHE NDỊ GA - ENYERE GỊ AKA",
+      "scientific_name": "E nwere otu nwa agbọghọ aha ya bụ Malina."
+    },
+    {
+      "common_name": "Tea",
+      "scientific_name": "Mmehie na - abịa n'ihu"
+    },
+    {
+      "common_name": "Viyum",
+      "scientific_name": "Viyum, bụ́ onye na - amụ banyere ihe ndị mgbe ochie, kwuru, sị: \"Ọ na - abụ m chọọ ịzụ ha, mụ na ha ana - ekwurịta okwu nke ọma. \""
+    },
+    {
+      "common_name": "Oxalis",
+      "scientific_name": "Oxalis"
+    },
+    {
+      "common_name": "Ụmụ Atụrụ Hà Na - akpa Àgwà Ọma?",
+      "scientific_name": "Kaminaa acria"
+    },
+    {
+      "common_name": "OTA 9 (Yoruba)",
+      "scientific_name": "Prunus Nwa Agbọghọ Na - amaghị Nwoke"
+    },
+    {
+      "common_name": "Ụcha ala",
+      "scientific_name": "Ńgwānụ́ banye"
+    },
+    {
+      "common_name": "Ọkwọ ụgbọ mmiri",
+      "scientific_name": "Gelsgigia"
+    },
+    {
+      "common_name": "NEPA",
+      "scientific_name": "Oyza nọdụrụ ala"
+    }
+  ],
+  "damage_symptoms": [
+    "Inye nri n'isi akwụkwọ ndị dị n'elu na - eme ka ahụ́ na - ama m jijiji, ka isi na - awa m, nakwa ka m na - ama jijiji",
+    "Ebe ndị a na - ekpofu ihe na - apụ n'anya, dị ka ọla nchara ma ọ bụ megharịa ahụ",
+    "Anwụrụ ọkụ na - amalite n'etiti ihe ndị dị n'ime ala nakwa n'ala ahịhịa ndị dị n'ime ala, mesịa kpuchie akwụkwọ osisi ndị ahụ dum",
+    "Ọnụ ọgụgụ buru ibu na - eme ka akwụkwọ osisi ndị dị oké njọ kwụsị n'ụzọ dị egwu",
+    "Ike akụ na uto, karịsịa n'osisi ịta ahụhụ ma ọ bụ n'ime mmiri nke mmiri gbara gburugburu"
+  ],
+  "detection_monitoring": [
+    "Nnyocha e mere n'oge gara aga banyere ihe ndị mebiri emebi, ihe ndị dị ndụ, na akpụkpọ ahụ́ ndị na - ese siga",
+    "Ihe Ndị Ga - enyere Anyị Aka Ịmata Ihe Ndị Ga - emenụ",
+    "A na - eti ndị dara ogbenye ihe n'ụzọ na - adịghị mma (ma ọ bụrụ na a na - eti ha ihe n'ụzọ na - adịghị mma)",
+    "Ọ na - eyi àkwá ndị na - acha uhie uhie n'elu osisi"
+  ],
+  "chemical_control": [
+    "E ji ọgwụ nje nke ọgbọ ndị mepere emepe mee ihe n'ụzọ na - ezighị ezi",
+    "Albbbb, bigfthtriririris, illasis, dosrate, dopprite, tau-fglalalalalan, bụ́ onye na - arụ ọrụ nke ọma n'ọnọdụ ụfọdụ",
+    "A na - eji ígwè ọrụ a na - eji eme ihe n'oge a, ọ bụghị mgbe nile ka ọ na - adị irè",
+    "Usoro iheomume oge mmem adịchaghị irè; nke mmechi mgbe ndị mmadụ na - adịchaghị atụ aro ka a rụọ ọrụ"
+  ],
+  "biological_control": [
+    "Ụgbọ epeepe ndị a na - agba n'elu mmiri bụ́ ndị a na - eji eme ihe maka ndị si mba ọzọ bịa na - arụ ọrụ nke ọma",
+    "Ndị na - eti ọkpọ dị ka ndị na - eti mkpu maka mgbanwe bụ́ ndị dị ka ndị na - eti mkpu maka mgbanwe bụ́ ndị dị ka ndị na - eme ka ọ̀tụ̀tụ̀ ikpo ọkụ nke ahụ́ ha ji alụso ọrịa ọgụ, adịghị atụ aro ka e mee ihe maka SRRM",
+    "Ọtụtụ anụ ndị bi n'ọhịa pụrụ inye aka belata ọnụ ọgụgụ mmadụ"
+  ],
+  "notes": [
+    "NDỊ mmadụ na - ahọrọ akwụkwọ osisi ndị dị n'elu elu, na - arị elu ka ọnụ ọgụgụ mmadụ na - amụba",
+    "Ọ̀tụ̀tụ̀ kasị elu nke ọ̀tụ̀tụ̀ ọ̀tụ̀ ịjụ oyi na ọnọdụ ịkpọ nkụ",
+    "Oké mmiri ozuzo na - ebelata ọnụ ọgụgụ ndị mmadụ",
+    "A nwabeghị anụ ndị na - eri ibe ha bụ́ ndị Australia ule megide SRM"
+  ]
+}

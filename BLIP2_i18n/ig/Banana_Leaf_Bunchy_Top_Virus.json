@@ -1,0 +1,122 @@
+{
+  "disease_name": "Ọrịa Na - efe Efe nke Na - efe Efe n'Elu Ala",
+  "dataset_label": "Mbanye_elu metacity na-enweghị isi_WM_izi maka dìfọ́ọ̀ltụ̀",
+  "pathogen": {
+    "type": "AGBOR 1 (Bekee)",
+    "name": "Nje na - akpata ọrịa ogbu na nkwonkwo nke na - akpata ịba ọcha n'obi",
+    "abbreviation": "BBB",
+    "family": "Nanananala",
+    "genus": "Pruviru",
+    "genome": "Ńgwānụ́ banye"
+  },
+  "host_plant": {
+    "primary_host": "Gana (Musnath.)",
+    "other_hosts": [
+      "Mkpụrụ ndụ ihe nketa",
+      "Argentinaca"
+    ],
+    "vector_alternate_hosts": [
+      "Heonia",
+      "Iji ọgwụ ekechi Mmadụ (Zingrarararasae)"
+    ]
+  },
+  "affected_parts": [
+    "/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀",
+    "Mkpụrụ Ndụ Ihe Nketa",
+    "Mkpụrụ",
+    "Uto nke ihe ọkụkụ n'ozuzu ya"
+  ],
+  "vector": {
+    "type": "IHE NDỊ GA - ENYERE GỊ AKA",
+    "name": "Mkpụrụ Akụ́kụ́ E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "scientific_name": "PAtasiia ranovosa",
+    "transmission_type": "Ńgwānụ́ banye"
+  },
+  "symptoms": {
+    "early_stage": [
+      "Akwụkwọ ndụ akwụkwọ ndụ ndị na - acha akwụkwọ ndụ akwụkwọ ndụ bụ́ ndị e dere n'akụkụ ibe ha",
+      "Akwụkwọ ya ndị dị obere ma dị warara",
+      "Ụkpụrụ omume ndị a tụrụ atụ bụ́ ndị na - adị n'ime akwụkwọ osisi"
+    ],
+    "intermediate_stage": [
+      "Ihe ndị anyị hapụrụ na - aghọ ndị ziri ezi ma na - arụkọ ọrụ ọnụ",
+      "Akwụkwọ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ na ihe ndị na - esi ísì ụtọ",
+      "Ọ́bá akwụkwọ ndị e dere ihe na ha buru ibu"
+    ],
+    "advanced_stage": [
+      "Ọdịdị dị n'elu osisi ahụ",
+      "Ihe ọkụkụ ndị na - agbawa agbawa bụ́ ndị na - emebi ngwa ngwa",
+      "Mkpụrụ Osisi Na - adịghị na Ya Ma Ọ Bụ nke A Na - ejighị Eme Ihe"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Nri a na - eri n'ebe a na - agba ọgwụ bụ́ nke a na - agba ọgwụ bụ́ nke a na - agba ọgwụ bụ́ nke a na - agba ọgwụ n'ahụ́ ya",
+      "Ịkụnye Ihe Ndị Na - alụso Nje HIV Ọgụ",
+      "Ihe ndị nwere nje ndị na - akpata ọrịa"
+    ],
+    "vector_acquisition_time_hours": 18,
+    "vector_retention_time_days": 14,
+    "minimum_transmission_time_minutes": 15,
+    "symptom_development_time_days": 30
+  },
+  "impact": {
+    "severity": "Elu ya dị nnọọ elu",
+    "effects": [
+      "Ihe ọkụkụ ndị na - agbawa agbawa bụ́ ndị na - emebi ngwa ngwa",
+      "Ọ na - ebelata ma ọ bụ ghara ịmị mkpụrụ",
+      "Ọnwa Ndị A Na - eji Eme Ihe n'Ụzọ Na - eju Afọ",
+      "Ihe isi ike ndị bụ́ isi akụ̀ na ụba na - akpata n'imepụta unere"
+    ]
+  },
+  "distribution": [
+    "Ya mere, n'Ebe Ndịda Ọwụwa Anyanwụ Eshia",
+    "Philippines",
+    "Taiwan",
+    "India",
+    "Pakistan",
+    "Ebe Ọwụwa Anyanwụ Eshia",
+    "Oké Osimiriia",
+    "Agwaetiti Pacific",
+    "Hawaii",
+    "Africa"
+  ],
+  "similar_diseases_or_confusions": [
+    "Nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Enweghị ebe obibi n'ụzọ na - enweghị isi na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi"
+  ],
+  "management": {
+    "cultural_control": [
+      "Jiri nje virus-ọ́dēèlụ̀ rụọ ọrụ",
+      "Wepụ ma bibie akụ́kụ́ ndị bu ọrịa ahụ (nke na - acha ọbara ọbara)",
+      "Zere ịkụ ihe ndị nwere nje ndị na - akpata ọrịa"
+    ],
+    "vector_control": [
+      "NA - EME ka unere ghara ịdị ọtụtụ",
+      "Jiri ihe ndị dị ka ihe e ji asa ezé ma ọ bụ ụgbọala mee ihe n'ụzọ na - adịghị mma",
+      "Ihe a kụrụ n'ala na - adị n'etiti osisi ndị a kụrụ ihe na ha"
+    ],
+    "preventive_measures": [
+      "Iwu nchịkwa Ndị Na - erughịrị Mmadụ",
+      "Inwe echiche nke ịkụ ihe onwunwe",
+      "Iji ihe ọkụkụ ndị e si n'ọbara nweta eme ihe"
+    ],
+    "research_directions": [
+      "Iji nje bacteria ndị bara uru na - egwuri egwu",
+      "Ụdị ụyọkọ kpakpando dị iche iche na - eguzogide"
+    ]
+  },
+  "spread_risk_factors": [
+    "Anwụrụ ọkụ ndị bu nje ahụ na - akụ ihe",
+    "E nwere ọnụ ọgụgụ buru ibu nke unere",
+    "Ebe ndị a na - edebe ihe ọcha n'ugbo"
+  ],
+  "references": [
+    "Mkpụrụ Ndụ Ihe Nketa Ndị Dị n'Ime Ala Bụ́ Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "IHE NDỊ NA - EME KA E NWEE OBI ỤTỌ N'OGE OCHIE",
+    "Ọkà Mmụta Ihe Ndị Dị Ndụ bụ́ Journals",
+    "Mahadum Hawaii Na - emepụta Ọrịa Na - efe Efe",
+    "Ngalaba Na - ahụ Maka Ọrụ Ugbo na Queensland"
+  ]
+}

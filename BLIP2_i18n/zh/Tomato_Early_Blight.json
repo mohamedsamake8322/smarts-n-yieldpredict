@@ -1,62 +1,72 @@
 {
-  "disease_name": "Tomato Early Blight",
-  "causal_agent": "Alternaria solani",
-  "other_agents": ["Alternaria tomatophila"],
-  "type": "fungal pathogen",
+  "disease_name": "早熟番茄",
+  "causal_agent": "Alteronaria 索拉尼",
+  "other_agents": [
+    "Alternaria 番茄花"
+  ],
+  "type": "真菌病原体",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)", "Potato (S. tuberosum)"],
-    "secondary": ["Eggplant (S. melongena L.)", "Bell pepper and hot pepper (Capsicum spp.)"],
-    "weeds": ["Black nightshade (Solanum nigrum)"]
+    "primary": [
+      "番茄",
+      "土豆(S.管状)"
+    ],
+    "secondary": [
+      "茄子种植(S.melogenena L.)",
+      "贝尔胡椒和辣椒热辣椒(Capsicum spp.)"
+    ],
+    "weeds": [
+      "黑阴唇(索兰姆尼格里姆)"
+    ]
   },
-  "distribution": "Worldwide; problematic east of the Rocky Mountains and midwest USA for tomato; common in potato-growing regions",
+  "distribution": "全世界;洛基山脉以东和美国中西部的番茄问题;土豆种植区常见",
   "symptoms": {
     "tomato": [
-      "Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm",
-      "Yellowing or chlorosis around leaf spots",
-      "Stem lesions, dark and slightly sunken with concentric rings",
-      "Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass",
-      "Seedlings: collar rot (basal girdling), death"
+      "旧叶叶上的同心“泡眼”叶斑点,棕色至黑色,最高1.3厘米",
+      "叶叶点周围的黄黄或氯化物",
+      "与同心环相干、阴暗和略微下沉",
+      "水果在干附着点或通过伤口腐烂,棕色与深同心圆、黑天鹅绒质",
+      "幼苗:项圈腐烂(秃头),死亡"
     ],
     "potato": [
-      "Concentric dark brown spots on older leaves",
-      "Premature defoliation leading to tuber yield reduction",
-      "Stem spots gaunt and diffuse",
-      "Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage"
+      "老叶子上的同心深褐色斑点",
+      "导致块茎产量减少的过早脱叶",
+      "坚固和弥散的点点",
+      "肿瘤损伤:干、黑、深、压到表面;底底肉干、皮革和棕色;在储存期间可能扩大"
     ]
   },
   "life_cycle": {
-    "type": "polycyclic",
-    "overwintering": "Crop residues or wild solanaceous plants",
-    "infection": "Conidia produced in spring, splashed or wind-dispersed, infect through wounds, stomata or direct penetration",
-    "spread": "Conidia from lesions infect other parts of plant or neighboring plants during the same season"
+    "type": "多环",
+    "overwintering": "作物残留物或野生土生植物",
+    "infection": "春季、喷洒或风吹风、因伤口、斯托马塔或直接穿透而感染",
+    "spread": "同一季节其他植物或邻近植物部位或附近植物部位受损害的共犯"
   },
-  "pathogen_type": "Necrotrophic",
+  "pathogen_type": "神经营养学",
   "cultural_control": [
-    "Clear infected debris to reduce inoculum",
-    "Water plants in the morning to minimize leaf wetness",
-    "Use drip irrigation",
-    "Apply mulch to block soil splash",
-    "Rotate to non-solanaceous crops for at least three years",
-    "Control wild solanaceous plants near fields",
-    "Plant resistant cultivars",
-    "Increase air circulation in rows",
-    "Monitor fields closely in warm, damp weather"
+    "清除受感染碎片以减少接种",
+    "清晨水厂,以尽量减少叶叶湿度",
+    "使用滴滴灌",
+    "应用 mulch 来阻隔土壤飞溅",
+    "向非溶性作物旋转至少三年",
+    "控制田地附近的野生独生植物",
+    "耐植物抗植物抗植物的栽种品种",
+    "增加各行的空气循环",
+    "在温暖、潮湿的天气中密切监视字段"
   ],
   "chemical_control": [
-    "Azoxystrobin (QoI fungicide)",
-    "Pyraclostrobin",
-    "Bacillus subtilis",
-    "Chlorothalonil",
-    "Copper-based products",
-    "Hydrogen dioxide (Hydroperoxyl)",
-    "Mancozeb",
-    "Potassium bicarbonate",
-    "Ziram"
+    "Axoxystrobin (QoI杀真菌剂)",
+    "火化蛋白",
+    "Bacillus 亚基",
+    "氯代烷基",
+    "铜基产品",
+    "二氧化氢(氢氧基)",
+    "红铜",
+    "聚碳酸钾",
+    "齐拉姆"
   ],
-  "notes_on_resistance": "Decreased sensitivity to QoI fungicides due to F129L amino acid substitution in A. solani",
+  "notes_on_resistance": "由于A.solani中的F129L氨基酸替代品,对QoI真菌杀菌剂的敏感性降低",
   "references": [
-    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
-    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
-    "https://doi.org/10.1094/PHYTO-94-11-1231"
+    "http://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx。",
+    "http://www.cabdirect.org/cabbtect/abstract/20093196520",
+    "http://doi.org/10.1094/PHYTO-94-11-1231"
   ]
 }

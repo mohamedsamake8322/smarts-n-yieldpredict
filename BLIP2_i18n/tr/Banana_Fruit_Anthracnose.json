@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "disease": "Banan Meyveleri Anthracnose",
+  "scientific_name": "Colletotrichum Musae Hakkında",
+  "other_name": "Gloeosporium Musarum Hakkında",
+  "pathogen_type": "Fonksiyon",
+  "description": "Banana anthracnose, hem hasat öncesi hem de sonrası muz meyvelerini etkileyen büyük bir mantar hastalığıdır. çoğunlukla mantar Colletotrichum musae'den kaynaklanır. hastalık, hasat sırasında yayılan ve depolama ve taşıma sırasında ciddi hasat sonrası kayıplara neden olabilir.",
   "affected_parts": [
-    "Fruit",
+    "Meyve",
     "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "Çiçek Parçaları (Crown)",
+    "Ağır enfeksiyonlarda yapraklar ve atışlar"
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "Banana Meyve Yüzeyinde Karanlık Dökülen Yaralanmalar",
+    "Kırışıklıklar büyür ve kırışıklık sırasında siyah veya koyu kahverengi olur.",
+    "Orange spore masaları (acervuli) olgun hasarlarda ortaya çıkar",
+    "Meyve rot ve peel necrosis",
+    "Korkunç durumlarda kurşun ve ateş",
+    "Erken yaprak düşüşü ve düşük gelir"
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "Mantar alanında olgunlaşmamış muz meyvelerini enfekte eder",
+    "Sporlar germinat ve bitki dokusuna nüfuz etmek için appressoria oluşur",
+    "Enfeksiyon, yetersiz meyvelerde yumuşak kalır (quiescent aşaması)",
+    "Sonraki: Meyveler hasat sonrasında kaynatıldığında ortaya çıkan semptomlar",
+    "Yağmur, rüzgar, aletler ve enfekte bitki malzemeleri aracılığıyla yayılan sporlar"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "Sıcaklıklar 22-32°C arasında",
+    "Yüksek nem %90'ın üzerinde",
+    "Yağmur ya da monsun mevsimleri",
+    "Çiftliklerde düşük hava dolaşımı"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "Rüzgar ve yağmurlu mantar sporları",
+    "Enfekte bitki çöpleri",
+    "Toplama ve Taşıma Süresi",
+    "kirlenmiş araçlar veya depolama alanları"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "Meyve çürümesi sırasında",
+    "Yetiştirilmiş banana kümelerinde taç rotası",
+    "Düşük meyve kalitesi ve piyasa değeri",
+    "Sonraki YazıSonraki Sonraki YazıSonraki YazıSonraki YazıSonraki YazıSonraki YazıSonraki Yazı"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "Difenkonazol %25 EC (CONCOR): hektar başına 120-150 ml",
+    "Carbendazim 12% + Mancozeb 63% WP (Samartha): Akre başına 300-400 g",
+    "Thiophanat Metil %70 WP (KTM): hektar başına 250-600 g",
+    "Mancozeb %75 WP (K ZEB): hektar başına 500 g",
+    "All in One Fungicide: 1 litre başına 1,5-2 g"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "Trichoderma türleri gibi biyolojik antagonistlerin kullanımı",
+    "Doğal bitki özü ve mikrobiyal biokontrol ajanları",
+    "Biyolojik ajanları ve kültürel uygulamaları birleştiren entegre hastalık yönetimi stratejileri"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "İyi bitki hijyenini korumak ve enfekte bitki kalıntılarını ortadan kaldırmak",
+    "Bananlı bitkilerde iyi hava dolaşımını sağlamak",
+    "Depolama alanında aşırı nemden kaçının",
+    "Yaraları önlemek için meyveleri dikkatlice toplayın",
+    "Hastalığı olmayan bitki malzemesi kullanın"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "Kullanılabilecek yerlerde dayanıklı banana çeşitleri seçin",
+    "Entegre Hastalık Yönetimi Stratejileri",
+    "Yetiştirme öncesi ve yetiştirme sonrası aşamalarda meyve izleme",
+    "Temiz depolama ve ulaşım koşulları"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "Colletotrichum musae üzerinde bitki patolojisi araştırması",
+    "Banan Hastalıkları Hakkında Tarım Uzantısı Yayınları",
+    "Antracnose Yönetimi Hakkında Bilimsel Edebiyat"
   ]
 }

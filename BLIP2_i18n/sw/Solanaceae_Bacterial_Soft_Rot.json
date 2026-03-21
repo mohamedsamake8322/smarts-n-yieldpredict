@@ -1,85 +1,85 @@
 {
- "disease": "Solanaceae Bacterial Spot",
- "scientific_name": "Xanthomonas campestris pv. vesicatoria",
- "pathogen_type": "Bacterium",
- "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
- "symptoms": [
-  "Small brown water-soaked spots on leaves",
-  "Circular lesions without concentric rings",
-  "Spots merging to form large dark streaks",
-  "Yellowing of leaves around lesions",
-  "Leaves may drop early (defoliation)",
-  "Raised scab-like spots on fruits"
- ],
- "visual_symptoms": [
-  "dark brown leaf spots",
-  "water-soaked lesions",
-  "scab-like lesions on fruit",
-  "yellowing leaves with many spots"
- ],
- "hosts": [
-  "Tomato",
-  "Pepper",
-  "Chili pepper",
-  "Sweet pepper",
-  "Other Solanaceae crops"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (27–32°C)",
-  "High humidity",
-  "Frequent rain or overhead irrigation",
-  "Wet foliage"
- ],
- "spread": [
-  "Infected seeds",
-  "Plant debris",
-  "Wind-driven rain",
-  "Contaminated tools and equipment",
-  "Workers handling plants"
- ],
- "disease_cycle": [
-  "Bacteria survive in infected seeds and crop debris",
-  "Bacteria spread by rain splash or contact",
-  "They enter plants through stomata or wounds",
-  "Lesions form on leaves and fruit",
-  "Bacteria multiply and spread to nearby plants"
- ],
- "impact": [
-  "Leaf drop and reduced photosynthesis",
-  "Fruit quality loss due to lesions",
-  "Severe yield reduction",
-  "Possible crop failure in severe outbreaks"
- ],
- "cultural_control": [
-  "Use certified disease-free seeds",
-  "Rotate crops for 2–3 years",
-  "Remove infected plant debris",
-  "Avoid working in fields when plants are wet",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus-based bio-pesticides",
-  "Apply biological plant protection products where available"
- ],
- "chemical_control": [
-  "Copper-based bactericides",
-  "Copper + mancozeb mixtures",
-  "Copper hydroxide",
-  "Copper oxychloride"
- ],
- "prevention": [
-  "Use healthy transplants",
-  "Maintain field sanitation",
-  "Control weeds and volunteer plants",
-  "Monitor crops regularly during warm wet weather"
- ],
- "source": [
-  "UMass Extension Vegetable Disease Guide",
-  "Plant pathology references"
- ]
+  "disease": "Matokeo ya Bacteria ya Solanaceae",
+  "scientific_name": "Maandiko ya Xanthomonas campestris pv.",
+  "pathogen_type": "Bakteri ya",
+  "description": "Sehemu ya bakteria ni magonjwa makubwa ya bakteria ambayo yanaathiri tomato na peppers. It causes dark water-soaked spots on leaves and fruits, leading to defolition and reduced yield. Ugonjwa inazidi kuenea kwa urahisi katika hali ya hewa na ya mvua.",
+  "symptoms": [
+    "Picha ndogo ya maji ya baridi juu ya karatasi",
+    "Uharibifu wa mzunguko bila mbinu za mzunguko",
+    "Maonyesho ya kuunganisha kuunda mikono makubwa ya giza",
+    "Maua ya maua yanayohusiana na maua ya maua",
+    "Maonyesho yanaweza kuongezeka mara kwa mara (kuongezeka)",
+    "Matunda ya kuongezeka kwa matunda ya matunda"
+  ],
+  "visual_symptoms": [
+    "Picha za rangi za rangi za rangi",
+    "Uharibifu wa maji",
+    "Uharibifu wa matunda kama vile matunda",
+    "Picha za nyekundu na viungo vingi"
+  ],
+  "hosts": [
+    "Mji wa Tomato",
+    "Pepsi ya",
+    "Chili ya pepe",
+    "Chakula ya pepe",
+    "Mazao mengine ya Solanaceae"
+  ],
+  "plant_parts_affected": [
+    "Makala ya",
+    "Maoni ya",
+    "Matunda ya"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto (27-32 ° C)",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida au mvua ya juu",
+    "Fomu ya Fomu"
+  ],
+  "spread": [
+    "Mafuta ya kuvutia",
+    "Mipango ya Mipango",
+    "Mwisho wa mvua",
+    "vifaa na vifaa vya uchafuzi",
+    "Wafanyabiashara wanafanya kazi katika uzalishaji"
+  ],
+  "disease_cycle": [
+    "Bacteria kuishi katika mbolea na mbolea zilizoathirika",
+    "Bacteria kuenea kwa mvua splash au mawasiliano",
+    "Wanaingia mimea kupitia stomata au maumivu",
+    "Matokeo ya kuongezeka kwa maumivu na matunda",
+    "Bakteri kuongezeka na kuenea katika mimea ya karibu"
+  ],
+  "impact": [
+    "Kuongezeka na kupunguza photosynthesis",
+    "Kupoteza ubora wa matunda kutokana na magonjwa",
+    "Ukosefu mkubwa wa mapato",
+    "uwezekano wa uharibifu wa mimea katika matukio makubwa"
+  ],
+  "cultural_control": [
+    "Kutumia matunda yasiyo ya magonjwa",
+    "Matunda ya Rotate kwa miaka 2-3",
+    "Kuondoa mbegu za mimea zilizoathirika",
+    "Kuacha kufanya kazi katika maeneo wakati mimea ni dalili",
+    "Tumia aina za kupumzika wakati inapatikana"
+  ],
+  "biological_control": [
+    "Kutumia virutubisho muhimu kama vile bacillus-based bio-pesticides",
+    "Tumia bidhaa za ulinzi wa mimea ambapo inapatikana"
+  ],
+  "chemical_control": [
+    "Bactericides kwa msingi wa tembo",
+    "Mchakato + Mancozeb Mchakato",
+    "Hydroxide ya Copper",
+    "Ukubwa wa Oxychloride"
+  ],
+  "prevention": [
+    "Kutumia transplants salama",
+    "Uhifadhi wa maeneo ya hewa",
+    "Ulinzi wa kudhibiti na uzalishaji wa kujitolea",
+    "Ufuatilia mimea mara kwa mara wakati wa hali ya hewa"
+  ],
+  "source": [
+    "Ugonjwa wa UMass ya Uzalishaji",
+    "Matokeo ya patologi ya mimea"
+  ]
 }

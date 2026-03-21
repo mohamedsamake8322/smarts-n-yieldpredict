@@ -1,0 +1,78 @@
+{
+  "disease": "Braunfäule von Früchten",
+  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
+  "pathogen_type": "Pilze",
+  "description": "Braunfäule ist eine Pilzkrankheit, die Früchte, Blumen und Zweige vieler Obstbäume angreift. Die Krankheit verursacht vor oder nach der Ernte Fruchtzerfall und kann sich unter warmen und feuchten Bedingungen schnell ausbreiten.",
+  "symptoms": [
+    "Kleine braune Flecken auf der Fruchtoberfläche",
+    "Weiche braune Fäule, die sich über die Frucht ausbreitet",
+    "Kreisgraue oder beige Sporenmassen auf der Frucht",
+    "Fruchtschrumpfen und Trocknen auf dem Baum",
+    "Mummifizierte Früchte, die an Ästen befestigt bleiben",
+    "Blütenbrand und Zweig-Dieback bei schweren Infektionen"
+  ],
+  "hosts": [
+    "Pfirsich",
+    "Aprikosen",
+    "Pflaumen",
+    "Kirsche",
+    "Nektar",
+    "Apfel",
+    "Birne",
+    "Mandeln",
+    "andere Steinfrüchte"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (20–25°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle",
+    "Obstverletzungen oder -risse",
+    "Dichte Obstgärten mit schlechtem Luftstrom"
+  ],
+  "spread": [
+    "Windsporen",
+    "Regenspritzer",
+    "Infizierte Früchte, die auf Bäumen zurückgelassen werden",
+    "Mummifizierte Früchte auf Ästen",
+    "Infizierte Pflanzenabfälle"
+  ],
+  "management": [
+    "Entfernen und zerstören infizierte Früchte",
+    "Baumstämme zur Verbesserung der Luftströmung",
+    "Mumifizierte Früchte von Bäumen entfernen",
+    "Vermeiden Sie Obstverletzungen während der Ernte",
+    "Pflege von Obstgarten-Sanitäreinrichtungen"
+  ],
+  "biological_control": [
+    "Bacillus subtilis biofungizide",
+    "Biologische Behandlungen auf Trichoderma-Basis",
+    "Aureobasidium pullulans biologische Kontrollmittel"
+  ],
+  "chemical_control": [
+    "Tebuconazol",
+    "Propiconazol",
+    "Myclobutanil",
+    "Captan (Erdäpfel)",
+    "Mancozeb",
+    "Azoxystrobin",
+    "Fenbuconazol"
+  ],
+  "prevention": [
+    "Entfernen infizierte Früchte während der Saison",
+    "Vermeiden Sie Fruchtschäden durch Insekten",
+    "Pflege einer guten Obstgartenhygiene",
+    "Früchte sorgfältig ernten",
+    "Obst in trockenen und kühlen Bedingungen aufbewahren"
+  ],
+  "visual_signature": [
+    "braune weiche Fäule auf Frucht",
+    "kreisförmige graue Sporenringe",
+    "mumifizierte Früchte auf Ästen"
+  ],
+  "source": [
+    "CABI Crop Protection Compendium 2022",
+    "Grenzen in der Mikrobiologie 2022",
+    "Der Pflanzengesundheitsinstruktor",
+    "Cornell University - Krankheiten von Bäumen und Sträuchern"
+  ]
+}

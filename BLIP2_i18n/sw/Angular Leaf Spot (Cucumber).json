@@ -1,40 +1,40 @@
 {
   "title": [
-    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
+    "Jani la Kawaida (Cucumber, Mellon, Pumpkin, Squash, na Zucchini)",
     "Pseudomonas syringae pv. lachrymans"
   ],
   "Table": {
     "Prevention": [
-      "Planting pathogen-free seed is the primary control strategy",
-      "Treat contaminated seed with hot water to reduce bacteria levels",
-      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
-      "Avoid overhead irrigation and reuse of irrigation tail water",
-      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
-      "Plant resistant cucumber varieties if the disease is a recurrent problem",
-      "No biological control practices have been developed for angular leaf spot"
+      "Kupanda mbegu isiyo na viini ndiyo mbinu kuu ya kudhibiti",
+      "Fika mbegu iliyochafuliwa kwa maji moto ili kupunguza bakteria",
+      "Fanya mazoezi ya mzunguko wa miaka mitatu au zaidi wa mazao kwenda kwenye maeneo yasiyo na mimea kama vile nafaka ndogo au mahindi",
+      "Epuka kunyunyizia maji mashamba na kutumia tena maji ya mkia",
+      "Kulima na kufanya kazi katika mashamba wakati matawi ya miti yanapokauka ili kupunguza kuenea kwa miti",
+      "Aina mbalimbali za mbilimbibahari sugu ikiwa ugonjwa huo unarudi mara kwa mara",
+      "Hakuna mbinu za kudhibiti bakteria ambazo zimebuniwa ili kutokeza jani la kawaida"
     ],
     "Monitoring": [
-      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
-      "Check for angular appearance of lesions (they do not cross plant veins)",
-      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
-      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
-      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
-      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+      "Tafuta vidonda vidogo vyenye maji kwenye majani yaliyofungiwa kwa sehemu kubwa kwenye vena kubwa za mimea",
+      "Chunguza uone jinsi vidonda vinavyoonekana kwa pembe (sivyovuka vena za mimea)",
+      "Tafuta mahali palipo na maziwa kwenye sehemu ya chini ya vidonda wakati wa hali ya hewa yenye unyevunyevu",
+      "Jihadhari na vidonda vinavyogeuka rangi ya kahawia na kuanguka kutoka kwenye jani (ona mashimo)",
+      "Chunguza matunda kwa kutumia vijiko vidogo vya maji (0.04 hadi 0.8) vyenye vibano vilivyo na vioko vyenye rangi nyepesi",
+      "Kutambua madokezo ya kuzuia maambukizo ya mfumo wa kinga yanayokomesha ukuzi wa mzabibu"
     ],
     "Direct Control": [
-      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
-      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
-      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
-      "Apply Nordox at 1.5-2.0 lb per acre",
-      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
-      "Chemical controls are most effective when integrated with sound cultural control practices"
+      "Tumia bakteria za Shaba (Champ, Kocide, Nordox, Tri Basic Copper) kupunguza ukali",
+      "Tumia Champ Dry Prill au Champ Fomula 2 kwenye 1.33 krb kwa kila eka",
+      "Tumia Kocide (101, DF, 4.5LF, 3000) kwa viwango vinavyopendekezwa (5 hadi 3 lbs/pts)",
+      "Tumia dawa ya Nordox katika eneo la 1.5-2.0 kwa kila ekari",
+      "Tumia michanganyiko ya shaba/EBC kama vile Komberofix MZ Dispers katika l 4-7.25",
+      "Vidhibiti vya kikemikali huwa na matokeo zaidi vinapochanganywa na mazoea ya kitamaduni ya kudhibiti sauti"
     ],
     "Restrictions": [
-      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
-      "Copper-Count-N: 7 days application frequency; may cause injury",
-      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
-      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
-      "Always follow product label for specific dosage and timing of application"
+      "Vifaru vya shaba: ukawaida wa siku 5 hadi 7; huenda ukasababisha jeraha la mimea",
+      "Shaba-N: Siku 7 za maombi; huenda kukasababisha majeraha",
+      "Cuprofix MZ Dispers: Maximum wa kilo 63.1 kwa msimu; PIPI siku 5",
+      "Kipindi cha siku 4 hadi 7 cha kunyunyiza maji kinahitajiwa hali zinapokuwa nzuri sana",
+      "Sikuzote fuata kibandiko cha bidhaa kwa vipimo na wakati hususa wa utumizi"
     ]
   }
 }

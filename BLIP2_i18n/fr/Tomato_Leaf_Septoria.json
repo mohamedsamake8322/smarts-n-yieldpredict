@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
+  "disease_name": "Feuille de tomates Septoria",
+  "type": "Maladie fongique",
   "causal_agent": "Septoria lycopersici",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Les mauvaises herbes solanacées (p. ex., le goéland)"
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "Dans le monde entier",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "Taches circulaires avec des bords brun foncé et des centres de bronzage à gris",
+      "Centres parsemés de pycnidie noire",
+      "L'halo jaune étroit entoure souvent les lésions foliaires",
+      "Les infections graves provoquent le jaunissement, le brunissement, le flétrissement et la défoliation des feuilles."
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "L'infection par les fruits est rare"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "Le champignon hiverne sur les débris de tomates ou les débris de mauvaises herbes solanacées infectés",
+    "Il peut également survivre sur des équipements comme des pieux d'usine et des cages",
+    "Les conidies se propagent par éclaboussures d'eau provenant de la pluie ou de l'irrigation par aspersion.",
+    "L'humidité relative élevée, les températures élevées et l'humidité prolongée des feuilles favorisent le développement de la maladie."
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "Rotation des cultures pendant au moins 1 à 2 ans vers des cultures non solanacées",
+      "Contrôler les mauvaises herbes sensibles telles que le filet de cheval",
+      "Enlever et détruire les débris végétaux (brûler ou enterrer les plantes infestées, s'il y a lieu)",
+      "Plantes de sciage ou de treillis pour améliorer la circulation de l'air et réduire le contact feuillage-sol",
+      "Augmenter l'espacement entre les plantes et éviter les surmouillages pour réduire l'humidité",
+      "Surveiller l'irrigation pour prévenir l'humidité prolongée des feuilles",
+      "Utiliser des variétés de tomates résistantes lorsqu'elles sont disponibles"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "Appliquer des pulvérisateurs de fongicides de protection enregistrés à intervalles réguliers",
+      "Les fongicides contenant des principes actifs tels que le chlorothalonil ou le bisdithiocarbamate d'éthylène (EBDC) sont efficaces",
+      "Noms commerciaux courants: Daconil, Mancozeb, Fungonil",
+      "Réappliquer fréquemment (généralement tous les 7 jours) selon les instructions de l'étiquette",
+      "Des applications préventives de fongicides à base de cuivre ou de chlorothalonil peuvent être justifiées dans les zones à infection chronique."
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "Les mesures préventives sont plus efficaces que la tentative de guérir les plantes infectées.",
+    "Les conidies survivent à la fois sur les débris végétaux et sur l'équipement, de sorte que l'assainissement est essentiel.",
+    "L'humidification excessive ou l'humidité élevée exacerbe la propagation des maladies"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Fiche d'information sur les taches de feuilles de Septoria.",
+    "Brannen, P. & Sugar, D. 2020. Gestion des taches de tomates dans les jardins à la maison.",
+    "Jones, J.B., et al. 2014. Compendium des maladies et parasites de la tomate, 2e édition. APS Press."
   ]
 }

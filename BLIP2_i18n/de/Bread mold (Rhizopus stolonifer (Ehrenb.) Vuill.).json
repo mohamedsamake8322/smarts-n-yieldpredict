@@ -1,0 +1,87 @@
+{
+  "disease": "Rhizopus Weichfäule (Brotform)",
+  "scientific_name": "Rhizopus stolonifer",
+  "pathogen_type": "Pilze",
+  "description": "Rhizopus stolonifer ist ein verbreiteter Pilz, der bei vielen Früchten und Gemüsen, besonders nach der Ernte, zu Weichfäule führt. Er wächst schnell unter warmen und feuchten Bedingungen und breitet sich leicht durch Luftsporen aus. Die Krankheit greift vor allem reife oder verwundete Produkte mit hohem Zuckergehalt an.",
+  "symptoms": [
+    "Weiche wässrige Fäule auf Obst oder Gemüse",
+    "Schneller Gewebeabbau und Leckage von Saft",
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf der Oberfläche",
+    "Entwicklung der schwarzen Sporangia (schwarze Schimmelpunkte)",
+    "Säuerlicher oder saurer Geruch von infizierten Produkten",
+    "Rascher Zerfall, der sich auf nahe gelegene Früchte ausbreitet"
+  ],
+  "hosts": [
+    "Erdbeere",
+    "Tomaten",
+    "Pfirsich",
+    "Melone",
+    "Wassermelone",
+    "Bananen",
+    "Weintrauben",
+    "Mango",
+    "Papaya",
+    "Süßkartoffeln",
+    "Karotten",
+    "Gurken",
+    "Auberginen",
+    "Pfeffer",
+    "Zwiebel",
+    "Knoblauch",
+    "Bohnen",
+    "verschiedene gelagerte Früchte und Gemüse"
+  ],
+  "favorable_conditions": [
+    "Hohe Luftfeuchtigkeit",
+    "Warme Temperatur (25–30°C)",
+    "Verwundete oder beschädigte Früchte",
+    "Hoher Zuckergehalt in reifen Früchten",
+    "Schlechte Lagerungsbedingungen",
+    "Schlechte Belüftung während der Lagerung"
+  ],
+  "spread": [
+    "Pilzsporen in der Luft",
+    "Kontakt zwischen infizierten und gesunden Früchten",
+    "Insekten, die Sporen tragen",
+    "Kontaminierte Lagerbehälter oder -flächen"
+  ],
+  "management": [
+    "Behandeln Sie Früchte sorgfältig, um Wunden zu vermeiden",
+    "Entfernen und zerstören infizierte Früchte schnell",
+    "Gute Hygiene in Lagerräumen bewahren",
+    "Produkte bei niedriger Temperatur lagern",
+    "Verbesserung der Belüftung und Verringerung der Luftfeuchtigkeit"
+  ],
+  "biological_control": [
+    "Syncephalis-Arten, die Rhizopus parasitisieren",
+    "Bacillus-Arten, die antimykotische Verbindungen herstellen",
+    "Fengycin-produzierende Bakterien, die das Pilzwachstum hemmen"
+  ],
+  "chemical_control": [
+    "Thiabendazol",
+    "Benomyl",
+    "Imazalil",
+    "Propiconazol",
+    "Thiocarbamate",
+    "Fludioxonil",
+    "Tebuconazol",
+    "Fenhexamid",
+    "Azoxystrobin",
+    "Chlor",
+    "Natriumhypochlorit",
+    "Calciumhypochlorit"
+  ],
+  "prevention": [
+    "Früchte sorgfältig ernten, um Verletzungen zu vermeiden",
+    "Aufrechterhaltung der ordnungsgemäßen Kühllagerung",
+    "Lagerräume sauber und desinfiziert halten",
+    "Vermeiden Sie das Stapeln beschädigter Produkte mit gesunden Früchten",
+    "Reduzierung der Feuchtigkeit während der Lagerung und des Transports"
+  ],
+  "source": [
+    "Bautista-Baños et al., Nachernte Verfall von Obst und Gemüse",
+    "Smiths Einführung in die industrielle Mykologie",
+    "Wechselwirkungen zwischen Pflanzen und Mikroben – Rhizopus stolonifer",
+    "Wissenschaftliche Literatur zu Pilzkrankheiten nach der Ernte"
+  ]
+}

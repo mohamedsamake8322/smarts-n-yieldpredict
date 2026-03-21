@@ -1,104 +1,92 @@
 {
- "pest": "Weevils (Snout beetles)",
- "scientific_name": "Superfamily Curculionoidea; family Curculionidae",
- "pest_type": "Insect (Coleoptera: Curculionidae)",
- "description": "Weevils are plant-feeding beetles characterized by a long snout (rostrum). Both larvae and adults damage crops by feeding on plant tissues such as leaves, fruits, seeds, stems or roots. Many species are serious pests in agriculture and storage systems.",
- 
- "identification": [
-  "Adults have a long curved snout called a rostrum",
-  "Elbowed antennae ending in a club",
-  "Body robust and usually covered with scales or bristles",
-  "Size typically 5–15 mm (range 1–35 mm)",
-  "Larvae are white, C-shaped grubs without legs"
- ],
-
- "life_cycle": [
-  "Female uses the rostrum to drill holes in plant tissue",
-  "Eggs are laid inside fruits, seeds, stems or roots",
-  "Larvae develop inside plant tissue and feed internally",
-  "Larvae pupate in soil or plant material",
-  "Adults emerge and continue feeding on plants"
- ],
-
- "hosts": [
-  "Rice",
-  "Maize",
-  "Wheat",
-  "Cotton",
-  "Coffee",
-  "Banana",
-  "Citrus",
-  "Apple",
-  "Mango",
-  "Coconut",
-  "Stored grains"
- ],
-
- "symptoms": [
-  "Small holes in leaves, fruits or seeds",
-  "Damaged or hollow seeds and grains",
-  "Premature fruit drop",
-  "Larval tunnels inside stems or fruits",
-  "Stunted plant growth",
-  "Presence of adult beetles with a long snout"
- ],
-
- "favorable_conditions": [
-  "Warm climates",
-  "High humidity",
-  "Fields with plant residues or poor sanitation",
-  "Continuous cropping without rotation"
- ],
-
- "spread": [
-  "Movement of infested seeds or fruits",
-  "Adult beetles flying to new host plants",
-  "Transport of contaminated soil or plant material"
- ],
-
- "economic_importance": [
-  "Major pests of agricultural crops worldwide",
-  "Some species attack stored grains",
-  "Can cause significant yield and quality losses"
- ],
-
- "biological_control": [
-  "Predators such as birds, spiders and predatory beetles",
-  "Parasitic wasps attacking larvae or eggs",
-  "Entomopathogenic fungi such as Beauveria bassiana and Metarhizium anisopliae",
-  "Entomopathogenic nematodes (Steinernema spp., Heterorhabditis spp.)"
- ],
-
- "chemical_control": [
-  "Imidacloprid",
-  "Thiamethoxam",
-  "Lambda-cyhalothrin",
-  "Deltamethrin",
-  "Chlorpyrifos (where permitted)",
-  "Carbaryl"
- ],
-
- "integrated_management": [
-  "Crop rotation to break the life cycle",
-  "Remove and destroy infested fruits or plant residues",
-  "Use pheromone or food traps to monitor adults",
-  "Use resistant or tolerant crop varieties",
-  "Maintain field sanitation",
-  "Apply biological or chemical control when populations exceed thresholds"
- ],
-
- "notable_species": [
-  "Sitophilus oryzae (rice weevil)",
-  "Sitophilus zeamais (maize weevil)",
-  "Anthonomus grandis (cotton boll weevil)",
-  "Rhynchophorus ferrugineus (red palm weevil)",
-  "Cosmopolites sordidus (banana weevil)"
- ],
-
- "sources": [
-  "CABI Crop Protection Compendium",
-  "USDA Agricultural Research Service",
-  "FAO Integrated Pest Management guides",
-  "Triplehorn & Johnson – Borror and DeLong's Introduction to the Study of Insects"
- ]
+  "pest": "Weevils (mchakato wa nyuma)",
+  "scientific_name": "Familia ya Curculionoidea; familia ya Curculionidae",
+  "pest_type": "Maisha ya mimea (Coleoptera: Curculionidae)",
+  "description": "Weevils ni mbegu ya mimea inayojulikana kwa kuongezeka kwa muda mrefu (rastrum). Kila larva na watu wazima kuharibu mimea kwa kuongezeka kwa mazao ya mimea kama vile nyota, matunda, mbegu, stems au matunda. aina nyingi ni uharibifu mkubwa katika kilimo na mifumo ya kuhifadhi.",
+  "identification": [
+    "Wanawake wana giza ya muda mrefu inayojulikana kama rostrum",
+    "Antennae ya kuondoka katika klabu",
+    "mwili wa nguvu na kawaida kutiwa na mzunguko au bristles",
+    "Kiwango cha kawaida cha 5-15 mm (mzunguko wa 1-35 mm)",
+    "Larvae ni rangi ya C bila miguu"
+  ],
+  "life_cycle": [
+    "Wanawake hutumia rostrum ili kutafsiri nywele katika mwili wa mimea",
+    "Wanyama hutolewa ndani ya matunda, mbegu, stems au matunda",
+    "Larvae kuendeleza ndani ya mwili wa mimea na kuhifadhi ndani",
+    "Mchakato wa larva katika ardhi au vifaa vya mimea",
+    "Wanawake wanakuja na kuendelea kuishi kwenye mimea"
+  ],
+  "hosts": [
+    "Rice ya",
+    "Maisha ya",
+    "Maji ya Wheat",
+    "Baadhi ya Cotton",
+    "Kawaida",
+    "Banana ya",
+    "ya Citrus",
+    "Mji wa Apple",
+    "Mango ya",
+    "ya Coconut",
+    "Mafuta ya kuhifadhi"
+  ],
+  "symptoms": [
+    "Nyumba ndogo katika karatasi, matunda au matunda",
+    "Matumizi ya mazao na mazao yaliyoathiriwa au yaliyoathiriwa",
+    "Matunda ya mapema",
+    "Tuna ya Larval ndani ya matunda au matunda",
+    "Kuanzisha ukuaji wa mimea",
+    "Ukosefu wa maua ya watu wazima na kuongezeka kwa muda mrefu"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa",
+    "Ukosefu wa juu",
+    "Bidhaa na mbegu za mimea au usafirishaji mbaya",
+    "Mipango ya kuongezeka bila kuongezeka"
+  ],
+  "spread": [
+    "Mabadiliko ya matunda ya matunda au matunda",
+    "Wanawake Beetles kuondoka kwa mimea mpya ya host",
+    "Usafiri wa ardhi au vifaa vya mimea"
+  ],
+  "economic_importance": [
+    "Uharibifu mkubwa wa matunda ya kilimo duniani kote",
+    "Baadhi ya aina za mashambulizi ya kuhifadhi wanyama",
+    "Inaweza kusababisha faida kubwa na uharibifu wa ubora"
+  ],
+  "biological_control": [
+    "Wapiganaji kama vile mbegu, wanyama na wanyama wanyama",
+    "Wapiganaji wa parasitic wanaathiri larva au maua",
+    "Maumivu ya Entomopathogenic kama Beauveria bassiana na Metarhizium anisopliae",
+    "Heterorhabditis spp. (kumbukumbu ya Heterorhabditis spp.)"
+  ],
+  "chemical_control": [
+    "ya Imidacloprid",
+    "ya Thiamethoxam",
+    "ya Lambda-cyhalothrin",
+    "ya Deltamethrin",
+    "Chlorpyrifos (kama inawezekana)",
+    "Karbala ya"
+  ],
+  "integrated_management": [
+    "Mzunguko wa mimea ili kuharibu soko la maisha",
+    "Kuondoa na kuharibu matunda au matunda ya mimea",
+    "Kutumia pheromone au mbegu za chakula ili kufuatilia watu wazima",
+    "Kutumia aina ya mimea ya kudumu au ya kudumu",
+    "Uhifadhi wa maeneo ya hewa",
+    "Kutoa ufuatiliaji wa biolojia au kemikali wakati idadi ya wakazi ni juu ya mipaka"
+  ],
+  "notable_species": [
+    "Sitofilus oryzae (kumbukumbu ya rice weevil)",
+    "Maisha ya Maisha ya Maisha ya Maisha (Maize Weevil)",
+    "Anthonomus grandis (kumbukumbu ya chumba cha wanyama)",
+    "Rhynchophorus ferrugineus (kumbukumbu ya roho)",
+    "Maonyesho ya Cosmopolites sordidus (banana weevil)"
+  ],
+  "sources": [
+    "Mkataba wa Ulinzi wa CABI",
+    "Huduma ya Utafiti wa Kilimo ya USDA",
+    "Maelekezo ya FAO ya Ulimwengu wa Ulimwengu",
+    "Triplehorn & Johnson – Uwekezaji wa Borror na DeLong katika utafiti wa insects"
+  ]
 }

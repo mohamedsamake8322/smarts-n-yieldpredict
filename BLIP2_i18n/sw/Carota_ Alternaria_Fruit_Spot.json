@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
-  "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "disease": "Chini ya Chini ya Chini",
+  "scientific_name": "Mabadiliko ya Daudi",
+  "pathogen_type": "Fungus ya",
+  "description": "Njia ya Alternaria ni ugonjwa wa fungus ambayo huathiri majani ya karoti. Ni kuanza juu ya majani ya zamani na kuunda majani ya dhahabu na margins ya dhahabu. Katika ugonjwa wa dhahabu, majani huathiri, kuharibiwa na kufa, kwa sababu ya kupoteza faida kubwa.",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "Picha za rangi za rangi za rangi za rangi za rangi za rangi",
+    "Uharibifu wa angular na margins ya kijani",
+    "Maonyesho yanaonekana kwanza kwenye karatasi ya zamani",
+    "Picha za kuunganisha na kujenga maeneo makubwa ya kufa",
+    "Maonyesho yanaweza kuwa ya kijani, ya kijani na ya kijani.",
+    "Maambukizi makubwa yanayotokana na kuongezeka kwa mimea na maambukizi",
+    "Wanyama wanaweza kufa kutokana na uharibifu"
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "Picha ya nyekundu au nyekundu ya nyekundu",
+    "Halo ya kijani karibu na magonjwa",
+    "Mchakato wa karoti"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "Makala ya",
+    "Picha ya",
+    "Mji wa"
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
-    "parsley",
-    "dill",
-    "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "Karoti ya",
+    "ya celery",
+    "ya Parsley",
+    "Deli ya",
+    "ya Parsnip",
+    "Karoti ya kijani",
+    "Mazao mengine ya Apiaceae"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Maisha ya Apiaceae",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "Hali ya hewa",
+    "Mvua ya kawaida",
+    "Ukosefu wa juu",
+    "Mipango ya Mipango",
+    "kipindi cha muda mrefu cha kupumzika"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "Mafuta ya kuvutia",
+    "Mwisho wa mvua",
+    "Matengenezo ya matengenezo ya matengenezo katika ardhi",
+    "Matokeo ya maumivu yanayotumika kwa mvua"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "Kutumia matunda yasiyo ya magonjwa",
+    "Matibabu ya matunda kwa maji ya baridi (50 ° C kwa dakika 25-30)",
+    "Kuepuka mimea ya kuvutia ili kupunguza umeme",
+    "Kuondoa mbolea ya mimea baada ya kukua",
+    "Matunda ya Rotate kwa muda wa chini ya miaka 3",
+    "Kuongezeka kwa aina ya karoti ya kutosha"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "Biofungicids ya aina ya Trichoderma",
+    "Bacillus subtilis fungicides ya biolojia"
   ],
-
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Copper fungicides",
-    "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "ya Mancozeb",
+    "ya Chlorothalonil",
+    "Mchakato wa fungicide",
+    "ya Iprodione",
+    "Fungicidi ya Strobilurin",
+    "Fungicidi ya Triazole"
   ],
-
   "seed_treatment": [
-    "Thiram",
-    "Captan"
+    "ya Thiram",
+    "Kiongozi"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "Mchakato wa karoti ya Cercospora (Cercospora carotae)"
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi",
+    "Cercospora_leaf_spot": "Ukosefu wa nyekundu au nyekundu wa nyekundu"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "Maisha ya haraka ya karoti",
+    "ya kupunguza photosynthesis",
+    "Uharibifu mkubwa wakati wa msimu wa mvua"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "Mkataba wa Ulinzi wa CABI",
+    "CSIRO – Ugonjwa wa Mazao ya Mazao katika Australia",
+    "Chuo Kikuu cha Massachusetts Extension",
+    "Wizara ya Viwanda vya Kwanza na Maendeleo ya Mkoa"
   ]
 }

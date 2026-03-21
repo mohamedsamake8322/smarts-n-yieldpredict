@@ -1,79 +1,79 @@
 {
-  "disease": "Broad mite damage",
-  "scientific_name": "Polyphagotarsonemus latus",
-  "pathogen_type": "Mite (arthropod pest)",
-  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "disease": "宽米损坏",
+  "scientific_name": "单面体",
+  "pathogen_type": "Mite(亚热带病虫害)",
+  "description": "大米是一种微小的害虫,它袭击了年轻的植物组织。 它通过注射扭曲植物生长的有毒口水,以叶子、茎子和水果为食。 损害导致叶子和水果严重畸形,并会大幅降低作物产量。",
   "symptoms": [
-    "Distorted or twisted young leaves",
-    "Leaf curling and thickening",
-    "Bronzing or darkening of leaf surface",
-    "Stunted plant growth",
-    "Cracked or scarred fruits",
-    "Deformed buds and flowers",
-    "Young tissues become hard and brittle"
+    "扭曲或扭曲的叶叶叶",
+    "卷卷和变厚",
+    "叶叶表面的褐化或暗化",
+    "抑制植物生长",
+    "碎裂或有伤痕的水果",
+    "变形芽和花朵",
+    "年轻组织变得硬硬易碎"
   ],
   "hosts": [
-    "pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "potato",
-    "cucumber",
-    "melon",
-    "beans",
-    "cotton",
-    "tea",
-    "citrus",
-    "papaya",
-    "avocado",
-    "mango",
-    "ornamental plants"
+    "胡椒辣椒",
+    "辣椒辣椒",
+    "番茄",
+    "茄茄茄",
+    "马铃薯",
+    "黄黄瓜",
+    "甜瓜",
+    "豆豆",
+    "棉花 棉花",
+    "茶茶茶",
+    "柑橘",
+    "木木木木瓜",
+    "鳄梨",
+    "芒芒芒",
+    "装饰植物"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "High humidity",
-    "Dense plant canopy",
-    "Poor air circulation",
-    "Greenhouse environments"
+    "温温温度",
+    "高湿湿度",
+    "高温植物树冠",
+    "空气循环不畅",
+    "温室气体环境"
   ],
   "spread": [
-    "Wind movement",
-    "Contaminated tools and plant material",
-    "Movement by insects such as whiteflies",
-    "Transport on workers' clothing"
+    "风风向运动",
+    "受污染工具和植物材料",
+    "由白苍蝇等昆虫移动",
+    "工人服装运输"
   ],
   "management": [
-    "Regular monitoring of young leaves",
-    "Remove heavily infested plant parts",
-    "Improve air circulation between plants",
-    "Use resistant or tolerant varieties when available",
-    "Avoid excessive nitrogen fertilization"
+    "定期监测年青假期",
+    "清除严重污染的植物部件",
+    "改善工厂之间的空气循环",
+    "如有耐抗性或耐性品种或耐性品种,可使用",
+    "避免过量氮肥化"
   ],
   "biological_control": [
-    "Predatory mites such as Neoseiulus californicus",
-    "Predatory mites such as Amblyseius swirskii",
-    "Predatory mites such as Phytoseiulus persimilis",
-    "Use of entomopathogenic fungi such as Beauveria bassiana"
+    "新谢苏卢斯加州等掠夺性白蚁",
+    "诸如Amblyseius swirskii 等被掠夺的白蚁",
+    "诸如Phytoseyulus persimilis 等食用性白蚁",
+    "使用诸如Beauveria Bassiana等致病真菌"
   ],
   "chemical_control": [
-    "Abamectin",
-    "Spiromesifen",
-    "Spirodiclofen",
-    "Bifenazate",
-    "Sulfur-based miticides",
-    "Fenpyroximate"
+    "Abamectin (阿班直通)",
+    "斯皮罗梅西芬Name",
+    "螺旋花",
+    "贝芬纳扎特",
+    "硫基杀灭杀剂",
+    "过过氧化"
   ],
   "prevention": [
-    "Inspect seedlings before planting",
-    "Maintain good greenhouse hygiene",
-    "Control weeds that may host mites",
-    "Avoid moving infested plants",
-    "Monitor regularly during warm humid periods"
+    "种植前先检查苗苗苗",
+    "保持良好的温室卫生",
+    "可能安装灭蚁虫的控制杂草",
+    "避免移动渗入植物",
+    "在温暖湿湿润期间定期监测"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "University of Florida IFAS Extension",
-    "Integrated Pest Management literature",
-    "Plant protection entomology references"
+    "CABI 作物保护简编",
+    "佛罗里达大学IFAS扩展",
+    "综合害虫管理文献",
+    "植物保护昆虫学参考文献"
   ]
 }

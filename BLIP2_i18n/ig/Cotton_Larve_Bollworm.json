@@ -1,0 +1,91 @@
+{
+  "pest_name": "M_egharịanụdị_egharịanụdị",
+  "common_name": "Cotggl gl lava",
+  "scientific_name": "Ngwá agha ndị nwere nje ndị na - akpata ọrịa bụ́ ndị e ji aka mee",
+  "pest_stage": "Lrva",
+  "pest_type": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "description": "Ebe a na - anọ akụ mkpụrụ akụ́kụ́ ndị a bụ n'ebe kacha njọ a na - anọ eri nri, n'úkwù akwụkwọ, n' okooko osisi, nakwa ná mkpụrụ akụ́kụ́ nke ọtụtụ ihe ọkụkụ.",
+  "hosts": [
+    "Zuon",
+    "AGBOR 1 (Bekee)",
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "Chickpea",
+    "Playana",
+    "NEPA",
+    "Sorghum",
+    "Tlapea",
+    "Sobon",
+    "Plato",
+    "Okra",
+    "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+    "_Hichaa"
+  ],
+  "symptoms": [
+    "Ihe ndị dị n'akwụkwọ osisi, okooko osisi, na okooko osisi",
+    "Ọ na - esi ike inweta mkpụrụ osisi ma ọ bụ ihe ndị e ji esi nri",
+    "Mkpụrụ osisi a tụrụ atụ na mkpụrụ osisi ndị na - eto eto na - amị",
+    "Ebe a na - edebe nri (n'ebe a na - edebe nri)",
+    "Osisi ma ọ bụ mkpụrụ osisi na - eto nke ọma"
+  ],
+  "larva_characteristics": {
+    "length": "sentimita 34 mgbe e mepụtara ha n'ụzọ zuru ezu",
+    "color_variation": [
+      "Green",
+      "Brown",
+      "IHE NDỊ GA - ENYERE GỊ AKA",
+      "Ojii",
+      "Ihicha aha 'bike'"
+    ],
+    "distinctive_features": "Ihe ndị na - esi ísì ọma na - adị n'akụkụ ahụ́ mmadụ nakwa n'isi ya nke na - acha nchara nchara."
+  },
+  "economic_significance": "Mmiri ọgwụ a pụrụ ibelata ihe ndị na - edozi ahụ, karịsịa n'ime ogho, tomato, na mkpụrụ akụ́kụ́. Ụmụ irighiri ihe ndị ọzọ nwekwara ike ime ka nje ndị na - akpata ọrịa ndị ọzọ site n'inye ha nri kpọmkwem n'ebe ndị a na - akụ ha.",
+  "management": {
+    "monitoring": [
+      "Ihe ọkụkụ ndị na - esi ísì ọma na - abụkarị àkwá na ụmụ ahụhụ ndị na - eto eto",
+      "Jiri otu ọnyà na - esi ísì ụtọ lee ọnụ ọgụgụ ndị toworo eto nọ n'afọ iri na ụma anya",
+      "Na - enyocha okooko osisi, okooko osisi, na mkpụrụ osisi maka imebi ihe oriri"
+    ],
+    "cultural_control": [
+      "Tinyere ihe ọkụkụ ndị na-enweghị isi",
+      "A na - ata ata ma na - ata mkpụrụ akụ́kụ́",
+      "Ime ka ihe ubi na - aga n'ihu n'ihu mgbe o bibisịrị ya iji bibie ihe a kụrụ akụ",
+      "Iwere ihe ọkụkụ ndị a kụrụ n'ala dị ka ihe ndị na - eme ka anwụ na - acha ma ọ bụ ihe ndị na - esi ísì ọma"
+    ],
+    "mechanical_control": [
+      "Aka Ya Na - agba Ọkụ Ma Na - ebibi Ihe",
+      "Akụkụ dị iche iche nke mkpụrụ osisi na ihe ọkụkụ dị iche iche",
+      "Iji otu ọnyà na - egbochi ọrịa bụ́ nke na - efe efe eme ihe iji mata ndị mmadụ n'ọnyà"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Ndị na - ahazi ngwá agha ọgwụrụ mba (HaNNVV)",
+        "Mkpụrụ ndụ dị iche iche dị n'ụdị dị iche iche",
+        "Aịzaamomosora"
+      ],
+      "macroorganisms": [
+        "Trich Blanama bu ụzọ (egggllllsiry bụp)",
+        "Nne ịnyịnya ibu ọhịa (nke na - acha akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ)"
+      ]
+    },
+    "chemical_control": {
+      "note": "E kwesịrị iji ọgwụ mgbochi ọrịa mee ihe nanị mgbe ọnụ ọgụgụ ndị na - anwụ n'ihi ọnọdụ akụ̀ na ụba ha karịrị nke ndị mmadụ nakwa dị ka akụkụ nke usoro Ngalaba Na - ahụ Maka Akụ̀ na Ụba.",
+      "active_ingredients": [
+        "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+        "Emacctin",
+        "Iji ụgbọ mmiri na - akwọ ụgbọ epeepe",
+        "Nwa Atụrụ bụ́da-mimemsium",
+        "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya."
+      ]
+    }
+  },
+  "references": [
+    "Akwụkwọ bụ́ The Freepa Encyclopedia, kwuru, sị: \"E nwere ndị na - anaghị achọ iji ntị anụ ihe ha na - ekwu. \"",
+    "AGBOR 7 (Bekee)",
+    "Òtù Na - ahụ Maka Ọrịa Ụmụaka nke United States, bụ́ ndị na - agwọ ndị agadi, kwuru, sị: \"Ọ bụrụ na mmadụ na - arịa ọrịa, ọ gaghị na - arịa ya. \"",
+    "Na - emepụta Ihe Ọmụma Amamihe Dị na Ya n'Ụlọ Akụ̀ Ndị Dị n'Ime Ala"
+  ],
+  "source_urls": [
+    "Habike/Ebike/Ebike_pa_konanasa",
+    "Ihe e dere n'ala ala peeji ya bụ \"Ndị Na - eto Eto Na - ajụ, Sị..."
+  ]
+}

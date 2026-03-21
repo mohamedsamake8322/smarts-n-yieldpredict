@@ -1,78 +1,78 @@
 {
-  "disease": "Corn smut",
+  "disease": "KCharselect unicode block name",
   "other_names": [
-    "Common smut",
-    "Boil smut",
-    "Blister smut",
-    "Huitlacoche",
-    "Cuitlacoche"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "MASU SHELA",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-  "scientific_name": "Mycosarcoma maydis",
-  "synonym": "Ustilago maydis",
-  "pathogen_type": "Fungus",
-  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "scientific_name": "Zai iya zama ruwan dare gama gari a duniya",
+  "synonym": "Za Mu Iya Yin Amfani da Shi a Aikin Wa'azi",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai ban dariya ce da ke sa mutum ya yi kama da kayan lambu dabam dabam. Waɗannan abubuwan suna ɗauke da ƙwayoyin rai masu duhu a Mexico.",
   "hosts": [
-    "Maize (Zea mays)",
-    "Teosinte (Zea mexicana)"
+    "Ma'ana (a)",
+    "Ta'a (da ta haifa) ta ce: \"A hankali, Jehobah ya ba ni mamaki sosai. \""
   ],
   "symptoms": {
     "general": [
-      "Tumor-like galls on plant tissues",
-      "Swollen kernels or plant organs",
-      "Black powdery spores inside galls"
+      "Mãsu aikin wahala ne, mãsu gajiya.",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "leaves": [
-      "Small galls on leaf veins or blades"
+      "An Kyautata Yadda Za a Ci Gaba da Nuna Shi ko Kuma Yadda Ya Kamata"
     ],
     "stems": [
-      "Large galls on stalks or nodes"
+      "Babbar Abubuwan da Za Su Sa Ka Yi Nasara ko Kuma Ba'a"
     ],
     "ears": [
-      "Kernels replaced by swollen galls",
-      "Galls turn black and rupture releasing spores"
+      "KCharselect unicode block name",
+      "All other platforms da Kuma Ta'aziyya"
     ]
   },
   "disease_cycle": [
-    "The fungus survives in soil or crop debris as teliospores",
-    "Spores germinate and produce haploid sporidia",
-    "Compatible sporidia mate and form infectious hyphae",
-    "Hyphae penetrate young plant tissues",
-    "Tumor-like galls form and produce new teliospores",
-    "Spores spread by wind and rain"
+    "Irin wannan kayan wasa suna tsira ne a ƙasa ko kuma wurin da ake noman ƙasa",
+    "' Yan zane - zane da aka yi kuma aka fito da su za su iya jawo ciwon baya mai tsanani",
+    "Ma'aurata da ba su yi aure ba kuma ba sa son juna sosai",
+    "KCharselect unicode block name",
+    "Mãsu duhun inuwa.",
+    "Mãsu gudu suna ɓũya."
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "Plant injuries or wounds",
-    "High nitrogen levels in soil",
-    "Wind and rain that spread spores",
-    "Periods of poor pollination or plant stress"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ƙasa Mai Girma a ƙasa",
+    "Mãsu gudu suna ɓũya.",
+    "KCharselect unicode block name"
   ],
   "distribution": [
-    "Worldwide in maize-growing regions"
+    "A dukan duniya a cikin yankuna dabam dabam"
   ],
   "management": {
     "cultural": [
-      "Use resistant maize varieties",
-      "Practice crop rotation",
-      "Remove infected plant debris",
-      "Avoid mechanical injury to plants",
-      "Manage nitrogen fertilization"
+      "Yi Amfani da Irin na'ura",
+      "Ayyuka Masu Kyau",
+      "KCharselect unicode block name",
+      "Ka guje wa lahani ga shuke - shuke",
+      "KCharselect unicode block name"
     ],
     "chemical": [
-      "Fungicides are generally ineffective for controlling corn smut"
+      "A yawancin lokaci, ba za a iya yin amfani da na'urar da ake amfani da su ba."
     ]
   },
   "economic_importance": [
-    "Usually causes low yield losses in field corn",
-    "Can significantly affect sweet corn production",
-    "Ear galls reduce market value of fresh corn"
+    "Ba za a iya yin rashin haƙuri a gona ba",
+    "Za a iya samun hatsi mai kyau",
+    "Media controller element"
   ],
   "additional_notes": [
-    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
-    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+    "Ana sayar da abinci a ƙasar Meziko kuma ana sayar da dalla - dalla a matsayin masu sayar da abinci a matsayin masu sayar da abinci.",
+    "Ana amfani da kayan wasa a ko'ina a matsayin misali mai kyau na yin ba'a da kuma sa'ad da ake bincike"
   ],
   "sources": [
-    "Wikipedia – Corn smut",
-    "University plant pathology references"
+    "Indian National weekday 3 - LongDayName",
+    "@ item Text character set"
   ]
 }

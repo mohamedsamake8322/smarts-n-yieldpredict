@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "Écologisation des feuilles d'agrumes",
   "other_names": [
     "Huanglongbing",
     "HLB",
-    "Citrus Greening"
+    "Écologisation des agrumes"
   ],
   "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "pathogen_type": "Bactérie",
+  "description": "Le verdissement des agrumes est l'une des maladies les plus destructrices des agrumes. Il est causé par les bactéries du genre Liberibacter et transmis principalement par les insectes psyllides. Les arbres infectés produisent de petits fruits amers et peu colorés et finissent par décliner et mourir en quelques années. Il n'y a actuellement aucun remède pour la maladie.",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
+    "Citrus sinensis (orange sucrée)",
+    "Citrus réticulata (mandarine)",
+    "Citrus paradisi (fruits à pamplemousse)",
     "Citrus limon (lemon)",
-    "Other Citrus species"
+    "Autres espèces d'agrumes"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "Psyllid d'agrumes asiatiques (Diaphorina citri)",
+    "Psyllid d'agrumes africains (Trioza érytreae)"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "Blotchy jaune mottling sur les feuilles",
+    "Jaunissement des nervures et des pousses",
+    "Croissance de l'arbre stupéfié",
+    "Twig dieback et chute prématurée des feuilles",
+    "Petits fruits irréguliers, peu colorés",
+    "Les fruits restent en partie verts à maturité",
+    "Les fruits ont un goût amer ou aigre",
+    "Graines avortées et mauvais développement des fruits"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "Les bactéries vivent dans le tissu phloème des agrumes",
+    "Étaler principalement par des insectes psyllides se nourrissant de plantes infectées",
+    "Peut également se propager en greffant du matériel végétal infecté",
+    "Les jeunes stades psyllides acquièrent la bactérie et la transmettent à des plantes saines"
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "Climats chauds dans les régions tropicales et subtropicales",
+    "Présence de vecteurs d'insectes psyllides",
+    "Zones de production denses d'agrumes"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
-    "Brazil",
-    "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "Asie",
+    "Afrique",
+    "États-Unis (Floride, Texas, Californie et autres)",
+    "Brésil",
+    "Mexique",
+    "Nombreuses régions tropicales et subtropicales productrices d'agrumes dans le monde"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "Populations témoins d'insectes psyllides",
+    "Enlever et détruire les arbres infectés",
+    "Utiliser du matériel de plantation propre et certifié",
+    "Surveillance régulière et détection précoce",
+    "Recherche sur les variétés d'agrumes résistantes"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "Aucun remède efficace n'existe actuellement.",
+    "Les arbres infectés meurent généralement en quelques années.",
+    "La maladie a causé des pertes économiques importantes dans les industries des agrumes dans le monde entier."
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "Wikipedia – Maladie verdissante des agrumes",
+    "USDA – Citrus vert et asiatique agrumes Psyllid"
   ]
 }

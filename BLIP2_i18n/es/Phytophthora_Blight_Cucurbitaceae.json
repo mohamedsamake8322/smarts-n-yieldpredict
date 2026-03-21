@@ -1,0 +1,91 @@
+{
+  "disease": "Phytophthora Blight of Cucurbits",
+  "scientific_name": "Phytophthora capsici",
+  "pathogen_type": "Oomiceto (organismo similar a los hongos)",
+  "description": "Phytophthora blight es una enfermedad destructiva de los cultivos de cucurbitáceas causada por el oomiceto Phytophthora capsici. Infecta las plántulas, vides, hojas y frutas, lo que a menudo conduce a un rápido colapso de las plantas y graves pérdidas de cultivos en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Humedad de plántula con podredumbre empapada en agua en la línea del suelo",
+    "Marchitamiento repentino de plantas sin amarilleamiento de hojas",
+    "Lesiones oscuras empapadas en agua en tallos y vides",
+    "Manchas de hojas que se vuelven necróticas con bordes de olivo o amarillo",
+    "La podredumbre de la fruta comienza en el punto que toca el suelo",
+    "Crecimiento de moho blanco en frutas podridas",
+    "Caída y decadencia rápida de la fruta"
+  ],
+  "visual_symptoms": [
+    "Lesiones empapadas de agua en tallos y vides",
+    "moho blanco en frutos de cucurbitáceas infectados",
+    "calabazas, pepinos o melones blandos que se pudren",
+    "súbito marchitamiento de la planta y colapso de la vid"
+  ],
+  "hosts": [
+    "Pepino",
+    "Calabaza",
+    "Squash",
+    "Sandía",
+    "Cantaloupe",
+    "Melón de melón de miel",
+    "Calabacines",
+    "Pimienta",
+    "Tomate",
+    "Berenjenas"
+  ],
+  "plant_parts_affected": [
+    "plántulas",
+    "Rábanos rusticanos",
+    "corona",
+    "vides",
+    "hojas",
+    "Frutas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (20–30°C)",
+    "Suelos saturados con agua",
+    "Lluvias fuertes o inundaciones",
+    "Campos mal drenados",
+    "Riego frecuente"
+  ],
+  "spread": [
+    "Movimiento del agua en el suelo",
+    "Salpicadura de la lluvia",
+    "Agua de riego",
+    "Equipamiento contaminado del suelo y de las explotaciones agrícolas",
+    "Desechos de plantas infectados"
+  ],
+  "disease_cycle": [
+    "Patógeno sobrevive en el suelo como oosporas durante varios años",
+    "Las esporas germinan y producen esporangias y zoosporas",
+    "Zoosporas nadar en el agua e infectar los tejidos de las plantas",
+    "Nuevas esporas se forman en las plantas infectadas y se propagan por el agua o la lluvia"
+  ],
+  "impact": [
+    "Severo marchitamiento y muerte de plantas",
+    "La podredumbre de las frutas en el campo o el almacenamiento",
+    "Las enfermedades se propagan rápidamente después de las fuertes lluvias",
+    "Pérdidas de rendimiento hasta el 100% en brotes graves"
+  ],
+  "cultural_control": [
+    "Planta en campos bien drenados",
+    "Evitar el riego excesivo",
+    "Utilizar camas elevadas para cultivos de cucurbitáceas",
+    "Rotar campos con cultivos no hospedantes durante al menos 3 años",
+    "Retire y destruya las plantas infectadas",
+    "Limpiar el equipo de la granja antes de moverse entre campos"
+  ],
+  "chemical_control": [
+    "Tratamiento de semillas con mefenoxam o metalaxil",
+    "Pulverizadores foliares de dimetomorfo",
+    "Fungicidas a base de cobre",
+    "Aplicaciones regulares de fungicidas en condiciones húmedas"
+  ],
+  "prevention": [
+    "Usar campos limpios sin antecedentes de enfermedad previos",
+    "Evite el agua contaminada de riego",
+    "Monitorear los campos después de fuertes lluvias",
+    "Quitar rápidamente las frutas infectadas"
+  ],
+  "source": [
+    "Instructor de Salud Vegetal de la Universidad de Illinois",
+    "Babadoost M. 2005. Phytophthora plaga de cucurbitáceas"
+  ]
+}

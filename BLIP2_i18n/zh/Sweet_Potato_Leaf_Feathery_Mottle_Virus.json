@@ -1,68 +1,122 @@
 {
-  "pest_name": "Sweet Potato Leaf Feathery Mottle Virus",
-  "abbreviation": "SPLFMV",
-  "type": "virus",
-  "history": "SPLFMV is closely related to SPFMV and has been identified worldwide, commonly as part of sweet potato viral disease (SPVD).",
+  "pest_name": "甜土豆 Leaf Feathery 摩托病毒",
+  "abbreviation": "SPMV SPMV SPMV SPMV SPMV SPMV SPMV SPMV SPMV SPMV SPMV",
+  "type": "艾滋病毒/病毒病毒/病毒",
+  "history": "SPLMV与SPFMV密切相关,并被确定为全世界常见的甘薯病毒病(SPVD)的一部分。",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "单冲正感单冲RNA",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "单打开读取框架",
+      "3' UTR",
+      "聚(A)尾尾"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
+    "proteins": [
+      {
+        "name": "P1 P1",
+        "function": "蛋白酶、 ssRNA 约束活动"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "蛋白酶、脚虫传播辅助器、长途移动"
+      },
+      {
+        "name": "P3 P3",
+        "function": "病毒复制功能"
+      },
+      {
+        "name": "6K1 6K1",
+        "function": "未知"
+      },
+      {
+        "name": "CI CI CI CI CI CCI CI CCI CI CCI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CCI CI CCI CI C CI CCI CI CI CI CI CCI CI C CI CI CI CI CI CI C CI CI CCI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI CI",
+        "function": "RNA 肝病活性"
+      },
+      {
+        "name": "6K2 6K2",
+        "function": "未知,参与病毒复制"
+      },
+      {
+        "name": "NIA",
+        "function": "VPg和蛋白酶"
+      },
+      {
+        "name": "NIb NIb",
+        "function": "Viral 病毒复制"
+      },
+      {
+        "name": "晶晶体",
+        "function": "服装蛋白质、病毒组装、病毒传播、传播"
+      }
+    ],
+    "virion_shape": "长长、灵活、棒形",
     "virion_length_nm": "810-865"
   },
   "life_cycle": {
-    "entry": "Mechanical transmission or via aphid stylets piercing leaf tissue",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA in leaf cells",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "机械传播或通过两栖式样板穿透叶叶组织",
+    "replication": "基因组转化为多蛋白,由P1、HC-Pro、NIa蛋白切除",
+    "gene_silencing_suppression": "HC-Pro 在叶叶细胞中抑制硅纳米和米拉纳",
+    "packaging": "被复制的基因组包装成病毒"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent via stylet tips during leaf feeding",
-    "seed_transmission": "Not transmitted through seeds",
-    "host_range": ["Ipomoea spp.", "Nicotiana spp.", "Chenopodium quinoa", "Datura stramonium"]
+    "vectors": [
+      ""
+    ],
+    "mechanism": "在叶叶喂食期间,通过样式提示不持久性",
+    "seed_transmission": "未通过种子传播",
+    "host_range": [
+      "Ipomoeea spp. 爱波摩亚书。",
+      "尼科提亚娜・塞普",
+      "",
+      ""
+    ]
   },
   "symptoms": {
-    "typical": "Feathery or mottled patterns on leaves, light to dark purple or green",
-    "severe_strains": ["Leaf chlorosis", "Leaf distortion", "Necrotic spots"],
+    "typical": "叶子、浅光到黑紫或绿光上的毛状或磨碎的形态",
+    "severe_strains": [
+      "叶叶叶化叶",
+      "叶叶扭曲",
+      "内腐积点"
+    ],
     "co-infections": {
-      "SPVD": "When co-infected with SPCSV, causes stunting, mosaic leaves, reduced yield"
+      "SPVD": "当与SPCSV共同感染后造成发育迟缓、马赛克树叶、减产"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职 职",
+        "location": "东非东非东非"
+      },
+      {
+        "name": "驻地协调员",
+        "location": "澳大利亚、非洲、北美、亚洲"
+      },
+      {
+        "name": "OO",
+        "location": "非洲、亚洲、南美洲"
+      },
+      {
+        "name": "C 中 C",
+        "location": "澳大利亚、非洲、亚洲、北美和南美洲"
+      }
     ]
   },
   "agricultural_impact": {
-    "affected_tissues": "Leaf tissues primarily",
-    "yield_loss": "Significant when combined in SPVD; reduces photosynthetic efficiency and plant vigor",
-    "social_impact": "Affects smallholder farmers relying on sweet potato leaves as food and fodder"
+    "affected_tissues": "主要包括叶叶组织",
+    "yield_loss": "如果合并成SPVD, 具有重大意义; 降低光合效率和植物振动",
+    "social_impact": "影响依赖甜土豆叶作为食物和饲料的小农户"
   },
   "management": {
-    "early_detection": "Monitor leaf symptoms and confirm via ELISA",
-    "removal": "Rogue infected plants to prevent spread",
+    "early_detection": "监测叶片症状,并通过ELISA确认",
+    "removal": "防止传播的Rogue受感染植物",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Maintain vector (aphid) control",
-      "Hygienic pruning and tool sanitation"
+      "无植物病毒传播材料",
+      "保持矢量(虫)控制",
+      "卫生处理和工具卫生"
     ]
   },
   "references": [
-    "Based on SPFMV research and sweet potato viral disease studies"
+    "根据SPPMV研究和甘薯病毒病研究"
   ]
 }

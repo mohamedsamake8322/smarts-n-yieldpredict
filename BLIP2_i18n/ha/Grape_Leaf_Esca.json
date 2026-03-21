@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "@ item Text character set",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Cike da ciwo mai tsanani da ke ɓata itace kuma ke rage ƙarfin kuringar anab; yana sa ruwa ya yi yaushi, itace, itace, da kuma ruwan anab mai tsanani a yanayi mai tsanani.",
+  "symptoms": [
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Mãsu ƙyasta wuta (da kõfatansu a kan duwatsu) ƙyastawa.",
+    "Ana shuka kuringar anab mai yawa kuma marar ƙarfi",
+    "Suna jifar su da wasu duwatsu na yumɓun wuta.",
+    "QShortcut",
+    "\"Lalle mãsu cĩ ne daga wata itãciya ta zaƙƙum (ɗanyen wutã).\""
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Da inabi",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "lambuna, mãsu yawan itãce.",
+    "Yin tarayya da masu makoki yana sa su yi baƙar magana",
+    "Yanayin duniya mai ni'ima a lokacin girma",
+    "KCharselect unicode block name"
+  ],
+  "spread": [
+    "KCharselect unicode block name",
+    "A cikin wata takardar fãta shimfiɗaɗɗa.",
+    "Wuraren Mahaɗar Sadarwa"
+  ],
+  "management": [
+    "KCharselect unicode block name",
+    "@ action",
+    "Ka Tsare Kanka Daga Rashin Lafiya",
+    "Ka yi amfani da kayan daidaita da suka dace da kyau",
+    "Ka guji mugun tarayya"
+  ],
+  "biological_control": [
+    "Ana amfani da kayan aiki da ake amfani da su wajen haɗawa da juna",
+    "Yin dariya don ya hana bin hanyar da ba ta dace ba"
+  ],
+  "chemical_control": [
+    "@ item Text character set",
+    "KCharselect unicode block name"
+  ],
+  "prevention": [
+    "QXml",
+    "KCharselect unicode block name",
+    "Ka tsare baƙin ciki nan da nan bayan ka faɗa wa mutanen da ba sa bauta wa Jehobah",
+    "Ka Kasance da Ra'ayin da Ya Dace"
+  ],
+  "source": [
+    "@ item Spelling dictionary",
+    "@ item Text character set",
+    "Media controller element"
+  ]
 }

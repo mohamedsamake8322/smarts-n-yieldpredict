@@ -1,56 +1,56 @@
 {
- "pest": "Kudzu Bug",
- "scientific_name": "Megacopta cribraria",
- "pest_type": "Insect (Hemiptera: Plataspidae)",
- "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
- "symptoms": [
-  "Clusters of small brown shield-shaped insects on stems and leaves",
-  "Yellowing or browning of leaves",
-  "Reduced plant growth and vigor",
-  "Lower pod production in soybean",
-  "Sticky honeydew deposits that may lead to sooty mold"
- ],
- "hosts": [
-  "Soybean",
-  "Kudzu",
-  "Bean",
-  "Cowpea",
-  "Other legume crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Presence of kudzu plants near fields",
-  "Dense vegetation where insects can reproduce"
- ],
- "spread": [
-  "Adult insects flying to new fields",
-  "Movement from kudzu plants to nearby crops",
-  "Overwintering adults emerging in spring"
- ],
- "management": [
-  "Monitor fields regularly for insect clusters",
-  "Remove nearby kudzu plants when possible",
-  "Use resistant or tolerant soybean varieties",
-  "Encourage natural enemies in fields"
- ],
- "biological_control": [
-  "Parasitic wasps such as Paratelenomus saccharalis",
-  "General predators like spiders and lady beetles",
-  "Conservation of beneficial insects"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
-  "Neonicotinoid insecticides such as imidacloprid",
-  "Apply when pest populations reach economic threshold"
- ],
- "prevention": [
-  "Monitor fields early in the season",
-  "Control kudzu near crop fields",
-  "Maintain field sanitation and crop rotation"
- ],
- "source": [
-  "University of Georgia Extension",
-  "USDA Pest Management Guides",
-  "Integrated Pest Management literature"
- ]
+  "pest": "KCharselect unicode block name",
+  "scientific_name": "Indian National weekday 2 - LongDayName",
+  "pest_type": "A cikin Allo tsararre.",
+  "description": "' Yan sanda da suke kai wa mutane da yawa hari, manya da ' ya'yan itace da suke cin abinci a kan ciyawa, suna shuka shuke - shuke kuma suna yin tafiya daga Asiya, kuma hakan ya zama abu mafi muhimmanci a ƙasashe da yawa.",
+  "symptoms": [
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "\"Kõ kuwa wata halitta daga dabĩnai da inabi ta kasance a gare ka.",
+    "Sa'ad da ake girma da kuma kuzari",
+    "KCharselect unicode block name",
+    "Za a iya yin amfani da zuma da aka yi da su don a mulmula su"
+  ],
+  "hosts": [
+    "Ethiopian weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Ethiopian month 5 - LongName",
+    "Farã mai dãɗi ga mashãyan."
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "An san shuke - shuke masu kyau sosai kusa da gonaki",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
+  ],
+  "spread": [
+    "Mãsu gudu suna ɓũya zuwa sabuwar gida",
+    "Ku motsa daga shuke - shuke masu ban sha'awa zuwa gona kusa",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
+  ],
+  "management": [
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Sa'ad da ya yiwu a yi amfani da shuke - shuke a hanyar da ba ta dace ba",
+    "Ka Yi Tsayayya da Matsi na Tsara ko Kuma Ka Shiga Duk da Haka",
+    "Ka ƙarfafa magabta na jiki a gona"
+  ],
+  "biological_control": [
+    "A dā, ana amfani da na'urar da ake kira Tarannemii da ake kira Tarmita don gabatar da Littafi Mai Tsarki, kuma ana amfani da shi a matsayin mai kula da da'ira.",
+    "' Yan Aiki Kamar Mata da Mata Sun Zama Masu Tawali'u",
+    "Yin Amfani da Abubuwa Masu Amfani"
+  ],
+  "chemical_control": [
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "KCharselect unicode block name",
+    "Yi amfani da duk lokacin da aka sami kuɗi kan tattalin arziki"
+  ],
+  "prevention": [
+    "Rabinsa, ko ka rage abu kaɗan daga gare shi.",
+    "Media controller element",
+    "Ka Kasance da Ra'ayin da Ya Dace da Kuma Yin Sa'o'i Masu Kyau"
+  ],
+  "source": [
+    "@ item Text character set",
+    "LITTAFI MAI TSARKI YANA GYARA RAYUWAR MUTANE",
+    "@ item Text character set"
+  ]
 }

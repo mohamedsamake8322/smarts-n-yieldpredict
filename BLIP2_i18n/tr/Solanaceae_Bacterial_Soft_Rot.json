@@ -1,85 +1,85 @@
 {
- "disease": "Solanaceae Bacterial Spot",
- "scientific_name": "Xanthomonas campestris pv. vesicatoria",
- "pathogen_type": "Bacterium",
- "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
- "symptoms": [
-  "Small brown water-soaked spots on leaves",
-  "Circular lesions without concentric rings",
-  "Spots merging to form large dark streaks",
-  "Yellowing of leaves around lesions",
-  "Leaves may drop early (defoliation)",
-  "Raised scab-like spots on fruits"
- ],
- "visual_symptoms": [
-  "dark brown leaf spots",
-  "water-soaked lesions",
-  "scab-like lesions on fruit",
-  "yellowing leaves with many spots"
- ],
- "hosts": [
-  "Tomato",
-  "Pepper",
-  "Chili pepper",
-  "Sweet pepper",
-  "Other Solanaceae crops"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (27–32°C)",
-  "High humidity",
-  "Frequent rain or overhead irrigation",
-  "Wet foliage"
- ],
- "spread": [
-  "Infected seeds",
-  "Plant debris",
-  "Wind-driven rain",
-  "Contaminated tools and equipment",
-  "Workers handling plants"
- ],
- "disease_cycle": [
-  "Bacteria survive in infected seeds and crop debris",
-  "Bacteria spread by rain splash or contact",
-  "They enter plants through stomata or wounds",
-  "Lesions form on leaves and fruit",
-  "Bacteria multiply and spread to nearby plants"
- ],
- "impact": [
-  "Leaf drop and reduced photosynthesis",
-  "Fruit quality loss due to lesions",
-  "Severe yield reduction",
-  "Possible crop failure in severe outbreaks"
- ],
- "cultural_control": [
-  "Use certified disease-free seeds",
-  "Rotate crops for 2–3 years",
-  "Remove infected plant debris",
-  "Avoid working in fields when plants are wet",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus-based bio-pesticides",
-  "Apply biological plant protection products where available"
- ],
- "chemical_control": [
-  "Copper-based bactericides",
-  "Copper + mancozeb mixtures",
-  "Copper hydroxide",
-  "Copper oxychloride"
- ],
- "prevention": [
-  "Use healthy transplants",
-  "Maintain field sanitation",
-  "Control weeds and volunteer plants",
-  "Monitor crops regularly during warm wet weather"
- ],
- "source": [
-  "UMass Extension Vegetable Disease Guide",
-  "Plant pathology references"
- ]
+  "disease": "Solanaceae Bakteriyel Noktası",
+  "scientific_name": "Xanthomonas campestris pv.",
+  "pathogen_type": "Bakteriler",
+  "description": "Bakteriyel nokta, domatesleri ve biberleri etkileyen ciddi bir bakteriyel hastalıktır. yapraklarda ve meyvelerde karanlık suya bağlı noktalara neden olur, bozulmaya ve üretimi azaltmaya yol açar.",
+  "symptoms": [
+    "Küçük kahverengi su kaynatılmış noktalar yapraklarda",
+    "Konsantrasyon yüzükleri olmadan dolaşım yaralanmaları",
+    "Birleşen noktalar büyük karanlık çubuklar oluşturur",
+    "Yaralanmaların etrafındaki yaprakların sarılması",
+    "Yapraklar erken düşebilir (defoliasyon)",
+    "Meyveye benzer tohumlar yetiştirildi"
+  ],
+  "visual_symptoms": [
+    "karanlık kahverengi yaprak noktaları",
+    "su geçirmez yaralanmalar",
+    "Meyve gibi yaralanmalar",
+    "Çok sayıda nokta ile sarı yapraklar"
+  ],
+  "hosts": [
+    "domates",
+    "Pepper için",
+    "Çilek Pepper",
+    "tatlı biber",
+    "Diğer Solanaceae bitkileri"
+  ],
+  "plant_parts_affected": [
+    "Sayfalar",
+    "oyları",
+    "Meyveler"
+  ],
+  "favorable_conditions": [
+    "Sıcaklıklar (27-32°C)",
+    "Yüksek nem",
+    "sıklıkla yağmur ya da aşırı sulama",
+    "ıslak folyo"
+  ],
+  "spread": [
+    "Enfekte tohumlar",
+    "Bitki çöpleri",
+    "rüzgârlı yağmur",
+    "kirlenmiş araçlar ve ekipmanlar",
+    "İşçiler Bitki İşlemleri"
+  ],
+  "disease_cycle": [
+    "Bakteriler enfekte tohumlarda ve bitki kalıntılarında hayatta kalır",
+    "Yağmur ya da temas yoluyla yayılan bakteriler",
+    "Bitkilere stomata veya yaralar yoluyla girerler.",
+    "Yapraklarda ve meyvelerde hasar oluşur",
+    "Bakteriler çoğalır ve yakındaki bitkilere yayılır."
+  ],
+  "impact": [
+    "Yaprak düşüşü ve azaltılmış fotosentez",
+    "Meyve kalitesinin kaybı hasarlardan kaynaklanmaktadır.",
+    "GÜVENLİK SÖZLEŞMESİ",
+    "Ağır patlamalarda tahıl başarısızlığı"
+  ],
+  "cultural_control": [
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Rotat bitkileri 2-3 yıl boyunca",
+    "Enfekte bitki kalıntılarını ortadan kaldırmak",
+    "Bitkiler ıslak olduğunda alanlarda çalışmaktan kaçının.",
+    "Mevcut olduğunda dayanıklı çeşitleri kullanın."
+  ],
+  "biological_control": [
+    "Bacillus tabanlı bio-pesticidler gibi faydalı mikroplar kullanın",
+    "Biyolojik Bitki Koruma Ürünleri Kullanılabilir"
+  ],
+  "chemical_control": [
+    "bakır tabanlı bakteriler",
+    "bakır + mancozeb karışımı",
+    "bakır hidroksit",
+    "bakır oksiklorid"
+  ],
+  "prevention": [
+    "Sağlıklı Transplantasyon Kullanımı",
+    "alan sanitasyonu sağlamak",
+    "Kontrol bitkileri ve gönüllü bitkileri",
+    "Sıcak ıslak hava koşullarında tahılları düzenli olarak izlemek"
+  ],
+  "source": [
+    "UMass Extension Bitki Hastalıkları Kılavuzu",
+    "Bitki Patolojisi Referansları"
+  ]
 }

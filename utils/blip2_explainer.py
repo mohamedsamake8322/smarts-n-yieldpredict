@@ -122,11 +122,15 @@ def load_disease_info(
     except Exception:
         translations_root = Path(os.environ.get("BLIP2_I18N_ROOT", "BLIP2_i18n"))
     dirs_to_try: List[Path] = []
-    if language_code and language_code.lower() not in {"en", ""}:
+    language_code = (language_code or "en").lower()
+
+    if language_code and language_code not in {"en", ""}:
         candidate = translations_root / language_code
         if candidate.exists() and candidate.is_dir():
             dirs_to_try.append(candidate)
 
+    # Support bonus fallback directories in priority order
+    dirs_to_try.append(Path("BLIP2_normalized"))
     dirs_to_try.append(Path(library_dir))
 
     json_path: Optional[Path] = None
@@ -150,6 +154,8 @@ def load_disease_info(
     with open(json_path, "r", encoding="utf-8") as f:
         try:
             data = json.load(f)
+            # Expose source path for debugging (affiche la langue utilisée)
+            data["_source_file"] = str(json_path)
         except Exception:
             return {
                 "disease": predicted_label,

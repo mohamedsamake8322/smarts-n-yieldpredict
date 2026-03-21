@@ -1,82 +1,82 @@
 {
-  "pest_name": "Cotton_Adult_Bollworm",
-  "common_name": "Cotton bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Cotton bollworm (Helicoverpa armigera) is a highly destructive agricultural pest widely distributed across Africa, Europe, Asia, Australia, and South America. The adult moth itself does not directly damage crops, but it lays eggs on host plants. The larvae that emerge feed on leaves, buds, flowers, fruits, and seeds of many economically important crops. Due to its high reproductive capacity and strong migratory ability, this pest can spread rapidly and produce multiple generations per year in warm climates.",
+  "pest_name": "Tordeuse de coton",
+  "common_name": "Tordeuse de coton",
+  "scientific_name": "Hélicoverpa armigera",
+  "pest_type": "Insecte",
+  "description": "La tordeuse de coton (Helicoverpa armigera) est un ravageur agricole très destructeur largement répandu en Afrique, en Europe, en Asie, en Australie et en Amérique du Sud. L'adulte lui-même n'endommage pas directement les cultures, mais il pond des œufs sur les plantes hôtes. Les larves qui émergent se nourrissent de feuilles, de bourgeons, de fleurs, de fruits et de graines de nombreuses cultures importantes sur le plan économique.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
+    "Coton",
+    "Tomates",
+    "Maïs",
+    "Pois chiches",
+    "Pigeons",
+    "Riz",
+    "Sorgho",
+    "Pois de vache",
+    "Soja",
+    "Pommes de terre",
     "Okra",
-    "Peas",
-    "Tobacco"
+    "Pois",
+    "Tabac"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "Trous dans les feuilles et les fleurs",
+    "Les larves s'arpentent dans les fruits ou les gousses",
+    "Fruits prématurés ou gouttes de fleurs",
+    "Bols de coton endommagés produisant des peluches de mauvaise qualité",
+    "Présence de frass et de tunnels d'alimentation dans les fruits ou les grains"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers, or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae can overwinter in colder climates.",
-    "adult": "Adult moths are light brown with a wingspan of about 3.5–4 cm. Adults live around 10 days and females can lay hundreds to thousands of eggs."
+    "eggs": "Oeufs blancs jaunâtres pondus sur des feuilles, des bourgeons, des fleurs ou des fruits.",
+    "larvae": "Les larves se nourrissent de 19 à 36 jours à travers plusieurs étoiles et causent les principaux dommages à la plante.",
+    "pupae": "La pupation se produit dans le sol ou les débris végétaux; les pupes peuvent hiverner dans des climats plus froids.",
+    "adult": "Les adultes sont brun clair avec une envergure d'environ 3,5 à 4 cm. Les adultes vivent environ 10 jours et les femelles peuvent pondre des centaines à des milliers d'oeufs."
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea, and other crops. Larvae attack reproductive plant parts and reduce yield and quality. Damage can also allow secondary fungal and bacterial infections.",
+  "economic_significance": "Le ravageur provoque de graves pertes de rendement dans le coton, la tomate, le maïs, le pois chiche et d'autres cultures. Les larves attaquent les parties des plantes reproductrices et réduisent le rendement et la qualité. Les dommages peuvent également permettre des infections fongiques et bactériennes secondaires.",
   "management": {
     "monitoring": [
-      "Regular field scouting for eggs and larvae",
-      "Use pheromone traps to detect adult moth activity",
-      "Monitor plant damage in buds, fruits, and flowers"
+      "Recherche régulière d'oeufs et de larves sur le terrain",
+      "Utiliser des pièges à phéromone pour détecter l'activité des adultes",
+      "Surveiller les dommages causés aux plantes dans les bourgeons, les fruits et les fleurs"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "Rotation des cultures avec les cultures non hôtes",
+      "Élimination des résidus de cultures et des mauvaises herbes",
+      "Laboure profonde après la récolte pour détruire les pupes",
+      "Utilisation de cultures pièges comme le tournesol ou le marigold"
     ],
     "mechanical_control": [
-      "Handpicking and destroying eggs and larvae",
-      "Removing infested fruits and plant parts",
-      "Installing pheromone or light traps"
+      "Cueillir à la main et détruire les oeufs et les larves",
+      "Suppression des fruits infestés et des parties de plantes",
+      "Installation de pièges à phéromone ou à lumière"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
+        "Hélicoverpa nucléopolyédrovirus (HaNPV)",
+        "Espèces de Baculovirus ciblant les larves de lépidoptères",
         "Isaria fumosorosea"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trichogramma pretiosum (gaspille parasitoïde de l'œuf)",
+        "Hémobète (parasitoïde larvaire)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used within an Integrated Pest Management strategy and only when pest populations exceed economic thresholds.",
+      "note": "Les insecticides chimiques devraient être utilisés dans le cadre d'une stratégie de lutte antiparasitaire intégrée et seulement lorsque les populations de ravageurs dépassent les seuils économiques.",
       "active_ingredients": [
         "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
+        "benzoate d' emamectine",
+        "Indoxacarbe",
+        "Lambda-cyhalothrine",
         "Chlorantraniliprole"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "Les contributeurs de Wikipedia. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
     "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "Directives de la FAO pour la lutte intégrée contre les ravageurs.",
+    "Banque de connaissances végétales – Recommandations en matière de lutte antiparasitaire."
   ],
   "source_urls": [
     "https://en.wikipedia.org/wiki/Helicoverpa_armigera",

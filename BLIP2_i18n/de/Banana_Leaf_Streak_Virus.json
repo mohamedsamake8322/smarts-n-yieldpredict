@@ -1,0 +1,112 @@
+{
+  "disease_name": "Bananenstreifenkrankheit",
+  "dataset_label": "Banana_Leaf_Streak_Virus",
+  "pathogen": {
+    "type": "Virus",
+    "name": "Bananenstreifenvirus",
+    "scientific_name": "Bananenstreifen-Badnavirus",
+    "family": "Caulimoviridae",
+    "genus": "Badnavirus",
+    "genome": "Doppelsträngige DNA (dsDNA)"
+  },
+  "host_plant": {
+    "primary_host": "Bananen (Musa-Arten)",
+    "other_hosts": [
+      "Plantain"
+    ]
+  },
+  "affected_parts": [
+    "Blätter",
+    "Pseudosterm",
+    "Pflanzenkraft insgesamt"
+  ],
+  "vector": {
+    "type": "Insekten",
+    "name": "Mealybugs",
+    "genera": [
+      "Planokokken",
+      "Pseudococcus"
+    ]
+  },
+  "symptoms": {
+    "early_stage": [
+      "Gelbe Streifen von Blatt Midrib zum Blattrand",
+      "Kontinuierliche oder gebrochene gelbe Linien über das Blatt"
+    ],
+    "intermediate_stage": [
+      "Streaks erscheinen verstreut oder in Bändern angeordnet",
+      "Reduzierte Pflanzenkraft und kleinere Pflanzengröße"
+    ],
+    "advanced_stage": [
+      "Gelbe Streifen werden braun oder schwarz mit Blattalterung",
+      "Kleinere Bananenstrauße",
+      "Mögliche Pseudostem interner Fäulnis und Dieback in schweren Fällen"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Infiziertes Pflanzmaterial (Hühner)",
+      "Vektorübertragung durch Mehlkäfer",
+      "Aktivierung der integrierten viralen DNA im Pflanzengenom unter Stress"
+    ],
+    "latent_behavior": "Virusfragmente können sich in Bananengenom integrieren und unter Stressbedingungen reaktivieren",
+    "favorable_conditions": [
+      "Pflanzenstress",
+      "Streß der Gewebekultur",
+      "Umweltstress"
+    ]
+  },
+  "impact": {
+    "severity": "Veränderlich",
+    "effects": [
+      "Verringerte Pflanzenkraft",
+      "Kleinere Fruchtstrauße",
+      "Ertragsverluste je nach Sorten- und Infektionsintensität",
+      "Verzögerte Ernte"
+    ],
+    "estimated_losses": "Bis zu 6 % jährlich in einigen Regionen, höher in anfälligen Sorten"
+  },
+  "distribution": [
+    "Länder Mittel- und Osteuropas",
+    "Afrika",
+    "Nord-Amerika",
+    "Mittelamerika",
+    "Südamerika",
+    "Karibik",
+    "Ozeanien",
+    "Pazifische Inseln"
+  ],
+  "similar_diseases_or_confusions": [
+    "Gurkenmosaikvirus",
+    "Bananen-Blumen Top-Virus",
+    "Nährstoffmangel verursacht Chlorose"
+  ],
+  "management": {
+    "cultural_control": [
+      "Virusfreies Pflanzmaterial verwenden",
+      "Entfernen und zerstören infizierte Pflanzen",
+      "Plantagen regelmäßig überwachen"
+    ],
+    "vector_control": [
+      "Kontrollieren von Mehlkäfer-Populationen",
+      "Gartenbauöle oder Seifensprays verwenden",
+      "Verwendung kommerzieller Gartenbauölprodukte"
+    ],
+    "quarantine": [
+      "Folgen FAO-Richtlinien für die Keimplasmabewegung für Musa-Arten",
+      "Verwendung zertifizierter seuchenfreier Gewebekulturpflanzen"
+    ]
+  },
+  "spread_risk_factors": [
+    "Pflanzung infizierte Sauger",
+    "Vermehrung ungeschirmter Gewebekulturen",
+    "Vorhandensein von Mehlbug-Vektoren",
+    "Pflanzenstressbedingungen aktivieren integrierte Virus-DNA"
+  ],
+  "references": [
+    "CABI-Kompendium zum Pflanzenschutz (2020)",
+    "CSIRO Publishing – Krankheiten von Obstpflanzen in Australien (2009)",
+    "Datenbank für pazifischen Schädlinge, Krankheitserreger und Unkraut",
+    "Bioversity International – Leitlinien der FAO Musa-Germplasmabewegung"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pest_name": "Polilla de esfinge",
+  "stage": "adulto",
+  "common_name": "Polilla de Halcón",
+  "description": "La polilla de esfinge adulta es una polilla grande y de vuelo rápido con alas estrechas y un cuerpo robusto. Los adultos se alimentan de néctar usando un proboscis largo y son polinizadores para muchas especies de plantas.",
+  "damage": [
+    "Los adultos no suelen causar daños directos a las plantas",
+    "Puede ser atraído a las luces por la noche y actuar como polinizadores"
+  ],
+  "behavior": [
+    "Nocturno; activo al anochecer y la noche",
+    "Aviones de larga distancia; pueden migrar y dispersar larvas a nuevas plantas hospedadoras"
+  ],
+  "control": [
+    "La monitorización de adultos puede ayudar a predecir brotes larvarios",
+    "Las trampas ligeras pueden reducir la actividad de los adultos en áreas pequeñas"
+  ],
+  "notes": [
+    "La etapa adulta es principalmente beneficiosa para la polinización",
+    "Centrarse en el manejo de las larvas para prevenir daños en los cultivos"
+  ]
+}

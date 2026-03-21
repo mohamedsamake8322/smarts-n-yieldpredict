@@ -1,113 +1,96 @@
 {
-  "disease": "Blossom End Rot",
-  "crop": "Watermelon",
-  "scientific_context": "Physiological disorder caused by localized calcium deficiency",
-  "pathogen_type": "Physiological disorder (not caused by a pathogen)",
-
-  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
-
-  "scientific_name": "Calcium deficiency disorder",
-
+  "disease": "花朵末端旋转",
+  "crop": "西瓜",
+  "scientific_context": "局部钙缺乏引起的生理疾病",
+  "pathogen_type": "生理疾病(非病原体引起的)",
+  "description": "岩浆末端腐烂是一种影响西瓜和其他水果蔬菜的生理障碍,其原因是,通常由于不规则的用水、干旱压力、高盐度或过量氮肥化,而进入发展中水果组织的钙不足,导致这种障碍,导致水果开花端出现黑暗、下沉的损伤。",
+  "scientific_name": "钙缺乏症",
   "symptoms": [
-    "water-soaked spot at blossom end of fruit",
-    "light tan lesion that enlarges over time",
-    "dark brown or black sunken area on fruit",
-    "leathery or dry tissue at blossom end",
-    "secondary soft rot when fungi or bacteria invade",
-    "affected fruit ripen earlier than normal"
+    "果实开花的尽头水浸点",
+    "随着时间的推移而扩大的浅色皮肤损伤",
+    "水果上深棕或黑褐或黑黑沉入面积",
+    "花花端的皮革或干组织",
+    "当真菌或细菌入侵时",
+    "早于正常时间熟熟的受影响水果"
   ],
-
   "visual_signature": [
-    "dark black patch at blossom end of watermelon",
-    "sunken leathery lesion on fruit tip",
-    "dry black rot on blossom end",
-    "discolored depressed area on fruit surface"
+    "西瓜开花端的黑黑斑",
+    "果实上的皮革损伤",
+    "鲜花末端的干黑色腐烂",
+    "水果表面有色色色色色低压区"
   ],
-
   "affected_plant_parts": [
-    "fruit blossom end",
-    "developing fruit tissue"
+    "果果开花结束",
+    "发展水果组织"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "库库比塔塞ecurbiticaceae. kgm",
   "hosts": [
-    "watermelon",
-    "tomato",
-    "pepper",
-    "eggplant",
-    "pumpkin",
-    "squash"
+    "西瓜",
+    "番茄",
+    "胡椒辣椒",
+    "茄茄茄",
+    "南南瓜",
+    "壁球"
   ],
-
   "important_hosts": [
-    "Citrullus lanatus",
-    "Solanum lycopersicum",
-    "Capsicum annuum",
-    "Solanum melongena",
-    "Cucurbita pepo"
+    "特鲁卢斯·拉纳图斯",
+    "Solanum 液精度",
+    "Capsicum 年金",
+    "索拉努姆·梅隆加",
+    "库库比塔比索"
   ],
-
   "causes": [
-    "calcium deficiency in developing fruit",
-    "irregular watering",
-    "drought stress",
-    "high soil salinity",
-    "excess nitrogen fertilization",
-    "rapid plant growth",
-    "poor calcium uptake by roots"
+    "水果开发中的钙缺乏症",
+    "非正规用水",
+    "干旱、干旱和干旱",
+    "高土壤盐度",
+    "过量氮肥化",
+    "快速植物迅速增长",
+    "根根吸收的贫钙摄入量"
   ],
-
   "favorable_conditions": [
-    "hot temperatures",
-    "drought stress",
-    "fluctuating soil moisture",
-    "poor soil drainage",
-    "raised beds drying quickly"
+    "热温温度",
+    "干旱、干旱和干旱",
+    "变化不定的土壤湿度",
+    "贫困的土壤排水",
+    "迅速烘干,"
   ],
-
   "spread": [
-    "not contagious",
-    "caused by environmental and nutritional imbalance"
+    "不传染",
+    "环境和营养不平衡造成的"
   ],
-
   "damage": [
-    "fruit becomes unmarketable",
-    "reduced crop yield",
-    "premature fruit ripening",
-    "secondary infections may destroy fruit"
+    "果实变得无法销售",
+    "作物产量减少",
+    "早熟的早熟水果",
+    "二次感染可能会摧毁水果"
   ],
-
   "management": [
-    "maintain uniform soil moisture",
-    "water plants regularly and deeply",
-    "mulch soil to conserve moisture",
-    "avoid excessive nitrogen fertilization",
-    "improve soil drainage"
+    "保持统一的土壤湿度",
+    "水厂定期和深入水厂",
+    "用于保护湿度的土壤泥土",
+    "避免过量氮肥化",
+    "改善土壤排水"
   ],
-
   "nutritional_management": [
-    "maintain adequate calcium in soil",
-    "apply agricultural lime to adjust soil pH",
-    "use calcium nitrate or calcium chloride foliar sprays when needed"
+    "保持土壤中适当的钙含量",
+    "农业用石灰调整土壤pH",
+    "必要时使用硝酸钙或氯化钙叶喷雾剂"
   ],
-
   "cultural_control": [
-    "proper plant spacing for air circulation",
-    "balanced fertilization practices",
-    "consistent irrigation schedule"
+    "空气循环的适当植物间距",
+    "平衡的施用做法",
+    "一致灌溉时间表"
   ],
-
   "prevention": [
-    "soil testing before planting",
-    "maintain soil pH around 6.5–7",
-    "avoid large fluctuations in watering"
+    "种植前进行土壤检验",
+    "保持土壤pH值约为6.5-7",
+    "避免水的大幅波动"
   ],
-
   "source": [
-    "University extension plant pathology guides",
-    "Greenhouse Grower",
-    "Horticulturae journal",
-    "Journal of Plant Nutrition"
+    "大学推广植物病理学指南",
+    "温室气体排放者",
+    "园艺杂志",
+    "《植物营养杂志》"
   ]
 }

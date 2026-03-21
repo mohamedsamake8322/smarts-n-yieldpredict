@@ -1,63 +1,63 @@
 {
- "disease": "Fall Armyworm Damage",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (Lepidoptera pest)",
- "description": "Fall armyworm is a destructive caterpillar pest that attacks maize and many other crops. Larvae feed on leaves and growing points, causing severe crop damage and yield loss.",
- "symptoms": [
-  "Irregular holes and chewing damage on leaves",
-  "Window-pane feeding on young leaves",
-  "Large ragged holes in maize leaves",
-  "Frass (insect droppings) inside leaf whorl",
-  "Severely damaged or destroyed plant growing point"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Wheat",
-  "Cotton",
-  "Soybean",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Rainy season",
-  "Continuous maize cultivation"
- ],
- "spread": [
-  "Adult moth migration over long distances",
-  "Egg masses laid on crop leaves",
-  "Larvae moving between nearby plants"
- ],
- "management": [
-  "Regular field scouting for early detection",
-  "Hand removal of larvae in small fields",
-  "Destroy heavily infested plants",
-  "Use pheromone traps for monitoring"
- ],
- "biological_control": [
-  "Trichogramma parasitoid wasps",
-  "Predators such as lady beetles and lacewings",
-  "Biopesticides based on Bacillus thuringiensis (Bt)",
-  "Entomopathogenic fungi such as Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin",
-  "Indoxacarb"
- ],
- "prevention": [
-  "Early planting to avoid peak infestation",
-  "Crop rotation",
-  "Plant resistant maize varieties",
-  "Maintain field sanitation"
- ],
- "source": [
-  "FAO Fall Armyworm Guide",
-  "CABI Invasive Species Compendium"
- ]
+  "disease": "瀑布军虫损害",
+  "scientific_name": "浮游植物(frugiperda)",
+  "pathogen_type": "昆虫(青锥虫病虫害)",
+  "description": "瀑布虫是一种破坏性的毛虫害虫,它袭击玉米和其他许多作物。 以树叶和生长点为食,造成严重的作物损失和产量损失。",
+  "symptoms": [
+    "树叶上的非正常孔孔和咀嚼损伤",
+    "以青叶为食",
+    "玉米叶大洞",
+    "叶叶里胡乱的草原(昆虫粪便)",
+    "严重损坏或毁坏的植物生长点"
+  ],
+  "hosts": [
+    "成熟",
+    "大米稻米",
+    "高 orghum",
+    "米勒",
+    "甘甘蔗",
+    "小麦",
+    "棉花棉花",
+    "豆类",
+    "蔬菜"
+  ],
+  "favorable_conditions": [
+    "温温温度",
+    "雨季",
+    "持续种植玉米"
+  ],
+  "spread": [
+    "长距离的成人飞蛾移徙",
+    "在作物叶叶上布设的鸡蛋块",
+    "附近工厂之间移动的拉瓦拉瓦"
+  ],
+  "management": [
+    "进行定期实地侦察,以早期探测",
+    "在小田间亲手清除幼虫",
+    "摧毁严重肆虐的植物",
+    "使用pheomone 陷阱进行监测"
+  ],
+  "biological_control": [
+    "敌寄生虫黄蜂",
+    "食虫者,如蜜蜂和蕾丝",
+    "基于二丁基锡基锡基锡基锡基锡基锡基锡基锡基锡基锡基生物农药(Bt)",
+    "诸如博维里亚低血压菌等致虫性真菌"
+  ],
+  "chemical_control": [
+    "脊柱状",
+    "Emmectin 苯甲酸",
+    "氯氯化物",
+    "Lambda-cyhalotsrin(辛巴威辛)",
+    "印毒carb"
+  ],
+  "prevention": [
+    "及早植树,避免灾情高峰",
+    "作物轮轮作",
+    "耐植物耐植物耐植物的玉米品种",
+    "维持外地环境卫生"
+  ],
+  "source": [
+    "粮农组织《瀑布军虫指南》",
+    "CABI 入侵物种简编"
+  ]
 }

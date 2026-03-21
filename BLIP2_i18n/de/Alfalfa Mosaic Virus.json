@@ -1,0 +1,84 @@
+{
+  "disease": "Alfalfa Mosaic Virus",
+  "scientific_name": "Alfalfa-Mosaikvirus (AMV)",
+  "pathogen_type": "Virus (RNA-Virus)",
+  "description": "Ein Pflanzenvirus, das Paprika und viele andere Kulturen infiziert. Es breitet sich hauptsächlich durch Blattläuse aus und verursacht Mosaikmuster, Blattverformung und reduziertes Pflanzenwachstum.",
+  "symptoms": [
+    "Gelbe Mosaikmuster auf Blättern",
+    "Blattvenenverformung",
+    "Blattlocken",
+    "Pflaumen- oder gebleichte Blattflecken",
+    "Schwarze nekrotische Flecken zwischen den Venen (selten)",
+    "Früchte, gegrüßt oder gerötet",
+    "Dunkle versunkene Flecken auf Früchten",
+    "Stuntes Pflanzenwachstum"
+  ],
+  "hosts": [
+    "Pfeffer",
+    "L 347 vom 20.12.2013, S. 671.",
+    "Tomaten",
+    "Kartoffeln",
+    "Auberginen",
+    "Gurken",
+    "Squash",
+    "Kürbisgewächse",
+    "Erbsen",
+    "Bohnen",
+    "Lentile",
+    "Kichererbsen",
+    "Sojabohnen",
+    "Klee",
+    "Luzern",
+    "Tabak",
+    "Spinat",
+    "Kopfsalat",
+    "Karotten",
+    "Sellerie"
+  ],
+  "favorable_conditions": [
+    "Hohe Blattläuse",
+    "Pfefferfelder in der Nähe von alfalfa-Pflanzen",
+    "Blattläusebewegung nach der Alfalfa-Ernte"
+  ],
+  "spread": [
+    "Blattläuse, die kurz an Pflanzen füttern",
+    "Mechanische Übertragung durch kontaminierte Werkzeuge",
+    "Samenübertragung (niedriger Satz)"
+  ],
+  "management": [
+    "Pflanzenresistente oder tolerante Sorten",
+    "Befallene Sämlinge vor der Pflanzung entfernen",
+    "Paprika, entfernt von Luzernefeldern",
+    "Verwendung von Barrierekulturen wie Mais",
+    "Schalenfrüchte wie Erbsen verwenden",
+    "Sanitize Werkzeuge, Töpfe und Pfähle",
+    "Pflanzdaten nach Möglichkeit anpassen"
+  ],
+  "biological_control": [
+    "Verwenden Sie natürliche Raubtiere wie Marienkäfer",
+    "Verwenden Sie winzige Piratenkäfer (Orius spp.), um Blattläuse zu reduzieren",
+    "Ermutigung zu nützlichen Insekten auf dem Feld",
+    "Azadirachtin enthaltende Produkte auf Neembasis anwenden"
+  ],
+  "chemical_control": [
+    "Mineralöl-Sprays zur Reduzierung der Virus-Übertragung",
+    "Insektizide Seifen (Fettsäuren)",
+    "Imidacloprid",
+    "Acetamiprid",
+    "Flonicamid",
+    "Pymetrozin",
+    "Kaolin-Tonsprays zur Abschreckung von Blattläusen"
+  ],
+  "prevention": [
+    "Verwendung resistenter Sorten",
+    "Abstand zwischen Paprika und Alfalfa-Feldern halten",
+    "Reflektierende Mulch oder Strohmulch verwenden, um Blattläuse abzuwehren",
+    "Infizierte Pflanzen frühzeitig entfernen",
+    "Kontrolle der Blattläusepopulationen in den umliegenden Kulturen"
+  ],
+  "source": [
+    "Verlängerung der Colorado State University",
+    "Journal of Integrated Pest Management",
+    "Grenzen in der Mikrobiologie"
+  ]
+}

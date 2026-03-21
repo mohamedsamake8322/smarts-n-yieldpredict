@@ -1,0 +1,65 @@
+{
+  "disease_name": "Tomatenblattform",
+  "type": "Pilzerkrankung",
+  "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ]
+  },
+  "distribution": "Weltweit; besonders problematisch in Gewächshäusern und hohen Tunneln mit hoher Luftfeuchtigkeit",
+  "symptoms": {
+    "leaves": [
+      "Gelbe Flecken auf oberen Blattoberflächen",
+      "Fuzzy olivgrün bis grau Schimmelwachstum auf unteren Blattoberflächen",
+      "Blätter können sich locken und verzerrt werden",
+      "Schwere Infektionen können Entlaubung verursachen"
+    ],
+    "stems": [
+      "Gelegentlich können Stängel infiziert werden, aber Krankheit ist meist Foliar"
+    ]
+  },
+  "disease_cycle": [
+    "Sporen bilden sich auf unteren Blattoberflächen innerhalb von 10–12 Tagen nach der Infektion",
+    "Hohe relative Luftfeuchtigkeit (≥85%) begünstigt Sporenproduktion und Infektion",
+    "Mehrere Generationen können innerhalb einer einzigen Wachstumsperiode auftreten",
+    "Verbreitung erfolgt über Wind, Regen/Überkopfbewässerung, Werkzeuge, Arbeiter und möglicherweise Insekten",
+    "Krankheitserreger können in Pflanzenresten und auf kontaminierten Gewächshausflächen fortbestehen"
+  ],
+  "environmental_conditions": [
+    "Optimale Temperatur: 21–24 °C (70–75 °F), aber Krankheit kann sich zwischen 10–32 °C (50–90 °F) entwickeln",
+    "Hohe relative Luftfeuchtigkeit (> 85 %) ist für schwere Epidemien von entscheidender Bedeutung",
+    "Schlechte Luftzirkulation und Blattfeuchtigkeit begünstigen Infektion"
+  ],
+  "management": {
+    "cultural": [
+      "Tropfbewässerung verwenden und das Benetzen von Laub vermeiden",
+      "Weltraumanlagen zur Verbesserung der Luftzirkulation",
+      "Stake, String oder Pflaumen Pflanzen, um die Feuchtigkeit um Blätter zu reduzieren",
+      "Luft in Gewächshäusern/hohen Tunneln mit Lüftungsöffnungen, Ventilatoren oder durch Aufrollen von Seiten kreisen",
+      "Aufrechterhaltung der Nachttemperaturen höher als außerhalb, um Taubildung zu reduzieren",
+      "Pflanzenreste am Ende der Saison entfernen und zerstören; Gewächshausoberflächen und -ausrüstungen säubern"
+    ],
+    "resistant_varieties": [
+      "Behutsam resistente Sorten verwenden, da Widerstand oft rassenspezifisch ist",
+      "Testresistente Sorten in kleinem Maßstab vor großflächiger Pflanzung",
+      "Referenz: Liste der resistenten Gemüsesorten der Cornell-Krankheit"
+    ],
+    "chemical": [
+      "Fungizide präventiv anwenden, wenn Krankheiten begünstigt werden",
+      "Chemische Familien rotieren, um Resistenzentwicklungen zu verhindern",
+      "Für die ökologische Produktion können kupferbasierte Produkte (z.B. Champ) Teilkontrolle bieten",
+      "Folgen Sie allen Pestizidetiketten und gesetzlichen Beschränkungen für den Einsatz in Gewächshäusern/hohen Tunneln"
+    ]
+  },
+  "notes": [
+    "Frühes Scouting während hoher Feuchtezeiten ist entscheidend für ein zeitnahes Management",
+    "Neue Rassen von P. fulva können entstehen, so dass die Überwachung resistenten Sorten Wirksamkeit ist wichtig",
+    "Effektives Management kombiniert kulturelle, genetische und chemische Strategien"
+  ],
+  "references": [
+    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
+    "Minnesota Extension, Tomato Leaf Mold Management",
+    "Jones, J.B., et al. 2014. Kompendium von Tomatenkrankheiten und Schädlingen, 2. Auflage. APS Press."
+  ]
+}

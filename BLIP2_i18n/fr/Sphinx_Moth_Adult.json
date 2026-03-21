@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "Sphinx Nez de sphinx",
+  "stage": "adulte",
+  "common_name": "Foie",
+  "description": "Le sphinx adulte est un gros papillon à vol rapide avec des ailes étroites et un corps robuste. Les adultes se nourrissent de nectar à l'aide d'un long proboscis et sont pollinisateurs pour de nombreuses espèces végétales.",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "Les adultes ne causent généralement pas de dommages directs aux plantes.",
+    "Peut être attiré par les lumières la nuit et agir comme pollinisateurs"
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "Nocturne; actif au crépuscule et la nuit",
+    "Flyers de longue distance; peut migrer et disperser les larves vers de nouvelles plantes hôtes"
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "La surveillance des adultes peut aider à prédire les éclosions larvaires",
+    "Les pièges à lumière peuvent réduire l'activité des adultes dans de petites zones"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "Le stade adulte est principalement bénéfique pour la pollinisation",
+    "Mettre l'accent sur la gestion des larves afin de prévenir les dommages aux cultures"
   ]
 }

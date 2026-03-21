@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
-  "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "disease": "胡萝卜替代叶叶斑点",
+  "scientific_name": "另类",
+  "pathogen_type": "蘑菇",
+  "description": "Alternaria叶斑点是一种主要影响胡萝卜叶的真菌病,它从老叶开始,产生黄边的黑斑。 在严重感染中,叶子变黑、干枯和死亡,导致大量产量损失。",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "树叶上的黑黑黑斑点",
+    "黄边角损害",
+    "古老的假期首先出现斑点",
+    "点点合并并形成大面积的死区",
+    "叶子变成黑色、干燥和枯枯",
+    "严重感染导致叶叶病和植物衰弱",
+    "苗苗可能死于堤坝"
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "深棕或黑叶或黑黑叶斑点",
+    "损害周围黄色光环",
+    "黑色胡萝卜叶"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "叶叶叶",
+    "树花叶",
+    "幼苗"
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
-    "parsley",
-    "dill",
-    "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "胡萝卜",
+    "菜菜",
+    "",
+    "diell 暗相",
+    "食人者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/",
+    "野胡萝卜",
+    "其他阿皮亚塞作物"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "阿皮亚ceae",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "潮湿天气",
+    "频繁降雨",
+    "高湿湿度",
+    "密集种植",
+    "湿润的长叶"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "受感染种子",
+    "风驱雨雨",
+    "土壤中受感染作物残留物",
+    "风吹散的真菌螺子"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "使用经核证的无疾病的种子",
+    "用热水处理种子(50°C,25至30分钟)",
+    "避免为减少湿度而密集种植",
+    "收获后清除已感染的作物碎片",
+    "旋转作物至少3年",
+    "种植宽容的胡萝卜品种"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "Tricchoderma 物种生物杀菌剂",
+    "生物杀菌剂"
   ],
-
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Copper fungicides",
-    "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "红铜",
+    "氯代烷基",
+    "铜杀真菌杀菌剂",
+    "异丙酮",
+    "杀真菌杀菌剂",
+    "三联苯杀真菌剂"
   ],
-
   "seed_treatment": [
-    "Thiram",
-    "Captan"
+    "锡",
+    "卡普坦语Name"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "胡萝卜(cercospora carotae)"
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "深褐色至黑黑色黄光圈损伤",
+    "Cercospora_leaf_spot": "浅棕色或棕色圆圆形损伤"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "胡萝卜叶迅速死亡",
+    "减少光合作用",
+    "雨季期间主要产量损失"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "CABI 作物保护简编",
+    "CSIRO 澳大利亚蔬菜作物疾病",
+    "马萨诸萨大学扩展大学",
+    "初级工业和区域发展部"
   ]
 }

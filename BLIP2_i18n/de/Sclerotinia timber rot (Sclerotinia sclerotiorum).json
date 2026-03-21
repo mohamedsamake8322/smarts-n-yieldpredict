@@ -1,0 +1,88 @@
+{
+  "disease": "Sclerotinia Holzrot",
+  "scientific_name": "Sklerotinia sclerotiorum",
+  "pathogen_type": "Pilze",
+  "description": "Sklerotinia Holzfäule ist eine Pilzkrankheit, die schwere Stamm Zerfall in vielen Kulturen verursacht. Der Pilz produziert weiße Baumwolle-ähnliche Schimmel und schwarze Überlebenskörper genannt Sklerotia. Infizierte Stängel werden trocken oder faul, was zu Pflanzenwelken und Zusammenbruch.",
+  "symptoms": [
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf Stängeln",
+    "Stammfäule oder trockener Zerfall (timberartiges Aussehen)",
+    "Schwarze Samen-ähnliche Sklerotie im Inneren oder auf Stängeln",
+    "Vergilbung und Verwelken von Blättern",
+    "Pflanzen kollabieren aufgrund von Stammschäden"
+  ],
+  "visual_symptoms": [
+    "weiße flauschige Form auf Stängeln",
+    "Trockene oder verrottende Stängel",
+    "Schwarze harte Sklerotie im infizierten Gewebe",
+    "eingestürzte oder verwelkte Pflanzen"
+  ],
+  "hosts": [
+    "Sojabohnen",
+    "Sonnenblume",
+    "Raps (Erdölraps)",
+    "Bohnen",
+    "Erbsen",
+    "Kopfsalat",
+    "Tomaten",
+    "Kartoffeln",
+    "Karotten",
+    "Gurken",
+    "Viele Gemüse- und Zierpflanzen"
+  ],
+  "plant_parts_affected": [
+    "Stängel",
+    "Blattläuse",
+    "manchmal Blätter und Blumen"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Häufiger Regen oder Bewässerung",
+    "Dichtes Pflanzendach",
+    "Schlechte Luftzirkulation"
+  ],
+  "spread": [
+    "Sporen aus der Luft aus der Apothezie",
+    "Sklerotie, die im Boden überlebt",
+    "Verunreinigte Pflanzenabfälle",
+    "Wind und Spritzwasser"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt im Boden als Sklerotie seit mehreren Jahren",
+    "Sklerotie keimen und produzieren Apothezie (kleine kupferähnliche Strukturen)",
+    "Apothecia lösen Sporen aus der Luft",
+    "Sporen infizieren Pflanzengewebe bei nassen Bedingungen",
+    "Neue Sklerotie entwickeln sich in infizierten Stängeln und fallen in den Boden"
+  ],
+  "impact": [
+    "Stammzerfall und Pflanzenkollaps",
+    "Verringerung des Pflanzenwachstums und der Produktivität",
+    "Starke Ertragsverluste in anfälligen Kulturen"
+  ],
+  "cultural_control": [
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Verbesserung des Abstands und des Luftstroms zwischen den Pflanzen",
+    "Entferne und zerstöre infizierte Pflanzenreste",
+    "Vermeiden Sie übermäßige Bewässerung"
+  ],
+  "biological_control": [
+    "Biologische Wirkstoffe wie Coniothyrium minitans anwenden",
+    "Benutze wohltuende Pilze wie Trichoderma-Arten"
+  ],
+  "chemical_control": [
+    "Boscalid",
+    "Fluazinam",
+    "Iprodion",
+    "Procymidon",
+    "Thiophanatmethyl"
+  ],
+  "prevention": [
+    "Verwenden Sie saubere Samen und gesunde Transplantationen",
+    "Überwachen Sie die Kulturen bei kühlem und nassem Wetter",
+    "Anwendung integrierter Methoden des Seuchenmanagements"
+  ],
+  "source": [
+    "Pflanzenpathologie-Leitfäden",
+    "Mittel für die Erweiterung der Landwirtschaft"
+  ]
+}

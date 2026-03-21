@@ -1,0 +1,38 @@
+{
+  "pest_name": "Stem Borer Blattschäden",
+  "pest_type": "Insekten",
+  "description": "Stängelbohrer sind Insektenschädlinge, deren Larven sich von Pflanzenstämmen und Blättern ernähren. Sie sind in Getreidekulturen wie Mais, Reis und Sorghum verbreitet. Larven wurden in Stängel gebohrt und verursachen innere Schäden, die Pflanzenwachstum und Produktivität reduzieren.",
+  "affected_parts": [
+    "Blatt",
+    "Stamm"
+  ],
+  "hosts": [
+    "Mais",
+    "Reis",
+    "Zuckerrohr",
+    "Sorghum"
+  ],
+  "symptoms": [
+    "Blattlöcher und Zuführspuren",
+    "Herzstillstandssymptom bei jungen Pflanzen",
+    "Stängeltunnel",
+    "Verringerung des Pflanzenwachstums"
+  ],
+  "spread": [
+    "Erwachsene Insekten legen Eier auf Pflanzenblätter",
+    "Larven, die sich in Pflanzenstämme bewegen"
+  ],
+  "management": {
+    "cultural": [
+      "Pflanzenrückstände entfernen",
+      "Fruchtfolge",
+      "Verwendung resistenter Sorten"
+    ],
+    "biological": [
+      "Ermutigen Sie parasitoide Wespen und natürliche Raubtiere"
+    ],
+    "chemical": [
+      "Bei hohem Befall empfohlene Insektizide anwenden"
+    ]
+  }
+}

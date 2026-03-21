@@ -1,86 +1,75 @@
 {
-  "disease": "Cabbage bacterial leaf spot",
-  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
-  "pathogen_type": "Bacterium",
-  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
-  
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "X Aus of Sao'i. The Sao'i.",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Wani irin magani da ke shafan ƙwayoyin cuta ne da ke sa mutum ya yi girma kuma ya zama marar ƙarfi. A wasu lokatai, ana yin amfani da ƙwayoyin cuta da ke sa mutum ya yi ƙarfi sosai.",
   "symptoms": [
-    "Small brown spots on cabbage leaves",
-    "Spots enlarge and join together",
-    "Irregular dead tissue on leaves",
-    "Lesions often limited by leaf veins",
-    "Leaves turn yellow",
-    "Severely infected leaves become rotten",
-    "Plant growth becomes weak"
+    "QXml",
+    "' Yan'uwa Suna samun ci gaba tare kuma suna haɗa kai",
+    "Ta da matattu a ƙasa",
+    "A yawancin lokaci, ba a yawan amfani da kayan ado",
+    "Sa'an nan Yanã barin (wurinsu) faƙo mai santsi.",
+    "KCharselect unicode block name",
+    "Ƙara girma na dogon lokaci ya zama raunana"
   ],
-
   "visual_signature": [
-    "small brown leaf spots",
-    "irregular necrotic patches",
-    "yellowing cabbage leaves"
+    "Media controller element",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "kale",
-    "mustard greens",
-    "other Brassica crops"
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Indian National weekday 3 - LongDayName",
+    "Da filõli jẽre,",
+    "Farã mai dãɗi ga mashãyan."
   ],
-
   "affected_plant_parts": [
-    "leaves"
+    "hagu"
   ],
-
   "favorable_conditions": [
-    "wet conditions",
-    "high humidity",
-    "frequent rainfall",
-    "plant wounds or insect damage",
-    "overhead irrigation"
+    "Mu ne muke fuskantar yanayi",
+    "Abãban ɗaukakãwa, abãban tsarkakẽwa.",
+    "@ action",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "KCharselect unicode block name"
   ],
-
   "spread": [
-    "rain splash",
-    "infected seeds",
-    "contaminated tools",
-    "insects carrying bacteria",
-    "contact between wet plants"
+    "Media controller element",
+    "Media controller element",
+    "Wuraren Mahaɗar Sadarwa",
+    "KCharselect unicode block name",
+    "@ item Text character set"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plants immediately",
-    "Avoid growing cabbage repeatedly on the same land",
-    "Practice crop rotation for 2–3 years",
-    "Mulch soil to reduce rain splash",
-    "Avoid damaging plants during weeding",
-    "Clean and disinfect tools regularly"
+    "KCharselect unicode block name",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Ka guje wa girma a kai a kai a wannan ƙasar",
+    "Yin aikace - aikacen gida na shekara 23",
+    "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+    "Ka guje wa munanan shuke - shuke sa'ad da muke yin biyayya",
+    "Tsabta da kuma rashin kayan aiki da ake amfani da su a kai a kai"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate based bactericides"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "prevention": [
-    "Use tolerant or resistant cabbage varieties",
-    "Plant healthy seedlings",
-    "Avoid working in fields when plants are wet",
-    "Maintain good field sanitation",
-    "Control insect damage to reduce entry points for bacteria"
+    "Yi Amfani da Kada ka Yi Amfani da Shi",
+    "Yadda aka shuka iri mai kyau",
+    "Ka guje wa yin aiki a gona sa'ad da ba ma noma",
+    "Ka Kasance da Ra'ayin da ya Dace",
+    "Yawan fushi na sa a rage wasu abubuwa don a rage wasu abubuwa da za a iya yi"
   ],
-
   "source": [
-    "FAO Plant Protection Guides",
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications"
+    "An Yi Muku Ja - gora Mai Kyau",
+    "@ item Text character set",
+    "@ action"
   ]
 }

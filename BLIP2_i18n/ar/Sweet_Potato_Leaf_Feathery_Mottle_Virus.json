@@ -1,68 +1,122 @@
 {
-  "pest_name": "Sweet Potato Leaf Feathery Mottle Virus",
-  "abbreviation": "SPLFMV",
-  "type": "virus",
-  "history": "SPLFMV is closely related to SPFMV and has been identified worldwide, commonly as part of sweet potato viral disease (SPVD).",
+  "pest_name": "حبة حلة بطاطا الحلوة",
+  "abbreviation": "(الذكور)",
+  "type": "- - - - - - - - - - - - - - - - - - -",
+  "history": "ويرتبط SPLFMV ارتباطاً وثيقاً بـ SPMV وقد تم تحديده في جميع أنحاء العالم، وهو ما يشكل عموماً جزءاً من مرض البطاطا الحلوة الفيروسية.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "RNA RNA",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "إطار القراءة المفتوحة",
+      "3 ' ط ط ط ط",
+      "ذيل (A) Pulic (A)"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "ف ١ ف ١",
+        "function": "نشاط ملزم للبروتينات، SSRNA"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "بروتينايز، معونات في مجال نقل المبردات، والتنقل لمسافات طويلة"
+      },
+      {
+        "name": "ف",
+        "function": "الدالة"
+      },
+      {
+        "name": "",
+        "function": "زايد السعيديEMAIL OF TRANSLATORS"
+      },
+      {
+        "name": "يُعقــد فــي بـشــر",
+        "function": "بروتين الإدراج السيثيوبي، نشاط RNA"
+      },
+      {
+        "name": "",
+        "function": "مجهول، مشارك في تكرار الفيروس"
+      },
+      {
+        "name": "NNNNN NNa",
+        "function": "VPg والبروتينات"
+      },
+      {
+        "name": "م م م م م م",
+        "function": "2 - الميكروش"
+      },
+      {
+        "name": "المكر",
+        "function": "بروتين الكوت، تجمع الفيروسات، انتقال فيروسي، انتشار"
+      }
+    ],
+    "virion_shape": "طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ، طويل ،",
+    "virion_length_nm": "810 805-865"
   },
   "life_cycle": {
-    "entry": "Mechanical transmission or via aphid stylets piercing leaf tissue",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA in leaf cells",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "الانتقال الميكانيكي أو عن طريق المناقصات المثبتة للأوراق",
+    "replication": "جينوم مترجمة إلى بولي بروتينين، كتبه P1، HC-Pro، NIa Protates",
+    "gene_silencing_suppression": "HC-Pro cabates SIRNA وCERNA في خليات الأوراق",
+    "packaging": "جُنُج مُنْزَج مُعَبَّدًا إلى أُقُرْرَات"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent via stylet tips during leaf feeding",
-    "seed_transmission": "Not transmitted through seeds",
-    "host_range": ["Ipomoea spp.", "Nicotiana spp.", "Chenopodium quinoa", "Datura stramonium"]
+    "vectors": [
+      "إكراميات"
+    ],
+    "mechanism": "غير مثبتة عن طريق إكراميات تصميمية أثناء التغذية بالورط",
+    "seed_transmission": "لم ينتقل عن طريق البذور",
+    "host_range": [
+      "أيبومومويا spp.",
+      "(نيكانا) spp.",
+      "كينونات",
+      "Datura straonium"
+    ]
   },
   "symptoms": {
-    "typical": "Feathery or mottled patterns on leaves, light to dark purple or green",
-    "severe_strains": ["Leaf chlorosis", "Leaf distortion", "Necrotic spots"],
+    "typical": "النمــمــط الــواردي أو النمــمــط المحمــط علــى الشــوارق، والضــوء إلــى الأرجواني أو الأخضر الداكن",
+    "severe_strains": [
+      "",
+      "",
+      ""
+    ],
     "co-infections": {
-      "SPVD": "When co-infected with SPCSV, causes stunting, mosaic leaves, reduced yield"
+      "SPVD": "عندما تتعايش مع SPCSV، تسبب التقزم، أوراق الفسيفسيفساء، انخفاض الغلة"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "",
+        "location": "شرق أفريقيا"
+      },
+      {
+        "name": "المركَبْر",
+        "location": "أستراليا، أفريقيا، أمريكا الشمالية، آسيا"
+      },
+      {
+        "name": "(ن)",
+        "location": "أفريقيا وآسيا وأمريكا الجنوبية"
+      },
+      {
+        "name": "م ج",
+        "location": "أستراليا، وأفريقيا، وآسيا، وأمريكا الشمالية، وأمريكا الجنوبية"
+      }
     ]
   },
   "agricultural_impact": {
-    "affected_tissues": "Leaf tissues primarily",
-    "yield_loss": "Significant when combined in SPVD; reduces photosynthetic efficiency and plant vigor",
-    "social_impact": "Affects smallholder farmers relying on sweet potato leaves as food and fodder"
+    "affected_tissues": "الألياف الليفية في المقام الأول",
+    "yield_loss": "عندما تكون ذات أهمية عندما تُجمع في إطار الحد من إزالة كلوريد الفينيل الموحد؛ يقلل من كفاءة التصنيع الضوئية واهتزاز النبتة",
+    "social_impact": ":: يؤثر على صغار المزارعين الذين يعتمدون على أوراق البطاطا الحلوة كغذاء وعلف"
   },
   "management": {
-    "early_detection": "Monitor leaf symptoms and confirm via ELISA",
-    "removal": "Rogue infected plants to prevent spread",
+    "early_detection": "أعراض الورقة التي تم رصدها وتأكيدها عن طريق ELISA",
+    "removal": "من أجل منع الانتشار",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Maintain vector (aphid) control",
-      "Hygienic pruning and tool sanitation"
+      "مواد النشـر الخالية من فيروسات النشـر",
+      "(أ) التحكم في النواقل (أفياً)",
+      "التصريف الصحي وأداة الصرف الصحي"
     ]
   },
   "references": [
-    "Based on SPFMV research and sweet potato viral disease studies"
+    "استناداً إلى البحوث التي أجراها هذا البرنامج ودراسات الأمراض الحشرية الحلوة"
   ]
 }

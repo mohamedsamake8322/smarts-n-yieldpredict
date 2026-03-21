@@ -1,87 +1,87 @@
 {
- "disease": "Sclerotinia Leaf Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia leaf rot is a fungal disease that affects many crops. The fungus infects leaves and stems under cool and wet conditions. It produces white cotton-like mold and black survival structures called sclerotia.",
- "symptoms": [
-  "Water-soaked spots on leaves",
-  "Leaves turning yellow and wilting",
-  "Soft rot on infected leaf tissue",
-  "White cotton-like fungal growth on leaves or stems",
-  "Black seed-like sclerotia forming in infected areas",
-  "Leaves collapsing and dying"
- ],
- "visual_symptoms": [
-  "white fluffy mold on leaves",
-  "soft watery leaf rot",
-  "black sclerotia inside fungal growth",
-  "collapsed or wilted leaves"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Sunflower",
-  "Cabbage",
-  "Carrot",
-  "Celery",
-  "Cucumber",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "petioles"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Prolonged leaf wetness",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia in soil",
-  "Infected plant debris",
-  "Water splash or wind"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce cup-shaped apothecia",
-  "Apothecia release spores into the air",
-  "Spores infect leaves during wet conditions",
-  "New sclerotia form on infected plants and return to soil"
- ],
- "impact": [
-  "Leaf rot and plant weakening",
-  "Reduced photosynthesis",
-  "Lower crop yield",
-  "Possible plant collapse in severe infections"
- ],
- "cultural_control": [
-  "Remove infected plants quickly",
-  "Improve plant spacing and airflow",
-  "Rotate crops with non-host plants",
-  "Remove infected plant debris from fields"
- ],
- "biological_control": [
-  "Use biocontrol fungi such as Coniothyrium minitans",
-  "Use beneficial microbes like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply registered fungicides when disease risk is high",
-  "Preventive fungicide sprays in humid conditions"
- ],
- "prevention": [
-  "Avoid overcrowded planting",
-  "Monitor crops during cool and wet seasons",
-  "Practice crop rotation",
-  "Use integrated disease management"
- ],
- "source": [
-  "Plant pathology disease guides",
-  "Agricultural extension resources"
- ]
+  "disease": "Rotation de la feuille de Sclérotinie",
+  "scientific_name": "Sclérotinia sclérotiorum",
+  "pathogen_type": "Champignons",
+  "description": "La pourriture des feuilles de Sclerotinia est une maladie fongique qui affecte de nombreuses cultures. Le champignon infecte les feuilles et les tiges dans des conditions fraîches et humides. Il produit des moisissures de coton blanc et des structures de survie noires appelées sclerotia.",
+  "symptoms": [
+    "Taches mouillées par l'eau sur les feuilles",
+    "Feuilles devenant jaunes et flétrissantes",
+    "Pourriture molle sur les tissus foliaires infectés",
+    "Croissance fongique en coton blanc sur les feuilles ou les tiges",
+    "Sclérotes de type noir se formant dans les zones infectées",
+    "Les feuilles s'effondrent et meurent"
+  ],
+  "visual_symptoms": [
+    "moule blanc moelleux sur les feuilles",
+    "pourriture molle des feuilles aqueuses",
+    "sclérotes noirs à l'intérieur de la croissance fongique",
+    "feuilles effondrées ou flétries"
+  ],
+  "hosts": [
+    "Laitue",
+    "Haricots",
+    "Pois",
+    "Tomates",
+    "Tournesol",
+    "Cravates",
+    "Carotte",
+    "Céleri",
+    "Concombre",
+    "Nombreuses plantes ornementales"
+  ],
+  "plant_parts_affected": [
+    "feuilles",
+    "tiges",
+    "les pétioles"
+  ],
+  "favorable_conditions": [
+    "Températures fraîches",
+    "Humidité élevée",
+    "Humidité prolongée des feuilles",
+    "Canopée végétale dense",
+    "Mauvaise circulation d'air"
+  ],
+  "spread": [
+    "Spores aéroportées de l'apothécie",
+    "Sclérotes dans le sol",
+    "Débris de plantes infectées",
+    "Éruptions d'eau ou de vent"
+  ],
+  "disease_cycle": [
+    "Le champignon survit dans le sol sous forme de sclérotes pendant plusieurs années",
+    "Les sclérotes germent et produisent de l'apothécie en forme de tasse",
+    "L'apothécie libère des spores dans l'air",
+    "Les spores infectent les feuilles en conditions humides",
+    "Nouvelle forme de sclérotes sur les plantes infectées et retour au sol"
+  ],
+  "impact": [
+    "Pourriture des feuilles et affaiblissement de la plante",
+    "Photosynthèse réduite",
+    "Baisse du rendement des cultures",
+    "Éventuellement effondrement de la plante lors d'infections graves"
+  ],
+  "cultural_control": [
+    "Enlever rapidement les plantes infectées",
+    "Améliorer l'espacement des installations et le débit d'air",
+    "Cultures en rotation avec des plantes non hôtes",
+    "Enlever les débris végétaux infectés des champs"
+  ],
+  "biological_control": [
+    "Utiliser des champignons biocontrol tels que les minitans de Coniothyrium",
+    "Utiliser des microbes bénéfiques comme les espèces Trichoderma"
+  ],
+  "chemical_control": [
+    "Appliquer des fongicides homologués lorsque le risque de maladie est élevé",
+    "Vaporisateurs de fongicides préventifs dans des conditions humides"
+  ],
+  "prevention": [
+    "Éviter les plantations surpeuplées",
+    "Surveiller les cultures pendant les saisons froides et humides",
+    "Pratiquer la rotation des cultures",
+    "Utiliser la gestion intégrée des maladies"
+  ],
+  "source": [
+    "Guides de pathologie végétale",
+    "Ressources de vulgarisation agricole"
+  ]
 }

@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
-  "family": "Thripidae",
-  "type": "insect",
+  "pest_name": "KCharselect unicode block name",
+  "order": "Ka Shiga Duk da Haka",
+  "family": "KCharselect unicode block name",
+  "type": "QFontDatabase",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "1 @ item Text character set",
+    "body": "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "mouthparts": "Kamar dai su ƙwai ne ɓõyayye.",
+    "species_of_major_concern": [
+      "KCharselect unicode block name",
+      "@ item Text character set"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "Indian National weekday 3 - LongDayName",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "QFontDatabase",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name",
+      "Lalle ne kũ, haƙĩƙa, kunã cikin magana mai sãɓa wa juna (game da Alƙur'ani).",
+      "Indian National weekday 5 - LongDayName",
+      "KCharselect unicode block name",
+      "Ka Zama Mai Tawali'u",
+      "KCharselect unicode block name"
+    ],
+    "vegetables": [
+      "DakataCoptic month 13 - LongName",
+      "QShortcut",
+      "Indian National weekday 3 - LongDayName",
+      "KCharselect unicode block name",
+      "Za a Iya Yin Nasara",
+      "KCharselect unicode block name",
+      "QXml",
+      "Ethiopian weekday 2 - LongDayName",
+      "Indian National weekday 3 - LongDayName",
+      "@ action",
+      "QShortcut",
+      "KCharselect unicode block name",
+      "Indian National weekday 5 - LongDayName",
+      "Ethiopian weekday 5 - LongDayName",
+      "Kamar dai sũ, jãkuna firgitattu ne.",
+      "KCharselect unicode block name"
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "Yadda aka tsara ƙwayoyin halitta da kuma shan ƙwayoyi masu sa maye da ke cikin ciki, ya sa aka yi amfani da abubuwan da aka samo daga cikin azurfa ko kuma azurfa da za su iya juya ko kuma mai amfani da su.",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+      "Japanese flower thrips": "Barin abin da ya fi muhimmanci; za su iya yin girma a furanni"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "Kafin lokacin, ƙananan itatuwa suna iya yin amfani da su don su kalli abubuwan da suke bukata."
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "KCharselect unicode block name",
+      "@ action",
+      "@ item Spelling dictionary"
+    ],
+    "viruses": [
+      "@ action",
+      "@ item Spelling dictionary"
+    ],
+    "mechanism": "Da farko, ana samun ƙwayoyin cuta daga shuke - shuke masu yawa; manyan ma'aikata suna cin abinci a lokacin cin abinci.",
+    "host_plants": [
+      "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "Indian National weekday 3 - LongDayName",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "QFontDatabase",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name",
+      "Lalle ne kũ, haƙĩƙa, kunã cikin magana mai sãɓa wa juna (game da Alƙur'ani)."
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "KCharselect unicode block name",
+    "Yadda Za a Bi da Mutane da kuma Hanyar da Ya Dace",
+    "KCharselect unicode block name",
+    "DakataCoptic month 5 - LongName",
+    "Ka ƙara bayyana dalilin da ya sa mutuwa ta kasance"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "@ item Text character set",
+    "INSV": "@ item Spelling dictionary"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "Za a iya yin amfani da na'ura; tsara abubuwa masu yawa suna ƙaruwa",
+    "notes": "Sa'an nan idan 'yan'uwa sun kasance gare shi, to, uwarsa tana da sudusi (ɗaya daga cikin kashi shida) daga bayan wasiyya wadda ya yi kõ kuwa bãshi."
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "shuke - shuke a kai a kai don alamu na farko",
+      "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+      "Ka Kasance da Ra'ayin da ya dace game da magabta na jiki"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "Yin amfani da abubuwan da ba su dace ba; ka bi ja - gorar mutanen yankin kuma ka yi amfani da umurnin da aka bayar"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "Al'ada, al'ada, tattalin arziki, da ake amfani da su a hanyar da ba ta dace ba"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "Ko kuma ya yi musu ja - gora: Na'ura mai kyau na kāre ' ya'yan itace",
+    "KCharselect unicode block name"
   ]
 }

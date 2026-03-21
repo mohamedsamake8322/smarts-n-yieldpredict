@@ -1,0 +1,73 @@
+{
+  "disease": "Zitrusknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknabenknaben",
+  "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
+  "pathogen_type": "Bakterium",
+  "description": "Citrus Canker ist eine hoch ansteckende bakterielle Krankheit, die Zitruspflanzen betrifft. Es verursacht Läsionen an Blättern, Stielen und Früchten, was zu vorzeitigen Blatt- und Fruchttropfen und reduzierter Fruchtqualität führt. Obwohl infizierte Früchte essbar sind, sind sie aufgrund ihres Aussehens nicht marktfähig.",
+  "hosts": [
+    "Zitrusfrüchte (Orange, Limette, Grapefruit, Zitrone)",
+    "Poncirus trifoliata",
+    "Fortunella spp. (kumquat)",
+    "Severinia spp.",
+    "Swinglea-Arten"
+  ],
+  "susceptibility": {
+    "highly_susceptible": [
+      "Pampelmusen und Grapefruits",
+      "Nabelorangen",
+      "Frühe Orangensorten"
+    ],
+    "moderately_susceptible": [
+      "Sauerorange",
+      "Zitrone",
+      "Süßorange"
+    ],
+    "more_tolerant": [
+      "Mandarin",
+      "Einige Kreuzungen von Zitrusfrüchten (z. B. Murcott, Valencia)"
+    ]
+  },
+  "symptoms_and_damage": [
+    "Kleine erhöhte Blister-ähnliche Läsionen mit wassergetränkten Rändern",
+    "Gelbe Halos umgebende Läsionen an Blättern und Früchten",
+    "Nekrotische Flecken an Blättern, Stängeln und Früchten",
+    "Rissbildung und Verformung von Früchten",
+    "Vorzeitiger Obsttropfen",
+    "Schwere Infektionen verursachen Belaubung"
+  ],
+  "disease_cycle_and_spread": [
+    "Bakterien überleben in Läsionen auf Blättern, Stängeln und Früchten",
+    "Verbreitung durch windgetriebenen Regen und Wasserspritzer",
+    "Fernstreuung erfolgt hauptsächlich durch Bewegung infizierten Pflanzenmaterials",
+    "Insekten, Vögel und Tiere können zur lokalen Ausbreitung beitragen",
+    "Leafminer Schaden erhöht Infektion durch die Schaffung von Wunden"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (optimal bei 28–30°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Regen und Wind",
+    "Vorhandensein von freiem Wasser auf Pflanzenoberflächen"
+  ],
+  "pathogen_characteristics": [
+    "Gram-negatives stabförmiges Bakterium",
+    "Größe ca. 1–3 Mikrometer",
+    "Single polar Flagellum für Bewegung",
+    "Produziert gelbes Pigment namens Xanthomonadin in der Kultur"
+  ],
+  "monitoring": [
+    "Inspect Blätter für erhöhte Läsionen mit gelben Halos",
+    "Früchte auf korkige oder rissige Läsionen prüfen",
+    "Beobachten Sie Zweig Läsionen, die als Infektionsquellen dienen können"
+  ],
+  "management": [
+    "Verwendung zertifizierten seuchenfreien Pflanzmaterials",
+    "Kupferhaltige Sprays als Präventivbehandlung anwenden",
+    "Installieren Sie Windbreaks, um die Ausbreitung durch windgetriebenen Regen zu reduzieren",
+    "Kontrolle der Populationen von Zitrus-Blattminern",
+    "Desinfizieren Sie Werkzeuge, Ausrüstung und Kleidung beim Betreten oder Verlassen von Obstgärten",
+    "Entfernen Sie infizierte Bäume in Gebieten, in denen die Krankheit noch nicht nachgewiesen ist"
+  ],
+  "sources": [
+    "Wikipedia – Citrus Canker",
+    "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
+  ]
+}

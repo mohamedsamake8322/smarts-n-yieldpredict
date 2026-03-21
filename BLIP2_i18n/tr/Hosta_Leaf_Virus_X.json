@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "Hosta Virüsü X",
+  "scientific_name": "Hosta Virüsü X (HVX)",
+  "pathogen_type": "Virüsler",
+  "description": "Hosta bitkileri enfekte eden bir viral hastalık. bitkiyi öldürmez ama kalıcı yaprak hasarına neden olur ve dekoratif kalitesini azaltır. enfekte olduktan sonra, bitki ömür boyu enfekte kalır.",
+  "symptoms": [
+    "Çerçeve çerçeve çerçeve yaprakları",
+    "Mottled veya patchy yaprak bozukluğu",
+    "Dökülmüş veya sıkıştırılmış yaprak dokusu",
+    "Yapraklarda düzensiz ışık ve karanlık yeşil desenler",
+    "bozulmuş veya sağlıksız yaprak görünümü"
+  ],
+  "hosts": [
+    "Hosta türleri",
+    "Ornamental Hosta Kulüpleri"
+  ],
+  "favorable_conditions": [
+    "Yaprak veya köklerin mekanik hasarları",
+    "Dökülme veya bitki bölünmesi sırasında kötü sanitasyon",
+    "Enfekte ve sağlıklı bitkiler arasındaki yakın temas"
+  ],
+  "spread": [
+    "SAP Transferi",
+    "kirlenmiş çubuklar veya bıçaklar",
+    "Bitki bölünmesi dezenfeksiyon olmadan",
+    "hasarlı yapraklar arasındaki bağlantı",
+    "Enfekte bitki malzemesi"
+  ],
+  "management": [
+    "Enfekte bitkileri tamamen ortadan kaldırmak ve yok etmek",
+    "Enfekte bitki malzemeleri karıştırmayın",
+    "Bitkilerin işlenmesinden sonra aletler ve ekipmanları dezenfekte etmek",
+    "En az 2 yıl boyunca kirlenmiş topraklarda yeni evcil hayvan yetiştirmekten kaçının.",
+    "Enfeksiyon şüphesi olduğunda virüs test kitleri kullanın"
+  ],
+  "biological_control": [
+    "HVX için mevcut biyolojik kontrol yok"
+  ],
+  "chemical_control": [
+    "HVX gibi bitki virüsleri için kimyasal tedavi mevcut değildir"
+  ],
+  "prevention": [
+    "Sanitasyon protokolleri ile saygın hemşirelerden bitkiler satın alın",
+    "Satın almadan önce bitkileri dikkatlice inceleyin",
+    "Birkaç hafta boyunca Quarantine yeni hosta bitkileri",
+    "Bakım sırasında bitki hasarını en aza indirmek",
+    "El yıkama ve bitkiler arasındaki dezenfeksiyon araçları",
+    "Trisodium fosfat veya laboratuvar temizleyicileri gibi dezenfektan çözümleri kullanın"
+  ],
+  "source": [
+    "Hosta Hemşirelik Hastalık Yönetimi Kılavuzu",
+    "Üniversite Bitki Patolojisi Uzantısı Kaynakları"
+  ]
 }

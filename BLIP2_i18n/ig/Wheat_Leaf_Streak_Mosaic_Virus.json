@@ -1,0 +1,65 @@
+{
+  "disease_name": "NDỊ NA - ETO ETO NA - AJỤ, SỊ",
+  "abbreviation": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "pathogen_type": "AGBOR 1 (Bekee)",
+  "family": "Pyviviae",
+  "genus": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "hosts": [
+    "Ma, e nwere ihe ụfọdụ nwere ike inyere mmadụ aka ịmata ihe bụ́ nsogbu onye ahụ.",
+    "Corn (Zea)",
+    "Rye (Sale s.)",
+    "Oss (Alnath.)",
+    ". . . . .",
+    "Sorghum",
+    "Ndị Na - eto Eto Na - ajụ Sị...",
+    "Ụfọdụ ata ndị ahịhịa na - acha akwụkwọ ndụ akwụkwọ ndụ"
+  ],
+  "distribution": "Zuru ụwa ọnụ; ihe ka ọtụtụ n'Ala Dịịrị Banye na Mmiri Ukwu (SA), Australia, na ihe ka ọtụtụ n'ógbè ọka wit ndị a ma ama",
+  "vector": {
+    "name": "A NA - EME KA NDỊ MMADỤ NWERE onwe ha n'ebe ha nọ",
+    "scientific_name": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "transmission_type": "Ihenhọrọ ogemmem",
+    "notes": "Ọ bụ ifufe ka a na - ejikarị eme ka nje ahụ na - aga ngwa ngwa, ọ pụkwara ịkpatara mmadụ ọrịa ahụ n'etiti ọka wit na ọka wit"
+  },
+  "symptoms": [
+    "A na - enwe ụda odo odo, nke na-achaghị acha n'akwụkwọ",
+    "Uto e nwere n'ụzọ a na - achịkwaghị achịkwa",
+    "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ pụrụ ịkpata ọnwụ 100%",
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi na - akawanye njọ mgbe a na - ebute nje virus ndị na - akpata ọrịa ogbu na nkwonkwo ma ọ bụ nje virus ndị dị n'ime ala"
+  ],
+  "disease_cycle": [
+    "Ndị na - ere ahịhịa na ihe ọkụkụ ndị na - esi ísì ọma na mkpụrụ akụ́kụ́ ndị bu ọrịa ahụ",
+    "Ụmụ irighiri ihe ndị dị ndụ na - enweta nje virus site n'osisi ndị bu ọrịa ahụ ma na - ebuga ha n'ebe osisi ndị dị mma",
+    "Ihe na - ekpebi ihe a ga - eji na - agba ọsọ bụ ikuku aga n'agbata ahịhịa na ubi",
+    "Ndị ọrụ afọ ofufo bụ́ ọka wit na ata na - arụ ọrụ dị ka ihe na - enye ma anụ ma nje virus",
+    "Ọgbọ dị iche iche nke mmiri ọgwụ ahụ́ bụ́ ndị e nwere n'oge ọ bụla pụrụ ịgbasa n'ụzọ dị egwu"
+  ],
+  "conditions_for_development": [
+    "Ihu igwe na - ekpo ọkụ na - eme ka e nwee ihu igwe na - ekpo ọkụ, meekwa ka e wepụ nje virus",
+    "Ebe ọ bụ na ndị ọrụ afọ ofufo bụ́ ọka wit ma ọ bụ ụmụ ahụhụ na - amụba ọrịa na - amụba n'ike n'ike",
+    "Mkpụrụ osisi ndị a na - akụ n'oge na - amụba ohere e nwere na a ga - akụ ha n'ihi na a ga - agbanye ha n'ahụ́ ngwa ngwa"
+  ],
+  "management": {
+    "cultural": [
+      "IHE fọrọ nke nta ka ọ bụrụ izu 2 tupu a malite ịkụ ọka wit ọhụrụ",
+      "Zere ịkụ ya n'oge iji belata ikuru mmiri ọgwụ ahụ́ gị",
+      "Họrọ ụdị ọka wit dị iche iche nke nwere ihe dị ala a na - akpọ WMMMV"
+    ],
+    "chemical": [
+      "Ọgwụ ndị e ji agwọ ọrịa n'ahụ́ adịghị arụ ọrụ n'ahụ́ ọka wit maka ịchịkwa nje virus na - agbasa"
+    ],
+    "resistance": [
+      "Jiri ndị na - eguzogide ọgwụ mee ihe kama iji òtù okpukpe ọka wit bụ́ ebe e nwere ya",
+      "Nnyocha ndị e mere n'Ola-Nike n'ike ka dị n'esepụghị aka"
+    ]
+  },
+  "impact": [
+    "Ọ bụrụ na mmadụ anwụọ, o nwere ike iru otu narị mmadụ n'ụdị dị iche iche",
+    "Ọgwụ Igbo na nje virus ndị ọzọ pụrụ imebi ihe n'ụzọ dị njọ"
+  ],
+  "references": [
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi na - emetụta ụbụrụ, bụ́ DLLLA all., 2002, na - arịa ajọ ọrịa ogbu na nkwonkwo nke yiri ajụ oyi: Ihe Ndekọ Ọnụ Ọgụgụ Banyere Ọrịa AIDS bụ́ 86: 781190.",
+    "Martinez an al., J. .  iwe iwe iwe. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    ". . . . iji ihe ndị dị ndụ na - emepụta ihe ndị dị ndụ. . . . . ."
+  ]
+}

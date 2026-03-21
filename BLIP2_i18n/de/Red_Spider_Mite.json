@@ -1,0 +1,79 @@
+{
+  "disease": "Roter Spinnenmilbenbefall",
+  "scientific_name": "Tetranychus urticae (und verwandte Spinnmilbenarten)",
+  "pathogen_type": "Arachnid-Schädlinge (Mitte)",
+  "description": "Rote Spinnmilben sind winzige Arachnidenschädlinge, die sich von Pflanzensaft durch piercing Blattzellen ernähren. Sie vermehren sich schnell unter warmen und trockenen Bedingungen und können durch die Reduzierung der Photosynthese und die Schwächung der Pflanzen schwere Schäden an den Kulturen verursachen.",
+  "symptoms": [
+    "Kleine blasse oder gelbe Flecken auf den Blättern (Stippen)",
+    "Blätter verlieren ihre grüne Farbe",
+    "Feines Seidenweben auf Blättern und Stängeln",
+    "Blätter werden gelb oder braun",
+    "Blatttrocknung und Fallen",
+    "Stark geschwächte Pflanzen oder Pflanzentod"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Erdbeere",
+    "Bohnen",
+    "Gurken",
+    "Pfeffer",
+    "Auberginen",
+    "Apfel",
+    "Zitrusfrüchte",
+    "Weintrauben",
+    "Baumwolle",
+    "Mais",
+    "Zierpflanzen",
+    "Gewächshauskulturen"
+  ],
+  "favorable_conditions": [
+    "Heiße Temperaturen",
+    "Trockene Bedingungen",
+    "Geringe Luftfeuchtigkeit",
+    "Staubige Pflanzenumgebungen",
+    "Geballte Gewächshausbedingungen"
+  ],
+  "spread": [
+    "Wind",
+    "Bewegung von befallenen Pflanzen",
+    "Kontaminierte Werkzeuge oder Kleidung",
+    "Kontakt von Pflanzen zu Pflanzen"
+  ],
+  "impact": [
+    "Reduzierte Photosynthese",
+    "Blattverlust",
+    "Verringerte Ernteerträge",
+    "Sonnenbrand auf Früchten durch Baldachin Verlust",
+    "Schwächung der Pflanze oder Tod bei schweren Befall"
+  ],
+  "cultural_control": [
+    "Erhöhung der Luftfeuchtigkeit um Pflanzen",
+    "Pflanzen regelmäßig mit Wasser besprühen",
+    "Stark befallene Blätter oder Pflanzen entfernen",
+    "Säuberungsabfälle und Unkraut",
+    "Vermeiden Sie staubige Bedingungen in Feldern oder Gewächshäusern"
+  ],
+  "biological_control": [
+    "Prädatorische Milbe Phytoseiulus persimilis",
+    "Prädatormilbe Amblyseius californicus",
+    "Prädatory Midge Feltiella acarisuga",
+    "Käfer (Ladybugs)",
+    "Grüne Spitzenlarven",
+    "Pilz Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Neemöl",
+    "Mitizide oder Akarizide bei schweren Befall",
+    "Verwendung selektiver Pestizide, die mit biologischer Kontrolle kompatibel sind"
+  ],
+  "prevention": [
+    "Überwachen Sie Blätter regelmäßig mit einer Handlinse",
+    "Gute Bewässerung und Feuchtigkeit erhalten",
+    "Pflanzenreste nach der Ernte entfernen",
+    "Integrierte Schädlingsbekämpfung (IPM) verwenden"
+  ],
+  "source": [
+    "CABI BioProtection Portal",
+    "Angaben zur Schädlingsbekämpfung in der Landwirtschaft"
+  ]
+}

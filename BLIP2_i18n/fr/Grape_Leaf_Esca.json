@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "Esca à raisins",
+  "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Champignons (complexe de la maladie du bois-décay)",
+  "description": "L'esca est une grave maladie du tronc des vignes qui endommage les tissus du bois et réduit la vigueur de la vigne. Elle provoque la décoloration des feuilles, la décomposition du bois et la mort soudaine de la vigne dans les cas graves.",
+  "symptoms": [
+    "Patterns de rayures de tigre jaune et brun sur les feuilles",
+    "Séchage et combustion des feuilles à partir des marges",
+    "Réduction de la croissance de la vigne et des pousses faibles",
+    "Traînées sombres à l'intérieur du tronc en bois",
+    "Pourriture spongieuse blanche à l'intérieur du tronc",
+    "Mouillage ou mort subit des vignes (apoplexie)"
+  ],
+  "hosts": [
+    "Pamplemousses (Vitis vinifera)",
+    "Raisins de table",
+    "Raisins de cuve",
+    "Espèces de Vitis sauvages"
+  ],
+  "favorable_conditions": [
+    "Vignobles anciens",
+    "Blessures de taille permettant l'entrée fongique",
+    "Conditions chaudes pendant la saison de croissance",
+    "Mauvaise taille de l'assainissement"
+  ],
+  "spread": [
+    "Spores fongiques entrant dans les plaies de taille",
+    "Matériel de plantation infecté",
+    "Outils d'élagage contaminés"
+  ],
+  "management": [
+    "Enlever et détruire les vignes infectées",
+    "Prune par temps sec",
+    "Protéger les blessures d'élagage",
+    "Utiliser du matériel de plantation certifié sain",
+    "Éviter les grandes plaies d'élagage"
+  ],
+  "biological_control": [
+    "Produits à base de trichoderme appliqués à la taille des plaies",
+    "Champignons utiles pour prévenir la colonisation des pathogènes"
+  ],
+  "chemical_control": [
+    "Fongicides protecteurs des plaies après élagage",
+    "Traitements de protection à base de cuivre"
+  ],
+  "prevention": [
+    "Désinfecter les outils de taille",
+    "Utiliser des vignes certifiées indemnes de maladies",
+    "Protéger les blessures de taille immédiatement après la taille",
+    "Entretien de l'assainissement des vignobles"
+  ],
+  "source": [
+    "Guide sur les maladies de la vigne de l'OIV",
+    "Ressources de la FAO pour les maladies des plantes",
+    "Littérature pathologique de la viticulture"
+  ]
 }

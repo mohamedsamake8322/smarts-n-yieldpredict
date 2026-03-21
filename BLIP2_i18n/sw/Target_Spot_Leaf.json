@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
-  "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "pest_name": "Mwisho wa Spot Leaf",
+  "causal_agent": "Maisha ya Corynespora Cassiicola",
+  "type": "ya fungus",
+  "distribution": "duniani kote",
+  "host_plants": [
+    "Chini ya Chini ya Chini ya Chini ya Chini"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "Angular, nyekundu nyekundu juu ya nyekundu. nyekundu kuongezeka na kuwa nyekundu na nyekundu nyekundu na nyekundu nyekundu mipaka. Katika hatua za awali, nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu.",
+    "stem_petiole": "Maonyesho ya kuongezeka, husaidia kuongezeka kutoka kwa Anthracnose, downny mildew, au maonyesho ya maonyesho.",
+    "fruit": "Matunda ya giza, giza ikiwa infection hutokea mapema katika mwisho wa maua.",
+    "roots_flowers": "Maambukizi ni inawezekana lakini rahisi."
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "Nishati ya 25-35 ° C (77-95 ° F) inafanya maendeleo; infection inaweza kutokea katika 21-26 ° C (70-80 ° F)",
+    "humidity": "Ukosefu wa juu husaidia ugonjwa wa",
+    "light": "Maisha ya muda mrefu ya kuendeleza ugonjwa",
+    "other_factors": "Mabadiliko ya joto ya kila siku na uwepo wa wanyama au wanyama wa maambukizi"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "juu ya vichwa vya mazao yaliyoathiriwa kwa muda wa chini ya miaka miwili, au juu ya vichwa vya mazao",
+    "dispersal": "Matokeo ya Airborne",
+    "infection": "Siku, mti, pepe, matunda, maua, na matunda katika hali nzuri"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "Tumia aina za kupumzika wakati inapatikana",
+      "Kuendeleza uhifadhi mzuri katika maeneo na nyumba za greenhouse",
+      "Kuondoa na kuharibu mbegu za mimea",
+      "Utafiti wa wakulima karibu na matunda"
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "Matangazo ya kuzuia fungicide kulingana na maelekezo ya etiketi"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": "Kuunganisha aina za kupumzika, huduma za afya, na programu za fungicide ili kupunguza hali ya ugonjwa"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "Guides ya ugonjwa wa Cucurbit crop na matangazo ya kuongezeka",
+    "Ripoti ya Uuzaji wa Kimataifa ya Corynespora cassiicola"
   ]
 }

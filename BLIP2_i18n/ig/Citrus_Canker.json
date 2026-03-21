@@ -1,0 +1,73 @@
+{
+  "disease": "Iji Ọgwụ Ọjọọ Eme Ihe Pụrụ Ime Ka Ị Ghara Ịdị Na - eme Ihe n'Ụzọ Ziri Ezi",
+  "scientific_name": "Xnmnananas hotara ihe ndị e dere n'elu ya.syn (syn. Xanthnanas a larip privv)",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ọ bụ ezie na nje bacteria na - akpata ọrịa na - efe efe nke na - emetụta ihe ọkụkụ ndị a na - ahụ anya. Ọ na - eme ka ahịhịa ndị dị n'akwụkwọ osisi, na mkpụrụ osisi na - eto ngwa ngwa, na - emekwa ka mkpụrụ osisi ndị na - adịghị amị mkpụrụ belata ma na - ebelata àgwà ndị dị mma. Ọ bụ ezie na mkpụrụ ndị bu ya na - adị ụkọ, a dịghị ere ha ere n'ihi ọdịdị ahụ́ ha.",
+  "hosts": [
+    "(ma ọ bụ, Mage, dị́ nso n'ihe dị́ ka n'ime otu narị afọ gara aga)",
+    "Prurururugrui",
+    "OTA 8 (Bekee)",
+    "OTA 8 (Bekee)",
+    "Ma, o nwere ihe otu nwanna nwaanyị aha ya bụ nwunye ya aha ya bụ nwunye ya kwuru."
+  ],
+  "susceptibility": {
+    "highly_susceptible": [
+      "NEPA",
+      "unu ga - ahụ otú o si mee ka unu na - adịkwu ná mma",
+      "Ụdị okpete ndị mbụ"
+    ],
+    "moderately_susceptible": [
+      "unu ga - ejirịrị ihe na - adịghị mma unu ga - eji na - ahụ ibe unu n'anya",
+      "LIọ̄ọ̀nụ̀",
+      "oroma ndị na - esi ísì ụtọ"
+    ],
+    "more_tolerant": [
+      "AGBOR 1 (Bekee)",
+      "Ụfọdụ n'ime ihe ndị ahụ e dere n'ahụ́ ájá (eee.g., Murisi, dị́ n'ebe ọwụwa anyanwụ)"
+    ]
+  },
+  "symptoms_and_damage": [
+    "Obere akwụkwọ azụ- dị ka m̀àhụ́dēèlụ̀ ya na mmiri-enweghị isi",
+    "Mkpụrụ osisi na mkpụrụ osisi ndị gbara ha gburugburu",
+    "Ebe a na - edebe akwụkwọ, ebe e si enweta mkpụrụ osisi, na mkpụrụ osisi",
+    "Mkpụrụ Osisi Ndị Na - agbawa agbawa Ma Na - agbawa Mkpụrụ",
+    "Mkpụrụ osisi nke na - amị mkpụrụ nke ọma",
+    "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ bụ́ ndị na - akpata ahụ́ ọkụ"
+  ],
+  "disease_cycle_and_spread": [
+    "A na - adị ndụ n'akwụkwọ osisi, n'ebe e si enweta mkpụrụ osisi, nakwa ná mkpụrụ osisi",
+    "Wepụ mmiri ozuzo na ebili mmiri site n'oké ifufe",
+    "Ebe ọ bụ na ọ dịla anya a gbasara ihe ndị dị n'ime ya, ọ bụ ihe ndị nwere nje ndị ahụ na - akpata ọrịa ka a na - ejikarị agbasa ya",
+    "Anụ ufe, nnụnụ, na ụmụ anụmanụ pụrụ iso kpata mgbasa nke ógbè",
+    "Ihe ndị na - ebibi ihe bụ́ ndị na - emebi ngwa ngwa na - amụba site n'ime ka ọnyá ahụ ka njọ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ (ndakpọ olileanya e nwere na gburugburu 283030C)",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri ozuzo na ifufe",
+    "Mmiri n'efu n'ebe ndị a na - akụ osisi"
+  ],
+  "pathogen_characteristics": [
+    "Plam-sakasis-hanas en-ala",
+    "N'ebe dị ihe dị ka otu narị puku na puku iri anọ na puku atọ n'ime ha",
+    "Ndị na - alụbeghị di ma ọ bụ nwunye na - abụ abụ maka òtù dị iche iche",
+    "Ihe osise ndị na - acha odo odo bụ́ ndị a na - akpọ xthnanain n'ọdịbendị"
+  ],
+  "monitoring": [
+    "Akwụkwọ osisi ndị e ji ekwe ákwà bụ́ ndị na - acha odo odo na - acha odo",
+    "Lee ma ị̀ ga - ahụ mkpụrụ osisi ndị e ji emenwu ọkụ ma ọ bụ ndị na - esi ísì ọma",
+    "Nnyocha ndị e mere bụ́ ndị pụrụ ịbụ ebe ndị e si ebute ọrịa"
+  ],
+  "management": [
+    "Jiri ọrịa a na-amaghị ama pịa ebe a na-amaghị́ọ̀pụ̀",
+    "Tinye ọgwụ kọpa n'ọrụ dịka usoro ọgwụgwọ",
+    "Oké ifufe na - efe iji belata mgbasa nke mmiri ozuzo",
+    "Ọnụ ọgụgụ na - arịwanye elu nke ndị na - echekwa akwụkwọ",
+    "Ngwá ọrụ, ngwá ọrụ, na uwe ndị e ji eme ihe mgbe a na - abanye n'ubi ma ọ bụ na - ahapụ osisi ndị a kụrụ akụ",
+    "Wepụ osisi ndị nwere nje ndị na - akpata ọrịa n'ebe ndị a na - enwebeghị ọrịa ahụ"
+  ],
+  "sources": [
+    "Ahụ́ a na - akpọ Wikiasis PAihu",
+    "University of Florida Ọ NA - EME Nnyocha na Agụmakwụkwọ n'Ebe Agụmakwụkwọ Dị, Ọdọ Mmiri 1948, Florida"
+  ]
+}

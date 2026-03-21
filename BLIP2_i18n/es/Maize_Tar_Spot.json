@@ -1,0 +1,62 @@
+{
+  "disease": "Punto de alquitrán de maíz",
+  "scientific_name": "Phyllachora maydis",
+  "pathogen_type": "Hongos",
+  "description": "Una enfermedad fúngica de la hoja de maíz que produce manchas negras parecidas al alquitrán en las hojas. Las infecciones graves reducen la fotosíntesis, el relleno de granos, y pueden causar pérdida de rendimiento y alojamiento de tallos.",
+  "symptoms": [
+    "Pequeñas manchas negras levantadas en hojas que parecen gotas de alquitrán",
+    "Estromata negra en las superficies superior e inferior de las hojas",
+    "Lesiones marrones o bronceadas alrededor de manchas negras (lesiones de ojo de pez)",
+    "Superficie de la hoja áspera o abultada",
+    "Grandes áreas dañadas cuando los puntos se fusionan",
+    "Disminución del relleno de grano y tallos débiles en infecciones graves"
+  ],
+  "hosts": [
+    "Maíz"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías entre 18°C y 23°C",
+    "Alta humedad",
+    "Lluvia, niebla o rocío frecuentes",
+    "Largos períodos de humedad de las hojas (al menos 7 horas)",
+    "Presencia de residuos de maíz infectados en el campo"
+  ],
+  "spread": [
+    "Lluvia eólica que propaga esporas fúngicas",
+    "Invernación de hongos en residuos de maíz infectados",
+    "Rápida propagación entre los campos cercanos bajo clima favorable"
+  ],
+  "management": [
+    "Monitorear los campos regularmente para detectar los síntomas tempranos",
+    "Cosecha temprano si la fuerza del tallo disminuye",
+    "Utilizar híbridos de maíz tolerantes cuando estén disponibles",
+    "Administrar cuidadosamente la fertilización de nitrógeno",
+    "Utilizar herramientas de predicción del riesgo de cultivos cuando estén disponibles"
+  ],
+  "biological_control": [
+    "No se dispone actualmente de un control biológico ampliamente adoptado",
+    "Investigación en curso sobre antagonistas microbianos"
+  ],
+  "chemical_control": [
+    "Aplicación de fungicida entre las fases de borladura (VT) y seda (R1)",
+    "Fungicidas como protioconazol o mezclas de trifloxistrobina",
+    "Repetir la aplicación después de 7-14 días si las condiciones siguen siendo favorables"
+  ],
+  "prevention": [
+    "Rotación de cultivos con cultivos distintos de los de acogida",
+    "Labranza para enterrar residuos de maíz infectados",
+    "Híbridos tolerantes a las plantas",
+    "Exploración regular y detección temprana"
+  ],
+  "impact": [
+    "Pérdidas de rendimiento hasta cerca de 50 bushels por acre notificadas en casos graves",
+    "Relleno deficiente del kernel y reducción del peso de las orejas",
+    "Aumento del riesgo de alojamiento de tallos",
+    "Reducción de la calidad del ensilado"
+  ],
+  "source": [
+    "Red de protección de cultivos",
+    "Extensión de la Universidad de Purdue",
+    "Alquitrán de publicaciones de investigación de maíz"
+  ]
+}

@@ -1,72 +1,81 @@
 {
-  "disease_name": "Tomato Fruit Bacterial Canker",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
-  "type": "bacterial pathogen",
+  "disease_name": "番茄水果",
+  "causal_agent": "密歇根人 密歇根人 密歇根人",
+  "type": "细菌病原体",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
-    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+    "primary": [
+      "番茄"
+    ],
+    "secondary": [
+      "辣椒(Capsicum pp.)",
+      "茄子种植 (Solanum melogenena L.)"
+    ],
+    "weeds": [
+      "常年夜幕(索拉南杜格拉斯二)",
+      "黑陰影(S. 硝基朗)",
+      "S. 曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲曲"
+    ]
   },
-  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "distribution": "全世界;特别是温室和野生西红柿的问题",
   "symptoms": {
     "seedlings": [
-      "No symptoms in most cases",
-      "Young plants may show poor growth or temporary branch wilting"
+      "多数情况下没有症状",
+      "年幼的植物可能显示生长不良或暂时性分枝枯萎"
     ],
     "mature_plants_systemic": [
-      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
-      "Stunted growth and general plant wilting",
-      "Yellow to reddish-brown pith with mealy appearance",
-      "Stem streaks, branch breakage, and potential plant death"
+      "最古老传单的蜡烛、黄黄、枯黄、枯枯和褐色(firing)",
+      "发育迟缓的增长和一般植物衰减",
+      "黄色到红褐色,有美食外观",
+      "刺痕、分枝断裂和潜在植物死亡"
     ],
     "mature_plants_secondary": [
-      "Dark brown to almost black lesions on leaf margins",
-      "Round or irregular leaf spotting",
-      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
-      "Vascular tissue under calyx may be discolored, affecting seeds"
+      "叶边的黑褐色至几乎黑色",
+      "圆叶或非正常叶斑点",
+      "果 果: 黄到棕加长长白光斑(“鸟眼斑”),直径~3毫米",
+      "切口下的血管组织可能变色,影响种子"
     ]
   },
   "disease_cycle": {
-    "introduction": "Through infected seeds or transplants",
-    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "introduction": "通过感染种子或移植",
+    "overwintering": "植物残留物、杂草、温室材料(床、木桩、公寓)可长达3年",
     "spread": [
-      "Windblown rain and sprinkler irrigation",
-      "Mechanical cultivation and hand harvesting",
-      "Overhead irrigation splash from infected plants",
-      "Direct contact with infected plants or equipment"
+      "风雨和喷洒灌溉",
+      "机械种植和手工收割",
+      "来自受感染植物的过度灌溉喷洒",
+      "直接接触受感染的植物或设备"
     ],
-    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+    "entry": "细菌a 细菌a 通过小伤口进入幼苗, 穿戴吊带小伤口, 并系统通过xylem 移动 。"
   },
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants",
-      "Plant certified clean transplants",
-      "Strict monitoring of seed fields; discard contaminated lots",
-      "Soak seed in 130°F water for 25 minutes"
+      "使用无疾病的种子和移植",
+      "植物经认证的清洁移植",
+      "严格监测种子田;弃弃弃受污染地块",
+      "在130°F的水中浸泡种子25分钟"
     ],
     "greenhouse_measures": [
-      "Steam potting mix and flats",
-      "Disinfect benches, flats, and irrigation hoses",
-      "Empty greenhouses between crops"
+      "蒸汽锅混合和公寓",
+      "排污板凳、公寓和灌溉水管",
+      "作物间空温室"
     ],
     "field_measures": [
-      "Avoid working when foliage is wet",
-      "Incorporate all plant tissue at season's end",
-      "Rotate fields out of tomato for at least one year",
-      "Control related weeds around fields"
+      "当叶子湿润时避免工作",
+      "季节末将所有植物组织都组织起来",
+      "将番茄田旋转至少一年",
+      "实地周围与控制有关的杂草"
     ],
     "chemical_control": [
-      "Repeated copper applications may reduce disease spread but are not fully reliable",
-      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+      "重复使用铜可能会减少疾病传播,但并不完全可靠",
+      "表面消毒剂:漂白剂(0.5-1%钙或次氯酸钠),Physan等。"
     ]
   },
   "notes": [
-    "Economic losses in direct-seeded fields are usually uncommon",
-    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
-    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+    "直接种子田地的经济损失通常很少发生",
+    "种子受到很少细菌的种子污染,可能导致严重的温室感染",
+    "不能用杀菌剂治愈系统感染;重点是预防和环境卫生"
   ],
   "references": [
-    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
-    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+    "http://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/ http://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
+    "http://www.apsnet.org/edcenter/intropp/ lessons/bacteria/Pages/Clavibacter.aspx https://www.apsnet.org/edcenter/intropp/ lessons/bacteria/Pages/Clavibacter.aspx/"
   ]
 }

@@ -1,83 +1,83 @@
 {
- "disease": "Potyvirus Mosaic",
- "scientific_name": "Genus Potyvirus (family Potyviridae)",
- "pathogen_type": "Virus",
- "description": "Potyviruses are a large group of plant viruses with single-stranded RNA genomes. They infect many crops and cause mosaic diseases that reduce plant growth and yield.",
- "symptoms": [
-  "Mosaic or mottled patterns on leaves",
-  "Light and dark green patches on foliage",
-  "Leaf curling or distortion",
-  "Stunted plant growth",
-  "Reduced fruit size and yield",
-  "Yellow streaks or vein clearing on leaves"
- ],
- "visual_symptoms": [
-  "yellow and green mosaic patterns on leaves",
-  "distorted or curled leaves",
-  "patchy chlorosis on plant foliage"
- ],
- "hosts": [
-  "Potato",
-  "Tomato",
-  "Pepper",
-  "Cucumber",
-  "Pumpkin",
-  "Bean",
-  "Soybean",
-  "Sweet potato",
-  "Tobacco",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "vectors": [
-  "Aphids (more than 200 species)",
-  "especially Myzus and Macrosiphum species"
- ],
- "spread": [
-  "Aphid feeding on infected plants",
-  "Mechanical transmission through plant contact",
-  "Contaminated tools or hands",
-  "Infected tubers, cuttings, or grafting material",
-  "Sometimes seed or pollen transmission"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Warm growing conditions",
-  "Dense crop planting",
-  "Presence of infected plants nearby"
- ],
- "impact": [
-  "Reduced plant growth",
-  "Lower crop yield",
-  "Poor fruit quality",
-  "Economic losses in vegetable and ornamental crops"
- ],
- "management": [
-  "Use virus-free planting materials",
-  "Control aphid populations",
-  "Remove infected plants quickly",
-  "Use resistant crop varieties when available",
-  "Avoid handling plants when wet"
- ],
- "biological_control": [
-  "Encourage natural predators of aphids such as lady beetles and lacewings"
- ],
- "chemical_control": [
-  "Use insecticides to reduce aphid populations when necessary",
-  "Mineral oils may reduce virus transmission by aphids"
- ],
- "prevention": [
-  "Plant resistant varieties",
-  "Monitor fields for aphids",
-  "Use reflective mulches to repel aphids",
-  "Practice field sanitation and remove infected plants"
- ],
- "source": [
-  "Virology references on Potyvirus",
-  "Agricultural plant pathology literature"
- ]
+  "disease": "Maonyesho ya Mosaic",
+  "scientific_name": "Jina la Potyvirus (familia ya Potyviridae)",
+  "pathogen_type": "Virusi ya",
+  "description": "Potyviruses ni kikundi kikubwa cha virusi za mimea na genome za RNA za single-strand. Wao huathiri mimea nyingi na kusababisha magonjwa ya mosaic ambayo huathiri ukuaji wa mimea na uzalishaji.",
+  "symptoms": [
+    "Maonyesho ya Mosaic au Maonyesho ya Maonyesho ya Mosaic",
+    "Picha za nyekundu na za nyekundu za nyekundu za nyekundu",
+    "Kuongezeka au kuongezeka kwa",
+    "Kuanzisha ukuaji wa mimea",
+    "Kupunguza ukubwa na uzalishaji wa matunda",
+    "Mvua ya kijani au ukosefu wa vinywaji juu ya tiketi"
+  ],
+  "visual_symptoms": [
+    "Maonyesho ya mosaic ya kijani na ya kijani juu ya tiketi",
+    "Maonyesho ya kuongezeka au kuongezeka",
+    "Chlorosis ya patchy kwenye folia ya mimea"
+  ],
+  "hosts": [
+    "Mapato ya",
+    "Mji wa Tomato",
+    "Pepsi ya",
+    "ya Cucumber",
+    "ya Pumpkin",
+    "ya Bean",
+    "Soya ya",
+    "Karatasi ya nguruwe",
+    "Mafuta ya Tabaka",
+    "Vyanzo vingi vya mazao"
+  ],
+  "plant_parts_affected": [
+    "Makala ya",
+    "Maoni ya",
+    "Matunda ya"
+  ],
+  "vectors": [
+    "Wanyama (kila aina zaidi ya 200)",
+    "hasa aina ya Myzus na Macrosiphum"
+  ],
+  "spread": [
+    "Chakula cha Aphid juu ya mimea yaliyoathiriwa",
+    "Uhamiaji wa kiuchumi kwa njia ya mawasiliano ya mimea",
+    "Mchakato wa mbegu au mikono",
+    "Matibabu ya kuvutia, matibabu ya kuvutia au matibabu ya kuvutia",
+    "Mara kwa mara, mazao au mazao ya mbolea"
+  ],
+  "favorable_conditions": [
+    "Idadi ya watu aphid",
+    "Matokeo ya hali ya hewa ya ukuaji",
+    "Mipango ya Mipango ya Mipango",
+    "Matumizi ya mimea ya kuvutia karibu"
+  ],
+  "impact": [
+    "Kupunguza uzalishaji wa mimea",
+    "Matunda ya chini ya mimea",
+    "ubora wa matunda",
+    "Uharibifu wa kiuchumi katika matunda ya matunda na matunda"
+  ],
+  "management": [
+    "Kutumia vifaa vya kutosha vya virusi",
+    "Ufuatiliaji wa idadi ya watu",
+    "Kuondoa mimea ya kuvutia kwa haraka",
+    "Tumia aina ya mimea ya kudumu wakati inapatikana",
+    "Kuepuka uendeshaji wa mimea wakati wa kuvutia"
+  ],
+  "biological_control": [
+    "Kuimarisha wanyama wa asili wa afidi kama vile wanyama na maumivu"
+  ],
+  "chemical_control": [
+    "Kutumia insecticides ili kupunguza idadi ya aphid ikiwa ni muhimu",
+    "Mafuta ya madini inaweza kupunguza uhamiaji wa virusi kwa afids"
+  ],
+  "prevention": [
+    "Vyanzo vya kukabiliana",
+    "Ufuatiliaji wa maeneo kwa afids",
+    "Kutumia mulch za kurekebisha afids",
+    "Kazi ya uhifadhi wa ardhi na kuondoa mimea yaliyoathiriwa"
+  ],
+  "source": [
+    "Maelezo ya Virology juu ya Potyvirus",
+    "Matibabu ya matibabu ya kilimo"
+  ]
 }

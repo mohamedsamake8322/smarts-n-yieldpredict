@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "Choanephora Fleur Blight",
+  "scientific_name": "Choanephora spp. (p. ex. Choanephora cucurbitarum)",
+  "pathogen_type": "Champignons",
+  "description": "Une maladie fongique qui attaque les fleurs et les jeunes fruits de nombreux légumes, en particulier les coucurbites et les légumineuses. Il provoque la pourriture rapide des fleurs et la pourriture des fruits dans des conditions chaudes et humides.",
+  "symptoms": [
+    "Les taches mouillées par l'eau sur les fleurs",
+    "Les fleurs pourrissent et s'effondrent rapidement",
+    "Pourriture molle sur les jeunes fruits",
+    "Croissance fongique blanche cotonneuse sur les tissus infectés",
+    "Spores noires ressemblant à des épingles formant sur les fleurs pourrissantes",
+    "Les fleurs infectées s'accrochent au développement des fruits et causent la pourriture des fruits"
+  ],
+  "hosts": [
+    "Okra",
+    "Citrouille",
+    "Courge",
+    "Concombre",
+    "Zucchini",
+    "Gourde de bouteille",
+    "Haricots",
+    "Pois de vache",
+    "Aubergines",
+    "Autres cucurbitacées et légumes"
+  ],
+  "favorable_conditions": [
+    "Températures chaudes (environ 25 à 30 °C)",
+    "Humidité élevée",
+    "Pluies fréquentes",
+    "Canopée dense avec faible circulation d'air"
+  ],
+  "spread": [
+    "Spores fongiques d'origine éolienne",
+    "éclaboussure de pluie",
+    "Débris de plantes infectées",
+    "Contact entre les fleurs infectées et les fruits"
+  ],
+  "management": [
+    "Enlever et détruire les fleurs et les fruits infectés",
+    "Améliorer l'espacement des installations pour augmenter le débit d'air",
+    "Éviter l'irrigation aérienne",
+    "Récolter régulièrement pour enlever les tissus infectés",
+    "Pratiquer la rotation des cultures"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum en tant qu'agent de contrôle biologique du sol ou foliaire",
+    "Biofongicides à base de Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Mancozéb",
+    "Chlorothalonil",
+    "Fongicides à base de cuivre",
+    "Appliquer de façon préventive pendant les temps humides"
+  ],
+  "prevention": [
+    "Plantation dans des champs bien ventilés",
+    "Enlever les débris végétaux après la récolte",
+    "Éviter l'irrigation excessive et l'humidité prolongée des feuilles",
+    "Utiliser des semences saines et maintenir l'assainissement sur le terrain"
+  ],
+  "source": [
+    "CABI Banque de connaissances sur les plantes",
+    "University of Florida IFAS Plant Pathology",
+    "Manuel sur les maladies des plantes APS"
+  ]
 }

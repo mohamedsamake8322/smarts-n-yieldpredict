@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
-  "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "disease": "细菌水果布布",
+  "scientific_name": "丙基丙烯酸",
+  "description": "细菌水果苗头(BBB)是一种破坏性细菌疾病,它影响到全世界的作物,是由Gram-negative细菌(Gram-negative ridicum Egredovorax cexrulli)引起的,主要通过被污染的种子传播,这种疾病可造成严重的经济损失,特别是在西瓜和瓜类生产方面,感染会导致幼苗、叶子和水果的缺水性损伤,最终导致水果腐烂、破碎和作物损失。 由于细菌可以在种子中存活多年,疾病控制主要依靠种子卫生和严格的卫生习惯。",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
-    "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
-    "Pumpkin (Cucurbita spp.)",
+    "西瓜(西特鲁卢勒斯拉塔图斯)",
+    "梅龙( Cucumis melo)",
+    "黄瓜( Cucumis sativus)",
+    "南瓜( 库库尔比塔 spp.)",
     "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "其他植物"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "幼苗: 被水浸湿的共合物和低压环状物的腐蚀导致崩溃和死亡",
+    "叶子:西瓜中棕色至黑色的大非正常损伤,瓜中红褐色",
+    "叶子损伤经常在大中中沿大中端蔓延",
+    "水果:水中渗水的小损害,扩大并沉没",
+    "果树林变得腐烂,导致裂缝和腐烂",
+    "疏离导致其他病原体的二次感染",
+    "受严重感染的水果腐烂,可能污染种子"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "初级传播是通过受感染的种子传播的",
+    "细菌可以在种子中存活多年",
+    "最初是使用种子养分作为预防剂的行为,最初是使用种子的养分。",
+    "当幼苗出现时,转向致病性增长",
+    "3至4周后,",
+    "症状经常出现较晚,接近收成,造成感染与检测之间的延迟",
+    "受感染水果可能污染新种子,继续循环"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "高温高温",
+    "高湿湿度",
+    "温温和湿湿温温温室条件",
+    "受污染种子的高细菌负荷",
+    "密集的植物群和间接灌溉"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "使用无病原原体的经认证种子",
+    "在种植前先进行种子健康检测",
+    "在托儿所和温室保持严格的环境卫生",
+    "避免种植受污染种子块",
+    "减少高空灌溉,限制细菌传播",
+    "清除受感染的植物碎片和自愿采石厂"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "以铜为基础的杀菌剂可预防性地用于减少细菌扩散",
+    "化学品控制的效力一般有限",
+    "申请应遵循当地农业条例和产品标签"
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "目前尚无广泛公认的生物控制方法可供使用",
+    "目前正在进行研究,以查明有效的生物对抗者"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "目前没有具有强烈抗药性的商业栽种品种",
+    "一些实验性西瓜和瓜加入的西瓜和瓜显示出部分抗药性",
+    "育种程序继续寻找抗药性菌原"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "被水浸泡的共合带损害的采样幼苗",
+    "血管上非正常棕色或黑色损伤的监视叶",
+    "采摘水果,以寻找渗水点,扩大并沉入水中",
+    "种植前受污染试验种子块"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "销毁受感染的植物,防止传播",
+    "利用种子热处理(大约85°C,3-5天,3-5天)减少细菌污染",
+    "在种子生产和移植设施中实行严格的卫生;",
+    "避免从受感染水果中拯救种子"
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "维基百科 — — 细菌水果污点"
   ]
 }

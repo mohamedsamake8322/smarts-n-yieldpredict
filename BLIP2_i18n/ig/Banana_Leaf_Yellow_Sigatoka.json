@@ -1,0 +1,116 @@
+{
+  "disease_name": "E sigagatoka",
+  "dataset_label": "Mbanye_egharịanụdị_PID_PID_S 35toka",
+  "other_names": [
+    "Ebe e nwere akwụkwọ osisi bụ́ Sigatoka",
+    "Ebe akwụkwọ osisi ndị e ji ebi akwụkwọ bụ́ ndị dị n'ebe ahụ"
+  ],
+  "pathogen": {
+    "type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+    "scientific_name": "Ezigbotetetetesra musrae",
+    "synonym": "Ụlọ akwụkwọ egwú Mycolaola",
+    "kingdom": "JOTgi",
+    "phylum": "Dị ka onye na - eto eto"
+  },
+  "host_plant": {
+    "primary_host": "Gana (Musnath.)",
+    "other_hosts": [
+      "Mkpụrụ ndụ ihe nketa"
+    ]
+  },
+  "affected_parts": [
+    "/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Akwụkwọ osisi ndị na - eto eto na - acha odo odo na - adị otu narị mita na iri abụọ n'ogologo",
+      "Ebe ndị a na - anọ ese foto bụ́ ndị dị nso n'akwụkwọ osisi ma ọ bụ n'etiti"
+    ],
+    "intermediate_stage": [
+      "Anwụrụ ọkụ na - esi ísì ụtọ na - eme ka ọ ghọọ ihe na - acha nchara nchara",
+      "Ńgwānụ́ banye"
+    ],
+    "advanced_stage": [
+      "Ahụ́ na - acha nchara nchara nke na - acha nchara nchara ruo n'ebe ndị na - acha nchara nchara bụ́ ndị na - acha nchara nchara",
+      "Ebe ndị buru ibu a na - anọ enwe mmekọahụ n'Intanet bụ́ ndị dị n'akwụkwọ",
+      "Akwụkwọ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ na - akpọ nkụ ma na - egbuke egbuke"
+    ]
+  },
+  "disease_cycle": {
+    "survival": "A na - anọgide na - ebi n'ime mkpụrụ akwụkwọ ndị bu ọrịa ahụ",
+    "spores": [
+      "Condia",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ],
+    "spread_mechanism": [
+      "Ifufe",
+      "Mmiri Na - ezo n'Ime Mmiri",
+      "Mmiri E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ],
+    "favorable_conditions": [
+      "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+      "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ (25430C)",
+      "Ebe a na - edebe akwụkwọ ọgụgụ n'ụzọ dị mfe",
+      "Oge udu mmiri ma ọ bụ oge mmiri"
+    ]
+  },
+  "impact": {
+    "severity": "Inwe Ihe Ịga nke Ọma n'Akụkụ Dị Elu",
+    "effects": [
+      "Hichaa foto ndị nwere ike ime ka mmadụ ghara ịma nke a na - akọ",
+      "Obere ụyọkọ unere",
+      "Nke a mere ka mkpụrụ osisi ndị ahụ ghara ịna - amị mkpụrụ nke ọma",
+      "Ndụ ịla n'iyi nke mkpụrụ osisi",
+      "Mkpụrụ osisi nke na - amị mkpụrụ nke ọma na - amị mkpụrụ"
+    ],
+    "estimated_yield_loss": "Ihe ruru 50% n'ọrịa ndị kpụ ọkụ n'ọnụ"
+  },
+  "distribution": [
+    "Australia",
+    "Eshia",
+    "Africa",
+    "Ebe Etiti America",
+    "Ebe Ndịda America",
+    "Caribbean",
+    "Oké Osimiriia"
+  ],
+  "similar_diseases_or_confusions": [
+    "Black Sigatoka (Pseserasririvrarasjisasasasasas)",
+    "Ebe a na - edebe akwụkwọ osisi"
+  ],
+  "management": {
+    "cultural_control": [
+      "Wepụ akwụkwọ?",
+      "Ime Ka Ebe A Na - edebe Ihe Ndị Dị Mma n'Ụzọ Na - adịghị Ize Ndụ",
+      "Nọgide Na - enwe Echiche Ziri Ezi",
+      "Zerebiga ihe ọkụkụ ókè"
+    ],
+    "chemical_control": [
+      "Ihe ndị na - echebe ndụ bụ́ ndị na - eme ka a ghara ịdị na - enwe obi ụtọ",
+      "Ihe ndị e ji eme ihe n'oge a",
+      "Ụgbọ mmiri ndị nwere ebe a na - anọ akwọ ụgbọ mmiri bụ́ ndị nwere ebe a na - anọ akwọ aka, bụ́ nke a na - akpọ rarab, bụ́ ebe a na - akpa aṅụ"
+    ],
+    "biological_control": [
+      "Mkpụrụ ndụ ihe nketa",
+      "Mkpụrụ ndụ ihe nketa",
+      "Ihe osise ndị bụ́ ịgba"
+    ],
+    "preventive_measures": [
+      "Jiri ụdị kamera ndị na - echebe mmadụ mee ihe",
+      "Echiche Ziri Ezi Banyere Ihe Ndị Na - agaghị Ekwe Omume",
+      "Na - eme Ka Mkpụrụ Osisi Dị Iche Iche Dịrị n'Ebe Ha Nọ Mgbe Nile"
+    ]
+  },
+  "spread_risk_factors": [
+    "Gburugburu ebe obibi ndị dị elu",
+    "Nsogbu Ndị Na - esi n'erighị Ihe Ndị Na - edozi Ahụ́",
+    "Akwụkwọ ya ndị nwere nje ndị na - akpata ọrịa",
+    "Ụdị okpete ndị a na - apụghị iji anya nkịtị hụ"
+  ],
+  "references": [
+    "Ọkà mmụta sayensị nọ n'Australia bụ́ Sigatoka",
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "IHE NDỊ NA - EME N'OGE OCHIE",
+    "Ọkà Mmụta Ihe Ndị Dị Ndụ bụ́ Journal Publications"
+  ]
+}

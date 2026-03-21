@@ -1,100 +1,104 @@
 {
-  "virus_name": "Tobacco Etch Virus",
-  "abbreviation": "TEV",
-  "family": "Potyviridae",
-  "genus": "Potyvirus",
+  "virus_name": "Matumizi ya Tobacco Etch Virus",
+  "abbreviation": "TV ya",
+  "family": "ya Potyviridae",
+  "genus": "Matokeo ya Potyvirus",
   "taxonomy": {
-    "order": "Patatavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "Mchakato wa",
+    "virus_group": "Virusi ya RNA"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "monopartite",
-    "particle_shape": "flexuous filamentous particle",
-    "length": "approximately 730 nm",
+    "type": "Hifadhi ya RNA ya moja kwa moja",
+    "structure": "Mipango ya",
+    "particle_shape": "Mchakato wa Filamentus",
+    "length": "Kiwango cha juu cha 730 nm",
     "proteins_encoded": 7
   },
   "transmission": {
-    "vectors": ["Aphids including Myzus persicae", "Aphis gossypii", "Macrosiphum euphorbiae"],
-    "mode": "non-persistent transmission",
+    "vectors": [
+      "Maonyesho ya Misus Persicae",
+      "Maisha ya Gossypi",
+      "Maisha ya Euphorbiae"
+    ],
+    "mode": "Usambazaji wa kutosha",
     "mechanical": true,
     "seed_transmission": false,
-    "notes": "Aphids acquire the virus rapidly during feeding and can transmit it within minutes."
+    "notes": "Aphids inapata virusi haraka wakati wa chakula na inaweza kuhamisha ndani ya dakika."
   },
   "hosts": {
     "cultivated": [
-      "Capsicum annuum",
-      "Capsicum frutescens",
-      "Tomato (Solanum lycopersicum)",
-      "Tobacco (Nicotiana spp.)"
+      "Maisha ya Capsicum",
+      "Matunda ya Matunda ya Matunda",
+      "Mafuta ya Sola (Solanum lycopersicum)",
+      "Mchakato wa Kijapani (Nicotiana spp.)"
     ],
     "wild_hosts": [
-      "Solanum nigrum",
-      "Solanum aculeatissimum",
-      "Chenopodium album",
-      "Datura stramonium",
-      "Linaria canadensis",
-      "Physalis spp."
+      "Maisha ya Sulaiman",
+      "Maelezo ya Solanum Aculeatissimum",
+      "Albumu ya Chenopodium",
+      "Simu ya Stramonium",
+      "Maandiko ya Kanisa",
+      "Maisha ya SPP."
     ]
   },
   "symptoms": [
-    "Vein clearing on leaves",
-    "Mosaic or mottling patterns",
-    "Necrotic streaks or etched patterns on leaves",
-    "Leaf deformation and curling",
-    "Stunted plant growth",
-    "Reduced fruit yield and quality",
-    "Occasional fruit discoloration or necrotic lesions"
+    "Ukosefu wa vitunguu kwenye vitunguu",
+    "Maonyesho ya Mosaic au Motling",
+    "Mchakato wa Necrotic au mifano ya kuvutia juu ya karatasi",
+    "Ukosefu wa mwili na kurling",
+    "Kuanzisha ukuaji wa mimea",
+    "Kupunguza uzalishaji na ubora wa matunda",
+    "Ukosefu wa matunda au uharibifu wa necrotic"
   ],
   "disease_cycle": [
-    "Virus survives in infected host plants and weeds",
-    "Aphids acquire virus during feeding on infected plants",
-    "Virus is transmitted to healthy plants during probing",
-    "Mechanical transmission can occur via contaminated tools or handling"
+    "Virusi zinaendelea kuishi katika mimea na wanyama zilizoathiriwa",
+    "Aphids kupata virusi wakati wa chakula juu ya mimea yaliyoathiriwa",
+    "Virusi hutokea kwenye mimea salama wakati wa kujaribu",
+    "Uhamiaji wa kiuchumi unaweza kutokea kwa njia ya vifaa vya kuvutia au usimamizi"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Etch-like necrotic patterns on leaves",
-      "Mosaic symptoms on solanaceous crops"
+      "Maonyesho ya takwimu ya nyuma ya nyuma ya nyuma",
+      "Maonyesho ya Mosaic juu ya matunda ya solanaceous"
     ],
     "laboratory_methods": [
-      "ELISA detection",
-      "RT-PCR assays",
-      "Electron microscopy"
+      "Utafiti wa Elisa",
+      "Maelezo ya RT-PCR",
+      "Mikroskopi ya Electron"
     ],
     "viral_inclusions": [
-      "Cylindrical inclusions in the cytoplasm",
-      "Nuclear inclusions in infected cells"
+      "Ushirikiano wa silindri katika cytoplasm",
+      "Ushirikiano wa nyuklia katika seli zilizoathiriwa"
     ]
   },
   "molecular_features": {
     "special_protein": {
-      "name": "TEV protease",
-      "function": "Highly specific protease used widely in biotechnology to cleave fusion proteins during purification."
+      "name": "Maonyesho ya TEV",
+      "function": "Protaza maalum hutumiwa kwa kiasi kikubwa katika biotechnology ili kuondoa proteins fusion wakati wa uchafuzi."
     }
   },
   "management": {
     "cultural": [
-      "Remove weed hosts that serve as virus reservoirs",
-      "Use virus-free planting materials",
-      "Implement crop rotation"
+      "Kuondoa mwenyeji wa wanyama ambao hufanya kazi kama virusi",
+      "Kutumia vifaa vya kutosha vya virusi",
+      "Kuendeleza mzunguko wa mimea"
     ],
     "vector_control": [
-      "Monitor aphid populations",
-      "Use reflective mulches to repel aphids",
-      "Apply insecticides if aphid pressure is high"
+      "Ufuatiliaji wa idadi ya watu",
+      "Kutumia mulch za kurekebisha afids",
+      "Tumia insecticides ikiwa shinikizo la aphid ni juu"
     ],
     "resistance": [
-      "Use resistant or tolerant cultivars when available"
+      "Tumia matunda ya kuzuia au kuzuia wakati inapatikana."
     ]
   },
   "impact": {
-    "economic": "Can cause significant yield losses in pepper and tobacco crops",
-    "agronomic": "Severe infections reduce fruit quality and plant vigor"
+    "economic": "Inaweza kusababisha uharibifu mkubwa wa bidhaa katika pepe na uzalishaji wa tabaka",
+    "agronomic": "Maambukizi makubwa huathiri ubora wa matunda na nguvu ya mimea"
   },
   "references": [
-    "ICTV Virus Taxonomy",
-    "APS Plant Disease Compendium",
-    "Plant Virus Online Database"
+    "Taksonomia ya virusi ya ICTV",
+    "Mkataba wa ugonjwa wa mimea ya APS",
+    "Mfumo wa Virusi Online Database"
   ]
 }

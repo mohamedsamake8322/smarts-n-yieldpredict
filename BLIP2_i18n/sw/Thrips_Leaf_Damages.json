@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
-  "family": "Thripidae",
-  "type": "insect",
+  "pest_name": "Mkataba wa kuharibu madhara",
+  "order": "ya Thysanoptera",
+  "family": "ya Thripidae",
+  "type": "Wanyama",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "1–1.5 mm (0.03–0.06 inchi)",
+    "body": "Slender, nyekundu au brune, mbili za nyekundu, nyekundu",
+    "mouthparts": "Asymmetrical; kutumika kuondoa mbinu za nyuma na kuondoa maji",
+    "species_of_major_concern": [
+      "Maua ya Magharibi (Frankliniella occidentalis)",
+      "Mchakato wa nyama (Thrips tabaci)"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "ya Chrysanthemum",
+      "Maandamano ya",
+      "Siku ya Cyclam",
+      "ya Dahlia",
+      "ya Dianthus",
+      "Fukushima",
+      "Mwisho wa",
+      "Lili ya",
+      "Mwisho",
+      "Kwanza",
+      "ya Ranunculus",
+      "ya Verbena",
+      "wa Coleus",
+      "ya Diascia",
+      "ya LOBELIA",
+      "ya Gerbera",
+      "Maisha ya Capsicum",
+      "Maelezo ya Begonia x Hiemalis",
+      "ya Pelargonium"
+    ],
+    "vegetables": [
+      "Furaha ya",
+      "Mji wa Tomato",
+      "Mapato ya",
+      "Pepsi ya",
+      "Shell ya",
+      "ya Garlic",
+      "Mvua ya Mvua",
+      "ya Alfalfa",
+      "Matunda ya",
+      "Wanyama",
+      "ya Beans",
+      "ya Cucumber",
+      "ya Cabbage",
+      "Mwisho",
+      "ya Asparagus",
+      "Maua ya maua"
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "Kupoteza seli za mimea na kupoteza maudhui ya seli, kuacha nywele au nywele au nywele ambazo zinaweza kubadilika nywele na nywele za nywele za nywele za nywele za nywele za nywele za nywele za nywele za nywele za nywele.",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "Maua na maua; maua / maua ya kufurahia",
+      "Japanese flower thrips": "Siku za kwanza; inaweza kutokea katika maua"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "Uharibifu inaweza kuathiri mimea kwa ugonjwa wa Botrytis."
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "Maua ya Magharibi",
+      "Maonyesho ya Onion",
+      "Maua ya Kijapani (TSWV tu)"
+    ],
+    "viruses": [
+      "Virusi ya Tomat spotted wilt (TSWV)",
+      "Matokeo ya Impatiens Necrotic Spot Virus (INSV)"
+    ],
+    "mechanism": "Kwanza, larva inachukua virusi kutoka kwa mimea yaliyoathiriwa; watu wazima kuhamisha virusi wakati wa chakula.",
+    "host_plants": [
+      "ya Chrysanthemum",
+      "Maandamano ya",
+      "Siku ya Cyclam",
+      "ya Dahlia",
+      "ya Dianthus",
+      "Fukushima",
+      "Mwisho wa",
+      "Lili ya",
+      "Mwisho",
+      "Kwanza",
+      "ya Ranunculus",
+      "ya Verbena",
+      "wa Coleus",
+      "ya Diascia",
+      "ya LOBELIA"
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "Chlorothic au necrotic nyuma ya nyuma",
+    "Rangi ya nyuma na mifano ya barua",
+    "Ukosefu wa nywele, bronzing, yellowing, na necrosis",
+    "Mwisho wa Black",
+    "Matokeo ya ukuaji wa kifo"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "Matibabu yasiyo ya kuimarisha (RNQP) katika Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
+    "INSV": "Matibabu yasiyo ya kuimarisha (RNQP) katika Begonia x hiemalis"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "Inaweza kuongezeka kwa aseksual; mazoezi kadhaa kwa msimu wa ukuaji",
+    "notes": "Mimea ya ndani ya kijani ni hatari zaidi kwa sababu ya mapenzi madogo ya asili"
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "Kuangalia mimea mara kwa mara kwa ajili ya ishara za mapema ya mimea",
+      "Kuondoa na kuharibu sehemu ya mimea yenye uharibifu mkubwa",
+      "Kuhifadhi populations salama ya maadui ya asili"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "Kutumia insecticides kisheria; kufuata maelekezo ya ndani na maelekezo ya marekebisho"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "Ufuatiliaji wa pamoja, ufuatiliaji wa utamaduni, wanyama wa asili, na matumizi ya insecticide ya lengo"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "UK Ornamental Crop Guides: Mchakato wa kudhibiti katika matunda ya kulevya yalihifadhiwa",
+    "Chuo Kikuu cha Colorado State Extension, Pest Notes: Maonyesho katika Matunda na Maonyesho"
   ]
 }

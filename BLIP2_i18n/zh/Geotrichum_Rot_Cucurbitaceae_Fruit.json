@@ -1,60 +1,60 @@
 {
- "disease": "Geotrichum Fruit Rot of Cucurbits",
- "scientific_name": "Geotrichum candidum",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
- "symptoms": [
-  "Soft watery rot on fruits",
-  "White cottony mold on infected areas",
-  "Fruit tissue becomes soft and collapses",
-  "Sour or fermented smell from infected fruit",
-  "Rot usually starts at wounds or damaged areas"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Wounded or damaged fruits",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Handling of infected fruits",
-  "Wounds caused during harvest or transport"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Remove and destroy infected fruits",
-  "Improve field and storage sanitation",
-  "Ensure good ventilation during storage",
-  "Harvest fruits at proper maturity"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
-  "Apply Bacillus-based biofungicides to reduce pathogen development"
- ],
- "chemical_control": [
-  "Post-harvest fungicides containing thiabendazole",
-  "Imazalil-based treatments in storage facilities",
-  "Sanitation with approved disinfectants to reduce contamination"
- ],
- "prevention": [
-  "Avoid fruit injuries during harvest and transport",
-  "Maintain clean storage conditions",
-  "Remove plant debris from fields",
-  "Store fruits in cool and dry conditions"
- ],
- "source": [
-  "Plant pathology references on cucurbit post-harvest diseases",
-  "CABI Crop Protection Compendium",
-  "Plant disease management guides"
- ]
+  "disease": "铜矿转动果实",
+  "scientific_name": "地名学",
+  "pathogen_type": "蘑菇",
+  "description": "一种在黄瓜、甜瓜和南瓜等黄瓜水果上造成软质腐烂的真菌疾病。 它主要影响成熟或受损的水果,并产生一种白模,随后变成酸酸和水味。",
+  "symptoms": [
+    "水果上软水腐烂",
+    "受感染地区白棉状白棉状",
+    "水果组织变得软软 崩溃",
+    "受感染水果的酸酸或发酵气味",
+    "通常从伤痕或受损害地区开始,"
+  ],
+  "hosts": [
+    "黄瓜",
+    "环环",
+    "西瓜",
+    "南瓜",
+    "安静",
+    "其他种作物"
+  ],
+  "favorable_conditions": [
+    "温温温度",
+    "高湿湿度",
+    "水果受伤或损坏",
+    "储存期间通风不良"
+  ],
+  "spread": [
+    "受污染土壤",
+    "受感染植物碎片",
+    "处理受感染水果",
+    "收获或运输期间造成的伤伤"
+  ],
+  "management": [
+    "谨慎处理水果,避免受伤",
+    "清除和销毁受感染的水果",
+    "改善外地和储存卫生设施",
+    "确保储存期间良好的通风",
+    "适当成熟收获的果实"
+  ],
+  "biological_control": [
+    "利用如三头菌种等有益的微生物来抑制真菌生长",
+    "应用基于碱性生物杀菌剂来减少病原体发育"
+  ],
+  "chemical_control": [
+    "收获后杀菌杀菌杀菌杀菌剂,含有硫苯甲苯甲醚",
+    "储存设施中基于Imazalil的治疗",
+    "环境卫生,配有经核准的消毒剂,以减少污染"
+  ],
+  "prevention": [
+    "在收获和运输期间避免水果伤害",
+    "保持清洁储存条件",
+    "从田地中清除植物碎片",
+    "将水果储存在寒冷和干燥的条件下"
+  ],
+  "source": [
+    "采收后疾病氯比特的植物病理学参考文献",
+    "CABI 作物保护简编",
+    "植物疾病管理指南"
+  ]
 }

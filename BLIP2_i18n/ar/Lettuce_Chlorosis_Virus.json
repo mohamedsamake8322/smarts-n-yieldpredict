@@ -1,50 +1,50 @@
 {
-  "disease": "Lettuce Chlorosis Virus (LCV)",
-  "scientific_name": "Lettuce chlorosis virus",
-  "pathogen_type": "Virus (ssRNA, Crinivirus)",
-  "description": "A viral disease affecting lettuce and other crops, causing yellowing, reddening, and curling of leaves, stunted growth, and reduced yield. Transmitted by whiteflies and contaminated plant material.",
+  "disease": "فيروس كلوروس خسس (LCV)",
+  "scientific_name": "فيروس الكُرْس",
+  "pathogen_type": "فيروس نقص المناعة البشرية/متلازمة نقص المناعة المكتسب (SRNA، كريني فيروس)",
+  "description": "مرض فيروسي يؤثر على الخس وغيره من المحاصيل، ويتسبب في التصفح، وتكرير الكركند، وتجفيف الأوراق، وتوقف النمو، وانخفاض الغلة.",
   "symptoms": [
-    "Yellowing and reddening of leaves",
-    "Curling of leaves",
-    "Thinning of leaf veins",
-    "Stunted or dwarf plants",
-    "Reduced yield and flower quality"
+    "أصفر وحمر أوراق ترك",
+    "حلل الأوراق",
+    "ثَثَثَثَثُ أُزُورَاتِ أُورُفَرَفَثُ أُورُس",
+    "النباتات المنبتة أو الأقزام",
+    "انخفاض الغلة وجودة الأزهار"
   ],
   "hosts": [
-    "Lettuce",
-    "Beetroot",
-    "More than 27 plant species in 12 botanical families"
+    "لِسِسْس",
+    "التركيز علىاطاطاط",
+    "أكثر من 27 نوعا نباتيا في 12 أسرة نباتية"
   ],
   "favorable_conditions": [
-    "Presence of virulent weed hosts near crops (e.g., Physalis wrightii, Conyza canadensis, Lactuca serriola)",
-    "High whitefly populations",
-    "Greenhouse or field cultivation with poor pest control"
+    "وجود مراكب نباتات نباتية خبيثة بالقرب من المحاصيل (مثل فيساليس ورايتيي، وكونيزا كانادينسيس، ولاكتكاتا سيريولا)",
+    "السكان من ذوي المرتفعات البيضاء",
+    "أو الزراعة الميدانية مع مكافحة الآفات الفقيرة"
   ],
   "spread": [
-    "Feeding by greenhouse whiteflies (Bemisia tabaci and Bemisia argentifolii)",
-    "Infected seeds, cuttings, or other plant material",
-    "Contaminated tools and equipment"
+    "التغذية بواسطة بياضات الاحتباس الحراري (Bemsia tacase and Bemisia argenteifoliii)",
+    "البذور أو القطع أو غير ذلك من المواد النباتية المعدية",
+    "الأدوات والمعدات الملوثة"
   ],
   "management": [
-    "Remove and destroy infected plants",
-    "Monitor and control whitefly populations",
-    "Use virus-free seeds and cuttings",
-    "Maintain good hygiene and sanitation of tools",
-    "Remove weeds that act as reservoirs"
+    "(أ) التخلص من النباتات المُحْكِرة وتدميرها",
+    "السكان الذين يقومون بالرصد والمراقبة فيما يتعلق بالطائرات البيضاء",
+    "استخدام البذور والقطع الخالية من الفيروسات",
+    "الحفاظ على سلامة النظافة الصحية والتصحاح بالأدوات",
+    "أزل المناقصات التي تعمل كخزانات"
   ],
   "chemical_control": [
-    "Insecticides targeting whiteflies (e.g., imidacloprid, pyrethroids)",
-    "Neem oil or insecticidal soap sprays as preventive measures"
+    "مبيدات مبيدات آفات حشرية تستهدف المبيدات البيضاء (مثل الإيميداكلوبريد، البيريثرويدات)",
+    "كتدابير وقائية أو رشات لزيت نيم أو رش صابون حشرات كتدابير وقائية"
   ],
   "prevention": [
-    "Use certified virus-free planting material",
-    "Isolate new plants from infected areas",
-    "Control weed hosts in and around fields",
-    "Regular monitoring for whiteflies"
+    "مواد الزرع الخالية من فيروسات",
+    "النباتات الجديدة من المناطق المصابة",
+    "مستضيفات مرقات المراقبة في الحقول وحولها",
+    "الرصد المنتظم للبيض"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Virus Factsheets",
-    "Scientific literature on Criniviruses"
+    "مجموعة حماية المُنتَجَب",
+    "منظمة الأغذية والزراعة",
+    "المؤلفات العلمية عن فيروسات القرنية"
   ]
 }

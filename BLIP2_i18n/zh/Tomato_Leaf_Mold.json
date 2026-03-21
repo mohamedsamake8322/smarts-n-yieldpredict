@@ -1,63 +1,65 @@
 {
-  "disease_name": "Tomato Leaf Mold",
-  "type": "fungal disease",
-  "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+  "disease_name": "番茄叶叶",
+  "type": "真菌病",
+  "causal_agent": "Passalora fulva (同音 fulvia fulva, 克拉多斯波里翁 fulvum)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"]
+    "primary": [
+      "番茄"
+    ]
   },
-  "distribution": "Worldwide; especially problematic in greenhouses and high tunnels with high humidity",
+  "distribution": "全世界;在温室和高湿度高的地道中特别成问题",
   "symptoms": {
     "leaves": [
-      "Yellow spots on upper leaf surfaces",
-      "Fuzzy olive-green to gray mold growth on lower leaf surfaces",
-      "Leaves may curl and become distorted",
-      "Severe infections can cause defoliation"
+      "上叶表面的黄斑点",
+      "叶叶下表面的模糊橄榄绿色至灰色模状生长",
+      "叶子可能卷卷和扭曲",
+      "严重感染可导致脱贫"
     ],
     "stems": [
-      "Occasionally stems can be infected, but disease is mostly foliar"
+      "偶尔会被感染,但疾病多半是叶子"
     ]
   },
   "disease_cycle": [
-    "Spores form on lower leaf surfaces within 10–12 days of infection",
-    "High relative humidity (≥85%) favors spore production and infection",
-    "Multiple generations can occur within a single growing season",
-    "Spread occurs via wind, rain/overhead irrigation, tools, workers, and possibly insects",
-    "Pathogen can persist in crop residue and on contaminated greenhouse surfaces"
+    "在感染10至12天之内,叶叶表面下层的喷雾形式",
+    "高相对湿度(85%)有利于繁殖和感染",
+    "多代人可在一个生长季节内出现",
+    "通过风、雨/管理灌溉、工具、工人以及可能通过昆虫传播。",
+    "病原体可能长期存在于作物残留物和被污染的温室表面。"
   ],
   "environmental_conditions": [
-    "Optimal temperature: 21–24 °C (70–75 °F), but disease can develop between 10–32 °C (50–90 °F)",
-    "High relative humidity (>85%) is critical for severe epidemics",
-    "Poor air circulation and leaf wetness favor infection"
+    "最佳温度:21-24°C(70-75°F),但疾病可在10-32°C(50-90°F)之间发展",
+    "高相对湿度(>85%)对严重流行病至关重要",
+    "空气循环不良和叶叶干湿有利于感染"
   ],
   "management": {
     "cultural": [
-      "Use drip irrigation and avoid wetting foliage",
-      "Space plants to improve air circulation",
-      "Stake, string, or prune plants to reduce humidity around leaves",
-      "Circulate air in greenhouses/high tunnels with vents, fans, or by rolling up sides",
-      "Maintain night temperatures higher than outside to reduce dew formation",
-      "Remove and destroy crop residue at the end of the season; sanitize greenhouse surfaces and equipment"
+      "使用滴滴灌溉,避免湿润树叶",
+      "改善空气循环的空间工厂",
+      "为了减少叶叶周围的湿度",
+      "在有通风口、风扇的温室/高隧道中或以滚动面的方式分配空气",
+      "保持高于外部的夜间温度,以减少露露的形成",
+      "在季节结束时清除和销毁作物残留物;净化温室表面和设备"
     ],
     "resistant_varieties": [
-      "Use resistant cultivars cautiously, as resistance is often race-specific",
-      "Test resistant varieties on a small scale before large-scale planting",
-      "Reference: Cornell Disease Resistant Vegetable Varieties list"
+      "由于抵抗往往因种族而异,因此谨慎地使用抗抗力的栽种品种",
+      "大规模种植前小规模抗试验品种",
+      "参考:康奈尔疾病抗耐性植物品种清单"
     ],
     "chemical": [
-      "Apply fungicides preventively when conditions favor disease",
-      "Rotate chemical families to prevent resistance development",
-      "For organic production, copper-based products (e.g., Champ) can provide partial control",
-      "Follow all pesticide labels and legal restrictions for greenhouse/high tunnel use"
+      "当病情偏好于疾病时,可预防性地应用杀真菌剂",
+      "循环化学家庭以防止抗药性发育",
+      "就有机生产而言,铜基产品(如铁冠)可提供部分控制",
+      "遵守所有杀虫剂标签和对温室/高地隧道使用的法律限制"
     ]
   },
   "notes": [
-    "Early scouting during high humidity periods is critical for timely management",
-    "New races of P. fulva may emerge, so monitoring resistant cultivar efficacy is important",
-    "Effective management combines cultural, genetic, and chemical strategies"
+    "高湿湿度时期早期侦察对及时管理至关重要",
+    "P. fulva的新种族可能出现,因此,监测抗药性耕种效率很重要。",
+    "有效管理结合文化、遗传和化学战略"
   ],
   "references": [
-    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
-    "Minnesota Extension, Tomato Leaf Mold Management",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "《商业种植者中西部蔬菜生产指南》,2023年",
+    "明尼苏达州分会分会,番茄叶叶叶",
+    "Jones, J.B.等人,2014年,《番茄病和虫害简编》,第二版,APS出版社。"
   ]
 }

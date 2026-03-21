@@ -1,112 +1,112 @@
 {
-  "disease_name": "Banana streak disease",
-  "dataset_label": "Banana_Leaf_Streak_Virus",
+  "disease_name": "المرض",
+  "dataset_label": "البانانة_ Leaf _Streak_ Virus",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana streak virus",
-    "scientific_name": "Banana streak badnavirus",
-    "family": "Caulimoviridae",
-    "genus": "Badnavirus",
-    "genome": "Double-stranded DNA (dsDNA)"
+    "type": "من نوع نوع نوع",
+    "name": "فيروس نقص المن/",
+    "scientific_name": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -))))))))))))) ((((((((((((((((((((()))))))((((((((((()))))(((((((((((()))))((((",
+    "family": "3 Qalimofrididae",
+    "genus": "",
+    "genome": "DNA (DsDDNA) DNA (DDSDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "موزان (ماسا spp.)",
     "other_hosts": [
-      "Plantain"
+      "المواصلة على مستوى"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Whole plant vigor"
+    "الآس",
+    "Psedostem",
+    "جيم - القوة المحركة"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Mealybugs",
+    "type": "",
+    "name": "حشرات الميل",
     "genera": [
-      "Planococcus",
-      "Pseudococcus"
+      "ما قبل الخطة",
+      "Pseudococus"
     ]
   },
   "symptoms": {
     "early_stage": [
-      "Yellow streaks running from leaf midrib to leaf margin",
-      "Continuous or broken yellow lines across the leaf"
+      "تندفع من ورقة ورقة إلى ورقة هامش",
+      "خطوط أصفرة متتابعة أو مكسورة عبر الورقة"
     ],
     "intermediate_stage": [
-      "Streaks appear scattered or arranged in bands",
-      "Reduced plant vigor and smaller plant size"
+      "تَظُوَدَدُوَمُمَتَّز أو مُرتَّب في أشرز",
+      "انخفاض حجم النشاط النباتي وصغر حجمه"
     ],
     "advanced_stage": [
-      "Yellow streaks turn brown or black with leaf aging",
-      "Smaller banana bunches",
-      "Possible pseudostem internal rot and dieback in severe cases"
+      "تُحوّل الأوّل إلى لون أو أسود مع ورقة",
+      "مجموعات صغيرة",
+      "يمكن أن يكون مُستحلاً محتملاً للتعفن الداخلي والوفاة في حالات خطيرة"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Infected planting material (suckers)",
-      "Vector transmission by mealybugs",
-      "Activation of integrated viral DNA in plant genome under stress"
+      "مواد الزرع المصابة بالعدوى (الأوعية)",
+      "(أ) نقل العدوى عن طريق حشرات الوجبة",
+      "تفعيل الحمض DNA الفيروسي المتكامل في الجين النباتي تحت الضغط"
     ],
-    "latent_behavior": "Virus fragments can integrate into banana genome and reactivate under stress conditions",
+    "latent_behavior": "يمكن أن تندمج الشظايا القابلة للفيروس في المجين والمنشطة في ظروف الإجهاد",
     "favorable_conditions": [
-      "Plant stress",
-      "Tissue culture propagation stress",
-      "Environmental stress"
+      "المُنْج",
+      "التركيز في مجال زراعة الأنسجة",
+      ""
     ]
   },
   "impact": {
-    "severity": "Variable",
+    "severity": "المحتويات",
     "effects": [
-      "Reduced plant vigor",
-      "Smaller fruit bunches",
-      "Yield losses depending on cultivar and infection intensity",
-      "Delayed harvest"
+      "انخفاض النشاط",
+      "أحزمة الفواكه الصغيرة",
+      "الخسائر التي يُتوقع أن تُتكبد رهناً بكثافة التسرّب والإصابة",
+      ""
     ],
-    "estimated_losses": "Up to about 6% annually in some regions, higher in susceptible cultivars"
+    "estimated_losses": "حتى نحو 6.6 في المائة سنوياً في بعض المناطق، وارتفاع في الطوائف المعرضة للخطر"
   },
   "distribution": [
-    "Asia",
-    "Africa",
-    "North America",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania",
-    "Pacific Islands"
+    "آسيا",
+    "أفريقيا",
+    "أمريكا الشمالية",
+    "أمريكا الوسطى",
+    "أمريكا الجنوبية",
+    "البحر",
+    "أُحدثاً",
+    ""
   ],
   "similar_diseases_or_confusions": [
-    "Cucumber mosaic virus",
-    "Banana bunchy top virus",
-    "Nutrient deficiency causing chlorosis"
+    "فيروس الكسندر",
+    "مجموعة من الفيروسات العليا",
+    "نقص المغذيات المسبب للكلور"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants",
-      "Monitor plantations regularly"
+      "مواد الزرع الخالية من فيروس نقص فيروس",
+      "(أ) التخلص من النباتات المُحْكِرة وتدميرها",
+      ":: رصد المزارع بصورة منتظمة"
     ],
     "vector_control": [
-      "Control mealybug populations",
-      "Use horticultural oils or soap sprays",
-      "Use commercial horticultural oil products"
+      "السكان",
+      "الزيتات البستانية أو الرشاشات الصابونات",
+      "المنتجات الزيتية"
     ],
     "quarantine": [
-      "Follow FAO germplasm movement guidelines for Musa species",
-      "Use certified disease-free tissue culture plants"
+      "المبادئ التوجيهية لحركة انتقال النبذات الغرامية للأنواع التي تتبع منظمة الأغذية والزراعة المبادئ التوجيهية لحركة الأنواع",
+      ":: استخدام مصانع زروعات مرخصة لزراعة أنسجة خالية من الأمراض"
     ]
   },
   "spread_risk_factors": [
-    "Planting infected suckers",
-    "Unscreened tissue culture propagation",
-    "Presence of mealybug vectors",
-    "Plant stress conditions activating integrated virus DNA"
+    "مُقْصِص",
+    "زراعة مزروعة للنسيج غير المفحوص",
+    "(د) وجود ناقلات حشرات مُعَجَة",
+    "ظروف الإجهاد الصحي"
   ],
   "references": [
-    "CABI Crop Protection Compendium (2020)",
-    "CSIRO Publishing – Diseases of Fruit Crops in Australia (2009)",
-    "Pacific Pests, Pathogens and Weeds Database",
-    "Bioversity International – FAO Musa Germplasm Movement Guidelines"
+    "CCBCB CCB CAB",
+    "منظمة CCSRO SCIRO Puter - أمراض المحاصيل المثمرة في أستراليا (2009)",
+    "قاعدة بيانات المبيدات والمسببات للمرض والممرضات والمصنفات في منطقة المحيط الهادئ",
+    "المنظمة الدولية للتنوع البيولوجي - منظمة الأغذية والزراعة"
   ]
 }

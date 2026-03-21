@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "Cucurbite Downy Mildew",
+  "scientific_name": "Psoudoperonospora cubensis",
+  "pathogen_type": "Oomycète (agent pathogène semblable au fungus)",
+  "description": "Une maladie foliaire destructrice affectant les cultures de cucurbitacées dans le monde entier. Elle provoque des lésions foliaires jaunes et la mort rapide des feuilles, réduisant la croissance des plantes et le rendement des fruits.",
+  "symptoms": [
+    "Taches angulaires jaunes ou chlorotiques sur les feuilles",
+    "Lésions limitées par les nervures des feuilles (surtout sur le concombre)",
+    "Croissance floue gris à violet sur la face inférieure des feuilles",
+    "Les lésions s'agrandissent et deviennent brunes ou nécrotiques",
+    "Les feuilles sèchent et meurent rapidement",
+    "Réduction de la canopée entraînant des coups de soleil et des dommages aux fruits"
+  ],
+  "hosts": [
+    "Concombre",
+    "Mélône",
+    "Pastèque",
+    "Citrouille",
+    "Courge",
+    "Autres espèces de cucurbitacées"
+  ],
+  "favorable_conditions": [
+    "Températures fraîches à modérées (15-20°C optimum)",
+    "Humidité élevée",
+    "Pluie fréquente ou humidité des longues feuilles",
+    "Canopée végétale dense avec un faible débit d'air"
+  ],
+  "spread": [
+    "Sporangie dispersée par le vent",
+    "éclaboussure de pluie",
+    "Outils ou équipements contaminés",
+    "Propagation aérienne à longue distance à partir des régions infectées"
+  ],
+  "infection_process": [
+    "Les spores atterrissent sur les surfaces humides des feuilles",
+    "Zoospores nagent jusqu'aux stomates foliaires",
+    "Le pathogène pénètre dans les feuilles à travers les stomates",
+    "Hyphae pousse à l'intérieur du tissu foliaire et extrait des nutriments"
+  ],
+  "management": [
+    "Utiliser des cultivars tolérants ou résistants lorsqu'ils sont disponibles",
+    "Améliorer le débit d'air grâce à l'espacement et à la taille des installations",
+    "Surveiller régulièrement les cultures pour détecter les symptômes précoces",
+    "Utiliser des systèmes de prévision pour prédire les éclosions",
+    "Enlever le matériel végétal fortement infecté"
+  ],
+  "biological_control": [
+    "Utiliser des biopesticides microbiens tels que des produits à base de Bacillus",
+    "Encourager le microbiome sain du sol pour réduire la pression de la maladie"
+  ],
+  "chemical_control": [
+    "Vaporisateurs de fongicides préventifs pendant les périodes à risque élevé",
+    "Appliquer des fongicides tous les 5 à 7 jours pour le concombre ou 7 à 10 jours pour d'autres concurbits pendant les éclosions",
+    "Fongicides rotatifs avec différents modes d'action pour prévenir la résistance",
+    "Les ingrédients actifs peuvent comprendre des solutions de remplacement du métalaxyle, des strobilurines ou d'autres fongicides homologués"
+  ],
+  "prevention": [
+    "Les cultivars résistants aux végétaux lorsqu'ils sont disponibles",
+    "Assurer une bonne circulation de l'air dans les champs",
+    "Éviter l'humidité prolongée des feuilles lors de l'irrigation",
+    "Utiliser des outils de prévision des maladies pour prévoir les pulvérisations de fongicides"
+  ],
+  "impact": [
+    "Peut entraîner des pertes de rendement allant jusqu'à 80–100% lors d'éclosions graves",
+    "Menaces majeures pour la production de cucurbitacées dans le monde"
+  ],
+  "source": [
+    "Michigan State University Plant Pathology",
+    "Savory et al. – Pathologie moléculaire des plantes",
+    "Cucurbit Downy Mildew Ressources IPM"
+  ]
 }

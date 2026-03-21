@@ -1,6 +1,6 @@
 {
   "disease_name": "Alternaria_Leaf_Spot",
-  "pathogen_type": "fungus",
+  "pathogen_type": "Champignons",
   "genus": "Alternaria",
   "common_species": [
     "Alternaria solani",
@@ -10,62 +10,62 @@
     "Alternaria melongenae"
   ],
   "affected_crops": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Lettuce",
-    "Brassica crops (cabbage, broccoli, mustard)",
-    "Pomegranate",
-    "Many ornamental and wild plants"
+    "Tomates",
+    "Pommes de terre",
+    "Aubergines",
+    "Poivre",
+    "Laitue",
+    "Cultures de Brassica (cabbage, brocoli, moutarde)",
+    "grenade",
+    "Nombreuses plantes ornementales et sauvages"
   ],
   "symptoms": [
-    "Small brown to black spots on leaves",
-    "Spots often have concentric rings forming a 'target-like' pattern",
-    "Yellow halo around lesions",
-    "Lesions enlarge and may merge together",
-    "Leaf yellowing and premature leaf drop",
-    "Severe infections can reduce plant growth and yield"
+    "Petites taches brunes à noires sur les feuilles",
+    "Les taches ont souvent des anneaux concentriques formant un motif 'cible-like'",
+    "Halo jaune autour des lésions",
+    "Les lésions s'élargissent et peuvent fusionner",
+    "Jaunissement des feuilles et chute prématurée des feuilles",
+    "Les infections graves peuvent réduire la croissance et le rendement des plantes"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity or prolonged leaf wetness",
-    "Frequent rain or overhead irrigation",
-    "Presence of infected plant debris"
+    "Températures chaudes (20-30°C)",
+    "Humidité élevée ou humidité prolongée des feuilles",
+    "Pluie fréquente ou irrigation aérienne",
+    "Présence de débris végétaux infectés"
   ],
   "disease_cycle": [
-    "The fungus survives in infected crop residues, seeds, and weeds",
-    "Spores are produced on infected tissues",
-    "Spores spread through wind, rain splash, irrigation water, and tools",
-    "Infection occurs when spores land on wet leaves",
-    "Multiple infection cycles can occur during a growing season"
+    "Le champignon survit dans les résidus de cultures infectés, les graines et les mauvaises herbes",
+    "Des spores sont produites sur des tissus infectés.",
+    "Les spores se propagent par le vent, les éclaboussures de pluie, l'eau d'irrigation et les outils",
+    "L'infection survient lorsque les spores atterrissent sur des feuilles humides",
+    "Plusieurs cycles d'infection peuvent survenir pendant une saison de croissance"
   ],
   "monitoring": [
-    "Inspect leaves regularly for brown or black spots",
-    "Look for concentric ring patterns on lesions",
-    "Monitor humidity and temperature conditions favorable to the disease"
+    "Inspecter régulièrement les feuilles pour les taches brunes ou noires",
+    "Recherchez les patrons concentriques de l'anneau sur les lésions",
+    "Surveiller les conditions d'humidité et de température favorables à la maladie"
   ],
   "management": {
     "cultural": [
-      "Use certified disease-free seeds and planting materials",
-      "Practice crop rotation with non-host crops",
-      "Remove and destroy infected plant debris after harvest",
-      "Improve air circulation by proper plant spacing and pruning",
-      "Avoid overhead irrigation when possible"
+      "Utiliser des semences et du matériel de plantation certifiés exempts de maladies",
+      "Pratiquer la rotation des cultures avec les cultures non hôtes",
+      "Enlever et détruire les débris végétaux infectés après la récolte",
+      "Améliorer la circulation de l'air par un espacement et une taille appropriés des installations",
+      "Éviter l'irrigation aérienne lorsque c'est possible"
     ],
     "chemical": [
-      "Apply protective fungicides such as Mancozeb",
-      "Use Chlorothalonil-based fungicides",
-      "Copper-based fungicides can help reduce disease spread",
-      "Rotate fungicides with different FRAC groups to avoid resistance"
+      "Appliquer des fongicides protecteurs comme le Mancozeb",
+      "Utiliser des fongicides à base de chlorothalonil",
+      "Les fongicides à base de cuivre peuvent aider à réduire la propagation des maladies",
+      "Fongicides rotatifs avec différents groupes de CRF pour éviter la résistance"
     ],
     "biological": [
-      "Use biological control agents such as Bacillus subtilis formulations",
-      "Encourage beneficial microorganisms that suppress fungal pathogens"
+      "Utiliser des agents de contrôle biologique tels que les formulations de Bacillus subtilis",
+      "Encourager les microorganismes bénéfiques qui suppriment les pathogènes fongiques"
     ]
   },
   "impact": {
-    "crop_loss": "Moderate to severe depending on environmental conditions and crop susceptibility",
-    "economic_importance": "Common disease in many vegetable crops worldwide that can significantly reduce yield and quality"
+    "crop_loss": "Modéré à sévère en fonction des conditions environnementales et de la sensibilité des cultures",
+    "economic_importance": "Maladies courantes dans de nombreuses cultures végétales dans le monde qui peuvent réduire considérablement le rendement et la qualité"
   }
 }

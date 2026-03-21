@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "Aphides",
+  "scientific_name": "Aphididae",
+  "description": "De petits insectes suceurs de sèves qui affectent de nombreuses cultures et plantes ornementales. La reproduction rapide par télescopage permet aux populations de se multiplier rapidement. Certaines espèces alternent entre les plantes hôtes, d'autres sont généralistes.",
+  "life_cycle": [
+    "La reproduction asexuée domine; les femelles donnent naissance à des nymphes femelles vivantes",
+    "Les femelles ailées se dispersent vers de nouvelles plantes plus tard dans la saison.",
+    "Dans les régions tempérées, la reproduction sexuelle se produit en automne, hivernant sous forme d'oeufs.",
+    "La symbiose avec Buchnera aphidicola fournit des acides aminés essentiels"
+  ],
+  "hosts": [
+    "Légumes, fruits, céréales, légumineuses, plantes ornementales",
+    "Nombreuses cultures et plantes potagères"
+  ],
+  "symptoms_and_damage": [
+    "Croissance étourdie et curling des feuilles",
+    "Jaune ou mouillage des feuilles",
+    "Dépôts de miel sur les feuilles et les tiges",
+    "Croissance des moisissures de suie réduisant la photosynthèse",
+    "Transmission des virus végétaux"
+  ],
+  "favorable_conditions": [
+    "Températures chaudes",
+    "Humidité élevée",
+    "Temps pluvieux",
+    "Canopée dense et plantes stressées"
+  ],
+  "spread": [
+    "Contact direct avec les plantes infestées",
+    "Femelles ailées dispersées par le vent",
+    "Fourmis qui s'occupent de pucerons",
+    "Outils, travailleurs et eau d'irrigation"
+  ],
+  "natural_enemies": [
+    "Les coccinelles (p. ex., Coccinella septempunctata, Adalia bipunctata)",
+    "Les larves de l'Hoverfly",
+    "Les guêpes parasitaires",
+    "Larve des pucerons",
+    "Larve à lacets vert",
+    "Araignées",
+    "Champignons entomopathogènes (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
+  ],
+  "biological_control": [
+    "Rejet d'insectes prédateurs et de parasitoïdes",
+    "Encourager les ennemis naturels dans les jardins ou les serres",
+    "Utilisation de biopesticides fongiques (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "Les insecticides sont souvent limités en raison de la résistance (carbamates, organophosphates, pyréthroïdes)",
+    "Les insecticides systémiques peuvent ne pas pénétrer dans les fleurs.",
+    "Pour les petites infestations : savon insecticide, jets d'eau forts (action de contact seulement)"
+  ],
+  "prevention": [
+    "Surveiller les populations à l'aide de pièges à pan jaune ou à Moericke",
+    "Éviter la fertilisation excessive de l'azote pour réduire l'attraction du puceron",
+    "Enlever rapidement les parties de plantes infestées",
+    "Encourager les fourmis mutualistes uniquement dans des environnements contrôlés",
+    "Rotation des cultures et maintien de la santé des végétaux"
+  ],
+  "ant_mutualism": [
+    "Certaines fourmis cultivent des pucerons pour le miel, les protègent des prédateurs",
+    "Les fourmis peuvent porter des oeufs de pucerons pendant l'hiver et les rendre aux plantes au printemps.",
+    "La présence des fourmis augmente la production de miel et affecte le comportement des pucerons"
+  ],
+  "adaptations": [
+    "Revêtement de cire laineux ou moelleux pour la protection",
+    "Morphs de soldat chez les espèces qui forment des galles pour la défense",
+    "Défenses chimiques via les cornicules (allomones, cire collante, phéromones)",
+    "Aptitude à déposer des plantes pour échapper aux prédateurs"
+  ],
+  "sources": [
+    "Wikipedia – Aphid",
+    "Littérature sur la lutte antiparasitaire végétale",
+    "Références relatives à la lutte intégrée contre les ravageurs"
+  ]
 }

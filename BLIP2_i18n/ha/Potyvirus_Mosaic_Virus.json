@@ -1,83 +1,83 @@
 {
- "disease": "Potyvirus Mosaic",
- "scientific_name": "Genus Potyvirus (family Potyviridae)",
- "pathogen_type": "Virus",
- "description": "Potyviruses are a large group of plant viruses with single-stranded RNA genomes. They infect many crops and cause mosaic diseases that reduce plant growth and yield.",
- "symptoms": [
-  "Mosaic or mottled patterns on leaves",
-  "Light and dark green patches on foliage",
-  "Leaf curling or distortion",
-  "Stunted plant growth",
-  "Reduced fruit size and yield",
-  "Yellow streaks or vein clearing on leaves"
- ],
- "visual_symptoms": [
-  "yellow and green mosaic patterns on leaves",
-  "distorted or curled leaves",
-  "patchy chlorosis on plant foliage"
- ],
- "hosts": [
-  "Potato",
-  "Tomato",
-  "Pepper",
-  "Cucumber",
-  "Pumpkin",
-  "Bean",
-  "Soybean",
-  "Sweet potato",
-  "Tobacco",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "vectors": [
-  "Aphids (more than 200 species)",
-  "especially Myzus and Macrosiphum species"
- ],
- "spread": [
-  "Aphid feeding on infected plants",
-  "Mechanical transmission through plant contact",
-  "Contaminated tools or hands",
-  "Infected tubers, cuttings, or grafting material",
-  "Sometimes seed or pollen transmission"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Warm growing conditions",
-  "Dense crop planting",
-  "Presence of infected plants nearby"
- ],
- "impact": [
-  "Reduced plant growth",
-  "Lower crop yield",
-  "Poor fruit quality",
-  "Economic losses in vegetable and ornamental crops"
- ],
- "management": [
-  "Use virus-free planting materials",
-  "Control aphid populations",
-  "Remove infected plants quickly",
-  "Use resistant crop varieties when available",
-  "Avoid handling plants when wet"
- ],
- "biological_control": [
-  "Encourage natural predators of aphids such as lady beetles and lacewings"
- ],
- "chemical_control": [
-  "Use insecticides to reduce aphid populations when necessary",
-  "Mineral oils may reduce virus transmission by aphids"
- ],
- "prevention": [
-  "Plant resistant varieties",
-  "Monitor fields for aphids",
-  "Use reflective mulches to repel aphids",
-  "Practice field sanitation and remove infected plants"
- ],
- "source": [
-  "Virology references on Potyvirus",
-  "Agricultural plant pathology literature"
- ]
+  "disease": "Ka Yi La'akari da misalin Musa",
+  "scientific_name": "Indian National weekday 5 - LongDayName",
+  "pathogen_type": "Ethiopian weekday 5 - LongDayName",
+  "description": "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne.",
+  "symptoms": [
+    "Musa ko kuma ya kafa tsari a hagu",
+    "Hasken walƙiyarsa Yanã kusa ya tafi da gannai.",
+    "KCharselect unicode block name",
+    "@ action",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\""
+  ],
+  "visual_symptoms": [
+    "Mãsu duhun inuwa.",
+    "Rabinsa, ko ka rage abu kaɗan daga gare shi.",
+    "@ action"
+  ],
+  "hosts": [
+    "QFontDatabase",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "QShortcut",
+    "Ethiopian weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan."
+  ],
+  "plant_parts_affected": [
+    "hagu",
+    "@ action",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa."
+  ],
+  "vectors": [
+    "@ item Spelling dictionary",
+    "Abin da Na Koya Daga Wurin Yesu - Game da Rayuwar ' Yan Adam"
+  ],
+  "spread": [
+    "Yadda ake ciyar da shuke - shuke ya zama ruwan dare",
+    "Media controller element",
+    "KCharselect unicode block name",
+    "A cikin Allo tsararre, a kashe, ko kuma a yi amfani da abubuwan da aka samo daga cikin jini",
+    "Wani lokaci iri ko kuma zane - zane"
+  ],
+  "favorable_conditions": [
+    "Taro Mai Girma",
+    "Yanayin duniya mai ni'ima yana ƙaruwa",
+    "Farã mai dãɗi ga mashãyan.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
+  ],
+  "impact": [
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Yin Shirin Aiki",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Rashin Lafiya a Sao'i da shuke - shuke"
+  ],
+  "management": [
+    "Yi amfani da kayan daidaita na'ura",
+    "KCharselect unicode block name",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Yi amfani da mazabababa idan an same su",
+    "Ka guje wa yin amfani da shuke - shuke sa'ad da muke yin amfani da su"
+  ],
+  "biological_control": [
+    "Ku Ƙarfafa Yanayinku na Mata Marar Aure Yadda Ya Kamata Su Zama Masu Tawali'u Kuma Masu Tawali'u"
+  ],
+  "chemical_control": [
+    "Ka yi amfani da abubuwan da ba su da amfani don ka rage filin da ake bukata idan bukata ta kama",
+    "Ƙari ga haka, zai iya yin amfani da na'ura don ya rage ƙarfin da ake amfani da shi don ɗaukan kaya mai nauyi."
+  ],
+  "prevention": [
+    "Yi Tsayayya da Matsi na Tsarawa",
+    "Farã mai dãɗi ga mashãyan.",
+    "Yi amfani da mazaba ka sauya wata shirin ayuka don ka kalli shirin ayuka",
+    "Ku yi aiki a gona kuma ku cire shuke - shuke"
+  ],
+  "source": [
+    "KCharselect unicode block name",
+    "Masu zane - zane suna ba da littattafai masu kyau"
+  ]
 }

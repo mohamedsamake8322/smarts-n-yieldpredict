@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "Mifano ya Spider",
+  "stage": "Uharibifu / Damage",
+  "common_name": "Mifano ya Spider",
+  "description": "Mita ya Spider ni mbaya ya kawaida ya miti ya matunda, matunda, mboga, viini, mimea ya nyumbani, na mimea ya maua. Mita ni mita ndogo ya arachnids na miguu ya tetemeko, inayohusiana na mita na mita.",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "Wanawake ni chini ya 1/20 inch mrefu na mwili wa oval na mawili ya macho ya rangi karibu na kichwa",
+    "Kuishi katika miji, hasa juu ya chini ya tiketi; miji moja inaweza kuwa na mamia ya miti",
+    "Idadi ya juu inafanya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao",
+    "Unatafuta kutafakari nywele za mwanga juu ya nywele, bronz discoloration, yellowing, na nywele kupoteza"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "Kupata maudhui ya seli kutoka kwenye karatasi, ambayo huathiri kupotea na kupotea",
+    "Maonyesho kadhaa yanaweza kuongezeka na kuongezeka",
+    "Uharibifu ni mbaya zaidi katika hali ya joto, mafuta na katika mimea ya maji ya shinikizo"
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "Mchakato wa Predatory",
+    "ya Lacewings",
+    "Mwisho ya Pirate Bugs",
+    "Mito ya predatory (kubwa zaidi na miguu ya muda mrefu na kazi zaidi)"
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "Mimea ya maji ili kuepuka mgogoro wa joto",
+    "Kupunguza udongo kwa kutumia mbolea ya ardhi, mulches, na usafishaji wa kawaida",
+    "Kuimarisha maadui wa asili kuendesha idadi ya watu",
+    "Kupata maji au mti juu ya chini ya karatasi kila siku ikiwa inafungwa"
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "mafuta ya insecticide au safu ya insecticide, iliyotumika kwa makini juu ya chini ya tiketi",
+    "Kuepuka kupumzika wakati mimea ni ya maji au wakati wa nishati ya juu",
+    "Kuepuka insecticides ambayo kuua maadui ya asili, kwa sababu hizi zinaweza kuwa na uharibifu wa idadi ya watu"
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "Mifano ya Spider mara nyingi huwa tatizo baada ya maombi fulani ya organophosphate au pyrethroid insecticides",
+    "Kupunguza matumizi ya pesticides, kufurahia chaguo yasiyo ya kemikali au chaguo yasiyo ya kiroho",
+    "Soma makala ya bidhaa kwa makini kwa ajili ya matumizi sahihi na usambazaji"
   ]
 }

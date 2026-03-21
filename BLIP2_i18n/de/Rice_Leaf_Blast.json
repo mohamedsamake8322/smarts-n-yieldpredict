@@ -1,0 +1,87 @@
+{
+  "disease": "Reis-Blatt-Blast",
+  "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
+  "pathogen_type": "Pilze",
+  "description": "Reisexplosion ist eine der zerstörerischsten Krankheiten von Reis weltweit. Der Pilz infiziert Blätter, Knoten und Rispen. Auf Blättern produziert er charakteristische diamantförmige Läsionen, die die Photosynthese reduzieren und die Pflanze schwächen.",
+  "symptoms": [
+    "Diamant- oder spindelförmige Läsionen auf Blättern",
+    "Läsionen mit grauem oder weißem Zentrum und braunem oder rötlichem Rand",
+    "Kleine Flecken, die sich vergrößern und auf Blättern verschmelzen",
+    "Blatttrocknung oder Tod bei schweren Infektionen",
+    "Verringerung des Pflanzenwachstums",
+    "In schweren Fällen können junge Pflanzen sterben"
+  ],
+  "visual_symptoms": [
+    "Diamantförmige Blattflecken",
+    "graues oder weißes Zentrum mit braunem Rand",
+    "multiple Läsionen, die sich auf Blättern verschmelzen",
+    "beschädigte oder getrocknete Reisblätter"
+  ],
+  "hosts": [
+    "Reis (Oryza sativa)",
+    "Wildreisarten",
+    "Einige Gräser"
+  ],
+  "plant_parts_affected": [
+    "Blätter",
+    "Blattkragen",
+    "Stammknoten",
+    "Rispen"
+  ],
+  "favorable_conditions": [
+    "Hohe Luftfeuchtigkeit über 90%",
+    "Lange Perioden der Blattnässe (Tau, Regen, Nebel)",
+    "Warme Temperaturen um 25–28°C",
+    "Dichtes Pflanzendach",
+    "Überschüssige Stickstoffdüngung"
+  ],
+  "spread": [
+    "Pilzsporen in der Luft (Konidia)",
+    "Wind",
+    "Streuen von Regen oder Bewässerungswasser",
+    "Infizierte Samen",
+    "Pflanzliche Rückstände aus der vorangegangenen Saison"
+  ],
+  "disease_cycle": [
+    "Pilz überlebt auf infizierten Samen und Ernterückständen",
+    "Sporen werden auf infizierten Geweben hergestellt",
+    "Sporen, die durch Wind oder Wasser ausgebreitet werden",
+    "Infektionen treten auf, wenn die Blätter nass bleiben",
+    "Neue Läsionen produzieren mehr Sporen, die schnelle Krankheitszyklen verursachen"
+  ],
+  "impact": [
+    "Reduzierte Photosynthese",
+    "Blattschäden und Pflanzenschwächung",
+    "Niedrigere Getreideausbeute",
+    "Schlechte Getreidequalität",
+    "Schwere Ausbrüche können zu erheblichen Ernteverlusten führen"
+  ],
+  "cultural_control": [
+    "Verwendung resistenter Reissorten",
+    "Pflanzenzertifiziertes seuchenfreies Saatgut",
+    "Dauerüberflutung, wenn möglich, beibehalten",
+    "Vermeiden Sie übermäßige Stickstoffdüngung",
+    "Zerstöre infizierte Pflanzenrückstände"
+  ],
+  "biological_control": [
+    "Benutze nützliche Mikroben wie Trichoderma-Arten",
+    "Förderung einer ausgewogenen Bodenmikrobiologie"
+  ],
+  "chemical_control": [
+    "Azoxystrobin",
+    "Trifloxystrobin",
+    "Kombinationen von Propiconazol",
+    "Kombinationen von Difenoconazol"
+  ],
+  "prevention": [
+    "Regelmäßige Feldüberwachung auf Frühsymptome",
+    "Ausgewogene Düngung",
+    "Aufrechterhaltung eines ordnungsgemäßen Bewässerungsmanagements",
+    "Methoden des integrierten Seuchenmanagements anwenden"
+  ],
+  "source": [
+    "Forschungs- und Erweiterungszentrum für Reis",
+    "Pflanzenschutznetz",
+    "Pflanzenpathologie-Referenzen zur Reisexplosion"
+  ]
+}

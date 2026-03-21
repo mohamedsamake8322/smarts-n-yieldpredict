@@ -1,46 +1,46 @@
 {
-  "disease_name": "Late Blight Fruit",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "oomycete",
-  "description": "Late blight fruit rot is a destructive disease caused by the oomycete Phytophthora infestans. It mainly affects tomato and potato plants. The pathogen infects fruits, leaves and stems and can spread rapidly under cool and humid conditions, often leading to severe crop losses.",
+  "disease_name": "Matunda ya baadaye",
+  "scientific_name": "Matokeo ya Phytophthora",
+  "pathogen_type": "ya Oomycete",
+  "description": "Matunda ya matunda ya haraka ni magonjwa ya kuharibiwa yaliyotokana na maumivu ya oomycete ya Phytophthora. Huu huathiri mimea ya tomato na potato. Maumivu ya ugonjwa huathiri matunda, barua na mti na inaweza kuenea haraka chini ya hali ya baridi na ya baridi, mara nyingi huathiri uharibifu mkubwa wa mimea.",
   "affected_parts": [
-    "Fruit",
-    "Leaf",
-    "Stem"
+    "Matunda ya",
+    "ya Leaf",
+    "Maoni ya"
   ],
   "hosts": [
-    "Tomato",
-    "Potato"
+    "Mji wa Tomato",
+    "Mapato ya"
   ],
   "symptoms": [
-    "Dark brown or black lesions on fruits",
-    "Firm rot with greasy appearance",
-    "White mold growth under humid conditions",
-    "Rapid fruit decay"
+    "Maua ya rangi au rangi ya rangi ya rangi",
+    "Mchakato wa nguruwe na macho ya mafuta",
+    "Matunda ya Pembe katika hali ya hewa",
+    "Uharibifu wa haraka wa matunda"
   ],
   "favorable_conditions": [
-    "Cool temperatures (10–20°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Long periods of leaf wetness"
+    "Hali ya joto (10-20 ° C)",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Miaka ya muda mrefu ya kupumzika"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Contaminated tools and equipment"
+    "Matokeo ya Wind-borne",
+    "Mchezo wa mvua",
+    "Ukosefu wa mbegu za mimea",
+    "vifaa na vifaa vya uchafuzi"
   ],
   "management": {
     "cultural": [
-      "Remove infected plants",
-      "Improve air circulation",
-      "Avoid overhead irrigation",
-      "Use resistant cultivars when available"
+      "Kuondoa mimea ya kuvutia",
+      "kuboresha usafiri wa hewa",
+      "Kuepuka upasuaji wa juu",
+      "Tumia bidhaa za kuvutia wakati inapatikana"
     ],
     "chemical": [
-      "Metalaxyl-based fungicides",
-      "Chlorothalonil",
-      "Mancozeb"
+      "Fungicidi ya Metalaxyl",
+      "ya Chlorothalonil",
+      "ya Mancozeb"
     ]
   }
 }

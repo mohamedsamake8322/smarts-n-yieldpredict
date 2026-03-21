@@ -1,71 +1,71 @@
 {
-  "disease": "Bell pepper blossom-end rot",
-  "scientific_name": "Physiological disorder caused by calcium deficiency in fruit tissues",
-  "pathogen_type": "Abiotic (nutrient deficiency disorder)",
-  "description": "Blossom-end rot is a physiological disorder caused by a lack of calcium in developing fruits. It affects rapidly growing fruits when calcium supply to fruit tissue is insufficient. The disorder leads to tissue collapse at the blossom end of the fruit and can cause significant yield losses.",
+  "disease": "Bellpilipili maua-mwisho yakiwa yameoza",
+  "scientific_name": "Tatizo la mfumo wa neva linalosababishwa na ukosefu wa kalisi katika tishu za matunda",
+  "pathogen_type": "Abiotic (tatizo kubwa sana la ukosefu wa chakula)",
+  "description": "Blossom-end kuoza ni kasoro ya kifiolojia inayosababishwa na ukosefu wa kalisi katika kukuza matunda. Inaathiri matunda yanayokua haraka sana wakati kalisi inapokosa kumeng'enya tishu za matunda. Tatizo hilo huongoza kwenye anguko la tishu kwenye mwisho wa maua na inaweza kusababisha hasara kubwa.",
   "symptoms": [
-    "Small light green or yellow spot at the blossom end of the fruit",
-    "Sunken dark brown or black lesion on fruit tip",
-    "Fruit tissue collapse and dry rot",
-    "Premature fruit ripening",
-    "Black fungal growth (secondary Alternaria colonization)",
-    "Secondary bacterial soft rot in severe cases"
+    "Sehemu ndogo ya kijani - kibichi au manjano kwenye ncha ya ua la tunda",
+    "Rangi nyeusi ya kahawia au nyeusi kwenye ncha ya matunda",
+    "Tishu ya matunda huanguka na kuoza",
+    "Tunda lililokomaa kabla ya kuiva",
+    "Ukuzaji mweusi wa kuvu (mzalendo wa pili wa Altania)",
+    "Bakteria za pili huoza zikiwa laini katika hali mbaya sana"
   ],
   "hosts": [
-    "bell pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "zucchini",
-    "squash",
-    "watermelon",
-    "cucumber",
+    "Pilipili",
+    "Pilipili",
+    "Nyanya",
+    "Kutaga mayai",
+    "Zucchini",
+    "mung'unye",
+    "matikiti - maji",
+    "Mbilimbibahari",
     "melon"
   ],
   "favorable_conditions": [
-    "Low calcium availability in plant tissues",
-    "Irregular irrigation or drought stress",
-    "Rapid vegetative growth",
-    "Excess nitrogen fertilization",
-    "High salt concentration in soil",
-    "Poor root development or root damage",
-    "High temperature and rapid fruit growth"
+    "Ukosefu mdogo wa kalisi katika tishu za mimea",
+    "Umwagiliaji - maji mashamba kwa ukawaida au mkazo wa kiangazi",
+    "Ukuzi wa haraka - haraka wa kukuza",
+    "Kutungishwa kwa nitrojeni ya ziada",
+    "Chumvi nyingi udongoni",
+    "Ukuzi mbaya wa mizizi au uharibifu wa mizizi",
+    "Halijoto ya juu na ukuzi wa haraka wa matunda"
   ],
   "spread": [
-    "Not infectious; it is a physiological disorder",
-    "Occurs when calcium transport to fruits is insufficient",
-    "Often triggered by water stress or nutrient imbalance"
+    "Si ugonjwa wa kuambukiza; bali ni kasoro ya mwili",
+    "Hutukia wakati kalisi isafirishapo matunda haitoshi",
+    "Mara nyingi husababishwa na mkazo wa maji au ukosefu wa lishe"
   ],
   "management": [
-    "Maintain consistent soil moisture with proper irrigation",
-    "Avoid excessive nitrogen fertilization",
-    "Improve soil structure for better root growth",
-    "Use mulching to regulate soil moisture and temperature",
-    "Monitor soil nutrient levels with soil testing"
+    "Dumisha unyevu wa udongo kwa unyunyizaji ufaao",
+    "Epuka kutungishwa kwa nitrojeni kupita kiasi",
+    "Kuboresha udongo ili ukue vizuri zaidi",
+    "Tumia kujilainisha ili kudhibiti unyevu wa udongo na halijoto",
+    "Kiwango cha rutuba katika udongo unapopimwa"
   ],
   "biological_control": [
-    "Use beneficial microbes such as Bacillus subtilis to improve plant health",
-    "Apply Trichoderma species to support root growth and nutrient uptake",
-    "Use organic soil amendments like compost to improve soil structure"
+    "Tumia vijiumbe - maradhi vyenye manufaa kama vile Bacillus silis ili kuboresha afya ya mimea",
+    "Tumia aina za Trichoderma kutegemeza ukuzi wa mizizi na lishe",
+    "Tumia mbolea ya udongo kuboresha udongo"
   ],
   "chemical_control": [
-    "Calcium nitrate",
-    "Calcium chloride",
-    "Calcium sulfate (gypsum)",
-    "Chelated calcium fertilizers",
-    "Foliar calcium sprays (limited effectiveness)"
+    "nitrati ya Kalsiamu",
+    "Kalsiamu kloridi",
+    "Kalsium sulfate (gypsum)",
+    "Mifugo ya kalisi iliyoganda",
+    "Vinyunyizo vya kalisi nyekundu (vinavyoathiriwa na asidi)"
   ],
   "prevention": [
-    "Ensure adequate calcium levels in soil",
-    "Maintain regular irrigation schedules",
-    "Avoid excessive nitrogen fertilization",
-    "Improve drainage and root health",
-    "Use drip irrigation to stabilize water supply",
-    "Avoid root damage from cultivation or diseases"
+    "Hakikisha kwamba kuna kiasi cha kutosha cha kalisi katika udongo",
+    "Dumisha ratiba ya kawaida ya umwagiliaji - maji mashamba",
+    "Epuka kutungishwa kwa nitrojeni kupita kiasi",
+    "Dumisha afya nzuri ya kuondoa maji machafu na ya mizizi",
+    "Tumia mnyunyizo wa maji ili kusawazisha ugavi wa maji",
+    "Epuka madhara ya mizizi yanayotokana na kilimo au magonjwa"
   ],
   "source": [
-    "University of Florida IFAS Extension",
-    "Principles of Plant Nutrition – Mengel & Kirkby",
-    "Plant pathology and vegetable crop management literature"
+    "Chuo Kikuu cha Florida ILES Extension",
+    "Principles of Plant Nutrition ☞ Mengel & Kirkby",
+    "Elimu ya mimea na mimea inayokuza mboga"
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
+  "common_name": "Alfalfa-Mosaik-Krankheit",
+  "pathogen": {
+    "type": "Virus",
+    "scientific_name": "Alfalfa-Mosaikvirus",
+    "abbreviation": "ANMERKUNG",
+    "family": "Bromoviridae",
+    "genus": "Alfamovirus"
+  },
+  "host_plants": [
+    "L 347 vom 20.12.2013, S. 671.",
+    "Kartoffeln",
+    "Tomaten",
+    "Pfeffer",
+    "Sojabohnen",
+    "Klee",
+    "Erbsen",
+    "Bohnen",
+    "Tabak",
+    "Viele Zierpflanzen"
+  ],
+  "symptoms": {
+    "leaves": [
+      "Hellgelbe Mosaikmuster",
+      "Chlorotisches Mottling",
+      "Blattverzerrung",
+      "Schmale oder längliche Blätter",
+      "Reduzierte Blattgröße"
+    ],
+    "plants": [
+      "Stuntes Wachstum",
+      "Verringerte Kraft",
+      "Reduzierter Ertrag"
+    ]
+  },
+  "transmission": {
+    "vectors": [
+      "Blattläuse (mehr als 20 Arten)"
+    ],
+    "mechanical_transmission": true,
+    "seed_transmission": true,
+    "vegetative_propagation": true
+  },
+  "favorable_conditions": [
+    "Hohe Blattläuse",
+    "Warme Temperaturen",
+    "Vorhandensein infizierter Wirtspflanzen in der Nähe"
+  ],
+  "management": {
+    "cultural_control": [
+      "Virenfreie zertifizierte Samen verwenden",
+      "Entferne infizierte Pflanzen",
+      "Unkraut kontrollieren, das als Virusspeicher dient"
+    ],
+    "vector_control": [
+      "Aphidpopulationen überwachen und verwalten"
+    ],
+    "resistant_varieties": "Einige tolerante Sorten je nach Anbau"
+  },
+  "economic_importance": {
+    "impact": "Reduziert Ernteertrag und Qualität in vielen Hülsenfrüchten und Gemüsepflanzen",
+    "distribution": "Weltweit"
+  },
+  "sources": [
+    "Handbuch zur APS-Pflanzenkrankheit",
+    "CABI-Kompendium zum Pflanzenschutz",
+    "ICTV Virus Taxonomie"
+  ]
+}

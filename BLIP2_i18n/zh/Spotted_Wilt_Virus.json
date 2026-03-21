@@ -1,76 +1,106 @@
 {
-  "pest_name": "Tomato Spotted Wilt Virus",
-  "abbreviation": "TSWV",
-  "type": "virus",
-  "family": "Tospoviridae",
+  "pest_name": "肉毒杆菌",
+  "abbreviation": "TSWV 特南伏",
+  "type": "艾滋病毒/病毒病毒/病毒",
+  "family": "托斯波维里达",
   "genome": {
-    "type": "negative-sense RNA",
-    "structure": "spherical, 80-110 nm diameter",
+    "type": "RNA负值RNA",
+    "structure": "球体直径80-110纳米",
     "segments": [
-      {"name": "L", "length_kb": 8.9},
-      {"name": "M", "length_kb": 4.8},
-      {"name": "S", "length_kb": 2.9, "genes": ["N", "NSs"]}
+      {
+        "name": "L L L",
+        "length_kb": 8.9
+      },
+      {
+        "name": "M 男",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S S 级",
+        "length_kb": 2.9,
+        "genes": [
+          "N 内",
+          "NS"
+        ]
+      }
     ]
   },
   "hosts": {
-    "primary": ["tomato", "tobacco", "capsicum", "lettuce", "potato", "peanut", "eggplant", "onion", "various ornamentals"],
-    "weeds": ["sowthistle", "capeweed", "thornapples", "cobbler's pegs", "nightshades", "Jamaican snakeweed"]
+    "primary": [
+      "番茄",
+      "烟草 烟草 烟草",
+      "累积积积",
+      "生 生 生",
+      "马铃薯",
+      "花花生",
+      "茄茄茄",
+      "洋葱",
+      "各种装饰物,"
+    ],
+    "weeds": [
+      "草 草 草 草 草 草 土 土 土 土 土 土 土 土 土",
+      "毛毛",
+      "刺纹",
+      "Cobbbler 的钉子",
+      "阴荫罩",
+      "牙买加蛇草"
+    ]
   },
   "symptoms": [
-    "Stunting of plants",
-    "Ringspots and mottling on leaves and fruit",
-    "Chlorotic blotches and line patterns on leaves",
-    "Wilting and purpling of leaves",
-    "Necrotic lesions on stems",
-    "Distorted or necrotic fruits"
+    "植物生长",
+    "环斑和树叶和水果上的动静",
+    "叶叶上的青白和线状图案",
+    "树叶的腐蚀和采伐",
+    "阴茎上的腐蚀性损伤",
+    "扭曲或腐坏水果"
   ],
   "transmission": {
-    "vector": "thrips",
+    "vector": "树脂",
     "vector_species": [
-      "Frankliniella occidentalis (western flower thrips)",
-      "Frankliniella sulphurea (yellow tomato thrips)",
-      "Thrips palmi (melon thrips)",
-      "Thrips tabaci (onion thrips)"
+      "富兰克林-奥西(西花尖)",
+      "富兰尼拉硫磺(黄番茄黄)",
+      "茶叶帕利(梅子三叶)",
+      "Trips 塔卡西( 离子阵列)"
     ],
     "mechanism": [
-      "Acquisition occurs only in larval stage (1st and early 2nd instar)",
-      "Virus circulates and multiplies in vector's gut and salivary glands",
-      "Adult thrips remain infective for life but do not transmit to offspring",
-      "Transmission can occur in 5–10 minutes of feeding"
+      "只有在幼年阶段(第1和第2年早期)才进行收购。",
+      "病媒肠道和口腔腺中的病毒循环和倍数",
+      "成人三胞胎终生感染,但不传染给后代",
+      "5至10分钟的喂食时间可以发生传染"
     ]
   },
   "life_cycle": {
-    "thrips_larval_stage": "1–3 days",
-    "thrips_adult_lifespan": "20–30 days",
-    "TSWV_infection_duration": "lifelong in vector acquired as larva"
+    "thrips_larval_stage": "1-3天",
+    "thrips_adult_lifespan": "20至30天",
+    "TSWV_infection_duration": "在作为幼虫获得的矢量中"
   },
   "economic_impact": [
-    "Serious losses in vegetables, field crops, and ornamentals",
-    "Considered one of the most economically devastating plant viruses globally"
+    "蔬菜、田地作物和装饰品的严重损失",
+    "被认为是全球最具经济破坏力的植物病毒之一"
   ],
   "management": {
     "prevention": [
-      "Use virus- and thrips-free transplants",
-      "Remove infected plants and old crops",
-      "Maintain weed-free buffers of at least 25 m",
-      "Sanitation practices in greenhouses and fields"
+      "使用无病毒和无热带和无病毒移植",
+      "消除受感染植物和旧作物",
+      "保持至少25米无杂草缓冲带",
+      "和实地的环境卫生做法"
     ],
     "resistant_varieties": [
-      "Use TSWV-resistant capsicum and tomato varieties",
-      "Consider resistance-breaking strains and maintain hygiene"
+      "使用抗抗TSWV的上限和番茄品种",
+      "考虑抗药性破碎菌株并保持卫生"
     ],
     "chemical_control": [
-      "Limited value of insecticides against vectors due to rapid resistance",
-      "Insecticides may reduce thrips populations but do not eliminate virus spread"
+      "由于快速抗药性,杀虫剂对病媒的有限价值",
+      "杀虫剂杀虫剂可能减少人口数量,但不能消除病毒传播"
     ],
     "biological_control": [
-      "Predators of thrips such as Orius insidiosus (minute pirate bugs) and Geocoris punctipes (big-eyed bugs)"
+      "Orius insidiosus(一分钟海盗虫)和Geocoris punctipes(大眼睛虫)等热带植物的食用者"
     ]
   },
   "notes": [
-    "Infected plants cannot be cured",
-    "Virus spreads only via thrips, not by seed, other insects, handling, or soil",
-    "TSWV has a very wide host range (>900 species in Australia alone)",
-    "Other related tospoviruses include CaCV, INSV, IYSV"
+    "感染植物无法治愈",
+    "病毒仅通过母黄,而不是通过种子、其他昆虫、处理或土壤传播。",
+    "TSWV的分布范围非常广泛(仅澳大利亚就大于900种)",
+    "其他有关的寄生病毒包括CaCV、INSV、IYSV。"
   ]
 }

@@ -1,85 +1,85 @@
 {
- "disease": "Solanaceae Bacterial Spot",
- "scientific_name": "Xanthomonas campestris pv. vesicatoria",
- "pathogen_type": "Bacterium",
- "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
- "symptoms": [
-  "Small brown water-soaked spots on leaves",
-  "Circular lesions without concentric rings",
-  "Spots merging to form large dark streaks",
-  "Yellowing of leaves around lesions",
-  "Leaves may drop early (defoliation)",
-  "Raised scab-like spots on fruits"
- ],
- "visual_symptoms": [
-  "dark brown leaf spots",
-  "water-soaked lesions",
-  "scab-like lesions on fruit",
-  "yellowing leaves with many spots"
- ],
- "hosts": [
-  "Tomato",
-  "Pepper",
-  "Chili pepper",
-  "Sweet pepper",
-  "Other Solanaceae crops"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (27–32°C)",
-  "High humidity",
-  "Frequent rain or overhead irrigation",
-  "Wet foliage"
- ],
- "spread": [
-  "Infected seeds",
-  "Plant debris",
-  "Wind-driven rain",
-  "Contaminated tools and equipment",
-  "Workers handling plants"
- ],
- "disease_cycle": [
-  "Bacteria survive in infected seeds and crop debris",
-  "Bacteria spread by rain splash or contact",
-  "They enter plants through stomata or wounds",
-  "Lesions form on leaves and fruit",
-  "Bacteria multiply and spread to nearby plants"
- ],
- "impact": [
-  "Leaf drop and reduced photosynthesis",
-  "Fruit quality loss due to lesions",
-  "Severe yield reduction",
-  "Possible crop failure in severe outbreaks"
- ],
- "cultural_control": [
-  "Use certified disease-free seeds",
-  "Rotate crops for 2–3 years",
-  "Remove infected plant debris",
-  "Avoid working in fields when plants are wet",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus-based bio-pesticides",
-  "Apply biological plant protection products where available"
- ],
- "chemical_control": [
-  "Copper-based bactericides",
-  "Copper + mancozeb mixtures",
-  "Copper hydroxide",
-  "Copper oxychloride"
- ],
- "prevention": [
-  "Use healthy transplants",
-  "Maintain field sanitation",
-  "Control weeds and volunteer plants",
-  "Monitor crops regularly during warm wet weather"
- ],
- "source": [
-  "UMass Extension Vegetable Disease Guide",
-  "Plant pathology references"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "X Aliiiiiiiiiiiiie.",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Wani mugun cuta mai tsanani yana shafan ƙwayoyin cuta da ke sa ruwa ya yi yaushi, yana sa ruwa ya yi tafiya a kan hanya mai duhu, yana sa ya yi yaushi kuma ya zama da sauƙi a samu sauƙi a rashin lafiya da kuma yanayin da ke da sauƙi.",
+  "symptoms": [
+    "Kada ka tsaya a cikinsa har abada.",
+    "KCharselect unicode block name",
+    "Hakan yana sa ni baƙin ciki sosai kuma yana sa ni baƙin ciki sosai.",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Kuma Munã barin (yabo) a gare shi, a cikin mutãnen ƙarshe.",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
+  ],
+  "visual_symptoms": [
+    "Mãsu duhun inuwa.",
+    "Da wani ruwa mai gudãna.",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Sa'an nan mãsu yin tsãwa dõmin gargaɗi."
+  ],
+  "hosts": [
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Wasu shuke - shuke da ba Su da kyau"
+  ],
+  "plant_parts_affected": [
+    "hagu",
+    "@ action",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa."
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Media controller element",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta."
+  ],
+  "spread": [
+    "A cikin wasu ginshiƙai mĩƙaƙƙu",
+    "KCharselect unicode block name",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Wuraren Mahaɗar Sadarwa",
+    "Media controller element"
+  ],
+  "disease_cycle": [
+    "Ana iya samun kwanciyar hankali a cikin launin fata da kuma kayan lambu",
+    "Mãsu gudu suna ɓũya.",
+    "Kuma suka je, a jikin rigarsa akwai wani jinin ƙarya. Ya ce: \"Ã'a, zukatanku suka ƙawãta muku wani al'amari.",
+    "' Ya'yan itace suna ba da ' ya'ya da kuma ' ya'ya",
+    "An sami ci gaba kuma an yaɗa wa shuke - shuke a kusa"
+  ],
+  "impact": [
+    "Media controller element",
+    "Ba da ' ya'ya sun yi hasarar ' ya'yan itace da ya dace",
+    "KCharselect unicode block name",
+    "Zaɓuɓɓuka na Zaman Shawara"
+  ],
+  "cultural_control": [
+    "KCharselect unicode block name",
+    "@ action",
+    "KCharselect unicode block name",
+    "Ka guje wa yin aiki a gona sa'ad da ba ma noma",
+    "Yi amfani da mazabababa yayin da ake samu"
+  ],
+  "biological_control": [
+    "Ka yi amfani da hanyoyi masu kyau kamar karin magana da aka fi sani",
+    "Ka yi amfani da kayan daidaita na'ura don ka samu kāriya a inda za ka iya yin amfani da su"
+  ],
+  "chemical_control": [
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ],
+  "prevention": [
+    "Ka Yi Amfani da Shi Yadda Ya Kamata",
+    "Ka Kasance da Ra'ayin da ya Dace",
+    "Zanen zawan da kuma ba da kai",
+    "gona da iri a kai a kai sa'ad da muke ɗumi"
+  ],
+  "source": [
+    "KCharselect unicode block name",
+    "@ item Text character set"
+  ]
 }

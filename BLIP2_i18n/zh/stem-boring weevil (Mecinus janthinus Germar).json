@@ -1,69 +1,81 @@
 {
-  "pest_name": "Stem-Boring Weevil",
-  "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "pest_name": "毒蛇恶魔",
+  "scientific_name": "梅辛努斯·詹西努斯·格尔马",
+  "type": "昆虫",
+  "native_range": [
+    "欧洲 欧洲",
+    "亚洲 亚洲"
+  ],
+  "introduced_range": [
+    "美国 美国 美国 美国"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "黄青蛙(Linaria粗俗)"
+    ],
+    "secondary": [
+      "Dalmatian 青蛙麻痹(Linaria dalmatica)"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "白白",
+      "shape": "折余"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "C形形状",
+      "color": "奶油白",
+      "head_capsule": "棕色",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "奶油白",
+      "features": [
+        "显眼附件",
+        "长鼻子"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "粗黑(粗绿色的粗黑)",
+      "length_mm": "2.4-3.4",
+      "shape": "长长长长长长长长长长长的鼻鼻孔和受肘的天线e",
+      "metallic_sheen": "当新出现时细微的,随着年龄而枯燥",
+      "comparison": "与M. janthiniforfis 相比,小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于小于M."
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "在上一年的青蛙麻痹中",
+    "spring_emergence": "初春春春春,时间因具体地点因素而异",
+    "adult_feeding": "产生射孔伤害模式",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "雌性咀嚼根茎的洞,单独产卵,用咀嚼的植物组织遮盖",
+      "quantity_per_lifetime": "实验室条件下60-160"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "三星 三星 三星 三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星三星",
+    "pupation": "幼虫隧道中夏中",
+    "adult_emergence": "夏末夏夜,在幼睡室内 过冬"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "咀嚼生长的、、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶、叶,",
+      "明显射孔伤害模式",
+      "削弱植物,抑制开花和种子生产",
+      "特技射击,射击小提示 变成棕色和缩缩"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "水/养分导组织",
+      "造成植物组织干枯和死亡",
+      "影响植物持久性"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "重复的年攻击减少拖松植物密度"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "北美用于对抗侵入性青蛙的生物控制剂",
+    "监测在春季出现的成年人可以指导管理战略",
+    "* 支持长期减少松散人口"
   ],
   "references": [
-    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax生物控制剂:北美的历史和生态,《北美杂草的生物控制》,NAISMA-BCW-2022-29-TOADFLAXES-A。"
   ]
 }

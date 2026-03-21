@@ -1,0 +1,67 @@
+{
+  "disease": "Antracnosa de Cucurbitáceas",
+  "scientific_name": "Coletotrichum orbiculare",
+  "pathogen_type": "Hongos",
+  "description": "Una enfermedad fúngica que afecta a las cucurbitáceas (pepino, melón, calabaza, sandía, calabaza). Causa lesiones en hojas, tallos y frutas, especialmente en condiciones cálidas, húmedas y lluviosas. Puede sobrevivir en semillas, tierra y restos vegetales, y se propaga por la lluvia, viento, herramientas, trabajadores e insectos.",
+  "symptoms": [
+    "Hojas: manchas aceitosas cerca de las venas, lesiones angulares marrón/rojo/negro, muerte de tejido o caída",
+    "Tallos y pecíolos: lesiones alargadas, deprimidas, amarillentas, pueden producir acervos negros en condiciones húmedas",
+    "Frutas: lesiones circulares de color marrón hundido, pueden exudar gominola roja en el melón; esporas gelatinosas de color salmón en la sandía"
+  ],
+  "hosts": [
+    "Pepino",
+    "Melón",
+    "Squash",
+    "Sandía",
+    "Calabaza",
+    "Las demás cucurbitáceas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (26–32°C)",
+    "Alta humedad y precipitaciones",
+    "Hojas húmedas o rocío prolongado",
+    "Suelos y desechos de cultivos que albergan patógenos"
+  ],
+  "spread": [
+    "Semillas infectadas",
+    "Suelo contaminado",
+    "Desechos de los cultivos",
+    "Viento, lluvia, agua de riego",
+    "Herramientas y trabajadores",
+    "Escarabajos de pepino"
+  ],
+  "management": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Cultivadores resistentes a las plantas o tolerantes",
+    "Destruir las plantas infectadas y los desechos de los cultivos",
+    "Girar las cucurbitáceas con cultivos distintos de los hospederos durante 2-3 temporadas",
+    "Pune las plantas para aumentar el flujo de aire y reducir la humedad",
+    "Evitar el riego y el trabajo cuando las plantas están mojadas"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum: compite con patógeno, inhibe el crecimiento hasta el 72%",
+    "Bacillus subtilis: biopesticida para prevenir el establecimiento de patógenos",
+    "Extractos de plantas: la decocción de cola de caballo, extractos de ajo o neem inhiben el crecimiento fúngico",
+    "Ajuste el pH en la superficie de la hoja con bicarbonato para reducir el desarrollo de hongos"
+  ],
+  "chemical_control": [
+    "Difenoconazol (puntuación) a 0,2 L/ha",
+    "Aplicar temprano por la mañana o tarde por la noche",
+    "Asegurar una cobertura adecuada, absorbida en 2 horas",
+    "Limitar a una aplicación por temporada o rotar con otros fungicidas",
+    "Siga las precauciones de seguridad (pantalones, máscaras, lunetas) y el intervalo previo a la cosecha"
+  ],
+  "prevention": [
+    "Utilizar semillas certificadas y sin enfermedades",
+    "Eliminar los cultivos voluntarios y los desechos de cultivos",
+    "Evitar las plantas hirientes",
+    "Mantener un buen saneamiento sobre el terreno y la circulación del aire",
+    "Implementar rotación de cultivos con cereales, legumbres o brassicas"
+  ],
+  "source": [
+    "Banco de Conocimiento Plantwise – Antracnosa en sandía, Mooya A.M Nzila, CABI",
+    "Sherriff y otros, 1994, Micología Experimental",
+    "Centro de Agricultura, Alimentación y Medio Ambiente de los Estados Unidos",
+    "Fuentes agronómicas francesas sobre antracnosis de cucurbitácea"
+  ]
+}

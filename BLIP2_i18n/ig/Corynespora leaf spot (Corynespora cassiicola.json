@@ -1,0 +1,90 @@
+{
+  "disease_name": "Mkpụrụ Ndụ Ihe Nketa Na - enye Afọ Ojuju",
+  "causal_agent": "Ole Ndị Bụ Ezigbo Ndị Enyi M?",
+  "disease_type": "POALM",
+  "description": "Ebe a na - emepụta akwụkwọ nri bụ ebe na - ebibi ihe n'ụzọ na - ebibi ihe, bụ́ nke na - emetụta ihe karịrị ụdị ihe ọkụkụ 500, gụnyere ihe ọkụkụ ndị dị mkpa n'ụzọ akụ̀ na ụba ndị dị ka ụtaba, tomato, tomato, ahụekere, ogho, na osisi ndị na - adịghị amị mkpụrụ. A na - amalite inwe mmiri na - acha akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ bụ́ ndị na - eme ka ha na - acha nchara nchara ma na - amụba.",
+  "hosts": [
+    "_Hichaa",
+    "AGBOR 1 (Bekee)",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Sobon",
+    "Zuon",
+    "Osisi na - acha akwụkwọ ndụ akwụkwọ ndụ"
+  ],
+  "symptoms": [
+    "Obere mmiri na-enweghị isi",
+    "Nje ndị na - acha nchara nchara ji nwayọọ nwayọọ na - eji nwayọọ nwayọọ na - acha nchara nchara",
+    "Mmega ahụ́ ndị na - adịghị ize ndụ ma ọ bụ ndị na - adịghị eri oké nri",
+    "Ihe ndị a na - eme iji gbochie afọ ime na - amụba ma na - aghọ nnukwu ihe n'ụzọ dị ize ndụ",
+    "Ọrịa na - amalitekarị n'isi akwụkwọ ma ọ bụ n'azụ"
+  ],
+  "favorable_conditions": {
+    "temperature_optimum": "25-°C",
+    "temperature_range": "15-°C",
+    "humidity": "Nnukwu ụlọ ọrụ (n'ebe e dere 90%) ndị na - ebute ọrịa",
+    "pH_optimum": "Gburugburu 5.5"
+  },
+  "biological_control": [
+    {
+      "agent": "Mkpụrụ ndụ ihe nketa",
+      "type": "Ụmụ irighiri ihe ndị dị ndụ bụ́ ndị na - edozi ahụ́",
+      "mode_of_action": "Mkpụrụ akụ́kụ́ ndị na - eguzogide ọgwụ bụ́ ndị a na - esi ísì ọma ebute, na - egbochikwa uto ndị na - atọ ọchị"
+    },
+    {
+      "agent": "Mkpụrụ ndụ ihe nketa bụ isi ihe na - edozi ahụ́",
+      "type": "Ụmụ irighiri ihe ndị dị ndụ bụ́ ndị na - edozi ahụ́",
+      "mode_of_action": "Mkpụrụ ndụ ndị a na - emepụta n'ime ha na - ebibi mkpụrụ ndụ ndị dị n'ime ala"
+    },
+    {
+      "agent": "Mkpụrụ ndụ ihe nketa nke yiri ihe na - adịghị ihe ọ bụ",
+      "type": "Ihe osise ndị na - atọ ọchị",
+      "mode_of_action": "Enweghị mmasị n'ihe m na - eme na asọmpi mụ na ndị na - akụ ihe ọkụkụ na - enwe"
+    },
+    {
+      "agent": "Mkpụrụ ndụ ihe nketa",
+      "type": "Ihe osise ndị na - atọ ọchị",
+      "mode_of_action": "Ndị na - emepụta ihe ndị na - alụso ọrịa ọgụ bụ́ ndị na - egbu nje bacteria na ndị nke ọzọ na - ezute ihe ndị na - egbu egbu"
+    }
+  ],
+  "chemical_control": {
+    "fungicides": [
+      {
+        "active_ingredient": "Macoze",
+        "type": "Mee ka ahụ́ ruo gị ala",
+        "mode_of_action": "Ihe Ndị Na - egbochi Afọ Ojuju"
+      },
+      {
+        "active_ingredient": "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+        "type": "Ihe ndị na - echebe mmadụ n'ụzọ na - adịghị ize ndụ",
+        "mode_of_action": "Mkpụrụ osisi ndị na - atọ ụtọ na - eto n'elu"
+      },
+      {
+        "active_ingredient": "Azstroron",
+        "type": "Mkpụrụ ndụ ihe nketa na - atọ ụtọ nke ukwuu",
+        "mode_of_action": "Mmiri ọgwụ ahụ́ a na - akpọ accccccris"
+      },
+      {
+        "active_ingredient": "Drinanale",
+        "type": "Mkpụrụ ndụ ihe nketa bụ́ Tlaleleideideide",
+        "mode_of_action": "Nje bacteria ndị na - eme ka ahụ́ na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka ahụ́ na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka ahụ́ na - arụ ọrụ nke ọma"
+      },
+      {
+        "active_ingredient": "Tebunale",
+        "type": "Mkpụrụ ndụ ihe nketa bụ́ Tlaleleideideide",
+        "mode_of_action": "Nje bacteria ndị na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi"
+      },
+      {
+        "active_ingredient": "Anyị na - eji ụgbọ mmiri aga ebe dị iche iche anyị na - aga",
+        "type": "Ihe ndị e ji eme ihe n'oge a",
+        "mode_of_action": "Ihe ndị na - eme ka mkpụrụ ndụ dị ụtọ na - ekewa n'ike n'ike"
+      }
+    ]
+  },
+  "management_notes": [
+    "Jiri òtù nzuzo ndị na - eguzogide ọgwụ mee ihe mgbe e nwere ha",
+    "Tụgharịa uche n'ụzọ dịgasị iche iche e si eme ihe iji gbochie iguzogide mkpebi siri ike",
+    "Zere ide akwụkwọ ruo ogologo oge",
+    "Wepụ irighiri ahịhịa ndị nwere nje ndị na - akpata ọrịa",
+    "Jiri ụzọ ndị e si agwọ ọrịa mee ihe n'ịgwọ ọrịa"
+  ]
+}

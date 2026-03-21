@@ -1,51 +1,51 @@
 {
-  "disease_name": "Alternaria Black Mold Stem Canker",
-  "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "disease_name": "Alterariaria 黑金色石膏罐",
+  "scientific_name": "阿尔代拉里娅・塞普",
+  "pathogen_type": "菌类",
+  "genus": "替代",
+  "description": "变异型黑模干罐头是一种真菌病,由异族异族种引起的,它影响许多作物,特别是索拉纳塞埃家族植物的果芽、叶子和有时果实,产生深色霉菌生长和根茎的罐头,导致植物活性减少和收成损失。",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "斯特丁",
+    "叶叶",
+    "果果果"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "番茄",
+    "马铃薯",
+    "茄子种植",
+    "辣椒",
+    "各种索拉塞作物"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "深褐色到黑模状的根茎生长",
+    "Stem Candkers 或沉坏损伤",
+    "带同心环的叶片斑点",
+    "黄黄树叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶",
+    "减少植物增长"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "温度(20-30°C)",
+    "高湿湿度",
+    "长长的叶叶湿润",
+    "受感染植物碎片的存在"
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "风分散的微粒",
+    "雨水喷雨",
+    "受污染植物碎片",
+    "感染种子"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "使用无疾病的种子",
+      "非宿主植物的旋转作物",
+      "清除受感染植物碎片",
+      "改善工厂周围空气循环"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
-      "Chlorothalonil",
-      "Copper-based fungicides"
+      "应用杀真菌剂,如Mancozeb",
+      "氯代烷基",
+      "基于铜的杀真菌剂"
     ]
   }
 }

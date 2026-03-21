@@ -1,0 +1,72 @@
+{
+  "disease": "Cucurbit Downy Mildew",
+  "scientific_name": "Pseudoperonospora cubensis",
+  "pathogen_type": "Oomycete (fungusähnlicher Erreger)",
+  "description": "Eine zerstörerische Blattkrankheit, die Cucurbit-Pflanzen weltweit betrifft. Sie verursacht gelbe Blattläsionen und einen schnellen Blatttod, wodurch Pflanzenwachstum und Fruchtausbeute reduziert werden. Schwere Ausbrüche können zu großen Ernteverlusten führen.",
+  "symptoms": [
+    "Anguläre gelbe oder chlorotische Flecken auf Blättern",
+    "Läsionen begrenzt durch Blattvenen (besonders auf Gurken)",
+    "Graues bis violettes Fuzzy-Wachstum auf der Unterseite der Blätter",
+    "Läsionen vergrößern sich und werden braun oder nekrotisch",
+    "Blätter trocken und schnell sterben",
+    "Reduziertes Baldachin, das zu Sonnenbrand und Obstschäden führt"
+  ],
+  "hosts": [
+    "Gurken",
+    "Melonen",
+    "Wassermelone",
+    "Kürbisgewächse",
+    "Squash",
+    "Andere Cucurbit-Arten"
+  ],
+  "favorable_conditions": [
+    "Kühle bis moderate Temperaturen (15–20°C optimal)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufiger Regen oder lange Blattnässe",
+    "Dichtes Pflanzendach mit schlechtem Luftstrom"
+  ],
+  "spread": [
+    "Winddisperses Sporangia",
+    "Regenspritzer",
+    "Kontaminierte Werkzeuge oder Ausrüstungen",
+    "Weiträumige Luftausbreitung aus infizierten Regionen"
+  ],
+  "infection_process": [
+    "Sporen landen auf nassen Blattoberflächen",
+    "Zoosporen schwimmen zu Blatt stomata",
+    "Krankheitserreger tritt durch Stomata ins Blatt ein",
+    "Hyphae wachsen im Blattgewebe und extrahieren Nährstoffe"
+  ],
+  "management": [
+    "Verwenden Sie tolerante oder resistente Sorten, wenn verfügbar",
+    "Verbesserung des Luftstroms durch Anlagenabstand und Beschnitt",
+    "Pflanzen regelmäßig auf Frühsymptome überwachen",
+    "Prognosesysteme zur Vorhersage von Ausbrüchen verwenden",
+    "Schwer infiziertes Pflanzenmaterial entfernen"
+  ],
+  "biological_control": [
+    "Verwendung mikrobieller Biopestizide wie Bacillus-basierte Produkte",
+    "Förderung eines gesunden Bodenmikrobioms zur Verringerung des Krankheitsdrucks"
+  ],
+  "chemical_control": [
+    "Präventive Fungizid-Sprays während Hochrisiko-Zeiten",
+    "Fungizide alle 5–7 Tage bei Gurken oder 7–10 Tage bei anderen Gurken bei Ausbrüchen anwenden",
+    "Drehen Sie Fungizide mit verschiedenen Wirkweisen, um Widerstand zu verhindern",
+    "Wirkstoffe können Metallaxylalternativen, Strobilurinen oder andere registrierte Fungizide sein"
+  ],
+  "prevention": [
+    "Pflanzenresistente Sorten, wenn verfügbar",
+    "Gewährleistung einer guten Luftzirkulation in Feldern",
+    "Vermeiden Sie längere Blattnässe aus der Bewässerung",
+    "Verwenden Sie Krankheitsvorhersage-Tools, um Fungizid-Sprays Zeit"
+  ],
+  "impact": [
+    "Kann Ertragsverluste von bis zu 80–100 % bei schweren Ausbrüchen verursachen",
+    "Große Bedrohung für die Cucurbit-Produktion weltweit"
+  ],
+  "source": [
+    "Pflanzenpathologie der Michigan State University",
+    "Savory et al. – Molekulare Pflanzenpathologie",
+    "Cucurbit Downy Mildew IPM-Ressourcen"
+  ]
+}

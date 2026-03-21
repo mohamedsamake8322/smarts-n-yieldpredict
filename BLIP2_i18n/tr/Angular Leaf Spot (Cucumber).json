@@ -1,40 +1,40 @@
 {
   "title": [
-    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
+    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash ve Zucchini)",
     "Pseudomonas syringae pv. lachrymans"
   ],
   "Table": {
     "Prevention": [
-      "Planting pathogen-free seed is the primary control strategy",
-      "Treat contaminated seed with hot water to reduce bacteria levels",
-      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
-      "Avoid overhead irrigation and reuse of irrigation tail water",
-      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
-      "Plant resistant cucumber varieties if the disease is a recurrent problem",
-      "No biological control practices have been developed for angular leaf spot"
+      "Patogen-free tohum yetiştirmek öncelikli kontrol stratejisidir",
+      "Bakteriyel seviyeleri azaltmak için sıcak su ile kirlenmiş tohumları tedavi edin",
+      "Üç yıllık veya daha uzun bir bitki dönüşü, küçük tahıllar veya mısır gibi ev sahibi olmayanlara uygulayın.",
+      "Üst yüzey sulama ve sulama boynuz suyu yeniden kullanımı önlemek",
+      "Sadece çiftliklerde yetiştirmek ve çalışmak, ikinci yayılmayı azaltmak için kanepe kuru olduğunda",
+      "Bitki dayanıklı çilek çeşitleri eğer hastalık tekrarlayan bir sorun",
+      "Hiçbir biyolojik kontrol uygulaması açılı yaprak noktası için geliştirilmemiştir"
     ],
     "Monitoring": [
-      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
-      "Check for angular appearance of lesions (they do not cross plant veins)",
-      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
-      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
-      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
-      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+      "Büyük bitki damarları tarafından büyük ölçüde sınırlı olan yapraklarda küçük, su geçirmez hasarlar arıyorsunuz.",
+      "Yaralanmaların açılı görünümünü kontrol edin (onlar bitki damarlarını geçmezler)",
+      "ıslak hava koşullarında yaralanmaların alt yüzeyinde açık süt eksudatını arayın",
+      "Kırışıklıklar sarıya dönüşür ve yapraktan atılır (kırışıklık deliği görünümü)",
+      "Küçük (0.04 ila 0.1 inç) su geçirmez hasarlar için meyveleri hafif tan merkezleri ile kontrol edin",
+      "Bina büyümesini durduran sistemik enfeksiyonlar için belirli türlerde büyüme ipuçlarını izlemek"
     ],
     "Direct Control": [
-      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
-      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
-      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
-      "Apply Nordox at 1.5-2.0 lb per acre",
-      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
-      "Chemical controls are most effective when integrated with sound cultural control practices"
+      "Ağırlığı azaltmak için bakır tabanlı baktericidler (Champ, Kocide, Nordox, Tri Basic Copper) kullanın",
+      "Champ Dry Prill veya Champ Formula 2'yi akre başına 1.33 lb/pt'de uygulayın",
+      "Önerilen oranlarda Kocide (101, DF, 4.5LF, 3000) uygulayın (0.5 ila 3 lbs/pts)",
+      "Nordox'u 1.5-2.0 lb'de akre başına uygulayın",
+      "Cuprofix MZ Disperss gibi bakır/EBDC karışımlarını 4-7.25 lb'de kullanın",
+      "Kimyasal kontroller, sağlıklı kültürel kontrol uygulamaları ile en etkili olanıdır."
     ],
     "Restrictions": [
-      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
-      "Copper-Count-N: 7 days application frequency; may cause injury",
-      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
-      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
-      "Always follow product label for specific dosage and timing of application"
+      "Bakır Fungicidler: 5-7 gün uygulama sıklığı; bitki yaralanmasına neden olabilir",
+      "Copper-Count-N: 7 günlük uygulama sıklığı; yaralanmaya neden olabilir",
+      "Cuprofix MZ Disperses: Sezon başına maksimum 63.1 pound; PHI 5 gün",
+      "4-7 günlük sprey aralığı çok olumlu koşullarda gereklidir.",
+      "Her zaman belirli doz ve uygulama zamanlaması için ürün etiketine uymak"
     ]
   }
 }

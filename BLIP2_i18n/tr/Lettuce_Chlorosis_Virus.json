@@ -1,50 +1,50 @@
 {
-  "disease": "Lettuce Chlorosis Virus (LCV)",
-  "scientific_name": "Lettuce chlorosis virus",
-  "pathogen_type": "Virus (ssRNA, Crinivirus)",
-  "description": "A viral disease affecting lettuce and other crops, causing yellowing, reddening, and curling of leaves, stunted growth, and reduced yield. Transmitted by whiteflies and contaminated plant material.",
+  "disease": "Lettuce kloroz virüsü (LCV)",
+  "scientific_name": "Lettuce kloroz virüsü",
+  "pathogen_type": "Crinivirüs ( crinivirüs , crinivirüs )",
+  "description": "Bir viral hastalık, lettuce ve diğer bitkileri etkiler, yaprakların sarılaşmasına, kurtarılmasına ve eğilmesine neden olur, büyüme bozulur ve üretimi azaltır.",
   "symptoms": [
-    "Yellowing and reddening of leaves",
-    "Curling of leaves",
-    "Thinning of leaf veins",
-    "Stunted or dwarf plants",
-    "Reduced yield and flower quality"
+    "Sarılaşma ve yaprakların kurtarılması",
+    "Kağıtların çürümesi",
+    "Yumuşak yapraklı damarlar",
+    "Çamurlu veya çamurlu bitkiler",
+    "Düşük gelir ve çiçek kalitesi"
   ],
   "hosts": [
-    "Lettuce",
-    "Beetroot",
-    "More than 27 plant species in 12 botanical families"
+    "Mutluluk",
+    "Beethoven",
+    "12 Botanik Ailede 27'den Fazla Bitki Türü"
   ],
   "favorable_conditions": [
-    "Presence of virulent weed hosts near crops (e.g., Physalis wrightii, Conyza canadensis, Lactuca serriola)",
-    "High whitefly populations",
-    "Greenhouse or field cultivation with poor pest control"
+    "Bitkilerin yakınında virulent tahıl ev sahiplerinin varlığı (örneğin, Physalis wrightii, Conyza canadensis, Lactuca serriola)",
+    "yüksek beyaz kuş nüfusu",
+    "Kötü pest kontrolü ile yeşillik veya alan yetiştirme"
   ],
   "spread": [
-    "Feeding by greenhouse whiteflies (Bemisia tabaci and Bemisia argentifolii)",
-    "Infected seeds, cuttings, or other plant material",
-    "Contaminated tools and equipment"
+    "Serum beyazlatma ile beslenme (Bemisia tabaci ve Bemisia argentifolii)",
+    "Enfekte tohumlar, kesimler veya diğer bitki malzemeleri",
+    "kirlenmiş araçlar ve ekipmanlar"
   ],
   "management": [
-    "Remove and destroy infected plants",
-    "Monitor and control whitefly populations",
-    "Use virus-free seeds and cuttings",
-    "Maintain good hygiene and sanitation of tools",
-    "Remove weeds that act as reservoirs"
+    "Enfekte bitkileri kaldırmak ve yok etmek",
+    "Beyaz kuş nüfusunu izlemek ve kontrol etmek",
+    "Virüssüz tohumlar ve kesimler kullanın",
+    "İyi bir hijyen ve sanitasyon araçları korumak",
+    "Tanklar olarak hareket eden çalıları kaldırın"
   ],
   "chemical_control": [
-    "Insecticides targeting whiteflies (e.g., imidacloprid, pyrethroids)",
-    "Neem oil or insecticidal soap sprays as preventive measures"
+    "Beyaz lekeleri hedef alan böcekler (örneğin, imidacloprid, piretroidler)",
+    "Önleyici önlemler olarak yağ veya böcek sabunu sprey alın"
   ],
   "prevention": [
-    "Use certified virus-free planting material",
-    "Isolate new plants from infected areas",
-    "Control weed hosts in and around fields",
-    "Regular monitoring for whiteflies"
+    "Sertifikalı virüssüz bitki malzemesi kullanın",
+    "Enfekte bölgelerden yeni bitkileri izole etmek",
+    "Kontrol ev sahipleri alanlarda ve çevresinde",
+    "Whiteflies için düzenli izleme"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Virus Factsheets",
-    "Scientific literature on Criniviruses"
+    "CABI Bitki Koruma Ödülü",
+    "FAO Bitki Virüsü Bilgileri",
+    "Crinivirüsler Hakkında Bilimsel Edebiyat"
   ]
 }

@@ -1,40 +1,40 @@
 {
   "title": [
-    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
+    "Spot de feuilles angulaires (Cucumber, Melon, citrouille, courge et Zucchini)",
     "Pseudomonas syringae pv. lachrymans"
   ],
   "Table": {
     "Prevention": [
-      "Planting pathogen-free seed is the primary control strategy",
-      "Treat contaminated seed with hot water to reduce bacteria levels",
-      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
-      "Avoid overhead irrigation and reuse of irrigation tail water",
-      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
-      "Plant resistant cucumber varieties if the disease is a recurrent problem",
-      "No biological control practices have been developed for angular leaf spot"
+      "Planter des semences exemptes de pathogènes est la principale stratégie de lutte",
+      "Traiter les semences contaminées avec de l'eau chaude pour réduire les niveaux de bactéries",
+      "Pratiquer une rotation de culture de trois ans ou plus pour les non-hôtes comme les petits grains ou le maïs",
+      "Éviter l'irrigation aérienne et la réutilisation de l'eau de queue d'irrigation",
+      "Culturer et travailler uniquement dans les champs lorsque la canopée est sèche pour réduire la propagation secondaire",
+      "Variétés de concombres résistantes aux végétaux si la maladie est un problème récurrent",
+      "Aucune pratique biologique de lutte n'a été mise au point pour les taches foliaires angulaires."
     ],
     "Monitoring": [
-      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
-      "Check for angular appearance of lesions (they do not cross plant veins)",
-      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
-      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
-      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
-      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+      "Recherchez de petites lésions aqueuses sur les feuilles, en grande partie confinées par de grandes veines végétales.",
+      "Vérifier l'apparence angulaire des lésions (elles ne croisent pas les veines végétales)",
+      "Recherchez une exsudation limpide à laiteuse sur la surface inférieure des lésions par temps humide",
+      "Veillez à ce que les lésions deviennent brun-brun et tombent de la feuille (apparence du trou de tir)",
+      "Vérifier les petits fruits (0,04 à 0,1 pouce) présentant des lésions aqueuses avec des centres de bronzage légers",
+      "Surveiller les pourboires de culture dans les types déterminés pour détecter une infection systémique qui arrête la croissance de la vigne"
     ],
     "Direct Control": [
-      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
-      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
-      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
-      "Apply Nordox at 1.5-2.0 lb per acre",
-      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
-      "Chemical controls are most effective when integrated with sound cultural control practices"
+      "Utiliser des bactéricides à base de cuivre (Champ, Kocide, Nordox, Tri Basic Copper) pour réduire la gravité",
+      "Appliquer Champ Dry Prill ou Champ Formula 2 à 1,33 lb/pt par acre",
+      "Appliquer Kocide (101, DF, 4.5LF, 3000) aux taux recommandés (0,5 à 3 lb/pts)",
+      "Appliquer Nordox à 1,5-2.0 lb par acre",
+      "Utiliser des mélanges de cuivre/EBDC comme les Disperseurs Cuprofix MZ à 4-7,25 lb",
+      "Les contrôles chimiques sont les plus efficaces lorsqu'ils sont intégrés à de saines pratiques de contrôle culturel."
     ],
     "Restrictions": [
-      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
-      "Copper-Count-N: 7 days application frequency; may cause injury",
-      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
-      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
-      "Always follow product label for specific dosage and timing of application"
+      "Fongicides en cuivre : fréquence d'application de 5 à 7 jours; pouvant causer des dommages à la plante",
+      "Cuivre-Count-N: fréquence d'application de 7 jours; peut causer des blessures",
+      "Cuprofix MZ Dispers: maximum de 63,1 livres par saison; PHI 5 jours",
+      "Un intervalle de pulvérisation de 4 à 7 jours est nécessaire lorsque les conditions sont très favorables",
+      "Respectez toujours l'étiquette du produit pour la posologie et le moment d'application spécifiques"
     ]
   }
 }

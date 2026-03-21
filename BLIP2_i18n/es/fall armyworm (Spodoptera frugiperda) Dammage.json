@@ -1,0 +1,63 @@
+{
+  "disease": "Daños a los gusanos del ejército caídos",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insectos (peste de Lepidoptera)",
+  "description": "La larva se alimenta de hojas y puntos de cultivo, causando graves daños a los cultivos y pérdidas de rendimiento.",
+  "symptoms": [
+    "Agujeros irregulares y daño por masticación en las hojas",
+    "Ventana-panal de alimentación de hojas jóvenes",
+    "Agujeros grandes y irregulares en hojas de maíz",
+    "Frass (excrementos de insectos) en el interior de las hojas",
+    "Punto de cultivo de la planta gravemente dañado o destruido"
+  ],
+  "hosts": [
+    "Maíz",
+    "Arroz",
+    "Sorgo",
+    "Mijo",
+    "Caña de azúcar",
+    "Trigo",
+    "Algodón",
+    "Semillas de soja",
+    "Hortalizas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Temporada lluviosa",
+    "Cultivo continuo de maíz"
+  ],
+  "spread": [
+    "Migración de polillas adultas a largas distancias",
+    "Masas de huevo colocadas sobre las hojas de cultivo",
+    "Larvas moviéndose entre plantas cercanas"
+  ],
+  "management": [
+    "Exploración regular de campo para detección temprana",
+    "Remoción manual de larvas en campos pequeños",
+    "Destruye plantas muy infestadas",
+    "Utilizar trampas de feromonas para el seguimiento"
+  ],
+  "biological_control": [
+    "Trichogramma avispas parasitoideas",
+    "Depredadores como escarabajos y alas de encaje",
+    "Bioplaguicidas a base de Bacillus thuringiensis (Bt)",
+    "Hongos entomopatógenos como Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Espinosad",
+    "Benzoato de emamectina",
+    "Clorantraniliprol",
+    "Lambda-cihalotrina",
+    "Indoxacarb"
+  ],
+  "prevention": [
+    "Plantación temprana para evitar infestación pico",
+    "Rotación de cultivos",
+    "Variedades de maíz resistentes a las plantas",
+    "Mantenimiento del saneamiento sobre el terreno"
+  ],
+  "source": [
+    "Guía de la FAO sobre lombrices de otoño",
+    "Compendio de especies invasoras del CABI"
+  ]
+}

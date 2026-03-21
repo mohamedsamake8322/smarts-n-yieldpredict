@@ -1,0 +1,72 @@
+{
+  "disease": "Nördliche Maize-Blase",
+  "scientific_name": "Exserohilum turcicum (Setosphaeria turcica)",
+  "pathogen_type": "Pilze",
+  "description": "Eine häufige Pilzblattkrankheit von Mais weltweit. Es verursacht lange zigarrenförmige Läsionen auf Blättern, die Photosynthese reduzieren und zu großen Ertragsverlusten führen können.",
+  "symptoms": [
+    "Kleine, wassergetränkte Stellen auf den unteren Blättern",
+    "Lange elliptische oder zigarrenförmige Läsionen",
+    "Grau-grüne Läsionen, die später bräunlich oder braun werden",
+    "Dunkle Pilzsporulation in reifen Läsionen",
+    "Große zerklüftete Blattflächen, wenn Läsionen verschmelzen",
+    "Schwere Infektionen können ganze Blätter oder Pflanzen töten"
+  ],
+  "visual_symptoms": [
+    "lange zigarrenförmige Läsionen auf Maisblättern",
+    "braune oder graue Blattflecken mit dunklen Zentren",
+    "große tote Flächen auf infizierten Blättern"
+  ],
+  "hosts": [
+    "Mais",
+    "Zuckermais",
+    "Sorghum",
+    "Perlmutt Hirse",
+    "Johnson-Gras",
+    "Sudangras",
+    "Elefantengras"
+  ],
+  "favorable_conditions": [
+    "Mäßige Temperaturen zwischen 18°C und 27°C",
+    "Warmes und feuchtes Wetter",
+    "Lange Perioden der Blattnaßigkeit",
+    "Vorhandensein von infizierten Pflanzenrückständen"
+  ],
+  "spread": [
+    "Winddispersionen von Pilzsporen",
+    "Regenspritzer, der Sporen zwischen Pflanzen ausbreitet",
+    "Überleben von Pilzen auf infizierten Blattresten"
+  ],
+  "impact": [
+    "Verlust der photosynthetischen Blattfläche",
+    "Geringere Getreidefüllung",
+    "Ertragsverluste in der Regel 15-30%",
+    "Schwere Ausbrüche können bis zu 70 % Ertragsverlust verursachen",
+    "Erhöhtes Risiko der Beherbergung von Pflanzen"
+  ],
+  "management": [
+    "Pflanzenresistente oder tolerante Maishybride",
+    "Rotieren von Mais mit nicht-wirtlichen Kulturen wie Sojabohnen oder Sonnenblumen",
+    "Pfadfinder-Felder regelmäßig für frühe Symptome",
+    "Einsatz integrierter Strategien für das Krankheitsmanagement",
+    "Fungizide anwenden, wenn erste Läsionen unter dem Ohrblatt erscheinen"
+  ],
+  "biological_control": [
+    "Forschung an mikrobiellen Antagonisten",
+    "Die Förderung nützlicher Mikroben im Boden kann das Überleben von Krankheitserregern verringern"
+  ],
+  "chemical_control": [
+    "Foliare Fungizide wie Strobilurin oder Triazolfungizide",
+    "Fungizide anwenden, wenn erste Läsionen auftreten",
+    "Regionale Empfehlungen zur Bekämpfung der Maiskrankheit befolgen"
+  ],
+  "prevention": [
+    "Fruchtfolge mit nicht gastgebenden Kulturen",
+    "Tiefes Pflügen oder Rückstandsmanagement zur Verringerung von Inokulum",
+    "Verwendung resistenter Mais-Hybride",
+    "Überwachung der Felder bei feuchten Wetterbedingungen"
+  ],
+  "source": [
+    "PANNAR Seed NCLB Fact Sheet",
+    "Literatur zur Pflanzenpathologie über Maiskrankheiten"
+  ]
+}

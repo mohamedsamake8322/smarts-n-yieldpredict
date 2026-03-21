@@ -1,0 +1,41 @@
+{
+  "pest_name": "Lesser Cornstalk Borer",
+  "scientific_name": "Elasmopalpus lignosella",
+  "pest_type": "insecto",
+  "order": "Lepidoptera",
+  "family": "Pyralidae",
+  "description": "El taladro menor es una polilla cuyas larvas atacan los tallos inferiores de muchos cultivos. Las larvas desembocan en tallos cerca de la superficie del suelo, dañando las plántulas y las plantas jóvenes.",
+  "hosts": [
+    "Maíz",
+    "Cacahuetes",
+    "Semillas de soja",
+    "Sorgo",
+    "Leguminosas diversas"
+  ],
+  "damage": [
+    "Larvas perforadas en tallos cerca de la línea del suelo",
+    "El deseo y la muerte de las plántulas",
+    "Crecimiento aturdido",
+    "Reducción de la población vegetal"
+  ],
+  "life_cycle": [
+    "Huevo",
+    "Larva (fase perjudicial)",
+    "Pupa",
+    "Polilla adulta"
+  ],
+  "spread": [
+    "Vuelo de polilla adulta",
+    "Movimiento de desechos vegetales infestados o del suelo"
+  ],
+  "management": {
+    "cultural": [
+      "Mantener la humedad adecuada del suelo",
+      "Girar los cultivos",
+      "Eliminar los residuos de cultivos"
+    ],
+    "chemical": [
+      "Aplicar insecticidas del suelo cuando las infestaciones sean graves"
+    ]
+  }
+}

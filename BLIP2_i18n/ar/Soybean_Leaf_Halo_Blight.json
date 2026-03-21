@@ -1,56 +1,72 @@
 {
-  "pest_name": "Halo Blight",
-  "scientific_name": "Pseudomonas syringae pv. phaseolicola",
-  "common_abbreviations": ["Pseudomonas blight", "bean halo blight", "Phaseolous blight", "bacterial leaf spot of beans"],
-  "description": "Halo blight is a bacterial disease of beans caused by Pseudomonas syringae pv. phaseolicola. It is seedborne and thrives under cool, humid conditions.",
-  "distribution": "Worldwide, especially in temperate and subtropical regions of North America, South America, Europe, Africa, and Asia.",
+  "pest_name": "مُلْح مُضْف",
+  "scientific_name": "Pseudoدومonas syderingae pv.",
+  "common_abbreviations": [
+    "PsEudodomonas",
+    "(ب) (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))))))))))(((((((((((((((())))))((((((((((()))))))(",
+    "خافض",
+    "بقعـة حبـس البكتريا"
+  ],
+  "description": "داء الهالو هو مرض بكتيري من الفاصوليا سببه Pseudomonas syringae pv. stalicola. وهو ينتقل ويزدهر في ظل ظروف رطبة باردة.",
+  "distribution": "على الصعيد العالمي، وخاصة في المناطق المعتدلة وشبه المدارية في أمريكا الشمالية وأمريكا الجنوبية وأوروبا وأفريقيا وآسيا.",
   "host_range": {
-    "general": "Primarily beans (Phaseolus spp.)",
-    "notable_hosts": ["Light Red Kidney drybean", "Other common bean varieties"]
+    "general": "الفاصولا الأولية (السلولز sp.)",
+    "notable_hosts": [
+      "(أ) (أ) (ب) (ب)",
+      "أصناف أخرى مشتركة أخرى"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Small water-soaked lesions initially",
-      "Lesions surrounded by yellow-green halo",
-      "Lesions expand and coalesce into large necrotic areas",
-      "Irregular brown necrotic spots as disease progresses",
-      "Severe cases: extensive defoliation, reduced vigor"
+      "الآفات الصغيرة التي تتسرب من الماء في البداية",
+      "مُحاطة بالهالونات الصفراء - الخضراء",
+      "تتوسع وتتراكم في مناطق كبيرة من المناطق المكسوكية",
+      "بقع النوبات النثرية البنيّة غير العادية مع تقدم المرض",
+      "الحالات الحادة: انقصاط شامل، انخفاض في القوة"
     ],
     "pod": [
-      "Dark, sunken lesions with greasy appearance",
-      "Discolored or shriveled seeds"
+      "مُظلمة، مُتَعَلِّقَةٌ مُظْهَرَةٌ مُظْهَرَةٌ مُظْهَرَةٌ مُظْهَرَةٌ",
+      "البذاران المتخلفان أو المهتزان"
     ]
   },
   "damage": [
-    "Significant yield and seed quality reduction",
-    "Can cause complete crop failure in high-incidence fields",
-    "Weakened plants more susceptible to secondary infections",
-    "Quarantine restrictions due to infected seed lots"
+    "الغلّة الكبيرة والحدّ من البذرات",
+    "يمكن أن تسبب فشلاً كاملاً في المحاصيل في الحقول المرتفعة",
+    "النباتات الضعيفة الأكثر عرضة للإصابة بالأمراض الثانوية",
+    "القيود المفروضة على الحجر الصحي بسبب حالات القرعة المصابة"
   ],
   "biology": {
-    "pathogen_type": "Seedborne bacterium",
-    "survival": "Persists in crop debris and contaminated plant surfaces",
-    "infection_routes": ["Through natural openings (stomata, hydathodes)", "Wounds"],
-    "favorable_conditions": "Cool (16–24°C), humid environments",
-    "spread": ["Infected seeds", "Rain splash", "Irrigation", "Mechanical contact"]
+    "pathogen_type": ")أكستريوم",
+    "survival": "الرسوب في حطام المحاصيل والسطحات النباتية الملوثة",
+    "infection_routes": [
+      "من خلال فتحات طبيعية (somata, hydathdodes)",
+      "ضنكا"
+    ],
+    "favorable_conditions": "بارد (16-24 درجة مئوية)، بيئات رطبة",
+    "spread": [
+      "البذور المصح",
+      "(ب) المطر",
+      "",
+      "الاتصال الميكانيكي"
+    ]
   },
   "management": {
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Crop rotation with non-hosts",
-      "Avoid overhead irrigation",
-      "Proper field sanitation"
+      "استخدام بذور خالية من الأمراض المعتمدة",
+      "تناوب المحاصيل مع غير المضيفين",
+      "",
+      "المرافق الصحية الميدانية"
     ],
     "chemical_control": [
-      "Copper-based bactericides to suppress spread",
-      "Seed treatments to prevent early infection"
+      "مبيدات البكتيريا القائمة على أساس النحاس من أجل القضاء على انتشار",
+      "العلاجات الأولية للوقاية من الإصابة المبكرة"
     ],
     "genetic_control": [
-      "Planting resistant varieties to reduce reliance on chemicals"
+      "(أ) إدراج أصناف مقاومة للحد من الاعتماد على المواد الكيميائية"
     ]
   },
   "notes": [
-    "Integrated management combining cultural, chemical, and genetic strategies is most effective",
-    "Strict seed certification and quarantine measures are important to prevent spread"
+    "أن تكون الإدارة المتكاملة التي تجمع بين الاستراتيجيات الثقافية والكيميائية والجينية أكثر فعالية",
+    "ومن المهم في منع الانتشار إصدار شهادات البذرات المشددة وتدابير الحجر الصحي."
   ]
 }

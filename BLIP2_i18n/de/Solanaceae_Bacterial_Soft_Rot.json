@@ -1,0 +1,85 @@
+{
+  "disease": "Solanaceae Bakterieller Fleck",
+  "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+  "pathogen_type": "Bakterium",
+  "description": "Bakterieller Fleck ist eine schwere bakterielle Krankheit, die Tomaten und Paprika betrifft. Er verursacht dunkle, wassergetränkte Flecken auf Blättern und Früchten, was zu Abholzung und reduziertem Ertrag führt. Die Krankheit breitet sich leicht unter warmen und nassen Bedingungen aus.",
+  "symptoms": [
+    "Kleine braune, wassergetränkte Flecken auf den Blättern",
+    "Circular Läsionen ohne konzentrische Ringe",
+    "Flecken verschmelzen zu großen dunklen Streifen",
+    "Gelbfärbung der Blätter um Läsionen",
+    "Blätter können früh abfallen (Blattverlust)",
+    "Erhöhte Schorfflecken auf Früchten"
+  ],
+  "visual_symptoms": [
+    "dunkelbraune Blattflecken",
+    "Wassergetränkte Läsionen",
+    "Krätzeähnliche Läsionen an Früchten",
+    "vergilbende Blätter mit vielen Flecken"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Pfeffer",
+    "Chilipfeffer",
+    "Süßpfeffer",
+    "Sonstige Solanaceae-Pflanzen"
+  ],
+  "plant_parts_affected": [
+    "Blätter",
+    "Stängel",
+    "Früchte"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (27–32°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regen- oder Overheadbewässerung",
+    "Feuchtes Laub"
+  ],
+  "spread": [
+    "Infizierte Samen",
+    "Pflanzenabfälle",
+    "Windgetriebener Regen",
+    "Kontaminierte Werkzeuge und Ausrüstungen",
+    "Arbeiter, die mit Anlagen umgehen"
+  ],
+  "disease_cycle": [
+    "Bakterien überleben in infizierten Samen und Pflanzenresten",
+    "Bakterien, die durch Regenspritzen oder Kontakt gespreizt werden",
+    "Sie treten durch Stomata oder Wunden in Pflanzen ein",
+    "Läsionen bilden sich auf Blättern und Früchten",
+    "Bakterien vermehren sich und verteilen sich auf nahegelegene Pflanzen"
+  ],
+  "impact": [
+    "Blatttropfen und reduzierte Photosynthese",
+    "Verlust der Qualität der Früchte aufgrund von Läsionen",
+    "Starke Ertragsreduzierung",
+    "Mögliches Ernteversagen bei schweren Ausbrüchen"
+  ],
+  "cultural_control": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Rotierende Kulturen für 2–3 Jahre",
+    "Entfernen infizierten Pflanzenmüll",
+    "Vermeiden Sie das Arbeiten in Feldern, wenn Pflanzen nass sind",
+    "Wenn verfügbar, resistente Sorten verwenden"
+  ],
+  "biological_control": [
+    "Benutze nützliche Mikroben wie Bacillus-basierte Biopestizide",
+    "Bio-Pflanzenschutzmittel anwenden, soweit vorhanden"
+  ],
+  "chemical_control": [
+    "Bakterizide auf Kupferbasis",
+    "Kupfer + Mancozeb-Gemische",
+    "Kupferhydroxid",
+    "Kupferoxychlorid"
+  ],
+  "prevention": [
+    "Verwenden Sie gesunde Transplantationen",
+    "Aufrechterhaltung der Abwasserentsorgung im Feld",
+    "Unkraut und freiwillige Pflanzen kontrollieren",
+    "Überwachen Sie die Ernten regelmäßig bei warmem nassem Wetter"
+  ],
+  "source": [
+    "UMass Erweiterung Gemüsekrankheit Leitfaden",
+    "Fundstellen der Pflanzenpathologie"
+  ]
+}

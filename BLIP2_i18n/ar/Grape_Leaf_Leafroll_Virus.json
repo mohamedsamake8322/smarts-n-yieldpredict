@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "الداء",
+  "scientific_name": "الفيروس المرتبط بأوراق الغرينفين (GLRAVs)",
+  "pathogen_type": "من نوع نوع نوع",
+  "description": "مرض فيروسي من العنب يقلل من الغلة ومن نوعية الفاكهة. فهو يتسبب في تدحرج الأوراق، والتغير، وسوء إنتاج العنب.",
+  "symptoms": [
+    "يُسُفِل من الحواف",
+    "أو أوراق حمراء أو ارجوانية في أصناف حمراء",
+    "أُطلس في الأصناف البيضاء",
+    "لا تزال العروق الخضراء ظاهرة للعيان",
+    "مواكة مؤجلة",
+    "انخفاض نسبة السكر في العقرب"
+  ],
+  "hosts": [
+    "جرفين (Vitis vinifera)",
+    "الطنب",
+    "العنوبات التي تَنَفُ",
+    ""
+  ],
+  "favorable_conditions": [
+    "وجود حشرات وحشرات صغيرة وحشرات كبيرة",
+    "استخدام المواد الزرعية المسببة للإصاب"
+  ],
+  "spread": [
+    "حشرات الميل",
+    "حشرات صغيرة",
+    "الإصابة بالقصّات المُصابة"
+  ],
+  "management": [
+    "احذف مُحدث",
+    "مُقَرَّب ومقياس المُقَرَّب",
+    "مواد الزرع الخالية من فيروسات",
+    "يجري بانتظام رصد الكرم بصورة منتظمة"
+  ],
+  "biological_control": [
+    "تُشَجِّع الاعداء الطبيعيين للحشرات مثل الخنافس النسائية",
+    "(أ) استخدام الطروحات"
+  ],
+  "chemical_control": [
+    "مبيدات مبيدات مبيدات حشرية لمكافحة الحشرات الحشرية (مثل الإيميداكلوغريد، وسباروتيترامات)",
+    "زيوت هستنية لتقليل أعداد الناقلات"
+  ],
+  "prevention": [
+    "كروم خالية من فيروسات مصدّق عليها",
+    "موالياً",
+    "ازيل مُحِشّاً بسرعة",
+    "مواد النشر الصحي"
+  ],
+  "source": [
+    "دليل منظمة الأمم المتحدة للأغذية والزراعة",
+    "شركة UC Davis Vitime Ress",
+    "المجلس الدولي لثقافة الأرض"
+  ]
 }

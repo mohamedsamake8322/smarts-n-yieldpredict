@@ -1,0 +1,70 @@
+{
+  "disease": "Penicillium Mold",
+  "scientific_name": "Genus Penicillium",
+  "pathogen_type": "Hongos",
+  "description": "Penicillium es un género de hongos que se encuentran comúnmente en el suelo, el aire y la materia orgánica en descomposición. Muchas especies causan enfermedades post-cosecha en frutas y verduras, produciendo moldes azules o verdes y llevando a pérdidas de almacenamiento significativas.",
+  "symptoms": [
+    "Pudrición acuosa suave en frutas o tejidos vegetales",
+    "Moho en polvo verde-azul o verde en las zonas infectadas",
+    "Lesiones hundidas en superficies de fruta",
+    "Decaimiento rápido durante el almacenamiento",
+    "El olor a moho de los productos infectados"
+  ],
+  "visual_symptoms": [
+    "crecimiento de moho azul o verde en la superficie de la fruta",
+    "Esporas fúngicas en polvo que cubren lesiones",
+    "tejido putrefacto blando alrededor del lugar de la infección"
+  ],
+  "hosts": [
+    "Manzana",
+    "Cítricos",
+    "Uvas",
+    "Pera",
+    "Melocotón",
+    "Tomate",
+    "Fresa",
+    "Granos y semillas almacenados"
+  ],
+  "favorable_conditions": [
+    "Alta humedad",
+    "Temperaturas frías a moderadas",
+    "Condiciones de almacenamiento deficientes",
+    "Frutos heridos o dañados"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el aire",
+    "Contacto entre productos infectados y sanos",
+    "Contenedores y herramientas de almacenamiento contaminados"
+  ],
+  "impact": [
+    "Caída de la fruta después de la cosecha",
+    "Pérdida de calidad del producto durante el almacenamiento",
+    "Reducción del valor de mercado de los productos",
+    "Producción potencial de micotoxinas en algunas especies"
+  ],
+  "management": [
+    "Manipular las frutas con cuidado para evitar heridas",
+    "Conservar los productos a la temperatura y humedad recomendadas",
+    "Quitar inmediatamente los frutos infectados",
+    "Mantener instalaciones de almacenamiento limpias",
+    "Utilizar variedades resistentes cuando estén disponibles"
+  ],
+  "biological_control": [
+    "Uso de microbios beneficiosos como las especies Bacillus",
+    "Aplicación de levaduras antagónicas para suprimir el crecimiento del moho"
+  ],
+  "chemical_control": [
+    "Fungicidas poscosecha como el tiabendazol o el imazalil",
+    "Uso de fungicidas de almacenamiento aprobados en función del cultivo"
+  ],
+  "prevention": [
+    "Sanitizar salas de almacenamiento y contenedores",
+    "Evitar lesiones mecánicas durante la cosecha",
+    "Ventilación adecuada en las instalaciones de almacenamiento",
+    "Mantener la cadena de frío para cultivos perecederos"
+  ],
+  "source": [
+    "Literatura de patología vegetal sobre enfermedades post-cosecha",
+    "Referencias micológicas sobre especies de Penicillium"
+  ]
+}

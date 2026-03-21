@@ -1,0 +1,54 @@
+{
+  "disease": "Hosta Virus X",
+  "scientific_name": "Hostavirus X (HVX)",
+  "pathogen_type": "Virus",
+  "description": "Eine Viruserkrankung, die Hosta-Pflanzen infiziert. Es tötet die Pflanze nicht, sondern verursacht dauerhafte Blattschäden und reduziert die Zierqualität. Nach der Infektion bleibt die Pflanze lebenslang infiziert.",
+  "symptoms": [
+    "Ink-Blut-Muster entlang der Blattvenen",
+    "Verfärbungen von motivierten oder patchigen Blättern",
+    "Gewebe aus versunkenen oder verdichteten Blättern",
+    "Unregelmäßige hell- und dunkelgrüne Muster auf Blättern",
+    "Verzerrtes oder ungesundes Blattbild"
+  ],
+  "hosts": [
+    "Hosta-Arten",
+    "Zier Hosta Sorten"
+  ],
+  "favorable_conditions": [
+    "Mechanische Beschädigung von Blättern oder Wurzeln",
+    "Schlechte sanitäre Versorgung während der Beschnitt- oder Anlagenaufteilung",
+    "Enger Kontakt zwischen infizierten und gesunden Pflanzen"
+  ],
+  "spread": [
+    "Pflanzensaftübertragung",
+    "Kontaminierte Schneidwerkzeuge oder Messer",
+    "Pflanzenteilung ohne Desinfektion",
+    "Kontakt zwischen beschädigten Blättern",
+    "Infiziertes Pflanzmaterial"
+  ],
+  "management": [
+    "Entferne und zerstöre infizierte Pflanzen vollständig",
+    "Nicht kompostieren infiziertes Pflanzenmaterial",
+    "Desinfizieren Sie Werkzeuge und Geräte nach der Handhabung von Anlagen",
+    "Vermeiden Sie das Anpflanzen neuer Hostas in kontaminierten Böden für mindestens 2 Jahre",
+    "Virentest-Kits verwenden, wenn eine Infektion vermutet wird"
+  ],
+  "biological_control": [
+    "Derzeit keine biologische Kontrolle für HVX verfügbar"
+  ],
+  "chemical_control": [
+    "Keine chemische Behandlung für Pflanzenviren wie HVX verfügbar"
+  ],
+  "prevention": [
+    "Kaufen Sie Pflanzen aus seriösen Baumschulen mit Sanitärprotokollen",
+    "Pflanzen vor dem Kauf sorgfältig prüfen",
+    "Quarantäne neue Hosta-Anlagen für mehrere Wochen",
+    "Minimieren Sie die Pflanzenverwundung während der Wartung",
+    "Hände waschen und Werkzeuge zwischen Pflanzen desinfizieren",
+    "Verwendung von Desinfektionsmitteln wie Trinatriumphosphat oder Laborreinigern"
+  ],
+  "source": [
+    "Leitfaden für das Management von Hosta Kinderkrankheiten",
+    "Universität Pflanzenpathologie Erweiterung Ressourcen"
+  ]
+}

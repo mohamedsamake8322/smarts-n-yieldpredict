@@ -1,50 +1,50 @@
 {
-  "disease": "Lettuce Chlorosis Virus (LCV)",
-  "scientific_name": "Lettuce chlorosis virus",
-  "pathogen_type": "Virus (ssRNA, Crinivirus)",
-  "description": "A viral disease affecting lettuce and other crops, causing yellowing, reddening, and curling of leaves, stunted growth, and reduced yield. Transmitted by whiteflies and contaminated plant material.",
+  "disease": "生化病病毒(LCV)",
+  "scientific_name": "生生氯化物病毒",
+  "pathogen_type": "病毒(sRNA, 克里尼病毒)",
+  "description": "影响生菜和其他作物的病毒性疾病,导致黄黄、红、卷叶、生长发育迟缓和产量下降。 白蝇和受污染植物材料传播。",
   "symptoms": [
-    "Yellowing and reddening of leaves",
-    "Curling of leaves",
-    "Thinning of leaf veins",
-    "Stunted or dwarf plants",
-    "Reduced yield and flower quality"
+    "黄树和红树叶",
+    "树叶",
+    "叶叶静脉微薄",
+    "闪光植物或侏矮植物",
+    "产量和花花质量下降"
   ],
   "hosts": [
-    "Lettuce",
-    "Beetroot",
-    "More than 27 plant species in 12 botanical families"
+    "发生",
+    "甜菜根",
+    "12个植物家庭超过27种植物物种"
   ],
   "favorable_conditions": [
-    "Presence of virulent weed hosts near crops (e.g., Physalis wrightii, Conyza canadensis, Lactuca serriola)",
-    "High whitefly populations",
-    "Greenhouse or field cultivation with poor pest control"
+    "作物附近(例如:植物盐、Conyza Canadensis、Lactuca serriola)附近有毒药杂草宿主。",
+    "高白蝇人口",
+    "害虫控制不良的温室或田地种植"
   ],
   "spread": [
-    "Feeding by greenhouse whiteflies (Bemisia tabaci and Bemisia argentifolii)",
-    "Infected seeds, cuttings, or other plant material",
-    "Contaminated tools and equipment"
+    "使用温室白蝇喂食(百草枯塔卡西和百草枯阿热尼)",
+    "感染种子、切割或其他植物材料",
+    "受污染工具和设备"
   ],
   "management": [
-    "Remove and destroy infected plants",
-    "Monitor and control whitefly populations",
-    "Use virus-free seeds and cuttings",
-    "Maintain good hygiene and sanitation of tools",
-    "Remove weeds that act as reservoirs"
+    "清除和销毁受感染植物",
+    "监测和控制白苍蝇人口",
+    "使用无病毒种子和剪切",
+    "保持良好的卫生和工具的环境卫生",
+    "去除作为蓄水库的杂草"
   ],
   "chemical_control": [
-    "Insecticides targeting whiteflies (e.g., imidacloprid, pyrethroids)",
-    "Neem oil or insecticidal soap sprays as preventive measures"
+    "针对白苍蝇(如百虫、除虫菊虫类)的杀虫剂",
+    "作为预防措施的Neem油或杀虫肥皂喷洒剂"
   ],
   "prevention": [
-    "Use certified virus-free planting material",
-    "Isolate new plants from infected areas",
-    "Control weed hosts in and around fields",
-    "Regular monitoring for whiteflies"
+    "使用核证的无病毒种植材料",
+    "从受感染地区分离出新植物",
+    "野外及其周围控制杂草主机",
+    "定期监测苍蝇"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Virus Factsheets",
-    "Scientific literature on Criniviruses"
+    "CABI 作物保护简编",
+    "粮农组织植物病毒概况介绍",
+    "关于克鲁尼病毒的科学文献"
   ]
 }

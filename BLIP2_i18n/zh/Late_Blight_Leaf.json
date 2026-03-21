@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "disease": "晚淡( 叶)",
+  "scientific_name": "内地的植物卫生",
+  "pathogen_type": "Oomycete(类似软体)",
+  "description": "土豆和番茄叶的毁灭性疾病,造成深褐色斑点和迅速的叶子死亡,可以在湿润条件下迅速摧毁作物。",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "黑褐色至黑叶斑点",
+    "叶叶边变苍白而死",
+    "受感染树叶迅速枯萎"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "番茄",
+    "马铃薯",
+    "其他索拉纳塞作物"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "凉凉湿湿的天气",
+    "高湿湿度",
+    "密集种植的空气流通不良"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "风和雨水散布",
+    "受污染工具或手",
+    "感染的幼苗或管茎"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "耐植物抗植物抗植物的栽种品种",
+    "清除和销毁受感染的树叶",
+    "改善空气循环,适当间隔和修剪",
+    "循环作物,以防止接种细胞积聚"
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "基于铜的杀真菌剂",
+    "湿湿期间对树叶喷雾"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "避免间接灌溉",
+    "使用经核证的无疾病的种子或管子",
+    "收获后清除植物碎片"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "CABI 作物保护简编",
+    "USDA,《植物疾病管理指南》"
   ]
 }

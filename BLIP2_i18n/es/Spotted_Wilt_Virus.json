@@ -1,0 +1,106 @@
+{
+  "pest_name": "Virus de la Wilt manchado con tomate",
+  "abbreviation": "TSWV",
+  "type": "virus",
+  "family": "Tospoviridae",
+  "genome": {
+    "type": "ARN de sentido negativo",
+    "structure": "esférico, 80-110 nm de diámetro",
+    "segments": [
+      {
+        "name": "L",
+        "length_kb": 8.9
+      },
+      {
+        "name": "M",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S",
+        "length_kb": 2.9,
+        "genes": [
+          "N",
+          "NSs"
+        ]
+      }
+    ]
+  },
+  "hosts": {
+    "primary": [
+      "tomate",
+      "tabaco",
+      "capsicum",
+      "lechuga",
+      "Patata",
+      "Cacahuate",
+      "berenjena",
+      "Cebolla",
+      "varios ornamentales"
+    ],
+    "weeds": [
+      "sembrar el cardo",
+      "capeweed",
+      "Espinacas",
+      "clavijas de zapatero",
+      "Sombras nocturnas",
+      "Algas culebra jamaiquinas"
+    ]
+  },
+  "symptoms": [
+    "Aturdimiento de plantas",
+    "Manchas de anillos y mottling en hojas y frutas",
+    "Manchas cloróticas y patrones de línea en las hojas",
+    "Afilado y purgado de hojas",
+    "Lesiones necróticas en los tallos",
+    "Frutos distorsionados o necróticos"
+  ],
+  "transmission": {
+    "vector": "thrips",
+    "vector_species": [
+      "Frankliniella occidentalis (trips de flores del oeste)",
+      "Frankliniella sulfurea (trips de tomate amarillo)",
+      "Trips palmi (trips de melón)",
+      "Trips tabaci (trips de cebolla)"
+    ],
+    "mechanism": [
+      "La adquisición se produce sólo en la etapa larvaria (primera y temprana segunda estrella)",
+      "El virus circula y se multiplica en el intestino del vector y las glándulas salivales",
+      "Los trips adultos permanecen infecciosos de por vida pero no transmiten a la descendencia",
+      "La transmisión puede ocurrir en 5-10 minutos de alimentación"
+    ]
+  },
+  "life_cycle": {
+    "thrips_larval_stage": "1-3 días",
+    "thrips_adult_lifespan": "20–30 días",
+    "TSWV_infection_duration": "de por vida en vector adquirido como larva"
+  },
+  "economic_impact": [
+    "Pérdidas graves en hortalizas, cultivos de campo y ornamentales",
+    "Considerado uno de los virus vegetales económicamente más devastadores del mundo"
+  ],
+  "management": {
+    "prevention": [
+      "Usar transplantes libres de virus y trips",
+      "Eliminar las plantas infectadas y los cultivos antiguos",
+      "Mantener los búferes libres de malas hierbas de al menos 25 m",
+      "Prácticas de saneamiento en invernaderos y campos"
+    ],
+    "resistant_varieties": [
+      "Utilice variedades de capsicum y tomate resistentes a los TSWV",
+      "Considere las cepas que rompen la resistencia y mantenga la higiene"
+    ],
+    "chemical_control": [
+      "Valor limitado de los insecticidas contra vectores debido a la rápida resistencia",
+      "Los insecticidas pueden reducir las poblaciones de trips, pero no eliminar la propagación del virus"
+    ],
+    "biological_control": [
+      "Depredadores de trips como Orius insidiosus (minutos insectos piratas) y Geocoris punctipes (bugs de ojos grandes)"
+    ]
+  },
+  "notes": [
+    "Las plantas infectadas no pueden curarse",
+    "El virus se propaga sólo a través de trips, no por semillas, otros insectos, manipulación o suelo",
+    "TSWV tiene un rango de host muy amplio (> 900 especies en Australia solamente)",
+    "Otros tospovirus relacionados incluyen CaCV, INSV, IYSV"
+  ]
+}

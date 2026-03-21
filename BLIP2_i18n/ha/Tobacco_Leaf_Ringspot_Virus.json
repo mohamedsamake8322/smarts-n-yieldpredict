@@ -1,100 +1,100 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
-  "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "virus_name": "KCharselect unicode block name",
+  "abbreviation": "KA YI AMFANI DA ABIN DA KA KOYA.",
+  "family": "KCharselect unicode block name",
+  "genus": "KCharselect unicode block name",
   "taxonomy": {
-    "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "KCharselect unicode block name",
+    "virus_group": "Indian National weekday 3 - LongDayName"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "structure": "@ item Text character set",
+    "particle_shape": "KCharselect unicode block name",
+    "particle_size": "Kusan shekara ta 28 A.Z."
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
-      "grasshoppers",
-      "flea beetles"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Media controller element",
+      "QFontDatabase",
+      "KCharselect unicode block name"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "Ko da yake ba a cika yin hakan a dā, amma ba a tabbatar da cewa an halicci shuke - shuke ba."
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
-      "Peanut",
-      "Potato",
-      "Lettuce"
+      "To, da sannu zã su hau da wani sharri.",
+      "Ethiopian weekday 3 - LongDayName",
+      "QShortcut",
+      "Indian National weekday 3 - LongDayName",
+      "QFontDatabase",
+      "DakataCoptic month 13 - LongName"
     ],
     "ornamental_plants": [
-      "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "@ item Spelling dictionary",
+      "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "QShortcut"
     ],
     "weed_hosts": [
-      "Chenopodium spp.",
-      "Amaranthus spp.",
-      "Solanum nigrum"
+      "Irin waɗannan littattafan ba su da muhimmanci sosai.",
+      "An buga wani talifi mai kyau.",
+      "KCharselect unicode block name"
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ana samun ci gaba a shuke - shuke masu yawa",
+    "An Motsa Su Kuma an bayar da kuzari"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "Da ƙwãya mai sõshiya da ƙamshi.",
+    "Ana iya samun gasa mai yawa sa'ad da ake ciyar da cuta",
+    "Sa'ad da suke cin abinci",
+    "Za a iya samun ciwon kai sa'ad da ake yaƙi"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "KCharselect unicode block name",
+      "@ item Text character set"
     ],
     "laboratory_methods": [
-      "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "@ item Text character set",
+      "KCharselect unicode block name",
+      "Indian National weekday 5 - LongDayName"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "@ item Spelling dictionary",
+      "Mãsu gudu suna ɓũya."
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "Za a iya sa ma'aikata masu tsanani su zama masu zafi, masu shan taba, masu shan taba, da kuma masu shan taba",
+    "agronomic": "A cikin shuke - shuke za su iya nuna girman kai da kuma rashin ƙarfi"
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "An Yi Amfani da Yadda Ya Kamata",
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+      "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "QXml",
+      "Ka guje wa yanayi da ke tsakanin shuke - shuke"
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "Littafi Mai Tsarki Yana Gyara Rayuwar Mutane",
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

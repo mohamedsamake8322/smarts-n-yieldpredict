@@ -1,84 +1,84 @@
 {
-  "pest_name": "Cotton Bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Helicoverpa armigera, known as the cotton bollworm, is a highly polyphagous moth pest distributed across Africa, Europe, Asia, Australia, and South America. The larval stage feeds on leaves, buds, flowers, fruits, and seeds of many crops, causing severe economic losses. Adults are capable of long-distance migration, allowing rapid spread and multiple generations per year in warm climates.",
+  "pest_name": "الدودة",
+  "scientific_name": "PRE(أ) (أ) (أ)",
+  "pest_type": "",
+  "description": "إن مرحلة اليرقات تتغذى على أوراق وأزهار وأزهار وفواكه وبذور العديد من المحاصيل، الأمر الذي يتسبب في خسائر اقتصادية فادحة. فالبالغون قادرون على الهجرة البعيدة المدى، الأمر الذي يسمح بالانتشار السريع والأجيال المتعددة سنوياً في المناخات الدافئة.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "القطن",
+    "طاطاطاطاط",
+    "",
+    "",
+    "خانث البازلة",
+    "",
+    "سُرْج هوجم",
+    "&",
+    "Soyban",
+    "",
+    "المكيرا",
+    "عدد الطا",
+    "اللسنج"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "الثقوب في الأوراق والأزهار",
+    "يَدْخلُ إلى فواكهِ أَو بُزُرْ",
+    "ما قبل الأوان أو ما قبله",
+    "خراطش القطن المتضررة تنتج لوناً رديئاً وجيداً",
+    "(أ) وجود سحش ونفقات تغذية في الفواكه أو الحبوب"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae overwinter in colder climates.",
-    "adults": "Adults are light brown moths with a wingspan of about 3.5–4 cm and live about 10 days.",
-    "generations_per_year": "Up to 11 generations per year in warm climates."
+    "eggs": "البيض الأبيض الأصفر وضع على أوراق أو براعم أو أزهار أو فواكه البيض يفقس في غضون 3-11 يوم",
+    "larvae": "تتغذى الخرافات لمدة 19–36 يوماً من خلال العديد من النجوم وتتسبب بأضرار النباتات الرئيسية.",
+    "pupae": "ويحدث التربيع في التربة أو في حطام النبات؛ وفي المناخات الباردة، يحدث التربيع فوق الوتر.",
+    "adults": "الراشدون عبارة عن عثات بنية فاتحة بأجنحة طولها حوالي 3,5 - 4 سنتيمتر ويعيشون حوالي 10 أيام.",
+    "generations_per_year": "ما يصل إلى 11 جيلاً في السنة في المناخات الدافئة."
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea and other crops. Larvae damage reproductive plant parts and reduce both yield and product quality. Secondary infections by fungi and bacteria may occur in damaged fruits.",
+  "economic_significance": "وتتسبب هذه الآفات في خسائر حادة في الغلة في القطن والطماطم والذرة والخشب وغير ذلك من المحاصيل، وتؤدي اليرقات إلى الإضرار بأجزاء نباتات التكاثر، وتقلل من كل من الغلة ونوعية المنتج، وقد تحدث الإصابات الثانوية بالفطريات والبكتيريا في الفواكه المتضررة.",
   "management": {
     "monitoring": [
-      "Regular scouting for eggs, larvae, and feeding damage",
-      "Use pheromone traps to monitor adult populations",
-      "Light traps can also help detect moth activity"
+      "كشافة منتظمة للبيض واليرقات وتلف التغذية",
+      "استخدام محارم فرمون لرصد السكان البالغين",
+      "يمكن أن تساعد أيضاً في الكشف عن نشاط العث"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "دوران المحاصيل مع المحاصيل غير المضيفة",
+      "التخلص من مخلفات المحاصيل وأعشابها",
+      "تُحَرِّثُ بَعْدَ مَحْرَ مِنَ ٱلْحَيَاةِ لِدَدَارَةِ ٱلْبَيْتِ",
+      "استخدام محاصيل فخية مثل أُسس الشمس أو المُسَجَّل"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae and eggs",
-      "Using traps and physical barriers",
-      "Removal of infested fruits or plant parts"
+      "جمع وتدمير اليرقات والبيض",
+      "استخدام المحارس والحواجز المادية",
+      "إزالة الثمار أو القطع النباتية المملوءة"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea (entomopathogenic fungus)"
+        "فيروس HANPV (HANPV)",
+        "الأنواع التي تستهدف اليرقات",
+        "Isaria formosor ea (فطريات"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trigograme protosum",
+        "Habrobracon habrobracan habriper (Laral paraitoid)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control should be used as part of Integrated Pest Management (IPM) and only when pest populations exceed economic thresholds.",
+      "note": "وينبغي استخدام الرقابة الكيميائية كجزء من الإدارة المتكاملة للآفات (IPM) وفقط عندما يتجاوز عدد سكان الآفات العتبات الاقتصادية.",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+        "المُنْكِتَل",
+        "في حالة سكر",
+        "لومدا - كيلوثرين",
+        "كلورانان يسيل"
       ]
     },
     "genetic_control": [
-      "Cultivation of Bt cotton expressing Bacillus thuringiensis toxins (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+      "زراعة قطن Bt إعراباً عن إعراب Bacillus عن التكسُّمات التي تُتَكسِّن بالتوكسينات (Cry1Ab, Cri1Ab, Cri1Ac, Brie2Ab, Vip3A)"
     ]
   },
   "references": [
-    "CABI. Cotton Bollworm (Helicoverpa armigera) – Crop Pest Management Information.",
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "FAO. Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "CABI - الدودة القطنية (Hilicoverpa armeigra) - معلومات إدارة مبيدات الآفات.",
+    "مساهمون في ويكيبيديا، هيليكوفربا أرمييغا، ويكيبيديا، موسوعة حرة",
+    "منظمة الأغذية والزراعة - المبادئ التوجيهية المتكاملة لإدارة الآفات.",
+    "مصرف المعارف النباتية - توصيات بشأن إدارة الآفات."
   ]
 }

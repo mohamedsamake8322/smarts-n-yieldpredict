@@ -1,66 +1,77 @@
 {
-  "disease_name": "Tomato Yellow Leaf Curl Virus",
-  "type": "viral disease",
-  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "disease_name": "@ item Text character set",
+  "type": "KCharselect unicode block name",
+  "causal_agent": "Wata ' yar'uwa mai suna Alea ta ce: \"A kwana kwanan nan, an haifi ' yan'uwa da yawa da ba a yawan yin amfani da su ba. \"",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena)", "Potato (Solanum tuberosum)", "Tobacco (Nicotiana spp.)", "Beans (Phaseolus vulgaris)", "Peppers (Capsicum annuum)"],
-    "weeds": ["Datura stramonium", "Malva parviflora"]
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon."
+    ],
+    "secondary": [
+      "\"Kuma Ka sanya mini harshen gaskiya a cikin mutãnen ƙarshe.\"",
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+      "To, da sannu zã su hau da wani sharri.",
+      "Ka Shiga Duk da Haka",
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
+    ],
+    "weeds": [
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
+    ]
   },
-  "distribution": "Worldwide, especially tropical and subtropical regions",
+  "distribution": "A dukan duniya, Musamman ma wuraren da Ba Su da Muhimmanci",
   "vector": {
-    "species": "Bemisia tabaci (silverleaf or sweet potato whitefly)",
-    "transmission_type": "persistent-circulative nonpropagative",
+    "species": "Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.",
+    "transmission_type": "Media controller element",
     "notes": [
-      "Acquisition access period: 15–20 minutes",
-      "Latent period: 8–24 hours",
-      "Females transmit virus more efficiently than males",
-      "Transovarial transmission observed for two generations",
-      "Sexual transmission between whiteflies documented"
+      "An yi amfani da minti 15 a hanyar da za ta taimaka mana mu san lokacin da ƙarshen zai zo.",
+      "Tsawon Lokaci: 8 ikon sa'o'i 90",
+      "An Gano wa Maza Marasa Aure fiye da Mata",
+      "Masanan taurari sun lura da ƙarnuka biyu",
+      "KCharselect unicode block name"
     ]
   },
   "symptoms": {
     "foliage": [
-      "Severe stunting",
-      "Reduction of leaf size",
-      "Upward cupping/curling of leaves",
-      "Chlorosis on leaves and flowers"
+      "KCharselect unicode block name",
+      "Layin nau'i-nau'i",
+      "Ana shayarwa da su, a cikinta, finjalan giya, wadda abin gaurayarta ya kasance zanjabil ne.",
+      "@ action"
     ],
     "fruit": [
-      "Reduced fruit production",
-      "Distorted fruit"
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+      "@ action"
     ],
-    "overall_impact": "Yield losses of 90–100% possible in severe outbreaks"
+    "overall_impact": "Rashin aiki na kashi 90 bisa ɗari zai yiwu a lokacin bala'i mai tsanani"
   },
   "disease_cycle": [
-    "Virus introduced via infected seedlings, contaminated tools, or whitefly vector",
-    "Once established, whiteflies spread virus rapidly from plant to plant",
-    "Virus persists in alternative hosts including weeds and other solanaceous crops",
-    "Environmental factors such as warm tropical climates favor virus proliferation"
+    "An gabatar da iri, kayan aiki, ko kuma fararen tufafi",
+    "Da zarar an kafa fari, fari da aka yaɗa sun yi yawa sosai daga shuki zuwa shuki",
+    "Wasu ' yan kasuwa sun ci gaba da yin amfani da zawan har da ciyayi da kuma wasu shuke - shuke masu kyau",
+    "Abubuwa masu ban sha'awa kamar su wurin da ake samun kuɗi sosai"
   ],
   "management": {
     "cultural": [
-      "Plant TYLCV-resistant or tolerant tomato varieties",
-      "Rotate crops to non-hosts to reduce inoculum",
-      "Eliminate or control weed hosts",
-      "Use greenhouse production to reduce vector access"
+      "@ item Text character set",
+      "Yanã tsirar da shũka game da shi, dõminku zaitũni da dabĩnai da inabai, kuma daga dukan 'yã'yan itãce.",
+      "Mãsu daraja, marubũta.",
+      "Yi amfani da kayan daidaita na'ura don ka rage girmar kwamfyutan tebur"
     ],
     "chemical": [
-      "Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance",
-      "Timing of applications is critical due to rapid virus transmission by whiteflies"
+      "Yin amfani da hanyar da ba ta dace ba don kada a yi faɗa",
+      "Tim'in ayukan tagogi yana da yawan saurin fushi da farin fuskar kwamfyuta mai tsanani"
     ],
     "genetic": [
-      "Breeding or transgenic approaches to produce TYLCV-resistant tomato lines"
+      "Yin biyayya ko kuma ba'a kai tsaye don ka fitar da wani wuri zuwa wurare dabam - dabam"
     ]
   },
   "notes": [
-    "TYLCV is one of the most serious viral diseases of tomato globally",
-    "Developing countries are most affected due to climate and high cost of control measures",
-    "Integrated pest management combining resistant varieties, vector control, and cultural practices is most effective"
+    "KA YI la'akari da wata cuta mai tsanani da ta fi tsanani da za a iya samu",
+    "Ana bukatar a gina ƙasashe da suka fi kasancewa da ƙarfi kuma a yi sadaukarwa sosai",
+    "Yin amfani da kayan ado na tsara yadda ya dace, na'ura mai kyau na tsara yadda ya kamata, kuma al'adu suna da amfani sosai"
   ],
   "references": [
-    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
-    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
-    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+    "Daga baya bayan shekara ta 1997 zuwa 1997, wani karin magani mai ruwan sanyi da ke sa ka ƙarfi sosai ya zama ruwan dare gama gari a faɗin duniya.",
+    "UYO 9 (Efik)",
+    "Ɗan tarihi Jr.R.A."
   ]
 }

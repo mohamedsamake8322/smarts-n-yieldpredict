@@ -1,69 +1,81 @@
 {
-  "pest_name": "Stem-Boring Weevil",
+  "pest_name": "Le charabia des orteils",
   "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "type": "Insecte",
+  "native_range": [
+    "Europe",
+    "Asie"
+  ],
+  "introduced_range": [
+    "États-Unis"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "crapaud jaune (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "Crapaud dalmate (Linaria dalmatica)"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "blanc",
+      "shape": "ovale"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "En forme de C",
+      "color": "blanc crémeux",
+      "head_capsule": "marron",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "blanc crémeux",
+      "features": [
+        "appendices visibles",
+        "long museau"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "bleu-noir (rarement vert-noir)",
+      "length_mm": "2.4 à 3.4",
+      "shape": "allongée avec de longs becs et des antennes coudees",
+      "metallic_sheen": "subtile quand nouvellement émergé, terne avec l'âge",
+      "comparison": "museau plus petit et moins brusquement courbé que M. janthiniformis"
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "adultes dans les tiges de toadflax de l'année précédente",
+    "spring_emergence": "début du printemps, la chronologie varie selon les facteurs propres au site",
+    "adult_feeding": "nouvelles bouts et feuilles de pousses, produit un motif de blessure au trou de tir",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "les femelles mâchent des trous dans les tiges, pondent des œufs séparément, couvrent de tissu végétal mâché",
+      "quantity_per_lifetime": "60 à 160 dans des conditions de laboratoire"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "3 étoiles, mine des tiges inférieures dans les tunnels",
+    "pupation": "mi-été dans les tunnels larvaires",
+    "adult_emergence": "fin d'été, hiverner à l'intérieur des chambres pupales"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "mâcher les bouts de croissance, les tiges, les feuilles",
+      "Modèle distinctif de blessure au trou de tir",
+      "affaiblit les plantes, supprime la floraison et la production de semences",
+      "cascades pousses, bouts de pousse deviennent bruns et râpés"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "les tiges des mines, les tissus conducteurs d'eau et d'éléments nutritifs s'éparpillent",
+      "provoque la dessiccation et la mort des tissus végétaux",
+      "risque d'épuiser les réserves de nutriments racinaires, ce qui a une incidence sur la persistance des plantes"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "Une attaque annuelle répétée réduit la densité de la plante toadflax"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "Agent de biocontrôle utilisé contre le toadflax invasif en Amérique du Nord",
+    "Le suivi de l'émergence des adultes au printemps peut guider les stratégies de gestion",
+    "Soutient la réduction à long terme des populations de toadflax"
   ],
   "references": [
-    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Agents de biocontrôle: Histoire et écologie en Amérique du Nord. Dans: Contrôle biologique des mauvaises herbes en Amérique du Nord. NAISMA-BCW-2022-29-TOADFLAXES-A."
   ]
 }

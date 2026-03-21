@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "pest_name": "Maisha ya Sphinx",
+  "stage": "ya larva",
+  "common_name": "Mji wa Hornworm",
+  "description": "Hatua ya larva (caterpillar) ya mti wa sphinx mara nyingi inajulikana kama hornworm. Ni kubwa, ya kawaida, mara nyingi na mtazamo wa mti katika mwisho wa nyuma.",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "Chakula juu ya tiketi, mbegu, na mara kwa mara matunda ya mimea ya mwenyeji",
+    "Uharibifu inaweza kutokea ikiwa idadi ya watu ni ya juu",
+    "Dawa mara nyingi hupata kaburi isiyojulikana au nyuma za kuvutia",
+    "Inaweza kupoteza mimea vijana na kupunguza uzalishaji katika mimea kama vile tomato, tabaka, na Solanaceae nyingine"
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "Mafuta ya Sola (Solanum lycopersicum)",
+    "Mafuta ya Nicotiana (Nicotiana Tobacum)",
+    "Maua ya pepe (Capsicum spp)",
+    "aina nyingine za Solanaceae"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "Mchakato wa rangi katika bustani ndogo",
+    "Ulinzi wa Biolojia kwa Bacillus thuringiensis (Bt) au wastani wa parasitic",
+    "Matumizi ya mbegu za baridi kwa ajili ya mimea vijana",
+    "Kuimarisha wanyama wa asili kama vile ndege na wanyama wa wanyama"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "Sphinx moth larvae ni mara nyingi kuanguka na caterpillars nyingine kubwa; kutafuta saru katika mwisho wa nyuma.",
+    "Utawala unahusisha hasa katika hatua ya larva, kwa sababu watu wazima ni wafuasi wa faida."
   ]
 }

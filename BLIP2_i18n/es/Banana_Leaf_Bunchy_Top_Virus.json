@@ -1,0 +1,122 @@
+{
+  "disease_name": "Banana Bunchy Enfermedad de la parte superior",
+  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "pathogen": {
+    "type": "Virus",
+    "name": "Virus de la parte superior del banano",
+    "abbreviation": "BBTV",
+    "family": "Nanoviridae",
+    "genus": "Babuvirus",
+    "genome": "ADN circular de una sola cadena (ADNss)"
+  },
+  "host_plant": {
+    "primary_host": "Plátano (Musa spp.)",
+    "other_hosts": [
+      "Plátano",
+      "Abaca"
+    ],
+    "vector_alternate_hosts": [
+      "Heliconia",
+      "Jengibre floreciente (Zingiberaceae)"
+    ]
+  },
+  "affected_parts": [
+    "Hojas",
+    "Tejido de floema",
+    "Frutas",
+    "Crecimiento de toda la planta"
+  ],
+  "vector": {
+    "type": "Insectos",
+    "name": "Plátano áfido",
+    "scientific_name": "Pentalonia nigronervosa",
+    "transmission_type": "Circulativo no propagativo"
+  },
+  "symptoms": {
+    "early_stage": [
+      "Rayas de color verde oscuro a lo largo de las venas de las hojas",
+      "Hojas jóvenes cortas y estrechas",
+      "Código morse rayado en pecíolos de hoja"
+    ],
+    "intermediate_stage": [
+      "Las hojas se vuelven erguidas y agrupadas",
+      "Amarillamiento y clorosis de las hojas",
+      "Tamaño reducido de la hoja"
+    ],
+    "advanced_stage": [
+      "Apariencia de bunchy en la parte superior de la planta",
+      "Atrofia grave de la planta",
+      "Frutos deformes o ausentes"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Aphid se alimenta de tejido de floema",
+      "Plantando succionadores infectados",
+      "Movimiento de material de plantación infectado"
+    ],
+    "vector_acquisition_time_hours": 18,
+    "vector_retention_time_days": 14,
+    "minimum_transmission_time_minutes": 15,
+    "symptom_development_time_days": 30
+  },
+  "impact": {
+    "severity": "Muy alto",
+    "effects": [
+      "Atrofia grave de la planta",
+      "Producción de frutas reducida o ausente",
+      "Racimos de plátano deformados",
+      "Principales pérdidas económicas en la producción de plátanos"
+    ]
+  },
+  "distribution": [
+    "Asia sudoriental",
+    "Filipinas",
+    "Taiwán",
+    "India",
+    "Pakistán",
+    "Asia oriental",
+    "Oceanía",
+    "Islas del Pacífico",
+    "Hawai",
+    "África"
+  ],
+  "similar_diseases_or_confusions": [
+    "Virus de la racha de plátano",
+    "Virus del mosaico del plátano",
+    "Deficiencia de nutrientes que causa clorosis"
+  ],
+  "management": {
+    "cultural_control": [
+      "Utilizar material de plantación libre de virus",
+      "Retire y destruya las plantas infectadas (revestimiento)",
+      "Evite plantar chupadores infectados"
+    ],
+    "vector_control": [
+      "Controlar las poblaciones de áfidos de plátano",
+      "Usar insecticidas como imidacloprid o carbarilo",
+      "Monitor de plantas hospedadoras de áfido alternas"
+    ],
+    "preventive_measures": [
+      "Reglamentaciones estrictas de cuarentena",
+      "Control del movimiento de los materiales de plantación",
+      "Uso de plantas de cultivo de tejidos certificadas"
+    ],
+    "research_directions": [
+      "Bioprimación con bacterias beneficiosas",
+      "Desarrollo de variedades de plátano resistentes"
+    ]
+  },
+  "spread_risk_factors": [
+    "Movimiento del material de plantación de plátanos infectado",
+    "Presencia de poblaciones de áfidos de banano",
+    "Prácticas deficientes de saneamiento agrícola"
+  ],
+  "references": [
+    "Informes sobre enfermedades de las plantas de la FAO",
+    "Taxonomía del virus ICTV",
+    "Diarios de Patología Vegetal",
+    "Publicaciones de la Universidad de Hawaii sobre enfermedades de las plantas",
+    "Departamento de Agricultura de Queensland"
+  ]
+}

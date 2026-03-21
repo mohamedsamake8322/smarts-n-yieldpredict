@@ -1,62 +1,72 @@
 {
-  "disease_name": "Tomato Early Blight",
-  "causal_agent": "Alternaria solani",
-  "other_agents": ["Alternaria tomatophila"],
-  "type": "fungal pathogen",
+  "disease_name": "Tomato erken aydınlatma",
+  "causal_agent": "Alternatör Solani",
+  "other_agents": [
+    "Alternatif domates"
+  ],
+  "type": "Mantar patolojisi",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)", "Potato (S. tuberosum)"],
-    "secondary": ["Eggplant (S. melongena L.)", "Bell pepper and hot pepper (Capsicum spp.)"],
-    "weeds": ["Black nightshade (Solanum nigrum)"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)",
+      "Patates ( S. tuberosum için )"
+    ],
+    "secondary": [
+      "Yumurtalık (S. melongena L)",
+      "Beyaz biber ve sıcak biber (Capsicum spp.)"
+    ],
+    "weeds": [
+      "Siyah gece gölgesi (Solanum nigrum)"
+    ]
   },
-  "distribution": "Worldwide; problematic east of the Rocky Mountains and midwest USA for tomato; common in potato-growing regions",
+  "distribution": "Dünya çapında; Doğu Rocky Dağları ve Midwest Amerika Birleşik Devletleri domates için sorunlu; patates büyüyen bölgelerde yaygındır",
   "symptoms": {
     "tomato": [
-      "Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm",
-      "Yellowing or chlorosis around leaf spots",
-      "Stem lesions, dark and slightly sunken with concentric rings",
-      "Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass",
-      "Seedlings: collar rot (basal girdling), death"
+      "Concentric 'bullseye' yaprak noktaları eski yapraklarda, kahverengi siyah, 1.3 cm'ye kadar",
+      "Sarı veya kloroz yaprakları etrafında",
+      "Karanlık ve hafifçe konsantrasyon yüzükler ile bozulmuş ses hasarları",
+      "Meyve yırtımı çelik yapıştırma noktalarında veya yaralar aracılığıyla, karanlık konsantrasyon döngüleri ile kahverengi, siyah velvety spor kütlesi",
+      "Tohumlar: kollar rot (basal döndürme), ölüm"
     ],
     "potato": [
-      "Concentric dark brown spots on older leaves",
-      "Premature defoliation leading to tuber yield reduction",
-      "Stem spots gaunt and diffuse",
-      "Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage"
+      "Eski yapraklarda yoğun karanlık kahverengi noktalar",
+      "Erken bozulma, tüpler üretimi düşüşüne yol açar",
+      "Gümüşhane Gümüşhane ve Difüze",
+      "Tuber hasarları: kuru, karanlık, yüzeye basılmış; alt et kuru, deri ve kahverengi; depolama sırasında genişleyebilir"
     ]
   },
   "life_cycle": {
-    "type": "polycyclic",
-    "overwintering": "Crop residues or wild solanaceous plants",
-    "infection": "Conidia produced in spring, splashed or wind-dispersed, infect through wounds, stomata or direct penetration",
-    "spread": "Conidia from lesions infect other parts of plant or neighboring plants during the same season"
+    "type": "Polycyklik",
+    "overwintering": "Bitki kalıntıları veya vahşi solanace bitkileri",
+    "infection": "Sonbaharda üretilen, sızdırılmış veya rüzgârla dağıtılmış, yaralar, mide bulantısı veya doğrudan penetrasyon yoluyla enfekte",
+    "spread": "Yaralanmalardan kaynaklanan Conidia, aynı mevsimde bitkinin veya komşu bitkilerin diğer kısımlarını enfekte eder."
   },
-  "pathogen_type": "Necrotrophic",
+  "pathogen_type": "Necrotrofik",
   "cultural_control": [
-    "Clear infected debris to reduce inoculum",
-    "Water plants in the morning to minimize leaf wetness",
-    "Use drip irrigation",
-    "Apply mulch to block soil splash",
-    "Rotate to non-solanaceous crops for at least three years",
-    "Control wild solanaceous plants near fields",
-    "Plant resistant cultivars",
-    "Increase air circulation in rows",
-    "Monitor fields closely in warm, damp weather"
+    "Inokulum'u azaltmak için açık enfekte kalıntılar",
+    "Sabahları su bitkileri, yaprak nemini en aza indirmek için",
+    "Drip Irrigation Kullanımı",
+    "Toprağın sızıntısını engellemek için mulch uygulayın",
+    "En az 3 yıl boyunca güneşlenmemiş bitkilere döndürülür",
+    "Çiftlikler yakınında vahşi solanace bitkileri kontrol edin",
+    "Bitki dayanıklı yetiştiriciler",
+    "Sıradaki hava dolaşımının arttırılması",
+    "Sıcak, buharlı hava koşullarında yakından izleme alanları"
   ],
   "chemical_control": [
-    "Azoxystrobin (QoI fungicide)",
+    "Azoxystrobin (QoI fungicide) ile ilgili bilgiler",
     "Pyraclostrobin",
-    "Bacillus subtilis",
+    "Bacillus Subtilisi",
     "Chlorothalonil",
-    "Copper-based products",
-    "Hydrogen dioxide (Hydroperoxyl)",
-    "Mancozeb",
-    "Potassium bicarbonate",
-    "Ziram"
+    "bakır bazlı ürünler",
+    "Hidrojen dioksit (hidroperoksil)",
+    "Manşet",
+    "Potasyum Bikarbonat",
+    "Zeynep"
   ],
-  "notes_on_resistance": "Decreased sensitivity to QoI fungicides due to F129L amino acid substitution in A. solani",
+  "notes_on_resistance": "F129L amino asit değiştirme nedeniyle QoI fungicidlerine duyarlılık azalır A. solani",
   "references": [
-    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
-    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
-    "https://doi.org/10.1094/PHYTO-94-11-1231"
+    "HTTPS://www.apsnet.org/edcenter/intropp/lesons/fungi/Pages/Alternaria.aspx",
+    "HTTPS://www.cabdirect.org/cabdirect/abstract/20093196520",
+    "HTTPS://doi.org/10.1094/PHYTO-94-11-1231"
   ]
 }

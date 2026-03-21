@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "Citrus Leachining",
   "other_names": [
-    "Huanglongbing",
+    "تَنْدَرْ مُنْجَلْ",
     "HLB",
-    "Citrus Greening"
+    "Citor خضرنة"
   ],
-  "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "scientific_name": "\"مقـرّر الـوقـت الـمـقـدّم\"",
+  "pathogen_type": "بكثير",
+  "description": "إن خضرنة الحمضيات هي من أكثر الأمراض تدميراً في أشجار الحمضيات، وهي ناجمة عن بكتيريا الجينوس ليبريباكتر والتي تنتقل أساساً بواسطة حشرات البسيليد، وتنتج الأشجار المصابة ثماراً صغيرة ومررة ورخيصة الألوان، وتنخفض وتموت في نهاية المطاف في غضون سنوات قليلة، ولا يوجد حالياً علاج لهذا المرض.",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
-    "Citrus limon (lemon)",
-    "Other Citrus species"
+    "Citorus inissis (البرتقالة الحلوة)",
+    "Citrus reticulatata (الماندرين)",
+    "Citros paradesic (gfrfruit)",
+    "سيتور ليمون )ليمون(",
+    "الأنواع الأخرى"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "(Diaphorina stri)",
+    "(Triosza eritreae)"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "البلستكي أصفر على أوراق الشوّط",
+    "ألف - ما أُسس وأُطلقات",
+    "نمو أشجار الأشجار",
+    "تُغِيض وإسقاطات أوراق ما قبل الأوان",
+    "فواكه صغيرة، غير منتظمة، سيئة الألوان",
+    "وتبقى الفواكه خضراً جزئياً عندما تنضج",
+    "مَرْ أَوْ مَرْ مِنْ أَنْ مَرْ مِنْ فُرْمًا مِنْ مُمْرِرْ مِنْ مَرْ مِنْ مَرْ مَرْ مِنْ",
+    "البذور الممزقة والتنمية الفقيرة للثمار"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "تعيش البكتيريا في أنسجة شجر الحكة",
+    "تُنشر أساساً عن طريق حشرات البسيليد التي تُغذّي على النباتات المُصابة",
+    "ويمكن أيضاً أن تنتشر عن طريق تطعيم مواد نباتية مُصابة",
+    "وتحصل مراحل البسيليد الصغيرة على البكتيريا وتنقلها إلى النباتات الصحية"
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "المناخات الحارة في المناطق الاستوائية وشبه المدارية",
+    "دال - وجود متجهات PsILDEL",
+    "مناطق الإنتاج"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
-    "Brazil",
-    "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "آسيا",
+    "أفريقيا",
+    "الولايات المتحدة (فلوريدا، تكساس، كاليفورنيا وغيرها)",
+    "البرازيل",
+    "",
+    "مناطق كثيرة من المناطق النامية المدارية وشبه المدارية في جميع أنحاء العالم"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "مجموعات الفئـات",
+    "(أ) إزالة وتدمير الأشجار المُحْكِرة",
+    "استخدام مواد نظيفة ومعتمدة للزرع",
+    "الرصد المنتظم والاكتشاف المبكر",
+    "البحوث المتعلقة بالأنواع المقاومـة"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "لا يوجد حالياً أي علاج فعال",
+    "الاشجار المصابة تموت عادة في غضون بضع سنوات",
+    "وقد تسبب المرض في خسائر اقتصادية كبيرة في صناعات الحمضيات في جميع أنحاء العالم."
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "Wikipedia - مرض خضرنة القشرة",
+    "CUSA - Citrus Greening and Assian Citrus Psellide"
   ]
 }

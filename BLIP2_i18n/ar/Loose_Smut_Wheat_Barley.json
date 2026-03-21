@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "لُسُلُس سُمْتَيْ وَلْط وَشْلِي",
+  "scientific_name": "(Pers.) USTELAGU Tritici (Pers.",
+  "pathogen_type": "مُرْج",
+  "description": "إن الفطريات تصيب النواميل النامية وتستبدلها بكتل من الجراثيم السوداء، التي تتناثر بالرياح أثناء الزهرة، مما يؤدي إلى خسائر كبيرة في الغلة.",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "تم استبدالها بالأسود والمسحوقات",
+    "ظهور رؤوس متأثرة قبل ظهورها قبل أن تكون صحية",
+    "لا توجد أعراض خضرة على الأوراق أو الأُسُس",
+    "نسبة الإصابة إلى معدل الإصابة"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "وات القمح (Tritititim astivum)",
+    "(Hordeum vulgare)"
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "ظروف البرد والرطوبة أثناء الزهرة",
+    "غرس البذور المصابة"
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "رياح تَنْشُر البُغَث على أزُر صحية",
+    "الانتقال عن طريق البذور من الحبوب المصابة"
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "البذور المعتمدة المستخدمة الخالية من الأمراض",
+    "المعالجة المُسْلَكَة مع مبيدات الفطريات",
+    "تجنب استدرار البذور من المحاصيل المصحوبة",
+    "دوران المحاصيل مع الأنواع غير المضيفة"
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "المعالجة الأولية بمبيدات آفات الكربوكسين، أو ترياديمينول، أو الثيرام"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "(أ) لا يوجد إلا ببذرة نظيفة مصدَّق عليها فقط",
+    "تنفيذ دوران المحصول",
+    ":: معدات التخزين والزرع"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "مجموعة حماية المُنتَجَب",
+    "أدلة صحة النباتات",
+    "أدب في العلوم العلمية في مرحلة ما قبل الميلاد"
   ]
 }

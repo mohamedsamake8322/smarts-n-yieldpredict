@@ -1,38 +1,38 @@
 {
-  "pest_name": "Stem Borer Leaf Damages",
-  "pest_type": "insect",
-  "description": "Stem borers are insect pests whose larvae feed on plant stems and leaves. They are common in cereal crops such as maize, rice and sorghum. Larvae bore into stems and cause internal damage that reduces plant growth and productivity.",
+  "pest_name": "Borer Leaf hasarları",
+  "pest_type": "böcekler",
+  "description": "Çamur çamurları, bitki çamurları ve yaprakları üzerinde larva besleyen böcek böcek böcekleridir. Çamur, pirinç ve sorghum gibi tahıl ürünlerinde yaygındır. Çamur çamurları ve bitki büyümesini ve verimliliğini azaltan iç hasara neden olur.",
   "affected_parts": [
-    "Leaf",
-    "Stem"
+    "Leaf Hakkında",
+    "oy"
   ],
   "hosts": [
     "Maize",
-    "Rice",
-    "Sugarcane",
-    "Sorghum"
+    "pirinç",
+    "Şekerli",
+    "Özürler"
   ],
   "symptoms": [
-    "Leaf holes and feeding marks",
-    "Dead heart symptom in young plants",
-    "Stem tunneling",
-    "Reduced plant growth"
+    "Yaprak delikleri ve beslenme işaretleri",
+    "Genç bitkilerde ölü kalp belirtileri",
+    "Tünel Tünel",
+    "Bitki büyümesi azaldı"
   ],
   "spread": [
-    "Adult insects laying eggs on plant leaves",
-    "Larvae moving into plant stems"
+    "Yetişkin böcekler bitki yapraklarına yumurta koyar",
+    "Larvae bitki çamurlarına hareket eder"
   ],
   "management": {
     "cultural": [
-      "Remove crop residues",
-      "Crop rotation",
-      "Use resistant varieties"
+      "bitki kalıntılarının kaldırılması",
+      "Bitki dönüşü",
+      "dayanıklı çeşitleri kullanın"
     ],
     "biological": [
-      "Encourage parasitoid wasps and natural predators"
+      "Parazit yavruları ve doğal predatörleri teşvik etmek"
     ],
     "chemical": [
-      "Apply recommended insecticides when infestation levels are high"
+      "Enfeksiyon seviyeleri yüksek olduğunda tavsiye edilen böcek ilacı uygulayın"
     ]
   }
 }

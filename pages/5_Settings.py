@@ -32,9 +32,20 @@ with tab1:
     st.markdown("### 🌍 Language and Region")
     col1, col2 = st.columns(2)
     
-    with col1:
-        language = st.selectbox("Language", ["Français", "English", "Bambara", "Wolof"])
-    
+    language_map = {
+        "English": "en",
+        "Français": "fr",
+        "Bambara": "bm",
+        "Wolof": "wo",
+        "Türkçe": "tr",
+        "Swahili": "sw",
+        "Hausa": "ha",
+        "Arabic": "ar",
+        "Chinese": "zh",
+        "Fulah": "ff",
+    }
+    language = st.selectbox("Language", list(language_map.keys()))
+
     with col2:
         region = st.selectbox("Region", ["Mali", "Sénégal", "Burkina Faso", "Côte d'Ivoire"])
     
@@ -47,7 +58,9 @@ with tab1:
     theme = st.selectbox("Theme", ["Light", "Dark", "Auto"])
     
     if st.button("Save", type="primary"):
-        st.success("✅ Settings saved!")
+        st.session_state["lang"] = language_map.get(language, "en")
+        st.success(f"✅ Settings saved! Langue active: {language} ({st.session_state['lang']})")
+        st.experimental_rerun()
 
 with tab2:
     st.subheader("🤖 Configuration du Modèle IA")

@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "Cabbage bakteriyel yumuşak rot",
+  "scientific_name": "Pectobacterium carotovorum (daha önce Erwinia carotovora)",
+  "pathogen_type": "Bakteriler",
+  "description": "Bakteriyel yumuşak çamur, bitki dokularının hızlı bir şekilde bozulmasına neden olan yıkıcı bir hastalıktır. Bakteriler yaralar veya doğal açılımlar aracılığıyla girer ve sıcak ve nemli koşullarda hızlı bir şekilde yayılır. Hastalık alanlarda meydana gelebilir, ancak çoğu zaman depolama ve taşıma sırasında ciddi kayıplara neden olur.",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "Kağıtlar veya kabak başlarında suya dayalı noktalar",
+    "Yumuşak, yumuşak yaralanmalar hızla büyür",
+    "Kumaşlar yumuşak, yumuşak ve ıslak hale gelir",
+    "kremden kahverengi veya siyah",
+    "Sıvı seepage enfekte dokulardan",
+    "Güçlü rahatsız edici koku",
+    "Yapraklar, çamurlar veya kökler ciddi enfeksiyonlarda tamamen kaybolabilir"
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "ıslak yumuşak rulo kabak dokusu üzerinde",
+    "mushy çürümüş bitki dokusu",
+    "Sıvı sızıntı ile karanlık sızıntı alanları"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "Sayfalar",
+    "Sesi",
+    "Cabbage başı",
+    "Kökleri"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "Kabbala",
+    "brokoli",
+    "Cauliflower",
+    "Lettuce",
+    "patates",
+    "Karot",
+    "Onyon",
+    "peynir",
+    "domates",
+    "Birçok sebze tohumları"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "Sıcak sıcaklıklar (25-30°C)",
+    "Yüksek nem",
+    "ıslak hava",
+    "Kötü hava dolaşımı",
+    "Böceklerden veya aletlerden kaynaklanan bitki yaraları",
+    "Bitkilerde düşük kalsiyum"
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "Toprakta enfekte bitki kalıntıları",
+    "kirlenmiş sulama suyu",
+    "yağmur splash",
+    "Maggot gibi böcekler uçuyor",
+    "kirlenmiş araçlar",
+    "hasat ve depolama sırasında işleme"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "Sağlıklı ve hastalık dışı bitki malzemesi kullanın",
+    "Yaraları önlemek için bitkileri dikkatlice ele alın",
+    "Enfekte bitkileri hemen ortadan kaldırın ve yok edin.",
+    "En az 3 yıl boyunca ev sahipliği yapmayan bitkilerle döndürülen bitkiler",
+    "Aşırı sulama önlemek",
+    "İyi alan sanitasyonu sağlamak",
+    "Doğru bitki beslenmesi, özellikle kalsiyum"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Bacillus subtilis bazlı bio-baktericidler",
+    "Pseudomonas fluorescens biyolojik tedaviler"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "bakır oksiklorid",
+    "bakır hidroksit",
+    "Bakterit Bakterit Bakterit Bakterit Bakterit"
   ],
-
   "example_products": [
-    "Greencop 500WP",
-    "Trinity Gold 452WP",
-    "Colonizer 440WP",
-    "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "Yunanistan 500WP",
+    "Trinity Altın 452WP",
+    "Kolonizasyon 440WP",
+    "Biyolojik ayrımcılık Xtra 700CS",
+    "Piramit 700WP"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "Bitki dayanıklı veya hoşgörülü çeşitleri",
+    "Hastalığı olmayan tohumları ve tohumları kullanın",
+    "Yetiştirme sırasında bitkilerin zarar görmesini önleyin",
+    "Kuru koşullarda hasat",
+    "Depolama öncesinde kabuğu kontrol edin",
+    "Depolama alanlarını temiz ve kuru tutun"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "Depolama kabuğu 0-4°C (32-39°F)",
+    "Depolama nemini %90-95 civarında tutun",
+    "hasarlı veya enfekte sebzelerin depolanmasından kaçının.",
+    "Yaralanmaları önlemek için çamur veya kağıt gibi yumuşak malzemeler kullanın."
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "CABI Bitki Koruma Ödülü",
+    "Bitki Patolojisi Uzantısı Yayınları",
+    "Bitki Hastalıkları Yönetimi Rehberi"
   ]
 }

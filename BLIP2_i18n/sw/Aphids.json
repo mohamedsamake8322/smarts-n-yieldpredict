@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "Afidi",
+  "scientific_name": "Aphididae",
+  "description": "Kuza haraka kwa vizazi vinavyotumia simu huwezesha idadi ya wadudu kuongezeka haraka. Jamii nyingine hubadilishana mimea; nyingine hutokeza asali, jambo linalosababisha ukuzi wa kuvu. Aphids ni kama vibadala vya virusi vya mimea ya mimea.",
+  "life_cycle": [
+    "Uzalishaji wa kingono hutawala; wa kike huzaa watoto wa kike",
+    "Ndege wa kike wenye mabawa hutawanyika hadi kwenye mimea mipya baadaye katika msimu",
+    "Katika maeneo yenye halijoto ya wastani, uzazi wa kingono hutukia wakati wa vuli, ukishindana kuwa mayai",
+    "Symbiosis pamoja na Buchnera aphidilo huandaa asidi - amino muhimu"
+  ],
+  "hosts": [
+    "Mboga, matunda, nafaka, maharagwe, mimea ya kupamba",
+    "Mimea mingi ya mazao na ya bustani"
+  ],
+  "symptoms_and_damage": [
+    "Majani yaliyojipinda - pinda",
+    "Manjano au mchumo wa majani",
+    "Mafuta yaliyo katika majani na mashina",
+    "Ukuzaji wa kuvu unaobadilika - badilika unapunguza usanidimwanga",
+    "Kupitishwa kwa virusi vya mimea"
+  ],
+  "favorable_conditions": [
+    "Halijoto yenye joto",
+    "Unyevu mwingi",
+    "Hali ya hewa yenye mvua",
+    "Maeneo yenye miti mingi na mimea yenye joto"
+  ],
+  "spread": [
+    "Kugusa mimea iliyoshambuliwa moja kwa moja",
+    "Ndege wa kike wenye mabawa yaliyopeperushwa na upepo",
+    "Chungu wanaowatunza wadudu wanaoitwa aphid",
+    "Vifaa, wafanyakazi, na maji ya unyunyizaji"
+  ],
+  "natural_enemies": [
+    "Mbawakawa aina ya Ladybird (e.g., Cocinella septempunctata, Adalia bipunctata)",
+    "Viluwiluwi vya nzi",
+    "Nyigu aina ya \"parsitic \"",
+    "Kiluwiluwi aina ya \"mone \"",
+    "Viluwiluwi wa kijani - kibichi",
+    "Buibui",
+    "Kuvu aina ya Entomopathiphatication (Neozygites graesenii, Beauveria bassiana, Metarhizium aisopliae, Lecanicillium lecanii)"
+  ],
+  "biological_control": [
+    "Kutolewa kwa wadudu wenye kuwinda na parasitoidi",
+    "Watie moyo maadui wa asili katika bustani au katika vibanda vya kukuzia maua",
+    "Matumizi ya dawa za kuua viini (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "Dawa za kuua wadudu mara nyingi huwa kwa sababu tu ya kinga (kambati, viungo vya mwili, pyrethroids)",
+    "Huenda dawa za kuua wadudu zisipenye kwenye maua",
+    "Kwa ajili ya wadudu wadogo wanaoshambuliwa: sabuni ya kuua wadudu, jeti za maji zenye nguvu (hatua ya kuzunguka tu)"
+  ],
+  "prevention": [
+    "Wachunguzi wakitumia mitego ya manjano au ya Moericke",
+    "Epuka kutungishwa kwa nitrojeni kupita kiasi ili kupunguza uvutio uliokufa ganzi",
+    "Ondoa sehemu zilizoharibiwa za mimea haraka",
+    "Watie moyo chungu wenye ushirikiano katika mazingira yanayodhibitiwa tu",
+    "Mzunguko wa mazao na kudumisha afya nzuri ya mimea"
+  ],
+  "ant_mutualism": [
+    "Chungu fulani hufuga wadudu wanaoitwa aphids kwa ajili ya asali, nao huwalinda kutokana na wanyama wanaowinda",
+    "Chungu wanaweza kubeba mayai yaliyokauka wakati wa majira ya baridi kali na kuyarudisha kwenye mimea wakati wa masika",
+    "Uhudhuriaji wa wadudu huongeza uzalishaji wa asali na huathiri tabia ya kufira"
+  ],
+  "adaptations": [
+    "Rangi laini ya nta inayong'aa ili kujilinda",
+    "Soldier morphs katika spishi zinazotengeneza nyongo kwa ajili ya ulinzi",
+    "Kinga za kemikali kupitia mhindi (allomones, nta yenye kunata, kemikali za kemikali)",
+    "Uwezo wa kuacha mimea ili kuepuka wanyama - wawindaji"
+  ],
+  "sources": [
+    "Wikipedia  Wikipedia Aphid",
+    "Kupanda Fasihi ya Usimamizi",
+    "Marejezo ya Pest Management (IPM) yaliyorekebishwa"
+  ]
 }

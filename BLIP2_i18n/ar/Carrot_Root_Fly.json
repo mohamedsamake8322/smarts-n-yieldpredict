@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
-  "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "disease": "(أ) تأجيج (أ)",
+  "scientific_name": "تشامايبسيلا روازيه",
+  "pathogen_type": ")))))))))))))))))))))))))))))))))))))))))))))",
+  "description": "إن ذبابة جذر الجزر هو آفة حشرية خطيرة في الجزر والمحاصيل ذات الصلة، فالذرة الكبيرة تضع البيض في التربة القريبة من نباتات الجزر، واليرقات (اليرقات) تفقس وتنفق إلى الجذور، فتتغذى على الأنسجة وتتسبب في أضرار خطيرة للمحاصيل.",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "أوراق الشُّرَك المُقَرَّرة تَذْلُ وتُصَوَّضُ ضعفًا",
+    "أُسس أُرجعت إلى أحمر أو أُصفر",
+    "\"النفقات تحت الجلد\"",
+    "أصبحت الجذور مشوهة وتالفة",
+    "تُعَرَّفُ العُقَرُ بسهولة بعد الإصابَة",
+    "انخفاض الغلة ورداءة الجذور"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "أنفاق بُنِيٍّ مُتَصَرِّرًا",
+    "أُبطلت جذورها مع الثق",
+    "أحمر أو أصفر"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "اليرقات (اليرقات)",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "\"اليرق\" \"اليرق\" \"اليرق\" \"اليرقات\"",
+    "\"اليرمل\" هي \"الآذان\" الـ \"الآذان\"",
+    "حرفة يبلغ طولها حوالي 10 مم",
+    "« ذذباب ذذباب صغير وقليل الطير » ."
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "يُجِج",
+    "أولاً -"
   ],
-
   "hosts": [
-    "carrot",
-    "parsnip",
-    "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "(يتبع)",
+    "ما قبل نِسَنيب",
+    "مقرر",
+    "2 - الطور",
+    "المحاصيل الأخرى الأخرى"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apaceay",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "يطير الطيران بالبيض في التربة القريبة من النباتات",
+    "تفقس من البيض",
+    "يُغرّرُ في جذورِ وتَغذّي",
+    "يتطور في التربة ويصير لاحقا ذبابا ناضجا"
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "إلى درجة حرارة معتدلة",
+    "ظروف التربة",
+    "مـن خـلال مـن"
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "الراشد الواضع في التربة",
+    "بين حقول الجزر"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "استخدام تناوب المحاصيل لتجنب زراعة الجزر بصورة متكررة في نفس المجال",
+    "أزيلت النباتات المصابة والجذور التالفة",
+    "استخدام الحواجز المادية مثل الناشرة أو الحشرة",
+    "استخدام البستنة في تغطية المحاصيل",
+    "النباتات التي لا تُعَرِض"
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "(الأنواع التي تُستخدم في التربة)",
+    "المفترسات الطبيعية من اليرقات الذبابية"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "مبيدات مبيدات مبيدات مبيدات تربة معتمدة معتمدة حيثما توافرت",
+    "علاجات مبيدات حشرية موجهة ضد اليرقات (تنطبق الأنظمة المحلية)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "(بدولارات",
+    "الث",
+    "",
+    "(الروسية)",
+    "سُسْج"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "استخدام الحشرة الدقيقة التي تدور حول المحاصيل",
+    "محاصيل مزروعة بنفقات البستنة",
+    "الجزر المشتركة بين المجارير مع النباتات العطرية",
+    "الصرف الصحي الميداني",
+    "تجنب ترك الجزر التالفة في التربة"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "مجموعة حماية المُنتَجَب",
+    "مطبوعات جامعة المطبوع الزراعي",
+    "أدلة الإدارة المتكاملة للآفات"
   ]
 }

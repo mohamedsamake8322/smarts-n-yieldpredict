@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
+  "disease": "Spot de feuille de Carotte Alternaria",
   "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "pathogen_type": "Champignons",
+  "description": "La tache des feuilles d'Alternaria est une maladie fongique qui affecte principalement les feuilles de carotte. Elle commence sur les feuilles plus anciennes et produit des taches foncées avec des marges jaunes.",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "Marron foncé à taches noires sur les feuilles",
+    "Lésions angulaires avec bords jaunes",
+    "Les taches apparaissent en premier sur les feuilles plus anciennes",
+    "Les taches fusionnent et forment de grandes zones mortes",
+    "Les feuilles deviennent noires, sèches et fanées",
+    "Une infection sévère provoque la brûlure des feuilles et l'affaiblissement de la plante",
+    "Les semis peuvent mourir par amortissement"
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "taches de feuilles brun foncé ou noir",
+    "halo jaune autour des lésions",
+    "feuillage de carotte noirci"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "feuilles",
+    "les pétioles",
+    "Plantules"
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
-    "parsley",
-    "dill",
+    "Carotte",
+    "Céleri",
+    "persil",
+    "d'aneth",
     "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "Carotte sauvage",
+    "Autres cultures d'Apiacées"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apiacées",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "temps humide",
+    "pluies fréquentes",
+    "humidité élevée",
+    "plantation dense",
+    "longues périodes d'humidité des feuilles"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "graines infectées",
+    "pluie due au vent",
+    "Résidus de cultures infectés dans le sol",
+    "spores fongiques répandues par le vent"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Traiter les graines à l'eau chaude (50°C pendant 25-30 minutes)",
+    "Éviter les plantations denses pour réduire l'humidité",
+    "Enlever les débris de culture infectés après la récolte",
+    "Rotation des cultures pendant au moins 3 ans",
+    "Variétés de carottes tolérantes à la culture"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "Biofongicides des espèces Trichoderma",
+    "Bacillus subtilis fongicides biologiques"
   ],
-
   "chemical_control": [
-    "Mancozeb",
+    "Mancozéb",
     "Chlorothalonil",
-    "Copper fungicides",
+    "Fongicides de cuivre",
     "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "Fongicides de strobilurine",
+    "Fongicides du triazole"
   ],
-
   "seed_treatment": [
-    "Thiram",
+    "Thirame",
     "Captan"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "Spot foliaire de la carotte de Cercospora (Cercospora carotae)"
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "lésions brunes foncées à noires avec des halos jaunes",
+    "Cercospora_leaf_spot": "lésions circulaires brun clair ou bronzées"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "mort rapide du feuillage de la carotte",
+    "photosynthèse réduite",
+    "les principales pertes de rendement pendant les saisons pluvieuses"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "CSIRO – Maladies des cultures végétales en Australie",
+    "Université du Massachusetts Extension",
+    "Département des industries primaires et du développement régional"
   ]
 }

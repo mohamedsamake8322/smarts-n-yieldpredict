@@ -1,0 +1,90 @@
+{
+  "pest_name": "Nematodo de nudo de raíz meridional",
+  "scientific_name": "Meloidogyne incognita",
+  "common_abbreviations": [
+    "RKN",
+    "nematodo de la raíz meridional",
+    "nematodo de nudo de raíz de algodón"
+  ],
+  "description": "Meloidogyne incognita es una lombriz parasitaria que ataca las raíces de una amplia variedad de plantas, causando grandes agallas irregulares. Es uno de los nematodos de nudo raíz más comunes y económicamente importantes en todo el mundo.",
+  "distribution": "Ampliamente diseminado a nivel mundial, se encuentra en muchos tipos de suelo diferentes, principalmente regiones tropicales y subtropicales.",
+  "host_range": {
+    "general": "Extremadamente polifagos, atacando tanto monocotiledónicos como dicotiledónicos; se estima que más de 3.000 especies vegetales.",
+    "notable_hosts": [
+      "Mandioca (Manihot esculenta)",
+      "Algodón",
+      "Tomate",
+      "Pimienta",
+      "Tabaco",
+      "Café"
+    ]
+  },
+  "symptoms": {
+    "above_ground": [
+      "Estrés hídrico",
+      "Estrés nutricional",
+      "Amarillo",
+      "Desviación",
+      "Aturdimiento"
+    ],
+    "below_ground": [
+      "Gallas en raíces, bulbos y tubérculos",
+      "Muerte de plantas en altas infestaciones"
+    ]
+  },
+  "morphology": {
+    "female": {
+      "shape": "Con forma de pera",
+      "posterior_protuberance": "Ninguno",
+      "stylet_length": "15–16 μm",
+      "stylet_knobs": "Redondeado, en contrapeso",
+      "perineal_pattern": "Arco ovalado a redondeado, alto dorsal, estrias onduladas, campo lateral ausente o débilmente demarcado"
+    },
+    "male": {
+      "shape": "Vermiform",
+      "head": "Sin desplazamiento, disco labial elevado, generalmente sin labios laterales",
+      "stylet_length": "23–26 μm",
+      "stylet_knobs": "Redondeado a ovalado, offset"
+    },
+    "juvenile": {
+      "stage": "Segunda etapa (J2)",
+      "body_length": "350–450 μm",
+      "tail_length": "43–65 μm",
+      "hyaline_region": "6–14 μm de largo",
+      "shape": "Extremidad de la cola redondeada"
+    }
+  },
+  "life_cycle": {
+    "stages": [
+      "Huevo",
+      "J1",
+      "J2 (infeccioso)",
+      "J3",
+      "J4",
+      "Adultos"
+    ],
+    "description": "J2 juveniles eclosionan de los huevos, penetran en las puntas de la raíz, migran al tejido vascular, forman sitios permanentes de alimentación (células gigantes), mudan a los adultos. Las hembras se vuelven globosas y ponen huevos en masa gelatinosa; los machos dejan raíces.",
+    "reproduction": "Sexualmente dimórfico; hembras sedentarias, machos vermiformes"
+  },
+  "behavior": {
+    "thermotaxis": "Puede detectar y moverse a lo largo de gradientes de temperatura muy poco profundos para encontrar raíces",
+    "chemotaxis": "Responsivo a las señales químicas de las raíces del huésped"
+  },
+  "management": {
+    "cultural_control": [
+      "Rotación de cultivos con variedades no hospedantes o resistentes",
+      "Utilización de modificaciones orgánicas",
+      "Cultivos antagónicos vegetales como las especies Crotalaria spectabilis y Tagetes"
+    ],
+    "biological_control": [
+      "Hongos ovoparasitarios como Paecilomyces lilacinus"
+    ],
+    "chemical_control": [
+      "Varios nematicidos disponibles comercialmente"
+    ]
+  },
+  "notes": [
+    "Causa severos ataques y pérdida de rendimiento en muchos cultivos",
+    "Gran importancia económica en la agricultura tropical y subtropical"
+  ]
+}

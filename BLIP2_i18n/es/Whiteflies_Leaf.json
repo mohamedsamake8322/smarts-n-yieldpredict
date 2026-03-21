@@ -1,0 +1,129 @@
+{
+  "pest_name": "Hoja de plata Whitefly",
+  "scientific_name": "Bemisia argentifolii",
+  "common_names": [
+    "Mosca blanca de sweetpotato",
+    "Mosca blanca de hoja plateada"
+  ],
+  "description": "Los adultos son de 1,5 mm de largo, amarillo abdomen y tórax, alas blancas; las ninfas son ovaladas, translúcidas o amarillentas.",
+  "hosts": [
+    "Coles (brocoli, col, coliflor, col rizada, kohlrabi, col china, brotes de Bruselas)",
+    "Otros cultivos vegetales como hospedadores incidentales"
+  ],
+  "damage": [
+    "El consumo de savia conduce a un retraso en el crecimiento y la cosecha",
+    "Excreción de la mieldew promueve el moho de sooty, reduciendo la fotosíntesis",
+    "Blanqueo de tallos y pecíolos de hojas en brócoli (tallo blanco)"
+  ],
+  "life_cycle": [
+    "Huevos colocados en la parte inferior de la hoja",
+    "La primera estrella (crawler) es móvil; las ninfas posteriores son sésiles",
+    "La última estrella (pupa/ojo rojo) precede a la aparición adulta",
+    "Los adultos vuelan fácilmente cuando las plantas son perturbadas"
+  ],
+  "spread": [
+    "Por el viento y la migración de cultivos cercanos",
+    "Diseminación mecánica a través de herramientas o trabajadores contaminados",
+    "Aumento rápido de la población cuando los huéspedes cercanos están disminuyendo"
+  ],
+  "monitoring": [
+    "Verificar márgenes de campo 2x/semana (Aug-Oct) o semanal (Nov-Mar)",
+    "Las trampas pegajosas amarillas ayudan a detectar la migración inicial",
+    "Da la vuelta a las hojas para inspeccionar a las ninfas"
+  ],
+  "management": {
+    "cultural": [
+      "Retrasar la plantación o crear períodos libres de huésped para reducir la infestación",
+      "Cultivos de plantas contra viento de otros anfitriones de moscas blancas",
+      "Mantener el saneamiento: eliminar rápidamente las malas hierbas y los residuos de cultivos",
+      "Administrar el riego y el nitrógeno para evitar el crecimiento excesivo de las plantas que favorecen las moscas blancas"
+    ],
+    "biological": [
+      "Avispas parasitarias (Encarsia, Eretmocerus)",
+      "Depredadores: bichos bigotudos, larvas de encaje, escarabajos de señora",
+      "Hongos entomopatógenos: Beauveria bassiana, Isaria fumosorosea"
+    ],
+    "chemical": [
+      {
+        "name": "Cyantraniliprol (Exirel, Verimark)",
+        "targets": "Adultos",
+        "MOA_group": "28"
+      },
+      {
+        "name": "Clorantraniliprol (Coragen)",
+        "targets": "Adultos",
+        "MOA_group": "28"
+      },
+      {
+        "name": "Dinotefuran (Venom)",
+        "targets": "Adultos",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Imidacloprid (Admire Pro)",
+        "targets": "Ninfas",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Acetamiprid (Assail 70 WP)",
+        "targets": "Ninfas/adultos",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Flupiradifurona (Sivanto 200 SL)",
+        "targets": "Huevos y ninfas",
+        "MOA_group": "4D"
+      },
+      {
+        "name": "Sulfoxaflor (Sequoia CA)",
+        "targets": "Huevos y ninfas",
+        "MOA_group": "4C"
+      },
+      {
+        "name": "Tiametoxam (Actara)",
+        "targets": "Ninfas/adultos",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Bifentrina (Brigade 2EC)",
+        "targets": "Adultos",
+        "MOA_group": "3A"
+      },
+      {
+        "name": "Spirotetramat (Movento)",
+        "targets": "Ninfas",
+        "MOA_group": "23"
+      },
+      {
+        "name": "Spiromesifen (Óbelo 2 SC)",
+        "targets": "Ninfas",
+        "MOA_group": "23"
+      },
+      {
+        "name": "Buprofezina (Courier SC)",
+        "targets": "Ninfas",
+        "MOA_group": "16"
+      },
+      {
+        "name": "Jabones insecticidas",
+        "targets": "Ninfas y adultos",
+        "mode": "contacto"
+      },
+      {
+        "name": "Aceites de gama estrecha (Omni Oil, JMS Stylet-Oil)",
+        "targets": "Ninfas y adultos",
+        "mode": "Contacto/cubierto"
+      }
+    ],
+    "organic": [
+      "Beauveria bassiana e Isaria fumosorosea para el control de ninfas",
+      "Jabones insecticidas y aceites de gama estrecha",
+      "Burkholderia spp. (Venerada)"
+    ],
+    "resistance_management": [
+      "Rotar insecticidas con diferentes grupos de modo de acción",
+      "Optimizar la cobertura y el tiempo de aplicación"
+    ]
+  },
+  "notes": "Los umbrales no están bien establecidos; en los campos orgánicos o no tratados, tratar los bordes con preferencia si la infestación es más alta en los bordes."
+}

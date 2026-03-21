@@ -1,0 +1,48 @@
+{
+  "disease": "Fall Armyworm Adulto",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insectos (polla adulta)",
+  "description": "La lombriz de otoño adulta es una polilla nocturna responsable de poner huevos en las hojas de cultivo. Estos huevos eclosionan en larvas destructivas.",
+  "symptoms": [
+    "Masas de huevo cubiertas con escamas grises en las hojas",
+    "Presencia de polillas alrededor de los campos de cultivo por la noche"
+  ],
+  "hosts": [
+    "Maíz",
+    "Arroz",
+    "Sorgo",
+    "Mijo",
+    "Caña de azúcar",
+    "Hortalizas"
+  ],
+  "favorable_conditions": [
+    "Climas cálidos",
+    "Disponibilidad de cultivos de acogida",
+    "Estaciones de crecimiento lluviosas"
+  ],
+  "spread": [
+    "Polillas voladoras fuertes capaces de migración de larga distancia",
+    "Colocación de huevos sobre hojas de plantas huésped"
+  ],
+  "management": [
+    "Utilice trampas de feromonas para monitorear las poblaciones de polillas",
+    "Destruir las masas de huevo temprano",
+    "Controlar las larvas antes de que se propaguen"
+  ],
+  "biological_control": [
+    "Avispas parasitóidees que atacan huevos",
+    "Insectos depredadores que se alimentan de huevos"
+  ],
+  "chemical_control": [
+    "Tratamientos de destino aplicados cuando emergen las larvas"
+  ],
+  "prevention": [
+    "Monitorización de campo con trampas de feromonas",
+    "Variedades de cultivos resistentes a las plantas",
+    "Mantener la diversidad de cultivos"
+  ],
+  "source": [
+    "Guía de Monitoreo de Lombrices de Otoño de la FAO",
+    "Base de datos de especies invasoras del CABI"
+  ]
+}

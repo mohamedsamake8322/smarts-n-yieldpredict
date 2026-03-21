@@ -1,0 +1,209 @@
+{
+  "pest_name": "Südlicher Roter Mite",
+  "scientific_name": "Oligonychus ilicis",
+  "common_abbreviation": "SRM",
+  "description": "Südliche rote Milbe ist eine Spinnmilbe Schädling auf einer breiten Palette von Pflanzen einschließlich Kamelien, Rhododendron, Holly und Kaffee aufgezeichnet. Einzelpersonen neigen dazu, das obere Blatt zu bewohnen. Pestizidresistenz wurde im Ausland berichtet, und typische zweifleckige Milbe Raubtiere sind unwirksam gegen SRM.",
+  "appearance": {
+    "size": "< 0,5 mm",
+    "color": "Rotbraun bis tief purpurrot, manchmal mit einem blassen zentralen Pflaster und leichteren Beinen",
+    "sexual_dimorphism": "Weibchen etwas größer, nach außen abgerundet; Männchen schlank und blass",
+    "eggs": "Rotbraun, kugelförmig; normalerweise auf der oberen Blattoberfläche, überwinternde Eier hauptsächlich auf der unteren Blattoberfläche"
+  },
+  "life_cycle": {
+    "stages": [
+      "Ei",
+      "Larve (6 Beine)",
+      "Nymphe1 (8 Beine)",
+      "Nymphe2 (8 Beine)",
+      "Erwachsener"
+    ],
+    "generation_time": "7 Tage unter günstigen Bedingungen",
+    "population_peaks": "Frühling und Herbst (mäßige Temperaturen 15–30°C, trockene Bedingungen)",
+    "overwintering": "Eier auf der unteren Blattoberfläche und manchmal Rinde"
+  },
+  "dispersal": [
+    "von Wind getragen; kann aus Seidenfäden baumeln",
+    "Hitch-hiking auf Menschen und Ausrüstung",
+    "Durch Berühren der Blätter verteilen"
+  ],
+  "host_range": [
+    {
+      "common_name": "Azaleen",
+      "scientific_name": "Rhododendron spp."
+    },
+    {
+      "common_name": "Kamelie",
+      "scientific_name": "Camellia japonica"
+    },
+    {
+      "common_name": "Amerikanische Sycamore",
+      "scientific_name": "Platanus occidentalis"
+    },
+    {
+      "common_name": "Buchsbaum",
+      "scientific_name": "Buxus spp."
+    },
+    {
+      "common_name": "Kampferbaum",
+      "scientific_name": "Cinnamonum camphora"
+    },
+    {
+      "common_name": "Kaffee",
+      "scientific_name": "Coffea arabica"
+    },
+    {
+      "common_name": "Cotoneaster",
+      "scientific_name": "Cotoneaster sp."
+    },
+    {
+      "common_name": "Preiselbeere",
+      "scientific_name": "Vaccinium macrocarpon"
+    },
+    {
+      "common_name": "Hirschgras",
+      "scientific_name": "Rhexia sp."
+    },
+    {
+      "common_name": "Hündchen",
+      "scientific_name": "Leucothoe sp."
+    },
+    {
+      "common_name": "Elaeagnus/Silberdorn",
+      "scientific_name": "Elaeagnus pungens"
+    },
+    {
+      "common_name": "Englische Walnuss",
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "common_name": "Eukalyptus",
+      "scientific_name": "Eukalyptus-Arten"
+    },
+    {
+      "common_name": "Guave",
+      "scientific_name": "Psidium guajava"
+    },
+    {
+      "common_name": "Holly",
+      "scientific_name": "Ilex spp."
+    },
+    {
+      "common_name": "Hibiskus",
+      "scientific_name": "Hibiscus spp."
+    },
+    {
+      "common_name": "Wacholder",
+      "scientific_name": "Juniperus sp."
+    },
+    {
+      "common_name": "Lorbeer- oder Lorbeerblätter",
+      "scientific_name": "Laurus nobilis"
+    },
+    {
+      "common_name": "Loquat",
+      "scientific_name": "Eriobotrya japonica"
+    },
+    {
+      "common_name": "Eiche",
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "common_name": "Birne",
+      "scientific_name": "Pyrus communis"
+    },
+    {
+      "common_name": "Pekannüsse",
+      "scientific_name": "Carya illininoensis"
+    },
+    {
+      "common_name": "Photinia/rote Spitze",
+      "scientific_name": "Photinia spp."
+    },
+    {
+      "common_name": "Pyracantha",
+      "scientific_name": "Pyracantha coccinea"
+    },
+    {
+      "common_name": "Rosenapfel",
+      "scientific_name": "Syzygium-Jambos"
+    },
+    {
+      "common_name": "Seideneiche",
+      "scientific_name": "Grevillea robusta"
+    },
+    {
+      "common_name": "Fichte",
+      "scientific_name": "Picea sp."
+    },
+    {
+      "common_name": "Sommersüß",
+      "scientific_name": "Clethra alnifolia"
+    },
+    {
+      "common_name": "Erdbeere",
+      "scientific_name": "Fragaria x ananassa"
+    },
+    {
+      "common_name": "Tee",
+      "scientific_name": "Camellia sinensis"
+    },
+    {
+      "common_name": "L 347 vom 20.12.2013, S. 671.",
+      "scientific_name": "Viburnum spp."
+    },
+    {
+      "common_name": "Oxalis",
+      "scientific_name": "Oxalis"
+    },
+    {
+      "common_name": "Laurel von Schafen",
+      "scientific_name": "Kalmia angustifolia"
+    },
+    {
+      "common_name": "Erdbeere",
+      "scientific_name": "Prunus virginiana"
+    },
+    {
+      "common_name": "Lederblatt",
+      "scientific_name": "Chamaedaphne calyculata"
+    },
+    {
+      "common_name": "Walnuss",
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "common_name": "Reis",
+      "scientific_name": "Oryza sativa"
+    }
+  ],
+  "damage_symptoms": [
+    "Fütterung auf den oberen Blättern verursacht Mesophyll Kollaps, Ergrauen und Stippen",
+    "Blätter verlieren Glanz, erscheinen bronzen oder stumpf",
+    "Bronzing beginnt entlang Midrib und Venen, schließlich bedeckt ganze Blatt",
+    "Große Populationen führen zu schweren Blatttropfen",
+    "Reduzierte Pflanzenkraft und Wachstum, insbesondere bei trockenen oder wasserbeanspruchten Pflanzen"
+  ],
+  "detection_monitoring": [
+    "Direkte visuelle Beobachtung von Schäden, lebenden Milben und Abwurfhäuten",
+    "Handlinse zur Bestätigung",
+    "Pflanzenschlag auf Tablett (weiß/schwarz) für niedrige Populationen",
+    "Beobachtung von roten Eiern auf Wirtspflanzen"
+  ],
+  "chemical_control": [
+    "Pestizide der älteren Generation historisch verwendet",
+    "Aldicarb, Bifenthrin, Chlorpyrifos, Dicofol, Omethoat, Propargit, Tau-Fluvinat, Tebufenpyrad wirksam unter bestimmten Bedingungen",
+    "Abamectin, Chlorfenapyr, Dimethoat, Fenbutatinoxid, Maldison nicht immer wirksam",
+    "Späte Anwendungen weniger effektiv; frühe Anwendung, wenn Populationen niedrig empfohlen"
+  ],
+  "biological_control": [
+    "Prädatormilben (Neoseiulus fallacis) und Ladybeetle (Stethorus punctillum) im Ausland wirksam",
+    "Prädatoren wie Neoseiulus californicus und Phytoseiulus persimilis nicht für SRM empfohlen",
+    "Die Erhaltung natürlicher Raubtiere kann dazu beitragen, die Populationen zu reduzieren"
+  ],
+  "notes": [
+    "SRM bevorzugt obere Blattoberfläche, bewegt sich niedriger, wenn die Populationen zunehmen",
+    "Höchststand der Bevölkerung bei mäßiger Temperatur und trockenen Bedingungen",
+    "Hohe Niederschläge verringern Populationen",
+    "Australische kommerzielle Raubtiere wurden nicht gegen SRM getestet"
+  ]
+}

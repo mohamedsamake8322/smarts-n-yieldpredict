@@ -1,0 +1,52 @@
+{
+  "disease": "Ogologo Ntachi Obi Dị Oké Ọnụ Ahịa",
+  "scientific_name": "Ezinụlọ: Ceramccclae",
+  "pathogen_type": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+  "description": "Ihe ndị e ji eme ka osisi dị ogologo bụ ụmụ ahụhụ ndị na - awakpo osisi na osisi ndị e ji osisi mee.",
+  "symptoms": [
+    "Ọwa mmiri na ọwa mmiri ndị dị n'ime ala, alaka, ma ọ bụ n'osisi ndị dị n'ebe ahụ",
+    "Ndị nọ n'ime ụlọ (nke anya nke dị n'ime ala)",
+    "Akwụkwọ ya ma ọ bụ akwụkwọ ya na - acha odo odo",
+    "Akụkụ Dị Iche Iche nke alaka",
+    "Uto e nwere n'ụzọ a na - achịkwaghị achịkwa"
+  ],
+  "hosts": [
+    "Osisi ndị siri ike bụ́ osisi ndị nwere osisi ndị na - acha nchara nchara (na - ekwu, map, ntụ)",
+    "Osisi ndị na - amị mkpụrụ (al, alryry, ral)",
+    "Osisi ndị dị n'oké ọhịa",
+    "Osisi ndị na - amị mkpụrụ na osisi ndị na - egbuke egbuke"
+  ],
+  "favorable_conditions": [
+    "Osisi ndị na - asọ oyi ma ọ bụ ndị na - esighị ike",
+    "Ihu igwe na - ekpo ọkụ na nke na - ekpo ọkụ",
+    "Osisi ndị dara ada ma ọ bụ ndị nwụrụ anwụ dị nso"
+  ],
+  "spread": [
+    "Ụgbọ mmiri ndị na - efe efe na - efe efe gaa n'osisi ndị dị nso",
+    "Osisi, osisi, ma ọ bụ ihe ndị e ji akpa ákwà",
+    "Ndị toworo eto, bụ́ ndị na - achọ ihe ọkụkụ ndị ọhụrụ a ma ama, na - emebi ụwa"
+  ],
+  "management": [
+    "Jiri osisi ndị na - egbuke egbuke na - akwọ ụgbọ mmiri ma na - ewepụ ha",
+    "N'ihi ya, alaka ụlọ ọrụ ndị e nwere n'obodo ahụ na - ebu ngwá ahịa ha n'isi, na - egbukwa ha.",
+    "Ndị toworo eto bụ́ ndị nwere ọtụtụ ndị toworo eto bụ́ ndị na - esi ọnyà",
+    "Nyere osisi aka ka ahụ́ sie ya ike ka ọ ghara ịna - emepụta ihe ndị ga - eme ka ahụ́ ghara ịna - agbasi ya ike",
+    "Zere ibu nkụ ma ọ bụ ihe ndị e ji akụ ihe n'ebe ndị ala ọma jijiji na - adịghị mee"
+  ],
+  "chemical_control": [
+    "Ihe ndị e ji eme ihe n'oge a (ya bụ,g.g., ihe e ji eme ihe n'ala ma ọ bụ n'osisi",
+    "Ndị na - eti mkpu maka ndị toworo eto (ndị na - eme ka à ga - asị na ha bụ ndị na - agba chaa chaa)",
+    "Iburu ihe n'isi dị oké mkpa: Ndị ntorobịa e lekwasịrị anya na ya bụ́ ndị toworo eto na ndị toworo eto na - etolite etolite"
+  ],
+  "prevention": [
+    "Ha na - eji osisi ndị e ji osisi rụọ na osisi ndị e ji osisi rụọ eme nchọnchọ",
+    "Nọgide na - enwe ahụ́ ike siri ike",
+    "Wepụ osisi ndị nwụrụ anwụ ma ọ bụ ndị e mesiri ike ozugbo",
+    "Jiri osisi mee ihe n'ụzọ na - adịghị mma ma ọ bụ bụrụ ihe mgbochi ndị na - echebe mmadụ bụ́ ndị na - eme ka mmadụ ghara ịdị ike"
+  ],
+  "source": [
+    "Ụlọ Ọrụ Na - ahụ Maka Oké Ọhịa n'Oké Ọhịa",
+    "PAYI N'OZỌTI N'Ahụ́ Ahụ́ E Ji Eme Ihe n'Ụzọ Na - adịghị Ize Ndụ",
+    "Akwụkwọ nkà mmụta sayensị ndị na - ekwu banyere otú e si eji ike emegbu mmadụ"
+  ]
+}

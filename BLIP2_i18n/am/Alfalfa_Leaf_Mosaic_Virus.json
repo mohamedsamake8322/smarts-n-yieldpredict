@@ -1,0 +1,70 @@
+{
+  "disease_name": "የኦሪጂናል _ የኦሪጂናል _ Virus",
+  "common_name": "የ ALFALFA MOSAIC நோய்கள்",
+  "pathogen": {
+    "type": "የቪዲዮዎች",
+    "scientific_name": "የ ALFALFA MOSAIC VIRUS",
+    "abbreviation": "የ AMV",
+    "family": "ፎቶዎች",
+    "genus": "የ Alfamovirus"
+  },
+  "host_plants": [
+    "የላኪያ",
+    "የክፍያ",
+    "የቶማስ",
+    "ፎቶዎች",
+    "የኦሪጂናል",
+    "ፎቶዎች",
+    "ፎቶዎች",
+    "የንግድ",
+    "የሙዚቃ",
+    "ብዙ ምልክት ምልክት"
+  ],
+  "symptoms": {
+    "leaves": [
+      "ጥቁር ጥቁር mozaic ሞዴሎች",
+      "የክሎሮቲክ ሞዴል",
+      "ፎቶ ፎቶ",
+      "ቀጣይ ወይም ቀጣይ ፎቶዎች",
+      "ዝቅተኛ መጠን"
+    ],
+    "plants": [
+      "ልምድ ልምድ",
+      "ዝቅተኛ ኃይል",
+      "ዝቅተኛ ዋጋ"
+    ]
+  },
+  "transmission": {
+    "vectors": [
+      "Aphids (ገደማ 20 ዓይነት)"
+    ],
+    "mechanical_transmission": true,
+    "seed_transmission": true,
+    "vegetative_propagation": true
+  },
+  "favorable_conditions": [
+    "ከፍተኛ APHID ግዛት",
+    "ሙቀት",
+    "መኖሪያ ቤት መኖሪያ ቤት መኖሪያ ቤት መኖሪያ ቤት"
+  ],
+  "management": {
+    "cultural_control": [
+      "የቪሪስ-free certificated seeds ይጠቀማል",
+      "የሞክሮ መሣሪያዎች",
+      "መቆጣጠሪያ መሣሪያዎች እንደ የቪሮስ መሣሪያዎች ይሰራል"
+    ],
+    "vector_control": [
+      "መኖሪያ ቤት እና መኖሪያ ቤት Aphid Populations"
+    ],
+    "resistant_varieties": "አንዳንድ tolerant cultivars በሽያጭ ላይ የተወሰነ ነው"
+  },
+  "economic_importance": {
+    "impact": "ምርቶች እና ምርቶች እና ምርቶች ውስጥ ምርቶች እና ምርቶች ያካትታል",
+    "distribution": "በዓለም አቀፍ"
+  },
+  "sources": [
+    "APS የፕላስቲክ መሣሪያዎች",
+    "የ CABI Crop Protection Compendium ይሰጣል",
+    "የ ICTV Virus Taxonomy ማረጋገጫ"
+  ]
+}

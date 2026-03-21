@@ -1,0 +1,105 @@
+{
+  "disease_name": "Hoja de Banana Negro Sigatoka",
+  "common_name": "Sigatoka negra",
+  "other_names": [
+    "Raya de hoja negra",
+    "BLS"
+  ],
+  "pathogen": {
+    "type": "Hongos",
+    "scientific_name": "Pseudocercospora fijiensis"
+  },
+  "host_plant": {
+    "common_name": "Plátano",
+    "scientific_name": "Musa spp."
+  },
+  "affected_parts": [
+    "Hojas"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Pequeñas manchas de color rojizo u marrón oxidado en la parte inferior de las hojas de plátano",
+      "Pequeñas rayas paralelas a las venas de las hojas"
+    ],
+    "intermediate_stage": [
+      "Se alarga y se oscurece en líneas rojizas-marrones o negras",
+      "Las lesiones se hacen visibles a ambos lados de la hoja"
+    ],
+    "advanced_stage": [
+      "Lesiones en forma de oval con centros grises",
+      "Halos amarillos que rodean lesiones",
+      "Grandes áreas necróticas que causan la muerte de las hojas"
+    ]
+  },
+  "disease_cycle": {
+    "spores": [
+      "Conidia",
+      "Ascoporos"
+    ],
+    "spread_mechanism": [
+      "Viento",
+      "Salpicadura de la lluvia",
+      "Corrientes de aire"
+    ],
+    "favorable_conditions": [
+      "Alta humedad",
+      "Lluvias frecuentes",
+      "Clima tropical cálido"
+    ],
+    "infection_time_days": 27
+  },
+  "impact": {
+    "yield_loss_percent": "30-50%",
+    "effects": [
+      "Muerte de hojas",
+      "Tamaño reducido de la fruta",
+      "Reducción de la calidad de los frutos",
+      "Maduración precoz y desigual de la fruta"
+    ]
+  },
+  "distribution": [
+    "Asia sudoriental",
+    "India",
+    "China",
+    "Islas del Pacífico",
+    "África oriental",
+    "África occidental",
+    "Centroamérica",
+    "América del Sur",
+    "Caribe",
+    "Papua Nueva Guinea",
+    "Hawai (EE.UU.)"
+  ],
+  "similar_diseases": [
+    "Sigatoka amarilla (Pseudocercospora musae)",
+    "Mancha de la hoja de Eumusae (Pseudocercospora eumusae)"
+  ],
+  "management": {
+    "cultural_control": [
+      "Eliminación de las hojas infectadas",
+      "Mejora del drenaje en el campo",
+      "Reducir la humedad alrededor de las plantas",
+      "Variedades de plátano resistentes a la siembra"
+    ],
+    "chemical_control": [
+      "Fungicidas triazol",
+      "Fungicidas inhibidores de la desmetilación",
+      "Carbamatos de metil benzimidazol (MBC)"
+    ],
+    "biological_or_genetic_control": [
+      "Cultivadores de plátano resistentes a la reproducción",
+      "Variedades de plátanos resistentes a modificaciones genéticas"
+    ]
+  },
+  "spread_risk_factors": [
+    "Movimiento de material vegetal infectado",
+    "Transporte de hojas de plátano utilizadas para el envasado de alimentos",
+    "Equipos o materiales de embalaje contaminados"
+  ],
+  "references": [
+    "Biosecurity Queensland – Perfil de plaga de Sigatoka Negra",
+    "FAO Informes sobre la enfermedad del banano",
+    "Cook et al., 2013. Crop Protection Journal",
+    "Pattison, 2014. Bananas australianas"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pest_name": "Daños en las hojas de Stem Borer",
+  "pest_type": "insecto",
+  "description": "Los tallos son plagas de insectos cuyas larvas se alimentan de tallos y hojas de plantas. Son comunes en los cultivos de cereales como el maíz, el arroz y el sorgo. Las larvas se hunden en los tallos y causan daños internos que reducen el crecimiento y la productividad de las plantas.",
+  "affected_parts": [
+    "Hoja",
+    "Tallo"
+  ],
+  "hosts": [
+    "Maíz",
+    "Arroz",
+    "Caña de azúcar",
+    "Sorgo"
+  ],
+  "symptoms": [
+    "Agujeros de hoja y marcas de alimentación",
+    "Síntomas de corazón muerto en plantas jóvenes",
+    "Tunelización de tallos",
+    "Reducción del crecimiento de las plantas"
+  ],
+  "spread": [
+    "Insectos adultos que ponen huevos sobre hojas de plantas",
+    "Larvas que se mueven en los tallos de las plantas"
+  ],
+  "management": {
+    "cultural": [
+      "Eliminar los residuos de cultivos",
+      "Rotación de cultivos",
+      "Utilizar variedades resistentes"
+    ],
+    "biological": [
+      "Fomentar las avispas parasitoideas y los depredadores naturales"
+    ],
+    "chemical": [
+      "Aplicar insecticidas recomendados cuando los niveles de infestación sean altos"
+    ]
+  }
+}

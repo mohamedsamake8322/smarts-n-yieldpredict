@@ -1,0 +1,77 @@
+{
+  "disease_name": "IHE NDỊ NA - EME N'OGE OCHIE",
+  "type": "Ọrịa na - efe efe",
+  "causal_agent": "Nje virus ndị na - acha odo odo bụ́ ndị na - akpata ọrịa odo bụ́ ndị a na - ebute site n'oge ruo n'oge, bụ́ ndị na - agwọ ọrịa ogbu na nkwonkwo nke yiri ajụ oyi, na - akpata ọrịa ogbu na nkwonkwo nke ezinụlọ ha",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "Ngwá ọrụ ndị e ji awa osisi bụ́ ndị e ji awa osisi (nke a na - akpọ Clancum mxna)",
+      "Plato (Ọlumumumumumumum)",
+      "Ịṅụ sịga (n'asụsụ Igbo)",
+      "Ndị na - eme mpụ (ndị na - eme omume rụrụ arụ)",
+      "Ndị na - agba chaa chaa (ndị na - eme egwuregwu na - enwe mmetụta dị njọ n'ahụ́ ibe ha)"
+    ],
+    "weeds": [
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Mavapplia"
+    ]
+  },
+  "distribution": "Gburugburu ụwa, karịsịa ógbè okpomọkụ na gburugburu ebe okpomọkụ",
+  "vector": {
+    "species": "Belmiia _asad (nke na - acha ọcha ma ọ bụ nke na - acha ezigbo ọcha)",
+    "transmission_type": "Ndị Na-enweghị Ihe Ndị Na-ahụ Maka Ya",
+    "notes": [
+      "Oge e wepụtara maka ya: minit 1520",
+      "Oge Ọ Ga - ewe: Ọnwa asatọ na narị awa abụọ na iri anọ na anọ",
+      "Ụmụ nwanyị na - ebute nje virus n'ọ̀tụ̀tụ̀ buru ibu karịa ụmụ nwoke",
+      "E mere nchọpụta maka ọgbọ abụọ",
+      "Ihe e dere n'akwụkwọ ahụ gosiri na mmekọahụ na - adị n'etiti ihe ndị na - acha ọcha"
+    ]
+  },
+  "symptoms": {
+    "foliage": [
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Otú akwụkwọ osisi ndị ahụ hà",
+      "Ihe ndị dị n'azụ iko bụ́ ndị e ji akwụkwọ ndị e biri ebi mee",
+      "A na - eji akwụkwọ osisi na okooko osisi eme ka okooko osisi maa mma"
+    ],
+    "fruit": [
+      "Ọ na - eme ka mkpụrụ osisi na - eto ngwa ngwa",
+      "Mkpụrụ osisi a mịrị amị"
+    ],
+    "overall_impact": "Ndakpọ nke mfu nke nde mmadụ 900,000 pụrụ ịdị n'oké ntiwapụ"
+  },
+  "disease_cycle": [
+    "Ọ bụ mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa, ngwá ọrụ ndị e metọrọ emetọ, ma ọ bụ ndị na - emepụta ọcha",
+    "Ozugbo e guzobere ya, ụmụ irighiri ihe ndị na - acha ọcha na - agbasa nje virus ngwa ngwa site n'ihe ọkụkụ gaa n'ihe ọkụkụ",
+    "A ka na - anọ n'ìgwè ndị ọzọ yiri ya, dị ka ahịhịa na ihe ọkụkụ ndị ọzọ na - amị mkpụrụ",
+    "Ihe ndị na - eme gburugburu ebe obibi dị ka ihu igwe na - ekpo ọkụ bụ́ ndị na - eme ka e nwee mmasị na nje virus"
+  ],
+  "management": {
+    "cultural": [
+      "Ụcha tomato ma ọ bụ kwe ka ụdị tomato dị iche iche dịgide",
+      "Tinyere mkpụrụ akụ́kụ́ na-adịghị mma n'anya ka o belata n'otú o si arụ ọrụ",
+      "Ha na - ejide ìgwè ndị ahụ aka ma ọ bụ na - achịkwa ha",
+      "Jiri mmiri ọgwụ ahụ́ gị na - emepụta na - ebelata ihe ndị na - eme ka ezé gị na - arụ ọrụ nke ọma"
+    ],
+    "chemical": [
+      "Itinye Ụkpụrụ Omume Ọma n'Ọrụ n'Ihe Ize Ndụ Ndị Dị n'Ahụ́ Ike, na - akwado ma ọ bụ na - ejikọta ihe ndị e ji eme ihe n'ụzọ dị irè iji gbochie iguzogidesi ike",
+      "Ihe mere o ji dị mkpa ka a na - etinye akwụkwọ n'ebe a na - edebe ihe ọmụma n'ụzọ dị ngwa bụ n'ihi mgbasa dị ngwa nke nje virus ndị na - acha ọcha na - agbasa ngwa ngwa"
+    ],
+    "genetic": [
+      "Ụzọ ndị e si enweta tomato ma ọ bụ ụzọ ndị e si abanye n'ebe ndị a na - egwupụta ihe n'ala iji mepụta usoro tomato ndị na - adịghị ize ndụ"
+    ]
+  },
+  "notes": [
+    "E NWERE otu n'ime ọrịa ndị kacha njọ na - esi ísì ụtọ a na - ebute na tomato n'ụwa niile",
+    "Ọ na - emetụta mba ndị ka na - emepe emepe karịsịa n'ihi ihu igwe nakwa n'ihi ọ̀tụ̀tụ̀ dị ukwuu nke ịchịkwa ihe",
+    "Usoro bụ́ ịgba e ji achịkwa ụdị dị iche iche nke ihe ndị na - esi ísì ọma, ịchịkwa ụdị dị iche iche, na ụzọ e si eme ihe n'ọdịbendị na - arụpụtakarị ihe"
+  ],
+  "references": [
+    "Czosn, H. & Karrot, H. 1997. 1997. 1997 a na - ahụ maka ọrịa na - efe efe, bụ́ nje na - akpata ọrịa na - efe efe nke na - akpata ọrịa na - efe efe n'ụwa nile.",
+    "& Lapidodot, M. 2007, 2007 Management nke Na - ahụ Maka Ọrịa Ụmụ Nwanyị Na - efe Efe: A Na - enyocha Ihe Ndị A Na - amụ Amụ 91: 1253.",
+    "Brown, J.K., 2015."
+  ]
+}

@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
-  "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "pest_name": "Twospotted Örümcek Mite",
+  "scientific_name": "Tetranychus urticae Koch Hakkında",
+  "type": "artrit / mite",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "Yetişkinler 0.4 - 0.5 mm uzunluğu",
+    "appearance": "Oval, yeşil ile sarı gövde iki karanlık nokta ile; sekiz bacak",
+    "life_cycle": "Yumurta → larva → protonymph → deutonymph → yetişkin; sezon başına birkaç nesil",
+    "notes": "Çok küçük, genellikle tespit için bir el lens veya büyütme gerektirir"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "domates",
+      "Çanakkale",
+      "Pepper için",
+      "Strawberry için"
+    ],
+    "secondary": [
+      "Birçok dekorasyon, sebze ve meyve bitkileri"
+    ],
+    "weeds": [
+      "Ortak tahıl ev sahipleri, off-season döneminde nüfusları limanlayabilir"
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "Dünya çapında, özellikle sıcak, kuru koşullarda",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "Yukarıdaki yaprak yüzeyinde ince sarı veya sarı noktalar (kırpma)",
+      "Ağır infestasyonlar altında yaprakların alt kısmında webbing",
+      "Yapraklar bronz, eğilebilir ve erken düşebilir."
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "Düşük fotosentez, çarpıcı büyüme, düşük verimlilik, artan bitki stresi"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "Sıcak, kuru hava koşullarında",
+    "Topluluk büyümesi 25-35°C sıcaklıklarında hızlıdır",
+    "Düşük nispeten nem avantajları patlamaları"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "Rüzgar, sulama suyu, kirlenmiş aletler",
+    "Enfekte bitkiler veya bitki çöpleri aracılığıyla taşındı"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "Bitkilerdeki stresi azaltmak için yeterli sulama ve nem sağlamak",
+      "Enfekte bitki çöpleri ve çöpleri ortadan kaldırmak",
+      "Doğal haydutları rahatsız eden geniş spektrumlu böcek maddelerinin aşırı kullanımından kaçının."
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "Predatory efsaneleri (örneğin, Phytoseiulus persimilis, Neoseiulus californicus)",
+      "Doğal hırsızları teşvik edin, örneğin hanımefendiler ve kayıplar"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "Miticidler (acaricidler) son kurtarma ve dirençten kaçınmak için kimyasal sınıfları döndürmek için kullanın",
+      "Mitlerin yoğunlaştığı yaprakların alt kısmına uygulayın"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "Dünya çapında en yaygın ve ekonomik olarak önemli mite pestlerinden biri",
+    "Çeşitli kimyasal sınıflara karşı hızlı direnç geliştirebilir"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "Helle, W. & Sabelis, M.W. Spider Mites: Onların Biyolojisi, Doğal Düşmanlar ve Kontrolü.",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Pest Control için Mitler (Acari).",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Ekonomik Bitkiler için zararlı mitler."
   ]
 }

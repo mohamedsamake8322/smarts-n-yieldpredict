@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
-  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
+  "disease": "Athari ya bakteria",
+  "scientific_name": "Xanthomonas axonopodis pv. calol",
   "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "description": "Bakteria hizo huambukiza mimea kupitia matundu ya asili au vidonda na kuenea haraka katika mazingira yenye joto na unyevunyevu.",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "Alama ndogo za maji kwenye majani",
+    "Manyoya ya kahawia au meusi yenye halu za manjano",
+    "Maeneo makubwa yasiyo ya kawaida yaliyokufa kwenye majani",
+    "Majani yanang'oa au kukaushwa",
+    "Sehemu zenye maji na maji kwenye maganda ya maji",
+    "Podi huwa wa kahawia, waliokonda, au waliolemaa"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
+    "ini ya kawaida",
+    "figo aina ya beni",
+    "paper size",
+    "\" black itan \"",
+    "Mbaniani wa jeshi la wanamaji",
+    "lima beani",
+    "paper size",
     "soybean",
-    "other Phaseolus species"
+    "spishi nyingine za Phaselu"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "Halijoto yenye joto (252525252530tokaC)",
+    "Unyevu mwingi",
+    "Mvua ya mara nyingi",
+    "Kunyunyiza maji kupita kiasi",
+    "Maeneo yenye matawi mengi ya miti"
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "Mbegu zilizoambukizwa",
+    "Maji ya mvua",
+    "Mvua inayonyesha wakati wa upepo",
+    "Vifaa vilivyochafuliwa",
+    "Kuwasiliana kati ya mimea yenye unyevu"
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "Tumia mbegu zilizothibitishwa zisizo na maradhi",
+    "Ondoa mabaki ya mimea iliyoambukizwa",
+    "Epuka umwagiliaji maji mashamba juu",
+    "Zungusha mazao kwa miaka 233",
+    "Fanya maendeleo ya upitishaji hewa shambani"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "Bacillus citilis zilizotengenezwa kutokana na kemikali za kuua viini",
+    "Pseudomona Zang'aa kwa matibabu ya kibiolojia",
+    "Ukinzaji wa mimea katika aina mbalimbali za maharagwe"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "Shaba hidraksaidi",
+    "\" Copper okychloride \"",
+    "Mchuzi wa shaba",
+    "Dawa za Viini vya shaba"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "Panda aina mbalimbali zenye kukinza unapopatikana",
+    "Tumia mbegu safi",
+    "Epuka kufanya kazi katika mashamba yenye majimaji",
+    "Vifaa vya Kuambukiza",
+    "Dumisha usafi wa mazingira"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
+    "KABI Protection Compendium",
+    "FAO's climators cruction",
     "University plant pathology extension publications"
   ]
 }

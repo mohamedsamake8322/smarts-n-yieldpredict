@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
-  "causal_agent": "Septoria lycopersici",
+  "disease_name": "Siku ya Siku ya Septoria",
+  "type": "Ugonjwa wa fungus",
+  "causal_agent": "Siku ya Siku ya Siku",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "Matunda ya mimea (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Matunda ya mimea (kwa mfano, horsenettle)"
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "duniani kote",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "Sehemu za mzunguko na margina za rangi za rangi za rangi za rangi za rangi za rangi za rangi za rangi",
+      "Maeneo yaliyotumika na Pycnidia ya Black",
+      "Halo ya nyekundu rahisi mara nyingi huathiri majeruhi ya nyekundu",
+      "Maambukizi makubwa yanayotokana na rangi ya rangi, kuongezeka, kuongezeka, na kuongezeka"
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "Maambukizi ya matunda ni ya kawaida"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "Magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa ya magonjwa",
+    "Inaweza pia kuishi juu ya vifaa kama mbegu za mimea na kashi",
+    "Conidia ni kuenea kwa kuondoa maji kutoka kwa mvua au sprinkler irrigation",
+    "Ukosefu wa juu, nishati ya juu, na ukosefu wa muda mrefu wa karatasi husaidia maendeleo ya magonjwa"
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "Matunda ya Rotate kwa muda wa angalau 1-2 kwa matunda yasiyo ya joto",
+      "Mchakato wa mazao ya kuvutia kama vile horsenettle",
+      "Kuondoa na kuharibu mbegu za mimea (kuharibiwa au kuangamiza mimea yaliyoathiriwa ikiwa inawezekana)",
+      "Kazi ya kuanguka au kuanguka ili kuboresha usafiri wa hewa na kupunguza usambazaji wa ardhi na folia",
+      "Kuongezeka kwa umeme kati ya mimea na kuepuka overmulching ili kupunguza umeme",
+      "Ufuatiliaji wa kuvutia ili kuzuia uzito wa muda mrefu wa karatasi",
+      "Tumia aina ya mimea ya mimea ambapo inapatikana"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "Kuanzisha injini za kulinda za fungicide kwa muda wa kawaida",
+      "Fungicides na viungo vya kazi kama vile chlorothalonil au etylene bisdithiocarbamate (EBDC) ni sahihi",
+      "Majina ya biashara ya kawaida ni Daconil, Mancozeb, Fungonil",
+      "Kutoa mara kwa mara (kwa kawaida kila siku 7) kama kwa maelekezo ya maelekezo",
+      "Matumizi ya kuzuia ya fungicides ya baku au chlorothalonil inaweza kuwaruhusiwa katika maeneo ya infection ya chronic"
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "Hatua ya kuzuia ni sahihi zaidi kuliko kujaribu kutibu mimea yaliyoathiriwa",
+    "Conidia inawezekana kuishi juu ya misitu na vifaa, hivyo utunzaji ni muhimu",
+    "Utoaji wa juu au umaskini wa juu huongezeka kwa ugonjwa wa kupanua"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "Chuo Kikuu cha Wisconsin Kliniki ya Matibabu ya Matibabu (PDDC).",
+    "Brannen, P. & Sugar, D. 2020. Utawala wa Siku ya Tomato katika Mji wa nyumbani.",
+    "Jones, J.B., et al. 2014 Compendium of Tomato Diseases and Pests, 2nd Edition."
   ]
 }

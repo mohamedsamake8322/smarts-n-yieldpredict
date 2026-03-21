@@ -1,62 +1,62 @@
 {
-  "disease": "Banana Leaf Anthracnose",
+  "disease": "Anthracnose des feuilles de bananes",
   "scientific_name": "Colletotrichum musae",
-  "pathogen_type": "Fungus",
-  "common_name": "Anthracnose of Banana",
-  "host_plant": "Banana (Musa spp.)",
+  "pathogen_type": "Champignons",
+  "common_name": "Anthracnose de la banane",
+  "host_plant": "Banane (Musa spp.)",
   "affected_parts": [
-    "Leaves",
+    "Feuilles",
     "Pseudostem",
-    "Fruit (in advanced infection)"
+    "Fruits (dans une infection avancée)"
   ],
-  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "description": "L'anthracnose des feuilles de banane est une maladie fongique causée principalement par Colletotrichum musae. Il infecte les feuilles de banane et d'autres parties aériennes de la plante, produisant des lésions nécrotiques qui peuvent réduire la photosynthèse et affaiblir la croissance des plantes. L'agent pathogène peut infecter les plantes sur le terrain et rester latent jusqu'à ce que les conditions environnementales deviennent favorables au développement des symptômes.",
   "symptoms": [
-    "Small dark brown to black spots on leaves",
-    "Irregular necrotic lesions with defined margins",
-    "Yellow halo around lesions in some cases",
-    "Expansion of lesions leading to leaf blight",
-    "Premature defoliation in severe infections",
-    "Reduced plant vigor and growth"
+    "Petites taches brunes foncées à noires sur les feuilles",
+    "Lésions nécrotiques irrégulières avec marges définies",
+    "Halo jaune autour des lésions dans certains cas",
+    "Expansion des lésions entraînant la brûlure des feuilles",
+    "Défoliation prématurée dans les infections sévères",
+    "Réduction de la vigueur et de la croissance des plantes"
   ],
   "disease_cycle": [
-    "The fungus survives in infected plant debris or soil.",
-    "Spores (conidia) are produced in structures called acervuli on infected tissues.",
-    "Conidia spread through rain splash, wind, insects, or contaminated tools.",
-    "Spores germinate on leaf surfaces under humid conditions.",
-    "The pathogen penetrates tissues using an appressorium and colonizes plant cells."
+    "Le champignon survit dans les débris végétaux ou le sol infectés.",
+    "Les spores (conidies) sont produites dans des structures appelées acervuli sur les tissus infectés.",
+    "Les conidies se propagent par éclaboussure de pluie, vent, insectes ou outils contaminés.",
+    "Les spores germent sur les surfaces foliaires dans des conditions humides.",
+    "L'agent pathogène pénètre dans les tissus à l'aide d'un appressorium et colonise les cellules végétales."
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperatures (approximately 25–30°C)",
-    "Frequent rainfall",
-    "Dense canopy with poor air circulation"
+    "Humidité élevée",
+    "Températures chaudes (environ 25 à 30 °C)",
+    "Pluies fréquentes",
+    "Canopée dense avec faible circulation d'air"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Rain splash and irrigation water",
-    "Infected plant residues",
-    "Contaminated tools or handling"
+    "Spores fongiques aéroportées",
+    "Eau de pluie et d'irrigation",
+    "Résidus végétaux infectés",
+    "Outils ou manipulation contaminés"
   ],
   "management": {
     "cultural_control": [
-      "Remove and destroy infected leaves and plant debris",
-      "Improve air circulation in plantations",
-      "Use disease-free planting material",
-      "Maintain field sanitation"
+      "Enlever et détruire les feuilles infectées et les débris végétaux",
+      "Améliorer la circulation de l'air dans les plantations",
+      "Utiliser du matériel de plantation exempt de maladies",
+      "Maintien de l ' assainissement sur le terrain"
     ],
     "biological_control": [
-      "Use of antagonistic fungi such as Trichoderma spp.",
-      "Application of beneficial microbial biocontrol agents"
+      "Utilisation de champignons antagonistes tels que Trichoderma spp.",
+      "Application d'agents de biocontrôle microbiens bénéfiques"
     ],
     "chemical_control": [
-      "Fungicides such as carbendazim, mancozeb or thiophanate-methyl",
-      "Apply according to recommended agricultural guidelines"
+      "Fongicides tels que le carbendazime, le mancozèbe ou le thiophanate-méthyle",
+      "Appliquer conformément aux lignes directrices agricoles recommandées"
     ]
   },
-  "economic_impact": "Anthracnose can reduce plant vigor and contribute to yield losses and fruit quality reduction in banana plantations.",
+  "economic_impact": "L'anthracnose peut réduire la vigueur des plantes et contribuer aux pertes de rendement et à la réduction de la qualité des fruits dans les plantations de bananes.",
   "sources": [
-    "Plant pathology literature on Colletotrichum musae",
-    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
-    "Plant disease management guides and Plantwise resources"
+    "Littérature de pathologie végétale sur Colletotrichum musae",
+    "Journal international de l'environnement et du changement climatique – Symptomatologie de Colletotrichum musae",
+    "Guides de gestion des maladies végétales et ressources végétales"
   ]
 }

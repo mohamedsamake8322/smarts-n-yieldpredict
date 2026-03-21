@@ -1,0 +1,105 @@
+{
+  "disease_name": "የካርቦን የካርቦን የካርቦን",
+  "common_name": "ጥቁር SIGATOKA",
+  "other_names": [
+    "ጥቁር ፎቶ ፎቶ",
+    "የ BLS"
+  ],
+  "pathogen": {
+    "type": "የንግድ",
+    "scientific_name": "የ Pseudocercospora fijiensis"
+  },
+  "host_plant": {
+    "common_name": "የፓናን",
+    "scientific_name": "የኦሪጂናል SPP"
+  },
+  "affected_parts": [
+    "መለያዎች"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "ጥቁር ቀጥተኛ ወይም ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ",
+      "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች"
+    ],
+    "intermediate_stage": [
+      "ቀጣይ እና ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+      "የክፍያዎች በገጽን በገጽን በገጽን በገጽን በገጽን በገጽን በገጽን በገጽን በገጽን"
+    ],
+    "advanced_stage": [
+      "የኦቫል-ፎቶ ጥቅልዎች ጋር ጥቅል ጥቅል",
+      "ጥቁር ፎቶዎች በሽያጭዎች",
+      "ከፍተኛ የክሮቲክ መኖሪያዎች የክሮቲክ መኖሪያዎች የክሮቲክ መኖሪያዎች"
+    ]
+  },
+  "disease_cycle": {
+    "spores": [
+      "መኖሪያ ቤት",
+      "አስኮስፖርት"
+    ],
+    "spread_mechanism": [
+      "የአትክልት",
+      "የአውሮፕላን Splash",
+      "አውሮፕላኖች"
+    ],
+    "favorable_conditions": [
+      "ከፍተኛ ሙቀት",
+      "ቀጣይ ግምገማ",
+      "የሙቀት የሙቀት የሙቀት የሙቀት"
+    ],
+    "infection_time_days": 27
+  },
+  "impact": {
+    "yield_loss_percent": "የ 30 - 50%",
+    "effects": [
+      "መፍጨት",
+      "ዝቅተኛ ምግብ መጠን",
+      "ዝቅተኛ ምርቶች",
+      "ቀጣይ እና ቀጣይ ምግብ ምግብ"
+    ]
+  },
+  "distribution": [
+    "የአውሮፓ",
+    "ቻይና",
+    "ቻይና",
+    "የፓይክቲክ አውሮፕላን",
+    "የአውሮፓ",
+    "የአውሮፓ",
+    "የአሜሪካ",
+    "የአውሮፓ",
+    "ካርቦን",
+    "የፓፓፓ ኒው ግይኒያ",
+    "የአሜሪካ (Hawaii)"
+  ],
+  "similar_diseases": [
+    "የሙከራዎች (Pseudocercospora musae)",
+    "Eumusae ወረቀት (Pseudocercospora eumusae)"
+  ],
+  "management": {
+    "cultural_control": [
+      "የሞክሮ ወረቀት ማግኘት",
+      "የተሻለ የፕላስቲክ መሣሪያዎች",
+      "የፕላስቲክ መሣሪያዎች ላይ የኃይል መሣሪያዎች ለመቀነስ",
+      "የኃይል አቅርቦት የኃይል አቅርቦት Banana Varieties"
+    ],
+    "chemical_control": [
+      "ቲራስሊን Fungicides",
+      "የ Demethylation Inhibitor fungicides ያግኙን",
+      "የ methyl benzimidazole carbamates (MBC) ይሰጣል"
+    ],
+    "biological_or_genetic_control": [
+      "የኃይል አቅርቦት የኃይል አቅርቦት የኃይል አቅርቦት",
+      "የቴክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ"
+    ]
+  },
+  "spread_risk_factors": [
+    "የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ",
+    "ምግብ ማሸጊያ ላይ የተጠቀሙ የፓንካን ፎቶዎች",
+    "የሽያጭ መሣሪያዎች ወይም መሣሪያዎች"
+  ],
+  "references": [
+    "Biosecurity Queensland – የ Black Sigatoka የሽያጭ ሞዴል",
+    "የ FAO Bananas ፎቶዎች",
+    "የክክክ et al., 2013 የክክክክክክክክክክክክክክክክክክክክክክ",
+    "Pattison, 2014 የአውስትራሊያ ፓናን"
+  ]
+}

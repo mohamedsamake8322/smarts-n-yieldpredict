@@ -1,0 +1,122 @@
+{
+  "pest_name": "Süß Kartoffel Blatt Feathery Mottle Virus",
+  "abbreviation": "SPLFMV",
+  "type": "Virus",
+  "history": "SPLFMV ist eng mit SPFMV verbunden und wurde weltweit identifiziert, häufig als Teil einer Viruserkrankung mit Süßkartoffeln (SPVD).",
+  "structure": {
+    "genome_type": "Positiv-Sense-single-stranded-RNA",
+    "genome_length_bases": 10820,
+    "organization": [
+      "einzelne offene Leserahmen",
+      "3' UTR",
+      "Poly(A)-Schwanz"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinase, ssRNA-Bindungsaktivität"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteinase, Hilfsmittel bei der Blattläuseübertragung, Fernbewegung"
+      },
+      {
+        "name": "P3",
+        "function": "Virale Replikationsfunktion"
+      },
+      {
+        "name": "6K1",
+        "function": "Unbekannt"
+      },
+      {
+        "name": "KI",
+        "function": "Zytoplasmatische Einschlussproteine, RNA-Helicase-Aktivität"
+      },
+      {
+        "name": "6K2",
+        "function": "Unbekannt, beteiligt an der Virusreplikation"
+      },
+      {
+        "name": "NIEDERLANDE",
+        "function": "VPg und Proteinase"
+      },
+      {
+        "name": "NIb",
+        "function": "Virale Nachbildungen"
+      },
+      {
+        "name": "Cistrone",
+        "function": "Coat Protein, Virion Montage, virale Übertragung, Ausbreitung"
+      }
+    ],
+    "virion_shape": "lang, biegsam, stabförmig",
+    "virion_length_nm": "810-865"
+  },
+  "life_cycle": {
+    "entry": "Mechanische Übertragung oder über Blattläppchen",
+    "replication": "Genom in Polyprotein, durch P1, HC-Pro, Nia-Proteasen gespalten",
+    "gene_silencing_suppression": "HC-Pro unterdrückt siRNA und miRNA in Blattzellen",
+    "packaging": "Replicated Genome verpackt in Virionen"
+  },
+  "transmission": {
+    "vectors": [
+      "Blattläuse"
+    ],
+    "mechanism": "Non-persistent über Stylet-Tipps während der Blattfütterung",
+    "seed_transmission": "Nicht durch Samen übertragen",
+    "host_range": [
+      "Ipomoea spp.",
+      "Nicotiana spp.",
+      "Chenopodium- Quinoa",
+      "Datura stramonium"
+    ]
+  },
+  "symptoms": {
+    "typical": "Feder- oder melierte Muster auf Blättern, hell bis dunkelviolett oder grün",
+    "severe_strains": [
+      "Blattchlorose",
+      "Blattverzerrung",
+      "Nekrotische Flecken"
+    ],
+    "co-infections": {
+      "SPVD": "Wenn Co-infiziert mit SPCSV, verursacht Stunting, Mosaik Blätter, reduzierte Ausbeute"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "Ostafrika"
+      },
+      {
+        "name": "RC",
+        "location": "Australien, Afrika, Nordamerika, Asien"
+      },
+      {
+        "name": "O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "location": "Afrika, Asien, Südamerika"
+      },
+      {
+        "name": "C",
+        "location": "Australien, Afrika, Asien, Nord- und Südamerika"
+      }
+    ]
+  },
+  "agricultural_impact": {
+    "affected_tissues": "Blattgewebe in erster Linie",
+    "yield_loss": "Signifikant bei Kombination in SPVD; reduziert photosynthetische Effizienz und Pflanzenkraft",
+    "social_impact": "Beeinträchtigt Kleinbauern, die sich auf Süßkartoffelblätter als Nahrung und Futter verlassen"
+  },
+  "management": {
+    "early_detection": "Überwachung der Blattsymptome und Bestätigung über ELISA",
+    "removal": "Rogue infizierte Pflanzen, um Verbreitung zu verhindern",
+    "prevention": [
+      "Pflanzenvirusfreies Vermehrungsmaterial",
+      "Steuerung des Vektors (Aphid) beibehalten",
+      "Hygienische Beschnitt- und Werkzeugsanierung"
+    ]
+  },
+  "references": [
+    "Basierend auf SPFMV-Studien und Studien zur Viruserkrankung von Süßkartoffeln"
+  ]
+}

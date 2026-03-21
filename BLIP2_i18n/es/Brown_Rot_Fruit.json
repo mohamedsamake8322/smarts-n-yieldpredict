@@ -1,0 +1,78 @@
+{
+  "disease": "Putrefacción marrón de la fruta",
+  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre marrón es una enfermedad fúngica que ataca las frutas, las flores y las ramitas de muchos árboles frutales. La enfermedad causa la decadencia de los frutos antes o después de la cosecha y se puede propagar rápidamente en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Pequeñas manchas marrones en la superficie de la fruta",
+    "Putrefacción marrón suave que se extiende a través de la fruta",
+    "Masas circulares de esporas grises o beige en la fruta",
+    "Frutas que se marchitan y se secan en el árbol",
+    "Frutos mumificados que quedan unidos a las ramas",
+    "La plaga de las flores y la ramita mueren de nuevo en infecciones graves"
+  ],
+  "hosts": [
+    "melocotón",
+    "albaricoque",
+    "ciruela",
+    "cereza",
+    "nectarina",
+    "Manzano",
+    "pera",
+    "almendra",
+    "Los demás frutos de hueso"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (20–25°C)",
+    "Alta humedad",
+    "Lluvias frecuentes",
+    "Lesiones o grietas en las frutas",
+    "Huertos densos con mal flujo de aire"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el viento",
+    "Salpicadura de la lluvia",
+    "Frutas infectadas dejadas en los árboles",
+    "Frutas mumificadas en las ramas",
+    "Desechos de plantas infectados"
+  ],
+  "management": [
+    "Quitar y destruir los frutos infectados",
+    "Arboles de ciruela para mejorar el flujo de aire",
+    "Quitar los frutos momificados de los árboles",
+    "Evitar lesiones de frutas durante la cosecha",
+    "Mantener el saneamiento de las huertas"
+  ],
+  "biological_control": [
+    "Bacillus subtilis biofungicidas",
+    "Tratamientos biológicos basados en el tricoderma",
+    "Agentes de control biológico Aureobasidium pullulans"
+  ],
+  "chemical_control": [
+    "Tebuconazol",
+    "Propiconazol",
+    "Myclobutanil",
+    "Captán",
+    "Mancozeb",
+    "Azoxistrobina",
+    "Fenbuconazol"
+  ],
+  "prevention": [
+    "Quitar la fruta infectada durante la temporada",
+    "Evitar el daño de la fruta por los insectos",
+    "Mantener una buena higiene de los huertos",
+    "Cosechar los frutos con cuidado",
+    "Almacenar la fruta en condiciones secas y frías"
+  ],
+  "visual_signature": [
+    "pudrición suave marrón en la fruta",
+    "anillos circulares de esporas grises",
+    "Frutos momificados en ramas"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI 2022",
+    "Fronteras en Microbiología 2022",
+    "El Instructor de Sanidad Vegetal",
+    "Universidad Cornell - Enfermedades de los árboles y arbustos"
+  ]
+}

@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "Infestation des puces d'araignée rouge",
+  "scientific_name": "Tétranychus urticae (et espèces d'araignées apparentées)",
+  "pathogen_type": "Pesticide arachnide (maïs)",
+  "description": "Les acariens rouges sont de minuscules parasites arachnides qui se nourrissent de la sève végétale en perçant les cellules foliaires. Ils se reproduisent rapidement dans des conditions chaudes et sèches et peuvent causer de graves dommages aux cultures en réduisant la photosynthèse et en affaiblissant les plantes.",
+  "symptoms": [
+    "Petites taches pâles ou jaunes sur les feuilles",
+    "Les feuilles perdent leur couleur verte",
+    "Filet de soie fine sur les feuilles et les tiges",
+    "Feuilles devenant jaunes ou brunes",
+    "Séchage et chute des feuilles",
+    "Plantes gravement affaiblies ou mort végétale"
+  ],
+  "hosts": [
+    "Tomates",
+    "Fraises",
+    "Haricots",
+    "Concombre",
+    "Poivre",
+    "Aubergines",
+    "Pommes",
+    "Agrumes",
+    "Raisins",
+    "Coton",
+    "Maïs",
+    "Plantes ornementales",
+    "Cultures à effet de serre"
+  ],
+  "favorable_conditions": [
+    "Températures à chaud",
+    "Conditions sèches",
+    "Faible humidité",
+    "Environnements poussiéreux",
+    "Conditions de serre en foule"
+  ],
+  "spread": [
+    "Vent",
+    "Mouvement des plantes infestées",
+    "Outils ou vêtements contaminés",
+    "Contact de la plante à la plante"
+  ],
+  "impact": [
+    "Photosynthèse réduite",
+    "Perte de feuilles",
+    "Réduction du rendement des cultures",
+    "Brûlures de soleil sur les fruits dues à la perte de la canopée",
+    "L'affaiblissement de la plante ou la mort lors d'infestations graves"
+  ],
+  "cultural_control": [
+    "Augmenter l'humidité autour des plantes",
+    "Pulvériser régulièrement les plantes avec de l'eau",
+    "Enlever les feuilles ou les plantes fortement infestées",
+    "Débris de cultures propres et mauvaises herbes",
+    "Éviter les conditions poussiéreuses dans les champs ou les serres"
+  ],
+  "biological_control": [
+    "Acariens prédatoires Phytoseiulus persimilis",
+    "Amite prédatoire Amblyseius californicus",
+    "Midge prédatoire Feltiella acarisuga",
+    "Lady scarabées (ladybugs)",
+    "Larve à lacets vert",
+    "Fungus Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Huile de neem",
+    "Miticides ou acaricides lorsque les infestations sont graves",
+    "Utiliser des pesticides sélectifs compatibles avec le contrôle biologique"
+  ],
+  "prevention": [
+    "Surveiller les feuilles régulièrement avec un objectif à main",
+    "Maintenir une bonne irrigation et une bonne humidité",
+    "Enlever les débris végétaux après la récolte",
+    "Utiliser la lutte intégrée contre les ravageurs (MPI)"
+  ],
+  "source": [
+    "Portail de bioprotection CABI",
+    "Références en matière de lutte antiparasitaire agricole"
+  ]
 }

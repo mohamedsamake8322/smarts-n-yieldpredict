@@ -1,57 +1,57 @@
 {
-  "pest_name": "Soybean Tospovirus",
-  "scientific_name": "Soybean vein necrosis virus (SVNV)",
-  "common_name": "Leaf Vein Necrosis Virus",
-  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
-  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "pest_name": "فيروس Tspo",
+  "scientific_name": "فيروس (SVVVN) في وَدَجِ وَدَجِ وَدَجِسِي سُويبِنِيْسِي (SVVNV)",
+  "common_name": "(LEAF Vien",
+  "description": "فيروس الكسور في وريد الصويا (SVVNV) هو فيروس تلمحي يؤثر على فول الصويا، مما يسبب التكسير على امتداد أروقة الشجر ويقلل من قوة النبت ونوعية البذور.",
+  "distribution": "وقد أُبلغ عن ذلك بصفة رئيسية في الولايات المتحدة، ولا سيما في مناطق زراعة فول الصويا في الغرب الأوسط.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+    "primary_host": "الغليسينين كحد الأقصى (السائل)",
+    "other_hosts": "وقد تكون أنواع الأتربة الأخرى عرضة للخطر؛ ولا تزال البحوث جارية."
   },
   "symptoms": {
     "leaf": [
-      "Necrotic streaks along the veins",
-      "Interveinal chlorosis or yellowing",
-      "Leaf deformation or curling",
-      "Small necrotic spots or flecks on older leaves"
+      "وَطَطَطَاطَاتِ النَخرِيَّةِ على طول الأوردةِ",
+      "كلور معي أو صفر",
+      "اللفت أو الحشو أو الحشو",
+      "بقع أو بقع صغيرة في الأوراق القديمة"
     ],
-    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "timing": "تظهر الأعراض عادة على الأوراق الأقدم ولكنها يمكن أن تؤثر على الأوراق في جميع المراحل",
     "plant": [
-      "Stunting",
-      "Reduced seed quality in severe infections"
+      "المسنتنغ",
+      "انخفاض نوعية البذور في حالات الإصابات الشديدة"
     ]
   },
   "conditions_favoring_disease": {
-    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
-    "environment": "Mild temperatures and presence of vectors favor spread",
-    "season": "Infections can occur throughout the growing season"
+    "vector": "الأثيرات (أساساً قُطرات فول الصويا الص الصويا، وخطوط النيوهيوميداتوththrbs valuabilis)",
+    "environment": "درجات الحرارة المُحَلَّة ووجود ناقلات الأمراض",
+    "season": "يمكن أن تحدث الإصابات خلال موسم النمو"
   },
   "biology": {
-    "pathogen_type": "Virus",
-    "virus_family": "Tospoviridae",
-    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
-    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+    "pathogen_type": "من نوع نوع نوع",
+    "virus_family": "Tosspofrididade",
+    "transmission": "في المقام الأول عن طريق القرعات بطريقة مستمرة؛ يمكن نقلها ميكانيكياً ومن خلال البذور المُصابة (معدل منخفض)",
+    "infection_process": "(ب) حالات تكرار في الأنسجة المضيفة، مما يتسبب في حالات تمزق في النكتانات على امتداد الأوردة؛ وموجهة بالتغذية"
   },
   "damage": [
-    "Vein necrosis and leaf discoloration",
-    "Reduced photosynthesis and plant vigor",
-    "Potential yield loss and reduced seed quality in severe cases"
+    "النكسة في الفينيان وتغيّر لون الورقة",
+    "موجزات للصور وقوّة النبتة",
+    "الخسارة المحتملة في الغلة وانخفاض نوعية البذور في الحالات الشديدة"
   ],
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Remove volunteer soybean and other host plants to reduce inoculum",
-      "Avoid planting near areas with high thrips populations"
+      "استخدام البذور المُمْرِثة",
+      "أزِل نباتات الصويا المتطوعة وغيرها من النباتات المضيفة للحد من الإيكونولوم",
+      "تجنب الغرس بالقرب من المناطق التي ترتفع فيها أعداد السكان"
     ],
     "chemical_control": [
-      "Insecticides targeting thrips may reduce virus spread"
+      "مبيدات الحشرات التي تستهدف مبيدات الحشرات يمكن أن تقلل من انتشار الفيروسات"
     ],
     "genetic_control": [
-      "No fully resistant soybean cultivars currently available; research ongoing"
+      "لا توجد في الوقت الراهن أي طائفة من الطوائف المقاومة تماما لفول فول فول فول الصويا؛ ولا تزال البحوث جارية"
     ]
   },
   "notes": [
-    "SVNV is a relatively newly recognized tospovirus in soybean.",
-    "Early detection and vector management are key to reducing disease impact."
+    "SVVN هو نسبياً مُعترف به حديثاً في فيروس التسمم في فول الصويا.",
+    "ويعتبر الكشف المبكر وإدارة ناقلات الأمراض عنصرين أساسيين في الحد من أثر الأمراض."
   ]
 }

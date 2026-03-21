@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "pest_name": "Sphinx 双月",
+  "stage": "幼虫",
+  "common_name": "虫",
+  "description": "斯芬克斯飞蛾的幼虫阶段(毛虫)通常被称为角虫。 它很大,光滑,往往在后角端投射角形投影。",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "食用树叶、树叶,有时食用宿主植物的果实,",
+    "如果人口多,可能会发生脱贫",
+    "叶叶往往有非正常的孔孔或咀嚼的边缘",
+    "能够削弱年轻植物,减少番茄、烟草和其他索拉纳塞等作物的产量"
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "番茄",
+    "烟草(Nicotiana tabacum)",
+    "辣椒(Capsicum pp.)",
+    "其他索拉纳塞物种"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "在小型园圃中精巧地采摘幼苗,",
+    "使用二丁基或寄生虫蜂翼(Bt)或寄生虫蜂翼进行生物控制",
+    "使用新植物的行盖",
+    "鼓励鸟类和捕食性昆虫等自然捕食者"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "Sphinx 飞蛾幼虫往往与其他大型毛毛虫混为一谈;在后端寻找角。",
+    "管理主要侧重于幼虫阶段,因为成年人是有益的授粉者。"
   ]
 }

@@ -1,67 +1,67 @@
 {
- "disease": "Anthracnose of Cucurbits",
- "scientific_name": "Colletotrichum orbiculare",
- "pathogen_type": "Fungus",
- "description": "A fungal disease affecting cucurbits (cucumber, melon, squash, watermelon, pumpkin). Causes lesions on leaves, stems, and fruits, especially in warm, humid, rainy conditions. Can survive on seeds, soil, and plant debris, and spreads by rain, wind, tools, workers, and insects.",
- "symptoms": [
-  "Leaves: oily spots near veins, angular brown/red/black lesions, tissue death or drop",
-  "Stems and petioles: elongated, depressed, yellowish lesions, may produce black acervules under humid conditions",
-  "Fruits: circular, sunken brown lesions, may ooze red gummy exudate on melon; gelatinous salmon-colored spores on watermelon"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Squash",
-  "Watermelon",
-  "Pumpkin",
-  "Other cucurbits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (26–32°C)",
-  "High humidity and rainfall",
-  "Wet leaves or prolonged dew",
-  "Soil and crop debris harboring pathogen"
- ],
- "spread": [
-  "Infected seeds",
-  "Contaminated soil",
-  "Crop debris",
-  "Wind, rain splash, irrigation water",
-  "Tools and workers",
-  "Cucumber beetles"
- ],
- "management": [
-  "Use certified disease-free seeds",
-  "Plant resistant or tolerant cultivars",
-  "Destroy infected plants and crop debris",
-  "Rotate cucurbits with non-host crops for 2–3 seasons",
-  "Prune plants to increase airflow and reduce humidity",
-  "Avoid overhead irrigation and work when plants are wet"
- ],
- "biological_control": [
-  "Trichoderma harzianum: competes with pathogen, inhibits growth up to 72%",
-  "Bacillus subtilis: bio-pesticide to prevent pathogen establishment",
-  "Plant extracts: horsetail decoction, garlic or neem extracts inhibit fungal growth",
-  "Adjust pH on leaf surface with bicarbonate to reduce fungus development"
- ],
- "chemical_control": [
-  "Difenoconazole (Score) at 0.2 L/ha",
-  "Apply early morning or late evening",
-  "Ensure proper coverage, absorbed in 2 hours",
-  "Limit to one application per season or rotate with other fungicides",
-  "Follow safety precautions (gants, masque, lunettes) and pre-harvest interval"
- ],
- "prevention": [
-  "Use certified, disease-free seeds",
-  "Remove volunteer crops and crop debris",
-  "Avoid wounding plants",
-  "Maintain good field sanitation and air circulation",
-  "Implement crop rotation with cereals, legumes, or brassicas"
- ],
- "source": [
-  "Plantwise Knowledge Bank – Anthracnose in watermelon, Mooya A.M Nzila, CABI",
-  "Sherriff et al., 1994, Experimental Mycology",
-  "US Center for Agriculture, Food and Environment",
-  "French agronomic sources on cucurbit anthracnose"
- ]
+  "disease": "عدد الطُّقَقَق",
+  "scientific_name": "المُعْكَل",
+  "pathogen_type": "المنقوس",
+  "description": "المرض الفطري الذي يؤثر على الطقوس (الزقاق، البطيخ، الكوش، البطيخ، البطيخ، اليقطين) يسبب الآفات على الأوراق، الجذوع، والفواكه، خصوصاً في ظروف دافئة، رطبة، ممطرة. يمكن البقاء على قيد الحياة على البذور، التربة، والحطام النباتي، والانتشارات بالمطر، والرياح، والأدوات، والعمال، والحشرات.",
+  "symptoms": [
+    "الأوراق: بقع زيتية قرب الأروقة، أو بقع بقع زيتية بالقرب من الأوردات، أو بقع بقع أو موت أو قطرة في أنسجة أو قطرة.",
+    "ستيمات وأپيولس : يمكن ان تنتج اكسيرڤيلز سوداء في ظروف رطبة ، ممتدة ، مكتئبة ، مصفرة .",
+    "الفواكه: الدورة الدائرية، والآفات البنيّة الغارقة، قد تُطلِق على البطيخ، أو البُغَثَات الملونة على البطيخ، أو البوغات المسيَّنة على البطيخ."
+  ],
+  "hosts": [
+    "",
+    "",
+    "سواش",
+    "",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "أنواع أخرى أخرى"
+  ],
+  "favorable_conditions": [
+    "درجات حرارة الحرارة (26 - 32 درجة مئوية)",
+    "شدة الرطوبة والهطولات",
+    "أَوْ أَوْ أَوْ لَمْ يُمْطَرْ أَوْ لَمْ يُمْتَلِكُ أَوْ لَمْ يَمْرُ مِنْ",
+    "التربة وحطام المحاصيل"
+  ],
+  "spread": [
+    "البذور المصح",
+    "ألف - التروب",
+    "المُن (((((((",
+    "الرياح، المطر، مياه الري",
+    "الأدوات والعاملات",
+    "الخيال"
+  ],
+  "management": [
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    "المقاومات النباتية أو المتسامحة",
+    "النباتات والمحاصيل المصابة",
+    "مواسم دوارة مع محاصيل غير مستهلكة لموسمين - 3",
+    "النباتات الخشنة لزيادة تدفق الهواء والحد من الرطوبة",
+    ":: تجنب الري في المجاري العامة والعمل عندما تكون النباتات مبتلة"
+  ],
+  "biological_control": [
+    "تريشودرما ريزيانوم: يتنافس مع مسببات الأمراض، ويمنع النمو بنسبة تصل إلى 72 في المائة",
+    "Bacidellus Subtilis: مبيدات الحشرات البيولوجية لمنع إنشاء الممرضات",
+    "مقتطفات من النباتات: تثبط النمو الفطري",
+    "تعديل كهرس على سطح الورقة مع بيكربونات لتقليل تطوير الفطريات"
+  ],
+  "chemical_control": [
+    "(بالأساس الأساسي) بمعدل 0.2 لتر/هكتار",
+    "اطبّق في وقت مبكر من الصباح أو في وقت متأخر",
+    "كفالة التغطية السليمة، واستيعابها في ساعتين",
+    "الحد إلى تطبيق واحد لكل موسم أو بالتناوب مع مبيدات فطرية أخرى",
+    "احتياطات السلامة (المسكنات، والباسك، واللونيت) وفترات ما قبل الحصاد"
+  ],
+  "prevention": [
+    "البذور المعتمدة المستخدمة الخالية من الأمراض",
+    "المحاصيل التطوعية وحطام المحاصيل",
+    "المضارب",
+    ":: سلامة الصرف الصحي في الميدان والتسيير الجوي",
+    "تنفيذ تناوب المحاصيل مع الحبوب أو البقول أو النحاسات"
+  ],
+  "source": [
+    "مصرف المعارف المتعلقة بالنباتات - الخرقة في البطيخ، موييا أ. م.",
+    "Shriff وآخرون، 1994 و1994،",
+    "مركز الولايات المتحدة للزراعة والغذاء والبيئة",
+    "المصادر الزراعية الفرنسية للمصادر الزراعية الفرنسية المتعلقة بالمعادن"
+  ]
 }

@@ -1,54 +1,54 @@
 {
- "disease": "Fall Armyworm Larva",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (larval stage)",
- "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
- "symptoms": [
-  "Caterpillars feeding inside maize whorl",
-  "Large chewing damage on leaves",
-  "Presence of dark frass near feeding areas",
-  "Leaves shredded or skeletonized"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm humid climates",
-  "Dense crop fields",
-  "Abundant host plants"
- ],
- "spread": [
-  "Egg masses hatch into larvae on plant leaves",
-  "Larvae crawl to nearby plants",
-  "Spread from infested fields"
- ],
- "management": [
-  "Scout fields regularly for larvae",
-  "Crush egg masses and young larvae",
-  "Apply biological or chemical control early"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt)",
-  "Beauveria bassiana",
-  "Trichogramma parasitoids"
- ],
- "chemical_control": [
-  "Emamectin benzoate",
-  "Spinosad",
-  "Chlorantraniliprole"
- ],
- "prevention": [
-  "Early detection in maize whorl",
-  "Use resistant crop varieties",
-  "Crop rotation"
- ],
- "source": [
-  "FAO",
-  "CABI"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "A cikin Allo tsararre.",
+  "description": "Rana tana iya halaka tsiro nan da nan.",
+  "symptoms": [
+    "G ciyar da abinci a cikin mahaifa da ake amfani da shi ba tare da yin iyo ba",
+    "QXml",
+    "Sa'ad da muke cin abinci a wurin, muna samun isashen abinci a kusa da wurin.",
+    "Sun Sa Wasu Su Zama Masu Sauƙin Hali ko Masu Ban Al'ajabi"
+  ],
+  "hosts": [
+    "Indian National weekday 7 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Zaɓuɓɓuka na Zaman Shawara"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Mãsu rassan itãce."
+  ],
+  "spread": [
+    "Mutane da yawa suna yin tafiya a kan ƙasa a ƙasa don su yi shuki",
+    "Mãsu gudu suna ɓũya.",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\""
+  ],
+  "management": [
+    "Media controller element",
+    "KCharselect unicode block name",
+    "Yi Amfani da Abubuwan da Suka Dace da Tun farkon Yadda Ya Kamata"
+  ],
+  "biological_control": [
+    "KCharselect unicode block name",
+    "All other platforms",
+    "KCharselect unicode block name"
+  ],
+  "chemical_control": [
+    "KCharselect unicode block name",
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name"
+  ],
+  "prevention": [
+    "@ item Text character set",
+    "Yi Amfani da Irin na'ura Mai Kyau",
+    "Ethiopian weekday 2 - LongDayName"
+  ],
+  "source": [
+    "Ka Shiga Duk da Haka",
+    "@ item Text character set"
+  ]
 }

@@ -1,100 +1,104 @@
 {
-  "virus_name": "Tobacco Etch Virus",
-  "abbreviation": "TEV",
-  "family": "Potyviridae",
-  "genus": "Potyvirus",
+  "virus_name": "Tütün ve virüs",
+  "abbreviation": "Televizyon",
+  "family": "Potyviridae Hakkında",
+  "genus": "Potyvirüs",
   "taxonomy": {
-    "order": "Patatavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "Patatesler",
+    "virus_group": "Bitki RNA virüsü"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "monopartite",
-    "particle_shape": "flexuous filamentous particle",
-    "length": "approximately 730 nm",
+    "type": "pozitif RNA tek taraflı RNA",
+    "structure": "Monopartit",
+    "particle_shape": "flexuous filamentüel parçacık",
+    "length": "Yaklaşık 730 nm",
     "proteins_encoded": 7
   },
   "transmission": {
-    "vectors": ["Aphids including Myzus persicae", "Aphis gossypii", "Macrosiphum euphorbiae"],
-    "mode": "non-persistent transmission",
+    "vectors": [
+      "Aphidler dahil Myzus Persicae",
+      "Aphis Gossypi",
+      "Makrosifum euphorbiae"
+    ],
+    "mode": "Sürdürülebilir olmayan iletim",
     "mechanical": true,
     "seed_transmission": false,
-    "notes": "Aphids acquire the virus rapidly during feeding and can transmit it within minutes."
+    "notes": "Aphids, beslenme sırasında virüsü hızlı bir şekilde elde eder ve dakikalar içinde iletebilir."
   },
   "hosts": {
     "cultivated": [
-      "Capsicum annuum",
-      "Capsicum frutescens",
-      "Tomato (Solanum lycopersicum)",
-      "Tobacco (Nicotiana spp.)"
+      "Capsicum Yıllık",
+      "Capsicum meyve",
+      "Tomatlar (Solanum lycopersicum)",
+      "Tütün (Nicotiana spp)"
     ],
     "wild_hosts": [
-      "Solanum nigrum",
-      "Solanum aculeatissimum",
-      "Chenopodium album",
-      "Datura stramonium",
-      "Linaria canadensis",
-      "Physalis spp."
+      "solanum nigrum",
+      "solanum aculeatissimum",
+      "Chenopodium albümü",
+      "Datura Stramonium Hakkında",
+      "Kanadalı Linarya",
+      "fizyolojik spp"
     ]
   },
   "symptoms": [
-    "Vein clearing on leaves",
-    "Mosaic or mottling patterns",
-    "Necrotic streaks or etched patterns on leaves",
-    "Leaf deformation and curling",
-    "Stunted plant growth",
-    "Reduced fruit yield and quality",
-    "Occasional fruit discoloration or necrotic lesions"
+    "Vein yaprakları üzerinde temizleme",
+    "Mosaik veya modelleşme desenleri",
+    "Necrotik çubuklar veya yapraklarda etched desenler",
+    "Yaprak Deformasyonu ve Curling",
+    "Bitki büyümesi bekleniyor",
+    "Düşük meyve üretimi ve kalitesi",
+    "Bazen meyve bozukluğu veya nekrotik hasar"
   ],
   "disease_cycle": [
-    "Virus survives in infected host plants and weeds",
-    "Aphids acquire virus during feeding on infected plants",
-    "Virus is transmitted to healthy plants during probing",
-    "Mechanical transmission can occur via contaminated tools or handling"
+    "Virüs enfekte bitkilerde ve bitkilerde hayatta kalır",
+    "Aphids enfekte bitkilerde beslenirken virüs kazanır",
+    "Virüs test sırasında sağlıklı bitkilere aktarılır.",
+    "Mekanik iletim, kirlenmiş araçlar veya işleme yoluyla gerçekleşebilir."
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Etch-like necrotic patterns on leaves",
-      "Mosaic symptoms on solanaceous crops"
+      "Yapraklardaki etch-like nekrotik desenler",
+      "Solanace bitkilerinde mosaik belirtileri"
     ],
     "laboratory_methods": [
-      "ELISA detection",
-      "RT-PCR assays",
-      "Electron microscopy"
+      "Elisa Detektörü",
+      "RT-PCR Yorumları",
+      "Elektron Mikroskobu"
     ],
     "viral_inclusions": [
-      "Cylindrical inclusions in the cytoplasm",
-      "Nuclear inclusions in infected cells"
+      "Cytoplasma içindeki silindir içeriği",
+      "Enfekte hücrelerde nükleer içeriği"
     ]
   },
   "molecular_features": {
     "special_protein": {
-      "name": "TEV protease",
-      "function": "Highly specific protease used widely in biotechnology to cleave fusion proteins during purification."
+      "name": "TEV Protezi",
+      "function": "Çok spesifik proteaz, bioteknoloji alanında, saflaştırma sırasında birleşme proteinlerini temizlemek için yaygın olarak kullanılır."
     }
   },
   "management": {
     "cultural": [
-      "Remove weed hosts that serve as virus reservoirs",
-      "Use virus-free planting materials",
-      "Implement crop rotation"
+      "Virüs rezervuarları olarak hizmet eden bitkisel ev sahiplerini kaldırın",
+      "Virüssüz bitki malzemeleri kullanın",
+      "Crop Rotation Uygulama"
     ],
     "vector_control": [
-      "Monitor aphid populations",
-      "Use reflective mulches to repel aphids",
-      "Apply insecticides if aphid pressure is high"
+      "Aphid Popülasyonları",
+      "Afids'i yırtmak için yansıtıcı mulşlar kullanın",
+      "Aphid basıncı yüksek olduğunda böcek ilacı uygulayın"
     ],
     "resistance": [
-      "Use resistant or tolerant cultivars when available"
+      "Mevcut olduğunda dayanıklı veya hoşgörülü ürünler kullanın."
     ]
   },
   "impact": {
-    "economic": "Can cause significant yield losses in pepper and tobacco crops",
-    "agronomic": "Severe infections reduce fruit quality and plant vigor"
+    "economic": "Tütün ve biber ürünlerinde önemli hasar kaybına neden olabilir.",
+    "agronomic": "Ağır enfeksiyonlar meyve kalitesini ve bitki gücünü azaltır"
   },
   "references": [
-    "ICTV Virus Taxonomy",
-    "APS Plant Disease Compendium",
-    "Plant Virus Online Database"
+    "ICTV Virüs Taksonları",
+    "APS Bitki Hastalıkları Compendium",
+    "Bitki Virüsü Online Veritabanı"
   ]
 }

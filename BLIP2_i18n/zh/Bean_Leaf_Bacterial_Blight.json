@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
-  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
-  "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "disease": "豆色细菌芽",
+  "scientific_name": "Xanthomonas Axonopopodis pv. 相片奥利",
+  "pathogen_type": "细菌",
+  "description": "这些细菌通过自然开口或伤口感染植物,并在温暖和湿润条件下迅速蔓延,严重感染会减少光合作用和产量。",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "叶子上小片缺水点",
+    "褐色或黄光膜的深褐色或深色损伤",
+    "叶叶上的大规模非正常死亡地区",
+    "撕裂或干燥",
+    "舱中缺水点",
+    "变成棕色 软软或变形"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
-    "soybean",
-    "other Phaseolus species"
+    "共同豆类",
+    "肾肾脏豆",
+    "品级豆类",
+    "黑色豆豆",
+    "海军油豆",
+    "豆",
+    "豆",
+    "大豆",
+    "其他次甲醇种"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "温度(25-30°C)",
+    "高湿湿度",
+    "频繁降雨",
+    "间接灌溉",
+    "密集作物树冠"
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "感染种子",
+    "雨水喷雨",
+    "风驱雨",
+    "受污染工具",
+    "湿工厂之间的接触"
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "使用经核证的无疾病的种子",
+    "清除受感染植物残留物",
+    "避免间接灌溉",
+    "2-3年旋转作物",
+    "改善外地通风"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "Bacillus 基基生物农药基基基生物农药",
+    "Pseudomonas 荧光菌生物治疗",
+    "耐容忍豆种植物抗药性"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "氢氧化铜",
+    "氧化氯化铜",
+    "硫酸铜",
+    "铜基杀菌剂"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "现有耐植物植物的品种",
+    "使用清洁种子",
+    "避免在湿字段中工作",
+    "消感染工具",
+    "保持良好的实地环境卫生"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
-    "University plant pathology extension publications"
+    "CABI 作物保护简编",
+    "粮农组织植物疾病管理指南",
+    "大学植物病理学扩展出版物"
   ]
 }

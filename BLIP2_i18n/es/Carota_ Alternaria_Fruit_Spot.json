@@ -1,0 +1,90 @@
+{
+  "disease": "Zanahoria Alternaria mancha de hoja",
+  "scientific_name": "Alternaria dauci",
+  "pathogen_type": "Hongos",
+  "description": "La mancha de hoja alternaria es una enfermedad fúngica que afecta principalmente a las hojas de zanahoria. Comienza en hojas más viejas y produce manchas oscuras con márgenes amarillos. En infecciones graves las hojas se vuelven negras, secas y mueren, causando una pérdida de rendimiento mayor.",
+  "symptoms": [
+    "Manchas de color marrón oscuro a negro en las hojas",
+    "Lesiones angulares con márgenes amarillos",
+    "Las manchas aparecen primero en las hojas más viejas",
+    "Los puntos se fusionan y forman grandes áreas muertas",
+    "Las hojas se vuelven negras, secas y marchitas",
+    "La infección grave causa la mancha de las hojas y el debilitamiento de las plantas",
+    "Las plántulas pueden morir por amortiguación"
+  ],
+  "visual_signature": [
+    "manchas de hojas oscuras de color marrón o negro",
+    "halo amarillo alrededor de las lesiones",
+    "follaje de zanahoria ennegrecido"
+  ],
+  "affected_plant_parts": [
+    "hojas",
+    "peciolos",
+    "plántulas"
+  ],
+  "hosts": [
+    "zanahoria",
+    "apio",
+    "perejil",
+    "eneldo",
+    "parsnip",
+    "Zanahoria silvestre",
+    "Otros cultivos de apiáceas"
+  ],
+  "plant_family": "Apiaceae",
+  "favorable_conditions": [
+    "tiempo húmedo",
+    "frecuentes precipitaciones",
+    "alta humedad",
+    "plantación densa",
+    "largos períodos de humedad de las hojas"
+  ],
+  "spread": [
+    "semillas infectadas",
+    "Lluvia eólica",
+    "Residuos de cultivos infectados en el suelo",
+    "Esporas micóticas diseminadas por el viento"
+  ],
+  "management": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Tratar las semillas con agua caliente (50°C durante 25–30 minutos)",
+    "Evitar la plantación densa para reducir la humedad",
+    "Eliminar los desechos de cultivos infectados después de la cosecha",
+    "Girar los cultivos durante al menos 3 años",
+    "Cultivar variedades tolerantes de zanahoria"
+  ],
+  "biological_control": [
+    "Biofungicidas de especies de trichodermas",
+    "Bacillus subtilis fungicidas biológicos"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Clorotalonil",
+    "Fungicidas de cobre",
+    "Iprodiona",
+    "Fungicidas de estrobilirina",
+    "Fungicidas triazol"
+  ],
+  "seed_treatment": [
+    "Thiram",
+    "Captán"
+  ],
+  "similar_diseases": [
+    "Mancha de la hoja de Cercospora de zanahoria (Cercospora carotae)"
+  ],
+  "differential_diagnosis": {
+    "Alternaria_leaf_spot": "lesiones de color marrón oscuro a negro con halos amarillos",
+    "Cercospora_leaf_spot": "lesiones circulares de color marrón claro o marrón bronceado"
+  },
+  "impact": [
+    "muerte rápida de follaje de zanahoria",
+    "fotosíntesis reducida",
+    "grandes pérdidas de rendimiento durante las temporadas de lluvias"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "CSIRO – Enfermedades de los Cultivos Vegetales en Australia",
+    "Extensión de la Universidad de Massachusetts",
+    "Departamento de Industrias Primarias y Desarrollo Regional"
+  ]
+}

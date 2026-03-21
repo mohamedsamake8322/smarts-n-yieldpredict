@@ -1,0 +1,48 @@
+{
+  "disease": "Fall-Armeewurm Erwachsene",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insekten (Erwachsene Motte)",
+  "description": "Der erwachsene Fall-Armyworm ist ein nächtlicher Motten, der Eier auf Pflanzenblätter legt. Diese Eier schlüpfen in zerstörerische Larven.",
+  "symptoms": [
+    "Eiermassen bedeckt mit grauen Schuppen auf Blättern",
+    "Vorhandensein von Motten um Erntefelder in der Nacht"
+  ],
+  "hosts": [
+    "Mais",
+    "Reis",
+    "Sorghum",
+    "Hirse",
+    "Zuckerrohr",
+    "Gemüse"
+  ],
+  "favorable_conditions": [
+    "Warme Klimazonen",
+    "Verfügbarkeit von Wirtspflanzen",
+    "Jahreszeiten mit regnerischem Wachstum"
+  ],
+  "spread": [
+    "Starke fliegende Motten, die zur Fernwanderung fähig sind",
+    "Eierlegen auf den Blättern der Wirtspflanzen"
+  ],
+  "management": [
+    "Verwenden Sie Pheromonfallen, um Mottenpopulationen zu überwachen",
+    "Eimassen früh zerstören",
+    "Larven kontrollieren, bevor sie sich ausbreiten"
+  ],
+  "biological_control": [
+    "Parasitoide Wespen, die Eier angreifen",
+    "Prädatorische Insekten, die sich von Eiern ernähren"
+  ],
+  "chemical_control": [
+    "Anwendung von Target-Behandlungen, wenn Larven entstehen"
+  ],
+  "prevention": [
+    "Feldüberwachung mit Pheromonfallen",
+    "Pflanzenresistente Pflanzensorten",
+    "Erhaltung der Vielfalt der Kulturen"
+  ],
+  "source": [
+    "Leitfaden für die Überwachung des Fallwurms der FAO",
+    "Datenbank für invasive Arten der CABI"
+  ]
+}

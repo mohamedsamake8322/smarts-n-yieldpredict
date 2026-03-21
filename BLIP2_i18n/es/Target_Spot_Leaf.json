@@ -1,0 +1,42 @@
+{
+  "pest_name": "Hoja del punto de destino",
+  "causal_agent": "Corynespora cassiicola",
+  "type": "hongo",
+  "distribution": "En todo el mundo",
+  "host_plants": [
+    "Cucurbitáceas, especialmente pepino"
+  ],
+  "symptoms": {
+    "leaf": "Manchas amarillas angulares en hojas más viejas. Las manchas se agrandan y se vuelven circulares con centros de color marrón claro y bordes de color marrón oscuro. En etapas avanzadas, los centros grises se desprenden causando un agujero de tiro o un aspecto desmenuzado. En condiciones de invernadero, las manchas pueden tener centros de luz, anillos de tejido verde oliva y bordes amarillos.",
+    "stem_petiole": "Manchas alargadas, ayuda a diferenciar de la antracnosa, moho downy, o mancha angular de la hoja.",
+    "fruit": "Fruto oscurecido, marchitado si la infección ocurre temprano al final de la flor.",
+    "roots_flowers": "Infecciones posibles pero menos comunes."
+  },
+  "conditions_favoring_disease": {
+    "temperature": "25–35°C caliente (77–95°F) promueve el desarrollo; la infección puede ocurrir a 21–26°C (70–80°F)",
+    "humidity": "La alta humedad favorece la infección",
+    "light": "Días largos promueven el desarrollo de enfermedades",
+    "other_factors": "Fluctuación de las temperaturas diarias y presencia de residuos vegetales o malas hierbas infectados"
+  },
+  "pathogen_lifecycle": {
+    "survival": "En residuos vegetales infectados durante al menos dos años, o en malezas",
+    "dispersal": "Esporas aerotransportadas",
+    "infection": "Hojas, tallos, pecíolos, raíces, flores y frutos en condiciones favorables"
+  },
+  "management": {
+    "cultural": [
+      "Utilizar variedades resistentes cuando estén disponibles",
+      "Implementar un buen saneamiento en campos e invernaderos",
+      "Retire y destruya los desechos vegetales infectados",
+      "Control de malezas cerca de cultivos"
+    ],
+    "chemical": [
+      "Pulverizadores de fungicida preventivos de acuerdo con las instrucciones de la etiqueta"
+    ],
+    "integrated": "Combinar programas de variedades resistentes, saneamiento y fungicidas para reducir la incidencia de enfermedades"
+  },
+  "references": [
+    "Guías sobre enfermedades de los cultivos de cucurbitáceas y publicaciones de extensión",
+    "Informes de distribución mundial de Corynespora cassiicola"
+  ]
+}

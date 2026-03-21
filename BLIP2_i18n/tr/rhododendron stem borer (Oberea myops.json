@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "Rhododendron Stem Borer enfeksiyonu",
+  "scientific_name": "MİOPS İÇİN",
+  "pathogen_type": "Böcek Hastalığı ( Beetle )",
+  "description": "Rhododendron çam ağacı, çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde çam ağacının içinde.",
+  "symptoms": [
+    "Bireysel dallarda yaprakları dökmek veya dökmek",
+    "Sonraki YazıSonraki YazıSonraki YazıSonraki Yazı",
+    "Yetişkinlerin yumurta koyduğu çamurlarda küçük delikler",
+    "Çamur (çamur gibi malzeme) delikler yakınında",
+    "Sırtlar boş ya da zayıflar",
+    "Kırılan veya Ölen Şubeler"
+  ],
+  "hosts": [
+    "Rhododendron",
+    "Azalea",
+    "Diğer Ericaceae dekoratif çubuklar"
+  ],
+  "favorable_conditions": [
+    "İlkbahar ve yaz aylarında yetişkin yavruların varlığı",
+    "Yumurta yıkama için uygun çamurlu bitkiler",
+    "Hassas ev sahipliği bitkileri ile bahçeler veya manzaralar"
+  ],
+  "spread": [
+    "Yetişkin yumurtaları bitkilerin içine yerleştirir",
+    "Larvae, dallar ve dallar içinde gelişir",
+    "Enfekte bitki malzemelerinin hareketleri"
+  ],
+  "impact": [
+    "Şubelerin geri dönüşü",
+    "Düşük bitki gücü",
+    "Şiddetli infestasyonlar dekoratif çubukları öldürebilir"
+  ],
+  "cultural_control": [
+    "Egg-laying delikleri için düzenli olarak kontrol",
+    "Saldırılmış çamurları yıkmak ve yok etmek",
+    "Hassasiyetini azaltmak için bitki sağlığını korumak"
+  ],
+  "biological_control": [
+    "Kuşlar veya parazit böcekler gibi doğal haydutları teşvik edin"
+  ],
+  "chemical_control": [
+    "Enfeksiyonların şiddetli olduğu sistemik böcek ilacı uygulayın",
+    "Yumurta yıkama döneminde hedef yetişkin yavrular"
+  ],
+  "prevention": [
+    "Büyüme mevsiminde düzenli izleme",
+    "Enfekte çamurları erken kaldırmak ve yok etmek",
+    "Yetiştiriciliğe çok kirlenmiş bitkiler yetiştirmekten kaçının"
+  ],
+  "source": [
+    "Bitki pest yönetimi referansları",
+    "Rhododendron pestleri için uzantı rehberi"
+  ]
 }

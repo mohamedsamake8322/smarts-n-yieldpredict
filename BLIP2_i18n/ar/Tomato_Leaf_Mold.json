@@ -1,63 +1,65 @@
 {
-  "disease_name": "Tomato Leaf Mold",
-  "type": "fungal disease",
-  "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+  "disease_name": "ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط",
+  "type": "",
+  "causal_agent": "Passalora fulva (سين، فولفيا فولفا، كلادوسفورم avulvum)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ]
   },
-  "distribution": "Worldwide; especially problematic in greenhouses and high tunnels with high humidity",
+  "distribution": "على الصعيد العالمي؛ لا سيما المشاكل في غازات الدفيئة والأنفاق العالية ذات الرطوبة العالية",
   "symptoms": {
     "leaves": [
-      "Yellow spots on upper leaf surfaces",
-      "Fuzzy olive-green to gray mold growth on lower leaf surfaces",
-      "Leaves may curl and become distorted",
-      "Severe infections can cause defoliation"
+      "بقعتان أصفران على أسطح الورقة العليا",
+      "نمو نمو على أسطح الورقة الأدنى",
+      "الأوراق قد تتلتف وتصبح مشوهة",
+      "يمكن أن تسبب حالات العدوى الحادة نقص القشرة"
     ],
     "stems": [
-      "Occasionally stems can be infected, but disease is mostly foliar"
+      "من الممكن أحياناً أن يكون المرض مصاباً، لكن المرض غالباً ما يكون فولي"
     ]
   },
   "disease_cycle": [
-    "Spores form on lower leaf surfaces within 10–12 days of infection",
-    "High relative humidity (≥85%) favors spore production and infection",
-    "Multiple generations can occur within a single growing season",
-    "Spread occurs via wind, rain/overhead irrigation, tools, workers, and possibly insects",
-    "Pathogen can persist in crop residue and on contaminated greenhouse surfaces"
+    "تتشكل الأوغراس على أسطح الورقة السفلية في غضون 10-12 يوماً من الإصابة",
+    "الرطوبة النسبية العالية (58,58 في المائة) تساعد على إنتاج الجراثي والإصابة به",
+    "الأجيال المتعددة يمكن أن تحدث في موسم واحد",
+    "يحدث الانتشار بواسطة الرياح، والأمطار/الري، والأدوات، والعمال، والحشرات المحتملة",
+    "يمكن للمسببات المسببة للمرض أن تستمر في بقايا المحاصيل وفي الأسطح الملوثة لظاهرة الدفيئة"
   ],
   "environmental_conditions": [
-    "Optimal temperature: 21–24 °C (70–75 °F), but disease can develop between 10–32 °C (50–90 °F)",
-    "High relative humidity (>85%) is critical for severe epidemics",
-    "Poor air circulation and leaf wetness favor infection"
+    "درجة الحرارة المثلى: 21-24 درجة مئوية (70 - 75 درجة مئوية)، ولكن يمكن أن ينمو المرض بين 10 - 32 درجة مئوية (50 - 90 درجة مئوية)",
+    "الرطوبة النسبية العالية (>85%) حرجة بالنسبة للأوبئة الشديدة",
+    "سوء دورة الهواء السيئة وأوراق الرطوبة"
   ],
   "management": {
     "cultural": [
-      "Use drip irrigation and avoid wetting foliage",
-      "Space plants to improve air circulation",
-      "Stake, string, or prune plants to reduce humidity around leaves",
-      "Circulate air in greenhouses/high tunnels with vents, fans, or by rolling up sides",
-      "Maintain night temperatures higher than outside to reduce dew formation",
-      "Remove and destroy crop residue at the end of the season; sanitize greenhouse surfaces and equipment"
+      "استخدام الري بالتنقية وتجنب الرطب",
+      "النباتات الفضائية لتحسين الدوران الجوي",
+      "تُنتَج أو تُنتَج أو تُنتَج أو تُنتَج أو تُقلِّل من الرُفق حول الشُّرْط",
+      "توزيع الهواء في الصوبات/الأنفاق المرتفعة مع فتحات أو مروحة أو بتدوير الجوانب",
+      "الحفاظ على درجات حرارة ليلية أعلى من الخارج للحد من تكوين الندى",
+      "إزالة وتدمير مخلفات المحاصيل في نهاية الموسم؛ وتطهير أسطح ومعدات الدفيئة"
     ],
     "resistant_varieties": [
-      "Use resistant cultivars cautiously, as resistance is often race-specific",
-      "Test resistant varieties on a small scale before large-scale planting",
-      "Reference: Cornell Disease Resistant Vegetable Varieties list"
+      ":: توخي الحذر في استخدام المواد المقاومات المقاومة التي كثيراً ما تكون محددة حسب العرق؛",
+      "على نطاق صغير قبل الزراعة على نطاق واسع",
+      "المصدر: قائمة الأصناف النباتية النباتية"
     ],
     "chemical": [
-      "Apply fungicides preventively when conditions favor disease",
-      "Rotate chemical families to prevent resistance development",
-      "For organic production, copper-based products (e.g., Champ) can provide partial control",
-      "Follow all pesticide labels and legal restrictions for greenhouse/high tunnel use"
+      "تطبيق مبيدات الفطريات الوقائية عندما تكون الظروف مواتية للمرض",
+      "دوران الأسر الكيميائية لمنع استمرار التنمية",
+      "وبالنسبة للإنتاج العضوي، يمكن أن توفر المنتجات القائمة على النحاس (مثل \" البطل \" ) رقابة جزئية",
+      "تتبع جميع علامات مبيدات الآفات والقيود القانونية على استخدامات الدفيئة/النفقات المرتفعة"
     ]
   },
   "notes": [
-    "Early scouting during high humidity periods is critical for timely management",
-    "New races of P. fulva may emerge, so monitoring resistant cultivar efficacy is important",
-    "Effective management combines cultural, genetic, and chemical strategies"
+    "الكشافة المبكرة خلال فترات الرطوبة العالية أمر بالغ الأهمية بالنسبة للإدارة في الوقت المناسب",
+    "قد تظهر أجناس جديدة لـ P. Fulfa، لذلك مراقبة مراقبة",
+    "الجمع بين الإدارة الفعالة والاستراتيجيات الثقافية والجينية والكيميائية"
   ],
   "references": [
-    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
-    "Minnesota Extension, Tomato Leaf Mold Management",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "دليل الإنتاج النباتي للزراعات التجارية، 2023",
+    "1 مد-1، ط ط ط ط ط ط ط ط",
+    "J.B., et al. 2014 خلاصة وافية عن أمراض الطماطم والآفات، الطبعة الثانية، مطبعة APS."
   ]
 }

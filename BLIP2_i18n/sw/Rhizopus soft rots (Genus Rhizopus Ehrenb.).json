@@ -1,74 +1,74 @@
 {
- "disease": "Rhizopus Soft Rot",
- "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
- "pathogen_type": "Fungus",
- "description": "Rhizopus soft rot is a fungal disease that mainly affects fruits, vegetables, and stored crops. The fungus infects wounded plant tissues and causes a rapid soft, watery decay. It is common during storage, transport, and in warm and humid conditions.",
- "symptoms": [
-  "Soft watery rot on infected tissues",
-  "Rapid breakdown of fruit or vegetable tissue",
-  "White cotton-like fungal growth on the surface",
-  "Black pin-like spore structures on infected areas",
-  "Foul smell in advanced decay",
-  "Infected tissues become mushy and collapse"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Peach",
-  "Papaya",
-  "Banana",
-  "Sweet potato",
-  "Carrot",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Melon",
-  "Mango",
-  "Eggplant",
-  "Pepper",
-  "Stored vegetables and fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Damaged or wounded plant tissues",
-  "Poor storage conditions",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers or tools",
-  "Insects or mechanical damage that create wounds"
- ],
- "impact": [
-  "Rapid post-harvest losses",
-  "Fruit and vegetable decay during storage or transport",
-  "Reduced market value of crops"
- ],
- "cultural_control": [
-  "Handle fruits and vegetables carefully to avoid wounds",
-  "Harvest crops during dry conditions",
-  "Remove damaged or infected produce quickly",
-  "Maintain good hygiene in storage areas",
-  "Ensure proper ventilation in storage facilities"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus species",
-  "Use biocontrol yeasts that inhibit fungal growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicide treatments where allowed",
-  "Use of disinfectants for storage containers and equipment"
- ],
- "prevention": [
-  "Avoid mechanical injuries during harvest",
-  "Store crops at appropriate temperature and humidity",
-  "Use clean containers and storage facilities",
-  "Separate infected produce from healthy produce"
- ],
- "source": [
-  "Plant pathology references on post-harvest diseases",
-  "Agricultural storage disease management guides"
- ]
+  "disease": "Roho ya Roho ya Roho",
+  "scientific_name": "Juu ya Rhizopus (Genus Rhizopus)",
+  "pathogen_type": "Fungus ya",
+  "description": "Rhizopus mti ni ugonjwa wa maumivu ambayo huathiri hasa matunda, matunda, na matunda yaliyohifadhiwa. Mti huathiri maumivu ya mimea yaliyoathirika na kusababisha uharibifu wa haraka, maji. Ni kawaida wakati wa kuhifadhi, usafiri, na katika hali ya hewa na ya umeme.",
+  "symptoms": [
+    "Mafuta ya maji ya kuvutia kwenye mifugo ya kuvutia",
+    "Uharibifu wa haraka wa matunda au matunda ya matunda",
+    "Uzalishaji wa mbegu kama mboga ya kijani juu ya mbolea",
+    "Mradi wa nyama kama pin ya kijani kwenye maeneo yaliyoathiriwa",
+    "Maua ya kuvutia katika kuongezeka kwa maendeleo",
+    "Mafuta yaliyoathiriwa huongezeka na kuanguka"
+  ],
+  "hosts": [
+    "Mji wa Tomato",
+    "ya Strawberry",
+    "Peach ya",
+    "Papa ya",
+    "Banana ya",
+    "Karatasi ya nguruwe",
+    "gari ya",
+    "ya Pumpkin",
+    "Siku ya Squash",
+    "ya Cucumber",
+    "Meloni ya",
+    "Mango ya",
+    "Mipango ya Egg",
+    "Pepsi ya",
+    "Matunda na matunda ya kuhifadhiwa"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Mafuta ya mimea ya kuharibiwa au kuharibiwa",
+    "hali mbaya ya kuhifadhi",
+    "Upungufu mdogo wakati wa kuhifadhi"
+  ],
+  "spread": [
+    "Mchakato wa Airborne",
+    "Mawasiliano kati ya bidhaa za kuvutia na za afya",
+    "Uhifadhi wa wadudu au vifaa vya kuhifadhi",
+    "Wanyama au uharibifu wa kiufundi ambao hufanya maumivu"
+  ],
+  "impact": [
+    "Uharibifu wa haraka baada ya uzalishaji",
+    "Uharibifu wa matunda na matunda wakati wa kuhifadhi au usafiri",
+    "Kupunguza thamani ya soko ya matunda"
+  ],
+  "cultural_control": [
+    "Kuendesha matunda na matunda kwa makini ili kuepuka maumivu",
+    "Matunda ya mimea wakati wa hali ya hewa",
+    "Kuondoa bidhaa zilizoathirika au zilizoathirika kwa haraka",
+    "Kutoa afya nzuri katika maeneo ya kuhifadhi",
+    "kuhakikisha usafiri sahihi katika vifaa vya kuhifadhi"
+  ],
+  "biological_control": [
+    "Kutumia virutubisho muhimu kama vile Bacillus",
+    "Kutumia mbegu za biocontrol ambazo hupunguza ukuaji wa fungus"
+  ],
+  "chemical_control": [
+    "Matibabu ya fungicide baada ya mazao ambayo inawezekana",
+    "Matumizi ya Desinfectants kwa ajili ya kuhifadhi wadogo na vifaa"
+  ],
+  "prevention": [
+    "Kuepuka uharibifu wa kiufundi wakati wa mazao",
+    "Kuhifadhi matunda kwa joto na umeme sahihi",
+    "Kutumia vifaa vya kuhifadhi na vifaa vya kuhifadhi",
+    "Kuondoa bidhaa za kuvutia kutoka kwa bidhaa za afya"
+  ],
+  "source": [
+    "Matokeo ya matibabu ya matibabu ya matibabu baada ya matibabu",
+    "Mafunzo ya Matibabu ya Usalama wa Kilimo"
+  ]
 }

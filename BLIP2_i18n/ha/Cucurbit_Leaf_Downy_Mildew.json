@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Yã game huska kuma ya jũya bãya.",
+  "description": "Rashin lafiya yana iya kawo mummunar cuta a dukan duniya, yana sa mutum ya yi yaushi da kuma mutuwa mai yawa, kuma yana sa ya yi girma kuma ya samu ' ya'ya masu yawa.",
+  "symptoms": [
+    "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne.",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Suna son su yi girma sosai a gefen hagu",
+    "KCharselect unicode block name",
+    "Ka bar wajen kuma ka mutu da sauri",
+    "Ƙari ga haka, akwai abubuwa da yawa da za su iya ɓata dangantakarmu da Jehobah."
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - ShortNamePossessive",
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Muna yin ruwan sama ko kuma mun daɗe muna zuba ruwa",
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi."
+  ],
+  "spread": [
+    "KCharselect unicode block name",
+    "Media controller element",
+    "Wuraren Mahaɗar Sadarwa",
+    "Mãsu duhun inuwa."
+  ],
+  "infection_process": [
+    "Ƙasa mai zuba ƙasa a ƙasa da ke cike da shuke - shuke",
+    "@ item Text character set",
+    "@ item Spelling dictionary",
+    "Media controller element"
+  ],
+  "management": [
+    "Yi Amfani da ' Yancin Kai ko kuma tsayayya wa ' Yancin Kai Sa'ad da ake samu",
+    "Media controller element",
+    "shuke - shuke a kai a kai don yanayi na farko",
+    "Yi Amfani da Lokaci don faɗin Abubuwan da Za Su Faru",
+    "KCharselect unicode block name"
+  ],
+  "biological_control": [
+    "Ka Yi Amfani da abubuwan da ba su dace ba kamar na'urar da ake amfani da su",
+    "Ka ƙarfafa ƙasa mai kyau da ke da haɗari sosai don ka rage matsi na ciwo"
+  ],
+  "chemical_control": [
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Yin amfani da kowane kwanaki 5 ko fiye da hakan yana da wuya a yi amfani da shi a duk lokacin da aka yi amfani da shi don a yi amfani da abubuwan da ba su dace ba.",
+    "Yin magana a kan abin da ba a yawan yi ba don a hana yin tsayayya da shi",
+    "Masu wasan kwaikwayo suna iya haɗawa da wani abu na ƙarfe, ko kuma wasu abubuwa da ba a yi tsammani ba"
+  ],
+  "prevention": [
+    "Masu Tawali'u Suna tsayayya wa tsaka - tsaki sa'ad da aka ba su aiki",
+    "Media controller element",
+    "Ka guje wa kasancewa da dogon buri da muke da shi da daɗewa",
+    "Ka yi amfani da abubuwan da za su iya sa ka yi amfani da su don ka rage lokacin yin amfani da ciwon da kake da shi"
+  ],
+  "impact": [
+    "Zai yiwu mutum ya yi hasara zuwa kashi 80 bisa ɗari a lokacin wahala mai tsanani",
+    "Yana da haɗari a yi amfani da kayan aiki a dukan duniya"
+  ],
+  "source": [
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "KA YI tunani sosai a kan abin da ya faru sa'ad da nake girma"
+  ]
 }

@@ -1,0 +1,123 @@
+{
+  "pest_name": "Thrips Blattschäden",
+  "order": "Thysanoptera",
+  "family": "mit einer Dicke von mehr als 2 mm",
+  "type": "Insekten",
+  "description": {
+    "size": "1–1,5 mm (0,03–0,06 Zoll)",
+    "body": "Schlank, gelb oder braun, zwei Paar schmale, gefranste Flügel",
+    "mouthparts": "Asymmetrisch; zum Abkratzen von Blattoberflächen und zum Herausziehen von Flüssigkeiten",
+    "species_of_major_concern": [
+      "Westliche Blütentrauben (Frankliniella occidentalis)",
+      "Zwiebelthrips (Thrips tabaci)"
+    ]
+  },
+  "hosts": {
+    "ornamentals": [
+      "Chrysanthemen",
+      "Zuckerrüben (einschließlich Zuckerrüben und Zuckerrüben)",
+      "Cyclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fuchsie",
+      "Unzufrieden",
+      "Lilie",
+      "Nemesia",
+      "Primula",
+      "Ranunculus",
+      "Verbena",
+      "Coleus",
+      "Diascia",
+      "Lobelie",
+      "Gerbera",
+      "Capsicum annuum",
+      "Begonie x Hiemalis",
+      "Pelargonium"
+    ],
+    "vegetables": [
+      "Kopfsalat",
+      "Tomaten",
+      "Kartoffeln",
+      "Pfeffer",
+      "Schalotten",
+      "Knoblauch",
+      "Winterweizen",
+      "L 347 vom 20.12.2013, S. 671.",
+      "Hülsenfrüchte",
+      "Zwiebeln",
+      "Bohnen",
+      "Gurken",
+      "Kohl",
+      "Lauch",
+      "Spargel",
+      "Blumenkohl"
+    ]
+  },
+  "damage": {
+    "direct_feeding": "Durchstechen von Pflanzenzellen und Saugen von Zellinhalten, so dass gebleichte oder silbrige Flecken oder Flecken, die braun und nekrotisch werden können. Verursacht Blatt- und Blütenverzerrung und Stunting. Kleine schwarze Fäkalien Flecken sichtbar in beschädigten Bereichen.",
+    "feeding_preferences": {
+      "Western flower thrips": "Blätter und Blüten; Blüten/Blumenknospen bevorzugt",
+      "Japanese flower thrips": "Blätter in erster Linie; kann in Blüten auftreten"
+    },
+    "secondary_effects": "Schäden können Pflanzen zur Infektion mit Botrytis prädisponieren."
+  },
+  "virus_transmission": {
+    "vector": [
+      "Westliche Blütentrauben",
+      "Speisezwiebeln",
+      "Japanische Blütentrauben (nur TSWV)"
+    ],
+    "viruses": [
+      "Tomatengeflecktes Welkenvirus (TSWV)",
+      "Impatiens nekrotic spot virus (INSV)"
+    ],
+    "mechanism": "Erste Instar-Larven erwerben Viren von infizierten Pflanzen; Erwachsene übertragen Viren während der Fütterung. Erwachsene bleiben für das Leben infektiös.",
+    "host_plants": [
+      "Chrysanthemen",
+      "Zuckerrüben (einschließlich Zuckerrüben und Zuckerrüben)",
+      "Cyclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fuchsie",
+      "Unzufrieden",
+      "Lilie",
+      "Nemesia",
+      "Primula",
+      "Ranunculus",
+      "Verbena",
+      "Coleus",
+      "Diascia",
+      "Lobelie"
+    ]
+  },
+  "symptoms_of_virus_infection": [
+    "Chlorotische oder nekrotische Blattflecken",
+    "Blattringe und Linienmuster",
+    "Blattverzerrung, Bronzierung, Vergilbung und Nekrose",
+    "Stängelschwärze",
+    "Wachsender Tod"
+  ],
+  "regulatory_status": {
+    "TSWV": "Reguliertes Non-Quarantin Pest (RNQP) in Begonia x Hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
+    "INSV": "Regulierte Non-Quarantin-Pflanze (RNQP) in Begonia x Hiemalis"
+  },
+  "life_cycle": {
+    "reproduction": "Kann asexuell reproduzieren; mehrere Generationen pro Wachstumsperiode",
+    "notes": "Indoor-grown Pflanzen anfälliger durch weniger natürliche Feinde"
+  },
+  "management": {
+    "cultural": [
+      "Überwachung der Pflanzen regelmäßig auf frühe Anzeichen von Thripsen",
+      "Entfernen und zerstören stark befallene Pflanzenteile",
+      "Erhalten Sie gesunde Populationen von natürlichen Feinden"
+    ],
+    "chemical": [
+      "Insektizide sinnvoll verwenden; lokale Richtlinien und Kennzeichnungshinweise befolgen"
+    ],
+    "integrated": "Kombinieren Sie Überwachung, kulturelle Kontrolle, natürliche Raubtiere und gezielte Insektizid-Nutzung"
+  },
+  "references": [
+    "UK Ornamental Crop Guides: Thrips-Kontrolle in geschützten Zierpflanzen",
+    "Colorado State University Extension, Pest Notes: Thrips in Gemüse und Zierpflanzen"
+  ]
+}

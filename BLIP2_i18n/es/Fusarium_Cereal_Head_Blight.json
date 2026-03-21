@@ -1,0 +1,69 @@
+{
+  "disease": "Fusarium Head Blight",
+  "scientific_name": "Fusarium graminearum (especie principal)",
+  "pathogen_type": "Hongos",
+  "description": "Una grave enfermedad fúngica de los cultivos de cereales que infecta las cabezas de plantas como el trigo y la cebada. Reduce el rendimiento y la calidad de los granos y puede producir un compuesto tóxico (micotoxina) en el grano.",
+  "symptoms": [
+    "Blanqueo prematuro de cabezas de cereales",
+    "Uno o más picotas se vuelven blancas mientras el resto permanece verde",
+    "Esporas fúngicas rosadas o naranjas en la base de glúmenes",
+    "Crecimiento fúngico esponjoso o rojizo en cabezas infectadas en clima húmedo",
+    "Cédulas de grano fino, ligero y blanqueado (cebollas de tombstone)"
+  ],
+  "hosts": [
+    "Trigo",
+    "Trigo duro",
+    "Cebada",
+    "Avena",
+    "Maíz",
+    "Centeno",
+    "Hierbas silvestres y cultivadas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas alrededor de 25°C",
+    "Alta humedad o humedad continua durante 36 horas",
+    "Lluvia durante la etapa de floración",
+    "Presencia de residuos de cultivos infectados sobre el terreno"
+  ],
+  "spread": [
+    "Esporas transmitidas por el viento a partir de residuos infectados",
+    "Salpicadura de lluvia esparciendo esporas entre las plantas",
+    "Plantar semillas infectadas",
+    "Movimiento de residuos o granos de cultivos contaminados"
+  ],
+  "management": [
+    "Utilizar variedades de cereales resistentes o tolerantes",
+    "Rotar los cultivos y evitar plantar cereales después del maíz",
+    "Utilizar semillas limpias certificadas",
+    "Aplicar el tratamiento de semillas antes de la plantación",
+    "Campos exploradores durante la floración para síntomas",
+    "Cosecha temprano cuando el riesgo de infección es alto",
+    "Grano seco y aireado adecuadamente durante el almacenamiento"
+  ],
+  "biological_control": [
+    "Especies de trichoderma utilizadas como antagonistas biológicos en el tratamiento del suelo o de las semillas",
+    "Microbios beneficiosos para suprimir Fusarium en los residuos de cultivos"
+  ],
+  "chemical_control": [
+    "Aplicar fungicidas triazol (por ejemplo, tebuconazol, protioconazol, metconazol) durante la fase de floración",
+    "Utilizar fungicidas registrados de acuerdo con las recomendaciones agrícolas locales"
+  ],
+  "prevention": [
+    "Girar los cultivos durante al menos 2 años con cultivos distintos de los de acogida",
+    "Manejar los residuos de cultivos por labranza o descomposición",
+    "Evitar variedades altamente susceptibles",
+    "Utilizar una gestión de riego adecuada durante la floración",
+    "Separar y someter a ensayo el grano contaminado antes de alimentar al ganado"
+  ],
+  "impact": [
+    "Reducción del rendimiento y la calidad de los granos",
+    "Producción de micotoxina deoxinivalenol (DON)",
+    "El grano contaminado afecta al procesamiento de alimentos, la malteada y la producción de biocombustibles",
+    "Los altos niveles de DON reducen la ingesta de alimento y la inmunidad en el ganado"
+  ],
+  "source": [
+    "Agricultura de Alberta – Fusarium Head Blight",
+    "Comisión Canadiense de Granos",
+    "Literatura de patología vegetal sobre enfermedades de los cereales"
+  ]
+}

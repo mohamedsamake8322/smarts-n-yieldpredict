@@ -1,0 +1,86 @@
+{
+  "disease": "Sclerotinia Stem Rot",
+  "scientific_name": "Esclerotinia esclerotiorum",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre del tallo de esclerotinia es una enfermedad fúngica que ataca los tallos de muchos cultivos. El hongo produce moho blanco similar al algodón y estructuras de supervivencia negras llamadas esclerotia. Los tallos infectados se vuelven blandos, se pudren y pueden hacer que la planta colapse.",
+  "symptoms": [
+    "Lesiones empapadas de agua en los tallos",
+    "Suave putrefacción en los tallos cerca de la línea del suelo",
+    "Crecimiento fúngico similar al algodón blanco en los tallos",
+    "Esclerotia tipo semilla negra en el interior o en los tallos infectados",
+    "Afilado y amarillento de las hojas",
+    "Plantas que colapsan debido a la descomposición del tallo"
+  ],
+  "visual_symptoms": [
+    "moho esponjoso blanco en los tallos",
+    "podredumbre suave del tallo acuoso",
+    "esclerotia dura negra en tejido infectado",
+    "plantas colapsadas"
+  ],
+  "hosts": [
+    "Semillas de soja",
+    "Girasol",
+    "Canola (viola de semillas oleaginosas)",
+    "Lechuga",
+    "Tomate",
+    "Judías",
+    "Guisantes",
+    "Zanahoria",
+    "Pepino",
+    "Muchas plantas vegetales y ornamentales"
+  ],
+  "plant_parts_affected": [
+    "tallos",
+    "peciolos",
+    "hojas",
+    "a veces frutos"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías",
+    "Alta humedad",
+    "Lluvia o irrigación frecuentes",
+    "Dosel de plantas densas",
+    "Baja circulación del aire"
+  ],
+  "spread": [
+    "Esporas aerotransportadas liberadas de apothecia",
+    "Esclerotia que sobrevive en el suelo",
+    "Desechos de plantas infectados",
+    "Salpicadura de viento y agua"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo como esclerotia durante varios años",
+    "La esclerotia germina y forma apotecia (estructuras similares a la copa)",
+    "Apothecia libera esporas en el aire",
+    "Las esporas infectan tallos u hojas durante condiciones húmedas",
+    "Nueva esclerotia se desarrolla en las plantas infectadas y volver al suelo"
+  ],
+  "impact": [
+    "Decaimiento de tallos y colapso de plantas",
+    "Reducción del transporte de nutrientes y agua",
+    "Principales pérdidas de rendimiento en cultivos susceptibles"
+  ],
+  "cultural_control": [
+    "Rotar los cultivos con plantas no hospedantes",
+    "Mejorar el espaciamiento de las plantas y el flujo de aire",
+    "Retire y destruya las plantas infectadas",
+    "Gestionar los residuos de los cultivos después de la cosecha"
+  ],
+  "biological_control": [
+    "Usar agentes biológicos como los minitans de Coniothyrium",
+    "Aplicar hongos beneficiosos como la especie Trichoderma"
+  ],
+  "chemical_control": [
+    "Aplicar fungicidas cuando las condiciones ambientales favorezcan la enfermedad",
+    "Utilizar tratamientos de fungicidas protectores durante períodos de alto riesgo"
+  ],
+  "prevention": [
+    "Evitar la plantación densa",
+    "Supervisar los cultivos regularmente durante los períodos fríos y húmedos",
+    "Utilizar prácticas integradas de gestión de enfermedades"
+  ],
+  "source": [
+    "Referencias fitopatológicas",
+    "Guías de gestión de enfermedades agrícolas"
+  ]
+}

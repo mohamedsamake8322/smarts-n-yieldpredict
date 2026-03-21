@@ -1,0 +1,74 @@
+{
+  "disease": "Apfelsinen-Schablone",
+  "scientific_name": "Venturie inaequalis",
+  "description": "Apfelsuppe ist eine häufige Pilzkrankheit von Pflanzen in der Rosaceae-Familie, insbesondere Malus-Arten (Apfel und Krabbenapfel). Es verursacht dunkle, unregelmäßige Läsionen an Blättern, Blüten und Früchten, was zu Fruchtverformung, vorzeitigen Blatt- und Fruchtabfall und möglichen Ernteverlusten bis zu 70% führt. Die Krankheit tötet selten den Wirt, reduziert aber Ertrag und Qualität deutlich.",
+  "hosts": [
+    "Malus-Arten (Apfel, Krabbenapfel)",
+    "Sorbus spp.",
+    "Cotoneaster spp.",
+    "Pyrus-Arten"
+  ],
+  "symptoms_and_damage": [
+    "Blätter: samtig-braune bis olivgrüne Flecken mit deutlichen Rändern, oft schuppend Unterseite des Blattes",
+    "Ältere Blätter: Aufgezogene dunkelgrüne bis graubraune Läsionen, die Köpfchen und Blattlocken verursachen",
+    "Früchte: kleine schwarze Flecken, die braun, korkig und schuppig werden",
+    "Fruchtverformung und vorzeitiger Abfall",
+    "Erhöht die Empfindlichkeit gegenüber sekundären Infektionen und abiotischem Stress"
+  ],
+  "disease_cycle": [
+    "Überwinterungen in Laubstreu und infizierten Pflanzenresten als Pseudothezie",
+    "Frühes Frühjahr: kühle, feuchte Bedingungen lösen sexuelle Askosporen aus",
+    "Sporen werden durch Wind und Spritzwasser zu Blättern und Blüten ausgebreitet",
+    "Gewebedurchdringung erfolgt über Keimrohr oder Appressorium",
+    "Hellgrüne Läsionen entwickeln sich, verdunkeln und erweitern sich; Fruchtläsionen werden korkig",
+    "Innerhalb von 10 Tagen bilden sich asexuelle Konidien bei sekundären Infektionen",
+    "Zyklus kann alle 1–2 Wochen unter günstigen Bedingungen wiederholen",
+    "Am Saisonende, infizierte Blätter und Obst fallen, bilden Pseudothezie für die nächste Saison"
+  ],
+  "favorable_conditions": [
+    "Kühles und feuchtes Wetter während der Sporenfreigabe",
+    "Abundanter Niederschlag",
+    "Dichte Baum Baldachin, die Blatttrocknung verlangsamt"
+  ],
+  "prevention_and_cultural_controls": [
+    "Wählen Sie sonnige Pflanzstellen, um die Luftzirkulation zu verbessern",
+    "Entfernen und zerstören Sie Fruchttropfen, Laubstreu und Schnitte, um Inokulum zu reduzieren",
+    "Regelmäßiges Beschneiden zum Öffnen des Baldachins für schnelle Trocknung",
+    "Nach der Ernte 5% Harnstofflösung vor dem Blattfall anwenden, um die Zersetzung zu beschleunigen",
+    "Vermeiden Sie die Overhead-Bewässerung während der Sporenfreisetzungsperioden"
+  ],
+  "chemical_control": [
+    "Spray Mancozeb bei 2 g/l Wasser, 2–3 Mal in 7-Tage-Intervallen wiederholen; WHO-Klasse U, PHI 14–28 Tage, FRAC MO3",
+    "Spray Carbendazim 50% WP @ 2 g/l bei früher Blüte; WHO-Klasse U, PHI 14 Tage",
+    "Befolgen Sie Produktetikett Anweisungen, rotieren Sie Handlungsweisen, um Widerstand zu verhindern"
+  ],
+  "biological_control": [
+    "Bacillus subtilis @ 50 ml/ropani (z.B. Serenade Opti) vor/während der Regenzeit",
+    "Trichoderma harzianum 100 ml/ropani unter risikoreichen Bedingungen",
+    "Pilz-Antagonist Cladosporium Cladosporioides Stamm H39 reduziert Blattscherbe 42–98% und Obstscherbe 41–94%"
+  ],
+  "resistance_breeding": [
+    "PRI Apple Breeding Program entwickelte 1500 resistente Sorten; Beispiele: 'Prima', 'Jonafree', 'Goldrush'",
+    "Fünfzehn Resistenzgene identifiziert; Vf (Rvi6) Gen weithin untersucht",
+    "Resistenzgene aus wildlebenden Malus spp. in Ostasien",
+    "Potenzial für transgene Sorten, aber die Annahme ist aufgrund der Marktakzeptanz und Pathogen-Evolution begrenzt"
+  ],
+  "monitoring": [
+    "Inspect Blätter für samtig-braune bis olivgrüne Flecken",
+    "Überwachen Sie ältere Blätter für angehobene grau-braune Läsionen",
+    "Überprüfen Sie gefallene Blätter auf gewelltes und geschrumpftes Gewebe",
+    "Beobachten Sie Früchte für schwarze Flecken, die sich zu Krätzen entwickeln"
+  ],
+  "direct_control_and_restrictions": [
+    "Entfernen und entsorgen von stark infizierten Pflanzenteilen in einer Grube von mindestens 30 cm Tiefe",
+    "Baumstämme zur Verbesserung der Blatttrocknung nach Regen",
+    "Tragen Sie Schutzkleidung bei der Verwendung von Pestiziden",
+    "Vermeiden Sie wiederholten Einsatz von Chemikalien mit gleicher Wirkungsweise"
+  ],
+  "sources": [
+    "Wikipedia – Apple Scab",
+    "Pflanzenpestmanagement Literatur",
+    "Referenzen zum integrierten Schädlingsmanagement (IPM)",
+    "PRI Apple Zuchtprogramm, Purdue University, Rutgers University, University of Illinois"
+  ]
+}

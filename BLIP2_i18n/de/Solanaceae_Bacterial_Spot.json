@@ -1,0 +1,53 @@
+{
+  "disease_name": "Solanaceae Bakterieller Fleck",
+  "pathogen": "Xanthomonas campestris pv. vesicatoria",
+  "host_plants": [
+    "Pfeffer",
+    "Tomaten (Feld)",
+    "Tomaten (Treibhaus)"
+  ],
+  "affected_parts": [
+    "Blätter",
+    "Früchte",
+    "Manchmal Stängel"
+  ],
+  "symptoms": [
+    "Kleine braune runde Flecken auf Blättern, manchmal wassergetränkt",
+    "Flecken können zu dunklen Streifen verschmolzen sein",
+    "Allgemeine Vergilbung und schwere Epinastie der Blätter",
+    "Grüne Früchte: erhöhte braune Läsionen, manchmal scab-like, kann Halo haben"
+  ],
+  "favorable_conditions": [
+    "Warmes und feuchtes Wetter",
+    "Häufige Regenfälle oder Überlandbewässerung",
+    "Blätter, die über lange Zeiträume nass bleiben",
+    "Verletzungen durch Insekten, windgetriebenen Sand oder Werkzeuge"
+  ],
+  "disease_cycle": [
+    "Überleben auf infizierten Pflanzenresten und freiwilligen Pflanzen",
+    "Samen-übertragene Übertragung (auch 1 infiziertes Saatgut von 10.000 kann eine vollständige Infektion verursachen)",
+    "Verbreitung durch Wind, Regen, Arbeiter und Werkzeuge",
+    "Betritt Pflanzen durch Stomaten oder Wunden"
+  ],
+  "crop_impact": [
+    "Reduzierte Photosynthese",
+    "Blattentlaubung",
+    "Nicht marktfähige Früchte aufgrund von Läsionen",
+    "Potenzial für signifikante Ertragsverluste"
+  ],
+  "cultural_control": [
+    "Verwendung zertifizierter, seuchenfreier Samen und Sämlinge",
+    "Felder rotieren und freiwillige Pflanzen eliminieren",
+    "Vermeiden Sie Arbeiten in nassen Feldern",
+    "Sanitisieren Sie Werkzeuge und Geräte"
+  ],
+  "chemical_control": [
+    "Bakterizide auf Kupferbasis",
+    "Kupfer/Mankozeb-Lösungen",
+    "Effektivere Anwendung vorbeugend oder in frühen Infektionsstadien"
+  ],
+  "notes": [
+    "Sechs Rassen/Pathovaren identifiziert",
+    "Resistenz in Sorten ist oft rassenspezifisch"
+  ]
+}

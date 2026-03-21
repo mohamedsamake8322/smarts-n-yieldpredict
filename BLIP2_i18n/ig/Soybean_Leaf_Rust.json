@@ -1,0 +1,59 @@
+{
+  "pest_name": "Ndị Na - eme Ka Anụ Dị Ọcha n'Anya",
+  "scientific_name": "Igbe dị n'ime ime ala",
+  "common_name": "Ndị Na - eto Eto Na - ajụ, Sị",
+  "description": "Ọ pụrụ ịkpata mfu dị ukwuu n'ọnọdụ ndị dị mma.",
+  "distribution": "Na mbụ site n'Eshia; na U.S., bụ́ nke mbụ a hụrụ n'Ebe Ndịda Ụwa n'afọ 2004 ma gbasaa oge uto ọ bụla.",
+  "host_range": {
+    "primary_host": "Gaccli (srun)",
+    "other_hosts": "Amaghị; mmiri ọgwụ ahụ́ bụ́ hormone na - adịgide ndụ nanị n'ahụ́ ahịhịa ndụ ndị a na - enweta n'aka ndị ọbịa"
+  },
+  "symptoms": {
+    "leaf": [
+      "Obere oghere isi awọ nke dị n'ala ala akwụkwọ nke na-aka akwụkwọ ma ọ bụ nke na-enweghị ntụpọ",
+      "Anwụrụ ọkụ na - esi ísì ụtọ na - agbasa n'ime oghere ndị na - acha odo odo",
+      "Ndị na - emepụta ngwá ọrụ ndị na - egbuke egbuke na - enwe ihe ndị na - eme ka ahụ́ ha na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka ahụ́ ha na - arụ ọrụ nke ọma",
+      "Ihe mgbaàmà ndị mbụ o nwere na - esi ike ịmata ọdịiche dị n'etiti ọrịa ndị ọzọ akwụkwọ osisi"
+    ],
+    "pod_stem": [
+      "A na - esi n'osisi enweta ihe ndị e ji esi nri nakwa n'osisi ndị e ji eme ihe n'ebe a na - edebe ihe ndị mgbe ochie"
+    ],
+    "timing": "Ọtụtụ n'ime ha na - akụkarị okooko osisi, n'oge ha na - etolite n'oge ha na - amụ nwa"
+  },
+  "conditions_favoring_disease": {
+    "temperature": "59 IHE NDỊ BỤ́ ISI NA - EME N'OGE OCHIE",
+    "humidity": "Nnukwu ụlọ ọrụ (nke e sere n'afọ75)",
+    "weather": "Oge ihu igwe na - adịghị mma",
+    "plant_stage": "Oge uto, mgbe a kụsịrị okooko osisi na mgbe a mụsịrị ya"
+  },
+  "biology": {
+    "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+    "species": [
+      "Igbe dị n'ime ime ala",
+      "N'ihi ya, e nwere otu nwoke aha ya bụ Pobon. Ya na di ya sere okwu, ọ bụghị ihe ga - eme ka ha kwaa iko."
+    ],
+    "obligate_pathogen": true,
+    "survival": "Mgbe a na - ebi akwụkwọ ndụ n'ebe ndịda steeti nakwa na Mexico; ikuku na - efe n'oge ọ bụla",
+    "infection": "A na - ebu ụzọ esi n'akwụkwọ osisi pụta; a pụrụ isi na ya nweta ihe a ga - eji na - egbochi afọ ime nakwa ihe a ga - esi na ya nweta ihe a ga - eji na - egbochi afọ ime"
+  },
+  "damage": [
+    "Ebe Ndị A Na - edebe Ihe n'Ụzọ Na - ekwesịghị Ekwesị na Ebe Ndị A Na - edebe Ihe Ndị Na - adịghị Ize Ndụ",
+    "Ndakpọ nke mfu ndị a na - enwe n'ihi ọnọdụ ndị dị mma"
+  ],
+  "management": {
+    "cultural_control": [
+      "Ọ na - adị ala kwa izu, karịsịa mgbe oyi na - atụ n'oge oyi",
+      "Omume ọma ndị a na - eme n'ebe nile na - enwe mmetụta dị nta n'ebe ndị mmadụ nọ"
+    ],
+    "chemical_control": [
+      "Jiri ihe ndị na - atọ ọchị e ji eme ihe n'oge ma ọ bụ ozugbo i butere ọrịa"
+    ],
+    "genetic_control": [
+      "A na - emepụta ụdị dị iche iche nke nchara ndị na - esi ísì ọma"
+    ]
+  },
+  "notes": [
+    "Ọ bụrụ na ọ na - esi ezigbo ike, ọ ga - adị mkpa na ọ ga - eme ka ihe ndị dị n'ahụ́ ya ghara ịna - arụ ọrụ nke ọma, meekwa ka ọrịa na - efe efe ghara ịna - efe n'ebe ugwu",
+    "P.S.Torla bụ onye na - eji ike eme ihe ike bụ́ nke na - akpata mfu dị ịrịba ama; P.ilaiaia bụ onye dị nwayọọ, ọ bụghịkwa onye a kọrọ na kọntinent United States."
+  ]
+}

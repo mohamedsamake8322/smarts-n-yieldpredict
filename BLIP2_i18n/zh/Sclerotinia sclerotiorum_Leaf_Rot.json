@@ -1,87 +1,87 @@
 {
- "disease": "Sclerotinia Leaf Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia leaf rot is a fungal disease that affects many crops. The fungus infects leaves and stems under cool and wet conditions. It produces white cotton-like mold and black survival structures called sclerotia.",
- "symptoms": [
-  "Water-soaked spots on leaves",
-  "Leaves turning yellow and wilting",
-  "Soft rot on infected leaf tissue",
-  "White cotton-like fungal growth on leaves or stems",
-  "Black seed-like sclerotia forming in infected areas",
-  "Leaves collapsing and dying"
- ],
- "visual_symptoms": [
-  "white fluffy mold on leaves",
-  "soft watery leaf rot",
-  "black sclerotia inside fungal growth",
-  "collapsed or wilted leaves"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Sunflower",
-  "Cabbage",
-  "Carrot",
-  "Celery",
-  "Cucumber",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "petioles"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Prolonged leaf wetness",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia in soil",
-  "Infected plant debris",
-  "Water splash or wind"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce cup-shaped apothecia",
-  "Apothecia release spores into the air",
-  "Spores infect leaves during wet conditions",
-  "New sclerotia form on infected plants and return to soil"
- ],
- "impact": [
-  "Leaf rot and plant weakening",
-  "Reduced photosynthesis",
-  "Lower crop yield",
-  "Possible plant collapse in severe infections"
- ],
- "cultural_control": [
-  "Remove infected plants quickly",
-  "Improve plant spacing and airflow",
-  "Rotate crops with non-host plants",
-  "Remove infected plant debris from fields"
- ],
- "biological_control": [
-  "Use biocontrol fungi such as Coniothyrium minitans",
-  "Use beneficial microbes like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply registered fungicides when disease risk is high",
-  "Preventive fungicide sprays in humid conditions"
- ],
- "prevention": [
-  "Avoid overcrowded planting",
-  "Monitor crops during cool and wet seasons",
-  "Practice crop rotation",
-  "Use integrated disease management"
- ],
- "source": [
-  "Plant pathology disease guides",
-  "Agricultural extension resources"
- ]
+  "disease": "Sclerotinia 叶叶棒",
+  "scientific_name": "丙烯二烯丙烯二烯二烯三烯二烯二烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯三烯二烯三烯三烯二烯三烯三烯三烯二烯三烯三烯三烯三烯三烯二烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯二烯三烯三烯",
+  "pathogen_type": "蘑菇",
+  "description": "Sclerotinia叶腐烂是一种影响许多作物的真菌病。真菌感染了在冷湿条件下叶子和根茎。它产生白色的类似棉花的模具和黑色的生存结构,叫做克里罗蒂亚(clerotia)。",
+  "symptoms": [
+    "叶子上浸水点",
+    "叶子变黄变黄 枯萎",
+    "被感染叶组织上的软腐烂",
+    "树叶或树茎的白棉花类真菌生长",
+    "在受感染地区形成类似黑种的黑种血激素",
+    "叶子崩溃和死亡"
+  ],
+  "visual_symptoms": [
+    "叶子上白毛青色",
+    "软水叶腐烂",
+    "真菌生长中的黑白青血球",
+    "或枯叶,或枯叶,"
+  ],
+  "hosts": [
+    "发生",
+    "豆豆",
+    "青豆",
+    "番茄",
+    "向向日向",
+    "菜菜菜",
+    "胡萝",
+    "切菜",
+    "黄瓜",
+    "许多装饰植物"
+  ],
+  "plant_parts_affected": [
+    "叶叶叶",
+    "源根",
+    "树花叶"
+  ],
+  "favorable_conditions": [
+    "凉凉温度",
+    "高湿湿度",
+    "长长的叶叶湿润",
+    "高温植物树冠",
+    "空气循环不畅"
+  ],
+  "spread": [
+    "来自Apothecia的空中飞弹",
+    "土壤中的短血素",
+    "受感染植物碎片",
+    "水喷水或风风"
+  ],
+  "disease_cycle": [
+    "这些真菌在土壤中生存了几年 以血清的形式存活",
+    "发芽并生产杯状粉末",
+    "Apothecia向空气中释放飞弹",
+    "湿湿条件下的喷泉漏水叶感染",
+    "在受感染的植物上出现新的血清表状,并返回土壤"
+  ],
+  "impact": [
+    "叶腐烂和植物变弱",
+    "减少光合作用",
+    "作物产量低",
+    "可能发生严重感染的工厂崩溃"
+  ],
+  "cultural_control": [
+    "迅速清除受感染的植物",
+    "改善厂间间隔和空气流量",
+    "非宿主植物的旋转作物",
+    "从田野中清除受感染植物碎片"
+  ],
+  "biological_control": [
+    "使用生物控制真菌,如微型锥菌菌",
+    "使用有益的微生物,如三氯二烯种"
+  ],
+  "chemical_control": [
+    "在疾病风险高时应用注册的杀真菌杀菌剂",
+    "湿湿湿条件下的预防杀真菌剂喷洒"
+  ],
+  "prevention": [
+    "避免种植过分拥挤",
+    "在凉湿季节监测作物",
+    "实际作物轮作",
+    "使用综合疾病管理"
+  ],
+  "source": [
+    "植物病病病指南",
+    "农业推广资源"
+  ]
 }

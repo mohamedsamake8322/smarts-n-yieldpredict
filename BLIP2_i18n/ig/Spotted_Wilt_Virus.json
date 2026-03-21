@@ -1,0 +1,106 @@
+{
+  "pest_name": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "abbreviation": "TSWV",
+  "type": "Nje virus",
+  "family": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "genome": {
+    "type": "Ana-enweghị isi",
+    "structure": "Anadu, 80- na-enweghị isi",
+    "segments": [
+      {
+        "name": "L",
+        "length_kb": 8.9
+      },
+      {
+        "name": "M",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S",
+        "length_kb": 2.9,
+        "genes": [
+          "N",
+          "NDỊ NKWUSA OLE NỌ NA YA"
+        ]
+      }
+    ]
+  },
+  "hosts": {
+    "primary": [
+      "tomato",
+      "ụtaba",
+      "Ihe Ndị Na - egbochi Agụụ Mmekọahụ",
+      "ONYE NA - ETO ETO",
+      "IHE NDỊ GA - ENYERE GỊ AKA",
+      "ahụekere",
+      "Ụcha àkwá",
+      "Ebe a na - eli ozu",
+      "Ihe ịchọ mma dịgasị iche iche"
+    ],
+    "weeds": [
+      "Mèé nsụnye apụghị apụ",
+      "A Mara Ya Ikpe",
+      "Akụ́ Ndị Dị Oké Ọnụ Ahịa",
+      "Ihe ndị e ji achọ ụlọ mma n'oge ochie",
+      "N'abalị ọ bụla, ihe na - ebenụ na - ebenụ",
+      "Agwọ tara ahụ́ nke nọ n'elu ịnyịnya ibu"
+    ]
+  },
+  "symptoms": [
+    "ọkụkụ ndị na - acha akwụkwọ ndụ akwụkwọ ndụ",
+    "Akwụkwọ na mkpụrụ osisi na - ama mma n'ahụ́ ma na - agbawa agbawa",
+    "A na - esi n'akwụkwọ osisi enweta ihe ndị e ji esi nri bụ́ ndị na - adị n'ime ala nakwa n'ahịrị n'ahịrị",
+    "Iji akwụkwọ ndị ahụ eme ihe n'ụzọ gabigara ókè",
+    "Ihe na - akpata ịda mbà n'obi",
+    "Mkpụrụ osisi ndị a gbara ná mkpọ ma ọ bụ ndị nke a kpara akpa"
+  ],
+  "transmission": {
+    "vector": "Usoro ndị nke a kara chọọ",
+    "vector_species": [
+      "Ihe e ji achọ ụlọ mma n'oge ochie bụ osisi dị́ n'ime ala.",
+      "A na - etinye tomato n'ihe e ji esi nri n'ebe a na - edebe ihe ndị mgbe ochie",
+      "Ihe ndị e ji esiji ákwà bụ́ ndị e ji nkwụ mee (melon)",
+      "Ihe ndị e ji esiji ákwà bụ́ ndị a na - etinye na kọmputa bụ́ ndị a na - eji emenwúọ̀kụ̀"
+    ],
+    "mechanism": [
+      "Anwụrụ ọkụ na - apụta nanị n'ebe ikpo okwu (1nke atọ na nke mmalite kpakpando)",
+      "Mkpụrụ Ndụ Ihe Nketa na Ọtụtụ Ihe Ndị E Nwere n'Ahụ́ Ndị Na - enye Ihe n'Ahụ́ na n'Ahụ́",
+      "A na - anọgide na - etinye mkpụrụ ndụ n'ihe ize ndụ ná ndụ ma adịghị amụta ụmụ",
+      "Ndị na - ere akwụkwọ pụrụ ịdị na - eri nri ruo minit  narị na iri asatọ na ise"
+    ]
+  },
+  "life_cycle": {
+    "thrips_larval_stage": "Ụbọchị otu narị ụbọchị na iri atọ na atọ",
+    "thrips_adult_lifespan": "200,000",
+    "TSWV_infection_duration": "N'afọ ndụ nile, a na - enweta ọgwụ ndị e ji agwọ ọrịa dị ka exva"
+  },
+  "economic_impact": [
+    "Ọ na - efu ihe ndị na - agbawa obi n'akwụkwọ nri, n'ubi, nakwa n'ihe oriri",
+    "Tụlee otu n'ime nje virus ndị kasị ebibi ihe n'ụzọ akụ̀ na ụba"
+  ],
+  "management": {
+    "prevention": [
+      "Jiri nje %s na omemmegharị-d ụsụụ ndị ahụ",
+      "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa na ihe ọkụkụ ochie",
+      "Nọgide na-enweghị isi na-enweghị isi 25",
+      "Omume ọma ndị a na - eme n'ebe okpomọkụ na n'ubi"
+    ],
+    "resistant_varieties": [
+      "Jiri ụdị tomato dị iche iche na - eme ihe n'ụzọ na - awụ akpata oyi n'ahụ́",
+      "Tụlee nje ndị na - eguzogide ọgwụ ma nọgide na - adị ọcha"
+    ],
+    "chemical_control": [
+      "Ọnụ ahịa ọgwụ ndị e ji alụso nje ndị na - akpata ọrịa ọgụ na - abara ndị na - eguzogide ọgwụ uru n'ụzọ dị ngwa n'ihi iguzogide ya ngwa ngwa",
+      "Ọgwụ nje pụrụ ibelata ọnụ ọgụgụ ndị e gburu egbu ma ha adịghị eme ka nje virus gbasaa"
+    ],
+    "biological_control": [
+      "Ndị na-ahụ maka ihe ndị e dere ede dị ka Orius n'Osisisus (na-enweghị ihe kpatara ya) na ndị Gorusas (ọrịa ndị a na-amaghị ama)"
+    ]
+  },
+  "notes": [
+    "Agaghị agwọcha akụ́kụ́ ndị a pịrị apị",
+    "Ọ bụ nanị site ná mkpụrụ, ụmụ ahụhụ ndị ọzọ, na - akwọ aka, ma ọ bụ na - agbasa ala",
+    "E NWERE ụdị dịgasị iche iche (ebe e nwere ụdị dị iche iche nke ihe ndị dị ndụ n'Australia nanị)",
+    "Ihe ndị ọzọ metụtara ọrịa ndị a na - ebute site na CCV, N'EmL, IYY"
+  ]
+}

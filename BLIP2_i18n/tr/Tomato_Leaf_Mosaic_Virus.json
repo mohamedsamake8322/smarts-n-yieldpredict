@@ -1,59 +1,69 @@
 {
-  "disease_name": "Tomato Leaf Mosaic Virus (ToMV)",
-  "type": "viral disease",
-  "causal_agent": "Tomato mosaic virus (ToMV), genus Tobamovirus",
+  "disease_name": "Tomato Leaf Mosaik Virüsü (ToMV)",
+  "type": "viral hastalıklar",
+  "causal_agent": "Tomato mosaik virüsü (ToMV), türü Tobamovirus",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Petunia spp."],
-    "other_hosts": ["Snapdragon (Antirrhinum spp.)", "Delphinium spp.", "Marigold (Tagetes spp.)", "Various other ornamental and crop plants"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Pirinç ( Capsicum spp )",
+      "Petunia SPP için."
+    ],
+    "other_hosts": [
+      "Snapdragon (Antirrhinum spp.",
+      "Dolphinium spp için.",
+      "Çanakkale (Tagetes spp )",
+      "Çeşitli dekoratif ve bitki bitkileri"
+    ]
   },
-  "distribution": "Worldwide",
+  "distribution": "Dünya çapında",
   "symptoms": {
     "foliage": [
-      "Mottling with alternating yellowish and dark green areas",
-      "Dark green areas often raised or thicker, giving a blister-like appearance",
-      "Leaves may appear fern-like with pointed tips",
-      "Younger leaves may be twisted"
+      "Alternatif sarı ve karanlık yeşil alanlarla karıştırma",
+      "Karanlık yeşil alanlar genellikle yükselir veya daha kalın, bir parlak görünüm verir",
+      "Yapraklar yönlendirilmiş ipuçları ile çok benzer görünebilir",
+      "Genç yapraklar yırtılabilir"
     ],
     "fruit": [
-      "Distortion and yellow blotches",
-      "Necrotic spots on both green and ripe fruits",
-      "Internal browning of the fruit wall"
+      "Kırışıklık ve sarı lekeler",
+      "Hem yeşil hem de yeşil meyvelerde nekrotik noktalar",
+      "Meyve duvarının iç çamaşırı"
     ],
     "overall_plant": [
-      "Dwarfing of young plants",
-      "Discoloration of flowers",
-      "Reduced fruit set and distorted growth"
+      "Genç bitkilerin yıkanması",
+      "Çiçeklerin bozulması",
+      "Düşük meyve seti ve bozulmuş büyüme"
     ]
   },
   "disease_cycle": [
-    "Virus can be introduced through infected seeds",
-    "Only a few infected seedlings can lead to rapid spread",
-    "Spread also occurs via contaminated tools, hands, and clothing during routine handling",
-    "Environmental factors such as temperature, day length, light intensity, plant variety, plant age at infection, and strain virulence influence symptom expression"
+    "Virüs enfekte tohumlar aracılığıyla iletilebilir.",
+    "Sadece birkaç enfekte tohum hızlı yayılmaya yol açabilir",
+    "Ayrıca yayılma rutin işleme sırasında kirlenmiş aletler, eller ve giysiler aracılığıyla gerçekleşir.",
+    "Sıcaklık, gün uzunluğu, ışık yoğunluğu, bitki çeşitliliği, enfeksiyonda bitki yaşı ve virülenlik etkisi gibi çevresel faktörler"
   ],
   "management": {
     "cultural": [
-      "Use virus-free certified seed and healthy transplants",
-      "Sanitize tools, hands, and clothing when handling plants",
-      "Remove and destroy infected seedlings promptly to reduce spread",
-      "Control weeds that may serve as alternate hosts"
+      "Virüssüz sertifikalı tohumlar ve sağlıklı transplantasyonlar kullanın",
+      "Bitkilerin işlenmesinde aletler, eller ve giysilerin temizlenmesi",
+      "Enfekte tohumları hızlı bir şekilde çıkarmak ve yok etmek yayılmasını azaltmak için",
+      "Alternatif ev sahipleri olarak hizmet edebilecek kontrol çubukları"
     ],
     "resistant_varieties": [
-      "Plant cultivars known to have resistance to ToMV where available"
+      "Bitki yetiştiricileri, ToMV'ye dayanıklılığa sahip olduğu bilinmektedir."
     ],
     "chemical": [
-      "No chemical control is effective against viral infections; management relies on prevention and hygiene"
+      "Kimyasal kontrol viral enfeksiyonlara karşı etkili değildir; yönetim önleme ve hijyen üzerine dayanır"
     ]
   },
   "notes": [
-    "ToMV is mechanically transmitted; it does not require insect vectors",
-    "Seedlings in nurseries are particularly vulnerable, especially during transplanting",
-    "Symptoms may vary depending on environmental conditions and plant growth stage"
+    "ToMV mekanik olarak iletilir; böcek vektörleri gerektirmez",
+    "Hemşirelerdeki tohumlar özellikle transplantasyon sırasında hassas.",
+    "Belirtiler çevresel koşullara ve bitki büyüme aşamasına bağlı olarak değişebilir"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "Tomato leaf mosaic virus. American Phytopathological Society (APS) – Plant Disease Factsheets",
-    "Brunt, A.A., et al. 1996. Plant Viruses Online: Descriptions and Lists from the VIDE Database"
+    "Jones, J.B., et al. 2014 Tomato Hastalıkları ve Hastalıkları Compendium, 2. Sürüm.",
+    "Amerikan Fitosanoloji Derneği (APS) - Bitki Hastalıkları Bilgileri",
+    "Brunt, A.A., et al. 1996 Bitki Virüsleri Online: VIDE veritabanından açıklamalar ve listeler"
   ]
 }

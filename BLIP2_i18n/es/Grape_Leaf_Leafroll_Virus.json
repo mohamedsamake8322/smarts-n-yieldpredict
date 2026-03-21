@@ -1,0 +1,54 @@
+{
+  "disease": "Enfermedad de Grapevine Leafroll",
+  "scientific_name": "Virus asociados a la hoja de vid (GLRaVs)",
+  "pathogen_type": "Virus",
+  "description": "Una enfermedad viral de las vides que reduce el rendimiento y la calidad de los frutos. Provoca laminado de hojas, decoloración y mal maduración de las uvas.",
+  "symptoms": [
+    "Las hojas ruedan hacia abajo desde los bordes",
+    "Hojas rojas o moradas en variedades rojas",
+    "Hojas amarillas en variedades blancas",
+    "Las venas verdes permanecen visibles",
+    "Retraso en la maduración de la fruta",
+    "Contenido reducido de azúcar en las uvas"
+  ],
+  "hosts": [
+    "Grapevine (Vitis vinifera)",
+    "Uvas de mesa",
+    "Uvas de vinificación",
+    "Especies silvestres de Vitis"
+  ],
+  "favorable_conditions": [
+    "Presencia de chinches e insectos a escala",
+    "Uso de material de plantación infectado"
+  ],
+  "spread": [
+    "Mealybugs",
+    "Insectos a escala blanda",
+    "Propagación con esquejes infectados"
+  ],
+  "management": [
+    "Eliminar las vides infectadas",
+    "Controlar las harinybugs y los insectos de escala",
+    "Utilizar material de plantación certificado sin virus",
+    "Supervisar los viñedos con regularidad"
+  ],
+  "biological_control": [
+    "Animar a los enemigos naturales de los chinches como los escarabajos dama",
+    "Usar avispas parasitoideas para controlar vectores"
+  ],
+  "chemical_control": [
+    "Insecticidas para el control de las harinybugs (por ejemplo, imidacloprid, espirotetramat)",
+    "Aceites hortícolas para reducir las poblaciones de vectores"
+  ],
+  "prevention": [
+    "Viñas sin virus certificadas por las plantas",
+    "Controlar los vectores de insectos temprano",
+    "Quitar las vides infectadas rápidamente",
+    "Desinfectar materiales de propagación"
+  ],
+  "source": [
+    "Guía de la FAO sobre la enfermedad de la vid",
+    "UC Davis Viticultura Recursos",
+    "Consejo Internacional de Viticultura (OIV)"
+  ]
+}

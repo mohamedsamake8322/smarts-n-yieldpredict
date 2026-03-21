@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "Afitler",
+  "scientific_name": "Aphididae Hakkında",
+  "description": "Çok sayıda bitki ve dekoratif bitkiyi etkileyen küçük çilekler. teleskop nesilleri aracılığıyla hızlı çoğaltma, nüfusun hızlı çoğaltmasına olanak tanır. Bazı türler ev sahipliği bitkileri arasında değişir; diğerleri genelistlerdir. Onlar çilek üretir, bu da yumuşak çamur büyümesine yol açar. Aphids bitki virüsleri için vektörler olarak hareket eder.",
+  "life_cycle": [
+    "Asexual çoğaltma hakim; kadınlar kadın nymf canlı doğum verir",
+    "Kanatlı kadınlar sezon sonunda yeni bitkilerde dağılıyor",
+    "Sıcak bölgelerde, cinsel üreme sonbaharda gerçekleşir, kışın yumurta gibi",
+    "Buchnera aphidicola ile simbiyoz gerekli amino asitler sağlar"
+  ],
+  "hosts": [
+    "Sebzeler, meyveler, tahıllar, sebzeler, dekoratif bitkiler",
+    "Birçok bitki ve bahçe bitkileri"
+  ],
+  "symptoms_and_damage": [
+    "Sıkıntılı büyüme ve yaprak eğimi",
+    "Sarıya veya yaprakların yumuşatılması",
+    "Honeydew yaprakları ve çamurları üzerinde depolar",
+    "Sooty form büyümesi fotosentezi azaltır",
+    "Bitki virüslerinin yayılması"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar",
+    "Yüksek nem",
+    "Yağmurlu hava",
+    "Düşük bitki kanopi ve stresli bitkiler"
+  ],
+  "spread": [
+    "Enfekte bitkilerle doğrudan temas",
+    "rüzgârlı kanatlı kadınlar",
+    "Afid'e sahip olanlar",
+    "Araçlar, işçiler ve sulama suyu"
+  ],
+  "natural_enemies": [
+    "Çiğ köpekbalığı (örneğin, Coccinella septempunctata, Adalia bipunctata)",
+    "Hoverfly larva",
+    "Parazitler Wasps",
+    "Aphid yumurta larvae",
+    "yeşil yırtıcı larva",
+    "Örümcekler",
+    "Entomopathogenik mantarlar (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
+  ],
+  "biological_control": [
+    "Predatory böcek ve parazitlerin serbest bırakılması",
+    "Bahçelerde veya sera evlerinde doğal düşmanları teşvik etmek",
+    "Mantar biopesticidlerinin kullanımı (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "Böcek ilacı genellikle direnci nedeniyle sınırlıdır (karbamatlar, organofosfatlar, piretroidler)",
+    "Sistemik böcek ilacı çiçeklerin içine giremez",
+    "Küçük infestasyonlar için: böcek sabunu, güçlü su jetleri (yalnızca temas etkisi)"
+  ],
+  "prevention": [
+    "Yellow-pan veya Moericke tuzakları kullanarak popülasyonları izlemek",
+    "Aptit çekiciliğini azaltmak için aşırı azot gübre önlemek",
+    "Enfekte bitki parçalarını hızlı bir şekilde çıkarın",
+    "Sadece kontrol edilen ortamlarda karşılıklı sivrisinekleri teşvik etmek",
+    "Bitki dönüşü ve bitki sağlığını korumak"
+  ],
+  "ant_mutualism": [
+    "Bazı sivrisinekler bal çalı için afidler çiftlik, onları hırsızlardan korumak",
+    "Bitkiler kışın aphid yumurtaları taşıyabilir ve baharda bitkilere geri getirebilir.",
+    "Ant katılımı balın üretimini arttırır ve aphid davranışını etkiler"
+  ],
+  "adaptations": [
+    "Koruyucu veya yumuşak çamur kaplaması",
+    "Savunma için gal şekillendirme türlerinde askeri morfler",
+    "Kimyasal savunmalar kurşunlar aracılığıyla (alomonlar, yapışkan kurşunlar, feromonlar)",
+    "Hayvancılara kaçmak için bitkileri atma yeteneği"
+  ],
+  "sources": [
+    "Vikipedi - Aphid",
+    "Bitki Pest Yönetim Edebiyatı",
+    "Entegre Pest Yönetimi (IPM) Referansları"
+  ]
 }

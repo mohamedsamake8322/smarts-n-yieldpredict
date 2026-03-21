@@ -1,0 +1,42 @@
+{
+  "pest_name": "Zielpunktblatt",
+  "causal_agent": "Corynespora cassiicola",
+  "type": "Pilze",
+  "distribution": "Weltweit",
+  "host_plants": [
+    "Kürbisgewächse, insbesondere Gurken"
+  ],
+  "symptoms": {
+    "leaf": "Anguläre, gelbe Flecken auf älteren Blättern. Flecken vergrößern sich und werden kreisförmig mit hellbraunen Zentren und dunkelbraunen Grenzen. In fortgeschrittenen Stadien fallen graue Zentren aus, was Schrotloch oder zerkleinert Aussehen. Unter Treibhausbedingungen können Flecken helle Zentren, Ringe von olivgrünem Gewebe und gelbe Grenzen haben. Schwere Infektion kann zu Entlaubung führen.",
+    "stem_petiole": "Längere Flecken, hilft, von Anthracnose, downy Mehltau oder Winkelblattfleck zu unterscheiden.",
+    "fruit": "Verdunkelte, geschrumpfte Früchte, wenn eine Infektion früh am Blütenende auftritt.",
+    "roots_flowers": "Infektionen möglich, aber weniger häufig."
+  },
+  "conditions_favoring_disease": {
+    "temperature": "Warme 25–35°C (77–95°F) fördert die Entwicklung; Infektionen können bei 21–26°C auftreten (70–80°F)",
+    "humidity": "Hohe Luftfeuchtigkeit begünstigt Infektion",
+    "light": "Lange Tage fördern die Krankheitsentwicklung",
+    "other_factors": "Fluktuierende Tagestemperaturen und Vorhandensein von infizierten Pflanzenrückständen oder Unkraut"
+  },
+  "pathogen_lifecycle": {
+    "survival": "Auf infizierten Pflanzenrückständen für mindestens zwei Jahre oder auf Unkrautwirten",
+    "dispersal": "Sporen auf der Luft",
+    "infection": "Blätter, Stängel, Blüten, Wurzeln, Blüten und Früchte unter günstigen Bedingungen"
+  },
+  "management": {
+    "cultural": [
+      "Wenn verfügbar, resistente Sorten verwenden",
+      "Gute sanitäre Einrichtungen in Feldern und Gewächshäusern umsetzen",
+      "Entferne und zerstöre infizierte Pflanzenreste",
+      "Unkrautwirte in der Nähe von Kulturen kontrollieren"
+    ],
+    "chemical": [
+      "Präventive Fungizid-Sprays nach Beschriftungsanleitung"
+    ],
+    "integrated": "Kombinieren Sie resistente Sorten, sanitäre und Fungizid-Programme, um Krankheitsinzidenz zu reduzieren"
+  },
+  "references": [
+    "Cucurbit crop disease guides and extension Veröffentlichungen",
+    "Globale Vertriebsberichte von Corynespora cassiicola"
+  ]
+}

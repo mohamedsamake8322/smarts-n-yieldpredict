@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "KCharselect unicode block name",
+  "stage": "SamaOrientation",
+  "common_name": "KCharselect unicode block name",
+  "description": "Yadda ya girma ya yi girma, yana da zafi, yana da ƙarfi sosai kuma yana kāre jiki.",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "Masu zane - zane ba sa sa yin ɓarna",
+    "Bari mu jawo kusa ga haske daddare kuma mu aikata kamar ' yan wasa"
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "Bã su yankẽwa kuma bã a hana su.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "Idan aka gwada manya da manya, za su iya taimaka wajen annabta abubuwan da za su faru a duniya",
+    "Haske na iya sa mutum ya yi aiki a ƙananan wurare"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "Akwai abubuwa da yawa da za a iya amfani da su don a yi amfani da su",
+    "Ka mai da hankali ga abubuwan da za su iya hana ka yin ɓarna"
   ]
 }

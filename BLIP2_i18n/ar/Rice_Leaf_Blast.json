@@ -1,87 +1,87 @@
 {
- "disease": "Rice Leaf Blast",
- "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
- "pathogen_type": "Fungus",
- "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
- "symptoms": [
-  "Diamond or spindle-shaped lesions on leaves",
-  "Lesions with gray or white center and brown or reddish border",
-  "Small spots that enlarge and merge on leaves",
-  "Leaf drying or death in severe infections",
-  "Reduced plant growth",
-  "In severe cases young plants may die"
- ],
- "visual_symptoms": [
-  "diamond-shaped leaf spots",
-  "gray or white center with brown border",
-  "multiple lesions merging on leaves",
-  "damaged or dried rice leaves"
- ],
- "hosts": [
-  "Rice (Oryza sativa)",
-  "Wild rice species",
-  "Some grasses"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "leaf collar",
-  "stem nodes",
-  "panicles"
- ],
- "favorable_conditions": [
-  "High humidity above 90%",
-  "Long periods of leaf wetness (dew, rain, fog)",
-  "Warm temperatures around 25–28°C",
-  "Dense crop canopy",
-  "Excess nitrogen fertilization"
- ],
- "spread": [
-  "Airborne fungal spores (conidia)",
-  "Wind",
-  "Splashing rain or irrigation water",
-  "Infected seeds",
-  "Crop residue from previous season"
- ],
- "disease_cycle": [
-  "Fungus survives on infected seeds and crop residues",
-  "Spores are produced on infected tissues",
-  "Spores spread by wind or water",
-  "Infection occurs when leaves remain wet",
-  "New lesions produce more spores causing rapid disease cycles"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf damage and plant weakening",
-  "Lower grain yield",
-  "Poor grain quality",
-  "Severe outbreaks can cause major crop losses"
- ],
- "cultural_control": [
-  "Use resistant rice varieties",
-  "Plant certified disease-free seed",
-  "Maintain continuous flooding when possible",
-  "Avoid excessive nitrogen fertilization",
-  "Destroy infected crop residue"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species",
-  "Promote balanced soil microbiology"
- ],
- "chemical_control": [
-  "Azoxystrobin",
-  "Trifloxystrobin",
-  "Propiconazole combinations",
-  "Difenoconazole combinations"
- ],
- "prevention": [
-  "Regular field monitoring for early symptoms",
-  "Balanced fertilization",
-  "Maintain proper irrigation management",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Rice Research and Extension Center",
-  "Crop Protection Network",
-  "Plant pathology references on rice blast"
- ]
+  "disease": "",
+  "scientific_name": "ماغنابورتي أو سيزاي (المواضيع: أوئيزاي)",
+  "pathogen_type": "المنقوس",
+  "description": "إن عصفة الأرز هي واحدة من أكثر أمراض الأرز تدميراً في جميع أنحاء العالم. فالفطريات تصيب الأوراق والعُقَد والهلع. وفي الأوراق ينتج هذا العُقَد وبُقعاً ذات طابع ماسية مميَّزة تحد من التركيبة الضوئية وتضعف النبتة.",
+  "symptoms": [
+    "ماس أو ماس أو آثار على أوراق الشوائح",
+    "تشحيشات ذات مركز رمادي أو أبيض ومركز أبيض وتخوم بني أو أحمر",
+    "بقع صغيرة تتسع وتدمج على أوراق الشوك",
+    "حالات التجفاف أو الوفاة في حالات الإصابة بأمراض خطيرة",
+    "",
+    "في الحالات الحادة التي قد تموت فيها النباتات"
+  ],
+  "visual_symptoms": [
+    "ببقع أوراق ماس",
+    "أو مركز مركزي أبيض أو رمادي مع حدود",
+    "بآثششات متعددة تُدمج على أوراق الشوائب",
+    "أو أوراق أرز متضررة أو مجففة"
+  ],
+  "hosts": [
+    "أرز (أوريزا ساتيفا)",
+    "أنواع الحيوانات البرية",
+    "بعض المروج"
+  ],
+  "plant_parts_affected": [
+    "أولاً -",
+    "",
+    "العقدات الساكنة",
+    "الذعر"
+  ],
+  "favorable_conditions": [
+    "الرطوبة العالية أعلى من 90٪",
+    "فترات طويلة من رطوبة أوراق الشطط (الميض، المطر، الضباب)",
+    "درجات حرارة حرارة حرارة حول 25 - 28 درجة مئوية",
+    "معلّل محصول معلّل",
+    "التسمّي الذرّي"
+  ],
+  "spread": [
+    "بُغَرَسَاتُ مُنَفِجَةً جوية (conidia)",
+    "طراز معر نفر",
+    "المطر أو مياه الري",
+    "البذور المصح",
+    "المخلفات من الموسم السابق"
+  ],
+  "disease_cycle": [
+    "لا ينجو من المغذيات المغذية على البذور المُصابة ومخلفات المحاصيل",
+    "تُنتَج البقول على أنسجة مُصابة",
+    "الأوج التي تنتشر بالرياح أو المياه",
+    "يحدث العدوى عندما تظل الأوراق مبتلة",
+    "تُنتج الآفات الجديدة المزيد من الجراثيل المسببة لدورات الأمراض السريعة"
+  ],
+  "impact": [
+    "اززدج",
+    "الأضرار التي خلفت وإخماد النبتة",
+    "انخفاض الغلة",
+    ":: سوء جودة جودة",
+    "يمكن أن تتسبب حالات التفشي الشديد في خسائر كبيرة في المحاصيل"
+  ],
+  "cultural_control": [
+    "أصناف الأرز المقاومة",
+    "(ب) مُصدِر مُنْتِبِس مُصَرَّخ مُخْرِف من الأمراض الخالية من الأمراض",
+    "استمرار الفيضان المستمر كلما أمكن ذلك",
+    "تجنب الإفراط في التلقيح",
+    "المتخلفات المُحْكِرة"
+  ],
+  "biological_control": [
+    "استخدام ميكروبات مفيدة مثل أنواع الترايشودرما",
+    "تشجيع علم ميكروولوجيا التربة المتوازنة"
+  ],
+  "chemical_control": [
+    "Assexstorbin",
+    "تراياً فِلْفِلْسِسِسtrobin",
+    "التركيبات",
+    "Difenoconazadul"
+  ],
+  "prevention": [
+    "الرصد الميداني المنتظم للكشف عن الأعراض المبكرة",
+    "التسمم الميزاني",
+    ":: المحافظة على الإدارة السليمة للري",
+    "ممارسات الإدارة المتكاملة لمعالجة الأمراض"
+  ],
+  "source": [
+    "مركز بحوث الأرز والتدريج",
+    "شبكة الحماية من المحاصيل",
+    "المراجع المتعلقة بانفجار الأرز"
+  ]
 }

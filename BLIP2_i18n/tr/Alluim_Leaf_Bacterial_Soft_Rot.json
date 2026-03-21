@@ -1,72 +1,72 @@
 {
- "disease": "Soft Rot of Allium",
- "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
- "pathogen_type": "Bacteria",
- "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
- "symptoms": [
-  "Young leaves become pale, bleached and wilted",
-  "Soft watery rot of bulb scales",
-  "Yellow discoloration of infected tissues",
-  "Brown streaks inside bulbs",
-  "Entire bulb becomes soft and rotten",
-  "Bad-smelling viscous fluid oozing from the neck of bulbs"
- ],
- "hosts": [
-  "Onion",
-  "Shallot",
-  "Garlic",
-  "Leek",
-  "Chive",
-  "Spring onion",
-  "Other Allium species"
- ],
- "favorable_conditions": [
-  "Heavy rainfall",
-  "Waterlogged or poorly drained soil",
-  "Wounds on bulbs or leaves",
-  "Warm temperatures between 20 and 30°C",
-  "High humidity during storage"
- ],
- "spread": [
-  "Infected planting material",
-  "Contaminated soil",
-  "Crop residues",
-  "Rain splash and irrigation water",
-  "Insects",
-  "Mechanical injuries during field operations"
- ],
- "management": [
-  "Use certified disease-free planting material",
-  "Avoid injuries during planting and harvest",
-  "Use drip irrigation instead of overhead irrigation",
-  "Allow onion tops to mature before harvest",
-  "Remove and destroy infected plants",
-  "Maintain balanced fertilization",
-  "Store bulbs at low temperature and moderate humidity",
-  "Use tolerant cultivars"
- ],
- "biological_control": [
-  "Encourage beneficial soil microbes through organic matter management",
-  "Use biological control agents such as Bacillus-based biofungicides",
-  "Improve soil health to suppress bacterial pathogens"
- ],
- "chemical_control": [
-  "Copper-based bactericides such as copper hydroxide",
-  "Kocide 2000",
-  "Mankocide",
-  "Copper sprays applied regularly to slow disease development"
- ],
- "prevention": [
-  "Plant certified pathogen-free bulbs or seeds",
-  "Avoid waterlogging in fields",
-  "Disinfect tools and equipment",
-  "Remove crop debris after harvest",
-  "Store bulbs at about 4°C with 65–70% relative humidity",
-  "Avoid excessive nitrogen fertilization and maintain adequate calcium levels"
- ],
- "source": [
-  "Plant Research International, Wageningen",
-  "IVEGRI Indonesia",
-  "Van der Wolf & Duriat – Soft rot diseases in Allium"
- ]
+  "disease": "Yumuşak Rot of Allium",
+  "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi ve ilgili bakteriler",
+  "pathogen_type": "Bakteriler",
+  "description": "Bir bakteriyel hastalık, buğday ve diğer Allium bitkilerinde bulutların yumuşak, su kaynağına neden olur. genellikle hasatın yakınında veya depolama sırasında ortaya çıkar ve çürümüş bir çöküş üretir.",
+  "symptoms": [
+    "Genç yapraklar parlak, pürüzsüz ve pürüzsüzleşir",
+    "Yumuşak su damlası bulb ölçeği",
+    "Enfekte dokuların sarı bozukluğu",
+    "Bulutların içindeki kahverengi çarpışma",
+    "Tüm bulb yumuşak ve kırılgan hale gelir",
+    "Kötü kızarmış visko sıvı bulutların boğazından süzülür"
+  ],
+  "hosts": [
+    "Onyon",
+    "Shallot",
+    "Çilek",
+    "Leek",
+    "Şeyh",
+    "Bahar Onion",
+    "Diğer Allium türleri"
+  ],
+  "favorable_conditions": [
+    "Şiddetli yağış",
+    "Su geçirmez veya kötü kaynatılmış topraklar",
+    "Bulutlarda veya yapraklarda yaralanma",
+    "Sıcaklıklar 20 - 30 °C arasındadır",
+    "depolama sırasında yüksek nem"
+  ],
+  "spread": [
+    "Enfekte bitki malzemesi",
+    "kirlenmiş toprak",
+    "bitki kalıntıları",
+    "Yağmur yağmuru ve sulama suyu",
+    "böcekler",
+    "Mekanik yaralanmalar alan operasyonları sırasında"
+  ],
+  "management": [
+    "Sertifikalı hastalık dışı bitki malzemesi kullanın",
+    "Yetiştirme ve hasat sırasında yaralanmaların önlenmesi",
+    "Üst yüzey sulama yerine dökme sulama kullanın.",
+    "Yetiştirmeden önce bitkilerin yetişmesine izin verin",
+    "Enfekte bitkileri kaldırmak ve yok etmek",
+    "• Dengeli bir üreme sağlamak",
+    "Bulaşıkları düşük sıcaklıkta ve ıslaklıkta depolayın",
+    "hoşgörülü yetiştiriciler"
+  ],
+  "biological_control": [
+    "Organik madde yönetimi aracılığıyla yararlı toprak mikroblarını teşvik etmek",
+    "Bacillus tabanlı biofungicidler gibi biyolojik kontrol ajanları kullanın",
+    "Bakteriyel patogenleri bastırmak için toprak sağlığını iyileştirmek"
+  ],
+  "chemical_control": [
+    "bakır hidroksit gibi bakır bazlı baktericidler",
+    "Çanakkale 2000",
+    "Manikür",
+    "Bakır spreyleri hastalığın yavaş gelişimi için düzenli olarak uygulanır"
+  ],
+  "prevention": [
+    "Patogen sertifikalı bitkiler veya tohumlar",
+    "Alanda su geçirmekten kaçının",
+    "Disinfektörler ve ekipmanlar",
+    "Yetiştirildikten sonra bitki çöpleri çıkarın",
+    "Yaklaşık 4°C'de 65-70% nispeten nemli bulutları depolayın",
+    "Aşırı azot yağlanmasını önleyin ve yeterli kalsiyum seviyelerini koruyun."
+  ],
+  "source": [
+    "Bitki Araştırmaları Uluslararası, Wageningen",
+    "IVEGRI İndonezya",
+    "Van der Wolf & Duriat - Allium'da Yumuşak Köpek Hastalıkları"
+  ]
 }

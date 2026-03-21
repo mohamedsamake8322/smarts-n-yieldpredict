@@ -1,0 +1,74 @@
+{
+  "disease": "Cabaña de manzana",
+  "scientific_name": "Venturia inaequalis",
+  "description": "La sarna de manzana es una enfermedad fúngica común de las plantas de la familia Rosaceae, en particular de las especies Malus (manzana y cangrejo). Causa lesiones oscuras e irregulares en hojas, flores y frutas, lo que conduce a la deformación de las frutas, hojas prematuras y caídas de frutas, y pérdidas potenciales de cultivos de hasta el 70%.",
+  "hosts": [
+    "Malus spp. (manzana, cangrejo)",
+    "Sorbus spp.",
+    "Cotoneaster spp.",
+    "Pyrus spp."
+  ],
+  "symptoms_and_damage": [
+    "Hojas: aterciopeladas-marrón a oliva-verde manchas con márgenes distintos, a menudo acuchillado por debajo de la hoja",
+    "Hojas más viejas: lesiones de color verde oscuro a gris-marrón que causan acupaduras y rizos de las hojas",
+    "Frutas: pequeñas manchas negras que se vuelven marrones, corchosas y costras",
+    "Deformación de frutas y caída prematura",
+    "Aumenta la susceptibilidad a infecciones secundarias y estrés abiótico"
+  ],
+  "disease_cycle": [
+    "Sobrecogedores en hojarasca y desechos vegetales infectados como pseudotecia",
+    "Primavera temprana: condiciones frías y húmedas desencadenan la liberación de los ascosporos sexuales",
+    "Las esporas son esparcidas por el viento y las salpicaduras de agua a las hojas y las flores",
+    "La penetración del tejido se produce a través del tubo germen o el appressorium",
+    "Las lesiones de color verde claro se desarrollan, se oscurecen y se expanden; las lesiones de fruta se vuelven corchosas",
+    "En 10 días, se forman conidios asexuales para infecciones secundarias",
+    "El ciclo puede repetirse cada 1–2 semanas en condiciones favorables",
+    "Al final de la temporada, las hojas infectadas y la fruta caen, formando pseudotecia para la próxima temporada"
+  ],
+  "favorable_conditions": [
+    "Clima fresco y húmedo durante la liberación de la espora",
+    "Lluvias abundantes",
+    "Denso dosel de árbol que ralentiza el secado de la hoja"
+  ],
+  "prevention_and_cultural_controls": [
+    "Seleccione sitios soleados para mejorar la circulación del aire",
+    "Retire y destruya las gotas de fruta, la hojarasca y las podas para reducir el inóculo",
+    "Poda regular para abrir el dosel para un secado rápido",
+    "Después de la cosecha, aplicar solución de urea al 5% antes de la caída de la hoja para acelerar la descomposición",
+    "Evitar el riego durante los períodos de liberación de esporas"
+  ],
+  "chemical_control": [
+    "Spray Mancozeb @ 2 g/l de agua, repetir 2–3 veces a intervalos de 7 días; Clase U de la OMS, PHI 14–28 días, FRAC MO3",
+    "Spray Carbendazim 50% WP @ 2 g/l al inicio de la floración; Clase U de la OMS, PHI 14 días",
+    "Siga las instrucciones de la etiqueta del producto, gire los modos de acción para prevenir la resistencia"
+  ],
+  "biological_control": [
+    "Bacillus subtilis @ 50 ml/ropani (por ejemplo, Serenata Opti) antes/durante la estación lluviosa",
+    "Trichoderma harzianum 100 ml/ropani en condiciones de alto riesgo",
+    "Antagonista fúngico Cladosporium cladosporioides La cepa H39 reduce la costra de las hojas 42–98% y la costra de las frutas 41–94%"
+  ],
+  "resistance_breeding": [
+    "PRI Apple Breeding Program desarrolló 1500 cultivares resistentes; ejemplos: 'Prima', 'Jonafree', 'Goldrush'",
+    "Se identificaron quince genes de resistencia; el gen Vf (Rvi6) fue ampliamente estudiado",
+    "Genes de resistencia derivados de Malus spp. silvestres en Asia Oriental",
+    "Potencial de cultivares transgénicos, pero la adopción es limitada debido a la aceptación del mercado y a la evolución de los patógenos"
+  ],
+  "monitoring": [
+    "Inspeccione las hojas para manchas aterciopeladas de marrón a verde oliva",
+    "Monitorear las hojas más viejas para lesiones gris-marrones elevadas",
+    "Comprobar las hojas caídas para el tejido rizado y arrugado",
+    "Observar frutos para manchas negras que se convierten en costras"
+  ],
+  "direct_control_and_restrictions": [
+    "Retirar y eliminar las partes de plantas gravemente infectadas en un pozo de al menos 30 cm de profundidad",
+    "Arboles de ciruela para mejorar el secado de las hojas después de la lluvia",
+    "Use ropa protectora cuando use pesticidas",
+    "Evitar el uso repetido de productos químicos con el mismo modo de acción"
+  ],
+  "sources": [
+    "Wikipedia – Apple Scab",
+    "Literatura sobre manejo de plagas vegetales",
+    "Referencias a la gestión integrada de plagas (IPM)",
+    "PRI Programa de cría de Apple, Universidad Purdue, Universidad Rutgers, Universidad de Illinois"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pest_name": "Mmadụ Abụọ Na - asụ Asụsụ Mba Ọzọ",
+  "scientific_name": "Teranynycccresasasae",
+  "type": "Olapod / igasi",
+  "description": {
+    "size": "Ndị toworo eto 0.40,000.5 n'ogologo",
+    "appearance": "Ahụ́ na - acha odo odo nke nwere oghere abụọ gbara ọchịchịrị n'azụ; ụkwụ asatọ",
+    "life_cycle": "E nwere ihe dị ka otu puku afọ na narị afọ ise gara aga nke na - egosi na e nwere ọtụtụ ọgbọ ndị na - eto eto n'oge ọ bụla",
+    "notes": "Ọtụtụ mgbe, ọ na - achọ onye ga - eji aka ya jide ihe ndị a ga - eji chọpụta ihe na - emenụ"
+  },
+  "hosts": {
+    "primary": [
+      "AGBOR 1 (Bekee)",
+      "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+      "Ndị Na - atụchasị Mmadụ",
+      "IHE NDỊ GA - ENYERE GỊ AKA"
+    ],
+    "secondary": [
+      "Ọtụtụ ihe ịchọ mma, akwụkwọ nri, na ihe ọkụkụ ndị na - amị mkpụrụ"
+    ],
+    "weeds": [
+      "Ndị njem nwere ike ibu ndị mmadụ n'elu mmiri mgbe ha nọ n'ebe dịpụrụ adịpụ"
+    ]
+  },
+  "distribution": "N'ụwa nile, karịsịa n'ọnọdụ ndị na - ekpo ọkụ na ndị kpọrọ nkụ",
+  "symptoms": {
+    "foliage": [
+      "Ihe ndị na - acha odo odo ma ọ bụ ihe ndị na - acha odo odo bụ́ ndị na - acha odo odo ma ọ bụ odo odo bụ́ ndị dị n'elu akwụkwọ osisi ndị dị n'elu",
+      "Ebe a na - edebe akwụkwọ ndị dị n'okpuru ala bụ́ ndị e sere ihe ndị dị arọ na ha",
+      "Ọ bụrụ na mmadụ ahapụ ebe ahụ, o nwere ike ime ka ọla nchara, mee ka ọ ghara ịdị arọ, meekwa ka ike ghara ịgwụ ya"
+    ],
+    "overall_impact": "Ọ na - eme ka nri ghara ito ngwa ngwa, mee ka ọ ghara ito nke ọma, mee ka ọ ghara ito nke ọma, ka ihe ọkụkụ na - enwekwu nrụgide"
+  },
+  "conditions_for_development": [
+    "Ọnọdụ ihu igwe na - ekpo ọkụ, nke mmiri na - adịghị na ya",
+    "Ọnụ ọgụgụ mmadụ na - arị elu ngwa ngwa n'ihi ọ̀tụ̀tụ̀ ịjụ oyi nke °35C",
+    "Ndị Enyi Dị Nwayọọ Na - enwe Mmetụta Dị Njọ n'Ebe Ndị Ọzọ Nọ"
+  ],
+  "spread": [
+    "Ifufe, ịgba ala mmiri, ngwá ọrụ ndị rụrụ arụ",
+    "A na - esi n'osisi ma ọ bụ n'ebe a na - akụ ihe ọkụkụ enweta ya"
+  ],
+  "management": {
+    "cultural": [
+      "Na - agba ala mmiri nke ọma ma na - agba ya mmiri nke ọma iji belata nchegbu ndị a na - enwe n'ihe ọkụkụ",
+      "Wepụ n'ihe ọkụkụ na ahịhịa",
+      "Zere iji ihe ndị na - eri ibe ha eme ihe gabiga ókè bụ́ ndị na - egbochi anụ ndị na - eri ibe ha ime ihe n'ụzọ gabigara ókè"
+    ],
+    "biological": [
+      "Mkpụrụ ndụ ihe nketa nke oge ochie (eeeg.g.g.g., bụ́ Digrusiusssssssssss, Reliisiussis Dinsius)",
+      "Ịgba anụ ndị na - eri ibe ha ume, dị ka anụ ndị na - eri ibe ha na - eri ibe ha na ndị na - eri ibe ha ume"
+    ],
+    "chemical": [
+      "Jiri ọgwụ ndị na - eme ka ahụ́ gị ghara ịrụ ọrụ nke ọma mee ihe dị ka ihe ikpeazụ a na - eji alụso nje HIV ọgụ",
+      "Tinye akwụkwọ ndị dị n'okpuru ebe a na - etinye akwụkwọ osisi n'ime ha"
+    ]
+  },
+  "notes": [
+    "Otu n'ime ụmụ ahụhụ ndị kasị mkpa na ndị kasị baa ọgaranya n'ụwa nile",
+    "A pụrụ ịmalite iguzogide ọgwụ ndị e ji alụso nje HIV ọgụ ngwa ngwa"
+  ],
+  "references": [
+    "Hele, W. & Ssisiis, M.W. (W.W.) . . . . . . . . . . . . . . . . . . .",
+    "Otu nwoke onye Amerịka aha ya bụ Foto dị n'Amerịka, R.R., nke aha ya bụ O.R., R., R.",
+    "J.R., K.R., H.H., & N., E.W. (1975.K. (U.K). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  ]
+}

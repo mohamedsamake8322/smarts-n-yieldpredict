@@ -1,0 +1,91 @@
+{
+  "disease": "Sklerotinia Fruchtrot",
+  "scientific_name": "Sklerotinia sclerotiorum",
+  "pathogen_type": "Pilze",
+  "description": "Sklerotinia Fruchtfäule ist eine Pilzkrankheit, die viele Kulturen und Gemüse betrifft. Der Pilz überlebt im Boden als schwarze Strukturen genannt Sklerotia und infiziert Pflanzen bei kühlen und nassen Bedingungen, wodurch weiche Fäule und Pflanzen zusammenbrechen.",
+  "symptoms": [
+    "Pflanzen welken plötzlich und kollabieren",
+    "Weiche nasse Fäule auf Stängeln oder Früchten",
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf infizierten Geweben",
+    "Schwarze Samen-ähnliche Strukturen (Sklerotie), die sich an infizierten Gebieten bilden",
+    "Gelbfärbung der Blätter vor dem Pflanzenkollaps",
+    "Verrotten von Stängeln, Früchten, Birnen oder Wurzeln"
+  ],
+  "visual_symptoms": [
+    "weiße flauschige Form auf Pflanzengewebe",
+    "schwarz hart sklerotia innen weiß pilzwachstum",
+    "weiche wässrige Fäule auf Stielen oder Früchten",
+    "eingestürzte Pflanzen"
+  ],
+  "hosts": [
+    "Kopfsalat",
+    "Bohnen",
+    "Erbsen",
+    "Tomaten",
+    "Gurken",
+    "Sellerie",
+    "Zichorien",
+    "Sonnenblume",
+    "Ölraps (Canola)",
+    "Karotten",
+    "Viele Zierpflanzen"
+  ],
+  "plant_parts_affected": [
+    "Stängel",
+    "Früchte",
+    "Blätter",
+    "Glühbirnen",
+    "Wurzeln"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Feuchtes Wetter",
+    "Dichtes Pflanzendach",
+    "Schlechte Luftzirkulation"
+  ],
+  "spread": [
+    "Aus Apothezie freigesetzte Sporen in der Luft",
+    "Sklerotie im Boden",
+    "Verunreinigte Pflanzenabfälle",
+    "Direkter Kontakt mit infizierten Pflanzen"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt im Boden als Sklerotie seit mehreren Jahren",
+    "Sclerotia keimen und produzieren kleine becherähnliche Strukturen (Apothezie)",
+    "Apothecia lösen Sporen, die sich durch Wind ausbreiten",
+    "Sporen infizieren Pflanzengewebe bei nassen Bedingungen",
+    "Infizierte Pflanzen produzieren neue Sklerotie, die auf den Boden zurückkehren"
+  ],
+  "impact": [
+    "Pflanzenwelken und Kollaps",
+    "Obst- und Stängelfäule",
+    "Größere Ernteverluste bei Gemüse und Ölsaaten",
+    "Reduzierter Ertrag und Produktqualität"
+  ],
+  "cultural_control": [
+    "Entfernen und zerstören infizierte Pflanzen sofort",
+    "Vermeiden Sie Überbelegung von Pflanzen",
+    "Verbesserung der Luftzirkulation in Kulturpflanzen",
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Ernteabfälle aus dem Feld entfernen"
+  ],
+  "biological_control": [
+    "Verwenden Sie biologische Wirkstoffe wie Coniothyrium minitans",
+    "Benutze wohltuende Pilze wie Trichoderma-Arten"
+  ],
+  "chemical_control": [
+    "Verwende registrierte Fungizide, wenn der Krankheitsdruck hoch ist",
+    "Bei günstigen Krankheitsbedingungen schützende Fungizide anwenden"
+  ],
+  "prevention": [
+    "Vermeiden Sie die wiederholte Pflanzung empfänglicher Kulturen auf demselben Feld",
+    "Beibehaltung des richtigen Pflanzenabstands",
+    "Überwachen Sie Felder während der nassen Jahreszeiten",
+    "Methoden des integrierten Seuchenmanagements anwenden"
+  ],
+  "source": [
+    "Fundstellen der Pflanzenpathologie",
+    "Leitfaden für landwirtschaftliche Erweiterungskrankheiten"
+  ]
+}

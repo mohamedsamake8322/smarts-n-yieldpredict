@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "Longhorn Beetle Hastalığı",
+  "scientific_name": "Ürün Adı: Cerambycidae",
+  "pathogen_type": "Böcek Hastalığı",
+  "description": "Longhorn bitkileri ağaçlara ve ağaç bitkileri saldırı yapan ahşap böceklerdir. larvae bitkileri zayıflatır ve yapısal hasara neden olur, bazen ev sahibinin ölümüne yol açar.",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "Duvarlar ve tüneller çubuklarda, dallarda veya çubuklarda",
+    "Giriş deliğinin etrafında çamur (saudust-like excrement)",
+    "Yaprakların sarılaşması veya sarılaşması",
+    "Şubelerin geri dönüşü",
+    "Sıkıntılı büyüme"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "Hardwood ağaçları (kırışıklık, çamur, çamur)",
+    "Meyve ağaçları (apple, cherry, peach)",
+    "Orman Ağaçları",
+    "Orjinal ağaçlar ve çubuklar"
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "Stresli veya zayıflamış ağaçlar",
+    "Sıcak ve nemli iklimler",
+    "Yakınında düşen veya ölü ahşap varlığı"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "Yakın ağaçlara uçan yetişkin yavrular",
+    "Enfekte ateşli ahşap, loglar veya hemşirelik stoklarının hareketi",
+    "Doğal yayılma yetişkinler yeni ev sahipliği bitkileri arıyor"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "Enfekte ağaçları incelemek ve çıkarmak",
+    "etkilenen dalları yıkmak ve yok etmek",
+    "Yetişkin Beetle Popülasyonları Sırtlarla İzle",
+    "Ağaç sağlığını teşvik etmek hassasiyeti azaltmak için",
+    "Yakıt veya bitki malzemelerinin kirlenmiş alanlardan taşınmasını önleyin."
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "Toprağa uygulanan veya ağaçlara enjekte edilen sistemik böcek maddeleri (örneğin imidacloprid)",
+    "Yetişkin kontrolü için göğsünde dokunmatik böcekler (piretroidler)",
+    "Zamanlama kritiktir: genç larvalara ve gelişmekte olan yetişkinlere hedef"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "Quarantine ve denetim ithal ahşap ve emzirme bitkileri",
+    "ağaç sağlığını korumak",
+    "Ölü veya sıkışmış ağaçları hızlı bir şekilde çıkarın",
+    "Ağaç kapakları veya koruyucu engeller kullanın, mümkün olduğunca"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "USDA Orman Hizmetleri Pest Gerçekler Listesi",
+    "CABI invaziv türleri Compendium",
+    "Cerambycidae pest yönetimi ile ilgili bilimsel edebiyat"
   ]
 }

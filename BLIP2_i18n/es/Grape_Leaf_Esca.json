@@ -1,0 +1,57 @@
+{
+  "disease": "Esca de uva",
+  "scientific_name": "Faeomoniella clamidospora, Phaeoacrémonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Hongos (complejo de enfermedad por decadencia de la madera)",
+  "description": "Esca es una grave enfermedad del tronco de las vides que daña los tejidos de la madera y reduce el vigor de la vid. Causa decoloración de las hojas, deterioro de la madera y muerte súbita de la vid en casos graves.",
+  "symptoms": [
+    "Patrones amarillos y marrones de rayas de tigre en las hojas",
+    "Secado y quema de hojas desde márgenes",
+    "Reducción del crecimiento de la vid y de los brotes débiles",
+    "Rayas oscuras en el interior de madera de tronco",
+    "Pudrición esponjosa blanca dentro del tronco",
+    "Marchitamiento repentino o muerte de vides (apoplejía)"
+  ],
+  "hosts": [
+    "Grapevine (Vitis vinifera)",
+    "Uvas de mesa",
+    "Uvas de vinificación",
+    "Especies silvestres de Vitis"
+  ],
+  "favorable_conditions": [
+    "Viñedos viejos",
+    "Heridas de poda que permiten la entrada de hongos",
+    "Condiciones cálidas durante la temporada de cultivo",
+    "Mal saneamiento de la poda"
+  ],
+  "spread": [
+    "Esporas fúngicas que entran a través de heridas de poda",
+    "Material de plantación infectado",
+    "Herramientas de poda contaminadas"
+  ],
+  "management": [
+    "Quitar y destruir las vides infectadas",
+    "Prune durante el tiempo seco",
+    "Proteger las heridas de poda",
+    "Utilizar material de plantación certificado saludable",
+    "Evite grandes heridas de poda"
+  ],
+  "biological_control": [
+    "Productos a base de trichoderma aplicados a heridas de poda",
+    "Hongos beneficiosos para prevenir la colonización de patógenos"
+  ],
+  "chemical_control": [
+    "Fungicidas protectores de heridas después de la poda",
+    "Tratamientos protectores a base de cobre"
+  ],
+  "prevention": [
+    "Desinfectar herramientas de poda",
+    "Utilizar vides certificadas libres de enfermedades",
+    "Proteger las heridas de poda inmediatamente después de la poda",
+    "Mantenimiento del saneamiento de los viñedos"
+  ],
+  "source": [
+    "Guía de la Enfermedad de la Vid OIV",
+    "Recursos de la FAO para enfermedades de las plantas",
+    "Literatura sobre patología vitícola"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "disease": "Fall-Armeewurm-Schaden",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insekten (Lepidoptera pest)",
+  "description": "Fallarmeewurm ist ein zerstörerischer Raupenpest, der Mais und viele andere Kulturen angreift. Larven ernähren sich von Blättern und Anbaupunkten, was zu schweren Ernteschäden und Ertragsverlusten führt.",
+  "symptoms": [
+    "Unregelmäßige Löcher und Kauschäden an Blättern",
+    "Fensterscheibe, die junge Blätter füttert",
+    "Große zerklüftete Löcher in Maisblättern",
+    "Frass (Insektenkot) in Blattwurm",
+    "Stark beschädigte oder zerstörte Pflanzenanbaustelle"
+  ],
+  "hosts": [
+    "Mais",
+    "Reis",
+    "Sorghum",
+    "Hirse",
+    "Zuckerrohr",
+    "Weizen",
+    "Baumwolle",
+    "Sojabohnen",
+    "Gemüse"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Regenzeit",
+    "Kontinuierlicher Maisanbau"
+  ],
+  "spread": [
+    "Erwachsene Mottenwanderung über weite Entfernungen",
+    "Eiermassen, die auf Pflanzenblättern gelegt werden",
+    "Larven bewegen sich zwischen nahe gelegenen Pflanzen"
+  ],
+  "management": [
+    "Regelmäßige Feldsuche zur Früherkennung",
+    "Handentfernung von Larven in kleinen Feldern",
+    "Zerstöre stark befallene Pflanzen",
+    "Pheromonfallen zur Überwachung verwenden"
+  ],
+  "biological_control": [
+    "Trichogramma parasitoide Wespen",
+    "Predators wie Käfer und Schnürsenkel",
+    "Biopestizide auf der Grundlage von Bacillus thuringiensis (Bt)",
+    "Entomopathogene Pilze wie Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Spinosad",
+    "Emamectinbenzoat",
+    "Chlorantraniliprol",
+    "Lambda-Cyhalothrin",
+    "Indoxacarb"
+  ],
+  "prevention": [
+    "Frühe Pflanzung, um maximale Befall zu vermeiden",
+    "Fruchtfolge",
+    "Pflanzenresistente Maissorten",
+    "Aufrechterhaltung der Abwasserentsorgung im Feld"
+  ],
+  "source": [
+    "FAO-Wurmführer für Fallarmee",
+    "CABI Invasive Arten Kompendium"
+  ]
+}

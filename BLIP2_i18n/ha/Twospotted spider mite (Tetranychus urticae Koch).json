@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
-  "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "pest_name": "An Gano Su biyu Masu Ban Al'ajabi",
+  "scientific_name": "KCharselect unicode block name",
+  "type": "KCharselect unicode block name",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "P.M.H. Y.I. Ṣ̃.",
+    "appearance": "Mãsu duhun inuwa.",
+    "life_cycle": "@ item Text character set",
+    "notes": "Sau da yawa, ƙananan ma'aikata suna bukatar hannu ko kuma kayan da za a yi amfani da su don a yi musu ja - gora"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "QShortcut",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "MGBOKO UMUORIA 5 (Igbo)"
+    ],
+    "secondary": [
+      "Da shuke-shuke da dabĩ nai, 'ya'yan itãcen marmari mãsu yawa"
+    ],
+    "weeds": [
+      "\"Kuma lalle ne mũ haƙĩƙa gabã ɗaya mãsu sauna ne.\""
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "A dukan duniya, musamman ma a yanayi mai kyau.",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "Ko mafi tsananin ƙeƙashewa. kuma lalle ne daga duwãtsu, haƙĩka, akwai abin da maremari suke ɓuɓɓuga daga gare shi, kuma lalle ne daga gare su, haƙĩƙa, akwai abin da yake fãɗo daga gare shi, kuma lalle ne daga gare su, haƙĩƙa, akwai da yake fãɗõwa dõmin tsõron Allah, kuma Allah bai zama Mai ji ne, Masani.",
+      "Mukan yi tafiya a kan hanya mai nauyi a babban birnin jami'a",
+      "Munã jũya su wajen dãma da wajen hagu, kuma karensu yanã shimfiɗe da zirã'õ'in ƙafãfuwansa ga farfãjiya (ta kõgon)."
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "Da aka gasa, girma mai yawa, yana da sauƙin hali, kuma yana ƙara bada matsi"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "Mãsu duhun inuwa.",
+    "Ana samun ci gaba sosai sa'ad da aka yi girgizar ƙasa a shekara ta 2539 K.Z.",
+    "Ka Nuna Godiya don Kyauta Mai Kyau"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Ana iya samun hatsi mai yawa ta wurin shuki ko kuma tsiro"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "Ka kasance da daidaita sosai da kuma ƙarfi don ka rage damuwa game da shuke - shuke",
+      "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+      "Ka guje wa yawan yin amfani da abubuwan da ke ɓata rayuwar dabbobi"
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "@ item Text character set",
+      "Ku Ƙarfafa Matasa kamar Mata Su Kasance Masu Tawali'u Kuma Masu Tawali'u"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "Ka yi amfani da abubuwan da ba su da muhimmanci don ka guji saka hannu a siyasa",
+      "Ka yi amfani da hanyar da za ka iya amfani da ita a ƙarƙashin teku inda ake mai da hankali"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "Ɗaya daga cikin abubuwa da suka fi muhimmanci a duniya",
+    "Za a Iya Yin Tsayayya da Abubuwa Masu Ban Al'ajabi"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "AGBOR 6 (Turanci)",
+    "IGWURUTA ALI 9 (Turanci)",
+    "Hotonson, L.C., L.C., R.C., S.A.A.A.A."
   ]
 }

@@ -1,41 +1,41 @@
 {
-  "pest_name": "Lesser Cornstalk Borer",
-  "scientific_name": "Elasmopalpus lignosella",
-  "pest_type": "insect",
-  "order": "Lepidoptera",
-  "family": "Pyralidae",
-  "description": "The lesser cornstalk borer is a moth whose larvae attack the lower stems of many crops. The larvae bore into stems near the soil surface, damaging seedlings and young plants. Severe infestations can cause plant death and significant yield reduction.",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "Indian National weekday 1 - LongDayName",
+  "pest_type": "QFontDatabase",
+  "order": "KCharselect unicode block name",
+  "family": "Media controller element",
+  "description": "Yadda ake ɗaukan shuke - shuke yana iya jawo mutuwa kuma yana iya jawo mutuwa.",
   "hosts": [
-    "Corn",
-    "Peanut",
-    "Soybean",
-    "Sorghum",
-    "Various legumes"
+    "Dakata",
+    "Indian National weekday 3 - LongDayName",
+    "Ethiopian weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "damage": [
-    "Larvae bore into stems near soil line",
-    "Wilting and death of seedlings",
-    "Stunted growth",
-    "Reduced plant population"
+    "Ƙasa ta yi girma kusa da ƙasa",
+    "Yin Gaskiya da kuma mutuwar iri",
+    "@ action",
+    "Sa'an nan ya sanar da jama'a mafi yawa"
   ],
   "life_cycle": [
-    "Egg",
-    "Larva (damaging stage)",
-    "Pupa",
-    "Adult moth"
+    "QShortcut",
+    "@ item Spelling dictionary",
+    "MASU SHELA",
+    "KCharselect unicode block name"
   ],
   "spread": [
-    "Adult moth flight",
-    "Movement of infested plant debris or soil"
+    "Mãsu gudu suna ɓũya.",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
   "management": {
     "cultural": [
-      "Maintain adequate soil moisture",
-      "Rotate crops",
-      "Remove crop residues"
+      "Ka sa ƙasa ta Kasance da Ma'ana",
+      "QShortcut",
+      "KCharselect unicode block name"
     ],
     "chemical": [
-      "Apply soil insecticides when infestations are severe"
+      "Ka yi amfani da ƙasa a ƙasa sa'ad da ake amfani da ita a mafi girma"
     ]
   }
 }

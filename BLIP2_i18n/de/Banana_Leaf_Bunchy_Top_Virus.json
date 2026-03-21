@@ -1,0 +1,122 @@
+{
+  "disease_name": "Banana Bunchy Top-Krankheit",
+  "dataset_label": "Bana-Bananenbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläserbläser",
+  "pathogen": {
+    "type": "Virus",
+    "name": "Bananen-Blumen Top-Virus",
+    "abbreviation": "BBTV",
+    "family": "Nanoviridae (Nanoviridae)",
+    "genus": "Babuvirus",
+    "genome": "zirkuläre einstrangige DNA (ssDNA)"
+  },
+  "host_plant": {
+    "primary_host": "Bananen (Musa-Arten)",
+    "other_hosts": [
+      "Plantain",
+      "Abaca"
+    ],
+    "vector_alternate_hosts": [
+      "Helikonie",
+      "Blühender Ingwer (Zingiberaceae)"
+    ]
+  },
+  "affected_parts": [
+    "Blätter",
+    "Phloemgewebe",
+    "Obst",
+    "Gesamtes Pflanzenwachstum"
+  ],
+  "vector": {
+    "type": "Insekten",
+    "name": "Blattläuse",
+    "scientific_name": "Pentalonia nigranervosa",
+    "transmission_type": "Zirkulierendes nicht propagatives"
+  },
+  "symptoms": {
+    "early_stage": [
+      "Dunkelgrüne Streifen entlang der Blattvenen",
+      "Kurze und schmale junge Blätter",
+      "Morse Code Streifen auf Blatt petioles"
+    ],
+    "intermediate_stage": [
+      "Blätter werden aufrecht und geballt",
+      "Gelbfärbung und Chlorose der Blätter",
+      "Reduzierte Blattgröße"
+    ],
+    "advanced_stage": [
+      "Bunchy-Auftritt an der Spitze der Pflanze",
+      "Schweres Stunting der Pflanze",
+      "Verformte oder abwesende Früchte"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Aphid-Fütterung von Phloemgewebe",
+      "Pflanzung infizierte Sauger",
+      "Verbringung von infiziertem Pflanzmaterial"
+    ],
+    "vector_acquisition_time_hours": 18,
+    "vector_retention_time_days": 14,
+    "minimum_transmission_time_minutes": 15,
+    "symptom_development_time_days": 30
+  },
+  "impact": {
+    "severity": "Sehr hoch",
+    "effects": [
+      "Schweres Stunting der Pflanze",
+      "Herabgesetzte oder fehlende Fruchterzeugung",
+      "Verformte Bananenblütchen",
+      "Bedeutende wirtschaftliche Verluste bei der Bananenerzeugung"
+    ]
+  },
+  "distribution": [
+    "Südostasien",
+    "Philippinen",
+    "Taiwan",
+    "Indien",
+    "Pakistan",
+    "Ostasien",
+    "Ozeanien",
+    "Pazifische Inseln",
+    "Hawaii",
+    "Afrika"
+  ],
+  "similar_diseases_or_confusions": [
+    "Bananenstreifenvirus",
+    "Bananenmosaikvirus",
+    "Nährstoffmangel verursacht Chlorose"
+  ],
+  "management": {
+    "cultural_control": [
+      "Virusfreies Pflanzmaterial verwenden",
+      "Entfernen und zerstören infizierte Pflanzen (Roguing)",
+      "Vermeiden Sie die Pflanzung infizierte Sauger"
+    ],
+    "vector_control": [
+      "Kontrolle der Bananen-Aphid-Populationen",
+      "Insektizide wie Imidacloprid oder Carbaryl verwenden",
+      "Überwachen Sie abwechselnde Blattlaus-Hostpflanzen"
+    ],
+    "preventive_measures": [
+      "Strenge Quarantänevorschriften",
+      "Überwachung der Verbringung von Pflanzmaterial",
+      "Verwendung von zertifizierten Gewebekulturpflanzen"
+    ],
+    "research_directions": [
+      "Bioprimierung mit nützlichen Bakterien",
+      "Entwicklung resistenter Bananensorten"
+    ]
+  },
+  "spread_risk_factors": [
+    "Verbringung von infiziertem Bananenpflanzgut",
+    "Vorhandensein von Bananen-Aphid-Populationen",
+    "Schlechte sanitäre Praktiken in der Landwirtschaft"
+  ],
+  "references": [
+    "Berichte über Pflanzenkrankheiten der FAO",
+    "ICTV Virus Taxonomie",
+    "Pflanzenpathologie Journale",
+    "University of Hawaii Pflanzenkrankheiten Publikationen",
+    "Queensland Ministerium für Landwirtschaft"
+  ]
+}

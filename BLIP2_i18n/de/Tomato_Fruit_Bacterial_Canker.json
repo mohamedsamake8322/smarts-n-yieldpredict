@@ -1,0 +1,81 @@
+{
+  "disease_name": "Tomatenobst Bakterieller Canker",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "type": "bakterieller Erreger",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pfeffer (Capsicum spp.)",
+      "Aubergine (Solanum melongena L.)"
+    ],
+    "weeds": [
+      "Mehrjährige Nachtschatten (Solanum douglasii)",
+      "Schwarzer Nachtschatten (S. nigrum)",
+      "S. triflorum"
+    ]
+  },
+  "distribution": "Weltweit; besonders problematisch in Gewächshaus- und Felderntetomaten",
+  "symptoms": {
+    "seedlings": [
+      "Keine Symptome in den meisten Fällen",
+      "Junge Pflanzen können schlechtes Wachstum oder vorübergehenden Zweig verwelken zeigen"
+    ],
+    "mature_plants_systemic": [
+      "Locken, Vergilben, Verwelken und Bräunen (Feuern) der ältesten Flugblätter",
+      "Stuntes Wachstum und allgemeines Pflanzenwelken",
+      "Gelbe bis rötlich-braune Grube mit mehligem Aussehen",
+      "Stängelstreifen, Astbruch und möglicher Pflanzentod"
+    ],
+    "mature_plants_secondary": [
+      "Dunkelbraune bis fast schwarze Läsionen an Blatträndern",
+      "Runde oder unregelmäßige Blattfleckung",
+      "Obst: gelbe bis braune erhöhte Flecken mit hartnäckigem weißem Halo ('Vogelaugenflecken'), ~3 mm Durchmesser",
+      "Gefäßgewebe unter Kalyx kann verfärbt werden, was die Samen beeinträchtigt"
+    ]
+  },
+  "disease_cycle": {
+    "introduction": "Durch infizierte Samen oder Transplantationen",
+    "overwintering": "Bis zu 3 Jahre auf Pflanzenreste; Unkraut; auf Gewächshausmaterialien (Bänke, Pfähle, Wohnungen)",
+    "spread": [
+      "Regen- und Sprinklerbewässerung",
+      "Mechanischer Anbau und Handernte",
+      "Überkopfbewässerung von infizierten Pflanzen",
+      "Direkter Kontakt mit infizierten Anlagen oder Geräten"
+    ],
+    "entry": "Bakterien treten durch kleine Wunden in Kotyledonen in Keimlinge ein und bewegen sich systemisch durch Xylem"
+  },
+  "management": {
+    "prevention": [
+      "Verwendung von krankheitsfreien Samen und Transplantationen",
+      "Pflanzenzertifizierte saubere Transplantationen",
+      "Strenge Überwachung von Saatgutfeldern; verwerfen kontaminierte Partien",
+      "Samen in 130°F Wasser für 25 Minuten einweichen"
+    ],
+    "greenhouse_measures": [
+      "Dampftopf-Mischung und Flachs",
+      "Desinfektion von Bänken, Wohnungen und Bewässerungsschläuchen",
+      "Leere Gewächshäuser zwischen den Kulturen"
+    ],
+    "field_measures": [
+      "Vermeiden Sie das Arbeiten, wenn das Laub nass ist",
+      "Aufnahme des gesamten Pflanzengewebes am Ende der Saison",
+      "mindestens ein Jahr lang Felder aus der Tomate rotieren",
+      "Kontrollbezogene Unkräuter rund um Felder"
+    ],
+    "chemical_control": [
+      "Wiederholte Kupferanwendungen können die Ausbreitung von Krankheiten verringern, sind aber nicht vollständig zuverlässig.",
+      "Oberflächendesinfektionsmittel: Bleichmittel (0,5–1% Calcium- oder Natriumhypochlorit), Physan usw."
+    ]
+  },
+  "notes": [
+    "Wirtschaftliche Verluste in den Bereichen Direktsaatwesen sind in der Regel gelegentlich",
+    "Samenkontamination mit sehr wenigen Bakterien kann zu einer signifikanten Treibhausgasinfektion führen",
+    "Systemische Infektionen können mit Bakteriziden nicht geheilt werden; Schwerpunkt liegt auf Prävention und Hygiene"
+  ],
+  "references": [
+    "Veröffentlichungen der Europäischen Gemeinschaften: Januar 2002.",
+    "== Weblinks ==* http://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+  ]
+}

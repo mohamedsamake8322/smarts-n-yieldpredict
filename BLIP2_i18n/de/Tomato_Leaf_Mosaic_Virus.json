@@ -1,0 +1,69 @@
+{
+  "disease_name": "Tomatenblattmosaikvirus (ToMV)",
+  "type": "Viruserkrankung",
+  "causal_agent": "Tomatenmosaikvirus (ToMV), Gattung Tobamovirus",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pfeffer (Capsicum spp.)",
+      "Petunia spp."
+    ],
+    "other_hosts": [
+      "Süßkartoffeln (Antirrhinum spp.)",
+      "Delphinium spp.",
+      "Gold (Tagetes spp.)",
+      "Verschiedene andere Zierpflanzen und Kulturpflanzen"
+    ]
+  },
+  "distribution": "Weltweit",
+  "symptoms": {
+    "foliage": [
+      "Mottling mit wechselnden gelblichen und dunkelgrünen Flächen",
+      "Dunkelgrüne Bereiche oft erhöht oder dicker, was ein Blister-ähnliches Aussehen",
+      "Blätter können farnartig mit spitzen Spitzen erscheinen",
+      "Jüngere Blätter können verdreht werden"
+    ],
+    "fruit": [
+      "Verzerrung und gelbe Flecken",
+      "Nekrotische Flecken auf grünen und reifen Früchten",
+      "Innenbräunung der Fruchtwand"
+    ],
+    "overall_plant": [
+      "Zwergung junger Pflanzen",
+      "Verfärbung der Blüten",
+      "Verringertes Obstangebot und verzerrtes Wachstum"
+    ]
+  },
+  "disease_cycle": [
+    "Virus kann durch infizierte Samen eingeführt werden",
+    "Nur wenige infizierte Sämlinge können zu rascher Ausbreitung führen",
+    "Verbreitung erfolgt auch über kontaminierte Werkzeuge, Hände und Kleidung während der Routine-Handhabung",
+    "Umweltfaktoren wie Temperatur, Tageslänge, Lichtintensität, Pflanzenvielfalt, Pflanzenalter bei Infektionen und Stammvirulenz beeinflussen die Symptomexpression"
+  ],
+  "management": {
+    "cultural": [
+      "Virenfreies zertifiziertes Saatgut und gesunde Transplantationen verwenden",
+      "Sanitize Werkzeuge, Hände und Kleidung beim Umgang mit Pflanzen",
+      "Entferne und zerstöre infizierte Sämlinge prompt, um die Ausbreitung zu reduzieren",
+      "Unkraut kontrollieren, das als alternative Gastgeber dienen kann"
+    ],
+    "resistant_varieties": [
+      "Pflanzensorten, von denen bekannt ist, dass sie eine Resistenz gegen ToMV haben, sofern vorhanden"
+    ],
+    "chemical": [
+      "Keine chemische Kontrolle ist wirksam gegen Virusinfektionen; Management stützt sich auf Prävention und Hygiene"
+    ]
+  },
+  "notes": [
+    "ToMV wird mechanisch übertragen; es benötigt keine Insektenvektoren",
+    "Setzlinge in Baumschulen sind besonders gefährdet, vor allem während der Transplantation",
+    "Die Symptome können je nach Umweltbedingungen und Pflanzenwachstumsstadium variieren."
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. Kompendium von Tomatenkrankheiten und Schädlingen, 2. Auflage. APS Press.",
+    "Tomatenblatt Mosaik-Virus. American Phytopathological Society (APS) – Pflanzenkrankheit Factsheets",
+    "Brunt, A.A., et al. 1996. Pflanzenviren Online: Beschreibungen und Listen aus der VIDE Datenbank"
+  ]
+}

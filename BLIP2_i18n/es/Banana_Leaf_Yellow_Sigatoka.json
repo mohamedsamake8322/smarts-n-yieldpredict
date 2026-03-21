@@ -1,0 +1,116 @@
+{
+  "disease_name": "Sigatoka amarilla",
+  "dataset_label": "Banana_Leaf_Amarillo_Sigatoka",
+  "other_names": [
+    "Sigatoka mancha de hoja",
+    "Mancha de hoja de plátano"
+  ],
+  "pathogen": {
+    "type": "Hongos",
+    "scientific_name": "Pseudocercospora musae",
+    "synonym": "Mycosphaerella musicola",
+    "kingdom": "Hongos",
+    "phylum": "Ascomicota"
+  },
+  "host_plant": {
+    "primary_host": "Plátano (Musa spp.)",
+    "other_hosts": [
+      "Plátano"
+    ]
+  },
+  "affected_parts": [
+    "Hojas"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Pequeñas rayas amarillas pálidas (1–2 mm) en hojas jóvenes",
+      "Manchas cloróticas que aparecen cerca de los márgenes de las hojas o del nudo medio"
+    ],
+    "intermediate_stage": [
+      "Los fragmentos se agrandan en lesiones marrones alargadas",
+      "Manchas en forma de husillo con halos amarillos a su alrededor"
+    ],
+    "advanced_stage": [
+      "Manchas necróticas de color marrón oscuro a negro",
+      "Grandes áreas necróticas en las hojas",
+      "Secado y defoliación prematuros de las hojas"
+    ]
+  },
+  "disease_cycle": {
+    "survival": "El hongo sobrevive en el tejido de la hoja infectada",
+    "spores": [
+      "Conidia",
+      "Ascoporos"
+    ],
+    "spread_mechanism": [
+      "Viento",
+      "Salpicadura de la lluvia",
+      "Gotas de agua"
+    ],
+    "favorable_conditions": [
+      "Alta humedad",
+      "Temperaturas cálidas (25–30°C)",
+      "Humedad prolongada de las hojas",
+      "Temporada lluviosa o húmeda"
+    ]
+  },
+  "impact": {
+    "severity": "Moderado a alto",
+    "effects": [
+      "Reducción de la capacidad fotosintética",
+      "Racimos de plátano más pequeños",
+      "Reducción de la calidad de los frutos",
+      "Vida verde más corta de la fruta",
+      "Maduración prematura de la fruta"
+    ],
+    "estimated_yield_loss": "Hasta un 50% en infecciones graves"
+  },
+  "distribution": [
+    "Australia",
+    "Asia",
+    "África",
+    "Centroamérica",
+    "América del Sur",
+    "Caribe",
+    "Oceanía"
+  ],
+  "similar_diseases_or_confusions": [
+    "Sigatoka negra (Pseudocercospora fijiensis)",
+    "Enfermedades de la mancha de la hoja de plátano"
+  ],
+  "management": {
+    "cultural_control": [
+      "Retire las hojas infectadas (de hoja)",
+      "Mejorar el saneamiento de las plantaciones",
+      "Mantener el drenaje adecuado",
+      "Evitar el hacinamiento de las plantas"
+    ],
+    "chemical_control": [
+      "Fungicidas protectores",
+      "Fungicidas sistémicos",
+      "Productos que contienen tebuconazol, mancozeb, clorotalonil"
+    ],
+    "biological_control": [
+      "Bacillus subtilis",
+      "Trichoderma virida",
+      "Pseudomonas fluorescens"
+    ],
+    "preventive_measures": [
+      "Utilizar variedades de plátano tolerantes",
+      "Fertilización equilibrada",
+      "Vigilancia periódica de las plantaciones"
+    ]
+  },
+  "spread_risk_factors": [
+    "Entornos de alta humedad",
+    "Escalofrío deficiente",
+    "Presencia de hojas infectadas",
+    "Variedades de plátano sensibles"
+  ],
+  "references": [
+    "Ciencia de cultivos Australia – Sigatoka amarilla",
+    "Compendio de protección de cultivos CABI",
+    "CSIRO Recursos de Patología Vegetal",
+    "Publicaciones de la Revista de Patología Vegetal"
+  ]
+}

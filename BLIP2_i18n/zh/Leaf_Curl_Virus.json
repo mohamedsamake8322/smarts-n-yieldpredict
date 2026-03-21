@@ -1,42 +1,47 @@
 {
-  "disease": "Leaf Curl Virus",
-  "scientific_name": "Tomato leaf curl virus (ToLCV)",
-  "pathogen_type": "Virus (ssDNA, Begomovirus)",
-  "description": "A viral disease causing curling and distortion of leaves, stunting growth and reducing fruit yield. Transmitted by whiteflies.",
+  "disease": "叶叶卷病毒",
+  "scientific_name": "番茄叶卷卷病毒(TOLCV)",
+  "pathogen_type": "病毒(sDNA,Begomo病毒)",
+  "description": "一种病毒性疾病导致树叶的卷缩和扭曲、生长发育迟缓和水果产量下降。",
   "symptoms": [
-    "Upward or downward curling of leaves",
-    "Yellowing along leaf veins",
-    "Stunted growth and reduced fruit size",
-    "Severe infection can kill young plants"
+    "树叶向上或向下弯曲",
+    "沿叶静脉黄色",
+    "增长迟缓,水果体积缩小",
+    "严重感染会杀死年轻植物"
   ],
-  "hosts": ["Tomato", "Pepper", "Eggplant", "Other Solanaceae"],
+  "hosts": [
+    "番茄",
+    "辣椒",
+    "茄子种植",
+    "其他索拉纳塞e"
+  ],
   "favorable_conditions": [
-    "Warm weather",
-    "High whitefly population",
-    "Dense planting with poor airflow"
+    "温暖天气",
+    "高白蝇人口",
+    "密集种植,空气流量差"
   ],
   "spread": [
-    "Whiteflies (primary vector)",
-    "Infected seedlings or grafts",
-    "Contaminated tools or handling"
+    "白苍蝇(主要矢量)",
+    "感染的幼苗或移植",
+    "受污染工具或处理"
   ],
   "management": [
-    "Grow resistant or tolerant cultivars",
-    "Control whitefly populations",
-    "Remove and destroy infected plants",
-    "Maintain proper plant spacing"
+    "种植耐抗或容忍的栽种品种",
+    "控制白蝇人口",
+    "清除和销毁受感染植物",
+    "保持适当的植物间距"
   ],
   "chemical_control": [
-    "Insecticides to manage whiteflies (e.g., imidacloprid)",
-    "Use insecticidal soap or neem sprays as preventive"
+    "用于管理白蝇的杀虫剂(例如,百虫)",
+    "预防性使用杀虫肥皂或射线喷雾剂"
   ],
   "prevention": [
-    "Start with virus-free seedlings",
-    "Monitor whitefly populations",
-    "Avoid planting near infected crops"
+    "以无病毒的幼苗开始",
+    "监测白苍蝇人口",
+    "避免在感染作物附近种植"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Pest and Disease Factsheets"
+    "CABI 作物保护简编",
+    "粮农组织虫害和疾病概况介绍"
   ]
 }

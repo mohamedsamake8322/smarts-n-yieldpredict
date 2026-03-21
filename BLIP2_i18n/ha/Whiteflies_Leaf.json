@@ -1,129 +1,129 @@
 {
-  "pest_name": "Silverleaf Whitefly",
-  "scientific_name": "Bemisia argentifolii",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "Ka Zama Mai Tawali'u",
   "common_names": [
-    "Sweetpotato whitefly",
-    "Silverleaf whitefly"
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi."
   ],
-  "description": "Adults are 1.5 mm long, yellow abdomen and thorax, white wings; nymphs are oval, translucent or yellowish. Last instar is called 'red-eye nymph'.",
+  "description": "Mãsu duhun inuwa.",
   "hosts": [
-    "Cole crops (broccoli, cabbage, cauliflower, kale, kohlrabi, Chinese cabbage, brussels sprouts)",
-    "Other vegetable crops as incidental hosts"
+    "Jin dãɗi ne (daga cikin mahaifa) mai ba da ' ya'ya masu yawa, wato, elllllllllllllr, Meananan, Ganowa da baka sani ba)",
+    "Wasu shuke - shuke a Matsayin jama'a"
   ],
   "damage": [
-    "Sap-sucking leads to stunted growth and delayed harvest",
-    "Excretion of honeydew promotes sooty mold, reducing photosynthesis",
-    "Bleaching of stems and leaf petioles in broccoli (white stem)"
+    "Mai nẽma da wanda ake nẽman gare shi sun raunana.\"",
+    "Cike da zuma da aka haɗa da su yana ɗaukaka yumɓu, wanda yake ba da amfani sosai.",
+    "Yadda Za a Sa Dukan Masu Tawali'u da kayan ado Za Su Zama Kamar Al'ajabi"
   ],
   "life_cycle": [
-    "Eggs laid on leaf undersides",
-    "First instar (crawler) is mobile; subsequent nymphs are sessile",
-    "Last instar (pupa/red-eye) precedes adult emergence",
-    "Adults fly readily when plants are disturbed"
+    "Sao'i da aka saka a kano'i da dama",
+    "Da farko a cikin mahaifa (a tsakiya) iska ne mai sanyi; bayan an yi amfani da shi a gefen hanya da ba za a iya samun hanyar da ba ta dace ba",
+    "A ƙarshe, a cikin ɗabi'a (ko kuma a sami na'ura) da ya kai (wato shugaban jama'a)",
+    "Masu zane - zane suna tashi da sauri sa'ad da suke damuwa ainun"
   ],
   "spread": [
-    "By wind and migration from nearby crops",
-    "Mechanical spread via contaminated tools or workers",
-    "Rapid population increase when nearby hosts are declining"
+    "Inã rantsuwa da iskõki mãsu shẽkar abũbuwa, shẽƙẽwa.",
+    "KCharselect unicode block name",
+    "Yawancin jama'a sun ƙaru sa'ad da sojojin da ke kusa suka kasa."
   ],
   "monitoring": [
-    "Check field margins 2x/week (Aug–Oct) or weekly (Nov–Mar)",
-    "Yellow sticky traps help detect initial migration",
-    "Turn over leaves to inspect nymphs"
+    "KCharselect unicode block name",
+    "Za ku shawo kan tarkuna masu amfani da za su taimaka muku ku fahimci abubuwan da za su faru da farko",
+    "Ka buɗe don ka duba ko'ina"
   ],
   "management": {
     "cultural": [
-      "Delay planting or create host-free periods to reduce infestation",
-      "Plant crops upwind from other whitefly hosts",
-      "Maintain sanitation: remove weeds and crop residues promptly",
-      "Manage irrigation and nitrogen to avoid excessive plant growth favoring whiteflies"
+      "Sa'an nan idan 'yan'uwa sun kasance gare shi, to, uwarsa tana da sudusi (ɗaya daga cikin kashi shida) daga bayan wasiyya wadda ya yi kõ kuwa bãshi.",
+      "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+      "Ka Kasance Mai Tawali'u: Ka kawar da zawan da kuma maye nan da nan",
+      "Wani ɗan Adam mai suna Py da matarsa don kada su yi shuki mai yawa"
     ],
     "biological": [
-      "Parasitic wasps (Encarsia, Eretmocerus)",
-      "Predators: bigeyed bugs, lacewing larvae, lady beetles",
-      "Entomopathogenic fungi: Beauveria bassiana, Isaria fumosorosea"
+      "An yi amfani da shi don a yi amfani da shi wajen yin amfani da kalmar nan \"mai kama da \" yan'uwa, wato, fiye da yadda ake amfani da ita a dā. \"",
+      "Abin da Za a Iya Koya: Ana iya samun manyan ' ya'yan itace da yawa, wato, jami'a da ake kira o'i da yawa",
+      "Wata ' yar'uwa mai suna Aliiice ta ce: \"A duk inda mutane suke zama, an yi watsi da su, kuma hakan ya ba su damar yin hidima a ƙasar waje."
     ],
     "chemical": [
       {
-        "name": "Cyantraniliprole (Exirel, Verimark)",
-        "targets": "Adults",
+        "name": "@ item Text character set",
+        "targets": "KCharselect unicode block name",
         "MOA_group": "28"
       },
       {
-        "name": "Chlorantraniliprole (Coragen)",
-        "targets": "Adults",
+        "name": "KCharselect unicode block name",
+        "targets": "KCharselect unicode block name",
         "MOA_group": "28"
       },
       {
-        "name": "Dinotefuran (Venom)",
-        "targets": "Adults",
-        "MOA_group": "4A"
+        "name": "@ item Spelling dictionary",
+        "targets": "KCharselect unicode block name",
+        "MOA_group": "4 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Imidacloprid (Admire Pro)",
-        "targets": "Nymphs",
-        "MOA_group": "4A"
+        "name": "To, Nĩsa ya tabbata ga Ãdãwa, mutãnen Hũdu!",
+        "targets": "Indian National weekday 3 - LongDayName",
+        "MOA_group": "4 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Acetamiprid (Assail 70 WP)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "@ item Text character set",
+        "targets": "@ item Spelling dictionary",
+        "MOA_group": "4 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Flupyradifurone (Sivanto 200 SL)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4D"
+        "name": "KCharselect unicode block name",
+        "targets": "KCharselect unicode block name",
+        "MOA_group": "4 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Sulfoxaflor (Sequoia CA)",
-        "targets": "Eggs and nymphs",
-        "MOA_group": "4C"
+        "name": "KCharselect unicode block name",
+        "targets": "KCharselect unicode block name",
+        "MOA_group": "4C."
       },
       {
-        "name": "Thiamethoxam (Actara)",
-        "targets": "Nymphs/Adults",
-        "MOA_group": "4A"
+        "name": "Aliiiiiam (a tsakiya)",
+        "targets": "@ item Spelling dictionary",
+        "MOA_group": "4 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Bifenthrin (Brigade 2EC)",
-        "targets": "Adults",
-        "MOA_group": "3A"
+        "name": "UYO 2 (Efik)",
+        "targets": "KCharselect unicode block name",
+        "MOA_group": "3 KA YI AMFANI DA ABIN DA KA KOYA"
       },
       {
-        "name": "Spirotetramat (Movento)",
-        "targets": "Nymphs",
+        "name": "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+        "targets": "Indian National weekday 3 - LongDayName",
         "MOA_group": "23"
       },
       {
-        "name": "Spiromesifen (Oberon 2 SC)",
-        "targets": "Nymphs",
+        "name": "KCharselect unicode block name",
+        "targets": "Indian National weekday 3 - LongDayName",
         "MOA_group": "23"
       },
       {
-        "name": "Buprofezin (Courier SC)",
-        "targets": "Nymphs",
+        "name": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+        "targets": "Indian National weekday 3 - LongDayName",
         "MOA_group": "16"
       },
       {
-        "name": "Insecticidal soaps",
-        "targets": "Nymphs and adults",
-        "mode": "contact"
+        "name": "Sa'ad da Muke Fuskantar Abubuwa Masu Ban Al'ajabi",
+        "targets": "Mãsu daraja, marubũta.",
+        "mode": "Zaman Shawara da Ake Ciki Yanzu"
       },
       {
-        "name": "Narrow-range oils (Omni Oil, JMS Stylet-Oil)",
-        "targets": "Nymphs and adults",
-        "mode": "contact/coverage"
+        "name": "Mai twãle fãtar goshi.",
+        "targets": "Mãsu daraja, marubũta.",
+        "mode": "@ label: button"
       }
     ],
     "organic": [
-      "Beauveria bassiana and Isaria fumosorosea for nymph control",
-      "Insecticidal soaps and narrow-range oils",
-      "Heat-killed Burkholderia spp. (Venerate)"
+      "A duk inda aka sami labari cewa ana bukatar masu shela sosai, wajibi ne a mai da hankali sosai don kada a yi amfani da shi.",
+      "Da wasu kõfuna da shantula da hinjãlai daga (giya) mai ɓuɓɓuga.",
+      "Sai ya yi gayya, sa'an nan ya yi kira."
     ],
     "resistance_management": [
-      "Rotate insecticides with different mode-of-action groups",
-      "Optimize coverage and application timing"
+      "Ka tsai da salla, kuma ka yi umurni da abin da aka sani, kuma ka yi hani daga abin da ba a sani ba, kuma ka yi haƙuri a kan abin da ya sãme ka.",
+      "Media controller element"
     ]
   },
-  "notes": "Thresholds are not well established; in organic or untreated fields, treat borders preferentially if infestation is higher at edges."
+  "notes": "Ba a kafa ɗabi'a mai kyau; a cikin gona ko kuma a fili, ba a samun hanyar da ta fi kyau idan aka sami ci gaba a jami'ar."
 }

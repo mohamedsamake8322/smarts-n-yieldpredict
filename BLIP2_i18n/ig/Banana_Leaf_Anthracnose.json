@@ -1,0 +1,62 @@
+{
+  "disease": "Mkpụrụ Ndụ Ihe Nketa Na - eme Ka E Nwee Mmasị n'Ahụ́ Mmadụ",
+  "scientific_name": "Coltrichum muse",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "common_name": "Ọdịdị A Na - enwe n'Ahụ́ Anụ Ahụ́",
+  "host_plant": "Gana (Musnath.)",
+  "affected_parts": [
+    "/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀",
+    "Ps Psuurum",
+    "Mkpụrụ osisi (na - ebute ọrịa)"
+  ],
+  "description": "Ihe na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi bụ ọrịa na - efe efe nke ọrịa na - ebibi ihe bụ́ nke Òtù Na - ahụ Maka Anụ Ndị Bi n'Ime Ala na - akpata n'ụzọ bụ́ isi ruo mgbe ọnọdụ ga - adị mma n'ahụ́ ahịhịa nakwa akụkụ ndị ọzọ nke ihe ọkụkụ ahụ, na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị pụrụ ibelata ma mee ka ahịhịa ghara ito nke ọma.",
+  "symptoms": [
+    "Obere akpụ na - acha nchara nchara gaa n'ebe ojii dị n'akwụkwọ",
+    "Mkpụrụ ndụ ihe nketa ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị e ji mkpụrụ ndụ ihe nketa ndị a kọwara akọwa mee",
+    "Mgbe ụfọdụ, a na - enwe ihe ndị na - eme ka ahụ́ na - adị mmadụ mma n'ahụ́",
+    "Anwụrụ ọkụ ndị na - eme ka e nwee mbibi nke akwụkwọ osisi",
+    "Itozu okè n'ihe banyere ọrịa ndị siri ike",
+    "Ọ̀tụ̀tụ̀ ịkụ ihe na - ebelata ume na uto"
+  ],
+  "disease_cycle": [
+    "A na - ebi ụmụ irighiri ahịhịa ma ọ bụ ala ndị na - atọ ọchị n'ebe ahụ.",
+    "A na - emepụta ngwá ụlọ ndị a na - akpọ acrivvvvvv dị n'ihe ndị dị n'ime ahụ́.",
+    "Mmiri ozuzo, ifufe, ahụhụ, ma ọ bụ ngwá ọrụ ndị e metọrọ emetọ na - agbasa.",
+    "A na - eji akwụkwọ osisi ndị dị n'ebe ndị a na - edebe akwụkwọ nri eme ihe n'ọnọdụ ndị jọgburu onwe ha.",
+    "Mkpụrụ ndụ ndị dị n'ime ala na - eji mkpụrụ ndụ ndị dị n'ime ala eme ihe."
+  ],
+  "favorable_conditions": [
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ (ihe fọrọ nke nta ka ọ bụrụ °30C)",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe Ndị Na - eme Ka E Nwee Ihe Ndị Na - enye Obi Ụtọ n'Ahụ́",
+    "Mmiri pọmpụ na mmiri pọmpụ",
+    "A na - eji osisi ndị a tụrụ atụ eme ihe",
+    "Ngwá ọrụ ndị e ji arụ ọrụ ma ọ bụ ndị e ji arụ ọrụ"
+  ],
+  "management": {
+    "cultural_control": [
+      "Wepụ ma bibie akwụkwọ osisi ndị bu ọrịa ahụ ma kọọ iberibe ya",
+      "Ọ na - eme ka ikuku na - abatakwu n'ime ala",
+      "Jiri ọrịa-wáọ̀tụ̀ọ́",
+      "Nọgide na - edebe ihe ọcha n'ụzọ ọhịa"
+    ],
+    "biological_control": [
+      "Jiri ihe ndị na - akpali agụụ mmekọahụ dị ka Trurma mee ihe.",
+      "Usoro nke ihe ndị dị ndụ bụ́ ndị bara uru"
+    ],
+    "chemical_control": [
+      "Freglas ndị dị ka lalalalazim, lazeb ma ọ bụ lafrig-meglaglali",
+      "Tinye ụkpụrụ omume ndị a tụrụ aro ka a na - agbaso n'ọrụ ugbo na n'ọrụ"
+    ]
+  },
+  "economic_impact": "Agụ Iyi pụrụ ibelata ike ịkụ ihe ọkụkụ ma mee ka ihe ndị na - efunahụ mmadụ, meekwa ka mkpụrụ osisi ndị na - amị mkpụrụ belata.",
+  "sources": [
+    "Akwụkwọ ndị e biri ebi bụ́ ndị e dere n'akwụkwọ ndị dị n'Allotrichum musrae",
+    "Mba Nile Na - ahụ Maka Gburugburu Ebe Obibi na Mgbanwe nke Gburugburu Ebe Obibi",
+    "Otú e si emepụta ọrịa ma na - emepụta akụ̀ ndị amamihe dị na ha"
+  ]
+}

@@ -1,86 +1,86 @@
 {
- "disease": "Sclerotinia Stem Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia stem rot is a fungal disease that attacks the stems of many crops. The fungus produces white cotton-like mold and black survival structures called sclerotia. Infected stems become soft, rot, and may cause the plant to collapse.",
- "symptoms": [
-  "Water-soaked lesions on stems",
-  "Soft rot on stems near the soil line",
-  "White cotton-like fungal growth on stems",
-  "Black seed-like sclerotia inside or on infected stems",
-  "Wilting and yellowing of leaves",
-  "Plants collapsing due to stem decay"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "soft watery stem rot",
-  "black hard sclerotia in infected tissue",
-  "collapsed plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Lettuce",
-  "Tomato",
-  "Beans",
-  "Peas",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "leaves",
-  "sometimes fruits"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia surviving in soil",
-  "Infected plant debris",
-  "Wind and water splash"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and form apothecia (cup-like structures)",
-  "Apothecia release spores into the air",
-  "Spores infect stems or leaves during wet conditions",
-  "New sclerotia develop on infected plants and return to the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced nutrient and water transport",
-  "Major yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve plant spacing and airflow",
-  "Remove and destroy infected plants",
-  "Manage crop residue after harvest"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Apply beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply fungicides when environmental conditions favor the disease",
-  "Use protective fungicide treatments during high-risk periods"
- ],
- "prevention": [
-  "Avoid dense planting",
-  "Monitor crops regularly during cool and wet periods",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Sclerotinia Stem Rot 丝捷罗",
+  "scientific_name": "丙烯二烯丙烯二烯二烯三烯二烯二烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯三烯二烯三烯三烯二烯三烯三烯三烯二烯三烯三烯三烯三烯三烯二烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯二烯三烯三烯",
+  "pathogen_type": "蘑菇",
+  "description": "Sclerotinia 干枯腐烂是一种菌类疾病,它袭击了许多作物的根茎。 真菌产生白色的棉花模具和黑色的存活结构,叫做。 感染的根部变得软软、腐烂,并可能导致植物崩溃。",
+  "symptoms": [
+    "花茎上浸水的损伤",
+    "软质腐烂在土壤线附近的茎上",
+    "白棉花类真菌植物生长",
+    "内部或受感染的根茎上黑种种状的血清激素",
+    "叶子的腐叶和黄叶",
+    "因干枯衰变而倒塌的植物"
+  ],
+  "visual_symptoms": [
+    "根状白毛发色",
+    "软水软水干茎腐烂",
+    "受感染组织中的黑硬骨质素",
+    "崩溃的工厂"
+  ],
+  "hosts": [
+    "豆类",
+    "向向日向",
+    "卡诺拉(油籽强奸)",
+    "发生",
+    "番茄",
+    "豆豆",
+    "青豆",
+    "胡萝",
+    "黄瓜",
+    "许多蔬菜和装饰植物"
+  ],
+  "plant_parts_affected": [
+    "源根",
+    "树花叶",
+    "叶叶叶",
+    "有时有水果"
+  ],
+  "favorable_conditions": [
+    "凉凉温度",
+    "高湿湿度",
+    "频繁降雨或灌溉",
+    "高温植物树冠",
+    "空气循环不畅"
+  ],
+  "spread": [
+    "从Apothecia释放出来的空降螺子",
+    "在土壤中生存的短短闪尘",
+    "受感染植物碎片",
+    "风和水喷"
+  ],
+  "disease_cycle": [
+    "这些真菌在土壤中生存了几年 以血清的形式存活",
+    "发芽并形成模拟结构(类似圆形结构)",
+    "Apothecia向空气中释放飞弹",
+    "湿湿条件下的喷口或树叶",
+    "受感染的植物出现新的血血清生长,并返回土壤"
+  ],
+  "impact": [
+    "腐蚀和植物崩溃",
+    "减少营养和水运输",
+    "易种植作物的主要产量损失"
+  ],
+  "cultural_control": [
+    "非宿主植物的旋转作物",
+    "改善厂间间隔和空气流量",
+    "清除和销毁受感染植物",
+    "收获后管理作物残留物"
+  ],
+  "biological_control": [
+    "使用生物制剂,如微型",
+    "应用像三头菌种那样的有益真菌"
+  ],
+  "chemical_control": [
+    "当环境条件有利于这种疾病时应用杀真菌剂",
+    "在高风险时期使用保护性杀真菌杀菌剂治疗"
+  ],
+  "prevention": [
+    "避免密集种植",
+    "在寒冷和湿润时期定期监测作物",
+    "使用综合疾病管理做法"
+  ],
+  "source": [
+    "植物病理学参考",
+    "农业疾病管理指南"
+  ]
 }

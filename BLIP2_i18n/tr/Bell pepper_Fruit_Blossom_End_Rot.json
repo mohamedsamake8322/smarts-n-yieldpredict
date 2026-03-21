@@ -1,71 +1,71 @@
 {
-  "disease": "Bell pepper blossom-end rot",
-  "scientific_name": "Physiological disorder caused by calcium deficiency in fruit tissues",
-  "pathogen_type": "Abiotic (nutrient deficiency disorder)",
-  "description": "Blossom-end rot is a physiological disorder caused by a lack of calcium in developing fruits. It affects rapidly growing fruits when calcium supply to fruit tissue is insufficient. The disorder leads to tissue collapse at the blossom end of the fruit and can cause significant yield losses.",
+  "disease": "Bell Pepper Blossom-End Çiçek",
+  "scientific_name": "Meyve dokularında kalsiyum eksikliğinden kaynaklanan fizyolojik bozukluk",
+  "pathogen_type": "Abiotik (yiyecek eksikliği bozukluğu)",
+  "description": "Blossom-end rot, gelişen meyvelerde kalsiyum eksikliğinden kaynaklanan bir fizyolojik rahatsızlıktır. meyve dokusuna kalsiyum tedarik yetersiz olduğunda hızla büyüyen meyveleri etkiler. rahatsızlık, meyvenin çiçeklenmiş ucunda doku çöküşüne yol açar ve önemli gelir kaybına neden olabilir.",
   "symptoms": [
-    "Small light green or yellow spot at the blossom end of the fruit",
-    "Sunken dark brown or black lesion on fruit tip",
-    "Fruit tissue collapse and dry rot",
-    "Premature fruit ripening",
-    "Black fungal growth (secondary Alternaria colonization)",
-    "Secondary bacterial soft rot in severe cases"
+    "Küçük ışık yeşil veya sarı nokta meyvenin çiçeklenmiş ucunda",
+    "Karanlık kahverengi veya siyah hasar meyve damlasında",
+    "Meyve dokusu çöktü ve kurudu",
+    "Erken Meyve Sıcaklığı",
+    "Siyah Mantar Büyüme (İkinci Alternaria Kolonizasyonu)",
+    "İkinci bakteriyel yumuşak kırışıklık şiddetli durumlarda"
   ],
   "hosts": [
-    "bell pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "zucchini",
-    "squash",
-    "watermelon",
-    "cucumber",
+    "Bell Pepper Yorumları",
+    "Çilek Pepper",
+    "domates",
+    "Yumurta",
+    "Çanakkale",
+    "Çanakkale",
+    "su melonları",
+    "Cevapla",
     "melon"
   ],
   "favorable_conditions": [
-    "Low calcium availability in plant tissues",
-    "Irregular irrigation or drought stress",
-    "Rapid vegetative growth",
-    "Excess nitrogen fertilization",
-    "High salt concentration in soil",
-    "Poor root development or root damage",
-    "High temperature and rapid fruit growth"
+    "Bitki dokularında düşük kalsiyum kullanılabilirliği",
+    "Sıradışı sulama veya kuru stres",
+    "Hızlı bitki büyümesi",
+    "Aşırı nitrojen gübre",
+    "Toprakta yüksek tuz konsantrasyonu",
+    "Kötü kök gelişimi veya kök hasarı",
+    "Yüksek sıcaklık ve hızlı meyve büyümesi"
   ],
   "spread": [
-    "Not infectious; it is a physiological disorder",
-    "Occurs when calcium transport to fruits is insufficient",
-    "Often triggered by water stress or nutrient imbalance"
+    "Bulaşıcı değil; fizyolojik bir rahatsızlık",
+    "Kalsiyum meyvelere ulaşımı yetersiz olduğunda",
+    "Sık sık su stresinden veya besin dengesizliğinden kaynaklanır."
   ],
   "management": [
-    "Maintain consistent soil moisture with proper irrigation",
-    "Avoid excessive nitrogen fertilization",
-    "Improve soil structure for better root growth",
-    "Use mulching to regulate soil moisture and temperature",
-    "Monitor soil nutrient levels with soil testing"
+    "Doğru sulama ile tutarlı toprak nemi",
+    "Aşırı nitrojen yağlanmasını önleyin",
+    "Daha iyi kök büyümesi için toprak yapısını iyileştirmek",
+    "Toprağın nemini ve sıcaklığını düzenlemek için çamur kullanın.",
+    "Toprak testleri ile toprak besin seviyelerini izlemek"
   ],
   "biological_control": [
-    "Use beneficial microbes such as Bacillus subtilis to improve plant health",
-    "Apply Trichoderma species to support root growth and nutrient uptake",
-    "Use organic soil amendments like compost to improve soil structure"
+    "Bitki sağlığını iyileştirmek için Bacillus subtilis gibi faydalı mikroplar kullanın",
+    "Kök büyümesini ve besin alımını desteklemek için Trichoderma türlerini uygulayın",
+    "Toprak yapısını iyileştirmek için kompost gibi organik toprak değişiklikleri kullanın"
   ],
   "chemical_control": [
-    "Calcium nitrate",
-    "Calcium chloride",
-    "Calcium sulfate (gypsum)",
-    "Chelated calcium fertilizers",
-    "Foliar calcium sprays (limited effectiveness)"
+    "Kalsiyum nitrat",
+    "Kalsiyum Klorür",
+    "Kalsiyum sülfatı (gipsum)",
+    "Kalsiyum Yağlayıcıları",
+    "Foliar kalsiyum spreyleri (sınırlı etki)"
   ],
   "prevention": [
-    "Ensure adequate calcium levels in soil",
-    "Maintain regular irrigation schedules",
-    "Avoid excessive nitrogen fertilization",
-    "Improve drainage and root health",
-    "Use drip irrigation to stabilize water supply",
-    "Avoid root damage from cultivation or diseases"
+    "Toprağın yeterli kalsiyum seviyesini sağlamak",
+    "Düzenli irigasyon programları",
+    "Aşırı nitrojen yağlanmasını önleyin",
+    "Drenaj ve kök sağlığını iyileştirmek",
+    "Su kaynağını istikrarlı hale getirmek için su kaynağını kullanın",
+    "Yetiştirme veya hastalıklardan kaynaklanan kök hasarından kaçının"
   ],
   "source": [
-    "University of Florida IFAS Extension",
-    "Principles of Plant Nutrition – Mengel & Kirkby",
-    "Plant pathology and vegetable crop management literature"
+    "Florida Üniversitesi IFAS Uzantısı",
+    "Bitki Beslenme İlkeleri – Mengel & Kirkby",
+    "Bitki Patolojisi ve Bitki Bitki Yönetimi Edebiyatı"
   ]
 }

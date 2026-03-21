@@ -1,59 +1,69 @@
 {
-  "disease_name": "Tomato Leaf Mosaic Virus (ToMV)",
-  "type": "viral disease",
-  "causal_agent": "Tomato mosaic virus (ToMV), genus Tobamovirus",
+  "disease_name": "طمط ط ط ط ط ط ط ط ط ط",
+  "type": "",
+  "causal_agent": "فيروس الطماطم الفسيفاسي (TOMV)، جينوس توبام",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Petunia spp."],
-    "other_hosts": ["Snapdragon (Antirrhinum spp.)", "Delphinium spp.", "Marigold (Tagetes spp.)", "Various other ornamental and crop plants"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ],
+    "secondary": [
+      "(كابسيكوم سكوب.)",
+      "\"الـ \"الـ \"بـيـونـيـا"
+    ],
+    "other_hosts": [
+      "ناندراgon (Attirrrrinum spp.)",
+      "دلفينيوم spp.",
+      "(Tagets spp.)",
+      "نباتات أخرى متنوعة أخرى"
+    ]
   },
-  "distribution": "Worldwide",
+  "distribution": "المنظمة الدولية للمنقول (LALLLLLLS",
   "symptoms": {
     "foliage": [
-      "Mottling with alternating yellowish and dark green areas",
-      "Dark green areas often raised or thicker, giving a blister-like appearance",
-      "Leaves may appear fern-like with pointed tips",
-      "Younger leaves may be twisted"
+      "التزاحم مع المناطق المتناوبة المائلة والأخضر الداكنة والأخضر الداكنة",
+      "غالباً ما تُثار أو تُرفع المناطق الخضراء المُظلمة أو تكون أكثر سُمكاً، مما يعطي مظهراً شبيهاً بمُبَرقات",
+      "الاجازات قد تظهر مثل الاعداد مع الاشارة",
+      "قد تكون اوراق الاوراق الصغرى ملتوّية"
     ],
     "fruit": [
-      "Distortion and yellow blotches",
-      "Necrotic spots on both green and ripe fruits",
-      "Internal browning of the fruit wall"
+      "الإغواء و بقع صفراء",
+      "نقاط نخرية على كل من الفواكه الخضراء والفاكهة الناضجة",
+      "البني الداخلي للجدار"
     ],
     "overall_plant": [
-      "Dwarfing of young plants",
-      "Discoloration of flowers",
-      "Reduced fruit set and distorted growth"
+      "قشرة النباتات اليافعة",
+      "تغيير لون الأزهور",
+      "المواكه المتدنية والنمو المشوه"
     ]
   },
   "disease_cycle": [
-    "Virus can be introduced through infected seeds",
-    "Only a few infected seedlings can lead to rapid spread",
-    "Spread also occurs via contaminated tools, hands, and clothing during routine handling",
-    "Environmental factors such as temperature, day length, light intensity, plant variety, plant age at infection, and strain virulence influence symptom expression"
+    "يمكن إدخال الفيروس من خلال البذور المُحْكَمة",
+    "عدد قليل فقط من الشتلات المصابة يمكن أن تؤدي إلى انتشار سريع",
+    "ويحدث التفشي أيضاً عن طريق الأدوات واليدي والملابس الملوثة أثناء المناولة الروتينية",
+    "العوامل البيئية مثل درجة الحرارة، وطول النهار، وكثافة الضوء، والأنواع النباتية، وعمر النبات عند الإصابة، والضغط الفهرنة تؤثر على التعبير عن الأعراض"
   ],
   "management": {
     "cultural": [
-      "Use virus-free certified seed and healthy transplants",
-      "Sanitize tools, hands, and clothing when handling plants",
-      "Remove and destroy infected seedlings promptly to reduce spread",
-      "Control weeds that may serve as alternate hosts"
+      ":: استخدام البذور المعتمدة الخالية من فيروسات الفيروس وزراعة المنتجات الصحية",
+      "أدوات النظافة الصحية واليد والثياب عند معالجة النباتات",
+      "إزالة وتدمير شتلات مُصابة فوراً للحد من الانتشار",
+      "موانع يمكن أن تكون بمثابة مستضيفين مناوبين"
     ],
     "resistant_varieties": [
-      "Plant cultivars known to have resistance to ToMV where available"
+      "من المعروف أن لديها مقاومة إلى TOMV حيثما كانت متاحة"
     ],
     "chemical": [
-      "No chemical control is effective against viral infections; management relies on prevention and hygiene"
+      "لا توجد أي رقابة كيميائية فعالة ضد الأمراض الفيروسية؛ وتعتمد الإدارة على الوقاية والنظافة الصحية"
     ]
   },
   "notes": [
-    "ToMV is mechanically transmitted; it does not require insect vectors",
-    "Seedlings in nurseries are particularly vulnerable, especially during transplanting",
-    "Symptoms may vary depending on environmental conditions and plant growth stage"
+    "TomMV يتم انتقاله ميكانيكياً؛ لا يحتاج إلى متجهات الحشرة",
+    "وتتعرض الشتلات في دور الحضانة بصفة خاصة للضعف، ولا سيما أثناء زرعها.",
+    "قد تختلف الأعراض باختلاف الظروف البيئية ومرحلة نمو النبات"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "Tomato leaf mosaic virus. American Phytopathological Society (APS) – Plant Disease Factsheets",
-    "Brunt, A.A., et al. 1996. Plant Viruses Online: Descriptions and Lists from the VIDE Database"
+    "J.B., et al. 2014 خلاصة وافية عن أمراض الطماطم والآفات، الطبعة الثانية، مطبعة APS.",
+    "الجمعية الأمريكية لأمراض الحشرات (APS) - صحائف حقائق عن الأمراض النباتية",
+    "المصدر: بيانات وصفية وقوائم من قاعدة بيانات VID"
   ]
 }

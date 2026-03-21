@@ -1,112 +1,112 @@
 {
-  "disease_name": "Banana streak disease",
-  "dataset_label": "Banana_Leaf_Streak_Virus",
+  "disease_name": "KCharselect unicode block name",
+  "dataset_label": "KCharselect unicode block name",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana streak virus",
-    "scientific_name": "Banana streak badnavirus",
-    "family": "Caulimoviridae",
-    "genus": "Badnavirus",
-    "genome": "Double-stranded DNA (dsDNA)"
+    "type": "Ethiopian weekday 5 - LongDayName",
+    "name": "KCharselect unicode block name",
+    "scientific_name": "KCharselect unicode block name",
+    "family": "KCharselect unicode block name",
+    "genus": "KCharselect unicode block name",
+    "genome": "@ item Spelling dictionary"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Wata ' yar'uwa mai suna Raka (ana duba hoton da ke wannan talifin.)",
     "other_hosts": [
-      "Plantain"
+      "Shirin Hana Haske"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Whole plant vigor"
+    "QDialogButtonBox",
+    "DakataCoptic weekday 5 - LongDayName",
+    "Media controller element"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Mealybugs",
+    "type": "QShortcut",
+    "name": "Jibin Maraice na Fanel",
     "genera": [
-      "Planococcus",
-      "Pseudococcus"
+      "@ item Text character set",
+      "DakataCoptic month 8 - LongName"
     ]
   },
   "symptoms": {
     "early_stage": [
-      "Yellow streaks running from leaf midrib to leaf margin",
-      "Continuous or broken yellow lines across the leaf"
+      "Za ku iya tuƙa keke daga ƙananan shuke - shuke don ku yi amfani da kayan lambu.",
+      "Mãsu duhun inuwa."
     ],
     "intermediate_stage": [
-      "Streaks appear scattered or arranged in bands",
-      "Reduced plant vigor and smaller plant size"
+      "Ana iya ware ko kuma a yi shiri a wani yanki",
+      "Da ƙwãya mai sõshiya da ƙamshi."
     ],
     "advanced_stage": [
-      "Yellow streaks turn brown or black with leaf aging",
-      "Smaller banana bunches",
-      "Possible pseudostem internal rot and dieback in severe cases"
+      "Za ku iya juya wa kanku hanya mai kyau ko kuma ku yi furfura da baƙar fata",
+      "QXml",
+      "Za a iya samun ciwon ciki kuma a yi mutuwa a yanayi mai tsanani"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Infected planting material (suckers)",
-      "Vector transmission by mealybugs",
-      "Activation of integrated viral DNA in plant genome under stress"
+      "A wurin da magaryar tuƙẽwa take.",
+      "Ta'aziyya ta Wurin cin abinci mai gina jiki",
+      "Cin gaba da aka samu a kan hanya mai kyau na yin shuki a lokacin wahala"
     ],
-    "latent_behavior": "Virus fragments can integrate into banana genome and reactivate under stress conditions",
+    "latent_behavior": "Yin maye zai iya sa mutum baƙin ciki kuma ya yi fushi sa'ad da yake fuskantar yanayi mai wuya",
     "favorable_conditions": [
-      "Plant stress",
-      "Tissue culture propagation stress",
-      "Environmental stress"
+      "Media controller element",
+      "Al'adar Al'ada na Al'ada",
+      "KCharselect unicode block name"
     ]
   },
   "impact": {
-    "severity": "Variable",
+    "severity": "QShortcut",
     "effects": [
-      "Reduced plant vigor",
-      "Smaller fruit bunches",
-      "Yield losses depending on cultivar and infection intensity",
-      "Delayed harvest"
+      "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+      "Rashin gaskiya ya dangana ne a kan tsaka - tsaki na Babila",
+      "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
     ],
-    "estimated_losses": "Up to about 6% annually in some regions, higher in susceptible cultivars"
+    "estimated_losses": "Kusan kashi 6 bisa ɗari a wasu wurare, a manyan birane"
   },
   "distribution": [
-    "Asia",
-    "Africa",
-    "North America",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania",
-    "Pacific Islands"
+    "Asiya",
+    "Afirka",
+    "@ item Text character set",
+    "@ item Text character set",
+    "Amirka ta Kudu",
+    "QFontDatabase",
+    "K_ar ka Goge",
+    "@ item Spelling dictionary"
   ],
   "similar_diseases_or_confusions": [
-    "Cucumber mosaic virus",
-    "Banana bunchy top virus",
-    "Nutrient deficiency causing chlorosis"
+    "KCharselect unicode block name",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "KCharselect unicode block name"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants",
-      "Monitor plantations regularly"
+      "Yi Amfani da kayan daidaita na'ura",
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+      "KCharselect unicode block name"
     ],
     "vector_control": [
-      "Control mealybug populations",
-      "Use horticultural oils or soap sprays",
-      "Use commercial horticultural oil products"
+      "KCharselect unicode block name",
+      "Ka yi amfani da man daidaitawa ko kayan ado",
+      "Ka yi amfani da kayan daidaita da ake amfani da shi a hanyar da ba ta dace ba"
     ],
     "quarantine": [
-      "Follow FAO germplasm movement guidelines for Musa species",
-      "Use certified disease-free tissue culture plants"
+      "Ka Bi Ja - gorar Musa",
+      "An yi amfani da ƙwayoyin cuta da ake amfani da su a hanyar da ba ta dace ba"
     ]
   },
   "spread_risk_factors": [
-    "Planting infected suckers",
-    "Unscreened tissue culture propagation",
-    "Presence of mealybug vectors",
-    "Plant stress conditions activating integrated virus DNA"
+    "KCharselect unicode block name",
+    "Al'ada da ba a Yi Amfani da ita Ba",
+    "Sa'ad da muke cin abinci mai gina jiki, muna samun isashen abinci mai gina jiki.",
+    "Wahala ta daɗa ƙaruwa ga yanayi da ke sa mutane su zama masu ba da haɗin kai"
   ],
   "references": [
-    "CABI Crop Protection Compendium (2020)",
-    "CSIRO Publishing – Diseases of Fruit Crops in Australia (2009)",
-    "Pacific Pests, Pathogens and Weeds Database",
-    "Bioversity International – FAO Musa Germplasm Movement Guidelines"
+    "@ item Text character set",
+    "KA YI amfani da ' ya'ya da yawa a ƙasar Ostareliya don yin wa'azi.",
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

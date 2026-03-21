@@ -1,64 +1,70 @@
 {
-  "disease_name": "Tomato Leaf Bacterial Canker",
-  "type": "bacterial disease",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "disease_name": "番茄叶叶",
+  "type": "细菌疾病",
+  "causal_agent": "密歇根人 密歇根人 密歇根人",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+    "primary": [
+      "番茄"
+    ],
+    "secondary": [
+      "茄子种植 (Solanum melogenena L.)",
+      "辣椒(Capsicum pp.)",
+      "暗影( Solanum spp.)"
+    ]
   },
-  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "distribution": "全世界;在温室和野生西红柿中常见",
   "symptoms": {
     "leaves": [
-      "Older leaves develop brown, scorched margins that curl upward and inward",
-      "Distinct border between brown and green tissue, often with a thin yellow line",
-      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+      "长叶形成棕色的烧焦边际 向上向上和向内弯曲",
+      "棕色组织与绿色组织之间独特的边界,往往有细黄线",
+      "系统感染可造成叶叶叶枯萎和燃烧(膨胀和崩溃)"
     ],
     "stems": [
-      "Light streaks develop that darken and split forming shallow cankers",
-      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
-      "Branches may break off easily in advanced infections"
+      "光线光线发展出暗暗暗和分裂 形成浅浅的罐头",
+      "棕色变黄,红褐色、粉色或空",
+      "分部门在先进的感染中可能很容易分解"
     ],
     "fruit": [
-      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
-      "Fruit near calyx may have brown seeds due to vascular invasion"
+      "绿色或红果(`鸟眼 ' 斑点)、直径1/16-1/8英寸(3-4毫米)",
+      "骨附近的水果可能因血管入侵而有棕色种子"
     ],
     "seedlings": [
-      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
-      "Symptoms often appear at flowering or later"
+      "经济增长缓慢、暂时枯萎、叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶黄和缩缩",
+      "症状经常出现在花朵或花花之后"
     ]
   },
   "disease_cycle": [
-    "Introduced via infected seed or transplants",
-    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
-    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
-    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+    "通过感染种子或移植引进",
+    "在受污染的植物残留物中存活长达3年;在被污染的长椅、桩子和杂草宿主中生存",
+    "通过风雨、喷洒喷洒灌溉、机械种植和处理等传播",
+    "细菌a 通过伤口、断裂的三角形或切叶,进入幼苗,然后通过Xylem系统移动"
   ],
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants; certified seeds recommended",
-      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
-      "Steam or disinfect greenhouse flats, benches, and potting media",
-      "Rotate crops out of tomatoes for at least one season"
+      "使用无疾病的种子和移植;推荐经认证的种子",
+      "以130°F的水在水中浸泡种子25分钟,以减少污染",
+      "蒸汽或消毒 温室公寓、长椅和陶瓷介质",
+      "至少在一季中将番茄作物旋转出番茄"
     ],
     "cultural": [
-      "Incorporate plant debris thoroughly at season end",
-      "Control nightshade weeds that may harbor bacteria",
-      "Avoid working in fields when foliage is wet",
-      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+      "在季节结束时彻底将植物碎片结合到植物碎片中",
+      "可能有菌种的 控制阴凉药草",
+      "当树叶湿时避免在田间工作",
+      "尽量减少高空灌溉和认真处理工厂,以减少受伤"
     ],
     "chemical": [
-      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
-      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+      "铜杀菌剂可以减少湿条件下的传播,但不能控制系统感染",
+      "0.5-1.1%钙或次氯酸钠或植物类商业消毒剂的消毒工具和表面"
     ]
   },
   "notes": [
-    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
-    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
-    "Even a few infected seeds can result in high levels of infected transplants"
+    "直接种子田地的经济损失通常较小,除非湿条件有利于二次扩散。",
+    "温室移植更加脆弱;对环境卫生保持警惕至关重要",
+    "即使是少数几种受感染种子也可能导致大量受感染的移植"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
-    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+    "Jones, J.B.等人,2014年,《番茄病和虫害简编》,第二版,APS出版社。",
+    "加利福尼亚大学农业和自然资源大学,《番茄虫害管理准则:细菌罐头》。",
+    "Schaad, N.W.等人,2001年,《番茄的细菌罐头,植物健康进步》。"
   ]
 }

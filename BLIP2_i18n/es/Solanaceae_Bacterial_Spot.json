@@ -1,0 +1,53 @@
+{
+  "disease_name": "Solanaceae Spot Bacterial",
+  "pathogen": "Xanthomonas campestris pv. vesicatoria",
+  "host_plants": [
+    "Pimienta",
+    "Tomate (campo)",
+    "Tomate (invernadero)"
+  ],
+  "affected_parts": [
+    "Hojas",
+    "Frutas",
+    "A veces tallos"
+  ],
+  "symptoms": [
+    "Pequeñas manchas circulares marrones en las hojas, a veces empapadas en agua",
+    "Las manchas pueden unirse en rayas oscuras",
+    "Amarilla general y epinastia severa de las hojas",
+    "Frutos verdes: lesiones pardas elevadas, a veces parecidas a la costra, pueden tener halo"
+  ],
+  "favorable_conditions": [
+    "Clima cálido y húmedo",
+    "Lluvias frecuentes o irrigación general",
+    "Hojas que permanecen húmedas durante largos períodos",
+    "Lesiones causadas por insectos, arena eólica o herramientas"
+  ],
+  "disease_cycle": [
+    "Sobrevive en desechos vegetales infectados y plantas voluntarias",
+    "Transmisión transmitida por semilla (incluso 1 semilla infectada en 10.000 puede causar una infección completa)",
+    "Se propagan por el viento, la lluvia, los trabajadores y las herramientas",
+    "Entra en las plantas a través de estomas o heridas"
+  ],
+  "crop_impact": [
+    "Disminución de la fotosíntesis",
+    "Defoliación de las hojas",
+    "Frutos no comercializables debido a lesiones",
+    "Posibilidades de pérdidas significativas de rendimiento"
+  ],
+  "cultural_control": [
+    "Utilizar semillas y plántulas certificadas y sin enfermedades",
+    "Rotar los campos y eliminar las plantas voluntarias",
+    "Evite trabajar en campos húmedos",
+    "Limpiar herramientas y equipos"
+  ],
+  "chemical_control": [
+    "bactericidas a base de cobre",
+    "Soluciones de cobre/mancozeb",
+    "Aplicación más eficaz preventivamente o en etapas tempranas de infección"
+  ],
+  "notes": [
+    "Seis razas/patovares identificados",
+    "La resistencia en cultivares es a menudo específica de la raza"
+  ]
+}

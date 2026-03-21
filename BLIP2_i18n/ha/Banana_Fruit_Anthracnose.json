@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "DakataCoptic month 8 - LongNamePossessive",
+  "other_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai ban dariya tana shafan ' ya'yan itace kafin lokacin girbi, musamman ma a lokacin da rana take girma.",
   "affected_parts": [
-    "Fruit",
-    "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "' Ya'ya",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya."
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "Duniya ta cika da ' ya'yan itace masu yawa da suke kama da ' ya'yan itace",
+    "Cin hanci da rashawa yana daɗa ƙaruwa kuma ba zai yi duhu ba a lokacin da ake yaƙi",
+    "KCharselect unicode block name",
+    "' Ya'ya Masu Ban Al'ajabi Kuma Masu Ban Al'ajabi Za Su Zama Masu Ban Al'ajabi",
+    "Sa'ad da muke fuskantar yanayi mai wuya, ba za mu ji tsoro kuma ba za mu iya kawar da matsaloli ba.",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta."
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Masu zane - zane da kuma zane - zane sukan zama mai ba da ' ya'ya don su yi shuki",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Mãsu gudu suna ɓũya.",
+    "Masu zane - zane suna yaɗa ruwan sama, iska, kayan aiki, da kuma kayan aiki"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "KCharselect unicode block name",
+    "Fiye da shekara 90",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Media controller element"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "Mãsu duhun inuwa.",
+    "A wurin da magaryar tuƙẽwa take.",
+    "Media controller element",
+    "Media controller element"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "Ana Bukatar ' Ya'ya a Lokacin Wahala",
+    "Farã mai dãɗi ga mashãyan.",
+    "' Ya'yan itace da kasuwa masu daraja",
+    "QXml"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set",
+    "Wani ɗan Adam mai suna W.M.A. M.",
+    "Dukansu da suke yin ba'a: 11"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "Ka Yi Amfani da Yadda Aka Yi Amfani da Shi Yadda Ya Kamata",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "Ka kasance da tsabta da kuma cire shuke - shuke masu kyau",
+    "Media controller element",
+    "Ka Guji Rashin Lafiya a Lokacin Wahala",
+    "' Ya'yan itace suna guje wa yin tarayya da juna",
+    "Yi Amfani da lafiyar jiki"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "@ action",
+    "Media controller element",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka kasance da tsabta da kuma yanayi mai kyau"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "Media controller element"
   ]
 }

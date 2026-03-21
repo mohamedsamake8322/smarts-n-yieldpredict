@@ -1,57 +1,57 @@
 {
-  "pest_name": "Soybean Tospovirus",
-  "scientific_name": "Soybean vein necrosis virus (SVNV)",
-  "common_name": "Leaf Vein Necrosis Virus",
-  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
-  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "pest_name": "Soja Tospovirus",
+  "scientific_name": "Virus de la nécrose veineuse de soja (VSNV)",
+  "common_name": "Virus de la nécrose de la veine des feuilles",
+  "description": "Le virus de la nécrose des veines de soja (VSNV) est un tospovirus qui affecte le soja, cause la nécrose le long des veines foliaires et réduit la vigueur des plantes et la qualité des graines.",
+  "distribution": "Principalement rapportée aux États-Unis, en particulier dans les régions du Midwest productrices de soja.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+    "primary_host": "Glycine max (soja)",
+    "other_hosts": "D'autres espèces légumineuses peuvent être sensibles; des recherches sont en cours."
   },
   "symptoms": {
     "leaf": [
-      "Necrotic streaks along the veins",
-      "Interveinal chlorosis or yellowing",
-      "Leaf deformation or curling",
-      "Small necrotic spots or flecks on older leaves"
+      "Traînées nécrotiques le long des veines",
+      "Chlorose interveineuse ou jaunissement",
+      "Déformation ou curling des feuilles",
+      "Petites taches nécrotiques ou taches sur les feuilles plus anciennes"
     ],
-    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "timing": "Les symptômes apparaissent habituellement sur les feuilles plus âgées, mais peuvent affecter les feuilles à tous les stades",
     "plant": [
-      "Stunting",
-      "Reduced seed quality in severe infections"
+      "Étourdissement",
+      "Réduction de la qualité des semences dans les infections graves"
     ]
   },
   "conditions_favoring_disease": {
-    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
-    "environment": "Mild temperatures and presence of vectors favor spread",
-    "season": "Infections can occur throughout the growing season"
+    "vector": "Thrips (principalement thrips de soja, Neohydatothrips variabilis)",
+    "environment": "Les températures douces et la présence de vecteurs favorisent la propagation",
+    "season": "Les infections peuvent survenir tout au long de la saison de croissance"
   },
   "biology": {
     "pathogen_type": "Virus",
     "virus_family": "Tospoviridae",
-    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
-    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+    "transmission": "Principalement par thrips de manière persistante; peut être transmis mécaniquement et par des graines infectées (faible taux)",
+    "infection_process": "Le virus se reproduit dans les tissus de l'hôte, causant des lésions nécrotiques le long des veines; vectorisé par l'alimentation des thrips"
   },
   "damage": [
-    "Vein necrosis and leaf discoloration",
-    "Reduced photosynthesis and plant vigor",
-    "Potential yield loss and reduced seed quality in severe cases"
+    "nécrose de la veine et décoloration des feuilles",
+    "Réduction de la photosynthèse et de la vigueur des plantes",
+    "Perte potentielle de rendement et diminution de la qualité des semences dans les cas graves"
   ],
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Remove volunteer soybean and other host plants to reduce inoculum",
-      "Avoid planting near areas with high thrips populations"
+      "Utiliser des semences exemptes de pathogènes",
+      "Retirer le soja volontaire et d'autres plantes hôtes pour réduire l'inoculum",
+      "Éviter de planter près des zones où les populations de thrips sont élevées"
     ],
     "chemical_control": [
-      "Insecticides targeting thrips may reduce virus spread"
+      "Les insecticides ciblant les thrips peuvent réduire la propagation du virus"
     ],
     "genetic_control": [
-      "No fully resistant soybean cultivars currently available; research ongoing"
+      "Pas de cultivars de soja entièrement résistants actuellement disponibles; recherche en cours"
     ]
   },
   "notes": [
-    "SVNV is a relatively newly recognized tospovirus in soybean.",
-    "Early detection and vector management are key to reducing disease impact."
+    "Le SVNV est un tospovirus relativement nouvellement reconnu dans le soja.",
+    "La détection précoce et la gestion des vecteurs sont essentielles pour réduire l'impact de la maladie."
   ]
 }

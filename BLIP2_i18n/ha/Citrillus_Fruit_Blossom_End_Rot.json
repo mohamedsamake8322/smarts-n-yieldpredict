@@ -1,113 +1,96 @@
 {
-  "disease": "Blossom End Rot",
-  "crop": "Watermelon",
-  "scientific_context": "Physiological disorder caused by localized calcium deficiency",
-  "pathogen_type": "Physiological disorder (not caused by a pathogen)",
-
-  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
-
-  "scientific_name": "Calcium deficiency disorder",
-
+  "disease": "QShortcut",
+  "crop": "KCharselect unicode block name",
+  "scientific_context": "KCharselect unicode block name",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "A ƙarshen ƙarni na farko, mutane suna yin amfani da ruwan sama don su samu ' ya'yan itace da ke sa ruwa ya yi maye da kuma wasu ' ya'yan itace. A yawancin lokaci, ana samun ' ya'yan itace da ba su da amfani sosai.",
+  "scientific_name": "KCharselect unicode block name",
   "symptoms": [
-    "water-soaked spot at blossom end of fruit",
-    "light tan lesion that enlarges over time",
-    "dark brown or black sunken area on fruit",
-    "leathery or dry tissue at blossom end",
-    "secondary soft rot when fungi or bacteria invade",
-    "affected fruit ripen earlier than normal"
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Haske da ke ƙaruwa da shigewar lokaci",
+    "Mãsu duhun inuwa ko rana suna da ' ya'yan itace",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Na biyu kuma sa'ad da ake yi wa mutane ba'a ko kuma sa'ad da aka kai musu hari",
+    "Ya shafi ' ya'yan itace da farko fiye da yadda aka saba yi"
   ],
-
   "visual_signature": [
-    "dark black patch at blossom end of watermelon",
-    "sunken leathery lesion on fruit tip",
-    "dry black rot on blossom end",
-    "discolored depressed area on fruit surface"
+    "Mãsu duhun inuwa.",
+    "Rana tana ba da ' ya'yan itace masu yawa da suke ba da ' ya'yan itace",
+    "Sai ka ga ruwa yanã fita daga tsattsakinsa, kuma ka ce: \"Yã bushãrata!",
+    "QXml"
   ],
-
   "affected_plant_parts": [
-    "fruit blossom end",
-    "developing fruit tissue"
+    "Yanã tsirar da shũka game da shi, dõminku zaitũni da dabĩnai da inabai, kuma daga dukan 'yã'yan itãce.",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "KCharselect unicode block name",
   "hosts": [
-    "watermelon",
-    "tomato",
-    "pepper",
-    "eggplant",
-    "pumpkin",
-    "squash"
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Saurin Sura Mai Motsi",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name"
   ],
-
   "important_hosts": [
-    "Citrullus lanatus",
-    "Solanum lycopersicum",
-    "Capsicum annuum",
-    "Solanum melongena",
-    "Cucurbita pepo"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Saboda haka, Na yi shekaru da yawa ina hidima a matsayin mai kula da da'ira.",
+    "KCharselect unicode block name"
   ],
-
   "causes": [
-    "calcium deficiency in developing fruit",
-    "irregular watering",
-    "drought stress",
-    "high soil salinity",
-    "excess nitrogen fertilization",
-    "rapid plant growth",
-    "poor calcium uptake by roots"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Media controller element",
+    "ontDatabase",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "QDialogButtonBox",
+    "shuka mai motsi na ba da ' ya'ya",
+    "@ action"
   ],
-
   "favorable_conditions": [
-    "hot temperatures",
-    "drought stress",
-    "fluctuating soil moisture",
-    "poor soil drainage",
-    "raised beds drying quickly"
+    "@ action",
+    "ontDatabase",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "ƙasa marar arziki",
+    "Wasu huskõki, a rãnar nan, akwai ƙũra a kansu."
   ],
-
   "spread": [
-    "not contagious",
-    "caused by environmental and nutritional imbalance"
+    "QXml",
+    "Sa'an nan, Ya sanya daga gare shi, nau'i biyu: namiji damace?"
   ],
-
   "damage": [
-    "fruit becomes unmarketable",
-    "reduced crop yield",
-    "premature fruit ripening",
-    "secondary infections may destroy fruit"
+    "Ba'a daidaita maɓallin %s ba",
+    "Saurin Sura Mai Motsi",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Na biyu kuma zai iya halaka ' ya'yan itace"
   ],
-
   "management": [
-    "maintain uniform soil moisture",
-    "water plants regularly and deeply",
-    "mulch soil to conserve moisture",
-    "avoid excessive nitrogen fertilization",
-    "improve soil drainage"
+    "Sa'an nan, Muka tsattsãge ƙasa tsattsagewa.",
+    "Yakan yi shuki a kai a kai kuma ya yi zurfi",
+    "ƙasa don a Yi Amfani da Shi a hanyar da ba ta dace ba",
+    "guji yawan shan giya",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
-
   "nutritional_management": [
-    "maintain adequate calcium in soil",
-    "apply agricultural lime to adjust soil pH",
-    "use calcium nitrate or calcium chloride foliar sprays when needed"
+    "@ action",
+    "Ka yi amfani da kayan aiki don ka daidaita ƙasa",
+    "Ka yi amfani da hanyar da ba ta dace ba sa'ad da ake bukatar a yi amfani da ita"
   ],
-
   "cultural_control": [
-    "proper plant spacing for air circulation",
-    "balanced fertilization practices",
-    "consistent irrigation schedule"
+    "Media controller element",
+    "ayyuka da suka daidaita",
+    "Media controller element"
   ],
-
   "prevention": [
-    "soil testing before planting",
-    "maintain soil pH around 6.5–7",
-    "avoid large fluctuations in watering"
+    "ƙasa kafin a shuka ta",
+    "@ action",
+    "Ka guji yawan shan giya mai yawa"
   ],
-
   "source": [
-    "University extension plant pathology guides",
-    "Greenhouse Grower",
-    "Horticulturae journal",
-    "Journal of Plant Nutrition"
+    "@ item Text character set",
+    "Kayan Aikin Na'ura",
+    "@ item Text character set",
+    "KCharselect unicode block name"
   ]
 }

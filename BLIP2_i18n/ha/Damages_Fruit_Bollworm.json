@@ -1,68 +1,68 @@
 {
- "pest": "Fruit Bollworm",
- "scientific_name": "Helicoverpa armigera",
- "pathogen_type": "Insect (Lepidoptera moth larva)",
- "description": "A highly destructive caterpillar pest found in tropical and subtropical regions. The larvae feed on leaves, flowers, and fruits of many crops, especially tomato and cotton, causing major yield losses.",
- "symptoms": [
-  "Small holes on young leaves caused by early larvae feeding",
-  "Small entry holes on fruits, often near the stalk",
-  "Caterpillars feeding inside fruits",
-  "Damaged or mined fruits with internal feeding",
-  "Fruits stop growing, ripen early, and drop from the plant",
-  "Damaged flowers and pierced seed pods in legumes"
- ],
- "hosts": [
-  "Tomato",
-  "Cotton",
-  "Sorghum",
-  "Sweet corn",
-  "Beans",
-  "Soybean",
-  "Tobacco",
-  "Sunflower",
-  "Melon",
-  "Various fruit crops"
- ],
- "favorable_conditions": [
-  "Warm tropical and subtropical climates",
-  "High availability of host crops",
-  "Greenhouse conditions for tomato production"
- ],
- "spread": [
-  "Adult moths laying eggs on leaves and fruits",
-  "Larvae moving between nearby plants",
-  "Migration of adult moths between crop fields"
- ],
- "management": [
-  "Regular monitoring of crops for eggs and young larvae",
-  "Remove and destroy infested fruits",
-  "Use pheromone traps to monitor moth populations",
-  "Encourage natural predators and parasitoids",
-  "Use resistant or tolerant crop varieties when available"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt) bioinsecticide sprays",
-  "Release of parasitoid wasps such as Trichogramma species",
-  "Predators such as lady beetles, lacewings, and birds",
-  "Entomopathogenic fungi like Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Indoxacarb",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin (use with resistance management)"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Field sanitation and removal of crop residues",
-  "Use pheromone traps for early detection",
-  "Install insect netting in greenhouses",
-  "Maintain balanced fertilization to avoid excessive plant growth"
- ],
- "source": [
-  "Agricultural pest management guides",
-  "Greenhouse crop protection literature",
-  "Helicoverpa armigera pest management references"
- ]
+  "pest": "Ana Son ' Ya'ya Masu Ban Al'ajabi",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "A cikin Allo tsararre.",
+  "description": "Wani karin ci da aka samu a filin wasa da na'ura mai kama da abinci da furanni da furanni da furanni da kuma ' ya'yan itatuwa masu yawa, musamman ma ga waɗanda suka yi hasara mai yawa.",
+  "symptoms": [
+    "Cin abinci da ake samu a cikin mahaifa da ake samu tun da wuri",
+    "Ku shiga cikin ' ya'yan itãcen marmari, sau da yawa ku yi kusa da ' ya'yan itacen",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "\"Ya gãjẽ ni, kuma ya yi gãdo daga gidan Yãƙũba.",
+    "' Ya'yan itace sun daina girma, da fara'a, kuma sun yi yaushi daga shuki",
+    "Ana buga furanni da kayan ado da aka shuka a bakin teku"
+  ],
+  "hosts": [
+    "QShortcut",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "QShortcut",
+    "Ethiopian weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "DakataCoptic month 6 - LongName",
+    "DakataCoptic month 13 - ShortNamePossessive",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa."
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ka yi tunanin yanayin wurin da za ka yi amfani da shi"
+  ],
+  "spread": [
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ƙasa tana tafiya tsakanin shuke - shuke da ke kusa",
+    "Wata ' yar'uwa mai suna Mida ta girma tsakanin gona da iri"
+  ],
+  "management": [
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ka Yi Amfani da tarkuna Ɗaya don Ka Kiyaye Abubuwa Masu Kyau",
+    "Ku Ƙarfafa Ɗabi'a da Kuma Yin Abubuwa Masu Ban Al'ajabi",
+    "Yi amfani da wajen tsayayya wa Makiyayi ko kuma ba da kyauta sa'ad da ake samu"
+  ],
+  "biological_control": [
+    "KCharselect unicode block name",
+    "An yi amfani da na'ura mai kama da Hauwa'u",
+    "Ana san su da kyau kamar mace mai kama da mace, mai baƙar magana, da kuma tsuntsaye",
+    "@ item Text character set"
+  ],
+  "chemical_control": [
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Da filõli jẽre,"
+  ],
+  "prevention": [
+    "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+    "Ana Bukatar Ta'aziyya Kuma a kawar da Yadda Za a Samu Albarka",
+    "Ka Yi Amfani da tarkuna Ɗaya don Yin Amfani da Shi",
+    "Mãsu duhun inuwa.",
+    "Ka kasance da ra'ayin da ya dace na guje wa yin girma mai yawa"
+  ],
+  "source": [
+    "Media controller element",
+    "Gida mai kyau na kāre littattafai",
+    "Media controller element"
+  ]
 }

@@ -1,0 +1,86 @@
+{
+  "disease": "Sklerotinia Stem Rot",
+  "scientific_name": "Sklerotinia sclerotiorum",
+  "pathogen_type": "Pilze",
+  "description": "Sklerotinia Stammfäule ist eine Pilzkrankheit, die die Stiele vieler Kulturen angreift. Der Pilz produziert weiße baumwollartige Schimmel und schwarze Überlebensstrukturen namens Sklerotia. Infizierte Stiele werden weich, Fäulnis, und kann dazu führen, dass die Pflanze zusammenbrechen.",
+  "symptoms": [
+    "Wassergetränkte Läsionen an Stängeln",
+    "Weiche Fäule auf Stängeln in der Nähe der Bodenlinie",
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf Stängeln",
+    "Schwarze Samen-ähnliche Sklerotie im Inneren oder auf infizierten Stängeln",
+    "Wilting und Vergilbung der Blätter",
+    "Pflanzen kollabieren durch Stammzerfall"
+  ],
+  "visual_symptoms": [
+    "weiße flauschige Form auf Stängeln",
+    "weiche wässrige Stängelfäule",
+    "Schwarze harte Sklerotie im infizierten Gewebe",
+    "eingestürzte Pflanzen"
+  ],
+  "hosts": [
+    "Sojabohnen",
+    "Sonnenblume",
+    "Raps (Erdölraps)",
+    "Kopfsalat",
+    "Tomaten",
+    "Bohnen",
+    "Erbsen",
+    "Karotten",
+    "Gurken",
+    "Viele Pflanzen und Zierpflanzen"
+  ],
+  "plant_parts_affected": [
+    "Stängel",
+    "Blattläuse",
+    "Blätter",
+    "manchmal Früchte"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Häufiger Regen oder Bewässerung",
+    "Dichtes Pflanzendach",
+    "Schlechte Luftzirkulation"
+  ],
+  "spread": [
+    "Aus Apothezie freigesetzte Sporen in der Luft",
+    "Sklerotie, die im Boden überlebt",
+    "Infizierte Pflanzenabfälle",
+    "Wind- und Wasserspritzer"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt im Boden als Sklerotie seit mehreren Jahren",
+    "Sklerotie keimen und bilden Apothezie (kupenähnliche Strukturen)",
+    "Apothecia lösen Sporen in die Luft",
+    "Sporen infizieren Stängel oder Blätter bei nassen Bedingungen",
+    "Neue Sklerotien entwickeln sich auf infizierten Pflanzen und kehren in den Boden zurück"
+  ],
+  "impact": [
+    "Stammzerfall und Pflanzenkollaps",
+    "Verringerung des Nährstoff- und Wassertransports",
+    "Größere Ertragsverluste in anfälligen Kulturen"
+  ],
+  "cultural_control": [
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Verbesserung des Anlagenabstands und des Luftstroms",
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Ernterückstände nach der Ernte verwalten"
+  ],
+  "biological_control": [
+    "Verwenden Sie biologische Wirkstoffe wie Coniothyrium minitans",
+    "Nützliche Pilze wie Trichoderma-Arten anwenden"
+  ],
+  "chemical_control": [
+    "Fungizide anwenden, wenn Umweltbedingungen die Krankheit begünstigen",
+    "Verwenden Sie schützende Fungizid-Behandlungen in Hochrisiko-Zeiten"
+  ],
+  "prevention": [
+    "Vermeiden Sie dichte Pflanzung",
+    "Überwachen Sie die Kulturen regelmäßig während der kühlen und feuchten Perioden",
+    "Methoden des integrierten Seuchenmanagements anwenden"
+  ],
+  "source": [
+    "Fundstellen der Pflanzenpathologie",
+    "Leitfaden für den Umgang mit landwirtschaftlichen Krankheiten"
+  ]
+}

@@ -1,90 +1,90 @@
 {
-  "disease_name": "Corynespora Leaf Spot",
-  "causal_agent": "Corynespora cassiicola",
-  "disease_type": "Fungal",
-  "description": "Corynespora leaf spot is a destructive fungal disease affecting over 500 plant species, including economically important crops such as tobacco, tomato, cucumber, soybean, cotton, and rubber tree. Infection begins on lower or middle leaves, forming dark green water-soaked spots that turn brown and expand into large lesions. The pathogen can exist as a necrotroph, saprophyte, or endophyte, and thrives under high humidity and slightly acidic conditions.",
+  "disease_name": "Coryynespora Leaf 亮点",
+  "causal_agent": "Corynespora cassiicola(卡西米科拉)",
+  "disease_type": "",
+  "description": "Corynespora叶片是影响500多个植物物种的破坏性真菌病,包括重要经济作物,如烟草、番茄、黄瓜、大豆、棉花和橡胶树。 感染始于低叶或中叶,形成深绿的绿水渗漏点,将褐色变成大病,并发展成大病。 病原体可以作为坏疽、盐酸盐或内分泌物而存在,并在高湿度和微酸性条件下蓬勃发展。",
   "hosts": [
-    "Tobacco",
-    "Tomato",
-    "Cucumber",
-    "Soybean",
-    "Cotton",
-    "Rubber tree"
+    "烟草",
+    "番茄",
+    "黄瓜",
+    "豆类",
+    "棉花棉花",
+    "橡胶树"
   ],
   "symptoms": [
-    "Small dark green water-soaked spots on leaves",
-    "Spots gradually turn brown",
-    "Circular or irregular necrotic lesions",
-    "Lesions expand and merge forming large patches",
-    "Disease often begins on lower or middle leaves"
+    "叶子上小暗绿色绿水渗漏点",
+    "斑点逐渐变成棕色",
+    "循环或非正常坏坏性损伤",
+    "大型补丁的残值膨胀和合并",
+    "疾病通常始于低叶或中叶"
   ],
   "favorable_conditions": {
     "temperature_optimum": "25-30°C",
-    "temperature_range": "15-35°C",
-    "humidity": "High humidity (>90%) favors infection",
-    "pH_optimum": "Around 5.5"
+    "temperature_range": "15-35°C 15-35°C",
+    "humidity": "高湿度( > 90%)有利于感染",
+    "pH_optimum": "约5.5"
   },
   "biological_control": [
     {
-      "agent": "Bacillus subtilis",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces antifungal metabolites and inhibits fungal growth"
+      "agent": "Bacillus 亚基",
+      "type": "有益细菌",
+      "mode_of_action": "生产抗硫代谢代谢物并抑制真菌生长"
     },
     {
-      "agent": "Bacillus amyloliquefaciens",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces lipopeptides that damage fungal cell membranes"
+      "agent": "氨基氨基氨基辛基氨基辛基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基氨基",
+      "type": "有益细菌",
+      "mode_of_action": "生产可损害真菌细胞膜的脂类脂类杀虫剂"
     },
     {
-      "agent": "Trichoderma harzianum",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Mycoparasitism and competition with plant pathogens"
+      "agent": "三氯代尔马",
+      "type": "生物控制真菌",
+      "mode_of_action": "与植物病原体的遗传皮炎和竞争"
     },
     {
-      "agent": "Trichoderma viride",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Produces antifungal enzymes and secondary metabolites"
+      "agent": "三角体震动",
+      "type": "生物控制真菌",
+      "mode_of_action": "生产抗芬基酶和二级代谢物"
     }
   ],
   "chemical_control": {
     "fungicides": [
       {
-        "active_ingredient": "Mancozeb",
-        "type": "Contact fungicide",
-        "mode_of_action": "Prevents spore germination"
+        "active_ingredient": "红铜",
+        "type": "接触杀真菌杀菌剂",
+        "mode_of_action": "防止发孕"
       },
       {
-        "active_ingredient": "Chlorothalonil",
-        "type": "Protectant fungicide",
-        "mode_of_action": "Inhibits fungal growth on leaf surface"
+        "active_ingredient": "氯代烷基",
+        "type": "保护性杀真菌杀菌剂",
+        "mode_of_action": "树叶表面的真菌生长"
       },
       {
-        "active_ingredient": "Azoxystrobin",
-        "type": "QoI fungicide",
-        "mode_of_action": "Inhibits mitochondrial respiration"
+        "active_ingredient": "Aoxoxystrobin 氧氧基苯",
+        "type": "科伊杀真菌剂",
+        "mode_of_action": "线粒体呼吸"
       },
       {
-        "active_ingredient": "Difenoconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Inhibits sterol biosynthesis"
+        "active_ingredient": "迪夫诺科诺阿诺",
+        "type": "三联苯杀真菌杀菌剂",
+        "mode_of_action": "乙醇生物合成"
       },
       {
-        "active_ingredient": "Tebuconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Blocks ergosterol synthesis"
+        "active_ingredient": "Tebuconazole 炸药",
+        "type": "三联苯杀真菌杀菌剂",
+        "mode_of_action": "聚氨酯醇合成"
       },
       {
-        "active_ingredient": "Carbendazim",
-        "type": "Systemic fungicide",
-        "mode_of_action": "Disrupts fungal cell division"
+        "active_ingredient": "卡尔本达齐姆",
+        "type": "系统杀真菌杀菌剂",
+        "mode_of_action": "破坏真菌细胞分部"
       }
     ]
   },
   "management_notes": [
-    "Use resistant cultivars when available",
-    "Rotate fungicides with different modes of action to prevent resistance",
-    "Avoid prolonged leaf wetness",
-    "Remove infected plant debris",
-    "Use integrated disease management strategies"
+    "如有抗药性栽培品种,使用",
+    "以不同行动方式旋转杀真菌杀菌剂以防止抗药性",
+    "避免延长叶叶湿度",
+    "清除受感染植物碎片",
+    "使用综合疾病管理战略"
   ]
 }

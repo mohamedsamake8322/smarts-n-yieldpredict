@@ -1,54 +1,54 @@
 {
- "disease": "Fall Armyworm Larva",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (larval stage)",
- "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
- "symptoms": [
-  "Caterpillars feeding inside maize whorl",
-  "Large chewing damage on leaves",
-  "Presence of dark frass near feeding areas",
-  "Leaves shredded or skeletonized"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm humid climates",
-  "Dense crop fields",
-  "Abundant host plants"
- ],
- "spread": [
-  "Egg masses hatch into larvae on plant leaves",
-  "Larvae crawl to nearby plants",
-  "Spread from infested fields"
- ],
- "management": [
-  "Scout fields regularly for larvae",
-  "Crush egg masses and young larvae",
-  "Apply biological or chemical control early"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt)",
-  "Beauveria bassiana",
-  "Trichogramma parasitoids"
- ],
- "chemical_control": [
-  "Emamectin benzoate",
-  "Spinosad",
-  "Chlorantraniliprole"
- ],
- "prevention": [
-  "Early detection in maize whorl",
-  "Use resistant crop varieties",
-  "Crop rotation"
- ],
- "source": [
-  "FAO",
-  "CABI"
- ]
+  "disease": "1 مُرْكِب",
+  "scientific_name": "سابعاً -",
+  "pathogen_type": "الحشرة (المرحلة اللصفرة)",
+  "description": "ان اليرقات هي المرحلة المدمِّرة لدودة الجيش في الخريف ، وهي تتغذّى بشجاعة على اوراق المحاصيل ويمكن ان تدمِّر النباتات بسرعة .",
+  "symptoms": [
+    "تغذّي داخل اليرمل",
+    "تلف كبير في أوراق المضغ",
+    "وجود مناطق للتغذية بالفتحات المظلمة",
+    "الأوراق المالية الممزقة أو المهزومة"
+  ],
+  "hosts": [
+    "",
+    "",
+    "سُرْج هوجم",
+    "المققدم",
+    "",
+    "الخضرس"
+  ],
+  "favorable_conditions": [
+    "المناخات الرطبة",
+    "حقول المحاصيل",
+    "النباتات المستضافة"
+  ],
+  "spread": [
+    "يُفقسُ كُتُلًا إلى اليرقاتِ على أوراقِ النباتاتِ",
+    "الزحف إلى النباتات المجاورة",
+    "من الحقول الموبأة"
+  ],
+  "management": [
+    "ميادين الكشافة بانتظام لليرقات",
+    "كُلّ الناس و اليرقات الشابة",
+    "تطبيق الرقابة البيولوجية أو الكيميائية في وقت مبكر"
+  ],
+  "biological_control": [
+    "Bacylus thururigsis (Bt)",
+    "بيوفيريا باسيان(أ)",
+    "Tri"
+  ],
+  "chemical_control": [
+    "المُنْكِتَل",
+    "((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+    "كلورانان يسيل"
+  ],
+  "prevention": [
+    "الكشف المبكر بالذرة",
+    "الأصناف المُسِكِة للمُسِيَز",
+    "المُنْكِل"
+  ],
+  "source": [
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+    "ا قبل انججاب"
+  ]
 }

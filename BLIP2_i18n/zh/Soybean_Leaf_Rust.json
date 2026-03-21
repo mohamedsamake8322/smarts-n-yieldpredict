@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
-  "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "pest_name": "索比亚利夫鲁斯特",
+  "scientific_name": "帕切尔希齐",
+  "common_name": "索贝鲁斯特",
+  "description": "黄豆生锈是真菌Phakopsora pachyrhizi引起的大豆病,在有利的条件下会造成严重的产量损失。",
+  "distribution": "原产于亚洲;在美国,2004年首次在南方发现,每个生长季节向北蔓延。",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "Glycine 最大(索伊贝)",
+    "other_hosts": "未具体说明; 强制使病原体仅靠绿色宿主组织生存"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "低叶表面的灰色小斑点,变棕或红褐色",
+      "散布在黄光堂中的遗迹",
+      "在释放出日晒粒子的损害中形成聚聚物(散状物)",
+      "难以与其他叶叶病区分的早期症状"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "骨和骨可能出现在粒子和根上"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "在育龄期开花后最常见"
   },
   "conditions_favoring_disease": {
-    "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "temperature": "59-85°F(15-29°C)",
+    "humidity": "高湿湿度( > 75%)",
+    "weather": "湿天气的延长期",
+    "plant_stage": "育龄阶段,在开花和播花室发育后"
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "蘑菇",
+    "species": [
+      "帕切尔希齐",
+      "Phakopsora meibomiae(微生物病原体,未造成重大产量损失)"
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "在南部各州和墨西哥的绿色活组织上;每个季节由风向北吹散的微粒",
+    "infection": "先在下叶叶叶上发展,可以扩散到粒子和根"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "叶斑和除叶",
+    "在有利条件下超过50%的产量损失"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "每周童子军下层树冠每周,特别是在湿天气下",
+      "文化习俗的效果有限"
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "及早或感染后立即使用叶子杀真菌剂"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "正在开发耐生锈的豆类品种"
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "黄豆生锈需要每年重复向北传播每年一次,以在北部地区造成流行病",
+    "P.pachyrhizi是一种侵略性病原体,造成重大产量损失;P. meibomiae是温和的,在美国大陆尚未报告。"
   ]
 }

@@ -1,74 +1,74 @@
 {
-  "disease": "Apple Scab",
-  "scientific_name": "Venturia inaequalis",
-  "description": "Apple scab is a common fungal disease of plants in the Rosaceae family, particularly Malus species (apple and crabapple). It causes dark, irregular lesions on leaves, blossoms, and fruits, leading to fruit deformation, premature leaf and fruit drop, and potential crop losses up to 70%. The disease rarely kills the host but reduces yield and quality significantly.",
+  "disease": "苹果飞碟",
+  "scientific_name": "Venturia 不平等性",
+  "description": "苹果碳是罗萨塞亚家族常见的植物真菌病,特别是马鲁斯物种(苹果和螃蟹),它导致叶子、花卉和水果的黑暗、非正常损伤,导致水果变形、早产叶子和水果下降,以及高达70%的作物损失。 这种疾病很少会杀死宿主,但会显著降低产量和质量。",
   "hosts": [
-    "Malus spp. (apple, crabapple)",
-    "Sorbus spp.",
-    "Cotoneaster spp.",
-    "Pyrus spp."
+    "(苹果、螃蟹)",
+    "索布斯・塞普",
+    "科东斯特斯普",
+    "皮鲁斯・塞普"
   ],
   "symptoms_and_damage": [
-    "Leaves: velvety-brown to olive-green spots with distinct margins, often cupping underside of leaf",
-    "Older leaves: raised dark-green to gray-brown lesions causing cupping and leaf curl",
-    "Fruits: small black spots that become brown, corky, and scabby",
-    "Fruit deformation and premature drop",
-    "Increases susceptibility to secondary infections and abiotic stress"
+    "叶子:向有不同边缘的橄榄绿点,经常在叶子的下端遮盖",
+    "年长的叶叶: 高高的深绿色至灰褐色的损伤,导致结斗和树叶卷",
+    "水果:变成棕色、软软和的黑小黑斑点",
+    "水果变形和早产",
+    "增加二次感染和非生物压力的易感性"
   ],
   "disease_cycle": [
-    "Overwinters in leaf litter and infected plant debris as pseudothecia",
-    "Early spring: cool, moist conditions trigger release of sexual ascospores",
-    "Spores are spread by wind and splashing water to leaves and blossoms",
-    "Tissue penetration occurs via germ tube or appressorium",
-    "Light-green lesions develop, darken, and expand; fruit lesions become corky",
-    "Within 10 days, asexual conidia form for secondary infections",
-    "Cycle may repeat every 1–2 weeks under favorable conditions",
-    "At season end, infected leaves and fruit fall, forming pseudothecia for next season"
+    "叶子垃圾和被感染植物碎片的双赢者",
+    "早期春春:凉爽潮湿的条件引发性食肉动物的释放",
+    "风吹散了喷泉,喷水流向叶子和花朵",
+    "组织通过细菌管或电容器插入",
+    "浅绿色损害发展、变暗和膨胀;水果损害变得软软",
+    "10天内,二级感染无性性共患形式10天之内",
+    "在有利的条件下,周期可以每1-2周重复一次,每1-2周重复一次",
+    "季节末,受感染的叶叶和水果落下,形成下一季节的假花"
   ],
   "favorable_conditions": [
-    "Cool and moist weather during spore release",
-    "Abundant rainfall",
-    "Dense tree canopy that slows leaf drying"
+    "释放时的寒冷潮湿天气",
+    "大量降雨量",
+    "枯树树冠延缓干叶叶的干燥"
   ],
   "prevention_and_cultural_controls": [
-    "Select sunny planting sites to improve air circulation",
-    "Remove and destroy fruit drops, leaf litter, and prunings to reduce inoculum",
-    "Regular pruning to open canopy for rapid drying",
-    "After harvest, apply 5% urea solution prior to leaf fall to accelerate decomposition",
-    "Avoid overhead irrigation during spore release periods"
+    "选择阳光明阳的种植地点,以改善空气循环",
+    "清除和销毁水果滴、叶叶叶和补犁,以减少接种",
+    "为快速干燥而打开树冠的常规修剪",
+    "收获后,在叶叶落叶之前应用5%的尿素溶液加速分解",
+    "避免在石油释放期进行高空灌溉"
   ],
   "chemical_control": [
-    "Spray Mancozeb @ 2 g/l of water, repeat 2–3 times at 7-day intervals; WHO Class U, PHI 14–28 days, FRAC MO3",
-    "Spray Carbendazim 50% WP @ 2 g/l at early flowering; WHO Class U, PHI 14 days",
-    "Follow product label instructions, rotate modes of action to prevent resistance"
+    "喷雾Mancozeb @ 2克/升水,每7天重复2-3次7天;卫生组织U级,PHI 14-28天,FRAC MO3",
+    "早期开花时喷雾 Carbenddazim 50% WP @ 2克/升;世卫组织U级,PHI 14天",
+    "遵循产品标签说明、循环行动模式以防止抗药性"
   ],
   "biological_control": [
-    "Bacillus subtilis @ 50 ml/ropani (e.g., Serenade Opti) before/during rainy season",
-    "Trichoderma harzianum 100 ml/ropani under high-risk conditions",
-    "Fungal antagonist Cladosporium cladosporioides strain H39 reduces leaf scab 42–98% and fruit scab 41–94%"
+    "Bacillus suditilis @ 50毫升/ropani(例如,Serenade Opti) 雨季之前/期间",
+    "高危条件下100毫升/罗帕尼",
+    "H39菌株 减少叶子42-98% 减少42-98% 减少41-94% 减少41-94% 减少41-94%"
   ],
   "resistance_breeding": [
-    "PRI Apple Breeding Program developed 1500 resistant cultivars; examples: 'Prima', 'Jonafree', 'Goldrush'",
-    "Fifteen resistance genes identified; Vf (Rvi6) gene widely studied",
-    "Resistance genes derived from wild Malus spp. in East Asia",
-    "Potential for transgenic cultivars, but adoption is limited due to market acceptance and pathogen evolution"
+    "PRI 苹果育种方案开发了1500种抗药性栽培品种;例如:“Prima”、“Jonafree”、“Goldrush”",
+    "确定了15种抗药性基因;对Vf(Rvi6)基因进行了广泛研究",
+    "东亚来自野生马路的抗药性基因",
+    "转基因栽种的潜力,但由于市场接受度和病原体演变,采用的可能性有限"
   ],
   "monitoring": [
-    "Inspect leaves for velvety-brown to olive-green spots",
-    "Monitor older leaves for raised gray-brown lesions",
-    "Check fallen leaves for curled and shriveled tissue",
-    "Observe fruits for black spots developing into scabs"
+    "用于橄榄绿点的天鹅绒褐色树叶",
+    "监测长年的白褐色病变树叶",
+    "检查掉落的叶子 以检查卷结和结结组织",
+    "观察黑斑的水果发展成石斑"
   ],
   "direct_control_and_restrictions": [
-    "Remove and dispose of severely infected plant parts in a pit at least 30 cm deep",
-    "Prune trees to improve leaf drying after rain",
-    "Wear protective clothing when using pesticides",
-    "Avoid repeated use of chemicals with same mode of action"
+    "在至少30厘米深的坑中清除和处置严重受感染的植物部件",
+    "种植树木,改善雨后干枯的叶叶叶",
+    "使用农药时穿戴防护服",
+    "避免以同样行动方式重复使用化学品"
   ],
   "sources": [
-    "Wikipedia – Apple Scab",
-    "Plant Pest Management Literature",
-    "Integrated Pest Management (IPM) references",
-    "PRI Apple Breeding Program, Purdue University, Rutgers University, University of Illinois"
+    "维基百科 — — 苹果飞碟",
+    "植物害虫防治文献",
+    "虫害综合综合防治(IPM)参考文献",
+    "PRI 苹果育种方案,普鲁杜大学,拉特格斯大学,伊利诺伊大学"
   ]
 }

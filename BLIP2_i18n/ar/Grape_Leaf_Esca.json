@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "النكس",
+  "scientific_name": "Phaeomomonniella chlamedospora, Phioacremonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Fungos (معقدة لأمراض خشبية - حلكية)",
+  "description": "وَمَاذَا يَنْبَغِي أَنْ نَتَعَلَّمَ مِنَ ٱلْأَسْفَارِ ٱلْمُقَدَّسَةِ أَنْ نُحَافِظَ عَلَى ٱلْأَسْفَارِ ٱلْمُقَدَّسَةِ ؟",
+  "symptoms": [
+    "أنماط النمـر - الترتيـب علـى أوراق الشوارق",
+    "التصريف والحرق من الحواف",
+    "الحد الأدنى من النمو والضعف في إطلاق النار",
+    "المظلمات داخل الخشب",
+    "تَعَرُّضُ الإسبنجيُ الأبيضُ الأبيضُ داخل الصندوقِ",
+    "أو موت أو موت أعرام (apospulgy)"
+  ],
+  "hosts": [
+    "جرفين (Vitis vinifera)",
+    "الطنب",
+    "العنوبات التي تَنَفُ",
+    ""
+  ],
+  "favorable_conditions": [
+    "كَثَم ط ط ط ط ط ط ط ط ط ط ط/ ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط",
+    "جُرْدَع تسمح بالدخول إلى المفت",
+    "الظروف الدافئة أثناء الموسم",
+    ""
+  ],
+  "spread": [
+    "بوادر مهينة تدخل من خلال",
+    "مواد الزرع المُعدية",
+    "أدوات النبذ المزززززز المزد"
+  ],
+  "management": [
+    "(أ) إزالة وتدمير ما يلي:",
+    "بروان أثناء الطقس الجاف",
+    "حماية الجروح المكسكة بالحجج",
+    "استخدام المواد الزراعية المصحية والمرخصة",
+    "المراوغات الكبيرة التي تحكّر"
+  ],
+  "biological_control": [
+    "المنتجات القائمة على التريشودرمة المستخدمة في تجسير الجروح",
+    "المهرجي النافع لمنع الاستعمار المرضي"
+  ],
+  "chemical_control": [
+    "حماية الجرحى من المبيدات الفطرية بعد الفرز",
+    "العلاجات الواقية القائمة على أساس الأساس"
+  ],
+  "prevention": [
+    "أدوات التصفيات المطهرات",
+    "استخدام الكرم الخالية من الأمراض المعتمدة",
+    "(ج) حماية الجروح التي تُقَيِّم مباشرة بعد التخلُّص",
+    ""
+  ],
+  "source": [
+    "دليل الأمراض الأساسية",
+    "منظمة الأمم المتحدة للأغذية والزراعة",
+    "مادة علم الأمراض الحيوية"
+  ]
 }

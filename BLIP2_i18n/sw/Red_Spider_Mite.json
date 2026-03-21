@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "Mto wa Mto wa Mto wa Red",
+  "scientific_name": "Tetranychus urticae (na aina zinazohusiana ya spider mite)",
+  "pathogen_type": "Mipango ya Mipango (Mipango)",
+  "description": "Mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita ya mita.",
+  "symptoms": [
+    "Maonyesho ya nyekundu au nyekundu juu ya nyekundu (kutafsiri)",
+    "Unaweza kupoteza rangi yao ya kijani",
+    "Maua ya maua ya maua ya maua ya maua ya maua ya maua ya maua ya maua ya maua",
+    "Maonyesho ya kuongezeka kwa nyekundu au brune",
+    "Mafuta ya kuogea na kuanguka",
+    "Matokeo ya matunda ya matunda au matunda ya matunda ya matunda"
+  ],
+  "hosts": [
+    "Mji wa Tomato",
+    "ya Strawberry",
+    "ya Bean",
+    "ya Cucumber",
+    "Pepsi ya",
+    "Mipango ya Egg",
+    "Mji wa Apple",
+    "ya Citrus",
+    "ya Grapevine",
+    "Baadhi ya Cotton",
+    "Maisha ya",
+    "Maji ya Ornamental",
+    "Mazao ya Greenhouse"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Matokeo ya Kusimamia",
+    "Ukosefu wa chini",
+    "Mabadiliko ya mazingira ya mimea",
+    "Matokeo ya hali ya hewa"
+  ],
+  "spread": [
+    "Mafuriko ya",
+    "Mabadiliko ya mimea yaliyoathiriwa",
+    "Vitu vyote ambavyo vyote ambavyo vyote ambavyo vyote ambavyo vyote ambavyo vyote ambavyo vyote ambavyo",
+    "Mawasiliano ya mimea-mimea"
+  ],
+  "impact": [
+    "Kupunguza photosynthesis",
+    "Uharibifu wa Leaf",
+    "Kupunguza uzalishaji wa mimea",
+    "Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo",
+    "Ukosefu wa mimea au kifo katika matibabu makubwa"
+  ],
+  "cultural_control": [
+    "Kuongezeka kwa umeme karibu na mimea",
+    "Mara kwa mara kuondoa mimea na maji",
+    "Kuondoa nyama au mimea yaliyoathiriwa sana",
+    "Matunda ya kutosha ya mimea na wanyama",
+    "Kuepuka hali ya udongo katika maeneo au greenhouses"
+  ],
+  "biological_control": [
+    "Matokeo ya Phytoseiulus persimilis",
+    "Mita ya Amblyseius californicus",
+    "Maisha ya Feltiella acarisuga",
+    "Wawakilishi wa Wawakilishi (Wawakilishi wa Wawakilishi)",
+    "Maua ya kijani ya larvae",
+    "Maisha ya Fungus Beauveria Bassiana"
+  ],
+  "chemical_control": [
+    "Tumia mafuta ya",
+    "Miticides au acaricides wakati infestations ni ngumu",
+    "Matumizi ya pesticides yanayohusiana na usimamizi wa biological"
+  ],
+  "prevention": [
+    "Mchakato huondoa mara kwa mara na lens ya mkono",
+    "Kuhifadhi usafishaji mzuri na umeme",
+    "Kuondoa mbegu ya mimea baada ya kukua",
+    "Matumizi ya Utawala wa Maisha ya Integra (IPM)"
+  ],
+  "source": [
+    "Mchakato wa BioProtection",
+    "Utawala wa mbegu za kilimo"
+  ]
 }

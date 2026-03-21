@@ -1,68 +1,68 @@
 {
- "pest": "Fruit Bollworm",
- "scientific_name": "Helicoverpa armigera",
- "pathogen_type": "Insect (Lepidoptera moth larva)",
- "description": "A highly destructive caterpillar pest found in tropical and subtropical regions. The larvae feed on leaves, flowers, and fruits of many crops, especially tomato and cotton, causing major yield losses.",
- "symptoms": [
-  "Small holes on young leaves caused by early larvae feeding",
-  "Small entry holes on fruits, often near the stalk",
-  "Caterpillars feeding inside fruits",
-  "Damaged or mined fruits with internal feeding",
-  "Fruits stop growing, ripen early, and drop from the plant",
-  "Damaged flowers and pierced seed pods in legumes"
- ],
- "hosts": [
-  "Tomato",
-  "Cotton",
-  "Sorghum",
-  "Sweet corn",
-  "Beans",
-  "Soybean",
-  "Tobacco",
-  "Sunflower",
-  "Melon",
-  "Various fruit crops"
- ],
- "favorable_conditions": [
-  "Warm tropical and subtropical climates",
-  "High availability of host crops",
-  "Greenhouse conditions for tomato production"
- ],
- "spread": [
-  "Adult moths laying eggs on leaves and fruits",
-  "Larvae moving between nearby plants",
-  "Migration of adult moths between crop fields"
- ],
- "management": [
-  "Regular monitoring of crops for eggs and young larvae",
-  "Remove and destroy infested fruits",
-  "Use pheromone traps to monitor moth populations",
-  "Encourage natural predators and parasitoids",
-  "Use resistant or tolerant crop varieties when available"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt) bioinsecticide sprays",
-  "Release of parasitoid wasps such as Trichogramma species",
-  "Predators such as lady beetles, lacewings, and birds",
-  "Entomopathogenic fungi like Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Indoxacarb",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin (use with resistance management)"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Field sanitation and removal of crop residues",
-  "Use pheromone traps for early detection",
-  "Install insect netting in greenhouses",
-  "Maintain balanced fertilization to avoid excessive plant growth"
- ],
- "source": [
-  "Agricultural pest management guides",
-  "Greenhouse crop protection literature",
-  "Helicoverpa armigera pest management references"
- ]
+  "pest": "Tordeuse des fruits",
+  "scientific_name": "Hélicoverpa armigera",
+  "pathogen_type": "Insecte (Lepidoptera mith larva)",
+  "description": "Les larves se nourrissent de feuilles, de fleurs et de fruits de nombreuses cultures, en particulier de tomates et de coton, causant des pertes de rendement importantes.",
+  "symptoms": [
+    "Petits trous sur les jeunes feuilles causés par l'alimentation précoce des larves",
+    "Petits trous d'entrée sur les fruits, souvent près de la tige",
+    "Les chenilles qui se nourrissent à l'intérieur des fruits",
+    "Fruits endommagés ou extraits avec alimentation interne",
+    "Les fruits cessent de pousser, mûrissent tôt et tombent de la plante.",
+    "Fleurs endommagées et gousses de graines percées dans les légumineuses"
+  ],
+  "hosts": [
+    "Tomates",
+    "Coton",
+    "Sorgho",
+    "Maïs doux",
+    "Haricots",
+    "Soja",
+    "Tabac",
+    "Tournesol",
+    "Mélône",
+    "Diverses cultures fruitières"
+  ],
+  "favorable_conditions": [
+    "Climats tropicaux et subtropicaux chauds",
+    "Disponibilité élevée des cultures hôtes",
+    "Conditions de serre pour la production de tomates"
+  ],
+  "spread": [
+    "Les adultes pondent des œufs sur les feuilles et les fruits",
+    "Les larves se déplacent entre les plantes voisines",
+    "Migration des papillons de nuit adultes entre les champs de cultures"
+  ],
+  "management": [
+    "Surveillance régulière des cultures d'œufs et de jeunes larves",
+    "Enlever et détruire les fruits infestés",
+    "Utiliser des pièges à phéromone pour surveiller les populations de papillons nocturnes",
+    "Encourager les prédateurs naturels et les parasitoïdes",
+    "Utiliser des variétés de cultures résistantes ou tolérantes lorsqu'elles sont disponibles"
+  ],
+  "biological_control": [
+    "Vaporisateurs de bioinsecticides de Bacillus thuringiensis (Bt)",
+    "Libération des guêpes parasitoïdes telles que les espèces de Trichogramma",
+    "Prédateurs tels que les coccinelles, les lacets et les oiseaux",
+    "Champignons entomopathogènes comme Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Spinosad",
+    "benzoate d' emamectine",
+    "Indoxacarbe",
+    "Chlorantraniliprole",
+    "Lambda-cyhalothrine (utilisation avec gestion de la résistance)"
+  ],
+  "prevention": [
+    "Rotation des cultures avec les cultures non hôtes",
+    "Assainissement des champs et élimination des résidus de cultures",
+    "Utiliser des pièges à phéromone pour la détection précoce",
+    "Installer le filet d'insectes dans les serres",
+    "Maintenir une fertilisation équilibrée pour éviter une croissance excessive des plantes"
+  ],
+  "source": [
+    "Guides de lutte antiparasitaire agricole",
+    "Documentation sur la protection des cultures de serre",
+    "Helicoverpa armigera références en matière de lutte antiparasitaire"
+  ]
 }

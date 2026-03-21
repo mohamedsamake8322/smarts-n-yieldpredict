@@ -1,0 +1,84 @@
+{
+  "pest_name": "Cogton Bollll",
+  "scientific_name": "Ngwá agha ndị nwere nje ndị na - akpata ọrịa bụ́ ndị e ji aka mee",
+  "pest_type": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "description": "Onye France na-ahụ maka gburugburu Africa, Europe, Eshia, Australia, na Ebe Ndịda America. Oge nri na-agba akwụkwọ, oge okooko osisi, mkpụrụ osisi, na mkpụrụ akụ́kụ́, na ọtụtụ ihe ọkụkụ, nwere ike ịkpatara mmadụ oké mfu. O nwere ike ime ka ọtụtụ ọgbọ too ngwa ngwa, mee ka ihu igwe na - ekpo ọkụ, meekwa ka ihu igwe na - ekpo ọkụ kwa afọ.",
+  "hosts": [
+    "Zuon",
+    "AGBOR 1 (Bekee)",
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "Chickpea",
+    "Playana",
+    "NEPA",
+    "Sorghum",
+    "Tlapea",
+    "Sobon",
+    "Plato",
+    "Okra",
+    "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+    "_Hichaa"
+  ],
+  "symptoms": [
+    "Ihe ndị e sere n'akwụkwọ osisi na okooko osisi",
+    "Ọ na - esi ike inweta mkpụrụ osisi ma ọ bụ ihe ndị e ji esi nri",
+    "Mkpụrụ osisi ma ọ bụ okooko osisi na - eto nke ọma",
+    "A na - eji ogho a tụrụ atụ eme ka ọ na - emepụta ezigbo okooko osisi ndị mara mma",
+    "Mkpụrụ osisi ma ọ bụ mkpụrụ akụ́kụ́ na - amị ma ọ bụ mkpụrụ akụ́kụ́"
+  ],
+  "life_cycle": {
+    "eggs": "A na-eji akwụkwọ, okooko osisi, okooko osisi ma ọ bụ mkpụrụ osisi chọọ àkwá mma.",
+    "larvae": "Mmiri dị n'ime ala na - eri ihe oriri ruo ụbọchị 196 site n'ọtụtụ ụyọkọ kpakpando ma na - ebibi isi ihe ọkụkụ ahụ.",
+    "pupae": "Mmiri na - ezonụ na - ezo n'ala ma ọ bụ n'ala ahịhịa; mmiri na - ezonụ na - ezo n'ebe ihu igwe na - ekpo ọkụ.",
+    "adults": "Ndị toworo eto bụ nla na - acha nchara nchara nke nwere nku dị ihe dị ka sentimita 3.5 n'ogologo ma na - ebi ndụ ihe dị ka ụbọchị 10.",
+    "generations_per_year": "Ihe ruru ọgbọ 11 kwa afọ n'ebe okpomọkụ ụwa."
+  },
+  "economic_significance": "Ihe ndị na - egbu egbu na - akpata mfu dị ukwuu nke ihe ndị na - ala n'iyi n'ime ogho, tomato, mkpụrụ akụ́kụ́, mkpụrụ akụ́kụ́ na ihe ọkụkụ ndị ọzọ.",
+  "management": {
+    "monitoring": [
+      "Imechi àkwá anya, ịtanye anụ, na imebi ihe n'ahụ́ ụmụ anụmanụ",
+      "Jiri ọnyà ndị na - esi ísì ọma na - enyocha ọnụ ọgụgụ ndị toworo eto",
+      "Ọnyà ndị na - agbapụ obere mgbọ pụkwara inyere gị aka ịchọpụta ihe nla"
+    ],
+    "cultural_control": [
+      "Tinyere ihe ọkụkụ ndị na-enweghị isi",
+      "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na ata",
+      "Ime ka ihe ubi na - aga n'ihu n'ihu mgbe o bibisịrị ya iji bibie ihe a kụrụ akụ",
+      "Jiri ihe ọkụkụ ndị na - esi ísì ọma dị ka ihe ndị na - eme ka anwụ na - acha ma ọ bụ ihe ndị na - esi ísì ọma mee ihe"
+    ],
+    "mechanical_control": [
+      "Iji aka na - egbu ma na - ebibi okooko osisi na àkwá",
+      "Iji ọnyà na ihe mgbochi elu ahụ́ eme ihe",
+      "Mkpụrụ osisi ma ọ bụ ihe ọkụkụ dị iche iche na - amị mkpụrụ n'ụba"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Ndị na - ahazi ngwá agha ọgwụrụ mba (HaNNVV)",
+        "Ọtụtụ ụdị dị iche iche na - achọ mma n'ahụ́ ha",
+        "E nwere otu nwa agbọghọ aha ya bụ Aịzaa. Ya na di ya dị n'ezigbo mma."
+      ],
+      "macroorganisms": [
+        "Trich Blanama bu ụzọ (egggllllsiry bụp)",
+        "Nne ịnyịnya ibu ọhịa (nke na - acha akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ)"
+      ]
+    },
+    "chemical_control": {
+      "note": "E kwesịrị iji njide onwe onye mee ihe dị ka akụkụ nke Ụlọ Ọrụ Na - ahụ Maka Akụ̀ na Ụba (M) nakwa nanị mgbe ọnụ ọgụgụ ndị na - anwụ n'ihi ọnọdụ akụ̀ na ụba karịrị nke akụ̀ na ụba.",
+      "active_ingredients": [
+        "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+        "Emacctin",
+        "Iji ụgbọ mmiri na - akwọ ụgbọ epeepe",
+        "Nwa Atụrụ bụ́da-mimemsium",
+        "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya."
+      ]
+    },
+    "genetic_control": [
+      "Otú e si emepụta ogho na - egosi na e nwere ihe na - eme ka ahụ́ mmadụ ghara ịna - arụ ọrụ nke ọma, nakwa na ọ na - eme ka ahụ́ mmadụ ghara ịna - arụ ọrụ nke ọma."
+    ]
+  },
+  "references": [
+    "AGBOR 7 (Bekee)",
+    "Akwụkwọ bụ́ The Freepa Encyclopedia, kwuru, sị: \"E nwere ndị na - anaghị achọ iji ntị anụ ihe ha na - ekwu. \"",
+    "Òtù Ndị Na - ahụ Maka Ọrịa Ụmụaka na United States, bụ́ ndị na - agwọ nanị otu ụdị ọrịa na - efe efe, na - ekwu, sị: \"Ọ bụrụ na mmadụ na - arịa ọrịa na - efe efe, ọ ga - eme ka ahụ́ ruo onye ahụ ala. \"",
+    "Na - emepụta Ihe Ọmụma Amamihe Dị na Ya n'Ụlọ Akụ̀ Ndị Dị n'Ime Ala"
+  ]
+}

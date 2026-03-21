@@ -1,0 +1,72 @@
+{
+  "disease": "Ihe Na - akpali Agụụ Mmekọahụ n'Ụzọ Na - enweghị Isi",
+  "scientific_name": "Eisila ụgbọala e ji ebu ndị njem, ndị bu nje bacteria na - akpata, bụ́ ndị dị n'ime ahụ́ ọkụ, na ndị ha na nje bacteria na - akpata",
+  "pathogen_type": "Ụchà dọ́ọ̀kụ̀",
+  "description": "Ọrịa nje bacteria bụ́ nke na - akpata mmetọ dị nro, bụ́ nke na - eme ka mmiri dị n'ime nsị nakwa n'ihe ọkụkụ ndị ọzọ na - asọ asọ, na - apụta mgbe mgbe n'ebe dị nso n'ihe ubi ma ọ bụ n'oge a na - echekwa ha, na - emekwa ka ezé ghara imebi ngwa ngwa.",
+  "symptoms": [
+    "Akwụkwọ ya ndị na - eto eto na - aghọ ihe na - adịghị ihe ha bụ, ihe e ji esiji ákwà na ihe e ji esiji ákwà",
+    "N'ihi ya, ihe ọ̀tụ̀tụ̀ mmiri dị n'ime ala nke ihe ọ̀tụ̀tụ̀ shuga dị n'ime ala",
+    "Ihe ndị na - alụso nje HIV ọgụ na - eme ka ahụ́ mmadụ ghara ịrụ ọrụ nke ọma",
+    "Brown Na - abanye n'Ime Ụlọ",
+    "Agụ Iyi na - aghọ ihe na - esighị ike na ihe rere ure",
+    "Ajọ ifufe na oké mmiri ozuzo na - esi n'olu oké osimiri apụta"
+  ],
+  "hosts": [
+    "Ebe emeredịkachọrọ",
+    "Goot",
+    "[ Ihe e dere n'ala ala peeji]",
+    "Leek",
+    "Chive",
+    "Inwe Ihe Ịga nke Ọma n'Ahụ́ Mmadụ",
+    "Ụdị dị iche iche nke mmiri ọgwụ ahụ́"
+  ],
+  "favorable_conditions": [
+    "Mmiri Na - ezo n'Oge Ochie",
+    "Mmiri dị n'ime ala ma ọ bụ ala na - adịghị mma",
+    "A na - eji akwụkwọ nri ma ọ bụ akwụkwọ osisi akpa ya",
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ nke dị n'agbata 20 na 30°C",
+    "Nnukwu ihe mgbochi mgbe a na - echekwa ya"
+  ],
+  "spread": [
+    "Ihe ndị e ji akụ osisi bụ́ ndị a pịrị apị",
+    "Ala e tere ágbá",
+    "Ebe ndị a na - edebe ihe ọmụma n'Intanet",
+    "Mmiri pọmpụ na mmiri pọmpụ",
+    "Ucha mgbasaozi na",
+    "Mgbe a na - awa ahụ́ n'ubi, mmerụ ahụ́ ndị a na - enwe mgbe a na - awa ahụ́"
+  ],
+  "management": [
+    "Jiri ọrịa a na-amaghị ama pịa ebe a na-amaghị́ọ̀pụ̀",
+    "Zere mmerụ ahụ́ mgbe ị na - akụ ma na - ewe ihe ubi",
+    "Jiri ịgba ala mmiri na - eme ihe kama ịdị na - agba ala mmiri n'elu ọnụ",
+    "Kwe ka ihe ndị i kwesịrị itozu okè tupu oge owuwe ihe ubi eruo",
+    "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+    "Nọgide Na - enwe Echiche Ziri Ezi",
+    "Mmiri ọgwụ ahụ́ ndị dị n'ọ̀tụ̀tụ̀ ịjụ oyi na ọ̀tụ̀tụ̀ dị ala",
+    "Jiri òtù nzuzo ndị na - akwado okpukpe mee ihe"
+  ],
+  "biological_control": [
+    "Na - agba ụmụ nje ndị bara uru ume site n'ilekọta ụmụ irighiri ihe ndị si n'okike",
+    "Jiri ihe ndị nwere nje ndị na - akpata ọrịa, dị ka ihe ndị e ji agwọ ọrịa, mee ihe n'ụzọ ga - eme ka ahụ́ ghara iru mmadụ ala",
+    "Ime ka ala gbasie ike iji belata nje bacteria"
+  ],
+  "chemical_control": [
+    "Anadu-obere ihe ndị dị ka ọla kọpa na-eme ka o sie ike",
+    "Kocide 2000",
+    "Makocide",
+    "A na - eji mmiri ọgwụ ahụ́ bụ́ hormone eme ihe mgbe nile iji belata uto nke ọrịa"
+  ],
+  "prevention": [
+    "Mkpụrụ akụ́kụ́ ndị a haziri nke ọma na-enweghị isi ma ọ bụ mkpụrụ akụ́kụ́",
+    "Ekwela ka mmiri dọrọ gị n'ubi",
+    "Ngwá ọrụ na ngwá ọrụ ndị bụ́ ọkpọka",
+    "Wepụ ihe ndị a hapụrụ n'ubi mgbe oge owuwe ihe ubi gasịrị",
+    "IHE dị ka ° 4 degreesC na pasent 65 nke ndị ikwu ya",
+    "Zere ịdị na - eri nri ndị na - eme ka ahụ́ gị ghara ịrụ ọrụ nke ọma ma nọgide na - enwe ọ̀tụ̀tụ̀ shuga dị n'ahụ́ gị"
+  ],
+  "source": [
+    "Nnyocha Mba Nile Mere, Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "IAIIIIIIKKK",
+    "Van der Wolf & Diaat la Son So Son n'ọrịa ndị na - ere ọkụ bụ́ ndị a na - ebute site n'oge ruo n'oge n'Ahụ́"
+  ]
+}

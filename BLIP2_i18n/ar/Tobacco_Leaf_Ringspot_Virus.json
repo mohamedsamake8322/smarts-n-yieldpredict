@@ -1,100 +1,100 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
-  "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "virus_name": "دبوس",
+  "abbreviation": "محفوظ",
+  "family": "Secoperidade",
+  "genus": "(مُنْقِس)",
   "taxonomy": {
-    "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "المحار",
+    "virus_group": "(أ) فيروس الرنا"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "RNA RNA",
+    "structure": "2 - المورثات الثنائية الببريتية (RRRA1 وRNA2)",
+    "particle_shape": "EA",
+    "particle_size": "زهاء 28 ن/نم/م"
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
-      "grasshoppers",
-      "flea beetles"
+      "الخيطيات (Xiphinma spp.)",
+      "مُمَاث",
+      "3 - المُكِثات",
+      "",
+      "(ب) حالات"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "وقد اكتشف الفيروس في النحل، ولكن لم يتم التأكد من انتقاله من النحل إلى النباتات."
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
-      "Peanut",
-      "Potato",
-      "Lettuce"
+      "(نيكوتيانا سكوب)",
+      "Soyban",
+      "طاطاطاطاط",
+      "",
+      "",
+      "لِسِسْس"
     ],
     "ornamental_plants": [
-      "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "",
+      "الـ / الـ / um",
+      "لغة"
     ],
     "weed_hosts": [
-      "Chenopodium spp.",
-      "Amaranthus spp.",
-      "Solanum nigrum"
+      "-التكهنوديوم spp.",
+      "Aarsanthouss spp.",
+      "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -))))"
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "طوابير على أوراق الشوّك",
+    "بقع الحلقات النخرية مع تقدم المرض",
+    "التشوهة والتشويه",
+    "النمو المتدرج في النباتات المصابة",
+    "الانخفاض في الغلة والنازحة"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "(أ) البقاء على قيد الحياة في النباتات والبذور والتربة المصابة عن طريق نواقل النواقل",
+    "يحصل النيتود على الفيروس في الوقت الذي يتغذّى فيه على الجذور المُصابة",
+    "ينتقل الفيروس إلى النباتات الصحية أثناء التغذية",
+    "يمكن أن يحدث الانتقال الميكانيكي أثناء الزراعة"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "الخيوط المتجانسة على أوراق الشووط",
+      "3 - التجانس والتكساس حول الصُّحَر"
     ],
     "laboratory_methods": [
-      "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "EELSA",
+      "تشخيصات مستندة إلى الفصل",
+      "المكنس"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "إدراجات في الخاويات (Vac Inc)",
+      "إدراجات الكريستالويد (Cyst Inc)"
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "يمكن أن تسبب انخفاضات حادة في الغلة في محاصيل فول فول الصويا والفول السوداني والتبغ",
+    "agronomic": "قد تظهر النباتات المصابة بالعدوى نمواً ضعيفاً وانخفاضاً في الإنتاجية"
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "البذور الخالية من الفيروسات المعتمدة المستخدمة",
+      "(أ) النباتات التي أُزيلت في مرحلة مبكرة",
+      "المحاصيل المتناوبة مع الأنواع غير المضيفة"
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "تجمعات الماثود في التربة",
+      "رصد وإدارة ناقلات الحشرات"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "أدوات ومعدات المطهرات",
+      ":: تجنب حدوث انتقال ميكانيكي بين النباتات"
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "دليل APSS",
+    "تكنولوجيا تكنولوجيا تكنولوجيا تكنولوجيا المعلومات والاتصالات",
+    "قاعدة بيانات"
   ]
 }

@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
-  "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "disease": "Rhizopus软腐烂(黑面包模子)",
+  "scientific_name": "Rhizopus stolonifer( Rhizopus stolonifer )",
+  "pathogen_type": "蘑菇",
+  "description": "Rhizopus stolonifer是一种常见的真菌,它在许多水果和蔬菜中,特别是在收获后造成软质腐烂,在温暖和潮湿的条件下迅速生长,很容易通过空气中的螺旋而传播,这种疾病主要袭击糖含量高的成熟或受伤产品。",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "水果或蔬菜的软水腐烂",
+    "果汁迅速组织破裂和泄漏",
+    "表面白棉类白棉真菌生长",
+    "发展黑色无线(黑模小点)",
+    "来自受感染产品的酸酸或酸性气味",
+    "迅速衰变蔓延到附近的水果"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
-    "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
-    "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "草莓草莓",
+    "番茄",
+    "桃桃桃桃",
+    "甜瓜",
+    "西瓜",
+    "香蕉香蕉",
+    "葡萄葡萄",
+    "芒芒芒",
+    "木木木木瓜",
+    "甜土豆",
+    "胡萝卜",
+    "黄黄瓜",
+    "茄茄茄",
+    "胡椒辣椒",
+    "洋葱",
+    "大蒜",
+    "豆豆",
+    "各种储藏的水果和蔬菜,"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "高湿湿度",
+    "温度(25-30°C)",
+    "水果受伤或损坏",
+    "成熟水果糖含量高",
+    "储存条件差",
+    "储存期间通风不良"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "空传真菌螺子",
+    "感染者与健康水果之间的接触",
+    "携带昆虫的昆虫",
+    "受污染的储存容器或表面"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "谨慎处理水果,避免受伤",
+    "迅速清除和销毁受感染的水果",
+    "在储藏区保持良好的卫生条件",
+    "低温储存农产品",
+    "改善通风和减少湿度"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "寄生于Rhizopus的同步发炎物种",
+    "生产抗硫磺化合物的碱菌种",
+    "抑制真菌生长的凤尾菌生产细菌"
   ],
   "chemical_control": [
-    "Thiabendazole",
-    "Benomyl",
-    "Imazalil",
-    "Propiconazole",
-    "Thiocarbamates",
-    "Fludioxonil",
-    "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
-    "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "Thiabendazol 亚甲醇",
+    "贝诺",
+    "伊马扎利",
+    "丙烯烷",
+    "氯甲氨酯",
+    "氟二氧基",
+    "Tebuconazole 炸药",
+    "Fenhexamide 芬辛酸",
+    "Aoxoxystrobin 氧氧基苯",
+    "氯",
+    "亚氯酸钠",
+    "亚氯酸钙"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "谨慎收获果实以避免伤害",
+    "维持适当的冷冻储存",
+    "保持储存区清洁和消毒",
+    "避免堆叠有健康水果的受损产品",
+    "在储存和运输期间减少湿度"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "Bautista-Baños等人,水果和蔬菜收获后衰减",
+    "史密斯对工业神学的介绍",
+    "植物-微生物相互作用-Rhizopusstolonifer(Rhizopus stolonifer)",
+    "关于收获后真菌病的科学文献"
   ]
 }

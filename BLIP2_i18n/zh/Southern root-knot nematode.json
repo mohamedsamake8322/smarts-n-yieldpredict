@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "南方根基诺线虫",
+  "scientific_name": "Melomoogyne Incognita 蛋白",
+  "common_abbreviations": [
+    "朝鲜",
+    "南部根阴极",
+    "棉棉根线虫"
+  ],
+  "description": "Meliomogyne Incognita是一种植物寄生虫,它袭击了各种植物的根部,造成大量不规则的胆碱,是全世界最常见的、经济上最重要的根结线虫之一。",
+  "distribution": "全球广泛分布,存在于许多不同的土壤类型,主要是热带和亚热带区域。",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "极端多面体,攻击单环和双环;估计有3 000多种植物物种。",
+    "notable_hosts": [
+      "木薯(马尼霍特埃斯库伦塔)",
+      "棉花棉花",
+      "番茄",
+      "辣椒",
+      "烟草",
+      "咖啡咖啡咖啡 咖啡咖啡咖啡咖啡"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "缺水压力",
+      "营养力压力",
+      "黄黄",
+      "闲置",
+      "阻闪"
+    ],
+    "below_ground": [
+      "根、灯泡和管子上的圆球",
+      "高虫害的植物死亡"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "梨形",
+      "posterior_protuberance": "无无无无无无无",
+      "stylet_length": "15-16 微米",
+      "stylet_knobs": "2003年7月1日至2008年6月30日,四舍四舍五舍",
+      "perineal_pattern": "Oval 至 四舍五入、 高横轴拱门、 卷状螺旋状、 横向字段 不存在或微分解"
     },
     "male": {
-      "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
-      "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "shape": "变形",
+      "head": "不抵消, 高水平的圆盘, 通常没有横向嘴唇",
+      "stylet_length": "23-26 微米",
+      "stylet_knobs": "四舍五舍五舍五舍五舍五舍五舍"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
-      "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "stage": "第二阶段(J2)",
+      "body_length": "350-450微米",
+      "tail_length": "43-65 微米",
+      "hyaline_region": "6-14 微米长",
+      "shape": "圆尾尾端"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "蛋蛋",
+      "J1 J1",
+      "J2(感染)",
+      "J3J3( J3)",
+      "J4 J4",
+      "成人成人成人"
+    ],
+    "description": "J2青少年从卵中孵化,渗入根尖,迁移到血管组织,形成永久性喂养地点(大细胞),向成人割裂,雌性变成小球,在凝胶中产卵;雄性离开根;生命周期在21°C时37天结束。",
+    "reproduction": "性畸形;雌性定居,雄性动动"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "能够探测并沿着非常浅的温度梯度沿极浅的温度梯度移动以找到根",
+    "chemotaxis": "响应主机根的化学提示"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "非东道或抗药性品种的作物轮作",
+      "使用有机添加物",
+      "植物对立作物,如克罗塔拉里亚光谱和塔格特物种"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "蛋-寄生虫真菌,如白菌"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "一些商业上可得到的线虫剂"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "造成许多作物严重果实和收成损失",
+    "热带和亚热带农业的主要经济重要性"
   ]
 }

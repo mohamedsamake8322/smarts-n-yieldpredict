@@ -1,139 +1,119 @@
 {
-  "disease": "Choanephora Fruit Rot",
-  "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "disease": "تشوان - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+  "scientific_name": "من طراز Curpitarom",
+  "pathogen_type": "المنقوس",
+  "description": "تعفن فاكهة الشونيفورا هو مرض فطري يؤثر على المحاصيل الطحلبية في المناخات الدافئة والرطبة، ويصيب الممرض الزهور أولاً ثم ينتقل إلى الفواكه، مما يسبب تعفناً مائياً ناعماً، فالنسيجات المُعدية سرعان ما تصبح مُلوثة، وهي مغطاة بنمو فطري غامض يتحول من الأبيض إلى الأرجواني أو الأسود الداكن.",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "التعفن",
+    "تعفن (التشوان)",
+    "مَزْرْج",
+    "مُزْرَج مَنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ مِنْ",
+    "تعفنت تعفنت"
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
-    "order": "Mucorales",
-    "family": "Choanephoraceae"
+    "kingdom": "",
+    "order": "منسوالك",
+    "family": "من كل من كل من كل من كل منا من قبل"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "مرض فطري يسبب تعفناً سريعاً ناعماً من الأزهار والفواكه القرعية، خصوصاً أثناء الظروف الدافئة والرطبة.",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "ماء عذب تعفن على الأزهار",
+    "أنسجة مادة معطرة من أنسجة أو أنسجة ما بعد",
+    "تبدأ في نهاية الزهرة من الفاكهة",
+    "في غضون ايام قليلة",
+    "النمو الفطري الذي يشمل الأنسجة المُحْكَة",
+    "عــدم تدريــب بيــض مــن الحــرثيــر أو",
+    "البنية الأساسية للثواك المتعفنة"
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "تعفن عاطو عطري عاطس على القرع أو على فاكهة الخيار",
+    "شكل أبيض أبيض منسوخ أو أسود",
+    "هياكل مشابهة للدبابيس الأسود على الأنسجة المتعفنة",
+    "(أ) تعفن الفكـاكـر"
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "",
+    "فاكهة",
+    "(يحدث) (يحدث) (يحدث)",
+    "الأعضاء الزهرية"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "Curpitaceale",
   "hosts": [
-    "pumpkin",
-    "squash",
-    "zucchini",
-    "watermelon",
-    "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
-    "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي الي ي الي الي الي الي الي",
+    "أولاً - ما قبل",
+    "u u chini",
+    "",
+    "البطائل",
+    "لُفِكْت",
+    "الخيار",
+    "(ب) ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "",
+    "",
+    "الأمر المؤن(أ)",
+    "",
+    "",
+    "(أ)"
   ],
-
   "important_hosts": [
-    "Cucurbita pepo",
-    "Cucurbita maxima",
-    "Citrullus lanatus",
-    "Cucumis melo",
-    "Luffa cylindrica"
+    "QQcurbita o",
+    "Kcurbitate o",
+    "Cittrulllus lanatus",
+    "Cucumis Milo",
+    "لوفا سيليندريكا"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "الرطوبة العالية",
+    "(يحدث هطولاً)",
+    "الأزهار والفواكه",
+    ":: سوء الحركة الجوية",
+    "درجة حرارة حرارة الدافئة أعلى من 25 درجة مئوية"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "ريح ريح ريح حشر",
+    "هطول الامطر)أ(",
+    "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "أولاً - الإنسان",
+    "مُحْرِكات"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "الفطريات التي تنجو في الحطام الزراعي والتربة",
+    "الأُسَر التي أُزِرَزْرِز",
+    "من الأزهار إلى الفاكـر النامي",
+    "تُنتج الفطريات بوارغ كثيرة على الأنسجة المتعفنة",
+    "انتشارها بفعل الرياح والأمطار والري والحشرات"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "تعفن",
+    "(ب) خسارة ما يُكسب من الفواكه الطائقة الصالحة للتسوية",
+    ")كفاكه(",
+    "(أ) خسائر في المحاصيل الزراعية"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "(أ) الأزهار والثمرات التي أُزيلت منها",
+    "(أ) تجنب الري",
+    "(ب) ما إذا كان ذلك ممكناً",
+    "من أجل حسن سير الأعمال الجوية",
+    "قبل الإفراط في العمر",
+    ":: الحد الأدنى من الرطوبة في غازات الدفيئة"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "حيثما أمكن ذلك",
+    "أُسرت أو أُسرت أو أُسرت أُسرت أو أُسرت أُسرت أو أُسرت أُسرت أُسرت أو أُسرت أُسرت",
+    "مُدْش بلاستيكي للحد من تلامس التربة",
+    "الصرف الصحي الجيد وإزالة الحطام النباتي"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "تم الإبلاغ عن قمع الفطريات"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "مبيدات الفطريات غير فعالة بصفة عامة لأن الأزهار مفتوحة باستمرار"
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Rhizuspus unt"
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "جامعة مينيسا",
+    "منشورات بحوث علم الأوبئة",
+    "أدلة إدارة الأمراض"
   ]
 }

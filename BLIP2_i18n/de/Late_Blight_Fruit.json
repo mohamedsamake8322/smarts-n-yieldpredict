@@ -1,0 +1,46 @@
+{
+  "disease_name": "Spätobst",
+  "scientific_name": "Phytophthora infestans",
+  "pathogen_type": "Oomycet",
+  "description": "Spätblütige Fruchtfäule ist eine zerstörerische Krankheit, die durch das Oomycete Phytophthora Infestans verursacht wird. Es betrifft hauptsächlich Tomaten- und Kartoffelpflanzen. Der Erreger infiziert Früchte, Blätter und Stängel und kann sich unter kühlen und feuchten Bedingungen schnell ausbreiten, was oft zu schweren Ernteverlusten führt.",
+  "affected_parts": [
+    "Obst",
+    "Blatt",
+    "Stamm"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Kartoffeln"
+  ],
+  "symptoms": [
+    "Dunkelbraune oder schwarze Läsionen an Früchten",
+    "Feste Fäule mit fettigem Aussehen",
+    "Weißes Schimmelwachstum unter feuchten Bedingungen",
+    "Schneller Verfall der Früchte"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen (10-20°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle",
+    "Lange Perioden der Blattnaßigkeit"
+  ],
+  "spread": [
+    "Windsporen",
+    "Regenspritzer",
+    "Infizierte Pflanzenabfälle",
+    "Kontaminierte Werkzeuge und Ausrüstungen"
+  ],
+  "management": {
+    "cultural": [
+      "Entferne infizierte Pflanzen",
+      "Verbesserung der Luftzirkulation",
+      "Überkopfbewässerung vermeiden",
+      "Wenn verfügbar, resistente Sorten verwenden"
+    ],
+    "chemical": [
+      "Fungizide auf Metallaxylbasis",
+      "Chlorothalonil",
+      "Mancozeb"
+    ]
+  }
+}

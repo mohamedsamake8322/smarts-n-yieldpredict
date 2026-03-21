@@ -1,91 +1,91 @@
 {
- "disease": "Sclerotinia Fruit Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia fruit rot is a fungal disease that affects many crops and vegetables. The fungus survives in soil as black structures called sclerotia and infects plants during cool and wet conditions, causing soft rot and plant collapse.",
- "symptoms": [
-  "Plants suddenly wilt and collapse",
-  "Soft wet rot on stems or fruits",
-  "White cotton-like fungal growth on infected tissues",
-  "Black seed-like structures (sclerotia) forming on infected areas",
-  "Yellowing leaves before plant collapse",
-  "Rotting of stems, fruits, bulbs, or roots"
- ],
- "visual_symptoms": [
-  "white fluffy mold on plant tissue",
-  "black hard sclerotia inside white fungal growth",
-  "soft watery rot on stems or fruits",
-  "collapsed plants"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Cucumber",
-  "Celery",
-  "Chicory",
-  "Sunflower",
-  "Oilseed rape (canola)",
-  "Carrot",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "fruits",
-  "leaves",
-  "bulbs",
-  "roots"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Wet weather",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia in soil",
-  "Contaminated plant debris",
-  "Direct contact with infected plants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce small cup-like structures (apothecia)",
-  "Apothecia release spores that spread by wind",
-  "Spores infect plant tissues during wet conditions",
-  "Infected plants produce new sclerotia that return to the soil"
- ],
- "impact": [
-  "Plant wilting and collapse",
-  "Fruit and stem rot",
-  "Major crop losses in vegetables and oilseed crops",
-  "Reduced yield and product quality"
- ],
- "cultural_control": [
-  "Remove and destroy infected plants immediately",
-  "Avoid overcrowding of plants",
-  "Improve air circulation in crops",
-  "Rotate crops with non-host plants",
-  "Remove crop debris from the field"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi such as Trichoderma species"
- ],
- "chemical_control": [
-  "Use registered fungicides when disease pressure is high",
-  "Apply protective fungicides during favorable disease conditions"
- ],
- "prevention": [
-  "Avoid planting susceptible crops repeatedly in the same field",
-  "Maintain proper plant spacing",
-  "Monitor fields during wet seasons",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural extension disease guides"
- ]
+  "disease": "Rotation des fruits de Sclérotinia",
+  "scientific_name": "Sclérotinia sclérotiorum",
+  "pathogen_type": "Champignons",
+  "description": "La pourriture des fruits de Sclerotinia est une maladie fongique qui affecte de nombreuses cultures et de nombreux légumes. Le champignon survit dans le sol sous forme de structures noires appelées sclerotia et infecte les plantes dans des conditions fraîches et humides, causant une pourriture molle et l'effondrement des plantes.",
+  "symptoms": [
+    "Plantes soudainement flétries et s'effondrent",
+    "Pourriture molle humide sur les tiges ou les fruits",
+    "Croissance fongique en coton blanc sur les tissus infectés",
+    "Structures ressemblant à des graines noires (sclérotes) formant sur les zones infectées",
+    "Feuilles jaunissantes avant l'effondrement de la plante",
+    "Rotation des tiges, des fruits, des bulbes ou des racines"
+  ],
+  "visual_symptoms": [
+    "moule blanc moelleux sur le tissu végétal",
+    "sclérotes noirs à l'intérieur de la croissance fongique blanche",
+    "pourriture douce et aqueuse sur les tiges ou les fruits",
+    "plantes effondrées"
+  ],
+  "hosts": [
+    "Laitue",
+    "Haricots",
+    "Pois",
+    "Tomates",
+    "Concombre",
+    "Céleri",
+    "Chicorée",
+    "Tournesol",
+    "Le colza oléagineux (canola)",
+    "Carotte",
+    "Nombreuses plantes ornementales"
+  ],
+  "plant_parts_affected": [
+    "tiges",
+    "Fruits",
+    "feuilles",
+    "ampoules",
+    "racines"
+  ],
+  "favorable_conditions": [
+    "Températures fraîches",
+    "Humidité élevée",
+    "Météo humide",
+    "Canopée dense des cultures",
+    "Mauvaise circulation d'air"
+  ],
+  "spread": [
+    "Spores aéroportées libérées d'apothécie",
+    "Sclérotes dans le sol",
+    "Débris de plantes contaminées",
+    "Contact direct avec les plantes infectées"
+  ],
+  "disease_cycle": [
+    "Le champignon survit dans le sol sous forme de sclérotes pendant plusieurs années",
+    "Les sclérotes germent et produisent de petites structures en forme de tasse (apothécie)",
+    "L'apothécie libère des spores qui se propagent par le vent",
+    "Les spores infectent les tissus végétaux en conditions humides",
+    "Les plantes infectées produisent de nouvelles sclérotes qui retournent dans le sol"
+  ],
+  "impact": [
+    "flétrissement et effondrement des plantes",
+    "Pourriture des fruits et des tiges",
+    "Principales pertes de cultures dans les légumes et les oléagineux",
+    "Réduction du rendement et de la qualité des produits"
+  ],
+  "cultural_control": [
+    "Enlever et détruire immédiatement les plantes infectées",
+    "Éviter le surpeuplement des plantes",
+    "Améliorer la circulation de l'air dans les cultures",
+    "Cultures en rotation avec des plantes non hôtes",
+    "Enlever les débris de culture du champ"
+  ],
+  "biological_control": [
+    "Utiliser des agents biologiques tels que les minitans de Coniothyrium",
+    "Utiliser des champignons bénéfiques tels que les espèces de Trichoderma"
+  ],
+  "chemical_control": [
+    "Utiliser des fongicides homologués lorsque la pression de la maladie est élevée",
+    "Appliquer des fongicides protecteurs dans des conditions de maladie favorables"
+  ],
+  "prevention": [
+    "Évitez de planter des cultures sensibles à plusieurs reprises dans le même champ",
+    "Maintenir un espacement approprié des plantes",
+    "Surveiller les champs pendant les saisons humides",
+    "Utiliser des pratiques de gestion intégrée des maladies"
+  ],
+  "source": [
+    "Références de pathologie végétale",
+    "Guides sur les maladies liées à la vulgarisation agricole"
+  ]
 }

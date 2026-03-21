@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "",
+  "scientific_name": "Apidididadee",
+  "description": "فالاستنساخ السريع عن طريق التنصت عن بُعد يتيح للسكان أن يتكاثروا بسرعة، وبعض الأنواع تتناوب بين النباتات المضيفة، وبعضها الآخر عام، وينتجون حلوى العسل، مما يؤدي إلى نمو قوالب الرطوبة، والآفيدات تعمل كمحولات للفيروسات النباتية.",
+  "life_cycle": [
+    "هيمنة الإناث على الإنجاب الجنسي؛ تلد الإناث على قيد الحياة",
+    "الإناث المُنَزّعات إلى نباتات جديدة في وقت لاحق من الموسم",
+    "في المناطق المعتدلة، يحدث التكاثر الجنسي في الخريف، ويفوق فصل الشتاء كبيض",
+    "التماثل مع Bochnera aphidicola يوفر الأحماض الأمينية الأساسية"
+  ],
+  "hosts": [
+    "المنتجات النباتية، والفواكه، والحبوب، والخضر، والبقول، ونباتات الزيلة",
+    "الكثير من المحاصيل والنباتات"
+  ],
+  "symptoms_and_damage": [
+    "النمو المتدرج وتجليد الأوراق",
+    "أصفر أو طُرْق أوراق الشُّرْح",
+    "الرواسب على الأوراق المالية والأساور",
+    "معدل النمو في حالات النم",
+    "انتقال الفيروسات النبتات"
+  ],
+  "favorable_conditions": [
+    "درجة حرارة",
+    "الرطوبة العالية",
+    "",
+    "المظلة والنباتات المضغوطة"
+  ],
+  "spread": [
+    "الاتصال المباشر بالنباتات الموبوءة",
+    "الإناث الإناث الإناث الإناث الموزعات بالرياح",
+    "الحَمَلَات التي تَسَرُّ",
+    "الأدوات، والعمال، ومياه الري"
+  ],
+  "natural_enemies": [
+    "خنافس الليدي بيرد (على سبيل المثال، كوكسينيلا septempunctatata, Adalia bipuncttatata)",
+    "يَرْقَى",
+    "4 - كان منظات المُسَاطِية",
+    "اليررق",
+    "اليرقة الخضراء",
+    "المكس",
+    "(Neozygites feresenii, Boveria باسيانا, Metarhizium anisopliae, Lecanicillium lecaniii)"
+  ],
+  "biological_control": [
+    "إطلاق الحشرات المفترسة والحشرات الطفيلية",
+    "تُشَجَّع في بساتين أو في بساتين أو في بساتين",
+    "استخدام مبيدات الآفات الأحيائية الفطرية (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "وغالباً ما تكون مبيدات الحشرات محدودة بسبب المقاومة (الكاربات، والفوسفات العضوية، والبيروثرويد)",
+    "قد لا تُزَرْرِز مبيدات حشرات حشرية نظامية",
+    "بالنسبة للمصابات الصغيرة: الصابون المبيد للحشرات، وطائرات الماء القوية (إجراءات الاتصال فقط)"
+  ],
+  "prevention": [
+    ":: رصد السكان الذين يستخدمون أفخاخاً صفراء أو موريكية",
+    "تجنب الإفراط في التلقيح النتروجي للحد من الجذب الزهري",
+    "(ب) التخلص الفوري لأجزاء النبتات الموبوءة",
+    "تشجيع النملين المتبادلين فقط في البيئات الخاضعة للمراقبة",
+    "دوران المحاصيل والمحافظة على صحة النبات"
+  ],
+  "ant_mutualism": [
+    "بعض النملات يزرعون حافاً لـ (العسدو) ليحميهم من الحيوانات المفترسة",
+    "يمكن للنمل أن يحمل بيضاً منزوعاً على فترات شتاء وأن يعيده إلى النباتات في الربيع.",
+    "زيادة الحضور يزيد من إنتاج العسل ويؤثر على السلوك"
+  ],
+  "adaptations": [
+    "سُطْعَات الحماية التي تُصَدَّى",
+    "مُنَفَثات أجندية في الأنواع التهيئة للدفاع",
+    "الدفاعات الكيميائية عن طريق المواد الكيميائية عن طريق الحبيبات (الرومونات، الشمع اللزج، الفرمونات)",
+    "القدرة على إسقاط النباتات للهرب من المفترسات"
+  ],
+  "sources": [
+    "Wikipedia - Aphd",
+    "إدارة مبيدات النباتات",
+    "المراجع المرجعية لإدارة الآفات المتكاملة (IPM)"
+  ]
 }

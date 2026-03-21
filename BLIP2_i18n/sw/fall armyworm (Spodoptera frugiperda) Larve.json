@@ -1,54 +1,54 @@
 {
- "disease": "Fall Armyworm Larva",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (larval stage)",
- "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
- "symptoms": [
-  "Caterpillars feeding inside maize whorl",
-  "Large chewing damage on leaves",
-  "Presence of dark frass near feeding areas",
-  "Leaves shredded or skeletonized"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm humid climates",
-  "Dense crop fields",
-  "Abundant host plants"
- ],
- "spread": [
-  "Egg masses hatch into larvae on plant leaves",
-  "Larvae crawl to nearby plants",
-  "Spread from infested fields"
- ],
- "management": [
-  "Scout fields regularly for larvae",
-  "Crush egg masses and young larvae",
-  "Apply biological or chemical control early"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt)",
-  "Beauveria bassiana",
-  "Trichogramma parasitoids"
- ],
- "chemical_control": [
-  "Emamectin benzoate",
-  "Spinosad",
-  "Chlorantraniliprole"
- ],
- "prevention": [
-  "Early detection in maize whorl",
-  "Use resistant crop varieties",
-  "Crop rotation"
- ],
- "source": [
-  "FAO",
-  "CABI"
- ]
+  "disease": "Simu ya Simu ya Simu ya Simu",
+  "scientific_name": "Maisha ya Frugiperda",
+  "pathogen_type": "Mzunguko (Mzunguko wa Mzunguko)",
+  "description": "Larva (caterpillar) ni hatua ya kuharibu ya shida ya shida. ina chakula kwa upinzani juu ya karatasi na inaweza kuharibu mimea haraka.",
+  "symptoms": [
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "Uharibifu mkubwa wa nywele kwenye nywele",
+    "Ukosefu wa gesi ya gesi karibu na maeneo ya chakula",
+    "Maonyesho ya kuongezeka au kuongezeka"
+  ],
+  "hosts": [
+    "Maisha ya",
+    "Rice ya",
+    "Maombi ya",
+    "Milioni ya",
+    "Maua ya Sugar",
+    "Matunda ya"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa ya hewa",
+    "Maeneo ya Maji ya Dini",
+    "Vitu vingi vya mwenyeji"
+  ],
+  "spread": [
+    "Wanyama kuongezeka kwa hatch katika larva juu ya tiketi ya mimea",
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "kuongezeka kutoka maeneo yaliyoathiriwa"
+  ],
+  "management": [
+    "Kazi ya kutafuta mara kwa mara kwa larvae",
+    "Masha ya maziwa ya Crush na larva muda",
+    "Kufanya ufuatiliaji wa biolojia au kemikali mapema"
+  ],
+  "biological_control": [
+    "ya Bacillus thuringiensis (Bt)",
+    "Mwisho wa Bassiana",
+    "Trichogramma ya Paraziti"
+  ],
+  "chemical_control": [
+    "ya Emamectin benzoate",
+    "ya Spinoza",
+    "ya chlorantraniliprole"
+  ],
+  "prevention": [
+    "Utafiti wa mapema katika maize whorl",
+    "Kutumia aina ya mimea ya kukabiliana",
+    "Mzunguko wa mimea"
+  ],
+  "source": [
+    "ya FAO",
+    "Kabla ya"
+  ]
 }

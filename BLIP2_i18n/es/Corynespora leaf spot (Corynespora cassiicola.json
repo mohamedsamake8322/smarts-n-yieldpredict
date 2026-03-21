@@ -1,0 +1,90 @@
+{
+  "disease_name": "Corynespora Leaf Spot",
+  "causal_agent": "Corynespora cassiicola",
+  "disease_type": "Fúngicos",
+  "description": "La mancha de la hoja de Corynespora es una enfermedad fúngica destructiva que afecta a más de 500 especies de plantas, incluyendo cultivos económicamente importantes como el tabaco, el tomate, el pepino, la soja, el algodón y el árbol de caucho. La infección comienza en las hojas inferiores o medias, formando manchas verdes oscuras empapadas en agua que se convierten en marrón y se expanden en lesiones grandes.",
+  "hosts": [
+    "Tabaco",
+    "Tomate",
+    "Pepino",
+    "Semillas de soja",
+    "Algodón",
+    "Árbol de caucho"
+  ],
+  "symptoms": [
+    "Pequeñas manchas de agua verde oscuro empapadas en hojas",
+    "Las manchas se vuelven gradualmente marrones",
+    "Lesiones necróticas circulares o irregulares",
+    "Las lesiones se expanden y se fusionan formando parches grandes",
+    "La enfermedad a menudo comienza en las hojas inferiores o medias"
+  ],
+  "favorable_conditions": {
+    "temperature_optimum": "25-30°C",
+    "temperature_range": "15-35°C",
+    "humidity": "La alta humedad (>90 %) favorece la infección",
+    "pH_optimum": "Alrededor de 5,5"
+  },
+  "biological_control": [
+    {
+      "agent": "Bacillus subtilis",
+      "type": "Bacteria beneficiosa",
+      "mode_of_action": "Produce metabolitos antifúngicos e inhibe el crecimiento fúngico"
+    },
+    {
+      "agent": "Bacillus amiloliquefaciens",
+      "type": "Bacteria beneficiosa",
+      "mode_of_action": "Produce lipopéptidos que dañan las membranas celulares fúngicas"
+    },
+    {
+      "agent": "Trichoderma harzianum",
+      "type": "Hongo de biocontrol",
+      "mode_of_action": "Micoparasitismo y competencia con patógenos vegetales"
+    },
+    {
+      "agent": "Trichoderma virida",
+      "type": "Hongo de biocontrol",
+      "mode_of_action": "Produce enzimas antifúngicas y metabolitos secundarios"
+    }
+  ],
+  "chemical_control": {
+    "fungicides": [
+      {
+        "active_ingredient": "Mancozeb",
+        "type": "Fungicida de contacto",
+        "mode_of_action": "Previene la germinación de la espora"
+      },
+      {
+        "active_ingredient": "Clorotalonil",
+        "type": "Fungicida protector",
+        "mode_of_action": "Inhibe el crecimiento fúngico en la superficie de la hoja"
+      },
+      {
+        "active_ingredient": "Azoxistrobina",
+        "type": "Fungicida QoI",
+        "mode_of_action": "Inhibe la respiración mitocondrial"
+      },
+      {
+        "active_ingredient": "Difenoconazol",
+        "type": "Fungicida triazol",
+        "mode_of_action": "Inhibe la biosíntesis de esterol"
+      },
+      {
+        "active_ingredient": "Tebuconazol",
+        "type": "Fungicida triazol",
+        "mode_of_action": "Síntesis de bloqueos de ergosterol"
+      },
+      {
+        "active_ingredient": "Carbendazima",
+        "type": "Fungicida sistémico",
+        "mode_of_action": "Interrumpe la división de células fúngicas"
+      }
+    ]
+  },
+  "management_notes": [
+    "Utilizar cultivares resistentes cuando estén disponibles",
+    "Rotar fungicidas con diferentes modos de acción para prevenir la resistencia",
+    "Evitar la humedad prolongada de las hojas",
+    "Eliminar los desechos vegetales infectados",
+    "Utilizar estrategias integradas de gestión de enfermedades"
+  ]
+}

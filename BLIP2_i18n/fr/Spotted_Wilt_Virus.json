@@ -1,76 +1,106 @@
 {
-  "pest_name": "Tomato Spotted Wilt Virus",
+  "pest_name": "Virus de la varicelle tacheté de tomate",
   "abbreviation": "TSWV",
   "type": "virus",
   "family": "Tospoviridae",
   "genome": {
-    "type": "negative-sense RNA",
-    "structure": "spherical, 80-110 nm diameter",
+    "type": "ARN négatif-sens",
+    "structure": "sphérique, diamètre 80-110 nm",
     "segments": [
-      {"name": "L", "length_kb": 8.9},
-      {"name": "M", "length_kb": 4.8},
-      {"name": "S", "length_kb": 2.9, "genes": ["N", "NSs"]}
+      {
+        "name": "L",
+        "length_kb": 8.9
+      },
+      {
+        "name": "M",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S",
+        "length_kb": 2.9,
+        "genes": [
+          "N",
+          "NS"
+        ]
+      }
     ]
   },
   "hosts": {
-    "primary": ["tomato", "tobacco", "capsicum", "lettuce", "potato", "peanut", "eggplant", "onion", "various ornamentals"],
-    "weeds": ["sowthistle", "capeweed", "thornapples", "cobbler's pegs", "nightshades", "Jamaican snakeweed"]
+    "primary": [
+      "tomate",
+      "tabac",
+      "Capsicum",
+      "laitue",
+      "pommes de terre",
+      "Cacahuète",
+      "aubergines",
+      "oignon",
+      "divers ornements"
+    ],
+    "weeds": [
+      "sowthistle",
+      "d'une teneur en poids de matières grasses égale ou supérieure à 50 %",
+      "épinappes",
+      "Poignées de cobbler",
+      "Rasoirs de nuit",
+      "Alouettes jamaïcaines"
+    ]
   },
   "symptoms": [
-    "Stunting of plants",
-    "Ringspots and mottling on leaves and fruit",
-    "Chlorotic blotches and line patterns on leaves",
-    "Wilting and purpling of leaves",
-    "Necrotic lesions on stems",
-    "Distorted or necrotic fruits"
+    "Éparpillement des plantes",
+    "Spots crâniens et taupes sur les feuilles et les fruits",
+    "Morceaux chlorotiques et patrons de lignes sur les feuilles",
+    "Wilting et purplage des feuilles",
+    "Lésions nécrotiques sur les tiges",
+    "Fruits distordus ou nécrotiques"
   ],
   "transmission": {
-    "vector": "thrips",
+    "vector": "les thrips",
     "vector_species": [
-      "Frankliniella occidentalis (western flower thrips)",
-      "Frankliniella sulphurea (yellow tomato thrips)",
-      "Thrips palmi (melon thrips)",
-      "Thrips tabaci (onion thrips)"
+      "Frankliniella occidentalis (thrips de fleurs de l'ouest)",
+      "Frankliniella sulfurea (trips jaunes de tomates)",
+      "Thrips palmi (Thrips à mélon)",
+      "Thrips tabaci (Thrips d'oignon)"
     ],
     "mechanism": [
-      "Acquisition occurs only in larval stage (1st and early 2nd instar)",
-      "Virus circulates and multiplies in vector's gut and salivary glands",
-      "Adult thrips remain infective for life but do not transmit to offspring",
-      "Transmission can occur in 5–10 minutes of feeding"
+      "L'acquisition n'a lieu qu'au stade larvaire (1er et 2e stade au début)",
+      "Le virus circule et multiplie dans l'intestin et les glandes salivaires du vecteur",
+      "Les thrips adultes restent infectieux à vie mais ne se transmettent pas à la progéniture",
+      "La transmission peut survenir dans les 5-10 minutes suivant l'alimentation"
     ]
   },
   "life_cycle": {
-    "thrips_larval_stage": "1–3 days",
-    "thrips_adult_lifespan": "20–30 days",
-    "TSWV_infection_duration": "lifelong in vector acquired as larva"
+    "thrips_larval_stage": "1 à 3 jours",
+    "thrips_adult_lifespan": "20 à 30 jours",
+    "TSWV_infection_duration": "tout au long de la vie en vecteur acquis sous forme de larve"
   },
   "economic_impact": [
-    "Serious losses in vegetables, field crops, and ornamentals",
-    "Considered one of the most economically devastating plant viruses globally"
+    "Pertes graves dans les légumes, les grandes cultures et les plantes ornementales",
+    "Considéré comme l'un des virus végétaux les plus dévastateurs du point de vue économique au monde"
   ],
   "management": {
     "prevention": [
-      "Use virus- and thrips-free transplants",
-      "Remove infected plants and old crops",
-      "Maintain weed-free buffers of at least 25 m",
-      "Sanitation practices in greenhouses and fields"
+      "Utiliser des greffes sans virus et sans thrips",
+      "Enlever les plantes infectées et les vieilles cultures",
+      "Maintenir des tampons sans mauvaises herbes d'au moins 25 m",
+      "Pratiques sanitaires dans les serres et les champs"
     ],
     "resistant_varieties": [
-      "Use TSWV-resistant capsicum and tomato varieties",
-      "Consider resistance-breaking strains and maintain hygiene"
+      "Utiliser des variétés de capsicum et de tomates résistantes au TSWV",
+      "Considérer les souches de rupture de résistance et maintenir l'hygiène"
     ],
     "chemical_control": [
-      "Limited value of insecticides against vectors due to rapid resistance",
-      "Insecticides may reduce thrips populations but do not eliminate virus spread"
+      "Valeur limitée des insecticides contre les vecteurs en raison de leur résistance rapide",
+      "Les insecticides peuvent réduire les populations de thrips mais n'éliminent pas la propagation du virus"
     ],
     "biological_control": [
-      "Predators of thrips such as Orius insidiosus (minute pirate bugs) and Geocoris punctipes (big-eyed bugs)"
+      "Predators de thrips tels que Orius insidiosus (minutes d'insectes pirates) et Geocoris punctipes (gros insectes yeux)"
     ]
   },
   "notes": [
-    "Infected plants cannot be cured",
-    "Virus spreads only via thrips, not by seed, other insects, handling, or soil",
-    "TSWV has a very wide host range (>900 species in Australia alone)",
-    "Other related tospoviruses include CaCV, INSV, IYSV"
+    "Les plantes infectées ne peuvent pas être guéries",
+    "Le virus se propage uniquement par thrips, non par les graines, les autres insectes, la manipulation ou le sol.",
+    "Le TSWV a une très large aire d'accueil (>900 espèces en Australie seulement)",
+    "Les autres tospovirus liés comprennent CaCV, INSV, IYSV"
   ]
 }

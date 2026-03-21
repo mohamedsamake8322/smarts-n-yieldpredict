@@ -1,0 +1,75 @@
+{
+  "disease": "Blotch de frutas bacterianas",
+  "scientific_name": "Acidovorax citrulli",
+  "description": "La bacteria Acidovorax citrulli (BFB) es una enfermedad bacteriana destructiva que afecta a los cultivos de cucurbitáceas en todo el mundo. Es causada por la bacteria Gram-negativa Acidovorax citrulli y se propaga principalmente a través de semillas contaminadas. La enfermedad puede causar graves pérdidas económicas, especialmente en la producción de sandías y melones. La infección conduce a lesiones empapadas en agua en plántulas, hojas y frutas, lo que eventualmente resulta en pudrición de frutas, grietas y pérdida de cultivos.",
+  "hosts": [
+    "Sandía (Citrullus lanatus)",
+    "Melón (Cucumis melo)",
+    "Pepino (Cucumis sativus)",
+    "Calabaza (Cucurbita spp.)",
+    "Zucchini (Cucurbita pepo)",
+    "Las demás plantas de cucurbitáceas"
+  ],
+  "symptoms_and_damage": [
+    "Semilleros: lesiones empapadas en agua en cotiledones e hipocotilos que conducen al colapso y la muerte",
+    "Hojas: grandes lesiones irregulares que son de color marrón a negro en sandía y marrón rojizo en melón",
+    "Las lesiones de las hojas a menudo se diseminan a lo largo de la costilla media principal",
+    "Frutas: pequeñas lesiones empapadas en agua que se agrandan y se hunden",
+    "La corteza de fruta se vuelve necrótica, lo que lleva a grietas y caries",
+    "Las lesiones permiten infecciones secundarias por otros patógenos",
+    "Los frutos gravemente infectados se pudren y pueden contaminar las semillas"
+  ],
+  "disease_cycle": [
+    "La transmisión primaria se produce a través de semillas infectadas",
+    "La bacteria puede sobrevivir dentro de las semillas durante muchos años.",
+    "Inicialmente se comporta como un saprofito usando nutrientes de la semilla",
+    "Cambia al crecimiento patogénico cuando emerge la plántula",
+    "Las bacterias infectan el desarrollo de frutas a través de estomatas 3–4 semanas después del set de frutas",
+    "Los síntomas a menudo aparecen tarde, cerca de la cosecha, creando un retraso entre la infección y la detección",
+    "Los frutos infectados pueden contaminar nuevas semillas, continuando el ciclo"
+  ],
+  "favorable_conditions": [
+    "Altas temperaturas",
+    "Alta humedad",
+    "Condiciones cálidas y húmedas del invernadero",
+    "Alta carga bacteriana en semillas contaminadas",
+    "Poblaciones de plantas densas e irrigación general"
+  ],
+  "prevention_and_cultural_controls": [
+    "Utilizar semillas certificadas sin patógenos",
+    "Realizar pruebas sanitarias de semillas antes de la plantación",
+    "Mantener un saneamiento estricto en viveros e invernaderos",
+    "Evite plantar lotes de semillas contaminadas",
+    "Reducir el riego general para limitar la propagación bacteriana",
+    "Retire los restos de plantas infectadas y las plantas de cucurbitáceas voluntarias"
+  ],
+  "chemical_control": [
+    "Los bactericidas a base de cobre se pueden utilizar preventivamente para reducir la propagación bacteriana",
+    "El control químico es generalmente limitado en eficacia",
+    "Las solicitudes deben seguir la normativa agrícola local y las etiquetas de los productos"
+  ],
+  "biological_control": [
+    "Actualmente no se dispone de métodos de control biológico ampliamente establecidos",
+    "Se están realizando investigaciones para identificar antagonistas biológicos eficaces"
+  ],
+  "resistance_breeding": [
+    "Actualmente no se dispone de cultivares comerciales con fuerte resistencia",
+    "Algunas adhesiones experimentales de sandía y melón han mostrado resistencia parcial",
+    "Los programas de cría continúan buscando germoplasma resistente"
+  ],
+  "monitoring": [
+    "Inspeccione las plántulas en busca de lesiones empapadas en agua en cotiledones",
+    "Monitor de hojas para lesiones irregulares de color marrón o negro a lo largo de las venas",
+    "Comprobar las frutas en busca de manchas empapadas en agua que se agrandan y se hunden",
+    "Ensayo de lotes de semillas para la contaminación antes de la plantación"
+  ],
+  "direct_control_and_restrictions": [
+    "Destruye las plantas infectadas para prevenir la propagación",
+    "Utilizar tratamiento térmico de semillas (alrededor de 85°C durante 3-5 días) para reducir la contaminación bacteriana",
+    "Implantar una higiene estricta en las instalaciones de producción y trasplante de semillas",
+    "Evitar el ahorro de semillas de frutas infectadas"
+  ],
+  "sources": [
+    "Wikipedia – La mancha bacteriana de la fruta"
+  ]
+}

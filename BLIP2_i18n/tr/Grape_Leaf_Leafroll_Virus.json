@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "Grapevine Leafroll Hastalığı",
+  "scientific_name": "Grapevine leafroll ile ilişkili virüs (GLRaVs)",
+  "pathogen_type": "Virüsler",
+  "description": "Üretimi ve meyve kalitesini azaltan bir grapevine viral hastalığıdır. yaprak döndürülmesine, bozulmasına ve kötü bir grape ripening'e neden olur.",
+  "symptoms": [
+    "Ağaçlar kenarlardan aşağıya dönüyor",
+    "Kırmızı veya pürüzsüz yapraklar kırmızı çeşitlerde",
+    "Beyaz çeşitlerde sarı yapraklar",
+    "Yeşil damarlar görülebilir",
+    "Gecikmiş Meyve Sıcaklığı",
+    "Çileklerde az miktarda şeker"
+  ],
+  "hosts": [
+    "Grapevine (Vitis vinifera için)",
+    "Tablo çöpleri",
+    "Şarap Şarapları",
+    "Wild Vitis türleri"
+  ],
+  "favorable_conditions": [
+    "Mealybugs ve ölçekli böceklerin varlığı",
+    "Enfekte bitki malzemelerinin kullanımı"
+  ],
+  "spread": [
+    "Meyveler",
+    "Yumuşak ölçekli böcekler",
+    "Enfekte kesimler ile promosyon"
+  ],
+  "management": [
+    "Enfekte şarapları ortadan kaldırın",
+    "Mealybugs ve ölçekli böceklerin kontrolü",
+    "Sertifikalı virüssüz bitki malzemesi kullanın",
+    "Düzenli olarak şarap bakımı"
+  ],
+  "biological_control": [
+    "Lady Beetles gibi yemek yiyenlerin doğal düşmanlarını teşvik edin",
+    "Vektörleri kontrol etmek için parazit çubukları kullanın"
+  ],
+  "chemical_control": [
+    "Yemek yemeyi kontrol eden böcekler (örneğin, imidacloprid, spirotetramat)",
+    "Vektör nüfusunu azaltmak için bahçe yağı"
+  ],
+  "prevention": [
+    "Sertifikalı virüssüz şaraplar",
+    "Önceki Önceki yazı: Böcek Vektörleri Kontrolü",
+    "Enfekte şarapları hızlı bir şekilde ortadan kaldırın",
+    "Sanitasyon yayma malzemeleri"
+  ],
+  "source": [
+    "FAO Grapevine Hastalığı Rehberi",
+    "UC Davis Şarap Kaynakları",
+    "Uluslararası Şarap Konseyi (OIV)"
+  ]
 }

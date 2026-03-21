@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
-  "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "disease": "Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo",
+  "scientific_name": "Mji wa Chamaepsila Rose",
+  "pathogen_type": "Ugonjwa wa wanyama",
+  "description": "Mti wa mti ni uharibifu mkubwa wa wanyama wa mti na matunda yanayohusiana. Mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti wa mti.",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "Maua ya kuongezeka kwa nyekundu au nyekundu",
+    "Rusty-brown tuneli chini ya ngozi ya karoti",
+    "Matokeo ya mazao yanaongezeka na kuharibiwa",
+    "Chakula rahisi baada ya maambukizi",
+    "Kupunguza uzalishaji na viungo vya ubora"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "Tuna ya rusty ya rusty ya rusty ya rusty",
+    "Matokeo ya matunda ya matunda ya matunda ya matunda ya matunda",
+    "Fomu ya karoti ya Redish au Yellow"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "Wawakilishi (Wawakilishi Wawakilishi)",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "Wanyama ni maua ya kreami ya kijani",
+    "Wawakilishi wa Wawakilishi wa",
+    "Larvae kufikia muda wa karibu 10 mm",
+    "Ndege za watu wazima ni ndogo na ndogo"
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "Roho ya",
+    "Makala ya"
   ],
-
   "hosts": [
-    "carrot",
-    "parsnip",
-    "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "Karoti ya",
+    "ya Parsnip",
+    "ya Parsley",
+    "ya celery",
+    "Mazao mengine ya Apiaceae"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Maisha ya Apiaceae",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "Wanawake wanapiga maua katika ardhi karibu na mimea ya karoti",
+    "Hatch ya larvae kutoka kwa maziwa",
+    "Larvae kukimbia katika matunda ya karoti na chakula",
+    "Larva kuongezeka katika ardhi na baadaye kuwa mti wa watu wazima"
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "Hali ya hewa kwa joto ya chini",
+    "mazingira ya ardhi",
+    "maeneo ya mapato ya mapato ya awali"
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "Watu wazima wanachukua maziwa katika ardhi",
+    "Mabadiliko kati ya maeneo ya karoti karibu"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "Kutumia mzunguko wa mimea ili kuepuka kupanda mimea mara kwa mara katika eneo moja",
+    "Kuondoa matunda na matunda yaliyoathiriwa",
+    "Kutumia vikwazo vya kimwili kama vile mti au mti wa mbegu",
+    "Kutumia mti wa bustani ili kutibu matunda",
+    "aina ya mimea ya mimea wakati inapatikana"
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "Matokeo ya faida (Steinernema) yanayotumika kwenye ardhi",
+    "Kuimarisha wanyama wa asili wa larvae"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "Mchakato wa mazao yanayotumika ambapo inapatikana",
+    "Matibabu yanayohusiana na insecticides dhidi ya larvae (kila sheria za ndani zinatumika)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "Mwisho wa",
+    "Chakula",
+    "Wawakilishi",
+    "Rosemary ya",
+    "Ujuzi wa"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "Kutumia wanyama mzuri kuongezeka karibu na matunda",
+    "Kupata mimea na mimea ya kulevya",
+    "Karoti ya Intercrop na matunda ya aromatic",
+    "Uhifadhi wa maeneo ya hewa",
+    "Kuepuka kuondoa wanyama kuharibiwa katika ardhi"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "Mkataba wa Ulinzi wa CABI",
+    "Chuo Kikuu cha uzalishaji wa kilimo",
+    "Ulinzi wa Ulinzi wa Ulinzi wa Integrated"
   ]
 }

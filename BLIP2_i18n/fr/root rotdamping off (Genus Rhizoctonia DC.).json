@@ -1,90 +1,90 @@
 {
- "disease": "Rhizoctonia Root Rot and Damping-off",
- "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
- "pathogen_type": "Fungus",
- "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
- "symptoms": [
-  "Seedlings collapsing at the soil line",
-  "Brown or reddish lesions on stems near the soil surface",
-  "Root rot and poor root development",
-  "Wilting and stunted plant growth",
-  "Irregular patches of dead or weak plants in the field",
-  "Stem girdling causing plant death"
- ],
- "visual_symptoms": [
-  "brown sunken lesions at soil line",
-  "seedlings falling over",
-  "rotted or poorly developed roots",
-  "patches of dead seedlings"
- ],
- "hosts": [
-  "Beans",
-  "Soybean",
-  "Maize",
-  "Rice",
-  "Potato",
-  "Tomato",
-  "Lettuce",
-  "Cabbage",
-  "Carrot",
-  "Pepper",
-  "Cotton",
-  "Many vegetable and field crops"
- ],
- "plant_parts_affected": [
-  "roots",
-  "seedlings",
-  "lower stem",
-  "hypocotyl"
- ],
- "favorable_conditions": [
-  "Warm and moist soil",
-  "Poorly drained soil",
-  "High plant density",
-  "Compacted soil",
-  "Crop residue in soil"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Movement of soil on tools or machinery",
-  "Infected seedlings or transplants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil and plant debris",
-  "It infects seeds or young seedlings",
-  "Lesions develop on stems and roots",
-  "The pathogen spreads through soil contact"
- ],
- "impact": [
-  "Poor seed germination",
-  "Loss of seedlings",
-  "Reduced plant population",
-  "Lower crop yield"
- ],
- "cultural_control": [
-  "Use well-drained soils",
-  "Avoid planting in cold or very wet soil",
-  "Rotate crops with non-host plants",
-  "Reduce plant density",
-  "Remove infected plant debris"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment fungicides",
-  "Soil fungicides when necessary"
- ],
- "prevention": [
-  "Use certified healthy seeds",
-  "Improve soil drainage",
-  "Avoid excessive irrigation",
-  "Practice crop rotation"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Rhizoctonia Root Rot and Damping-off",
+  "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
+  "pathogen_type": "Champignons",
+  "description": "La pourriture et l'amortissement des racines de Rhizoctonia sont une maladie fongique répandue dans le sol qui attaque les graines, les semis et les racines des plantes, cause des lésions de la tige près de la ligne du sol, de la pourriture des racines et de l'effondrement des jeunes plantes.",
+  "symptoms": [
+    "Les semis s'effondrent à la limite du sol",
+    "Lésions brunes ou rougeâtres sur les tiges près de la surface du sol",
+    "Pourriture des racines et faible développement des racines",
+    "Wilting et retard de croissance des plantes",
+    "Morceaux irréguliers de plantes mortes ou faibles dans le champ",
+    "Ceinture de la tige causant la mort de la plante"
+  ],
+  "visual_symptoms": [
+    "lésions brunes ensanglantées à la ligne du sol",
+    "semis tombant sur",
+    "racines pourries ou mal développées",
+    "parcelles de semis morts"
+  ],
+  "hosts": [
+    "Haricots",
+    "Soja",
+    "Maïs",
+    "Riz",
+    "Pommes de terre",
+    "Tomates",
+    "Laitue",
+    "Cravates",
+    "Carotte",
+    "Poivre",
+    "Coton",
+    "Nombreuses cultures végétales et de grande culture"
+  ],
+  "plant_parts_affected": [
+    "racines",
+    "Plantules",
+    "tige inférieure",
+    "hypocotyle"
+  ],
+  "favorable_conditions": [
+    "Sol chaud et humide",
+    "Sols mal drainés",
+    "Haute densité végétale",
+    "Sol compacté",
+    "Résidus de culture dans le sol"
+  ],
+  "spread": [
+    "Sol contaminé",
+    "Débris de plantes infectées",
+    "Déplacement du sol sur des outils ou des machines",
+    "Plantules ou transplantations infectées"
+  ],
+  "disease_cycle": [
+    "Le champignon survit dans le sol et les débris végétaux",
+    "Il infecte les graines ou les jeunes plants",
+    "Les lésions se développent sur les tiges et les racines",
+    "Le pathogène se propage par contact avec le sol"
+  ],
+  "impact": [
+    "Mauvaise germination des graines",
+    "Perte de semis",
+    "Réduction de la population végétale",
+    "Baisse du rendement des cultures"
+  ],
+  "cultural_control": [
+    "Utiliser des sols bien drainés",
+    "Évitez de planter dans un sol froid ou très humide",
+    "Cultures en rotation avec des plantes non hôtes",
+    "Réduire la densité des plantes",
+    "Enlever les débris végétaux infectés"
+  ],
+  "biological_control": [
+    "Utiliser des champignons bénéfiques tels que les espèces de Trichoderma",
+    "Utiliser des bactéries bénéfiques comme Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Fongicides de traitement des semences",
+    "Fongicides du sol si nécessaire"
+  ],
+  "prevention": [
+    "Utiliser des semences saines certifiées",
+    "Améliorer le drainage des sols",
+    "Éviter l'irrigation excessive",
+    "Pratiquer la rotation des cultures"
+  ],
+  "source": [
+    "Références de pathologie végétale",
+    "Guides de gestion des maladies agricoles"
+  ]
 }

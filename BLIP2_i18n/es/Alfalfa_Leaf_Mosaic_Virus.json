@@ -1,0 +1,70 @@
+{
+  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
+  "common_name": "Enfermedad del Mosaico de la Alfalfa",
+  "pathogen": {
+    "type": "virus",
+    "scientific_name": "Virus del mosaico de la alfalfa",
+    "abbreviation": "AMV",
+    "family": "Bromoviridae",
+    "genus": "Alfamovirus"
+  },
+  "host_plants": [
+    "Alfalfa",
+    "Patata",
+    "Tomate",
+    "Pimienta",
+    "Semillas de soja",
+    "Clover",
+    "Guisantes",
+    "Judía",
+    "Tabaco",
+    "Muchas plantas ornamentales"
+  ],
+  "symptoms": {
+    "leaves": [
+      "Patrones de mosaico amarillo brillante",
+      "Moteado clorótico",
+      "Distorsión de las hojas",
+      "Hojas estrechas o alargadas",
+      "Tamaño reducido de la hoja"
+    ],
+    "plants": [
+      "Crecimiento aturdido",
+      "Reducción del vigor",
+      "Rendimiento reducido"
+    ]
+  },
+  "transmission": {
+    "vectors": [
+      "Aphids (más de 20 especies)"
+    ],
+    "mechanical_transmission": true,
+    "seed_transmission": true,
+    "vegetative_propagation": true
+  },
+  "favorable_conditions": [
+    "Poblaciones áfidas altas",
+    "Temperaturas cálidas",
+    "Presencia de plantas anfitrionas infectadas cerca"
+  ],
+  "management": {
+    "cultural_control": [
+      "Utilizar semillas certificadas libres de virus",
+      "Eliminar las plantas infectadas",
+      "Controlar las malas hierbas que actúan como reservorios de virus"
+    ],
+    "vector_control": [
+      "Supervisar y gestionar las poblaciones de áfidos"
+    ],
+    "resistant_varieties": "Algunos cultivares tolerantes disponibles dependiendo de la cosecha"
+  },
+  "economic_importance": {
+    "impact": "Reduce el rendimiento y la calidad de los cultivos en muchos cultivos de legumbres y hortalizas",
+    "distribution": "En todo el mundo"
+  },
+  "sources": [
+    "APS Plant Disease Handbook",
+    "Compendio de protección de cultivos CABI",
+    "Taxonomía del virus ICTV"
+  ]
+}

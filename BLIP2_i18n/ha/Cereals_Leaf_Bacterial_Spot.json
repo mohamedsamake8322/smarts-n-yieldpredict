@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
-  "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "disease": "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+  "scientific_name": "X Mai Ban Al'ajabi",
+  "pathogen_type": "KCharselect unicode block name",
   "pathovars": [
-    "Xanthomonas translucens pv. undulosa",
-    "Xanthomonas translucens pv. translucens",
-    "Xanthomonas translucens pv. cerealis"
+    "X Aliiiiiiiiiiiia.",
+    "X Aus of Sao'i.",
+    "QXml"
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "Cin hanci yana da muhimmanci sosai domin ba za a iya sanin bambancin da ke tsakanin alkama da sha'ir ba.",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "Da wani ruwa mai gudãna.",
+    "Hasken walƙiyarsa Yanã kusa ya tafi da gannai.",
+    "Ana iya yin amfani da na'ura mai tsawo da kuma na dogon lokaci",
+    "Ana iya yin amfani da na'ura da aka haɗa da kayan aiki",
+    "Mai twãle fãtar goshi.",
+    "Ana iya bayyana a kan wasu ƙwayoyin cuta da aka yi da ruwan sama",
+    "Wasu suna iya kallon hoton da ke ciki"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "Media controller element",
+    "Wasu Abubuwan da ke Biyan Aiki na Dā",
+    "Sa'an nan, Muka sanya samanta ya kõma ƙasanta, kuma Muka yi ruwan duwãtsu na lãkar wuta a kanta."
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "hagu",
+    "Da itãcen dabĩno dõgãye, sunã da'ya'yan itãce gunda mãsu hauhawar jũna.",
+    "A wasu lokatai, ka saurare shi sa'ad da yake ba da jawabi a kai a kai"
   ],
-
   "hosts": [
-    "wheat",
-    "barley",
-    "rye",
-    "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "alkama",
+    "Zane-Zane",
+    "Indian National weekday 3 - LongDayName",
+    "Inã rantsuwa da alfijiri.",
+    "QDialogButtonBox",
+    "Indian National weekday 3 - LongDayName",
+    "DakataCoptic month 5 - LongName",
+    "Shirin Hana Haske"
   ],
-
-  "plant_family": "Poaceae",
-
+  "plant_family": "KCharselect unicode block name",
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
-    "Zea mays"
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "KCharselect unicode block name",
+    "MGBOKO UMUORIA 7 (Igbo)",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Text character set"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Abãban ɗaukakãwa, abãban tsarkakẽwa.",
+    "@ action",
+    "KCharselect unicode block name",
+    "Muna girma a lokacin da muke girma"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "Media controller element",
+    "Media controller element",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "' Yan gudun hijira sun tsira a kan iri mai tsanani",
+    "@ action",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ruwan sama ya yi haske ga shuke - shuke da ke kusa"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "KCharselect unicode block name",
+    "Ka yi amfani da iri mai kyau don ka gwada lafiyar jiki",
+    "Kuma kada ku ƙõsa ga rubũta shi, ƙarami ya kasance kõ babba, zuwa ajalinsa.",
+    "Yi amfani da ciyar da Ƙarfi ko kuma ba da haɗin kai sa'ad da ake da izini",
+    "Ku riƙa yin wa'azi a kai a kai don abubuwan da za su iya faruwa tun da wuri",
+    "Ka bi dokoki da aka kafa wa iri"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "@ item Text character set"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "Babu wani mai iko sosai da za a iya yin amfani da shi a gona"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "Ruwan inabi mai zafi (daga shekara ta 53 K.Z.)",
+    "Media controller element",
+    "KCharselect unicode block name"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "Ka yi rashin kashi 40 zuwa kashi 40 a yanayi mai tsanani",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "@ item Spelling dictionary",
+    "@ item Text character set",
+    "@ item Text character set"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
-    "Sapkota et al. 2020"
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary"
   ]
 }

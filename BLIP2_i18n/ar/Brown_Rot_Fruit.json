@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
-  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "disease": "روت تعفن الفاكهة",
+  "scientific_name": "Monilenia fructiigena، Monilenia fruticula، Monilenia lax",
+  "pathogen_type": "المنقوس",
+  "description": "إن التعفن البني مرض فطري يهاجم الثمار والزهور والأغصان من العديد من أشجار الفاكهة، ويتسبب في تفسخ الفاكهة قبل الحصاد أو بعده، ويمكن أن ينتشر بسرعة في ظروف دافئة ورطوبة.",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "بقع صغيرة لبنية على سطح الفاكهة",
+    "لينة بنية لينة تُعَرَّفُ مُنْسِلًا عبر الفاكهة",
+    "\"دوران رمادي أو بيجي على الفاكهة \"",
+    "« فواكه مهتدة » مهتد « على الشجرة » التي على الشجرة « وتجف على الشجرة » .",
+    "الثمرات المحفورة المتبقية في الفروع",
+    "حَلَلَّةٌ وضَرْفٌ فِي حالات الالتهاب الشديد"
   ],
   "hosts": [
-    "peach",
-    "apricot",
-    "plum",
-    "cherry",
-    "nectarine",
-    "apple",
-    "pear",
-    "almond",
-    "other stone fruits"
+    "الكســر",
+    "مُسَكَكَت",
+    "بدولارات الولايات المتحدة",
+    "حب",
+    "(لكرهنتين)",
+    "تفاحس",
+    "28 كانون الأول/ديسمبر",
+    "الملحق باللسن",
+    "أحجار أخرى حجارة"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "درجات حرارة الحرارة (20 - 25 درجة مئوية)",
+    "الرطوبة العالية",
+    "هطول هطول الأمطار",
+    "الإصابات أو الشقوق",
+    "بستانات ذات تدفق جوي ضعيف"
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "البوجــات الطائــيــة",
+    "(ب) المطر",
+    "الثمار المُعَدَّة المتروكة على الأشجار",
+    "مُحَرَّماً على الفروع",
+    "أُطلِلَة المُعَيَّنَةُ"
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "(أ) إزالة وتدمير ما يلي:",
+    "أشجار الرش لتحسين تدفق الهواء",
+    "أزيلت ثماره من الأشجار",
+    "تجنب حدوث إصابات في أثناء الحصاد",
+    "المحافظة على الصرف الصحي"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "Baccellus Subtilis مبيدات الآفات البيولوجية",
+    "العلاجات البيولوجية القائمة على أساس ثلاثي تشودرما",
+    "عناصر الرقابة البيولوجية"
   ],
   "chemical_control": [
-    "Tebuconazole",
-    "Propiconazole",
-    "Myclobutanil",
-    "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
-    "Fenbuconazole"
+    "تيبوconazole",
+    "البرولينية azole",
+    "مشروع ماي (CyCloparanil)",
+    "المُرْكَبْن",
+    "ما يُنكس(ب)",
+    "Assexstorbin",
+    "المكنازel"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "ازيلي منه ما أُزيلت منه خلال الموسم",
+    "تجنب الضرر الذي تحدثه الحشرات",
+    "المحافظة على النظافة الصحية الجيدة",
+    "اِكْوَاكِلْكِنْمَا",
+    "تخزن الفواكه في ظروف جافة وباردة"
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "تعفن تعفناً على الفاكهة",
+    ")ب( حلقات",
+    "الثمرات التي تم تغييرها في الفروع"
   ],
   "source": [
-    "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "جيم جيم جيم- حماية المحاصيل",
+    "الحدود في علم الميكروبيولوجيا",
+    "معلم صحة النبات",
+    "جامعة كورنيل - أمراض الأشجار والشروب"
   ]
 }

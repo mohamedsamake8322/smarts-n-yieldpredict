@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
-  "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "pest_name": "منظَمتان منظَمتان",
+  "scientific_name": "Tetranychuss urticae Kuch",
+  "type": "/ mit",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "الراشــر )١,٠,٤ - ٠,٥ ملم",
+    "appearance": "اخضر الى اصفر جسم مع بقعتين غامقتين على الظهر ، ثمانية ارجل",
+    "life_cycle": "بيض - اليرقا - البالغون: عدة أجيال في الموسم الواحد",
+    "notes": "صغير جداً جداً، يتطلب في كثير من الأحيان عدسة يدوية أو مكبّرة للكشف"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "طاطاطاطاط",
+      "",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+      "الفراء"
+    ],
+    "secondary": [
+      "العديد من المليات والخضراوات والمحاصيل المثمرة"
+    ],
+    "weeds": [
+      "مُضيفات العُشَر المُعَرَّبَات يُمْكِنُ أَنْ تَرْفَى المُسْتَقْمَمِينَاتِ ٱلْمَسْكِينِينَاتِ عِنْدَ مَوْقِفِ ٱلْمَوْقِفِ"
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "حول العالم ، وخصوصا في الظروف الدافئة والجافة",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "بقع تينية أصفر أو شاحل على سطح الورقة العلوية (الليزر)",
+      "يَنْكِشُ على جانب أسفل أسفل من أوراق الأوراق في ظلّ كَثَرَةٍ كَثِيفَةٍ مِنْ مَنْ يَنْزَلُ",
+      "اوراق الاوراق قد تتحول الى برونز ، تَجَلُّب ، وتسقط قبل الاوان"
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "انخفاض معدل الإنتاج، زيادة الإجهاد في النباتات"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "التحفيز في الأحوال الجوية الساخنة والجافة",
+    "النمو السكاني سريع تحت درجات حرارة تتراوح بين 25 و35 درجة مئوية",
+    "تفضيلات النجاحات المنخفضة نسباً منخفضة"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "الرياح، مياه الري، الأدوات الملوثة",
+    "نُقلت عن طريق نباتات موبوءة أو حطام نباتي"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "المحافظة على ما يكفي من الري والرطوبة للحد من الإجهاد على النباتات",
+      "إزالة الأنقاض والأعشاب النباتية الموبوءة",
+      "تجنب الإفراط في استخدام المبيدات الحشرية الواسعة النطاق التي تعطل المفترسات الطبيعية"
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "إدخال ميزات مفترسة (على سبيل المثال، Phytoseyulus persimilis, Neosseiulus californius)",
+      "تشجع المفترسات الطبيعية مثل الخنافس النسائية والأحياء"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "استخدام مبيدات النيتات (مبيدات الآفات) كملاذ أخير وتناوب الفئات الكيميائية لتجنب المقاومة",
+      "تطبيق على أسفل جوانب الأوراق التي تتركز فيها العث"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "واحدة من أكثر الآفات الحشرية شيوعاً وأهمية من الناحية الاقتصادية في جميع أنحاء العالم",
+    "يمكن أن تطور مقاومة سريعة إلى فئات كيميائية متعددة"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "و. وسابليس، م. و. (1985).",
+    "Gerson, U., Smiley, R.L., and Ochoa, R. (2003). Mites (Acari) من أجل مكافحة الآفات. Blackwell Science.",
+    "جبسون، ل. ر.، كيفر، ه. ه.، وبيكر، إ. و. (1975)."
   ]
 }

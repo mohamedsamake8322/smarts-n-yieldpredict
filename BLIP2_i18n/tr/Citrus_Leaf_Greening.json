@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "Citrus Leaf Yeşillendirme",
   "other_names": [
-    "Huanglongbing",
+    "Huanglongbing için",
     "HLB",
-    "Citrus Greening"
+    "Citrus yeşillik"
   ],
   "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "pathogen_type": "Bakteriler",
+  "description": "Citrus yeşillendirmesi sitrus ağaçlarının en yıkıcı hastalıklarından biridir. Liberibacter türünün bakterilerinden kaynaklanır ve çoğunlukla psylid böcekler tarafından bulaşır. Enfekte ağaçlar küçük, acı, kötü renkli meyveler üretir ve sonunda birkaç yıl içinde düşer ve ölür.",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
-    "Citrus limon (lemon)",
-    "Other Citrus species"
+    "Citrus sinensis (yumuşak portakal)",
+    "Citrus reticulata (Mandarin için)",
+    "Citrus paradisi (Grepefruit için)",
+    "limon limonu ( limon limonu )",
+    "Diğer Citrus türleri"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "Asyalı citrus psyllid (Diaphorina citri)",
+    "Afrikalı citrus psyllid (Trioza erytreae)"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "Blotchy sarı mektuplar üzerinde",
+    "Yeşil yaprak damarları ve atışlar",
+    "Ağaç büyümesi",
+    "Twig dieback ve erken yaprak düşüşü",
+    "Küçük, düzensiz, kötü renkli meyveler",
+    "Meyveler kısmen yeşil kalırken",
+    "Meyvelerin tadı acı ya da çürük",
+    "Abort tohumları ve zayıf meyve gelişimi"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "Bakteriler sitrus ağaçlarının fluem dokusunda yaşar",
+    "Çoğunlukla psylid böcekler tarafından yayılır, enfekte bitkilerde beslenir",
+    "Ayrıca, enfekte bitki malzemesi grafting aracılığıyla da yayılabilir",
+    "Genç psilid aşamaları bakterileri kazanır ve sağlıklı bitkilere iletir."
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "Tropik ve subtropik bölgelerde sıcak iklimler",
+    "Psyllid böcek vektörlerinin varlığı",
+    "Citrus Üretim Bölgeleri"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
-    "Brazil",
-    "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "Asya",
+    "Afrika",
+    "Amerika Birleşik Devletleri (Florida, Texas, California ve diğerleri)",
+    "Brezilya",
+    "Meksika",
+    "Dünya çapında çok sayıda tropikal ve subtropikal sitrus büyüyen bölgeler"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "Psyllid böcek popülasyonlarının kontrolü",
+    "Enfekte ağaçları kaldırmak ve yok etmek",
+    "Temiz ve sertifikalı bitki malzemesi kullanın",
+    "Düzenli izleme ve erken tespit",
+    "Resistant citrus çeşitleri hakkında araştırma"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "Şu anda etkili bir tedavi yoktur.",
+    "Enfekte ağaçlar genellikle birkaç yıl içinde ölür.",
+    "Bu hastalık dünya çapında sitrik endüstrilerinde büyük ekonomik kayıplara yol açtı."
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "Wikipedia - Citrus yeşillendirme hastalığı",
+    "USDA – Citrus Greening ve Asya Citrus Psyllid"
   ]
 }

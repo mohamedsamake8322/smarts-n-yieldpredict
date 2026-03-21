@@ -1,66 +1,77 @@
 {
-  "disease_name": "Tomato Yellow Leaf Curl Virus",
-  "type": "viral disease",
-  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "disease_name": "Virus des courbures des feuilles jaunes de tomate",
+  "type": "maladie virale",
+  "causal_agent": "Virus des feuilles jaunes de tomate (TYLCV), genre Begomovirus, famille des Geminiviridae",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena)", "Potato (Solanum tuberosum)", "Tobacco (Nicotiana spp.)", "Beans (Phaseolus vulgaris)", "Peppers (Capsicum annuum)"],
-    "weeds": ["Datura stramonium", "Malva parviflora"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Aubergine (Solanum melongena)",
+      "Pommes de terre (Solanum tuberosum)",
+      "Tabacs (Nicotiana spp.)",
+      "Haricots (Phaseolus vulgaris)",
+      "Poivrons (Capsicum annuum)"
+    ],
+    "weeds": [
+      "Datura stramonium",
+      "Malva parviflora"
+    ]
   },
-  "distribution": "Worldwide, especially tropical and subtropical regions",
+  "distribution": "Dans le monde entier, en particulier dans les régions tropicales et subtropicales",
   "vector": {
-    "species": "Bemisia tabaci (silverleaf or sweet potato whitefly)",
-    "transmission_type": "persistent-circulative nonpropagative",
+    "species": "Bemisia tabaci (volaille à feuilles argentées ou à patates douces)",
+    "transmission_type": "non propagative à circulation persistante",
     "notes": [
-      "Acquisition access period: 15–20 minutes",
-      "Latent period: 8–24 hours",
-      "Females transmit virus more efficiently than males",
-      "Transovarial transmission observed for two generations",
-      "Sexual transmission between whiteflies documented"
+      "Période d'accès à l'acquisition : 15-20 minutes",
+      "Période de latence: 8-24 heures",
+      "Les femmes transmettent le virus plus efficacement que les hommes",
+      "Transmission transovariale observée pendant deux générations",
+      "Transmission sexuelle entre mouches blanches documentée"
     ]
   },
   "symptoms": {
     "foliage": [
-      "Severe stunting",
-      "Reduction of leaf size",
-      "Upward cupping/curling of leaves",
-      "Chlorosis on leaves and flowers"
+      "Ralentissements sévères",
+      "Réduction de la taille des feuilles",
+      "Coupe/courbure des feuilles vers le haut",
+      "Chlorose sur les feuilles et les fleurs"
     ],
     "fruit": [
-      "Reduced fruit production",
-      "Distorted fruit"
+      "Réduction de la production de fruits",
+      "Fruits distordus"
     ],
-    "overall_impact": "Yield losses of 90–100% possible in severe outbreaks"
+    "overall_impact": "Pertes de rendement de 90 à 100 % possibles lors d'éclosions graves"
   },
   "disease_cycle": [
-    "Virus introduced via infected seedlings, contaminated tools, or whitefly vector",
-    "Once established, whiteflies spread virus rapidly from plant to plant",
-    "Virus persists in alternative hosts including weeds and other solanaceous crops",
-    "Environmental factors such as warm tropical climates favor virus proliferation"
+    "Virus introduit par l'intermédiaire de semis infectés, d'outils contaminés ou d'un vecteur à mouche blanche",
+    "Une fois établis, les mouches blanches propagent rapidement le virus d'une plante à l'autre.",
+    "Le virus persiste chez d'autres hôtes, y compris les mauvaises herbes et d'autres cultures solanacées.",
+    "Des facteurs environnementaux tels que les climats tropicaux chauds favorisent la prolifération des virus"
   ],
   "management": {
     "cultural": [
-      "Plant TYLCV-resistant or tolerant tomato varieties",
-      "Rotate crops to non-hosts to reduce inoculum",
-      "Eliminate or control weed hosts",
-      "Use greenhouse production to reduce vector access"
+      "Variétés de tomates résistantes ou tolérantes au TYLCV",
+      "Rotation des cultures vers les non-hôtes pour réduire l'inoculum",
+      "Éliminer ou contrôler les hôtes de mauvaises herbes",
+      "Utiliser la production de serre pour réduire l'accès aux vecteurs"
     ],
     "chemical": [
-      "Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance",
-      "Timing of applications is critical due to rapid virus transmission by whiteflies"
+      "Appliquer des insecticides ciblant Bemisia tabaci, en tournant ou en mélangeant des ingrédients actifs pour prévenir la résistance",
+      "Le calendrier des applications est critique en raison de la transmission rapide du virus par les mouches blanches"
     ],
     "genetic": [
-      "Breeding or transgenic approaches to produce TYLCV-resistant tomato lines"
+      "Approches génétiques ou transgéniques pour produire des lignées de tomates résistantes au TYLCV"
     ]
   },
   "notes": [
-    "TYLCV is one of the most serious viral diseases of tomato globally",
-    "Developing countries are most affected due to climate and high cost of control measures",
-    "Integrated pest management combining resistant varieties, vector control, and cultural practices is most effective"
+    "TYLCV est l'une des maladies virales les plus graves de la tomate dans le monde",
+    "Les pays en développement sont les plus touchés par le climat et le coût élevé des mesures de lutte",
+    "La lutte intégrée contre les ravageurs combinant les variétés résistantes, la lutte contre les vecteurs et les pratiques culturelles est la plus efficace"
   ],
   "references": [
-    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
-    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
-    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+    "Czosnek, H. & Laterrot, H. 1997. Virus des feuilles jaunes de tomate, un complexe de virus émergent causant des épidémies dans le monde entier.",
+    "Polston, J.E. & Lapidot, M. 2007. Gestion du virus du curl des feuilles jaunes de tomate: Une revue.",
+    "Brown, J.K., 2015. Le complexe d'espèces de Bemisia tabaci et la transmission du TYLCV. Virus Rés 202: 150–162."
   ]
 }

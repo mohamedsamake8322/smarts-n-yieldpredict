@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "PHETOphthora",
+  "scientific_name": "Phiftopthora opsici",
+  "pathogen_type": "أُوركميستيت (كائناً شبيهاً بالكائنات الحية)",
+  "description": "ومرض فيتوفثورا هو مرض مدمِّر لمحاصيل القَطَر التي تسببها البَسْطَة القَطِيَّة التي تصيب الشتلات والأعناق والأوراق والفواكه، مما يؤدي في كثير من الأحيان إلى انهيار سريع للنباتات وخسائر حادة في المحاصيل في ظل ظروف دافئة ومبللة.",
+  "symptoms": [
+    "تثبيط التثبيط عن طريق التعفن بالماء عند خط التربة",
+    "تَنْبَعُ مِنْ نباتات بدون تَسْحِر",
+    "« كآات » كآات « على المساق والأعنب » جمع خلق « من دابة ماء ماء مُسْق » ماء « من دابة » ماء « على المساق والأعنب » .",
+    "بقع الطلعات التي تصبح مبتلاً بالزيتون أو الحدود الصفراء",
+    "ثمرة التعفن تبدأ عند نقطة لمس التربة",
+    "نمو النبتة البيضاء على الفواكه المتعفنة",
+    "واو - الانهالك والانحلال السريعان"
+  ],
+  "visual_symptoms": [
+    "« فساق » مساق « على المساق والأعنس » جمع خلق « في الأرق والأق",
+    "قالب أبيض على الفواكه المُطَبَّحة",
+    "يَطْيُ يَطْيُ يَطْيُ يَطْيُعُونَاتٍ وَخَاطِئَةٍ وَأَوْ شَيْخَتَيْنِ",
+    "(أ) النبتة المفاجئة"
+  ],
+  "hosts": [
+    "",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "سواش",
+    "",
+    "Cantalupe",
+    "(أ) ((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((()(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))))))))))))))((((((((((((())))))))))((((((((())))))))))))))))))))))(((()))))))))))))))))))))((((((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "قُسْج",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "طاطاطاطاط",
+    "المس"
+  ],
+  "plant_parts_affected": [
+    "شتلات",
+    "يُجِج",
+    "يُجج",
+    "(أ) ما كُمما",
+    "أولاً -",
+    "فاكهة"
+  ],
+  "favorable_conditions": [
+    "درجات حرارة الحرارة (20 - 30 درجة مئوية)",
+    "التربة المشبعة بالمياه",
+    "هطول الأمطار أو الفيضان",
+    "الميادين التي يُفقر فيها الفقراء",
+    "الريج"
+  ],
+  "spread": [
+    "حركة المياه في التربة",
+    "(ب) المطر",
+    "",
+    "التربة الملوثة والمعدات الزراعية",
+    "أُطلِلَة المُعَيَّنَةُ"
+  ],
+  "disease_cycle": [
+    "البقاء على قيد الحياة في التربة كآسوسوصور لعدة سنوات",
+    "البذرات التي تزرع وتنتج popoporangia وحيوانات الحيوان",
+    "تُسْكَبُ حيوانات الزُقْس في الماء وفي أنسجة النبتة",
+    "شكل جديد على النباتات المصابة والمنتشرة بالماء أو المطر"
+  ],
+  "impact": [
+    "النكتانة والوفاة",
+    "التعفن في الميدان أو في التخزين",
+    "انتشار المرض السريع بعد هطول الأمطار",
+    "تكبد خسائر تصل إلى نسبة 100 في المائة في حالات التفشي الشديد"
+  ],
+  "cultural_control": [
+    "في الحقول المزروعـة في الحقول المزروعـة",
+    "(أ)",
+    ":: استخدام أُسرة مُرَزَّة لمحاصيل القُطْر",
+    "حقول دوران مع محاصيل غير مستهلكة لمدة لا تقل عن 3 سنوات",
+    "(أ) التخلص من النباتات المُحْكِرة وتدميرها",
+    "معدات المزرعة النظيفة قبل الانتقال بين الحقول"
+  ],
+  "chemical_control": [
+    "معالجة مع ميفينوكساما أو معكسل",
+    "رشات الفولير من الدايمثومور",
+    "مبيدات الفطريات القائمة على أساس النحاس",
+    "تطبيقات مبيدات الفطريات أثناء ظروف الرطوبة"
+  ],
+  "prevention": [
+    "حقول نظيفة بدون تاريخ مرض سابق",
+    "مياه الري الملوثة",
+    "حقول المراقبة بعد هطول هطول هطول هطول الأمطار",
+    "أزيلت المُحْكِسَة بسرعة"
+  ],
+  "source": [
+    "معلم صحة النبات في جامعة إلينوي",
+    "M. 2005 para of cucurbits"
+  ]
 }

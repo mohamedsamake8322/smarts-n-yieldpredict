@@ -1,46 +1,46 @@
 {
-  "disease": "Bacterial Wilt (Leaf)",
-  "scientific_name": "Ralstonia solanacearum",
-  "pathogen_type": "Bacterium",
-  "description": "A soil-borne bacterial disease causing wilting of leaves and stems, eventually killing plants. Can persist in soil and water for years.",
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Kuma ƙasa ta fitar da kayanta, masu nauyi. Kuma kõ dã ya kasance nauyin ƙwãya daga kõmayya ne Mun zo da ita.",
   "symptoms": [
-    "Sudden wilting of leaves",
-    "Yellowing and drooping of older leaves",
-    "Brown discoloration in vascular tissue"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Sai ku tafi ku nẽmo lãbãrin Yũsufu da 'ya'yan itãcen marmari mãsu yawa, idan kun kasance mãsu janaba ku sani ba.",
+    "KCharselect unicode block name"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Other Solanaceae"
+    "QShortcut",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "favorable_conditions": [
-    "Warm soil temperatures",
-    "High soil moisture",
-    "Poorly drained fields"
+    "ƙasa mai sanyi",
+    "ƙasa Mafi Girma",
+    "Mãsu gudu suna ɓũya."
   ],
   "spread": [
-    "Contaminated soil and irrigation water",
-    "Infested tools or machinery",
-    "Planting infected seedlings"
+    "Ƙasa mai zuba da ruwa",
+    "A wurin da ake samun kayan aiki ko kuma na'ura",
+    "Yadda aka shuka iri"
   ],
   "management": [
-    "Use resistant or tolerant cultivars",
-    "Remove and destroy infected plants",
-    "Improve soil drainage and avoid waterlogging",
-    "Practice crop rotation with non-hosts"
+    "Ka Yi Tsayayya da Matsi na Tsara ko Kuma ' Yan'uwa Masu Bi",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "ƙasa mai sanyi kuma tana guje wa ruwa",
+    "Mãsu aikin wahala ne, mãsu gajiya."
   ],
   "chemical_control": [
-    "No effective chemical treatment; focus on sanitation and resistant varieties"
+    "Babu magani mai kyau; mai da hankali ga yin maye da kuma yin tsayayya da sauri"
   ],
   "prevention": [
-    "Use pathogen-free planting material",
-    "Sanitize tools and equipment",
-    "Avoid moving soil from infected fields"
+    "Yi amfani da hanyar kayan daidaita na'ura",
+    "Wurin mai gabatar da shiri da kayan aiki",
+    "Ka guje wa barin ƙasa ta zama ruwan dare"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Management"
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

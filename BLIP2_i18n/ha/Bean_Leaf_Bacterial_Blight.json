@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
-  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
-  "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "disease": "Ka Kasance Mai Sauƙin Hali",
+  "scientific_name": "X Abababababakea.",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Wata cuta mai tsanani tana cike da cututtuka masu tsanani da ke hana mutum ya ci gaba da girma.",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "Kada ka tsaya a cikinsa har abada.",
+    "Raɓa ko kuma ruwan sama da ke cike da dusar ƙanƙara.",
+    "Waɗanda aka ta da daga matattu suna da wurare da yawa da suka rage a hagu",
+    "Media controller element",
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "Wasu sun zama masu arziki, masu baƙar fata, masu ba da tsoro, ko kuma masu shan wahala"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
-    "soybean",
-    "other Phaseolus species"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QXml",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 3 - LongDayName",
+    "@ item Spelling dictionary"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "A cikin wasu ginshiƙai mĩƙaƙƙu",
+    "Media controller element",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Wuraren Mahaɗar Sadarwa",
+    "Da ƙwãya mai sõshiya da ƙamshi."
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ka Guji Abubuwan Raba Hankali",
+    "@ action",
+    "KA YI AMFANI DA ABIN DA KA KOYA"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "Tsayayya wa Waɗanda ba Su yarda da wanzuwar Allah ba"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "Ku guji yin tsayayya da sauri sa'ad da kuke da su",
+    "Ka yi amfani da iri mai tsabta",
+    "Ka guje wa yin aiki a gona",
+    "QXml",
+    "Ka Kasance da Ra'ayin da ya Dace"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
-    "University plant pathology extension publications"
+    "@ item Text character set",
+    "KA RUBUTA ABIN DA KA KOYA GAME DA MU",
+    "@ item Text character set"
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "disease": "Ebe A Na - ere Anụ Ọhịa n'Ụzọ Dị Egwu n'Oge Ochie",
+  "scientific_name": "Ebe a na - agba egwú okpuru",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ka ụlọ ọrụ na - emepụta mkpụrụ akụ́kụ́ bụ ọrịa dị mkpa nke mkpụrụ akụ́kụ́ na - akpata n'ụzọ bụ́ isi ọrịa akụ́kụ́. Ọrịa ahụ na - emepụta mkpụrụ akụ́kụ́ dị iche iche ma na - eme ka mkpụrụ akụ́kụ́ na mkpụrụ akụ́kụ́ ghara ịrụ ọrụ nke ọma, bụ́ nsí na - egbu nnọọ egbu ma na - eme ka anụ ụlọ ghara ịdị ize ndụ ma na - eme ka ha ghara ịdị na - ere mkpụrụ akụ́kụ́.",
+  "hosts": [
+    "free (ma ọ bụ tinye)",
+    "[ Ihe e dere n'ala ala peeji]",
+    "Mkpụrụ akụ́kụ́ ndị bụ́ ezigbo ya",
+    "Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Osisi ndụ na - adị n'usoro"
+  ],
+  "symptoms": [
+    "Ńgwānụ́ banye n'ihe a kụrụ n'ubi",
+    "Ọ na - amalite mgbe mgbe n'ọnụ ọnụ ntị ya, ma ọ pụrụ ịgbasa ruo n'ala ala ya",
+    "A na - eji ihe ndị na - esi ísì ụtọ eme ka ájá mgbe e meghere ya",
+    "Obere ntị na ihe ọkụkụ ndị kpọrọ nkụ ma ọ bụ ndị na - enwe nrụgide",
+    "Ọ na - eme ka mkpụrụ akụ́kụ́ ghara ịdị mma n'anya, na - emekwa ka mkpụrụ akụ́kụ́ ghara ito nke ọma"
+  ],
+  "toxins": [
+    "Ebe a na - edebe ihe ndị e ji ebi akwụkwọ n'oge ochie (n'oge ochie)",
+    "Ndị na - ere ọka na anụ ụlọ na - eri nri",
+    "Ị pụrụ ịnọ ya ọbụna mgbe ọka yiri ka ahụ siri gị ike"
+  ],
+  "disease_cycle": [
+    "Ụmụ irighiri ihe ndị dị ndụ na - ebi n'ala, mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na ndị a kụrụ n'ubi ka à ga - asị na m na - awa ha ahụ́ ma ọ bụ na - agba ha ọgwụ",
+    "Ihe ndị e ji emepụta mmiri ọgwụ ahụ́ bụ́ ndị ifufe na ụmụ ahụhụ na - agbasa",
+    "Ụmụ ahụhụ, nnụnụ, ma ọ bụ akụ́ mmiri igwe na - akpata na - esi n'oghere ma ọ bụ ọnyá ndị ụmụ ahụhụ, apụta",
+    "Ọ̀ pụrụ itinye mkpụrụ akụ́kụ́ tupu oge owuwe ihe ubi ma nọgide na - abụ nke a na - apụghị ibibi ebibi ruo mgbe a ga - echekwa ya echekwa",
+    "A na - anọgide na - emepụta ihe e ji esi nri n'oge okpomọkụ, n'oge ọkọchị ma ọ bụ n'oge owuwe ihe ubi"
+  ],
+  "favorable_conditions": [
+    "Oge oyi na oge ọkọchị",
+    "Nrụgide gabigara ókè ma ọ bụ enweghị afọ ojuju",
+    "Mmetụta uche a na - enwe ná ntị na - emebi ihe",
+    "Oké okpomọkụ na mmiri ozuzo mgbe a na - echekwa ya"
+  ],
+  "spread": [
+    "Ikere ide ude-n'ala",
+    "Nje ndị na - akpata ọrịa (ọrịa ndị na - ebibi ihe, nje ndị na - akpata ọrịa)",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na n'ala",
+    "Mkpụrụ akụ́kụ́ ndị a gbara agba",
+    "Ebe ndị a na - echekwa mkpụrụ akụ́kụ́ nke ọma"
+  ],
+  "monitoring": [
+    "Ma ọ́ dịghị ihe ọzọ, mmadụ iri atọ gere ntị n'ebe dị iche iche a na - ekwusa ozi ọma tupu a na - ewe ihe ubi",
+    "Ihe ndị e ji akpụ afụ ọnụ na ihe ndị e ji enyocha osisi oliv bụ ihe ndị e ji akpụ afụ ọnụ",
+    "Lekwasị anya n'ebe ndị kpọrọ nkụ dị ka ala ájá ma ọ bụ ala ahịhịa",
+    "Osisi ndị na - eto eto bụ́ ndị nwere obere ntị, na - emesi ihe ọkụkụ ike"
+  ],
+  "cultural_management": [
+    "Hichaa ụmụ ahụhụ ndị na-enweghị isi",
+    "Ime ka ihe ọkụkụ belata site n'ịgba ala mmiri na iri nri ndị na - edozi ahụ́ nke ọma",
+    "Owuwe ihe ubi ndị butere ọrịa ahụ ná mmalite",
+    "Ekwela ka mkpụrụ akụ́kụ́ ndị a na - ere ere bụ́ ndị na - emepụta ezigbo mkpụrụ akụ́kụ́ ghara ịdị mma",
+    "Wepụ ọka ndị mebiri emebi ma nọgide na - edebe ihe ọcha"
+  ],
+  "postharvest_management": [
+    "Mkpụrụ akụ́kụ́ na - acha ngwa ngwa e wesịrị ya",
+    "Mee ka mmiri dị n'okpuru otu puku mkpụrụ akụ́kụ́",
+    "Jiri ọ̀tụ̀tụ̀ okpomọkụ belata mgbe o kwere mee)",
+    "Jiri ígwè e ji echekwa ihe n'ebe ndị a na - edebe ihe n'ala",
+    "Nọgide na - edebe ebe ndị a na - ekpofu ihe ọcha"
+  ],
+  "biological_control": [
+    "Palaa allalalala na - asọ mpi n'ihi na ọ na - eme ka ahụ́ ya ghara ịna - emepụta nri nke ọma, ọ na - emekwa ka ọ ghara ito ruo pasent 97",
+    "Ọgwụ nje ndị na - enye nsogbu n'ahụ́ bụ́ ndị a na - eji eme ihe n'ihe banyere mmepụta nke mmiri ọgwụ ahụ́ bụ́ ndị a na - eji emepụta mmiri ọgwụ ahụ́ bụ́ ndị a na - eji eme ihe iji belata mmepụta nke mmiri ọgwụ ahụ́ bụ́ hormone"
+  ],
+  "chemical_or_physical_control": [
+    "Jiri ọgwụ nje na - achịkwa ụmụ ahụhụ n'ebe a na - echekwa ihe",
+    "Nọgide na - enwe usoro a ga - eji na - ewepụ okpomọkụ na mmiri",
+    "Ọ dịghị ọgwụgwọ dị irè a na - enye n'ọnọdụ ndị e nwere n'ozi ubi"
+  ],
+  "economic_impact": [
+    "Ọ bụrụ na ihe ndị funahụrụ anyị efunahụ anyị, ọ pụrụ iru pasent 10 nke ndị nwụrụ n'ihi okwukwe ha",
+    "Oké mfu pụrụ ikwe omume ná mba ndị ka na - emepe emepe",
+    "Oké mfu akụ̀ na ụba n'ihi mmetọ nke mmiri ọgwụ ahụ́ kama ibelata ebelata"
+  ],
+  "sources": [
+    "Nkà Mmụta Ihe Ochie nke Mahadum Na - emepụta Ọrịa AIDS",
+    "Otú Ị Ga - esi Mee Nnyocha n'Ozi Ọma",
+    "Akwụkwọ nkà mmụta sayensị ndị na - ekwu na e nwere ihe ndị dị ka ihe ndị dị ndụ na ihe ndị na - adịghị mma na - esi n'ahụ́ apụta"
+  ]
+}

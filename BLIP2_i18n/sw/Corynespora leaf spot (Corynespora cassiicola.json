@@ -1,90 +1,90 @@
 {
-  "disease_name": "Corynespora Leaf Spot",
-  "causal_agent": "Corynespora cassiicola",
-  "disease_type": "Fungal",
-  "description": "Corynespora leaf spot is a destructive fungal disease affecting over 500 plant species, including economically important crops such as tobacco, tomato, cucumber, soybean, cotton, and rubber tree. Infection begins on lower or middle leaves, forming dark green water-soaked spots that turn brown and expand into large lesions. The pathogen can exist as a necrotroph, saprophyte, or endophyte, and thrives under high humidity and slightly acidic conditions.",
+  "disease_name": "Mji wa Corynespora Leaf",
+  "causal_agent": "Maisha ya Corynespora Cassiicola",
+  "disease_type": "Fungura ya",
+  "description": "Corynespora tovuti ni ugonjwa mbaya kuathiri zaidi ya 500 aina ya mimea, ikiwa ni pamoja na matunda muhimu ya kiuchumi kama tabak, tomato, kukumbuka, safi, na mti. Ugonjwa unaanza kwenye tovuti chini au kati, kuunda nyama za kijani za maji zinazotumika ambayo huwa baridi na kuongezeka kwa ugonjwa mkubwa. Pathogen inaweza kuwepo kama necrotroph, saprophyte, au endophyte, na kukua chini ya umeme wa juu na hali ya asidi kidogo.",
   "hosts": [
-    "Tobacco",
-    "Tomato",
-    "Cucumber",
-    "Soybean",
-    "Cotton",
-    "Rubber tree"
+    "Mafuta ya Tabaka",
+    "Mji wa Tomato",
+    "ya Cucumber",
+    "Soya ya",
+    "Baadhi ya Cotton",
+    "Mti wa Rubber"
   ],
   "symptoms": [
-    "Small dark green water-soaked spots on leaves",
-    "Spots gradually turn brown",
-    "Circular or irregular necrotic lesions",
-    "Lesions expand and merge forming large patches",
-    "Disease often begins on lower or middle leaves"
+    "Picha za ndogo za kijani ndogo za maji juu ya nyota",
+    "Maonyesho yaliyotengenezwa kwa muda mfupi huanza kuwa baridi",
+    "Uharibifu wa Circular au irregular necrotic",
+    "Uharibifu kuongezeka na kuongezeka kwa kuunda patches kubwa",
+    "Ugonjwa mara nyingi huanza kwenye tiketi za chini au za kati."
   ],
   "favorable_conditions": {
-    "temperature_optimum": "25-30°C",
-    "temperature_range": "15-35°C",
-    "humidity": "High humidity (>90%) favors infection",
-    "pH_optimum": "Around 5.5"
+    "temperature_optimum": "ya 25-30°C",
+    "temperature_range": "ya 15-35 °C",
+    "humidity": "Ukimwi wa juu (>90%) hupenda ugonjwa",
+    "pH_optimum": "Zaidi ya 5.5"
   },
   "biological_control": [
     {
-      "agent": "Bacillus subtilis",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces antifungal metabolites and inhibits fungal growth"
+      "agent": "Maelezo ya Bacillus subtilis",
+      "type": "Bakteri ya faida",
+      "mode_of_action": "Inaunda metaboli ya antifungal na inhibiti ukuaji wa fungal"
     },
     {
-      "agent": "Bacillus amyloliquefaciens",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces lipopeptides that damage fungal cell membranes"
+      "agent": "ya Bacillus amyloliquefaciens",
+      "type": "Bakteri ya faida",
+      "mode_of_action": "Kuunda lipopeptides ambayo huathiri membrane ya seli ya fungus"
     },
     {
-      "agent": "Trichoderma harzianum",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Mycoparasitism and competition with plant pathogens"
+      "agent": "Maisha ya Harzian",
+      "type": "Mchakato wa Biocontrol",
+      "mode_of_action": "Mykoparasitism na ushindani na virutubisho vya mazao"
     },
     {
-      "agent": "Trichoderma viride",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Produces antifungal enzymes and secondary metabolites"
+      "agent": "Mwisho wa Viride",
+      "type": "Mchakato wa Biocontrol",
+      "mode_of_action": "Kutoa virutubisho vya antifungal na virutubisho vya pili"
     }
   ],
   "chemical_control": {
     "fungicides": [
       {
-        "active_ingredient": "Mancozeb",
-        "type": "Contact fungicide",
-        "mode_of_action": "Prevents spore germination"
+        "active_ingredient": "ya Mancozeb",
+        "type": "Mawasiliano ya fungicide",
+        "mode_of_action": "kuzuia kuzuia germination"
       },
       {
-        "active_ingredient": "Chlorothalonil",
-        "type": "Protectant fungicide",
-        "mode_of_action": "Inhibits fungal growth on leaf surface"
+        "active_ingredient": "ya Chlorothalonil",
+        "type": "Msaada wa fungicide",
+        "mode_of_action": "Inhibiti ukuaji wa fungal juu ya mbolea"
       },
       {
-        "active_ingredient": "Azoxystrobin",
-        "type": "QoI fungicide",
-        "mode_of_action": "Inhibits mitochondrial respiration"
+        "active_ingredient": "ya Azoxystrobin",
+        "type": "Simu ya fungicide",
+        "mode_of_action": "Inhibiti ya maumivu ya mitochondrial"
       },
       {
-        "active_ingredient": "Difenoconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Inhibits sterol biosynthesis"
+        "active_ingredient": "ya Difenoconazole",
+        "type": "Fungicidi ya Triazole",
+        "mode_of_action": "Kuondoa Biosynthesis ya Sterol"
       },
       {
-        "active_ingredient": "Tebuconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Blocks ergosterol synthesis"
+        "active_ingredient": "ya Tebuconazole",
+        "type": "Fungicidi ya Triazole",
+        "mode_of_action": "Mchakato wa ergosterol"
       },
       {
-        "active_ingredient": "Carbendazim",
-        "type": "Systemic fungicide",
-        "mode_of_action": "Disrupts fungal cell division"
+        "active_ingredient": "ya Carbendazim",
+        "type": "Mfumo wa fungicide",
+        "mode_of_action": "Kuongezeka kwa utoaji wa seli ya fungus"
       }
     ]
   },
   "management_notes": [
-    "Use resistant cultivars when available",
-    "Rotate fungicides with different modes of action to prevent resistance",
-    "Avoid prolonged leaf wetness",
-    "Remove infected plant debris",
-    "Use integrated disease management strategies"
+    "Tumia bidhaa za kuvutia wakati inapatikana",
+    "Rote fungicides kwa njia tofauti ya hatua ili kuzuia upinzani",
+    "Kuepuka kupumzika kwa muda mrefu",
+    "Kuondoa mbegu za mimea zilizoathirika",
+    "Kutumia mkakati wa usimamizi wa magonjwa"
   ]
 }

@@ -1,0 +1,87 @@
+{
+  "disease": "Karottenwurzelfliegenschaden",
+  "scientific_name": "Chamaepsila Rosae",
+  "pathogen_type": "Insektenschädlinge",
+  "description": "Karottenwurzelfliege ist ein ernsthafter Insektenschädling von Karotten und verwandten Kulturen. Die erwachsene Fliege legt Eier in der Nähe von Karottenpflanzen in den Boden. Die Larven (Maggots) schlüpfen und tunneln in die Wurzeln, ernähren sich von den Geweben und verursachen ernsthafte Schäden an der Ernte.",
+  "symptoms": [
+    "Karottenblätter welken und werden schwach",
+    "Blätter werden rostig rot oder gelb",
+    "Rusty-braune Tunnel unter der Karottenhaut",
+    "Wurzeln werden deformiert und beschädigt",
+    "Karotten verrotten leicht nach der Infektion",
+    "Reduzierter Ertrag und schlechte Qualitätswurzeln"
+  ],
+  "visual_signature": [
+    "rostige braune Tunnel in Karottenwurzel",
+    "beschädigte Karottenwurzeln mit Löchern",
+    "rötliches oder gelbes Karottenblatt"
+  ],
+  "pest_stage_causing_damage": "Larven (Maggots)",
+  "pest_description": [
+    "Larven sind cremig-gelbe Maden",
+    "Larven sind beinlos",
+    "Larven erreichen etwa 10 mm Länge",
+    "Erwachsene Fliegen sind klein und niedrig fliegend"
+  ],
+  "affected_plant_parts": [
+    "Wurzeln",
+    "Blätter"
+  ],
+  "hosts": [
+    "Karotten",
+    "Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip",
+    "Petersilie",
+    "Sellerie",
+    "Sonstige Apiaceae-Pflanzen"
+  ],
+  "plant_family": "Apiaceae",
+  "life_cycle": [
+    "Erwachsene Fliegen legen Eier im Boden in der Nähe von Karottenpflanzen",
+    "Larvenschlüpfe aus Eiern",
+    "Larven graben in Karottenwurzeln ein und füttern",
+    "Larven entwickeln sich im Boden und werden später erwachsene Fliegen"
+  ],
+  "favorable_conditions": [
+    "kühle bis mittelschwere Temperaturen",
+    "feuchte Bodenverhältnisse",
+    "Felder mit früheren Karottenkulturen"
+  ],
+  "spread": [
+    "erwachsene Fliegen, die Eier im Boden legen",
+    "Bewegung zwischen nahe gelegenen Karottenfeldern"
+  ],
+  "management": [
+    "Verwenden Sie Fruchtfolge, um das Pflanzen von Karotten wiederholt auf dem gleichen Feld zu vermeiden",
+    "Entfernen infizierte Pflanzen und beschädigte Wurzeln",
+    "Verwende physische Barrieren wie Mesh oder Insektennetz",
+    "Verwenden Sie Gartenbau Fleece, um Kulturen zu decken",
+    "Pflanzenresistente Karottensorten, wenn verfügbar"
+  ],
+  "biological_control": [
+    "Begünstigte Nematoden (Steinernema-Arten), die auf den Boden aufgebracht werden",
+    "Ermutigende natürliche Raubtiere von Fliegenlarven"
+  ],
+  "chemical_control": [
+    "zugelassene Insektizide im Boden, soweit vorhanden",
+    "gezielte Insektizidbehandlungen gegen Larven (es gelten lokale Vorschriften)"
+  ],
+  "companion_plants": [
+    "Zwiebel",
+    "Knoblauch",
+    "Schnittlauch",
+    "Rosmarin",
+    "Salbei"
+  ],
+  "prevention": [
+    "Verwenden Sie feines Insektennetz um Kulturpflanzen herum",
+    "Bedecken Sie Kulturen mit Gartenbau Fleece",
+    "Intercrop Karotten mit aromatischen Pflanzen",
+    "Aufrechterhaltung der Abwasserentsorgung im Feld",
+    "Vermeiden Sie es, beschädigte Karotten im Boden zu hinterlassen"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Veröffentlichungen zur Erweiterung der Landwirtschaft an der Universität",
+    "Integrierte Schädlingsbekämpfungsleitfäden"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "disease": "Weicher Rot von Allium",
+  "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi und verwandte Bakterien",
+  "pathogen_type": "Bakterien",
+  "description": "Eine bakterielle Krankheit, die in Zwiebeln und anderen Alliumkulturen eine weiche, wässrige Verrottung von Zwiebeln verursacht. Sie tritt oft in der Nähe der Ernte oder während der Lagerung auf und führt zu einem faul riechenden Zerfall.",
+  "symptoms": [
+    "Junge Blätter werden blass, gebleicht und verwelkt",
+    "Weiche, wässrige Fäule von Glühbirnenwaagen",
+    "Gelbfärbung des infizierten Gewebes",
+    "Braune Streifen innen Glühbirnen",
+    "Ganze Glühbirne wird weich und faul",
+    "Schlecht riechende zähflüssige Flüssigkeit, die aus dem Hals der Glühbirnen strömt"
+  ],
+  "hosts": [
+    "Zwiebeln",
+    "Schalotten",
+    "Knoblauch",
+    "Lauch",
+    "Schnittlauch",
+    "Frühlingszwiebeln",
+    "Sonstige Allium-Arten"
+  ],
+  "favorable_conditions": [
+    "Starke Niederschläge",
+    "Wasserdichte oder schlecht entwässerte Böden",
+    "Wunden an Glühbirnen oder Blättern",
+    "Warme Temperaturen zwischen 20 und 30°C",
+    "Hohe Luftfeuchtigkeit während der Lagerung"
+  ],
+  "spread": [
+    "Infiziertes Pflanzmaterial",
+    "Kontaminierter Boden",
+    "Pflanzliche Rückstände",
+    "Regenspritzwasser und Bewässerungswasser",
+    "Insekten",
+    "Mechanische Verletzungen während des Feldbetriebs"
+  ],
+  "management": [
+    "Verwendung zertifizierten seuchenfreien Pflanzmaterials",
+    "Vermeiden Sie Verletzungen bei der Pflanzung und Ernte",
+    "Tropfbewässerung anstelle von Overheadbewässerung verwenden",
+    "Zwiebel Tops vor der Ernte reifen lassen",
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Ausgewogene Befruchtung beibehalten",
+    "Lagern Sie Glühbirnen bei niedriger Temperatur und moderater Luftfeuchtigkeit",
+    "Verwendung toleranter Sorten"
+  ],
+  "biological_control": [
+    "Fördern Sie wohltuende Bodenmikroben durch organisches Materialmanagement",
+    "Biologische Kontrollmittel wie Bacillus-basierte Biofungizide verwenden",
+    "Verbesserung der Bodengesundheit zur Unterdrückung bakterieller Krankheitserreger"
+  ],
+  "chemical_control": [
+    "Bakterizide auf Kupferbasis wie Kupferhydroxid",
+    "Kocide 2000",
+    "Mankozid",
+    "Kupfersprays, die regelmäßig zur Verlangsamung der Krankheitsentwicklung angewendet werden"
+  ],
+  "prevention": [
+    "Pflanzenzertifizierte pathogenfreie Zwiebeln oder Samen",
+    "Wasserlogging in Feldern vermeiden",
+    "Desinfizieren Sie Werkzeuge und Geräte",
+    "Nach der Ernte Pflanzenreste entfernen",
+    "Glühbirnen bei ca. 4°C mit 65–70% relativer Luftfeuchtigkeit lagern",
+    "Vermeiden Sie übermäßige Stickstoffdüngung und halten Sie ausreichend Kalziumspiegel"
+  ],
+  "source": [
+    "Pflanzenforschung International, Wageningen",
+    "IVEGRI Indonesien",
+    "Van der Wolf & Duriat – Weiche Fäulniskrankheiten in Allium"
+  ]
+}

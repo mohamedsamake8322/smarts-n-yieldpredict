@@ -1,0 +1,39 @@
+{
+  "pest_name": "Spinnenmilben",
+  "stage": "Blatt-Schaden",
+  "common_name": "Spinnenmilben",
+  "description": "Spinnmilben sind häufige Schädlinge von Obstbäumen, Gemüse, Beeren, Weinreben, Hauspflanzen und Zierpflanzen. Milben sind winzige Arachniden mit acht Beinen, die mit Spinnen und Zecken verwandt sind.",
+  "identification": [
+    "Erwachsene sind weniger als 1/20 Zoll lang mit einem ovalen Körper und zwei farbigen Augentöpfen in der Nähe des Kopfes",
+    "Leben in Kolonien, meist auf der Unterseite der Blätter; eine einzige Kolonie kann Hunderte von Milben enthalten",
+    "Hohe Populationen produzieren dichte Gewebe, die Blätter, Zweige und Früchte bedecken",
+    "Suchen Sie nach Stipping von hellen Punkten auf Blättern, Bronze Verfärbung, Vergilbung und Blatttropfen"
+  ],
+  "damage": [
+    "Zellinhalt von Blättern saugen, was Stippen und Verfärbungen verursacht",
+    "Stark befallene Blätter werden gelb und können fallen",
+    "Bei heißen, staubigen Bedingungen und bei wasserbeanspruchten Pflanzen ist der Schaden am schwersten."
+  ],
+  "natural_enemies": [
+    "Prädatorische Thripse",
+    "Läuten",
+    "Minute Piraten Bugs",
+    "Prädatormilben (größer mit längeren Beinen und aktiver)"
+  ],
+  "management": [
+    "Wasserpflanzen zur Vermeidung von Dürrestress",
+    "Staubreduzieren mit Bodenbelägen, Mulchen und regelmäßiger Bewässerung",
+    "Ermutigen Sie natürliche Feinde, Populationen zu kontrollieren",
+    "Sprühen Sie Wasser oder Nebel auf die Unterseiten der Blätter täglich, wenn befallen"
+  ],
+  "chemical_control": [
+    "Insektizide Öle oder Insektizide Seifen, gründlich auf Unterseiten von Blättern aufgetragen",
+    "Vermeiden Sie das Sprühen, wenn Pflanzen wasserbeansprucht sind oder bei hoher Hitze",
+    "Vermeiden Sie Insektizide, die natürliche Feinde töten, da diese Milbenpopulation Spikes verursachen können"
+  ],
+  "notes": [
+    "Spinnmilben werden häufig nach bestimmten organophosphat- oder pyrethroiden Insektizidanwendungen problematisch",
+    "Minimieren Sie Pestizideinsatz, bevorzugen Sie nichtchemische oder weniger giftige Optionen",
+    "Lesen Sie Produktetiketten sorgfältig für die richtige Verwendung und Entsorgung"
+  ]
+}

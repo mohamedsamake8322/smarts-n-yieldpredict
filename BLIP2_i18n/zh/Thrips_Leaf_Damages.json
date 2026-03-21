@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
-  "family": "Thripidae",
-  "type": "insect",
+  "pest_name": "叶叶损害",
+  "order": "贝萨诺天",
+  "family": "Tripidae 数字",
+  "type": "昆虫",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "1-1.5毫米(0.03-0.06英寸)",
+    "body": "细细,黄黄或棕色,两对狭窄的边缘翅膀",
+    "mouthparts": "不对称;用于刮叶表面和提取液体",
+    "species_of_major_concern": [
+      "西部花朵山(Frankliniella occidicalis)",
+      "亚麻黄( Trips tapaci )"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "菊花",
+      "热量",
+      "烟花",
+      "达利亚语Name",
+      "迪安图斯",
+      "费夏语Name",
+      "置反",
+      "利里",
+      "内膜病",
+      "原型",
+      "兰丘丘",
+      "韦尔贝纳语Name",
+      "科勒斯",
+      "迪亚西亚",
+      "洛贝利亚语Name",
+      "Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera Gerbera",
+      "Capsicum 年金",
+      "Begonia x 象形体",
+      ""
+    ],
+    "vegetables": [
+      "发生",
+      "番茄",
+      "马铃薯",
+      "辣椒",
+      "沙沙沙",
+      "大蒜大蒜",
+      "冬季小麦",
+      "阿尔法法",
+      "法律",
+      "洋葱",
+      "豆豆",
+      "黄瓜",
+      "菜菜菜",
+      "切换",
+      "隔松藻",
+      "花椰菜花"
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "切换植物细胞和吸吸细胞内装物,留下漂白或银色的斑点或斑点,可能变成褐色和腐蚀性。造成叶子和花朵扭曲和发育障碍。在受损害地区可以看到小黑的粪便斑点。",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "叶子和花花;更喜欢花花花花花",
+      "Japanese flower thrips": "主要是叶叶叶;可能发生在花花中"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "损害可能使植物容易感染Botrytis病毒。"
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "西方花花尖",
+      "洋葱",
+      "日本花棚(仅TSWV)"
+    ],
+    "viruses": [
+      "番茄发现病毒(TSWV)",
+      "消毒点病毒(INSV)"
+    ],
+    "mechanism": "第一个恒星幼虫从受感染的植物获取病毒;成人在喂食期间传播病毒,成人终生感染。",
+    "host_plants": [
+      "菊花",
+      "热量",
+      "烟花",
+      "达利亚语Name",
+      "迪安图斯",
+      "费夏语Name",
+      "置反",
+      "利里",
+      "内膜病",
+      "原型",
+      "兰丘丘",
+      "韦尔贝纳语Name",
+      "科勒斯",
+      "迪亚西亚",
+      "洛贝利亚语Name"
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "氯或腐烂叶斑点",
+    "叶环和线型",
+    "叶子扭曲、青铜、黄黄和坏死",
+    "丝结黑化",
+    "增加点死亡率"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "在Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, impitions, Pilargonium 中受管制的非检疫虫害(RNQP)",
+    "INSV": "Begonia x hiemalis (RNQP) 受管制的非检疫虫害"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "性生殖;每生长季节多代人",
+    "notes": "由于自然敌人减少,室内栽种的植物更容易受害"
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "定期监测植物,以早期发现血迹",
+      "清除和销毁严重污染的植物部件",
+      "保持自然敌人的健康人口"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "明智使用杀虫剂;遵守当地准则和标签指示"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "结合监测、文化控制、自然掠食动物和定向杀虫剂使用"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "联合王国有机作物指南:受保护装饰作物的托端控制",
+    "科罗拉多州立大学扩展,《害虫注释:蔬菜和动物中的纹理》"
   ]
 }

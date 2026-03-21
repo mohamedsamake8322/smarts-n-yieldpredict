@@ -1,0 +1,74 @@
+{
+  "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
+  "common_name": "Putrefacción negra de cruciferes",
+  "scientific_name": "Xanthomonas campestris pv. campestris",
+  "pathogen_type": "Bacteria",
+  "description": "La podredumbre negra es una enfermedad bacteriana grave que afecta a los cultivos crucíferos. Es causada por la bacteria Xanthomonas campestris pv. campestris y se propaga principalmente a través de semillas infectadas, restos vegetales, salpicaduras de agua y herramientas contaminadas. El patógeno entra en las plantas a través de hidatodos en los márgenes de las hojas o a través de heridas, luego se propaga a través del sistema vascular, causando venas ennegrecidas características y necrosis de las hojas.",
+  "hosts": [
+    "Repollo",
+    "Brócoli",
+    "Coliflores",
+    "Coles de Bruselas",
+    "Kale",
+    "Rábanos rusticanos",
+    "Nabo",
+    "Mostaza",
+    "Otros cultivos crucíferos (familia Brassicaceae)"
+  ],
+  "symptoms": [
+    "Lesiones amarillas en forma de V a partir de los márgenes de las hojas",
+    "Las lesiones avanzan hacia el centro de la hoja",
+    "Ennegrecimiento de las venas de las hojas",
+    "Marchitamiento y necrosis de las hojas",
+    "Crecimiento de plantas aturdidas",
+    "Las infecciones graves pueden causar la muerte de plantas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (25–30°C)",
+    "Alta humedad",
+    "Lluvias frecuentes o irrigación general",
+    "Presencia de semillas infectadas",
+    "Lesiones mecánicas en plantas"
+  ],
+  "management": {
+    "monitoring": [
+      "Exploración de campo regular para lesiones en forma de V en las hojas",
+      "Inspección de plántulas y plantas jóvenes",
+      "Monitoreo de campos después de periodos de lluvia o alta humedad"
+    ],
+    "cultural_control": [
+      "Utilizar semillas certificadas sin enfermedades",
+      "Practicar la rotación de cultivos durante al menos 3-4 años",
+      "Eliminar y destruir los residuos vegetales infectados",
+      "Evitar el riego por encima del suelo para reducir la humedad de las hojas",
+      "Desinfectar herramientas y equipos agrícolas",
+      "Variedades resistentes a las plantas o tolerantes cuando estén disponibles"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Bacillus subtilis",
+        "Bacillus amiloliquefaciens",
+        "Pseudomonas fluorescens"
+      ]
+    },
+    "chemical_control": {
+      "note": "El control químico de las enfermedades bacterianas es limitado. Los bactericidas a base de cobre se utilizan comúnmente como tratamientos preventivos.",
+      "active_ingredients": [
+        "Hidróxido de cobre",
+        "Oxicloruro de cobre",
+        "Sulfato de cobre"
+      ]
+    }
+  },
+  "economic_importance": "La podredumbre negra puede causar pérdidas significativas de rendimiento en cultivos crucíferos en todo el mundo. Las infecciones graves pueden destruir campos enteros, particularmente en climas cálidos y húmedos donde la enfermedad se propaga rápidamente.",
+  "references": [
+    "Agrios, G. N. Patología Vegetal.",
+    "Compendio de protección de cultivos CABI.",
+    "Recursos de gestión integrada de plagas de la FAO.",
+    "Wikipedia – La podredumbre negra de los cruciferes."
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
+    "https://www.cabi.org"
+  ]
+}

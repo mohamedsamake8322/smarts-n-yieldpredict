@@ -1,0 +1,59 @@
+{
+  "pest_name": "Sojabohnen-Blatt-Rost",
+  "scientific_name": "Phakopsora pachyrhizi",
+  "common_name": "Sojabohnen-Rost",
+  "description": "Sojabohnenrost ist eine Blattkrankheit von Sojabohnen, die durch den Pilz Phakopsora pachyrhizi verursacht wird. Es kann schwere Ertragsverluste unter günstigen Bedingungen verursachen.",
+  "distribution": "Ursprünglich aus Asien; in den USA, erstmals im Süden im Jahr 2004 gefunden und breitet sich nach Norden jede Anbausaison.",
+  "host_range": {
+    "primary_host": "Glycin max (Sojabohnen)",
+    "other_hosts": "Nicht spezifiziert; Obligator-Erreger, der nur auf grünem Wirtsgewebe überlebt"
+  },
+  "symptoms": {
+    "leaf": [
+      "Kleine graue Flecken auf unteren Blattflächen, die bräunlich oder rötlich-braun werden",
+      "innerhalb gelber Halos verstreute Läsionen",
+      "Pusteln (Blister) entwickeln sich in Läsionen, die Tansporen freisetzen",
+      "Frühe Symptome, die schwer von anderen Blattkrankheiten zu unterscheiden sind"
+    ],
+    "pod_stem": [
+      "Läsionen und Pusteln können an Hülsen und Stängeln auftreten"
+    ],
+    "timing": "Am häufigsten nach der Blüte, während der Fortpflanzungsstadien"
+  },
+  "conditions_favoring_disease": {
+    "temperature": "59–85°F (15–29°C)",
+    "humidity": "Hohe Luftfeuchtigkeit (> 75 %)",
+    "weather": "Verlängerte Perioden des nassen Wetters",
+    "plant_stage": "Fortpflanzungsstadien, nach Blüte und Pod-Entwicklung"
+  },
+  "biology": {
+    "pathogen_type": "Pilze",
+    "species": [
+      "Phakopsora pachyrhizi",
+      "Phakopsora meibomiae (milder Erreger, der keinen größeren Ertragsverlust verursacht)"
+    ],
+    "obligate_pathogen": true,
+    "survival": "Auf lebendes grünes Gewebe in südlichen Staaten und Mexiko; Sporen, die jede Jahreszeit von Wind nach Norden verstreut werden",
+    "infection": "Läsionen entwickeln sich zuerst auf unteren Blättern; können sich auf Hülsen und Stängel ausbreiten"
+  },
+  "damage": [
+    "Blattflecken und Entlaubung",
+    "Ertragsverluste über 50% unter günstigen Bedingungen"
+  ],
+  "management": {
+    "cultural_control": [
+      "Scout Unterdach wöchentlich, vor allem bei nassem Wetter",
+      "Kulturelle Praktiken wirken sich nur begrenzt aus"
+    ],
+    "chemical_control": [
+      "Foliar-Fungizide verwenden, die frühzeitig oder unmittelbar nach der Infektion aufgetragen werden"
+    ],
+    "genetic_control": [
+      "Sojabohnensorten, die gegen Rost resistent sind, sind in Entwicklung"
+    ]
+  },
+  "notes": [
+    "Soja-Rost erfordert wiederholte jährliche Nordsporenverbreitung, um Epidemien in nördlichen Gebieten zu verursachen",
+    "P. pachyrhizi ist der aggressive Erreger, der einen signifikanten Ertragsverlust verursacht; P. meibomiae ist mild und noch nicht in den kontinentalen USA gemeldet."
+  ]
+}

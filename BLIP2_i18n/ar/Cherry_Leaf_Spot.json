@@ -1,104 +1,88 @@
 {
-  "disease": "Cherry Leaf Spot",
-  "scientific_name": "Blumeriella jaapii",
-  "pathogen_type": "Fungus",
-
-  "description": "Cherry leaf spot is a fungal disease affecting cherry trees, especially in humid or rainy regions. It causes small purple or brown spots on leaves that enlarge over time. Severe infections lead to yellowing and premature leaf drop, reducing fruit quality and yield.",
-
+  "disease": "الكرصة",
+  "scientific_name": "Blumererila jaapii",
+  "pathogen_type": "المنقوس",
+  "description": "إن بقع أوراق الكرز هي مرض فطري يؤثر على أشجار الكرز، وخاصة في المناطق الرطبة أو المطيرة، ويتسبب في بقع أرجوانية أو بنية صغيرة على أوراق تتسع على مر الزمن، وتؤدي الالتهابات الحادة إلى سقوط الأشجار الصفراء والأوراق السابقة لأوانها، مما يقلل من جودة الفاكهة وغلتها.",
   "symptoms": [
-    "small purple, brown or tan spots on leaves",
-    "irregular or circular lesions across leaf surface",
-    "center of spots may dry and fall out creating holes",
-    "leaves turn yellow and drop prematurely",
-    "cream-colored fungal spore masses on underside of leaves",
-    "fruit may develop spots and become soft",
-    "infected fruit stems may cause fruit drop"
+    "بقعـات علـى ورقـات",
+    "أو غير منتظمة أو دائرية",
+    "مركز من بقع قد يجف ويسقط يخلق الثقوب",
+    "يَسُرُّ أَنْ يَتَغَرَّبَ أصفرًا وَيُسَقَّطُ مُسْطَحَرًا وَأَسْرًا مُسْطَحَرًا",
+    "كُتُلَتْ كُتُلٌ على جانب من أوراق الشوَر",
+    "« فاكهة قد تُنبت » تُنبت « ببقع » بقع « وتكون لينة » .",
+    "يمكن أن تؤدي المواك المصحة إلى إسقاط المواك"
   ],
-
   "visual_signature": [
-    "numerous small purple or brown spots on cherry leaves",
-    "yellowing leaves with scattered lesions",
-    "holes in leaves after tissue falls out",
-    "cream-colored spore clusters on leaf underside"
+    "بقعـة أو بقعـة بنيـرة علـى ورقـات الكرز",
+    "أوراق أوراق أصفر مع بقع متناثرة",
+    "الثقوب في الأوراق بعد الانسداد",
+    "تجمـلات علـى ورقـة"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "fruit stems",
-    "fruit (occasionally)"
+    "أولاً -",
+    "ما يغني عن ذلك من مواك",
+    ")بالتركيـات("
   ],
-
   "hosts": [
-    "sweet cherry",
-    "sour cherry"
+    "الكر الكر الكر",
+    "- - - - - - - - - - - - - - - - - - - - - - - - - - -"
   ],
-
-  "plant_family": "Rosaceae",
-
+  "plant_family": "",
   "important_hosts": [
-    "Prunus avium",
-    "Prunus cerasus"
+    "برونس a vium",
+    ""
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "wet leaves",
-    "frequent rainfall",
-    "cool to moderate temperatures"
+    "الرطوبة العالية",
+    "أولاً - أوراق الشُّرْط",
+    "(يحدث هطولاً)",
+    "إلى درجة حرارة معتدلة"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "infected fallen leaves"
+    "ريح ريح ريح حشر",
+    "هطول الامطر)أ(",
+    "أُصيبت بآس مسقطة"
   ],
-
   "disease_cycle": [
-    "fungus overwinters on fallen infected leaves",
-    "spores produced during wet weather",
-    "wind or rain spreads spores to new leaves",
-    "infection occurs whenever leaves remain wet",
-    "disease spreads repeatedly during the growing season"
+    "الفطريات فوق الدوامات على الأوراق المُصابة بالسقوط",
+    "الأوج التي تُنتج أثناء الطقس الرطب",
+    "الرياح أو الامطار تَنْسِرْ بُغْثًا لأوراق جديدة",
+    "(أ) ما إذا كانت العجـز لا تزال مبتلة؛",
+    "انتشار المرض بصورة متكررة خلال موسم النمو"
   ],
-
   "damage": [
-    "premature leaf drop",
-    "reduced photosynthesis",
-    "poor fruit quality",
-    "soft fruit",
-    "reduced fruit yield the following season"
+    "قطرة ما قبل الأوان",
+    "مُقْرَض",
+    "(ككفاكهة (كفاك) (كفاك) (ككفاك) (كفاك) (كفاك) (كفاك) (كفاكك) (كك) (ك) (ك)",
+    "الفواكه الناعم",
+    "مخفضاً ما يُجِل في الموسم التالي:"
   ],
-
   "management": [
-    "remove and destroy fallen leaves",
-    "clean infected plant debris under trees",
-    "apply mulch to reduce soil splash",
-    "prune trees to improve air circulation",
-    "monitor trees during wet seasons"
+    "(أ) إزالة أو تدمير الأوراق المتساقطة",
+    "المحتويات (أ) (أ) (أ) (ج) (ج)(أ)(أ) ((أ)(أ)(أ)",
+    "(ب) استخدام المشط للحد من رشة التربة",
+    "من أجل تحسين الدوران الجوي",
+    ":: رصد الأشجار أثناء المواسم المبتلة"
   ],
-
   "organic_treatment": [
-    "spray sulfur fungicide",
-    "apply neem oil",
-    "baking soda spray solution"
+    "(بآلاف دولارات الولايات المتحدة)",
+    "لِمْ لِم ; Name",
+    "محلول"
   ],
-
   "chemical_control": [
-    "copper-based fungicides",
-    "protective fungicide sprays during wet periods"
+    "مبيدات الفطريات القائمة على أساس النحاس",
+    "رشات مبيدات مبيدات مبيدات الفطريات أثناء فترات الرطوبة"
   ],
-
   "prevention": [
-    "good orchard sanitation",
-    "regular pruning for airflow",
-    "early fungicide application during rainy seasons"
+    "المرافق الصحية الجيدة",
+    "لتدفق الهواء",
+    "تطبيق مبيدات الفطريات المبكرة أثناء موسم الأمطار"
   ],
-
   "source": [
-    "University of California Integrated Pest Management",
-    "University of Minnesota Extension",
-    "Ohio State University Extension",
-    "Pacific Northwest Extension",
-    "The Holistic Orchard"
+    "جامعة كاليفورنيا الإدارة المتكاملة للآداب",
+    "جامعة مينيسا",
+    "جامعة الدولة",
+    "(أ) بلدان شمال غرب المحيط الهادئ",
+    "المُجمَّد ( مرقس )"
   ]
 }

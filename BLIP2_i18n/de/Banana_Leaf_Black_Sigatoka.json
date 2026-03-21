@@ -1,0 +1,105 @@
+{
+  "disease_name": "Banana Blatt schwarz Sigatoka",
+  "common_name": "Schwarzer Sigatoka",
+  "other_names": [
+    "Schwarzer Blattstreifen",
+    "BLS"
+  ],
+  "pathogen": {
+    "type": "Pilze",
+    "scientific_name": "Pseudocercospora fijiensis"
+  },
+  "host_plant": {
+    "common_name": "Bananen",
+    "scientific_name": "Musa spp."
+  },
+  "affected_parts": [
+    "Blätter"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Kleine rötliche oder rostbraune Flecken an der Unterseite von Bananenblättern",
+      "Kleine Streifen parallel zu Blattvenen"
+    ],
+    "intermediate_stage": [
+      "Streaks länglich und verdunkeln sich zu rötlich-braunen oder schwarzen Linien",
+      "Läsionen werden auf beiden Seiten des Blattes sichtbar"
+    ],
+    "advanced_stage": [
+      "Oval-förmige Läsionen mit grauen Zentren",
+      "Gelbe Halos umgebende Läsionen",
+      "Große nekrotische Bereiche verursachen Blatttod"
+    ]
+  },
+  "disease_cycle": {
+    "spores": [
+      "Konidia",
+      "Ascosporen"
+    ],
+    "spread_mechanism": [
+      "Wind",
+      "Regenspritzer",
+      "Luftströmungen"
+    ],
+    "favorable_conditions": [
+      "Hohe Luftfeuchtigkeit",
+      "Häufige Regenfälle",
+      "Warmes tropisches Klima"
+    ],
+    "infection_time_days": 27
+  },
+  "impact": {
+    "yield_loss_percent": "30-50%",
+    "effects": [
+      "Blatttod",
+      "Verringerte Obstgröße",
+      "Reduzierte Qualität der Früchte",
+      "Vorzeitige und ungleichmäßige Reifung der Früchte"
+    ]
+  },
+  "distribution": [
+    "Südostasien",
+    "Indien",
+    "China",
+    "Pazifische Inseln",
+    "Ostafrika",
+    "Westafrika",
+    "Mittelamerika",
+    "Südamerika",
+    "Karibik",
+    "Papua-Neuguinea",
+    "Hawaii (USA)"
+  ],
+  "similar_diseases": [
+    "Gelbe Sigatoka (Pseudocercospora musae)",
+    "Eumusae-Blattfleck (Pseudocercospora eumusae)"
+  ],
+  "management": {
+    "cultural_control": [
+      "Entfernung infizierter Blätter",
+      "Verbesserung der Feldentwässerung",
+      "Verringerung der Luftfeuchtigkeit um Pflanzen herum",
+      "Pflanzfeste Bananensorten"
+    ],
+    "chemical_control": [
+      "Triazolfungizide",
+      "Demethylierungshemmer Fungizide",
+      "Methylbenzimidazolcarbamate (MBC)"
+    ],
+    "biological_or_genetic_control": [
+      "Züchtungsresistente Bananensorten",
+      "Genetisch veränderte resistente Bananensorten"
+    ]
+  },
+  "spread_risk_factors": [
+    "Bewegung von infiziertem Pflanzenmaterial",
+    "Transport von Bananenblättern, die für Lebensmittelverpackungen verwendet werden",
+    "Kontaminierte Geräte oder Verpackungsmaterialien"
+  ],
+  "references": [
+    "Biosecurity Queensland – Schwarzes Sigatoka Schädlingsprofil",
+    "Berichte über die Bananenkrankheit der FAO",
+    "Cook et al., 2013. Crop Protection Journal",
+    "Pattison, 2014. Australische Bananen"
+  ]
+}

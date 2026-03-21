@@ -1,74 +1,74 @@
 {
- "disease": "Rhizopus Soft Rot",
- "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
- "pathogen_type": "Fungus",
- "description": "Rhizopus soft rot is a fungal disease that mainly affects fruits, vegetables, and stored crops. The fungus infects wounded plant tissues and causes a rapid soft, watery decay. It is common during storage, transport, and in warm and humid conditions.",
- "symptoms": [
-  "Soft watery rot on infected tissues",
-  "Rapid breakdown of fruit or vegetable tissue",
-  "White cotton-like fungal growth on the surface",
-  "Black pin-like spore structures on infected areas",
-  "Foul smell in advanced decay",
-  "Infected tissues become mushy and collapse"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Peach",
-  "Papaya",
-  "Banana",
-  "Sweet potato",
-  "Carrot",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Melon",
-  "Mango",
-  "Eggplant",
-  "Pepper",
-  "Stored vegetables and fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Damaged or wounded plant tissues",
-  "Poor storage conditions",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers or tools",
-  "Insects or mechanical damage that create wounds"
- ],
- "impact": [
-  "Rapid post-harvest losses",
-  "Fruit and vegetable decay during storage or transport",
-  "Reduced market value of crops"
- ],
- "cultural_control": [
-  "Handle fruits and vegetables carefully to avoid wounds",
-  "Harvest crops during dry conditions",
-  "Remove damaged or infected produce quickly",
-  "Maintain good hygiene in storage areas",
-  "Ensure proper ventilation in storage facilities"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus species",
-  "Use biocontrol yeasts that inhibit fungal growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicide treatments where allowed",
-  "Use of disinfectants for storage containers and equipment"
- ],
- "prevention": [
-  "Avoid mechanical injuries during harvest",
-  "Store crops at appropriate temperature and humidity",
-  "Use clean containers and storage facilities",
-  "Separate infected produce from healthy produce"
- ],
- "source": [
-  "Plant pathology references on post-harvest diseases",
-  "Agricultural storage disease management guides"
- ]
+  "disease": "Rhizopus Rotule molle",
+  "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
+  "pathogen_type": "Champignons",
+  "description": "Rhizopus pourriture molle est une maladie fongique qui affecte principalement les fruits, les légumes et les cultures entreposées. Le champignon infecte les tissus des plantes blessées et provoque une décomposition molle et aqueuse rapide. Il est fréquent pendant le stockage, le transport, et dans des conditions chaudes et humides.",
+  "symptoms": [
+    "Pourriture aqueuse molle sur les tissus infectés",
+    "Découpe rapide des tissus de fruits ou de légumes",
+    "Croissance fongique en coton blanc à la surface",
+    "Structures de spores ressemblant à des épingles noires sur les zones infectées",
+    "Foul odeur dans la carie avancée",
+    "Les tissus infectés deviennent musqués et s'effondrent"
+  ],
+  "hosts": [
+    "Tomates",
+    "Fraises",
+    "Pêche",
+    "Papaye",
+    "Banane",
+    "Pommes de terre douces",
+    "Carotte",
+    "Citrouille",
+    "Courge",
+    "Concombre",
+    "Mélône",
+    "Mango",
+    "Aubergines",
+    "Poivre",
+    "Légumes et fruits entreposés"
+  ],
+  "favorable_conditions": [
+    "Températures chaudes",
+    "Humidité élevée",
+    "Tissus végétaux endommagés ou blessés",
+    "Mauvaises conditions de stockage",
+    "Mauvaise ventilation pendant le stockage"
+  ],
+  "spread": [
+    "Spores fongiques aéroportées",
+    "Contact entre produits infectés et produits sains",
+    "Récipients ou outils de stockage contaminés",
+    "Insectes ou dommages mécaniques qui créent des blessures"
+  ],
+  "impact": [
+    "Pertes rapides après récolte",
+    "Désintégration des fruits et légumes pendant l'entreposage ou le transport",
+    "Réduction de la valeur marchande des cultures"
+  ],
+  "cultural_control": [
+    "Poignez soigneusement les fruits et légumes pour éviter les blessures",
+    "Récolte des cultures en conditions sèches",
+    "Enlever rapidement les produits endommagés ou infectés",
+    "Maintenir une bonne hygiène dans les zones de stockage",
+    "Assurer une ventilation adéquate dans les installations de stockage"
+  ],
+  "biological_control": [
+    "Utiliser des microbes bénéfiques comme les espèces de Bacillus",
+    "Utiliser des levures de biocontrôle qui inhibent la croissance fongique"
+  ],
+  "chemical_control": [
+    "Traitements fongicides après récolte lorsque cela est autorisé",
+    "Utilisation de désinfectants pour les contenants et les équipements de stockage"
+  ],
+  "prevention": [
+    "Éviter les blessures mécaniques pendant la récolte",
+    "Entreposer les cultures à la température et à l'humidité appropriées",
+    "Utiliser des conteneurs propres et des installations de stockage",
+    "Séparer les produits infectés des produits sains"
+  ],
+  "source": [
+    "Références phytopathologiques sur les maladies post-récolte",
+    "Guides de gestion des maladies du stockage agricole"
+  ]
 }

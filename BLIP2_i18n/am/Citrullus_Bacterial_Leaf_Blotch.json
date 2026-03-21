@@ -1,0 +1,119 @@
+{
+  "disease_name": "የ Citrullus_Bacterial_Fruit_Blotch",
+  "common_name": "የ Bacterial Fruit Blotch",
+  "causal_agent": {
+    "type": "የካቲሮ",
+    "scientific_name": "Acidovorax Citrulli ምድቦች",
+    "taxonomy": {
+      "domain": "በባክቴሪያዎች",
+      "class": "የቴክኖሎጂዎች",
+      "order": "የ Burkholderiales",
+      "family": "የ Comamonadaceae",
+      "genus": "Acidovorax ምድቦች",
+      "species": "CITRULI"
+    }
+  },
+  "microbiological_properties": {
+    "gram_stain": "ግምገማዎች",
+    "shape": "የሞክሮ",
+    "size": "ከ 0.5 μm × 1.7 μm",
+    "oxygen_requirement": "በጣም aerobic ነው.",
+    "motility": "የ Polar Flagellum ጋር ፎቶዎች",
+    "optimal_growth_temperature_celsius": "27 - 30"
+  },
+  "host_plants": [
+    "የሽያጭ",
+    "የሜሎን",
+    "ፎቶዎች",
+    "ፎቶዎች",
+    "ፎቶዎች",
+    "ፎቶዎች"
+  ],
+  "symptoms": {
+    "seedlings": [
+      "የካቲሊዶን ላይ የካቲሊዶን የካቲሊዶን የካቲሊዶን",
+      "የክክሮቲክ የክሮቲክ የክሮቲክ የክሮቲክ የክሮቲክ የክሮቲክ",
+      "Hypocotyl ፎቶዎች",
+      "ጓደኛ ጓደኛ ጓደኛ ጓደኛ"
+    ],
+    "leaves": [
+      "የፈጠራ የሙቀት የሙቀት የሙቀት የሙቀት (watermelon)",
+      "Reddish-brown ፎቶዎች (ሜሎን)",
+      "የሽያጭዎች በሽያጭዎች በሽያጭዎች",
+      "ፎቶዎች ፎቶዎች"
+    ],
+    "fruits": [
+      "አነስተኛ የኃይል አነስተኛ አነስተኛ አነስተኛ አነስተኛ አነስተኛ አነስተኛ",
+      "ፎቶዎች ፎቶዎች",
+      "ፎቶዎች የካርቦን እና ፎቶዎች",
+      "Internal Fruity ንድፍ",
+      "የፋብሪካ ሻጋታ በፊት"
+    ]
+  },
+  "disease_cycle": {
+    "primary_inoculum": "የሽያጭ ምልክት",
+    "transmission_methods": [
+      "መሳሪያዎች Transmission",
+      "የኃይል አቅርቦት",
+      "የአውሮፕላኖች የተመሠረተ አየር",
+      "ግምገማ ንድፍ"
+    ],
+    "infection_entry_points": [
+      "ፎቶዎች",
+      "የፕላስቲክ घावዎች"
+    ],
+    "fruit_infection_stage": "2 - 3 ቀናት በኋላ ምልክት"
+  },
+  "favorable_conditions": {
+    "temperature_celsius": "ከፍተኛ (ገደማ 27-30 °C)",
+    "humidity": "ከፍተኛ የፈጠራ ሙቀት",
+    "environment": [
+      "የ Greenhouses",
+      "ጥቅል ጫን ጫን",
+      "ግምገማ ንድፍ"
+    ]
+  },
+  "economic_importance": {
+    "impact": "የክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክክ",
+    "possible_loss_percentage": "ከ 90-100% የፈጠራ ፍጥነት ውስጥ ይሰጣል",
+    "global_distribution": true
+  },
+  "management": {
+    "seed_management": [
+      "የቴክኒካዊ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ",
+      "ምርምር እና ምርምር (PCR ወይም Grow-Out Assays)"
+    ],
+    "seed_treatments": [
+      "የሙቀት መቆጣጠሪያ (85 °C 3-5 ቀናት)",
+      "Peroxyacetic Acid መሣሪያዎች",
+      "Chlorine መሣሪያዎች"
+    ],
+    "cultural_practices": [
+      "የሙቀት ዝቅተኛ የካርቦን ውስጥ",
+      "የአውሮፕላን ማሸጊያ ማሸጊያ",
+      "የሞክሮ መሣሪያዎች"
+    ],
+    "chemical_control": [
+      "የሙቀት bactericides"
+    ],
+    "host_resistance": "የንግድ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ የተመሠረተ"
+  },
+  "genetic_diversity": {
+    "groups": [
+      {
+        "name": "ኩባንያ I",
+        "characteristics": "የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ"
+      },
+      {
+        "name": "መኖሪያ ቤት II",
+        "characteristics": "የአውሮፕላኖች ላይ በጣም አግኝቷል"
+      }
+    ]
+  },
+  "sources": [
+    "የ APS የፋንቲክ መድሃኒት መድሃኒት",
+    "የ Acidovorax citrulli ላይ የፕላስቲክ የቴክኖሎጂ ልምድ",
+    "የ International Seed Health Initiative (ISHI) ፡፡",
+    "የፕላስቲክ የፕላስቲክ የፕላስቲክ የፕላስቲክ የፕላስቲክ"
+  ]
+}

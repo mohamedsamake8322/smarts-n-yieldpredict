@@ -1,79 +1,79 @@
 {
-  "disease": "Broad mite damage",
-  "scientific_name": "Polyphagotarsonemus latus",
-  "pathogen_type": "Mite (arthropod pest)",
-  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "disease": "Uharibifu mkubwa wa mita",
+  "scientific_name": "Siku ya Siku ya Siku ya Siku",
+  "pathogen_type": "Mifumo ya Mifumo (Arthropod Pest)",
+  "description": "Mita ya kutosha ni ugonjwa wa mikroscopic ambao huathiri mazao ya mimea vijana. Ni kuhifadhi juu ya tiketi, mimea, na matunda kwa kuingiza saliva ya kiroho ambayo huathiri ukuaji wa mimea. Uharibifu huathiri uharibifu mkubwa wa tiketi na matunda na inaweza kupunguza mazao ya mimea kwa kiasi kikubwa.",
   "symptoms": [
-    "Distorted or twisted young leaves",
-    "Leaf curling and thickening",
-    "Bronzing or darkening of leaf surface",
-    "Stunted plant growth",
-    "Cracked or scarred fruits",
-    "Deformed buds and flowers",
-    "Young tissues become hard and brittle"
+    "Maonyesho ya muda mfupi ya kuongezeka au kuongezeka",
+    "Kuongezeka na kuongezeka",
+    "Bronzing au ukimya wa mbolea",
+    "Kuanzisha ukuaji wa mimea",
+    "Matunda ya kuanguka au kuanguka",
+    "Vitu vya kuongezeka na maua",
+    "Wanyama wa kijani hufanya kuwa mbaya na brittle"
   ],
   "hosts": [
-    "pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "potato",
-    "cucumber",
-    "melon",
-    "beans",
-    "cotton",
-    "tea",
-    "citrus",
-    "papaya",
-    "avocado",
-    "mango",
-    "ornamental plants"
+    "pepe ya",
+    "Chili ya pepe",
+    "Mji wa Tomato",
+    "Mipango ya Egg",
+    "Mapato ya",
+    "Mwisho wa",
+    "Meloni ya",
+    "ya Beans",
+    "Baadhi ya Cotton",
+    "Chai ya",
+    "ya Citrus",
+    "Papa ya",
+    "ya Avocado",
+    "Mango ya",
+    "Maji ya Ornamental"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "High humidity",
-    "Dense plant canopy",
-    "Poor air circulation",
-    "Greenhouse environments"
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Chini ya Chini ya Cannabis",
+    "Usafiri wa hewa mbaya",
+    "Mazingira ya Greenhouse"
   ],
   "spread": [
-    "Wind movement",
-    "Contaminated tools and plant material",
-    "Movement by insects such as whiteflies",
-    "Transport on workers' clothing"
+    "Mabadiliko ya Wind",
+    "vifaa vya kuvutia na vifaa vya mimea",
+    "Mabadiliko ya wanyama kama vile Whiteflies",
+    "Usafiri juu ya mavazi ya wafanyakazi"
   ],
   "management": [
-    "Regular monitoring of young leaves",
-    "Remove heavily infested plant parts",
-    "Improve air circulation between plants",
-    "Use resistant or tolerant varieties when available",
-    "Avoid excessive nitrogen fertilization"
+    "Ufuatiliaji wa mara kwa mara wa nyaraka za vijana",
+    "Kuondoa sehemu ya mimea ya kuvutia",
+    "Kuimarisha usafiri wa hewa kati ya mimea",
+    "Tumia aina za kudumu au za kudumu wakati inapatikana",
+    "Kuepuka mbolea ya nitrogen"
   ],
   "biological_control": [
-    "Predatory mites such as Neoseiulus californicus",
-    "Predatory mites such as Amblyseius swirskii",
-    "Predatory mites such as Phytoseiulus persimilis",
-    "Use of entomopathogenic fungi such as Beauveria bassiana"
+    "Maonyesho ya kisayansi kama Neoseiulus californicus",
+    "Maonyesho ya kuvutia kama Amblyseius swirskii",
+    "Maonyesho ya kuvutia kama vile Phytoseiulus persimilis",
+    "Matumizi ya virusi entomopathogenic kama vile Beauveria bassiana"
   ],
   "chemical_control": [
-    "Abamectin",
-    "Spiromesifen",
-    "Spirodiclofen",
-    "Bifenazate",
-    "Sulfur-based miticides",
-    "Fenpyroximate"
+    "ya Abamectin",
+    "Siku ya Spiro",
+    "ya Spirodiclofen",
+    "Bifano ya",
+    "Miticides kwa msingi wa sulfur",
+    "ya fenpyroximate"
   ],
   "prevention": [
-    "Inspect seedlings before planting",
-    "Maintain good greenhouse hygiene",
-    "Control weeds that may host mites",
-    "Avoid moving infested plants",
-    "Monitor regularly during warm humid periods"
+    "Utafiti wa mimea kabla ya kupanda",
+    "Kuhifadhi mbinu nzuri ya greenhouse",
+    "Ulinzi wa kudhibiti ambayo inaweza kuwa mikutano",
+    "Kuacha kuhamisha mimea ya kuvutia",
+    "Kuanzisha mara kwa mara wakati wa muda wa umeme"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "University of Florida IFAS Extension",
-    "Integrated Pest Management literature",
-    "Plant protection entomology references"
+    "Mkataba wa Ulinzi wa CABI",
+    "Chuo Kikuu cha Florida IFAS",
+    "Maandalizi ya Utawala wa Pest",
+    "Maelezo ya Entomology ya Usalama wa Maji"
   ]
 }

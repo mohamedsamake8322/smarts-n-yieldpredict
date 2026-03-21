@@ -1,0 +1,67 @@
+{
+  "disease": "Anthracnose von Cucurbits",
+  "scientific_name": "Colletotrichum orbiculare",
+  "pathogen_type": "Pilze",
+  "description": "Eine Pilzkrankheit, die sich auf Gurken (Kuh, Melone, Kürbis, Wassermelone, Kürbis) auswirkt. Läsionen an Blättern, Stängeln und Früchten verursacht, besonders bei warmen, feuchten, regnerischen Bedingungen. Kann auf Samen, Boden und Pflanzenresten überleben und sich durch Regen, Wind, Werkzeuge, Arbeiter und Insekten ausbreiten.",
+  "symptoms": [
+    "Blätter: ölige Flecken in der Nähe von Venen, eckige braune/rote/schwarze Läsionen, Gewebetod oder -tropfen",
+    "Stämme und Patiole: langgezogen, depressiv, gelbliche Läsionen, kann unter feuchten Bedingungen zu schwarzen Akervulsen führen",
+    "Früchte: kreisförmige, versunkene braune Läsionen, kann rote Mumie auf Melone ausstoßen; gelatinefarbene Sporen auf Wassermelone"
+  ],
+  "hosts": [
+    "Gurken",
+    "Melonen",
+    "Squash",
+    "Wassermelone",
+    "Kürbisgewächse",
+    "Sonstige Kukurbits"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (26–32°C)",
+    "Hohe Luftfeuchtigkeit und Regenfälle",
+    "Nasse Blätter oder verlängerter Tau",
+    "Boden- und Ernteabfälle, die Krankheitserreger beherbergen"
+  ],
+  "spread": [
+    "Infizierte Samen",
+    "Kontaminierter Boden",
+    "Abfälle aus der Ernte",
+    "Wind, Regenspritzer, Bewässerungswasser",
+    "Werkzeuge und Arbeitskräfte",
+    "Gurkenkäfer"
+  ],
+  "management": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Pflanzenresistente oder tolerante Sorten",
+    "Zerstöre infizierte Pflanzen und Ernteschrott",
+    "Drehen Sie Cucurbits mit Non-Host-Pflanzen für 2–3 Jahreszeiten",
+    "Pflanzen beschneiden, um den Luftstrom zu erhöhen und die Feuchtigkeit zu reduzieren",
+    "Vermeiden Sie über Kopf Bewässerung und Arbeit, wenn Pflanzen nass sind"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum: konkurriert mit Krankheitserregern, hemmt das Wachstum bis zu 72%",
+    "Bacillus subtilis: Bio-Pestizid zur Vorbeugung von Krankheitserregern",
+    "Pflanzenextrakte: Pferdeschwanz-Dekoktion, Knoblauch- oder Neem-Extrakte hemmen das Pilzwachstum",
+    "pH-Wert auf Blattoberfläche mit Bicarbonat anpassen, um die Pilzentwicklung zu reduzieren"
+  ],
+  "chemical_control": [
+    "Difenoconazol (Score) bei 0,2 l/ha",
+    "Am frühen Morgen oder am späten Abend anwenden",
+    "Gewährleistung einer angemessenen Abdeckung, aufgenommen in 2 Stunden",
+    "Begrenzt auf eine Anwendung pro Saison oder rotieren mit anderen Fungiziden",
+    "Befolgen Sie Sicherheitsvorkehrungen (Gants, Masque, Lunetten) und Vorernteintervall"
+  ],
+  "prevention": [
+    "Verwendung zertifiziertes, seuchenfreies Saatgut",
+    "Entfernen Sie freiwillige Ernten und Ernteschrott",
+    "Vermeiden Sie Wundpflanzen",
+    "Pflege guter Feldhygiene und Luftzirkulation",
+    "Fruchtfolge mit Getreide, Hülsenfrüchten oder Brassicas durchführen"
+  ],
+  "source": [
+    "Plantwise Knowledge Bank – Anthracnose in Wassermelone, Mooya A.M Nzila, CABI",
+    "Sherriff et al., 1994, Experimentelle Mykologie",
+    "US-Zentrum für Landwirtschaft, Ernährung und Umwelt",
+    "Französische agronomische Quellen über Cucurbit Anthracnose"
+  ]
+}

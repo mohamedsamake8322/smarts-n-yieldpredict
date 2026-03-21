@@ -1,68 +1,68 @@
 {
- "pest": "Fruit Bollworm",
- "scientific_name": "Helicoverpa armigera",
- "pathogen_type": "Insect (Lepidoptera moth larva)",
- "description": "A highly destructive caterpillar pest found in tropical and subtropical regions. The larvae feed on leaves, flowers, and fruits of many crops, especially tomato and cotton, causing major yield losses.",
- "symptoms": [
-  "Small holes on young leaves caused by early larvae feeding",
-  "Small entry holes on fruits, often near the stalk",
-  "Caterpillars feeding inside fruits",
-  "Damaged or mined fruits with internal feeding",
-  "Fruits stop growing, ripen early, and drop from the plant",
-  "Damaged flowers and pierced seed pods in legumes"
- ],
- "hosts": [
-  "Tomato",
-  "Cotton",
-  "Sorghum",
-  "Sweet corn",
-  "Beans",
-  "Soybean",
-  "Tobacco",
-  "Sunflower",
-  "Melon",
-  "Various fruit crops"
- ],
- "favorable_conditions": [
-  "Warm tropical and subtropical climates",
-  "High availability of host crops",
-  "Greenhouse conditions for tomato production"
- ],
- "spread": [
-  "Adult moths laying eggs on leaves and fruits",
-  "Larvae moving between nearby plants",
-  "Migration of adult moths between crop fields"
- ],
- "management": [
-  "Regular monitoring of crops for eggs and young larvae",
-  "Remove and destroy infested fruits",
-  "Use pheromone traps to monitor moth populations",
-  "Encourage natural predators and parasitoids",
-  "Use resistant or tolerant crop varieties when available"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt) bioinsecticide sprays",
-  "Release of parasitoid wasps such as Trichogramma species",
-  "Predators such as lady beetles, lacewings, and birds",
-  "Entomopathogenic fungi like Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Indoxacarb",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin (use with resistance management)"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Field sanitation and removal of crop residues",
-  "Use pheromone traps for early detection",
-  "Install insect netting in greenhouses",
-  "Maintain balanced fertilization to avoid excessive plant growth"
- ],
- "source": [
-  "Agricultural pest management guides",
-  "Greenhouse crop protection literature",
-  "Helicoverpa armigera pest management references"
- ]
+  "pest": "الكودة المنسوتية",
+  "scientific_name": "PRE(أ) (أ) (أ)",
+  "pathogen_type": "الحشرة (Lepideptptira oth يرقة)",
+  "description": "كما ان اليرقات تتغذى على اوراق وأزهار وفواكه العديد من المحاصيل ، وخصوصا الطماطم والقطن ، مما يؤدي الى خسائر كبيرة في الغلال .",
+  "symptoms": [
+    "الثقوب الصغيرة على أوراق الشجر الناشئة عن التغذية المبكرة لليرقات",
+    "ثقوب مدخلة صغيرة على الفواكه، غالباً بالقرب من الساق",
+    "تغذّي في داخل الفواكه",
+    "الفواكه المتلفة أو المستخرجة بالتغذية الداخلية",
+    "توقّف النبتات عن النمو ، النضج في وقت مبكر ، والهبوط من النبتة",
+    "الأزهار المتلفة وحفر البذور المثقلة في البقول"
+  ],
+  "hosts": [
+    "طاطاطاطاط",
+    "القطن",
+    "سُرْج هوجم",
+    "",
+    "كهنس",
+    "Soyban",
+    "اللسنج",
+    "",
+    "",
+    "المحاصيل المتنوعة"
+  ],
+  "favorable_conditions": [
+    "المناخات المدارية وشبه المدارية",
+    "التوافر العالي للمحاصيل المضيفة",
+    "(أ) شروط استخدام ظروف الدفيئة في إنتاج الط"
+  ],
+  "spread": [
+    "الطفشات الراشدة التي تضع بيضاً على الأوراق والفواكه",
+    "الانتقال بين النباتات المجاورة",
+    "هجرة العثات الراشدة بين حقول المحاصيل"
+  ],
+  "management": [
+    "الرصد المنتظم لمحاصيل البيض واليرقات الشابة",
+    "(أ) إزالة وتدمير ما يلي:",
+    "استخدام محارخ فرهمون لرصد التجمعات السكانية",
+    "تشجيع المفترسات الطبيعية والطفيليات",
+    "الـمُسْتَعِد أو الـمُسْتَسِمَرْسِع أو المُحْضِر المُسْتَعِزِز أو المَحْضِر المُسْتَعِزِز أو المُحْضِر المُسْطِسِسِرْ"
+  ],
+  "biological_control": [
+    "مبيدات مبيدات مبيدات الحشرات الحيوية",
+    "إطلاق أحواض طفيليات كأنواع من قبيل الأنواع",
+    "كَأَسْسٌ كَأَسْنَات الخُفَى ، أَزْجَادُ ، وَزَوْجَاتٍ وَزَوْجَاتٍ وَزَوْجَاتٍ",
+    "فطر مُعَثِّر مثل بوفيريا باسيانا"
+  ],
+  "chemical_control": [
+    "((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+    "المُنْكِتَل",
+    "في حالة سكر",
+    "كلورانان يسيل",
+    "لامبدا - سيهالثرين (استخدام مع إدارة المقاومة)"
+  ],
+  "prevention": [
+    "دوران المحاصيل مع المحاصيل غير المضيفة",
+    "الإصحاح الميداني وإزالة مخلفات المحاصيل",
+    "استخدام محارخ فرمون في الكشف المبكر",
+    "الحشرة التي تُعث في غازات الدفيئة",
+    "المحافظة على التسمم المتوازن لتجنب النمو المفرط للنباتات"
+  ],
+  "source": [
+    "أدلة إدارة الآفات الزراعية",
+    "كتابات عن حماية المصنفات",
+    "المراجع المرجعية لمعالجة الآفات"
+  ]
 }

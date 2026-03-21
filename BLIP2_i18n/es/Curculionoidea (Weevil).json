@@ -1,0 +1,92 @@
+{
+  "pest": "Escarabajos (escarabajos del hocico)",
+  "scientific_name": "Superfamilia Curculionoidea; familia Curculionidae",
+  "pest_type": "Insectos (Coleoptera: Curculionidae)",
+  "description": "Tanto las larvas como los adultos dañan los cultivos al alimentarse de tejidos vegetales como hojas, frutas, semillas, tallos o raíces. Muchas especies son plagas graves en la agricultura y los sistemas de almacenamiento.",
+  "identification": [
+    "Los adultos tienen un hocico largo y curvo llamado tribuna",
+    "Antenas elásticas que terminan en un club",
+    "Cuerpo robusto y generalmente cubierto con escamas o cerdas",
+    "Tamaño típicamente 5–15 mm (rango 1–35 mm)",
+    "Las larvas son blancas, larvas en forma de C sin patas"
+  ],
+  "life_cycle": [
+    "La hembra utiliza la tribuna para perforar agujeros en el tejido vegetal",
+    "Los huevos se depositan dentro de frutas, semillas, tallos o raíces.",
+    "Las larvas se desarrollan dentro del tejido vegetal y se alimentan internamente",
+    "Pupa de larvas en suelo o material vegetal",
+    "Los adultos emergen y continúan alimentándose de plantas"
+  ],
+  "hosts": [
+    "Arroz",
+    "Maíz",
+    "Trigo",
+    "Algodón",
+    "Café",
+    "Plátano",
+    "Cítricos",
+    "Manzana",
+    "Mango",
+    "Coco",
+    "Granos almacenados"
+  ],
+  "symptoms": [
+    "Pequeños agujeros en hojas, frutas o semillas",
+    "Semillas y granos dañados o huecos",
+    "Caída de fruta prematura",
+    "Túneles larvarios dentro de tallos o frutos",
+    "Crecimiento de plantas aturdidas",
+    "Presencia de escarabajos adultos con un hocico largo"
+  ],
+  "favorable_conditions": [
+    "Climas cálidos",
+    "Alta humedad",
+    "Campos con residuos vegetales o saneamiento deficiente",
+    "Cultivo continuo sin rotación"
+  ],
+  "spread": [
+    "Movimiento de semillas o frutos infestados",
+    "Escarabajos adultos volando a nuevas plantas hospedadoras",
+    "Transporte de suelo o material vegetal contaminado"
+  ],
+  "economic_importance": [
+    "Principales plagas de cultivos agrícolas en todo el mundo",
+    "Algunas especies atacan granos almacenados",
+    "Puede causar pérdidas significativas de rendimiento y calidad"
+  ],
+  "biological_control": [
+    "Depredadores como aves, arañas y escarabajos depredadores",
+    "Avispas parasíticas que atacan larvas o huevos",
+    "Hongos entomopatógenos como Beauveria bassiana y Metarhizium anisopliae",
+    "Nematodos entomopatógenos (Steinernema spp., Heterorhabditis spp.)"
+  ],
+  "chemical_control": [
+    "Imidacloprid",
+    "Tiametoxam",
+    "Lambda-cihalotrina",
+    "Deltametrina",
+    "Clorpirifos (cuando esté permitido)",
+    "Carbarilo"
+  ],
+  "integrated_management": [
+    "Rotación de cultivos para romper el ciclo de vida",
+    "Retirar y destruir los frutos infestados o los residuos vegetales",
+    "Usar feromona o trampas alimentarias para monitorear a los adultos",
+    "Utilizar variedades de cultivos resistentes o tolerantes",
+    "Mantenimiento del saneamiento sobre el terreno",
+    "Aplicar control biológico o químico cuando las poblaciones superen los umbrales"
+  ],
+  "notable_species": [
+    "Sitophilus oryzae (Rice weevil)",
+    "Sitophilus zeamais (maíz weevil)",
+    "Anthonomus grandis (cotton boll weevil)",
+    "Rhynchophorus ferrugineus (pimienta roja)",
+    "Cosmopolites sordidus (banana weevil)"
+  ],
+  "sources": [
+    "Compendio de protección de cultivos CABI",
+    "USDA Servicio de Investigación Agrícola",
+    "Guías de gestión integrada de plagas de la FAO",
+    "Triplehorn & Johnson – Introducción del Borror y DeLong al estudio de los insectos"
+  ]
+}

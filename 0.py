@@ -1,29 +1,22 @@
+  
 import os
+import shutil
 
-dataset_path = r"C:\smarts-n-yieldpredict.git\dataset_final"
-json_path = r"C:\Downloads\BLIP2"
+source_folder = r"C:\Downloads\BLIP2_i18n-20260321T080948Z-1-001\BLIP2_i18n\sw"
+duplicates_folder = os.path.join(source_folder, "duplicates")
 
-# Dossiers du dataset
-dataset_folders = {
-    d for d in os.listdir(dataset_path)
-    if os.path.isdir(os.path.join(dataset_path, d))
-}
+# Créer le dossier duplicates s'il n'existe pas
+os.makedirs(duplicates_folder, exist_ok=True)
 
-# Fichiers json existants
-json_files = {
-    os.path.splitext(f)[0] for f in os.listdir(json_path)
-    if f.endswith(".json")
-}
+moved_count = 0
 
-# JSON manquants
-missing = dataset_folders - json_files
+for file in os.listdir(source_folder):
+    if "(1)" in file:
+        src_path = os.path.join(source_folder, file)
+        dst_path = os.path.join(duplicates_folder, file)
+        
+        shutil.move(src_path, dst_path)
+        print(f"➜ Déplacé : {file}")
+        moved_count += 1
 
-print("Nombre dossiers dataset :", len(dataset_folders))
-print("Nombre json :", len(json_files))
-
-print("\nFICHIERS JSON MANQUANTS :\n")
-
-for m in sorted(missing):
-    print(f"{m}.json")
-
-print("\nTotal manquant :", len(missing))
+print(f"\n✅ Total déplacés : {moved_count}")

@@ -1,48 +1,48 @@
 {
- "disease": "Fall Armyworm Adult",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (adult moth)",
- "description": "The adult fall armyworm is a nocturnal moth responsible for laying eggs on crop leaves. These eggs hatch into destructive larvae.",
- "symptoms": [
-  "Egg masses covered with gray scales on leaves",
-  "Presence of moths around crop fields at night"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm climates",
-  "Availability of host crops",
-  "Rainy growing seasons"
- ],
- "spread": [
-  "Strong flying moths capable of long-distance migration",
-  "Egg laying on leaves of host plants"
- ],
- "management": [
-  "Use pheromone traps to monitor moth populations",
-  "Destroy egg masses early",
-  "Control larvae before they spread"
- ],
- "biological_control": [
-  "Parasitoid wasps attacking eggs",
-  "Predatory insects feeding on eggs"
- ],
- "chemical_control": [
-  "Target treatments applied when larvae emerge"
- ],
- "prevention": [
-  "Field monitoring with pheromone traps",
-  "Plant resistant crop varieties",
-  "Maintain crop diversity"
- ],
- "source": [
-  "FAO Fall Armyworm Monitoring Guide",
-  "CABI Invasive Species Database"
- ]
+  "disease": "Tordeuse d'automne Adulte",
+  "scientific_name": "Spodoptères frugiperda",
+  "pathogen_type": "Insecte (adultes)",
+  "description": "Le ver d'automne adulte est un papillon nocturne responsable de la ponte des oeufs sur les feuilles de culture. Ces œufs éclosent en larves destructrices.",
+  "symptoms": [
+    "Masses d'oeufs recouvertes d'écailles grises sur les feuilles",
+    "Présence de papillons autour des champs de culture la nuit"
+  ],
+  "hosts": [
+    "Maïs",
+    "Riz",
+    "Sorgho",
+    "Millet",
+    "Canne à sucre",
+    "Légumes"
+  ],
+  "favorable_conditions": [
+    "Climats chauds",
+    "Disponibilité des cultures hôtes",
+    "Saisons de croissance pluvieuses"
+  ],
+  "spread": [
+    "Forts papillons volants capables de migrer sur de longues distances",
+    "Oeufs pondus sur les feuilles des plantes hôtes"
+  ],
+  "management": [
+    "Utiliser des pièges à phéromone pour surveiller les populations de papillons nocturnes",
+    "Détruire les masses d'oeufs tôt",
+    "Contrôler les larves avant qu'elles ne se propagent"
+  ],
+  "biological_control": [
+    "Les guêpes parasitoïdes attaquent les œufs",
+    "Insectes prédateurs se nourrissant d'œufs"
+  ],
+  "chemical_control": [
+    "Traitements cibles appliqués lorsque des larves émergent"
+  ],
+  "prevention": [
+    "Surveillance sur le terrain avec pièges à phéromones",
+    "Variétés de cultures résistantes aux végétaux",
+    "Maintenir la diversité des cultures"
+  ],
+  "source": [
+    "Guide de surveillance du ver de l'Armée de terre de la FAO",
+    "Base de données sur les espèces envahissantes de l'IBCA"
+  ]
 }

@@ -1,90 +1,90 @@
 {
- "disease": "Pythium Damping-off",
- "scientific_name": "Genus Pythium",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
- "symptoms": [
-  "Irregular patches of wilted or yellow plants in seedbeds",
-  "Soft brown watery rot at the base of stems",
-  "Seedlings falling over at the soil line",
-  "Stunted growth of young plants",
-  "Yellowing of older plants due to root damage",
-  "Stem rot in newly transplanted plants"
- ],
- "visual_symptoms": [
-  "seedlings collapsed at soil surface",
-  "soft brown water-soaked stem base",
-  "patches of dead or stunted seedlings"
- ],
- "hosts": [
-  "Tobacco",
-  "Vegetable seedlings",
-  "Cucumber",
-  "Tomato",
-  "Pepper",
-  "Lettuce",
-  "Beans",
-  "Many nursery crops"
- ],
- "host_specific_example": {
-  "crop": "Burley tobacco",
-  "scientific_name": "Nicotiana tabacum (burley type)"
- },
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "lower stem",
-  "hypocotyl"
- ],
- "image_type": "Field",
- "favorable_conditions": [
-  "Wet or poorly drained soil",
-  "High soil moisture",
-  "Cool to moderate temperatures",
-  "Dense seedbeds with poor air circulation",
-  "Excessive irrigation"
- ],
- "spread": [
-  "Contaminated soil",
-  "Irrigation water",
-  "Infected plant debris",
-  "Contaminated tools or trays in nurseries"
- ],
- "disease_cycle": [
-  "Pythium survives in soil as spores or mycelium",
-  "Spores germinate in wet soil conditions",
-  "Pathogen infects seeds or young seedlings",
-  "Infected tissues produce more spores that spread through water"
- ],
- "impact": [
-  "Loss of seedlings in nurseries",
-  "Poor crop establishment",
-  "Reduced plant population",
-  "Yield reduction due to weak plant stands"
- ],
- "cultural_control": [
-  "Use well-drained seedbeds",
-  "Avoid overwatering",
-  "Improve air circulation in nurseries",
-  "Use sterile soil or seedling substrate",
-  "Reduce planting density"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment with fungicides such as metalaxyl or mefenoxam",
-  "Soil drenches with appropriate fungicides in nurseries"
- ],
- "prevention": [
-  "Use certified disease-free seeds",
-  "Sterilize nursery trays and tools",
-  "Avoid excessive irrigation",
-  "Rotate crops when possible"
- ],
- "source": [
-  "Plant pathology references on Pythium damping-off",
-  "Agricultural disease management guides"
- ]
+  "disease": "Amortissement du pythium",
+  "scientific_name": "Genre Pythium",
+  "pathogen_type": "Oomycète (organisme semblable au fungus)",
+  "description": "Les espèces de Pythium sont des agents pathogènes du sol qui causent l'amortissement et la pourriture des racines dans de nombreuses cultures. La maladie attaque principalement les plantules, causant une pourriture molle et aqueuse près de la ligne du sol qui conduit à l'effondrement des plantes et à la mort.",
+  "symptoms": [
+    "Morceaux irréguliers de plantes flétries ou jaunes dans les lits de semis",
+    "Pourriture douce brune et aqueuse à la base des tiges",
+    "Les semis tombent au-dessus de la ligne du sol",
+    "Croissance étouffée des jeunes plantes",
+    "Jaunissement des plantes âgées en raison de dommages aux racines",
+    "Pourriture des tiges dans les plantes nouvellement transplantées"
+  ],
+  "visual_symptoms": [
+    "semis effondrés à la surface du sol",
+    "base de tige douce brun-saupoudré d'eau",
+    "parcelles de semis morts ou rabougris"
+  ],
+  "hosts": [
+    "Tabac",
+    "Plantes végétales",
+    "Concombre",
+    "Tomates",
+    "Poivre",
+    "Laitue",
+    "Haricots",
+    "Nombreuses pépinières"
+  ],
+  "host_specific_example": {
+    "crop": "Tabac de Burley",
+    "scientific_name": "Nicotiana tabacum (type burley)"
+  },
+  "plant_parts_affected": [
+    "Plantules",
+    "racines",
+    "tige inférieure",
+    "hypocotyle"
+  ],
+  "image_type": "Champ",
+  "favorable_conditions": [
+    "Sol humide ou mal drainé",
+    "Humidité élevée du sol",
+    "Températures froides à modérées",
+    "Semences denses à faible circulation d'air",
+    "Irrigation excessive"
+  ],
+  "spread": [
+    "Sol contaminé",
+    "Eau d'irrigation",
+    "Débris de plantes infectées",
+    "Outils ou plateaux contaminés dans les pépinières"
+  ],
+  "disease_cycle": [
+    "Le pythium survit dans le sol sous forme de spores ou de mycélium",
+    "Les spores germent dans des conditions humides",
+    "Les pathogènes infectent les graines ou les jeunes plants",
+    "Les tissus infectés produisent plus de spores qui se propagent dans l'eau"
+  ],
+  "impact": [
+    "Perte de semis dans les pépinières",
+    "Mauvais établissement de culture",
+    "Réduction de la population végétale",
+    "Réduction du rendement en raison de la faiblesse des peuplements végétaux"
+  ],
+  "cultural_control": [
+    "Utiliser des semis bien drainés",
+    "Éviter la surhydratation",
+    "Améliorer la circulation de l'air dans les pépinières",
+    "Utiliser un sol stérile ou un substrat de semis",
+    "Réduire la densité des plantations"
+  ],
+  "biological_control": [
+    "Utiliser des champignons bénéfiques tels que les espèces de Trichoderma",
+    "Utiliser des bactéries bénéfiques comme Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Traitement des semences avec des fongicides tels que le métalaxyl ou le méfénoxam",
+    "Trempages de sol avec des fongicides appropriés dans les pépinières"
+  ],
+  "prevention": [
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Stériliser les plateaux et les outils de pépinière",
+    "Éviter l'irrigation excessive",
+    "Rotation des cultures dans la mesure du possible"
+  ],
+  "source": [
+    "Références de pathologie végétale sur l'amortissement du Pythium",
+    "Guides de gestion des maladies agricoles"
+  ]
 }

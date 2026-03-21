@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
+  "disease": "Tranche bactérienne des feuilles de céréales",
   "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "pathogen_type": "Bactérie",
   "pathovars": [
     "Xanthomonas translucens pv. undulosa",
     "Xanthomonas translucens pv. translucens",
     "Xanthomonas translucens pv. cerealis"
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "Les stries foliaires bactériennes sont une maladie importante des cultures céréalières comme le blé et l'orge. Elles sont causées par la bactérie Xanthomonas translucens. La maladie produit de longues stries translucides sur les feuilles qui deviennent plus tard brunes et sèches.",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "Longes stries d'eau sur les feuilles",
+    "Bandes vert clair ou jaune entre les nervures",
+    "Les lésions deviennent brunes et allongées",
+    "Les éraflures sont parallèles aux nervures des feuilles.",
+    "Les feuilles peuvent sécher et mourir lors d'infections sévères",
+    "L'exsudat bactérien jaune collant peut apparaître sur les lésions",
+    "Les feuilles peuvent sembler déchiquetées le long des stries"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "longues stries jaunes ou brun clair sur les feuilles de céréales",
+    "stries parallèles suivant les nervures des feuilles",
+    "gouttelettes collantes jaunes sur la surface des feuilles"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "feuilles",
+    "limbe des feuilles",
+    "Pédoncle de la tête de l'oreille"
   ],
-
   "hosts": [
-    "wheat",
-    "barley",
-    "rye",
-    "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "froment (blé)",
+    "orge",
+    "seigle",
+    "avoine",
+    "maïs",
+    "sorgho",
+    "graminées sauvages",
+    "graminées fourragères"
   ],
-
   "plant_family": "Poaceae",
-
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
+    "Triticum aestivum (blé)",
+    "Hordeum vulgare (orge)",
+    "Avena sativa (avoine)",
+    "Secale cereale (sèche)",
+    "Sorgho bicolore",
     "Zea mays"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "températures chaudes",
+    "humidité élevée",
+    "pluies fréquentes",
+    "irrigation par arrosage par arrosage",
+    "saisons de croissance humides"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "graines infectées",
+    "éclaboussure de pluie",
+    "pluie due au vent",
+    "Résidus de cultures contaminés",
+    "mauvaises herbes et graminées infectées"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "les bactéries survivent sur des graines infectées",
+    "les bactéries pénètrent dans la plante par des stomates ou des blessures",
+    "l'infection se propage dans les feuilles le long des veines",
+    "les bactéries se multiplient et produisent des exsudats",
+    "la pluie propage des bactéries aux plantes voisines"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Appliquer des tests stricts sur la santé des semences",
+    "Évitez de planter des lots de semences infectés",
+    "Utiliser des cultivars résistants ou tolérants lorsqu'ils sont disponibles",
+    "Surveiller régulièrement les champs pour détecter les symptômes précoces",
+    "Suivre les règles de quarantaine pour le mouvement des semences"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "antagonistes bactériens biologiques sous recherche"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "pas de contrôle chimique très efficace disponible sur le terrain"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "traitement de l'eau chaude (environ 53°C pendant 10 minutes)",
+    "traitement thermique à sec",
+    "traitements acidifiés en cuivre pour réduire l'infection des graines"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "perte de rendement jusqu'à 40 pour cent dans les cas graves",
+    "poids réduit des grains",
+    "nombre de grains réduit par pic"
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "observation des symptômes du champ",
+    "isolement bactérien sur les milieux de culture",
+    "Détection moléculaire fondée sur l'ADN (PCR ou séquençage)"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Revue des maladies des plantes",
+    "Rapports de quarantaine des végétaux de l'OEPP",
     "Sapkota et al. 2020"
   ]
 }

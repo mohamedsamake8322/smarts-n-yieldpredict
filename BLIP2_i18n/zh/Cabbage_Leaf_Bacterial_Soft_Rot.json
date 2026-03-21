@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "卷心菜菌细菌软腐烂",
+  "scientific_name": "原Erwinia carotovora(原Erwinia carotovora)",
+  "pathogen_type": "细菌",
+  "description": "细菌软性腐烂是一种腐烂的腐蚀性病,造成植物组织迅速腐烂,细菌通过伤口或自然开口进入,在温暖和潮湿的条件下迅速传播,这种疾病可能发生在外地,但往往在储存和运输过程中造成严重损失。",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "叶叶或卷心菜头上浸水点",
+    "柔软,下沉的损伤 迅速膨胀",
+    "组织变得柔软、湿湿、湿、湿",
+    "从奶油到棕色或黑色的分色",
+    "从受感染组织流出的液体渗出",
+    "臭臭臭气味的强烈不愉快",
+    "叶叶、根或根在严重感染中可能完全腐烂"
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "卷心菜组织上的湿软软腐烂",
+    "植物组织",
+    "含液体渗漏的阴暗腐烂地区"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "叶叶叶",
+    "树干",
+    "白菜头",
+    "根根"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "白菜",
+    "花花椰醇",
+    "花椰花",
+    "生 生 生",
+    "马铃薯",
+    "胡萝卜",
+    "洋葱",
+    "胡椒辣椒",
+    "番茄",
+    "多种植物作物"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "温度(25-30°C)",
+    "高湿湿度",
+    "湿湿天气",
+    "空气循环不良",
+    "昆虫或工具造成的植物伤口",
+    "工厂中的低钙"
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "土壤中受感染植物碎片",
+    "受污染灌溉水",
+    "雨水喷雨",
+    "昆虫,如蚂蚁苍蝇等",
+    "受污染工具",
+    "收获和储存期间的处理"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "使用健康和无疾病的种植材料",
+    "谨慎处理植物以避免受伤",
+    "立即清除和销毁被感染的植物",
+    "至少有3年非宿主植物的旋转作物",
+    "避免间接灌溉",
+    "保持良好的实地环境卫生",
+    "确保适当的植物营养,特别是钙"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "基于生物除菌剂的生物除菌剂",
+    "Pseudomonas 荧光菌生物治疗"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "氧化氯化铜",
+    "氢氧化铜",
+    "硫酸铜杀菌剂"
   ],
-
   "example_products": [
-    "Greencop 500WP",
-    "Trinity Gold 452WP",
-    "Colonizer 440WP",
-    "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "绿色警察500WP",
+    "三角金 452WP",
+    "440WP",
+    "生物分级 Xtra 700CS",
+    "金金字塔 700 WP"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "耐植物植物或耐植物的品种",
+    "使用无疾病的种子和幼苗",
+    "避免在种植期间伤害植物",
+    "干旱条件下的收获",
+    "储存前先检查卷心菜",
+    "保持储存区清洁和干燥"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "在0-4°C(32-39°F)0-4°C储存卷心机",
+    "保持约90-95%的储存湿湿度",
+    "避免储存损坏或感染的蔬菜",
+    "使用草草或纸等软材料防止伤害"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "CABI 作物保护简编",
+    "植物病理学推广出版物",
+    "蔬菜疾病管理指南"
   ]
 }

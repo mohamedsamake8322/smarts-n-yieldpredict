@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
-  "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "disease": "胡萝卜根根蝇损伤",
+  "scientific_name": "查莫塞拉罗萨",
+  "pathogen_type": "昆虫病虫害",
+  "description": "胡萝卜根苍蝇是胡萝卜和相关作物的严重害虫。成年苍蝇在胡萝卜植物附近的土壤里产卵。 幼虫(蚂蚁)孵化并通向根部的隧道,喂食组织,对作物造成严重的损害。",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "胡萝卜叶枯萎变弱",
+    "叶子变成生锈的红色或黄色",
+    "胡萝卜皮下的褐褐色隧道",
+    "根变形和损坏",
+    "胡萝卜在感染后很容易腐烂",
+    "收成减少,根源质量差"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "胡萝卜根的生锈棕色隧道",
+    "胡萝卜根有孔",
+    "红红或黄胡萝卜叶"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "幼虫(蚂蚁)",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "Larvae是奶油黄",
+    "无法无法的流浪汉",
+    "长约10毫米长约10毫米的拉尔鱼",
+    "成年苍蝇面积小,飞量低"
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "根根",
+    "叶叶叶"
   ],
-
   "hosts": [
-    "carrot",
-    "parsnip",
-    "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "胡萝卜",
+    "食人者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/ 食者/",
+    "",
+    "菜菜",
+    "其他阿皮亚塞作物"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "阿皮亚ceae",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "成年苍蝇在胡萝卜植物附近的土壤中产卵",
+    "从蛋中孵化的喉咙",
+    "拉尔瓦 钻入胡萝卜根和饲料",
+    "草地在土壤中生长,后来成为成年苍蝇"
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "冷到中温",
+    "潮湿土壤土壤条件",
+    "前胡萝卜作物田"
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "成年苍蝇在土壤中产卵",
+    "附近胡萝卜田间运动"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "利用作物轮作以避免在同一田地反复种植胡萝卜",
+    "清除受感染的植物和受损根根",
+    "使用诸如网状或昆虫网状等有形屏障",
+    "利用园艺羊毛覆盖作物",
+    "有耐植物耐植物的胡萝卜品种时"
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "适用于土壤的有益线虫(Steinernema物种)",
+    "鼓励幼虫的自然捕食者"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "现有经核准的土壤杀虫剂",
+    "针对幼虫的定向杀虫剂处理(适用当地条例)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "洋葱",
+    "大蒜",
+    "螺线",
+    "迷宫",
+    "年龄"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "使用围绕作物的细昆虫网",
+    "带园艺羊毛的覆盖作物",
+    "含有芳香植物的中间胡萝卜",
+    "维持外地环境卫生",
+    "避免在土壤中留下受损害的胡萝卜"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "CABI 作物保护简编",
+    "大学农业推广出版物",
+    "虫害综合虫害管理指南"
   ]
 }

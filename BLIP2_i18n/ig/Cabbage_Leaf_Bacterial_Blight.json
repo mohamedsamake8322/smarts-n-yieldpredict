@@ -1,0 +1,75 @@
+{
+  "disease": "Ebe a na - edebe akwụkwọ osisi",
+  "scientific_name": "Ogige ịta ahụhụ (n'ụzọ bụ́ isi, nke a na - ejikọta ya na ebe ụmụ nje na - adịghị na ya na ebe obibi ndị isi ojii dị n'ebe ndị a na - akpa ákwà na ha)",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ọ na - akpata obere ntụpọ ndị na - acha nchara nchara bụ́ ndị na - agbasa ma na - ebelata ebe ndị dị n'akwụkwọ osisi ahụ.",
+  "symptoms": [
+    "Obere ihe ndị na - acha nchara nchara dị n'akwụkwọ osisi ndị na - acha nchara nchara",
+    "Ndị ohi na - amụba ma na - efekọ ibe ha ọnụ",
+    "Mkpụrụ ndụ ndị nwụrụ anwụ na - adị n'akwụkwọ",
+    "A na - ejikarị okporo ígwè ndị e ji akwụkwọ osisi mee eme ka ihe ghara ịdị otú kwesịrị ekwesị",
+    "Ihe ndị na - acha odo odo na - agbanwe",
+    "Akwụkwọ ya ndị nwere nje ndị na - akpata ọrịa na - aghọ ihe rere ure",
+    "Uto na - aghọ nke na - esighị ike"
+  ],
+  "visual_signature": [
+    "Obere ebe mkpá akwụkwọ na - acha nchara nchara",
+    "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+    "Akwụkwọ osisi ndị na - acha odo odo"
+  ],
+  "hosts": [
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Kalai",
+    "Ihe e ji emenwu ọkụ",
+    "Ńgwānụ́ banye",
+    "Akwụkwọ osisi mọstad",
+    "Ihe ọkụkụ ndị ọzọ na - egbu egbu"
+  ],
+  "affected_plant_parts": [
+    "akwụkwọ"
+  ],
+  "favorable_conditions": [
+    "Nhazi okpuru",
+    "Elu elu",
+    "Mgbe mgbe, mmiri na - ezo",
+    "Mkpụrụ akụ́kụ́ ma ọ bụ ụmụ ahụhụ mebiri",
+    "Ịgba Mkpụrụ n'Elu Ala Ọzọ"
+  ],
+  "spread": [
+    "Mmiri ozuzo na - ezo",
+    "Mkpụrụ ndị butere ya",
+    "Ngwá ọrụ ndị e metọrọ emetọ",
+    "Ụmụ ahụhụ na - ebu nje bacteria",
+    "Ịnọ n'etiti ihe ọkụkụ ndị dị n'ime ala"
+  ],
+  "management": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ozugbo",
+    "Zere ịkọ ugbo ugboro ugboro n'otu ala",
+    "Mkpụrụ akụ́kụ́ ndị a na - akọ n'ubi na - amụba ruo narị afọ abụọ na iri atọ na atọ",
+    "Ala kpọrọ nkụ iji belata mmiri ozuzo",
+    "Zere akụ́kụ́ ndị na - emebi ihe mgbe ị na - egwu mmiri",
+    "Ngwá ọrụ ndị na - adị ọcha na ndị na - adịghị emebi emebi na - anọgide na - arụ ọrụ"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ihe nketa ndị dabeere na nkà na ụzụ banyere ihe ndị dị ndụ-bacccriss",
+    "Ọgwụ ndị e ji agwọ ọrịa bụ́ ndị e ji alụso nje HIV ọgụ"
+  ],
+  "chemical_control": [
+    "E ji ya emenwu ọkụ",
+    "Anwụrụ ọkụ na - esi ísì ụtọ nke na - esi n'ahụ́ apụta",
+    "Ihe ndị e ji emenwu ọkụ bụ́ ndị e si na ha nweta ihe ndị e ji esiji ákwà"
+  ],
+  "prevention": [
+    "Jiri ọgwụ mgbochi ma ọ bụ ọgwụ ndị na - eguzogide ihe mee ihe",
+    "Mkpụrụ Ndị Dị Mma",
+    "Zere ịrụ ọrụ n'ubi mgbe ákụ́kụ́ dị ụkọ",
+    "Nọgide na - edebe ihe ọcha n'ụzọ dị mma n'ubi",
+    "Mgbochi ụmụ ahụhụ iji belata ihe ndị na - eme ka nje bacteria ghara ịbanye n'ime ha"
+  ],
+  "source": [
+    "Ngwá Ọrụ Ndị Na - echebe Anụ Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Nkà Mmụta Ihe Ochie Banyere Ihe Ndị Dị Ndụ Bụ́ Ndị Na - amụ Banyere Ihe Ndị Dị Ndụ"
+  ]
+}

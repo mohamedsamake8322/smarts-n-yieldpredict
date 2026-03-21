@@ -1,51 +1,51 @@
 {
   "disease_name": "Alternaria Black Mold Stem Canker",
   "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
+  "pathogen_type": "Champignons",
   "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "description": "Le chancre à moisissure noire Alternaria est une maladie fongique causée par des espèces du genre Alternaria. Il affecte les tiges, les feuilles et parfois les fruits de nombreuses cultures, en particulier les plantes de la famille des Solanaceae. La maladie produit des moisissures foncées et des chancres sur les tiges, ce qui réduit la vigueur des plantes et réduit les pertes de rendement.",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "Tige",
+    "Feuille",
+    "Fruits"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "Tomates",
+    "Pommes de terre",
+    "Aubergines",
+    "Poivre",
+    "Diverses cultures de Solanaceae"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "Croissance de la moisissure brune foncée à noire sur les tiges",
+    "Cankers à tige ou lésions ensanglantées",
+    "Taches de feuilles avec anneaux concentriques",
+    "Jaune et flétrissement des feuilles",
+    "Réduction de la croissance des plantes"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "Températures chaudes (20-30°C)",
+    "Humidité élevée",
+    "Humidité prolongée des feuilles",
+    "Présence de débris végétaux infectés"
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "Spores dispersées par le vent",
+    "éclaboussure de pluie",
+    "Débris de plantes contaminées",
+    "Graines infectées"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "Utiliser des semences exemptes de maladies",
+      "Cultures en rotation avec des plantes non hôtes",
+      "Enlever les débris végétaux infectés",
+      "Améliorer la circulation de l'air autour des plantes"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
+      "Appliquer des fongicides comme le Mancozeb",
       "Chlorothalonil",
-      "Copper-based fungicides"
+      "Fongicides à base de cuivre"
     ]
   }
 }

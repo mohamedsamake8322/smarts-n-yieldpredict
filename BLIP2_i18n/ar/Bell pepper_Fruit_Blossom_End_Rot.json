@@ -1,71 +1,71 @@
 {
-  "disease": "Bell pepper blossom-end rot",
-  "scientific_name": "Physiological disorder caused by calcium deficiency in fruit tissues",
-  "pathogen_type": "Abiotic (nutrient deficiency disorder)",
-  "description": "Blossom-end rot is a physiological disorder caused by a lack of calcium in developing fruits. It affects rapidly growing fruits when calcium supply to fruit tissue is insufficient. The disorder leads to tissue collapse at the blossom end of the fruit and can cause significant yield losses.",
+  "disease": "الرشــل",
+  "scientific_name": "اضطراب في الفسيليا سببه نقص الكالس في أنسجة الفاكهة",
+  "pathogen_type": "Aicobic (اضطراب نقص المغذيات المغذية)",
+  "description": "إن التعفن في نهاية العالم هو اضطراب فسيولوجي ناجم عن نقص الكالسيوم في زراعة الفواكه، ويؤثر على نمو الفواكه بسرعة عندما لا يكون المعروض من الكالسيوم في أنسجة الفاكهة كافياً، ويؤدي هذا الاضطراب إلى انهيار الأنسجة عند نهاية أزهار الفاكهة ويمكن أن يتسبب في خسائر كبيرة في الغلة.",
   "symptoms": [
-    "Small light green or yellow spot at the blossom end of the fruit",
-    "Sunken dark brown or black lesion on fruit tip",
-    "Fruit tissue collapse and dry rot",
-    "Premature fruit ripening",
-    "Black fungal growth (secondary Alternaria colonization)",
-    "Secondary bacterial soft rot in severe cases"
+    "ضوء صغير أخضر أو أصفر في نهاية الزهرة من فاكهة",
+    "ظلام داكن أو سود سود على طرفة الفاكهة",
+    "(أ) ما يلي:",
+    "ما قبل سن ما قبل العمر",
+    "النمو الفطري الأسود (استعمار المرحلة الثانوية)",
+    "تعفن لين في حالات خطيرة"
   ],
   "hosts": [
-    "bell pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "zucchini",
-    "squash",
-    "watermelon",
-    "cucumber",
-    "melon"
+    ")ج( الفلفل",
+    "",
+    "ط ط ط ط ط ط ط ط",
+    "(ب) ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "u u chini",
+    "أولاً - ما قبل",
+    "",
+    "الخيار",
+    "البطائل"
   ],
   "favorable_conditions": [
-    "Low calcium availability in plant tissues",
-    "Irregular irrigation or drought stress",
-    "Rapid vegetative growth",
-    "Excess nitrogen fertilization",
-    "High salt concentration in soil",
-    "Poor root development or root damage",
-    "High temperature and rapid fruit growth"
+    "توافر منخفض للكسل في أنسجة النبات",
+    "الري العادي أو الإجهاد الناجم عن الجفاف",
+    "النمو السريع",
+    "التسمّي الذرّي",
+    "(أ) التركيز المرتفع في التربة",
+    "التنمية الفقيرة أو الضرر الجذري",
+    "درجة الحرارة العالية والنمو السريع في الفواكه"
   ],
   "spread": [
-    "Not infectious; it is a physiological disorder",
-    "Occurs when calcium transport to fruits is insufficient",
-    "Often triggered by water stress or nutrient imbalance"
+    "ليس معديًا، بل هو اضطراب نفسي",
+    "الحالات التي يكون فيها انتقال الكالسيوم إلى الفواكه غير كاف",
+    "غالباً ما يكون ذلك بسبب الإجهاد المائي أو اختلال التوازن في المغذيات"
   ],
   "management": [
-    "Maintain consistent soil moisture with proper irrigation",
-    "Avoid excessive nitrogen fertilization",
-    "Improve soil structure for better root growth",
-    "Use mulching to regulate soil moisture and temperature",
-    "Monitor soil nutrient levels with soil testing"
+    "المحافظة على اتساق رطوبة التربة مع الري السليم",
+    "تجنب الإفراط في التلقيح",
+    "تحسين هيكل التربة من أجل نمو جذر أفضل",
+    "استخدام الرطوبة لتنظيم التربة ودرجة الحرارة",
+    "مستويات مغذيات التربة مع اختبار التربة"
   ],
   "biological_control": [
-    "Use beneficial microbes such as Bacillus subtilis to improve plant health",
-    "Apply Trichoderma species to support root growth and nutrient uptake",
-    "Use organic soil amendments like compost to improve soil structure"
+    "استخدام ميكروبات مفيدة مثل الباسيليوس Subtilis لتحسين صحة النبات",
+    "تطبيق أنواع الترايكودرما لدعم نمو الجذور وامتصاص المغذيات",
+    "استخدام تعديلات التربة العضوية مثل الترمل لتحسين هيكل التربة"
   ],
   "chemical_control": [
-    "Calcium nitrate",
-    "Calcium chloride",
-    "Calcium sulfate (gypsum)",
-    "Chelated calcium fertilizers",
-    "Foliar calcium sprays (limited effectiveness)"
+    "2 - النترة",
+    "كلوريد الكلسيوم",
+    "3كيوم كبريتات (جروب)",
+    "الأسمدة",
+    "الرش بالفوليرات (فعالية محدودة)"
   ],
   "prevention": [
-    "Ensure adequate calcium levels in soil",
-    "Maintain regular irrigation schedules",
-    "Avoid excessive nitrogen fertilization",
-    "Improve drainage and root health",
-    "Use drip irrigation to stabilize water supply",
-    "Avoid root damage from cultivation or diseases"
+    "ضمان وجود مستويات كافية للكالسولين في التربة",
+    "المحافظة على جداول الري المنتظم",
+    "تجنب الإفراط في التلقيح",
+    "تحسين الصرف والصحة الأساسية",
+    "استخدام الري بالتنقية لتحقيق استقرار إمدادات المياه",
+    "تجنب الضرر الجذري الناجم عن الزراعة أو الأمراض"
   ],
   "source": [
-    "University of Florida IFAS Extension",
-    "Principles of Plant Nutrition – Mengel & Kirkby",
-    "Plant pathology and vegetable crop management literature"
+    "جامعة فلوريدا",
+    "مبادئ التغذية النباتية - منجل وكيركسبي",
+    "علم النبات وإدارة المحاصيل النباتية"
   ]
 }

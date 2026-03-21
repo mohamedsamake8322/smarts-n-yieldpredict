@@ -1,0 +1,46 @@
+{
+  "disease_name": "Mkpụrụ Na - enye Ìhè ná Mmalite",
+  "scientific_name": "Ọrịa Uche Na - ebibi Ihe n'Ụzọ Na - ezighị Ezi",
+  "pathogen_type": "gmycete",
+  "description": "Mkpụrụ osisi ndị na - emebi ngwa ngwa na - ebibi bụ ọrịa na - ebibi ihe nke usoro mkpụrụ ndụ ihe nketa bụ́ gritetep na - akpata. Ọ na - emetụta tomato na ihe ọkụkụ ndị na - esi ísì ụtọ.",
+  "affected_parts": [
+    "Mkpụrụ",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Stbum"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Plato"
+  ],
+  "symptoms": [
+    "Ihe ndị na - acha nchara nchara ma ọ bụ ndị na - acha nchara nchara bụ́ ndị na - eme ka mkpụrụ osisi na - acha nchara nchara ma ọ bụ ndị isi ojii",
+    "Ńgwānụ́ banye",
+    "Uto dị ọcha n'ọnọdụ ndị dị ize ndụ",
+    "Ọ na - eme ka mkpụrụ osisi na - amị ngwa ngwa ghara imebi ngwa ngwa"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "Ogologo oge nke akwụkwọ osisi"
+  ],
+  "spread": [
+    "Ikere ide ude-n'ala",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Ngwá ọrụ ndị e ji arụ ọrụ na ngwá ọrụ ndị e ji arụ ọrụ"
+  ],
+  "management": {
+    "cultural": [
+      "Wepụ akụ́kụ́ ndị nwere nje ndị ahụ",
+      "Mee ka ikuku na - abatakwu gị n'ahụ́",
+      "Zere ịgba ala mmiri n'ike n'ike",
+      "Jiri òtù nzuzo ndị na - eguzogide ọgwụ mee ihe mgbe e nwere ha"
+    ],
+    "chemical": [
+      "Plalili-ọ̀tụ̀rụ̀",
+      "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+      "Macoze"
+    ]
+  }
+}

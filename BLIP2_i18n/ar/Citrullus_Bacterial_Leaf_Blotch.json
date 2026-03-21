@@ -1,119 +1,119 @@
 {
-  "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
-  "common_name": "Bacterial Fruit Blotch",
+  "disease_name": "Citrururullus__ Baccti_ Fruit_ pllut",
+  "common_name": "مُنْصِجِل",
   "causal_agent": {
-    "type": "bacterium",
-    "scientific_name": "Acidovorax citrulli",
+    "type": "بكبر",
+    "scientific_name": "Aciduفورس cstrulli",
     "taxonomy": {
-      "domain": "Bacteria",
-      "class": "Betaproteobacteria",
-      "order": "Burkholderiales",
-      "family": "Comamonadaceae",
-      "genus": "Acidovorax",
-      "species": "citrulli"
+      "domain": "",
+      "class": "بِتَبِتْتُ",
+      "order": "مُحْجِز",
+      "family": "الجمعية العامة",
+      "genus": "المكفور",
+      "species": "Setrulli"
     }
   },
   "microbiological_properties": {
-    "gram_stain": "Gram-negative",
-    "shape": "Rod-shaped",
-    "size": "Approximately 0.5 μm × 1.7 μm",
-    "oxygen_requirement": "Strictly aerobic",
-    "motility": "Motile with polar flagellum",
+    "gram_stain": "",
+    "shape": "- - - - - - - - - - - - - - - - - -",
+    "size": "ما يقرب من 0.5 ميكروم x 1,1 ميكروم",
+    "oxygen_requirement": "(ب) - - - - - - - - - - - - - - - - - - - - -))))) ()))) ())) ())) ())) ())) ())) ())) ()) ())) ())) ())) ()))) ())))) ()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "motility": "مُطاط مع أُطلِل أُطلِل",
     "optimal_growth_temperature_celsius": "27-30"
   },
   "host_plants": [
-    "Watermelon",
-    "Melon",
-    "Cucumber",
-    "Squash",
-    "Pumpkin",
-    "Zucchini"
+    "",
+    "",
+    "",
+    "سواش",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "طراز scchini"
   ],
   "symptoms": {
     "seedlings": [
-      "Water-soaked lesions on cotyledons",
-      "Necrotic lesions near veins",
-      "Lesions on hypocotyl",
-      "Seedling collapse and death"
+      "إصابات متسربة من الماء على الكوتيلونات",
+      "النواة النواة النواة القريبة الأوردة",
+      "مَنْشِشات في",
+      "التداعي والانهيار والموت"
     ],
     "leaves": [
-      "Irregular dark-brown to black lesions (watermelon)",
-      "Reddish-brown lesions (melon)",
-      "Lesions spreading along veins",
-      "Leaf blight symptoms"
+      "لون غامق عادي إلى أسود (بطيخ)",
+      "(البطيخ)",
+      "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -)))))))))))))))))) ())))))) ()))))))))))))))))))))))))))))))) ())))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+      "أعراض اللفت"
     ],
     "fruits": [
-      "Small irregular water-soaked lesions",
-      "Sunken rind spots",
-      "Lesions turn brown and crack",
-      "Internal fruit decay",
-      "Fruit rot before harvest"
+      "الإصابات الصغيرة غير المنتظمة التي تتسرب منها المياه",
+      "نقاط الوحي",
+      "تُدرّجُ الفتاتَيْن بُنيًّا وشقًّا",
+      "تحلّل أوكهة داخلية",
+      "روتات قبل الحصاد"
     ]
   },
   "disease_cycle": {
-    "primary_inoculum": "Contaminated seeds",
+    "primary_inoculum": "البذور الملقتة",
     "transmission_methods": [
-      "Seed transmission",
-      "Splashing water",
-      "Wind-driven rain",
-      "Overhead irrigation"
+      "محول",
+      "الماء الرش",
+      ")أطــر",
+      ""
     ],
     "infection_entry_points": [
-      "Stomata",
-      "Plant wounds"
+      "::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",
+      "م. م."
     ],
-    "fruit_infection_stage": "2–3 weeks after flowering"
+    "fruit_infection_stage": "٢-٣ أسابيع بعد الزهرة"
   },
   "favorable_conditions": {
-    "temperature_celsius": "High (around 27–30°C)",
-    "humidity": "High relative humidity",
+    "temperature_celsius": "مرتفع (نحو 27 - 30 درجة مئوية)",
+    "humidity": "الرطوبة العالية",
     "environment": [
-      "Greenhouses",
-      "Dense plant populations",
-      "Overhead irrigation"
+      "",
+      "سكان الفئة",
+      ""
     ]
   },
   "economic_importance": {
-    "impact": "Severe losses in cucurbit crops, especially watermelon and melon",
-    "possible_loss_percentage": "Up to 90–100% fruit loss in severe outbreaks",
+    "impact": "خسائر فادحة في المحاصيل الكريمة، ولا سيما البطيخ والبطيخ",
+    "possible_loss_percentage": "ما يصل إلى ما يصل إلى 90 إلى 100 في المائة فقدان فاكهة في حالات التفشي الشديد",
     "global_distribution": true
   },
   "management": {
     "seed_management": [
-      "Use pathogen-free certified seeds",
-      "Seed health testing (PCR or grow-out assays)"
+      "استخدام البذور المعتمدة الخالية من الأمراض",
+      "الاختبارات الصحية (الاختبارات المتعلقة بذرات كروات التركيز أو اختبارات النمو)"
     ],
     "seed_treatments": [
-      "Dry heat treatment (85°C for 3–5 days)",
-      "Peroxyacetic acid treatment",
-      "Chlorine treatments"
+      "معالجة الحرارة الجافة (85 درجة مئوية لمدة 3 - 5 أيام)",
+      "علاج حامض السلفي",
+      ""
     ],
     "cultural_practices": [
-      "Reduce humidity in greenhouses",
-      "Avoid overhead irrigation",
-      "Remove infected plants"
+      "الحد الأدنى من الرطوبة في غازات الدفيئة",
+      "",
+      "النباتات التي أُزيل"
     ],
     "chemical_control": [
-      "Copper-based bactericides"
+      "مبيدات آفات البكتيريا القائمة على أساس أساس أساس أساس"
     ],
-    "host_resistance": "No commercially reliable resistant cultivars available"
+    "host_resistance": "لا توجد أصناف معدة مقاومة للموثوقية من الناحية التجارية"
   },
   "genetic_diversity": {
     "groups": [
       {
-        "name": "Group I",
-        "characteristics": "Moderately aggressive on multiple cucurbits"
+        "name": "المجموعة الأولى",
+        "characteristics": "بشكل معتدل عدواني على العديد من الطينات المتعددة"
       },
       {
-        "name": "Group II",
-        "characteristics": "Highly aggressive on watermelon"
+        "name": "المجموعة الثانية",
+        "characteristics": "على البطيخ"
       }
     ]
   },
   "sources": [
-    "APS Plant Disease Lessons",
-    "Journal of Plant Pathology studies on Acidovorax citrulli",
-    "International Seed Health Initiative (ISHI)",
-    "Plant Pathology research publications"
+    "آب / / / / / /",
+    "مجلة دراسات أمراض النبات في أسيدفوراكس سيترولي",
+    "مبادرة الصحة الدولية للبذور",
+    "منشورات بحوث علم علم النبات"
   ]
 }

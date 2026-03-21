@@ -1,0 +1,60 @@
+{
+  "disease_name": "IHE NDỊ NA - EME KA E NWEE OBI ỤTỌ N'OGE OCHIE",
+  "type": "Ọrịa na - asọ oyi nke na - esite n'erighị ihe ndị na - edozi ahụ́",
+  "causal_agent": "Ihe osise ndị na - egosi otú ihe dị n'oge a si na - aga n'ihu n'ebe a na - edebe ihe ọmụma n'Intanet",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "A na - akụ ata ndị nwere nkwarụ (eeeg., ịnyịnya ibu ọhịa)"
+    ],
+    "other_hosts": []
+  },
+  "distribution": "Zuru Ụwa Ọnụ",
+  "symptoms": {
+    "foliage": [
+      "Ebe ndị a na - edebe ihe ndị na - acha nchara nchara na ebe ndị a na - esi abanye n'isi ụlọ ọrụ ndị na - acha nchara nchara",
+      "Ụlọ Ọrụ Na - ahụ Maka Ihe Ndị Na - eme n'Ebe A Na - edebe Ihe Ndị Ruuru Mmadụ na Europe",
+      "A na - enwekarị ihe na - acha odo odo na - acha odo odo n'akụkụ akwụkwọ osisi",
+      "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka e nwee mkpịsị akwụkwọ, nke na - acha odo odo, nke na - acha nchara nchara, nke na - eme ka ahụ́ na - egbu mmadụ, na nke na - eme ka ahụ́ na - egbu mmadụ mgbu"
+    ],
+    "fruit": [
+      "Ọrịa mkpụrụ akụ́kụ́ bụ ihe a na - adịghị ahụkebe"
+    ]
+  },
+  "disease_cycle": [
+    "Ihe ndị na - atọ ọchị na - eme ka e nwee ntụ tomato ma ọ bụ iberibe ata ndị na - esi ísì ọma",
+    "Ọ pụkwara ịdịgide ndụ n'elu ngwá ọrụ ndị dị ka osisi na osisi",
+    "A na - agbasa mmiri ozuzo ma ọ bụ ịgba ala mmiri n'ọkụ",
+    "Nnukwu ikpo ọkụ, ọ̀tụ̀tụ̀ okpomọkụ dị elu, na akwụkwọ nta ruo ogologo oge bụ́ ndị na - akwado uto nke ọrịa"
+  ],
+  "management": {
+    "cultural": [
+      "Wepụtanụ ihe ọkụkụ iri afọ abụọ na otu ma ọ dịkarịa ala otu puku afọ na narị afọ abụọ ma ọ dịkarịa ala",
+      "Igbochi ahịhịa ndị na - adịghị ize ndụ dị ka ịnyịnya ibu",
+      "Wepụ ma bibie iberibe ihe ọkụkụ (ọkụ ma ọ bụ ili n'ebe e nwere ihe ọkụkụ)",
+      "Anadu ma ọ bụ na-ọkụ ákụ́kụ́ iji mee ka mmepụta ikuku ka mma ma belata nkwurịta okwu ya",
+      "Ọ na - eme ka ahịhịa na - eto ngwa ngwa, ọ na - emekwa ka ọ ghara imebi ngwa ngwa",
+      "Ịgba ubi n'ụzọ a na - achịkwaghị achịkwa iji gbochie akwụkwọ osisi ndị e ji ebi ndụ ruo ogologo oge",
+      "Jiri ụdị tomato ndị na - eguzogide ọgwụ mee ihe n'ebe e nwere ha"
+    ],
+    "chemical": [
+      "Tinye akwụkwọ nchebe ndị e dere aha ha n'ebe ndị a na - edebe ihe n'ala iji mee ka ọ nọgide na - adị ọcha",
+      "Ihe ndị a na - esi n'ahụ́ ha esi, dị ka ihe ndị e ji esi nri bụ́ ndị na - eme ka ahụ́ ghara iru mmadụ ala ma ọ bụ na - esi ísì ụtọ, bụ́ ndị na - eme ka mmiri na - abanye n'ime ala (ECCC) na - arụ ọrụ nke ọma",
+      "Aha ndị mmadụ na - akpọ ndị mmadụ n'otu ụlọ ahịa bụ Daconil, Macorab, Fing",
+      "Na - enweta ntụziaka ugboro ugboro (n'ụbọchị 7 ọ bụla) dị ka ihe a na - akpọ ntụziaka",
+      "A pụrụ inwe ụdị ọla kọpa ndị ọzọ n'ebe ndị ọrịa na - adịghị ala ala na - adịghị ala"
+    ]
+  },
+  "notes": [
+    "Ime ihe ụfọdụ n'usoro ndị e ji alụso nje HIV ọgụ na - adị irè karịa ịnwa ịgwọ akụ́kụ́ ndị nwere nje HIV",
+    "Ọ bụ ya mere idebe ihe ọcha ji dị oké mkpa",
+    "Ọrịa na - efe efe gabiga ókè ma ọ bụ nke na - eme ka ọbara na - agba mmadụ n'ahụ́, na - agbasa"
+  ],
+  "references": [
+    "Mahadum nke Na - emepụta Ọgwụ Ndị Na - alụso Ọrịa ọgụ na - eme Ka Ahụ́ ghara Ịdị na - eru onye ọ bụla nọ n'ụlọ ọgwụ ala.",
+    "N'otu akwụkwọ akụkọ a na - ebipụta n'Amerịka, e kwuru na ụfọdụ ndị ọkà mmụta sayensị na - ekwu na ọ bụ otu ihe ka a na - eme n'ụlọ ọrụ mgbasa ozi.",
+    "Jones, J.B., n'afọ 2014, e nwere ọrịa na - efe efe n'ebe a na - edebe ihe ndị dị ndụ n'ebe a na - edebe ihe ọmụma n'Ịntanet."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "disease_name": "ፎቶዎች Corynespora Leaf",
+  "causal_agent": "የኮርኒስኮር ካስቲኮር",
+  "disease_type": "ፎቶዎች",
+  "description": "የ Corynespora ፎቶ ፎቶ በ 500 ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ ፎቶዎች ላይ የተመሠረተ.",
+  "hosts": [
+    "የሙዚቃ",
+    "የቶማስ",
+    "ፎቶዎች",
+    "የኦሪጂናል",
+    "ብረት",
+    "የሙቀት ዱቄት"
+  ],
+  "symptoms": [
+    "ፎቶዎች ላይ ዝቅተኛ ጥቁር ጥቁር ጥቁር ፎቶዎች",
+    "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች",
+    "የክክክሮቲክ ወይም የክክክሮቲክ ወረቀት",
+    "ፎቶዎች ለመፍጠር እና ፎቶዎች ለመፍጠር",
+    "ፎቶዎች በከፍተኛ ወይም ዝቅተኛ ፎቶዎች ላይ ይሆናል."
+  ],
+  "favorable_conditions": {
+    "temperature_optimum": "25 - 30 °C",
+    "temperature_range": "15 - 35 °C",
+    "humidity": "ከፍተኛ የሙቀት (>90%) የተሻለ የሙቀት",
+    "pH_optimum": "በ 5.5"
+  },
+  "biological_control": [
+    {
+      "agent": "የ Bacillus subtilis",
+      "type": "ምርጥ bacterium",
+      "mode_of_action": "Antifungal metabolites ማምረቻ እና የሙቀት ልማት ማምረቻ"
+    },
+    {
+      "agent": "የ Bacillus amyloliquefaciens",
+      "type": "ምርጥ bacterium",
+      "mode_of_action": "የ lipopeptides ያካትታል የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት"
+    },
+    {
+      "agent": "የክፍያ የክፍያ",
+      "type": "የኦሪጂናል መቆጣጠሪያ",
+      "mode_of_action": "Mycoparasitism እና የፕላስቲክ የቴክኖሎጂዎች ጋር ተስማሚ"
+    },
+    {
+      "agent": "ፎቶዎች ፎቶ",
+      "type": "የኦሪጂናል መቆጣጠሪያ",
+      "mode_of_action": "የ Antifungal Enzymes እና Sekundary Metabolites ያግኙን"
+    }
+  ],
+  "chemical_control": {
+    "fungicides": [
+      {
+        "active_ingredient": "መኖሪያ ቤት",
+        "type": "መለያዎች Fungicide",
+        "mode_of_action": "ፎቶ ፎቶ ፎቶ ፎቶ"
+      },
+      {
+        "active_ingredient": "የ Chlorothalonil",
+        "type": "የሙከራዎች",
+        "mode_of_action": "የፋንካል ልምድ በፕላስቲክ ስፋት ላይ ያካትታል"
+      },
+      {
+        "active_ingredient": "አክሲስቲሮቢን",
+        "type": "የኦሪጂናል",
+        "mode_of_action": "የ mitochondrial respiration ማከማቻ"
+      },
+      {
+        "active_ingredient": "የ Difenoconazole",
+        "type": "ቲራስሊን Fungicide",
+        "mode_of_action": "የ Sterol Biosynthesis ማከማቻ"
+      },
+      {
+        "active_ingredient": "Tebuconazole ንድፍ",
+        "type": "ቲራስሊን Fungicide",
+        "mode_of_action": "የመስመር ላይ ergosterol synthesis"
+      },
+      {
+        "active_ingredient": "የካርቦን",
+        "type": "የቴክኒክ Fungicide",
+        "mode_of_action": "የሙዚቃ ኬብል ክፍያዎች"
+      }
+    ]
+  },
+  "management_notes": [
+    "መሣሪያዎች መሣሪያዎች መሣሪያዎች መሣሪያዎች በመጠቀም",
+    "የፈጠራ መሣሪያዎች የተለያዩ መሣሪያዎች ጋር የፈጠራ መሣሪያዎች መሣሪያዎች",
+    "ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+    "የሞክሮ መሳሪያዎች መሳሪያዎች",
+    "የመስመር ላይ የመስመር ላይ የመስመር ላይ የመስመር ላይ የመስመር ላይ የመስመር ላይ የመስመር"
+  ]
+}

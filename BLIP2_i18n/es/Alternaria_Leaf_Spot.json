@@ -1,0 +1,71 @@
+{
+  "disease_name": "Alternaria_Leaf_Spot",
+  "pathogen_type": "hongo",
+  "genus": "Alternaria",
+  "common_species": [
+    "Alternaria solani",
+    "Alternaria alternata",
+    "Alternaria brassicae",
+    "Alternaria brassicicola",
+    "Alternaria melongenae"
+  ],
+  "affected_crops": [
+    "Tomate",
+    "Patata",
+    "Berenjenas",
+    "Pimienta",
+    "Lechuga",
+    "Cultivos de Brassica (cabina, brócoli, mostaza)",
+    "Granadas",
+    "Muchas plantas ornamentales y silvestres"
+  ],
+  "symptoms": [
+    "Pequeñas manchas de color marrón a negro en las hojas",
+    "Las manchas a menudo tienen anillos concéntricos formando un patrón \"como objetivo\"",
+    "Halo amarillo alrededor de las lesiones",
+    "Las lesiones se agrandan y pueden fusionarse",
+    "Hoja amarillenta y caída prematura de la hoja",
+    "Las infecciones graves pueden reducir el crecimiento y el rendimiento de las plantas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (20–30°C)",
+    "Alta humedad o humedad prolongada de las hojas",
+    "Lluvia frecuente o irrigación superior",
+    "Presencia de desechos vegetales infectados"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en residuos de cultivos infectados, semillas y malas hierbas",
+    "Las esporas se producen en los tejidos infectados",
+    "Las esporas se propagan a través del viento, salpicaduras de lluvia, agua de riego y herramientas",
+    "La infección ocurre cuando las esporas caen sobre las hojas húmedas",
+    "Múltiples ciclos de infección pueden ocurrir durante una temporada de crecimiento"
+  ],
+  "monitoring": [
+    "Inspeccione las hojas regularmente en busca de manchas marrones o negras",
+    "Busque patrones de anillo concéntricos en lesiones",
+    "Supervisar las condiciones de humedad y temperatura favorables a la enfermedad"
+  ],
+  "management": {
+    "cultural": [
+      "Utilizar semillas certificadas libres de enfermedades y materiales de plantación",
+      "Practicar la rotación de cultivos con cultivos no hospedantes",
+      "Retire y destruya los desechos vegetales infectados después de la cosecha",
+      "Mejorar la circulación del aire mediante el espaciado y la poda de las plantas",
+      "Evitar la irrigación cuando sea posible"
+    ],
+    "chemical": [
+      "Aplicar fungicidas protectores como Mancozeb",
+      "Utilizar fungicidas a base de clorotalonil",
+      "Los fungicidas a base de cobre pueden ayudar a reducir la propagación de enfermedades",
+      "Rotar fungicidas con diferentes grupos de FRAC para evitar resistencia"
+    ],
+    "biological": [
+      "Utilizar agentes de control biológico como formulaciones Bacillus subtilis",
+      "Alentar microorganismos beneficiosos que suprimen los patógenos fúngicos"
+    ]
+  },
+  "impact": {
+    "crop_loss": "Moderado a severo dependiendo de las condiciones ambientales y la susceptibilidad de los cultivos",
+    "economic_importance": "Enfermedad común en muchos cultivos vegetales en todo el mundo que puede reducir significativamente el rendimiento y la calidad"
+  }
+}

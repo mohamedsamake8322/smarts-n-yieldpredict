@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
-  "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "pest_name": "双点蜘蛛米特",
+  "scientific_name": "科奇省",
+  "type": "节肢类动物/米特",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "0.4-0.5毫米长",
+    "appearance": "Oval, 绿色到黄黄色的身体,背背上有两个黑斑;八条腿",
+    "life_cycle": "成年幼虫蛋 成年幼虫蛋;每个季节几代人",
+    "notes": "很小,往往需要手透镜或放大镜才能探测"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "番茄",
+      "黄瓜",
+      "辣椒",
+      "草莓"
+    ],
+    "secondary": [
+      "许多装饰品、蔬菜和水果作物"
+    ],
+    "weeds": [
+      "共同的杂草东道主可以在非季节时窝藏人口"
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "全世界,特别是在温暖干燥的条件下",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "上叶表面的微黄或苍白斑点(暂停)",
+      "在树叶的下边,在严重侵扰下,在树叶的下面,抽泣着,",
+      "叶子可能转铜、卷卷、过早落落"
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "减少光合作用、发育迟缓、产量低、植物压力增加"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "炎热干燥的天气中的振动",
+    "在25-35摄氏度的温度下,人口增长迅速",
+    "低相对湿湿度有利于暴发"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "风、灌溉水、污染工具",
+    "通过害虫植物或植物残块运输"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "保持足够的灌溉和湿湿度,以减少对植物的压力",
+      "清除渗入的植物碎片和杂草",
+      "避免过度使用影响自然掠食动物的广频杀虫剂"
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "引入掠食性白蚁(例如,Phytosepheulus persimilis, Neosehululs californicus)",
+      "鼓励自然捕食者,如蜜蜂和花蕾等"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "作为最后手段使用杀杀灭杀灭杀剂(杀杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀杀杀杀杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀灭杀杀杀杀杀杀灭灭灭灭杀灭杀灭灭杀杀杀杀杀灭杀灭杀杀杀灭灭杀灭灭灭灭灭灭杀灭杀灭灭杀灭灭杀灭灭杀灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭杀灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭灭",
+      "施施于聚聚的叶叶的下侧"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "全世界最常见和经济上最重要的虫害虫之一",
+    "能够迅速发展对多种化学品类别的抗药性"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "Helle, W. & Sabelis, M.W.(1985年),《蜘蛛虫:生物、自然敌人和控制》,Elsevier。",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003年). Mites (Acari) 用于害虫控制, Blackwell Science。",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W.(1975年),《伤害经济植物的地雷》,加利福尼亚大学出版社。"
   ]
 }

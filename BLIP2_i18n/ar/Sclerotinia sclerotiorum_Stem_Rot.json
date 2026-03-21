@@ -1,86 +1,86 @@
 {
- "disease": "Sclerotinia Stem Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia stem rot is a fungal disease that attacks the stems of many crops. The fungus produces white cotton-like mold and black survival structures called sclerotia. Infected stems become soft, rot, and may cause the plant to collapse.",
- "symptoms": [
-  "Water-soaked lesions on stems",
-  "Soft rot on stems near the soil line",
-  "White cotton-like fungal growth on stems",
-  "Black seed-like sclerotia inside or on infected stems",
-  "Wilting and yellowing of leaves",
-  "Plants collapsing due to stem decay"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "soft watery stem rot",
-  "black hard sclerotia in infected tissue",
-  "collapsed plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Lettuce",
-  "Tomato",
-  "Beans",
-  "Peas",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "leaves",
-  "sometimes fruits"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia surviving in soil",
-  "Infected plant debris",
-  "Wind and water splash"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and form apothecia (cup-like structures)",
-  "Apothecia release spores into the air",
-  "Spores infect stems or leaves during wet conditions",
-  "New sclerotia develop on infected plants and return to the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced nutrient and water transport",
-  "Major yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve plant spacing and airflow",
-  "Remove and destroy infected plants",
-  "Manage crop residue after harvest"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Apply beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply fungicides when environmental conditions favor the disease",
-  "Use protective fungicide treatments during high-risk periods"
- ],
- "prevention": [
-  "Avoid dense planting",
-  "Monitor crops regularly during cool and wet periods",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "SSSSultrautininia stem art",
+  "scientific_name": "SSSSSultrulinia sculturrum",
+  "pathogen_type": "المنقوس",
+  "description": "إن التعفن الجذعي للكلوريوترتينيا مرض فطري يهاجم جذوع العديد من المحاصيل. فالفطر ينتج عفناً أبيضاً شبيهاً بالقطن وبنيات سوداء للبقاء على قيد الحياة تُدعى \"الكلوريوتيا\". وتصبح الجذوع المصابة لينة، وتتعفن، وقد تتسبب في انهيار النبتة.",
+  "symptoms": [
+    "إصابات متسربة من الماء على المُسْكِب",
+    "تُعَرَّضُ عُرَّضَ عُرْسَةً وُجُزْرَةً قُرْبَ خطّ التربة",
+    "نمو المغذيات البيضاء التي تشبه القطن",
+    "النسل الأسود المشابه للبذرة السوداء داخل أو على الجينات المُصابة",
+    "التسميـة واللصف للأوراق",
+    "تنهار النباتات بسبب التحلل"
+  ],
+  "visual_symptoms": [
+    "منسوج أبيض أبيض أبيض لفون على",
+    "ماء عذب تعفن تعفن",
+    "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "النباتات المهتلة"
+  ],
+  "hosts": [
+    "Soyban",
+    "",
+    "كانولا (اغتصاب البذور الزيتية)",
+    "لِسِسْس",
+    "طاطاطاطاط",
+    "كهنس",
+    "عدد الطا",
+    "شيء",
+    "",
+    "الكثير من الخضرات والمصانع"
+  ],
+  "plant_parts_affected": [
+    "مُنْسَج",
+    "",
+    "أولاً -",
+    "في بعض الأحيان"
+  ],
+  "favorable_conditions": [
+    "درجات الحرارة",
+    "الرطوبة العالية",
+    "الأمازون أو الري",
+    "معلق معلق",
+    ""
+  ],
+  "spread": [
+    "بصور جوية متحررة من البوغات المنبثّة عن",
+    "سلسلوتيا التي تعيش في التربة",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "الرياح والرشعة"
+  ],
+  "disease_cycle": [
+    "الفطريات تنجو في التربة كسلسلوريا لعدة سنوات",
+    "سلسلسلوتيا تكاثر وتشكّل بولوثيا (الهيكلات الشبيهة بالكتل)",
+    "(أ) أن تُطلق في الهواء أو تُطلق في الهواء",
+    "الأوسورة في الجينات أو الأوراق المُمْتَلِكَة أثناء ظروف الرطب",
+    "تطوير سلسلوتيا جديدة على النباتات المصابة والعودة إلى التربة"
+  ],
+  "impact": [
+    "ثالثاً - التعفن وانهيار النبتة",
+    "انخفاض المغذيات ونقل المياه",
+    "ألف - خسائر الغلة الرئيسية في المحاصيل القابلة"
+  ],
+  "cultural_control": [
+    "محاصيل دوران مع نباتات غير مستهلكة",
+    "تحسين المباعة بين النبات والتدفق الجوي",
+    "(أ) التخلص من النباتات المُحْكِرة وتدميرها",
+    "مخلفات ما بعد الحصاد"
+  ],
+  "biological_control": [
+    "استخدام عوامل بيولوجية مثل المصغرات المصغرة للكونيوسريوم",
+    "استخدام الفطريات المفيدة مثل أنواع الترايشودرما"
+  ],
+  "chemical_control": [
+    "تطبيق مبيدات الفطريات عندما تكون الظروف البيئية مواتية للمرض",
+    "علاجات مبيدات آفات الاستخدام الواقية للاستخدامات أثناء الفترات العالية الخطورة"
+  ],
+  "prevention": [
+    ":: تجنب الغرس",
+    ":: رصد المحاصيل بصورة منتظمة خلال فترات التبريد والرطوبة",
+    "ممارسات الإدارة المتكاملة لمعالجة الأمراض"
+  ],
+  "source": [
+    "المراجع الطبية للمطرب",
+    "أدلة إدارة الأمراض الزراعية"
+  ]
 }

@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "Güney kök-knot nematode",
+  "scientific_name": "Meloidogin incognitası",
+  "common_abbreviations": [
+    "RKN",
+    "Güney Root-nematode",
+    "Pamuk kök-knot nematode"
+  ],
+  "description": "Meloidogyne incognita, çeşitli bitkilerin kökleri tarafından saldırıya uğrayan bir bitki-parazit döngüsü, büyük düzensiz gallara neden olur. dünyanın en yaygın ve ekonomik açıdan önemli kök-knot nematodlarından biridir.",
+  "distribution": "Küresel olarak yaygın olarak yayılır, çoğunlukla tropik ve subtropik bölgelerde bulunan çeşitli toprak türlerinde bulunur.",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "Çok polifago, hem monocotyledonları hem de dicotyledonları saldırır; tahmin edilen 3.000'den fazla bitki türü.",
+    "notable_hosts": [
+      "Manihot Esculenta (İngilizce)",
+      "Pamuk",
+      "domates",
+      "Pepper için",
+      "Tütün",
+      "Kahve"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "su stresi",
+      "Beslenme Stresi",
+      "sarı",
+      "Wilting",
+      "Sıkıştırma"
+    ],
+    "below_ground": [
+      "Kökleri, bulbları ve tüpler üzerinde yumurta",
+      "Yüksek infestasyonlarda bitki ölümü"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "Pear şekli",
+      "posterior_protuberance": "Hiç",
+      "stylet_length": "15 - 16 μm",
+      "stylet_knobs": "Çevrimiçi, offset",
+      "perineal_pattern": "Oval to yuvarlak, yüksek dorsal arka, dalgalı striae, yan alan eksik veya zayıf derinleşmiş"
     },
     "male": {
       "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
-      "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "head": "Ücretsiz, yüksek dudak diski, genellikle yan dudaklar olmadan",
+      "stylet_length": "23 - 26 μm",
+      "stylet_knobs": "Oval olarak döndürülür, offset"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
-      "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "stage": "İkinci aşama (J2)",
+      "body_length": "350 - 450 μm",
+      "tail_length": "43 - 65 μm",
+      "hyaline_region": "6 - 14 μm uzunluk",
+      "shape": "yuvarlak tail tip"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "Yumurta",
+      "J1",
+      "J2 (Enfeksiyonlar için)",
+      "J3",
+      "J4",
+      "Yetişkin"
+    ],
+    "description": "J2 gençler yumurta, penetrasyon kök ipuçları, damar dokusuna göç, kalıcı beslenme siteleri (gigant hücreleri) oluşur, yetişkinler. kadınlar globoz olur ve gelatin kütlesinde yumurta dökülür; erkekler kökleri bırakır. yaşam döngüsü 21 °C'de 37 gün içinde tamamlanır.",
+    "reproduction": "cinsel olarak dimorphic; kadın oturma, erkek vermiform"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "Çok düşük sıcaklık gradientleri keşfetmek ve kökleri bulmak için hareket edebilir",
+    "chemotaxis": "Misafir köklerinden kimyasal kaynaklara tepki verici"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "Yetişkin veya dayanıklı çeşitleri ile bitki dönüşü",
+      "Organik Değişikliklerin Kullanımı",
+      "Crotalaria spectabilis ve Tagetes türleri gibi bitki antagonist bitkiler"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "Egg-parasit mantarları gibi Paecilomyces lilacinus"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "Ticari olarak kullanılabilecek çeşitli nematikler"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "Çoğu bitkide şiddetli yırtılma ve hasar kaybına neden olur",
+    "Tropik ve subtropik tarımda önemli ekonomik önem"
   ]
 }

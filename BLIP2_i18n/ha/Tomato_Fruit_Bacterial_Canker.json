@@ -1,72 +1,81 @@
 {
-  "disease_name": "Tomato Fruit Bacterial Canker",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
-  "type": "bacterial pathogen",
+  "disease_name": "Ana Iya Ba da ' Ya'ya Don a Yi Amfani da Shi",
+  "causal_agent": "Indian National weekday 5 - LongDayName",
+  "type": "@ item Spelling dictionary",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
-    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon."
+    ],
+    "secondary": [
+      "MGBOKO UMUORIA 7 (Igbo)",
+      "\"Kuma Ka sanya mini harshen gaskiya a cikin mutãnen ƙarshe.\""
+    ],
+    "weeds": [
+      "Ka tsayu domin yin salla a cikin dare (duka) fãce kaɗan.",
+      "Mãsu gudu suna ɓũya.",
+      "MGBOKO UMUORIA 7 (Igbo)"
+    ]
   },
-  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "distribution": "A dukan duniya; matsala tana da lahani sosai a cikin gida da kuma fili",
   "symptoms": {
     "seedlings": [
-      "No symptoms in most cases",
-      "Young plants may show poor growth or temporary branch wilting"
+      "@ item Text character set",
+      "Shin shuke - shuke suna iya nuna cewa su talakawa ne ko kuma ofishin reshe na ɗan lokaci"
     ],
     "mature_plants_systemic": [
-      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
-      "Stunted growth and general plant wilting",
-      "Yellow to reddish-brown pith with mealy appearance",
-      "Stem streaks, branch breakage, and potential plant death"
+      "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+      "Mai girman kai zai yi girma kuma ya yi shuki",
+      "Za ku zama masu shan giya, masu zawa, masu zarin ci.",
+      "MGBOKO UMUORIA 13 (Igbo)"
     ],
     "mature_plants_secondary": [
-      "Dark brown to almost black lesions on leaf margins",
-      "Round or irregular leaf spotting",
-      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
-      "Vascular tissue under calyx may be discolored, affecting seeds"
+      "KCharselect unicode block name",
+      "Media controller element",
+      "' Ya'ya: Ana ta da ruwan sama mai ruwan sanyi sosai da ke kusa da teku (da aka gaɓar teku), wato, gaɓar teku",
+      "Wataƙila ba za a iya yin amfani da maganin da ba a saba da shi ba kuma hakan zai iya shafan iri"
     ]
   },
   "disease_cycle": {
-    "introduction": "Through infected seeds or transplants",
-    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "introduction": "Ta wurin cuta ko kuma kayan ado",
+    "overwintering": "Har tsawon shekara 3 a kan yin shuki; a cikin zawan; a kan ciyawa; a kan kayan aiki masu kyau (ko kuma, ko da yaushe, ko kuma a kan hanya mai faɗi)",
     "spread": [
-      "Windblown rain and sprinkler irrigation",
-      "Mechanical cultivation and hand harvesting",
-      "Overhead irrigation splash from infected plants",
-      "Direct contact with infected plants or equipment"
+      "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+      "@ action",
+      "Daga wani ɗigon ruwa guda a lõkacin da ake jẽfa shi a cikin mahaifa.",
+      "Media controller element"
     ],
-    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+    "entry": "Daga baya, sai suka shiga cikin wani ƙaramin matsala da aka yi a birnin Aueaaaa kuma suka ƙaura zuwa garin xna da ke kusa da birnin x."
   },
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants",
-      "Plant certified clean transplants",
-      "Strict monitoring of seed fields; discard contaminated lots",
-      "Soak seed in 130°F water for 25 minutes"
+      "Ka yi amfani da cuta da za'a iya sayarwa",
+      "Ana Mai da Tawali'u Mai Tsabtar Ƙasa",
+      "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+      "Saboda haka, iri a kudancin 130 na minti 25"
     ],
     "greenhouse_measures": [
-      "Steam potting mix and flats",
-      "Disinfect benches, flats, and irrigation hoses",
-      "Empty greenhouses between crops"
+      "Media controller element",
+      "KCharselect unicode block name",
+      "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
     ],
     "field_measures": [
-      "Avoid working when foliage is wet",
-      "Incorporate all plant tissue at season's end",
-      "Rotate fields out of tomato for at least one year",
-      "Control related weeds around fields"
+      "Ka guje wa yin aiki sa'ad da ba ma aiki",
+      "A dukan shuki da aka shuka a ƙarshen lokaci",
+      "Ka yi tafiya zuwa ƙasa don ka yi aƙalla shekara guda",
+      "Ku nĩsanci abu mai yãwa na zato."
     ],
     "chemical_control": [
-      "Repeated copper applications may reduce disease spread but are not fully reliable",
-      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+      "Tsarawa na iya rage cuta mai yawa amma basu da cikakken tabbaci",
+      "Aliiii ya kasance da sauƙi a san ko wane irin hali ne Allah yake amfani da shi."
     ]
   },
   "notes": [
-    "Economic losses in direct-seeded fields are usually uncommon",
-    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
-    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+    "Rashin ' ya'ya a fili abu ne da ba za a iya samu ba",
+    "Zuriyar da aka fi sani za ta iya kai ga babban gida",
+    "Ba za a iya warkar da mutane da ba su da ƙarfi ba; mai da hankali ne a kan ɗabi'ar da kuma mai da hankali ga abubuwa da ba su dace ba"
   ],
   "references": [
-    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
-    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

@@ -1,113 +1,96 @@
 {
-  "disease": "Blossom End Rot",
-  "crop": "Watermelon",
-  "scientific_context": "Physiological disorder caused by localized calcium deficiency",
-  "pathogen_type": "Physiological disorder (not caused by a pathogen)",
-
-  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
-
-  "scientific_name": "Calcium deficiency disorder",
-
+  "disease": "Blossom Sonuçları",
+  "crop": "su melonları",
+  "scientific_context": "Kalsiyum eksikliğinden kaynaklanan fizyolojik bozukluk",
+  "pathogen_type": "Fizyolojik bozukluklar (patogenlerden kaynaklanmamıştır)",
+  "description": "Blossom end rot su melon ve diğer meyve sebzeleri etkileyen bir fizyolojik rahatsızlıktır. genellikle düzensiz su geçirmez, kuru stres, yüksek tuzlu, ya da aşırı azot gübre nedeniyle gelişen meyve dokularına ulaşan yetersiz kalsiyum neden olur.",
+  "scientific_name": "Kalsiyum eksikliği bozukluğu",
   "symptoms": [
-    "water-soaked spot at blossom end of fruit",
-    "light tan lesion that enlarges over time",
-    "dark brown or black sunken area on fruit",
-    "leathery or dry tissue at blossom end",
-    "secondary soft rot when fungi or bacteria invade",
-    "affected fruit ripen earlier than normal"
+    "Meyve bitkilerinde su geçirmez bitkiler",
+    "Zamanla büyüdüğü hafif tan hasar",
+    "karanlık kahverengi veya siyah, meyvelere yerleştirilmiş alanlar",
+    "Koyu veya kurutulmuş doku çiçekli sonunda",
+    "İkinci yumuşak kırışıklık, mantar veya bakteriler saldırdığında",
+    "Etkilenen meyveler normalden daha erken pişirilir"
   ],
-
   "visual_signature": [
-    "dark black patch at blossom end of watermelon",
-    "sunken leathery lesion on fruit tip",
-    "dry black rot on blossom end",
-    "discolored depressed area on fruit surface"
+    "Karanlık siyah patch at blossom end of watermelon",
+    "Çiğ köfte yaralanması meyveler üzerinde",
+    "Koyu Siyah Çiçekler Blossom End",
+    "Meyve yüzeyinde bozulmuş depresyon alanı"
   ],
-
   "affected_plant_parts": [
-    "fruit blossom end",
-    "developing fruit tissue"
+    "Meyve Çiçek Sonu",
+    "Meyve dokusu geliştirmek"
   ],
-
   "plant_family": "Cucurbitaceae",
-
   "hosts": [
-    "watermelon",
-    "tomato",
-    "pepper",
-    "eggplant",
-    "pumpkin",
-    "squash"
+    "su melonları",
+    "domates",
+    "peynir",
+    "Yumurta",
+    "Pompa",
+    "Çanakkale"
   ],
-
   "important_hosts": [
-    "Citrullus lanatus",
-    "Solanum lycopersicum",
-    "Capsicum annuum",
-    "Solanum melongena",
-    "Cucurbita pepo"
+    "Citrullus lanatus Hakkında",
+    "Solanum Lycopersicum Hakkında",
+    "Capsicum Yıllık",
+    "Solanum Melongena için",
+    "Cucurbita Pepo için"
   ],
-
   "causes": [
-    "calcium deficiency in developing fruit",
-    "irregular watering",
-    "drought stress",
-    "high soil salinity",
-    "excess nitrogen fertilization",
-    "rapid plant growth",
-    "poor calcium uptake by roots"
+    "Kalsiyum eksikliği meyve gelişiminde",
+    "Yasadışı su geçirmez",
+    "Kuru stres",
+    "Yüksek toprak salinliği",
+    "Aşırı nitrojen gübre",
+    "Hızlı Bitki Büyüme",
+    "Kötü kalsiyum kökleri tarafından alınır"
   ],
-
   "favorable_conditions": [
-    "hot temperatures",
-    "drought stress",
-    "fluctuating soil moisture",
-    "poor soil drainage",
-    "raised beds drying quickly"
+    "Sıcaklıklar",
+    "Kuru stres",
+    "Dökülen toprak nemi",
+    "Kötü toprak drenajı",
+    "Yataklar hızlı bir şekilde kurutulur"
   ],
-
   "spread": [
-    "not contagious",
-    "caused by environmental and nutritional imbalance"
+    "bulaşıcı değil",
+    "Çevre ve beslenme dengesizliğinden kaynaklanan"
   ],
-
   "damage": [
-    "fruit becomes unmarketable",
-    "reduced crop yield",
-    "premature fruit ripening",
-    "secondary infections may destroy fruit"
+    "Meyveler Pazarlanamaz Olur",
+    "Düşük tahıl üretimi",
+    "Önceki İçerikFruit Ripening",
+    "İkinci enfeksiyonlar meyveyi yok edebilir"
   ],
-
   "management": [
-    "maintain uniform soil moisture",
-    "water plants regularly and deeply",
-    "mulch soil to conserve moisture",
-    "avoid excessive nitrogen fertilization",
-    "improve soil drainage"
+    "Birleşik toprak nemini korumak",
+    "Düzenli ve derin bir şekilde su bitkileri",
+    "ıslaklığı korumak için toprak",
+    "Aşırı nitrojen yağlanmasını önlemek",
+    "Toprak drenajını iyileştirmek"
   ],
-
   "nutritional_management": [
-    "maintain adequate calcium in soil",
-    "apply agricultural lime to adjust soil pH",
-    "use calcium nitrate or calcium chloride foliar sprays when needed"
+    "Toprakta yeterli kalsiyum tutmak",
+    "Toprağın pH'sini ayarlamak için tarım limonu uygulayın",
+    "İhtiyacınız olduğunda kalsiyum nitrat veya kalsiyum klor folik sprey kullanın."
   ],
-
   "cultural_control": [
-    "proper plant spacing for air circulation",
-    "balanced fertilization practices",
-    "consistent irrigation schedule"
+    "Hava dolaşımı için uygun bitki alanı",
+    "Dengeli Üreme Uygulamaları",
+    "Sürdürülebilir Irrigation Programı"
   ],
-
   "prevention": [
-    "soil testing before planting",
-    "maintain soil pH around 6.5–7",
-    "avoid large fluctuations in watering"
+    "Yetiştirmeden Önce Toprak Testleri",
+    "Toprağın pH'sini 6.5-7 civarında tutun.",
+    "Su geçirmede büyük dalgalanmaların önlenmesi"
   ],
-
   "source": [
-    "University extension plant pathology guides",
-    "Greenhouse Grower",
-    "Horticulturae journal",
-    "Journal of Plant Nutrition"
+    "Üniversite Uzantısı Bitki Patolojisi Kılavuzu",
+    "Greenhouse Yetiştiricisi",
+    "Hortikül Dergisi",
+    "Bitki Beslenme Dergisi"
   ]
 }

@@ -1,0 +1,91 @@
+{
+  "pest_name": "Cotton_Larve_Bollworm",
+  "common_name": "Larva de lombriz de algodón",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_stage": "Larva",
+  "pest_type": "Insectos",
+  "description": "La fase larval de la lombriz de algodón (Helicoverpa armigera) es la fase más destructiva de esta plaga. Las orugas se alimentan agresivamente de hojas, brotes, flores, frutos y semillas de muchos cultivos. Las larvas varían en color de verde, marrón, rosa o negro y generalmente tienen rayas longitudinales a lo largo del cuerpo. Debido a que se alimentan directamente de estructuras de plantas reproductivas, pueden causar pérdidas de rendimiento significativas en cultivos como algodón, tomate, maíz y garbanzos.",
+  "hosts": [
+    "Algodón",
+    "Tomate",
+    "Maíz",
+    "Guisantes",
+    "Guisante de paloma",
+    "Arroz",
+    "Sorgo",
+    "Cowpea",
+    "Semillas de soja",
+    "Patata",
+    "Okra",
+    "Guisantes",
+    "Tabaco"
+  ],
+  "symptoms": [
+    "Agujeros en hojas, brotes y flores",
+    "Las larvas se aburren en frutos o vainas",
+    "Bolas de algodón dañadas y frutos jóvenes",
+    "Presencia de frass (excremento de insectos) alrededor de los lugares de alimentación",
+    "Caída prematura de flores o frutos"
+  ],
+  "larva_characteristics": {
+    "length": "3–4 cm cuando esté completamente desarrollado",
+    "color_variation": [
+      "Verde",
+      "Marrón",
+      "Rosa",
+      "Negro",
+      "Marrón-rojizo"
+    ],
+    "distinctive_features": "Rayas longitudinales prominentes a lo largo del cuerpo y una cápsula de cabeza marrón."
+  },
+  "economic_significance": "Las larvas causan graves daños en los cultivos al alimentarse directamente de las estructuras de las plantas reproductivas. Esta alimentación puede reducir significativamente el rendimiento y la calidad, especialmente en el algodón, el tomate y el maíz.",
+  "management": {
+    "monitoring": [
+      "Inspeccione regularmente las plantas en busca de huevos y larvas jóvenes",
+      "Usar trampas de feromonas para monitorear las poblaciones adultas de polilla",
+      "Revise los brotes, flores y frutas para detectar daños en la alimentación"
+    ],
+    "cultural_control": [
+      "Rotación de cultivos con cultivos distintos de los de acogida",
+      "Eliminación de malas hierbas y residuos de cultivos",
+      "Arado profundo después de la cosecha para destruir las pupas",
+      "Plantar cultivos trampa como girasol o caléndula"
+    ],
+    "mechanical_control": [
+      "Selección y destrucción de larvas",
+      "Quitando frutas infestadas y partes de plantas",
+      "Uso de feromonas y trampas de luz para monitorear poblaciones"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa nucleopoliedrovirus (HaNPV)",
+        "Especies de Baculovirus dirigidas a las larvas",
+        "Isaria fumosorosea"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (avispa parasitoide de huevo)",
+        "Hebetor de habrobracon (parasitoide larval)"
+      ]
+    },
+    "chemical_control": {
+      "note": "Los insecticidas químicos deben utilizarse únicamente cuando las poblaciones de plagas superen los umbrales económicos y como parte de una estrategia de gestión integrada de plagas.",
+      "active_ingredients": [
+        "Espinosad",
+        "Benzoato de emamectina",
+        "Indoxacarb",
+        "Lambda-cihalotrina",
+        "Clorantraniliprol"
+      ]
+    }
+  },
+  "references": [
+    "Colaboradores de Wikipedia. Helicoverpa armigera. Wikipedia, La Enciclopedia Libre.",
+    "CABI Crop Protection Compendium – Helicoverpa armigera.",
+    "Directrices de gestión integrada de plagas de la FAO.",
+    "Plantwise Knowledge Bank – Pest Management Recommendations."
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
+    "https://www.cabi.org"
+  ]
+}

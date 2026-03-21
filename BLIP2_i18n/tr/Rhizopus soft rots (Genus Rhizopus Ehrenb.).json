@@ -1,74 +1,74 @@
 {
- "disease": "Rhizopus Soft Rot",
- "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
- "pathogen_type": "Fungus",
- "description": "Rhizopus soft rot is a fungal disease that mainly affects fruits, vegetables, and stored crops. The fungus infects wounded plant tissues and causes a rapid soft, watery decay. It is common during storage, transport, and in warm and humid conditions.",
- "symptoms": [
-  "Soft watery rot on infected tissues",
-  "Rapid breakdown of fruit or vegetable tissue",
-  "White cotton-like fungal growth on the surface",
-  "Black pin-like spore structures on infected areas",
-  "Foul smell in advanced decay",
-  "Infected tissues become mushy and collapse"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Peach",
-  "Papaya",
-  "Banana",
-  "Sweet potato",
-  "Carrot",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Melon",
-  "Mango",
-  "Eggplant",
-  "Pepper",
-  "Stored vegetables and fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Damaged or wounded plant tissues",
-  "Poor storage conditions",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers or tools",
-  "Insects or mechanical damage that create wounds"
- ],
- "impact": [
-  "Rapid post-harvest losses",
-  "Fruit and vegetable decay during storage or transport",
-  "Reduced market value of crops"
- ],
- "cultural_control": [
-  "Handle fruits and vegetables carefully to avoid wounds",
-  "Harvest crops during dry conditions",
-  "Remove damaged or infected produce quickly",
-  "Maintain good hygiene in storage areas",
-  "Ensure proper ventilation in storage facilities"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus species",
-  "Use biocontrol yeasts that inhibit fungal growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicide treatments where allowed",
-  "Use of disinfectants for storage containers and equipment"
- ],
- "prevention": [
-  "Avoid mechanical injuries during harvest",
-  "Store crops at appropriate temperature and humidity",
-  "Use clean containers and storage facilities",
-  "Separate infected produce from healthy produce"
- ],
- "source": [
-  "Plant pathology references on post-harvest diseases",
-  "Agricultural storage disease management guides"
- ]
+  "disease": "Rhizopus Yumuşak Rot",
+  "scientific_name": "Rhizopus spp (Rhizopus genleri)",
+  "pathogen_type": "Fonksiyon",
+  "description": "Rhizopus yumuşak çamur, çoğunlukla meyveleri, sebzeleri ve depolanan bitkileri etkileyen bir mantar hastalığıdır. mantar yaralı bitki dokularını enfekte eder ve hızlı bir yumuşak, su kaybına neden olur. depolama, taşıma ve sıcak ve nemli koşullarda yaygındır.",
+  "symptoms": [
+    "Yumuşak su damlası enfekte dokularda",
+    "Meyve veya sebze dokusunun hızlı dağılması",
+    "Yüzeyde beyaz pamuk gibi mantar büyüme",
+    "Black pin-like spore yapıları enfekte bölgelerde",
+    "Gelişmiş çöküşte koku",
+    "Enfekte dokular çürümüş ve çökmüş olur."
+  ],
+  "hosts": [
+    "domates",
+    "Strawberry için",
+    "Peach için",
+    "Papaya",
+    "Banana",
+    "tatlı patates",
+    "araba",
+    "Pompalı",
+    "Squash Hakkında",
+    "Çanakkale",
+    "Melon",
+    "Mango",
+    "Yumurta",
+    "Pepper için",
+    "Depolanan sebzeler ve meyveler"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar",
+    "Yüksek nem",
+    "hasarlı veya hasarlı bitki dokuları",
+    "Kötü depolama koşulları",
+    "Depolama sırasında düşük havalandırma"
+  ],
+  "spread": [
+    "Airborne Mantar Spores",
+    "Enfekte ve Sağlıklı Ürünler Arasındaki İletişim",
+    "Kirlenmiş depolama konteynerleri veya araçları",
+    "Yaraları oluşturan böcekler veya mekanik hasarlar"
+  ],
+  "impact": [
+    "Hızlı hasat sonrası kayıplar",
+    "Meyve ve sebze kaybı depolama veya taşıma sırasında",
+    "Ürünlerin Piyasa Değerinin Azaltılması"
+  ],
+  "cultural_control": [
+    "Yaraları önlemek için meyveleri ve sebzeleri dikkatlice kullanın.",
+    "Kuru koşullarda bitki yetiştirmek",
+    "hasarlı veya enfekte ürünleri hızlı bir şekilde çıkarın",
+    "Depolama alanlarında iyi hijyen sağlamak",
+    "Depolama tesislerinde uygun havalandırma sağlamak"
+  ],
+  "biological_control": [
+    "Bacillus türleri gibi faydalı mikroplar kullanın",
+    "Mantar büyümesini engelleyen biocontrol yeşillikleri kullanın"
+  ],
+  "chemical_control": [
+    "Fonksiyon tedavisi izin verildiğinde",
+    "Depolama konteynerleri ve ekipmanları için dezenfektanların kullanımı"
+  ],
+  "prevention": [
+    "hasat sırasında mekanik hasarlardan kaçının.",
+    "Toprakları uygun sıcaklıkta ve nemde saklayın.",
+    "Temiz konteynerler ve depolama tesisleri kullanın",
+    "Sağlıklı ürünlerden ayrılmış enfekte ürünler"
+  ],
+  "source": [
+    "Bitki patolojisi referansları hasat sonrası hastalıklar",
+    "Tarımsal Depolama Hastalıkları Yönetimi Kılavuzu"
+  ]
 }

@@ -1,0 +1,71 @@
+{
+  "disease": "Putrefacción del extremo de la flor de pimiento",
+  "scientific_name": "Trastorno fisiológico causado por deficiencia de calcio en los tejidos de las frutas",
+  "pathogen_type": "Abióticos (trastorno por deficiencia de nutrientes)",
+  "description": "La podredumbre del extremo de la flor es un trastorno fisiológico causado por la falta de calcio en los frutos en desarrollo. Afecta los frutos de rápido crecimiento cuando el suministro de calcio al tejido de la fruta es insuficiente.",
+  "symptoms": [
+    "Pequeña mancha verde claro o amarillo al final de la flor de la fruta",
+    "Lesión marrón oscuro o negro hundido en la punta de la fruta",
+    "Caída del tejido de las frutas y podredumbre seca",
+    "Maduración prematura de la fruta",
+    "Crecimiento de hongos negros (colonización secundaria de Alternaria)",
+    "Pudrición bacteriana secundaria blanda en casos graves"
+  ],
+  "hosts": [
+    "Pimienta",
+    "chile",
+    "tomate",
+    "berenjena",
+    "zucchini",
+    "squash",
+    "sandía",
+    "pepino",
+    "melón"
+  ],
+  "favorable_conditions": [
+    "Baja disponibilidad de calcio en los tejidos de las plantas",
+    "Riego irregular o estrés por sequía",
+    "Crecimiento vegetativo rápido",
+    "Fertilización excesiva del nitrógeno",
+    "Alta concentración de sal en el suelo",
+    "Desarrollo radicular deficiente o daño radicular",
+    "Alta temperatura y rápido crecimiento de la fruta"
+  ],
+  "spread": [
+    "No infeccioso; es un trastorno fisiológico",
+    "Sucede cuando el transporte de calcio a los frutos es insuficiente",
+    "A menudo provocada por el estrés hídrico o el desequilibrio de nutrientes"
+  ],
+  "management": [
+    "Mantener la humedad constante del suelo con un riego adecuado",
+    "Evitar la fertilización excesiva de nitrógeno",
+    "Mejorar la estructura del suelo para un mejor crecimiento de las raíces",
+    "Utilizar moteado para regular la humedad y temperatura del suelo",
+    "Supervisar los niveles de nutrientes del suelo con las pruebas del suelo"
+  ],
+  "biological_control": [
+    "Utilizar microbios beneficiosos como Bacillus subtilis para mejorar la sanidad vegetal",
+    "Aplicar la especie Trichoderma para apoyar el crecimiento radicular y la captación de nutrientes",
+    "Utilizar enmiendas orgánicas del suelo como el compost para mejorar la estructura del suelo"
+  ],
+  "chemical_control": [
+    "Nitrato cálcico",
+    "Cloruro cálcico",
+    "Sulfato de calcio (yeso)",
+    "Abonos cálcicos quelados",
+    "Pulverizadores de calcio foliar (efectividad limitada)"
+  ],
+  "prevention": [
+    "Asegurar niveles adecuados de calcio en el suelo",
+    "Mantener horarios de riego regulares",
+    "Evitar la fertilización excesiva de nitrógeno",
+    "Mejorar el drenaje y la salud de las raíces",
+    "Utilizar riego por goteo para estabilizar el suministro de agua",
+    "Evitar el daño de la raíz por el cultivo o enfermedades"
+  ],
+  "source": [
+    "Extensión IFAS de la Universidad de Florida",
+    "Principios de nutrición vegetal – Mengel & Kirkby",
+    "Literatura sobre patología vegetal y gestión de cultivos vegetales"
+  ]
+}

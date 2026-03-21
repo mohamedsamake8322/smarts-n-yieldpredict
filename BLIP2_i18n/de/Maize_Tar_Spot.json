@@ -1,0 +1,62 @@
+{
+  "disease": "Mais Tar Spot",
+  "scientific_name": "Phyllachora maydis",
+  "pathogen_type": "Pilze",
+  "description": "Eine Pilzblattkrankheit von Mais, die schwarze Teer-ähnliche Flecken auf Blättern produziert. Schwere Infektionen reduzieren Photosynthese, Getreidefüllung, und kann Ertrag Verlust und Stiel Unterkunft verursachen.",
+  "symptoms": [
+    "Kleine schwarze Flecken auf Blättern, die wie Tropfen von Teer aussehen",
+    "Schwarze Stromata auf oberen und unteren Blattflächen",
+    "Braune oder braune Läsionen um schwarze Flecken (Fischaugenläsionen)",
+    "Raue oder holprige Blattoberfläche",
+    "Große verseuchte Bereiche, wenn Spots verschmelzen",
+    "Reduzierte Getreidefüllung und schwache Stiele bei schweren Infektionen"
+  ],
+  "hosts": [
+    "Mais"
+  ],
+  "favorable_conditions": [
+    "Kühle Temperaturen zwischen 18°C und 23°C",
+    "Hohe Luftfeuchtigkeit",
+    "Häufiger Regen, Nebel oder Tau",
+    "Lange Perioden der Blattfeuchte (mindestens 7 Stunden)",
+    "Vorhandensein infizierter Maisreste im Feld"
+  ],
+  "spread": [
+    "Windgetriebener Regen, der Pilzsporen ausbreitet",
+    "Überwinternder Pilz auf infizierten Maisresten",
+    "Schnelle Verbreitung zwischen nahe gelegenen Feldern bei günstigem Wetter"
+  ],
+  "management": [
+    "Überwachen Sie die Felder regelmäßig auf Frühsymptome",
+    "Frühe Ernte, wenn die Stängelstärke abnimmt",
+    "Verwendung toleranter Mais-Hybride, wenn verfügbar",
+    "Stickstoffdüngung sorgfältig verwalten",
+    "Verwenden Sie Ernterisikovorhersage-Tools, wenn verfügbar"
+  ],
+  "biological_control": [
+    "Derzeit keine weit verbreitete biologische Kontrolle verfügbar",
+    "Forschung an mikrobiellen Antagonisten"
+  ],
+  "chemical_control": [
+    "Fungizid-Anwendung zwischen Quasten (VT) und Siebstufen (R1)",
+    "Fungizide wie Prothioconazol oder Trifloxystrobin-Mischungen",
+    "Wiederholen Sie die Anwendung nach 7–14 Tagen, wenn die Bedingungen günstig bleiben"
+  ],
+  "prevention": [
+    "Fruchtfolge mit nicht gastgebenden Kulturen",
+    "Tillage, um infizierte Maisreste zu vergraben",
+    "Pflanzentolerante Hybriden",
+    "Regelmäßiges Scouting und Früherkennung"
+  ],
+  "impact": [
+    "Ertragsverluste bis zu etwa 50 Scheffel pro Hektar, die in schweren Fällen gemeldet werden",
+    "Schlechte Kernfüllung und reduziertes Ohrgewicht",
+    "Erhöhtes Risiko für die Unterbringung von Stängeln",
+    "Geringere Silagequalität"
+  ],
+  "source": [
+    "Pflanzenschutznetz",
+    "Verlängerung der Purdue University",
+    "Tar Spot of Corn Research Publikationen"
+  ]
+}

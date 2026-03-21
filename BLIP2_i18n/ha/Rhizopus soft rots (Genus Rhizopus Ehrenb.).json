@@ -1,74 +1,74 @@
 {
- "disease": "Rhizopus Soft Rot",
- "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
- "pathogen_type": "Fungus",
- "description": "Rhizopus soft rot is a fungal disease that mainly affects fruits, vegetables, and stored crops. The fungus infects wounded plant tissues and causes a rapid soft, watery decay. It is common during storage, transport, and in warm and humid conditions.",
- "symptoms": [
-  "Soft watery rot on infected tissues",
-  "Rapid breakdown of fruit or vegetable tissue",
-  "White cotton-like fungal growth on the surface",
-  "Black pin-like spore structures on infected areas",
-  "Foul smell in advanced decay",
-  "Infected tissues become mushy and collapse"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Peach",
-  "Papaya",
-  "Banana",
-  "Sweet potato",
-  "Carrot",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Melon",
-  "Mango",
-  "Eggplant",
-  "Pepper",
-  "Stored vegetables and fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Damaged or wounded plant tissues",
-  "Poor storage conditions",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers or tools",
-  "Insects or mechanical damage that create wounds"
- ],
- "impact": [
-  "Rapid post-harvest losses",
-  "Fruit and vegetable decay during storage or transport",
-  "Reduced market value of crops"
- ],
- "cultural_control": [
-  "Handle fruits and vegetables carefully to avoid wounds",
-  "Harvest crops during dry conditions",
-  "Remove damaged or infected produce quickly",
-  "Maintain good hygiene in storage areas",
-  "Ensure proper ventilation in storage facilities"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus species",
-  "Use biocontrol yeasts that inhibit fungal growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicide treatments where allowed",
-  "Use of disinfectants for storage containers and equipment"
- ],
- "prevention": [
-  "Avoid mechanical injuries during harvest",
-  "Store crops at appropriate temperature and humidity",
-  "Use clean containers and storage facilities",
-  "Separate infected produce from healthy produce"
- ],
- "source": [
-  "Plant pathology references on post-harvest diseases",
-  "Agricultural storage disease management guides"
- ]
+  "disease": "Indian National weekday 2 - LongDayName",
+  "scientific_name": "Mãsu daraja, marubũta.",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wani karin magana mai daɗi yana nufin cuta mai ban dariya da ke shafan ' ya'yan itace, shuke - shuke, da kayan lambu, da kuma ciyar da shuke - shuke.",
+  "symptoms": [
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "Sao'i na ' ya'yan itace ko Na'ura",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "KCharselect unicode block name",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Sai gã ta dabbar macĩjiya, tanã tafiya da gaggãwa."
+  ],
+  "hosts": [
+    "QShortcut",
+    "MGBOKO UMUORIA 5 (Igbo)",
+    "QShortcut",
+    "Indian National month 5 - LongName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - ShortNamePossessive",
+    "@ action",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Da itãcen dabĩno dõgãye, sunã da'ya'yan itãce gunda mãsu hauhawar jũna."
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Tada ko kuma ta'addanci sukan ba da ' ya'ya da ba za su iya ba da kyauta ba",
+    "Yanayin da ba a son kai ba ya sa yanayin duniya ya daɗa muni",
+    "Rashin Lafiya a Lokacin Wahala"
+  ],
+  "spread": [
+    "@ item Text character set",
+    "Ana samun bambanci tsakanin rashin lafiya da lafiya",
+    "KCharselect unicode block name",
+    "Abin baƙin ciki ko kuma lahani da ke kawo rashin haɗin kai"
+  ],
+  "impact": [
+    "QXml",
+    "Ana iya samun ' ya'ya da kuma ba da kyauta a lokacin kawa ko kuma a mota",
+    "Ana samun lu'ulu'u mai tamanin gaske"
+  ],
+  "cultural_control": [
+    "' Ya'yan itace da shuke - shuke sosai don kada su yi cuɗanya",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Mugunta ta lalace ko kuma ta kamu da cuta nan da nan",
+    "Ka kasance da tsabta a wuraren da babu surutu",
+    "@ item Text character set"
+  ],
+  "biological_control": [
+    "Ka Yi Amfani da Irin Yin Wa'azi da Kyau",
+    "Ka yi amfani da bi da bi da ke sa ka ji daɗi sosai"
+  ],
+  "chemical_control": [
+    "KCharselect unicode block name",
+    "Ka yi amfani da na'ura don adana kayan aiki da kuma kayan aiki"
+  ],
+  "prevention": [
+    "Ka guji yawan jin daɗi a lokacin kaka",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka yi amfani da littattafai masu tsabta da kuma kayan aiki",
+    "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne."
+  ],
+  "source": [
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name"
+  ]
 }

@@ -1,0 +1,65 @@
+{
+  "disease_name": "Virus del mosaico de la hoja de trigo",
+  "abbreviation": "WSMV",
+  "pathogen_type": "Virus",
+  "family": "Potyviridae",
+  "genus": "Tritimovirus",
+  "hosts": [
+    "Trigo (Triticum spp.)",
+    "Maíz (Zea mays)",
+    "Centeno (Secale spp.)",
+    "Avena (Avena spp.)",
+    "Cebada (Hordeum spp.)",
+    "Sorgo",
+    "Mijo",
+    "Algunas hierbas herbáceas"
+  ],
+  "distribution": "En todo el mundo; predominan en las Grandes Llanuras (EE.UU.), Australia y la mayoría de las regiones productoras de trigo",
+  "vector": {
+    "name": "Rizos de trigo ácaro",
+    "scientific_name": "Aceria tosichella",
+    "transmission_type": "semipersistente",
+    "notes": "Los ácaros son rastreadores lentos, dispersos principalmente por el viento, y pueden transmitir el virus entre el trigo y el maíz"
+  },
+  "symptoms": [
+    "Rasgos de coloración amarillenta, no uniforme en las hojas",
+    "Crecimiento aturdido",
+    "Las infecciones graves pueden causar una pérdida de cultivos del 100%",
+    "Síntomas a menudo más graves cuando se producen infecciones sinérgicas con el virus del mosaico de Triticum o el virus de High Plains"
+  ],
+  "disease_cycle": [
+    "El virus sobrecoge en los pastos y los cultivos de cereales y en las semillas infectadas",
+    "Los ácaros de rizos de trigo adquieren el virus de las plantas infectadas y lo transmiten a plantas sanas",
+    "Los ácaros dependen del viento para moverse entre plantas y campos",
+    "El trigo voluntario y las malas hierbas actúan como reservorios para ácaros y virus",
+    "Múltiples generaciones de ácaros por temporada pueden amplificar la propagación"
+  ],
+  "conditions_for_development": [
+    "El clima cálido favorece la reproducción de ácaros y la transmisión de virus",
+    "La disponibilidad de trigo voluntario o de huéspedes herbosos aumenta la prevalencia de enfermedades",
+    "La plantación temprana aumenta el riesgo debido a una exposición más prolongada a ácaros"
+  ],
+  "management": {
+    "cultural": [
+      "Destruir el trigo voluntario al menos 2 semanas antes de plantar trigo nuevo de invierno",
+      "Evitar la siembra temprana para reducir la exposición a ácaros",
+      "Seleccione variedades de trigo con menor susceptibilidad a WSMV"
+    ],
+    "chemical": [
+      "Los miticidos no son eficaces contra el ácaro de rizo de trigo para controlar la propagación del virus"
+    ],
+    "resistance": [
+      "Utilizar cultivares de trigo resistentes/tolerantes cuando estén disponibles",
+      "La investigación sobre la resistencia basada en RNAi está en curso"
+    ]
+  },
+  "impact": [
+    "Las pérdidas de rendimiento pueden alcanzar hasta el 100% en variedades susceptibles",
+    "La coinfección con otros virus puede exacerbar el daño"
+  ],
+  "references": [
+    "Seifers DL et al., 2002. Virus del mosaico de la racha de trigo: una visión general. Enfermedad de las plantas 86: 781-790.",
+    "Martínez et al., 2019. Interacciones con virus de ácaros de rizos de trigo. Frente. Planta Sci.",
+    "Investigación de USDA-ARS sobre WSMV y biología vectorial."
+  ]
+}

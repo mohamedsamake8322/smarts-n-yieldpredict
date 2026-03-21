@@ -1,0 +1,104 @@
+{
+  "virus_name": "Tabak-Ätzvirus",
+  "abbreviation": "TEV",
+  "family": "Potyviridae",
+  "genus": "Potyvirus",
+  "taxonomy": {
+    "order": "Patatavirale",
+    "virus_group": "Pflanzen-RNA-Virus"
+  },
+  "genome": {
+    "type": "Positiv-Sense-single-stranded-RNA",
+    "structure": "Monopartit",
+    "particle_shape": "biegsame fadenförmige Partikel",
+    "length": "etwa 730 nm",
+    "proteins_encoded": 7
+  },
+  "transmission": {
+    "vectors": [
+      "Blattläuse einschließlich Myzus persicae",
+      "Aphis gossypii",
+      "Makrosiphum euphorbiae"
+    ],
+    "mode": "nicht-persistente Übertragung",
+    "mechanical": true,
+    "seed_transmission": false,
+    "notes": "Blattläuse erwerben das Virus während der Fütterung schnell und können es innerhalb von Minuten übertragen."
+  },
+  "hosts": {
+    "cultivated": [
+      "Capsicum annuum",
+      "Capsicum frutescens",
+      "Tomaten (Solanum lycopersicum)",
+      "Tabak (Nicotiana-Arten)"
+    ],
+    "wild_hosts": [
+      "Solanum nigrum",
+      "Solanum aculeatissimum",
+      "Chenopodium-Album",
+      "Datura stramonium",
+      "Linaria canadensis",
+      "Physalis spp."
+    ]
+  },
+  "symptoms": [
+    "Venenclearing auf Blättern",
+    "Mosaik- oder Mottlingmuster",
+    "Nekrotische Streifen oder geätzte Muster auf Blättern",
+    "Blattverformung und Locken",
+    "Stuntes Pflanzenwachstum",
+    "Reduzierter Fruchtertrag und Qualität",
+    "Gelegentliche Verfärbung von Früchten oder nekrotische Läsionen"
+  ],
+  "disease_cycle": [
+    "Virus überlebt in infizierten Wirtspflanzen und Unkraut",
+    "Blattläuse erwerben Viren während der Fütterung infizierter Pflanzen",
+    "Virus wird bei der Untersuchung auf gesunde Pflanzen übertragen",
+    "Mechanische Übertragung kann über kontaminierte Werkzeuge oder Handhabung erfolgen"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Ätzartige nekrotische Muster auf Blättern",
+      "Mosaik-Symptome auf Solane-Pflanzen"
+    ],
+    "laboratory_methods": [
+      "ELISA-Erkennung",
+      "RT-PCR-Tests",
+      "Elektronenmikroskopie"
+    ],
+    "viral_inclusions": [
+      "Zylindrische Einschlüsse im Zytoplasma",
+      "Nukleare Einschlüsse in infizierte Zellen"
+    ]
+  },
+  "molecular_features": {
+    "special_protein": {
+      "name": "TEV-Protease",
+      "function": "Hochspezifische Protease, die weit verbreitet in der Biotechnologie verwendet wird, um Fusionsproteine während der Reinigung zu spalten."
+    }
+  },
+  "management": {
+    "cultural": [
+      "Entfernen Sie Unkraut Hosts, die als Virus Reservoirs dienen",
+      "Virenfreie Pflanzstoffe verwenden",
+      "Durchführung der Fruchtfolge"
+    ],
+    "vector_control": [
+      "Aphidpopulationen überwachen",
+      "Reflektierende Mulchen zum Abstoßen von Blattläusen verwenden",
+      "Insektizide anwenden, wenn Blattläusedruck hoch ist"
+    ],
+    "resistance": [
+      "Verwenden Sie resistente oder tolerante Sorten, wenn verfügbar"
+    ]
+  },
+  "impact": {
+    "economic": "Kann erhebliche Ertragsverluste in Pfeffer- und Tabakkulturen verursachen",
+    "agronomic": "Schwere Infektionen reduzieren Fruchtqualität und Pflanzenkraft"
+  },
+  "references": [
+    "ICTV Virus Taxonomie",
+    "APS Pflanzenkrankheitskompendium",
+    "Pflanzenvirus Online-Datenbank"
+  ]
+}

@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "Matumizi ya Rhododendron Stem Borer",
+  "scientific_name": "Maisha ya Myops",
+  "pathogen_type": "Ugonjwa wa mbegu (beetle)",
+  "description": "Rhododendron nyama nyama ni nyama ambayo nyama nyama ndani ya nyama ya mimea. nyama nyama kupitia nyama, kuharibu maji na usafiri wa virutubisho, ambayo huathiri kuongezeka na kifo cha nyama.",
+  "symptoms": [
+    "Kuondoa au kuondoa barua juu ya viwanja vya moja kwa moja",
+    "Mwisho wa nyuma ya nyuma",
+    "Nyumba ndogo juu ya mti ambapo watu wazima wameka maua",
+    "Fresh (mtaalamu sawa na sauti) karibu na misitu",
+    "Maandiko ya kuongezeka au kuongezeka",
+    "Matokeo ya kuanguka au kufa"
+  ],
+  "hosts": [
+    "ya Rhododendron",
+    "ya Azalea",
+    "Vitu vingine vya Ericaceae"
+  ],
+  "favorable_conditions": [
+    "Uwepo wa maua ya watu wazima wakati wa spring na majira ya joto",
+    "Mimea na mti wa kuvutia ni sahihi kwa ajili ya kupakua maua",
+    "Vituo au maeneo ya kuvutia na majani ya kuvutia"
+  ],
+  "spread": [
+    "Wanawake wanaweka maziwa ndani ya mti wa mimea",
+    "Larvae kuendeleza ndani ya viungo na viungo",
+    "Mabadiliko ya vifaa vya matunda ya mimea"
+  ],
+  "impact": [
+    "Mwisho wa Branches",
+    "Kuongezeka kwa nguvu ya mimea",
+    "Mateso makubwa yanaweza kuua shrubs ya ornamental"
+  ],
+  "cultural_control": [
+    "Utafiti wa mara kwa mara kwa ajili ya mbolea ya maua",
+    "Kuondoa na kuharibu vichwa vya kuvutia",
+    "Kuhifadhi afya ya mimea ili kupunguza uharibifu"
+  ],
+  "biological_control": [
+    "Kuimarisha wanyama wa asili kama vile mbegu au mbegu za parasitic"
+  ],
+  "chemical_control": [
+    "Kutoa insecticides ya mfumo ambapo infestations ni mbaya",
+    "Mchakato wa watu wazima wakati wa kipindi cha uchafuzi"
+  ],
+  "prevention": [
+    "Ufuatiliaji wa kawaida wakati wa msimu wa ukuaji",
+    "Kuondoa na kuharibu maumivu yaliyoathiriwa mapema",
+    "Kuepuka kupanua mimea ya matibabu yaliyoathiriwa sana"
+  ],
+  "source": [
+    "Maudhui ya Utawala wa Pest",
+    "Maelekezo ya kuongezeka kwa rhododendron"
+  ]
 }

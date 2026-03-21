@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
-    "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "disease": "Oies des puces de la Feuille",
+    "scientific_name": "Aphtona spp.",
+    "pathogen_type": "Insecte (agent de contrôle biologique)",
+    "description": "Petits coléoptères utilisés comme insectes de lutte biologique contre l'euphorbia esula (spurge à feuilles).Les larves se nourrissent des racines tandis que les adultes consomment les feuilles, réduisant ainsi la croissance et la reproduction de la plante.",
+    "hosts": [
+      "Euphorbia esula",
+      "Épurescence foliaire"
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "Feuilles consommées par les coléoptères adultes",
+      "Réduction de la croissance et de la floraison des plantes",
+      "Plantes affaiblies ou mourantes au fil du temps"
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "Températures modérées au printemps et en été",
+      "Sols bien drainés qui favorisent le développement des larves"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "Mouvement naturel des coléoptères adultes",
+      "Introduction humaine aux programmes de lutte biologique"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "Utilisation comme agent de contrôle biologique",
+      "Éviter les pesticides qui peuvent tuer les populations d'Aphtona",
+      "Surveiller l'établissement et la propagation de la population"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "Sans objet: utilisé comme agent de contrôle biologique"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "Maintenir des populations saines de coléoptères pour un contrôle durable",
+      "Évitez d'introduire des pesticides non sélectifs"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "Recueil des espèces envahissantes de la CABI",
+      "Programme de lutte biologique contre la purge des feuilles de l'USDA"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
-    "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "disease": "Moins de Cornstalk Borer",
+    "scientific_name": "Élasmopalpus lignosella",
+    "pathogen_type": "Insecte (larve phytophagique)",
+    "description": "Une chenille qui attaque principalement les tiges et les racines du maïs, du sorgho et d'autres graminées, causant le flétrissement et la mort de jeunes plantules.",
+    "hosts": [
+      "Maïs",
+      "Sorgho",
+      "Canne à sucre",
+      "Herbes",
+      "Plantes de haricots"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "Wilting et jaunissement des jeunes plantes",
+      "Trous et tunnels à la base des tiges",
+      "Plantes mortes ou affaiblies"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "Sols secs et sableux",
+      "Climats chauds et secs qui favorisent la ponte d'oeufs",
+      "Cultures densément plantées"
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "Oeufs pondus dans le sol ou à la base des plantes",
+      "Les larves s'attaquent aux jeunes tiges",
+      "Mouvements de végétaux ou de matériel végétal infestés"
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "Rotation des cultures avec les plantes non hôtes",
+      "Enlèvement des résidus de cultures infectés",
+      "Plantation profonde pour protéger les jeunes plants"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "insecticides systémiques ou appliqués dans le sol (p. ex. chlorpyrifos, imidaclopride)",
+      "Application préventive avant l'émergence des semis"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "Variétés tolérantes aux végétaux lorsqu'elles sont disponibles",
+      "Conserver les champs exempts de débris végétaux",
+      "Surveiller les jeunes plantes et les traiter tôt si l'infestation apparaît"
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "Recueil sur la protection des cultures de l'IBAC",
+      "Fiches d'information de la FAO sur les organismes nuisibles"
     ]
   }
 ]

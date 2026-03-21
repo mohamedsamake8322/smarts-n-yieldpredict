@@ -1,86 +1,75 @@
 {
-  "disease": "Cabbage bacterial leaf spot",
-  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
-  "pathogen_type": "Bacterium",
-  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
-  
+  "disease": "Cabbage ya Bakterial Sheet",
+  "scientific_name": "Xanthomonas campestris pv. campestris (kwa ujumla kuhusiana na bacterial nyuma na nyama ya nyama katika brassicas)",
+  "pathogen_type": "Bakteri ya",
+  "description": "Picha ya bakteria ya Cabbage ni ugonjwa wa bakteria ambayo huathiri barua ya Cabbage. It causes small brown spots that expand and form irregular dead areas on the leaf. Katika kesi ya rangi, barua huwa nyekundu, nyekundu, na mimea kuwa mbaya.",
   "symptoms": [
-    "Small brown spots on cabbage leaves",
-    "Spots enlarge and join together",
-    "Irregular dead tissue on leaves",
-    "Lesions often limited by leaf veins",
-    "Leaves turn yellow",
-    "Severely infected leaves become rotten",
-    "Plant growth becomes weak"
+    "Maonyesho ya kidogo ya baridi juu ya tiketi ya Cabbage",
+    "Matokeo ya kuongezeka na kuunganisha pamoja",
+    "Mafuta ya kufa yasiyo ya kawaida kwenye tiketi",
+    "Mateso mara nyingi huchukuliwa na maumivu ya nywele",
+    "Maonyesho ya kurejea Yellow",
+    "Maonyesho kadhaa yaliyoathiriwa yanaongezeka",
+    "Uzalishaji wa mimea huongezeka"
   ],
-
   "visual_signature": [
-    "small brown leaf spots",
-    "irregular necrotic patches",
-    "yellowing cabbage leaves"
+    "Picha za ndogo za nyekundu",
+    "Matokeo ya ongezeko la necrotic patches",
+    "Picha ya Cabbage ya Yellow"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "kale",
-    "mustard greens",
-    "other Brassica crops"
+    "Kabla ya",
+    "Broccoli ya",
+    "Mwisho wa",
+    "wa kale",
+    "Mti wa kijani",
+    "Vitu vingine vya Brassica"
   ],
-
   "affected_plant_parts": [
-    "leaves"
+    "Makala ya"
   ],
-
   "favorable_conditions": [
-    "wet conditions",
-    "high humidity",
-    "frequent rainfall",
-    "plant wounds or insect damage",
-    "overhead irrigation"
+    "hali ya hewa",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Ugonjwa wa mimea au ugonjwa wa wanyama",
+    "Mafuta ya juu ya Irrigation"
   ],
-
   "spread": [
-    "rain splash",
-    "infected seeds",
-    "contaminated tools",
-    "insects carrying bacteria",
-    "contact between wet plants"
+    "Siku ya mvua",
+    "Mafuta ya kuvutia",
+    "vifaa vya kuvutia",
+    "Wanyama wenye virutubisho vya bakteria",
+    "Mawasiliano kati ya mimea"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plants immediately",
-    "Avoid growing cabbage repeatedly on the same land",
-    "Practice crop rotation for 2–3 years",
-    "Mulch soil to reduce rain splash",
-    "Avoid damaging plants during weeding",
-    "Clean and disinfect tools regularly"
+    "Kutumia matunda yasiyo ya magonjwa",
+    "Kuondoa mimea ya kuvutia kwa haraka",
+    "Kuepuka kukua mti mara kwa mara kwenye ardhi moja",
+    "Kuanzisha mzunguko wa mimea kwa miaka 2-3",
+    "Mulch ardhi ili kupunguza mvua splash",
+    "Kuepuka uharibifu wa mimea wakati wa kupanda",
+    "Matunda ya kusafisha na kusafisha mara kwa mara"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Bacillus subtilis kwa ajili ya bio-bactericides",
+    "Pseudomonas fluorescens matibabu ya biolojia"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate based bactericides"
+    "Ukubwa wa Oxychloride",
+    "Hydroxide ya Copper",
+    "Bactericides kwa msingi wa sulfate"
   ],
-
   "prevention": [
-    "Use tolerant or resistant cabbage varieties",
-    "Plant healthy seedlings",
-    "Avoid working in fields when plants are wet",
-    "Maintain good field sanitation",
-    "Control insect damage to reduce entry points for bacteria"
+    "Kutumia aina za kupumzika au za kupumzika",
+    "Mimea ya mbegu ya afya",
+    "Kuacha kufanya kazi katika maeneo wakati mimea ni dalili",
+    "Uhifadhi mzuri wa maeneo ya hewa",
+    "Kupunguza uharibifu wa mbegu ili kupunguza viwango vya kuingia kwa bakteria"
   ],
-
   "source": [
-    "FAO Plant Protection Guides",
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications"
+    "Maelekezo ya Ulinzi wa FAO",
+    "Mkataba wa Ulinzi wa CABI",
+    "Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo"
   ]
 }

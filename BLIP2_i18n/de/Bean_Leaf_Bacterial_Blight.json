@@ -1,0 +1,69 @@
+{
+  "disease": "Erbsen bakterielle Schlacke",
+  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
+  "pathogen_type": "Bakterium",
+  "description": "Bakterielle Befall ist eine häufige bakterielle Krankheit von Bohnen, die Blätter, Stängel und Hülsen betrifft. Die Bakterien infizieren Pflanzen durch natürliche Öffnungen oder Wunden und verbreiten sich schnell unter warmen und feuchten Bedingungen. Schwere Infektionen reduzieren Photosynthese und Ausbeute.",
+  "symptoms": [
+    "Kleine, wassergetränkte Flecken auf Blättern",
+    "Braune oder dunkle Läsionen mit gelbem Halos",
+    "Große unregelmäßige tote Flächen auf Blättern",
+    "Blatt zerkleinern oder trocknen",
+    "Wassergetränkte Stellen auf Hülsen",
+    "Eier, die braun, geschrumpft oder verformt werden"
+  ],
+  "hosts": [
+    "häufige Bohne",
+    "Niere",
+    "pinto bohne",
+    "schwarze Bohne",
+    "Marinebohne",
+    "Limabohne",
+    "Schnabelbohne",
+    "Sojabohnen",
+    "andere Phaseolus-Arten"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (25–30°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle",
+    "Überkopfbewässerung",
+    "Dichtes Pflanzendach"
+  ],
+  "spread": [
+    "Infizierte Samen",
+    "Regenspritzer",
+    "Windgetriebener Regen",
+    "Kontaminierte Werkzeuge",
+    "Kontakt zwischen nassen Pflanzen"
+  ],
+  "management": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Entfernen infizierter Pflanzenrückstände",
+    "Überkopfbewässerung vermeiden",
+    "Rotierende Kulturen für 2–3 Jahre",
+    "Verbesserung der Feldlüftung"
+  ],
+  "biological_control": [
+    "Bacillus subtilis-basierte Biopestizide",
+    "Pseudomonas fluorescens biologische Behandlungen",
+    "Pflanzenresistenz in toleranten Bohnensorten"
+  ],
+  "chemical_control": [
+    "Kupferhydroxid",
+    "Kupferoxychlorid",
+    "Kupfersulfat",
+    "Bakterizide auf Kupferbasis"
+  ],
+  "prevention": [
+    "Pflanzenresistente Sorten, wenn verfügbar",
+    "Saubere Samen verwenden",
+    "Vermeiden Sie Arbeiten in nassen Feldern",
+    "Desinfizieren Werkzeuge",
+    "Aufrechterhaltung einer guten Feldsanierung"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Leitfaden für das Management von Pflanzenkrankheiten der FAO",
+    "Universitäts-Pflanzenpathologie Erweiterung Publikationen"
+  ]
+}

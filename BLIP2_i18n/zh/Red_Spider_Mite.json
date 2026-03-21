@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "红蜘蛛Mite灾区",
+  "scientific_name": "Tetranychos 电离层(和相关的蜘蛛mite mite 物种)",
+  "pathogen_type": "亚甲虫虫(烟灰)",
+  "description": "红蜘蛛墨水是小害虫,它们通过穿透叶细胞以植物粪便为饲料,在温暖和干燥的条件下迅速繁殖,并通过减少光合作用和衰弱的植物而对作物造成严重的损害。",
+  "symptoms": [
+    "叶叶上的小灰色或黄色斑点(暂停)",
+    "失去绿色颜色的叶子",
+    "精细的丝绸在树叶和树枝上滋润",
+    "黄或棕的叶叶叶",
+    "叶子干燥和落落",
+    "严重削弱的植物或植物死亡"
+  ],
+  "hosts": [
+    "番茄",
+    "草莓",
+    "豆豆",
+    "黄瓜",
+    "辣椒",
+    "茄子种植",
+    "苹果苹果",
+    "柑橘",
+    "格拉比文",
+    "棉花棉花",
+    "成熟",
+    "动物植物",
+    "温室作物作物"
+  ],
+  "favorable_conditions": [
+    "热温温度",
+    "干燥条件",
+    "低湿湿度",
+    "Dustusty作物环境",
+    "拥挤的温室条件"
+  ],
+  "spread": [
+    "风风",
+    "害虫植物运动",
+    "受污染工具或服装",
+    "植物对植物接触接触"
+  ],
+  "impact": [
+    "减少光合作用",
+    "叶叶损失",
+    "作物产量减少",
+    "因树冠丧失而使水果被晒伤",
+    "植物变弱或严重虫害导致死亡"
+  ],
+  "cultural_control": [
+    "增加工厂周围的湿度",
+    "带水的定期喷洒植物",
+    "清除严重侵扰的叶叶或植物",
+    "清洁作物碎片和杂草",
+    "避免田田或温室中的灰尘状况"
+  ],
+  "biological_control": [
+    "活 性 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水 水",
+    "被掠夺的 migrate Amblyseius 加州",
+    "掠夺性大米 Feltiella acarisuga",
+    "女甲虫(ladybugs)",
+    "绿带幼虫",
+    "温古·博维里亚·贝西亚纳"
+  ],
+  "chemical_control": [
+    "尼姆油油",
+    "虫害严重时的杀虫剂或杀杀虫剂",
+    "使用符合生物控制的选择性杀虫剂"
+  ],
+  "prevention": [
+    "用手透镜定期监测叶子",
+    "保持良好的灌溉和湿湿度",
+    "收获后清除植物碎片",
+    "使用虫害综合管理(IPM)"
+  ],
+  "source": [
+    "CABI 生物保护门户",
+    "农业虫害管理参考资料"
+  ]
 }

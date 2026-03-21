@@ -1,90 +1,90 @@
 {
- "disease": "Pythium Damping-off",
- "scientific_name": "Genus Pythium",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
- "symptoms": [
-  "Irregular patches of wilted or yellow plants in seedbeds",
-  "Soft brown watery rot at the base of stems",
-  "Seedlings falling over at the soil line",
-  "Stunted growth of young plants",
-  "Yellowing of older plants due to root damage",
-  "Stem rot in newly transplanted plants"
- ],
- "visual_symptoms": [
-  "seedlings collapsed at soil surface",
-  "soft brown water-soaked stem base",
-  "patches of dead or stunted seedlings"
- ],
- "hosts": [
-  "Tobacco",
-  "Vegetable seedlings",
-  "Cucumber",
-  "Tomato",
-  "Pepper",
-  "Lettuce",
-  "Beans",
-  "Many nursery crops"
- ],
- "host_specific_example": {
-  "crop": "Burley tobacco",
-  "scientific_name": "Nicotiana tabacum (burley type)"
- },
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "lower stem",
-  "hypocotyl"
- ],
- "image_type": "Field",
- "favorable_conditions": [
-  "Wet or poorly drained soil",
-  "High soil moisture",
-  "Cool to moderate temperatures",
-  "Dense seedbeds with poor air circulation",
-  "Excessive irrigation"
- ],
- "spread": [
-  "Contaminated soil",
-  "Irrigation water",
-  "Infected plant debris",
-  "Contaminated tools or trays in nurseries"
- ],
- "disease_cycle": [
-  "Pythium survives in soil as spores or mycelium",
-  "Spores germinate in wet soil conditions",
-  "Pathogen infects seeds or young seedlings",
-  "Infected tissues produce more spores that spread through water"
- ],
- "impact": [
-  "Loss of seedlings in nurseries",
-  "Poor crop establishment",
-  "Reduced plant population",
-  "Yield reduction due to weak plant stands"
- ],
- "cultural_control": [
-  "Use well-drained seedbeds",
-  "Avoid overwatering",
-  "Improve air circulation in nurseries",
-  "Use sterile soil or seedling substrate",
-  "Reduce planting density"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment with fungicides such as metalaxyl or mefenoxam",
-  "Soil drenches with appropriate fungicides in nurseries"
- ],
- "prevention": [
-  "Use certified disease-free seeds",
-  "Sterilize nursery trays and tools",
-  "Avoid excessive irrigation",
-  "Rotate crops when possible"
- ],
- "source": [
-  "Plant pathology references on Pythium damping-off",
-  "Agricultural disease management guides"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "Ethiopian month 5 - LongNamePossessive",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "Ƙasa tana cike da ƙwayoyin ƙasa da ke sa ruwa ya yi girma kuma tana sa ruwa ya yi ƙarfi sosai.",
+  "symptoms": [
+    "Za a yi ruwan ' ya'yan itace ko shuke - shuke a cikin iri dabam - dabam",
+    "Sai ka ga ruwa yanã fita daga tsattsakinsa, kuma Ya saukar daga waɗansu duwãtsu a cikinsa na dai sa'an nan Ya fitar da abinci daga 'ya'yan itãce game da shi,",
+    "Zuriyar za ta faɗi a ƙasa",
+    "Sa'ad da suke girma, sai suka soma koyan abubuwa game da Jehobah.",
+    "Kuma kunã sanya arzikinku (game da shi) lalle kũ, ku ƙaryata (shi)?",
+    "@ action"
+  ],
+  "visual_symptoms": [
+    "Kuma ƙasa ta fitar da kayanta, masu nauyi.",
+    "Wani marmaro ne, a cikinta, ana kiran sa salsabil.",
+    "' Ya'yan da suka mutu ko kuma Ya'yan inabi"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Zaɓuɓɓuka na Zaman Shawara",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - LongName",
+    "QShortcut",
+    "' Yan'uwa da yawa suna ciyar da shuke - shuke"
+  ],
+  "host_specific_example": {
+    "crop": "KCharselect unicode block name",
+    "scientific_name": "KCharselect unicode block name"
+  },
+  "plant_parts_affected": [
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Banner page",
+    "Media controller element",
+    "KCharselect unicode block name"
+  ],
+  "image_type": "QFontDatabase",
+  "favorable_conditions": [
+    "Muna zama a ƙasa mai zuba ko ƙasa mai zuba",
+    "ƙasa Mafi Girma",
+    "Kasancewa da Ra'ayin da Ya Dace",
+    "Raɓa tana cike da iska mai zuba",
+    "KCharselect unicode block name"
+  ],
+  "spread": [
+    "ƙasa mai sanyi",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "A wurin da magaryar tuƙẽwa take.",
+    "@ item Text character set"
+  ],
+  "disease_cycle": [
+    "@ item Text character set",
+    "Sa'ad da muke fuskantar yanayi mai wuya sosai",
+    "Yadda aka shuka iri ko ' ya'ya",
+    "A cikin ruwan sama, mutane suna amfani da ruwa a hanyar da ba ta dace ba"
+  ],
+  "impact": [
+    "' Ya'yan itace a wajen kula da tsofaffi",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Sa'an nan ya sanar da jama'a mafi yawa",
+    "Ba za a iya samun isashen ruwa ba"
+  ],
+  "cultural_control": [
+    "Kayan Aikin Na'ura",
+    "Ka guje wa Yin Sa'ad da Kake Wa'azi",
+    "Media controller element",
+    "Ka yi amfani da ƙasa ko zane - zane a ƙasa",
+    "Media controller element"
+  ],
+  "biological_control": [
+    "Ka yi amfani da irin waɗannan kayan da ba su da amfani",
+    "Ka Yi Amfani da Shi Yadda Ya Kamata Mu Yi Amfani da Shi"
+  ],
+  "chemical_control": [
+    "Zuriyar da ake yi da baƙar fata tana da ban dariya kamar na ƙarfe ko kuma niƙar iska da ake yi a dā.",
+    "Saboda haka, masu kula masu ziyara suna ba da dariya a gidan nas."
+  ],
+  "prevention": [
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "Ka guje wa yin maye",
+    "Ka yi wa'azi a lokacin da ya yiwu"
+  ],
+  "source": [
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name"
+  ]
 }

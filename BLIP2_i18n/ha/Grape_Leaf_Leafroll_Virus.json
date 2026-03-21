@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Ethiopian weekday 5 - LongDayName",
+  "description": "Za a iya samun cuta mai yawa da ke rage sauƙin hali da kuma ' ya'yan itace kuma hakan yana sa mutum ya kasance marar amfani, marar aibi, da kuma talakawa.",
+  "symptoms": [
+    "Yanã fita daga tsakanin tsatso da karankarman ƙirji.",
+    "Hauwa'u ko kuma kayan ado da aka buɗe cikin jan jini",
+    "Lalle kũ, haƙĩƙa, kunã cikin magana mai sãɓa wa juna (game da Alƙur'ani).",
+    "@ item Text character set",
+    "Ana shayarwa da su, a cikinta, finjalan giya, wadda abin gaurayarta ya kasance zanjabil ne.",
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi."
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Da inabi",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "Da ƙwãya mai sõshiya da ƙamshi.",
+    "Yin amfani da abubuwan da aka shuka"
+  ],
+  "spread": [
+    "Jibin Maraice na Fanel",
+    "Sa'an nan mãsu yin tsãwa dõmin gargaɗi.",
+    "KCharselect unicode block name"
+  ],
+  "management": [
+    "KCharselect unicode block name",
+    "Sa'ad da muke cin abinci mai gina jiki, muna samun isashen abinci mai yawa",
+    "Yin Amfani da kayan daidaita na'ura",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
+  ],
+  "biological_control": [
+    "Ku ƙarfafa abokan gaba na cin abinci kamar mace da ba ta da isashen abinci",
+    "Yin amfani da na'ura don ya ja - goranci ƙwayoyin cuta"
+  ],
+  "chemical_control": [
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Masu ba da man fitila don su rage kuɗin da ake samu"
+  ],
+  "prevention": [
+    "Da wata ayaba mai yawan 'ya'ya.",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ action"
+  ],
+  "source": [
+    "KA YI Shirin Ja - gora",
+    "KCharselect unicode block name",
+    "Masu Kula a Dukan Duniya don Su Yi Wa'azi"
+  ]
 }

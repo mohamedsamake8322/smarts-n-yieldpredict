@@ -1,65 +1,65 @@
 {
-  "disease_name": "Wheat Leaf Streak Mosaic Virus",
-  "abbreviation": "WSMV",
-  "pathogen_type": "Virus",
-  "family": "Potyviridae",
-  "genus": "Tritimovirus",
+  "disease_name": "Virusi ya Wheat Leaf Streak",
+  "abbreviation": "ya WSMV",
+  "pathogen_type": "Virusi ya",
+  "family": "ya Potyviridae",
+  "genus": "Matokeo ya Tritimovirus",
   "hosts": [
-    "Wheat (Triticum spp.)",
-    "Corn (Zea mays)",
-    "Rye (Secale spp.)",
-    "Oats (Avena spp.)",
-    "Barley (Hordeum spp.)",
-    "Sorghum",
-    "Millet",
-    "Some grassy weeds"
+    "Mafuta ya mimea (Triticum spp.)",
+    "Maji ya Maji (Zea Mays)",
+    "Juu ya Rye (Secale spp.)",
+    "Mtaalamu wa kiroho (Avena spp.)",
+    "Mji wa Barley (Hordeum spp.)",
+    "Maombi ya",
+    "Milioni ya",
+    "Baadhi ya mimea ya mimea"
   ],
-  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "distribution": "duniani kote; ikilinganishwa katika Great Plains (USA), Australia, na maeneo mengi ya kukua wanyama",
   "vector": {
-    "name": "Wheat curl mite",
-    "scientific_name": "Aceria tosichella",
-    "transmission_type": "semi-persistent",
-    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+    "name": "Mafuta ya mita ya mita",
+    "scientific_name": "Mchakato wa tosichella",
+    "transmission_type": "Mwisho wa kutosha",
+    "notes": "Miteti ni waangalizi wa haraka, kuenea hasa kwa injini, na inaweza kuhamisha virusi kati ya wanyama na mawe"
   },
   "symptoms": [
-    "Streaks of yellowed, non-uniform discoloration on leaves",
-    "Stunted growth",
-    "Severe infections can cause 100% crop loss",
-    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+    "Matangazo ya nyekundu, isiyo ya kawaida ya discoloration juu ya tiketi",
+    "Kuanzisha ukuaji",
+    "Maambukizi makubwa yanaweza kusababisha 100% kupoteza mimea",
+    "Maonyesho mara nyingi zaidi wakati maambukizi ya sinergistic hutokea na virusi ya Triticum mosaic au virusi ya High plains"
   ],
   "disease_cycle": [
-    "Virus overwinters in grasses and cereal crops and in infected seeds",
-    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
-    "Mites depend on wind to move between plants and fields",
-    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
-    "Multiple generations of mites per season can amplify spread"
+    "Virusi zimekuwepo katika matunda na matunda ya wanyama na katika matunda yaliyoathiriwa",
+    "Mifano ya wanyama ya wanyama inachukua virusi kutoka kwa mimea yaliyoathiriwa na kuhamisha kwa mimea salama",
+    "Mitano yanayohusiana na injini ya kuendesha kati ya mimea na maeneo",
+    "Mti wa kujitolea na wanyama wa kijani hufanya kazi kama hifadhi kwa mita na virusi",
+    "Generations kadhaa ya mita kwa msimu inaweza kuongezeka kwa kuongezeka"
   ],
   "conditions_for_development": [
-    "Warm weather favors mite reproduction and virus transmission",
-    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
-    "Early planting increases risk due to longer exposure to mites"
+    "Hali ya hewa hupenda kuongezeka na kuongezeka kwa virusi",
+    "Upatikanaji wa wanyama au wanyama wa kujitolea huongezeka kwa ugonjwa",
+    "Kupanda mapema huongezeka kwa hatari kwa sababu ya upatikanaji wa muda mrefu wa mita"
   ],
   "management": {
     "cultural": [
-      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
-      "Avoid early planting to reduce exposure to mites",
-      "Select wheat varieties with lower susceptibility to WSMV"
+      "Kupoteza wanyama wa kujitolea angalau wiki mbili kabla ya kupanda wanyama mpya wa baridi",
+      "Kuepuka kupanda mapema ili kupunguza athari za mimea",
+      "Kuchagua aina za wanyama na uhakika wa chini kwa WSMV"
     ],
     "chemical": [
-      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+      "Miticides ni hatari dhidi ya mita ya wanyama kwa kudhibiti usambazaji wa virusi"
     ],
     "resistance": [
-      "Use resistant/tolerant wheat cultivars where available",
-      "Research on RNAi-based resistance is ongoing"
+      "Kutumia bidhaa za kupumzika / kupumzika ambapo inapatikana",
+      "Utafiti juu ya upinzani wa RNAi unaendelea"
     ]
   },
   "impact": [
-    "Yield losses can reach up to 100% in susceptible varieties",
-    "Co-infection with other viruses can exacerbate damage"
+    "Uharibifu wa faida inaweza kufikia 100% katika aina za hisia",
+    "Maambukizi na virusi nyingine inaweza kuongezeka kwa uharibifu"
   ],
   "references": [
-    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
-    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
-    "USDA-ARS research on WSMV and vector biology."
+    "Seifers DL et al., 2002 Wheat streak mosaic virus: An Overview. ugonjwa wa mimea 86: 781-790.",
+    "Martinez et al., 2019. mita ya mita-virus ya wanyama. Front.",
+    "Utafiti wa USDA-ARS juu ya WSMV na biolojia ya viktori."
   ]
 }

@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
-  "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "disease": "أوراق حبة من الحبوب",
+  "scientific_name": "X زانث هوموناس مستعرضات",
+  "pathogen_type": "بكثير",
   "pathovars": [
-    "Xanthomonas translucens pv. undulosa",
-    "Xanthomonas translucens pv. translucens",
-    "Xanthomonas translucens pv. cerealis"
+    "Xanthomonas extrans concens pv. undulusa",
+    "Xsanthomonas exentus exencens v. ex enteluscens",
+    "Xanthomonas exencens pp."
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "إن سلسلة الأوراق البكتيرية مرض هام لمحاصيل الحبوب مثل القمح والشعير، ويسببه البكتريا إكسانثوموناس Translucens، وينتج المرض خطوطاً طويلة من الشوكولاتة على أوراق تتحول لاحقاً إلى بنية وجفاف، ويمكن أن تقلل الالتهابات الحادة من غلة الحبوب إلى حد كبير.",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "الشطط الطويل الأجل من المياه على أوراق الشووط",
+    "خضر أو شطر بين الأوردتين",
+    "تُصبحُ الإِسْتِقَالَاتُ بنيةً ومُطْطَدَةً",
+    "عمليات التسريرات التي تسير بالتوازي مع عوامل البر",
+    "الإجازات قد تجف وتموت في حالات إصابات خطيرة",
+    "قد تظهر البكتريا الصفراء اللاتينية البكتريا الاقصاء الاصفر اللزجة على الاصابع",
+    "قد تبدو الأوراق قد تبدو ممزقة على طول خطوط"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "أصفر طويل الأجل أو أصفر أصفر أو خفيف على أوراق الشوّر",
+    "(أ) الخطوط المتتابعة لأوراق",
+    "مسقطات ملصقة على سطح الورقة"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "أولاً -",
+    "",
+    "في بعض الأحيان الأذن الراس"
   ],
-
   "hosts": [
-    "wheat",
-    "barley",
-    "rye",
-    "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "المقنن",
+    "مُنْشِل مُنْشِل",
+    "(يُكَذَلْ",
+    "اط",
+    "الكورن",
+    "سِرْجُثْمْ",
+    "المروج البرية",
+    "المُسَكَبَك"
   ],
-
-  "plant_family": "Poaceae",
-
+  "plant_family": "البواسية",
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
-    "Zea mays"
+    "ثلاثي Tit Talitum astivfum (ححة wth)",
+    "هوردوم فولغاري (برلي)",
+    "Aveenna asesiva (بالكتل)",
+    "الحبوب (الكريات)",
+    "سِرْجُثْم bicl",
+    "مَنْزَزَزِ"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "درجة حرارة دافئة",
+    "الرطوبة العالية",
+    "(يحدث هطولاً)",
+    "",
+    "المواسم التي تزرع فيها"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "مُصْرِز",
+    "هطول الامطر)أ(",
+    "رابعاً - مقدمـة",
+    "المتخلفات",
+    "الممرضات والممرضات"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "البقاء على قيد الحياة على البذور المصابة",
+    "تدخل البكتيريا في النبتة عن طريق التسممات أو عن طريق الجروح",
+    "(أ) نشرات في أوراق الشوراء",
+    "البكتيريا التي تتضاعف وتنتج",
+    "نشرات الأمطار إلى النباتات المجاورة"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    "تطبيق اختبار صحي دقيق للبذرة",
+    ":: تجنب زرع القرعات المصحوبة",
+    "استخدامات مقاومة أو متسامحة للتسميات عندما تكون متاحة",
+    "ميادين الرصد المنتظم للكشف عن الأعراض المبكرة",
+    "قواعد اتباع قواعد الحجر الصحي لحركة البذور"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "مفارقات بكتيريات بيولوجية"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "عدم وجود رقابة كيميائية شديدة الفعالية في الميدان"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "معالجة الماء الساخن (حوالي 53 درجة مئوية لمدة 10 دقائق)",
+    "",
+    "المعالجة بالنحـس المعالجـات المحموضـة للحد من الإصابة"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "- خسارة تصل إلى 40 في المائة في الحالات الحادة",
+    "مخفضة الوزن مخفضة",
+    "انخفاض عدد الحالات المخفضة"
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "المراقبة الميدانية",
+    "عزلة البكتريا في وسائط الثقافة",
+    "الكشف الجزيئي القائم على DDNA (الدرجة أو التسلسل)"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
+    "مجموعة حماية المُنتَجَب",
+    "استعراضات يومية",
+    "EPPPP تقارير الحجر الصحي",
     "Sapkota et al. 2020"
   ]
 }

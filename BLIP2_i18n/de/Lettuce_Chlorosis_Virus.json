@@ -1,0 +1,50 @@
+{
+  "disease": "Kopfsalat-Chlorose-Virus (LCV)",
+  "scientific_name": "Kopfsalat-Chlorose-Virus",
+  "pathogen_type": "Virus (ssRNA, Crinivirus)",
+  "description": "Eine Viruserkrankung, die Kopfsalat und andere Kulturen betrifft, die Vergilbung, Rötung und Locken der Blätter, verkümmertes Wachstum und reduzierte Ausbeute verursacht.",
+  "symptoms": [
+    "Gelbfärbung und Rötung der Blätter",
+    "Kräuselung der Blätter",
+    "Verdünnen von Blattvenen",
+    "Stunte oder Zwergpflanzen",
+    "Reduzierter Ertrag und Qualität der Blüten"
+  ],
+  "hosts": [
+    "Kopfsalat",
+    "Rote Rüben",
+    "Mehr als 27 Pflanzenarten in 12 botanischen Familien"
+  ],
+  "favorable_conditions": [
+    "Vorhandensein von virulenten Unkrautwirten in der Nähe von Kulturen (z. B. Physalis wrightii, Conyza canadensis, Lactuca serriola)",
+    "Hohe Whitefly-Populationen",
+    "Gewächshaus- oder Feldanbau mit schlechter Schädlingsbekämpfung"
+  ],
+  "spread": [
+    "Fütterung durch Treibhausfliegen (Bemisia tabaci und Bemisia argentifolii)",
+    "Infizierte Samen, Stecklinge oder anderes pflanzliches Material",
+    "Kontaminierte Werkzeuge und Ausrüstungen"
+  ],
+  "management": [
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Überwachung und Kontrolle von Whitefly-Populationen",
+    "Virenfreie Samen und Stecklinge verwenden",
+    "Pflege einer guten Hygiene und Hygiene von Werkzeugen",
+    "Unkraut entfernen, das als Reservoirs wirkt"
+  ],
+  "chemical_control": [
+    "Insektizide, die auf Weißfliegen abzielen (z. B. Imidacloprid, Pyrethroide)",
+    "Neemöl oder insektizide Seifensprays als vorbeugende Maßnahmen"
+  ],
+  "prevention": [
+    "Verwendung von zertifiziertem virusfreiem Pflanzmaterial",
+    "Isolieren Sie neue Pflanzen aus infizierten Gebieten",
+    "Unkrautwirte in und um Felder kontrollieren",
+    "Regelmäßige Überwachung von Weißfliegen"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "FAO-Pflanzenvirus-Faktenblätter",
+    "Wissenschaftliche Literatur zu Criniviren"
+  ]
+}

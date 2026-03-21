@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "C C C C C C C C C CQ داوني & doDew",
+  "scientific_name": "Pseudodoperonsspora consis",
+  "pathogen_type": "أوكِمات (مُمَرْسِل شبه مَرْثِب)",
+  "description": "فالمرض العضلي المدمر الذي يؤثر على المحاصيل الطحلبية في جميع أنحاء العالم يسبب آفاتا صفراء وموتا سريعا للأوراق، ويقلل من نمو النباتات ومن غلة الفواكه، ويمكن أن يتسبب التفشي الحاد في خسائر كبيرة في المحاصيل.",
+  "symptoms": [
+    "بقعتين على أوراق الشوك",
+    "(خصوصاً على الخيار)",
+    "إلى رمادي إلى ترنب نمو غامض على الجانب السفلي للأوراق",
+    "تتسع وتصير بنية أو نخرية",
+    "يَجِبُ ويَمُوتُ بسرعة",
+    "التعرض لنقصان يؤدي إلى حروق الشمس والأضرار التي لحقت بالفواكه"
+  ],
+  "hosts": [
+    "",
+    "",
+    "",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "سواش",
+    "الأنواع الطوقية الأخرى"
+  ],
+  "favorable_conditions": [
+    "بارد إلى متوسط درجات الحرارة (15-20 درجة مئوية مثلث)",
+    "الرطوبة العالية",
+    "الامطار الذي يُزُر به أو بُلْط أوراق طويلة",
+    "معلّق للنباتات مع ضعف في تدفق الهواء"
+  ],
+  "spread": [
+    "ريح - ريح - تشتت poprangia",
+    "(ب) المطر",
+    "الأدوات أو المعدَّات أو المعدَّات المُزَيِّزات",
+    "انتشار الهواء بعيد المدى من المناطق المصابة"
+  ],
+  "infection_process": [
+    "الأوج التي تقع على أسطح أطلس الرطب",
+    "تَسْتَسِسُ أَسْسُسُ ٱلْأَسْسُ سَيُسْطَحَسُ ٱلْأَسْفَاحُ",
+    "المُمْثِل يُدخِل الورقة من خلال المُسْتوماتا",
+    "تزرع في داخل الورقة منسوج ومستخلصات من المغذيات"
+  ],
+  "management": [
+    "استخدام أو استخدام استخدامات متسامحة أو مقاومة للتسميات عندما تكون متاحة",
+    "تحسين تدفق الهواء عن طريق المباعدة بين النبتات والقص",
+    ":: رصد المحاصيل بانتظام للكشف عن الأعراض المبكرة",
+    "استخدام نظم التنبؤ بالتفشي",
+    "إزالة المادة النباتية المسببة للإصاب"
+  ],
+  "biological_control": [
+    "(أ) استخدام المنتجات القائمة على الباسيل",
+    "تشجيع التربة الدقيقة الصحية على الحد من الضغط المرضي"
+  ],
+  "chemical_control": [
+    "مبيدات مبيدات مبيدات مبيدات مبيدات مبيدات الآفات الوقائية أثناء الفترات العالية الخطورة",
+    "تطبيق مبيدات الفطريات كل 5-7 أيام للخيار أو 7-10 أيام للخيارات الأخرى خلال حالات التفشي",
+    "تدوير مبيدات الفطريات ذات أنماط عمل مختلفة لمنع المقاومة",
+    "ويمكن أن تشمل المكونات النشطة بدائل فلزاسيل الفلز، أو ستروبيلورورينز، أو مبيدات فطر أخرى مسجلة."
+  ],
+  "prevention": [
+    "المقاومات النباتية عند توافرها",
+    ":: ضمان جودة الدوران الجوي في الحقول",
+    ":: تجنب إطالة طول مدة تأجّر أوراق الرّي",
+    "استخدام أدوات التنبؤ بالأمراض في الوقت المناسب لرش المبيدات الفطرية"
+  ],
+  "impact": [
+    "يمكن أن تتسبب في خسائر تصل إلى 80 إلى 100٪ في حالات التفشي الحاد",
+    "الخطر الرئيسي الذي يهدد إنتاج الكوكايين في جميع أنحاء العالم"
+  ],
+  "source": [
+    "جامعة الدولة",
+    "Savory et al. - أمراض النباتات الجزيئية",
+    "موارد برنامج الإدارة المتكاملة لإدارة المشاريع"
+  ]
 }

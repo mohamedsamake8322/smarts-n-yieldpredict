@@ -1,0 +1,59 @@
+{
+  "pest_name": "Rust de la hoja de soja",
+  "scientific_name": "Phakopsora pachirhizi",
+  "common_name": "Rust de soja",
+  "description": "El óxido de soja es una enfermedad foliar de la soja causada por el hongo Phakopsora pachirhizi. Puede causar graves pérdidas de rendimiento en condiciones favorables.",
+  "distribution": "Originario de Asia; en los Estados Unidos, encontrado por primera vez en el sur en 2004 y se extiende hacia el norte cada temporada de cultivo.",
+  "host_range": {
+    "primary_host": "Glicina máx. (soja)",
+    "other_hosts": "No especificado; patógeno obligado que sobrevive únicamente en tejido huésped verde"
+  },
+  "symptoms": {
+    "leaf": [
+      "Pequeñas manchas grises en las superficies de las hojas inferiores que se vuelven bronceadas o marrón rojizo",
+      "Lesiones dispersas en halos amarillos",
+      "Pústulas (blisters) se desarrollan en lesiones que liberan esporas tan",
+      "Síntomas tempranos difíciles de distinguir de otras enfermedades de la hoja"
+    ],
+    "pod_stem": [
+      "Pueden aparecer lesiones y pústulas en vainas y tallos"
+    ],
+    "timing": "Más común después de la floración, durante las etapas reproductivas"
+  },
+  "conditions_favoring_disease": {
+    "temperature": "59–85°F (15–29°C)",
+    "humidity": "Alta humedad (>75%)",
+    "weather": "Períodos prolongados de tiempo húmedo",
+    "plant_stage": "Estadios reproductivos, después de la floración y desarrollo de vainas"
+  },
+  "biology": {
+    "pathogen_type": "Hongos",
+    "species": [
+      "Phakopsora pachirhizi",
+      "Phakopsora meibomiae (patógeno leve, que no causa una pérdida de rendimiento importante)"
+    ],
+    "obligate_pathogen": true,
+    "survival": "Sobre tejido verde vivo en estados del sur y México; esporas dispersas por viento hacia el norte cada temporada",
+    "infection": "Las lesiones se desarrollan en las hojas inferiores primero; pueden extenderse a vainas y tallos"
+  },
+  "damage": [
+    "Manchas de hojas y defoliación",
+    "Pérdidas de rendimiento superiores al 50% en condiciones favorables"
+  ],
+  "management": {
+    "cultural_control": [
+      "Explorador de dosel inferior semanal, especialmente durante el tiempo húmedo",
+      "Las prácticas culturales tienen un efecto limitado"
+    ],
+    "chemical_control": [
+      "Utilizar fungicidas foliares aplicados antes o inmediatamente después de la infección"
+    ],
+    "genetic_control": [
+      "Variedades de soja resistentes al óxido están en desarrollo"
+    ]
+  },
+  "notes": [
+    "La roya de soja requiere la dispersión anual repetida de esporas hacia el norte para causar epidemias en las zonas septentrionales",
+    "P. pachyrhizi es el patógeno agresivo que causa una pérdida significativa de rendimiento; P. meibomiae es leve y aún no se ha reportado en los Estados Unidos continentales."
+  ]
+}

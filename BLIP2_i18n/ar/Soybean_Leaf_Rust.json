@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
-  "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "pest_name": "Soybanyan Leaf st",
+  "scientific_name": "PAKPsra pachirhizi",
+  "common_name": "Soybynein Rast",
+  "description": "وسرطان الصويا هو مرض فوليري لفول الصويا سببه الفطريات Pakopsora Pachyrhizi، ويمكن أن يسبب خسائر حادة في الغلة في ظل ظروف مواتية.",
+  "distribution": "أصلها من آسيا ؛ في الولايات المتحدة ، وجدت لأول مرة في الجنوب في عام 2004 وتنتشر شمالا نحو كل موسم زراعة.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "الغليسينين كحد الأقصى (السائل)",
+    "other_hosts": "غير محدَّد؛ لا يُحدَّد؛ لا يُبقَى مُمْرض على النسيج المضيف الأخضر فقط"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "بقع رمادية صغيرة على أسطح أُسس أُسس أُدّرَتْ سُنَّةً أَوْ مُحَدَّدَةً- بنون",
+      "مبعثشات متناثرة داخل أحرف صفراً",
+      "تطور الپستلات (بسترات) في البذرات التي تطلق بواغات النتانة",
+      "الأعراض المبكرة التي يصعب تمييزها عن أمراض أخرى"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "يمكن أن تظهر المُصَلّات والبُذرات على النُزَنِ و الجُزَدَدِ"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "الأكثر شيوعاً بعد الزهرة، أثناء المراحل الإنجابية"
   },
   "conditions_favoring_disease": {
-    "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "temperature": ")١٥-٢٩ درجة مئوية(",
+    "humidity": "الرطوبة العالية (>75%)",
+    "weather": "فترات طويلة من الطقس الرطب",
+    "plant_stage": "المراحل الإنجابية، بعد الزهرة وتطوير الأزهار"
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "المنقوس",
+    "species": [
+      "PAKPsra pachirhizi",
+      "PACOkapsora miibomiaee (مُمْضِل، لا يسبب خسارة كبيرة في الغلة)"
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "على أنسجة خضراء حية في الولايات الجنوبية والمكسيك؛ وتوزع البواغ بالرياح شمالاً في كل موسم",
+    "infection": "تُطوّر الخزّات على أوراق الأوراق السفلية أولاً؛ ويمكن أن تنتشر إلى النبتات والسور"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "بقع ورق ورق الرفع وإزالة القُطْل",
+    "خسائر متكبدة تزيد عن 50 في المائة في ظل ظروف مواتية"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "تمركز الكشافة الأدنى أسبوعياً، ولا سيما أثناء الطقس الرطب",
+      "لممارسات الممارسات الثقافية أثر محدود"
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "استخدام مبيدات الفطريات العضلية التي تطبق في وقت مبكر أو مباشرة بعد الإصابة"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "يجري تطوير أصناف من فول الصويا مقاومة الصدأ"
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "يتطلب صدّر الصويا الصويا تكرّر التشتت السنوي السنوي في الشمال باتجاه الشمال من أجل التسبب في أوبئة في المناطق الشمالية.",
+    "P. Pacheirhezi هو العامل المرضي العدواني الذي يسبب خسارة كبيرة في الغلة؛ P. miibomiae معتدل ولم يبلغ عنه بعد في الولايات المتحدة القارية."
   ]
 }

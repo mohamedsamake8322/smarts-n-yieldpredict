@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
-  "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "disease": "Bakteriyel Meyve Blotch",
+  "scientific_name": "Acidovorax sitrulli",
+  "description": "Bakteriyel meyve sızıntısı (BFB) dünya çapında cucurbit bitkileri etkileyen yıkıcı bir bakteriyel hastalıktır. Gram-negatif bakteri Acidovorax citrulli tarafından tetiklenir ve öncelikle kirlenmiş tohumlar aracılığıyla yayılır. Hastalık özellikle su melon ve melon üretiminde ciddi ekonomik kayıplara neden olabilir. Enfeksiyon, tohumlarda, yapraklarda ve meyvelerde su geçirmez hasara yol açar, nihayetinde meyve sızıntısı, kırışıklık ve bitki kaybına yol açar. Bakterinin tohumlarda uzun yıllar boyunca hayatta kalabileceği için, hastalık kontrolü öncelikle tohum sanitasyonuna ve sıkı hijyen uygulamalarına bağlıdır.",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
-    "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
-    "Pumpkin (Cucurbita spp.)",
-    "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "Çilek (Citrullus lanatus )",
+    "Çilek ( Cucumis melo )",
+    "Çilek (Cucumis sativus)",
+    "Pumpkin (Cucurbita spp) için",
+    "Zucchini (Cucurbita Pepo) ile ilgili bilgiler",
+    "Diğer kurşun bitkileri"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "Tohumlar: cotyledonlar ve hipokotillerde su geçirmez hasarlar çöküşe ve ölümüne yol açar",
+    "Yapraklar: su melonunda kahverengi ile siyah olan büyük düzensiz hasarlar ve melonda kırmızı kahverengi",
+    "Yaprak hasarları genellikle ana midrib boyunca yayılır",
+    "Meyveler: Küçük su geçirmez hasarlar büyür ve bozulur",
+    "Meyve göğüsleri nekrotik hale gelir, kırılmaya ve bozulmaya yol açar",
+    "Yaralanmalar diğer patogenlerden ikincil enfeksiyonlara izin verir",
+    "Çoğunlukla enfekte meyveler çürümüş ve tohumları kirletebilir"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "İlk iletim enfekte tohumlar aracılığıyla gerçekleşir.",
+    "Bakteriler tohumlarda yıllarca hayatta kalabilir.",
+    "Başlangıçta, tohumdan gelen besin maddelerini kullanarak bir saprofit olarak davranır.",
+    "Patolojik büyümeye geçişler, tohum oluştuğunda",
+    "Bakteriler, meyve seti bittikten 3-4 hafta sonra mide yoluyla meyve geliştiriyor.",
+    "Belirtiler genellikle geç, hasatın yakınındadır, enfeksiyon ve tespit arasında bir gecikme yaratır.",
+    "Enfekte meyveler yeni tohumları kirletebilir, döngüyü devam edebilir"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "yüksek sıcaklıklar",
+    "Yüksek nem",
+    "Sıcak ve ıslak sera koşulları",
+    "• Kirlenmiş tohumlarda yüksek bakteriyel yük",
+    "Düşük bitki popülasyonları ve aşırı sulama"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "Patogen-free sertifikalı tohumları kullanın",
+    "Yetiştirmeden Önce Tohum Sağlığı Testleri",
+    "Hemşirelerde hem de sera tesislerinde sıkı sanitasyon sağlamak",
+    "• Kirlenmiş tohumların toplanmasını önleyin",
+    "Bakterilerin yayılmasını sınırlamak için aşırı sulama azaltın",
+    "Enfekte bitki çöpleri ve gönüllü cucurbit bitkileri kaldırmak"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel Bakteriyel",
+    "Kimyasal kontrol genellikle etkinliğinde sınırlıdır",
+    "Uygulamalar yerel tarım kurallarına ve ürün etiketlerine uymalıdır."
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "Şu anda yaygın olarak belirlenmiş biyolojik kontrol yöntemleri mevcut değildir.",
+    "Araştırma, etkili biyolojik antagonistleri belirlemek için devam ediyor"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "Şu anda güçlü dirençli ticari yetiştiriciler mevcut değildir.",
+    "Bazı deneysel su melonu ve melon aksesuarları kısmi direnç göstermiştir",
+    "Yetiştirme programları dayanıklı germplasma için arama devam ediyor"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "Cotyledons'ta su geçirmez hasarlar için tohumları incelemek",
+    "Kanlar boyunca düzensiz kahverengi veya siyah hasarlar için monitör yaprakları",
+    "Meyveyi genişleten ve boğulan suya dayanıklı noktalar için kontrol edin",
+    "Bitmeden önce kirlilik için test tohumları"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "yayılmasını önlemek için enfekte bitkileri yok etmek",
+    "Bakteriyel kirliliği azaltmak için tohumların ısı tedavisi (yaklaşık 85°C 3-5 gün) kullanın.",
+    "Tohum üretim ve transplantasyon tesislerinde sıkı hijyen uygulanması",
+    "Enfekte meyvelerden tohumları kurtarmaktan kaçının"
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "Wikipedia - Bakteriyel Meyve Blotch"
   ]
 }

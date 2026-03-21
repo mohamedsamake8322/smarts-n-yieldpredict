@@ -1,0 +1,69 @@
+{
+  "disease": "La plaga bacteriana del frijol",
+  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
+  "pathogen_type": "Bacteria",
+  "description": "La plaga bacteriana es una enfermedad bacteriana común de los frijoles que afecta las hojas, los tallos y las vainas. Las bacterias infectan las plantas a través de aberturas naturales o heridas y se diseminan rápidamente en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Pequeñas manchas empapadas de agua en las hojas",
+    "Lesiones marrones u oscuras con halos amarillos",
+    "Grandes áreas irregulares muertas en hojas",
+    "Desgarro o secado de hojas",
+    "Manchas empapadas de agua en vainas",
+    "Cadáveres marrones, marchitos o deformados"
+  ],
+  "hosts": [
+    "frijol común",
+    "Habas de riñón",
+    "frijol pinto",
+    "Judía negra",
+    "frijol marino",
+    "Habas de lima",
+    "snap frijol",
+    "soja",
+    "Otras especies de Phaseolus"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (25–30°C)",
+    "Alta humedad",
+    "Lluvias frecuentes",
+    "Riego por cabeza",
+    "Dosel de cultivo denso"
+  ],
+  "spread": [
+    "Semillas infectadas",
+    "Salpicadura de la lluvia",
+    "Lluvia eólica",
+    "Herramientas contaminadas",
+    "Contacto entre plantas húmedas"
+  ],
+  "management": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Eliminar los residuos vegetales infectados",
+    "Evitar el riego por encima del suelo",
+    "Girar los cultivos durante 2-3 años",
+    "Mejorar la ventilación de campo"
+  ],
+  "biological_control": [
+    "Bioplaguicidas a base de bacillus subtilis",
+    "Pseudomonas fluorescens tratamientos biológicos",
+    "Resistencia a las plantas en variedades de frijoles tolerantes"
+  ],
+  "chemical_control": [
+    "Hidróxido de cobre",
+    "Oxicloruro de cobre",
+    "Sulfato de cobre",
+    "bactericidas a base de cobre"
+  ],
+  "prevention": [
+    "Variedades resistentes a las plantas cuando estén disponibles",
+    "Utilizar semillas limpias",
+    "Evite trabajar en campos húmedos",
+    "Herramientas para desinfectar",
+    "Mantener un buen saneamiento sobre el terreno"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Guías de gestión de enfermedades vegetales de la FAO",
+    "Publicaciones universitarias de extensión de patología vegetal"
+  ]
+}

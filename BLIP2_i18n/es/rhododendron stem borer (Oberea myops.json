@@ -1,0 +1,55 @@
+{
+  "disease": "Infestación de Rhododendron Stem Borer",
+  "scientific_name": "Oberea myops",
+  "pathogen_type": "Plagas de insectos (escarabajo)",
+  "description": "El barrenador del tallo de Rhododendron es un escarabajo cuyas larvas llevan dentro de los tallos de las plantas. El túnel de las larvas a través de los tallos, perturbando el agua y el flujo de nutrientes, lo que causa marchitamiento y muerte de las ramas.",
+  "symptoms": [
+    "Hojas que se inclinan o caen en ramas individuales",
+    "Retroceso repentino de tallos",
+    "Pequeños agujeros en los tallos donde los adultos ponen huevos",
+    "Frass (material similar a un aserrín) cerca de los agujeros",
+    "Tallos que se vuelven huecos o debilitados",
+    "Ramas que se rompen o mueren"
+  ],
+  "hosts": [
+    "Rhododendron",
+    "Azalea",
+    "Otros arbustos ornamentales de Ericaceae"
+  ],
+  "favorable_conditions": [
+    "Presencia de escarabajos adultos durante la primavera y el verano",
+    "Plantas con tallos tiernos aptas para la puesta de huevos",
+    "Jardines o paisajes con plantas hospedantes susceptibles"
+  ],
+  "spread": [
+    "Escarabajos adultos que ponen huevos dentro de los tallos de las plantas",
+    "Larvas que se desarrollan en el interior de los tallos y ramas",
+    "Movimiento de material vegetal infestado"
+  ],
+  "impact": [
+    "Retroceso de las ramas",
+    "Reducción del vigor de las plantas",
+    "Infestaciones severas pueden matar arbustos ornamentales"
+  ],
+  "cultural_control": [
+    "Inspeccione los tallos regularmente para agujeros de puesta de huevos",
+    "Prune y destruya los tallos infestados",
+    "Mantener la salud de las plantas para reducir la susceptibilidad"
+  ],
+  "biological_control": [
+    "Alentar a los depredadores naturales como las aves o los insectos parásitos"
+  ],
+  "chemical_control": [
+    "Aplicar insecticidas sistémicos cuando las infestaciones sean graves",
+    "Escarabajos adultos objetivo durante el período de puesta de huevos"
+  ],
+  "prevention": [
+    "Monitorización periódica durante la temporada de cultivo",
+    "Quitar y destruir los tallos infectados temprano",
+    "Evite plantar plantas de vivero muy infestadas"
+  ],
+  "source": [
+    "Referencias de gestión de plagas vegetales",
+    "Guías de extensión sobre plagas de rododendro"
+  ]
+}

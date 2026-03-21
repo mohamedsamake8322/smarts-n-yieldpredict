@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "Phytophthora Blight of Cucurbits",
+  "scientific_name": "Phytophthora capsici",
+  "pathogen_type": "Oomycète (organisme semblable au fungus)",
+  "description": "Phytophthora est une maladie destructrice des cultures de cucurbitacées causée par l'omycète Phytophthora capsici. Il infecte les plantules, les vignes, les feuilles et les fruits, entraînant souvent un effondrement rapide des plantes et de graves pertes de cultures dans des conditions chaudes et humides.",
+  "symptoms": [
+    "Amortissement des semis avec pourriture mouillée à la ligne du sol",
+    "flétrissement soudain des plantes sans jaunissement des feuilles",
+    "Lésions foncées mouillées d'eau sur les tiges et les vignes",
+    "Les taches foliaires qui deviennent nécrotiques avec les bordures olive ou jaune",
+    "Pourriture de fruits commençant au point de toucher le sol",
+    "Croissance des moisissures blanches sur les fruits pourrissants",
+    "Effondrement rapide et pourriture des fruits"
+  ],
+  "visual_symptoms": [
+    "lésions aqueuses sur les tiges et les vignes",
+    "moisissure blanche sur les fruits de cucurbitacées infectés",
+    "citrouilles, concombres ou melons pourriture molle",
+    "flétrissement soudain de la plante et effondrement de la vigne"
+  ],
+  "hosts": [
+    "Concombre",
+    "Citrouille",
+    "Courge",
+    "Pastèque",
+    "Cantaloup",
+    "Melon de miel",
+    "Gourde",
+    "Poivre",
+    "Tomates",
+    "Aubergines"
+  ],
+  "plant_parts_affected": [
+    "Plantules",
+    "racines",
+    "couronne",
+    "Cépages",
+    "feuilles",
+    "Fruits"
+  ],
+  "favorable_conditions": [
+    "Températures chaudes (20-30°C)",
+    "Sols saturés d'eau",
+    "Fortes précipitations ou inondations",
+    "Champs mal drainés",
+    "Irrigation fréquente"
+  ],
+  "spread": [
+    "Mouvement de l'eau dans le sol",
+    "éclaboussure de pluie",
+    "Eau d'irrigation",
+    "Sol contaminé et équipement agricole",
+    "Débris de plantes infectées"
+  ],
+  "disease_cycle": [
+    "Les agents pathogènes survivent dans le sol sous forme d'oospores pendant plusieurs années",
+    "Les spores germent et produisent de la sporangie et des zoospores",
+    "Zoospores nageant dans l'eau et infectant les tissus végétaux",
+    "De nouvelles spores se forment sur les plantes infectées et se propagent par l'eau ou la pluie"
+  ],
+  "impact": [
+    "flétrissement grave des plantes et mort",
+    "Pourriture de fruits dans le champ ou dans l'entreposage",
+    "Maladie rapide propagée après de fortes pluies",
+    "Pertes de rendement jusqu'à 100 % lors d'éclosions graves"
+  ],
+  "cultural_control": [
+    "Plantez dans des champs bien drainés",
+    "Éviter l'irrigation excessive",
+    "Utiliser des lits surélevés pour les cultures de cucurbitacées",
+    "Roter les champs avec des cultures non hôtes pendant au moins 3 ans",
+    "Enlever et détruire les plantes infectées",
+    "Nettoyer l'équipement agricole avant de se déplacer entre les champs"
+  ],
+  "chemical_control": [
+    "Traitement des semences avec le méfenoxam ou le métalaxyl",
+    "Vaporisateurs foliaires de diméthomorphe",
+    "Fongicides à base de cuivre",
+    "Application régulière de fongicides en conditions humides"
+  ],
+  "prevention": [
+    "Utiliser des champs propres sans antécédents de maladie",
+    "Éviter les eaux d'irrigation contaminées",
+    "Surveiller les champs après de fortes précipitations",
+    "Enlever rapidement les fruits infectés"
+  ],
+  "source": [
+    "Instructeur en phytologie de l'Université de l'Illinois",
+    "Babadoost M. 2005. Phytophthora brûlure des cucurbitacées"
+  ]
 }

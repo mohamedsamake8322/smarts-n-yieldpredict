@@ -1,78 +1,78 @@
 {
-  "disease": "Corn smut",
+  "disease": "kurabiye üzüntüsü",
   "other_names": [
-    "Common smut",
-    "Boil smut",
-    "Blister smut",
+    "Ortak üzüntü",
+    "Boil üzüntü",
+    "Blister üzüntü",
     "Huitlacoche",
     "Cuitlacoche"
   ],
   "scientific_name": "Mycosarcoma maydis",
-  "synonym": "Ustilago maydis",
-  "pathogen_type": "Fungus",
-  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "synonym": "Ustilago Maydis Hakkında",
+  "pathogen_type": "Fonksiyon",
+  "description": "Tohum kabuğu, bitkinin farklı bölgelerinde tümör benzeri gallar üreten bir mantar hastalığıdır. Bu gallar karanlık spora kütlelerini içerir ve verimliliği önemli ölçüde azaltabilir. Meksika'da, olgun olmayan gallar huitlacoche olarak bilinen bir mutfak lezzetidir.",
   "hosts": [
-    "Maize (Zea mays)",
-    "Teosinte (Zea mexicana)"
+    "Yağmur ( Yağmur Yağmur )",
+    "Teosinte (Meksika Bölgesi)"
   ],
   "symptoms": {
     "general": [
-      "Tumor-like galls on plant tissues",
-      "Swollen kernels or plant organs",
-      "Black powdery spores inside galls"
+      "Bitki dokularında tümör gibi gallar",
+      "Yüzeyler veya bitki organları",
+      "Siyah tozu galların içine dökülür"
     ],
     "leaves": [
-      "Small galls on leaf veins or blades"
+      "Küçük kabuklar yaprak damarlarında veya yapraklarda"
     ],
     "stems": [
-      "Large galls on stalks or nodes"
+      "Büyük gallar çubuklar veya düğümler üzerinde"
     ],
     "ears": [
-      "Kernels replaced by swollen galls",
-      "Galls turn black and rupture releasing spores"
+      "Yumuşak gallar tarafından değiştirilen çekirdekler",
+      "Tohumlar siyah döner ve spores serbest bırakır"
     ]
   },
   "disease_cycle": [
-    "The fungus survives in soil or crop debris as teliospores",
-    "Spores germinate and produce haploid sporidia",
-    "Compatible sporidia mate and form infectious hyphae",
-    "Hyphae penetrate young plant tissues",
-    "Tumor-like galls form and produce new teliospores",
-    "Spores spread by wind and rain"
+    "Teliosporlar olarak toprak veya bitki çöplerinde mantar hayatta kalır",
+    "Sporlar germinat ve haploid sporidia üretir",
+    "Uyumlu sporidia mate ve bulaşıcı hyphae oluşur",
+    "Hyphae genç bitki dokularına nüfuz eder",
+    "Tuberkuloz gibi gallar oluşur ve yeni teliosporlar üretir",
+    "rüzgâr ve yağmurla yayılan sporlar"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "Plant injuries or wounds",
-    "High nitrogen levels in soil",
-    "Wind and rain that spread spores",
-    "Periods of poor pollination or plant stress"
+    "Sıcak sıcaklıklar",
+    "Bitki yaralanmaları veya yaralanmaları",
+    "Toprağın yüksek nitrojen seviyeleri",
+    "Yağmur ve rüzgâr, gölgeleri yayıyor",
+    "Zayıf kirlenme veya bitki stresi dönemleri"
   ],
   "distribution": [
-    "Worldwide in maize-growing regions"
+    "Dünya çapında ekmek büyüyen bölgelerde"
   ],
   "management": {
     "cultural": [
-      "Use resistant maize varieties",
-      "Practice crop rotation",
-      "Remove infected plant debris",
-      "Avoid mechanical injury to plants",
-      "Manage nitrogen fertilization"
+      "dayanıklı mısır çeşitleri kullanın",
+      "Crop Rotasyon Uygulamaları",
+      "Enfekte bitki kalıntılarını ortadan kaldırmak",
+      "Bitkiler için mekanik hasarlardan kaçının",
+      "Nitrojen Üreme Yönetimi"
     ],
     "chemical": [
-      "Fungicides are generally ineffective for controlling corn smut"
+      "Fungicidler genellikle mısır pisliğini kontrol etmek için etkisizdir."
     ]
   },
   "economic_importance": [
-    "Usually causes low yield losses in field corn",
-    "Can significantly affect sweet corn production",
-    "Ear galls reduce market value of fresh corn"
+    "Genellikle alan mısırında düşük gelir kaybına neden olur.",
+    "Tatlı mısır üretimini önemli ölçüde etkileyebilir",
+    "Kulak kabuğu taze mısırın piyasa değerini azaltır"
   ],
   "additional_notes": [
-    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
-    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+    "Doğumsuz çilekler yiyebilir ve Meksika'da Huitlacoche olarak adlandırılan bir gourmet yiyecek olarak satılır.",
+    "Mantar yaygın olarak mantar genetiği ve bitki patolojisi araştırmalarında bir model organizma olarak kullanılır."
   ],
   "sources": [
-    "Wikipedia – Corn smut",
-    "University plant pathology references"
+    "Wikipedia - Tohum Şaşkınlığı",
+    "Üniversite Bitki Patolojisi Referansları"
   ]
 }

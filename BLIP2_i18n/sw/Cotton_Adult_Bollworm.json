@@ -1,85 +1,85 @@
 {
-  "pest_name": "Cotton_Adult_Bollworm",
-  "common_name": "Cotton bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Cotton bollworm (Helicoverpa armigera) is a highly destructive agricultural pest widely distributed across Africa, Europe, Asia, Australia, and South America. The adult moth itself does not directly damage crops, but it lays eggs on host plants. The larvae that emerge feed on leaves, buds, flowers, fruits, and seeds of many economically important crops. Due to its high reproductive capacity and strong migratory ability, this pest can spread rapidly and produce multiple generations per year in warm climates.",
+  "pest_name": "Tumia kesi kwa kundi la Cotton_Bollworm",
+  "common_name": "Simu ya Bollworm",
+  "scientific_name": "Mwisho wa Helicoverpa Armigera",
+  "pest_type": "Wanyama",
+  "description": "Bottle Bollworm (Helicoverpa armigera) ni uharibifu mkubwa wa kilimo kwa ujumla katika Afrika, Ulaya, Asia, Australia, na Amerika ya Kusini. Mti mwenyewe si kuharibu mazao moja kwa moja, lakini hutoa mazao juu ya mimea ya mwenyeji. Mti ambao huonekana hutoa juu ya tiketi, mti, matunda, na matunda ya matunda mengi ya kiuchumi muhimu. Kwa sababu ya uwezo wake wa uzalishaji wa juu na uwezo wa kuhamia nguvu, uharibifu huu inaweza kuenea haraka na kuunda mazao kadhaa kwa mwaka katika hali ya hewa.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "Baadhi ya Cotton",
+    "Mji wa Tomato",
+    "Maisha ya",
+    "ya Chickpea",
+    "Mji wa Pigeon",
+    "Rice ya",
+    "Maombi ya",
+    "Mchakato",
+    "Soya ya",
+    "Mapato ya",
+    "ya Okra",
+    "Mipango",
+    "Mafuta ya Tabaka"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "Nyumba katika nyota na maua",
+    "Matunda ya kuvutia kwa matunda au matunda",
+    "Matunda ya mapema au kukua",
+    "Mchakato wa kupoteza bidhaa zinazotengenezwa kwa ubora wa bidhaa",
+    "Utekelezaji wa vichwa na vichwa vya chakula katika matunda au wanyama"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers, or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae can overwinter in colder climates.",
-    "adult": "Adult moths are light brown with a wingspan of about 3.5–4 cm. Adults live around 10 days and females can lay hundreds to thousands of eggs."
+    "eggs": "Yellowish-white yaliyotumika juu ya tiketi, mti, maua, au matunda. yaliyotumika ndani ya 3-11 siku.",
+    "larvae": "Larva kuhifadhi kwa siku 19-36 kwa mara kadhaa na kusababisha madhara ya msingi ya mimea.",
+    "pupae": "Kupanda hutokea katika ardhi au mbegu za mimea; pupae inaweza kupanda baridi katika hali ya baridi.",
+    "adult": "Wanawake mti ni ndogo ya rangi na mti wa karibu 3.5-4 cm. Wanawake wanaishi karibu siku 10 na wanawake wanaweza kuweka mamia hadi maelfu ya maziwa."
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea, and other crops. Larvae attack reproductive plant parts and reduce yield and quality. Damage can also allow secondary fungal and bacterial infections.",
+  "economic_significance": "Ugonjwa huu hufanya uharibifu mkubwa wa matunda katika pamba, tomato, mawe, chickpea, na matunda mengine. Larvae kuathiri sehemu za mimea na kupunguza matunda na ubora. Uharibifu inaweza pia kuwezesha ugonjwa wa miguu na bakteria ya pili.",
   "management": {
     "monitoring": [
-      "Regular field scouting for eggs and larvae",
-      "Use pheromone traps to detect adult moth activity",
-      "Monitor plant damage in buds, fruits, and flowers"
+      "Kazi ya kawaida kwa ajili ya mbegu na larvae",
+      "Matumizi ya faromoni kwa ajili ya kurekebisha matendo ya watu wazima",
+      "Kuangalia uharibifu wa mimea katika matunda, matunda, na maua"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "Mzunguko wa mimea na mimea yasiyo ya mimea",
+      "Kuondoa mbegu za mimea na mimea",
+      "Kuongezeka kwa dhahabu baada ya kukatwa kuharibu pupae",
+      "Matumizi ya matunda ya mti kama vile jua au marigold"
     ],
     "mechanical_control": [
-      "Handpicking and destroying eggs and larvae",
-      "Removing infested fruits and plant parts",
-      "Installing pheromone or light traps"
+      "Kuondoa na kuharibu maua na larva",
+      "Kuondoa matunda ya matunda na sehemu za mimea",
+      "Uhifadhi wa pheromone au mbegu za mwanga"
     ],
     "biological_control": {
       "microorganisms": [
         "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea"
+        "aina za Baculovirus zinazohusiana na larva ya lepidopteran",
+        "Maisha ya Isaria Fumosorosea"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trichogramma pretiosum (mchakato wa mbegu)",
+        "Mchakato wa Habrobracon (Mchakato wa Larval)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used within an Integrated Pest Management strategy and only when pest populations exceed economic thresholds.",
+      "note": "Bidhaa za kemikali zinapaswa kutumika ndani ya mkakati wa usimamizi wa uharibifu wa pamoja na tu wakati idadi ya watu wa uharibifu wa uharibifu ni juu ya mipaka ya kiuchumi.",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "ya Spinoza",
+        "ya Emamectin benzoate",
+        "Mafuta ya Indoxacarb",
+        "ya Lambda-cyhalothrin",
+        "ya chlorantraniliprole"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "Waandishi wa habari wa Wikipedia.Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "Tumia kesi kwa kundi la CABI Crop Protection Compendium – Helicoverpa armigera.",
+    "Shirika la FAO la Ulinzi wa Ulinzi wa Ulinzi.",
+    "Mfumo wa Utawala wa Utawala wa Utawala wa Utawala wa Utawala wa Utawala wa Utawala wa Utawala."
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
-    "https://www.cabi.org"
+    "HTTPS://en.wikipedia.org/wiki/Helicoverpa_armigera",
+    "HTTPS ya www.cabi.org"
   ]
 }

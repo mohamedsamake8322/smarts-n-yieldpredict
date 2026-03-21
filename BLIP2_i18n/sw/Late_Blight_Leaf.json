@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "disease": "Siku ya mwisho (Siku ya mwisho)",
+  "scientific_name": "Matokeo ya Phytophthora",
+  "pathogen_type": "Mifano ya Mifano (Mifano ya Mifano ya Mifano)",
+  "description": "Uharibifu wa magonjwa ya nyama na nyama, ambayo huathiri nyama ya rangi na kifo cha haraka ya nyama. Inaweza kuharibu matunda haraka chini ya hali ya hewa.",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "Maua ya rangi ya rangi ya rangi ya rangi ya rangi",
+    "Mchakato wa nyama huwa wafu na kufa",
+    "Matangazo ya haraka ya maambukizi yaliyoathirika"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "Mji wa Tomato",
+    "Mapato ya",
+    "Mazao mengine ya Solanaceae"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "Hali ya hewa ya baridi na safi",
+    "Ukosefu wa juu",
+    "Ukosefu wa hewa katika mazao ya dhahabu"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "Mafuriko ya mvua na mafuriko ya spores",
+    "Mchakato wa mbegu au mikono",
+    "Matumizi ya mimea au tuberculosis"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "Mimea ya kupambana na uzalishaji",
+    "Kuondoa na kuharibu barua zilizoathirika",
+    "Kuimarisha usafiri wa hewa kwa kuhifadhi na kuhifadhi sahihi",
+    "Matunda ya Rotate ili kuzuia upungufu wa inoculum"
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "Magonjwa ya fungicide ya tembo",
+    "Mancozeb spray juu ya folia wakati wa kipindi cha mvua"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "Kuepuka upasuaji wa juu",
+    "Kutumia mbolea au mbolea zisizo na magonjwa",
+    "Kuondoa mbegu ya mimea baada ya kukua"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "Mkataba wa Ulinzi wa CABI",
+    "USDA, mwongozo wa usimamizi wa magonjwa ya mimea"
   ]
 }

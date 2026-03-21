@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "Maradhi ya Ndizi Juu ya Ndizi",
+  "dataset_label": "Ndizi_Leaf_Bunchy_Top_Virus",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana bunchy top virus",
+    "type": "Virusi",
+    "name": "Kirusi cha juu cha ndizi",
     "abbreviation": "BBTV",
     "family": "Nanoviridae",
     "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "genome": "DNA ya circular iliyo peke yake (sDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Migomba (Musa pp.)",
     "other_hosts": [
       "Plantain",
       "Abaca"
     ],
     "vector_alternate_hosts": [
       "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "Ufugaji wa tangawizi (Zingieraceae)"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "Majani",
+    "Tishu ya hyloem",
+    "Matunda",
+    "Ukuzi mzima wa mimea"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
-    "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "type": "Wadudu",
+    "name": "Ndizi aphid",
+    "scientific_name": "Phalonia Nigronervosa",
+    "transmission_type": "Uhamaji wa damu isiyo ya kawaida"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "Miale myeusi ya kijani - kibichi kwenye vena za majani",
+      "Majani mafupi na membamba",
+      "Njia ya mawasiliano ya Morse kwenye jani"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "Majani hunyooka na kukusanyika pamoja",
+      "Ullow na klorisisi ya majani",
+      "Ukubwa wa jani lililokatwa"
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "Sehemu ya juu ya mmea huo ina umbo la Bunchy",
+      "Mmea mkali unaopinda - pinda",
+      "Tunda Lililofanyizwa au ambalo halipo"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "Mfupa ukijilisha kwa tishu ya phloem",
+      "Kupanda Wanyonyaji Walioambukizwa",
+      "Harakati za kupanda vitu vilivyoambukizwa"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "Juu Sana",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "Mmea mkali unaopinda - pinda",
+      "Utengenezaji wa matunda uliopunguzwa au kutokuwepo",
+      "Michala ya ndizi isiyo na umbo la yai",
+      "Hasara kubwa za kiuchumi katika utokezaji wa ndizi"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
+    "Kusini - Mashariki mwa Asia",
+    "Filipino",
     "Taiwan",
     "India",
     "Pakistan",
-    "East Asia",
+    "Asia Mashariki",
     "Oceania",
-    "Pacific Islands",
+    "Visiwa vya Pasifiki",
     "Hawaii",
-    "Africa"
+    "Afrika"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "Virusi vya migomba",
+    "Virusi vya ndizi",
+    "Ukosefu wa kula matunda unaosababisha kloriosis"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "Tumia vifaa visivyo na virusi vya kupanda",
+      "Ondoa na kuharibu mimea iliyoambukizwa (kuchoma)",
+      "Epuka kupanda wanyonyaji walioambukizwa"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "Udhibiti wa ndizi ni idadi kubwa sana ya watu waliokonda",
+      "Tumia dawa za kuua wadudu kama vile imidaccoprid au carbaryl",
+      "Monifu kubadilisha mimea iliyopandwa na papa"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "Kanuni kali sana za kutenga na ushirika",
+      "Kuchanganua jinsi ya kupanda vitu vya kimwili",
+      "Utumizi wa mimea ya ukuzaji wa tishu iliyothibitishwa"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "Kuwa na bakteria zenye faida",
+      "Jinsi ndizi zinavyokua"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "Mizinga iliyoambukizwa inapokuzwa",
+    "Kuwapo kwa idadi ya ndizi",
+    "Mazoea mabaya ya kuondoa takataka shambani"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
+    "Shirika la FAO Laripoti",
+    "Virusi vya ICTV",
+    "Upimaji - Ramani wa Mimea",
+    "Vichapo vya Mimea Katika Chuo Kikuu cha Hawaii",
     "Queensland Department of Agriculture"
   ]
 }

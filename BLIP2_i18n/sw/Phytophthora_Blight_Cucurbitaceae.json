@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "Phytophthora Mwisho wa Cucurbits",
+  "scientific_name": "Maisha ya Phytophthora Capsici",
+  "pathogen_type": "Oomycete (kila mwili kama fungus)",
+  "description": "Phytophthora blight ni ugonjwa wa uharibifu wa matunda ya cucurbit iliyoundwa na oomycete Phytophthora capsici. Ni kuvutia mimea, viini, majani na matunda, mara nyingi huathiri uharibifu wa mimea haraka na uharibifu mkubwa wa mimea chini ya hali ya hewa na ya mvua.",
+  "symptoms": [
+    "Mchakato wa kupumzika na mti wa maji kwenye barabara ya ardhi",
+    "Kuanzishwa mara moja ya mimea bila nyama ya kijani",
+    "Uharibifu wa maji juu ya viungo na viungo",
+    "Maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho ya maonyesho",
+    "Chakula ya matunda huanza katika hatua ya kuingiza ardhi",
+    "Uzalishaji wa matunda ya rangi kwenye matunda ya rangi",
+    "Matunda ya haraka ya kuanguka na kuanguka"
+  ],
+  "visual_symptoms": [
+    "Uharibifu wa maji juu ya mti na viini",
+    "Mti wa kijani juu ya matunda ya kukimbia",
+    "Mchakato wa kupumzika, kukumbuka, au meloni",
+    "Mchakato wa mimea na mazao ya mazao ya mimea"
+  ],
+  "hosts": [
+    "ya Cucumber",
+    "ya Pumpkin",
+    "Siku ya Squash",
+    "Mji wa maji",
+    "ya Cantaloupe",
+    "Maua ya meloni",
+    "Mwisho wa",
+    "Pepsi ya",
+    "Mji wa Tomato",
+    "Mipango ya Egg"
+  ],
+  "plant_parts_affected": [
+    "Mji wa",
+    "Roho ya",
+    "Ufalme wa",
+    "Vitu vya",
+    "Makala ya",
+    "Matunda ya"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto (20-30 ° C)",
+    "Miji ya maji ya maji",
+    "Matokeo ya mvua au mafuriko makubwa",
+    "Maeneo yaliyochaguliwa mbaya",
+    "Matumizi ya mara kwa mara"
+  ],
+  "spread": [
+    "Mabadiliko ya maji katika ardhi",
+    "Mchezo wa mvua",
+    "Maji ya Irrigation",
+    "Mafuta ya ardhi na vifaa vya kilimo",
+    "Ukosefu wa mbegu za mimea"
+  ],
+  "disease_cycle": [
+    "Pathogen kuishi katika ardhi kama oospores kwa miaka kadhaa",
+    "Vitu vyote vinavyotengenezwa na Vitu vyote vinavyotengenezwa na Vitu vyote vinavyotengenezwa.",
+    "Zoospores kuvutia katika maji na kuvutia mazao ya mimea",
+    "Vitu vingine vimekuwa vimekuwa vimekuwa vimekuwa vimekuwa vimekuwa vimekuwa vimekuwa"
+  ],
+  "impact": [
+    "Maisha ya matunda na kufa",
+    "Matunda ya matunda katika ardhi au kuhifadhi",
+    "Ugonjwa wa haraka unaongezeka baada ya mvua kubwa",
+    "Kupoteza hadi asilimia 100 katika mateso makubwa"
+  ],
+  "cultural_control": [
+    "Mimea katika maeneo ya kuhifadhi vizuri",
+    "Kuepuka uchafuzi wa mvua",
+    "Kutumia majani ya juu kwa matunda ya cucurbit",
+    "Bidhaa za Rotate na mimea yasiyo ya nyumbani kwa muda wa chini ya miaka 3",
+    "Kuondoa na kuharibu mimea ya kuvutia",
+    "Uhifadhi wa vifaa vya kilimo kabla ya kuhamia kati ya maeneo"
+  ],
+  "chemical_control": [
+    "Matibabu ya mbegu kwa mefenoxam au metalaxyl",
+    "Mafuta ya Foliar ya Dimethomorph",
+    "Magonjwa ya fungicide ya tembo",
+    "Matumizi ya kawaida ya fungicide wakati wa hali ya hewa"
+  ],
+  "prevention": [
+    "Kutumia maeneo safi bila historia ya awali ya magonjwa",
+    "Kuepuka maji ya kuvutia",
+    "Ufuatiliaji wa maeneo baada ya mvua kubwa",
+    "Kuondoa matunda ya kuvutia kwa haraka"
+  ],
+  "source": [
+    "Chuo Kikuu cha Illinois Taasisi ya Afya",
+    "Babadoost M. 2005 Phytophthora mlipuko wa kukumbuka"
+  ]
 }

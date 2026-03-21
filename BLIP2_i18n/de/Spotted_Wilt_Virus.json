@@ -1,0 +1,106 @@
+{
+  "pest_name": "Tomatenflecken Wilt Virus",
+  "abbreviation": "TSWV",
+  "type": "Virus",
+  "family": "TOSPOviridae",
+  "genome": {
+    "type": "Negativ-Sense-RNA",
+    "structure": "kugelförmig, Durchmesser 80-110 nm",
+    "segments": [
+      {
+        "name": "L 347 vom 20.12.2013, S. 671.",
+        "length_kb": 8.9
+      },
+      {
+        "name": "M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S",
+        "length_kb": 2.9,
+        "genes": [
+          "N",
+          "NS"
+        ]
+      }
+    ]
+  },
+  "hosts": {
+    "primary": [
+      "Tomaten",
+      "Tabak",
+      "Kapsicum",
+      "Kopfsalat",
+      "Kartoffeln",
+      "Erdnuss",
+      "Auberginen",
+      "Zwiebel",
+      "verschiedene Zierpflanzen"
+    ],
+    "weeds": [
+      "Sauthistle",
+      "Kaptang",
+      "Dornapfeln",
+      "Pflöcke für Kopfbedeckungen",
+      "Nachtschatten",
+      "Jamaikanische Schlangenalgen"
+    ]
+  },
+  "symptoms": [
+    "Stunting von Pflanzen",
+    "Ringflecken und Mottling auf Blättern und Früchten",
+    "Chlorotische Flecken und Linienmuster auf Blättern",
+    "Blättchenschwefeln und -pfeifen",
+    "Nekrotische Läsionen an Stängeln",
+    "Verzerrte oder nekrotische Früchte"
+  ],
+  "transmission": {
+    "vector": "Trophäen",
+    "vector_species": [
+      "Frankliniella occidentalis (westliche Blütentrauben)",
+      "Frankliniella schwefelea (gelbe Tomaten-Thripse)",
+      "Trips palmi (Melonen-Thrips)",
+      "Thrips tabaci (Zwiebelthrips)"
+    ],
+    "mechanism": [
+      "Erwerb erfolgt nur im Larvenstadium (1. und frühe 2. Instar)",
+      "Virus zirkuliert und vermehrt sich in den Darm- und Speicheldrüsen des Vektors",
+      "Erwachsene Thrips bleiben lebensgefährlich, aber übertragen sie nicht an Nachkommen.",
+      "Die Übertragung kann in 5–10 Minuten der Fütterung erfolgen."
+    ]
+  },
+  "life_cycle": {
+    "thrips_larval_stage": "1–3 Tage",
+    "thrips_adult_lifespan": "20–30 Tage",
+    "TSWV_infection_duration": "lebenslänglich in Vektor als Larve erworben"
+  },
+  "economic_impact": [
+    "Schwerwiegende Verluste bei Gemüse, Feldfrüchten und Zierpflanzen",
+    "Als eines der wirtschaftlich verheerendsten Pflanzenviren weltweit"
+  ],
+  "management": {
+    "prevention": [
+      "Viren- und Thrips-freie Transplantationen verwenden",
+      "Entfernen infizierte Pflanzen und alte Kulturen",
+      "Aufrechterhaltung von unkrautfreien Puffern von mindestens 25 m",
+      "Sanierungspraktiken in Gewächshäusern und Feldern"
+    ],
+    "resistant_varieties": [
+      "Verwendung von TSWV-resistenten Capsicum- und Tomatensorten",
+      "Berücksichtigen Sie resistenzbrechende Stämme und pflegen Sie Hygiene"
+    ],
+    "chemical_control": [
+      "Begrenzter Wert von Insektiziden gegen Vektoren aufgrund einer schnellen Resistenz",
+      "Insektizide können Thrips-Populationen reduzieren, aber keine Virusausbreitung beseitigen."
+    ],
+    "biological_control": [
+      "Prädatoren von Thripsen wie Orius insidiosus (Minute Pirat Bugs) und Geocoris punctipes (Big-eyed Bugs)"
+    ]
+  },
+  "notes": [
+    "Infizierte Pflanzen können nicht geheilt werden",
+    "Virus verbreitet sich nur über Thrips, nicht durch Samen, andere Insekten, Handhabung oder Boden",
+    "TSWV hat ein sehr breites Wirtsgebiet (>900 Arten allein in Australien)",
+    "Andere verwandte Viren wie CaCV, INSV, IYSV"
+  ]
+}

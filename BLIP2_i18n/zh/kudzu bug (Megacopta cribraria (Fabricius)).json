@@ -1,56 +1,56 @@
 {
- "pest": "Kudzu Bug",
- "scientific_name": "Megacopta cribraria",
- "pest_type": "Insect (Hemiptera: Plataspidae)",
- "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
- "symptoms": [
-  "Clusters of small brown shield-shaped insects on stems and leaves",
-  "Yellowing or browning of leaves",
-  "Reduced plant growth and vigor",
-  "Lower pod production in soybean",
-  "Sticky honeydew deposits that may lead to sooty mold"
- ],
- "hosts": [
-  "Soybean",
-  "Kudzu",
-  "Bean",
-  "Cowpea",
-  "Other legume crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Presence of kudzu plants near fields",
-  "Dense vegetation where insects can reproduce"
- ],
- "spread": [
-  "Adult insects flying to new fields",
-  "Movement from kudzu plants to nearby crops",
-  "Overwintering adults emerging in spring"
- ],
- "management": [
-  "Monitor fields regularly for insect clusters",
-  "Remove nearby kudzu plants when possible",
-  "Use resistant or tolerant soybean varieties",
-  "Encourage natural enemies in fields"
- ],
- "biological_control": [
-  "Parasitic wasps such as Paratelenomus saccharalis",
-  "General predators like spiders and lady beetles",
-  "Conservation of beneficial insects"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
-  "Neonicotinoid insecticides such as imidacloprid",
-  "Apply when pest populations reach economic threshold"
- ],
- "prevention": [
-  "Monitor fields early in the season",
-  "Control kudzu near crop fields",
-  "Maintain field sanitation and crop rotation"
- ],
- "source": [
-  "University of Georgia Extension",
-  "USDA Pest Management Guides",
-  "Integrated Pest Management literature"
- ]
+  "pest": "库祖虫",
+  "scientific_name": "巨型巨型克里布里亚",
+  "pest_type": "昆虫(甲虫:Plataspidae)",
+  "description": "一种攻击大豆和其他豆类的吸食性昆虫。 成年人和性器官都靠植物肥料喂食,减少植物生长和产量。 最初来自亚洲,它已成为几个作物地区的重要害虫。",
+  "symptoms": [
+    "树枝和树叶上小棕色屏蔽状昆虫群集",
+    "树叶黄黄或棕色",
+    "减少植物增长和振动",
+    "大豆的低低豆类生产",
+    "可能形成黄状霉菌的粘粘性蜜蜂矿床"
+  ],
+  "hosts": [
+    "豆类",
+    "库祖",
+    "豆豆",
+    "考比亚",
+    "其他豆类作物"
+  ],
+  "favorable_conditions": [
+    "温温温度",
+    "田里附近有kudzu植物",
+    "昆虫繁殖的密集植被"
+  ],
+  "spread": [
+    "成人昆虫飞向新田野",
+    "从kudzu植物转移到附近作物",
+    "春春初出现的成人过冬"
+  ],
+  "management": [
+    "定期监测昆虫群的字段",
+    "在可能的情况下移除附近的 kudzu 植物",
+    "使用耐抗或耐耐性大豆品种",
+    "鼓励野外的自然敌人"
+  ],
+  "biological_control": [
+    "paratelenomus saccharalis等寄生虫",
+    "普通捕食者,如蜘蛛和蜜蜂",
+    "养护有益的昆虫"
+  ],
+  "chemical_control": [
+    "除虫菊酯杀虫剂(例如,bifenthrin、embada-cyhalotrin)",
+    "内皮类杀虫剂,如异丁二烯",
+    "当害虫人口达到经济临界值时应用"
+  ],
+  "prevention": [
+    "季节初监测字段",
+    "在作物田附近控制kudzu",
+    "维持外地环境卫生和作物轮作"
+  ],
+  "source": [
+    "格鲁吉亚大学扩展大学",
+    "AUSDA 虫害防治管理指南",
+    "综合害虫管理文献"
+  ]
 }

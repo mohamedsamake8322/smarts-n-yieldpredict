@@ -1,0 +1,104 @@
+{
+  "virus_name": "Virus del Etch del Tabaco",
+  "abbreviation": "TEV",
+  "family": "Potyviridae",
+  "genus": "Potyvirus",
+  "taxonomy": {
+    "order": "Patatavirales",
+    "virus_group": "Virus del ARN vegetal"
+  },
+  "genome": {
+    "type": "ARN de sentido positivo de una sola cadena",
+    "structure": "monopartito",
+    "particle_shape": "Partícula filamentosa flexua",
+    "length": "aproximadamente 730 nm",
+    "proteins_encoded": 7
+  },
+  "transmission": {
+    "vectors": [
+      "Aphids, incluidas las Myzus persicae",
+      "Aphis gossypii",
+      "Macrosiphum euphorbiae"
+    ],
+    "mode": "transmisión no persistente",
+    "mechanical": true,
+    "seed_transmission": false,
+    "notes": "Los aphids adquieren el virus rápidamente durante la alimentación y pueden transmitirlo en cuestión de minutos."
+  },
+  "hosts": {
+    "cultivated": [
+      "Capsicum annuum",
+      "Capsicum frutescens",
+      "Tomate (Solanum lycopersicum)",
+      "Tabaco (Nicotiana spp.)"
+    ],
+    "wild_hosts": [
+      "Solanum nigrum",
+      "Solanum aculeatissimum",
+      "Album de Chenopodium",
+      "Datura stramonium",
+      "Linaria canadensis",
+      "Physalis spp."
+    ]
+  },
+  "symptoms": [
+    "Despejamiento de vetas en hojas",
+    "Mosaico o moteado patrones",
+    "Rayas necróticas o patrones grabados en las hojas",
+    "Deformación y rizado de las hojas",
+    "Crecimiento de plantas aturdidas",
+    "Reducción del rendimiento y la calidad de los frutos",
+    "Decoloración ocasional de los frutos o lesiones necróticas"
+  ],
+  "disease_cycle": [
+    "El virus sobrevive en plantas de acogida infectadas y malas hierbas",
+    "Los aphids adquieren el virus durante la alimentación de las plantas infectadas",
+    "El virus se transmite a plantas sanas durante la exploración",
+    "La transmisión mecánica puede ocurrir a través de herramientas contaminadas o manipulación"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Patrones necróticos similares a los de las hojas",
+      "Síntomas del mosaico en los cultivos de solanáceas"
+    ],
+    "laboratory_methods": [
+      "Detección ELISA",
+      "Ensayos RT-PCR",
+      "Microscopía electrónica"
+    ],
+    "viral_inclusions": [
+      "Inclusiones cilíndricas en el citoplasma",
+      "Inclusiones nucleares en células infectadas"
+    ]
+  },
+  "molecular_features": {
+    "special_protein": {
+      "name": "Proteasa TEV",
+      "function": "Proteasa altamente específica utilizada ampliamente en biotecnología para cortar proteínas de fusión durante la purificación."
+    }
+  },
+  "management": {
+    "cultural": [
+      "Retire los hospedadores de malas hierbas que sirven como reservorios de virus",
+      "Utilizar materiales de plantación libres de virus",
+      "Implementar rotación de cultivos"
+    ],
+    "vector_control": [
+      "Supervisar las poblaciones de áfidos",
+      "Utilice mantillos reflectantes para repeler los pulgones",
+      "Aplicar insecticidas si la presión del áfido es alta"
+    ],
+    "resistance": [
+      "Use cultivares resistentes o tolerantes cuando estén disponibles"
+    ]
+  },
+  "impact": {
+    "economic": "Puede causar pérdidas significativas de rendimiento en los cultivos de pimienta y tabaco",
+    "agronomic": "Las infecciones graves reducen la calidad de las frutas y el vigor de las plantas"
+  },
+  "references": [
+    "Taxonomía del virus ICTV",
+    "Compendio de la enfermedad vegetal de APS",
+    "Base de datos en línea de virus de plantas"
+  ]
+}

@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "Nématode à nœuds racinaires du sud",
+  "scientific_name": "Méloidogyne incognita",
+  "common_abbreviations": [
+    "RKN",
+    "nématode racinaire du sud",
+    "nématode à racine de coton"
+  ],
+  "description": "La méloidogyne incognita est un ver rond parasitaire qui attaque les racines d'une grande variété de plantes, causant de grandes galles irrégulières. C'est l'un des nématodes les plus communs et les plus importants du point de vue économique.",
+  "distribution": "Largement répandue à l'échelle mondiale, présente dans de nombreux types de sols, principalement des régions tropicales et subtropicales.",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "Extrêmement polyphage, attaquant à la fois les monocotylédons et les dicotylédons; estimé à plus de 3 000 espèces végétales.",
+    "notable_hosts": [
+      "Cassava (Manihot esculenta)",
+      "Coton",
+      "Tomates",
+      "Poivre",
+      "Tabac",
+      "Café"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "Pression d'eau",
+      "Contraintes nutritionnelles",
+      "Jaune",
+      "C'est la fin.",
+      "Étourdissement"
+    ],
+    "below_ground": [
+      "Galles sur les racines, les bulbes et les tubercules",
+      "Mort de plantes lors d'infestations élevées"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "En forme de poire",
+      "posterior_protuberance": "Aucune",
+      "stylet_length": "15-16 μm",
+      "stylet_knobs": "arrondi, décalé",
+      "perineal_pattern": "arc dorsale élevé, ovale à arrondi, striae ondulée, champ latéral absent ou faiblement délimité"
     },
     "male": {
-      "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
+      "shape": "Vermiforme",
+      "head": "Disque labial élevé, non décalé, généralement sans lèvres latérales",
       "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "stylet_knobs": "arrondi à ovale, décalé"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
+      "stage": "Deuxième étape (J2)",
       "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "tail_length": "43-65 μm",
+      "hyaline_region": "6–14 μm de longueur",
+      "shape": "Pointe de la queue arrondie"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "Oeufs",
+      "J1",
+      "J2 (infectieux)",
+      "J3",
+      "J4",
+      "Adulte"
+    ],
+    "description": "J2 juvéniles éclosent des œufs, pénètrent les extrémités des racines, migrent vers les tissus vasculaires, forment des sites d'alimentation permanents (cellules géantes), la mue vers les adultes. Les femelles deviennent globuleuses et pondent des oeufs dans la masse gélatineuse; les mâles quittent les racines.",
+    "reproduction": "Dimorphique sexuelle; femelles sédentaires, mâles vermiformes"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "Peut détecter et se déplacer le long de gradients de température très peu profonds pour trouver des racines",
+    "chemotaxis": "Réceptif aux signaux chimiques provenant des racines de l'hôte"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "Rotation des cultures avec des variétés non hôtes ou résistantes",
+      "Utilisation des amendements organiques",
+      "Cultures antagonistes des plantes comme Crotalaria spectabilis et les espèces de Tagetes"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "Champignons parasites des œufs tels que Paecilomyces lilacinus"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "Plusieurs nématicides disponibles dans le commerce"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "Provoque une forte gallation et une perte de rendement dans de nombreuses cultures",
+    "Importance économique majeure dans l'agriculture tropicale et subtropicale"
   ]
 }

@@ -1,104 +1,92 @@
 {
- "pest": "Weevils (Snout beetles)",
- "scientific_name": "Superfamily Curculionoidea; family Curculionidae",
- "pest_type": "Insect (Coleoptera: Curculionidae)",
- "description": "Weevils are plant-feeding beetles characterized by a long snout (rostrum). Both larvae and adults damage crops by feeding on plant tissues such as leaves, fruits, seeds, stems or roots. Many species are serious pests in agriculture and storage systems.",
- 
- "identification": [
-  "Adults have a long curved snout called a rostrum",
-  "Elbowed antennae ending in a club",
-  "Body robust and usually covered with scales or bristles",
-  "Size typically 5–15 mm (range 1–35 mm)",
-  "Larvae are white, C-shaped grubs without legs"
- ],
-
- "life_cycle": [
-  "Female uses the rostrum to drill holes in plant tissue",
-  "Eggs are laid inside fruits, seeds, stems or roots",
-  "Larvae develop inside plant tissue and feed internally",
-  "Larvae pupate in soil or plant material",
-  "Adults emerge and continue feeding on plants"
- ],
-
- "hosts": [
-  "Rice",
-  "Maize",
-  "Wheat",
-  "Cotton",
-  "Coffee",
-  "Banana",
-  "Citrus",
-  "Apple",
-  "Mango",
-  "Coconut",
-  "Stored grains"
- ],
-
- "symptoms": [
-  "Small holes in leaves, fruits or seeds",
-  "Damaged or hollow seeds and grains",
-  "Premature fruit drop",
-  "Larval tunnels inside stems or fruits",
-  "Stunted plant growth",
-  "Presence of adult beetles with a long snout"
- ],
-
- "favorable_conditions": [
-  "Warm climates",
-  "High humidity",
-  "Fields with plant residues or poor sanitation",
-  "Continuous cropping without rotation"
- ],
-
- "spread": [
-  "Movement of infested seeds or fruits",
-  "Adult beetles flying to new host plants",
-  "Transport of contaminated soil or plant material"
- ],
-
- "economic_importance": [
-  "Major pests of agricultural crops worldwide",
-  "Some species attack stored grains",
-  "Can cause significant yield and quality losses"
- ],
-
- "biological_control": [
-  "Predators such as birds, spiders and predatory beetles",
-  "Parasitic wasps attacking larvae or eggs",
-  "Entomopathogenic fungi such as Beauveria bassiana and Metarhizium anisopliae",
-  "Entomopathogenic nematodes (Steinernema spp., Heterorhabditis spp.)"
- ],
-
- "chemical_control": [
-  "Imidacloprid",
-  "Thiamethoxam",
-  "Lambda-cyhalothrin",
-  "Deltamethrin",
-  "Chlorpyrifos (where permitted)",
-  "Carbaryl"
- ],
-
- "integrated_management": [
-  "Crop rotation to break the life cycle",
-  "Remove and destroy infested fruits or plant residues",
-  "Use pheromone or food traps to monitor adults",
-  "Use resistant or tolerant crop varieties",
-  "Maintain field sanitation",
-  "Apply biological or chemical control when populations exceed thresholds"
- ],
-
- "notable_species": [
-  "Sitophilus oryzae (rice weevil)",
-  "Sitophilus zeamais (maize weevil)",
-  "Anthonomus grandis (cotton boll weevil)",
-  "Rhynchophorus ferrugineus (red palm weevil)",
-  "Cosmopolites sordidus (banana weevil)"
- ],
-
- "sources": [
-  "CABI Crop Protection Compendium",
-  "USDA Agricultural Research Service",
-  "FAO Integrated Pest Management guides",
-  "Triplehorn & Johnson – Borror and DeLong's Introduction to the Study of Insects"
- ]
+  "pest": "Weevils (Snout Beetles için)",
+  "scientific_name": "Süper aile Curculionoidea; aile Curculionidae",
+  "pest_type": "Böcekler (Coleoptera: Curculionidae)",
+  "description": "Her ikisi de larva ve yetişkin bitkileri, yapraklar, meyveler, tohumlar, çamurlar veya kökler gibi bitki dokularına beslenerek zarar verir.",
+  "identification": [
+    "Yetişkinler uzun bir eğriliğe sahiptir, bir rostrum olarak adlandırılır",
+    "Bir kulüpte sona eren anten",
+    "Vücut dayanıklı ve genellikle ölçekler veya fırçalarla kaplıdır",
+    "Büyüklüğü genellikle 5-15 mm (1-35 mm aralığı)",
+    "Larva beyaz, ayaklar olmadan C şeklinde çubuklar"
+  ],
+  "life_cycle": [
+    "Kadınlar bitki dokusundaki delikleri fırlatmak için rostrum kullanır",
+    "Yumurtalar meyvelerin, tohumların, çamurların veya köklerin içine yerleştirilir.",
+    "Larva, bitki dokusunun içinde gelişir ve içeride beslenir.",
+    "Toprak veya bitki malzemelerinde larva pupat",
+    "Yetişkinler ortaya çıkıyor ve bitkilerde beslenmeye devam ediyor"
+  ],
+  "hosts": [
+    "pirinç",
+    "Maize",
+    "Çilek",
+    "Pamuk",
+    "Kahve",
+    "Banana",
+    "Citrüs",
+    "Apple",
+    "Mango",
+    "kokteyl",
+    "depolanan tahıllar"
+  ],
+  "symptoms": [
+    "Yapraklarda, meyvelerde veya tohumlarda küçük delikler",
+    "hasarlı veya boş tohumlar ve tahıllar",
+    "Erken meyve düşüşü",
+    "Tünellerin içindeki çamur ya da meyveler",
+    "Bitki büyümesi bekleniyor",
+    "Uzun bir snout ile yetişkin beetles varlığı"
+  ],
+  "favorable_conditions": [
+    "Sıcak İklim",
+    "Yüksek nem",
+    "Bitki kalıntıları veya kötü sanitasyon alanları",
+    "Rotasyon olmadan sürekli tahıl"
+  ],
+  "spread": [
+    "Enfekte tohumların veya meyvelerin hareketleri",
+    "Yetişkin bitkiler yeni ev sahipliği tesislerine uçuyor",
+    "• Kirlenmiş toprak veya bitki malzemelerinin taşımacılığı"
+  ],
+  "economic_importance": [
+    "Dünya çapında tarım ürünlerinin büyük zararları",
+    "Bazı türler saldırı depolanan tahıllar",
+    "önemli gelir ve kalite kaybına neden olabilir."
+  ],
+  "biological_control": [
+    "Örneğin kuşlar, örümcekler ve öksürücü kuşlar gibi öksürücüler",
+    "Parazitler larvalara veya yumurtaya saldırıyor",
+    "Beauveria bassiana ve Metarhizium anisopliae gibi entomopathogenik mantarlar",
+    "Entomopathogenik nematodlar (Steinernema spp., Heterorhabditis spp.)"
+  ],
+  "chemical_control": [
+    "imidacloprid",
+    "Thiamethoxam",
+    "Lambda-cyhalothrin",
+    "Deltamethrin",
+    "Chlorpyrifos (mümkün olduğunda)",
+    "Karbonat"
+  ],
+  "integrated_management": [
+    "Yaşam döngüsünü kırmak için bitki dönüşü",
+    "Enfekte meyve veya bitki kalıntılarının çıkarılması ve yok edilmesi",
+    "Yetişkinleri izlemek için feromon veya gıda çöpleri kullanın",
+    "dayanıklı veya hoşgörülü bitki çeşitleri kullanın",
+    "alan sanitasyonu sağlamak",
+    "Biyolojik veya kimyasal kontroller uygulanır, nüfus sınırları aştığında"
+  ],
+  "notable_species": [
+    "Sitophilus oryzae (Rice Weevil için)",
+    "Sitophilus zeamais (maize weevil için)",
+    "Anthonomus grandis (Kıvırcık Bolu Weevil)",
+    "Rhynchophorus ferrugineus (kırmızı palm weevil)",
+    "Cosmopolites sordidus (banana veevil)"
+  ],
+  "sources": [
+    "CABI Bitki Koruma Ödülü",
+    "USDA Tarım Araştırma Hizmeti",
+    "FAO Entegre Pest Yönetimi Kılavuzu",
+    "Triplehorn & Johnson - Borror ve DeLong'un Böcek Araştırmasına Giriş"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "disease": "Citrus Kanseri",
-  "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
-  "pathogen_type": "Bakteri",
-  "description": "Citrus kanseri, narenciye bitkilerini etkileyen yüksek derecede bulaşıcı bir bakteriyel hastalıktır. Yapraklarda, gövdede ve meyvelerde lezyonlara yol açar, erken yaprak ve meyve dökülmesine ve meyve kalitesinin düşmesine neden olur. Enfekte meyveler yenilebilir olsa da, görünüşleri nedeniyle pazarlanamaz.",
+  "disease": "Citrus Kanser",
+  "scientific_name": "Xanthomonas citri subsp. citri (Xanthomonas axonopodis pv. citri)",
+  "pathogen_type": "Bakteriler",
+  "description": "Çilek kanseri, çilek bitkileri etkileyen çok bulaşıcı bir bakteriyel hastalıktır. yapraklarda, tahıllarda ve meyvelerde hasara neden olur, erken yaprak ve meyve düşüşüne ve meyve kalitesinin azalmasına neden olur. enfekte meyveler yiyebilir olsa da, görünüşü nedeniyle pazarlanamazlar.",
   "hosts": [
-    "Citrus spp. (portakal, limon, greyfurt, misket limonu)",
-    "Poncirus trifoliata",
-    "Fortunella spp. (kumkuat)",
-    "Severinia spp.",
-    "Swinglea spp."
+    "Citrus spp. (Orange, limon, grapefruit ve limon)",
+    "Poncyrus Trifoliat",
+    "Fortunella spp. (kırışıklık için)",
+    "Severinia spp için.",
+    "Swinglea spp için."
   ],
   "susceptibility": {
     "highly_susceptible": [
-      "Greyfurt",
-      "Navel portakalı",
-      "Erken turunç çeşitleri"
+      "Grapefruit",
+      "Navel portakal",
+      "Erken portakal çeşitleri"
     ],
     "moderately_susceptible": [
-      "Acı portakal",
-      "Limon",
-      "Tatlı portakal"
+      "Sarımsak Portakal",
+      "limon",
+      "tatlı portakal"
     ],
     "more_tolerant": [
-      "Mandalina",
-      "Bazı narenciye hibritleri (ör. Murcott, Valencia)"
+      "Mandarin",
+      "Bazı sitrüs hibritleri (örneğin, Murcott, Valencia)"
     ]
   },
   "symptoms_and_damage": [
-    "Su emmiş kenarlara sahip küçük, kabarık kabarcık benzeri lezyonlar",
-    "Yaprak ve meyvelerde lezyonları çevreleyen sarı halkalar",
-    "Yaprak, gövde ve meyvelerde nekrotik lekeler",
-    "Meyve çatlaması ve deformasyonu",
-    "Erken meyve dökümü",
-    "Şiddetli enfeksiyonlar yaprak dökümüne yol açar"
+    "Küçük yükseltilmiş blister gibi hasarlar, suya dayanıklı marjlarla",
+    "Sarı halozlar, yapraklarda ve meyvelerde yaralanmaların etrafında",
+    "Yapraklarda, çamurlarda ve meyvelerde nekrotik noktalar",
+    "Meyve kırışıklığı ve deformasyon",
+    "Erken meyve düşüşü",
+    "Şiddetli enfeksiyonlar defoliasyona neden olur"
   ],
   "disease_cycle_and_spread": [
-    "Bakteri yaprak, gövde ve meyvelerdeki lezyonlarda hayatta kalır",
-    "Rüzgarla taşınan yağmur ve su sıçramasıyla yayılır",
-    "Uzun mesafe yayılımı çoğunlukla enfekte bitki materyalinin hareketiyle olur",
-    "Böcekler, kuşlar ve hayvanlar yerel yayılmaya katkıda bulunabilir",
-    "Yaprakbiti hasarı, yaralar oluşturarak enfeksiyonu artırır"
+    "Bakteriler yapraklarda, çamurlarda ve meyvelerde hasarlarda hayatta kalır",
+    "Rüzgârdan kaynaklanan yağmur ve su geçirmezliği ile yayılır",
+    "Uzun mesafeli yayılma çoğunlukla enfekte bitki malzemelerinin hareketinden kaynaklanır.",
+    "Böcekler, kuşlar ve hayvanlar yerel yayılmaya katkıda bulunabilir.",
+    "Leafminer hasarı, yaralar yaratarak enfeksiyonu arttırır"
   ],
   "favorable_conditions": [
-    "Sıcak sıcaklıklar (ideal yaklaşık 28–30°C)",
+    "Sıcak sıcaklıklar (optimal yaklaşık 28-30°C)",
     "Yüksek nem",
     "Yağmur ve rüzgar",
-    "Bitki yüzeylerindeki serbest suyun varlığı"
+    "Bitki yüzeylerinde serbest su varlığı"
   ],
   "pathogen_characteristics": [
-    "Gram-negatif çubuk şeklinde bakteri",
-    "Boyut yaklaşık 1–3 mikrometre",
-    "Hareket için tek kutuplu kamçıya sahip",
-    "Kültürde ksantomonadin adı verilen sarı pigment üretir"
+    "Gram-negatif ırk şeklinde bakteriler",
+    "Yaklaşık 1 - 3 mikrometre",
+    "hareket için tek polar flagellum",
+    "Kültürde xanthomonadin adı verilen sarı pigment üretir"
   ],
   "monitoring": [
-    "Yapraklardaki sarı halkalı kabarık lezyonları inceleyin",
-    "Meyvelerde mantar veya çatlak lezyonlar için kontrol edin",
-    "Enfeksiyon kaynakları olabilecek dal lezyonlarını gözlemleyin"
+    "Sarı halos ile yükseltilmiş yaralanmalar için inceleme yaprakları",
+    "Korkunç veya kırık yaralanmalar için meyve kontrolü",
+    "Enfeksiyon kaynağı olarak hizmet edebilecek yırtık hasarları gözlemleyin"
   ],
   "management": [
-    "Sertifikalı hastalıktan arındırılmış dikim materyali kullanın",
-    "Önleyici tedavi olarak bakır bazlı spreyler uygulayın",
-    "Rüzgarla taşınan yağmurun yayılmasını azaltmak için rüzgar kesiciler kurun",
-    "Narenciye yaprakbitlerini kontrol edin",
-    "Bahçeye girerken/çıkarken aletleri, ekipmanı ve giysileri dezenfekte edin",
-    "Hastalık henüz yerleşmemiş alanlarda enfekte ağaçları çıkarın"
+    "Sertifikalı hastalık dışı bitki malzemesi kullanın",
+    "Önleyici tedavi olarak bakır tabanlı sprey uygulayın",
+    "Rüzgarlı yağmurun yayılmasını azaltmak için rüzgarlı fırtınalar kurun",
+    "Citrus Leafminer Popülasyonları Kontrolü",
+    "Aletleri, ekipmanları ve giysilerini içeri girerken veya dışarı çıkırken dezenfekte edin.",
+    "Hastalığın henüz tespit edilmediği bölgelerde enfekte ağaçların kaldırılması"
   ],
   "sources": [
-    "Wikipedia – Citrus Canker",
-    "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
+    "Etiketler: Citrus Canker",
+    "Florida Üniversitesi IFAS Uzantısı – Citrus Araştırma ve Eğitim Merkezi, Lake Alfred, Florida"
   ]
 }

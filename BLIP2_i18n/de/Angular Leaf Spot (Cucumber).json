@@ -1,0 +1,40 @@
+{
+  "title": [
+    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash und Zucchini)",
+    "Pseudomonas syringae pv. lachrymans"
+  ],
+  "Table": {
+    "Prevention": [
+      "Pflanzung von pathogenfreiem Saatgut ist die primäre Kontrollstrategie",
+      "Kontaminiertes Saatgut mit heißem Wasser behandeln, um den Bakteriumspiegel zu reduzieren",
+      "Üben Sie eine dreijährige oder längere Fruchtfolge auf Nichtwirte wie kleine Körner oder Mais",
+      "Vermeiden Sie Overhead-Bewässerung und Wiederverwendung von Bewässerungsschwanzwasser",
+      "Nur in Feldern kultivieren und arbeiten, wenn das Baldachin trocken ist, um die Sekundärausbreitung zu reduzieren",
+      "Pflanzenresistente Gurkensorten, wenn die Krankheit ein wiederkehrendes Problem ist",
+      "Für Winkelblattfleck wurden keine biologischen Kontrollverfahren entwickelt"
+    ],
+    "Monitoring": [
+      "Suchen Sie nach kleinen, wassergetränkten Läsionen auf Blättern, die weitgehend durch große Pflanzenvenen begrenzt sind",
+      "Überprüfen Sie das eckige Aussehen von Läsionen (sie kreuzen keine Pflanzenvenen)",
+      "Suchen Sie nach klaren bis milchigen Exsudate auf der unteren Oberfläche der Läsionen bei feuchtem Wetter",
+      "Achten Sie auf Läsionen, die bräunlich werden und aus dem Blatt fallen (Schußloch-Auftritt)",
+      "Prüfen Sie Früchte für kleine (0,04 bis 0,1 Zoll) wassergetränkte Läsionen mit hellen Tan-Zentren",
+      "Überwachen Sie die Anbauspitzen bei bestimmten Typen für systemische Infektionen, die das Wachstum der Reben stoppen"
+    ],
+    "Direct Control": [
+      "Verwenden Sie auf Kupfer basierende Bakterizide (Champ, Kocide, Nordox, Tri Basic Copper), um den Schweregrad zu reduzieren",
+      "Champ Dry Prill oder Champ Formel 2 mit 1,33 lb/pt pro Hektar anwenden",
+      "Kocide (101, DF, 4.5LF, 3000) zu empfohlenen Preisen anwenden (0,5 bis 3 lbs/pts)",
+      "Nordox bei 1,5-2,0 lb pro Hektar anwenden",
+      "Kupfer/EBDC-Gemische wie Cuprofix MZ Dispergieren bei 4-7,25 lb",
+      "Chemische Kontrollen sind am wirksamsten, wenn sie in solide kulturelle Kontrollpraktiken integriert werden."
+    ],
+    "Restrictions": [
+      "Kupfer-Fungizide: 5-7 Tage Anwendungshäufigkeit; kann zu Pflanzenschäden führen",
+      "Kupfer-Count-N: 7 Tage Anwendungshäufigkeit; kann zu Verletzungen führen",
+      "Cuprofix MZ Disperss: Maximal 63,1 Pfund pro Saison; PHI 5 Tage",
+      "Ein 4 bis 7 Tage Sprühintervall ist notwendig, wenn die Bedingungen sehr günstig sind",
+      "Befolgen Sie stets das Produktetikett für die spezifische Dosierung und den Zeitpunkt der Anwendung."
+    ]
+  }
+}

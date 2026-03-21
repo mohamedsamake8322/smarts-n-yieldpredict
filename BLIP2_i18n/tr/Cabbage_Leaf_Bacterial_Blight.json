@@ -1,86 +1,75 @@
 {
-  "disease": "Cabbage bacterial leaf spot",
-  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
-  "pathogen_type": "Bacterium",
-  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
-  
+  "disease": "Cabbage Bakteriyel Yaprak Noktası",
+  "scientific_name": "Xanthomonas campestris pv. campestris (genellikle brassicas'ta bakteriyel yaprak noktası ve siyah çamur ile ilişkilendirilir)",
+  "pathogen_type": "Bakteriler",
+  "description": "Cabbage bakteriyel yaprak noktası, cabbage yapraklarını etkileyen bir bakteriyel hastalıktır. yaprak üzerinde düzensiz ölü alanları genişleten ve şekillendiren küçük kahverengi noktalara neden olur. şiddetli durumlarda, yapraklar sarı, sarı ve bitkiler zayıf olur.",
   "symptoms": [
-    "Small brown spots on cabbage leaves",
-    "Spots enlarge and join together",
-    "Irregular dead tissue on leaves",
-    "Lesions often limited by leaf veins",
-    "Leaves turn yellow",
-    "Severely infected leaves become rotten",
-    "Plant growth becomes weak"
+    "Cabbage yapraklarında küçük kahverengi noktalar",
+    "Spots genişletmek ve bir araya gelmek",
+    "Yapraklarda düzensiz ölü doku",
+    "Çoğu zaman boğaz damarları ile sınırlı",
+    "Yapraklar sarıya dönüşüyor",
+    "Birçok enfekte yapraklar kırılır",
+    "Bitki büyümesi zayıflıyor"
   ],
-
   "visual_signature": [
-    "small brown leaf spots",
-    "irregular necrotic patches",
-    "yellowing cabbage leaves"
+    "Küçük kahverengi yaprak noktaları",
+    "düzensiz necrotic patches",
+    "Yellow Cabbage yaprakları"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "kale",
-    "mustard greens",
-    "other Brassica crops"
+    "Kabbala",
+    "brokoli",
+    "Cauliflower",
+    "Kalem",
+    "mustard yeşil",
+    "Diğer Brassica Bitkileri"
   ],
-
   "affected_plant_parts": [
-    "leaves"
+    "Sayfalar"
   ],
-
   "favorable_conditions": [
-    "wet conditions",
-    "high humidity",
-    "frequent rainfall",
-    "plant wounds or insect damage",
-    "overhead irrigation"
+    "ıslak koşullar",
+    "Yüksek nem",
+    "sık yağışlar",
+    "Bitki yaraları veya böcek hasarı",
+    "Yüzey Irrigation"
   ],
-
   "spread": [
-    "rain splash",
-    "infected seeds",
-    "contaminated tools",
-    "insects carrying bacteria",
-    "contact between wet plants"
+    "yağmur splash",
+    "Enfekte tohumlar",
+    "kirlenmiş araçlar",
+    "Bakterileri taşıyan böcekler",
+    "ıslak bitkiler arasındaki bağlantı"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plants immediately",
-    "Avoid growing cabbage repeatedly on the same land",
-    "Practice crop rotation for 2–3 years",
-    "Mulch soil to reduce rain splash",
-    "Avoid damaging plants during weeding",
-    "Clean and disinfect tools regularly"
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Enfekte bitkileri hemen çıkarın",
+    "Aynı topraklarda tekrar tekrar köpekbalığı yetiştirmekten kaçının.",
+    "2 - 3 yıl boyunca bitki dönüşü",
+    "Yağmur yağışını azaltmak için mulch toprak",
+    "Yetiştirme sırasında zararlı bitkilerden kaçının",
+    "Temiz ve düzenli olarak dezenfekte etme araçları"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Bacillus subtilis bazlı bio-baktericidler",
+    "Pseudomonas fluorescens biyolojik tedaviler"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate based bactericides"
+    "bakır oksiklorid",
+    "bakır hidroksit",
+    "Bakterit bazlı bakır sülfatı"
   ],
-
   "prevention": [
-    "Use tolerant or resistant cabbage varieties",
-    "Plant healthy seedlings",
-    "Avoid working in fields when plants are wet",
-    "Maintain good field sanitation",
-    "Control insect damage to reduce entry points for bacteria"
+    "toleranslı veya dayanıklı kabak çeşitleri kullanın",
+    "Sağlıklı Bitkiler",
+    "Bitkiler ıslak olduğunda alanlarda çalışmaktan kaçının.",
+    "İyi alan sanitasyonu sağlamak",
+    "Böcek hasarını kontrol etmek bakterilerin giriş noktalarını azaltmak için"
   ],
-
   "source": [
-    "FAO Plant Protection Guides",
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications"
+    "FAO Bitki Koruma Kılavuzu",
+    "CABI Bitki Koruma Ödülü",
+    "Bitki Patolojisi Uzantısı Yayınları"
   ]
 }

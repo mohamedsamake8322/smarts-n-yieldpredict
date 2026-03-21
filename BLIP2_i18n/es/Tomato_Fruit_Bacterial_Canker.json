@@ -1,0 +1,81 @@
+{
+  "disease_name": "Canker bacteriano de frutas de tomate",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "type": "patógeno bacteriano",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pimienta (Capsicum spp.)",
+      "Berenjena (Solanum melongena L.)"
+    ],
+    "weeds": [
+      "Sombra nocturna perenne (Solanum douglasii)",
+      "Sombra negra (S. nigrum)",
+      "S. triflorum"
+    ]
+  },
+  "distribution": "En todo el mundo; especialmente problemático en el invernadero y los tomates cultivados en el campo",
+  "symptoms": {
+    "seedlings": [
+      "No hay síntomas en la mayoría de los casos",
+      "Las plantas jóvenes pueden mostrar un crecimiento pobre o un marchitamiento temporal de la rama"
+    ],
+    "mature_plants_systemic": [
+      "Curva, amarillento, marchitamiento y dorado (archivo) de las hojuelas más antiguas",
+      "Crecimiento aturdido y marchitamiento general de las plantas",
+      "Pita de color amarillo a marrón rojizo con aspecto hariáceo",
+      "Rachas de tallo, rotura de ramas y posible muerte de plantas"
+    ],
+    "mature_plants_secondary": [
+      "Lesiones de color marrón oscuro a casi negro en los márgenes de las hojas",
+      "Manchado de hojas redondo o irregular",
+      "Fruto: manchas elevadas de color amarillo a marrón con halo blanco persistente (puntos de los ojos de pájaro), ~3 mm de diámetro",
+      "El tejido vascular bajo el cáliz puede decolorarse, afectando a las semillas"
+    ]
+  },
+  "disease_cycle": {
+    "introduction": "A través de semillas o trasplantes infectados",
+    "overwintering": "Hasta 3 años en residuos vegetales; en malas hierbas; en materiales de efecto invernadero (bancas, estacas, pisos)",
+    "spread": [
+      "Lluvia de viento y riego por aspersores",
+      "Cultivo mecánico y recolección a mano",
+      "Salpicadura de riego por encima de las plantas infectadas",
+      "Contacto directo con plantas o equipos infectados"
+    ],
+    "entry": "Las bacterias entran en plántulas a través de pequeñas heridas en cotiledones y se mueven sistémicamente a través del xilemo"
+  },
+  "management": {
+    "prevention": [
+      "Utilizar semillas y trasplantes libres de enfermedades",
+      "Trasplantes limpios certificados por la planta",
+      "Supervisión estricta de los campos de semillas; desechar lotes contaminados",
+      "Remojar las semillas en agua de 130 °F durante 25 minutos"
+    ],
+    "greenhouse_measures": [
+      "Mezcla de vapor de vapor y planos",
+      "Desinfectar bancos, pisos y mangueras de riego",
+      "Invernaderos vacíos entre cultivos"
+    ],
+    "field_measures": [
+      "Evite trabajar cuando el follaje está mojado",
+      "Incorporar todo el tejido vegetal al final de la temporada",
+      "Rotar los campos de tomate durante al menos un año",
+      "Control de malas hierbas relacionadas alrededor de los campos"
+    ],
+    "chemical_control": [
+      "Las aplicaciones de cobre repetidas pueden reducir la propagación de la enfermedad, pero no son totalmente confiables",
+      "Desinfectantes de superficie: lejía (0,5–1% de calcio o hipoclorito de sodio), Physan, etc."
+    ]
+  },
+  "notes": [
+    "Las pérdidas económicas en los campos de semillas directas suelen ser poco frecuentes",
+    "La contaminación de semillas con muy pocas bacterias puede llevar a una infección de invernadero significativa",
+    "Las infecciones sistémicas no pueden curarse con bactericidas; se centra en la prevención y el saneamiento"
+  ],
+  "references": [
+    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
+    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+  ]
+}

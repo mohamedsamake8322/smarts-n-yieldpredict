@@ -1,62 +1,62 @@
 {
-  "disease": "Banana Leaf Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "pathogen_type": "Fungus",
-  "common_name": "Anthracnose of Banana",
-  "host_plant": "Banana (Musa spp.)",
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "DakataCoptic month 8 - LongNamePossessive",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "common_name": "KCharselect unicode block name",
+  "host_plant": "Wata ' yar'uwa mai suna Raka (ana duba hoton da ke wannan talifin.)",
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Fruit (in advanced infection)"
+    "QDialogButtonBox",
+    "DakataCoptic weekday 5 - LongDayName",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa."
   ],
-  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "description": "Wata cuta mai ban dariya ce da ke sa ta yi ban dariya kuma tana sa ta yi girma har sai ta yi yaushi.",
   "symptoms": [
-    "Small dark brown to black spots on leaves",
-    "Irregular necrotic lesions with defined margins",
-    "Yellow halo around lesions in some cases",
-    "Expansion of lesions leading to leaf blight",
-    "Premature defoliation in severe infections",
-    "Reduced plant vigor and growth"
+    "QXml",
+    "KCharselect unicode block name",
+    "Za ku iya zuwa inda za ku je a wasu lokatai.",
+    "Abubuwan da Ke Kawo Farin Ciki a Iyali - Yadda Za Mu Iya Sa Ni Farin Ciki",
+    "KCharselect unicode block name",
+    "Sa'ad da ake samun ƙarfi da kuma girma"
   ],
   "disease_cycle": [
-    "The fungus survives in infected plant debris or soil.",
-    "Spores (conidia) are produced in structures called acervuli on infected tissues.",
-    "Conidia spread through rain splash, wind, insects, or contaminated tools.",
-    "Spores germinate on leaf surfaces under humid conditions.",
-    "The pathogen penetrates tissues using an appressorium and colonizes plant cells."
+    "Waɗanda suke yin dariya suna tsira ne a shuka ko kuma a ƙasa.",
+    "Ana kiran masu aikata laifi a wasu hanyoyin magani da ke cike da cututtuka masu tsanani.",
+    "Tarin ruwan sama ko iska ko iska ko kuma kayan aiki.",
+    "A lokacin da yanayi yake daɗa muni, ba zai kasance da sauƙi ba.",
+    "Hanyar da ake bi ta wajen yin amfani da na'urar da ke ɗauke da ƙwayoyin ƙwayoyin halitta da kuma ƙwayoyin halitta."
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperatures (approximately 25–30°C)",
-    "Frequent rainfall",
-    "Dense canopy with poor air circulation"
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Rain splash and irrigation water",
-    "Infected plant residues",
-    "Contaminated tools or handling"
+    "@ item Text character set",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Sao'i Masu Ban Al'ajabi",
+    "Wuraren Mahaɗar Sadarwa"
   ],
   "management": {
     "cultural_control": [
-      "Remove and destroy infected leaves and plant debris",
-      "Improve air circulation in plantations",
-      "Use disease-free planting material",
-      "Maintain field sanitation"
+      "Sa'an nan Ya daidaita su, kuma Ya hũra a cikinsa, daga ruhinSa kuma Ya sanya muku ji, da ganunuwa da zukãta.",
+      "Media controller element",
+      "Yi Amfani da lafiyar jiki",
+      "Ka Kasance da Ra'ayin da ya Dace"
     ],
     "biological_control": [
-      "Use of antagonistic fungi such as Trichoderma spp.",
-      "Application of beneficial microbial biocontrol agents"
+      "Ku yi amfani da irin waɗannan hanyoyin don ku ji daɗin yin amfani da su.",
+      "Mai Gabatar da Shirin Ayuka..."
     ],
     "chemical_control": [
-      "Fungicides such as carbendazim, mancozeb or thiophanate-methyl",
-      "Apply according to recommended agricultural guidelines"
+      "' Yan sanda kamar bama - bamai, mutum mai suna ebci ko kuma mai ba da tsoro",
+      "Ka yi amfani da shawarar da ke cikin Littafi Mai Tsarki"
     ]
   },
-  "economic_impact": "Anthracnose can reduce plant vigor and contribute to yield losses and fruit quality reduction in banana plantations.",
+  "economic_impact": "Idan mutum ya yi hasarar ' ya'yan itacen da ba shi da amfani sosai, zai iya rage ƙarfin jiki kuma ya sa ya yi hasarar ' ya'yan itace.",
   "sources": [
-    "Plant pathology literature on Colletotrichum musae",
-    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
-    "Plant disease management guides and Plantwise resources"
+    "Wata hanya da ba ta dace ba ta ba da littattafai game da rayuwar jin daɗi",
+    "@ item Text character set",
+    "Rashin lafiya yana ja - gorar kuma ba za a iya samun dukiya mai kyau ba"
   ]
 }

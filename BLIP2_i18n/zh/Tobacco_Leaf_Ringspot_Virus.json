@@ -1,100 +1,100 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
-  "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "virus_name": "烟草环斑病毒",
+  "abbreviation": "TRSV TRSV 战略战略战略",
+  "family": "食环",
+  "genus": "Nepo病毒",
   "taxonomy": {
-    "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "皮尔科纳维拉亚",
+    "virus_group": "RNA植物病毒"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "单冲正感单冲RNA",
+    "structure": "二巴基因组(RNA1和RNA2)",
+    "particle_shape": "等度",
+    "particle_size": "直径约28纳米"
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
-      "grasshoppers",
-      "flea beetles"
+      "线虫( Xiphinema spp.)",
+      "树脂",
+      "闪石",
+      "",
+      "跳蚤甲虫"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "在蜜蜂体内检测到病毒,但蜜蜂向植物的传播尚未得到证实。"
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
-      "Peanut",
-      "Potato",
-      "Lettuce"
+      "烟草(Nicotiana pp.)",
+      "豆类",
+      "番茄",
+      "花生",
+      "马铃薯",
+      "发生"
     ],
     "ornamental_plants": [
-      "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "扎米亚furfuracea",
+      "菊花",
+      "佩蒂娜"
     ],
     "weed_hosts": [
-      "Chenopodium spp.",
-      "Amaranthus spp.",
-      "Solanum nigrum"
+      "",
+      "阿玛兰特胡斯·施普",
+      "索拉努姆尼格里姆"
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "叶叶上的氯环斑",
+    "随着疾病的发展 死细胞环斑点",
+    "叶片变形和变形",
+    "受感染植物的快速增长",
+    "减产和植物振动"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "病毒通过线虫病媒在受感染的植物、种子和土壤中生存。",
+    "线虫在喂食受感染的根根的同时获取病毒",
+    "病媒在喂养期间向健康植物传播病毒",
+    "种植期间可能发生机械传播"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "树叶上的特有环斑点",
+      "损伤周围的氯化和坏死"
     ],
     "laboratory_methods": [
-      "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "埃利沙",
+      "基于PCR的诊断",
+      "电子显微镜"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "真空内含(Vac Inc)",
+      "晶体包括(晶体公司)"
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "可能导致大豆、花生和烟草作物产量严重减少",
+    "agronomic": "受感染的植物可能出现增长差和生产力降低的情况"
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "使用经核证的无病毒种子",
+      "及早移除受感染的植物",
+      "非宿主物种旋转作物"
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "土壤中的受控线虫群",
+      "监测和管理昆虫矢量"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "消感染工具和设备",
+      "避免各工厂之间的机械传输"
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "APPS 植物疾病手册",
+    "ICTV 病毒分类",
+    "NCCI 病毒数据库"
   ]
 }

@@ -1,0 +1,76 @@
+{
+  "disease": "Frutas de plátano Antracnosa",
+  "scientific_name": "Colletotrichum musae",
+  "other_name": "Gloeosporium musarum",
+  "pathogen_type": "Hongos",
+  "description": "La antracnosis del banano es una enfermedad fúngica importante que afecta a los frutos del banano tanto antes como después de la cosecha. Es causada principalmente por el hongo Colletotrichum musae. La enfermedad produce lesiones oscuras hundidas en los frutos que se expanden durante la maduración y pueden causar graves pérdidas poscosecha durante el almacenamiento y transporte.",
+  "affected_parts": [
+    "Frutas",
+    "Peel",
+    "Partes de flores (corona)",
+    "Hojas y brotes en infecciones graves"
+  ],
+  "symptoms": [
+    "Lesiones oscuras hundidas en la superficie de la fruta de plátano",
+    "Las lesiones se agrandan y se convierten en negro o marrón oscuro durante la maduración",
+    "Masas de esporas naranjas (acervuli) aparecen en lesiones maduras",
+    "Necrosis de la podredumbre de las frutas y de la piel",
+    "Hoja de la plaga y disparar muerte en casos graves",
+    "Caída prematura de la hoja y reducción del rendimiento"
+  ],
+  "disease_cycle": [
+    "Los hongos infectan los frutos inmaduros del plátano en el campo",
+    "Las esporas germinan y forman appressoria para penetrar el tejido vegetal",
+    "La infección permanece latente (estadio aquiescente) en frutos inmaduros",
+    "Los síntomas se desarrollan cuando los frutos maduran después de la cosecha",
+    "Las esporas se propagan a través de salpicaduras de lluvia, viento, herramientas y material vegetal infectado"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas entre 22–32°C",
+    "Alta humedad por encima del 90%",
+    "Temporadas lluviosas o monzónicas",
+    "Mala circulación del aire en las plantaciones"
+  ],
+  "spread": [
+    "Esporas fúngicas dispersas por el viento y la lluvia",
+    "Desechos de plantas infectados",
+    "Manipulación durante la cosecha y el transporte",
+    "Herramientas o superficies de almacenamiento contaminadas"
+  ],
+  "field_and_postharvest_damage": [
+    "Frutas podridas durante la maduración",
+    "Rotura de la corona en racimos de plátano cosechados",
+    "Reducción de la calidad y el valor de mercado de las frutas",
+    "Pérdidas significativas posteriores a la cosecha"
+  ],
+  "chemical_control": [
+    "Difenconazol 25% CE (CONCOR): 120–150 ml por acre",
+    "Carbendazima 12% + Mancozeb 63% WP (Samartha): 300–400 g por acre",
+    "Tiofanato Metil 70% WP (KTM): 250–600 g por acre",
+    "Mancozeb 75% WP (K ZEB): 500 g por acre",
+    "Todos en uno fungicida: 1,5–2 g por litro"
+  ],
+  "biological_control": [
+    "Uso de antagonistas biológicos como la especie Trichoderma",
+    "Extractos de plantas naturales y agentes de biocontrol microbianos",
+    "Estrategias integradas de gestión de enfermedades que combinan agentes biológicos y prácticas culturales"
+  ],
+  "cultural_management": [
+    "Mantener una buena higiene de las plantaciones y eliminar los desechos vegetales infectados",
+    "Garantizar una buena circulación del aire en las plantaciones de banano",
+    "Evitar la humedad excesiva en el almacenamiento",
+    "Cosecha los frutos cuidadosamente para evitar heridas",
+    "Utilizar material de plantación libre de enfermedades"
+  ],
+  "prevention": [
+    "Seleccione variedades de plátano resistentes cuando estén disponibles",
+    "Aplicar estrategias integradas de gestión de enfermedades",
+    "Supervisar los frutos durante las etapas pre-cosecha y post-cosecha",
+    "Mantener condiciones de almacenamiento y transporte limpias"
+  ],
+  "sources": [
+    "Investigación de patología vegetal en Colletotrichum musae",
+    "Publicaciones de extensión agrícola sobre las enfermedades del banano",
+    "Literatura científica sobre la gestión de la antracnosis"
+  ]
+}

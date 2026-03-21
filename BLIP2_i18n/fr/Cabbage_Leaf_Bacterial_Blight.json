@@ -1,86 +1,75 @@
 {
-  "disease": "Cabbage bacterial leaf spot",
-  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
-  "pathogen_type": "Bacterium",
-  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
-  
+  "disease": "Spot bactérien de feuille de chou",
+  "scientific_name": "Xanthomonas campestris pv. campestris (communément associé à la tache bactérienne des feuilles et à la pourriture noire dans les brassicas)",
+  "pathogen_type": "Bactérie",
+  "description": "La tache bactérienne de feuilles de chou est une maladie bactérienne qui affecte les feuilles de chou. Elle provoque de petites taches brunes qui se développent et forment des zones mortes irrégulières sur la feuille. Dans les cas graves, les feuilles deviennent jaunes, pourrissent et les plantes deviennent faibles.",
   "symptoms": [
-    "Small brown spots on cabbage leaves",
-    "Spots enlarge and join together",
-    "Irregular dead tissue on leaves",
-    "Lesions often limited by leaf veins",
-    "Leaves turn yellow",
-    "Severely infected leaves become rotten",
-    "Plant growth becomes weak"
+    "Petites taches brunes sur les feuilles de chou",
+    "Les taches s'élargissent et s'unissent",
+    "Tissus morts irréguliers sur les feuilles",
+    "Lésions souvent limitées par les nervures des feuilles",
+    "Feuilles jaunes",
+    "Les feuilles gravement infectées deviennent pourries",
+    "La croissance des plantes devient faible"
   ],
-
   "visual_signature": [
-    "small brown leaf spots",
-    "irregular necrotic patches",
-    "yellowing cabbage leaves"
+    "petites taches de feuilles brunes",
+    "dispositifs nécrotiques irréguliers",
+    "feuilles de chou jaunissant"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
+    "Choux",
+    "brocoli",
+    "chou-fleur",
     "kale",
-    "mustard greens",
-    "other Brassica crops"
+    "Verts moutardes",
+    "Autres cultures de Brassica"
   ],
-
   "affected_plant_parts": [
-    "leaves"
+    "feuilles"
   ],
-
   "favorable_conditions": [
-    "wet conditions",
-    "high humidity",
-    "frequent rainfall",
-    "plant wounds or insect damage",
-    "overhead irrigation"
+    "conditions humides",
+    "humidité élevée",
+    "pluies fréquentes",
+    "Blessures de plantes ou dommages causés par des insectes",
+    "irrigation aérienne"
   ],
-
   "spread": [
-    "rain splash",
-    "infected seeds",
-    "contaminated tools",
-    "insects carrying bacteria",
-    "contact between wet plants"
+    "éclaboussure de pluie",
+    "graines infectées",
+    "outils contaminés",
+    "insectes porteurs de bactéries",
+    "contact entre les plantes humides"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plants immediately",
-    "Avoid growing cabbage repeatedly on the same land",
-    "Practice crop rotation for 2–3 years",
-    "Mulch soil to reduce rain splash",
-    "Avoid damaging plants during weeding",
-    "Clean and disinfect tools regularly"
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Enlever immédiatement les plantes infectées",
+    "Évitez de cultiver du chou à plusieurs reprises sur la même terre",
+    "Pratiquer la rotation des cultures pendant 2 à 3 ans",
+    "Mulch sol pour réduire les éclaboussures de pluie",
+    "Éviter d'endommager les plantes pendant le désherbage",
+    "Nettoyer et désinfecter régulièrement les outils"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Biobactéricides à base de Bacillus subtilis",
+    "Pseudomonas fluorescens traitements biologiques"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate based bactericides"
+    "Oxychlorure de cuivre",
+    "Hydroxyde de cuivre",
+    "Bactéricides à base de sulfate de cuivre"
   ],
-
   "prevention": [
-    "Use tolerant or resistant cabbage varieties",
-    "Plant healthy seedlings",
-    "Avoid working in fields when plants are wet",
-    "Maintain good field sanitation",
-    "Control insect damage to reduce entry points for bacteria"
+    "Utiliser des variétés de chou tolérantes ou résistantes",
+    "Plantes en bonne santé",
+    "Évitez de travailler dans les champs lorsque les plantes sont mouillées",
+    "Maintenir de bonnes conditions d ' assainissement sur le terrain",
+    "Contrôler les dommages causés aux insectes pour réduire les points d'entrée des bactéries"
   ],
-
   "source": [
-    "FAO Plant Protection Guides",
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications"
+    "Guides de la FAO pour la protection des végétaux",
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Élargissement de la pathologie végétale Publications"
   ]
 }

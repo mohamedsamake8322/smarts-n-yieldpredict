@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "disease": "مصباح متأخر (Leaf)",
+  "scientific_name": "Vhitopthor contas",
+  "pathogen_type": "أورمياستيت (تشبه بالفونغال)",
+  "description": "مرض مدمِّر من اوراق البطاطا والطماطم ، مسببا بقع بنيّة مظلمة وموتا سريعا في الاوراق ، ويمكن ان يدمر المحاصيل بسرعة في ظل ظروف رطبة .",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "ظلم إلى أسود بُقع",
+    "الحواف المائلة إلى أن تصبح شاحاً وماتت",
+    "سرعة معالجة الأوراق المُصابة"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "طاطاطاطاط",
+    "",
+    "المحاصيل الأخرى Solalasacea"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "الطقس البارد والرطب",
+    "الرطوبة العالية",
+    "سوء الحركة الجوية في المزارع المزكية"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "الرياح والرياح وتساقط الأمطار مِن بُعْث",
+    "الأدوات أو الأيادي الملوثة",
+    "الشتلات أو الصنابير المصابة"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "المقاومات",
+    "(أ) إزالة وتدمير ما يلي:",
+    "تحسين التداول الجوي مع المباعة والقص السليم",
+    "دوران المحاصيل منعاً للتراكم"
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "مبيدات الفطريات القائمة على أساس النحاس",
+    "رش لرشاشات الرطوبة على الورق خلال فترات الرطوبة"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "",
+    "استخدام بذور أو أسابير خالية من الأمراض المعتمدة",
+    "(أ) يزيل حطم المنشأة بعد الحصاد"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "مجموعة حماية المُنتَجَب",
+    "دليل إدارة الأمراض النباتية"
   ]
 }

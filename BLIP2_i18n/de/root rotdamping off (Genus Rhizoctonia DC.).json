@@ -1,0 +1,90 @@
+{
+  "disease": "Rhizoctonia Root Rot und Damping-off",
+  "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
+  "pathogen_type": "Pilze",
+  "description": "Rhizoctonia Wurzelfäule und Dämpfungs-off ist eine häufige Boden übertragene Pilzkrankheit, die Samen, Sämlinge und Pflanzenwurzeln angreift. Es verursacht Stammläsionen in der Nähe der Bodenlinie, Wurzelfäule und der Zusammenbruch der jungen Pflanzen.",
+  "symptoms": [
+    "Sämlinge kollabieren an der Bodenlinie",
+    "Braune oder rötliche Läsionen an Stielen in der Nähe der Bodenoberfläche",
+    "Wurzelfäule und schlechte Wurzelentwicklung",
+    "Wilting und verkümmertes Pflanzenwachstum",
+    "Unregelmäßige Flecken von toten oder schwachen Pflanzen auf dem Feld",
+    "Stängel, die zum Pflanzentod führen"
+  ],
+  "visual_symptoms": [
+    "braune versunkene Läsionen an der Bodenlinie",
+    "Setzlinge fallen über",
+    "verrottete oder schlecht entwickelte Wurzeln",
+    "Pflaster von toten Sämlingen"
+  ],
+  "hosts": [
+    "Bohnen",
+    "Sojabohnen",
+    "Mais",
+    "Reis",
+    "Kartoffeln",
+    "Tomaten",
+    "Kopfsalat",
+    "Kohl",
+    "Karotten",
+    "Pfeffer",
+    "Baumwolle",
+    "Viele Gemüse- und Feldkulturen"
+  ],
+  "plant_parts_affected": [
+    "Wurzeln",
+    "Sämlinge",
+    "unterer Stamm",
+    "Hypocotyl"
+  ],
+  "favorable_conditions": [
+    "Warmer und feuchter Boden",
+    "Schlecht entwässerte Böden",
+    "Hohe Pflanzendichte",
+    "Verdichteter Boden",
+    "Pflanzliche Rückstände im Boden"
+  ],
+  "spread": [
+    "Kontaminierter Boden",
+    "Infizierte Pflanzenabfälle",
+    "Bewegung des Bodens auf Werkzeugen oder Maschinen",
+    "Infizierte Sämlinge oder Transplantate"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt in Boden- und Pflanzenresten",
+    "Es infiziert Samen oder junge Sämlinge",
+    "Läsionen entwickeln sich an Stängeln und Wurzeln",
+    "Der Erreger breitet sich durch Bodenkontakt aus"
+  ],
+  "impact": [
+    "Schlechte Keimung von Saatgut",
+    "Verlust von Sämlingen",
+    "Verringerte Pflanzenpopulation",
+    "Niedrigere Ernteerträge"
+  ],
+  "cultural_control": [
+    "Gut durchlässige Böden verwenden",
+    "Vermeiden Sie die Pflanzung in kalten oder sehr nassen Böden",
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Verringerung der Pflanzendichte",
+    "Entfernen infizierten Pflanzenmüll"
+  ],
+  "biological_control": [
+    "Benutze wohltuende Pilze wie Trichoderma-Arten",
+    "Benutze nützliche Bakterien wie Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Saatgutbehandlung Fungizide",
+    "Bei Bedarf Bodenfungizide"
+  ],
+  "prevention": [
+    "Verwendung zertifizierter gesunder Samen",
+    "Verbesserung der Bodenentwässerung",
+    "Vermeiden Sie übermäßige Bewässerung",
+    "Praxis Fruchtfolge"
+  ],
+  "source": [
+    "Fundstellen der Pflanzenpathologie",
+    "Leitfaden für den Umgang mit landwirtschaftlichen Krankheiten"
+  ]
+}

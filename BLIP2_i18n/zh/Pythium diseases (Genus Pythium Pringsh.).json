@@ -1,90 +1,90 @@
 {
- "disease": "Pythium Damping-off",
- "scientific_name": "Genus Pythium",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Pythium species are soilborne pathogens that cause damping-off and root rot in many crops. The disease mainly attacks seedlings, causing soft watery rot near the soil line that leads to plant collapse and death.",
- "symptoms": [
-  "Irregular patches of wilted or yellow plants in seedbeds",
-  "Soft brown watery rot at the base of stems",
-  "Seedlings falling over at the soil line",
-  "Stunted growth of young plants",
-  "Yellowing of older plants due to root damage",
-  "Stem rot in newly transplanted plants"
- ],
- "visual_symptoms": [
-  "seedlings collapsed at soil surface",
-  "soft brown water-soaked stem base",
-  "patches of dead or stunted seedlings"
- ],
- "hosts": [
-  "Tobacco",
-  "Vegetable seedlings",
-  "Cucumber",
-  "Tomato",
-  "Pepper",
-  "Lettuce",
-  "Beans",
-  "Many nursery crops"
- ],
- "host_specific_example": {
-  "crop": "Burley tobacco",
-  "scientific_name": "Nicotiana tabacum (burley type)"
- },
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "lower stem",
-  "hypocotyl"
- ],
- "image_type": "Field",
- "favorable_conditions": [
-  "Wet or poorly drained soil",
-  "High soil moisture",
-  "Cool to moderate temperatures",
-  "Dense seedbeds with poor air circulation",
-  "Excessive irrigation"
- ],
- "spread": [
-  "Contaminated soil",
-  "Irrigation water",
-  "Infected plant debris",
-  "Contaminated tools or trays in nurseries"
- ],
- "disease_cycle": [
-  "Pythium survives in soil as spores or mycelium",
-  "Spores germinate in wet soil conditions",
-  "Pathogen infects seeds or young seedlings",
-  "Infected tissues produce more spores that spread through water"
- ],
- "impact": [
-  "Loss of seedlings in nurseries",
-  "Poor crop establishment",
-  "Reduced plant population",
-  "Yield reduction due to weak plant stands"
- ],
- "cultural_control": [
-  "Use well-drained seedbeds",
-  "Avoid overwatering",
-  "Improve air circulation in nurseries",
-  "Use sterile soil or seedling substrate",
-  "Reduce planting density"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment with fungicides such as metalaxyl or mefenoxam",
-  "Soil drenches with appropriate fungicides in nurseries"
- ],
- "prevention": [
-  "Use certified disease-free seeds",
-  "Sterilize nursery trays and tools",
-  "Avoid excessive irrigation",
-  "Rotate crops when possible"
- ],
- "source": [
-  "Plant pathology references on Pythium damping-off",
-  "Agricultural disease management guides"
- ]
+  "disease": "-- -- 拆卸",
+  "scientific_name": "Genus",
+  "pathogen_type": "Oomycete(类似蘑菇的有机体)",
+  "description": "是土壤传播的病原体,在许多作物中造成堤坝断裂和根根腐烂,该病主要是攻击幼苗,在土壤线附近造成软水腐烂,导致植物倒塌和死亡。",
+  "symptoms": [
+    "树苗床中的废弃或黄色植物的不正常草块",
+    "柔软的棕色水在根底腐烂",
+    "土壤线上坠落的苗苗",
+    "年轻植物生长迟缓",
+    "因根根损伤而变黄的老旧工厂",
+    "新移植植物中的毒臭腐烂"
+  ],
+  "visual_symptoms": [
+    "树苗在土壤表面倒塌",
+    "软褐色含水浸水干基",
+    "死幼苗或发育迟缓幼苗"
+  ],
+  "hosts": [
+    "烟草",
+    "蔬菜树苗",
+    "黄瓜",
+    "番茄",
+    "辣椒",
+    "发生",
+    "豆豆",
+    "许多苗圃作物"
+  ],
+  "host_specific_example": {
+    "crop": "Burley烟草",
+    "scientific_name": "尼可迪亚纳塔布(布料型)"
+  },
+  "plant_parts_affected": [
+    "幼苗",
+    "根根",
+    "下干",
+    "亚二氯基"
+  ],
+  "image_type": "外地",
+  "favorable_conditions": [
+    "湿土壤或排水不良的土壤",
+    "高土壤湿度",
+    "冷至中温温度",
+    "空气循环不良的密集种子床",
+    "过度灌溉"
+  ],
+  "spread": [
+    "受污染土壤",
+    "灌溉用水",
+    "受感染植物碎片",
+    "托儿所中受污染的工具或托盘"
+  ],
+  "disease_cycle": [
+    "作为或在土壤中生存。",
+    "在湿土壤条件下发芽",
+    "感染种子或幼苗的病原原体",
+    "感染组织产生更多通过水传播的微粒"
+  ],
+  "impact": [
+    "苗圃苗苗苗苗幼苗损失",
+    "贫穷的作物种植地",
+    "减少植物人口",
+    "由于厂房变弱而减少产量"
+  ],
+  "cultural_control": [
+    "使用充分排灌的种子床",
+    "避免过水",
+    "改善托儿所的空气流通",
+    "使用不育土壤或幼苗基质",
+    "降低种植密度"
+  ],
+  "biological_control": [
+    "使用有益的真菌,如三头菌种。",
+    "使用有益的细菌,如巴奇勒斯亚地基菌"
+  ],
+  "chemical_control": [
+    "种子处理杀真菌剂,如金属氧基或甲基苯氧辛烷磺酰胺",
+    "在苗圃中采用适当杀真菌剂的土壤槽"
+  ],
+  "prevention": [
+    "使用经核证的无疾病的种子",
+    "绝育育婴托盘和工具",
+    "避免过度灌溉",
+    "在可能的情况下旋转作物"
+  ],
+  "source": [
+    "Pythium 坝建-关闭的植物病理学参考文献",
+    "农业疾病管理指南"
+  ]
 }

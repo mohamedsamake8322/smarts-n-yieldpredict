@@ -1,62 +1,62 @@
 {
-  "disease": "Banana Leaf Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "pathogen_type": "Fungus",
-  "common_name": "Anthracnose of Banana",
-  "host_plant": "Banana (Musa spp.)",
+  "disease": "Ndizi Anthracnese",
+  "scientific_name": "Collettrichum musae",
+  "pathogen_type": "Kuvu",
+  "common_name": "Migomba ya ndizi",
+  "host_plant": "Migomba (Musa pp.)",
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Fruit (in advanced infection)"
+    "Majani",
+    "Kishawishi",
+    "Matunda (katika maambukizo ya hali ya juu)"
   ],
-  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "description": "Ndizi aina ya athracose ni maradhi ya kuvu yanayosababishwa hasa na Collettrichum musae. Inaambukiza majani ya ndizi na sehemu nyingine za nje za mmea, ikitokeza vidonda vya necrotic ambavyo huenda vikapunguza usanidimwanga na kudhoofisha ukuzi wa mimea. Viini hivyo vyaweza kuambukiza mimea shambani na kubaki vikiwa vimechelewa hadi hali za kimazingira ziwe zenye kufaa ukuzi wa dalili.",
   "symptoms": [
-    "Small dark brown to black spots on leaves",
-    "Irregular necrotic lesions with defined margins",
-    "Yellow halo around lesions in some cases",
-    "Expansion of lesions leading to leaf blight",
-    "Premature defoliation in severe infections",
-    "Reduced plant vigor and growth"
+    "Alama nyeusi za kahawia hadi madoa meusi kwenye majani",
+    "Machipukizi ya necrotic yenye pambizo zilizofafanuliwa",
+    "Maganda ya manjano kuzunguka vidonda katika visa fulani",
+    "Mpanuko wa lesi zisababishazo mchuzi wa majani",
+    "Kupooza kabla ya kupatwa na maambukizo makali",
+    "Kupungua kwa nguvu za mimea na ukuzi"
   ],
   "disease_cycle": [
-    "The fungus survives in infected plant debris or soil.",
-    "Spores (conidia) are produced in structures called acervuli on infected tissues.",
-    "Conidia spread through rain splash, wind, insects, or contaminated tools.",
-    "Spores germinate on leaf surfaces under humid conditions.",
-    "The pathogen penetrates tissues using an appressorium and colonizes plant cells."
+    "Kuvu hiyo hubaki katika mabaki ya mimea iliyoambukizwa au udongo.",
+    "Spores (kondia) hutengenezwa katika maumbo yanayoitwa acervuli kwenye tishu zilizoambukizwa.",
+    "Dawa hiyo ilienezwa kupitia maji ya mvua, upepo, wadudu, au vyombo vilivyochafuliwa.",
+    "Mimea huota kwenye majani yaliyo kwenye maeneo yenye unyevunyevu.",
+    "Viini hivyo hupenya tishu kwa kutumia chembe za mmea zilizo chini ya ardhi na zilizo chini ya ardhi."
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperatures (approximately 25–30°C)",
-    "Frequent rainfall",
-    "Dense canopy with poor air circulation"
+    "Unyevu mwingi",
+    "Halijoto zenye joto (takriban 25130 Kristo)",
+    "Mvua ya mara nyingi",
+    "Paa nzito zilizofunikwa kwa hewa isiyo na hewa nzuri"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Rain splash and irrigation water",
-    "Infected plant residues",
-    "Contaminated tools or handling"
+    "Chembe za kuvu Zinazotokana na Hewa",
+    "Maji ya mvua yanayonyunyizwa na kunyunyizia maji",
+    "Mabaki ya mimea iliyohifadhiwa",
+    "Vifaa au kushughulikia vitu vilivyochafuliwa"
   ],
   "management": {
     "cultural_control": [
-      "Remove and destroy infected leaves and plant debris",
-      "Improve air circulation in plantations",
-      "Use disease-free planting material",
-      "Maintain field sanitation"
+      "Ondoa na kuharibu majani yaliyoambukizwa na takataka za mimea",
+      "Kuboresha mzunguko wa hewa katika mashamba",
+      "Tumia vifaa visivyo na kinga ya maradhi",
+      "Dumisha usafi wa mazingira"
     ],
     "biological_control": [
-      "Use of antagonistic fungi such as Trichoderma spp.",
-      "Application of beneficial microbial biocontrol agents"
+      "Utumizi wa kuvu zenye kukinza kama vile Trichoderma supp.",
+      "Matumizi ya vijiumbe - maradhi vyenye manufaa vinavyodhibiti vijiumbe - maradhi"
     ],
     "chemical_control": [
-      "Fungicides such as carbendazim, mancozeb or thiophanate-methyl",
-      "Apply according to recommended agricultural guidelines"
+      "Chirikudi kama vile carbendazime, mancozeb au thiophanate-methyl",
+      "Tumia kulingana na miongozo ya kilimo inayopendekezwa"
     ]
   },
-  "economic_impact": "Anthracnose can reduce plant vigor and contribute to yield losses and fruit quality reduction in banana plantations.",
+  "economic_impact": "Mchomba wanaweza kupunguza nguvu za mimea na kuchangia hasara na upungufu mkubwa wa matunda katika mashamba ya ndizi.",
   "sources": [
-    "Plant pathology literature on Colletotrichum musae",
-    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
-    "Plant disease management guides and Plantwise resources"
+    "Vichapo vya elimu ya mimea juu ya Collettrichum musae",
+    "International Journal of Environment and Transformation ▶ Symptomatology of Collettrichum musae",
+    "Kutibu magonjwa ya mimea huongoza na kuhifadhi maliasili"
   ]
 }

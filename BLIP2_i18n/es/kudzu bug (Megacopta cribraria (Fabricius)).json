@@ -1,0 +1,56 @@
+{
+  "pest": "Bug Kudzu",
+  "scientific_name": "Megacopta cribraria",
+  "pest_type": "Insectos (Hemiptera: Plataspidae)",
+  "description": "Un insecto chupa-savias que ataca la soja y otras legumbres. Tanto adultos como ninfas se alimentan de la savia vegetal, reduciendo el crecimiento y el rendimiento de las plantas. Originaria de Asia, se ha convertido en una plaga importante en varias regiones de cultivo.",
+  "symptoms": [
+    "Racimos de pequeños insectos en forma de escudo marrón en tallos y hojas",
+    "Amarillenta o marrón de las hojas",
+    "Reducción del crecimiento y el vigor de las plantas",
+    "Producción de vaina más baja en soja",
+    "Depósitos de melocotón pegajoso que pueden llevar a moho de soja"
+  ],
+  "hosts": [
+    "Semillas de soja",
+    "Kudzu",
+    "Judía",
+    "Cowpea",
+    "Otros cultivos de legumbres"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Presencia de plantas kudzu cerca de campos",
+    "Densa vegetación donde los insectos pueden reproducirse"
+  ],
+  "spread": [
+    "Insectos adultos volando a nuevos campos",
+    "Desplazamiento de las plantas kudzu a los cultivos cercanos",
+    "Adultos invernantes que emergen en primavera"
+  ],
+  "management": [
+    "Monitorear los campos regularmente para los racimos de insectos",
+    "Retire las plantas kudzu cercanas cuando sea posible",
+    "Utilizar variedades de soja resistentes o tolerantes",
+    "Animar a los enemigos naturales en los campos"
+  ],
+  "biological_control": [
+    "Avispas parasitarias como Paratelenomus saccharalis",
+    "Predadores generales como arañas y escarabajos de señora",
+    "Conservación de insectos beneficiosos"
+  ],
+  "chemical_control": [
+    "Insecticidas piretroides (por ejemplo, bifentrina, lambda-cihalotrina)",
+    "Insecticidas neonicotinoides como el imidacloprid",
+    "Aplicar cuando las poblaciones de plagas alcancen el umbral económico"
+  ],
+  "prevention": [
+    "Monitorear los campos a principios de temporada",
+    "Controlar kudzu cerca de los campos de cultivo",
+    "Mantener el saneamiento sobre el terreno y la rotación de cultivos"
+  ],
+  "source": [
+    "Extensión de la Universidad de Georgia",
+    "Guías de gestión de plagas de USDA",
+    "Documentación sobre gestión integrada de plagas"
+  ]
+}

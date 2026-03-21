@@ -1,66 +1,77 @@
 {
-  "disease_name": "Tomato Yellow Leaf Curl Virus",
-  "type": "viral disease",
-  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "disease_name": "黄叶螺旋病毒",
+  "type": "病毒性疾病",
+  "causal_agent": "黄黄黄叶卷卷病毒(TYLCV),genus Begomo病毒,双子宫",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena)", "Potato (Solanum tuberosum)", "Tobacco (Nicotiana spp.)", "Beans (Phaseolus vulgaris)", "Peppers (Capsicum annuum)"],
-    "weeds": ["Datura stramonium", "Malva parviflora"]
+    "primary": [
+      "番茄"
+    ],
+    "secondary": [
+      "茄子种植 (Solanum melogenena)",
+      "土豆(硫管状)",
+      "烟草(Nicotiana pp.)",
+      "豆类(Schechollus粗俗)",
+      "辣椒(氨)"
+    ],
+    "weeds": [
+      "",
+      "马尔瓦草原"
+    ]
   },
-  "distribution": "Worldwide, especially tropical and subtropical regions",
+  "distribution": "全世界,特别是热带和亚热带区域",
   "vector": {
-    "species": "Bemisia tabaci (silverleaf or sweet potato whitefly)",
-    "transmission_type": "persistent-circulative nonpropagative",
+    "species": "Bemisia Tataci(硅叶或甜土豆白蝇)",
+    "transmission_type": "持久性循环性非促进性",
     "notes": [
-      "Acquisition access period: 15–20 minutes",
-      "Latent period: 8–24 hours",
-      "Females transmit virus more efficiently than males",
-      "Transovarial transmission observed for two generations",
-      "Sexual transmission between whiteflies documented"
+      "购置出入时间: 15-20分钟",
+      "上期:8-24小时",
+      "女性比男性更高效地传播病毒",
+      "两代人观察到的转口传播",
+      "记录到的白苍蝇之间的性传播"
     ]
   },
   "symptoms": {
     "foliage": [
-      "Severe stunting",
-      "Reduction of leaf size",
-      "Upward cupping/curling of leaves",
-      "Chlorosis on leaves and flowers"
+      "严重发育障碍",
+      "减少叶叶面积",
+      "树叶向上/向上加杯/树叶",
+      "叶叶和花叶上的氯化"
     ],
     "fruit": [
-      "Reduced fruit production",
-      "Distorted fruit"
+      "水果生产减少",
+      "扭曲水果"
     ],
-    "overall_impact": "Yield losses of 90–100% possible in severe outbreaks"
+    "overall_impact": "严重暴发时可能减少90%至100%的产量损失"
   },
   "disease_cycle": [
-    "Virus introduced via infected seedlings, contaminated tools, or whitefly vector",
-    "Once established, whiteflies spread virus rapidly from plant to plant",
-    "Virus persists in alternative hosts including weeds and other solanaceous crops",
-    "Environmental factors such as warm tropical climates favor virus proliferation"
+    "通过受感染的幼苗、受污染的工具或白蝇病媒引进病毒",
+    "白蝇一旦建立,就会迅速从工厂到工厂传播病毒",
+    "包括杂草和其他土生植物在内的替代寄主体内的病毒持续存在",
+    "气候温暖的热带气候等环境因素有利于病毒扩散"
   ],
   "management": {
     "cultural": [
-      "Plant TYLCV-resistant or tolerant tomato varieties",
-      "Rotate crops to non-hosts to reduce inoculum",
-      "Eliminate or control weed hosts",
-      "Use greenhouse production to reduce vector access"
+      "TYLCV植物耐耐性或耐性番茄品种",
+      "将作物转作非主机,以减少接种",
+      "消除或控制杂草主机",
+      "利用温室生产减少病媒的获取"
     ],
     "chemical": [
-      "Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance",
-      "Timing of applications is critical due to rapid virus transmission by whiteflies"
+      "应用杀虫剂,针对Bemisia Tabaci、旋转或混合活性成分,以防止抗药性",
+      "应用的时间安排至关重要,因为白蝇迅速传播病毒"
     ],
     "genetic": [
-      "Breeding or transgenic approaches to produce TYLCV-resistant tomato lines"
+      "生产抗TYLLCV抗番茄线的种子或转基因方法"
     ]
   },
   "notes": [
-    "TYLCV is one of the most serious viral diseases of tomato globally",
-    "Developing countries are most affected due to climate and high cost of control measures",
-    "Integrated pest management combining resistant varieties, vector control, and cultural practices is most effective"
+    "TYLLV是全球最严重的番茄病毒疾病之一",
+    "由于气候和控制措施的高成本,发展中国家受到的影响最大",
+    "结合抗药性品种、病媒控制和文化习俗的综合虫害管理最为有效"
   ],
   "references": [
-    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
-    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
-    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+    "Czosnek, H. & laterot, H. 1997, 番茄黄叶卷卷病毒,这是一个正在形成的病毒综合体,在全世界造成流行病。 Adv病毒第47号决议:85-138。",
+    "Polston, J.E. & Lapidot, M. 2007,《番茄黄叶卷病毒的管理:回顾》,植物第91号:125-134。",
+    "Brown, J.K.,2015年,Bemisia Takacic物种复杂和TYLCV传播。病毒Res 202:150-162。"
   ]
 }

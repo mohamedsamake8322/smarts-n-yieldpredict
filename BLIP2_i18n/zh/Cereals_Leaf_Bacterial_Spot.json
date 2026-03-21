@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
-  "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "disease": "谷物的细菌叶",
+  "scientific_name": "Xanthomonas 半转环",
+  "pathogen_type": "细菌",
   "pathovars": [
-    "Xanthomonas translucens pv. undulosa",
-    "Xanthomonas translucens pv. translucens",
-    "Xanthomonas translucens pv. cerealis"
+    "Xanthomonas 转基因人 pv. undulosa",
+    "Xanthomonas 转基因人 pv. 转基因人",
+    "Xanthomonas 转基因人 pv. 谷类"
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "细菌叶片是麦和大麦等谷类作物的重要病种,是由细菌Xanthomonas环球菌引起的,该疾病在叶子上产生长长的半透明的病种,随后变成棕色和干燥,严重感染会显著减少谷物产量。",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "叶子上长长的水浸水痕",
+    "静脉间浅绿色或黄绿色条纹",
+    "脊椎变成棕色和长长的",
+    "堆叠与叶静脉平行",
+    "叶子可能干燥,死于严重感染",
+    "粘粘的黄色细菌的消亡可能出现在损伤上",
+    "叶子可能沿连条线被撕碎"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "谷类叶长黄色或浅棕色长纹",
+    "叶静脉之后的平行线条",
+    "叶子表面黄色粘粘胶滴"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "叶叶叶",
+    "叶叶叶叶叶刀",
+    "有时耳头小叔"
   ],
-
   "hosts": [
-    "wheat",
-    "barley",
-    "rye",
-    "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "小麦小麦",
+    "大麦",
+    "黑 黑 黑",
+    "燕麦",
+    "玉米玉米玉米",
+    "高梁",
+    "野草草",
+    "饲料草草"
   ],
-
-  "plant_family": "Poaceae",
-
+  "plant_family": "波 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚",
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
-    "Zea mays"
+    "(小麦)",
+    "Hordeum 粗俗( 酒精)",
+    "阿韦纳·萨蒂瓦(阿韦纳·萨蒂瓦)",
+    "塞卡勒谷类(rye)",
+    "高梁双彩色",
+    "Zea 中叶"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "温温温度",
+    "高湿湿度",
+    "频繁降雨",
+    "喷洒器灌溉",
+    "潮湿生长季节"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "受感染种子",
+    "雨水喷雨",
+    "风驱雨雨",
+    "受污染作物残留物",
+    "受感染的杂草和草草"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "细菌靠感染种子生存",
+    "细菌通过stomata或伤口进入植物。",
+    "叶子中感染 随血管传播",
+    "细菌成倍繁殖并产生外露",
+    "雨水将细菌传播到附近的植物"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "使用经核证的无疾病的种子",
+    "实施严格的种子健康检测",
+    "避免种植受感染的种子",
+    "在有抗药性或容忍的栽培品种可用时使用",
+    "定期监测早期症状的字段",
+    "种子运动遵守检疫规则"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "研究中的生物细菌对抗者"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "实地无法进行高度有效的化学控制"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "热水处理(约53摄氏度,10分钟)",
+    "干热干热处理",
+    "酸化铜处理以减少种子感染"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "在严重情况下损失高达40%",
+    "减少谷物重量",
+    "减少每起猛涨的谷物数量"
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "实地症状观察",
+    "文化媒体上的细菌隔离",
+    "基于DNA的分子探测(PCR或测序)"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
-    "Sapkota et al. 2020"
+    "CABI 作物保护简编",
+    "《植物疾病期刊》审查",
+    "EPPO 植物检疫报告",
+    "Sapkota等人,2020年"
   ]
 }

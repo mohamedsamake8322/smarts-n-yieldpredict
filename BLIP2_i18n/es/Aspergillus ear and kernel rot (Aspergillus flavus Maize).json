@@ -1,0 +1,84 @@
+{
+  "disease": "Aspergillus Oido Roto de Maíz",
+  "scientific_name": "Aspergillus flavus",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre del oído de Aspergillus es una importante enfermedad fúngica del maíz causada principalmente por Aspergillus flavus. La enfermedad produce moho en polvo verde oliva en granos de maíz y contamina el grano con aflatoxina, una micotoxina altamente tóxica y cancerígena que amenaza el ganado y la salud humana y reduce la comercialización del grano.",
+  "hosts": [
+    "Maíz",
+    "Cacahuetes",
+    "Granos de cereales",
+    "Leguminosas",
+    "Frutos de cáscara"
+  ],
+  "symptoms": [
+    "Moho en polvo verde oliva en los granos",
+    "El moho generalmente comienza en la punta de la oreja, pero puede extenderse a la base",
+    "Las esporas en polvo se dispersan como el polvo cuando se abre la cáscara",
+    "Orejas pequeñas y plantas atrofiadas en zonas secas o estresadas",
+    "Decoloración del kernel y reducción de la germinación de las semillas"
+  ],
+  "toxins": [
+    "Aflatoxina (micotoxina carcinogénica)",
+    "Contamina el grano y la alimentación del ganado",
+    "Puede estar presente incluso cuando los núcleos aparecen sanos"
+  ],
+  "disease_cycle": [
+    "Los hongos sobreviven en el suelo y los residuos de cultivos como micelia o esclerotia",
+    "Produce conidios (esporas) que se propagan por el viento y los insectos",
+    "La infección se produce a través de sedas o heridas causadas por insectos, aves o granizo",
+    "Puede infectar los cultivos antes de la cosecha y permanecer inactivo hasta el almacenamiento",
+    "Continúa produciendo aflatoxina durante las condiciones calientes, secas o la cosecha retrasada"
+  ],
+  "favorable_conditions": [
+    "Clima cálido y seco",
+    "Estrés por sequía o deficiencia de nutrientes",
+    "Daño de insectos en los oídos",
+    "Alta temperatura y humedad durante el almacenamiento"
+  ],
+  "spread": [
+    "Esporas transportadas por el viento",
+    "Vectores de insectos (bugs de insectos, bugs de lygus)",
+    "Residuos de cultivos infectados y suelo",
+    "Semillas contaminadas",
+    "Condiciones inadecuadas de almacenamiento de granos"
+  ],
+  "monitoring": [
+    "Inspeccione al menos 30 espigas en diferentes lugares de campo antes de la cosecha",
+    "Pelar cáscaras y comprobar si hay moho verde oliva",
+    "Centrarse en áreas secas como suelos arenosos o laderas",
+    "Monitorear plantas estresadas con orejas pequeñas"
+  ],
+  "cultural_management": [
+    "Controlar los insectos que se alimentan del oído",
+    "Reducir el estrés de las plantas mediante el riego y la nutrición adecuada",
+    "Cosecha tempranamente los campos infectados",
+    "Separar el grano contaminado del sano",
+    "Eliminar los granos dañados y mantener el saneamiento"
+  ],
+  "postharvest_management": [
+    "Grano seco inmediatamente después de la cosecha",
+    "Mantenga la humedad de los granos por debajo del 11,5%",
+    "Guarde el grano a baja temperatura (por debajo de 5°C cuando sea posible)",
+    "Utilizar sistemas de aireación en contenedores de almacenamiento",
+    "Mantener instalaciones de almacenamiento limpias"
+  ],
+  "biological_control": [
+    "La levadura Pichia anomala compite con Aspergillus flavus y reduce el crecimiento hasta el 97%",
+    "Aspergillus flavus AF36, cepa atoxigénica, utilizada como biocontrol para reducir la producción de aflatoxinas"
+  ],
+  "chemical_or_physical_control": [
+    "Utilizar fumigantes para controlar los insectos almacenados",
+    "Mantener sistemas de aireación para eliminar el calor y la humedad",
+    "No hay tratamientos de fungicida muy eficaces en condiciones de campo"
+  ],
+  "economic_impact": [
+    "Las pérdidas posteriores a la cosecha pueden llegar al 10-30%",
+    "Mayores pérdidas posibles en los países en desarrollo",
+    "Principales pérdidas económicas debidas a la contaminación por aflatoxinas en lugar de reducir el rendimiento"
+  ],
+  "sources": [
+    "Publicaciones sobre enfermedades de plantas de extensión universitaria",
+    "USDA Servicio de Investigación Agrícola",
+    "Literatura científica sobre contaminación por Aspergillus flavus y aflatoxinas"
+  ]
+}

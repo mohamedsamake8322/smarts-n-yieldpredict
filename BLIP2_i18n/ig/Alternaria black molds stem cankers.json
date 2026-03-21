@@ -1,0 +1,51 @@
+{
+  "disease_name": "Pladaa Black Stem Canker",
+  "scientific_name": "Ma, e nwere otu nwa agbọghọ aha ya bụ T.M.",
+  "pathogen_type": "Ihe ndị e ji atụrụ ndụ",
+  "genus": "Kanaria",
+  "description": "Ọ na - emetụta ihe ọkụkụ, akwụkwọ ndụ, na mgbe ụfọdụ mkpụrụ akụ́kụ́, karịsịa akụ́kụ́ ndị dị n'ezinụlọ ndị dị n'ugbo, n'ime ụlọ, n'ime ụlọ, ọrịa ahụ na - emepụta akpụ akpụ ma na - agbawa agbawa, bụ́kwa nke na - eme ka e nwee ike ime ka ihe ọkụkụ ghara ito nke ọma, bụ́ nke na - eme ka e nwee ike ibelata ikike ịkụ ihe ma na - akpata mfu.",
+  "affected_parts": [
+    "Stbum",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Mkpụrụ"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Ńgwānụ́ banye",
+    "Ndị Na - atụchasị Mmadụ",
+    "Ihe ọkụkụ dị iche iche a na - akụ n'ubi"
+  ],
+  "symptoms": [
+    "Ihe na - acha nchara nchara nke na - acha nchara nchara ruo n'uto ojii",
+    "O nwere ike ime ka anwụ na - acha mmadụ ma ọ bụ mee ka ọbara na - acha onye ahụ n'ahụ́",
+    "Ebe ndị a na - anọ akparịta ụka n'Intanet, bụ́ ndị e ji ihe ndị na - akpali agụụ mmekọahụ mara",
+    "Ime ka akwụkwọ ya dị ọcha ma na - agba ya ọkụ",
+    "Ọ na - eme ka ihe ọkụkụ na - eto ngwa ngwa"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ ya na - ebelata",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ebe a na - edebe akwụkwọ ọgụgụ n'ụzọ dị mfe",
+    "Ihe ndị dị n'ime ya bụ iberibe ahịhịa ndị dị n'ime ala"
+  ],
+  "spread": [
+    "Ifufe-nanas",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e ji osisi mee",
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́"
+  ],
+  "management": {
+    "cultural": [
+      "Jiri mkpụrụ akụ́kụ́ ndị na-enweghị ọgwụgwọ",
+      "Tụgharịa ihe ọkụkụ na osisi ndị na-adịghị adị",
+      "Wepụ irighiri ahịhịa ndị nwere nje ndị na - akpata ọrịa",
+      "Ime ka ikuku na - ekesakwu ihe ọkụkụ dị iche iche"
+    ],
+    "chemical": [
+      "Tinye ihe omume ndị na - atọ ọchị dị ka Macozeb",
+      "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+      "Anadu-n'ọ́chāghị́ányá"
+    ]
+  }
+}

@@ -1,83 +1,83 @@
 {
- "disease": "Potyvirus Mosaic",
- "scientific_name": "Genus Potyvirus (family Potyviridae)",
- "pathogen_type": "Virus",
- "description": "Potyviruses are a large group of plant viruses with single-stranded RNA genomes. They infect many crops and cause mosaic diseases that reduce plant growth and yield.",
- "symptoms": [
-  "Mosaic or mottled patterns on leaves",
-  "Light and dark green patches on foliage",
-  "Leaf curling or distortion",
-  "Stunted plant growth",
-  "Reduced fruit size and yield",
-  "Yellow streaks or vein clearing on leaves"
- ],
- "visual_symptoms": [
-  "yellow and green mosaic patterns on leaves",
-  "distorted or curled leaves",
-  "patchy chlorosis on plant foliage"
- ],
- "hosts": [
-  "Potato",
-  "Tomato",
-  "Pepper",
-  "Cucumber",
-  "Pumpkin",
-  "Bean",
-  "Soybean",
-  "Sweet potato",
-  "Tobacco",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "vectors": [
-  "Aphids (more than 200 species)",
-  "especially Myzus and Macrosiphum species"
- ],
- "spread": [
-  "Aphid feeding on infected plants",
-  "Mechanical transmission through plant contact",
-  "Contaminated tools or hands",
-  "Infected tubers, cuttings, or grafting material",
-  "Sometimes seed or pollen transmission"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Warm growing conditions",
-  "Dense crop planting",
-  "Presence of infected plants nearby"
- ],
- "impact": [
-  "Reduced plant growth",
-  "Lower crop yield",
-  "Poor fruit quality",
-  "Economic losses in vegetable and ornamental crops"
- ],
- "management": [
-  "Use virus-free planting materials",
-  "Control aphid populations",
-  "Remove infected plants quickly",
-  "Use resistant crop varieties when available",
-  "Avoid handling plants when wet"
- ],
- "biological_control": [
-  "Encourage natural predators of aphids such as lady beetles and lacewings"
- ],
- "chemical_control": [
-  "Use insecticides to reduce aphid populations when necessary",
-  "Mineral oils may reduce virus transmission by aphids"
- ],
- "prevention": [
-  "Plant resistant varieties",
-  "Monitor fields for aphids",
-  "Use reflective mulches to repel aphids",
-  "Practice field sanitation and remove infected plants"
- ],
- "source": [
-  "Virology references on Potyvirus",
-  "Agricultural plant pathology literature"
- ]
+  "disease": "Potyvirus Mosaik",
+  "scientific_name": "Genus Potyvirus (Potiviridae ailesi)",
+  "pathogen_type": "Virüsler",
+  "description": "Potyvirüsler, tek taraflı RNA genomları olan bitki virüslerinin büyük bir grubudur.Birçok bitkiyi enfekte ederler ve bitki büyümesini ve verimliliğini azaltan mosaik hastalıklara neden olurlar.",
+  "symptoms": [
+    "Mosaik veya yapraklardaki modeller",
+    "Işık ve karanlık yeşil çubuklar folyo üzerinde",
+    "Döküntü veya bozukluk",
+    "Bitki büyümesi bekleniyor",
+    "Düşük meyve büyüklüğü ve üretimi",
+    "Sarı çizgiler veya yapraklardaki ven temizliği"
+  ],
+  "visual_symptoms": [
+    "Sarı ve yeşil mosaik desenleri yapraklarda",
+    "bozulmuş veya çürük yapraklar",
+    "Patchy kloroz bitki folyo üzerinde"
+  ],
+  "hosts": [
+    "Patates",
+    "domates",
+    "Pepper için",
+    "Çanakkale",
+    "Pompalı",
+    "Bean",
+    "Soylu",
+    "tatlı patates",
+    "Tütün",
+    "Çok sayıda dekoratif bitki"
+  ],
+  "plant_parts_affected": [
+    "Sayfalar",
+    "oyları",
+    "Meyveler"
+  ],
+  "vectors": [
+    "Aphids (200'den fazla tür)",
+    "özellikle Myzus ve Macrosiphum türleri"
+  ],
+  "spread": [
+    "Enfekte bitkilerde beslenme",
+    "Mekanik iletişim bitki bağlantısı yoluyla",
+    "kirlenmiş araçlar veya eller",
+    "Enfekte tüpler, kesimler veya çizim malzemeleri",
+    "Bazen tohum veya toz iletimi"
+  ],
+  "favorable_conditions": [
+    "yüksek aphid nüfusu",
+    "Sıcak büyüyen koşullar",
+    "Düşük Bitki Yetiştirme",
+    "yakındaki enfekte bitkilerin varlığı"
+  ],
+  "impact": [
+    "Bitki büyümesi azaldı",
+    "Düşük bitki üretimi",
+    "Kötü meyve kalitesi",
+    "Sebze ve dekoratif bitkilerde ekonomik kayıplar"
+  ],
+  "management": [
+    "Virüssüz bitki malzemeleri kullanın",
+    "Aphid nüfus kontrolü",
+    "Enfekte bitkileri hızlı bir şekilde ortadan kaldırın",
+    "Mevcut olduğunda dayanıklı bitki çeşitleri kullanın",
+    "ıslak olduğunda bitkilerden kaçının."
+  ],
+  "biological_control": [
+    "Afidlerin doğal haydutlarını teşvik edin, örneğin hanımefendiler ve kayıplar"
+  ],
+  "chemical_control": [
+    "İhtiyacınız olduğunda aphid nüfusunu azaltmak için böcek ilacı kullanın",
+    "Mineral yağlar afidler tarafından virüs aktarımını azaltabilir"
+  ],
+  "prevention": [
+    "Bitki direnci çeşitleri",
+    "Afids için monitör alanları",
+    "Afids'i yırtmak için yansıtıcı mulşlar kullanın",
+    "Uygulama alan sanitasyonu ve enfekte bitkilerin kaldırılması"
+  ],
+  "source": [
+    "Potyvirus hakkında viroloji referansları",
+    "Tarımsal Bitki Patolojisi Edebiyatı"
+  ]
 }

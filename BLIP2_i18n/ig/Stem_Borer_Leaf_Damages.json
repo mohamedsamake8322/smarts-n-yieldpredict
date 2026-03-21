@@ -1,0 +1,38 @@
+{
+  "pest_name": "Ihe Ize Ndụ Ndị Dị n'Ihe Ize Ndụ",
+  "pest_type": "Ụmụ ahụhụ",
+  "description": "Ụmụ ahụhụ ndị na - egbu ahụhụ bụ ụmụ ahụhụ ndị na - eri nri n'akụkụ osisi nakwa n'akwụkwọ osisi, bụ́ ndị a na - ahụkarị n'ihe ọkụkụ ndị dị ka mkpụrụ akụ́kụ́, osikapa na ihe ọkụkụ ndị dị ka mkpụrụ akụ́kụ́.",
+  "affected_parts": [
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Stbum"
+  ],
+  "hosts": [
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "NEPA",
+    "[ Ihe e dere n'ala ala peeji]",
+    "Sorghum"
+  ],
+  "symptoms": [
+    "Elu ụlọ ndị a rụnyere ihe na ha na ihe ndị e ji amata oge nri",
+    "Ihe ndị na - agbawa obi bụ́ ndị na - egosi ihe ọkụkụ ndị na - eto eto na - ewepụta",
+    "Ọdọ Mmiri Na - esi n'Okporo Ụzọ Na - aga n'Ihu",
+    "Ọ na - eme ka ihe ọkụkụ na - eto ngwa ngwa"
+  ],
+  "spread": [
+    "Ụmụ ahụhụ ndị bi n'ọhịa na - eyi àkwá n'akwụkwọ osisi",
+    "Mmiri na - ezonụ na - abanye n'ihe ọkụkụ"
+  ],
+  "management": {
+    "cultural": [
+      "Wepụ akụ́kụ́ ndị a kụrụ n'ubi",
+      "Iji ụgbọelu eme njem",
+      "Jiri ụdị ndị a na - apụghị iguzogide eguzogide mee ihe"
+    ],
+    "biological": [
+      "Ndị na - agba ịnyịnya ígwè bụ anụ ndị na - eri ibe ha na anụ ndị na - eri ibe ha"
+    ],
+    "chemical": [
+      "Tinye ihe n'ọrụ na - atụ aro ka a na - egwu ala mgbe ọ̀tụ̀tụ̀ ikpo ọkụ dị elu"
+    ]
+  }
+}

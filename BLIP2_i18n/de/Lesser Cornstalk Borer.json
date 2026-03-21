@@ -1,0 +1,41 @@
+{
+  "pest_name": "Geringerer Cornstalk Borer",
+  "scientific_name": "Elasmopalpus lignosella",
+  "pest_type": "Insekten",
+  "order": "Lepidoptera",
+  "family": "Artischocken (Pyrolidae)",
+  "description": "Der kleinere Maistalkbohrer ist eine Motte, deren Larven die unteren Stängel vieler Kulturen angreifen. Die Larven bohrten in Stängel in der Nähe der Bodenoberfläche, schädliche Sämlinge und junge Pflanzen. Schwere Befalle können zu Pflanzentod und signifikanter Ertragsreduzierung führen.",
+  "hosts": [
+    "Mais",
+    "Erdnuss",
+    "Sojabohnen",
+    "Sorghum",
+    "Verschiedene Hülsenfrüchte"
+  ],
+  "damage": [
+    "Larven gebohrt in Stängel in der Nähe der Bodenlinie",
+    "Wilting und Tod von Sämlingen",
+    "Stuntes Wachstum",
+    "Verringerte Pflanzenpopulation"
+  ],
+  "life_cycle": [
+    "Ei",
+    "Larva (Schädigungsstadium)",
+    "Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa-Pupa",
+    "Erwachsene Motte"
+  ],
+  "spread": [
+    "Erwachsener Mottenflug",
+    "Bewegung von befallenen Pflanzenabfällen oder Böden"
+  ],
+  "management": {
+    "cultural": [
+      "Aufrechterhaltung einer ausreichenden Bodenfeuchte",
+      "Rotierende Kulturen",
+      "Pflanzenrückstände entfernen"
+    ],
+    "chemical": [
+      "Anwendung von Insektiziden im Boden, wenn Befall schwerwiegend ist"
+    ]
+  }
+}

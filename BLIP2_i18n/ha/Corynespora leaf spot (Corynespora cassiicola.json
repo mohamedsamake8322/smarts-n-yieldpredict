@@ -1,90 +1,90 @@
 {
-  "disease_name": "Corynespora Leaf Spot",
-  "causal_agent": "Corynespora cassiicola",
-  "disease_type": "Fungal",
-  "description": "Corynespora leaf spot is a destructive fungal disease affecting over 500 plant species, including economically important crops such as tobacco, tomato, cucumber, soybean, cotton, and rubber tree. Infection begins on lower or middle leaves, forming dark green water-soaked spots that turn brown and expand into large lesions. The pathogen can exist as a necrotroph, saprophyte, or endophyte, and thrives under high humidity and slightly acidic conditions.",
+  "disease_name": "KCharselect unicode block name",
+  "causal_agent": "KCharselect unicode block name",
+  "disease_type": "Indian National month 8 - LongName",
+  "description": "Wani abin ban mamaki shi ne ciwo mai ɓarna da ke shafan tsiro fiye da 500, haɗe da shuke - shuke masu muhimmanci kamar su shan taba, shan taba, da kuma itace mai kama da itace, da ke somawa a gefen hanya mai ban ƙyama.",
   "hosts": [
-    "Tobacco",
-    "Tomato",
-    "Cucumber",
-    "Soybean",
-    "Cotton",
-    "Rubber tree"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 3 - LongDayName",
+    "QShortcut",
+    "Da wata itãciya, tanã fita daga dũtsin Sainã'a, tanã tsira da man shãfãwa, da man miya dõmin masu cĩ."
   ],
   "symptoms": [
-    "Small dark green water-soaked spots on leaves",
-    "Spots gradually turn brown",
-    "Circular or irregular necrotic lesions",
-    "Lesions expand and merge forming large patches",
-    "Disease often begins on lower or middle leaves"
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "A yawancin lokaci, ana soma tafiya a ƙasa ko kuma a gefen hagu"
   ],
   "favorable_conditions": {
-    "temperature_optimum": "25-30°C",
-    "temperature_range": "15-35°C",
-    "humidity": "High humidity (>90%) favors infection",
-    "pH_optimum": "Around 5.5"
+    "temperature_optimum": "25 @ item Text character set",
+    "temperature_range": "15 KA YI AMFANI DA ABIN DA KA KOYA.",
+    "humidity": "@ item Spelling dictionary",
+    "pH_optimum": "@ item Text character set"
   },
   "biological_control": [
     {
-      "agent": "Bacillus subtilis",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces antifungal metabolites and inhibits fungal growth"
+      "agent": "KCharselect unicode block name",
+      "type": "KCharselect unicode block name",
+      "mode_of_action": "Waɗanda suke aiki a wurin suna samun ci gaba sosai kuma ba sa farin ciki sosai"
     },
     {
-      "agent": "Bacillus amyloliquefaciens",
-      "type": "Beneficial bacterium",
-      "mode_of_action": "Produces lipopeptides that damage fungal cell membranes"
+      "agent": "@ item Text character set",
+      "type": "KCharselect unicode block name",
+      "mode_of_action": "Masu zane - zane suna ɗauke da abubuwan da ke ɓata ma'aikata da ba su da amfani sosai"
     },
     {
-      "agent": "Trichoderma harzianum",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Mycoparasitism and competition with plant pathogens"
+      "agent": "Indian National month 11 - LongName",
+      "type": "Indian National weekday 3 - LongDayName",
+      "mode_of_action": "Satar da nake yi da kuma yin gasa a hanyar da ba ta dace ba"
     },
     {
-      "agent": "Trichoderma viride",
-      "type": "Biocontrol fungus",
-      "mode_of_action": "Produces antifungal enzymes and secondary metabolites"
+      "agent": "Indian National weekday 3 - LongDayName",
+      "type": "Indian National weekday 3 - LongDayName",
+      "mode_of_action": "Sa'ad da aka yi amfani da shi a shekara ta 33 kafin haihuwar Yesu, sai aka soma amfani da shi don a yi amfani da kalmar da aka yi amfani da ita a ƙasar."
     }
   ],
   "chemical_control": {
     "fungicides": [
       {
-        "active_ingredient": "Mancozeb",
-        "type": "Contact fungicide",
-        "mode_of_action": "Prevents spore germination"
+        "active_ingredient": "@ item Spelling dictionary",
+        "type": "QDialogButtonBox",
+        "mode_of_action": "KCharselect unicode block name"
       },
       {
-        "active_ingredient": "Chlorothalonil",
-        "type": "Protectant fungicide",
-        "mode_of_action": "Inhibits fungal growth on leaf surface"
+        "active_ingredient": "KCharselect unicode block name",
+        "type": "@ action",
+        "mode_of_action": "A lokacin da ake noman hatsi mai daɗi"
       },
       {
-        "active_ingredient": "Azoxystrobin",
-        "type": "QoI fungicide",
-        "mode_of_action": "Inhibits mitochondrial respiration"
+        "active_ingredient": "KCharselect unicode block name",
+        "type": "QShortcut",
+        "mode_of_action": "@ item Text character set"
       },
       {
-        "active_ingredient": "Difenoconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Inhibits sterol biosynthesis"
+        "active_ingredient": "KCharselect unicode block name",
+        "type": "KCharselect unicode block name",
+        "mode_of_action": "@ item Text character set"
       },
       {
-        "active_ingredient": "Tebuconazole",
-        "type": "Triazole fungicide",
-        "mode_of_action": "Blocks ergosterol synthesis"
+        "active_ingredient": "KCharselect unicode block name",
+        "type": "KCharselect unicode block name",
+        "mode_of_action": "KCharselect unicode block name"
       },
       {
-        "active_ingredient": "Carbendazim",
-        "type": "Systemic fungicide",
-        "mode_of_action": "Disrupts fungal cell division"
+        "active_ingredient": "QShortcut",
+        "type": "Kayan Aikin Na'ura",
+        "mode_of_action": "KCharselect unicode block name"
       }
     ]
   },
   "management_notes": [
-    "Use resistant cultivars when available",
-    "Rotate fungicides with different modes of action to prevent resistance",
-    "Avoid prolonged leaf wetness",
-    "Remove infected plant debris",
-    "Use integrated disease management strategies"
+    "Yi amfani da ciyar da ' Yancin Kai yayin da ake samu",
+    "Yin magana a kan abin da ba a yawan yi ba don a hana yin tsayayya da shi",
+    "Ka guje wa yin dogon hali da muke yi",
+    "KCharselect unicode block name",
+    "Yi amfani da wajen rage cuta"
   ]
 }

@@ -1,0 +1,83 @@
+{
+  "disease": "Iwu Mozis nke A Na - agaghị Echefu Echefu",
+  "scientific_name": "Jenus nnọọyvius (onye a ma ama n'obodo a)",
+  "pathogen_type": "AGBOR 1 (Bekee)",
+  "description": "Ụmụ irighiri ihe ọkụkụ bụ otu nnukwu nje virus nke nwere ụmụ irighiri ihe ndị na - alụso ọrịa ọgụ. Ha na - ebute ọtụtụ ihe ọkụkụ ma na - akpata ọrịa ndị na - ebibi ihe bụ́ ndị na - ebelata uto na ihe ndị na - eme ka ihe ọkụkụ na - eto nke ọma.",
+  "symptoms": [
+    "Ihe ndị e dere n'akwụkwọ Mozis ma ọ bụ ihe ndị e dere n'ala ala peeji",
+    "Ìhè na akwụkwọ ndụ akwụkwọ ndụ jupụtara n'akwụkwọ",
+    "Ime Ka Ahụ́ Na - ama Gị Mma Ma Ọ Bụ nke Na - ezighị Ezi",
+    "Uto nke ihe ọkụkụ a tụrụ atụ",
+    "Ọ na - ebelata mkpụrụ osisi ma na - amị mkpụrụ",
+    "A na - etinye akwụkwọ n'ime akwụkwọ ma ọ bụ n'azụ akwụkwọ"
+  ],
+  "visual_symptoms": [
+    "A na - eji akwụkwọ osisi emepụta ihe ndị na - acha odo odo na akwụkwọ ndụ akwụkwọ ndụ",
+    "Akwụkwọ ya ndị a pịrị apị ma ọ bụ ndị a pịrị apị",
+    "A na - akụ akwụkwọ osisi n'ebe a na - akụ akwụkwọ"
+  ],
+  "hosts": [
+    "Plato",
+    "AGBOR 1 (Bekee)",
+    "Ndị Na - atụchasị Mmadụ",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "23.pkin",
+    "Belan",
+    "Sobon",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "_Hichaa",
+    "Ọtụtụ akụ́kụ́ ndị mara mma"
+  ],
+  "plant_parts_affected": [
+    "akwụkwọ",
+    "_Ebe ndesịta ngosi ebe",
+    "mkpụrụ"
+  ],
+  "vectors": [
+    "Ihe karịrị ụdị ihe dị iche iche (ihe karịrị ụdị osisi 200)",
+    "Nke ka nke bụ ụdị dị iche iche nke ihe ndị dị ndụ dị ndụ dị n'ime ala."
+  ],
+  "spread": [
+    "Mmiri ọgwụ ahụ́ bụ́ hormone dị n'osisi ndị bu ọrịa ahụ",
+    "A na - enweta mmiri ọgwụ ahụ́ bụ́ hormone site n'ịkpọtụrụ osisi",
+    "Ngwá ọrụ ndị e ji rụọ ọrụ ma ọ bụ aka",
+    "Ndị na - eti ọkpọ, ndị na - eti ihe, ma ọ bụ ndị na - egbu ihe n'ụzọ na - enweghị isi",
+    "Mgbe Ụfọdụ Mkpụrụ Ma Ọ Bụ Mkpụrụ Osisi"
+  ],
+  "favorable_conditions": [
+    "Ọnụ ọgụgụ buru ibu nke ndị bi na ya",
+    "Ọnọdụ ndị na - enye obi ụtọ",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi",
+    "Ọtụtụ akụ́kụ́ ndị nwere nje HIV bụ́ ndị dị nso"
+  ],
+  "impact": [
+    "Ọ na - eme ka ihe ọkụkụ na - eto ngwa ngwa",
+    "Mkpụrụ akụ́kụ́ ndị dị oké ọnụ ahịa na - amị",
+    "Mkpụrụ osisi na - adịghị amị mkpụrụ nke ọma",
+    "Ihe ndị na - efu ego na - ala n'iyi n'akwụkwọ nri nakwa n'ihe ọkụkụ ndị mara mma"
+  ],
+  "management": [
+    "Jiri nje virus-ọ́á ọrụ ndị e ji akụ ihe",
+    "N'ihi ya, ndị mmadụ na - agba mbọ ka ndị mmadụ ghara ịna - eme ihe ga - abara naanị onwe ha uru",
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ngwa ngwa",
+    "Jiri ụdị akụ́kụ́ ndị na - eguzogide ọgwụ mee ihe mgbe e nwere ha",
+    "Zere ịdị na - edozi ihe ọkụkụ mgbe ị na - akwọ ụgbọala"
+  ],
+  "biological_control": [
+    "Na - agba anụ ndị na - eri ibe ha ume bụ́ ndị na - eri ibe ha bụ́ ndị na - eri ibe ha ahụ́, dị ka ndị inyom na - eri ibe ha na ndị na - eri ibe ha"
+  ],
+  "chemical_control": [
+    "Jiri ọgwụ nje mee ihe iji belata ọnụ ọgụgụ mmadụ na - amụba amụba mgbe ọ dị mkpa",
+    "Mmanụ e ji esi nri pụrụ ibelata nje virus"
+  ],
+  "prevention": [
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche",
+    "Ihe ndị e ji chọọ ubi mma maka ihe ndị e ji etinyere anụ ụlọ nri",
+    "Na - eji Ihe Ndị Na - egbochi Agụụ Mmekọahụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Na - edebe ihe ọcha n'ubi ma na - ewepụ ihe ọkụkụ ndị bu ọrịa ahụ"
+  ],
+  "source": [
+    "Ndị ọkà mmụta ihe ochie na - ezo aka n'ihe ndị e dere n'akwụkwọ akụkọ bụ́ ndị na - egosi ihe ndị mere n'oge ochie",
+    "Otu osisi a na - akụ akụ na - ebipụta akwụkwọ ndị e ji amụ Bible"
+  ]
+}

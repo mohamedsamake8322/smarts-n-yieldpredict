@@ -1,0 +1,119 @@
+{
+  "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
+  "common_name": "Blotch de frutas bacterianas",
+  "causal_agent": {
+    "type": "bacteria",
+    "scientific_name": "Acidovorax citrulli",
+    "taxonomy": {
+      "domain": "Bacterias",
+      "class": "Betaproteobacterias",
+      "order": "Burkholderales",
+      "family": "Comamonadaceae",
+      "genus": "Acidovorax",
+      "species": "citrulli"
+    }
+  },
+  "microbiological_properties": {
+    "gram_stain": "Gram negativo",
+    "shape": "En forma de varilla",
+    "size": "Aproximadamente 0,5 μm × 1,7 μm",
+    "oxygen_requirement": "Estrictamente aeróbico",
+    "motility": "Motil con flagellum polar",
+    "optimal_growth_temperature_celsius": "27-30"
+  },
+  "host_plants": [
+    "Sandía",
+    "Melón",
+    "Pepino",
+    "Squash",
+    "Calabaza",
+    "Zucchini"
+  ],
+  "symptoms": {
+    "seedlings": [
+      "Lesiones empapadas en agua en cotiledones",
+      "Lesiones necróticas cerca de las venas",
+      "Lesiones de hipocotilo",
+      "Colapso de plántula y muerte"
+    ],
+    "leaves": [
+      "Lesiones irregulares de marrón oscuro a negro (sandía)",
+      "Lesiones pardas rojas (melón)",
+      "Lesiones que se extienden por las venas",
+      "Síntomas de la mancha de la hoja"
+    ],
+    "fruits": [
+      "Pequeñas lesiones irregulares empapadas en agua",
+      "Manchas de corteza hundida",
+      "Las lesiones se vuelven marrones y se rompen.",
+      "Caída interna de los frutos",
+      "Pudrición de frutas antes de la cosecha"
+    ]
+  },
+  "disease_cycle": {
+    "primary_inoculum": "Semillas contaminadas",
+    "transmission_methods": [
+      "Transmisión de semillas",
+      "Agua de salpicadura",
+      "Lluvia eólica",
+      "Riego por cabeza"
+    ],
+    "infection_entry_points": [
+      "Stomata",
+      "Heridas de plantas"
+    ],
+    "fruit_infection_stage": "2–3 semanas después de la floración"
+  },
+  "favorable_conditions": {
+    "temperature_celsius": "Alta (alrededor de 27–30°C)",
+    "humidity": "Alta humedad relativa",
+    "environment": [
+      "Invernaderos",
+      "Poblaciones de plantas densas",
+      "Riego por cabeza"
+    ]
+  },
+  "economic_importance": {
+    "impact": "Pérdidas graves en cultivos de cucurbitáceas, especialmente sandía y melón",
+    "possible_loss_percentage": "Hasta 90–100% de pérdida de fruta en brotes graves",
+    "global_distribution": true
+  },
+  "management": {
+    "seed_management": [
+      "Utilizar semillas certificadas sin patógenos",
+      "Pruebas de salud de semillas (PCR o ensayos de crecimiento)"
+    ],
+    "seed_treatments": [
+      "Tratamiento térmico en seco (85°C durante 3-5 días)",
+      "Tratamiento del ácido peroxiacético",
+      "Tratamientos con cloro"
+    ],
+    "cultural_practices": [
+      "Reducir la humedad en invernaderos",
+      "Evitar el riego por encima del suelo",
+      "Eliminar las plantas infectadas"
+    ],
+    "chemical_control": [
+      "bactericidas a base de cobre"
+    ],
+    "host_resistance": "No hay cultivares resistentes comercialmente confiables disponibles"
+  },
+  "genetic_diversity": {
+    "groups": [
+      {
+        "name": "Grupo I",
+        "characteristics": "Moderadamente agresivo en múltiples cucurbitáceas"
+      },
+      {
+        "name": "Grupo II",
+        "characteristics": "Altamente agresivo en sandía"
+      }
+    ]
+  },
+  "sources": [
+    "Lecciones sobre la enfermedad de las plantas de APS",
+    "Revista de Estudios de Patología Vegetal sobre Acidovorax citrulli",
+    "Iniciativa Internacional de Salud de las Semillas (ISHI)",
+    "Publicaciones de investigación sobre Patología Vegetal"
+  ]
+}

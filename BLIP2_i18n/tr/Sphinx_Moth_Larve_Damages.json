@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
+  "pest_name": "Sphinx Moth Hakkında",
   "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "common_name": "Hürriyet",
+  "description": "Spinx mothlarının larval aşaması (caterpillar) genellikle hornworm olarak adlandırılır. büyük, pürüzsüz bir vücuda sahiptir, genellikle arka ucunda bir horn-like projesi ile.",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "Yapraklarda, çamurlarda ve bazen ev sahipliği yapan bitkilerin meyvelerinde beslenme",
+    "Topluluklar yüksek olduğunda bozulabilir.",
+    "Yapraklar genellikle düzensiz delikler veya yumuşak kenarlar vardır",
+    "Genç bitkileri zayıflatabilir ve domates, tütün ve diğer Solanaceae gibi bitkilerde üretimi azaltabilir."
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "Tomatlar (Solanum lycopersicum)",
+    "Nicotiana Tütün (Nicotiana Tütün)",
+    "Pirinç ( Capsicum spp )",
+    "Diğer Solanaceae türleri"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "Küçük bahçelerde el yapımı larva",
+    "Bacillus thuringiensis (Bt) veya parazit kaslar ile biyolojik kontrol",
+    "Genç bitkiler için çerçeve kapaklarının kullanımı",
+    "Kuşlar ve böcekler gibi doğal haydutları teşvik etmek"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "Sphinx moth larva genellikle diğer büyük caterpillars ile karıştırılır; arka ucunda köşeyi arayın.",
+    "Yönetim öncelikle larval aşamasına odaklanır, çünkü yetişkinler faydalı polenlerdir."
   ]
 }

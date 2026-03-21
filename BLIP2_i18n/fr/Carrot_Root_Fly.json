@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
+  "disease": "Dommages causés par la mouche des racines de carottes",
   "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "pathogen_type": "Insecte nuisible",
+  "description": "La mouche des racines de carottes est un insecte nuisible grave des carottes et des cultures connexes. La mouche adulte pond des oeufs dans le sol près des plantes de carottes. Les larves (maggots) éclosent et tunnelent dans les racines, se nourrissant des tissus et causant de graves dommages à la culture.",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "Les feuilles de carotte se flétrissent et deviennent faibles",
+    "Feuilles rouillées rouge ou jaune",
+    "tunnels brun-rusty sous la peau de la carotte",
+    "Les racines deviennent déformées et endommagées",
+    "Carottes pourrissent facilement après l'infection",
+    "Rendement réduit et racines de mauvaise qualité"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "tunnels bruns rouillés dans la racine de la carotte",
+    "racines de carottes endommagées avec des trous",
+    "feuillage rougeâtre ou jaune de la carotte"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "larves (maggots)",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "Les larves sont des agots jaunes crémeux",
+    "Les larves sont sans jambes",
+    "Les larves ont une longueur d'environ 10 mm",
+    "Les mouches adultes sont petites et basses."
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "racines",
+    "feuilles"
   ],
-
   "hosts": [
-    "carrot",
+    "Carotte",
     "parsnip",
-    "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "persil",
+    "Céleri",
+    "Autres cultures d'Apiacées"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apiacées",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "Les mouches adultes pondent des œufs dans le sol près des plantes de carottes",
+    "Les larves éclosent des œufs",
+    "Enterrement des larves dans les racines de carottes et les aliments pour animaux",
+    "Les larves se développent dans le sol et deviennent des mouches adultes"
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "températures froides à modérées",
+    "Conditions humides du sol",
+    "les champs ayant des cultures antérieures de carottes;"
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "mouches adultes pondant des œufs dans le sol",
+    "mouvement entre les champs de carottes à proximité"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "Utiliser la rotation des cultures pour éviter de planter des carottes à plusieurs reprises dans le même champ",
+    "Enlever les plantes infectées et les racines endommagées",
+    "Utiliser des barrières physiques comme le filet de mailles ou d'insectes",
+    "Utiliser la polaire horticole pour couvrir les cultures",
+    "Variétés de carottes résistantes aux végétaux lorsqu'elles sont disponibles"
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "Nématodes bénéfiques (espèces Steinernema) appliqués sur le sol",
+    "Encourager les prédateurs naturels des larves de mouches"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "insecticides approuvés pour le sol, lorsqu'ils sont disponibles",
+    "traitement ciblé des insecticides contre les larves (la réglementation locale s'applique)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "oignon",
+    "à l'ail",
+    "ruches",
+    "romarin",
+    "Sage"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "Utiliser des filets d'insectes fins autour des cultures",
+    "Couvrir les cultures avec la polaire horticole",
+    "Carottes intercalaires avec plantes aromatiques",
+    "Maintien de l ' assainissement sur le terrain",
+    "Éviter de laisser des carottes endommagées dans le sol"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Publications de vulgarisation agricole universitaire",
+    "Guides de lutte intégrée contre les ravageurs"
   ]
 }

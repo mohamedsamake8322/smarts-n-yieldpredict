@@ -1,0 +1,52 @@
+{
+  "disease": "Escarabajo Longhorn infestación",
+  "scientific_name": "Familia: Cerambycidae",
+  "pathogen_type": "Plagas de insectos",
+  "description": "Los escarabajos Longhorn son insectos que atacan árboles y plantas leñosas. Las larvas se hunden en tallos y troncos, debilitan las plantas y causan daños estructurales, que a veces conducen a la muerte del huésped.",
+  "symptoms": [
+    "Agujeros y túneles en tallos, ramas o troncos",
+    "Frass (excremento similar a la sierra) alrededor de los orificios de entrada",
+    "Alambre o amarillento de las hojas",
+    "Retroceso de las ramas",
+    "Crecimiento aturdido"
+  ],
+  "hosts": [
+    "Árboles de madera dura (roble, arce, ceniza)",
+    "Árboles frutales (manzana, cereza, melocotón)",
+    "Árboles forestales",
+    "Árboles ornamentales y arbustos"
+  ],
+  "favorable_conditions": [
+    "Árboles estresados o debilitados",
+    "Climas cálidos y húmedos",
+    "Presencia de madera caída o muerta cerca"
+  ],
+  "spread": [
+    "Escarabajos adultos volando a árboles cercanos",
+    "Desplazamiento de leña infestada, troncos o material de vivero",
+    "Dispersión natural por adultos que buscan nuevas plantas hospedadoras"
+  ],
+  "management": [
+    "Inspeccionar y eliminar la madera infestada",
+    "Prune y destruya las ramas afectadas",
+    "Monitorear poblaciones de escarabajos adultos con trampas",
+    "Promover la salud de los árboles para reducir la susceptibilidad",
+    "Evite transportar leña o material vegetal de zonas infestadas"
+  ],
+  "chemical_control": [
+    "Insecticidas sistémicos (por ejemplo, imidacloprid) aplicados al suelo o inyectados en los árboles",
+    "Insecticidas de contacto (piretroides) en la corteza para el control de adultos",
+    "El tiempo es crítico: se dirige a las larvas jóvenes y a los adultos emergentes"
+  ],
+  "prevention": [
+    "Cuarentena e inspección de las plantas importadas de madera y viveros",
+    "Mantener la salud vigorosa de los árboles",
+    "Retire los árboles muertos o estresados rápidamente",
+    "Utilizar envoltorios de árboles o barreras protectoras cuando sea posible"
+  ],
+  "source": [
+    "Hojas Informativas del Servicio Forestal de USDA",
+    "Compendio de especies invasoras del CABI",
+    "Literatura científica sobre el manejo de plagas de Cerambycidae"
+  ]
+}

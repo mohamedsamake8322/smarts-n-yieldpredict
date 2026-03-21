@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
-  "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "disease": "Gugu la maharagwe",
+  "scientific_name": "Mwarimyces ryneniculatus",
+  "pathogen_type": "Kuvu",
+  "description": "Kutu ya maharagwe ni ugonjwa wa kuvu unaoathiri majani ya maharagwe, mashina na nyakati nyingine pods. Hutokeza pustule zenye rangi ya kutu kwenye majani ambayo hupunguza usanidimwanga na yaweza kufanya majani ya mapema yaanguke na kupoteza mazao.",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "Alama ndogo nyeupe au manjano kwenye majani",
+    "Machungwa, pustule wenye rangi ya kahawia au ya kutu upande wa chini wa jani",
+    "Chembe za uzazi zilizotengenezwa kutokana na pustule",
+    "Mabuu yaliyo karibu na vidonda",
+    "Majani yaliyoambukizwa vibaya sana hukauka na kuanguka mapema",
+    "Pustili za pindi kwa pindi juu ya mashina na podi"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
+    "ini ya kawaida",
+    "figo aina ya beni",
+    "paper size",
+    "\" black itan \"",
+    "paper size",
+    "lima beani",
     "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "ng'ombe",
+    "spishi nyingine za Phaselu"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "Halijoto za kiasi (1825 mashindano ya joto)",
+    "Unyevu mwingi",
+    "Mvua ya mara nyingi",
+    "Kulowa majani kwa muda wa saa kadhaa",
+    "Maeneo yenye matawi mengi ya miti"
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "Chembe za kuvu zisababishwazo na upepo",
+    "Maji ya mvua",
+    "Takataka za mimea zilizoambukizwa",
+    "Viini vinavyotokana na hewa vinavyosafiri mbali sana"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "Aina mbalimbali za maharagwe sugu",
+    "Zungusha mazao kwa mimea isiyo ya asili",
+    "Ondoa mabaki ya mazao yaliyoambukizwa",
+    "Fanya maendeleo ya hatua kwa hatua kwa ajili ya hewa",
+    "Utabiri wa mashamba mapema wakati wa majira ya kupanda"
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "Spishi za Trichoderma zitumiwazo kama dawa za kuua kuvu za kibiolojia",
+    "Bacillus urtilis zilizo na biofungucides"
   ],
   "chemical_control": [
     "Mancozeb",
-    "Chlorothalonil",
+    "Klorothalolonil",
     "Tebuconazole",
-    "Propiconazole",
-    "Azoxystrobin",
-    "Myclobutanil"
+    "Proponazole",
+    "Azoxystbin",
+    "Myclobunil"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "Tumia mbegu zilizothibitishwa zisizo na maradhi",
+    "Epuka kupanda sana",
+    "Ondoa takataka za mimea iliyoambukizwa baada ya kuvuna",
+    "Tumia wafuasi wa madhehebu sugu",
+    "Mimea inayochunguza mazao wakati wa hali ya hewa yenye unyevunyevu"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "KABI Protection Compendium",
+    "FAO Plange Disease Managements",
+    "Vichapo vya Kuchunguza Mimea Katika Chuo Kikuu"
   ]
 }

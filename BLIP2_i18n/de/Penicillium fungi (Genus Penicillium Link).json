@@ -1,0 +1,70 @@
+{
+  "disease": "Penicilliumform",
+  "scientific_name": "Genus Penicillium",
+  "pathogen_type": "Pilze",
+  "description": "Penicillium ist eine Pilzgattung, die häufig in Boden, Luft und verrottenden organischen Stoffen vorkommt. Viele Arten verursachen Post-Ernte-Erkrankungen in Obst und Gemüse, produzieren blaue oder grüne Schimmelpilze und führen zu erheblichen Lagerverlusten.",
+  "symptoms": [
+    "Weiche wässrige Fäule auf Früchten oder Pflanzengeweben",
+    "Blau-grüne oder grüne Pulverform auf infizierten Gebieten",
+    "Versunkene Läsionen auf Fruchtoberflächen",
+    "Schneller Zerfall während der Lagerung",
+    "Musty Geruch von infizierten Produkten"
+  ],
+  "visual_symptoms": [
+    "blaues oder grünes Schimmelwachstum auf der Fruchtoberfläche",
+    "pulverförmige Pilzsporen, die Läsionen bedecken",
+    "Weiches verrottendes Gewebe rund um die Infektionsstelle"
+  ],
+  "hosts": [
+    "Apfel",
+    "Zitrusfrüchte",
+    "Weintrauben",
+    "Birne",
+    "Pfirsich",
+    "Tomaten",
+    "Erdbeere",
+    "Getreide und Samen"
+  ],
+  "favorable_conditions": [
+    "Hohe Luftfeuchtigkeit",
+    "Kühle bis moderate Temperaturen",
+    "Schlechte Lagerungsbedingungen",
+    "Verwundete oder beschädigte Früchte"
+  ],
+  "spread": [
+    "Pilzsporen in der Luft",
+    "Kontakt zwischen infizierten und gesunden Produkten",
+    "Kontaminierte Lagerbehälter und Werkzeuge"
+  ],
+  "impact": [
+    "Nach der Ernte zerfallen die Früchte",
+    "Verlust der Produktqualität während der Lagerung",
+    "Reduzierter Marktwert der Erzeugnisse",
+    "Potenzielle Produktion von Mykotoxinen bei einigen Arten"
+  ],
+  "management": [
+    "Behandeln Sie Früchte sorgfältig, um Wunden zu vermeiden",
+    "Produkte bei empfohlener Temperatur und Luftfeuchtigkeit lagern",
+    "Befallene Früchte sofort entfernen",
+    "Pflege sauberer Lagereinrichtungen",
+    "Wenn verfügbar, resistente Sorten verwenden"
+  ],
+  "biological_control": [
+    "Verwendung von wohltuenden Mikroben wie Bacillus-Arten",
+    "Anwendung antagonistischer Hefen zur Unterdrückung des Schimmelwachstums"
+  ],
+  "chemical_control": [
+    "Nacherntefungizide wie Thiabendazol oder Imazalil",
+    "Verwendung zugelassener Fungizide in Abhängigkeit von der Kultur"
+  ],
+  "prevention": [
+    "Sanitize Lagerräume und Container",
+    "Vermeiden Sie mechanische Verletzungen während der Ernte",
+    "Richtige Lüftung in Lageranlagen",
+    "Kühlkette für verderbliche Kulturen beibehalten"
+  ],
+  "source": [
+    "Literatur zur Pflanzenpathologie über Post-Ernte-Erkrankungen",
+    "Mykologische Hinweise auf Penicillium-Arten"
+  ]
+}

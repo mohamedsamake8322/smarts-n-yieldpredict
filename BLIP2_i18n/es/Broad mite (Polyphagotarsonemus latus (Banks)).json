@@ -1,0 +1,79 @@
+{
+  "disease": "Daño de ácaros anchos",
+  "scientific_name": "Polifagotarsonemus latus",
+  "pathogen_type": "Mita (plaga artrópoda)",
+  "description": "El ácaro ancho es una plaga microscópica que ataca los tejidos jóvenes de las plantas. Se alimenta de hojas, tallos y frutas inyectando saliva tóxica que distorsiona el crecimiento de las plantas. El daño causa una severa deformación de las hojas y los frutos y puede reducir significativamente el rendimiento de los cultivos.",
+  "symptoms": [
+    "Hojas jóvenes distorsionadas o retorcidas",
+    "Rizado y engrosamiento de las hojas",
+    "Bronceo u oscurecimiento de la superficie de la hoja",
+    "Crecimiento de plantas aturdidas",
+    "Frutos craqueados o cicatrizados",
+    "Cogollos y flores deformes",
+    "Los tejidos jóvenes se vuelven duros y quebradizos"
+  ],
+  "hosts": [
+    "pimienta",
+    "chile",
+    "tomate",
+    "berenjena",
+    "Patata",
+    "pepino",
+    "melón",
+    "Habas",
+    "algodón",
+    "té",
+    "cítricos",
+    "papayas",
+    "aguacate",
+    "mango",
+    "plantas ornamentales"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Alta humedad",
+    "Dosel de plantas densas",
+    "Baja circulación del aire",
+    "Entornos de efecto invernadero"
+  ],
+  "spread": [
+    "Movimiento del viento",
+    "Herramientas y materiales vegetales contaminados",
+    "Movimiento de insectos como las moscas blancas",
+    "Transporte de prendas de vestir para los trabajadores"
+  ],
+  "management": [
+    "Control regular de las hojas jóvenes",
+    "Eliminar las partes de plantas muy infestadas",
+    "Mejorar la circulación del aire entre las plantas",
+    "Utilizar variedades resistentes o tolerantes cuando estén disponibles",
+    "Evitar la fertilización excesiva de nitrógeno"
+  ],
+  "biological_control": [
+    "Ácaros depredadores como Neoseiulus californicus",
+    "Ácaros depredadores como Amblyseius swirskii",
+    "Ácaros depredadores como Phytoseiulus persimilis",
+    "Uso de hongos entomopatógenos como Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Abamectina",
+    "Spiromesifen",
+    "Espirodiclofeno",
+    "Bifenazato",
+    "Miticidas a base de azufre",
+    "Fenpiroximato"
+  ],
+  "prevention": [
+    "Inspeccione las plántulas antes de plantar",
+    "Mantener una buena higiene de invernadero",
+    "Controlar las malas hierbas que pueden albergar ácaros",
+    "Evite mover plantas infestadas",
+    "Monitorear regularmente durante los períodos húmedos cálidos"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Extensión IFAS de la Universidad de Florida",
+    "Documentación sobre gestión integrada de plagas",
+    "Referencias fitoentomológicas"
+  ]
+}

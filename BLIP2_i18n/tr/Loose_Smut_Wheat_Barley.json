@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "Loose Smut of Wheat ve Barley",
+  "scientific_name": "Ustilago tritici (İngilizce)",
+  "pathogen_type": "Fungal Patogenleri",
+  "description": "Mantar, gelişen çekirdekleri enfekte eder ve onları çiçeklenme sırasında rüzgâr tarafından dağıtılan siyah spora kütleleriyle değiştirir, bu da önemli gelir kaybına yol açar.",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "Siyah, tozlu spores ile değiştirilmiş spikelets",
+    "Etkilenen başlar sağlıklı başlardan daha erken ortaya çıkar",
+    "Yapraklarda veya çamurlarda bitkisel belirtiler yok",
+    "Enfeksiyon oranı ile orantılı kayıp"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "Çilek (Triticum aestivum)",
+    "Hordeum vulgare (Hordeum vulgare) Hakkında"
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "Çiçeklenme sırasında soğuk ve nemli koşullar",
+    "Enfekte tohumların yetiştirilmesi"
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "Sağlıklı çiçekler için rüzgar spores yayılır",
+    "Enfekte tahıllardan çekirdek akışı"
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "Sertifikalı, hastalık dışı tohumlar kullanın",
+    "sistemik fungicidler ile tedavi",
+    "Enfekte bitkilerden tohumları kurtarmaktan kaçının.",
+    "Ev sahibi olmayan türlerle bitki dönüşü"
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "Karboxin, triadimenol veya thiram fungicides ile tohum tedavisi"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "Sadece sertifikalı temiz tohum",
+    "Crop Rotation Uygulama",
+    "Sanitize depolama ve bitirme ekipmanları"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "CABI Bitki Koruma Ödülü",
+    "FAO Bitki Sağlığı Kılavuzu",
+    "Etiket Arşivi: Ustilago tritici"
   ]
 }

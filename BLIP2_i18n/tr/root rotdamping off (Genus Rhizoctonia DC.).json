@@ -1,90 +1,90 @@
 {
- "disease": "Rhizoctonia Root Rot and Damping-off",
- "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
- "pathogen_type": "Fungus",
- "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
- "symptoms": [
-  "Seedlings collapsing at the soil line",
-  "Brown or reddish lesions on stems near the soil surface",
-  "Root rot and poor root development",
-  "Wilting and stunted plant growth",
-  "Irregular patches of dead or weak plants in the field",
-  "Stem girdling causing plant death"
- ],
- "visual_symptoms": [
-  "brown sunken lesions at soil line",
-  "seedlings falling over",
-  "rotted or poorly developed roots",
-  "patches of dead seedlings"
- ],
- "hosts": [
-  "Beans",
-  "Soybean",
-  "Maize",
-  "Rice",
-  "Potato",
-  "Tomato",
-  "Lettuce",
-  "Cabbage",
-  "Carrot",
-  "Pepper",
-  "Cotton",
-  "Many vegetable and field crops"
- ],
- "plant_parts_affected": [
-  "roots",
-  "seedlings",
-  "lower stem",
-  "hypocotyl"
- ],
- "favorable_conditions": [
-  "Warm and moist soil",
-  "Poorly drained soil",
-  "High plant density",
-  "Compacted soil",
-  "Crop residue in soil"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Movement of soil on tools or machinery",
-  "Infected seedlings or transplants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil and plant debris",
-  "It infects seeds or young seedlings",
-  "Lesions develop on stems and roots",
-  "The pathogen spreads through soil contact"
- ],
- "impact": [
-  "Poor seed germination",
-  "Loss of seedlings",
-  "Reduced plant population",
-  "Lower crop yield"
- ],
- "cultural_control": [
-  "Use well-drained soils",
-  "Avoid planting in cold or very wet soil",
-  "Rotate crops with non-host plants",
-  "Reduce plant density",
-  "Remove infected plant debris"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment fungicides",
-  "Soil fungicides when necessary"
- ],
- "prevention": [
-  "Use certified healthy seeds",
-  "Improve soil drainage",
-  "Avoid excessive irrigation",
-  "Practice crop rotation"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Rhizoctonia Root Rot ve Damping-off",
+  "scientific_name": "Rhizoctonia spp. (Rhizoctonia genleri)",
+  "pathogen_type": "Fonksiyon",
+  "description": "Rhizoctonia kök kökü ve damping-off, toprakta bulunan mantar hastalığıdır ve tohumları, tohumları ve bitki köklerini saldırır. toprak çizgisi, kök kökü ve genç bitkilerin çöküşü yakın çamur hasarlarına neden olur.",
+  "symptoms": [
+    "Tohumlar toprak çizgisinde çöküyor",
+    "Kahverengi veya çamurlu yaralanmalar, toprak yüzeyinin yakınında çamurlarda",
+    "Korkunç kök ve kötü kök gelişimi",
+    "Sıkıntılı ve çarpıcı bitki büyümesi",
+    "Bölgede ölü veya zayıf bitkilerin düzensiz patlamaları",
+    "Bitki ölümüne yol açan çamur"
+  ],
+  "visual_symptoms": [
+    "Yüzey çizgisinde kahverengi boğulma hasarları",
+    "Yetişkinler düşüyor",
+    "Kırık veya kötü gelişmiş kökleri",
+    "Ölü tohumların tohumları"
+  ],
+  "hosts": [
+    "Beanlar",
+    "Soylu",
+    "Maize",
+    "pirinç",
+    "Patates",
+    "domates",
+    "Mutluluk",
+    "Cabbage için",
+    "araba",
+    "Pepper için",
+    "Pamuk",
+    "Çok sayıda sebze ve tarım ürünleri"
+  ],
+  "plant_parts_affected": [
+    "Kökleri",
+    "tohumları",
+    "Düşük ses",
+    "hipotek"
+  ],
+  "favorable_conditions": [
+    "Sıcak ve ıslak toprak",
+    "Zayıf bir şekilde tahrip edilmiş toprak",
+    "Yüksek bitki yoğunluğu",
+    "Kompakt toprak",
+    "Toprakta bitki kalıntıları"
+  ],
+  "spread": [
+    "kirlenmiş toprak",
+    "Enfekte bitki çöpleri",
+    "Alet veya makine üzerinde toprak hareketleri",
+    "Enfeksiyon veya transplantasyon"
+  ],
+  "disease_cycle": [
+    "Mantar toprak ve bitki çöplerinde hayatta kalır",
+    "Tohumları veya genç tohumları enfekte eder.",
+    "Kırışıklıklar kökleri ve kökleri üzerinde gelişir",
+    "Patogen toprak temas yoluyla yayılır"
+  ],
+  "impact": [
+    "Kötü tohum germinasyonu",
+    "Yetiştiricilerin kaybı",
+    "Bitki nüfusunun azaltılması",
+    "Düşük bitki üretimi"
+  ],
+  "cultural_control": [
+    "iyi ıslatılmış toprak kullanın",
+    "Soğuk veya çok ıslak topraklarda dikilmekten kaçının.",
+    "Ev sahibi olmayan bitkilerle döndürülen bitkiler",
+    "Bitki yoğunluğunu azaltmak",
+    "Enfekte bitki kalıntılarını ortadan kaldırmak"
+  ],
+  "biological_control": [
+    "Trichoderma türleri gibi faydalı mantarlar kullanın",
+    "Bacillus subtilis gibi faydalı bakterileri kullanın"
+  ],
+  "chemical_control": [
+    "Tohum tedavisi fungicid",
+    "İhtiyaç duyulduğunda toprak fungicidleri"
+  ],
+  "prevention": [
+    "Sertifikalı sağlıklı tohumlar kullanın",
+    "Toprak drenajını iyileştirmek",
+    "Aşırı sulama önlemek",
+    "Crop Rotasyon Uygulamaları"
+  ],
+  "source": [
+    "Bitki Patolojisi Referansları",
+    "Tarımsal Hastalık Yönetimi Rehberi"
+  ]
 }

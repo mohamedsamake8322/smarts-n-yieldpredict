@@ -1,92 +1,209 @@
 {
-  "pest_name": "Southern Red Mite",
-  "scientific_name": "Oligonychus ilicis",
-  "common_abbreviation": "SRM",
-  "description": "Southern red mite is a spider mite pest recorded on a wide range of plants including camellia, rhododendron, holly, and coffee. Individuals tend to inhabit the upper leaf. Pesticide resistance has been reported overseas, and typical two-spotted mite predators are ineffective against SRM.",
+  "pest_name": "南南红米特",
+  "scientific_name": "硅",
+  "common_abbreviation": "SRRM SRRM SRRM SRRM SRRM SRRM",
+  "description": "南红米特是一种在包括骆驼、罗多登龙、霍利和咖啡在内的多种植物中记录到的蜘蛛米特害虫。 个人往往居住在上叶。 农药抗药性在海外有报道,典型的双点鼠食肉动物对SRM是无效的。",
   "appearance": {
-    "size": "<0.5 mm",
-    "color": "Reddish brown to deep purplish-red, sometimes with a pale central patch and lighter legs",
-    "sexual_dimorphism": "Females slightly larger, rounded posteriorly; males slender and paler",
-    "eggs": "Reddish brown, spherical; normally on upper leaf surface, overwintering eggs mainly on lower leaf surface"
+    "size": "< 0.5毫米",
+    "color": "红褐色到深净棕色 有时有一片苍白的中央小块和轻腿",
+    "sexual_dimorphism": "女性略大,后四舍四入;男性苗头和皮肤",
+    "eggs": "红褐色,球面;通常在上叶表面,主要在下叶表面过冬鸡蛋"
   },
   "life_cycle": {
-    "stages": ["egg", "larva (6 legs)", "nymph1 (8 legs)", "nymph2 (8 legs)", "adult"],
-    "generation_time": "7 days under favorable conditions",
-    "population_peaks": "Spring and autumn (moderate temperatures 15–30°C, dry conditions)",
-    "overwintering": "Eggs on lower leaf surface and sometimes bark"
+    "stages": [
+      "蛋蛋蛋",
+      "幼虫(6条腿)",
+      "尼ph1(8条腿)",
+      "尼ph2 (8条腿)",
+      "成年成人"
+    ],
+    "generation_time": "在有利条件下7天",
+    "population_peaks": "春季和秋季(中温15-30°C,干燥条件)",
+    "overwintering": "下叶表面的鸡蛋,有时还叫"
   },
   "dispersal": [
-    "Wind-borne; may dangle from silk threads",
-    "Hitch-hiking on people and equipment",
-    "Spread by touching leaves"
+    "风向; 可能从丝线中缠绕",
+    "对人和设备的搭便车",
+    "以触摸树叶的方式传播"
   ],
   "host_range": [
-    {"common_name": "Azalea", "scientific_name": "Rhododendron spp."},
-    {"common_name": "Camellia", "scientific_name": "Camellia japonica"},
-    {"common_name": "American sycamore", "scientific_name": "Platanus occidentalis"},
-    {"common_name": "Boxwood", "scientific_name": "Buxus spp."},
-    {"common_name": "Camphor tree", "scientific_name": "Cinnamonum camphora"},
-    {"common_name": "Coffee", "scientific_name": "Coffea arabica"},
-    {"common_name": "Cotoneaster", "scientific_name": "Cotoneaster sp."},
-    {"common_name": "Cranberry", "scientific_name": "Vaccinium macrocarpon"},
-    {"common_name": "Deer grass", "scientific_name": "Rhexia sp."},
-    {"common_name": "Doghobble", "scientific_name": "Leucothoe sp."},
-    {"common_name": "Elaeagnus/silverthorn", "scientific_name": "Elaeagnus pungens"},
-    {"common_name": "English walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus spp."},
-    {"common_name": "Guava", "scientific_name": "Psidium guajava"},
-    {"common_name": "Holly", "scientific_name": "Ilex spp."},
-    {"common_name": "Hibiscus", "scientific_name": "Hibiscus spp."},
-    {"common_name": "Juniper", "scientific_name": "Juniperus sp."},
-    {"common_name": "Laurel or bay leaf", "scientific_name": "Laurus nobilis"},
-    {"common_name": "Loquat", "scientific_name": "Eriobotrya japonica"},
-    {"common_name": "Oak", "scientific_name": "Quercus sp."},
-    {"common_name": "Pear", "scientific_name": "Pyrus communis"},
-    {"common_name": "Pecan", "scientific_name": "Carya illinoensis"},
-    {"common_name": "Photinia/red tip", "scientific_name": "Photinia spp."},
-    {"common_name": "Pyracantha", "scientific_name": "Pyracantha coccinea"},
-    {"common_name": "Rose apple", "scientific_name": "Syzygium jambos"},
-    {"common_name": "Silky oak", "scientific_name": "Grevillea robusta"},
-    {"common_name": "Spruce", "scientific_name": "Picea sp."},
-    {"common_name": "Summersweet", "scientific_name": "Clethra alnifolia"},
-    {"common_name": "Strawberry", "scientific_name": "Fragaria x ananassa"},
-    {"common_name": "Tea", "scientific_name": "Camellia sinensis"},
-    {"common_name": "Viburnum", "scientific_name": "Viburnum spp."},
-    {"common_name": "Oxalis", "scientific_name": "Oxalis"},
-    {"common_name": "Sheep laurel", "scientific_name": "Kalmia angustifolia"},
-    {"common_name": "Chokeberry", "scientific_name": "Prunus virginiana"},
-    {"common_name": "Leatherleaf", "scientific_name": "Chamaedaphne calyculata"},
-    {"common_name": "Walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Rice", "scientific_name": "Oryza sativa"}
+    {
+      "common_name": "阿扎莱亚",
+      "scientific_name": "罗多登德龙斯普"
+    },
+    {
+      "common_name": "骆驼",
+      "scientific_name": "卡美利亚japonica. kgm"
+    },
+    {
+      "common_name": "美国西卡摩",
+      "scientific_name": "白百日咳"
+    },
+    {
+      "common_name": "盒木",
+      "scientific_name": "Buxussspp. 贝克斯・塞普。"
+    },
+    {
+      "common_name": "Camphor树",
+      "scientific_name": "Cinnamonum 野营a"
+    },
+    {
+      "common_name": "咖啡咖啡咖啡 咖啡咖啡咖啡咖啡",
+      "scientific_name": "阿拉伯可咖啡"
+    },
+    {
+      "common_name": "科东",
+      "scientific_name": "怪兽斑斑"
+    },
+    {
+      "common_name": "Cranberry 草莓",
+      "scientific_name": "大型疫苗"
+    },
+    {
+      "common_name": "鹿草",
+      "scientific_name": "瑞夏飞弹"
+    },
+    {
+      "common_name": "单形",
+      "scientific_name": "鲁科索斯螺旋。"
+    },
+    {
+      "common_name": "Elaeagnus/硅角",
+      "scientific_name": "Eleaagnus"
+    },
+    {
+      "common_name": "英语胡桃",
+      "scientific_name": "Juglans Juglans 重生"
+    },
+    {
+      "common_name": "Eucalyptus( 乌卡利普图斯)",
+      "scientific_name": "欧卡利普图斯・塞普斯"
+    },
+    {
+      "common_name": "瓜瓦",
+      "scientific_name": "酸"
+    },
+    {
+      "common_name": "霍利",
+      "scientific_name": "艾力克斯・斯普"
+    },
+    {
+      "common_name": "希比斯库",
+      "scientific_name": "希比修斯・斯普"
+    },
+    {
+      "common_name": "朱尼珀",
+      "scientific_name": "朱尼珀勒斯区"
+    },
+    {
+      "common_name": "劳蕾尔或海湾叶",
+      "scientific_name": "劳鲁斯诺比利斯"
+    },
+    {
+      "common_name": "洛奎特",
+      "scientific_name": "埃里奥博托里亚japonica. kgm"
+    },
+    {
+      "common_name": "橡橡木",
+      "scientific_name": "克雷克斯飞跃。"
+    },
+    {
+      "common_name": "梨梨",
+      "scientific_name": "Pyrus 通讯社"
+    },
+    {
+      "common_name": "Pecan 白豹",
+      "scientific_name": "卡里亚不治虫病"
+    },
+    {
+      "common_name": "Photinia/ red 提示",
+      "scientific_name": "Photinia spp. 皮卡提亚・塞普。"
+    },
+    {
+      "common_name": "皮拉坎塔",
+      "scientific_name": "Pyracantha cocccinea( 焦皮拉坎塔 coccinea)"
+    },
+    {
+      "common_name": "玫瑰苹果",
+      "scientific_name": "干扰"
+    },
+    {
+      "common_name": "丝状橡木",
+      "scientific_name": "格勒韦拉"
+    },
+    {
+      "common_name": "斯普鲁斯",
+      "scientific_name": "Picea 螺旋。"
+    },
+    {
+      "common_name": "夏夏甜甜",
+      "scientific_name": "克莱特拉阿尔尼福利亚"
+    },
+    {
+      "common_name": "草莓",
+      "scientific_name": "Fragaria x anasanassa 稀释剂"
+    },
+    {
+      "common_name": "茶茶茶茶茶茶",
+      "scientific_name": "骆驼罪"
+    },
+    {
+      "common_name": "维本",
+      "scientific_name": "维本伦・塞普"
+    },
+    {
+      "common_name": "Oxalis",
+      "scientific_name": "Oxalis"
+    },
+    {
+      "common_name": "羊羊 Laurel",
+      "scientific_name": "卡米亚 angustifolia"
+    },
+    {
+      "common_name": "巧克力莓",
+      "scientific_name": "普鲁努斯·弗吉尼亚"
+    },
+    {
+      "common_name": "叶叶叶叶",
+      "scientific_name": "查姆达伊达·卡林库拉塔(Clycuulata)"
+    },
+    {
+      "common_name": "胡桃",
+      "scientific_name": "Juglans Juglans 重生"
+    },
+    {
+      "common_name": "大米稻米",
+      "scientific_name": "Oryza 萨迪瓦"
+    }
   ],
   "damage_symptoms": [
-    "Feeding on upper leaves causes mesophyll collapse, graying, and stippling",
-    "Leaves lose luster, appear bronzed or dull",
-    "Bronzing starts along midrib and veins, eventually covering entire leaf",
-    "Large populations cause severe leaf drop",
-    "Reduced plant vigor and growth, particularly on dry or water-stressed plants"
+    "上叶喂食导致中草素崩溃、灰色和悬浮",
+    "叶叶失去光华,看起来青铜或枯燥",
+    "青铜从中脊和静脉开始 最终覆盖整个叶叶",
+    "大量人口导致严重叶叶落",
+    "减少植物的振动和生长,特别是干旱或水压工厂"
   ],
   "detection_monitoring": [
-    "Direct visual observation of damage, living mites, and cast-off skins",
-    "Hand lens for confirmation",
-    "Plant beating on tray (white/black) for low populations",
-    "Observation of red eggs on host plants"
+    "直接目视观测损害、活活和抛光皮",
+    "确认用的手透镜",
+    "低人口(白人/黑人)在托盘上殴打植物(白人/黑人)",
+    "对宿主植物的红蛋观测"
   ],
   "chemical_control": [
-    "Older generation pesticides historically used",
-    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad effective under certain conditions",
-    "Abamectin, chlorfenapyr, dimethoate, fenbutatin oxide, maldison not always effective",
-    "Late applications less effective; early application when populations low recommended"
+    "历史上使用的老一代杀虫剂",
+    "涕灭灭威、二芬氯苯丙菊酯、毒死剂、三氯杀螨醇、异甲酸、丙酸盐、磷酸盐、酸二氟硝酸酯、四氟苯丙烯酯在某些条件下有效",
+    "Abamectin, 氯fenapyr, 甲酸甲酯, 苯丁二氧化物, 恶性动物, 并不总是有效的",
+    "晚期应用效果不那么有效;在被推荐人口少时早期应用"
   ],
   "biological_control": [
-    "Predatory mites (Neoseiulus fallacis) and ladybeetle (Stethorus punctillum) effective overseas",
-    "Predators such as Neoseiulus californicus and Phytoseiulus persimilis not recommended for SRM",
-    "Conservation of natural predators can help reduce populations"
+    "野外有效的食用虫(Neoseiulus facis)和虫(Stethorus punctillum)",
+    "Neoseyulus californicus和不推荐给SRM的Phytoseyulus persimilis等捕食者",
+    "保护自然掠食动物可有助于减少人口"
   ],
   "notes": [
-    "SRM prefers upper leaf surface, moves lower as populations increase",
-    "Populations peak in moderate temperature and dry conditions",
-    "High rainfall reduces populations",
-    "Australian commercial predators have not been tested against SRM"
+    "SRM 更喜欢上叶叶表面,随着人口增加而降低",
+    "中温和干燥条件下的人口高峰",
+    "高降雨量减少人口",
+    "澳大利亚商业食肉动物尚未受到SRM的测试"
   ]
 }

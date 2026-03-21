@@ -1,0 +1,64 @@
+{
+  "pest_name": "Virus del mosaico de la hoja de soja",
+  "scientific_name": "Virus del mosaico de soja (SMV)",
+  "common_abbreviations": [
+    "SMV"
+  ],
+  "description": "El virus del mosaico de soja (SMV) es un virus de plantas extendido que afecta principalmente a la soja, causando el mosaico de hojas, el retraso en el crecimiento, el número reducido de vainas y la decoloración de las semillas.",
+  "distribution": "En todo el mundo, en todas las zonas de cultivo de soja, especialmente en las regiones templadas y subtropicales.",
+  "host_range": {
+    "general": "Mayormente Glycine max (soya cultivada) y G. soja (soya silvestre)",
+    "notable_hosts": [
+      "Guisantes",
+      "Judía de snap"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Moteado con parches verdes claros y oscuros",
+      "Recorte por las venas",
+      "Rizado hacia abajo de las hojas de hoja",
+      "Aturdimiento y reducción del vigor"
+    ],
+    "pod": [
+      "Número reducido de vainas por planta",
+      "Semillas descoloridas y arrugadas"
+    ]
+  },
+  "damage": [
+    "Reducción de la calidad, el tamaño y la germinación de las semillas",
+    "Reducción de la nodulación y del rendimiento",
+    "Los síntomas pueden ser leves o ausentes en altas temperaturas",
+    "Impacto grave cuando se coinfecta con otros virus (p. ej., BPMV)"
+  ],
+  "biology": {
+    "pathogen_type": "Virus, género Potyvirus, familia Potyviridae",
+    "particle": "Partículas filamentarias ~7500 Å de largo, 120 Å de diámetro",
+    "genome": "ARN de sentido positivo de una cadena (~9,6 kb) con proteína VPg al final de 5′, codificando una sola poliproteína procesada en ~10 proteínas funcionales",
+    "transmission": [
+      "Transmisión afid no persistente",
+      "Transmisión de semillas",
+      "Savia"
+    ],
+    "favorable_conditions": "Temperaturas frías a moderadas (16–28°C), la actividad áfida favorece la propagación",
+    "seed_transmission_rate": "Típicamente < 5%, pero variable dependiendo de cultivar"
+  },
+  "management": {
+    "cultural_control": [
+      "Utilizar semillas libres de patógenos",
+      "Planta a principios de la temporada para reducir el impacto",
+      "Supervisar y gestionar las poblaciones de áfidos"
+    ],
+    "genetic_control": [
+      "Utilizar cultivares con genes de resistencia (genes R)"
+    ],
+    "chemical_control": [
+      "Efectividad limitada de los insecticidas para controlar los pulgones para reducir la propagación del virus"
+    ]
+  },
+  "notes": [
+    "Las interacciones SMV con genes R se estudian como un modelo para la resistencia gene-por-gene",
+    "El silenciamiento del ARN desempeña un papel en la transmisión de semillas y moteado de la capa de semillas",
+    "La transmisión por pulgones está influenciada por las proteínas virales HC-Pro y la proteína de la capa (CP)"
+  ]
+}

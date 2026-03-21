@@ -1,78 +1,78 @@
 {
-  "disease": "Corn smut",
+  "disease": "Siku ya maumivu",
   "other_names": [
-    "Common smut",
-    "Boil smut",
-    "Blister smut",
-    "Huitlacoche",
-    "Cuitlacoche"
+    "Maumivu ya kawaida",
+    "Maumivu ya dhambi",
+    "Maisha ya Blister",
+    "ya Huitlacoche",
+    "Mwisho wa"
   ],
-  "scientific_name": "Mycosarcoma maydis",
-  "synonym": "Ustilago maydis",
-  "pathogen_type": "Fungus",
-  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "scientific_name": "Maandiko ya Mykosarcoma",
+  "synonym": "Maisha ya Maisha",
+  "pathogen_type": "Fungus ya",
+  "description": "Mti ni magonjwa ya magonjwa ya mawe ambayo inatoa magonjwa kama tumor kwenye sehemu tofauti ya mimea. Magonjwa haya yana viwango vya spores ya giza na inaweza kupunguza mafanikio kwa kiasi kikubwa. Katika Mexico, magonjwa ya mawe yanajulikana kama ladha ya kulinari inayojulikana kama huitlacoche.",
   "hosts": [
-    "Maize (Zea mays)",
-    "Teosinte (Zea mexicana)"
+    "Maisha ya Bahari (Zea Mays)",
+    "Maeneo ya Mexico (Zea Mexicana)"
   ],
   "symptoms": {
     "general": [
-      "Tumor-like galls on plant tissues",
-      "Swollen kernels or plant organs",
-      "Black powdery spores inside galls"
+      "Maumivu ya tumor kwenye mifugo ya mimea",
+      "Wanyama au viungo vya mimea",
+      "Mafuta ya rangi ya rangi ndani ya rangi ya rangi"
     ],
     "leaves": [
-      "Small galls on leaf veins or blades"
+      "Maua ya kidogo juu ya viungo vya nyama au nyama"
     ],
     "stems": [
-      "Large galls on stalks or nodes"
+      "Gari kubwa juu ya stalls au nodes"
     ],
     "ears": [
-      "Kernels replaced by swollen galls",
-      "Galls turn black and rupture releasing spores"
+      "Kernels iliyotumika na gels ya kuvutia",
+      "Wanyama kuongezeka na kuongezeka kuondoa spores"
     ]
   },
   "disease_cycle": [
-    "The fungus survives in soil or crop debris as teliospores",
-    "Spores germinate and produce haploid sporidia",
-    "Compatible sporidia mate and form infectious hyphae",
-    "Hyphae penetrate young plant tissues",
-    "Tumor-like galls form and produce new teliospores",
-    "Spores spread by wind and rain"
+    "Fungi kuishi katika ardhi au mbolea kama teliospores",
+    "Matibabu ya matibabu na matibabu ya haploid",
+    "Mchakato wa SPORIDIA mate na kuunda hyphae ya maambukizi",
+    "Hyphae inahusisha mazao ya mimea vijana",
+    "Magonjwa ya tumor ya kujenga na kuunda teliospores mpya",
+    "Maonyesho yaliyotumika kwa mvua na mvua"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "Plant injuries or wounds",
-    "High nitrogen levels in soil",
-    "Wind and rain that spread spores",
-    "Periods of poor pollination or plant stress"
+    "Hali ya joto",
+    "Majeruhi au majeruhi ya mimea",
+    "Kiwango cha juu cha nitrogen katika ardhi",
+    "Mvua na mvua ambayo hutoa nyama",
+    "Mabadiliko ya uchafuzi mdogo au stress ya mimea"
   ],
   "distribution": [
-    "Worldwide in maize-growing regions"
+    "duniani kote katika maeneo ya kuongezeka kwa mazao"
   ],
   "management": {
     "cultural": [
-      "Use resistant maize varieties",
-      "Practice crop rotation",
-      "Remove infected plant debris",
-      "Avoid mechanical injury to plants",
-      "Manage nitrogen fertilization"
+      "Tumia aina ya mimea ya kukabiliana",
+      "Mafunzo ya Rotation",
+      "Kuondoa mbegu za mimea zilizoathirika",
+      "Kuepuka uharibifu wa kiufundi kwa mimea",
+      "Utawala wa mbolea ya nitrogen"
     ],
     "chemical": [
-      "Fungicides are generally ineffective for controlling corn smut"
+      "Fungicides kwa ujumla ni hatari kwa kudhibiti uchafu wa maziwa"
     ]
   },
   "economic_importance": [
-    "Usually causes low yield losses in field corn",
-    "Can significantly affect sweet corn production",
-    "Ear galls reduce market value of fresh corn"
+    "Mara nyingi hufanya uharibifu mdogo katika vichwa vya ardhi",
+    "Inaweza kuathiri madhara ya uzalishaji wa maziwa",
+    "Wanyama wa kula kupunguza thamani ya soko ya maziwa ya jua"
   ],
   "additional_notes": [
-    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
-    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+    "Wanyama wasio na matunda ni kuhifadhiwa na kuuzwa kama chakula cha gourmet inayojulikana huitlacoche huko Mexico",
+    "Fungi ni kutumika kwa ujumla kama mifano ya mwili katika genetics ya fungi na utafiti wa ugonjwa wa mimea"
   ],
   "sources": [
-    "Wikipedia – Corn smut",
-    "University plant pathology references"
+    "Wikipedia - Mafuta ya Kichina",
+    "Maonyesho ya Pathology ya Chuo Kikuu"
   ]
 }

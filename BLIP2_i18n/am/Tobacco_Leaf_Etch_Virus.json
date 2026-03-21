@@ -1,0 +1,104 @@
+{
+  "virus_name": "የ Tobacco etch ቪዲዮዎች",
+  "abbreviation": "የቪዲዮ",
+  "family": "ፎቶዎች",
+  "genus": "ፎቶዎች",
+  "taxonomy": {
+    "order": "የሙከራዎች",
+    "virus_group": "የ RNA ቪዲዮዎች"
+  },
+  "genome": {
+    "type": "ቀጣይ-አንድ-አንድ-አንድ-አንድ-አንድ RNA",
+    "structure": "መኖሪያ ቤት",
+    "particle_shape": "ፎቶዎች ፎቶዎች ፎቶዎች",
+    "length": "በ 730 nm",
+    "proteins_encoded": 7
+  },
+  "transmission": {
+    "vectors": [
+      "የኦሪጂናል እና Myzus Persicae ያካትታል",
+      "ፎቶዎች ፎቶዎች",
+      "ማክሮሲፋን Euphorbiae"
+    ],
+    "mode": "የኃይል መቆጣጠሪያዎች",
+    "mechanical": true,
+    "seed_transmission": false,
+    "notes": "Aphids ምግብ ጊዜ የቪሮስ ይሰጣል እና ደቂቃዎች ውስጥ ይሰጣል."
+  },
+  "hosts": {
+    "cultivated": [
+      "የካፕቲክ Annuum",
+      "የካፕሲክን Fruescens",
+      "የቶማስ (Solanum lycopersicum)",
+      "የሙዚቃ (Nicotiana spp.)"
+    ],
+    "wild_hosts": [
+      "የኦሪጂናል NIGRUM",
+      "የኦሪጂናል Aculeatissimum",
+      "የ Chenopodium 앨범",
+      "ፎቶን ፎቶ",
+      "የካንጋሪን",
+      "የፈጠራ SPP."
+    ]
+  },
+  "symptoms": [
+    "ፎቶዎች ላይ ፎቶዎች ፎቶዎች",
+    "Mosaic ወይም Motling ሞዴሎች",
+    "Necrotic ፎቶዎች ወይም ፎቶዎች ላይ ፎቶዎች",
+    "የክፍያ እና የክፍያ የክፍያ",
+    "የፕላስቲክ ልማት",
+    "ዝቅተኛ ምርቶች እና ጥራት",
+    "ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ"
+  ],
+  "disease_cycle": [
+    "የቪሮስ በሽያጭ መሣሪያዎች እና በሽያጭ መሣሪያዎች ውስጥ ይሰጣል",
+    "Aphids የቪሮስ ማግኘት በሽያጭ በሽያጭ በሽያጭ በሽያጭ",
+    "የቪሮስ በሞክሮ ውስጥ የተሻለ የኃይል መሣሪያዎች ላይ ይሰጣል",
+    "መሣሪያዎች ወይም መሣሪያዎች በሽያጭ መሣሪያዎች ወይም መሣሪያዎች በሽያጭ መሣሪያዎች ሊሆን ይችላል"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "የክክሮቲክ ሞዴሎች የክክሮቲክ ሞዴሎች የክሮቲክ ሞዴሎች",
+      "Mosaic ስሜት Solanaceous ምግብዎች ላይ"
+    ],
+    "laboratory_methods": [
+      "የ ELISA ማረጋገጫ",
+      "የ RT-PCR ማረጋገጫ",
+      "የኤሌክትሮኒክ microscopy"
+    ],
+    "viral_inclusions": [
+      "cylindrical መተግበሪያዎች cytoplasm ውስጥ",
+      "የኃይል መተግበሪያዎች በኃይል መተግበሪያዎች"
+    ]
+  },
+  "molecular_features": {
+    "special_protein": {
+      "name": "የቴክኖሎጂ",
+      "function": "ከፍተኛ ጥንካሬ የቴቴቴክኖሎጂ ውስጥ ከፍተኛ ጥንካሬ የቴቴቴክኖሎጂ ውስጥ የተወሰነ የቴቴክኖሎጂ የተወሰነ የቴቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ የተወሰነ የቴክኖሎጂ."
+    }
+  },
+  "management": {
+    "cultural": [
+      "የቪዲዮ መሣሪያዎች እንደ የቪዲዮ መሣሪያዎች ይሆናል.",
+      "Virus-free መሣሪያዎች መጠቀም",
+      "የክፍያ የክፍያ የክፍያ"
+    ],
+    "vector_control": [
+      "መኖሪያ ቤት Aphid Population",
+      "የኦሪጂናል ማረፊያ ማረፊያ ማረፊያ መጠቀም",
+      "መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች"
+    ],
+    "resistance": [
+      "የኃይል አቅርቦት ወይም የኃይል አቅርቦት ጊዜ ይሰጣሉ"
+    ]
+  },
+  "impact": {
+    "economic": "የፕላስቲክ እና የፕላስቲክ መሳሪያዎች ውስጥ ታዋቂ ምርት ለመፍጠር ይችላሉ",
+    "agronomic": "የኃይል ጥራት እና የኃይል ጥራት ዝቅተኛ ነው."
+  },
+  "references": [
+    "የ ICTV Virus Taxonomy ማረጋገጫ",
+    "የ APS ሮፕላስ ሮፕላስ ሮፕላስ ሮፕላስ ሮፕላስ",
+    "የመስመር ላይ የፕላስቲክ Virus Database"
+  ]
+}

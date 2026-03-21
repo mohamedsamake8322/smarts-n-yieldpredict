@@ -1,66 +1,77 @@
 {
-  "disease_name": "Tomato Yellow Leaf Curl Virus",
-  "type": "viral disease",
-  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "disease_name": "Tomato Yellow Leaf Curl Virüsü",
+  "type": "viral hastalıklar",
+  "causal_agent": "Tomat sarı yaprak kurl virüsü (TYLCV), türü Begomovirus, aile Geminiviridae",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena)", "Potato (Solanum tuberosum)", "Tobacco (Nicotiana spp.)", "Beans (Phaseolus vulgaris)", "Peppers (Capsicum annuum)"],
-    "weeds": ["Datura stramonium", "Malva parviflora"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Yumurta Bitkileri (Solanum Melongena)",
+      "Patates (Solanum tuberosum için)",
+      "Tütün (Nicotiana spp)",
+      "Çiğ köfte (Phaseolus vulgaris)",
+      "Çilek ( Capsicum annuum )"
+    ],
+    "weeds": [
+      "Datura Stramonium Hakkında",
+      "Malva parviflora"
+    ]
   },
-  "distribution": "Worldwide, especially tropical and subtropical regions",
+  "distribution": "Dünya çapında, özellikle tropik ve subtropik bölgeler",
   "vector": {
-    "species": "Bemisia tabaci (silverleaf or sweet potato whitefly)",
-    "transmission_type": "persistent-circulative nonpropagative",
+    "species": "Bemisia tabaci (gümüş ya da tatlı patates beyaz)",
+    "transmission_type": "Sürdürülebilir Sürdürülebilir Propagatif",
     "notes": [
-      "Acquisition access period: 15–20 minutes",
-      "Latent period: 8–24 hours",
-      "Females transmit virus more efficiently than males",
-      "Transovarial transmission observed for two generations",
-      "Sexual transmission between whiteflies documented"
+      "Satın alma süresi: 15-20 dakika",
+      "Geçici Süre: 8-24 saat",
+      "Kadınlar erkeklerden daha etkili bir şekilde virüsü iletir",
+      "Transovarial iletim iki nesil boyunca gözlemlenmiştir",
+      "Beyazlar arasındaki cinsel iletişim belgelendirilmiştir"
     ]
   },
   "symptoms": {
     "foliage": [
-      "Severe stunting",
-      "Reduction of leaf size",
-      "Upward cupping/curling of leaves",
-      "Chlorosis on leaves and flowers"
+      "Ağır çarpışma",
+      "Yaprak boyutunun azaltılması",
+      "Yukarıda yapraklar / yapraklar",
+      "Çiçekler ve yapraklarda kloroz"
     ],
     "fruit": [
-      "Reduced fruit production",
-      "Distorted fruit"
+      "Meyve üretimi azaldı",
+      "bozulmuş meyveler"
     ],
-    "overall_impact": "Yield losses of 90–100% possible in severe outbreaks"
+    "overall_impact": "Korkunç patlamalarda %90-100 oranında kayıplar"
   },
   "disease_cycle": [
-    "Virus introduced via infected seedlings, contaminated tools, or whitefly vector",
-    "Once established, whiteflies spread virus rapidly from plant to plant",
-    "Virus persists in alternative hosts including weeds and other solanaceous crops",
-    "Environmental factors such as warm tropical climates favor virus proliferation"
+    "Enfekte tohumlar, kirlenmiş araçlar veya beyaz kuş vektörü aracılığıyla giren virüsler",
+    "Bir kez kurulduğunda, beyazlar virüsü bitkiden bitkiye hızlı bir şekilde yayar.",
+    "Virüs, tahıllar ve diğer solanace bitkileri de dahil olmak üzere alternatif ev sahiplerinde kalır.",
+    "Sıcak tropikal iklimler gibi çevresel faktörler virüs yayılmasını teşvik eder"
   ],
   "management": {
     "cultural": [
-      "Plant TYLCV-resistant or tolerant tomato varieties",
-      "Rotate crops to non-hosts to reduce inoculum",
-      "Eliminate or control weed hosts",
-      "Use greenhouse production to reduce vector access"
+      "Bitki TYLCV dayanıklı veya toleranslı domates çeşitleri",
+      "Inokulum'u azaltmak için ev sahibi olmayanlara döndürülecek bitkiler",
+      "Kaldırma veya kontrol etme ev sahipliği",
+      "Vektör erişimini azaltmak için sera üretimi kullanın"
     ],
     "chemical": [
-      "Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance",
-      "Timing of applications is critical due to rapid virus transmission by whiteflies"
+      "Bemisia tabaci'yi hedef alan böcek ilacı uygulayın, direnci önlemek için aktif maddeleri döndürün veya karıştırın",
+      "Uygulamaların zamanlaması, virüsün hızlı yayılması nedeniyle kritiktir."
     ],
     "genetic": [
-      "Breeding or transgenic approaches to produce TYLCV-resistant tomato lines"
+      "TYLCV dayanıklı domates hatları üretmek için beslenme veya transgenik yaklaşımlar"
     ]
   },
   "notes": [
-    "TYLCV is one of the most serious viral diseases of tomato globally",
-    "Developing countries are most affected due to climate and high cost of control measures",
-    "Integrated pest management combining resistant varieties, vector control, and cultural practices is most effective"
+    "TYLCV, dünyanın en ciddi domates viral hastalıklarından biridir.",
+    "Gelişmekte olan ülkeler iklim ve yüksek maliyetli kontrol önlemleri nedeniyle en çok etkilenir.",
+    "Entegre pest yönetimi, dayanıklı çeşitleri, vektör kontrolü ve kültürel uygulamaları birleştirerek en etkili olanıdır."
   ],
   "references": [
-    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
-    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
-    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+    "Czosnek, H. & Laterrot, H. 1997. domates sarı yaprak kurl virüsü, dünya çapında epidemiye neden olan gelişen bir virüs kompleksi.",
+    "Polston, J.E. & Lapidot, M. 2007 Tomato Yellow Leaf Curl Virus Yönetimi: Bir inceleme.",
+    "Brown, J.K., 2015 The Bemisia tabaci species complex and TYLCV transmission. virüs Res 202: 150–162."
   ]
 }

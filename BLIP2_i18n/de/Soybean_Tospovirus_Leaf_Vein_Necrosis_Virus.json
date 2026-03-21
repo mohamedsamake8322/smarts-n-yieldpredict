@@ -1,0 +1,57 @@
+{
+  "pest_name": "Sojabohnen-Tospovirus",
+  "scientific_name": "Sojabohnenvenennekrosevirus (SVNV)",
+  "common_name": "Leaf Venen-Nekrose-Virus",
+  "description": "Das Soybean Venennekrosevirus (SVNV) ist ein Tospovirus, das Sojabohnen betrifft und eine Nekrose entlang der Blattvenen und eine Verringerung der Pflanzenkraft und Saatgutqualität verursacht.",
+  "distribution": "Vor allem in den Vereinigten Staaten, vor allem in den Sojabohnenanbaugebieten des Mittleren Westens, berichtet.",
+  "host_range": {
+    "primary_host": "Glycin max (Sojabohnen)",
+    "other_hosts": "Andere Leguminosenarten können empfänglich sein; die Forschung läuft weiter."
+  },
+  "symptoms": {
+    "leaf": [
+      "Nekrotische Streifen entlang der Venen",
+      "Interveninale Chlorose oder Vergilbung",
+      "Blattverformung oder Locken",
+      "Kleine nekrotische Flecken oder Flecken auf älteren Blättern"
+    ],
+    "timing": "Symptome treten in der Regel auf älteren Blättern auf, können aber Blätter in allen Stadien beeinflussen",
+    "plant": [
+      "Stunting",
+      "Reduzierte Saatgutqualität bei schweren Infektionen"
+    ]
+  },
+  "conditions_favoring_disease": {
+    "vector": "Thrips (hauptsächlich Sojabohnen-Thrips, Neohydatothrips variabilis)",
+    "environment": "Leichte Temperaturen und Vorhandensein von Vektoren begünstigen Verbreitung",
+    "season": "Infektionen können während der gesamten Wachstumsperiode auftreten"
+  },
+  "biology": {
+    "pathogen_type": "Virus",
+    "virus_family": "TOSPOviridae",
+    "transmission": "In erster Linie von Thrips in einer persistenten Weise; kann mechanisch und durch infizierte Samen übertragen werden (niedrige Rate)",
+    "infection_process": "Virusreplikationen im Wirtsgewebe, die nekrotische Läsionen entlang der Venen verursachen; durch Thripsfütterung vektorisiert"
+  },
+  "damage": [
+    "Venennekrose und Blattverfärbung",
+    "Reduzierte Photosynthese und Pflanzenkraft",
+    "Potenzieller Ertragsverlust und verringerte Saatgutqualität in schweren Fällen"
+  ],
+  "management": {
+    "cultural_control": [
+      "pathogenfreies Saatgut verwenden",
+      "Entfernen Sie freiwillige Sojabohnen und andere Wirtspflanzen, um Inokulum zu reduzieren",
+      "Vermeiden Sie die Pflanzung in der Nähe von Gebieten mit hohen Thrips-Populationen"
+    ],
+    "chemical_control": [
+      "Insektizide, die auf Thrips abzielen, können die Virusausbreitung verringern"
+    ],
+    "genetic_control": [
+      "Keine vollständig resistenten Sojabohnen Sorten derzeit verfügbar; Forschung läuft"
+    ]
+  },
+  "notes": [
+    "SVNV ist ein relativ neu anerkanntes Tospovirus in Sojabohnen.",
+    "Früherkennung und Vektormanagement sind der Schlüssel zur Verringerung der Auswirkungen von Krankheiten."
+  ]
+}

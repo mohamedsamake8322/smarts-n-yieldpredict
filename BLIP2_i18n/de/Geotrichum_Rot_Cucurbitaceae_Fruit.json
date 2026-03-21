@@ -1,0 +1,60 @@
+{
+  "disease": "Geotrichum Fruchtrot von Cucurbits",
+  "scientific_name": "Geotrichum candidum",
+  "pathogen_type": "Pilze",
+  "description": "Eine Pilzkrankheit, die auf Gurkenfrüchten wie Gurke, Melone und Kürbis eine weiche Fäule verursacht. Sie wirkt sich hauptsächlich auf reife oder beschädigte Früchte aus und produziert eine weiße Form, die später sauer und wässrig wird.",
+  "symptoms": [
+    "Weiche wässrige Fäule auf Früchten",
+    "Weiße Baumwollform auf infizierten Gebieten",
+    "Fruchtgewebe wird weich und kollabiert",
+    "saurer oder fermentierter Geruch von infizierten Früchten",
+    "Rot beginnt in der Regel bei Wunden oder beschädigten Bereichen"
+  ],
+  "hosts": [
+    "Gurken",
+    "Melonen",
+    "Wassermelone",
+    "Kürbisgewächse",
+    "Squash",
+    "Sonstige Cucurbit-Pflanzen"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Verwundete oder beschädigte Früchte",
+    "Schlechte Belüftung während der Lagerung"
+  ],
+  "spread": [
+    "Kontaminierter Boden",
+    "Infizierte Pflanzenabfälle",
+    "Umgang mit infizierten Früchten",
+    "Während der Ernte oder des Transports verursachte Wunden"
+  ],
+  "management": [
+    "Behandeln Sie Früchte sorgfältig, um Wunden zu vermeiden",
+    "Entfernen und zerstören infizierte Früchte",
+    "Verbesserung der Feld- und Speicherhygiene",
+    "Gute Belüftung während der Lagerung gewährleisten",
+    "Ernten Sie Früchte bei der richtigen Reife"
+  ],
+  "biological_control": [
+    "Benutze nützliche Mikroben wie Trichoderma-Arten, um Pilzwachstum zu unterdrücken",
+    "Anwendung von Bacillus-basierten Biofungiziden zur Verringerung der Krankheitserregerentwicklung"
+  ],
+  "chemical_control": [
+    "Thiabendazol enthaltende Fungizide nach der Ernte",
+    "Imazalil-basierte Behandlungen in Lagereinrichtungen",
+    "Sanitation mit zugelassenen Desinfektionsmitteln zur Verringerung der Kontamination"
+  ],
+  "prevention": [
+    "Vermeiden Sie Obstverletzungen während der Ernte und des Transports",
+    "Saubere Lagerungsbedingungen beibehalten",
+    "Pflanzenreste aus Feldern entfernen",
+    "Früchte in kühlen und trockenen Bedingungen aufbewahren"
+  ],
+  "source": [
+    "Pflanzenpathologie-Referenzen zu Cucurbit-Nachernte-Erkrankungen",
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Leitfaden für das Management von Pflanzenkrankheiten"
+  ]
+}

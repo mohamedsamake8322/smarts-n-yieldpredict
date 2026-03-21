@@ -1,0 +1,76 @@
+{
+  "pest": "Blattläuse",
+  "scientific_name": "Aphididae",
+  "description": "Kleine saftsaugende Insekten, die viele Pflanzen und Zierpflanzen betreffen. Schnelle Reproduktion durch teleskopierende Generationen ermöglicht es Populationen, sich schnell zu vermehren. Einige Arten wechseln sich zwischen Wirtspflanzen ab; andere sind Generalisten. Sie produzieren Honigtau, was zu einem sauren Schimmelwachstum führt. Blattläuse wirken als Vektoren für Pflanzenviren.",
+  "life_cycle": [
+    "Asexuelle Fortpflanzung dominiert; Frauen gebären weibliche Nymphen lebend",
+    "Flügelweibchen verteilen sich später in der Saison auf neue Pflanzen",
+    "In gemäßigten Regionen kommt es im Herbst zu sexueller Fortpflanzung, Überwinterung als Eier",
+    "Symbiose mit Buchnera aphidicola liefert essentielle Aminosäuren"
+  ],
+  "hosts": [
+    "Gemüse, Früchte, Getreide, Hülsenfrüchte, Zierpflanzen",
+    "Viele Pflanzen und Gartenpflanzen"
+  ],
+  "symptoms_and_damage": [
+    "Stuntes Wachstum und Blattlocken",
+    "Gelbfärbung oder Verfärbung der Blätter",
+    "Honigtauablagerungen auf Blättern und Stängeln",
+    "Sooty Schimmel Wachstum Verringerung der Photosynthese",
+    "Übertragung von Pflanzenviren"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Regenwetter",
+    "Dichte Pflanzendach und gestresste Pflanzen"
+  ],
+  "spread": [
+    "Direkter Kontakt mit befallenen Pflanzen",
+    "Windverteilte geflügelte Weibchen",
+    "Ameisen, die Blattläuse neigen",
+    "Werkzeuge, Arbeiter und Bewässerungswasser"
+  ],
+  "natural_enemies": [
+    "Käfer von Marienkäfern (z. B. Coccinella septempunctata, Adalia bipunctata)",
+    "Raupenlarven (Hoverfly Larven)",
+    "Parasitäre Wespen",
+    "Aphid-Midge-Larven",
+    "Grüne Spitzenlarven",
+    "Spinnen",
+    "Entomopathogene Pilze (Neozygite fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
+  ],
+  "biological_control": [
+    "Freisetzung von räuberischen Insekten und Parasitoiden",
+    "Ermutigen Sie natürliche Feinde in Gärten oder Gewächshäusern",
+    "Verwendung von Pilzbiopestiziden (Beauveria, Lecanicillium, Metarhizium)"
+  ],
+  "chemical_control": [
+    "Insektizide sind oft aufgrund von Resistenzen begrenzt (Carbamate, Organophosphate, Pyrethroide)",
+    "Systemische Insektizide dürfen nicht in Blüten eindringen",
+    "Für kleine Befalle: Insektizide Seife, starke Wasserstrahlen (nur Kontaktaktion)"
+  ],
+  "prevention": [
+    "Überwachen Sie Populationen mit gelb-pan oder moericke Fallen",
+    "Vermeiden Sie übermäßige Stickstoffdüngung, um Blattläuse Anziehung zu reduzieren",
+    "Befallene Pflanzenteile umgehend entfernen",
+    "Mutualistische Ameisen nur in kontrollierten Umgebungen fördern",
+    "Fruchtrotation und Erhaltung der Pflanzengesundheit"
+  ],
+  "ant_mutualism": [
+    "Einige Ameisen hofieren Blattläuse für Honigtau, schützen sie vor Raubtieren",
+    "Ameisen können Blattläuse über den Winter tragen und sie im Frühjahr zu Pflanzen zurückgeben",
+    "Ameisenbesuch erhöht die Honigtauproduktion und beeinflusst das Blattläuseverhalten"
+  ],
+  "adaptations": [
+    "Wollige oder flauschige Wachsbeschichtung zum Schutz",
+    "Soldiermorphen in gallenbildenden Arten zur Verteidigung",
+    "Chemische Abwehrkräfte über Cornicles (Allomone, klebriges Wachs, Pheromone)",
+    "Fähigkeit, Pflanzen abzuwerfen, um Raubtiere zu entkommen"
+  ],
+  "sources": [
+    "Wikipedia – Blattläuse",
+    "Pflanzenpestmanagement Literatur",
+    "Referenzen zum integrierten Schädlingsmanagement (IPM)"
+  ]
+}

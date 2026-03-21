@@ -1,0 +1,91 @@
+{
+  "disease": "Esclerotinia Roto de fruta",
+  "scientific_name": "Esclerotinia esclerotiorum",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre de la fruta esclerotinia es una enfermedad fúngica que afecta a muchos cultivos y verduras. El hongo sobrevive en el suelo como estructuras negras llamadas esclerotia e infecta a las plantas durante condiciones frías y húmedas, causando la podredumbre suave y el colapso de la planta.",
+  "symptoms": [
+    "Las plantas de repente se marchitan y colapsan",
+    "Putrefacción húmeda suave en tallos o frutas",
+    "Crecimiento fúngico similar al algodón blanco en los tejidos infectados",
+    "Estructuras similares a las semillas negras (esclerotia) que se forman en las zonas infectadas",
+    "Hojas amarillentas antes del colapso de la planta",
+    "Rotación de tallos, frutas, bulbos o raíces"
+  ],
+  "visual_symptoms": [
+    "moho esponjoso blanco en el tejido vegetal",
+    "esclerotia dura negra dentro de crecimiento de hongos blancos",
+    "pudrición acuosa suave en tallos o frutos",
+    "plantas colapsadas"
+  ],
+  "hosts": [
+    "Lechuga",
+    "Judías",
+    "Guisantes",
+    "Tomate",
+    "Pepino",
+    "Apio",
+    "Achicoria",
+    "Girasol",
+    "Colza oleaginosa (canola)",
+    "Zanahoria",
+    "Muchas plantas ornamentales"
+  ],
+  "plant_parts_affected": [
+    "tallos",
+    "Frutas",
+    "hojas",
+    "bombillas",
+    "Rábanos rusticanos"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías",
+    "Alta humedad",
+    "Clima húmedo",
+    "Dosel de cultivo denso",
+    "Baja circulación del aire"
+  ],
+  "spread": [
+    "Esporas aerotransportadas liberadas de apothecia",
+    "Esclerotia en el suelo",
+    "Desechos de plantas contaminados",
+    "Contacto directo con plantas infectadas"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo como esclerotia durante varios años",
+    "La esclerotia germina y produce pequeñas estructuras tipo copa (apothecia)",
+    "Apothecia libera esporas que se propagan por el viento",
+    "Las esporas infectan los tejidos de las plantas durante las condiciones húmedas",
+    "Las plantas infectadas producen nuevos esclerotias que regresan al suelo"
+  ],
+  "impact": [
+    "Se marchitan y colapsan las plantas",
+    "Frutas y podredumbre de tallo",
+    "Principales pérdidas de cultivos en hortalizas y semillas oleaginosas",
+    "Rendimiento reducido y calidad del producto"
+  ],
+  "cultural_control": [
+    "Retire y destruya las plantas infectadas inmediatamente",
+    "Evitar el hacinamiento de las plantas",
+    "Mejorar la circulación del aire en los cultivos",
+    "Rotar los cultivos con plantas no hospedantes",
+    "Retire los desechos de los cultivos del campo"
+  ],
+  "biological_control": [
+    "Usar agentes biológicos como los minitans de Coniothyrium",
+    "Use hongos beneficiosos como la especie Trichoderma"
+  ],
+  "chemical_control": [
+    "Utilizar fungicidas registrados cuando la presión de la enfermedad es alta",
+    "Aplicar fungicidas protectores durante condiciones de enfermedad favorables"
+  ],
+  "prevention": [
+    "Evite plantar cultivos susceptibles repetidamente en el mismo campo",
+    "Mantener el espaciado adecuado de la planta",
+    "Monitorear los campos durante las estaciones húmedas",
+    "Utilizar prácticas integradas de gestión de enfermedades"
+  ],
+  "source": [
+    "Referencias fitopatológicas",
+    "Guías sobre enfermedades de extensión agrícola"
+  ]
+}

@@ -1,57 +1,57 @@
 {
-  "pest_name": "Soybean Tospovirus",
-  "scientific_name": "Soybean vein necrosis virus (SVNV)",
-  "common_name": "Leaf Vein Necrosis Virus",
-  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
-  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "pest_name": "Mafuta ya Soybean Tospovirus",
+  "scientific_name": "Virusi ya Necrosis ya Venus ya Soybean (SVNV)",
+  "common_name": "Virusi ya Leaf Vein Necrosis",
+  "description": "Soybean ven necrosis virus (SVNV) ni tospovirus kuathiri soya, kusababisha necrosis kwa njia ya viungo vya nyama na kupunguza ubora wa mimea na ubora wa mazao.",
+  "distribution": "Kuanzishwa hasa katika Marekani, hasa katika mikoa ya Mashariki ya Kati ya mimea ya safi.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+    "primary_host": "Glycine max (kumbukumbu ya sauti)",
+    "other_hosts": "Vitu vingine vya mimea zinaweza kuwa na wasiwasi; utafiti unaendelea."
   },
   "symptoms": {
     "leaf": [
-      "Necrotic streaks along the veins",
-      "Interveinal chlorosis or yellowing",
-      "Leaf deformation or curling",
-      "Small necrotic spots or flecks on older leaves"
+      "Mipango ya Necrotic juu ya vinywaji",
+      "Chlorosis ya ndani au yellowing",
+      "Ukosefu wa maumivu au kuringa",
+      "Maonyesho ya kidogo ya necrotic au flecks juu ya vyanzo vya zamani"
     ],
-    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "timing": "Maonyesho ya kawaida yanaonekana kwenye karatasi ya zamani lakini inaweza kuathiri karatasi katika hatua zote",
     "plant": [
-      "Stunting",
-      "Reduced seed quality in severe infections"
+      "Mwisho wa",
+      "Ubora wa ubora katika maambukizi makubwa"
     ]
   },
   "conditions_favoring_disease": {
-    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
-    "environment": "Mild temperatures and presence of vectors favor spread",
-    "season": "Infections can occur throughout the growing season"
+    "vector": "Chakula (kwa ujumla chakula cha soya, Neohydatothrips variabilis)",
+    "environment": "Mchakato wa joto na uwepo wa vectors fav spread",
+    "season": "Maambukizi yanaweza kutokea wakati wa msimu wa ukuaji"
   },
   "biology": {
-    "pathogen_type": "Virus",
-    "virus_family": "Tospoviridae",
-    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
-    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+    "pathogen_type": "Virusi ya",
+    "virus_family": "ya Tospoviridae",
+    "transmission": "Kwanza kwa wanyama kwa njia ya kudumu; inaweza kutumika kwa njia ya mechanical na kwa njia ya mbegu zilizoathirika (kiwango cha chini)",
+    "infection_process": "Virusi kuongezeka katika viungo vya mwenyeji, kusababisha majeruhi ya necrotic nyuma ya viungo; kurekebishwa na matunda ya matunda"
   },
   "damage": [
-    "Vein necrosis and leaf discoloration",
-    "Reduced photosynthesis and plant vigor",
-    "Potential yield loss and reduced seed quality in severe cases"
+    "Ukosefu wa maumivu na ukosefu wa maumivu",
+    "Kupunguza photosynthesis na vigezo ya mimea",
+    "Matokeo ya uwezekano wa kupoteza na ubora wa mazao katika kesi mbaya"
   ],
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Remove volunteer soybean and other host plants to reduce inoculum",
-      "Avoid planting near areas with high thrips populations"
+      "Kutumia mbegu za kutosha za virutubisho",
+      "Kuondoa soya ya kujitolea na mimea mengine ya mwenyeji ili kupunguza inoculum",
+      "Kuepuka kupanda karibu na maeneo yenye idadi kubwa ya watu"
     ],
     "chemical_control": [
-      "Insecticides targeting thrips may reduce virus spread"
+      "Maumivu ya maumivu inaweza kupunguza kuongezeka kwa virusi"
     ],
     "genetic_control": [
-      "No fully resistant soybean cultivars currently available; research ongoing"
+      "Hakuna uzalishaji wa soya ya kutosha sasa inapatikana; utafiti unaendelea"
     ]
   },
   "notes": [
-    "SVNV is a relatively newly recognized tospovirus in soybean.",
-    "Early detection and vector management are key to reducing disease impact."
+    "SVNV ni tospovirus inayojulikana mapema katika soya.",
+    "Utafiti wa awali na usimamizi wa vector ni muhimu kwa kupunguza athari za ugonjwa."
   ]
 }

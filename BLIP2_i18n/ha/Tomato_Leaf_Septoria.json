@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
-  "causal_agent": "Septoria lycopersici",
+  "disease_name": "@ item Spelling dictionary",
+  "type": "KCharselect unicode block name",
+  "causal_agent": "KCharselect unicode block name",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon."
+    ],
+    "secondary": [
+      "Saboda haka, masu zarin zawa (a yaƙi) kamar fari."
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "A dukan duniya",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "Media controller element",
+      "@ action",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "Ana samun ' ya'ya da yawa"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "Wannan ba'a da ake yi wa zawan a kan gawa ko kuma zarin ci ko kuma zarin ci da zawa.",
+    "Ƙari ga haka, za ta iya tsira a kan kayan aiki da kuma kayan lambu masu kyau",
+    "Ana yaɗa labarai da ke ko'ina ta wajen zuba ruwa daga ruwan sama ko kuma ruwan sama",
+    "Ko da yake ba ma farin ciki sosai, ba ma samun kwanciyar hankali, amma muna da ƙoshin lafiya."
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "@ action",
+      "Zarin ci da aka sace su kamar zarin ci",
+      "Kunã sãmu, a cikinta, 'yã'yan itãcen marmari mãsu yawa, daga cikinsu kuke ci.",
+      "Sa'an nan idan 'yan'uwa sun kasance gare shi, to, uwarsa tana da sudusi (ɗaya daga cikin kashi shida) daga bayan wasiyya wadda ya yi kõ kuwa bãshi.",
+      "Ku ƙara shuka tsakanin shuke - shuke kuma ku guje wa abubuwan da ba su da amfani don ku rage lokacin da kuke aiki",
+      "Da yake ba ma son mu hana ' ya'yan itace na dogon lokaci",
+      "Yi amfani da mazaba ka sauya tsakanin ' yan'uwa da ke kusa da inda ake da zama"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "Yin amfani da rubutu na kāriya a kai a kai",
+      "Yana da amfani sosai idan aka yi amfani da shi a hanyar da ba ta dace ba.",
+      "Suna da suna na'urar kasuwanci ya haɗa da Alanan, wani mutum mai suna H.",
+      "Sau da yawa, mutane suna yin amfani da kowace rana don su yi wa'azi",
+      "Za'a iya samun jerin shiryoyin ayuka ko kuma za'a iya kunna wa shirin ayuka da aka yi da shi a wurare masu tsanani"
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "Yin abubuwa da ba su da kyau ya fi yin ƙoƙarin warkar da shuke - shuke",
+    "Wata ' yar'uwa mai suna Roald ta tsira daga aikin lambu da kuma kayan lambu, saboda haka, ana yawan fushi sosai",
+    "Sa'ad da muke shan giya ko kuma cututtuka masu yawa da ke ko'ina a duniya"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "@ item Text character set",
+    "AGBOR 6 (Turanci)",
+    "Wani ɗan'uwa mai suna Jackson Jr., mai suna P.M.A.A. M."
   ]
 }

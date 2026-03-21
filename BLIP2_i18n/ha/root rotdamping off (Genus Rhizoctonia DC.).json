@@ -1,90 +1,90 @@
 {
- "disease": "Rhizoctonia Root Rot and Damping-off",
- "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
- "pathogen_type": "Fungus",
- "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
- "symptoms": [
-  "Seedlings collapsing at the soil line",
-  "Brown or reddish lesions on stems near the soil surface",
-  "Root rot and poor root development",
-  "Wilting and stunted plant growth",
-  "Irregular patches of dead or weak plants in the field",
-  "Stem girdling causing plant death"
- ],
- "visual_symptoms": [
-  "brown sunken lesions at soil line",
-  "seedlings falling over",
-  "rotted or poorly developed roots",
-  "patches of dead seedlings"
- ],
- "hosts": [
-  "Beans",
-  "Soybean",
-  "Maize",
-  "Rice",
-  "Potato",
-  "Tomato",
-  "Lettuce",
-  "Cabbage",
-  "Carrot",
-  "Pepper",
-  "Cotton",
-  "Many vegetable and field crops"
- ],
- "plant_parts_affected": [
-  "roots",
-  "seedlings",
-  "lower stem",
-  "hypocotyl"
- ],
- "favorable_conditions": [
-  "Warm and moist soil",
-  "Poorly drained soil",
-  "High plant density",
-  "Compacted soil",
-  "Crop residue in soil"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Movement of soil on tools or machinery",
-  "Infected seedlings or transplants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil and plant debris",
-  "It infects seeds or young seedlings",
-  "Lesions develop on stems and roots",
-  "The pathogen spreads through soil contact"
- ],
- "impact": [
-  "Poor seed germination",
-  "Loss of seedlings",
-  "Reduced plant population",
-  "Lower crop yield"
- ],
- "cultural_control": [
-  "Use well-drained soils",
-  "Avoid planting in cold or very wet soil",
-  "Rotate crops with non-host plants",
-  "Reduce plant density",
-  "Remove infected plant debris"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment fungicides",
-  "Soil fungicides when necessary"
- ],
- "prevention": [
-  "Use certified healthy seeds",
-  "Improve soil drainage",
-  "Avoid excessive irrigation",
-  "Practice crop rotation"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "Mãsu son mazansu, a cikin tsãrã ɗaya.",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wani irin cuta mai ban ƙyama da ake samu a ciki ita ce, cuta mai ban ƙyama da ke kai wa iri, iri, iri, iri, da kuma tsiro, yana sa ƙasa ta yi kusa da ƙasa, tushen tsiro, da kuma ' ya'yan ƙananan shuke - shuke.",
+  "symptoms": [
+    "Zuriyar Tana Sa Duniya ta Yi Nasara a ƙasa",
+    "Tarin da ake amfani da ita a kan tudu ta fito ne daga ƙasa",
+    "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne.",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Masu tada matattu ko kuma marasa ƙarfi a gona",
+    "Rashin Gaskiya na jawo mutuwa"
+  ],
+  "visual_symptoms": [
+    "Rana ta cika da haɗari sosai a ƙasa",
+    "Kuma idan rãƙuma mãsu cikunna aka sakẽ su wãwai, bã ga kõwa ba.",
+    "Ra'ayi ko kuma rashin tabbaci ya taso",
+    "' Ya'yan gari"
+  ],
+  "hosts": [
+    "QShortcut",
+    "Ethiopian weekday 3 - LongDayName",
+    "Indian National weekday 7 - LongDayName",
+    "KCharselect unicode block name",
+    "QFontDatabase",
+    "QShortcut",
+    "DakataCoptic month 13 - LongName",
+    "Indian National weekday 5 - LongDayName",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Da shuke - shuke da shuke - shuke da yawa"
+  ],
+  "plant_parts_affected": [
+    "Banner page",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Media controller element",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "Mãsu gudu suna ɓũya.",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "shuka Mai Girma",
+    "ƙasa mai sanyi",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi."
+  ],
+  "spread": [
+    "ƙasa mai sanyi",
+    "A wurin da magaryar tuƙẽwa take.",
+    "ƙasa game da kayan aiki ko kuma na'ura",
+    "Ana Mai da Tawali'u ko Kuma Mai Ban Al'ajabi"
+  ],
+  "disease_cycle": [
+    "kayan wasa suna tsira a ƙasa kuma suna shuki",
+    "Ya sa iri ko ' ya'yan gari su yi girma",
+    "Ana soma koyan abubuwa game da yadda za a yi amfani da su sa'ad da ake girma",
+    "Hanyar tana yaɗuwa ta hanyar da za'a iya samun ta a ƙasa"
+  ],
+  "impact": [
+    "Marasa Aure Suna Nasara",
+    "Indian National month 12 - LongNamePossessive",
+    "Sa'an nan ya sanar da jama'a mafi yawa",
+    "Yin Shirin Aiki"
+  ],
+  "cultural_control": [
+    "Kunã sãmu, a cikinta, 'yã'yan itãcen marmari mãsu yawa, daga cikinsu kuke ci.",
+    "Ka guje wa shuki a ƙasa mai sanyi",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Media controller element",
+    "KCharselect unicode block name"
+  ],
+  "biological_control": [
+    "Ka yi amfani da irin waɗannan kayan da ba su da amfani",
+    "Ka Yi Amfani da Shi Yadda Ya Kamata Mu Yi Amfani da Shi"
+  ],
+  "chemical_control": [
+    "Ɗabi'a Mai Ban Al'ajabi",
+    "QXml"
+  ],
+  "prevention": [
+    "Ka Yi Amfani da Yadda Ya Kamata",
+    "ƙasa mai sanyi",
+    "Ka guje wa yin maye",
+    "Ayyuka Masu Kyau"
+  ],
+  "source": [
+    "@ item Text character set",
+    "KCharselect unicode block name"
+  ]
 }

@@ -1,63 +1,65 @@
 {
-  "disease_name": "Tomato Leaf Mold",
-  "type": "fungal disease",
+  "disease_name": "Moule à feuilles de tomates",
+  "type": "Maladie fongique",
   "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ]
   },
-  "distribution": "Worldwide; especially problematic in greenhouses and high tunnels with high humidity",
+  "distribution": "Dans le monde entier; particulièrement problématique dans les serres et les tunnels à forte humidité",
   "symptoms": {
     "leaves": [
-      "Yellow spots on upper leaf surfaces",
-      "Fuzzy olive-green to gray mold growth on lower leaf surfaces",
-      "Leaves may curl and become distorted",
-      "Severe infections can cause defoliation"
+      "Taches jaunes sur la face supérieure des feuilles",
+      "Croissance de moisissures vert olive à gris sur les surfaces inférieures des feuilles",
+      "Les feuilles peuvent se boucler et devenir déformées",
+      "Les infections sévères peuvent provoquer une défoliation"
     ],
     "stems": [
-      "Occasionally stems can be infected, but disease is mostly foliar"
+      "Parfois, les tiges peuvent être infectées, mais la maladie est principalement foliaire"
     ]
   },
   "disease_cycle": [
-    "Spores form on lower leaf surfaces within 10–12 days of infection",
-    "High relative humidity (≥85%) favors spore production and infection",
-    "Multiple generations can occur within a single growing season",
-    "Spread occurs via wind, rain/overhead irrigation, tools, workers, and possibly insects",
-    "Pathogen can persist in crop residue and on contaminated greenhouse surfaces"
+    "Les spores se forment sur la surface inférieure des feuilles dans les 10 à 12 jours suivant l'infection.",
+    "Une humidité relative élevée (≥85 %) favorise la production de spores et l'infection",
+    "Plusieurs générations peuvent se produire au cours d'une seule saison de croissance.",
+    "La propagation se fait par le vent, l'irrigation par la pluie et par la mer, les outils, les travailleurs et peut-être les insectes.",
+    "Les agents pathogènes peuvent persister dans les résidus de cultures et sur les surfaces de serre contaminées"
   ],
   "environmental_conditions": [
-    "Optimal temperature: 21–24 °C (70–75 °F), but disease can develop between 10–32 °C (50–90 °F)",
-    "High relative humidity (>85%) is critical for severe epidemics",
-    "Poor air circulation and leaf wetness favor infection"
+    "Température optimale: 21–24 °C (70–75 °F), mais la maladie peut se développer entre 10–32 °C (50–90 °F)",
+    "Une humidité relative élevée (>85 %) est essentielle pour les épidémies graves",
+    "La mauvaise circulation de l'air et l'humidité des feuilles favorisent l'infection"
   ],
   "management": {
     "cultural": [
-      "Use drip irrigation and avoid wetting foliage",
-      "Space plants to improve air circulation",
-      "Stake, string, or prune plants to reduce humidity around leaves",
-      "Circulate air in greenhouses/high tunnels with vents, fans, or by rolling up sides",
-      "Maintain night temperatures higher than outside to reduce dew formation",
-      "Remove and destroy crop residue at the end of the season; sanitize greenhouse surfaces and equipment"
+      "Utiliser l'irrigation goutte à goutte et éviter les feuilles mouillantes",
+      "Installations spatiales pour améliorer la circulation de l'air",
+      "Plantes de prise, de ficelle ou de prune pour réduire l'humidité autour des feuilles",
+      "Circuler l'air dans les serres/tunnels élevés avec évents, ventilateurs, ou en roulant les côtés",
+      "Maintenir les températures nocturnes plus élevées que l'extérieur pour réduire la formation de rosée",
+      "Enlever et détruire les résidus de culture à la fin de la saison; désinfecter les surfaces et les équipements de serre"
     ],
     "resistant_varieties": [
-      "Use resistant cultivars cautiously, as resistance is often race-specific",
-      "Test resistant varieties on a small scale before large-scale planting",
-      "Reference: Cornell Disease Resistant Vegetable Varieties list"
+      "Utiliser les cultivars résistants avec prudence, car la résistance est souvent spécifique à la race",
+      "Variétés résistantes à l'essai à petite échelle avant plantation à grande échelle",
+      "Référence: Liste des variétés végétales résistantes à la maladie de Cornell"
     ],
     "chemical": [
-      "Apply fungicides preventively when conditions favor disease",
-      "Rotate chemical families to prevent resistance development",
-      "For organic production, copper-based products (e.g., Champ) can provide partial control",
-      "Follow all pesticide labels and legal restrictions for greenhouse/high tunnel use"
+      "Appliquer les fongicides de façon préventive lorsque les conditions favorisent la maladie",
+      "Rotation des familles chimiques pour empêcher le développement de la résistance",
+      "Pour la production biologique, les produits à base de cuivre (p. ex. Champ) peuvent fournir un contrôle partiel",
+      "Suivre toutes les étiquettes des pesticides et les restrictions légales applicables à l'utilisation en serre ou en tunnel"
     ]
   },
   "notes": [
-    "Early scouting during high humidity periods is critical for timely management",
-    "New races of P. fulva may emerge, so monitoring resistant cultivar efficacy is important",
-    "Effective management combines cultural, genetic, and chemical strategies"
+    "Le dépistage précoce pendant les périodes d'humidité élevée est essentiel à la gestion en temps opportun.",
+    "De nouvelles races de P. fulva peuvent émerger, de sorte que la surveillance de l'efficacité des cultivars résistants est importante.",
+    "Une gestion efficace combine des stratégies culturelles, génétiques et chimiques"
   ],
   "references": [
-    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
-    "Minnesota Extension, Tomato Leaf Mold Management",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "Guide de production de légumes du Midwest pour les producteurs commerciaux, 2023",
+    "Extension du Minnesota, gestion de la moisissure à feuilles de tomates",
+    "Jones, J.B., et al. 2014. Compendium des maladies et parasites de la tomate, 2e édition. APS Press."
   ]
 }

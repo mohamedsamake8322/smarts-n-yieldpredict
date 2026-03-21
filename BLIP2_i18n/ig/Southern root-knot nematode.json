@@ -1,0 +1,90 @@
+{
+  "pest_name": "Ebe Ndịda-adịghị n'okpuru",
+  "scientific_name": "Meloggyne dị n'eberni",
+  "common_abbreviations": [
+    "KOTEN",
+    "Ebe ndịda ka ọ na-enweghị isi",
+    "_Jiri dìfọ́ọ̀ltụ̀ uhie nke ntabi anya"
+  ],
+  "description": "Melolagyyne nke dị n'ime obodo . Ọ bụ otu n'ime ihe ndị kasị pụta ìhè na-eme ka ihe ọkụkụ dị iche iche malite ịrụ ọrụ, na-ụwa nile. Ọ bụ otu n'ime isi ihe ndị kasị pụta ìhè na akụ̀ na ụba.",
+  "distribution": "N'ịbụ nke a na - agbasa n'ebe nile n'ụwa, bụ́ nke a na - ahụ n'ọtụtụ ụdị ala dịgasị iche iche, karịsịa n'ógbè okpomọkụ na n'ebe okpomọkụ nke ebe okpomọkụ ụwa.",
+  "host_range": {
+    "general": "N'ịbụ nke na - ebuchaghị ibu, na - awakpo ma oké mmiri ozuzo ma oké mmiri ozuzo; a na - eme atụmatụ na ihe karịrị ụdị ákụ́kụ́ 3,000.",
+    "notable_hosts": [
+      "Kasva (Aiisasa e laria)",
+      "Zuon",
+      "AGBOR 1 (Bekee)",
+      "Ndị Na - atụchasị Mmadụ",
+      "_Hichaa",
+      "HỌL"
+    ]
+  },
+  "symptoms": {
+    "above_ground": [
+      "Nchegbu Mmiri",
+      "Nchegbu Ndị A Na - enwe n'Ụzọ Na - enweghị Isi",
+      "Ime Ka Ahụ́ Dịkwuo Gị Mma",
+      "Ibute Ụzọ",
+      "Ịgbọ́ọ̀pụ̀"
+    ],
+    "below_ground": [
+      "Ihe ndị na - esi na mkpọrọgwụ, ihe ndị na - egbuke egbuke, na ihe ndị na - egbuke egbuke apụta apụta apụta apụta",
+      "Ọ bụrụ na mmadụ anwụọ n'ụzọ kpụ ọkụ n'ọnụ"
+    ]
+  },
+  "morphology": {
+    "female": {
+      "shape": "A dọ́ọ̀kụ̀-sáị̀",
+      "posterior_protuberance": "Onweghị",
+      "stylet_length": "15 Ihe Ndị Ga - enyere Ezinụlọ Aka",
+      "stylet_knobs": "IKOT EKPENE 3 (Efịk)",
+      "perineal_pattern": "A na - esi n'ebe dị iche iche enweta ihe e ji ekpuchi elu ụlọ, bụ́ nke a na - akpọ waychaiae, ma ọ bụ nke na - esighị ike"
+    },
+    "male": {
+      "shape": "Mkpụrụ ndụ ihe nketa",
+      "head": "Ọ bụghị ire ure, ọ na - esi ike nghọta, ọ na - abụkarịkwa n'egbugbere ọnụ ka e mesịrị",
+      "stylet_length": "23426 kwalam",
+      "stylet_knobs": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Ziri Ezi"
+    },
+    "juvenile": {
+      "stage": "Nke abụọ (J2)",
+      "body_length": "Narị ise na iri ise na ise, narị ise na iri atọ na ise",
+      "tail_length": "43 IHE NDỊ GA - ENYERE GỊ AKA",
+      "hyaline_region": "6144 Ogem Dị anya",
+      "shape": "Ebe a na - akwọ ụgbọala n'ọdụ ụgbọ mmiri"
+    }
+  },
+  "life_cycle": {
+    "stages": [
+      "Flag",
+      "J1",
+      "J2 (n'okpuru)",
+      "J3",
+      "J4",
+      "IHE NDỊ GA - ENYERE GỊ AKA"
+    ],
+    "description": "Ndị na - eyi àkwá, ndị na - arụ ọrụ n'ime ala, ndị na - adị n'ime ahụ́ mmadụ, ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - adịru ụbọchị ole na ole, na - emepụta ebe a na - anọ eri nri n'ahụ́ ndị toworo eto.",
+    "reproduction": "N'ụzọ mmekọahụ; ndị inyom na - anọkarị otu ebe, ụmụ nwoke na - edina ụmụ nwanyị"
+  },
+  "behavior": {
+    "thermotaxis": "Ọ̀tụ̀tụ̀ ikpo ọkụ nke mmiri na - adịghị na ya nke na - esi n'ime ala abanye n'ime ala iji chọta mkpọrọgwụ",
+    "chemotaxis": "Mmiri ọgwụ ahụ́ a na - agbanye n'ahụ́ mmadụ na - eme ka mmiri ọgwụ ndị a na - agbanye n'ahụ́ ya na - abanye n'ahụ́ ya"
+  },
+  "management": {
+    "cultural_control": [
+      "Jiri ụdị ndị na - adịghị ndụ ma ọ bụ ndị na - adịghị amị mkpụrụ na - agagharị",
+      "Iji Ihe Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi Eme Ihe",
+      "Na - akọ ụdị akụ́kụ́ dị iche iche na - eguzogide ihe ọkụkụ ndị dị ka Baroalaaaaas na ụdị ákụ́kụ́ dị iche iche"
+    ],
+    "biological_control": [
+      "Mkpụrụ ndụ ihe nketa na - atọ ọchị, dị ka lalaris lalalalalaclas"
+    ],
+    "chemical_control": [
+      "N'ọtụtụ ebe ndị e nwere ebe a na - edebe ihe ọmụma n'oge a"
+    ]
+  },
+  "notes": [
+    "na - akpata oké ndakpọ olileanya na ihe ịga nke ọma n'ọtụtụ ihe ọkụkụ",
+    "Oké mkpa akụ̀ na ụba dị n'ọrụ ugbo a na - arụ n'ebe okpomọkụ na n'ebe okpomọkụ ụwa"
+  ]
+}

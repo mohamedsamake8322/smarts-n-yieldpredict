@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "Meyveler",
+  "scientific_name": "Pseudococcidae Ailesi",
+  "pest_type": "böcekler",
+  "description": "Mealybugs, beyaz bir çamur tozu ile kaplı küçük çamurlu böceklerdir.Çoğu bitki ve dekoratif bitkiye saldırırlar, bitkileri zayıflatırlar ve çamur büyümesine yol açan çamurlu bal çamurunu üretirler.",
+  "symptoms": [
+    "Beyaz pamuk gibi böcekler yapraklarda, çamurlarda veya meyvelerde",
+    "Bitki yüzeyleri üzerinde yumuşak bal",
+    "Siyah çamur çamur çamur üzerinde büyüyen",
+    "Yellowing veya curling yaprakları",
+    "Bitki büyümesi bekleniyor",
+    "Erken yapraklar şiddetli enfeksiyonlarda düşüyor"
+  ],
+  "hosts": [
+    "Citrüs",
+    "Grapevine",
+    "Banana",
+    "Papaya",
+    "Pineapple için",
+    "Kahve",
+    "Cassava",
+    "Şekerli",
+    "Güneş",
+    "Orkide",
+    "Kaktüs",
+    "Bahçe bitkileri ve sera ürünleri"
+  ],
+  "favorable_conditions": [
+    "Sıcak ve nemli iklimler",
+    "Sıcak bitki veya sera koşulları",
+    "Yemek yemeyi koruyan sivrisineklerin varlığı",
+    "Zayıf Doğal Predator Faaliyetleri"
+  ],
+  "spread": [
+    "Enfekte bitki malzemelerinin hareketleri",
+    "rüzgar ya da crawler taşıyan böcekler",
+    "Kolonları taşımak ve korumak"
+  ],
+  "damage": [
+    "Bitki zayıflaması çilek beslenmesi nedeniyle",
+    "Bazı bitkilerde bitki virüslerinin iletimi",
+    "Düşük gelir ve bitki büyümesi",
+    "Honeydew üzerinde yumuşak çamur geliştirme"
+  ],
+  "biological_control": [
+    "Predatory beetle Cryptolaemus montrouzieri (kırışıklık yıkıcı)",
+    "Yeşil yırtıcı larva (Chrysopidae)",
+    "Parazitler yemek yemeye saldırıyor",
+    "Geniş böcek maddelerini azaltarak doğal haydutları teşvik etmek"
+  ],
+  "chemical_control": [
+    "Pyrethroid böcek ilacı, örneğin permethrin, bifenthrin, ya da cyfluthrin",
+    "Böcek Tohumları veya Bahçe Yağları",
+    "Sistemik böcek ilacı, enfeksiyonlar şiddetli olduğunda"
+  ],
+  "prevention": [
+    "Erken enfeksiyonlar için bitkileri düzenli olarak kontrol edin",
+    "Yemek yemeyi koruyan sivrisinekler",
+    "Çok kirlenmiş bitki parçaları çıkarın",
+    "Aşırı nitrojen yağlanmasını önleyin",
+    "Temiz bitki malzemesi kullanın"
+  ],
+  "source": [
+    "Pseudococcidae hakkında Entomoloji edebiyatı",
+    "Tarımsal pestlik yönetimi referansları",
+    "Etiket Arşivi: Mealybug"
+  ]
 }

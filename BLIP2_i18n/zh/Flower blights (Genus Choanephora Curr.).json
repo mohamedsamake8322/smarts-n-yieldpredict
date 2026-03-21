@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "Choanephora 花朵闪光",
+  "scientific_name": "Choanephora spp. (例如,Choanephora cucurbitarum)",
+  "pathogen_type": "蘑菇",
+  "description": "一种真菌疾病,它侵袭许多蔬菜的鲜花和年轻水果,特别是和豆类,在温暖和潮湿的条件下导致花朵迅速腐烂和水果腐烂。",
+  "symptoms": [
+    "鲜花上浸水点",
+    "鲜花迅速腐烂和倒塌",
+    "青嫩水果上软软的腐烂",
+    "感染组织上棉花白白真菌生长",
+    "在腐烂的花朵上形成黑针状微粒",
+    "受感染的花朵坚持发展水果,导致水果腐烂"
+  ],
+  "hosts": [
+    "奥克拉",
+    "南瓜",
+    "安静",
+    "黄瓜",
+    "祖奇尼语Name",
+    "瓶果",
+    "豆豆",
+    "考比亚",
+    "茄子种植",
+    "其他和蔬菜"
+  ],
+  "favorable_conditions": [
+    "温度(约25-30°C)",
+    "高湿湿度",
+    "频繁降雨",
+    "空气循环不良的高密度树冠"
+  ],
+  "spread": [
+    "风传真菌螺纹",
+    "雨水喷雨",
+    "受感染植物碎片",
+    "受感染花卉和水果之间的接触"
+  ],
+  "management": [
+    "摘除和摧毁被感染的鲜花和水果",
+    "改善植物间隔,以增加空气流量",
+    "避免间接灌溉",
+    "定期收获以清除感染组织",
+    "实际作物轮作"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum作为土壤或叶子生物控制剂",
+    "基于生物杀菌剂的生物杀菌剂"
+  ],
+  "chemical_control": [
+    "红铜",
+    "氯代烷基",
+    "基于铜的杀真菌剂",
+    "在潮湿天气期间预防性应用"
+  ],
+  "prevention": [
+    "在通风良好的田地中的植物",
+    "收获后清除作物碎片",
+    "避免过度灌溉和延长叶叶湿度",
+    "使用健康种子和维持实地环境卫生"
+  ],
+  "source": [
+    "CABI 植物知识银行",
+    "佛罗里达大学IFAS 植物病理学",
+    "APPS 植物疾病手册"
+  ]
 }

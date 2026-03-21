@@ -1,0 +1,73 @@
+{
+  "disease": "Citrus Canker",
+  "scientific_name": "Xanthomonas citri subsp. citri (sin. Xanthomonas axonopodis pv. citri)",
+  "pathogen_type": "Bacteria",
+  "description": "Cítrico canker es una enfermedad bacteriana altamente contagiosa que afecta a las plantas cítricas. Causa lesiones en hojas, tallos, y frutas, lo que conduce a hojas prematuras y gota de fruta y la calidad de fruta reducida. Aunque los frutos infectados son comestibles, no son comercializables debido a su apariencia.",
+  "hosts": [
+    "Citrus spp. (naranja, lima, pomelo, limón)",
+    "Poncirus trifoliata",
+    "Fortunella spp. (kumquat)",
+    "Severinia spp.",
+    "Swinglea spp."
+  ],
+  "susceptibility": {
+    "highly_susceptible": [
+      "Toronjas",
+      "Navel naranja",
+      "Variedades anaranjadas tempranas"
+    ],
+    "moderately_susceptible": [
+      "Naranja ácida",
+      "Limón",
+      "Naranja dulce"
+    ],
+    "more_tolerant": [
+      "Mandarina",
+      "Algunos híbridos cítricos (por ejemplo, Murcott, Valencia)"
+    ]
+  },
+  "symptoms_and_damage": [
+    "Pequeñas lesiones blister elevadas con márgenes empapados en agua",
+    "Halos amarillos que rodean lesiones en hojas y frutas",
+    "Manchas necróticas en hojas, tallos y frutos",
+    "Agrietamiento y deformación de frutas",
+    "Caída de fruta prematura",
+    "Las infecciones graves causan defoliación"
+  ],
+  "disease_cycle_and_spread": [
+    "Las bacterias sobreviven en lesiones en hojas, tallos y frutos",
+    "Difundir a través de la lluvia impulsada por el viento y salpicaduras de agua",
+    "La propagación a larga distancia se produce principalmente a través del movimiento de material vegetal infectado",
+    "Los insectos, las aves y los animales pueden contribuir a la propagación local",
+    "El daño a las hojas aumenta la infección al crear heridas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (óptimas alrededor de 28–30°C)",
+    "Alta humedad",
+    "Lluvia y viento",
+    "Presencia de agua libre en las superficies de las plantas"
+  ],
+  "pathogen_characteristics": [
+    "Bacteria en forma de varilla Gram-negativa",
+    "Tamaño aproximado de 1–3 micrómetros",
+    "Flagellum polar único para el movimiento",
+    "Produce pigmento amarillo llamado xantomonadina en cultivo"
+  ],
+  "monitoring": [
+    "Inspeccione las hojas para lesiones elevadas con halos amarillos",
+    "Comprobar si hay lesiones corchosas o agrietadas en los frutos",
+    "Observar lesiones de ramitas que puedan servir como fuentes de infección"
+  ],
+  "management": [
+    "Utilizar material de plantación certificado libre de enfermedades",
+    "Aplicar aerosoles a base de cobre como tratamiento preventivo",
+    "Instale cortavientos para reducir la propagación de la lluvia provocada por el viento",
+    "Controlar las poblaciones cítricas mineras",
+    "Desinfectar herramientas, equipos y ropa al entrar o salir de huertos",
+    "Eliminar los árboles infectados en las zonas donde la enfermedad aún no se ha establecido"
+  ],
+  "sources": [
+    "Wikipedia – Citrus Canker",
+    "Extensión IFAS de la Universidad de Florida – Centro de Investigación y Educación de Cítricos, Lago Alfred, Florida"
+  ]
+}

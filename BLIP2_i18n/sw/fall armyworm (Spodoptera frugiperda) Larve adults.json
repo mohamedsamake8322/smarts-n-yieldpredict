@@ -1,48 +1,48 @@
 {
- "disease": "Fall Armyworm Adult",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (adult moth)",
- "description": "The adult fall armyworm is a nocturnal moth responsible for laying eggs on crop leaves. These eggs hatch into destructive larvae.",
- "symptoms": [
-  "Egg masses covered with gray scales on leaves",
-  "Presence of moths around crop fields at night"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm climates",
-  "Availability of host crops",
-  "Rainy growing seasons"
- ],
- "spread": [
-  "Strong flying moths capable of long-distance migration",
-  "Egg laying on leaves of host plants"
- ],
- "management": [
-  "Use pheromone traps to monitor moth populations",
-  "Destroy egg masses early",
-  "Control larvae before they spread"
- ],
- "biological_control": [
-  "Parasitoid wasps attacking eggs",
-  "Predatory insects feeding on eggs"
- ],
- "chemical_control": [
-  "Target treatments applied when larvae emerge"
- ],
- "prevention": [
-  "Field monitoring with pheromone traps",
-  "Plant resistant crop varieties",
-  "Maintain crop diversity"
- ],
- "source": [
-  "FAO Fall Armyworm Monitoring Guide",
-  "CABI Invasive Species Database"
- ]
+  "disease": "Usimamizi wa wapiganaji",
+  "scientific_name": "Maisha ya Frugiperda",
+  "pathogen_type": "Maisha ya watu wazima (adult moth)",
+  "description": "Vituo la kukua kwa watu wazima ni mti wa usiku inayohusika na kuweka maua juu ya tiketi ya mimea. Maua haya huchukuliwa katika larva ya uharibifu.",
+  "symptoms": [
+    "Masha ya maua yaliyochukuliwa na mzunguko wa kijani juu ya tiketi",
+    "Utekelezaji wa mti karibu na maeneo ya mimea usiku"
+  ],
+  "hosts": [
+    "Maisha ya",
+    "Rice ya",
+    "Maombi ya",
+    "Milioni ya",
+    "Maua ya Sugar",
+    "Matunda ya"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa",
+    "Uwezekano wa mazao ya mwenyeji",
+    "Mzunguko wa mvua"
+  ],
+  "spread": [
+    "Mti wenye nguvu inayoweza kusafiri kwa muda mrefu",
+    "Wanyama kuweka juu ya tiketi ya mimea ya mwenyeji"
+  ],
+  "management": [
+    "Matumizi ya mbegu za pheromone kwa kufuatilia idadi ya watu",
+    "Kupoteza mafuta ya maua mapema",
+    "Ulinzi wa larva kabla ya kuongezeka"
+  ],
+  "biological_control": [
+    "Parazitoid wasps kushambulia maziwa",
+    "Wanyama wa kuzaa chakula kwa maziwa"
+  ],
+  "chemical_control": [
+    "Matibabu ya lengo yanatumika wakati larva inaonekana"
+  ],
+  "prevention": [
+    "Ufuatiliaji wa ardhi kwa faromone traps",
+    "Vyanzo vya kukabiliana na mimea",
+    "Uhifadhi wa ubora wa matunda"
+  ],
+  "source": [
+    "Mwongozo wa Ufuatiliaji wa Mwongozo wa Mwongozo wa Mwongozo",
+    "Kazi ya Data ya aina za Invasive"
+  ]
 }

@@ -1,90 +1,90 @@
 {
- "disease": "Rhizoctonia Root Rot and Damping-off",
- "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
- "pathogen_type": "Fungus",
- "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
- "symptoms": [
-  "Seedlings collapsing at the soil line",
-  "Brown or reddish lesions on stems near the soil surface",
-  "Root rot and poor root development",
-  "Wilting and stunted plant growth",
-  "Irregular patches of dead or weak plants in the field",
-  "Stem girdling causing plant death"
- ],
- "visual_symptoms": [
-  "brown sunken lesions at soil line",
-  "seedlings falling over",
-  "rotted or poorly developed roots",
-  "patches of dead seedlings"
- ],
- "hosts": [
-  "Beans",
-  "Soybean",
-  "Maize",
-  "Rice",
-  "Potato",
-  "Tomato",
-  "Lettuce",
-  "Cabbage",
-  "Carrot",
-  "Pepper",
-  "Cotton",
-  "Many vegetable and field crops"
- ],
- "plant_parts_affected": [
-  "roots",
-  "seedlings",
-  "lower stem",
-  "hypocotyl"
- ],
- "favorable_conditions": [
-  "Warm and moist soil",
-  "Poorly drained soil",
-  "High plant density",
-  "Compacted soil",
-  "Crop residue in soil"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Movement of soil on tools or machinery",
-  "Infected seedlings or transplants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil and plant debris",
-  "It infects seeds or young seedlings",
-  "Lesions develop on stems and roots",
-  "The pathogen spreads through soil contact"
- ],
- "impact": [
-  "Poor seed germination",
-  "Loss of seedlings",
-  "Reduced plant population",
-  "Lower crop yield"
- ],
- "cultural_control": [
-  "Use well-drained soils",
-  "Avoid planting in cold or very wet soil",
-  "Rotate crops with non-host plants",
-  "Reduce plant density",
-  "Remove infected plant debris"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment fungicides",
-  "Soil fungicides when necessary"
- ],
- "prevention": [
-  "Use certified healthy seeds",
-  "Improve soil drainage",
-  "Avoid excessive irrigation",
-  "Practice crop rotation"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Rhizoctonia Root Rot na Damping-off",
+  "scientific_name": "Juu ya Rhizoctonia (Genus Rhizoctonia)",
+  "pathogen_type": "Fungus ya",
+  "description": "Rhizoctonia root rot na damping-off ni ugonjwa wa maumivu ya kawaida ambayo huathiri mazao, mazao, na mazao ya mimea. Hii huathiri magonjwa ya mazao karibu na mimea, root rot, na uharibifu wa mimea vijana.",
+  "symptoms": [
+    "Wanyama kuanguka kwenye barabara ya ardhi",
+    "Uharibifu wa nyekundu au nyekundu kwenye mizizi karibu na mbolea ya ardhi",
+    "Root root na maendeleo mbaya ya root",
+    "Utawala na ukuaji wa mimea",
+    "Matengenezo yasiyo ya kawaida ya mimea ya kufa au mbaya katika ardhi",
+    "Maandiko yanayotokana na mauti ya mimea"
+  ],
+  "visual_symptoms": [
+    "Ugonjwa wa nyekundu katika barabara ya ardhi",
+    "Mafuta ya kuanguka",
+    "Rangi ya kutosha au ya kutosha",
+    "Matokeo ya matunda ya maua"
+  ],
+  "hosts": [
+    "ya Beans",
+    "Soya ya",
+    "Maisha ya",
+    "Rice ya",
+    "Mapato ya",
+    "Mji wa Tomato",
+    "Furaha ya",
+    "ya Cabbage",
+    "gari ya",
+    "Pepsi ya",
+    "Baadhi ya Cotton",
+    "Baadhi ya matunda na matunda ya ardhi"
+  ],
+  "plant_parts_affected": [
+    "Roho ya",
+    "Mji wa",
+    "Simu ya chini",
+    "ya hypocotyl"
+  ],
+  "favorable_conditions": [
+    "Mafuta ya joto na ya kuvutia",
+    "mbegu ya kutosha",
+    "Kiwango cha juu cha mmea",
+    "Mji wa Compact",
+    "Matunda ya mimea katika ardhi"
+  ],
+  "spread": [
+    "ardhi ya kuvutia",
+    "Ukosefu wa mbegu za mimea",
+    "Mabadiliko ya ardhi juu ya vifaa au mashine",
+    "Matibabu ya matibabu au transplantations"
+  ],
+  "disease_cycle": [
+    "Mti huishi katika ardhi na mbolea ya mimea",
+    "Inaathiri mbolea au mbolea vijana",
+    "Uharibifu unaendelea juu ya mizizi na mizizi",
+    "Matibabu ya kuongezeka kwa njia ya mawasiliano ya ardhi"
+  ],
+  "impact": [
+    "Matokeo ya germination mbaya",
+    "Uharibifu wa wanyama",
+    "Ukosefu wa idadi ya mimea",
+    "Matunda ya chini ya mimea"
+  ],
+  "cultural_control": [
+    "Kutumia ardhi ya kuhifadhi vizuri",
+    "Kuepuka kupanda katika ardhi ya baridi au ya baridi",
+    "Matunda ya kuvutia na mimea yasiyo ya kuvutia",
+    "Kupunguza umeme wa mimea",
+    "Kuondoa mbegu za mimea zilizoathirika"
+  ],
+  "biological_control": [
+    "Kutumia mbegu za faida kama vile aina ya Trichoderma",
+    "Kutumia bakteria nzuri kama Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Matibabu ya fungicides",
+    "Fungicidi ya ardhi ikiwa ni lazima"
+  ],
+  "prevention": [
+    "Kutumia matunda ya afya ya kuthibitishwa",
+    "kuboresha uchafuzi wa ardhi",
+    "Kuepuka uchafuzi wa mvua",
+    "Mafunzo ya Rotation"
+  ],
+  "source": [
+    "Matokeo ya patologi ya mimea",
+    "Utawala wa magonjwa ya kilimo"
+  ]
 }

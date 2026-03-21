@@ -1,0 +1,83 @@
+{
+  "disease": "Potyvirus Mosaic",
+  "scientific_name": "Genus Potyvirus (Familie Potyviridae)",
+  "pathogen_type": "Virus",
+  "description": "Potyviren sind eine große Gruppe von Pflanzenviren mit einsträngigen RNA-Genomen. Sie infizieren viele Kulturen und verursachen Mosaikkrankheiten, die Pflanzenwachstum und Ertrag reduzieren.",
+  "symptoms": [
+    "Mosaik- oder melierte Muster auf Blättern",
+    "Helle und dunkelgrüne Flecken auf Laub",
+    "Blattlocken oder -verzerrung",
+    "Stuntes Pflanzenwachstum",
+    "Verringerte Größe und Ertrag der Früchte",
+    "Gelbe Streifen oder Venen auf Blättern klären"
+  ],
+  "visual_symptoms": [
+    "gelbe und grüne Mosaikmuster auf Blättern",
+    "verzerrte oder gewellte Blätter",
+    "Patchy Chlorose auf pflanzlichem Laub"
+  ],
+  "hosts": [
+    "Kartoffeln",
+    "Tomaten",
+    "Pfeffer",
+    "Gurken",
+    "Kürbisgewächse",
+    "Bohnen",
+    "Sojabohnen",
+    "Süßkartoffeln",
+    "Tabak",
+    "Viele Zierpflanzen"
+  ],
+  "plant_parts_affected": [
+    "Blätter",
+    "Stängel",
+    "Früchte"
+  ],
+  "vectors": [
+    "Blattläuse (mehr als 200 Arten)",
+    "besonders Myzus und Macrosiphum-Arten"
+  ],
+  "spread": [
+    "Aphidfütterung an infizierten Pflanzen",
+    "Mechanische Übertragung durch Anlagenkontakt",
+    "Kontaminierte Werkzeuge oder Hände",
+    "Infizierte Knollen, Stecklinge oder Transplantationsmaterial",
+    "Manchmal Übertragung von Saatgut oder Pollen"
+  ],
+  "favorable_conditions": [
+    "Hohe Blattläuse",
+    "Warm wachsende Bedingungen",
+    "Pflanzliche Nutzpflanzen",
+    "Vorhandensein infizierter Pflanzen in der Nähe"
+  ],
+  "impact": [
+    "Verringerung des Pflanzenwachstums",
+    "Niedrigere Ernteerträge",
+    "Schlechte Qualität der Früchte",
+    "Wirtschaftliche Verluste bei Gemüse- und Zierpflanzen"
+  ],
+  "management": [
+    "Virenfreie Pflanzstoffe verwenden",
+    "Kontrolle der Blattläusepopulationen",
+    "Befallene Pflanzen schnell entfernen",
+    "Verwenden Sie resistente Pflanzensorten, wenn verfügbar",
+    "Vermeiden Sie den Umgang mit Pflanzen, wenn nass"
+  ],
+  "biological_control": [
+    "Ermutigen Sie natürliche Raubtiere von Blattläusen wie Käfer und Schnürsenkel"
+  ],
+  "chemical_control": [
+    "Verwenden Sie Insektizide, um Blattläuse bei Bedarf zu reduzieren",
+    "Mineralöle können die Virusübertragung durch Blattläuse verringern"
+  ],
+  "prevention": [
+    "Pflanzenresistente Sorten",
+    "Kontrollfelder für Blattläuse",
+    "Reflektierende Mulchen zum Abstoßen von Blattläusen verwenden",
+    "Praxisfeld Abwasserentsorgung und entfernen infizierte Pflanzen"
+  ],
+  "source": [
+    "Virologische Hinweise auf Potyvirus",
+    "Literatur zur Pathologie landwirtschaftlicher Pflanzen"
+  ]
+}

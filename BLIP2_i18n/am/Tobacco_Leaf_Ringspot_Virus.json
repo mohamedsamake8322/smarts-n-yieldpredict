@@ -1,0 +1,100 @@
+{
+  "virus_name": "የ Tobacco Ringspot Virus ፎቶዎች",
+  "abbreviation": "የ TRSV",
+  "family": "መኖሪያ ቤት",
+  "genus": "የሞክሮ",
+  "taxonomy": {
+    "order": "የ Picornavirales",
+    "virus_group": "የ RNA ቪዲዮዎች"
+  },
+  "genome": {
+    "type": "ቀጣይ-አንድ-አንድ-አንድ-አንድ-አንድ RNA",
+    "structure": "bipartite genome (RNA1 እና RNA2)",
+    "particle_shape": "የኦሪጂናል",
+    "particle_size": "የ 28 nm መጠን"
+  },
+  "transmission": {
+    "vectors": [
+      "የሙከራዎች (Xiphinema spp.)",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "ፎቶዎች",
+      "ፎቶዎች"
+    ],
+    "mechanical": true,
+    "seed_transmission": true,
+    "additional_notes": "የቪሮስ በካርቦን ውስጥ የተመሠረተ ነው, ነገር ግን በካርቦን ውስጥ በካርቦን ውስጥ በካርቦን ውስጥ በካርቦን ውስጥ በካርቦን ውስጥ የተመሠረተ አይደለም."
+  },
+  "hosts": {
+    "major_crops": [
+      "የሙዚቃ (Nicotiana spp.)",
+      "የኦሪጂናል",
+      "የቶማስ",
+      "ፎቶዎች",
+      "የክፍያ",
+      "ደንበኞች"
+    ],
+    "ornamental_plants": [
+      "ፎቶዎች ፎቶዎች",
+      "የክሬንቲክ",
+      "ፎቶዎች"
+    ],
+    "weed_hosts": [
+      "የኮንፕቲክ SPP.",
+      "የኦሪጂናል SPP.",
+      "የኦሪጂናል NIGRUM"
+    ]
+  },
+  "symptoms": [
+    "የክሎሮቲክ ፎቶዎች ፎቶዎች",
+    "Necrotic ringspots እንደ ፎቶዎች ፎቶዎች",
+    "ፎቶዎች እና ፎቶዎች",
+    "የሞክሮ መሣሪያዎች ውስጥ የሞክሮ መሣሪያ",
+    "ዝቅተኛ ምርት እና ፋብሪካ ኃይል"
+  ],
+  "disease_cycle": [
+    "የቪሮስ በ nematode vectors በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ",
+    "Nematodes የቪሮን ያግኙን በሽከርካሪ በሽከርካሪ በሽከርካሪ በሽከርካሪ",
+    "የቪዲዮዎች ምግብ ጊዜ የቪዲዮዎች የተሻለ ምግብዎች ውስጥ የተሻለ ምግብዎች ይሰጣሉ",
+    "የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "ፎቶዎች ላይ ፎቶዎች ፎቶዎች",
+      "የክሎሮስ እና የክሮስ በሽከርካሪዎች ላይ"
+    ],
+    "laboratory_methods": [
+      "ኤሌክትሪክ",
+      "የ PCR የተመሠረተ ልምድ",
+      "የኤሌክትሮኒክ microscopy"
+    ],
+    "viral_inclusions": [
+      "የ Vacuolate መተግበሪያዎች (Vac Inc)",
+      "የ Crystalloid መተግበሪያዎች (Cyst Inc)"
+    ]
+  },
+  "impact": {
+    "economic": "የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል",
+    "agronomic": "የሽያጭ ምርቶች በሽያጭ ምርቶች እና የሽያጭ ምርቶች ሊሆን ይችላል."
+  },
+  "management": {
+    "cultural": [
+      "ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ",
+      "የሞክሮ መሣሪያዎች በከፍተኛ ጊዜ ይሰጣል",
+      "የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል"
+    ],
+    "vector_management": [
+      "መቆጣጠሪያ የ Nematode Populations in Soil",
+      "መሳሪያዎች መቆጣጠር እና መቆጣጠሪያ"
+    ],
+    "sanitation": [
+      "መሣሪያዎች እና መሣሪያዎች",
+      "መሣሪያዎች መካከል የሞክኒካዊ መተግበሪያዎች ያካትታል"
+    ]
+  },
+  "references": [
+    "APS የፕላስቲክ መሣሪያዎች",
+    "የ ICTV Virus Taxonomy ማረጋገጫ",
+    "የ NCBI Virus መለያዎች"
+  ]
+}

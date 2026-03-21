@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
-  "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "disease": "Rhizospus تعفن لين (الرّب الأسود)",
+  "scientific_name": "Rhizosps sto plenifer",
+  "pathogen_type": "المنقوس",
+  "description": "إن الفطريات هي فطر شائع يسبب التعفن الناعم في العديد من الفواكه والخضراوات، وخاصة بعد الحصاد، ويتنامى بسرعة في ظروف دافئة ورطوبة وينتشر بسهولة من خلال الجراثيم المحمولة جواً، ويهاجم المرض أساساً الناضجة أو المصابة ينتج بمحتويات سكرية عالية.",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "الماء العذب تعفن على الفواكه أو الخضر",
+    "(ب) الانسيب السريع وتسرب العصير",
+    "النمو الفطري على سطح الأرض",
+    ":: تطوير السبورنجيا السوداء (النقاط السوداء)",
+    "السور أو الرائحة الحمضية من المنتجات المصابة",
+    "اضمحلال سريعًا إلى الثمار المجاورة"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
-    "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
-    "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "",
+    "ط ط ط ط ط ط ط ط",
+    "الكســر",
+    "البطائل",
+    "",
+    "",
+    "العن العن العن",
+    "",
+    "يبانيا",
+    "",
+    "(يتبع)",
+    "الخيار",
+    "(ب) ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "(بآلاف دولارات الولايات المتحدة)",
+    "(بدولارات",
+    "الث",
+    "",
+    "- خضرا وخضرا وخضرا"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "الرطوبة العالية",
+    "درجة حرارة الحرارة (25- 30 درجة مئوية)",
+    "أو الثمار المقطوعة أو المتلفة",
+    "نسبة السكر العالية في الفواكه",
+    "ظروف سوء ظروف التخزين",
+    "سوء التغذية أثناء التخزين"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "بُغَرَجَات الجو",
+    "الاتصال بين المصابين والثمرات الصحية",
+    "1 - الحشرات التي تحمل أوج",
+    "باء - حاويات أو أسطح التخزين المُلوثة"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "تَدْوِنَا مِنْاةً مِنْ تَجَنُّبِ ٱلْجُرْحِ",
+    "(أ) إزالة وتدمير ما سبق:",
+    "الحفاظ على النظافة الصحية الجيدة في مناطق التخزين",
+    "تُنتج عند درجة حرارة منخفضة",
+    ":: تحسين التهوية والحد من الرطوبة"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "الأنواع التي تُطَرِّد",
+    "أنواع الباسيلوس التي تنتج مركبات مضادة للفونغال",
+    "البكتيريا المنتجة التي تمنع النمو الفطري"
   ],
   "chemical_control": [
-    "Thiabendazole",
-    "Benomyl",
-    "Imazalil",
-    "Propiconazole",
-    "Thiocarbamates",
-    "Fludioxonil",
-    "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
-    "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "ثابندازول",
+    "المُنْوِل",
+    "« إماما آيبيلبيل » أي كل شيء نعم نعم الأولى الأولى الأولى الأولى من كل كل شيءبيلبيلبيلبيلبيل من قبل قبل قبله من كل شيءبيلبيلبيلبيلبيل من قبل قبل قبله من الأولى الأولى الأولى الأولى من كل كل شيءبيلبيلبيلبيلبيلبيل من قبل قبل قبل قبله من الأول قبل قبله من الأولى الأولى الأولى الأولى الأولى من كل كل كلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيل من قبل قبل قبله من قبل قبل قبله من قبل قبل قبله من قبل قبل قبله من قبل كلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيل من قبل قبل قبل من قبل قبل قبل من قبل قبل قبل قبل من قبل قبل من قبل من قبل من قبل من قبلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيلبيل",
+    "البرولينية azole",
+    "الساكنون",
+    "",
+    "تيبوconazole",
+    "(أ) S",
+    "Assexstorbin",
+    "الكلور",
+    "النكرات",
+    "3 Calcium"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "تُجَاهَلُ كُثُوَاكُمَا مُجَهَّلَةً لتَجَنُّبِ الإصابات",
+    ":: المحافظة على التخزين البارد السليم",
+    "مناطق تخزين نظيفة ومطهرة",
+    "تجنب تكسير المنتجات المتلفة ذات الثمار الصحية",
+    "(أ) انخفاض درجة الرطوبة أثناء التخزين والنقل"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "ما بعد حصاد الفواكه والخضراوات",
+    "مدخل سميث الى علم الاقتصاد الصناعي",
+    "التفاعلات بين النباتات والحيوانات - Rhizosops stoclonifer",
+    "المؤلفات العلمية عن أمراض ما بعد الحصاد"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "disease": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "scientific_name": "Nje virus ndị na - akpata ọrịa ogbu na nkwonkwo bụ́ ndị a na - ebute site n'oge ruo n'oge (SCVV)",
+  "pathogen_type": "E nwere otu nwoke bi n'obodo a na - akpọ Diisidas (ssD), nke dị n'Amerịka)",
+  "description": "Ọrịa na - efe efe nke na - eme ka akwụkwọ osisi na - eto nke ọma ma na - eme ka mkpụrụ osisi ghara ito nke ọma.",
+  "symptoms": [
+    "N'elu akwụkwọ ma ọ bụ n'azụ akwụkwọ",
+    "Isi n'akụkụ akwụkwọ osisi dị iche iche",
+    "Uto a haziri ahazi ma belata mkpụrụ osisi",
+    "Ọrịa ndị a na - ebute site n'ịṅụbiga mmanya ókè pụrụ igbu ụmụ ahụhụ ndị na - eto eto"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Ndị Na - atụchasị Mmadụ",
+    "Ńgwānụ́ banye",
+    "Ihe Ndị Ọzọ Na - enyere Gị Aka Ife Chineke"
+  ],
+  "favorable_conditions": [
+    "Ihu igwe na - ekpo ọkụ",
+    "Ọnụ ọgụgụ dị elu nke ndị ọcha",
+    "Iji ụgbọelu na - akụ ya n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe e ji emenwu ọkụ (ihe na - esi ísì ọma)",
+    "Mkpụrụ Akụ́kụ́ Ma Ọ Bụ Mkpụrụ Osisi Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ngwá ọrụ ndị e ji arụ ọrụ ma ọ bụ ndị e ji arụ ọrụ"
+  ],
+  "management": [
+    "Inwekwu mmasị n'òtù nzuzo ma ọ bụ ịkwado ha",
+    "NA - EME ka ọnụ ọgụgụ ndị ọcha na - amụba",
+    "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+    "Nọgide Na - akụ ihe ọkụkụ n'ụzọ kwesịrị ekwesị"
+  ],
+  "chemical_control": [
+    "Ihe ndị e ji emenwu ọkụ iji chịkwaa ihe ndị na - acha ọcha (ag.g.g., slilccclil)",
+    "Jiri ncha na - esighị ike ma ọ bụ mmiri ọgwụ ndị na - esi ísì ọma mee ihe dị ka ihe mgbochi"
+  ],
+  "prevention": [
+    "Malite na nje na-enweghị mkpụrụ akụ́kụ́",
+    "Ọnụ ọgụgụ ndị ọcha a na - apụghị ịgụta ọnụ",
+    "Zere ịkụ ihe n'akụkụ ihe ọkụkụ ndị nwere nje ndị na - akpata ọrịa"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ihe Ndị Bụ́ Eziokwu Banyere Ọrịa na Ọrịa"
+  ]
+}

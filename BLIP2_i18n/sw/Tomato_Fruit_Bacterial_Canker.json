@@ -1,72 +1,81 @@
 {
-  "disease_name": "Tomato Fruit Bacterial Canker",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
-  "type": "bacterial pathogen",
+  "disease_name": "Matunda ya matunda ya bacterial cancer",
+  "causal_agent": "Mchakato wa michiganensis pv.",
+  "type": "ya bacterial pathogen",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
-    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+    "primary": [
+      "Matunda ya mimea (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Maua ya pepe (Capsicum spp)",
+      "Maua ya mti (Solanum melongena L.)"
+    ],
+    "weeds": [
+      "Mzunguko wa usiku (Solanum douglasii)",
+      "Siku ya Siku ya Siku (S. Nigrum)",
+      "ya S. Triflorum"
+    ]
   },
-  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "distribution": "duniani kote; hasa tatizo katika mafuta ya mafuta na tomato ya ardhi",
   "symptoms": {
     "seedlings": [
-      "No symptoms in most cases",
-      "Young plants may show poor growth or temporary branch wilting"
+      "Hakuna madhara katika hali nyingi",
+      "Wanyama vijana wanaweza kuonyesha ukuaji mbaya au kuongezeka kwa mzunguko wa muda"
     ],
     "mature_plants_systemic": [
-      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
-      "Stunted growth and general plant wilting",
-      "Yellow to reddish-brown pith with mealy appearance",
-      "Stem streaks, branch breakage, and potential plant death"
+      "Kuongezeka, kuongezeka, kuongezeka, na kuongezeka (kuongezeka) kwa mti wa zamani",
+      "Kuanzisha ukuaji na ukuaji wa uzalishaji wa kawaida",
+      "Picha ya Picha ya Picha ya Picha ya Picha ya Picha ya Picha ya Picha ya Picha ya Picha ya Picha",
+      "Mlipuko wa sauti, uharibifu wa viwanja, na kifo wa uwezekano wa mimea"
     ],
     "mature_plants_secondary": [
-      "Dark brown to almost black lesions on leaf margins",
-      "Round or irregular leaf spotting",
-      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
-      "Vascular tissue under calyx may be discolored, affecting seeds"
+      "Maua ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi",
+      "Mzunguko wa mzunguko wa mzunguko au isiyo ya kawaida",
+      "Matunda: rangi ya kijani hadi rangi ya kuongezeka na halo ya kijani ya kudumu ('rangi ya macho ya ndege'), ~3 mm kwa diameter",
+      "Mafuta ya maumivu chini ya calyx inaweza kuharibiwa, kuathiri mbegu"
     ]
   },
   "disease_cycle": {
-    "introduction": "Through infected seeds or transplants",
-    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "introduction": "Kwa njia ya mbolea au transplantations",
+    "overwintering": "Zaidi ya miaka 3 juu ya mbolea ya mimea; katika mimea; juu ya vifaa vya greenhouse (kumbukumbu, mimea, mimea)",
     "spread": [
-      "Windblown rain and sprinkler irrigation",
-      "Mechanical cultivation and hand harvesting",
-      "Overhead irrigation splash from infected plants",
-      "Direct contact with infected plants or equipment"
+      "Maua ya Windblown na mvua ya Sprinkler",
+      "Mipango ya Mipango na Mipango ya Mipango ya Mipango ya Mipango",
+      "Mchakato wa kuvutia kutoka kwa mimea ya kuvutia",
+      "Mawasiliano ya moja kwa moja na viwanda au vifaa vya ugonjwa"
     ],
-    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+    "entry": "Bakteri kuingia katika mimea kupitia majeruhi ndogo katika cotyledons na kuhamisha kwa mfumo kupitia xylem"
   },
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants",
-      "Plant certified clean transplants",
-      "Strict monitoring of seed fields; discard contaminated lots",
-      "Soak seed in 130°F water for 25 minutes"
+      "Matumizi ya mbolea na transplantations bila magonjwa",
+      "Mipango ya Mipango ya Mipango ya Mipango ya Mipango ya Mipango",
+      "Ufuatiliaji sahihi wa maeneo ya mazao; kuondoa vichwa vya kuvutia",
+      "Mchakato katika maji ya 130°F kwa dakika 25"
     ],
     "greenhouse_measures": [
-      "Steam potting mix and flats",
-      "Disinfect benches, flats, and irrigation hoses",
-      "Empty greenhouses between crops"
+      "Mchakato wa Steam na Flat",
+      "Disinfect benches, mbolea, na wanyama kwa ajili ya kuvutia",
+      "Vifaa vya kijani kati ya matunda"
     ],
     "field_measures": [
-      "Avoid working when foliage is wet",
-      "Incorporate all plant tissue at season's end",
-      "Rotate fields out of tomato for at least one year",
-      "Control related weeds around fields"
+      "Kuacha kufanya kazi wakati folio ni ya kuvutia",
+      "Kuunganisha viungo vyote vya mimea wakati wa mwisho wa msimu",
+      "Kazi ya kurekebisha nje ya tomato kwa muda wa angalau mwaka mmoja",
+      "Ulinzi wa mazao yanayohusiana karibu na maeneo"
     ],
     "chemical_control": [
-      "Repeated copper applications may reduce disease spread but are not fully reliable",
-      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+      "Matumizi ya mara kwa mara ya tembo inaweza kupunguza uzalishaji wa magonjwa lakini si salama kabisa",
+      "Desinfectants ya mbolea: bleach (0.5-1% ya kalsium au sodium hypochlorite), physan, nk."
     ]
   },
   "notes": [
-    "Economic losses in direct-seeded fields are usually uncommon",
-    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
-    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+    "Uharibifu wa kiuchumi katika maeneo ya mazao ya moja kwa moja ni kawaida",
+    "Uchafuzi wa mbolea na bakteria ya kidogo inaweza kusababisha ugonjwa mkubwa wa greenhouse",
+    "Maambukizi ya mfumo haiwezi kutiwa na baktericides; jitihada ni juu ya kuzuia na kuhifadhi"
   ],
   "references": [
-    "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",
-    "https://www.apsnet.org/edcenter/intropp/lessons/bacteria/Pages/Clavibacter.aspx"
+    "HTTPS://ucanr.edu/mwisho/UCIPM/Tomato_Leaf_Canker/",
+    "HTTPS://www.apsnet.org/edcenter/intropp/lesons/bacteria/Pages/Clavibacter.aspx"
   ]
 }

@@ -1,68 +1,122 @@
 {
-  "pest_name": "Sweet Potato Leaf Feathery Mottle Virus",
+  "pest_name": "Virus de la féverole de la pomme de terre douce",
   "abbreviation": "SPLFMV",
   "type": "virus",
-  "history": "SPLFMV is closely related to SPFMV and has been identified worldwide, commonly as part of sweet potato viral disease (SPVD).",
+  "history": "Le SPLFMV est étroitement lié au SPFMV et a été identifié dans le monde entier, généralement dans le cadre de la maladie virale de la patate douce (PSPV).",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à sens positif",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "cadre de lecture ouvert unique",
+      "3' UTR",
+      "arrière poly(A)"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Protéinase, activité de liaison de l'ARNss"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Protéinase, aide à la transmission du puceron, mouvement à longue distance"
+      },
+      {
+        "name": "P3",
+        "function": "Fonction de réplication virale"
+      },
+      {
+        "name": "6K1",
+        "function": "Inconnu"
+      },
+      {
+        "name": "États-Unis d'Amérique",
+        "function": "Protéine d'inclusion cytoplasmique, activité de l' hélicase de l' ARN"
+      },
+      {
+        "name": "6K2",
+        "function": "Inconnu, impliqué dans la réplication virale"
+      },
+      {
+        "name": "NIA",
+        "function": "VPg et protéinase"
+      },
+      {
+        "name": "NIB",
+        "function": "Réplique virale"
+      },
+      {
+        "name": "Cistron",
+        "function": "Protéines du manteau, assemblage virion, transmission virale, propagation"
+      }
+    ],
+    "virion_shape": "long, flexueux, en forme de tige",
     "virion_length_nm": "810-865"
   },
   "life_cycle": {
-    "entry": "Mechanical transmission or via aphid stylets piercing leaf tissue",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA in leaf cells",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Transmission mécanique ou via des stylets aphides perçant le tissu foliaire",
+    "replication": "Génome traduit en polyprotéines, clivé par P1, HC-Pro, NIA protéases",
+    "gene_silencing_suppression": "HC-Pro supprime le siRNA et le miRNA dans les cellules foliaires",
+    "packaging": "Génome répliqué emballé dans des virions"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent via stylet tips during leaf feeding",
-    "seed_transmission": "Not transmitted through seeds",
-    "host_range": ["Ipomoea spp.", "Nicotiana spp.", "Chenopodium quinoa", "Datura stramonium"]
+    "vectors": [
+      "aphidés"
+    ],
+    "mechanism": "Non persistante par l'intermédiaire des bouts de stylet pendant l'alimentation des feuilles",
+    "seed_transmission": "Non transmis par les graines",
+    "host_range": [
+      "Ipomoea spp.",
+      "Nicotiana spp.",
+      "Chénopodium quinoa",
+      "Datura stramonium"
+    ]
   },
   "symptoms": {
-    "typical": "Feathery or mottled patterns on leaves, light to dark purple or green",
-    "severe_strains": ["Leaf chlorosis", "Leaf distortion", "Necrotic spots"],
+    "typical": "Foie ou motifs tachetés sur les feuilles, violet clair à violet foncé ou vert",
+    "severe_strains": [
+      "Chlorose foliaire",
+      "Distorsion des feuilles",
+      "Taches nécrotiques"
+    ],
     "co-infections": {
-      "SPVD": "When co-infected with SPCSV, causes stunting, mosaic leaves, reduced yield"
+      "SPVD": "Lorsque co-infecté avec le SPCSV, provoque un retard de croissance, les feuilles de mosaïque, rendement réduit"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "EA",
+        "location": "Afrique de l ' Est"
+      },
+      {
+        "name": "RC",
+        "location": "Australie, Afrique, Amérique du Nord, Asie"
+      },
+      {
+        "name": "O",
+        "location": "Afrique, Asie, Amérique du Sud"
+      },
+      {
+        "name": "C",
+        "location": "Australie, Afrique, Asie, Amérique du Nord et du Sud"
+      }
     ]
   },
   "agricultural_impact": {
-    "affected_tissues": "Leaf tissues primarily",
-    "yield_loss": "Significant when combined in SPVD; reduces photosynthetic efficiency and plant vigor",
-    "social_impact": "Affects smallholder farmers relying on sweet potato leaves as food and fodder"
+    "affected_tissues": "Tissus de feuilles principalement",
+    "yield_loss": "Important lorsqu'il est combiné avec le SPVD; réduit l'efficacité photosynthétique et la vigueur de l'usine",
+    "social_impact": "Affecte les petits exploitants agricoles qui comptent sur les feuilles de patate douce comme nourriture et comme fourrage"
   },
   "management": {
-    "early_detection": "Monitor leaf symptoms and confirm via ELISA",
-    "removal": "Rogue infected plants to prevent spread",
+    "early_detection": "Surveiller les symptômes foliaires et confirmer via ELISA",
+    "removal": "Plantes infectées par rogue pour prévenir la propagation",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Maintain vector (aphid) control",
-      "Hygienic pruning and tool sanitation"
+      "Matériel de propagation sans virus végétal",
+      "Maintenir le contrôle des vecteurs (aphides)",
+      "Élagage hygiénique et assainissement des outils"
     ]
   },
   "references": [
-    "Based on SPFMV research and sweet potato viral disease studies"
+    "D'après les études de recherche sur la SPFMV et les maladies virales de la patate douce"
   ]
 }

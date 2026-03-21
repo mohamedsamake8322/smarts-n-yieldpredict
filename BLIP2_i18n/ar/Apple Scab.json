@@ -1,74 +1,74 @@
 {
-  "disease": "Apple Scab",
-  "scientific_name": "Venturia inaequalis",
-  "description": "Apple scab is a common fungal disease of plants in the Rosaceae family, particularly Malus species (apple and crabapple). It causes dark, irregular lesions on leaves, blossoms, and fruits, leading to fruit deformation, premature leaf and fruit drop, and potential crop losses up to 70%. The disease rarely kills the host but reduces yield and quality significantly.",
+  "disease": "",
+  "scientific_name": "تَنْتَرْكِيًّا مُنْتَحَايَا",
+  "description": "تُعَدُ أُبُل مرضاً فطرياً شائعاً للنباتات في أسرة الروزاسي، وخاصةً أنواع المالوس (الآكلة والسرطان). فهو يتسبب في الظلام، والآفات غير المنتظمة على الأوراق، والأزهار، والفواكه، الأمر الذي يؤدي إلى تشوه الفاكهة، والأوراق السابقة لأوانها، وإسقاط الفواكه، والخسائر المحتملة في المحاصيل حتى 70%. ونادراً ما يقتل المرض المضيف ولكنه يقلل من الغلة والنوعية بشكل كبير.",
   "hosts": [
-    "Malus spp. (apple, crabapple)",
+    "Spp. (تاسل، مكابل)",
     "Sorbus spp.",
-    "Cotoneaster spp.",
+    "(أ) كُتبت في الدفعة الثانية من المطالبات من الفئة \"هاء-2\".",
     "Pyrus spp."
   ],
   "symptoms_and_damage": [
-    "Leaves: velvety-brown to olive-green spots with distinct margins, often cupping underside of leaf",
-    "Older leaves: raised dark-green to gray-brown lesions causing cupping and leaf curl",
-    "Fruits: small black spots that become brown, corky, and scabby",
-    "Fruit deformation and premature drop",
-    "Increases susceptibility to secondary infections and abiotic stress"
+    "الأوراق: البنين المخملي إلى البقاع الخضراء بالزيتون مع هوامش متميزة، غالباً ما تُكبّس أسفل جانب الورقة",
+    "(أ) أُسس الشيخوخة: أُثيرت بآث مُربَّاة من الخضر الداكن الأخضر إلى الرمادي البني، مسببة الكؤوس والورق",
+    "اثمار : بقع سوداء صغيرة تصير بنيّة ، كروكيّة ، وكربّية",
+    "التشوهات والإسقاط قبل الأوان",
+    "زيادة القابلية للإصابة بالأمراض الثانوية والإجهاد الحيوي"
   ],
   "disease_cycle": [
-    "Overwinters in leaf litter and infected plant debris as pseudothecia",
-    "Early spring: cool, moist conditions trigger release of sexual ascospores",
-    "Spores are spread by wind and splashing water to leaves and blossoms",
-    "Tissue penetration occurs via germ tube or appressorium",
-    "Light-green lesions develop, darken, and expand; fruit lesions become corky",
-    "Within 10 days, asexual conidia form for secondary infections",
-    "Cycle may repeat every 1–2 weeks under favorable conditions",
-    "At season end, infected leaves and fruit fall, forming pseudothecia for next season"
+    "ثانياً - أوجه التجاوز في أزهار الأوراق ومخلفات النباتات المُصابة كشكل من أشكال",
+    "- ظروف الرطوبة الرطوبة الباردة التي تؤدي إلى الإفراج عن الأوراكوسبوريات الجنسية",
+    "تُوسَّع البُوُح بالرياح وتُرش المياه إلى الأوراق والأزهار",
+    "(أ) يحدث الاختراق TT عن طريق أنبوب علمي أو Appressorium",
+    "تُنمّي الآفات الخفيضة الزهية الخفية وتُطغّر وتُوسّع؛ وتُصبح المآثر مُسْتَحَكَّةً",
+    "في غضون 10 أيام، استمارة الإكريدية الجنسية من أجل الأمراض الثانوية",
+    "قد تتكرّر الدورة كل أسبوع - أسبوعين في ظل ظروف مواتية",
+    "في نهاية الموسم ، الاوراق المُصابة والفاكهة التي تُكوِّن « شَوْشا » للموس القادم"
   ],
   "favorable_conditions": [
-    "Cool and moist weather during spore release",
-    "Abundant rainfall",
-    "Dense tree canopy that slows leaf drying"
+    "الطقس البارد والرطوبة أثناء الإصدارات",
+    "هطول هطول الأمطار",
+    "شَعْبُ شَجْبِ شَجْبِ يُبَطِّئُ شَجْرَ"
   ],
   "prevention_and_cultural_controls": [
-    "Select sunny planting sites to improve air circulation",
-    "Remove and destroy fruit drops, leaf litter, and prunings to reduce inoculum",
-    "Regular pruning to open canopy for rapid drying",
-    "After harvest, apply 5% urea solution prior to leaf fall to accelerate decomposition",
-    "Avoid overhead irrigation during spore release periods"
+    "اختيار مواقع زرع متزامنة لتحسين الدوران الجوي",
+    "يزيل ويدمر قطرات الفاكهة، والورق، والقمامة، والتجزئات للحد من الانقلولوم",
+    "منحرفة بصورة منتظمة إلى فتح المظلي من أجل التجف السريع",
+    "بعد الحصاد، تطبيق 5 في المائة من محلول اليوريا قبل سقوط الورقة للتعجيل بالتحلل",
+    "المراوغة في الري أثناء فترات التخلّص من الأوج أثناء فترات التصرّف"
   ],
   "chemical_control": [
-    "Spray Mancozeb @ 2 g/l of water, repeat 2–3 times at 7-day intervals; WHO Class U, PHI 14–28 days, FRAC MO3",
-    "Spray Carbendazim 50% WP @ 2 g/l at early flowering; WHO Class U, PHI 14 days",
-    "Follow product label instructions, rotate modes of action to prevent resistance"
+    "Spray Mancozeb@ 2 g/l من الماء، تكرار 2 - 3 مرات عند 7 مرات كل 7 أيام؛ فئة منظمة الصحة العالمية U، PHI 14 - 28 يوما، FRC MO3",
+    "Spray Carbbendazim 50٪ WP@ 2 ميكروغرام/لتر في وقت مبكِّر من الزهرة؛ فئة منظمة الصحة العالمية U, PHI 14 يوماً",
+    "تعليمات وسم متتابعة لمنتج، ومسار عمل متناوب لمنع المقاومة"
   ],
   "biological_control": [
-    "Bacillus subtilis @ 50 ml/ropani (e.g., Serenade Opti) before/during rainy season",
-    "Trichoderma harzianum 100 ml/ropani under high-risk conditions",
-    "Fungal antagonist Cladosporium cladosporioides strain H39 reduces leaf scab 42–98% and fruit scab 41–94%"
+    "Bacyllus Subtilis@ 50 مل/روباني (على سبيل المثال، سيريدي أوبتي) قبل/أثناء موسم الأمطار",
+    "التريشودرما رزيدانوم 100 مللي/روبان في ظروف عالية الخطورة",
+    "(أ) يُخفِّض H39 من حجم أوراق الشاب 42 إلى 98 في المائة ونظير الفاكهة 41 إلى 94 في المائة"
   ],
   "resistance_breeding": [
-    "PRI Apple Breeding Program developed 1500 resistant cultivars; examples: 'Prima', 'Jonafree', 'Goldrush'",
-    "Fifteen resistance genes identified; Vf (Rvi6) gene widely studied",
-    "Resistance genes derived from wild Malus spp. in East Asia",
-    "Potential for transgenic cultivars, but adoption is limited due to market acceptance and pathogen evolution"
+    "تم تطوير برنامج استخراج آبل تطوير 1500 من الطوائف المقاومة؛ أمثلة: 'Prima', 'Jonafree', 'Goldrosh'",
+    "تم تحديد خمسة عشر جيناً من جينات المقاومة؛ دراسة واسعة النطاق للجين Vf (Rvi6)",
+    "جينات مقاومة مستمدة من Spp في شرق آسيا",
+    "دال - إمكانية الاعتماد بالنسبة لجماعات مستنبتة المحورة وراثياً، ولكن الاعتماد محدود بسبب قبول السوق وتطور مسببات الأمراض"
   ],
   "monitoring": [
-    "Inspect leaves for velvety-brown to olive-green spots",
-    "Monitor older leaves for raised gray-brown lesions",
-    "Check fallen leaves for curled and shriveled tissue",
-    "Observe fruits for black spots developing into scabs"
+    "أوراق الشووط من أجل البُقع الخضراء التي تحتوي على زيتون",
+    "مراقبة العطلات الأقدمية للآفات الرمادية",
+    "تم التحقق من أوراق الشوأ للنسيج المُجَلَّد والمُقَلَّع",
+    "تُنَظَّمُ فُواكَفَفَكَمَا لِبُقَعَالَسَكَ تَنْمِيَةً مِنَ ٱلْمُقَرَّبَاتِ"
   ],
   "direct_control_and_restrictions": [
-    "Remove and dispose of severely infected plant parts in a pit at least 30 cm deep",
-    "Prune trees to improve leaf drying after rain",
-    "Wear protective clothing when using pesticides",
-    "Avoid repeated use of chemicals with same mode of action"
+    ":: التخلص من الأجزاء النباتية الشديدة الإصابة والتخلص منها في حفرة بعمق لا يقل عن 30 سم",
+    "تُسَجَّرُ الأشجارُ المُنْزِلَةُ لتحسين تَجَرُّفَاتِ تَوَجُّهُ بعد المطر",
+    "ارتداء ملابس واقية عند استخدام مبيدات الآفات",
+    "تجنب الاستخدام المتكرر للمواد الكيميائية التي لها نفس أسلوب العمل"
   ],
   "sources": [
-    "Wikipedia – Apple Scab",
-    "Plant Pest Management Literature",
-    "Integrated Pest Management (IPM) references",
-    "PRI Apple Breeding Program, Purdue University, Rutgers University, University of Illinois"
+    "Wikedia - تفاح Scab",
+    "إدارة مبيدات النباتات",
+    "المراجع المرجعية لإدارة الآفات المتكاملة (IPM)",
+    "برنامج إعداد الآب، جامعة بوردو، جامعة روتجيرز، جامعة إيلينوي"
   ]
 }

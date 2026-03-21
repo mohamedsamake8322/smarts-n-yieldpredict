@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "Mealybug 调算器",
+  "scientific_name": "家庭互助会",
+  "pest_type": "昆虫",
+  "description": "蚊虫是被白蜡粉覆盖的幼虫,它们攻击许多作物和装饰植物,削弱植物,生产粘糊的蜂蜜,导致霉菌生长。",
+  "symptoms": [
+    "树叶、树茎或水果上的白色棉花般的昆虫",
+    "植物表面的粘粘性蜂蜜",
+    "以蜂蜜为生的黑豆芽",
+    "黄叶或卷曲树叶",
+    "抑制植物生长",
+    "严重灾害中过早叶叶下降"
+  ],
+  "hosts": [
+    "柑橘",
+    "格拉比文",
+    "香蕉香蕉",
+    "木木木谷",
+    "菠萝",
+    "咖啡咖啡咖啡 咖啡咖啡咖啡咖啡",
+    "木沙",
+    "甘甘蔗",
+    "向向日向",
+    "兰花",
+    "仙地",
+    "花园植物和温室作物"
+  ],
+  "favorable_conditions": [
+    "温暖和潮湿气候",
+    "植被密集或温室条件",
+    "保护百虫的蚂蚁的存在",
+    "贫穷的自然掠夺性活动"
+  ],
+  "spread": [
+    "渗入植物材料的移动",
+    "风或昆虫携带爬虫",
+    "运输和保护殖民地的蚂蚁"
+  ],
+  "damage": [
+    "植物因肥肥而变弱",
+    "在某些作物中传播植物病毒",
+    "降低产量和植物增长",
+    "制作蜂蜜甜甜的软软模具"
+  ],
+  "biological_control": [
+    "诱杀性甲虫驱逐舰(Melybug 驱逐舰)",
+    "绿带幼虫(Crysopidae)",
+    "攻击虫虫群的寄生虫",
+    "通过减少广泛杀虫剂,鼓励自然捕食者"
+  ],
+  "chemical_control": [
+    "Pyrethroid杀虫剂,如倍氯菊酯、二芬氯菊酯或氟氯菊酯",
+    "杀虫肥皂或园艺油",
+    "虫害严重时的系统杀虫剂"
+  ],
+  "prevention": [
+    "定期检查早期侵袭植物",
+    "控制保护百虫的蚂蚁",
+    "清除严重污染的植物部件",
+    "避免过量氮肥化",
+    "使用清洁种植材料"
+  ],
+  "source": [
+    "关于Pseudococccidae的昆虫学文献",
+    "农业虫害管理参考资料",
+    "维基百科 — — Mealybug"
+  ]
 }

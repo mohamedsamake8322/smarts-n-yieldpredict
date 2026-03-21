@@ -1,0 +1,87 @@
+[
+  {
+    "disease": "Mkpụrụ ndụ ihe nketa nke na - emepụta mmiri ọgwụ ahụ́ bụ́ Flenaa Belele",
+    "scientific_name": "Ọ bụ otu n'ime ihe ndị kacha mkpa anyị ga - eme ka anyị nwee ike ịna - enwe obi ụtọ.",
+    "pathogen_type": "NDỊ NA - ETO ETO (ihe ndị e ji egbochi afọ ime)",
+    "description": "Ụmụ ahụhụ ndị e ji mee ihe dị ka ndị na - achịkwa ụmụ ahụhụ pụọ n'Eusblaa eplalala (Agrigrige).",
+    "hosts": [
+      "Erublaia elalalala",
+      "M̀ ga - ejirịrị oge buru ibu na - eme ihe ndị ọzọ?"
+    ],
+    "symptoms": [
+      "Ihe Ndị Na - eme Ka Ndị Okenye Ghara Ịdị ná Mma",
+      "Ọ na - eme ka ihe ọkụkụ na - eto nke ọma ma na - eme ka okooko osisi na - eto nke ọma",
+      "Ihe ọkụkụ ndị na - adịghị mma ma ọ bụ ndị na - anwụ anwụ ka oge na - aga"
+    ],
+    "favorable_conditions": [
+      "Oge opupu ihe ubi na oge okpomọkụ",
+      "Ala nke jupụtara na mmiri bụ́ nke nwere ihu ọma"
+    ],
+    "spread": [
+      "Òtù Na - ahụ Maka Mmetụta Uche nke Ndị Okenye",
+      "Mmalite nke Ụmụ Mmadụ Maka Ihe Omume Ndị Na - achịkwa Nje Ndị Na - akpata Ọrịa"
+    ],
+    "management": [
+      "Jiri nje ndị na - akpata ọrịa mee ihe dị ka ihe na - achịkwa nje bacteria",
+      "Zere ọgwụ ahụhụ ndị pụrụ igbu ọnụ ọgụgụ ndị na - egbu egbu",
+      "Ọnụ ọgụgụ ndị a ma ama bụ́ ndị na - ewu ụlọ ma na - agbasa"
+    ],
+    "chemical_control": [
+      "Ọ bụghị ihe ọzọ: E ji ya mee ihe dị ka ihe na - achịkwa nje bacteria"
+    ],
+    "prevention": [
+      "Nọgide na - enwe ọnụ ọgụgụ dị mma nke ndị bi n'ógbè unu maka ịchịkwa ha",
+      "Zere inye nkọwa na-enweghị isi"
+    ],
+    "source": [
+      "PAYI N'OZỌTI N'Ahụ́ Ahụ́ E Ji Eme Ihe n'Ụzọ Na - adịghị Ize Ndụ",
+      "IHE NDỊ NA - EME N'ỤWA NA - EME KA NDỊ MMADỤ NWERE ONWE HA"
+    ]
+  },
+  {
+    "disease": "Ọnụ Ọgụgụ Na - arịwanye Elu nke Ndị Na - eto Eto Na - ajụ, Sị",
+    "scientific_name": "Elamofus liglas stake",
+    "pathogen_type": "A na - eji ihe ndị e ji egbochi afọ ime (pggggggggggggggva)",
+    "description": "Mkpụrụ akụ́kụ́ nke na - awakpokarị ebe mkpụrụ akụ́kụ́ si, otú e si akụ ya, na ahịhịa ndị ọzọ, na - eme ka mkpụrụ akụ́kụ́ ndị na - eto eto na - egbu ma na - anwụ.",
+    "hosts": [
+      "Tinyere ngwá ọrụ ndị ahụ",
+      "Sorghum",
+      "[ Ihe e dere n'ala ala peeji]",
+      "Ndị Na - eme Ka Anụ Ma Ọ Bụ Nwanyị Ibe Ha Na - enwe Mmasị n'Ebe Ha Nọ",
+      "Mkpụrụ Ndị Na - amị Mkpụrụ"
+    ],
+    "symptoms": [
+      "Ime ka ihe ọkụkụ ndị na - eto eto na - eto eto na - acha odo odo na ndị na - acha odo odo",
+      "Ọwa mmiri na ọwa mmiri ndị dị n'ala ala ebe e si agafe ebe ahụ",
+      "Ihe ọkụkụ ndị nwụrụ anwụ ma ọ bụ ndị nke na - esighị ike"
+    ],
+    "favorable_conditions": [
+      "Ala ájá juru na ya",
+      "Mmiri na - ezonụ na ihu igwe kpọrọ nkụ bụ́ ndị na - eyi àkwá egwu",
+      "Ihe ọkụkụ ndị a kụrụ n'ubi bụ́ ndị a kụrụ ihe na ha"
+    ],
+    "spread": [
+      "Ihe ndị dị n'ala ma ọ bụ n'ala ahịhịa",
+      "Ọ bụ n'ihi na ọ na - esiri ha ike ịkwaga ebe ọzọ ka ha nwee ike ịlụso ndị na - eto eto ọgụ",
+      "Ihe ọkụkụ ma ọ bụ ihe ọkụkụ dị iche iche"
+    ],
+    "management": [
+      "Soro osisi ndị na-enweghị isi na-enweghị isi na-enweghị njikọ",
+      "Mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa dị iche iche",
+      "Osisi ndị miri emi a kụrụ iji chebe mkpụrụ ndị na - eto eto"
+    ],
+    "chemical_control": [
+      "N'ala nke oge a ma ọ bụ n'ala (ya bụ, ihe ndị e ji emenwu ọkụ)",
+      "Ihe ị ga - eme bụ ibu ụzọ tinye ya tupu ị banye n'ụgbọ okporo ígwè"
+    ],
+    "prevention": [
+      "Ọrụ ugbo na - eme ka ụdị dị iche iche dịgide mgbe e nwere ha",
+      "Jiri ahịhịa ndị dị n'ubi mee ihe n'efu",
+      "Osisi ndị na - eto eto na - acha akwụkwọ ndụ akwụkwọ ndụ ma na - agwọ ha n'oge ma ọ bụrụ na a hụ ha"
+    ],
+    "source": [
+      "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+      "Olee Otú M Pụrụ Isi Mee Ka Ekpere M Ka Mma?"
+    ]
+  }
+]

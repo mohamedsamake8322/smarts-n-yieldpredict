@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
+  "pest_name": "Mite d'araignées à deux points",
   "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "type": "arthropodes/acariens",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "Adultes de 0,4 à 0,5 mm de long",
+    "appearance": "Corps ovale, vert à jaunâtre avec deux taches foncées sur le dos; huit jambes",
+    "life_cycle": "Oeuf → larve → protonymphe → deutonymphe → adulte; plusieurs générations par saison",
+    "notes": "Très petite, nécessite souvent une lentille à main ou un grossissement pour la détection"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "Tomates",
+      "Concombre",
+      "Poivre",
+      "Fraises"
+    ],
+    "secondary": [
+      "Beaucoup de plantes ornementales, de légumes et de fruits"
+    ],
+    "weeds": [
+      "Les hôtes de mauvaises herbes peuvent abriter des populations en dehors de la saison"
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "Dans le monde entier, en particulier dans des conditions chaudes et sèches",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "Petites taches jaunes ou pâles sur la face supérieure des feuilles (jambons)",
+      "Webbing sur les faces inférieures des feuilles sous les fortes infestations",
+      "Les feuilles peuvent tourner en bronze, boucler et tomber prématurément"
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "Réduction de la photosynthèse, retard de croissance, rendement plus faible, augmentation du stress végétal"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "Thrives par temps chaud et sec",
+    "La croissance démographique est rapide sous des températures de 25 à 35°C",
+    "Une faible humidité relative favorise les épidémies"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "Vent, eau d'irrigation, outils contaminés",
+    "Transportée par des plantes infestées ou des débris végétaux"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "Maintenir une irrigation et une humidité adéquates pour réduire le stress sur les plantes",
+      "Enlever les débris végétaux infestés et les mauvaises herbes",
+      "Éviter l'utilisation excessive d'insecticides à large spectre qui perturbent les prédateurs naturels"
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "Introduire des acariens prédateurs (p. ex., Phytoseiulus persimilis, Neoseiulus californicus)",
+      "Encourager les prédateurs naturels tels que les coccinelles et les lacets"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "Utiliser des miticides (acaricides) en dernier recours et faire pivoter les classes chimiques pour éviter la résistance",
+      "Appliquer sur les dessous des feuilles où les acariens sont concentrés"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "L'un des ravageurs les plus courants et les plus importants du point de vue économique dans le monde",
+    "Peut développer une résistance rapide à plusieurs classes chimiques"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "Helle, W. & Sabelis, M.W. (1985). Mites d'araignées : leur biologie, leurs ennemis naturels et leur contrôle. Elsevier.",
+    "Gerson, U., Smiley, R.L., et Ochoa, R. (2003). Mites (Acari) pour la lutte antiparasitaire. Blackwell Science.",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites nuisibles aux plantes économiques. University of California Press."
   ]
 }

@@ -1,84 +1,84 @@
 {
-  "disease": "Aspergillus Ear Rot of Corn",
-  "scientific_name": "Aspergillus flavus",
-  "pathogen_type": "Fungus",
-  "description": "Aspergillus ear rot is an important fungal disease of maize caused mainly by Aspergillus flavus. The disease produces olive-green powdery mold on corn kernels and contaminates grain with aflatoxin, a highly toxic and carcinogenic mycotoxin that threatens livestock and human health and reduces grain marketability.",
+  "disease": "玉米的阿斯佩尔吉勒斯",
+  "scientific_name": "食肉动物",
+  "pathogen_type": "蘑菇",
+  "description": "Asperglus耳朵腐烂是主要由Asperglusflavus引起的玉米一种重要的真菌病,该病在玉米内核上产生橄榄绿色粉状霉素,用黄曲霉毒素污染谷物,一种剧毒和致癌的甲状腺毒素,威胁牲畜和人类健康,降低谷物的销量。",
   "hosts": [
-    "Corn (maize)",
-    "Peanuts",
-    "Cereal grains",
-    "Legumes",
-    "Tree nuts"
+    "玉米(玉米)",
+    "花生",
+    "谷物",
+    "法律",
+    "树坚果"
   ],
   "symptoms": [
-    "Olive-green powdery mold on kernels",
-    "Mold usually begins at the tip of the ear but may spread to the base",
-    "Powdery spores disperse like dust when husk is opened",
-    "Small ears and stunted plants in dry or stressed areas",
-    "Kernel discoloration and reduced seed germination"
+    "内核上的橄榄绿色粉状模子",
+    "发霉通常从耳朵的顶端开始,但可能扩散到基底",
+    "露壳时,粉尘的粒子散得像灰尘一样散散散,",
+    "干燥或有压力地区的小耳朵和发育不良植物",
+    "内核脱色和种子发芽减少"
   ],
   "toxins": [
-    "Aflatoxin (carcinogenic mycotoxin)",
-    "Contaminates grain and livestock feed",
-    "Can be present even when kernels appear healthy"
+    "黄曲霉毒素(致癌性甲酚基甲酚)",
+    "消除谷物和牲畜饲料的污染",
+    "即使内核看起来健康,也可以存在"
   ],
   "disease_cycle": [
-    "Fungus survives in soil and crop residues as mycelia or sclerotia",
-    "Produces conidia (spores) that spread by wind and insects",
-    "Infection occurs through silks or wounds caused by insects, birds, or hail",
-    "Can infect crops before harvest and remain dormant until storage",
-    "Continues producing aflatoxin during hot, dry conditions or delayed harvest"
+    "Fungus在土壤和作物残留物中存活下来,作为迷宫或锥体。",
+    "制造由风和昆虫传播的锥虫",
+    "感染通过丝绸或昆虫、鸟类或冰雹造成的伤口发生。",
+    "在收获前能够感染作物,在储存前保持休眠",
+    "在炎热、干燥或收成迟缓期间继续生产黄曲霉毒素"
   ],
   "favorable_conditions": [
-    "Hot and dry weather",
-    "Drought stress or nutrient deficiency",
-    "Insect damage to ears",
-    "High temperature and moisture during storage"
+    "炎热和干燥的天气",
+    "干旱压力或营养素缺乏症",
+    "昆虫耳耳朵损伤",
+    "储存期间高温和高湿度"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Insect vectors (stink bugs, lygus bugs)",
-    "Infected crop residue and soil",
-    "Contaminated seeds",
-    "Improper grain storage conditions"
+    "风云螺子",
+    "昆虫矢量(臭虫、碱虫虫)",
+    "受感染作物残留物和土壤",
+    "受污染种子",
+    "粮食储存条件不适当"
   ],
   "monitoring": [
-    "Inspect at least 30 ears in different field locations before harvest",
-    "Peel husks and check for olive-green mold",
-    "Focus on dry areas such as sandy soils or hillsides",
-    "Monitor stressed plants with small ears"
+    "在收获前在不同的实地地点至少检查30个耳朵",
+    "钢壳和橄榄绿模具检查",
+    "注重干旱地区,如沙沙土壤或山坡",
+    "带小耳朵的监视器压力装置"
   ],
   "cultural_management": [
-    "Control ear-feeding insects",
-    "Reduce plant stress through irrigation and proper nutrition",
-    "Harvest infected fields early",
-    "Separate contaminated grain from healthy grain",
-    "Remove damaged kernels and maintain sanitation"
+    "控制耳喂昆虫",
+    "通过灌溉和适当营养减少植物压力",
+    "早期收割受感染地区",
+    "从健康谷物中分离受污染的谷物",
+    "清除损坏的内核并维持环境卫生"
   ],
   "postharvest_management": [
-    "Dry grain immediately after harvest",
-    "Keep grain moisture below 11.5%",
-    "Store grain at low temperature (below 5°C when possible)",
-    "Use aeration systems in storage bins",
-    "Maintain clean storage facilities"
+    "收获后立即用干粮",
+    "将粮食湿度保持在11.5%以下",
+    "以低温储存谷物(在可能情况下低于5°C)",
+    "使用储存箱中的电离系统",
+    "维护清洁储存设施"
   ],
   "biological_control": [
-    "Pichia anomala yeast competes with Aspergillus flavus and reduces growth up to 97%",
-    "Atoxigenic strain Aspergillus flavus AF36 used as biocontrol to reduce aflatoxin production"
+    "Pichia anomala 酵母与Aspergillus flavus 竞争,将增长减到97%",
+    "Aspergillus flavus AF36 用作生物控制,以减少黄曲霉毒素生产"
   ],
   "chemical_or_physical_control": [
-    "Use fumigants to control insects in storage",
-    "Maintain aeration systems to remove heat and moisture",
-    "No widely effective fungicide treatments in field conditions"
+    "使用熏蒸剂控制储存中的昆虫",
+    "维持清除热和湿度的空气系统",
+    "实地条件下没有广泛有效的杀真菌剂治疗方法"
   ],
   "economic_impact": [
-    "Postharvest losses can reach 10–30%",
-    "Higher losses possible in developing countries",
-    "Major economic losses due to aflatoxin contamination rather than yield reduction"
+    "收获后损失可达10-30%",
+    "发展中国家可能遭受的较高损失",
+    "因黄曲霉毒素污染而不是减产造成的重大经济损失"
   ],
   "sources": [
-    "University Extension Plant Disease Publications",
-    "USDA Agricultural Research Service",
-    "Scientific literature on Aspergillus flavus and aflatoxin contamination"
+    "大学推广植物疾病出版物",
+    "AUSDA 农业研究服务",
+    "关于Aspergillusflavus和黄曲曲霉毒素污染的科学文献"
   ]
 }

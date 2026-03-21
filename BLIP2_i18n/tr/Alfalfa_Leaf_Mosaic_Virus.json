@@ -1,70 +1,70 @@
 {
-  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "disease_name": "Alfalfa_Leaf_Mosaic_Virus Hakkında",
+  "common_name": "Alfalfa Mosaik Hastalığı",
   "pathogen": {
-    "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
+    "type": "Virüsler",
+    "scientific_name": "Alfalfa Mosaik Virüsü",
     "abbreviation": "AMV",
     "family": "Bromoviridae",
-    "genus": "Alfamovirus"
+    "genus": "Alfamovirüs"
   },
   "host_plants": [
     "Alfalfa",
-    "Potato",
-    "Tomato",
-    "Pepper",
-    "Soybean",
-    "Clover",
-    "Pea",
+    "Patates",
+    "domates",
+    "Pepper için",
+    "Soylu",
+    "Clover için",
+    "Ayak",
     "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "Tütün",
+    "Çok sayıda dekoratif bitki"
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "Işık sarı mosaik modelleri",
+      "klorotik modül",
+      "Yaprak bozukluğu",
+      "Yumuşak veya uzatılmış yapraklar",
+      "Düşük yaprak boyutu"
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "Sıkıntılı büyüme",
+      "Düşük Güç",
+      "Düşük gelir"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "Aphidler ( 20'den fazla tür)"
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "yüksek aphid nüfusu",
+    "Sıcak sıcaklıklar",
+    "yakındaki enfekte bitkilerin varlığı"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "Virüssüz Sertifikalı Tohum Kullanımı",
+      "Enfekte bitkilerin kaldırılması",
+      "Virüs rezervuarları olarak çalışan kontrol ağaçları"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      "Aphid nüfuslarının izlenmesi ve yönetilmesi"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "Bazı toleranslı yetiştiriciler tohumlara bağlı olarak mevcuttur"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "Birçok sebze ve sebze ürünlerinin üretimi ve kalitesini azaltır",
+    "distribution": "Dünya çapında"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "APS Bitki Hastalıkları El Kitabı",
+    "CABI Bitki Koruma Ödülü",
+    "ICTV Virüs Taksonları"
   ]
 }

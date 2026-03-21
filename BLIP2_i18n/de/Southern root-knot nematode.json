@@ -1,0 +1,90 @@
+{
+  "pest_name": "Südlicher Wurzel-Knoten-Nematod",
+  "scientific_name": "Meloidogyne incognita",
+  "common_abbreviations": [
+    "RKN",
+    "Südliche Wurzelnematode",
+    "Baumwollwurzeln-Knoten-Nematoden"
+  ],
+  "description": "Meloidogyne incognita ist ein pflanzenparasitärer Rundwurm, der Wurzeln einer Vielzahl von Pflanzen angreift und große unregelmäßige Gallen verursacht. Es ist eine der häufigsten und wirtschaftlich wichtigsten Wurzel-Knoten-Nematoden weltweit.",
+  "distribution": "Weit verbreitet weltweit, in vielen verschiedenen Bodentypen gefunden, vor allem tropische und subtropische Regionen.",
+  "host_range": {
+    "general": "Extrem polyphagen, sowohl Monokotyledone als auch Dikotyledone angreifend; geschätzt über 3.000 Pflanzenarten.",
+    "notable_hosts": [
+      "Kassava (Manihot esculenta)",
+      "Baumwolle",
+      "Tomaten",
+      "Pfeffer",
+      "Tabak",
+      "Kaffee"
+    ]
+  },
+  "symptoms": {
+    "above_ground": [
+      "Wasserbelastung",
+      "Nährstoffbelastung",
+      "Gelbfärbung",
+      "Ausschweifen",
+      "Stunting"
+    ],
+    "below_ground": [
+      "Gallen auf Wurzeln, Zwiebeln und Knollen",
+      "Pflanzensterblichkeit bei hohen Befallsbedingungen"
+    ]
+  },
+  "morphology": {
+    "female": {
+      "shape": "Birnenform",
+      "posterior_protuberance": "Keine",
+      "stylet_length": "15–16 μm",
+      "stylet_knobs": "Abgerundet, versetzt",
+      "perineal_pattern": "Ovale bis abgerundete, hohe Rückenbogen, wellige Striae, laterales Feld abwesend oder schwach abgegrenzt"
+    },
+    "male": {
+      "shape": "Vermiform",
+      "head": "Nicht versetzt, erhöhte Labialscheibe, meist ohne laterale Lippen",
+      "stylet_length": "23–26 μm",
+      "stylet_knobs": "Abgerundet bis oval, versetzt"
+    },
+    "juvenile": {
+      "stage": "Zweite Stufe (J2)",
+      "body_length": "350–450 μm",
+      "tail_length": "43–65 μm",
+      "hyaline_region": "6–14 μm lang",
+      "shape": "Abgerundete Schwanzspitze"
+    }
+  },
+  "life_cycle": {
+    "stages": [
+      "Ei",
+      "J1",
+      "J2 (infektiös)",
+      "J3",
+      "J4 ENTWICKLUNG DER RECHTSPRECHUNG DES GERICHTSHOFES",
+      "Erwachsene"
+    ],
+    "description": "J2 Jungtiere schlüpfen aus Eiern, dringen in Wurzelspitzen ein, wandern ins Gefäßgewebe, bilden permanente Futterstellen (Riesenzellen), mollen zu Erwachsenen. Weibchen werden zu Globose und legen Eier in gelatineartiger Masse; Männchen verlassen Wurzeln. Der Lebenszyklus schließt in 37 Tagen bei 21 °C ab.",
+    "reproduction": "Sexuell dimorph; weiblich sitzend, männlich vermiform"
+  },
+  "behavior": {
+    "thermotaxis": "Kann sehr flache Temperaturgradienten erkennen und entlang bewegen, um Wurzeln zu finden",
+    "chemotaxis": "Reaktion auf chemische Hinweise aus Wirtswurzeln"
+  },
+  "management": {
+    "cultural_control": [
+      "Fruchtrotation mit nicht-wirtlichen oder resistenten Sorten",
+      "Verwendung organischer Änderungen",
+      "Pflanzen antagonistische Kulturen wie Crotalaria spectabilis und Tagetes-Arten"
+    ],
+    "biological_control": [
+      "Eiparasitäre Pilze wie Paecilomyces filacinus"
+    ],
+    "chemical_control": [
+      "Mehrere Nematizide kommerziell erhältlich"
+    ]
+  },
+  "notes": [
+    "Verursacht schweres Galgen und Ertragsverlust in vielen Kulturen",
+    "Bedeutende wirtschaftliche Bedeutung in der tropischen und subtropischen Landwirtschaft"
+  ]
+}

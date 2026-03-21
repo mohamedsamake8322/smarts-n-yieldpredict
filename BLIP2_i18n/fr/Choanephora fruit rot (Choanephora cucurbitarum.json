@@ -1,69 +1,59 @@
 {
-  "disease": "Choanephora Fruit Rot",
+  "disease": "Choanephora Rotule de fruits",
   "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "pathogen_type": "Champignons",
+  "description": "Choanephora pourriture de fruits est une maladie fongique affectant les cultures de cucurbites dans les climats chauds et humides. L'agent pathogène infecte les fleurs d'abord et plus tard se propage aux fruits, provoquant une pourriture molle et aqueuse.",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "pourriture de fruits",
+    "Pourriture de fruits de Choanephora",
+    "Légère fleur de cucurbite",
+    "mélône fleur de mélône",
+    "pourriture humide"
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
+    "kingdom": "Champignons",
     "order": "Mucorales",
     "family": "Choanephoraceae"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "Une maladie fongique qui provoque une pourriture molle rapide des fleurs et des fruits de la cucurbite, en particulier dans des conditions chaudes et humides.",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "pourriture douce et aqueuse sur les fleurs",
+    "Tissus de fruits bruns ou translucides",
+    "pourriture commençant à l'extrémité florale du fruit",
+    "pourriture rapide des fruits en quelques jours",
+    "croissance fongique floue couvrant les tissus infectés",
+    "moule blanc tournant pourpre ou noir",
+    "Structures fongiques semblables à des têtes d'épingle sur des fruits pourris"
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "pourriture molle sur courge ou concombre",
+    "blanc fluffy moule tournant violet foncé ou noir",
+    "structures noires ressemblant à une tête d'épingle sur des tissus pourrissants",
+    "pourriture de fruits translucides humide"
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "Fleurs",
+    "Fruits",
+    "bout de fleur de fruit",
+    "organes floraux sénescentes"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "Cucurbitacées",
   "hosts": [
-    "pumpkin",
+    "Citrouille",
     "squash",
-    "zucchini",
-    "watermelon",
+    "courgettes",
+    "pastèque",
     "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
+    "Luffa",
+    "concombre",
+    "aubergines",
+    "piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment",
+    "haricots",
     "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "épinards",
+    "Pommes de terre douces",
+    "manioc"
   ],
-
   "important_hosts": [
     "Cucurbita pepo",
     "Cucurbita maxima",
@@ -71,69 +61,59 @@
     "Cucumis melo",
     "Luffa cylindrica"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "humidité élevée",
+    "pluies fréquentes",
+    "Fleurs et fruits humides",
+    "Mauvaise circulation d'air",
+    "températures chaudes supérieures à 25°C"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "spores dispersées par le vent",
+    "éclaboussure de pluie",
+    "insectes porteurs de spores",
+    "débris végétaux contaminés",
+    "Résidus de cultures infectés"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "Le champignon survit dans les débris végétaux et le sol",
+    "spores infectent les fleurs sénescentes",
+    "l'infection se propage des fleurs aux fruits en développement",
+    "Le champignon produit des spores abondantes sur les tissus pourrissants",
+    "spores disséminées par le vent, la pluie, l'irrigation et les insectes"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "pourriture rapide des fruits",
+    "perte de fruits de la cucurbite commercialisables",
+    "liquéfaction des fruits",
+    "pertes de rendement dans les cultures de cucurbitacées"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "enlever immédiatement les fleurs et les fruits infectés",
+    "éviter les irrigations aériennes",
+    "utiliser l'irrigation goutte à goutte si possible",
+    "Installations spatiales pour une bonne circulation de l'air",
+    "Récolter les fruits avant la surmaturité",
+    "réduire l'humidité dans les serres"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "rotation des cultures dans la mesure du possible",
+    "lits surélevés ou sol bien drainé",
+    "paillis plastique pour réduire le contact avec le sol",
+    "bon assainissement et enlèvement des débris végétaux"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "mycoparasite Piptocephalis virginiana a rapporté supprimer le champignon"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "fongicides généralement inefficaces parce que les fleurs s'ouvrent continuellement"
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Rhizopus pourriture de fruits"
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "Université du Minnesota Extension",
+    "Publications de recherche en pathologie végétale",
+    "Guides de gestion de la maladie de Cucurbit"
   ]
 }

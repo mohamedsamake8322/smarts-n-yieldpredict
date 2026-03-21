@@ -1,100 +1,100 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
+  "virus_name": "Tütün Ringspot Virüsü",
   "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "family": "Secoviridae Hakkında",
+  "genus": "Nepovirüs",
   "taxonomy": {
-    "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "Picornaviral",
+    "virus_group": "Bitki RNA virüsü"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "pozitif RNA tek taraflı RNA",
+    "structure": "Bipartit genomları (RNA1 ve RNA2)",
+    "particle_shape": "Isometrik",
+    "particle_size": "yaklaşık 28 nm çapı"
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
+      "Nematodlar (Xiphinema spp)",
+      "Tırnaklar",
+      "Mitleri",
       "grasshoppers",
-      "flea beetles"
+      "Flak Beetles"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "Kuşlarda virüs tespit edilmiştir, ancak kuşlardan bitkilere iletimi doğrulanmamıştır."
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
+      "Tütün (Nicotiana spp)",
+      "Soylu",
+      "domates",
       "Peanut",
-      "Potato",
-      "Lettuce"
+      "Patates",
+      "Mutluluk"
     ],
     "ornamental_plants": [
-      "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "Zamia Furfuracea Hakkında",
+      "Chrysanthem",
+      "Petunya"
     ],
     "weed_hosts": [
-      "Chenopodium spp.",
-      "Amaranthus spp.",
-      "Solanum nigrum"
+      "Chenopodium spp için.",
+      "Amaranthus spp için.",
+      "solanum nigrum"
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "Yapraklardaki klorotik yüzük noktaları",
+    "Necrotik yüzük noktaları hastalık ilerlemesiyle",
+    "Deformasyon ve Deformasyon",
+    "Enfekte bitkilerde büyüme artışı",
+    "Düşük gelir ve bitki gücü"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "Virüs enfekte bitkilerde, tohumlarda ve topraklarda nematod vektörler aracılığıyla hayatta kalır",
+    "Nematodes enfekte kökleri beslerken virüs kazanır",
+    "Vektörler beslenme sırasında virüsleri sağlıklı bitkilere aktarır",
+    "Yetiştirme sırasında mekanik aktarım meydana gelebilir"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "Yapraklardaki karakteristik yüzük noktaları",
+      "Chlorosis ve necrosis yaralanmaların etrafında"
     ],
     "laboratory_methods": [
-      "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "Elisa",
+      "PCR tabanlı teşhis",
+      "Elektron Mikroskobu"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "Vacuolate içeriği (Vac Inc)",
+      "Crystalloid içeriği (Cyst Inc)"
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "Soya, peynir ve tütün bitkilerinde ciddi verim kaybına neden olabilir.",
+    "agronomic": "Enfekte bitkiler zayıf büyüme ve düşük verimlilik gösterebilir"
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "Sertifikalı virüssüz tohumlar kullanın",
+      "Enfekte bitkileri erken çıkarın",
+      "Ev sahipliği yapmayan bitkiler"
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "Topraklarda Nematod Popülasyonları Kontrolü",
+      "Böcek Vektörleri İzlemek ve Yönetmek"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "Disinfektörler ve ekipmanlar",
+      "Bitkiler arası mekanik aktarımlardan kaçının."
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "APS Bitki Hastalıkları El Kitabı",
+    "ICTV Virüs Taksonları",
+    "NCBI Virüs Veritabanı"
   ]
 }

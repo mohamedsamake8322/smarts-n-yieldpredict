@@ -1,91 +1,91 @@
 {
- "disease": "Sclerotinia Fruit Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia fruit rot is a fungal disease that affects many crops and vegetables. The fungus survives in soil as black structures called sclerotia and infects plants during cool and wet conditions, causing soft rot and plant collapse.",
- "symptoms": [
-  "Plants suddenly wilt and collapse",
-  "Soft wet rot on stems or fruits",
-  "White cotton-like fungal growth on infected tissues",
-  "Black seed-like structures (sclerotia) forming on infected areas",
-  "Yellowing leaves before plant collapse",
-  "Rotting of stems, fruits, bulbs, or roots"
- ],
- "visual_symptoms": [
-  "white fluffy mold on plant tissue",
-  "black hard sclerotia inside white fungal growth",
-  "soft watery rot on stems or fruits",
-  "collapsed plants"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Cucumber",
-  "Celery",
-  "Chicory",
-  "Sunflower",
-  "Oilseed rape (canola)",
-  "Carrot",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "fruits",
-  "leaves",
-  "bulbs",
-  "roots"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Wet weather",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia in soil",
-  "Contaminated plant debris",
-  "Direct contact with infected plants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce small cup-like structures (apothecia)",
-  "Apothecia release spores that spread by wind",
-  "Spores infect plant tissues during wet conditions",
-  "Infected plants produce new sclerotia that return to the soil"
- ],
- "impact": [
-  "Plant wilting and collapse",
-  "Fruit and stem rot",
-  "Major crop losses in vegetables and oilseed crops",
-  "Reduced yield and product quality"
- ],
- "cultural_control": [
-  "Remove and destroy infected plants immediately",
-  "Avoid overcrowding of plants",
-  "Improve air circulation in crops",
-  "Rotate crops with non-host plants",
-  "Remove crop debris from the field"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi such as Trichoderma species"
- ],
- "chemical_control": [
-  "Use registered fungicides when disease pressure is high",
-  "Apply protective fungicides during favorable disease conditions"
- ],
- "prevention": [
-  "Avoid planting susceptible crops repeatedly in the same field",
-  "Maintain proper plant spacing",
-  "Monitor fields during wet seasons",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural extension disease guides"
- ]
+  "disease": "Matunda ya Sclerotinia",
+  "scientific_name": "Maandiko ya Sclerotiorum",
+  "pathogen_type": "Fungus ya",
+  "description": "Sclerotinia fruct rot ni ugonjwa wa fungi ambayo huathiri matunda na matunda mengi. fungus huishi katika ardhi kama muundo wa nyekundu unaitwa sclerotia na kuvutia mimea wakati wa hali ya baridi na ya mvua, ambayo huathiri matunda ya nyekundu na uharibifu wa mimea.",
+  "symptoms": [
+    "Mimea ya haraka kuanguka na kuanguka",
+    "Roho ya kuvutia juu ya matunda au matunda",
+    "Uzalishaji wa fungus kama mboga ya kijani juu ya viungo vya ugonjwa",
+    "Muundo wa nyama ya kijani (sclerotia) ambayo huundwa kwenye maeneo ya ugonjwa",
+    "Maua ya nyekundu kabla ya kukomesha mimea",
+    "Uharibifu wa matunda, matunda, bulbs, au matunda"
+  ],
+  "visual_symptoms": [
+    "Fomu ya White Fluffy juu ya mwili wa mimea",
+    "Sclerotia ya dhahabu ndani ya ukuaji wa giza ya kijani",
+    "mti wa maji juu ya mti au matunda",
+    "Vyanzo vya kuanguka"
+  ],
+  "hosts": [
+    "Furaha ya",
+    "ya Beans",
+    "Mipango",
+    "Mji wa Tomato",
+    "ya Cucumber",
+    "kwa haraka",
+    "Shukrani",
+    "Maua ya jua",
+    "Mchakato wa mafuta (canola)",
+    "gari ya",
+    "Vyanzo vingi vya mazao"
+  ],
+  "plant_parts_affected": [
+    "Maoni ya",
+    "Matunda ya",
+    "Makala ya",
+    "ya bulbs",
+    "Roho ya"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Hali ya hewa",
+    "Chini ya Chini ya Cannabis",
+    "Usafiri wa hewa mbaya"
+  ],
+  "spread": [
+    "Ndege ya Airborne kuondolewa kutoka Apothecia",
+    "Sclerosis katika ardhi",
+    "Ukosefu wa mbegu za mimea",
+    "Mawasiliano ya moja kwa moja na mimea yaliyoathirika"
+  ],
+  "disease_cycle": [
+    "Fungi inaishi katika ardhi kama sclerotia kwa miaka kadhaa",
+    "Sclerotia germinate na kuzalisha muundo mdogo wa kupanda (apotecia)",
+    "Apothecia kuondoa spores ambayo imeenea kwa mvua",
+    "Matibabu ya kuvutia ya mimea wakati wa hali ya hewa",
+    "Mimea yaliyoathiriwa hutoa sclerotia mpya ambayo kurudi kwenye ardhi"
+  ],
+  "impact": [
+    "Mimea ya kuanguka na kuanguka",
+    "Matunda na matunda ya matunda",
+    "Uharibifu mkubwa wa matunda katika matunda ya matunda na matunda ya mafuta",
+    "Kupunguza uzalishaji na ubora wa bidhaa"
+  ],
+  "cultural_control": [
+    "Kuondoa na kuharibu mimea ya kuvutia mara moja",
+    "Kuepuka kuongezeka kwa mimea",
+    "Kuimarisha usafiri wa hewa katika matunda",
+    "Matunda ya kuvutia na mimea yasiyo ya kuvutia",
+    "Kuondoa mbegu ya mimea kutoka kwenye ardhi"
+  ],
+  "biological_control": [
+    "Matumizi ya virutubisho kama vile Coniothyrium minitans",
+    "Kutumia mbegu za faida kama vile aina ya Trichoderma"
+  ],
+  "chemical_control": [
+    "Matumizi ya fungicides zilizoandikwa wakati shinikizo la ugonjwa ni juu",
+    "Kutumia fungicides ya kulinda wakati wa hali ya ugumu ya ugonjwa"
+  ],
+  "prevention": [
+    "Kuepuka mimea ya kuvutia mara kwa mara katika eneo moja",
+    "Kuhifadhi mbinu sahihi ya uzalishaji",
+    "Ufuatiliaji wa maeneo wakati wa msimu wa mvua",
+    "Kutumia matibabu ya usimamizi wa magonjwa"
+  ],
+  "source": [
+    "Matokeo ya patologi ya mimea",
+    "Matibabu ya ugonjwa wa uzalishaji wa kilimo"
+  ]
 }

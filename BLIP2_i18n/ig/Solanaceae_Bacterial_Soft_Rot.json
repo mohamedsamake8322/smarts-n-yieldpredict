@@ -1,0 +1,85 @@
+{
+  "disease": "Ihe a bụ otu ihe dị ka narị puku mmadụ abụọ na puku iri ise.",
+  "scientific_name": "Foto ndị dị n'ogige ịta ahụhụ nke dị na Xnnananas bụ́ nke dị n'ebe a na - edebe ihe ndị mgbe ochie",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ebe a na - adịghị ahụ anya bụ ajọ ọrịa na - emetụta tomato na ose. Ọ na - eme ka e nwee ntụpọ ndị na - emebi emebi n'akwụkwọ nakwa ná mkpụrụ osisi, na - eme ka ọrịa ahụ belata ngwa ngwa ma belata.",
+  "symptoms": [
+    "Obere mmiri na-enweghị isi",
+    "Akụkụ ahụ́ ndị a na - apụghị iji anya nke uche hụ",
+    "Ihe ndị na - esi ísì ọma apụta na - enwe mmetụta dị ukwuu n'ahụ́ ya iji ghọọ nnukwu ihe mgbochi",
+    "Akwụkwọ ndị e dere ihe na ha bụ́ ndị e dere n'akụkụ ebe a na - edebe ihe ọmụma n'Intanet",
+    "Ọ bụrụ na ị hapụ ha, o nwere ike ime ka ị kwụsị ọrụ n'oge (na - esiri gị ike)",
+    "Ńgwānụ́ banye"
+  ],
+  "visual_symptoms": [
+    "Ebe akwụkwọ osisi na - acha nchara nchara",
+    "Mmiri n'ime mmiri. Mmiri dị n'ime ala",
+    "Tlab- dị ka ihe e sere ese nke na-ahụ maka mkpụrụ osisi",
+    "Akwụkwọ ndị na - acha odo odo nwere ọtụtụ ntụpọ"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Ndị Na - atụchasị Mmadụ",
+    "Ihe ndị a bụ ihe ndị na - atọ ọchị na ihe ndị na - akpali agụụ mmekọahụ",
+    "Ihe Ndị Na - akpali Agụụ Mmekọahụ Na - eme Ka E Nwee Ume Ọhụrụ",
+    "Ihe ọkụkụ ndị ọzọ a na - akụ n'ubi"
+  ],
+  "plant_parts_affected": [
+    "akwụkwọ",
+    "_Ebe ndesịta ngosi ebe",
+    "mkpụrụ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ ( 274 degrees°C)",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri ozuzo na - adịghị akwụsị akwụsị ma ọ bụ ịgba ala mmiri n'elu mmiri",
+    "Akwụkwọ ya"
+  ],
+  "spread": [
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́",
+    "Ihe ndị e gwupụtara n'ala",
+    "Mmiri ozuzo-disi",
+    "Ngwá ọrụ ndị e ji arụ ọrụ na ngwá ọrụ ndị e ji arụ ọrụ",
+    "Ndị ọrụ na - elekọta ihe ọkụkụ"
+  ],
+  "disease_cycle": [
+    "Mkpụrụ akụ́kụ́ ndị butere ọrịa ahụ na ụmụ irighiri ihe dị iche iche dị n'ime ya",
+    "Mmiri ozuzo ma ọ bụ oké mmiri ozuzo na - agbasa ebe nile",
+    "Ha na - esi n'osisi ma ọ bụ n'ihe mgbu abanye n'osisi",
+    "A na - akụ akwụkwọ osisi na mkpụrụ osisi n'ahụ́ ụlọ",
+    "Ndị na - egwu mmiri na - amụba ma na - agbasa ihe ọkụkụ ndị dị nso"
+  ],
+  "impact": [
+    "Ọ na - eme ka mmiri ghara ịbanye n'ime ya, na - emekwa ka mmiri ghara ịbanye ya n'ahụ́",
+    "Mkpụrụ osisi na - apụ n'anya n'ihi ahụ́ ọkụ",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi Na - eme Ka E belata",
+    "Mkpụrụ akụ́kụ́ nwere ike ịda n'oké ntiwapụ"
+  ],
+  "cultural_control": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Na - atụgharị uche n'ihe ọkụkụ ruo narị afọ abụọ na iri atọ na atọ",
+    "Wepụ irighiri ahịhịa ndị nwere nje ndị na - akpata ọrịa",
+    "Zere ịrụ ọrụ n'ubi mgbe ákụ́kụ́ dị ụkọ",
+    "Jiri ụdị dị iche iche na - eguzogide ihe mee ihe mgbe e nwere ha"
+  ],
+  "biological_control": [
+    "Jiri ụmụ irighiri ihe ndị bara uru dị ka Blasus-obere ihe ndị na-ahụ maka mkpụrụ ndụ ihe nketa",
+    "Ihe ndị e ji echebe ihe ọkụkụ bụ́ ndị e nwere"
+  ],
+  "chemical_control": [
+    "Ńgwānụ́ banye",
+    "Ihe e ji esiji ákwà bụ́ ndị e ji emenwu ọkụ",
+    "Anwụrụ ọkụ na - esi ísì ụtọ nke na - esi n'ahụ́ apụta",
+    "E ji ya emenwu ọkụ"
+  ],
+  "prevention": [
+    "Jiri usoro mmega ahụ́ ndị dị mma mee ihe",
+    "Nọgide na - edebe ihe ọcha n'ụzọ ọhịa",
+    "Hichaa ahịhịa na akụ́kụ́ ndị a kụrụ n'ala na ndị na - arụ ọrụ afọ ofufo",
+    "Ihe ubi ndị a na - akọ n'ubi mgbe nile n'oge oyi na - ekpo ọkụ"
+  ],
+  "source": [
+    "Ọrịa Na - efe Efe Pụrụ Ime Ka E Nwee Nduzi A Pụrụ Ịtụkwasị Obi",
+    "Akụkụ Akwụkwọ Nsọ ndị e zoro aka na ha n'ebe ndị e zoro aka na ha"
+  ]
+}

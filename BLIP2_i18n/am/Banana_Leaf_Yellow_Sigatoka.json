@@ -1,0 +1,116 @@
+{
+  "disease_name": "የቁር SIGATOKA",
+  "dataset_label": "የፓንካን_የአልጋን_የአልጋን",
+  "other_names": [
+    "ፎቶዎች ፎቶዎች",
+    "የፓናን ፎቶዎች"
+  ],
+  "pathogen": {
+    "type": "የንግድ",
+    "scientific_name": "የአውሮፕላን ማሽኖች",
+    "synonym": "የ Mycosphaerella Musicola",
+    "kingdom": "ፎቶዎች",
+    "phylum": "የአስማሚካት"
+  },
+  "host_plant": {
+    "primary_host": "የፓናን (Musa spp.)",
+    "other_hosts": [
+      "መሣሪያዎች"
+    ]
+  },
+  "affected_parts": [
+    "መለያዎች"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "አነስተኛ ጥቁር ጥቁር (1-2 ሚሜ) ፎቶዎች ላይ",
+      "የክሎሮቲክ ፎቶዎች በክሎሮቲክ ፎቶዎች ወይም በክሎሮቲክ ፎቶዎች ላይ ይሆናል"
+    ],
+    "intermediate_stage": [
+      "ፎቶዎች በከፍተኛ ፎቶዎች በከፍተኛ ፎቶዎች",
+      "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች"
+    ],
+    "advanced_stage": [
+      "ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር",
+      "ፎቶዎች ላይ ትልቅ necrotic ቦታዎች",
+      "ቀጣይ ፎቶ ማረፊያ እና ማረፊያ"
+    ]
+  },
+  "disease_cycle": {
+    "survival": "የፋንካል ተሞክሮ ተሞክሮ ውስጥ ተሞክሮ",
+    "spores": [
+      "መኖሪያ ቤት",
+      "አስኮስፖርት"
+    ],
+    "spread_mechanism": [
+      "የአትክልት",
+      "የአውሮፕላን Splash",
+      "የኃይል ዱቄት"
+    ],
+    "favorable_conditions": [
+      "ከፍተኛ ሙቀት",
+      "ሙቀት (25-30 °C)",
+      "ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+      "የሙቀት ወይም የሙቀት ጊዜ"
+    ]
+  },
+  "impact": {
+    "severity": "መጠን በከፍተኛ",
+    "effects": [
+      "ዝቅተኛ ፎቶንቲክ ችሎታ",
+      "መጠን መጠን መጠን መጠን መጠን",
+      "ዝቅተኛ ምርቶች",
+      "ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ",
+      "ቀጣይ ምግብ መሳሪያዎች"
+    ],
+    "estimated_yield_loss": "ከ 50% በላይ የኃይል መሳሪያዎች"
+  },
+  "distribution": [
+    "የአውስትራሊያ",
+    "አሲያ",
+    "አፍሪካ",
+    "የአሜሪካ",
+    "የአውሮፓ",
+    "ካርቦን",
+    "የኦሪጂናል"
+  ],
+  "similar_diseases_or_confusions": [
+    "የቁቁር Sigatoka (Pseudocercospora fijiensis)",
+    "የፓንካን ወረቀት ፎቶዎች ፎቶዎች"
+  ],
+  "management": {
+    "cultural_control": [
+      "የሞክሮ መቆጣጠሪያ (የሞክሮ መቆጣጠሪያ)",
+      "የፕላስቲክ ጥንካሬ ለማሻሻል",
+      "የተሻለ የኃይል መቆጣጠሪያ",
+      "የፕላስቲክ መሣሪያዎች ይሰጣል"
+    ],
+    "chemical_control": [
+      "የፋንጋሪን መሣሪያዎች",
+      "የቴክኒካዊ fungicides",
+      "ምርቶች tebuconazole, mancozeb, chlorothalonil ያካትታል"
+    ],
+    "biological_control": [
+      "የ Bacillus subtilis",
+      "ፎቶዎች ፎቶ",
+      "የ Pseudomonas fluorescens"
+    ],
+    "preventive_measures": [
+      "የላቀ የላቀ የላቀ የላቀ የላቀ",
+      "ተስማሚ ምግብ",
+      "የፕላስቲክ መቆጣጠሪያዎች"
+    ]
+  },
+  "spread_risk_factors": [
+    "ከፍተኛ ሙቀት አካባቢዎች",
+    "ዝቅተኛ መሳሪያዎች",
+    "የሞክሮ መሳሪያዎች አቅርቦት",
+    "ደንበኞች መጠን መጠን"
+  ],
+  "references": [
+    "የአውስትራሊያ - Yellow Sigatoka",
+    "የ CABI Crop Protection Compendium ይሰጣል",
+    "CSIRO የፕላስቲክ ፎቶዎች",
+    "የፕላስቲክ የፕላስቲክ የፕላስቲክ የፕላስቲክ"
+  ]
+}

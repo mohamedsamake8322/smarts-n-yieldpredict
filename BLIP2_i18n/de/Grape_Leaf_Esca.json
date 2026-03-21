@@ -1,0 +1,57 @@
+{
+  "disease": "Weintrauben Esca",
+  "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Pilze (Holz-Dekay-Krankheitskomplex)",
+  "description": "Esca ist eine ernste Stammkrankheit von Rebstöcken, die Holzgewebe beschädigt und Weinkraft reduziert. Es verursacht Blattverfärbung, Holzzerfall und plötzlichen Weintod in schweren Fällen.",
+  "symptoms": [
+    "Gelbe und braune Tigerstreifenmuster auf Blättern",
+    "Blatttrocknung und Verbrennen von Rändern",
+    "Geringeres Wachstum der Reben und schwache Triebe",
+    "Dunkle Streifen im Kofferraum Holz",
+    "Weiße schwammige Fäule im Kofferraum",
+    "Plötzliches Verwelken oder Absterben von Reben (Apoplexie)"
+  ],
+  "hosts": [
+    "Weintrauben (Vitis vinifera)",
+    "Tafeltrauben",
+    "Keltertrauben",
+    "Wilde Vitis-Arten"
+  ],
+  "favorable_conditions": [
+    "Alte Weinberge",
+    "Schnittwunden ermöglichen den Eintritt von Pilzen",
+    "Warme Bedingungen während der Vegetationsperiode",
+    "Schlechte sanitäre Beschneidung"
+  ],
+  "spread": [
+    "Pilzsporen, die durch Schnittwunden eindringen",
+    "Infiziertes Pflanzmaterial",
+    "Kontaminierte Schneidwerkzeuge"
+  ],
+  "management": [
+    "Entfernen und zerstören infizierte Reben",
+    "Prune bei trockenem Wetter",
+    "Pflaumenwunden schützen",
+    "Verwendung von gesundem zertifiziertem Pflanzmaterial",
+    "Vermeiden Sie große Schnittwunden"
+  ],
+  "biological_control": [
+    "Trichoderma-basierte Produkte, die auf Schnittwunden angewendet werden",
+    "Benefitial Pilze, um Krankheitserreger Besiedelung zu verhindern"
+  ],
+  "chemical_control": [
+    "Wundschützerfungizide nach Beschneiden",
+    "Schutzbehandlungen auf Kupferbasis"
+  ],
+  "prevention": [
+    "Zerkleinerungswerkzeuge",
+    "Verwendung zertifizierter seuchenfreier Reben",
+    "Pflaumenwunden sofort nach dem Pflaumen schützen",
+    "Pflege der sanitären Anlagen im Weinberg"
+  ],
+  "source": [
+    "OIV Leitfaden für Weinkrankheit",
+    "Ressourcen für Pflanzenkrankheiten der FAO",
+    "Literatur zur Weinbaupathologie"
+  ]
+}

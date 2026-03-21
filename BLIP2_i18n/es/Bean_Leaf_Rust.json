@@ -1,0 +1,69 @@
+{
+  "disease": "Hidróxido de frijol",
+  "scientific_name": "Uromyces apendiculatus",
+  "pathogen_type": "Hongos",
+  "description": "El óxido de frijol es una enfermedad fúngica que afecta las hojas de frijol, los tallos y a veces las vainas. Produce pústulas de color oxidado en las superficies de las hojas que reducen la fotosíntesis y pueden causar caída temprana de las hojas y pérdida de rendimiento.",
+  "symptoms": [
+    "Pequeñas manchas blancas o amarillas pálidas en las hojas",
+    "Pústulas de color naranja, marrón o oxidado en la parte inferior de la hoja",
+    "Esporas en polvo liberadas de pústulas",
+    "Amarilla alrededor de las lesiones",
+    "Las hojas gravemente infectadas se secan y caen temprano",
+    "Pústulas ocasionales en tallos y vainas"
+  ],
+  "hosts": [
+    "frijol común",
+    "Habas de riñón",
+    "frijol pinto",
+    "Judía negra",
+    "snap frijol",
+    "Habas de lima",
+    "soja",
+    "caupí",
+    "Otras especies de Phaseolus"
+  ],
+  "favorable_conditions": [
+    "Temperaturas moderadas (18–25°C)",
+    "Alta humedad",
+    "Lluvias frecuentes",
+    "Humedad de las hojas durante varias horas",
+    "Dosel de cultivo denso"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el viento",
+    "Salpicadura de la lluvia",
+    "Desechos de plantas infectados",
+    "Esporas aerotransportadas que viajan largas distancias"
+  ],
+  "management": [
+    "Variedades de frijoles resistentes a las plantas",
+    "Rotar los cultivos con plantas no hospedantes",
+    "Eliminar los residuos de cultivos infectados",
+    "Mejorar el espaciamiento de la planta para el flujo de aire",
+    "Supervisar los campos a principios de la temporada de cultivo"
+  ],
+  "biological_control": [
+    "Especies de tricoderma utilizadas como fungicidas biológicos",
+    "Biofungicidas a base de bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Clorotalonil",
+    "Tebuconazol",
+    "Propiconazol",
+    "Azoxistrobina",
+    "Myclobutanil"
+  ],
+  "prevention": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Evitar la plantación densa",
+    "Eliminar los desechos vegetales infectados después de la cosecha",
+    "Utilizar cultivares resistentes",
+    "Monitorear los cultivos durante el clima húmedo"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Guías de Gestión de Enfermedades Vegetales de la FAO",
+    "Extensión de la Patología de Plantas Universitarias"
+  ]
+}

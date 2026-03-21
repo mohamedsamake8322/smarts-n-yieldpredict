@@ -1,92 +1,209 @@
 {
-  "pest_name": "Southern Red Mite",
-  "scientific_name": "Oligonychus ilicis",
-  "common_abbreviation": "SRM",
-  "description": "Southern red mite is a spider mite pest recorded on a wide range of plants including camellia, rhododendron, holly, and coffee. Individuals tend to inhabit the upper leaf. Pesticide resistance has been reported overseas, and typical two-spotted mite predators are ineffective against SRM.",
+  "pest_name": "معتية جنوبية",
+  "scientific_name": "أولاً مناطاطس is licis",
+  "common_abbreviation": "",
+  "description": "ويميل الأفراد إلى السكن في الورقة العليا. وقد أُبلغ عن وجود مقاومة لمبيدات الآفات في الخارج، كما أن مفترسات العث التقليدية ذات العينتين غير فعالة ضد SRM.",
   "appearance": {
-    "size": "<0.5 mm",
-    "color": "Reddish brown to deep purplish-red, sometimes with a pale central patch and lighter legs",
-    "sexual_dimorphism": "Females slightly larger, rounded posteriorly; males slender and paler",
-    "eggs": "Reddish brown, spherical; normally on upper leaf surface, overwintering eggs mainly on lower leaf surface"
+    "size": "A.0...........................................................",
+    "color": "بنية حمراء من البني إلى عميق عميق أحمر، أحياناً مع مركز شاحب وساقين خفيفتين",
+    "sexual_dimorphism": "الأنثى أكبر قليلاً بقليل، وخلفية مستديرة؛ الذكور منقّل وبطّال",
+    "eggs": "بنية معردة، كروية؛ عادة على سطح الورقة العليا، وبيض فوق وثنية فوق العادة على السطح الأسفل أساساً"
   },
   "life_cycle": {
-    "stages": ["egg", "larva (6 legs)", "nymph1 (8 legs)", "nymph2 (8 legs)", "adult"],
-    "generation_time": "7 days under favorable conditions",
-    "population_peaks": "Spring and autumn (moderate temperatures 15–30°C, dry conditions)",
-    "overwintering": "Eggs on lower leaf surface and sometimes bark"
+    "stages": [
+      "1 بيضة",
+      "اليرقة )٦ أرجل(",
+      ")٨ سيك(",
+      ")٨ )ساق(",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م أ م"
+    ],
+    "generation_time": "7 أيام بشروط مؤاتية",
+    "population_peaks": "(درجات حرارة معتدلة 15-30 درجة مئوية، ظروف جافة)",
+    "overwintering": "البيض على سطح الورقة السفلية وأحياناً على النباح"
   },
   "dispersal": [
-    "Wind-borne; may dangle from silk threads",
-    "Hitch-hiking on people and equipment",
-    "Spread by touching leaves"
+    "رياح ناطحة؛ قد تتأرجح من الخيوط الحريرات",
+    "تهزّك الناس والمعدات",
+    "#########################################################################################"
   ],
   "host_range": [
-    {"common_name": "Azalea", "scientific_name": "Rhododendron spp."},
-    {"common_name": "Camellia", "scientific_name": "Camellia japonica"},
-    {"common_name": "American sycamore", "scientific_name": "Platanus occidentalis"},
-    {"common_name": "Boxwood", "scientific_name": "Buxus spp."},
-    {"common_name": "Camphor tree", "scientific_name": "Cinnamonum camphora"},
-    {"common_name": "Coffee", "scientific_name": "Coffea arabica"},
-    {"common_name": "Cotoneaster", "scientific_name": "Cotoneaster sp."},
-    {"common_name": "Cranberry", "scientific_name": "Vaccinium macrocarpon"},
-    {"common_name": "Deer grass", "scientific_name": "Rhexia sp."},
-    {"common_name": "Doghobble", "scientific_name": "Leucothoe sp."},
-    {"common_name": "Elaeagnus/silverthorn", "scientific_name": "Elaeagnus pungens"},
-    {"common_name": "English walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus spp."},
-    {"common_name": "Guava", "scientific_name": "Psidium guajava"},
-    {"common_name": "Holly", "scientific_name": "Ilex spp."},
-    {"common_name": "Hibiscus", "scientific_name": "Hibiscus spp."},
-    {"common_name": "Juniper", "scientific_name": "Juniperus sp."},
-    {"common_name": "Laurel or bay leaf", "scientific_name": "Laurus nobilis"},
-    {"common_name": "Loquat", "scientific_name": "Eriobotrya japonica"},
-    {"common_name": "Oak", "scientific_name": "Quercus sp."},
-    {"common_name": "Pear", "scientific_name": "Pyrus communis"},
-    {"common_name": "Pecan", "scientific_name": "Carya illinoensis"},
-    {"common_name": "Photinia/red tip", "scientific_name": "Photinia spp."},
-    {"common_name": "Pyracantha", "scientific_name": "Pyracantha coccinea"},
-    {"common_name": "Rose apple", "scientific_name": "Syzygium jambos"},
-    {"common_name": "Silky oak", "scientific_name": "Grevillea robusta"},
-    {"common_name": "Spruce", "scientific_name": "Picea sp."},
-    {"common_name": "Summersweet", "scientific_name": "Clethra alnifolia"},
-    {"common_name": "Strawberry", "scientific_name": "Fragaria x ananassa"},
-    {"common_name": "Tea", "scientific_name": "Camellia sinensis"},
-    {"common_name": "Viburnum", "scientific_name": "Viburnum spp."},
-    {"common_name": "Oxalis", "scientific_name": "Oxalis"},
-    {"common_name": "Sheep laurel", "scientific_name": "Kalmia angustifolia"},
-    {"common_name": "Chokeberry", "scientific_name": "Prunus virginiana"},
-    {"common_name": "Leatherleaf", "scientific_name": "Chamaedaphne calyculata"},
-    {"common_name": "Walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Rice", "scientific_name": "Oryza sativa"}
+    {
+      "common_name": "",
+      "scientific_name": "Rhododdendren spp."
+    },
+    {
+      "common_name": "مُقَدّش",
+      "scientific_name": "الاتحادات التي تَقِلْ"
+    },
+    {
+      "common_name": "أمريكا الأمريكية",
+      "scientific_name": "النطان(أ)"
+    },
+    {
+      "common_name": "صندوق خشبي",
+      "scientific_name": "Buxus spp."
+    },
+    {
+      "common_name": "الهيكل",
+      "scientific_name": "مخيم سيرمونم"
+    },
+    {
+      "common_name": "جيم -",
+      "scientific_name": "كاف كاف كاف عُرب"
+    },
+    {
+      "common_name": "أولاً - مقدمات مُحْكِس",
+      "scientific_name": "كُنْتُ مُسْتَعَبَةً."
+    },
+    {
+      "common_name": "",
+      "scientific_name": "الكاف"
+    },
+    {
+      "common_name": "",
+      "scientific_name": "rexia sp."
+    },
+    {
+      "common_name": "",
+      "scientific_name": "-المُسْتَقْسِف."
+    },
+    {
+      "common_name": "إيلاي آغنوس/سيلفرثورن",
+      "scientific_name": "المُنْسِجs"
+    },
+    {
+      "common_name": "الكسدة الإنكليزية",
+      "scientific_name": "الجُزْلْانات"
+    },
+    {
+      "common_name": "Eucalptus",
+      "scientific_name": "Eucalyptus spp."
+    },
+    {
+      "common_name": "مافاً",
+      "scientific_name": "Psidium guava"
+    },
+    {
+      "common_name": "(يولي",
+      "scientific_name": "-ألكس سيب) )."
+    },
+    {
+      "common_name": "(أ) (أ)(أ)",
+      "scientific_name": "(أ) تُقَيَّمُ مُقَرَّرَةً مُقَرَّرَةً."
+    },
+    {
+      "common_name": "الجنيبر",
+      "scientific_name": "الـ \"يونيبرس\" مُتَسَكب."
+    },
+    {
+      "common_name": "ورقة عمل أو ورقة عمل",
+      "scientific_name": "ألف - المزمور"
+    },
+    {
+      "common_name": "لاطاطاطاط",
+      "scientific_name": "Erirobotrya japonica"
+    },
+    {
+      "common_name": "أولاً منكس",
+      "scientific_name": "الموضّع."
+    },
+    {
+      "common_name": "المتخلف",
+      "scientific_name": "Pyrus Comunis"
+    },
+    {
+      "common_name": "المحتويات",
+      "scientific_name": "(كاريا في السنة)((((((((((((((((((((((((((("
+    },
+    {
+      "common_name": "Phothinia/red إكرامية",
+      "scientific_name": "Photiinia spp."
+    },
+    {
+      "common_name": "براكانثا",
+      "scientific_name": "Pyracanta conccina(أ)"
+    },
+    {
+      "common_name": "",
+      "scientific_name": "2 مجامس"
+    },
+    {
+      "common_name": "مُنْش",
+      "scientific_name": "مُنْشش مُنْش (أ)"
+    },
+    {
+      "common_name": "Srucc",
+      "scientific_name": "الـ picea sp."
+    },
+    {
+      "common_name": "الصيف",
+      "scientific_name": "الكلت"
+    },
+    {
+      "common_name": "الفراء",
+      "scientific_name": "(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((("
+    },
+    {
+      "common_name": "",
+      "scientific_name": "مَثَلَتْ إِنْسَسِس"
+    },
+    {
+      "common_name": "2 خِلْبِرِنْ",
+      "scientific_name": "فيبورنوم Spp."
+    },
+    {
+      "common_name": "(أكسس)",
+      "scientific_name": "(أكسس)"
+    },
+    {
+      "common_name": "العذرية",
+      "scientific_name": "كُلمت (Kalmia angstefoli"
+    },
+    {
+      "common_name": "(التغريت)",
+      "scientific_name": ""
+    },
+    {
+      "common_name": "(ل)",
+      "scientific_name": "2 - مسحاً منياً كليكولات"
+    },
+    {
+      "common_name": "4 4",
+      "scientific_name": "الجُزْلْانات"
+    },
+    {
+      "common_name": "",
+      "scientific_name": "Oreza usiva"
+    }
   ],
   "damage_symptoms": [
-    "Feeding on upper leaves causes mesophyll collapse, graying, and stippling",
-    "Leaves lose luster, appear bronzed or dull",
-    "Bronzing starts along midrib and veins, eventually covering entire leaf",
-    "Large populations cause severe leaf drop",
-    "Reduced plant vigor and growth, particularly on dry or water-stressed plants"
+    "التغذّي على اوراق الاوراق العلوية يسبّب انهياري ، رمادي ، وتلميع",
+    "يَفْقدُ أَفْسُ سُفْرَةً شَاهِرَةً ، تَظْبُرُ مُبْرَزَةً أَوْ مَلْضَجَةً",
+    "بَدَأَتْ بُوَالِدَاتٌ بُونُدُزُونَاتٍ مِنْ أَسْرَةٍ وَأَوْدَادٍ ، تَغْطِي فِي ٱلْفَالَحَتَّى",
+    "تسبب أعداد كبيرة من السكان هبوطاً حاداً في أوراق",
+    ":: خفض قوة النباتات ونموها، ولا سيما في النباتات الجافة أو التي تحتاج إلى المياه"
   ],
   "detection_monitoring": [
-    "Direct visual observation of damage, living mites, and cast-off skins",
-    "Hand lens for confirmation",
-    "Plant beating on tray (white/black) for low populations",
-    "Observation of red eggs on host plants"
+    "المراقبة البصرية المباشرة للأضرار، واللحوم الحية، والجلود التي تُقَطَى",
+    "تثبيت",
+    "ضرب النباتات في صينية (البيض/السود) للسكان المنخفضي السكان",
+    "تسجيل البيض الأحمر في النباتات المضيفة"
   ],
   "chemical_control": [
-    "Older generation pesticides historically used",
-    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad effective under certain conditions",
-    "Abamectin, chlorfenapyr, dimethoate, fenbutatin oxide, maldison not always effective",
-    "Late applications less effective; early application when populations low recommended"
+    "مبيدات الآفات القديمة المستخدمة تاريخياً",
+    "الألديكارب، بفينثرين، الكلوربيريفوس، الديكوفول، أوميتهوات، البروباراغيت، تاو-فلورفالينينات، التيبوفينبيراد، فعالة في ظروف معينة",
+    "Abamctin, الكلورفينابير, methhoat, fenbotatin Ox, caldison غير فعال دائماً",
+    "عدم فعالية الطلبات المتأخرة؛ التطبيق في وقت مبكر عندما يوصى بإنقاص عدد السكان"
   ],
   "biological_control": [
-    "Predatory mites (Neoseiulus fallacis) and ladybeetle (Stethorus punctillum) effective overseas",
-    "Predators such as Neoseiulus californicus and Phytoseiulus persimilis not recommended for SRM",
-    "Conservation of natural predators can help reduce populations"
+    "العثتين (Neoseiulus falas) واللدين بيتل (Stethorus concttilum) فعالين في الخارج",
+    "مفترسات مثل Neusesiulus californicus و Phytossesiulus persimimelis غير موصى بها لـ SRM",
+    "يمكن لحفظ المفترسات الطبيعية أن يساعد على تقليل عدد السكان"
   ],
   "notes": [
-    "SRM prefers upper leaf surface, moves lower as populations increase",
-    "Populations peak in moderate temperature and dry conditions",
-    "High rainfall reduces populations",
-    "Australian commercial predators have not been tested against SRM"
+    "تُفضّل العلاقة مع",
+    "السكان الذين يصلون إلى ذروتهم في درجات الحرارة المعتدلة والظروف الجافة",
+    "انخفاض عدد السكان بسبب ارتفاع هطول الأمطار",
+    "لم تُختبر المفترسات التجارية الأسترالية على أساس العلاقة"
   ]
 }

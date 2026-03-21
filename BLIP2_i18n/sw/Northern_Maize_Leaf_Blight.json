@@ -1,72 +1,72 @@
 {
- "disease": "Northern Maize Leaf Blight",
- "scientific_name": "Exserohilum turcicum (Setosphaeria turcica)",
- "pathogen_type": "Fungus",
- "description": "A common fungal leaf disease of maize worldwide. It causes long cigar-shaped lesions on leaves that reduce photosynthesis and can lead to major yield losses.",
- "symptoms": [
-  "Small water-soaked spots on lower leaves",
-  "Long elliptical or cigar-shaped lesions",
-  "Gray-green lesions that later turn tan or brown",
-  "Dark fungal sporulation in mature lesions",
-  "Large blighted leaf areas when lesions merge",
-  "Severe infections can kill entire leaves or plants"
- ],
- "visual_symptoms": [
-  "long cigar-shaped lesions on maize leaves",
-  "tan or gray leaf spots with dark centers",
-  "large dead areas on infected leaves"
- ],
- "hosts": [
-  "Maize (corn)",
-  "Sweet corn",
-  "Sorghum",
-  "Pearl millet",
-  "Johnson grass",
-  "Sudan grass",
-  "Elephant grass"
- ],
- "favorable_conditions": [
-  "Moderate temperatures between 18°C and 27°C",
-  "Warm and humid weather",
-  "Long periods of leaf wetness",
-  "Presence of infected crop residue"
- ],
- "spread": [
-  "Wind-dispersed fungal spores",
-  "Rain splash spreading spores between plants",
-  "Survival of fungus on infected leaf debris"
- ],
- "impact": [
-  "Loss of photosynthetic leaf area",
-  "Reduced grain filling",
-  "Yield losses typically 15–30%",
-  "Severe outbreaks may cause up to 70% yield loss",
-  "Increased risk of crop lodging"
- ],
- "management": [
-  "Plant resistant or tolerant maize hybrids",
-  "Rotate maize with non-host crops such as soybean or sunflower",
-  "Scout fields regularly for early symptoms",
-  "Use integrated disease management strategies",
-  "Apply fungicides when first lesions appear below the ear leaf"
- ],
- "biological_control": [
-  "Research ongoing on microbial antagonists",
-  "Encouraging beneficial microbes in soil may reduce pathogen survival"
- ],
- "chemical_control": [
-  "Foliar fungicides such as strobilurin or triazole fungicides",
-  "Apply fungicides when first lesions appear",
-  "Follow regional recommendations for maize disease control"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Deep ploughing or residue management to reduce inoculum",
-  "Use resistant maize hybrids",
-  "Monitor fields during humid weather conditions"
- ],
- "source": [
-  "PANNAR Seed NCLB Fact Sheet",
-  "Plant pathology literature on maize diseases"
- ]
+  "disease": "Maisha ya Kaskazini ya Maisha ya Blight",
+  "scientific_name": "Mchakato wa Mchakato (Setosphaeria turcica)",
+  "pathogen_type": "Fungus ya",
+  "description": "Ni ugonjwa wa majani ya majani ya kawaida duniani kote. Hii inakuza majeruhi ya muda mrefu ya sigara kwenye majani ambayo hupunguza photosynthesis na inaweza kusababisha uharibifu mkubwa wa bidhaa.",
+  "symptoms": [
+    "Picha ndogo ya maji juu ya karatasi ya chini",
+    "Maambukizi ya muda mrefu au magonjwa ya sigara",
+    "Maua ya kijani ya kijani ambayo baadaye inazidi kuwa ya rangi au rangi",
+    "Ukosefu wa ghafla katika magonjwa ya matunda",
+    "Sehemu kubwa ya mti wakati majeruhi yanaongezeka",
+    "Maambukizi makubwa yanaweza kuua majani yote au mimea"
+  ],
+  "visual_symptoms": [
+    "Uharibifu wa sigara kwa muda mrefu juu ya tiketi ya mawe",
+    "Picha ya toni au rangi ya rangi ya rangi ya rangi ya rangi ya rangi",
+    "maeneo makubwa ya kufa juu ya tiketi zilizoathiriwa"
+  ],
+  "hosts": [
+    "Maisha ya Maisha (Corn)",
+    "Maua ya nguruwe",
+    "Maombi ya",
+    "Milima ya Pearl",
+    "Mji wa Johnson",
+    "Mafuta ya Sudan",
+    "Gharama ya Elephant"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto kati ya 18°C na 27°C",
+    "Hali ya hewa na ya mvua",
+    "Miaka ya muda mrefu ya kupumzika",
+    "Ukosefu wa matunda ya matunda ya matunda"
+  ],
+  "spread": [
+    "Mchakato wa mvua ya kuongezeka",
+    "Mlipuko wa mvua kuenea spores kati ya mimea",
+    "Usalama wa fungus juu ya rangi ya maambukizi ya maambukizi"
+  ],
+  "impact": [
+    "Uharibifu wa eneo la nyuma ya photosynthetic",
+    "Ukosefu wa kupumzika",
+    "Uharibifu wa faida kwa kawaida 15-30%",
+    "Mateso makubwa yanaweza kusababisha kupoteza hadi 70% ya faida",
+    "Hatari ya kuongezeka kwa mimea"
+  ],
+  "management": [
+    "Mafuta ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao",
+    "Mafuta ya Rotate na mazao yasiyo ya nyumbani kama soya au maua ya jua",
+    "Kuanzisha maeneo mara kwa mara kwa ajili ya matukio ya awali",
+    "Kutumia mkakati wa usimamizi wa magonjwa",
+    "Kutoa fungicides wakati uharibifu wa kwanza unaonekana chini ya nywele"
+  ],
+  "biological_control": [
+    "Utafiti unaendelea juu ya antagonists microbial",
+    "Kuimarisha mikrobio ya faida katika ardhi inaweza kupunguza uzalishaji wa patogen"
+  ],
+  "chemical_control": [
+    "Foliar fungicides kama vile strobilurin au triazole fungicides",
+    "Kutoa fungicides wakati uharibifu wa kwanza unaonekana",
+    "kufuata mapendekezo ya Mkoa kwa ajili ya kupunguza magonjwa ya mazao"
+  ],
+  "prevention": [
+    "Mzunguko wa mimea na mimea yasiyo ya mimea",
+    "Mchakato wa dhahabu au usimamizi wa wastani ili kupunguza inoculum",
+    "Kutumia mbegu ya mbegu ya mbegu",
+    "Ufuatiliaji wa maeneo wakati wa hali ya hewa"
+  ],
+  "source": [
+    "Hifadhi ya Hifadhi ya Hifadhi ya NCLB",
+    "Matibabu ya matibabu ya mazao kuhusu magonjwa ya mazao"
+  ]
 }

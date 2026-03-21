@@ -1,90 +1,90 @@
 {
- "disease": "Rhizoctonia Root Rot and Damping-off",
- "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
- "pathogen_type": "Fungus",
- "description": "Rhizoctonia root rot and damping-off is a common soilborne fungal disease that attacks seeds, seedlings, and plant roots. It causes stem lesions near the soil line, root rot, and the collapse of young plants.",
- "symptoms": [
-  "Seedlings collapsing at the soil line",
-  "Brown or reddish lesions on stems near the soil surface",
-  "Root rot and poor root development",
-  "Wilting and stunted plant growth",
-  "Irregular patches of dead or weak plants in the field",
-  "Stem girdling causing plant death"
- ],
- "visual_symptoms": [
-  "brown sunken lesions at soil line",
-  "seedlings falling over",
-  "rotted or poorly developed roots",
-  "patches of dead seedlings"
- ],
- "hosts": [
-  "Beans",
-  "Soybean",
-  "Maize",
-  "Rice",
-  "Potato",
-  "Tomato",
-  "Lettuce",
-  "Cabbage",
-  "Carrot",
-  "Pepper",
-  "Cotton",
-  "Many vegetable and field crops"
- ],
- "plant_parts_affected": [
-  "roots",
-  "seedlings",
-  "lower stem",
-  "hypocotyl"
- ],
- "favorable_conditions": [
-  "Warm and moist soil",
-  "Poorly drained soil",
-  "High plant density",
-  "Compacted soil",
-  "Crop residue in soil"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Movement of soil on tools or machinery",
-  "Infected seedlings or transplants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil and plant debris",
-  "It infects seeds or young seedlings",
-  "Lesions develop on stems and roots",
-  "The pathogen spreads through soil contact"
- ],
- "impact": [
-  "Poor seed germination",
-  "Loss of seedlings",
-  "Reduced plant population",
-  "Lower crop yield"
- ],
- "cultural_control": [
-  "Use well-drained soils",
-  "Avoid planting in cold or very wet soil",
-  "Rotate crops with non-host plants",
-  "Reduce plant density",
-  "Remove infected plant debris"
- ],
- "biological_control": [
-  "Use beneficial fungi such as Trichoderma species",
-  "Use beneficial bacteria like Bacillus subtilis"
- ],
- "chemical_control": [
-  "Seed treatment fungicides",
-  "Soil fungicides when necessary"
- ],
- "prevention": [
-  "Use certified healthy seeds",
-  "Improve soil drainage",
-  "Avoid excessive irrigation",
-  "Practice crop rotation"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Rhizoctonia 根生腐和断裂",
+  "scientific_name": "Rhizoctonia spp. (根纳斯·Rhizoctonia)",
+  "pathogen_type": "蘑菇",
+  "description": "Rhizoctonia 根腐烂和阻塞是一种常见的土壤传播的真菌病,它袭击种子、幼苗和植物根。 它在土壤线附近造成干病、根腐烂和年轻植物的倒塌。",
+  "symptoms": [
+    "在土壤线上倒塌的幼苗",
+    "靠近土壤表面的茎上褐色或红色损害",
+    "根腐烂和贫乏的根发展",
+    "生机和发育迟缓的植物生长",
+    "田野中死或弱的植物的不规则补丁",
+    "造成植物死亡的Stem gringling"
+  ],
+  "visual_symptoms": [
+    "土壤底线的棕色沉积损害",
+    "树苗倒在地上",
+    "腐烂或发育不良的根根",
+    "死幼苗斑"
+  ],
+  "hosts": [
+    "豆豆",
+    "豆类",
+    "成熟",
+    "大米稻米",
+    "马铃薯",
+    "番茄",
+    "发生",
+    "菜菜菜",
+    "胡萝",
+    "辣椒",
+    "棉花棉花",
+    "许多蔬菜和田地作物"
+  ],
+  "plant_parts_affected": [
+    "根根",
+    "幼苗",
+    "下干",
+    "亚二氯基"
+  ],
+  "favorable_conditions": [
+    "温暖和潮湿土壤",
+    "土壤流失不足",
+    "高植物密度",
+    "压缩土壤",
+    "土壤中的作物残留物"
+  ],
+  "spread": [
+    "受污染土壤",
+    "受感染植物碎片",
+    "工具或机械上的土壤移动",
+    "感染的幼苗或移植"
+  ],
+  "disease_cycle": [
+    "真菌在土壤和植物碎片中存活",
+    "它感染种子或幼苗",
+    "生与生的世世代生",
+    "病原体通过土壤接触扩散"
+  ],
+  "impact": [
+    "贫穷的种子发芽",
+    "幼苗损失",
+    "减少植物人口",
+    "作物产量低"
+  ],
+  "cultural_control": [
+    "利用土壤排灌土壤",
+    "避免在寒冷或非常湿润的土壤中种植",
+    "非宿主植物的旋转作物",
+    "降低植物密度",
+    "清除受感染植物碎片"
+  ],
+  "biological_control": [
+    "使用有益的真菌,如三头菌种。",
+    "使用有益的细菌,如巴奇勒斯亚地基菌"
+  ],
+  "chemical_control": [
+    "种子治疗杀真菌杀菌剂",
+    "必要时土壤杀真菌剂"
+  ],
+  "prevention": [
+    "使用经认证的健康种子",
+    "改善土壤排水",
+    "避免过度灌溉",
+    "实际作物轮作"
+  ],
+  "source": [
+    "植物病理学参考",
+    "农业疾病管理指南"
+  ]
 }

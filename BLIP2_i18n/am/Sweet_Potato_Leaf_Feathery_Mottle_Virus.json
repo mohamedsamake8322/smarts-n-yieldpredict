@@ -1,0 +1,122 @@
+{
+  "pest_name": "የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት Virus",
+  "abbreviation": "የ SPLFMV",
+  "type": "የቪዲዮዎች",
+  "history": "SPLFMV በዓለም ዙሪያ SPFMV ጋር የተመሠረተ ነው, በዓለም ዙሪያ የተመሠረተ ነው, आमतौर पर ደንበኞች ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ ቪዲዮ (SPVD) ነው.",
+  "structure": {
+    "genome_type": "ቀጣይ-አንድ-አንድ-አንድ-አንድ-አንድ RNA",
+    "genome_length_bases": 10820,
+    "organization": [
+      "ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+      "3' የኦሪጂናል",
+      "ፎቶ (A) ፎቶ"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "የ Proteinase, ssRNA አቅርቦት አቅርቦት"
+      },
+      {
+        "name": "የ HC-Pro",
+        "function": "Proteinase, Aids in aphid transmission, long-distance ተንቀሳቃሽ"
+      },
+      {
+        "name": "P3",
+        "function": "Viral Replication መሣሪያዎች"
+      },
+      {
+        "name": "የ 6K1",
+        "function": "መኖሪያ ቤት"
+      },
+      {
+        "name": "ይህ",
+        "function": "Cytoplasmic Inclusion Protein, RNA Helicase አቅርቦት"
+      },
+      {
+        "name": "6K2",
+        "function": "የአውሮፕላኖች, የቪሮፕላኖች ላይ የተወሰነ"
+      },
+      {
+        "name": "አዲሱ",
+        "function": "VPg እና Proteinase"
+      },
+      {
+        "name": "ኒየም",
+        "function": "የቪዛን Replicase"
+      },
+      {
+        "name": "የሲስቲክ",
+        "function": "የካቲን Protein, Virion አቅርቦት, የቪሮል አቅርቦት, አቅርቦት"
+      }
+    ],
+    "virion_shape": "ቀጣይ, ቀጣይ, ቀጣይ ቀጣይ",
+    "virion_length_nm": "810-865 ወረቀት"
+  },
+  "life_cycle": {
+    "entry": "የሞክኒካዊ መተግበሪያ ወይም በ APHID መተግበሪያዎች በመተግበሪያ ወረቀት ወረቀት",
+    "replication": "የኦሪጂናል polyprotein, P1, HC-Pro, NIa proteases የተመሠረተ",
+    "gene_silencing_suppression": "የ HC-Pro የ siRNA እና myRNA በጎማዎች ውስጥ ያካትታል",
+    "packaging": "Replicated genome ፎቶዎች ፎቶዎች ፎቶዎች"
+  },
+  "transmission": {
+    "vectors": [
+      "የ AFIDS"
+    ],
+    "mechanism": "የክፍያ የክፍያ የክፍያ የክፍያ የክፍያ የክፍያ የክፍያ",
+    "seed_transmission": "መሳሪያዎች በመስጠት አይችልም",
+    "host_range": [
+      "የኦሪጂናል SPP.",
+      "ኒኮቲያ SPP",
+      "የኮንፖዲየም Quinoa",
+      "ፎቶን ፎቶ"
+    ]
+  },
+  "symptoms": {
+    "typical": "ፎቶዎች ላይ ፎቶዎች ወይም ፎቶዎች ፎቶዎች, ፎቶዎች ወይም ፎቶዎች, ፎቶዎች ወይም ፎቶዎች",
+    "severe_strains": [
+      "ፎቶዎች Chlorose",
+      "ፎቶ ፎቶ",
+      "Necrotic ቦታዎች"
+    ],
+    "co-infections": {
+      "SPVD": "በ SPCSV ጋር የተመሠረተ ጊዜ, የተመሠረተ, mozaic bladers, reduced yields."
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "ኢሜይል",
+        "location": "የአውሮፓ"
+      },
+      {
+        "name": "የ RC",
+        "location": "የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ"
+      },
+      {
+        "name": "የ",
+        "location": "የአውሮፓ, የአውሮፓ, የአውሮፓ"
+      },
+      {
+        "name": "የ C",
+        "location": "የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ እና የአውስትራሊያ"
+      }
+    ]
+  },
+  "agricultural_impact": {
+    "affected_tissues": "ፎቶዎች ፎቶዎች የመጀመሪያው",
+    "yield_loss": "የ SPVD ውስጥ የተመሠረተ ጊዜ የተመሠረተ ነው; ፎቶንቲክ ውጤታማነት እና የፕላስቲክ ኃይል ያካትታል",
+    "social_impact": "አነስተኛ ደንበኞች ምግብ እና ምግብ እንደ ቀጥተኛ የካርቦን ፎቶዎች ላይ ያካትታል"
+  },
+  "management": {
+    "early_detection": "በ ELISA በመጠቀም የተመሠረተ ፎቶዎች ማረጋገጫ እና ማረጋገጫ",
+    "removal": "የሞክሮ መሳሪያዎች በሽያጭ መሳሪያዎች መሳሪያዎች መሳሪያዎች",
+    "prevention": [
+      "የፕላስቲክ የቪሮስ-मुक्त የፕላስቲክ ቁሳዊ",
+      "መቆጣጠሪያ መቆጣጠሪያ (aphid)",
+      "መሣሪያዎች እና መሣሪያዎች መሳሪያዎች"
+    ]
+  },
+  "references": [
+    "SPFMV ምርምር እና የሙዚቃ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ ቫልቭ"
+  ]
+}

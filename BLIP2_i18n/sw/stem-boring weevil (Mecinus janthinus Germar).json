@@ -1,67 +1,79 @@
 {
-  "pest_name": "Stem-Boring Weevil",
-  "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "pest_name": "Mwisho wa Weevil",
+  "scientific_name": "Mtakatifu wa Mecinus Janthinus Germar",
+  "type": "Wanyama",
+  "native_range": [
+    "Umoja wa Ulaya",
+    "Asia ya"
+  ],
+  "introduced_range": [
+    "Marekani ya"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "Mchakato wa kijani (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "Mchakato wa Dalmatian (Linaria dalmatica)"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "White kwa",
+      "shape": "ya oval"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "Kiwango cha C",
+      "color": "ya Creamy-White",
+      "head_capsule": "ya Brown",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "ya Creamy-White",
+      "features": [
+        "Maonyesho ya kuvutia",
+        "Uzito wa muda mrefu"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "Bluish-Black (Kwa kawaida ya kijani-Black)",
+      "length_mm": "2 - 3 - 4",
+      "shape": "kuongezeka kwa muda mrefu na antenna ya kuongezeka",
+      "metallic_sheen": "Siku ya kuvutia baada ya kuongezeka, kuongezeka na umri",
+      "comparison": "Vitu vyote ambavyo anaweza kuwa amekusanya ili kujua jinsi gani inaweza kuwa amekusanya."
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "Wanawake katika mwaka uliopita toadflax stems",
+    "spring_emergence": "Siku ya mapema ya spring, muda huathiri kwa sababu maalum ya eneo",
+    "adult_feeding": "mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo mapendekezo",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "Wanawake kutafsiri burudani katika nyama, kutafsiri maziwa moja kwa moja, kutafsiriwa na nyama ya mimea",
+      "quantity_per_lifetime": "60-160 chini ya hali ya lab"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "3 masaa, miguu ya chini ya miguu katika tuneli",
+    "pupation": "Mkutano wa Mwezi wa Mkutano wa Mkutano wa Mkutano",
+    "adult_emergence": "Mwisho wa majira ya joto, majira ya joto ndani ya chumba cha pupal"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea",
+      "Mchakato wa kushambulia shambulio ya shambulio",
+      "kuongezeka kwa mimea, kupunguza maua na uzalishaji wa mimea",
+      "Mchakato wa nyuma, nyuma ya nyuma ya nyuma ya nyuma ya nyuma ya nyuma ya nyuma ya nyuma ya nyuma"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "vifaa vya madini, vifaa vya maji / vifaa vya uzalishaji wa chakula",
+      "Matokeo ya kuongezeka na kufa kwa mazao ya mimea",
+      "uwezekano wa kupoteza rasilimali ya nyama, kuathiri utulivu wa mimea"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "Hatua ya mara kwa mara ya mwaka inafanya kupunguza umeme wa mimea ya toadflax"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "Biocontrol virutubisho iliyotumika dhidi ya toadflax inatumika katika Amerika ya Kaskazini",
+    "Ufuatiliaji wa ukuaji katika spring inaweza kuongoza mkakati wa usimamizi",
+    "Inasaidia kupunguza idadi ya watu wa toadflax kwa muda mrefu"
   ],
   "references": [
     "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."

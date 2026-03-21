@@ -1,0 +1,63 @@
+{
+  "disease": "Agha Ndị E Nwere n'Oge Gara Aga",
+  "scientific_name": "Sipodtera fruggigida",
+  "pathogen_type": "Ihe e ji asa ezé bụ ọgwụ e ji agwọ ọrịa ndị a na - ebute site n'oge ruo n'oge",
+  "description": "Ndị agha a na - apụghị ibibi ebibi bụ ajọ mbibi nke na - awakpo ọka na ọtụtụ ihe ọkụkụ ndị ọzọ.",
+  "symptoms": [
+    "Ọ na - eme ka ezé ghara isi ike, na - emekwa ka ahịhịa ghara imebi ngwa ngwa",
+    "Nri na-enweghị isi n'akwụkwọ osisi",
+    "Nnukwu oghere ndị dị n'akwụkwọ nri",
+    "Ihe ndị dị n'ime akwụkwọ osisi ndị ahụ (n'ebe a na - ere akwụkwọ)",
+    "Ihe ọkụkụ ndị e bibiri ebibi ma ọ bụ ndị e bibiri ebibi na - amụba n'ike n'ike"
+  ],
+  "hosts": [
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "NEPA",
+    "Sorghum",
+    "Ndị Na - eto Eto Na - ajụ Sị...",
+    "[ Ihe e dere n'ala ala peeji]",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Zuon",
+    "Sobon",
+    "ONYE NA - ETO ETO"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Oge mmiri na - ezo",
+    "Mkpụrụ akụ́kụ́ Ndị Na - amị Mkpụrụ nke Ọma"
+  ],
+  "spread": [
+    "Ndị nọ n'afọ iri na ụma na - akwaga n'ebe dị anya",
+    "Ọtụtụ ìgwè mmadụ bụ́ ndị a kụrụ n'akwụkwọ nri",
+    "Mmiri na - ezo n'etiti ihe ọkụkụ ndị dị nso"
+  ],
+  "management": [
+    "Ịgachi Ozi Ọma Anya Iji Hụ na E Mere Ka A Mata Ya n'Oge",
+    "A na - anọ n'obere ubi ndị dị n'ebe ahụ na - ewepụ osisi ndị dị n'ime ala ngwa ngwa",
+    "Ụmụ irighiri ihe ndị dị n'ime ala bụ́ ndị dị n'ụdị osisi ndị dị n'ime ala",
+    "Jiri ọnyà ndị na - esi ísì ụtọ na - eme ihe iji mee ka a mara ihe ị ga - eme"
+  ],
+  "biological_control": [
+    "Mkpụrụ akụ́kụ́ bụ́ Trichtheral",
+    "Ndị na - eti ọkpọ, dị ka ndị inyom na - ebe ákwá na ndị na - edina ụmụaka",
+    "Ọrịa ogbu na nkwonkwo nke na - ebibi ihe, bụ́ nke dabeere n'ụkpụrụ nke Na - achịkwa Ahụ́ Ike (Bt)",
+    "Obi ụtọ na - ejupụta n'ihe omume ndị a na - eme n'oge a na - eme egwuregwu ndị dị ka Beuaaaa"
+  ],
+  "chemical_control": [
+    "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+    "Emacctin",
+    "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya.",
+    "Nwa Atụrụ bụ́da-mimemsium",
+    "Iji ụgbọ mmiri na - akwọ ụgbọ epeepe"
+  ],
+  "prevention": [
+    "A na - akụ ya n'oge iji zere ọnụ ọgụgụ kasị elu nke ndị na - eto eto",
+    "Iji ụgbọelu eme njem",
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche",
+    "Nọgide na - edebe ihe ọcha n'ụzọ ọhịa"
+  ],
+  "source": [
+    "Otú E Si Eme Ka E Nwee Mgbanwe n'Ebe A Na - edebe Ihe Ndị Ruuru Mmadụ n'Ụzọ Ime Mmụọ",
+    "PAYI N'OZỌTI N'Ahụ́ Ahụ́ E Ji Eme Ihe n'Ụzọ Na - adịghị Ize Ndụ"
+  ]
+}

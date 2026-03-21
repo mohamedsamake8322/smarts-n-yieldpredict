@@ -1,42 +1,47 @@
 {
-  "disease": "Leaf Curl Virus",
-  "scientific_name": "Tomato leaf curl virus (ToLCV)",
-  "pathogen_type": "Virus (ssDNA, Begomovirus)",
-  "description": "A viral disease causing curling and distortion of leaves, stunting growth and reducing fruit yield. Transmitted by whiteflies.",
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "Don a sami warkarwa Mai Kyau (A. M.)",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "Wata cuta mai tsanani tana sa mutum ya warke kuma tana sa ya yi girma kuma tana ɓata ' ya'yan itace.",
   "symptoms": [
-    "Upward or downward curling of leaves",
-    "Yellowing along leaf veins",
-    "Stunted growth and reduced fruit size",
-    "Severe infection can kill young plants"
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "Ana samun ci gaba kuma a rage ' ya'yan itace",
+    "Mutane da yawa za su iya kashe shuke - shuke da yawa"
   ],
-  "hosts": ["Tomato", "Pepper", "Eggplant", "Other Solanaceae"],
+  "hosts": [
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ],
   "favorable_conditions": [
-    "Warm weather",
-    "High whitefly population",
-    "Dense planting with poor airflow"
+    "Media controller element",
+    "Jama'a Mafi Girma",
+    "Mãsu duhun inuwa."
   ],
   "spread": [
-    "Whiteflies (primary vector)",
-    "Infected seedlings or grafts",
-    "Contaminated tools or handling"
+    "KCharselect unicode block name",
+    "Ana Mai da Taya ko Kuma Yadda Ya Kamata",
+    "Wuraren Mahaɗar Sadarwa"
   ],
   "management": [
-    "Grow resistant or tolerant cultivars",
-    "Control whitefly populations",
-    "Remove and destroy infected plants",
-    "Maintain proper plant spacing"
+    "Ka Yi Tsayayya da Matsi na Tsara ko Kuma Ka Riƙe ' Yan'uwa Masu Bi",
+    "KCharselect unicode block name",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Ka sa shuke - shuke da suka dace su zama ruwan dare"
   ],
   "chemical_control": [
-    "Insecticides to manage whiteflies (e.g., imidacloprid)",
-    "Use insecticidal soap or neem sprays as preventive"
+    "A cikin Allo tsararre.",
+    "Ka yi amfani da abubuwan da ba su dace ba ko kuma ka yi amfani da na'ura don ka rage yawan shan giya"
   ],
   "prevention": [
-    "Start with virus-free seedlings",
-    "Monitor whitefly populations",
-    "Avoid planting near infected crops"
+    "Kunã sãmudaga gare shi, abin mãye da abinci mai kyau.",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi",
+    "Ka guje wa yin shuki kusa da shuke - shuke"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Pest and Disease Factsheets"
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

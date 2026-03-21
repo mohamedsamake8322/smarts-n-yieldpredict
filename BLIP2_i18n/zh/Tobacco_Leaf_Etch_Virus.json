@@ -1,100 +1,104 @@
 {
-  "virus_name": "Tobacco Etch Virus",
-  "abbreviation": "TEV",
-  "family": "Potyviridae",
-  "genus": "Potyvirus",
+  "virus_name": "烟草Etch病毒",
+  "abbreviation": "TEE 技术培训",
+  "family": "波蒂韦里达e",
+  "genus": "Poty病毒",
   "taxonomy": {
-    "order": "Patatavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "帕塔塔维拉",
+    "virus_group": "RNA植物病毒"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "monopartite",
-    "particle_shape": "flexuous filamentous particle",
-    "length": "approximately 730 nm",
+    "type": "单冲正感单冲RNA",
+    "structure": "单分子",
+    "particle_shape": "易变细细细粒子",
+    "length": "约730纳米",
     "proteins_encoded": 7
   },
   "transmission": {
-    "vectors": ["Aphids including Myzus persicae", "Aphis gossypii", "Macrosiphum euphorbiae"],
-    "mode": "non-persistent transmission",
+    "vectors": [
+      "包括Myzus persicae 在内的虫类",
+      "欧西比",
+      "宏( Macrosiphum) 喜悦"
+    ],
+    "mode": "非持久性传播",
     "mechanical": true,
     "seed_transmission": false,
-    "notes": "Aphids acquire the virus rapidly during feeding and can transmit it within minutes."
+    "notes": "虫子在喂食期间迅速获得病毒,可以在几分钟内传播。"
   },
   "hosts": {
     "cultivated": [
-      "Capsicum annuum",
-      "Capsicum frutescens",
-      "Tomato (Solanum lycopersicum)",
-      "Tobacco (Nicotiana spp.)"
+      "Capsicum 年金",
+      "Capsicum fruterescens 证书( Capsicum fruterescens) 证书( Capsicum frudescens) 证书( Capsicum frudescens)",
+      "番茄",
+      "烟草(Nicotiana pp.)"
     ],
     "wild_hosts": [
-      "Solanum nigrum",
-      "Solanum aculeatissimum",
-      "Chenopodium album",
-      "Datura stramonium",
-      "Linaria canadensis",
-      "Physalis spp."
+      "索拉努姆尼格里姆",
+      "索拉努姆",
+      "相册",
+      "",
+      "林纳里金纳森",
+      "物理疗养院"
     ]
   },
   "symptoms": [
-    "Vein clearing on leaves",
-    "Mosaic or mottling patterns",
-    "Necrotic streaks or etched patterns on leaves",
-    "Leaf deformation and curling",
-    "Stunted plant growth",
-    "Reduced fruit yield and quality",
-    "Occasional fruit discoloration or necrotic lesions"
+    "在叶叶上清扫蔬菜",
+    "Mosaic 或 动脉图案",
+    "树叶上的腐蚀性累累或刻痕",
+    "叶子变形和卷卷",
+    "抑制植物生长",
+    "水果产量和质量下降",
+    "偶尔果果变色或腐坏性损伤"
   ],
   "disease_cycle": [
-    "Virus survives in infected host plants and weeds",
-    "Aphids acquire virus during feeding on infected plants",
-    "Virus is transmitted to healthy plants during probing",
-    "Mechanical transmission can occur via contaminated tools or handling"
+    "病毒在受感染的宿主植物和杂草中存活",
+    "虫子在喂养感染植物期间获得病毒",
+    "病毒在检测期间传播到健康植物",
+    "机械传播可以通过被污染的工具或处理方式发生。"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Etch-like necrotic patterns on leaves",
-      "Mosaic symptoms on solanaceous crops"
+      "树叶上类似树叶的坏死模式",
+      "土豆作物的摩萨病症状"
     ],
     "laboratory_methods": [
-      "ELISA detection",
-      "RT-PCR assays",
-      "Electron microscopy"
+      "ELISA检测",
+      "RT-PCR 实验",
+      "电子显微镜"
     ],
     "viral_inclusions": [
-      "Cylindrical inclusions in the cytoplasm",
-      "Nuclear inclusions in infected cells"
+      "圆柱体内圆柱体内嵌入",
+      "将核纳入受感染细胞"
     ]
   },
   "molecular_features": {
     "special_protein": {
-      "name": "TEV protease",
-      "function": "Highly specific protease used widely in biotechnology to cleave fusion proteins during purification."
+      "name": "TEV 蛋白",
+      "function": "在生物技术中广泛使用非常具体的蛋白,用于净化过程中切除聚变蛋白。"
     }
   },
   "management": {
     "cultural": [
-      "Remove weed hosts that serve as virus reservoirs",
-      "Use virus-free planting materials",
-      "Implement crop rotation"
+      "用作病毒储存库的除除除的杂草主机",
+      "使用无病毒种植材料",
+      "实行作物轮作"
     ],
     "vector_control": [
-      "Monitor aphid populations",
-      "Use reflective mulches to repel aphids",
-      "Apply insecticides if aphid pressure is high"
+      "监测两栖人口",
+      "使用反反射脉冲来击退两栖",
+      "如果虫虫高压,应用杀虫剂"
     ],
     "resistance": [
-      "Use resistant or tolerant cultivars when available"
+      "在有抗药性或容忍的栽培品种可用时使用"
     ]
   },
   "impact": {
-    "economic": "Can cause significant yield losses in pepper and tobacco crops",
-    "agronomic": "Severe infections reduce fruit quality and plant vigor"
+    "economic": "可能造成胡椒和烟草作物大量产量损失",
+    "agronomic": "严重感染降低水果质量和植物活力"
   },
   "references": [
-    "ICTV Virus Taxonomy",
-    "APS Plant Disease Compendium",
-    "Plant Virus Online Database"
+    "ICTV 病毒分类",
+    "APS 植物疾病简编",
+    "植物病毒在线数据库"
   ]
 }

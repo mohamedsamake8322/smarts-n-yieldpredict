@@ -1,77 +1,128 @@
 {
-  "pest_name": "Sweet Potato Feathery Mottle Virus",
-  "abbreviation": "SPFMV",
-  "type": "virus",
-  "history": "Initially discovered in the United States ~70 years ago. Most widely spread sweet potato virus worldwide, recently identified in Italy as primary contributor to SPVD.",
+  "pest_name": "KCharselect unicode block name",
+  "abbreviation": "Indian National weekday 3 - LongDayName",
+  "type": "QFontDatabase",
+  "history": "Da farko, an gano cewa a ƙasar Amirka ta dā, an yaɗa bishara mai daɗi sosai a ƙasashe da yawa a dukan duniya, ba da daɗewa ba aka gano cewa ƙasar Italiya ce ta fi ba da ' yancin yin hidima a ƙasar Italiya.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "Media controller element",
+      "3 SHAFUFFUKA NA 3",
+      "KCharselect unicode block name"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "@ item Text character set",
+        "function": "Mãsu duhun inuwa, mãsu aljannu, mãsu yawa, mãsu tafiya, mãsu ruku'i, mãsu sujada mãsu umurni da alhẽri da mãsu hani daga abin da aka ƙi da mãsu tsarẽwaã ga iyãkõkin Allah."
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "6 KA YI AMFANI DA ABIN DA KA KOYA.",
+        "function": "Wanda ba'a sani ba"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "@ item Spelling dictionary"
+      },
+      {
+        "name": "624",
+        "function": "@ item Text character set"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "Indian National weekday 2 - LongDayName",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "KCharselect unicode block name",
+        "function": "@ item Text character set"
+      }
+    ],
+    "virion_shape": "Media controller element",
+    "virion_length_nm": "8Wannan shi ne falalar da Allah Ya Yi wa Masu Tawali'u"
   },
   "life_cycle": {
-    "entry": "Mechanical or vector-mediated via aphid stylets",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "translation_helpers": ["HC-Pro binds eIF4E, VPg, NIa"],
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "KCharselect unicode block name",
+    "replication": "Faranan ya fassara zuwa wani sanannen gini da aka yi amfani da shi",
+    "translation_helpers": [
+      "MGBOKO UMUORIA 9 (Igbo)"
+    ],
+    "gene_silencing_suppression": "MGBOKO UMUORIA 9 (Igbo)",
+    "packaging": "KCharselect unicode block name"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent, via stylet tips",
-    "seed_transmission": "Not transmitted via seed",
+    "vectors": [
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
+    ],
+    "mechanism": "Mãsu son mazansu, a cikin tsãrã ɗaya.",
+    "seed_transmission": "Ba a fito da iri ba",
     "host_range": [
-      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
-      "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
-      "Chenopodium quinoa",
-      "Datura stramonium"
+      "Alal misali, wata \" yar'uwa mai suna Nalya ta ce: \"A lokacin, ni da matata mun yi aure. \"",
+      "An buga wani talifi mai jigo \"Yadda Za Mu Yi Amfani da Shi a Cikin Littafi Mai Tsarki. \"",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name"
     ]
   },
   "symptoms": {
-    "typical": "Feathery purple patterns on leaves",
-    "severe_strains": ["root necrosis", "leaf chlorosis", "root discoloration"],
+    "typical": "Media controller element",
+    "severe_strains": [
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Media controller element"
+    ],
     "co-infections": {
-      "SPVD": "Occurs when SPFMV co-infects with SPCSV; causes stunted growth, severe mosaic, leaf distortion, reduced yield",
-      "synergism_effects": "SPFMV titers up to 600x higher in SPVD; enhanced spread and replication"
+      "SPVD": "Mãsu aikin wahala ne, mãsu gajiya.",
+      "synergism_effects": "Waɗanda suka hau sama zuwa jami'a a shekara ta 1513 K.Z., sun sami ƙaruwa da kuma sake girma"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "keyboard- key- name",
+        "location": "Afirka ta Gabas"
+      },
+      {
+        "name": "keyboard- key- name",
+        "location": "Ostareliya, Afirka, Amirka ta Arewa, Asiya"
+      },
+      {
+        "name": "Shirin Hana Haske",
+        "location": "Afirka, Asiya, Amirka ta Kudu"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "location": "Ostareliya, Afirka, Asiya, Amirka ta Kudu"
+      }
     ],
-    "mutation_sources": "Geographical separation; coat protein gene variation affects immune response"
+    "mutation_sources": "Rashin haɗin kai; rashin yarda da juna ya shafi rashin jituwa"
   },
   "agricultural_impact": {
-    "affected_tissues": "Vegetative tissues, not reproductive",
-    "yield_loss": "Can range from 50% to near complete loss, especially in SPVD co-infections",
-    "affected_regions": "Oceania, Southern Africa, Barbados, other SPVD-affected areas",
-    "social_impact": "Impacts subsistence farmers relying on sweet potato as staple food"
+    "affected_tissues": "Ra'ayin bayyanau, ba na canjawa ba",
+    "yield_loss": "Zai yiwu daga mutane kashi hamsin su yi hasarar rayukansu, musamman ma a ƙasar Karananan",
+    "affected_regions": "K̃.H. Y.I.I. Ṣ̃.",
+    "social_impact": "Masu kula da da'ira suna dogara ne a kan abinci mai daɗi kamar abinci"
   },
   "management": {
-    "early_detection": "ELISA for virus identification",
-    "removal": "Remove infected plants to prevent spread",
+    "early_detection": "AN YI Wa'azi ga Mutane da Suke Sha'awa cewa ba sa son su bauta wa Jehobah",
+    "removal": "Sao'i masu yawa don su hana yaɗa bishara",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Properly clean tools to prevent mechanical transmission",
-      "Use transgenic plants expressing antiviral genes"
+      "KCharselect unicode block name",
+      "Abubuwa masu kyau da za su iya taimaka mana mu guji yawan jin daɗin rayuwa",
+      "Ka Yi Amfani da shuke - shuke masu kyau da ke nuna Sashi Ya Kasance Mai Sauƙin Hali"
     ]
   },
   "references": [
-    "Various sources from plant virology and sweet potato disease studies as cited in user-provided content"
+    "Abubuwa dabam dabam da ake samu daga yin amfani da su don a yi amfani da su wajen yin nazari da masu amfani da su don a sami lafiya mai daɗi da kuma mai kyau da ake amfani da su wajen amfani da shi wajen amfani da shi wajen amfani da shi wajen amfani da shi wajen amfani da shi"
   ]
 }

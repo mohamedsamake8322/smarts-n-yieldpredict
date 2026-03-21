@@ -1,0 +1,72 @@
+{
+  "disease": "Hoja de Maíz del Norte",
+  "scientific_name": "Exserohilum turcicum (Setosphaeria turcica)",
+  "pathogen_type": "Hongos",
+  "description": "Una enfermedad común de la hoja fúngica del maíz en todo el mundo. Causa lesiones largas en forma de cigarro en las hojas que reducen la fotosíntesis y pueden conducir a pérdidas de rendimiento importantes.",
+  "symptoms": [
+    "Pequeñas manchas empapadas de agua en las hojas inferiores",
+    "Lesiones elípticas largas o en forma de cigarro",
+    "Lesiones gris-verdes que luego se vuelven bronceadas o marrones",
+    "Esporulación de hongos oscuros en lesiones maduras",
+    "Grandes áreas de hojas manchadas cuando las lesiones se funden",
+    "Las infecciones graves pueden matar hojas o plantas enteras"
+  ],
+  "visual_symptoms": [
+    "lesiones largas en forma de cigarro en hojas de maíz",
+    "manchas de hojas grises o bronceadas con centros oscuros",
+    "grandes áreas muertas en hojas infectadas"
+  ],
+  "hosts": [
+    "Maíz",
+    "Maíz dulce",
+    "Sorgo",
+    "Mijo de perla",
+    "Hierba Johnson",
+    "Hierba del Sudán",
+    "Hierba elefante"
+  ],
+  "favorable_conditions": [
+    "Temperaturas moderadas entre 18°C y 27°C",
+    "Clima cálido y húmedo",
+    "Largos períodos de humedad de las hojas",
+    "Presencia de residuos de cultivos infectados"
+  ],
+  "spread": [
+    "Esporas fúngicas dispersas por el viento",
+    "Salpicadura de lluvia esparciendo esporas entre las plantas",
+    "Supervivencia de hongos en restos de hojas infectados"
+  ],
+  "impact": [
+    "Pérdida del área de la hoja fotosintética",
+    "Reducción del relleno de grano",
+    "Pérdidas de rendimiento por lo general 15-30%",
+    "Los brotes graves pueden causar hasta un 70% de pérdida de rendimiento",
+    "Aumento del riesgo de alojamiento de cultivos"
+  ],
+  "management": [
+    "Híbridos de maíz resistentes a las plantas o tolerantes",
+    "Rotar el maíz con cultivos no hospedantes como la soja o el girasol",
+    "Campos exploradores regularmente para los síntomas tempranos",
+    "Utilizar estrategias integradas de gestión de enfermedades",
+    "Aplicar fungicidas cuando aparezcan las primeras lesiones debajo de la hoja del oído"
+  ],
+  "biological_control": [
+    "Investigación en curso sobre antagonistas microbianos",
+    "Estimular los microbios beneficiosos en el suelo puede reducir la supervivencia de los patógenos"
+  ],
+  "chemical_control": [
+    "Fungicidas foliares, como los fungicidas estrobilurina o triazol",
+    "Aplicar fungicidas cuando aparezcan las primeras lesiones",
+    "Seguir las recomendaciones regionales para el control de la enfermedad del maíz"
+  ],
+  "prevention": [
+    "Rotación de cultivos con cultivos distintos de los de acogida",
+    "Arado profundo o gestión de residuos para reducir el inóculo",
+    "Utilizar híbridos de maíz resistentes",
+    "Monitoriza los campos durante las condiciones meteorológicas húmedas"
+  ],
+  "source": [
+    "PANNAR Seed NCLB Fact Sheet",
+    "Literatura de patología vegetal sobre enfermedades del maíz"
+  ]
+}

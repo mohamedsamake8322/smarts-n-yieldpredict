@@ -1,92 +1,209 @@
 {
-  "pest_name": "Southern Red Mite",
-  "scientific_name": "Oligonychus ilicis",
+  "pest_name": "Güney Kırmızı Mit",
+  "scientific_name": "Oligonychus ilicis Hakkında",
   "common_abbreviation": "SRM",
-  "description": "Southern red mite is a spider mite pest recorded on a wide range of plants including camellia, rhododendron, holly, and coffee. Individuals tend to inhabit the upper leaf. Pesticide resistance has been reported overseas, and typical two-spotted mite predators are ineffective against SRM.",
+  "description": "Güney kırmızı mite, camellia, rhododendron, holly ve kahve dahil olmak üzere çeşitli bitkilerde kaydedilen bir örümcek mite pestisidir. bireyler üst yaprakta yerleşme eğilimindedir. pestisit direnci yurtdışında bildirilmiştir ve tipik iki nokta mite haydutları SRM'ye karşı etkisizdir.",
   "appearance": {
-    "size": "<0.5 mm",
-    "color": "Reddish brown to deep purplish-red, sometimes with a pale central patch and lighter legs",
-    "sexual_dimorphism": "Females slightly larger, rounded posteriorly; males slender and paler",
-    "eggs": "Reddish brown, spherical; normally on upper leaf surface, overwintering eggs mainly on lower leaf surface"
+    "size": "<0,5 mm",
+    "color": "Reddish kahverengi derin sarı-kırmızı, bazen parlak bir merkezi patch ve daha hafif bacaklar ile",
+    "sexual_dimorphism": "Kadınlar hafifçe daha büyük, arka arkaya yuvarlak; erkekler slender ve paler",
+    "eggs": "Reddish kahverengi, sferik; genellikle üst yaprak yüzeyinde, kışın yumurta çoğunlukla alt yaprak yüzeyinde"
   },
   "life_cycle": {
-    "stages": ["egg", "larva (6 legs)", "nymph1 (8 legs)", "nymph2 (8 legs)", "adult"],
-    "generation_time": "7 days under favorable conditions",
-    "population_peaks": "Spring and autumn (moderate temperatures 15–30°C, dry conditions)",
-    "overwintering": "Eggs on lower leaf surface and sometimes bark"
+    "stages": [
+      "Yumurta",
+      "Ayaklar (6 ayak)",
+      "nmph1 (8 ayak)",
+      "nmph2 (8 ayak)",
+      "Yetişkin"
+    ],
+    "generation_time": "7 gün olumlu koşullarda",
+    "population_peaks": "Bahar ve sonbahar (yumuşak sıcaklıklar 15-30°C, kuru koşullar)",
+    "overwintering": "Düşük yaprak yüzeyinde yumurta ve bazen çamur"
   },
   "dispersal": [
-    "Wind-borne; may dangle from silk threads",
-    "Hitch-hiking on people and equipment",
-    "Spread by touching leaves"
+    "rüzgârlı; çamur çubuklarından yırtılabilir",
+    "İnsanlar ve ekipman üzerinde Hitch-Hiking",
+    "Yapraklara dokunarak yayılır"
   ],
   "host_range": [
-    {"common_name": "Azalea", "scientific_name": "Rhododendron spp."},
-    {"common_name": "Camellia", "scientific_name": "Camellia japonica"},
-    {"common_name": "American sycamore", "scientific_name": "Platanus occidentalis"},
-    {"common_name": "Boxwood", "scientific_name": "Buxus spp."},
-    {"common_name": "Camphor tree", "scientific_name": "Cinnamonum camphora"},
-    {"common_name": "Coffee", "scientific_name": "Coffea arabica"},
-    {"common_name": "Cotoneaster", "scientific_name": "Cotoneaster sp."},
-    {"common_name": "Cranberry", "scientific_name": "Vaccinium macrocarpon"},
-    {"common_name": "Deer grass", "scientific_name": "Rhexia sp."},
-    {"common_name": "Doghobble", "scientific_name": "Leucothoe sp."},
-    {"common_name": "Elaeagnus/silverthorn", "scientific_name": "Elaeagnus pungens"},
-    {"common_name": "English walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Eucalyptus", "scientific_name": "Eucalyptus spp."},
-    {"common_name": "Guava", "scientific_name": "Psidium guajava"},
-    {"common_name": "Holly", "scientific_name": "Ilex spp."},
-    {"common_name": "Hibiscus", "scientific_name": "Hibiscus spp."},
-    {"common_name": "Juniper", "scientific_name": "Juniperus sp."},
-    {"common_name": "Laurel or bay leaf", "scientific_name": "Laurus nobilis"},
-    {"common_name": "Loquat", "scientific_name": "Eriobotrya japonica"},
-    {"common_name": "Oak", "scientific_name": "Quercus sp."},
-    {"common_name": "Pear", "scientific_name": "Pyrus communis"},
-    {"common_name": "Pecan", "scientific_name": "Carya illinoensis"},
-    {"common_name": "Photinia/red tip", "scientific_name": "Photinia spp."},
-    {"common_name": "Pyracantha", "scientific_name": "Pyracantha coccinea"},
-    {"common_name": "Rose apple", "scientific_name": "Syzygium jambos"},
-    {"common_name": "Silky oak", "scientific_name": "Grevillea robusta"},
-    {"common_name": "Spruce", "scientific_name": "Picea sp."},
-    {"common_name": "Summersweet", "scientific_name": "Clethra alnifolia"},
-    {"common_name": "Strawberry", "scientific_name": "Fragaria x ananassa"},
-    {"common_name": "Tea", "scientific_name": "Camellia sinensis"},
-    {"common_name": "Viburnum", "scientific_name": "Viburnum spp."},
-    {"common_name": "Oxalis", "scientific_name": "Oxalis"},
-    {"common_name": "Sheep laurel", "scientific_name": "Kalmia angustifolia"},
-    {"common_name": "Chokeberry", "scientific_name": "Prunus virginiana"},
-    {"common_name": "Leatherleaf", "scientific_name": "Chamaedaphne calyculata"},
-    {"common_name": "Walnut", "scientific_name": "Juglans regia"},
-    {"common_name": "Rice", "scientific_name": "Oryza sativa"}
+    {
+      "common_name": "Azalea",
+      "scientific_name": "Rhododendron spp."
+    },
+    {
+      "common_name": "Camelya",
+      "scientific_name": "Camellia Japonya"
+    },
+    {
+      "common_name": "Amerikalı Sycamore",
+      "scientific_name": "Batı Platanus"
+    },
+    {
+      "common_name": "Boxwood Hakkında",
+      "scientific_name": "Bükreş SPP"
+    },
+    {
+      "common_name": "Camphor Ağaçları",
+      "scientific_name": "Cinnamonum Camphora Hakkında"
+    },
+    {
+      "common_name": "Kahve",
+      "scientific_name": "Arapça kahve"
+    },
+    {
+      "common_name": "Cotoneaster Hakkında",
+      "scientific_name": "Cotoneaster sp."
+    },
+    {
+      "common_name": "Cranberry için",
+      "scientific_name": "Makrokarpon Vakfı"
+    },
+    {
+      "common_name": "Çilek Çilek",
+      "scientific_name": "Rüya Sp."
+    },
+    {
+      "common_name": "Doghobble Hakkında",
+      "scientific_name": "Leucothoe Sp."
+    },
+    {
+      "common_name": "Elaeagnus / Gümüşhane",
+      "scientific_name": "Elaeagnus püskürtme"
+    },
+    {
+      "common_name": "İngilizce walnut",
+      "scientific_name": "Yunanistan Regia"
+    },
+    {
+      "common_name": "Eukalyptus",
+      "scientific_name": "Eukalyptus spp için."
+    },
+    {
+      "common_name": "Guava",
+      "scientific_name": "psidium guajava"
+    },
+    {
+      "common_name": "Holly",
+      "scientific_name": "İlex SPP için."
+    },
+    {
+      "common_name": "Hibiscüs",
+      "scientific_name": "Hibiscus spp için."
+    },
+    {
+      "common_name": "Juniper için",
+      "scientific_name": "Juniperus sp."
+    },
+    {
+      "common_name": "Laurel veya Bay Yaprakları",
+      "scientific_name": "Laurus Nobilis Hakkında"
+    },
+    {
+      "common_name": "Loquat",
+      "scientific_name": "Eriobotrya Japonya"
+    },
+    {
+      "common_name": "Oak",
+      "scientific_name": "Çerçeve sp."
+    },
+    {
+      "common_name": "pear",
+      "scientific_name": "Pyrus Komünist"
+    },
+    {
+      "common_name": "Pekin",
+      "scientific_name": "Karayolları Illinoensis"
+    },
+    {
+      "common_name": "Photinia / kırmızı tip",
+      "scientific_name": "Photinia spp için."
+    },
+    {
+      "common_name": "Pyracantha",
+      "scientific_name": "Pyracantha Coccinea Hakkında"
+    },
+    {
+      "common_name": "gül elma",
+      "scientific_name": "Syzygium Jambos Hakkında"
+    },
+    {
+      "common_name": "Silikon Oak",
+      "scientific_name": "Grevillea Güçlü"
+    },
+    {
+      "common_name": "Fırça",
+      "scientific_name": "Piyasaya sp."
+    },
+    {
+      "common_name": "tatlı tatlı",
+      "scientific_name": "Çanakkale Alnifolia"
+    },
+    {
+      "common_name": "Strawberry için",
+      "scientific_name": "Fragaria x Ananassa Hakkında"
+    },
+    {
+      "common_name": "Çay",
+      "scientific_name": "Camellia Sinensis Hakkında"
+    },
+    {
+      "common_name": "Viburnum",
+      "scientific_name": "Viburnum spp için."
+    },
+    {
+      "common_name": "Oxalis için",
+      "scientific_name": "Oxalis için"
+    },
+    {
+      "common_name": "Yavru Laurel",
+      "scientific_name": "Antibiyotik Antibiyotik"
+    },
+    {
+      "common_name": "Çikolata",
+      "scientific_name": "Prunus virginiana"
+    },
+    {
+      "common_name": "Cevapla",
+      "scientific_name": "Chamaedaphne kalsiyum"
+    },
+    {
+      "common_name": "Walnut Hakkında",
+      "scientific_name": "Yunanistan Regia"
+    },
+    {
+      "common_name": "pirinç",
+      "scientific_name": "Oryza Sativa Hakkında"
+    }
   ],
   "damage_symptoms": [
-    "Feeding on upper leaves causes mesophyll collapse, graying, and stippling",
-    "Leaves lose luster, appear bronzed or dull",
-    "Bronzing starts along midrib and veins, eventually covering entire leaf",
-    "Large populations cause severe leaf drop",
-    "Reduced plant vigor and growth, particularly on dry or water-stressed plants"
+    "Yukarıdaki yapraklarda beslenme, mesofil çöküşüne, sarılmaya ve sıkıştırmaya neden olur.",
+    "Yapraklar luster kaybeder, bronz veya çürük görünür",
+    "Bronzlaşma midrib ve damarlar boyunca başlar, sonunda tüm yaprakları kaplar",
+    "Büyük popülasyonlar şiddetli kağıt düşüşüne neden olur",
+    "Bitki gücü ve büyüme azalması, özellikle kuru veya su stresli bitkilerde"
   ],
   "detection_monitoring": [
-    "Direct visual observation of damage, living mites, and cast-off skins",
-    "Hand lens for confirmation",
-    "Plant beating on tray (white/black) for low populations",
-    "Observation of red eggs on host plants"
+    "Doğrudan görsel hasar gözlem, canlı mitler ve cast-off ciltler",
+    "Doğrulama için el lens",
+    "Küçük nüfuslar için çamur üzerinde bitki (beyaz/siyah)",
+    "Ev sahibi bitkilerde kırmızı yumurta gözlemleri"
   ],
   "chemical_control": [
-    "Older generation pesticides historically used",
-    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad effective under certain conditions",
-    "Abamectin, chlorfenapyr, dimethoate, fenbutatin oxide, maldison not always effective",
-    "Late applications less effective; early application when populations low recommended"
+    "Tarihsel olarak kullanılan pestisitler",
+    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad belirli koşullarda etkili",
+    "Abamektin, klorfenapir, dimetoat, fenbutatin oksit, maldison her zaman etkili değildir",
+    "Geç uygulamalar daha az etkili; erken uygulamalar düşük popülasyonlarda tavsiye edilir"
   ],
   "biological_control": [
-    "Predatory mites (Neoseiulus fallacis) and ladybeetle (Stethorus punctillum) effective overseas",
-    "Predators such as Neoseiulus californicus and Phytoseiulus persimilis not recommended for SRM",
-    "Conservation of natural predators can help reduce populations"
+    "Predatory mites (Neoseiulus fallacis) ve ladybeetle (Stethorus punctillum) etkili yurtdışında",
+    "Neoseiulus californicus ve Phytoseiulus persimilis gibi predatörler SRM için tavsiye edilmez",
+    "Doğal hırsızların korunması nüfusun azaltılmasına yardımcı olabilir"
   ],
   "notes": [
-    "SRM prefers upper leaf surface, moves lower as populations increase",
-    "Populations peak in moderate temperature and dry conditions",
-    "High rainfall reduces populations",
-    "Australian commercial predators have not been tested against SRM"
+    "SRM üst yaprak yüzeyi tercih eder, nüfusun artmasıyla daha düşük hareket eder",
+    "Toplam nüfus sıcaklık ve kuru koşullarda zirve",
+    "Yüksek yağışlar nüfusu azaltıyor",
+    "Avustralya'da ticari hırsızlar SRM'ye karşı test edilmedi"
   ]
 }

@@ -1,42 +1,47 @@
 {
-  "disease": "Leaf Curl Virus",
-  "scientific_name": "Tomato leaf curl virus (ToLCV)",
-  "pathogen_type": "Virus (ssDNA, Begomovirus)",
-  "description": "A viral disease causing curling and distortion of leaves, stunting growth and reducing fruit yield. Transmitted by whiteflies.",
+  "disease": "Virusi ya Leaf Curl",
+  "scientific_name": "Virusi ya mimea ya mimea (ToLCV)",
+  "pathogen_type": "Virusi (SSDNA na Begomovirus)",
+  "description": "Ugonjwa wa virusi unaoongozwa na uharibifu wa karatasi, kupunguza ukuaji na kupunguza uzalishaji wa matunda.",
   "symptoms": [
-    "Upward or downward curling of leaves",
-    "Yellowing along leaf veins",
-    "Stunted growth and reduced fruit size",
-    "Severe infection can kill young plants"
+    "Kuongezeka au kuongezeka kwa kuongezeka kwa kuongezeka kwa",
+    "Yellowing kwa njia ya viungo vya nyama",
+    "Kupunguza uzalishaji na kupunguza ukubwa wa matunda",
+    "Maambukizi makubwa yanaweza kuua mimea vijana"
   ],
-  "hosts": ["Tomato", "Pepper", "Eggplant", "Other Solanaceae"],
+  "hosts": [
+    "Mji wa Tomato",
+    "Pepsi ya",
+    "Mipango ya Egg",
+    "Vitu vingine vya Solanaceae"
+  ],
   "favorable_conditions": [
-    "Warm weather",
-    "High whitefly population",
-    "Dense planting with poor airflow"
+    "Hali ya hewa",
+    "Idadi ya Whitefly",
+    "Utoaji wa dhahabu na uharibifu wa hewa"
   ],
   "spread": [
-    "Whiteflies (primary vector)",
-    "Infected seedlings or grafts",
-    "Contaminated tools or handling"
+    "Vitambulisho vya kwanza (primary vector)",
+    "Mafuriko ya mafuriko au mafuriko ya mafuriko",
+    "Mchakato wa vifaa au usindikaji"
   ],
   "management": [
-    "Grow resistant or tolerant cultivars",
-    "Control whitefly populations",
-    "Remove and destroy infected plants",
-    "Maintain proper plant spacing"
+    "Kutoa mazao ya kudumu au ya kudumu",
+    "Ufuatiliaji wa idadi ya Whitefly",
+    "Kuondoa na kuharibu mimea ya kuvutia",
+    "Kuhifadhi mbinu sahihi ya uzalishaji"
   ],
   "chemical_control": [
-    "Insecticides to manage whiteflies (e.g., imidacloprid)",
-    "Use insecticidal soap or neem sprays as preventive"
+    "Wanyama kwa ajili ya kudhibiti mimea (kwa mfano, imidacloprid)",
+    "Kutumia sabuni ya insecticide au neem kwa ajili ya kuzuia"
   ],
   "prevention": [
-    "Start with virus-free seedlings",
-    "Monitor whitefly populations",
-    "Avoid planting near infected crops"
+    "Kuanzisha na mbegu za kutosha za virusi",
+    "Ufuatiliaji wa idadi ya Whitefly",
+    "Kuepuka kupanda karibu na matunda ya kuvutia"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Pest and Disease Factsheets"
+    "Mkataba wa Ulinzi wa CABI",
+    "Taarifa ya FAO kuhusu magonjwa na magonjwa"
   ]
 }

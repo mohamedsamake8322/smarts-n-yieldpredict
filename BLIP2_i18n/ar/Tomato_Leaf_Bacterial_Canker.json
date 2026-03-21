@@ -1,64 +1,70 @@
 {
-  "disease_name": "Tomato Leaf Bacterial Canker",
-  "type": "bacterial disease",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "disease_name": "ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط ط",
+  "type": "",
+  "causal_agent": "Clavibacter michigansss pv.",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ],
+    "secondary": [
+      "(Solanum Milonena L.)",
+      "(كابسيكوم سكوب.)",
+      "(Solanum spp.)"
+    ]
   },
-  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "distribution": "على الصعيد العالمي؛ مشترك في غازات الدفيئة والطماطم التي تُزرع ميدانياً",
   "symptoms": {
     "leaves": [
-      "Older leaves develop brown, scorched margins that curl upward and inward",
-      "Distinct border between brown and green tissue, often with a thin yellow line",
-      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+      "فالأوراق القديمة تنمو ببني، هوامش محروقة تتجمع صعوداً وداخلاً",
+      "الحدود الفاصلة بين البني والنسيج الأخضر، مع خط أصفر رقيق في كثير من الأحيان",
+      "يمكن أن تسبب الالتهابات النُظُمية الحرق والورق (التلقيح والانهيار)"
     ],
     "stems": [
-      "Light streaks develop that darken and split forming shallow cankers",
-      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
-      "Branches may break off easily in advanced infections"
+      "تُطوّرُ نُطُورَاتُ الضوءِ التي تُظْلِكُ وتُقَسَّلُ تَجْيِزَ حِزَرَاتٍ تُجَزِّزُ",
+      "يمكن أن تصبح pisth أحمر - بنين - أحمر ومُعَجَز أو مُجَوَّف.",
+      "يمكن أن تتعطل الفروع بسهولة في حالات الأمراض المتقدمة"
     ],
     "fruit": [
-      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
-      "Fruit near calyx may have brown seeds due to vascular invasion"
+      "رُبيت، بثور بيضاء بيضاء على الفواكه الخضراء أو الحمراء (بقع عين الطير)، 1/16 - 1/8 بوصة (3 - 4 مم) في القطر",
+      "فاكهة قريبة من كاليكس قد يكون لديها بذور بنية بسبب الغزو الوعائي"
     ],
     "seedlings": [
-      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
-      "Symptoms often appear at flowering or later"
+      "النمو، والميل المؤقت، والأوراق المنخفضة صفراً ونحسراً",
+      "غالبا ما تظهر الاثثقبات في الزهرة او لاحقا"
     ]
   },
   "disease_cycle": [
-    "Introduced via infected seed or transplants",
-    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
-    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
-    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+    "تم توفيرها عن طريق البذور أو عمليات الزرع المُصابة",
+    "البقاء على قيد الحياة في مخلفات النباتات الموبوءة لمدة تصل إلى 3 سنوات؛ يمكن البقاء على قيد الحياة على مقاعد ومقاعد ومراعي الأعشاب الضارة الملوثة",
+    "انتشار الأمطار الريحية، والري بالرش، والزراعة الميكانيكية، والمناولة",
+    "تدخل البكتيريا الشتلات من خلال الجروح، أو المثلثات المكسورة، أو قطع الشجر، ثم تتحرك بشكل نظامي من خلال Xhym"
   ],
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants; certified seeds recommended",
-      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
-      "Steam or disinfect greenhouse flats, benches, and potting media",
-      "Rotate crops out of tomatoes for at least one season"
+      "استخدام البذور والزرع الخالية من الأمراض؛ يوصى باستخدام البذور المعتمدة",
+      "بذور السواك في المياه التي تبلغ درجة حرارة 130 درجة الحرارة لمدة 25 دقيقة للحد من التلوث",
+      "بخار أو مطهرات من شقات ومقاعد ووسائط الدفيئة ووسائط صنع القمز",
+      "تدوير المحاصيل من الطماطم لموسم واحد على الأقل"
     ],
     "cultural": [
-      "Incorporate plant debris thoroughly at season end",
-      "Control nightshade weeds that may harbor bacteria",
-      "Avoid working in fields when foliage is wet",
-      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+      "تُدرج في المرفق الأول",
+      "تَحْكِم مُنَظَّمَةً مُنْظَرَاتٍ مُحْكَمَةً قَرَرَبًا",
+      "تجنب العمل في الحقول عندما تُبتل الشجر",
+      "- التقليل إلى الحد الأدنى من الري ومناولة النباتات بعناية للحد من الإصابات؛"
     ],
     "chemical": [
-      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
-      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+      "قد تقلل مبيدات البكتيريا النحاسية من الانتشار أثناء الظروف الرطبة، ولكنها لا تتحكم في حالات العدوى الشاملة.",
+      "أدوات وأسطح مطهرة تحتوي على 0.5 إلى 1 في المائة من الكالسيوم أو هيبوكلوريت الصوديوم، أو مطهرات تجارية مثل Physan"
     ]
   },
   "notes": [
-    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
-    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
-    "Even a few infected seeds can result in high levels of infected transplants"
+    "عادة ما تكون الخسائر الاقتصادية ثانوية في حقول البذور المباشرة ما لم تكن الظروف الرطبة مواتية للانتشار الثانوي",
+    "تكون عمليات زرع غازات الدفيئة أكثر عرضة للتأثر؛ واليقظة في المرافق الصحية أمر بالغ الأهمية",
+    "حتى عدد قليل من البذور المصابة يمكن أن تؤدي إلى ارتفاع مستويات الزرع المصاب"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
-    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+    "J.B., et al. 2014 خلاصة وافية عن أمراض الطماطم والآفات، الطبعة الثانية، مطبعة APS.",
+    "جامعة كاليفورنيا للزراعة والموارد الطبيعية، مبادئ توجيهية لإدارة مبيدات الآفات طماطم: Bacteri Canker.",
+    "() Schaad, N.W., et al. 2001, Bactraly Cankers of Tomato, Progress Health Progress."
   ]
 }

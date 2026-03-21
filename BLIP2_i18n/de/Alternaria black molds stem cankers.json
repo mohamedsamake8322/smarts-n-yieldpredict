@@ -1,0 +1,51 @@
+{
+  "disease_name": "Alternaria Black Mold Stem Canker",
+  "scientific_name": "Alternaria spp.",
+  "pathogen_type": "Pilze",
+  "genus": "Alternaria",
+  "description": "Alternaria schwarzer Schimmelpilz ist eine Pilzkrankheit, die durch Arten der Gattung Alternaria verursacht wird. Es betrifft Stängel, Blätter und manchmal Früchte vieler Kulturen, insbesondere Pflanzen der Familie Solanaceae. Die Krankheit produziert dunkle Schimmelpilzwachstum und Cankers auf Stängel, was zu reduzierter Pflanzenkraft und Ertragsverlusten führt.",
+  "affected_parts": [
+    "Stamm",
+    "Blatt",
+    "Obst"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Kartoffeln",
+    "Auberginen",
+    "Pfeffer",
+    "Verschiedene Solanaceae-Pflanzen"
+  ],
+  "symptoms": [
+    "Dunkelbraunes bis schwarzes Schimmelwachstum auf Stängeln",
+    "Stängelkrebse oder versunkene Läsionen",
+    "Blattflecken mit konzentrischen Ringen",
+    "Vergilbung und Verwelken von Blättern",
+    "Verringerung des Pflanzenwachstums"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (20–30°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Längere Blattnaßigkeit",
+    "Vorhandensein von infizierten Pflanzenresten"
+  ],
+  "spread": [
+    "Windstreusporen",
+    "Regenspritzer",
+    "Verunreinigte Pflanzenabfälle",
+    "Infizierte Samen"
+  ],
+  "management": {
+    "cultural": [
+      "Verwendung von seuchenfreien Samen",
+      "Rotieren von Kulturen mit Nichtwirtspflanzen",
+      "Entfernen infizierten Pflanzenmüll",
+      "Verbesserung der Luftzirkulation um Pflanzen"
+    ],
+    "chemical": [
+      "Fungizide wie Mancozeb anwenden",
+      "Chlorothalonil",
+      "Fungizide auf Kupferbasis"
+    ]
+  }
+}

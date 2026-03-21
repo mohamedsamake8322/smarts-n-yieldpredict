@@ -1,66 +1,77 @@
 {
-  "disease_name": "Tomato Yellow Leaf Curl Virus",
-  "type": "viral disease",
-  "causal_agent": "Tomato yellow leaf curl virus (TYLCV), genus Begomovirus, family Geminiviridae",
+  "disease_name": "طمانة",
+  "type": "",
+  "causal_agent": "فيروس (TYLCV)، وجينوس بيغوروم فيروس، والأسرة جيمينيفيريدا",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena)", "Potato (Solanum tuberosum)", "Tobacco (Nicotiana spp.)", "Beans (Phaseolus vulgaris)", "Peppers (Capsicum annuum)"],
-    "weeds": ["Datura stramonium", "Malva parviflora"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ],
+    "secondary": [
+      "(Solanum Milonena)",
+      "بطاطس (معاملات سلونوم)",
+      "(نيكوتيانا سكوب)",
+      "الفاصولان (PAsselus vulgaris)",
+      "الفلفل (كابسيكوم نونيوم)"
+    ],
+    "weeds": [
+      "Datura straonium",
+      "ملفا viflor"
+    ]
   },
-  "distribution": "Worldwide, especially tropical and subtropical regions",
+  "distribution": "على نطاق العالم، ولا سيما المناطق المدارية وشبه المدارية",
   "vector": {
-    "species": "Bemisia tabaci (silverleaf or sweet potato whitefly)",
-    "transmission_type": "persistent-circulative nonpropagative",
+    "species": "Pemisa spabasia (سيلفرفرليف أو حلة البطاطا البيضاء)",
+    "transmission_type": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
     "notes": [
-      "Acquisition access period: 15–20 minutes",
-      "Latent period: 8–24 hours",
-      "Females transmit virus more efficiently than males",
-      "Transovarial transmission observed for two generations",
-      "Sexual transmission between whiteflies documented"
+      "فترة الدخول إلى النظام: 15 - 20 دقيقة",
+      "الفترة الأخيرة: 8 - 24 ساعة",
+      "الإناث ينقلن الفيروس بكفاءة أكبر من الذكور",
+      "تم رصد انتقال انتقال عن طريق الترans عن طريق البحر على مدى جيلين",
+      "انتقال الاتصال الجنسي بين البيضاء الموثقة"
     ]
   },
   "symptoms": {
     "foliage": [
-      "Severe stunting",
-      "Reduction of leaf size",
-      "Upward cupping/curling of leaves",
-      "Chlorosis on leaves and flowers"
+      ":: تشغيل",
+      "الحد من حجم الورقة",
+      "الكؤوس العليا/قرطان الأوراق",
+      "الكهنة على الأوراق والأزهار"
     ],
     "fruit": [
-      "Reduced fruit production",
-      "Distorted fruit"
+      "إنتاج الفواكه",
+      "فاكهة مشوت"
     ],
-    "overall_impact": "Yield losses of 90–100% possible in severe outbreaks"
+    "overall_impact": "خسائر محتملة بنسبة 90 إلى 100 في المائة في حالات التفشي الحاد"
   },
   "disease_cycle": [
-    "Virus introduced via infected seedlings, contaminated tools, or whitefly vector",
-    "Once established, whiteflies spread virus rapidly from plant to plant",
-    "Virus persists in alternative hosts including weeds and other solanaceous crops",
-    "Environmental factors such as warm tropical climates favor virus proliferation"
+    "إدخال إدخاله عن طريق شتلات مُصابة، أو أدوات ملوثة، أو ناقل للحشرة البيضاء",
+    "بعد تأسيسها، تنتشر الفيروسات البيضاء بسرعة من النباتات إلى النباتات",
+    "استمرار الثبات في الاستضافة البديلة، بما في ذلك الأعشاب وغيرها من المحاصيل الشريانية",
+    "العوامل البيئية مثل المناخات المدارية الدافئة"
   ],
   "management": {
     "cultural": [
-      "Plant TYLCV-resistant or tolerant tomato varieties",
-      "Rotate crops to non-hosts to reduce inoculum",
-      "Eliminate or control weed hosts",
-      "Use greenhouse production to reduce vector access"
+      "النباتات النباتية TYLCV- أو أنواع الطماطم المقاومة أو المتسامحة",
+      "تحويل المحاصيل إلى محاصيل غير مضيفة للحد من الهولول",
+      "البلدان التي تستضيف فيها أعشاب للقضاء أو السيطرة عليها",
+      "استخدام إنتاج غازات الدفيئة للحد من الوصول إلى ناقلات الأمراض"
     ],
     "chemical": [
-      "Apply insecticides targeting Bemisia tabaci, rotating or mixing active ingredients to prevent resistance",
-      "Timing of applications is critical due to rapid virus transmission by whiteflies"
+      "تطبيق المبيدات الحشرية التي تستهدف منع المقاومة",
+      "توقيت التطبيقات حاسم الأهمية نظراً لانتقال الفيروس السريع عن طريق الحشرات البيضاء"
     ],
     "genetic": [
-      "Breeding or transgenic approaches to produce TYLCV-resistant tomato lines"
+      "نُهُج الاستنبات أو النُهُج المُحَرِّرة لإنتاج خطوط طماطم مقاومة لمركبات TYLCV"
     ]
   },
   "notes": [
-    "TYLCV is one of the most serious viral diseases of tomato globally",
-    "Developing countries are most affected due to climate and high cost of control measures",
-    "Integrated pest management combining resistant varieties, vector control, and cultural practices is most effective"
+    "TYLCV هو واحد من أخطر الأمراض الفيروسية في الطماطم على الصعيد العالمي.",
+    "أكثر البلدان النامية تأثراً بسبب المناخ وارتفاع تكلفة تدابير الرقابة",
+    "تكون الإدارة المتكاملة للآفات التي تجمع بين الأصناف المقاومة ومكافحة ناقلات الأمراض والممارسات الثقافية أكثر فعالية"
   ],
   "references": [
-    "Czosnek, H. & Laterrot, H. 1997. Tomato yellow leaf curl virus, an emerging virus complex causing epidemics worldwide. Adv Virus Res 47: 85–138.",
-    "Polston, J.E. & Lapidot, M. 2007. Management of Tomato Yellow Leaf Curl Virus: A review. Plant Dis 91: 125–134.",
-    "Brown, J.K., 2015. The Bemisia tabaci species complex and TYLCV transmission. Virus Res 202: 150–162."
+    "Czosnek, H. & Lerthrot, H. 1997, Tomatato Slaw paper chollewer Virs HIV, وهو مركب ناشئ من الفيروسات المسببة للأوبئة في جميع أنحاء العالم. Av HIVs 47: 85–138.",
+    "Polston, J.E. & Labidot, M. 2007 إدارة الطماطم الصفراء ليف كيرل فيروس: استعراض، النبات رقم 91: 125-134.",
+    "براون، ج. ك.، 2015، معقّد أنواع Pemisia talacis والانتقال TYLCV. فيروس Res 202: 150-162."
   ]
 }

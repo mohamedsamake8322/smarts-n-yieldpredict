@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
+  "pest_name": "Rouille de la feuille de soja",
   "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "common_name": "Rouille de soja",
+  "description": "La rouille de soja est une maladie foliaire du soja causée par le champignon Phakopsora pachyrhizi. Elle peut causer de graves pertes de rendement dans des conditions favorables.",
+  "distribution": "Originaire d'Asie; aux États-Unis, il se trouve pour la première fois dans le Sud en 2004 et s'étend vers le nord chaque saison de croissance.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "Glycine max (soja)",
+    "other_hosts": "Non spécifié; obliger le pathogène à survivre uniquement sur le tissu hôte vert"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "Petites taches grises sur les surfaces inférieures des feuilles qui deviennent brun-brun ou brun-rougeâtre",
+      "Lésions éparpillées dans des halos jaunes",
+      "Les pustules (plaques) se développent dans les lésions libérant des spores tan",
+      "Symptômes précoces difficiles à distinguer des autres maladies foliaires"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "Les lésions et les pustules peuvent apparaître sur les gousses et les tiges"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "Le plus fréquent après la floraison, pendant les stades de reproduction"
   },
   "conditions_favoring_disease": {
     "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "humidity": "Humidité élevée (>75 %)",
+    "weather": "Périodes prolongées de temps humide",
+    "plant_stage": "Stades de reproduction, après floraison et développement des gousses"
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "Champignons",
+    "species": [
+      "Phakopsora pachyrhizi",
+      "Phakopsora meibomiae (agent pathogène léger, ne causant pas de perte de rendement importante)"
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "Sur les tissus verts vivants dans les États du sud et du Mexique; spores dispersées par le vent vers le nord chaque saison",
+    "infection": "Les lésions se développent d'abord sur les feuilles inférieures; peuvent se propager aux gousses et aux tiges"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "Les taches foliaires et la défoliation",
+    "Pertes de rendement supérieures à 50 % dans des conditions favorables"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "Canopée inférieure scout hebdomadaire, en particulier par temps humide",
+      "Les pratiques culturelles ont un effet limité"
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "Utiliser des fongicides foliaires appliqués tôt ou immédiatement après l'infection"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "Des variétés de soja résistantes à la rouille sont en cours de développement."
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "La rouille du soja nécessite une dispersion annuelle répétée des spores vers le nord pour provoquer des épidémies dans les régions nordiques.",
+    "Le P. pachyrhizi est le pathogène agressif qui cause une perte de rendement importante; le P. meibomiae est léger et n'est pas encore signalé dans le continent américain."
   ]
 }

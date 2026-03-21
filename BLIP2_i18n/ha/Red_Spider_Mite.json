@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "@ action",
+  "scientific_name": "@ item Text character set",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "Hauwa'u ta zama ɗan ƙaramin abu da ke cin abinci a kan tsiro da ƙwayoyin halitta, kuma nan da nan sukan ji ɗumi kuma hakan zai iya ɓata shuke - shuke ta wajen yin noma da shuke - shuke masu kyau.",
+  "symptoms": [
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Kuma idan yã kasance cewa finjirewarsu tã yi nauyi a gare ka, to, idan kana iyãwa, ka nemi wani ɓullõ a cikin ƙasa, kõ kuwa wani tsãni a cikin sama dõmin ka zo musu da wata ãyã, (sai ka yi).",
+    "Cũta ta shãfe mu, mũ da iyãlinmu, kuma mun zo da wata hãja maras kuma.",
+    "Sa'an nan Yanã barin (wurinsu) faƙo mai santsi.",
+    "Media controller element",
+    "Mutane da yawa sun yi sanyin gwiwa ko kuma sun zubar da mutuwa"
+  ],
+  "hosts": [
+    "QShortcut",
+    "MGBOKO UMUORIA 5 (Igbo)",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 8 - LongNamePossessive",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Indian National weekday 7 - LongDayName",
+    "Da wata ayaba mai yawan 'ya'ya.",
+    "shuke-shuke da zarin ci"
+  ],
+  "favorable_conditions": [
+    "QShortcut",
+    "@ action",
+    "KCharselect unicode block name",
+    "Media controller element",
+    "Mãsu duhun inuwa."
+  ],
+  "spread": [
+    "QFontDatabase",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Mãsu son mazansu, a cikin tsãrã ɗaya."
+  ],
+  "impact": [
+    "KCharselect unicode block name",
+    "QDialogButtonBox",
+    "Ana Mai da Tawali'u",
+    "Kuma rãnã tanã gudãna zuwa ga wani matabbaci nãta.",
+    "Media controller element"
+  ],
+  "cultural_control": [
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Da shuke-shuke da matsayi mai kyau.",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Sao'i masu tsabta da zawan",
+    "Ka guje wa mummunar yanayi a gona ko kuma yawan yanayi"
+  ],
+  "biological_control": [
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "An la'ani mãsu ƙiri-faɗi.",
+    "@ item Text character set",
+    "Indian National weekday 3 - LongDayName"
+  ],
+  "chemical_control": [
+    "QShortcut",
+    "QXml",
+    "Yin amfani da abubuwan da aka samo daga cikin jini ya jitu da kamewa"
+  ],
+  "prevention": [
+    "Media controller element",
+    "Ka Kasance Mai Sauƙin Hali Kuma Mai Kyau",
+    "Sa'ad da kaka ya yi girma, ka yi shuka mai yawa bayan ka gama girbi",
+    "Ka Yi Amfani da Yanayinka Mafi Kyau (C.)"
+  ],
+  "source": [
+    "@ item Text character set",
+    "Media controller element"
+  ]
 }

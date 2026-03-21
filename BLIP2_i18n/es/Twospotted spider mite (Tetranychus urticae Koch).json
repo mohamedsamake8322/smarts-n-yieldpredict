@@ -1,0 +1,67 @@
+{
+  "pest_name": "Mite de araña de dos manchas",
+  "scientific_name": "Tetranychus urticae Koch",
+  "type": "artrópodo / ácaro",
+  "description": {
+    "size": "Adultos de 0,4–0,5 mm de largo",
+    "appearance": "Oval, cuerpo verde a amarillento con dos manchas oscuras en la espalda; ocho patas",
+    "life_cycle": "Huevo → larva → protonymph → deutónimo → adulto; varias generaciones por temporada",
+    "notes": "Muy pequeño, a menudo requiere una lente de mano o aumento para la detección"
+  },
+  "hosts": {
+    "primary": [
+      "Tomate",
+      "Pepino",
+      "Pimienta",
+      "Fresa"
+    ],
+    "secondary": [
+      "Muchos cultivos ornamentales, vegetales y frutales"
+    ],
+    "weeds": [
+      "Los anfitriones de malas hierbas comunes pueden albergar a las poblaciones durante la temporada baja"
+    ]
+  },
+  "distribution": "En todo el mundo, especialmente en condiciones cálidas y secas",
+  "symptoms": {
+    "foliage": [
+      "Pequeñas manchas amarillas o pálidas en la superficie superior de la hoja",
+      "Enroscado en la parte inferior de las hojas bajo infestaciones pesadas",
+      "Las hojas pueden girar bronce, rizar y caer prematuramente"
+    ],
+    "overall_impact": "Disminución de la fotosíntesis, retraso del crecimiento, menor rendimiento, aumento del estrés de las plantas"
+  },
+  "conditions_for_development": [
+    "Prospera en clima cálido y seco",
+    "El crecimiento de la población es rápido bajo temperaturas de 25–35°C",
+    "La baja humedad relativa favorece los brotes"
+  ],
+  "spread": [
+    "Viento, agua de riego, herramientas contaminadas",
+    "Transportado a través de plantas infestadas o restos vegetales"
+  ],
+  "management": {
+    "cultural": [
+      "Mantener riego y humedad adecuados para reducir el estrés en las plantas",
+      "Eliminar los desechos vegetales infestados y las malas hierbas",
+      "Evitar el uso excesivo de insecticidas de amplio espectro que alteren a los depredadores naturales"
+    ],
+    "biological": [
+      "Introducir ácaros depredadores (por ejemplo, Phytoseiulus persimilis, Neoseiulus californicus)",
+      "Animar a los depredadores naturales como escarabajos de señora y alas de encaje"
+    ],
+    "chemical": [
+      "Utilizar miticidas (acaricidas) como último recurso y rotar las clases químicas para evitar la resistencia",
+      "Aplicar en la parte inferior de las hojas donde los ácaros se concentran"
+    ]
+  },
+  "notes": [
+    "Una de las plagas ácaras más comunes y económicamente más importantes del mundo",
+    "Puede desarrollar resistencia rápidamente a múltiples clases químicas"
+  ],
+  "references": [
+    "Helle, W. & Sabelis, M.W. (1985). Mitos de araña: su biología, enemigos naturales y control. Elsevier.",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mitos (Acari) para el control de plagas. Blackwell Science.",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975)."
+  ]
+}

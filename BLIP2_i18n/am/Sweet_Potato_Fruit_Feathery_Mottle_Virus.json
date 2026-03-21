@@ -1,0 +1,128 @@
+{
+  "pest_name": "የሙቀት የሙቀት የሙቀት የሙቀት Virus",
+  "abbreviation": "የ SPFMV",
+  "type": "የቪዲዮዎች",
+  "history": "በዩናይትድ ስቴትስ ውስጥ የተመሠረተ -70 ዓመት በፊት. በዓለም ዙሪያ በጣም የተመሠረተ የሙቅ የሙቅ የሙቅ የሙቅ የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት የሙቀት",
+  "structure": {
+    "genome_type": "ቀጣይ-አንድ-አንድ-አንድ-አንድ-አንድ RNA",
+    "genome_length_bases": 10820,
+    "organization": [
+      "ቀጣይ ቀጣይ ቀጣይ ቀጣይ ቀጣይ",
+      "3' የኦሪጂናል",
+      "ፎቶ (A) ፎቶ"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "የ Proteinase, ssRNA አቅርቦት አቅርቦት"
+      },
+      {
+        "name": "የ HC-Pro",
+        "function": "Proteinase, Aids in aphid transmission, long-distance ተንቀሳቃሽ"
+      },
+      {
+        "name": "P3",
+        "function": "Viral Replication መሣሪያዎች"
+      },
+      {
+        "name": "የ 6K1",
+        "function": "መኖሪያ ቤት"
+      },
+      {
+        "name": "ይህ",
+        "function": "Cytoplasmic Inclusion Protein, RNA Helicase አቅርቦት"
+      },
+      {
+        "name": "6K2",
+        "function": "የአውሮፕላኖች, የቪሮፕላኖች ላይ የተወሰነ"
+      },
+      {
+        "name": "አዲሱ",
+        "function": "VPg እና Proteinase"
+      },
+      {
+        "name": "ኒየም",
+        "function": "የቪዛን Replicase"
+      },
+      {
+        "name": "የሲስቲክ",
+        "function": "የካቲን Protein, Virion አቅርቦት, የቪሮል አቅርቦት, አቅርቦት"
+      }
+    ],
+    "virion_shape": "ቀጣይ, ቀጣይ, ቀጣይ ቀጣይ",
+    "virion_length_nm": "810-865 ወረቀት"
+  },
+  "life_cycle": {
+    "entry": "የሞክኒካዊ ወይም የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ የሞክኒካዊ",
+    "replication": "የኦሪጂናል polyprotein, P1, HC-Pro, NIa proteases የተመሠረተ",
+    "translation_helpers": [
+      "የ HC-Pro የ EIF4E, VPg, NIa አቅርቦት"
+    ],
+    "gene_silencing_suppression": "HC-Pro siRNA እና miRNA ማሸግ",
+    "packaging": "Replicated genome ፎቶዎች ፎቶዎች ፎቶዎች"
+  },
+  "transmission": {
+    "vectors": [
+      "የ AFIDS"
+    ],
+    "mechanism": "የላቀ, የላቀ የላቀ የላቀ የላቀ",
+    "seed_transmission": "መሳሪያዎች በመስጠት አይችልም",
+    "host_range": [
+      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
+      "Nicotiana spp. (የ N. benthamiana, N. rustica, N. tabacum) በይነሰን የይነሰን የይነሰን",
+      "የኮንፖዲየም Quinoa",
+      "ፎቶን ፎቶ"
+    ]
+  },
+  "symptoms": {
+    "typical": "ፎቶዎች ላይ ፎቶዎች ፎቶዎች ላይ ፎቶዎች",
+    "severe_strains": [
+      "ሮድ necrosis",
+      "ፎቶዎች Chlorose",
+      "ሮን ንድፍ"
+    ],
+    "co-infections": {
+      "SPVD": "SPFMV በ SPCSV ጋር የተመሠረተ ጊዜ የተመሠረተ; የተመሠረተ ልምድ, ጠንካራ mozaic, ወረቀት ንድፍ, ዝቅተኛ ምርት ያካትታል",
+      "synergism_effects": "SPFMV በ SPVD ውስጥ ከ 600 ቀናት ከፍተኛ ነው; በ SPVD ውስጥ የተሻለ ልምድ እና ልምድ"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "ኢሜይል",
+        "location": "የአውሮፓ"
+      },
+      {
+        "name": "የ RC",
+        "location": "የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ"
+      },
+      {
+        "name": "የ",
+        "location": "የአውሮፓ, የአውሮፓ, የአውሮፓ"
+      },
+      {
+        "name": "የ C",
+        "location": "የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ, የአውስትራሊያ እና የአውስትራሊያ"
+      }
+    ],
+    "mutation_sources": "የቴክኖሎጂ አቅርቦት; የቴክኖሎጂ አቅርቦት የቴክኖሎጂ አቅርቦት የቴክኖሎጂ አቅርቦት የቴክኖሎጂ አቅርቦት"
+  },
+  "agricultural_impact": {
+    "affected_tissues": "መሳሪያዎች, መሳሪያዎች, መሳሪያዎች, መሳሪያዎች",
+    "yield_loss": "ከ 50% እስከ በከፍተኛ ፍጥነት ውስጥ ሊሆን ይችላል, առնվազն SPVD የካይቲክ መሳሪያዎች ውስጥ",
+    "affected_regions": "Oceania, South Africa, Barbados, ሌሎች SPVD-የተካት ቦታዎች",
+    "social_impact": "የኃይል አጠቃቀም የኃይል አጠቃቀም የኃይል አጠቃቀም የኃይል አጠቃቀም የኃይል አጠቃቀም"
+  },
+  "management": {
+    "early_detection": "ELISA Virus ማረጋገጫ",
+    "removal": "በሽከርካሪ መፍጠር በሽከርካሪ መፍጠር በሽከርካሪ መፍጠር",
+    "prevention": [
+      "የፕላስቲክ የቪሮስ-मुक्त የፕላስቲክ ቁሳዊ",
+      "መሣሪያዎች ማሽኖች ማሽኖች ማሽኖች ማሽኖች ማሽኖች ማሽኖች ማሽኖች",
+      "የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ"
+    ]
+  },
+  "references": [
+    "የፕላስቲክ ቪሮኒክ እና የክሮቲክ ቪሮኒክ እና የክሮቲክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ ቪሮኒክ"
+  ]
+}

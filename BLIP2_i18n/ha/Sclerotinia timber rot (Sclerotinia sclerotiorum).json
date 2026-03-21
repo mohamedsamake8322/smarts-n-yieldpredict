@@ -1,88 +1,88 @@
 {
- "disease": "Sclerotinia Timber Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia timber rot is a fungal disease that causes severe stem decay in many crops. The fungus produces white cotton-like mold and black survival bodies called sclerotia. Infected stems become dry or rotten, leading to plant wilting and collapse.",
- "symptoms": [
-  "White cotton-like fungal growth on stems",
-  "Stem rot or dry decay (timber-like appearance)",
-  "Black seed-like sclerotia inside or on stems",
-  "Yellowing and wilting of leaves",
-  "Plants collapsing due to stem damage"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "dry or rotting stems",
-  "black hard sclerotia in infected tissue",
-  "collapsed or wilted plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Beans",
-  "Peas",
-  "Lettuce",
-  "Tomato",
-  "Potato",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental crops"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "sometimes leaves and flowers"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia surviving in soil",
-  "Contaminated plant debris",
-  "Wind and splashing water"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce apothecia (small cup-like structures)",
-  "Apothecia release airborne spores",
-  "Spores infect plant tissues during wet conditions",
-  "New sclerotia develop in infected stems and fall into the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced plant growth and productivity",
-  "Severe yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve spacing and airflow between plants",
-  "Remove and destroy infected plant debris",
-  "Avoid excessive irrigation"
- ],
- "biological_control": [
-  "Apply biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Boscalid",
-  "Fluazinam",
-  "Iprodione",
-  "Procymidone",
-  "Thiophanate-methyl"
- ],
- "prevention": [
-  "Use clean seeds and healthy transplants",
-  "Monitor crops during cool and wet weather",
-  "Apply integrated disease management practices"
- ],
- "source": [
-  "Plant pathology guides",
-  "Agricultural extension resources"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai tsanani da ke sa shuke - shuke masu yawa ta yi yawa, kuma hakan yana sa farin ciki sosai. Ƙari ga haka, yana sa farin ciki sosai.",
+  "symptoms": [
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Mai twãle fãtar goshi.",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Cin hanci da rashawa don a yi ɓarna"
+  ],
+  "visual_symptoms": [
+    "Farin Ciki don Nazarin Littafi Mai Tsarki",
+    "Media controller element",
+    "KCharselect unicode block name",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "hosts": [
+    "Ethiopian weekday 3 - LongDayName",
+    "DakataCoptic month 6 - LongName",
+    "Abin da zai iya faruwa shi ne (a nan gaba) idan aka yi wa macen yankan zumunci",
+    "QShortcut",
+    "Ethiopian month 7 - LongName",
+    "DakataCoptic month 13 - LongName",
+    "QShortcut",
+    "QFontDatabase",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "Mutane da yawa Suna da shuke - shuke da shuke - shuke masu yawa"
+  ],
+  "plant_parts_affected": [
+    "@ action",
+    "KCharselect unicode block name",
+    "A wasu lokatai, ana barin da furanni da furanni"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Media controller element"
+  ],
+  "spread": [
+    "An Gano Su Daga Sana'a",
+    "Waɗanda Suka tsira a ƙasa",
+    "KCharselect unicode block name",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
+  ],
+  "disease_cycle": [
+    "Wannan ba'a da ake yi a ƙasar waje ba ce shekaru da yawa da suka shige",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Mai Tawali'u Yana Kawo Sa Zuciya Mai Ban Al'ajabi",
+    "Sa'ad da muke fuskantar matsaloli, muna samun ' ya'yan itace masu yawa da za mu iya yin amfani da su a lokacin da muke fuskantar yanayi",
+    "Sabuwar ' yar wasa ta taso kuma ta faɗi cikin ƙasa"
+  ],
+  "impact": [
+    "Media controller element",
+    "Sa'ad da ake girma da kuma ban dariya",
+    "Abubuwa da Yawa Sun Yi hasara a Lokacin Wahala"
+  ],
+  "cultural_control": [
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Da ƙwãya mai sõshiya da ƙamshi.",
+    "Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).",
+    "Ka guje wa yin maye"
+  ],
+  "biological_control": [
+    "Ka Yi Amfani da Masu Ma'aikata Kamar Al'ada",
+    "Ka yi amfani da ' yar wasa da ba'a da kyau"
+  ],
+  "chemical_control": [
+    "KCharselect unicode block name",
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Da wata ayaba mai yawan 'ya'ya."
+  ],
+  "prevention": [
+    "Ka yi amfani da iri mai tsabta da kuma daidaita da ya dace",
+    "Muna zama a wurin da ake sanyi sosai a lokacin sanyi da kuma sa'ad da muke yin wa'azi",
+    "Ka yi amfani da ayyukan rashin lafiya da ake samu ta wajen yin amfani da su a hanyar da ba ta dace ba"
+  ],
+  "source": [
+    "Shirin Hana Haske",
+    "KCharselect unicode block name"
+  ]
 }

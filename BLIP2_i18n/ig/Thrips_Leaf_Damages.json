@@ -1,0 +1,123 @@
+{
+  "pest_name": "Ihe Ize Ndụ Ndị Dị n'Ihe Ize Ndụ",
+  "order": "Tlananana",
+  "family": "Mkpụrụ Ndụ Ihe Nketa nke Na - enye Ume Ọhụrụ",
+  "type": "Ụmụ ahụhụ",
+  "description": {
+    "size": "(00,000)",
+    "body": "Foto ndị dị warara, ndị na - acha odo odo ma ọ bụ ndị na - acha nchara nchara, nwere nku abụọ dị warara ma dị ntakịrị",
+    "mouthparts": "A na - eji ahịhịa ndị dị n'ime ala eme ihe; a na - eji ha echekwa akwụkwọ osisi na ihe ndị e ji esi nri",
+    "species_of_major_concern": [
+      "Osisi ndị dị n'Ebe Ọdịda Anyanwụ Ụwa bụ́ ndị a na - etinye ihe ndị a na - eji eme ihe n'ebe ahụ (Freryccriilairei racrecreis)",
+      "Ihe osise ndị e ji mkpụrụ akwụkwọ okpotokpo dee (Tes / lasaci)"
+    ]
+  },
+  "hosts": {
+    "ornamentals": [
+      "Mkpụrụ Osisi Ndị Dị n'Ime Ala",
+      "Cineraria",
+      "POMO",
+      "Dahlia",
+      "Dianus",
+      "OTA 9 (Yoruba)",
+      "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "ụgbọala na - adọkpụ",
+      "Niisiia",
+      "Mamlala",
+      "OTA 1 (Yoruba)",
+      "Anụ ọhịa bea",
+      "Baịbụlụ Nsọ nke International Bible Society",
+      "Ndị ọkà mmụta mmekọrịta ọha na eze, bụ́ ndị na - agwọ ọrịa uche, na - arịa ọrịa ogbu na nkwonkwo nke na - ebibi ihe, na - arịa ọrịa ogbu na nkwonkwo nke yiri nke ahụ",
+      "Lobelia",
+      "Kabrara",
+      "Mkpụrụ Ndụ Ihe Nketa n'Oge Ochie",
+      "Belgoa x ranas",
+      "Nwa agbọghọ ọzọ aha ya bụ Pelargo kwuru, sị: \"Ọ na - abụ m cheta ihe ndị a, ya adị m ka m̀ bụ onye a ma ama n'ụwa a."
+    ],
+    "vegetables": [
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "AGBOR 1 (Bekee)",
+      "Mkpụrụ ndụ ndị dị n'ime ala",
+      "Ndị Na - atụchasị Mmadụ",
+      "Ndị Na - achọ Ihe n'Ebe A Na - akparịta Ụka n'Intanet",
+      "[ Ihe e dere n'ala ala peeji]",
+      "ọka wit na - acha ọbara ọbara",
+      "Ọdọ̀sị́ị̀lụ̀",
+      "Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Nhazi ahụ",
+      "Ndị Na - asụ Asụsụ Dị Iche Iche",
+      "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+      "_Ebe ịsa ahụ́",
+      "Leek",
+      "Ihe Ndị Na - enye Ihe n'Ahụ́",
+      "Cihi Mgbanwe Ndị A Na - enwe n'Ahụ́"
+    ]
+  },
+  "damage": {
+    "direct_feeding": "Mkpụrụ ndụ akụ́kụ́ dị iche iche na ihe ndị dị n'ime mkpụrụ ndụ, na - ahapụ ihe ndị na - adị ná mkpụrụ ndụ ma ọ bụ ihe ndị nwere ike ime ka mmadụ na - acha nchara nchara ma na - acha nchara nchara.",
+    "feeding_preferences": {
+      "Western flower thrips": "Hapụ okooko osisi na okooko osisi; okooko osisi / okooko osisi ndị dị mma",
+      "Japanese flower thrips": "N'ụzọ bụ́ isi, ị pụrụ iwere ọnọdụ n' okooko osisi"
+    },
+    "secondary_effects": "Mmiri ọgwụ ahụ́ bụ́ hormone pụrụ ime ka mkpụrụ akụ́kụ́ nwee ike ịrịa ọrịa na - eme ka ahụ́ ghara ịrụ ọrụ nke ọma."
+  },
+  "virus_transmission": {
+    "vector": [
+      "Osisi Ndị Dị n'Ebe Ọdịda Anyanwụ Ụwa",
+      "Ihe Ndị E Ji Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "Osisi ndị Japan a tụrụ atụ (SVVVVV)"
+    ],
+    "viruses": [
+      "Nje virus ndị na - akpata ọrịa ogbu na nkwonkwo bụ́ ndị a na - ebute site n'oge ruo n'oge (SVVV)",
+      "Nje virus ndị na - akpata ọrịa ogbu na nkwonkwo nke na - ebibi ihe bụ́ ndị na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi"
+    ],
+    "mechanism": "Nke mbụ n'ime kpakpando ndị dị n'ime ha na - enweta nje virus site n'osisi ndị bu ọrịa ahụ; ndị toworo eto na - ebute nje virus mgbe ha na - eri nri.",
+    "host_plants": [
+      "Mkpụrụ Osisi Ndị Dị n'Ime Ala",
+      "Cineraria",
+      "POMO",
+      "Dahlia",
+      "Dianus",
+      "OTA 9 (Yoruba)",
+      "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+      "ụgbọala na - adọkpụ",
+      "Niisiia",
+      "Mamlala",
+      "OTA 1 (Yoruba)",
+      "Anụ ọhịa bea",
+      "Baịbụlụ Nsọ nke International Bible Society",
+      "Ndị ọkà mmụta mmekọrịta ọha na eze, bụ́ ndị na - agwọ ọrịa uche, na - arịa ọrịa ogbu na nkwonkwo nke na - ebibi ihe, na - arịa ọrịa ogbu na nkwonkwo nke yiri nke ahụ",
+      "Lobelia"
+    ]
+  },
+  "symptoms_of_virus_infection": [
+    "Ebe a na - edebe akwụkwọ nri ma ọ bụ ebe a na - edebe akwụkwọ nri",
+    "Otú e si eji ejiji na otú e si eji ejiji",
+    "Ọ na - eme ka ahụ́ na - ama jijiji, na - eme ka ahụ́ na - ama jijiji, na - agba odo odo, ma na - eme ka ahụ́ na - ama jijiji",
+    "Anwụ na - achanụ n'ike n'ike",
+    "Isi ihe na - egosi ọnwụ"
+  ],
+  "regulatory_status": {
+    "TSWV": "Regngd On unren-Nurine Pest (RNNNP) in Begonia x lacalal, umum acccumum, Farysssrassum, lararas, Irpras, Pelrma, Pelrgo",
+    "INSV": "Reggd unb-Nuachinine Pest (RNNN) dị na Begonia x lualis"
+  },
+  "life_cycle": {
+    "reproduction": "Ọ̀tụ̀tụ̀ e ji amụ nwa; ọtụtụ ọgbọ na - eto n'oge ọ bụla",
+    "notes": "N'etiti osisi ndị dị n'okpuru ebe a na-enweghị ihe mgbochi n'ihi ndị iro dị ole na ole"
+  },
+  "management": {
+    "cultural": [
+      "Ihe ọkụkụ ndị na - egbuke egbuke na - anọgide na - abụ ihe mgbaàmà nke ihe ndị e si na ha nweta n'oge mbụ",
+      "Wepụ na ibibi ihe nke ukwuu n'akụkụ dị iche iche nke osisi ndị dị n'ime ala",
+      "Ka ọnụ ọgụgụ ndị iro bụ́ ndị sitere n'okike nọgide na - amụba"
+    ],
+    "chemical": [
+      "Jiri olu ọma kwuo ihe ị ga - eme; gbasoo ụkpụrụ nduzi ndị e nwere n'ógbè unu ma kpọọ okwu aha"
+    ],
+    "integrated": "Ihe ndị e ji enyocha mbara igwe, otú a ga - esi na - achịkwa ha, otú a ga - esi na - emetọ ha, na otú a ga - esi jiri ha na - eme ihe n'ụzọ na - ezighị ezi"
+  },
+  "references": [
+    "Ihe ndị e ji egbochi afọ ime na - echebe ihe ndị a kụrụ n'ubi",
+    "Mahadum Colorado State, bụ́ Pest na - ekwu, sị: Ihe ndị e dere n'ụdị mgbakọ na mwepụ nakwa na nkà mmụta mmekọrịta mmadụ na ibe ya"
+  ]
+}

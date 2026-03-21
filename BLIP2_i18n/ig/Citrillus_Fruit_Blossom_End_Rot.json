@@ -1,0 +1,96 @@
+{
+  "disease": "Ihe A Ga - eji Kwụsị Ime Ihe Ndị Na - akpali Agụụ Mmekọahụ",
+  "crop": "Mmiri dị n'ime ala",
+  "scientific_context": "Nsogbu na - esi n'erighị ihe ndị na - edozi ahụ́ nke ọ̀tụ̀tụ̀ mmiri ọgwụ ahụ́ kpatara",
+  "pathogen_type": "Nsogbu Na - esi n'erighị Ihe Ndị Na - edozi Ahụ́ (ọ bụghị nke akwara na - akpata)",
+  "description": "Ihe na - akpata ya bụ erighị nri ndị na - edozi ahụ́ bụ́ ndị na - edozi ahụ́ bụ́ ndị na - eme ka mmiri na akwụkwọ nri ndị ọzọ na - amị mkpụrụ ghara ịmị mkpụrụ, ọ na - abụkarị n'ihi erighị nri ndị na - edozi ahụ́, oké ụkọ mmiri ozuzo, oké mmiri ozuzo, oké mmiri ozuzo, ma ọ bụ oké iri ahụ́. Nsogbu a na - akpata n'ọchịchịrị, anwụ na - agba n'isi mkpụrụ osisi ahụ.",
+  "scientific_name": "Nsogbu nke ịda mbà n'obi",
+  "symptoms": [
+    "Mmiri dị n'ime ala n'ọgwụgwụ mkpụrụ osisi",
+    "Ka oge na - aga, a na - enwe ihe ndị na - enye ìhè bụ́ ndị na - enye ìhè",
+    "Ebe gbara ọchịchịrị ma ọ bụ ebe gbara ọchịchịrị nke anwụ na - acha na ya",
+    "Ihe ndị e ji akpụkpọ anụ mee ma ọ bụ ihe ndị e ji akpọ nkụ n'isi ya",
+    "Ọ bụrụ na ihe ndị na - esi ísì ụtọ ma ọ bụ nje bacteria apụta",
+    "Mkpụrụ osisi na - acha ngwa ngwa karịa otú o kwesịrị"
+  ],
+  "visual_signature": [
+    "Anwụrụ ọkụ ojii na - agba n'isi isi iyi nke mmiri na - agbawa agbawa",
+    "Mmiri dị n'ime ala bụ́ nke e ji akpụkpọ anụ mee bụ́ nke dị n'ọnụ ọnụ akpa mkpụrụ osisi",
+    "Anwụrụ ọkụ ojii kpọrọ nkụ nke na - eme ka okooko osisi na - ama ifuru",
+    "Ala ndị dara mbà n'obi bụ́ ndị dị n'elu mkpụrụ osisi"
+  ],
+  "affected_plant_parts": [
+    "Mkpụrụ osisi na - eto ngwa ngwa",
+    "Ịzụlite ihe ndị dị n'ime mkpụrụ osisi"
+  ],
+  "plant_family": "Recbirasa",
+  "hosts": [
+    "Mmiri dị n'ime ala",
+    "tomato",
+    "ghaghị ime ka obi sie gị ike na Jehova ga - enyere gị aka",
+    "Ụcha àkwá",
+    "Ńgwānụ́ banye",
+    "IHE NDỊ GA - ENYERE GỊ AKA"
+  ],
+  "important_hosts": [
+    "Ihe ndị e dere na ya bụ: \"Ihe ndị e dere n'ala ala peeji na ihe ndị e dere na ya",
+    "N'ihi ya, e nwere ọtụtụ ihe ndị na - enyere mmadụ aka ịmata ihe na - emenụ.",
+    "Mkpụrụ Ndụ Ihe Nketa n'Oge Ochie",
+    "N'ihi ya, m na - asụ asụsụ ndị ogbi",
+    "Oge a bụ oge a na - eme ememe"
+  ],
+  "causes": [
+    "Ọ na - esi ike ịzụlite mkpụrụ osisi",
+    "Ịṅụ Mmiri n'esepụghị aka",
+    "Oké ọkọchị",
+    "Ala dị elu nke dị larịị",
+    "Ihe Na - agbawa Obi nke Na - eme Ka E Nwee Ihe Ịga nke Ọma",
+    "Uto dị ngwa",
+    "Ọ bụ mkpọrọgwụ ka a na - eji enweta ọgwụ ndị na - adịghị mma"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ dị ọkụ",
+    "Oké ọkọchị",
+    "Mmiri dị n'ime ala nke na - esi n'ime ala apụta",
+    "Ala na - adịghị mma n'anya",
+    "Na - azụ àkwà ndị mmiri na - adịghị na ha ngwa ngwa"
+  ],
+  "spread": [
+    "Ọ bụghị ife efe",
+    "Nke gburugburu ebe obibi na ihe ndị na - edozi ahụ́ kpatara ya"
+  ],
+  "damage": [
+    "Mkpụrụ osisi na - aghọ ihe a na - apụghị ịkọwa akọwa",
+    "belata ihe ndị a kụrụ n'ubi",
+    "Mkpụrụ osisi nke Na - eto Eto nke Na - amị Mkpụrụ",
+    "Ọrịa ndị ọzọ pụrụ ibibi mkpụrụ osisi"
+  ],
+  "management": [
+    "Mee ka mmiri dị n'ime ala dị iche iche dị n'ime ala nọgide na - adị n'usoro",
+    "Osisi ndị dị n'ime ala na n'ụzọ miri emi",
+    "Ala na - adịghị amị amị iji mee ka mmiri ghara ịbanye na ya",
+    "Zere ịdị na - eri nri ndị na - edozi ahụ́ bụ́ ndị na - eme ka ahụ́ ghara iru mmadụ ala",
+    "Mee ka ala dị larịị karị"
+  ],
+  "nutritional_management": [
+    "Na - eme ka ihe ndị dị n'ala nọgide na - eme nke ọma",
+    "Ebe a na - arụ ọrụ ugbo na - arụ ọrụ n'ebe a na - arụ ọrụ ugbo iji mee ka ala dị larịị",
+    "Mgbe ọ dị mkpa, a na - eji ihe ndị na - eme ka mmiri na - abanye n'ime ala ma ọ bụ ihe ndị na - eme ka ahụ́ na - ama mmadụ jijiji"
+  ],
+  "cultural_control": [
+    "Ihe ọkụkụ ndị kwesịrị ekwesị bụ́ ndị na - eme ka ikuku na - erugharị nke ọma",
+    "Ime ihe ndị ga - eme ka ahụ́ gbasie gị ike",
+    "Oge ndị a na - etinye n'ịgba àmà mgbe nile"
+  ],
+  "prevention": [
+    "Nnwale ala tupu ị malite ịkụ ya",
+    "Na - eme ka ájá dị gburugburu 6.57",
+    "Ekwela ka ihe ọ bụla mee ka ị ghara ịna - aṅụ mmiri nke ọma"
+  ],
+  "source": [
+    "Ebe a na - etinye akwụkwọ nri na Mahadum, bụ́ ebe a na - etinye ihe ọmụma banyere otú e si arụ ọrụ, bụ́ nke a na - etinye ihe ọmụma na ya",
+    "Ụlọ Ndị Dị n'Ime Ha Na - eto Eto",
+    "Ụlọ ọrụ na - ebipụta akwụkwọ ndị na - amụ banyere ihe ndị mgbe ochie na - ebipụta",
+    "Magazin bụ́ Journal of Rights"
+  ]
+}

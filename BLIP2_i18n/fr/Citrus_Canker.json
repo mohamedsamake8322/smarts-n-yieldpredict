@@ -1,10 +1,10 @@
 {
-  "disease": "Citrus Canker",
+  "disease": "Bouclier à agrumes",
   "scientific_name": "Xanthomonas citri subsp. citri (syn. Xanthomonas axonopodis pv. citri)",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus canker is a highly contagious bacterial disease affecting citrus plants. It causes lesions on leaves, stems, and fruits, leading to premature leaf and fruit drop and reduced fruit quality. Although infected fruits are edible, they are not marketable due to their appearance.",
+  "pathogen_type": "Bactérie",
+  "description": "Il provoque des lésions sur les feuilles, les tiges et les fruits, entraînant une chute prématurée des feuilles et des fruits et une diminution de la qualité des fruits. Bien que les fruits infectés soient comestibles, ils ne sont pas commercialisables en raison de leur apparence.",
   "hosts": [
-    "Citrus spp. (orange, lime, grapefruit, lemon)",
+    "Citrus spp. (orange, lime, pamplemousse, citron)",
     "Poncirus trifoliata",
     "Fortunella spp. (kumquat)",
     "Severinia spp.",
@@ -12,62 +12,62 @@
   ],
   "susceptibility": {
     "highly_susceptible": [
-      "Grapefruit",
+      "Pamplemousses",
       "Navel orange",
-      "Early orange varieties"
+      "Variétés orangées précoces"
     ],
     "moderately_susceptible": [
-      "Sour orange",
-      "Lemon",
-      "Sweet orange"
+      "Orange aigre",
+      "Citron",
+      "Orange douce"
     ],
     "more_tolerant": [
-      "Mandarin",
-      "Some citrus hybrids (e.g., Murcott, Valencia)"
+      "Mandarine",
+      "Quelques hybrides d'agrumes (par exemple Murcott, Valence)"
     ]
   },
   "symptoms_and_damage": [
-    "Small raised blister-like lesions with water-soaked margins",
-    "Yellow halos surrounding lesions on leaves and fruits",
-    "Necrotic spots on leaves, stems, and fruits",
-    "Fruit cracking and deformation",
-    "Premature fruit drop",
-    "Severe infections cause defoliation"
+    "Petites lésions surélevées ressemblant à des cloques avec des marges mouillées par l'eau",
+    "Halos jaunes entourant les lésions sur les feuilles et les fruits",
+    "Taches nécrotiques sur les feuilles, les tiges et les fruits",
+    "Fissuration et déformation des fruits",
+    "Goutte de fruits prématurés",
+    "Les infections sévères provoquent une défoliation"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria survive in lesions on leaves, stems, and fruits",
-    "Spread through wind-driven rain and water splash",
-    "Long-distance spread occurs mainly through movement of infected plant material",
-    "Insects, birds, and animals may contribute to local spread",
-    "Leafminer damage increases infection by creating wounds"
+    "Les bactéries survivent dans les lésions sur les feuilles, les tiges et les fruits",
+    "Étendre à travers la pluie du vent et les éclaboussures d'eau",
+    "La propagation à longue distance se produit principalement par le mouvement de matériel végétal infecté",
+    "Les insectes, les oiseaux et les animaux peuvent contribuer à la propagation locale",
+    "Les dommages causés par les feuilles de feuilles augmentent l'infection en créant des blessures"
   ],
   "favorable_conditions": [
-    "Warm temperatures (optimal around 28–30°C)",
-    "High humidity",
-    "Rain and wind",
-    "Presence of free water on plant surfaces"
+    "Températures chaudes (optimales autour de 28 à 30°C)",
+    "Humidité élevée",
+    "Pluie et vent",
+    "Présence d'eau libre sur les surfaces des plantes"
   ],
   "pathogen_characteristics": [
-    "Gram-negative rod-shaped bacterium",
-    "Size approximately 1–3 micrometers",
-    "Single polar flagellum for movement",
-    "Produces yellow pigment called xanthomonadin in culture"
+    "Bactérie en forme de tige à Gram négatif",
+    "Taille d'environ 1 à 3 micromètres",
+    "Flagellum polaire unique pour le mouvement",
+    "Produit un pigment jaune appelé xanthomonadin en culture"
   ],
   "monitoring": [
-    "Inspect leaves for raised lesions with yellow halos",
-    "Check fruits for corky or cracked lesions",
-    "Observe twig lesions that may serve as infection sources"
+    "Inspecter les feuilles pour les lésions surélevées avec des halos jaunes",
+    "Vérifier si les fruits présentent des lésions liègeuses ou fissurées",
+    "Observer les lésions des rameaux qui peuvent servir de sources d'infection"
   ],
   "management": [
-    "Use certified disease-free planting material",
-    "Apply copper-based sprays as preventive treatment",
-    "Install windbreaks to reduce spread by wind-driven rain",
-    "Control citrus leafminer populations",
-    "Disinfect tools, equipment, and clothing when entering or leaving orchards",
-    "Remove infected trees in areas where the disease is not yet established"
+    "Utiliser du matériel de plantation certifié exempt de maladies",
+    "Appliquer des sprays à base de cuivre comme traitement préventif",
+    "Installer des brise-vent pour réduire la propagation par la pluie due au vent",
+    "Populations témoins de mineurs de feuilles d'agrumes",
+    "Désinfecter les outils, l'équipement et les vêtements à l'entrée ou à la sortie des vergers",
+    "Enlever les arbres infectés dans les zones où la maladie n'est pas encore établie"
   ],
   "sources": [
-  "Wikipedia – Citrus Canker",
-  "University of Florida IFAS Extension – Citrus Research and Education Center, Lake Alfred, Florida"
-]
+    "Wikipedia – Citrus Canker",
+    "University of Florida Extension IFAS – Centre de recherche et d'éducation sur les agrumes, Lac Alfred, Floride"
+  ]
 }

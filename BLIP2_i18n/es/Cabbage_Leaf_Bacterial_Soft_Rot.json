@@ -1,0 +1,98 @@
+{
+  "disease": "Putrefacción bacteriana blanda de la col",
+  "scientific_name": "Pectobacterium carotovorum (anteriormente Erwinia carotovora)",
+  "pathogen_type": "Bacteria",
+  "description": "La putrefacción blanda bacteriana es una enfermedad destructiva de la col que causa una rápida descomposición de los tejidos vegetales. Las bacterias entran a través de heridas o aberturas naturales y se diseminan rápidamente en condiciones cálidas y húmedas. La enfermedad puede ocurrir en el campo, pero a menudo causa pérdidas graves durante el almacenamiento y transporte.",
+  "symptoms": [
+    "Manchas empapadas de agua en hojas o cabezas de repollo",
+    "Lesiones blandas hundidas que se agrandan rápidamente",
+    "Los tejidos se vuelven blandos, musculosos y húmedos",
+    "Decoloración de crema a marrón o negro",
+    "Filtración líquida de tejidos infectados",
+    "Fuerte olor desagradable podrido",
+    "Hojas, tallos o raíces pueden decaer completamente en infecciones graves"
+  ],
+  "visual_signature": [
+    "pudrición húmeda suave en el tejido de la col",
+    "tejido muscular de las plantas en descomposición",
+    "áreas oscuras de pudrición con fuga de líquido"
+  ],
+  "affected_plant_parts": [
+    "hojas",
+    "vástago",
+    "Cabeza de repollo",
+    "Rábanos rusticanos"
+  ],
+  "hosts": [
+    "Coles",
+    "brócoli",
+    "coliflor",
+    "lechuga",
+    "Patata",
+    "zanahoria",
+    "Cebolla",
+    "pimienta",
+    "tomate",
+    "muchos cultivos vegetales"
+  ],
+  "favorable_conditions": [
+    "temperaturas cálidas (25–30°C)",
+    "alta humedad",
+    "tiempo húmedo",
+    "mala circulación del aire",
+    "heridas de plantas causadas por insectos o herramientas",
+    "bajo calcio en las plantas"
+  ],
+  "spread": [
+    "Residuos vegetales infectados en el suelo",
+    "agua de riego contaminada",
+    "salpicadura de lluvia",
+    "insectos como moscas de gusano",
+    "herramientas contaminadas",
+    "manipulación durante la cosecha y el almacenamiento"
+  ],
+  "management": [
+    "Utilizar material de plantación sano y sin enfermedades",
+    "Manejar las plantas con cuidado para evitar heridas",
+    "Retire y destruya las plantas infectadas inmediatamente",
+    "Rotar los cultivos con plantas no hospedantes durante al menos 3 años",
+    "Evitar el riego por encima del suelo",
+    "Mantener un buen saneamiento sobre el terreno",
+    "Garantizar una nutrición adecuada de las plantas, especialmente el calcio"
+  ],
+  "biological_control": [
+    "Biobactericidas a base de bacillus subtilis",
+    "Pseudomonas fluorescens tratamientos biológicos"
+  ],
+  "chemical_control": [
+    "Oxicloruro de cobre",
+    "Hidróxido de cobre",
+    "bactericidas de sulfato de cobre"
+  ],
+  "example_products": [
+    "Greencop 500WP",
+    "Trinity Gold 452WP",
+    "Colonizador 440WP",
+    "Biodistinción Xtra 700CS",
+    "Pirámide 700WP"
+  ],
+  "prevention": [
+    "Variedades resistentes a las plantas o tolerantes",
+    "Utilizar semillas y plántulas libres de enfermedades",
+    "Evitar las lesiones de las plantas durante el cultivo",
+    "Cosecha en condiciones secas",
+    "Inspeccione las coles antes de almacenarlas",
+    "Mantener las zonas de almacenamiento limpias y secas"
+  ],
+  "storage_management": [
+    "Conservar las coles a 0–4°C (32–39°F)",
+    "Mantener la humedad de almacenamiento alrededor del 90-95%",
+    "Evite almacenar verduras dañadas o infectadas",
+    "Utilice materiales blandos como paja o papel para prevenir lesiones"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Extensión de Patología Vegetal Publicaciones",
+    "Guías de Manejo de Enfermedades Vegetales"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "disease": "የሽያጭ የሽያጭ",
+  "scientific_name": "ፎቶዎች ፎቶዎች",
+  "pathogen_type": "መሳሪያዎች (Lepidoptera pest)",
+  "description": "ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ",
+  "symptoms": [
+    "ቀጥተኛ ፎቶዎች እና ፎቶዎች ላይ ፎቶዎች እና ፎቶዎች",
+    "ፎቶዎች ላይ ፎቶዎች ፎቶዎች ላይ ፎቶዎች",
+    "ፎቶዎች ውስጥ ፎቶዎች ውስጥ ፎቶዎች",
+    "ፎቶዎች ውስጥ ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች",
+    "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች"
+  ],
+  "hosts": [
+    "ፎቶዎች",
+    "የኃይል",
+    "ፎቶዎች",
+    "ደቂቃዎች",
+    "ጥቅል",
+    "ምልክት",
+    "ብረት",
+    "የኦሪጂናል",
+    "ምርቶች"
+  ],
+  "favorable_conditions": [
+    "ሙቀት",
+    "የአውሮፕላኖች",
+    "ቀጣይ ምግብ ምግብ"
+  ],
+  "spread": [
+    "ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ",
+    "የንግድ ገጽ ላይ የተመሠረተ የንግድ ገጽ",
+    "መኖሪያ ቤት መኖሪያ ቤት መኖሪያ ቤት"
+  ],
+  "management": [
+    "ቀጣይ ማረጋገጫ ለ ቀጣይ ማረጋገጫ ለ ቀጣይ ማረጋገጫ",
+    "የንግድ ንድፍ ንድፍ ንድፍ ንድፍ ንድፍ",
+    "የኃይል አቅርቦት የኃይል አቅርቦት",
+    "pheromone ፎቶዎች መቆጣጠሪያ"
+  ],
+  "biological_control": [
+    "የ Trichogramma Parasitic Wasps ይሰጣል",
+    "ጓደኛ እንደ ጓደኛ ጓደኛ ጓደኛ ጓደኛ",
+    "በ Bacillus thuringiensis (Bt) ላይ የተመሠረተ ምርቶች",
+    "እንደ Beauveria bassiana እንደ Entomopathogenic ፎቶዎች"
+  ],
+  "chemical_control": [
+    "ፎቶዎች",
+    "የ Emamectin benzoate",
+    "የ Chlorantraniliprole",
+    "የ Lambda-cyhalothrin",
+    "የ Indoxacarb"
+  ],
+  "prevention": [
+    "ቀጥተኛ መሳሪያዎች ለመፍጠር የፈጠራ መሳሪያዎች",
+    "ምርት Rotation",
+    "የኃይል መቆጣጠሪያ ምርቶች",
+    "የንግድ መሣሪያዎች መቆጣጠር"
+  ],
+  "source": [
+    "የ FAO Fall Armyworm መሳሪያዎች",
+    "የ CABI Invasive Species Compendium ይሰጣል"
+  ]
+}

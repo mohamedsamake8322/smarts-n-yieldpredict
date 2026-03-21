@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "Tomat Meyveleri Blossom-End Rot",
+  "type": "Fizyolojik bozukluklar",
+  "causal_agent": "Kalsiyum eksikliği, düzensiz su tüketimi ile birlikte",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Pirinç ( Capsicum spp )",
+      "Yumurta Bitkileri (Solanum melongena L)"
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "Dünya çapında; değişen toprak nemi veya düşük kalsiyum kullanılabilirliği olan bölgelerde yaygındır",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "Karanlık, boğulmuş yaralanma meyvelerin çiçeklenmiş ucunda",
+      "Yaralanma büyüyebilir, yapraklı hale gelebilir ve meyve kırışıklığına yol açabilir",
+      "İlk olarak genç gelişen meyvelerde görülebilir, çoğu zaman gruplarda",
+      "İç dokular da bozulabilir eğer koşul devam ederse"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "Yapraklarda veya çamurlarda doğrudan belirtiler yoktur; bitkiler genellikle sağlıklı görünür."
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "Yeterli kalsiyum tüketimi meyve üretimi ile",
+    "Sıradışı su geçirmezliği, toprak neminin dalgalanmasına yol açar",
+    "Aşırı bitkisel büyüme aşırı doğurganlık nedeniyle, kök kapasitesi ve meyve talebi arasındaki dengesizlik yaratır",
+    "Yüksek nem, ter ve kalsiyum taşımacılığını azaltır"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "Yetiştirme sırasında toprak nemini bile kontrol edilen sulama veya sulama yoluyla koruyun",
+      "Toprağın nemini korumak ve dalgalanmalarını azaltmak için çamur",
+      "İyi hava dolaşımını sağlamak ve nispeten nemi azaltmak için yeterli alanlama ve çamur sağlamak",
+      "Aşırı nitrojen yağlanmasını önleyin; sadece ılımlı büyümeyi korumak için gerekli durumlarda yan kıyafetler",
+      "Bitki gücünü izlemek, kök ve atış gelişiminin dengesini sağlamak için"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "Kalsiyum nitrat veya kalsiyum klorür (1.5 çorba kaşığı bir galon su + 0.5 çorba kaşığı surfaktant, örneğin, CapSil) haftalık olarak meyveler sırasında",
+      "Fytotoksiklik riskini azaltmak için sabah erken sprey uygulayın.",
+      "Aşırı kalsiyum uygulamalarından kaçının, çünkü gelirleri azaltabilir veya folya hasarına neden olabilir."
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "Konsantrasyonlu kültürel uygulamalar ve kalsiyum kullanılabilirliğine odaklanmak yerine yalnızca folik spreylere güvenmek",
+      "Yetiştirmeden önce toprak kalsiyum seviyelerini izlemek ve toprakları gerektiğinde değiştirmek"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "Brubaker, V. 2016 Kalsiyum: Bir bitkiyi iyi yapar.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. nikel kalsiyum eksikliği koşulları altında bile çiğ köfteyi azaltır; NI-CA etkileşiminin fizyolojik tepkilerinden kanıt. J. Bitki Beslenmesi 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., ve Mohamad, A. 2021. Malezya'da çeşitli yeraltı domates çeşitlerinin büyümesi, üretimi, kalitesi ve yaşam süresi için kalsiyum klorunun folik spreyi önceden yetiştirmek. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
+    "Reitz, N.F., Shackel, K.A., ve Mitcham, E.J. 2021. Tüm bitkiler için uygulanan aşırı kalsiyumun farklılık etkisi vs. domateste çiçek bitkisi üzerinde kesilmiş meyve dokusu. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
   ]
 }

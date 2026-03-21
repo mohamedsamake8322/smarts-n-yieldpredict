@@ -1,0 +1,119 @@
+{
+  "disease": "Roto de fruta de Choanephora",
+  "scientific_name": "Choanephora cucurbitarum",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre de la fruta de Choanephora es una enfermedad fúngica que afecta a los cultivos de cucurbitáceas en climas cálidos y húmedos. El patógeno infecta las flores primero y después se propaga a los frutos, causando una podredumbre acuosa suave.",
+  "common_names": [
+    "podredumbre de frutas",
+    "Putrefacción de la fruta de Choanephora",
+    "flor de cucurbitácea",
+    "La plaga de la flor del melón",
+    "podredumbre húmeda"
+  ],
+  "taxonomy": {
+    "kingdom": "Hongos",
+    "order": "Mucorales",
+    "family": "Choanephoraceae"
+  },
+  "description_short": "Una enfermedad fúngica que causa una rápida y suave pudrición de flores y frutos de cucurbitáceas, especialmente durante condiciones cálidas y húmedas.",
+  "symptoms": [
+    "pudrición acuosa suave en las flores",
+    "Tejido marrón musculoso o translúcido de frutas",
+    "pudrirse a partir del final de la flor de la fruta",
+    "Caída rápida de la fruta en pocos días",
+    "crecimiento fúngico difuso que cubre el tejido infectado",
+    "moho blanco que se vuelve morado o negro",
+    "estructuras fúngicas tipo pinhead en frutas podridas"
+  ],
+  "visual_signature": [
+    "pudrición blanda y blanda en la calabaza o la fruta del pepino",
+    "moho esponjoso blanco que se vuelve morado oscuro o negro",
+    "estructuras de cabeza de alfiler negro en el tejido putrefacto",
+    "podredumbre húmeda translúcida de frutas"
+  ],
+  "affected_plant_parts": [
+    "Flores",
+    "Frutas",
+    "fin de la flor de la fruta",
+    "órganos florales senescentes"
+  ],
+  "plant_family": "Cucurbitaceae",
+  "hosts": [
+    "calabaza",
+    "squash",
+    "zucchini",
+    "sandía",
+    "melón",
+    "luffa",
+    "pepino",
+    "berenjena",
+    "chile",
+    "Habas",
+    "okra",
+    "espinacas",
+    "batata",
+    "mandioca"
+  ],
+  "important_hosts": [
+    "Cucurbita pepo",
+    "Cucurbita maxima",
+    "Citrullus lanatus",
+    "Cucumis melo",
+    "Luffa cilindrica"
+  ],
+  "favorable_conditions": [
+    "alta humedad",
+    "frecuentes precipitaciones",
+    "flores y frutos húmedos",
+    "mala circulación del aire",
+    "temperaturas cálidas superiores a 25°C"
+  ],
+  "spread": [
+    "Esporas dispersadas por el viento",
+    "salpicadura de lluvia",
+    "insectos que transportan esporas",
+    "Residuos vegetales contaminados",
+    "Residuos de cultivos infectados"
+  ],
+  "disease_cycle": [
+    "los hongos sobreviven en los desechos de los cultivos y el suelo",
+    "Las esporas infectan las flores senescentes",
+    "infección se propaga de las flores a los frutos en desarrollo",
+    "hongos producen abundantes esporas en el tejido putrefacto",
+    "Esporas esparcidas por el viento, la lluvia, el riego y los insectos"
+  ],
+  "damage": [
+    "putrefacción rápida de las frutas",
+    "pérdida de frutos de cucurbitáceas comercializables",
+    "Licuefacción de frutas",
+    "pérdidas de rendimiento en cultivos de cucurbitáceas"
+  ],
+  "management": [
+    "eliminar inmediatamente las flores y frutas infectadas",
+    "evitar el riego general",
+    "usar riego por goteo si es posible",
+    "plantas espaciales para una buena circulación del aire",
+    "cosechar los frutos antes de la sobremadurez",
+    "reducir la humedad en invernaderos"
+  ],
+  "cultural_control": [
+    "rotación de cultivos cuando sea posible",
+    "lechos elevados o suelo bien drenado",
+    "mantillo plástico para reducir el contacto con el suelo",
+    "buen saneamiento y eliminación de desechos vegetales"
+  ],
+  "biological_control": [
+    "micoparasito Piptocephalis virginiana informó de suprimir el hongo"
+  ],
+  "chemical_control": [
+    "fungicidas generalmente ineficaces porque las flores se abren continuamente"
+  ],
+  "confusable_diseases": [
+    "Putrefacción de los frutos del Rhizopus"
+  ],
+  "source": [
+    "Extensión de la Universidad de Minnesota",
+    "Publicaciones de investigación sobre patología vegetal",
+    "Guías de manejo de la enfermedad de Cucurbitáceas"
+  ]
+}

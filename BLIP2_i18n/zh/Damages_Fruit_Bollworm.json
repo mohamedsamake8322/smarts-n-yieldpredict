@@ -1,68 +1,68 @@
 {
- "pest": "Fruit Bollworm",
- "scientific_name": "Helicoverpa armigera",
- "pathogen_type": "Insect (Lepidoptera moth larva)",
- "description": "A highly destructive caterpillar pest found in tropical and subtropical regions. The larvae feed on leaves, flowers, and fruits of many crops, especially tomato and cotton, causing major yield losses.",
- "symptoms": [
-  "Small holes on young leaves caused by early larvae feeding",
-  "Small entry holes on fruits, often near the stalk",
-  "Caterpillars feeding inside fruits",
-  "Damaged or mined fruits with internal feeding",
-  "Fruits stop growing, ripen early, and drop from the plant",
-  "Damaged flowers and pierced seed pods in legumes"
- ],
- "hosts": [
-  "Tomato",
-  "Cotton",
-  "Sorghum",
-  "Sweet corn",
-  "Beans",
-  "Soybean",
-  "Tobacco",
-  "Sunflower",
-  "Melon",
-  "Various fruit crops"
- ],
- "favorable_conditions": [
-  "Warm tropical and subtropical climates",
-  "High availability of host crops",
-  "Greenhouse conditions for tomato production"
- ],
- "spread": [
-  "Adult moths laying eggs on leaves and fruits",
-  "Larvae moving between nearby plants",
-  "Migration of adult moths between crop fields"
- ],
- "management": [
-  "Regular monitoring of crops for eggs and young larvae",
-  "Remove and destroy infested fruits",
-  "Use pheromone traps to monitor moth populations",
-  "Encourage natural predators and parasitoids",
-  "Use resistant or tolerant crop varieties when available"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt) bioinsecticide sprays",
-  "Release of parasitoid wasps such as Trichogramma species",
-  "Predators such as lady beetles, lacewings, and birds",
-  "Entomopathogenic fungi like Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Indoxacarb",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin (use with resistance management)"
- ],
- "prevention": [
-  "Crop rotation with non-host crops",
-  "Field sanitation and removal of crop residues",
-  "Use pheromone traps for early detection",
-  "Install insect netting in greenhouses",
-  "Maintain balanced fertilization to avoid excessive plant growth"
- ],
- "source": [
-  "Agricultural pest management guides",
-  "Greenhouse crop protection literature",
-  "Helicoverpa armigera pest management references"
- ]
+  "pest": "水果",
+  "scientific_name": "直升机武装武装直升机",
+  "pathogen_type": "昆虫(白虫飞蛾幼虫)",
+  "description": "在热带和亚热带地区发现了一种具有高度破坏性的毛虫害虫。 幼虫靠树叶、花卉和许多作物,特别是番茄和棉花的水果为生,造成重大的产量损失。",
+  "symptoms": [
+    "幼幼虫早期喂养引起的幼幼叶小洞",
+    "水果的小型入口孔孔,往往靠近尾茎",
+    "在水果里喂食的毛虫",
+    "室内喂养的果子被损坏或开采",
+    "水果停止生长,早熟,从植物里掉下来",
+    "豆类中损坏的花朵和穿孔种子豆"
+  ],
+  "hosts": [
+    "番茄",
+    "棉花棉花",
+    "高 orghum",
+    "甜甜玉米",
+    "豆豆",
+    "豆类",
+    "烟草",
+    "向向日向",
+    "环环",
+    "各种水果作物"
+  ],
+  "favorable_conditions": [
+    "温暖的热带和亚热带气候",
+    "东道作物供应量高",
+    "番茄生产温室条件"
+  ],
+  "spread": [
+    "成人飞蛾在叶子和水果上产卵",
+    "附近工厂之间移动的拉瓦拉瓦",
+    "成年飞蛾在作物田间迁徙"
+  ],
+  "management": [
+    "对鸡蛋和幼幼虫作物进行定期监测",
+    "消灭和毁灭污秽的水果,",
+    "使用pheomone 陷阱来监测飞蛾群",
+    "鼓励自然掠食动物和寄生虫",
+    "如有耐抗性或耐性作物品种,则使用这些品种"
+  ],
+  "biological_control": [
+    "生物杀虫剂喷洒剂",
+    "释放象Trich图图图马物种等寄生虫黄蜂",
+    "捕食者,如蜜蜂、和鸟类等",
+    "象波维利亚贝斯纳这样的致虫性真菌"
+  ],
+  "chemical_control": [
+    "脊柱状",
+    "Emmectin 苯甲酸",
+    "印毒carb",
+    "氯氯化物",
+    "Lambda-cyhalotzrin(抗药性管理使用)"
+  ],
+  "prevention": [
+    "非东道作物作物轮作",
+    "实地环境卫生和作物残留物清除",
+    "使用pheomone 陷阱进行早期检测",
+    "在温室安装昆虫网",
+    "保持平衡的施肥,以避免植物过度生长"
+  ],
+  "source": [
+    "农业虫害防治指南",
+    "温室作物保护文献",
+    "Hellicoverpa Afrikega病虫害管理参考资料"
+  ]
 }

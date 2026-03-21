@@ -1,0 +1,71 @@
+{
+  "disease_name": "Alternaria_Leaf_Spot",
+  "pathogen_type": "Pilze",
+  "genus": "Alternaria",
+  "common_species": [
+    "Alternaria solani",
+    "Alternaria alternata",
+    "Alternaria brassicae",
+    "Alternaria brasicicola",
+    "Alternaria melongenae"
+  ],
+  "affected_crops": [
+    "Tomaten",
+    "Kartoffeln",
+    "Auberginen",
+    "Pfeffer",
+    "Kopfsalat",
+    "Brassica-Pflanzen (Kabber, Brokkoli, Senf)",
+    "Granatäpfel",
+    "Viele Zierpflanzen und Wildpflanzen"
+  ],
+  "symptoms": [
+    "Kleine braune bis schwarze Flecken auf Blättern",
+    "Flecken haben oft konzentrische Ringe, die ein 'zielartiges' Muster bilden",
+    "Gelber Halo um Läsionen",
+    "Läsionen vergrössern und können miteinander verschmelzen",
+    "Blattvergilbung und vorzeitiger Blatttropfen",
+    "Schwere Infektionen können Pflanzenwachstum und Ertrag reduzieren"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (20–30°C)",
+    "Hohe Luftfeuchtigkeit oder verlängerte Blattnässe",
+    "Häufige Regen- oder Overheadbewässerung",
+    "Vorhandensein von infizierten Pflanzenresten"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt in infizierten Pflanzenresten, Samen und Unkraut",
+    "Sporen werden auf infizierten Geweben hergestellt",
+    "Sporen, die sich durch Wind, Regenspritzer, Bewässerungswasser und Werkzeuge ausbreiten",
+    "Infektion tritt auf, wenn Sporen auf nassen Blättern landen",
+    "Mehrere Infektionszyklen können während einer Wachstumsperiode auftreten"
+  ],
+  "monitoring": [
+    "Prüfen Sie regelmäßig Blätter für braune oder schwarze Flecken",
+    "Suchen Sie nach konzentrischen Ringmustern auf Läsionen",
+    "Überwachung der Feuchtigkeit und Temperaturbedingungen günstig für die Krankheit"
+  ],
+  "management": {
+    "cultural": [
+      "Verwendung von zertifiziertem krankheitsfreiem Saatgut und Pflanzmaterial",
+      "Üben Sie Fruchtfolge mit Nicht-Host-Pflanzen",
+      "Entfernen und zerstören infizierte Pflanzenabfälle nach der Ernte",
+      "Verbesserung der Luftzirkulation durch richtigen Pflanzenabstand und Beschnitt",
+      "Vermeiden Sie die Bewässerung über Kopf, wenn möglich"
+    ],
+    "chemical": [
+      "Schutzfungizide wie Mancozeb anwenden",
+      "Verwendung von Fungiziden auf Chlorothalonil-Basis",
+      "Kupferhaltige Fungizide können helfen, die Ausbreitung von Krankheiten zu reduzieren",
+      "Rotieren Sie Fungizide mit verschiedenen FRAC-Gruppen, um Resistenzen zu vermeiden"
+    ],
+    "biological": [
+      "Verwenden Sie biologische Kontrollmittel wie Bacillus subtilis Formulierungen",
+      "Ermutigen Sie wohltuende Mikroorganismen, die Pilzerreger unterdrücken"
+    ]
+  },
+  "impact": {
+    "crop_loss": "Mäßig bis schwer je nach Umweltbedingungen und Anfälligkeit der Pflanzen",
+    "economic_importance": "Häufige Krankheiten in vielen Gemüsepflanzen weltweit, die Ertrag und Qualität deutlich reduzieren können"
+  }
+}

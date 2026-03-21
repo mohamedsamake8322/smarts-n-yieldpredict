@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
-  "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "disease": "Ka Kasance Mai Gaskiya",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Raɓa tana da ban dariya kuma tana sa ta yi sanyi sosai. A wasu lokatai, tana sa ta yi yaushi ta yi yaushi kuma tana sa ta yi yaushi.",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "Sai su motsar da ƙũra game da shi.",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Ana iya fitar da ƙwayoyin cuta da aka shigar da su daga Waɗanda ba su dace ba",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Media controller element",
+    "@ action"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
-    "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QXml",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 2 - LongDayName",
+    "Ethiopian weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Mukan cika sa'o'i da yawa",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "KCharselect unicode block name",
+    "Media controller element",
+    "A wurin da magaryar tuƙẽwa take.",
+    "@ action"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "Yi Tsayayya da Matsi na Tsarawa",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "KCharselect unicode block name",
+    "Media controller element",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "Ana amfani da maganin ƙwayoyin cuta da ake amfani da su a matsayin laya",
+    "KCharselect unicode block name"
   ],
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Tebuconazole",
-    "Propiconazole",
-    "Azoxystrobin",
-    "Myclobutanil"
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "KCharselect unicode block name",
+    "Ka Guji Yin Saurin Jumma'a",
+    "Sao'i masu yawa suna shuki sosai bayan sun gama girbi",
+    "Yi Amfani da Cin Nasara Sosai a Yin Tsayayya da Haɗin Kai",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "@ item Text character set",
+    "' Yan Adam Suna Yi wa Mutane Ja - gora",
+    "@ item Text character set"
   ]
 }

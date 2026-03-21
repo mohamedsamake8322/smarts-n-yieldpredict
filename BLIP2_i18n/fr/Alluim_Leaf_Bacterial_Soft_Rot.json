@@ -1,72 +1,72 @@
 {
- "disease": "Soft Rot of Allium",
- "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
- "pathogen_type": "Bacteria",
- "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
- "symptoms": [
-  "Young leaves become pale, bleached and wilted",
-  "Soft watery rot of bulb scales",
-  "Yellow discoloration of infected tissues",
-  "Brown streaks inside bulbs",
-  "Entire bulb becomes soft and rotten",
-  "Bad-smelling viscous fluid oozing from the neck of bulbs"
- ],
- "hosts": [
-  "Onion",
-  "Shallot",
-  "Garlic",
-  "Leek",
-  "Chive",
-  "Spring onion",
-  "Other Allium species"
- ],
- "favorable_conditions": [
-  "Heavy rainfall",
-  "Waterlogged or poorly drained soil",
-  "Wounds on bulbs or leaves",
-  "Warm temperatures between 20 and 30°C",
-  "High humidity during storage"
- ],
- "spread": [
-  "Infected planting material",
-  "Contaminated soil",
-  "Crop residues",
-  "Rain splash and irrigation water",
-  "Insects",
-  "Mechanical injuries during field operations"
- ],
- "management": [
-  "Use certified disease-free planting material",
-  "Avoid injuries during planting and harvest",
-  "Use drip irrigation instead of overhead irrigation",
-  "Allow onion tops to mature before harvest",
-  "Remove and destroy infected plants",
-  "Maintain balanced fertilization",
-  "Store bulbs at low temperature and moderate humidity",
-  "Use tolerant cultivars"
- ],
- "biological_control": [
-  "Encourage beneficial soil microbes through organic matter management",
-  "Use biological control agents such as Bacillus-based biofungicides",
-  "Improve soil health to suppress bacterial pathogens"
- ],
- "chemical_control": [
-  "Copper-based bactericides such as copper hydroxide",
-  "Kocide 2000",
-  "Mankocide",
-  "Copper sprays applied regularly to slow disease development"
- ],
- "prevention": [
-  "Plant certified pathogen-free bulbs or seeds",
-  "Avoid waterlogging in fields",
-  "Disinfect tools and equipment",
-  "Remove crop debris after harvest",
-  "Store bulbs at about 4°C with 65–70% relative humidity",
-  "Avoid excessive nitrogen fertilization and maintain adequate calcium levels"
- ],
- "source": [
-  "Plant Research International, Wageningen",
-  "IVEGRI Indonesia",
-  "Van der Wolf & Duriat – Soft rot diseases in Allium"
- ]
+  "disease": "Rotation douce de l'allium",
+  "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi et bactéries apparentées",
+  "pathogen_type": "Bactéries",
+  "description": "Une maladie bactérienne qui provoque la pourriture molle et aqueuse des bulbes dans les cultures d'oignon et d'autres allium. Il apparaît souvent près de la récolte ou pendant l'entreposage et produit une décroissance de l'odeur.",
+  "symptoms": [
+    "Les jeunes feuilles deviennent pâles, blanchies et flétries",
+    "Pourriture aqueuse douce des écailles de bulbes",
+    "Décoloration jaune des tissus infectés",
+    "Traînées brunes à l'intérieur des ampoules",
+    "Toute l'ampoule devient molle et pourrie",
+    "Mauvaise odeur visqueuse fluide oozing du cou des bulbes"
+  ],
+  "hosts": [
+    "Oignon",
+    "Échalote",
+    "Aile",
+    "Fuite",
+    "Poêle",
+    "Oignon de printemps",
+    "Autres espèces d'allium"
+  ],
+  "favorable_conditions": [
+    "Fortes précipitations",
+    "Sols arrosés ou mal drainés",
+    "Blessures sur les ampoules ou les feuilles",
+    "Températures chaudes entre 20 et 30°C",
+    "Humidité élevée pendant le stockage"
+  ],
+  "spread": [
+    "Matériel de plantation infecté",
+    "Sol contaminé",
+    "Résidus végétaux",
+    "Eau de pluie et d'irrigation",
+    "Insectes",
+    "Blessures mécaniques pendant les opérations sur le terrain"
+  ],
+  "management": [
+    "Utiliser du matériel de plantation certifié exempt de maladies",
+    "Éviter les blessures lors de la plantation et de la récolte",
+    "Utiliser l'irrigation goutte à goutte au lieu de l'irrigation aérienne",
+    "Laisser mûrir le dessus de l'oignon avant la récolte",
+    "Enlever et détruire les plantes infectées",
+    "Maintenir une fertilisation équilibrée",
+    "Entreposer les ampoules à basse température et à humidité modérée",
+    "Utiliser des cultivars tolérants"
+  ],
+  "biological_control": [
+    "Encourager les microbes bénéfiques du sol grâce à la gestion des matières organiques",
+    "Utiliser des agents de lutte biologique tels que les biofongicides à base de Bacillus",
+    "Améliorer la santé du sol pour supprimer les pathogènes bactériens"
+  ],
+  "chemical_control": [
+    "bactéricides à base de cuivre tels que l'hydroxyde de cuivre",
+    "Kocide 2000",
+    "Mankocide",
+    "pulvérisateurs en cuivre appliqués régulièrement pour ralentir le développement des maladies"
+  ],
+  "prevention": [
+    "Ampoules ou semences certifiées sans agent pathogène",
+    "Éviter l'engorgement dans les champs",
+    "Désinfecter les outils et l'équipement",
+    "Enlever les débris végétaux après la récolte",
+    "Conserver les ampoules à environ 4°C avec une humidité relative de 65 à 70 %",
+    "Éviter la fertilisation excessive de l'azote et maintenir des niveaux de calcium adéquats"
+  ],
+  "source": [
+    "Recherche sur les plantes, Wageningen",
+    "IVEGRI Indonésie",
+    "Van der Wolf & Duriat – Maladies dues à la pourriture molle en Allium"
+  ]
 }

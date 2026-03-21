@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
-  "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "description": "' Ya'yan itace suna shan giya mai ɓarna sosai, suna iya kashe ƙwayoyin cuta a dukan duniya.",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
-    "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
-    "Pumpkin (Cucurbita spp.)",
-    "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "@ item Spelling dictionary",
+    "@ item Spelling dictionary",
+    "MGBOKO UMUORIA 8 (Igbo)",
+    "KCharselect unicode block name",
+    "Wasu shuke - shuke da aka haɗa da su"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "An haifi ' ya'ya: An yi ruwa da ruwan sama a kan wani irin kifi da ake kira Niba da kuma ruwan sama don a halaka shi kuma a ta da matattu",
+    "Sun bar ni kuma suka ce: \"An yi amfani da abubuwan da aka samo daga cikin ruwan sama da kuma ruwan inabi da ake amfani da su don a yi amfani da su a wannan garin.",
+    "Sau da yawa ' yan sanda suna yaɗa bishara a tsakiyar jama'a",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Ba da ' ya'ya sun zama ruwan dare gama gari, kuma hakan yana sa mutane su daina bauta wa Jehobah",
+    "' Yan sanda sun yarda a sake ta da wata hanya dabam",
+    "' Ya'yan itace da yawa za su iya shuka iri"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "Ana iya samun ƙwayoyin cuta ta wurin ƙwayoyin cuta",
+    "Idan aka yi ruwan sama, za a iya tsira a ciki na shekaru da yawa",
+    "Da farko, ana yin amfani da ruwan sama don kada a yi amfani da shi a matsayin ma'adanar kayayyakin",
+    "Idan iri ya fito, sai ya yi girma sosai",
+    "Daga baya, sai ta sami ' ya'yan itacen da ke kama da ' ya'yan itacen da ke kama da ' ya'yan itacen da ke kusa da teku.",
+    "Sau da yawa, ana soma yin amfani da lokacin kaka, kusa da kaka, kuma hakan yana sa ka yi jinkirin yin girbi da kuma kafofin yaɗa labarai",
+    "A cikin ' ya'yan itace suna iya sake sababbin iri, kuma su ci gaba da rayuwa"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "@ item Text character set",
+    "QShortcut",
+    "Mãsu duhun inuwa.",
+    "Zane-Zane",
+    "KCharselect unicode block name"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "Yi Amfani da hanyar da ba ta dace ba",
+    "Halin rashin lafiya Yana gwada koshin lafiya",
+    "Ku Ci Gaba da Ƙarfafa Masu Kula Masu Kyau da Ma'aikata Masu Ban Al'ajabi",
+    "Ka guje wa shuka iri awa",
+    "KCharselect unicode block name",
+    "Media controller element"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "Za a iya yin amfani da abubuwan da ba su dace ba don a rage nauyin da ake samu don a rage koshin lafiya",
+    "Ba za mu iya kame kanmu da kyau ba",
+    "Shiryoyin Ayuka"
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "@ item Text character set",
+    "Ana ci gaba da bincike don a gano ma'anar kayayyakin tarihi mai kyau"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "Akwai wani tsari na kasuwanci da ke kawo hamayya mai tsanani a yanzu",
+    "Wasu masu zane - zane masu ruwan sha da kuma ni'ima sun nuna rashin son kai",
+    "Tsarin cin gaba na tsarin ayyuka na addini ya ci gaba da neman taimako don tsayayya wa abin da ba shi da amfani"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "KCharselect unicode block name",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Ka jarraba zane - zane da aka yi kafin ka yi shuki"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "Sao'i masu yawa don su hana yaɗa bishara",
+    "Ka yi amfani da zafi da aka yi wa iri (a shekara ta 3 kaina) don ka rage yawan wutar lantarki",
+    "Ana tsabtace tsabta ta wajen yin kala da kayan aiki da kuma kayan aiki",
+    "Sabõda haka ku nĩsanci ƙazanta daga gumãka kuma ku nĩsanci ƙazanta daga shaidar zur."
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "KCharselect unicode block name"
   ]
 }

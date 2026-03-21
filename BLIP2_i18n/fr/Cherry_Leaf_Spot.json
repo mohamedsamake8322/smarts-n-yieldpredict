@@ -1,104 +1,88 @@
 {
-  "disease": "Cherry Leaf Spot",
+  "disease": "Spot de feuille de cerise",
   "scientific_name": "Blumeriella jaapii",
-  "pathogen_type": "Fungus",
-
-  "description": "Cherry leaf spot is a fungal disease affecting cherry trees, especially in humid or rainy regions. It causes small purple or brown spots on leaves that enlarge over time. Severe infections lead to yellowing and premature leaf drop, reducing fruit quality and yield.",
-
+  "pathogen_type": "Champignons",
+  "description": "La tache de feuilles de cerise est une maladie fongique qui affecte les cerisiers, surtout dans les régions humides ou pluvieuses. Elle provoque de petites taches pourpres ou brunes sur les feuilles qui s'élargissent au fil du temps.",
   "symptoms": [
-    "small purple, brown or tan spots on leaves",
-    "irregular or circular lesions across leaf surface",
-    "center of spots may dry and fall out creating holes",
-    "leaves turn yellow and drop prematurely",
-    "cream-colored fungal spore masses on underside of leaves",
-    "fruit may develop spots and become soft",
-    "infected fruit stems may cause fruit drop"
+    "petites taches pourpre, brunes ou bronzées sur les feuilles",
+    "lésions irrégulières ou circulaires à la surface des feuilles",
+    "centre des taches peut sécher et tomber en créant des trous",
+    "les feuilles deviennent jaunes et tombent prématurément",
+    "masses de spores fongiques de couleur crème sur le dessous des feuilles",
+    "Les fruits peuvent développer des taches et devenir mous",
+    "Les tiges de fruits infectées peuvent provoquer une chute de fruits"
   ],
-
   "visual_signature": [
-    "numerous small purple or brown spots on cherry leaves",
-    "yellowing leaves with scattered lesions",
-    "holes in leaves after tissue falls out",
-    "cream-colored spore clusters on leaf underside"
+    "de nombreuses petites taches pourpres ou brunes sur les feuilles de cerise",
+    "feuilles jaunissantes avec des lésions éparpillées",
+    "trous dans les feuilles après la chute des tissus",
+    "Clusters de spores de couleur crème sur le dessous des feuilles"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "fruit stems",
-    "fruit (occasionally)"
+    "feuilles",
+    "tiges de fruits",
+    "Fruits (occasionnels)"
   ],
-
   "hosts": [
-    "sweet cherry",
-    "sour cherry"
+    "Cerise douce",
+    "Cerise aigre"
   ],
-
   "plant_family": "Rosaceae",
-
   "important_hosts": [
     "Prunus avium",
     "Prunus cerasus"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "wet leaves",
-    "frequent rainfall",
-    "cool to moderate temperatures"
+    "humidité élevée",
+    "Feuilles humides",
+    "pluies fréquentes",
+    "températures froides à modérées"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "infected fallen leaves"
+    "spores dispersées par le vent",
+    "éclaboussure de pluie",
+    "feuilles tombées infectées"
   ],
-
   "disease_cycle": [
-    "fungus overwinters on fallen infected leaves",
-    "spores produced during wet weather",
-    "wind or rain spreads spores to new leaves",
-    "infection occurs whenever leaves remain wet",
-    "disease spreads repeatedly during the growing season"
+    "le champignon hiverne sur les feuilles infectées tombées",
+    "spores produites par temps humide",
+    "le vent ou la pluie propage des spores à de nouvelles feuilles",
+    "l'infection se produit chaque fois que les feuilles restent humides",
+    "la maladie se propage à plusieurs reprises pendant la saison de croissance"
   ],
-
   "damage": [
-    "premature leaf drop",
-    "reduced photosynthesis",
-    "poor fruit quality",
-    "soft fruit",
-    "reduced fruit yield the following season"
+    "goutte foliaire prématurée",
+    "photosynthèse réduite",
+    "Mauvaise qualité des fruits",
+    "Fruits tendres",
+    "rendement réduit des fruits la saison suivante"
   ],
-
   "management": [
-    "remove and destroy fallen leaves",
-    "clean infected plant debris under trees",
-    "apply mulch to reduce soil splash",
-    "prune trees to improve air circulation",
-    "monitor trees during wet seasons"
+    "enlever et détruire les feuilles tombées",
+    "Débris de plantes infectés propres sous les arbres",
+    "appliquer le paillis pour réduire les éclaboussures du sol",
+    "des pruneaux pour améliorer la circulation de l'air",
+    "surveiller les arbres pendant les saisons humides"
   ],
-
   "organic_treatment": [
-    "spray sulfur fungicide",
-    "apply neem oil",
-    "baking soda spray solution"
+    "fongicide vaporisateur de soufre",
+    "appliquer l'huile de neem",
+    "solution de pulvérisation de soude à pâte"
   ],
-
   "chemical_control": [
-    "copper-based fungicides",
-    "protective fungicide sprays during wet periods"
+    "fongicides à base de cuivre",
+    "pulvérisateurs de fongicides protecteurs pendant les périodes humides"
   ],
-
   "prevention": [
-    "good orchard sanitation",
-    "regular pruning for airflow",
-    "early fungicide application during rainy seasons"
+    "bon assainissement des vergers",
+    "taille régulière pour le débit d'air",
+    "application précoce de fongicides pendant les saisons pluvieuses"
   ],
-
   "source": [
     "University of California Integrated Pest Management",
-    "University of Minnesota Extension",
-    "Ohio State University Extension",
-    "Pacific Northwest Extension",
-    "The Holistic Orchard"
+    "Université du Minnesota Extension",
+    "Extension de l'université d'État de l'Ohio",
+    "Prolongation du Pacifique Nord-Ouest",
+    "Le verger holistique"
   ]
 }

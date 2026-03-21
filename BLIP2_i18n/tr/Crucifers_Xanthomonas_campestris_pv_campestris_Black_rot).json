@@ -1,74 +1,74 @@
 {
   "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
-  "common_name": "Black rot of crucifers",
+  "common_name": "Haçlıların Siyah Çubukları",
   "scientific_name": "Xanthomonas campestris pv. campestris",
-  "pathogen_type": "Bacterium",
-  "description": "Black rot is a serious bacterial disease affecting cruciferous crops. It is caused by the bacterium Xanthomonas campestris pv. campestris and spreads mainly through infected seeds, plant debris, water splash, and contaminated tools. The pathogen enters plants through hydathodes at the leaf margins or through wounds, then spreads through the vascular system, causing characteristic blackened veins and leaf necrosis.",
+  "pathogen_type": "Bakteriler",
+  "description": "Black rot, çarmıha gerilen bitkileri etkileyen ciddi bir bakteriyel hastalıktır. Xanthomonas campestris pv. campestris bakterisinden kaynaklanır ve çoğunlukla enfekte tohumlar, bitki çöpleri, su kaynağı ve kirlenmiş araçlar aracılığıyla yayılır. Patogen, yaprak kenarlarında hidatodlar aracılığıyla bitkilere girer veya yaralar aracılığıyla yayılır, daha sonra vasküler sistem aracılığıyla yayılır, karakteristik siyahlaştırılmış damarlar ve yaprak nekrosisine neden olur.",
   "hosts": [
-    "Cabbage",
-    "Broccoli",
+    "Cabbage için",
+    "brokoli",
     "Cauliflower",
-    "Brussels sprouts",
+    "Brüksel çarpışma",
     "Kale",
-    "Radish",
-    "Turnip",
-    "Mustard",
-    "Other cruciferous crops (Brassicaceae family)"
+    "Radikal",
+    "Turnuva",
+    "Mustard Hakkında",
+    "Diğer çarmıha gerilen bitkiler (Brassicaceae ailesi)"
   ],
   "symptoms": [
-    "Yellow V-shaped lesions starting from leaf margins",
-    "Lesions progressing toward the center of the leaf",
-    "Blackening of leaf veins",
-    "Leaf wilting and necrosis",
-    "Stunted plant growth",
-    "Severe infections may cause plant death"
+    "Sarı V şeklinde yaralanmalar, yaprak marjlarından başlar",
+    "Yaprakların merkezine doğru ilerleyen yaralanmalar",
+    "Sıvı damarların siyahlaşması",
+    "Çiğ köfte ve necrosis",
+    "Bitki büyümesi bekleniyor",
+    "Ağır enfeksiyonlar bitki ölümüne neden olabilir"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall or overhead irrigation",
-    "Presence of infected seeds",
-    "Mechanical injuries on plants"
+    "Sıcak sıcaklıklar (25-30°C)",
+    "Yüksek nem",
+    "sıklıkla yağmur ya da aşırı sulama",
+    "Enfekte tohumların varlığı",
+    "Bitkilerde Mekanik Yaralanmalar"
   ],
   "management": {
     "monitoring": [
-      "Regular field scouting for V-shaped lesions on leaves",
-      "Inspection of seedlings and young plants",
-      "Monitoring fields after periods of rain or high humidity"
+      "V şekli hasarlar için düzenli alan taraması",
+      "Yetiştiricilerin ve genç bitkilerin incelenmesi",
+      "Yağmur veya yüksek nemli dönemlerden sonra izleme alanları"
     ],
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Practice crop rotation for at least 3–4 years",
-      "Remove and destroy infected plant residues",
-      "Avoid overhead irrigation to reduce leaf wetness",
-      "Disinfect agricultural tools and equipment",
-      "Plant resistant or tolerant varieties when available"
+      "Sertifikalı hastalık dışı tohumlar kullanın",
+      "En az 3-4 yıl boyunca bitki dönüşü uygulayın",
+      "Enfekte bitki kalıntılarının kaldırılması ve yok edilmesi",
+      "Yaprak ıslaklığı azaltmak için aşırı sulama önlemek",
+      "Tarım aletleri ve ekipmanları dezenfekte etmek",
+      "Mevcut olduğunda dayanıklı veya toleranslı bitki çeşitleri"
     ],
     "biological_control": {
       "microorganisms": [
-        "Bacillus subtilis",
-        "Bacillus amyloliquefaciens",
-        "Pseudomonas fluorescens"
+        "Bacillus Subtilisi",
+        "Bacillus amyloliquefaciens Hakkında",
+        "Pseudomonas Fluoresenç"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control of bacterial diseases is limited. Copper-based bactericides are commonly used as preventive treatments.",
+      "note": "Bakteriyel hastalıkların kimyasal kontrolü sınırlıdır. bakır tabanlı baktericidler genellikle önleyici tedaviler olarak kullanılır.",
       "active_ingredients": [
-        "Copper hydroxide",
-        "Copper oxychloride",
-        "Copper sulfate"
+        "bakır hidroksit",
+        "bakır oksiklorid",
+        "bakır sülfat"
       ]
     }
   },
-  "economic_importance": "Black rot can cause significant yield losses in cruciferous crops worldwide. Severe infections may destroy entire fields, particularly in warm and humid climates where the disease spreads rapidly.",
+  "economic_importance": "Dünya çapında çarmıha gerilen bitkilerde önemli hasar kaybına neden olabilir. şiddetli enfeksiyonlar, hastalığın hızlı bir şekilde yayıldığı sıcak ve ıslak iklimlerde özellikle tüm alanları yok edebilir.",
   "references": [
-    "Agrios, G. N. Plant Pathology.",
-    "CABI Crop Protection Compendium.",
-    "FAO Integrated Pest Management resources.",
-    "Wikipedia – Black rot of crucifers."
+    "Agrios, G. N. Bitki Patolojisi",
+    "CABI Bitki Koruma Kompensasyonu.",
+    "FAO Entegre Pest Yönetimi Kaynakları.",
+    "Wikipedia - Haçlıların Siyah Çubukları."
   ],
   "source_urls": [
     "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
-    "https://www.cabi.org"
+    "HTTPS://www.cabi.org için"
   ]
 }

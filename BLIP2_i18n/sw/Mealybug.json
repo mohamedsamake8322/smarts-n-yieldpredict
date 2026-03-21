@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "Mwisho wa",
+  "scientific_name": "Familia ya Pseudococcidae",
+  "pest_type": "Wanyama",
+  "description": "Mealybugs ni wanyama wadogo ambao huchukuliwa na mbolea ya waxy ya kijani. Wao huathiri matunda mengi na mimea ya mazao, kuharibu mimea na kuunda mimea ya nyama ambayo inaongoza kwa ukuaji wa nyama.",
+  "symptoms": [
+    "Baadhi ya mbolea kama mbolea ya kijani kwenye tiketi, nyama, au matunda",
+    "Mchakato wa nyama kwenye mbolea za mimea",
+    "Picha ya Black Sooty ya kukua juu ya Honeydew",
+    "Picha ya Yellowing au Curling",
+    "Kuanzisha ukuaji wa mimea",
+    "Mchakato wa mapema huanguka katika maambukizi makubwa"
+  ],
+  "hosts": [
+    "ya Citrus",
+    "ya Grapevine",
+    "Banana ya",
+    "Papa ya",
+    "ya Pineapple",
+    "Kawaida",
+    "Kaskazini",
+    "Maua ya Sugar",
+    "Maua ya jua",
+    "ya orchids",
+    "ya Cactus",
+    "Mimea ya bahari na mazao ya greenhouse"
+  ],
+  "favorable_conditions": [
+    "Hali ya hewa na ya hewa",
+    "Mimea ya dhahabu au hali ya hewa",
+    "Maana ya matunda ya kuhifadhi matunda ya matunda",
+    "Ukosefu wa uchawi wa asili"
+  ],
+  "spread": [
+    "Mabadiliko ya vifaa vya matunda ya mimea",
+    "Rangi au wanyama wanaoendesha wanyama",
+    "kuhifadhi na kuhifadhi misitu"
+  ],
+  "damage": [
+    "Uharibifu wa mimea kutokana na chakula cha safi",
+    "Uhamiaji wa virusi za mimea katika baadhi ya mimea",
+    "Kupunguza uzalishaji na ukuaji wa mimea",
+    "Utengenezaji wa muundo wa nguruwe juu ya honeydew"
+  ],
+  "biological_control": [
+    "Mchakato wa Mchakato wa Mchakato wa Mchakato wa Mchakato (Cryptolaemus montrouzieri)",
+    "Wanyama wa kijani (Chrysopidae)",
+    "Wapiganaji wapiganaji wapiganaji wapiganaji",
+    "Kuimarisha wanyama wa asili kwa kupunguza insecticides nyingi"
+  ],
+  "chemical_control": [
+    "Wanyama wa Pyrethroid kama vile permethrin, bifenthrin, au cyfluthrin",
+    "Mafuta ya wanyama au mafuta ya kulevya",
+    "Maumivu ya mfumo wakati infestations ni ngumu"
+  ],
+  "prevention": [
+    "Kuanzisha mimea mara kwa mara kwa ajili ya matibabu mapema",
+    "Ulinzi wa mbegu ambayo hutoa mbegu za chakula",
+    "Kuondoa sehemu ya mimea ya kuvutia",
+    "Kuepuka mbolea ya nitrogen",
+    "Kutumia vifaa vya kutosha vya kupanda"
+  ],
+  "source": [
+    "Maandishi ya Kirusi kuhusu Pseudococcidae",
+    "Utawala wa mbegu za kilimo",
+    "Maelezo ya Wikipedia - Mealybug"
+  ]
 }

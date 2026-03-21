@@ -1,85 +1,85 @@
 {
-  "pest_name": "Cotton_Adult_Bollworm",
-  "common_name": "Cotton bollworm",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_type": "Insect",
-  "description": "Cotton bollworm (Helicoverpa armigera) is a highly destructive agricultural pest widely distributed across Africa, Europe, Asia, Australia, and South America. The adult moth itself does not directly damage crops, but it lays eggs on host plants. The larvae that emerge feed on leaves, buds, flowers, fruits, and seeds of many economically important crops. Due to its high reproductive capacity and strong migratory ability, this pest can spread rapidly and produce multiple generations per year in warm climates.",
+  "pest_name": "Cottom_Adult_Ballikon 棉",
+  "common_name": "棉花虫",
+  "scientific_name": "直升机武装武装直升机",
+  "pest_type": "昆虫",
+  "description": "棉花虫(Helicoverpa afrigera)是在非洲、欧洲、亚洲、澳大利亚和南美洲广泛分布的具有高度破坏性的农业虫害。 成年飞蛾本身并不直接破坏作物,但它在宿主植物上产卵。 幼虫靠树叶、芽子、花卉、水果和许多重要经济作物的种子为生。 由于繁殖能力高,移徙能力强,这种虫害可以迅速蔓延,并在温暖的气候中每年产生数代人。",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "棉花棉花",
+    "番茄",
+    "成熟",
+    "恰克比亚",
+    "梨",
+    "大米稻米",
+    "高 orghum",
+    "考比亚",
+    "豆类",
+    "马铃薯",
+    "奥克拉",
+    "青豆",
+    "烟草"
   ],
   "symptoms": [
-    "Holes in leaves and flowers",
-    "Larvae boring into fruits or pods",
-    "Premature fruit or flower drop",
-    "Damaged cotton bolls producing poor quality lint",
-    "Presence of frass and feeding tunnels in fruits or grains"
+    "树叶和鲜花的洞洞",
+    "荒凉无味于水果或豆类",
+    "早产水果或花朵",
+    "造成质量低劣的破棉布",
+    "水果或谷物中存在裂谷和进食隧道"
   ],
   "life_cycle": {
-    "eggs": "Yellowish-white eggs laid on leaves, buds, flowers, or fruits. Eggs hatch within 3–11 days.",
-    "larvae": "Larvae feed for 19–36 days through several instars and cause the main plant damage.",
-    "pupae": "Pupation occurs in the soil or plant debris; pupae can overwinter in colder climates.",
-    "adult": "Adult moths are light brown with a wingspan of about 3.5–4 cm. Adults live around 10 days and females can lay hundreds to thousands of eggs."
+    "eggs": "黄白蛋产于叶子、芽子、鲜花或水果上。 鸡蛋在3-11天内孵化。",
+    "larvae": "通过几颗恒星喂食19至36天,造成主要厂房损坏。",
+    "pupae": "在土壤或植物残渣中发生潮湿;在寒冷的气候中,小熊可过冬。",
+    "adult": "成年飞蛾是浅棕色的,翅膀宽约3.5至4厘米。 成年人约活10天,雌性可以产下成百上千个鸡蛋。"
   },
-  "economic_significance": "The pest causes severe yield losses in cotton, tomato, maize, chickpea, and other crops. Larvae attack reproductive plant parts and reduce yield and quality. Damage can also allow secondary fungal and bacterial infections.",
+  "economic_significance": "害虫在棉花、番茄、玉米、小鸡pea和其他作物中造成严重的产量损失,大鼠攻击育种植物部分,降低产量和质量,损害还可能导致二次真菌和细菌感染。",
   "management": {
     "monitoring": [
-      "Regular field scouting for eggs and larvae",
-      "Use pheromone traps to detect adult moth activity",
-      "Monitor plant damage in buds, fruits, and flowers"
+      "对卵和幼虫进行常规野外侦察",
+      "使用pheomone 陷阱检测成人飞蛾活动",
+      "监测花芽、水果和花卉的植物损害"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of crop residues and weeds",
-      "Deep ploughing after harvest to destroy pupae",
-      "Use of trap crops such as sunflower or marigold"
+      "非东道作物作物轮作",
+      "作物残留物和杂草的清除",
+      "收割后深入耕种,以摧毁小狗",
+      "使用向日葵或金刚石等陷阱作物"
     ],
     "mechanical_control": [
-      "Handpicking and destroying eggs and larvae",
-      "Removing infested fruits and plant parts",
-      "Installing pheromone or light traps"
+      "手工挑选和销毁鸡蛋和幼虫",
+      "清除渗入的水果和植物部件",
+      "安装荧光或光装置"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting lepidopteran larvae",
-        "Isaria fumosorosea"
+        "Helicoverpa nucleopopolyhedro病毒(HANPV)",
+        "以幼虫为攻击目标的Baculo病毒物种",
+        "海岛"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "敌百虫黄蜂(Egg 寄生虫黄蜂)",
+        "Habrobracon 教唆者(幼寄生虫)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used within an Integrated Pest Management strategy and only when pest populations exceed economic thresholds.",
+      "note": "应在综合虫害管理战略范围内使用化学杀虫剂,而且只有在害虫人口超过经济阈值时才使用。",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "脊柱状",
+        "Emmectin 苯甲酸",
+        "印毒carb",
+        "Lambda-cyhalotsrin(辛巴威辛)",
+        "氯氯化物"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "维基百科的撰稿人 维基百科自由百科全书",
+    "CABI 作物保护简编 — Helicoverpa afrigera。",
+    "粮农组织虫害综合管理准则。",
+    "植物知识银行-害虫管理建议。"
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
-    "https://www.cabi.org"
+    "http://en.wikipedia.org/wiki/Helicoverpa_armigera https://en.wikipedia.org/wiki/Helicoverpa_armigera https://en.wikipedia.org/wiki/Helicoverpa_armigera/",
+    "http://www.cabi.org"
   ]
 }

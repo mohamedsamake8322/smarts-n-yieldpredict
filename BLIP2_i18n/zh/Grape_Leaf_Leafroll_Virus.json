@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "Grapevine 叶风疾病",
+  "scientific_name": "Grapevine叶叶相关病毒(GLRAVs)",
+  "pathogen_type": "病毒病毒",
+  "description": "葡萄的病毒性疾病降低了产量和水果质量。 它导致叶子滚动、变色和贫瘠的葡萄成熟。",
+  "symptoms": [
+    "叶子从边缘向下滚动",
+    "红叶或红叶或红紫叶",
+    "白种黄叶",
+    "绿色静脉仍然可见",
+    "水果成熟时间推迟",
+    "葡萄糖含量减少"
+  ],
+  "hosts": [
+    "Grapevine (维尼菲拉病毒)",
+    "表葡萄",
+    "葡萄酒",
+    "脊髓灰炎物种"
+  ],
+  "favorable_conditions": [
+    "存在百虫和规模昆虫",
+    "使用感染感染的种植材料"
+  ],
+  "spread": [
+    "计算错误",
+    "软尺寸昆虫",
+    "受感染切切切手术"
+  ],
+  "management": [
+    "清除已感染的藤蔓",
+    "控制虫虫和大小昆虫",
+    "使用核证的无病毒种植材料",
+    "定期监测葡萄园"
+  ],
+  "biological_control": [
+    "鼓励蜜蜂等美虫的自然敌人",
+    "使用寄生虫黄蜂控制病媒"
+  ],
+  "chemical_control": [
+    "用于控制虫虫的杀虫剂(例如,百虫、螺旋虫)",
+    "减少病媒的园艺油"
+  ],
+  "prevention": [
+    "植物核证无病毒葡萄",
+    "及早控制昆虫病媒",
+    "迅速除去已感染的葡萄树",
+    "使宣传材料清洁化"
+  ],
+  "source": [
+    "粮农组织谷物疾病指南",
+    "UC Davis 植物资源",
+    "国际植物文化理事会"
+  ]
 }

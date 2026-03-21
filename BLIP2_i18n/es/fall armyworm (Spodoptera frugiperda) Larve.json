@@ -1,0 +1,54 @@
+{
+  "disease": "Fall Armyworm Larva",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insecto (etapa larvaria)",
+  "description": "La larva (caterpillar) es la fase perjudicial de la lombriz del ejército de caída. Se alimenta agresivamente de hojas de cultivo y puede destruir las plantas rápidamente.",
+  "symptoms": [
+    "Caterpillars que se alimentan en el interior del puerco del maíz",
+    "Gran daño de masticación en las hojas",
+    "Presencia de frass oscuro cerca de las zonas de alimentación",
+    "Hojas trituradas o esqueléticas"
+  ],
+  "hosts": [
+    "Maíz",
+    "Arroz",
+    "Sorgo",
+    "Mijo",
+    "Caña de azúcar",
+    "Hortalizas"
+  ],
+  "favorable_conditions": [
+    "Climas húmedos cálidos",
+    "Cultivos densos",
+    "Abundantes plantas hospedadoras"
+  ],
+  "spread": [
+    "Masas de huevo eclosionan en larvas en hojas de plantas",
+    "Las larvas se arrastran a las plantas cercanas",
+    "Se extiende desde campos infestados"
+  ],
+  "management": [
+    "Campos exploradores regulares para las larvas",
+    "Masas de huevo y larvas jóvenes",
+    "Aplicar el control biológico o químico temprano"
+  ],
+  "biological_control": [
+    "Bacillus thuringiensis (Bt)",
+    "Beauveria bassiana",
+    "Trichogramma parasitoides"
+  ],
+  "chemical_control": [
+    "Benzoato de emamectina",
+    "Espinosad",
+    "Clorantraniliprol"
+  ],
+  "prevention": [
+    "Detección temprana en el puerco del maíz",
+    "Utilizar variedades de cultivos resistentes",
+    "Rotación de cultivos"
+  ],
+  "source": [
+    "FAO",
+    "CABI"
+  ]
+}

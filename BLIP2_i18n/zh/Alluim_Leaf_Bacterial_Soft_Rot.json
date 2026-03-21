@@ -1,72 +1,72 @@
 {
- "disease": "Soft Rot of Allium",
- "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
- "pathogen_type": "Bacteria",
- "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
- "symptoms": [
-  "Young leaves become pale, bleached and wilted",
-  "Soft watery rot of bulb scales",
-  "Yellow discoloration of infected tissues",
-  "Brown streaks inside bulbs",
-  "Entire bulb becomes soft and rotten",
-  "Bad-smelling viscous fluid oozing from the neck of bulbs"
- ],
- "hosts": [
-  "Onion",
-  "Shallot",
-  "Garlic",
-  "Leek",
-  "Chive",
-  "Spring onion",
-  "Other Allium species"
- ],
- "favorable_conditions": [
-  "Heavy rainfall",
-  "Waterlogged or poorly drained soil",
-  "Wounds on bulbs or leaves",
-  "Warm temperatures between 20 and 30°C",
-  "High humidity during storage"
- ],
- "spread": [
-  "Infected planting material",
-  "Contaminated soil",
-  "Crop residues",
-  "Rain splash and irrigation water",
-  "Insects",
-  "Mechanical injuries during field operations"
- ],
- "management": [
-  "Use certified disease-free planting material",
-  "Avoid injuries during planting and harvest",
-  "Use drip irrigation instead of overhead irrigation",
-  "Allow onion tops to mature before harvest",
-  "Remove and destroy infected plants",
-  "Maintain balanced fertilization",
-  "Store bulbs at low temperature and moderate humidity",
-  "Use tolerant cultivars"
- ],
- "biological_control": [
-  "Encourage beneficial soil microbes through organic matter management",
-  "Use biological control agents such as Bacillus-based biofungicides",
-  "Improve soil health to suppress bacterial pathogens"
- ],
- "chemical_control": [
-  "Copper-based bactericides such as copper hydroxide",
-  "Kocide 2000",
-  "Mankocide",
-  "Copper sprays applied regularly to slow disease development"
- ],
- "prevention": [
-  "Plant certified pathogen-free bulbs or seeds",
-  "Avoid waterlogging in fields",
-  "Disinfect tools and equipment",
-  "Remove crop debris after harvest",
-  "Store bulbs at about 4°C with 65–70% relative humidity",
-  "Avoid excessive nitrogen fertilization and maintain adequate calcium levels"
- ],
- "source": [
-  "Plant Research International, Wageningen",
-  "IVEGRI Indonesia",
-  "Van der Wolf & Duriat – Soft rot diseases in Allium"
- ]
+  "disease": "软旋转",
+  "scientific_name": "Erwinia carotovora subsp. carotovora、Erwinia Chrysanthemi 及相关细菌",
+  "pathogen_type": "细菌",
+  "description": "一种细菌疾病,在洋葱和其他作物中造成泡泡软化、水性腐烂,经常出现在收成附近或储存期间,并造成腐蚀性腐烂。",
+  "symptoms": [
+    "年轻的叶子变得苍白、漂白和枯萎",
+    "泡泡天标的软水腐烂",
+    "受感染组织黄色变色",
+    "灯泡内有棕色连线",
+    "整个灯泡变得柔软腐烂",
+    "从灯泡的颈部渗出液液"
+  ],
+  "hosts": [
+    "洋葱",
+    "浅土",
+    "大蒜大蒜",
+    "切换",
+    "",
+    "春洋葱",
+    "其它类"
+  ],
+  "favorable_conditions": [
+    "大降雨量",
+    "排水或排水不足的土壤",
+    "灯泡或树叶上的伤痕",
+    "20°C至30°C温温",
+    "储存期间湿湿度高"
+  ],
+  "spread": [
+    "感染的种植材料",
+    "受污染土壤",
+    "作物残留物",
+    "雨水喷洒和灌溉用水",
+    "昆虫",
+    "外地行动期间的机械受伤"
+  ],
+  "management": [
+    "使用经核证的无疾病的种植材料",
+    "在种植和收获期间避免受伤",
+    "使用滴灌,而不是直接灌溉",
+    "允许洋葱顶部在收获前成熟",
+    "清除和销毁受感染植物",
+    "保持平衡的施肥",
+    "低温和中湿度贮存灯泡",
+    "使用宽容的栽培品种"
+  ],
+  "biological_control": [
+    "通过有机物管理鼓励有益的土壤微生物",
+    "使用生物控制剂,如碱性生物杀菌剂",
+    "改善土壤健康,抑制细菌病原体"
+  ],
+  "chemical_control": [
+    "铜氢氧化铜等铜基杀菌剂",
+    "Kocide 2000",
+    "曼科迪斯",
+    "铜喷雾经常用于缓慢的疾病发育"
+  ],
+  "prevention": [
+    "植物核证无病原原体的灯泡或种子",
+    "避免田间水涝",
+    "消感染工具和设备",
+    "收获后清除作物碎片",
+    "约4°C的存储灯泡,相对湿度65-70%",
+    "避免过量的氮肥化并保持适当的钙水平"
+  ],
+  "source": [
+    "国际植物研究组织,Wageningen",
+    "IVEGRI 印度尼西亚",
+    "Van der Wolf & Duriat - 中的软性腐烂疾病"
+  ]
 }

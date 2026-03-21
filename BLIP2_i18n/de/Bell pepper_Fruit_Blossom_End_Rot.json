@@ -1,0 +1,71 @@
+{
+  "disease": "Glockenpfeffer-Blütenfäule",
+  "scientific_name": "Physiologische Störung durch Kalziummangel im Fruchtgewebe",
+  "pathogen_type": "Abiotische (Nährstoffmangel-Störung)",
+  "description": "Blossom-Endfäule ist eine physiologische Störung, die durch einen Mangel an Kalzium bei der Entwicklung von Früchten verursacht wird. Sie wirkt sich auf schnell wachsende Früchte aus, wenn die Kalziumversorgung mit Fruchtgewebe unzureichend ist.",
+  "symptoms": [
+    "Kleiner hellgrüner oder gelber Fleck am Blütenende der Frucht",
+    "Versunkene dunkelbraune oder schwarze Läsion auf Fruchtspitze",
+    "Fruchtgewebe Kollaps und Trockenfäule",
+    "Vorzeitige Reifung der Früchte",
+    "Schwarzes Pilzwachstum (sekundäre Alternaria-Besiedlung)",
+    "Sekundäre bakterielle Weichfäule in schweren Fällen"
+  ],
+  "hosts": [
+    "Paprika",
+    "Chilipfeffer",
+    "Tomaten",
+    "Auberginen",
+    "Zucchini",
+    "Kürbisgewächse",
+    "Wassermelone",
+    "Gurken",
+    "Melone"
+  ],
+  "favorable_conditions": [
+    "Geringe Kalziumverfügbarkeit in Pflanzengeweben",
+    "Unregelmäßige Bewässerung oder Dürre Stress",
+    "Schnelles vegetatives Wachstum",
+    "Überschüssige Stickstoffdüngung",
+    "Hohe Salzkonzentration im Boden",
+    "Schlechte Wurzelentwicklung oder Wurzelschäden",
+    "Hohe Temperatur und schnelles Fruchtwachstum"
+  ],
+  "spread": [
+    "Nicht infektiös; es ist eine physiologische Störung",
+    "Kommt vor, wenn der Kalziumtransport zu den Früchten unzureichend ist",
+    "Häufig ausgelöst durch Wasserstress oder Nährstoffungleichgewicht"
+  ],
+  "management": [
+    "Konsequente Bodenfeuchte mit richtiger Bewässerung erhalten",
+    "Vermeiden Sie übermäßige Stickstoffdüngung",
+    "Verbesserung der Bodenstruktur für besseres Wurzelwachstum",
+    "Mulch verwenden, um Bodenfeuchte und Temperatur zu regulieren",
+    "Überwachung der Nährstoffgehalte im Boden bei Bodenuntersuchungen"
+  ],
+  "biological_control": [
+    "Benutze nützliche Mikroben wie Bacillus subtilis, um die Pflanzengesundheit zu verbessern",
+    "Trichoderma-Arten zur Unterstützung des Wurzelwachstums und der Nährstoffaufnahme anwenden",
+    "Verwenden Sie organische Bodenänderungen wie Kompost, um die Bodenstruktur zu verbessern"
+  ],
+  "chemical_control": [
+    "Calciumnitrat",
+    "Calciumchlorid",
+    "Calciumsulfat (Gipsum)",
+    "Calciumdüngemittel (Chelated Calcium Düngemittel)",
+    "Blattkalziumsprays (begrenzte Wirksamkeit)"
+  ],
+  "prevention": [
+    "Sicherstellung eines ausreichenden Calciumgehalts im Boden",
+    "Regelmäßige Bewässerungspläne beibehalten",
+    "Vermeiden Sie übermäßige Stickstoffdüngung",
+    "Verbesserung der Entwässerung und der Wurzelgesundheit",
+    "Tropfbewässerung verwenden, um die Wasserversorgung zu stabilisieren",
+    "Vermeiden Sie Wurzelschäden durch Anbau oder Krankheiten"
+  ],
+  "source": [
+    "Universität von Florida IFAS Erweiterung",
+    "Grundsätze der Pflanzenernährung – Mengel & Kirkby",
+    "Pflanzenpathologie und Literatur zur Pflanzenbewirtschaftung"
+  ]
+}

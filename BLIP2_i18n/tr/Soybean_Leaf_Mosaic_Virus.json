@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "Soybean Leaf Mosaik Virüsü",
+  "scientific_name": "Soya Mosaik Virüsü (SMV)",
+  "common_abbreviations": [
+    "SMV"
+  ],
+  "description": "Soya mosaik virüsü (SMV) öncelikle soya'yı etkileyen yaygın bir bitki virüsü, yaprak mosaik, tıraş, pod sayısı ve tohum bozukluğu neden olur.",
+  "distribution": "Dünya çapında, özellikle orta ve subtropik bölgelerde soya yetiştiren tüm bölgelerde.",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "Çoğunlukla Glycine max (yetiştirilmiş soya) ve G. soya (hayvan soya)",
+    "notable_hosts": [
+      "Ayak",
+      "Snap Bean Hakkında"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "Işık ve Koyu Yeşil Patch ile Karıştırma",
+      "Venüsler boyunca püskürtme",
+      "Düşük yapraklı yapraklı yapraklar",
+      "Güç kaybı ve azaltma"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "Bitki sayısı azaldı",
+      "Dökülen ve dökülen tohumlar"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "Düşük tohum kalitesi, boyutu ve germinasyon",
+    "Düşük düğüm ve verimlilik",
+    "Belirtiler yüksek sıcaklıklarda hafif veya yok olabilir.",
+    "Diğer virüslerle birlikte enfekte olduğunda şiddetli etkiler (örneğin, BPMV)"
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "Virüs, cinsiyet Potyvirus, aile Potyviridae",
+    "particle": "Filamentous parçacıklar ~7500 Å uzun, 120 Å çapı",
+    "genome": "Tek taraflı pozitif-sens RNA (~9.6 kb) 5′ sonunda VPg proteini ile, ~10 fonksiyonel proteinlere işlenmiş tek bir poliproteini kodlayarak",
+    "transmission": [
+      "Aphid kalıcı olmayan iletim",
+      "Tohum Transmisi",
+      "SAP"
+    ],
+    "favorable_conditions": "Soğuk ila ılımlı sıcaklıklar (16-28°C), aphid aktivitesi yayılmayı teşvik eder",
+    "seed_transmission_rate": "Geleneksel olarak %5'dir, ancak yetiştiriciliğe bağlı olarak değişken"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "Patogen-free tohumları kullanın",
+      "Etkiyi azaltmak için mevsimde erken bitirmek",
+      "Aphid nüfuslarının izlenmesi ve yönetilmesi"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "Resistans genleri (R genleri) ile yetiştiricileri kullanın"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "Afidleri kontrol etmek için böcek ilacının sınırlı etkinliği virüs yayılmasını azaltmak için"
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "R genleri ile SMV etkileşimleri gen-gen direnci için bir model olarak incelenir",
+    "RNA sessizliği, tohum iletiminde ve tohum kabuğunda bir rol oynamaktadır.",
+    "Afidler tarafından iletilen virüs proteinleri HC-Pro ve yastık proteinleri (CP) tarafından etkilenir."
   ]
 }

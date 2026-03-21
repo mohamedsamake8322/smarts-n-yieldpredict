@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
-  "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "pest_name": "Soya Yaprakları Rust",
+  "scientific_name": "Phakopsora Pachyrhizi Hakkında",
+  "common_name": "Soylu Rust",
+  "description": "Soya pirinçleri, Phakopsora pachyrhizi mantarından kaynaklanan soya pirinç hastalığıdır. olumlu koşullarda ciddi hasar kaybına neden olabilir.",
+  "distribution": "Orijinal Asya; Amerika Birleşik Devletleri'nde, ilk kez 2004 yılında Güney'de bulunur ve her büyüme mevsiminde kuzeye yayılır.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "Glycine max (Soybean) ile ilgili bilgiler",
+    "other_hosts": "Belirlenmemiş; sadece yeşil ev sahipliği dokusu üzerinde hayatta kalmak zorunludur"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "Alt yaprak yüzeyleri üzerinde küçük gri noktalar, ton veya kırmızı kahverengi dönüşür",
+      "Sarı halozlarda yayılan yaralanmalar",
+      "Pustules (blisters) tan spores serbest bırakma hasarlarda gelişir",
+      "Erken belirtiler diğer yaprak hastalıklarından ayırt etmek zordur"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "Yaralanmalar ve pustüller gövdelerde ve çamurlarda ortaya çıkabilir"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "Çiçeklenme sonrası en yaygın, üreme aşamalarında"
   },
   "conditions_favoring_disease": {
-    "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "temperature": "59 - 85 ° F (15 - 29 ° C)",
+    "humidity": "Yüksek nem (% 75 )",
+    "weather": "ıslak hava süresi uzatıldı",
+    "plant_stage": "Üreme aşamaları, çiçeklenme ve pod gelişiminden sonra"
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "Fonksiyon",
+    "species": [
+      "Phakopsora Pachyrhizi Hakkında",
+      "Phakopsora meibomiae (yumuşak patolojik, büyük gelir kaybına neden olmaz)"
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "Güney eyaletlerinde ve Meksika'da yaşayan yeşil doku üzerinde; her mevsim rüzgar tarafından kuzeye yayılan izler",
+    "infection": "Yaralanmalar öncelikle alt yapraklarda gelişir; gövdelere ve çamurlara yayılabilir"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "Yaprak noktaları ve defolasyon",
+    "%50'den fazla kayıplar olumlu koşullarda"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "Haftalık olarak, özellikle ıslak hava koşullarında yumuşatın.",
+      "Kültürel uygulamalar sınırlı etkiye sahiptir."
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "Enfeksiyon öncesi veya hemen sonra uygulanan folik fungikidler kullanın"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "Rost direnci soya çeşitleri geliştiriliyor"
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "Soya yalıtımı, kuzey bölgelerinde epidemiye neden olmak için yıllık tekrarlanan kuzey yalıtımı dağılımına ihtiyaç duyar.",
+    "P. pachyrhizi önemli gelir kaybına neden olan saldırgan patogentir; P. meibomiae hafiftir ve kıtada ABD'de henüz bildirilmemiştir."
   ]
 }

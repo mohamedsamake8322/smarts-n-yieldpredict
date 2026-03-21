@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "Rote de bout de fruit de tomate",
+  "type": "troubles physiologiques",
+  "causal_agent": "Insuffisance en calcium associée à une absorption irrégulière de l'eau",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Poivre (Capsicum spp.)",
+      "Aubergine (Solanum melongena L.)"
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "Dans le monde entier; commun dans les zones où l'humidité du sol fluctue ou où la disponibilité en calcium est faible",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "Lésion sombre et engloutie à la fleur du fruit",
+      "Les lésions peuvent s'agrandir, devenir sinueuses et mener à la pourriture des fruits.",
+      "D'abord visible sur les jeunes fruits en développement, souvent en grappes",
+      "Les tissus internes peuvent également être décolorés si l'état persiste"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "Pas de symptômes directs sur les feuilles ou les tiges; les plantes semblent souvent en bonne santé au-dessus du sol"
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "Insuffisance de l'absorption du calcium par le développement des fruits",
+    "Arrosage irrégulier entraînant des fluctuations de l'humidité du sol",
+    "Croissance végétative excessive due à la surfertilisation, créant un déséquilibre entre la capacité racinaire et la demande de fruits",
+    "Une humidité élevée réduisant la transpiration et le transport du calcium"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "Maintenir même l'humidité du sol pendant la fructification par arrosage contrôlé ou irrigation goutte à goutte",
+      "Mulch pour retenir l'humidité du sol et réduire les fluctuations",
+      "Fournir un espacement et un pruneau adéquats pour assurer une bonne circulation de l'air et réduire l'humidité relative",
+      "Éviter la fertilisation excessive de l'azote; s'habiller latéralement seulement si nécessaire pour maintenir une croissance modérée",
+      "Surveiller la vigueur des plantes pour assurer l'équilibre entre le développement des racines et celui des pousses"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "Application foliaire de nitrate de calcium ou de chlorure de calcium (1,5 c. à thé par gallon d'eau + 0,5 c. à thé d'agent tensioactif, p.ex. CapSil) hebdomadaire pendant la fructification",
+      "Appliquer des vaporisateurs tôt le matin pour réduire le risque de phytotoxicité",
+      "Éviter les applications excessives de calcium car il peut réduire les rendements ou causer des lésions au feuillage"
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "Mettre l'accent sur des pratiques culturelles cohérentes et sur la disponibilité du calcium plutôt que sur des pulvérisations foliaires uniquement.",
+      "Surveiller les niveaux de calcium du sol avant de planter et modifier les sols si nécessaire"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "Brubaker, V. 2016. Calcium: Il fait un bien végétal. Greenhouse Grower, Janvier.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. Le nickel réduit la pourriture du bout de la fleur même dans des conditions de carence en calcium; preuves des réponses physiologiques de l'interaction NI-CA. J. Plant Nutrition 46(12):893-2904. DOI: 10.10.80/01904167.2022.2160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., et Mohamad, A. 2021. Vaporisateur foliaire pré-récolte de chlorure de calcium sur la croissance, le rendement, la qualité et l'extension de la durée de conservation de différentes variétés de tomates basses en Malaisie. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
+    "Reitz, N.F., Shackel, K.A., et Mitcham, E.J. 2021. Effets différentiels de l'excès de calcium appliqués aux plantes entières par rapport aux tissus de fruits excisés sur la pourriture du bout de la fleur chez la tomate. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta 2021.110514"
   ]
 }

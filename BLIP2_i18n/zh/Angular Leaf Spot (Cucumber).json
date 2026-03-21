@@ -1,40 +1,40 @@
 {
   "title": [
-    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
-    "Pseudomonas syringae pv. lachrymans"
+    "角叶斑点(Cucumber、Melon、Pumpkin、Squash和Zucchini)",
+    "希赫里曼斯群岛"
   ],
   "Table": {
     "Prevention": [
-      "Planting pathogen-free seed is the primary control strategy",
-      "Treat contaminated seed with hot water to reduce bacteria levels",
-      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
-      "Avoid overhead irrigation and reuse of irrigation tail water",
-      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
-      "Plant resistant cucumber varieties if the disease is a recurrent problem",
-      "No biological control practices have been developed for angular leaf spot"
+      "种植无病原原种种子是主要控制战略",
+      "用热水处理受污染种子,降低细菌水平",
+      "实行三年或三年或三年以上作物向小谷物或玉米等非东道主轮作的做法",
+      "避免高空灌溉和灌溉尾水的再利用",
+      "只有在树冠干燥以减少二次传播时,才在田地耕种和工作",
+      "如果该疾病是反复出现的问题,耐植物抗黄瓜的植物品种",
+      "没有为角叶叶点制定生物控制做法"
     ],
     "Monitoring": [
-      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
-      "Check for angular appearance of lesions (they do not cross plant veins)",
-      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
-      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
-      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
-      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+      "寻找大部分被大型植物静脉封闭的叶叶子上水浸水的微小损伤",
+      "检查损伤的角外形(它们不交叉植物静脉)",
+      "寻找在湿湿天气下层损害表面的 乳液净化的清晰度",
+      "观察皮肤变棕和从叶子中流出(弹孔外观)的损伤",
+      "使用光晒光中心检查小(0.04-0.1英寸至0.1英寸)水浸水性损伤的水果",
+      "监测抑制葡萄生长的系统感染的确定型式中不断增长的小提示"
     ],
     "Direct Control": [
-      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
-      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
-      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
-      "Apply Nordox at 1.5-2.0 lb per acre",
-      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
-      "Chemical controls are most effective when integrated with sound cultural control practices"
+      "使用铜基杀菌剂(Camp、Kocide、Nordox、Tri Basic Cenco)来减少其严重性",
+      "施用每英亩1.33磅/pt的Camp Dry Prill或Champ 公式2",
+      "按建议费率(0.5至3磅/秒)适用Kocide(101,DF,4.5LF,3000)",
+      "每英亩1.5-2.0升b时应用诺尔多克斯",
+      "使用铜/EBDC混合物,如4-7.25 lb的Cuprofix MZ散射器",
+      "化学品控制如果与健全的文化控制做法相结合,最为有效"
     ],
     "Restrictions": [
-      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
-      "Copper-Count-N: 7 days application frequency; may cause injury",
-      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
-      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
-      "Always follow product label for specific dosage and timing of application"
+      "青铜杀菌剂:5-7天应用频率5-7天;可能造成植物伤害",
+      "N:7天应用频率;可能造成伤害",
+      "Cuprofix MZ分散物:每个季节最多63.1磅;5天",
+      "如果条件非常有利,则需要4至7天喷洒间隔",
+      "特定剂量和施药时间总是跟随产品标签"
     ]
   }
 }

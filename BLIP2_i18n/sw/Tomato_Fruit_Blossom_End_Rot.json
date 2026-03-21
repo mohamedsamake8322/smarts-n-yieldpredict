@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "Matunda ya Blossom-End Rot",
+  "type": "Uharibifu wa kiufundi",
+  "causal_agent": "Ukosefu wa kalsiamu pamoja na kupokea maji yasiyo ya kawaida",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "Matunda ya mimea (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Maua ya pepe (Capsicum spp)",
+      "Maua ya mti (Solanum melongena L.)"
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "duniani kote; kawaida katika maeneo ya umeme ya chini au upatikanaji mdogo wa kalsium",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "Uharibifu wa dhahabu na kuanguka katika mwisho wa matunda",
+      "Uharibifu inaweza kuongezeka, kuongezeka na kuongezeka na kuongezeka kwa matunda",
+      "Kwanza kuonekana juu ya matunda ya vijana, mara nyingi katika mzunguko",
+      "Wanyama wa ndani pia wanaweza kuongezeka ikiwa hali ya kuendelea"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "Hakuna madhara ya moja kwa moja juu ya tiketi au nyama; matunda mara nyingi huonekana salama nje ya ardhi"
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "Matumizi ya kalsiamu ya kutosha kwa kuzalisha matunda",
+    "Matumizi yasiyo ya kawaida yanayotokana na udhibiti wa ardhi",
+    "Kuanzisha ukuaji wa mimea kutokana na mazao ya juu, kuunda ukosefu kati ya uwezo wa matunda na mahitaji ya matunda",
+    "Njia ya juu ya kupunguza uchafu na usafirishaji wa kalsium"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "Kuhifadhi hata nishati ya ardhi wakati wa matunda kwa njia ya usimamizi wa kudhibiti au usafishaji wa dutu",
+      "Mulch kuhifadhi udongo wa ardhi na kupunguza mabadiliko",
+      "Kutoa usafirishaji na kutibu sahihi ili kuhakikisha usafirishaji mzuri wa hewa na kupunguza umaskini wa karibu",
+      "Kuepuka mazao ya nitrogen ya kutosha; mbegu tu kama inahitajika ili kudumisha ukuaji wa chini",
+      "Ufuatilia nguvu ya mimea ili kuhakikisha kiwango cha kubadilishana kati ya root na shoot maendeleo"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "Matumizi ya folio ya nitrati ya kalsiamu au chlorida ya kalsiamu (1.5 tsh kwa gallon ya maji + 0.5 tsh ya surfactant, kwa mfano, CapSil) kwa wiki wakati wa matunda",
+      "Kuanzisha matibabu mapema ili kupunguza hatari ya matibabu.",
+      "Kuepuka matumizi makubwa ya kalsium kwa sababu inaweza kupunguza mapato au kusababisha uharibifu wa folia"
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "Mifano juu ya mazoezi ya utamaduni na upatikanaji wa kalsium badala ya kutegemea tu kwenye spray za folia",
+      "Ufuatilia kiwango cha kalsiamu cha ardhi kabla ya kupanda na kubadilisha ardhi ikiwa unahitajika"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "Brubaker, V. 2016 Kalzi: Inafanya vizuri kwa mimea. Greenhouse Grower, Januari.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel hupunguza mti wa mwanga hata chini ya hali ya upungufu wa kalsium; ushahidi wa majibu ya fizolojia ya ushirikiano wa NI-CA. J. Nutrition ya mimea 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., na Mohamad, A. 2021. kupanua mapumziko ya folio ya chloride ya kalzi juu ya ukuaji, uzalishaji, ubora, na uzalishaji wa maisha ya aina mbalimbali za tomato ya chini nchini Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
+    "Reitz, N.F., Shackel, K.A., na Mitcham, E.J. 2021. madhara ya tofauti ya kalsiamu ya ziada iliyotumika kwa mimea yote vs. mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao ya mazao. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
   ]
 }

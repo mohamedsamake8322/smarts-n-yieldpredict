@@ -1,0 +1,52 @@
+{
+  "disease": "Befall mit Langhornkäfer",
+  "scientific_name": "Familie: Cerambycidae",
+  "pathogen_type": "Insektenschädlinge",
+  "description": "Langhornkäfer sind holztreibende Insekten, die Bäume und holzige Pflanzen angreifen. Larven bohren sich in Stängel und Stämme, schwächen Pflanzen und verursachen strukturelle Schäden, die manchmal zum Tod des Wirts führen.",
+  "symptoms": [
+    "Löcher und Tunnel in Stängeln, Ästen oder Stämmen",
+    "Frass (sawdust-like excrement) um Einstiegslöcher",
+    "Wilting oder Vergilbung von Blättern",
+    "Absterben von Zweigniederlassungen",
+    "Stuntes Wachstum"
+  ],
+  "hosts": [
+    "Holzbäume (Eiche, Ahorn, Asche)",
+    "Obstbäume (Apfel, Kirsche, Pfirsich)",
+    "Waldbäume",
+    "Zierbäume und Sträucher"
+  ],
+  "favorable_conditions": [
+    "Gestresste oder geschwächte Bäume",
+    "Warmes und feuchtes Klima",
+    "Vorhandensein von gefallenem oder totem Holz in der Nähe"
+  ],
+  "spread": [
+    "Erwachsene Käfer fliegen zu nahe gelegenen Bäumen",
+    "Bewegung von befallenem Brennholz, Baumstämmen oder Baumstämmen",
+    "Natürliche Verbreitung durch Erwachsene auf der Suche nach neuen Wirtspflanzen"
+  ],
+  "management": [
+    "Befallenes Holz inspizieren und entfernen",
+    "Beschneiden und zerstören betroffene Zweige",
+    "Überwachung erwachsener Käferpopulationen mit Fallen",
+    "Förderung der Gesundheit der Bäume zur Verringerung der Empfindlichkeit",
+    "Vermeiden Sie den Transport von Brennholz oder Pflanzenmaterial aus befallenen Gebieten"
+  ],
+  "chemical_control": [
+    "Systemische Insektizide (z. B. Imidacloprid) auf den Boden aufgetragen oder in Bäume injiziert",
+    "Kontakt Insektizide (Pyrethroide) auf Rinde zur Kontrolle von Erwachsenen",
+    "Timing ist von entscheidender Bedeutung: Ziel junge Larven und aufstrebende Erwachsene"
+  ],
+  "prevention": [
+    "Quarantäne und inspizieren importiertes Holz und Baumschulen",
+    "Aufrechterhaltung einer kräftigen Baumgesundheit",
+    "Entfernen Sie tote oder gestresste Bäume prompt",
+    "Verwenden Sie Baumverpackungen oder Schutzbarrieren, wenn möglich"
+  ],
+  "source": [
+    "USDA Forest Service Pest Fact Sheets",
+    "CABI Invasive Arten Kompendium",
+    "Wissenschaftliche Literatur zu Cerambycidae Schädlingsbekämpfung"
+  ]
+}

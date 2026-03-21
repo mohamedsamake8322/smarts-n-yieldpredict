@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "长角甲甲虫感染",
+  "scientific_name": "家庭:Cerambycidae",
+  "pathogen_type": "昆虫病虫害",
+  "description": "长角蜂类是攻击树木和木质植物的木质昆虫,拉瓦菌进入树枝和树干,削弱植物并造成结构破坏,有时导致宿主死亡。",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "洞洞和隧道的裂缝、树枝或树干,",
+    "进入孔周围的Fras(锯灰类粪便)",
+    "叶子的腐叶或黄叶",
+    "分支的后退",
+    "强劲增长增长"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "硬木树(橡树、木木、灰木、灰木)",
+    "果树(奶、樱、桃)",
+    "林树林树",
+    "动物树和灌木"
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "树木压力过强或变弱",
+    "温暖和潮湿气候",
+    "附近有落木或死木"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "成人甲虫飞向附近树木",
+    "腐臭的木柴、原木或苗圃的流动",
+    "寻求新宿主植物的成年人的自然散布"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "检查和清除渗入的木材",
+    "收治和摧毁受影响的分支",
+    "监测带陷阱的成人甲虫群",
+    "促进树木健康,减少易感性",
+    "避免从灾区运送木柴或植物材料"
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "施于土壤或注入树木的系统杀虫剂(例如,imidaclopdrid)",
+    "树皮上接触杀虫剂(除虫菊),用于成人控制",
+    "时间的选择至关重要:针对年轻的幼虫和新兴成人"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "检疫和检查进口木材和苗苗木厂",
+    "保持健康的树木健康",
+    "迅速删除已死树或加压树",
+    "在可行的情况下使用树包装或保护性障碍"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "USDA 森林服务害虫情况简介",
+    "CABI 入侵物种简编",
+    "Cerambycidae病虫害管理科学文献"
   ]
 }

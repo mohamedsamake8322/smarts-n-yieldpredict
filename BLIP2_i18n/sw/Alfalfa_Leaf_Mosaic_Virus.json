@@ -1,9 +1,9 @@
 {
   "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "common_name": "Maradhi ya Kialfali",
   "pathogen": {
-    "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
+    "type": "virusi",
+    "scientific_name": "Virusi vya alfalfa",
     "abbreviation": "AMV",
     "family": "Bromoviridae",
     "genus": "Alfamovirus"
@@ -11,60 +11,60 @@
   "host_plants": [
     "Alfalfa",
     "Potato",
-    "Tomato",
-    "Pepper",
+    "Nyanya",
+    "Pilipili",
     "Soybean",
-    "Clover",
+    "Kloofu",
     "Pea",
     "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "Tumbaku",
+    "Mimea mingi maridadi"
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "Picha nyangavu za manjano",
+      "Klorotic pottling",
+      "Majani hupotoka",
+      "Majani membamba au marefu",
+      "Ukubwa wa jani lililokatwa"
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "Ukuzi wenye kuvutia",
+      "Nguvu iliyopungua",
+      "Mazao yaliyopunguzwa"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "Aphidi (zaidi ya spishi 20)"
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "Idadi kubwa ya watu wenye sumu",
+    "Halijoto yenye joto",
+    "Kuwapo kwa mimea iliyoambukizwa karibu na hapo"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "Tumia mbegu zisizo na virusi",
+      "Ondoa mimea iliyoambukizwa",
+      "Dhibiti magugu ambayo hutenda kama hifadhi za virusi"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      "Wachunguzi na waongozaji wa idadi za watu wenye kichaa"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "Waabudu fulani wenye uvumilivu wanaopatikana kwa kutegemea mazao"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "Hupunguza mazao na ubora wa mazao katika mimea mingi ya mboga",
+    "distribution": "Ulimwenguni pote"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "Kitabu APS Plant Disease Handbook",
+    "KABI Protection Compendium",
+    "Virusi vya ICTV"
   ]
 }

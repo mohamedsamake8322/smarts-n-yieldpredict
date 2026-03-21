@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
+  "disease": "Bloque de fruits bactériens",
   "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "description": "Il est causé par la bactérie Gram négatif Acidovorax citrulli et se propage principalement par des graines contaminées. La maladie peut causer de graves pertes économiques, en particulier dans la production de pastèque et de melon. L'infection entraîne des lésions aqueuses sur les semis, les feuilles et les fruits, entraînant éventuellement la pourriture des fruits, la fissuration et la perte de cultures.",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
+    "Pastèque (Citrullus lanatus)",
     "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
-    "Pumpkin (Cucurbita spp.)",
+    "Concombre (Cucumis sativus)",
+    "Citrouille (Cucurbita spp.)",
     "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "Autres plantes cucurbitacées"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "Plantules : lésions aqueuses sur les cotylédons et les hypocotyls conduisant à l'effondrement et à la mort",
+    "Feuilles : grandes lésions irrégulières brunes à noires dans la pastèque et brun rougeâtre dans le melon",
+    "Les lésions foliaires se propagent souvent le long de la nervure médiane principale.",
+    "Fruits : petites lésions arrosées qui s'élargissent et s'enfoncent",
+    "La croûte de fruit devient nécrotique, ce qui conduit à la fissuration et à la décomposition.",
+    "Les lésions permettent des infections secondaires par d'autres pathogènes",
+    "Les fruits gravement infectés pourrissent et peuvent contaminer les graines"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "La transmission primaire se fait par l'intermédiaire de semences infectées.",
+    "La bactérie peut survivre à l'intérieur des graines pendant de nombreuses années",
+    "Initialement se comporte comme un saprophyte à l'aide de nutriments de la graine",
+    "Passage à la croissance pathogène lorsque l'ensemencement émerge",
+    "Bactéries infectant les fruits en développement par les stomates 3 à 4 semaines après la préparation des fruits",
+    "Les symptômes apparaissent souvent tard, près de la récolte, créant un retard entre l'infection et la détection",
+    "Les fruits infectés peuvent contaminer de nouvelles graines, en poursuivant le cycle"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "Températures élevées",
+    "Humidité élevée",
+    "Conditions de serre chaudes et humides",
+    "Charge bactérienne élevée sur les graines contaminées",
+    "Populations de plantes denses et irrigation aérienne"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "Utiliser des semences certifiées exemptes de pathogènes",
+    "Effectuer des tests de santé des semences avant la plantation",
+    "Maintenir un assainissement strict dans les pépinières et les serres",
+    "Éviter de planter des lots de semences contaminés",
+    "Réduire l'irrigation aérienne pour limiter la propagation bactérienne",
+    "Enlever les débris végétaux infectés et les plants de cucurbitacées volontaires"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "Des bactéricides à base de cuivre peuvent être utilisés à titre préventif pour réduire la propagation bactérienne.",
+    "Le contrôle chimique est généralement limité dans l'efficacité",
+    "Les demandes doivent respecter les réglementations agricoles locales et les étiquettes des produits."
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "Il n'existe actuellement aucune méthode de lutte biologique largement établie.",
+    "Des recherches sont en cours pour identifier des antagonistes biologiques efficaces"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "Aucun cultivars commerciaux à forte résistance n'est actuellement disponible.",
+    "Certaines accessions expérimentales à la pastèque et au melon ont montré une résistance partielle",
+    "Les programmes de reproduction continuent de chercher du germoplasme résistant"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "Inspecter les semis pour détecter les lésions dues à l'eau sur les cotylédons",
+    "Surveiller les feuilles pour détecter les lésions brunes ou noires irrégulières le long des veines",
+    "Vérifiez les fruits pour les taches d'eau qui s'élargissent et deviennent coulés",
+    "Mise à l'essai des lots de semences pour la contamination avant plantation"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "Détruire les plantes infectées pour prévenir la propagation",
+    "Utiliser le traitement thermique des graines (environ 85°C pendant 3 à 5 jours) pour réduire la contamination bactérienne",
+    "Mettre en œuvre une hygiène stricte dans les installations de production et de transplantation de semences",
+    "Évitez de sauver les graines des fruits infectés"
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "Wikipedia – Blotch de fruits bactériennes"
   ]
 }

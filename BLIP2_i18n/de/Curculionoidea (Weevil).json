@@ -1,0 +1,92 @@
+{
+  "pest": "Käfer (Schnittkäfer)",
+  "scientific_name": "Überfamilie Curculionoidea; Familie Curculionidae",
+  "pest_type": "Insekten (Coleoptera: Curculionidae)",
+  "description": "Weevils sind pflanzenfressende Käfer, die durch eine lange Schnauze (Rostrum) gekennzeichnet sind. Sowohl Larven als auch Erwachsene beschädigen die Ernte durch die Fütterung von Pflanzengeweben wie Blättern, Früchten, Samen, Stängeln oder Wurzeln. Viele Arten sind ernsthafte Schädlinge in der Landwirtschaft und Lagerhaltung.",
+  "identification": [
+    "Erwachsene haben eine lange gekrümmte Schnauze, genannt ein Rostrum",
+    "Ellenbogenantennen, die in einem Club enden",
+    "Körper robust und meist mit Schuppen oder Borsten bedeckt",
+    "Größe typischerweise 5–15 mm (Bereich 1–35 mm)",
+    "Larven sind weiße, C-förmige Sträucher ohne Beine"
+  ],
+  "life_cycle": [
+    "Weiblich verwendet das Rostrum, um Löcher in Pflanzengewebe zu bohren",
+    "Eier werden in Früchte, Samen, Stängel oder Wurzeln gelegt",
+    "Larven entwickeln sich im Pflanzengewebe und ernähren sich intern",
+    "Larvenpupat im Boden oder Pflanzenmaterial",
+    "Erwachsene treten auf und ernähren sich weiterhin von Pflanzen"
+  ],
+  "hosts": [
+    "Reis",
+    "Mais",
+    "Weizen",
+    "Baumwolle",
+    "Kaffee",
+    "Bananen",
+    "Zitrusfrüchte",
+    "Apfel",
+    "Mango",
+    "Kokosnuss",
+    "Gespeicherte Körner"
+  ],
+  "symptoms": [
+    "Kleine Löcher in Blättern, Früchten oder Samen",
+    "Beschädigte oder hohlen Samen und Körner",
+    "Vorzeitiger Obsttropfen",
+    "Larventunnel im Inneren von Stängeln oder Früchten",
+    "Stuntes Pflanzenwachstum",
+    "Anwesenheit von erwachsenen Käfern mit einer langen Schnauze"
+  ],
+  "favorable_conditions": [
+    "Warme Klimazonen",
+    "Hohe Luftfeuchtigkeit",
+    "Felder mit Pflanzenresten oder schlechten sanitären Einrichtungen",
+    "Kontinuierliches Anbauen ohne Rotation"
+  ],
+  "spread": [
+    "Bewegung von befallenen Samen oder Früchten",
+    "Erwachsene Käfer fliegen zu neuen Wirtspflanzen",
+    "Transport von kontaminiertem Boden oder Pflanzenmaterial"
+  ],
+  "economic_importance": [
+    "Weltweit größte Schädlinge landwirtschaftlicher Kulturpflanzen",
+    "Einige Arten greifen gelagerte Körner an",
+    "Kann erhebliche Ertrags- und Qualitätsverluste verursachen"
+  ],
+  "biological_control": [
+    "Raubtiere wie Vögel, Spinnen und Raubkäfer",
+    "Parasitäre Wespen, die Larven oder Eier angreifen",
+    "Entomopathogene Pilze wie Beauveria bassiana und Metarhizium anisopliae",
+    "Entomopathogene Nematoden (Steinernema spp., Heterorhabditis spp.)"
+  ],
+  "chemical_control": [
+    "Imidacloprid",
+    "Thiamethoxam",
+    "Lambda-Cyhalothrin",
+    "Deltamethrin",
+    "Chlorpyrifos (sofern zulässig)",
+    "Carbaryl"
+  ],
+  "integrated_management": [
+    "Fruchtrotation, um den Lebenszyklus zu durchbrechen",
+    "Entfernen und zerstören von befallenen Früchten oder Pflanzenrückständen",
+    "Verwenden Sie Pheromon oder Lebensmittelfallen, um Erwachsene zu überwachen",
+    "Verwendung resistenter oder toleranter Pflanzensorten",
+    "Aufrechterhaltung der Abwasserentsorgung im Feld",
+    "biologische oder chemische Kontrolle anwenden, wenn Populationen die Schwellenwerte überschreiten"
+  ],
+  "notable_species": [
+    "Sitophilus oryzae (Rice Weevil)",
+    "Sitophilus zeamais (maize weevil)",
+    "Anthonomus grandis (Baumwollschwanz)",
+    "Rhynchophorus ferrugineus (rotes Palmweibchen)",
+    "Cosmopolites sordidus (Bananenkäfer)"
+  ],
+  "sources": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "USDA Agrarforschungsdienst",
+    "Integrierte Leitlinien für die Schädlingsbekämpfung der FAO",
+    "Triplehorn & Johnson – Borror und DeLongs Einführung in die Studie der Insekten"
+  ]
+}

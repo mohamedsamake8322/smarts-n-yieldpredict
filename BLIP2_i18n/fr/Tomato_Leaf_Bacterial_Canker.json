@@ -1,64 +1,70 @@
 {
-  "disease_name": "Tomato Leaf Bacterial Canker",
-  "type": "bacterial disease",
+  "disease_name": "Bouclier bactérien à feuilles de tomates",
+  "type": "maladies bactériennes",
   "causal_agent": "Clavibacter michiganensis pv. michiganensis",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Aubergine (Solanum melongena L.)",
+      "Poivre (Capsicum spp.)",
+      "Rasoirs de nuit (Solanum spp.)"
+    ]
   },
-  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "distribution": "Dans le monde entier; commun dans les tomates de serre et de champ",
   "symptoms": {
     "leaves": [
-      "Older leaves develop brown, scorched margins that curl upward and inward",
-      "Distinct border between brown and green tissue, often with a thin yellow line",
-      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+      "Les feuilles plus âgées développent des marges brunes, brûlées, qui s'enroulent vers le haut et vers l'intérieur.",
+      "Bordure distincte entre le tissu brun et le tissu vert, souvent avec une fine ligne jaune",
+      "Les infections systémiques peuvent provoquer le flétrissement et le tir des feuilles (parcourage et effondrement)"
     ],
     "stems": [
-      "Light streaks develop that darken and split forming shallow cankers",
-      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
-      "Branches may break off easily in advanced infections"
+      "Des stries de lumière se développent qui s'assombrissent et se divisent formant des chancres peu profonds",
+      "Tissus vasculaires décolorés jaune à bronzé, la carapace peut devenir brun rougeâtre et farineux ou creux",
+      "Les branches peuvent se briser facilement dans les infections avancées"
     ],
     "fruit": [
-      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
-      "Fruit near calyx may have brown seeds due to vascular invasion"
+      "Blistettes blanches surélevées sur des fruits verts ou rouges (pointes de l'œil d'oiseau), diamètre 1/16-1/8 pouce (3-4 mm)",
+      "Les fruits près du calice peuvent avoir des graines brunes en raison d'une invasion vasculaire"
     ],
     "seedlings": [
-      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
-      "Symptoms often appear at flowering or later"
+      "Faible croissance, flétrissement temporaire, feuilles inférieures jaunes et rachis",
+      "Les symptômes apparaissent souvent à la floraison ou plus tard"
     ]
   },
   "disease_cycle": [
-    "Introduced via infected seed or transplants",
-    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
-    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
-    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+    "Introduit par des semences ou des transplantations infectées",
+    "Survivre dans les résidus de plantes infestées pendant jusqu'à 3 ans; peut survivre sur des bancs contaminés, des enjeux et des hôtes de mauvaises herbes",
+    "Spread by windblown pleat, arroseur d'irrigation, culture mécanique et manipulation",
+    "Les bactéries pénètrent dans les semis par des blessures, des trichomes cassés ou des coupes de feuilles, puis se déplacent systémiquement à travers le xylème."
   ],
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants; certified seeds recommended",
-      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
-      "Steam or disinfect greenhouse flats, benches, and potting media",
-      "Rotate crops out of tomatoes for at least one season"
+      "Utiliser des semences et des transplantations exemptes de maladies; des semences certifiées recommandées",
+      "Faire tremper les graines dans de l'eau à 130°F pendant 25 minutes pour réduire la contamination.",
+      "Plaques, bancs et supports de mise en potage à vapeur ou à désinfecter",
+      "Rotation des cultures à partir de tomates pendant au moins une saison"
     ],
     "cultural": [
-      "Incorporate plant debris thoroughly at season end",
-      "Control nightshade weeds that may harbor bacteria",
-      "Avoid working in fields when foliage is wet",
-      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+      "Incorporer soigneusement les débris végétaux à la fin de la saison",
+      "Lutte contre les mauvaises herbes de nuit qui peuvent abriter des bactéries",
+      "Évitez de travailler dans les champs lorsque le feuillage est mouillé",
+      "Minimiser l'irrigation et manipuler soigneusement les plantes pour réduire les blessures"
     ],
     "chemical": [
-      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
-      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+      "Les bactéricides du cuivre peuvent réduire la propagation en conditions humides, mais ne contrôlent pas les infections systémiques",
+      "Désinfecter les outils et les surfaces avec 0,5 à 1 % d'hypochlorite de calcium ou de sodium, ou des désinfectants commerciaux comme le physan"
     ]
   },
   "notes": [
-    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
-    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
-    "Even a few infected seeds can result in high levels of infected transplants"
+    "Les pertes économiques sont généralement mineures dans les champs à graines directes, sauf si les conditions humides favorisent la propagation secondaire",
+    "Les transplantations de serre sont plus vulnérables; la vigilance dans l'assainissement est essentielle",
+    "Même quelques graines infectées peuvent entraîner des niveaux élevés de transplantations infectées"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
-    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+    "Jones, J.B., et al. 2014. Compendium des maladies et parasites de la tomate, 2e édition. APS Press.",
+    "University of California Agriculture and Natural Resources. Tomate Pest Management Guidelines: Bactérial Canker.",
+    "Schaad, N.-O., et al. 2001. Cankers bactériens de la tomate."
   ]
 }

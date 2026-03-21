@@ -1,0 +1,67 @@
+{
+  "disease": "Citrus Leaf Greening",
+  "other_names": [
+    "Huanglongbing",
+    "HLB",
+    "Citrus Greening"
+  ],
+  "scientific_name": "Candidatus Liberibacter spp.",
+  "pathogen_type": "Bakterium",
+  "description": "Citrus Greening ist eine der zerstörerischsten Krankheiten von Zitrusbäumen. Es wird durch Bakterien der Gattung Liberibacter verursacht und hauptsächlich von psylliden Insekten übertragen. Infizierte Bäume produzieren kleine, bittere, schlecht gefärbte Früchte und schließlich fallen und sterben innerhalb weniger Jahre. Derzeit gibt es keine Heilung für die Krankheit.",
+  "hosts": [
+    "Citrus sinensis (süße Orange)",
+    "Citrus reticulata (Mandarin)",
+    "Citrus paradisi (Grapefruit)",
+    "Zitruslimon (Lemon)",
+    "Sonstige Citrus-Arten"
+  ],
+  "vectors": [
+    "Asiatischer Zitrus-Psyllid (Diaphorina citri)",
+    "Afrikanischer Zitrus-Psyllid (Trioza erytreae)"
+  ],
+  "symptoms_and_damage": [
+    "Blotchy gelbes Mottling auf Blättern",
+    "Gelbfärbung von Blattvenen und Trieben",
+    "Stuntes Baumwachstum",
+    "Zweig-Dieback und vorzeitiger Blatttropfen",
+    "Kleine, unregelmäßige, schlecht gefärbte Früchte",
+    "Früchte bleiben teilweise grün, wenn sie reif sind",
+    "Früchte schmecken bitter oder sauer",
+    "Abortiertes Saatgut und schlechte Fruchtentwicklung"
+  ],
+  "disease_cycle_and_spread": [
+    "Bakterien leben im Phloemgewebe von Zitrusbäumen",
+    "Verbreitung hauptsächlich durch Psyllidinsekten, die an infizierten Pflanzen füttern",
+    "Kann sich auch durch Transplantation infizierten Pflanzenmaterials ausbreiten",
+    "Junge Psyllidstadien erwerben die Bakterien und übertragen sie an gesunde Pflanzen"
+  ],
+  "favorable_conditions": [
+    "Warmes Klima in tropischen und subtropischen Regionen",
+    "Vorhandensein von psyllid-Insekt-Vektoren",
+    "Dichte Zitrusanbaugebiete"
+  ],
+  "distribution": [
+    "Länder Mittel- und Osteuropas",
+    "Afrika",
+    "Vereinigte Staaten (Florida, Texas, Kalifornien und andere)",
+    "Frankreich",
+    "Mexiko",
+    "Viele tropische und subtropische Zitrusanbaugebiete weltweit"
+  ],
+  "management": [
+    "Kontrolle der Psyllid-Insektenpopulationen",
+    "Entfernen und zerstören infizierte Bäume",
+    "Verwenden Sie sauberes und zertifiziertes Pflanzmaterial",
+    "Regelmäßige Überwachung und Früherkennung",
+    "Forschung über resistente Zitrussorten"
+  ],
+  "notes": [
+    "Derzeit gibt es keine wirksame Heilung",
+    "Infizierte Bäume sterben in der Regel innerhalb weniger Jahre",
+    "Die Krankheit hat weltweit zu erheblichen wirtschaftlichen Verlusten in der Zitrusindustrie geführt."
+  ],
+  "sources": [
+    "Wikipedia – Citrus Greening Krankheit",
+    "USDA – Citrus Greening und asiatische Citrus Psyllid"
+  ]
+}

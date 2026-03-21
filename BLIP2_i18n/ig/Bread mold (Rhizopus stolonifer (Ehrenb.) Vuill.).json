@@ -1,0 +1,87 @@
+{
+  "disease": "Anwụrụ ọkụ na - esi ísì ụtọ (ihe e ji eme achịcha)",
+  "scientific_name": "Rahchitas legni",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọ bụrụ na ọ na - esi ezigbo ike, ọ ga - adị mfe isi n'ebe ikuku na - adịghị banye n'ime ya. Ọrịa ahụ ga - aka njọ ma ọ bụ mee ka ọ ghara ịna - emepụta shuga buru ibu.",
+  "symptoms": [
+    "Mkpụrụ osisi ma ọ bụ akwụkwọ nri na - esi na mmiri dị n'ime ala apụta",
+    "Mmiri dị n'ime ala na - eme ka ahụ́ ghara ịrụ ọrụ nke ọma",
+    "Ụcha ogho dị ọcha- bụ otu n'ime ihe ndị ahụ yiri ihe na - atọ ụtọ, nke na - eto n'elu",
+    "Ihe ndị na - eme ka ụkwụ ojii na - agba oji (ihe e ji akpụ afụ ọnụ)",
+    "Ihe ndị na - esi ísì ọma na - esi n'ihe ndị a na - emepụta apụta",
+    "Ụlọ ọrụ na - emepụta ihe ndị na - emebi emebi na - agbasa mkpụrụ osisi ndị dị nso"
+  ],
+  "hosts": [
+    "LIT",
+    "tomato",
+    "NEPA",
+    "Ilon",
+    "Mmiri dị n'ime ala",
+    "unere",
+    "Mkpụrụ vaịn",
+    "Mango",
+    "Senaya",
+    "Otú o si atọ ụtọ",
+    "Nnyemaka ngwaọrụ",
+    "Jehova na - agọzi ndị na - erubere ya isi",
+    "Ụcha àkwá",
+    "ghaghị ime ka obi sie gị ike na Jehova ga - enyere gị aka",
+    "Ebe a na - eli ozu",
+    "galik",
+    "Àgwà",
+    "Ụdị mkpụrụ osisi na akwụkwọ nri dị iche iche e chekwara echekwa"
+  ],
+  "favorable_conditions": [
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ọ̀tụ̀tụ̀ ịjụ oyi nke okpomọkụ",
+    "Ọ na - amị mkpụrụ ndị na - adịghị mma ma ọ bụ ndị mebiri emebi",
+    "shuga dị oké ọnụ ahịa bụ́ ndị dị ná mkpụrụ osisi ndị chara acha",
+    "Ebe ndị a na - edebe ihe ndị dị oké ọnụ ahịa",
+    "Nsogbu Ndị Na - adịghị n'Oge A Na - edebe Ihe Ndị Dị Ndụ"
+  ],
+  "spread": [
+    "Ihe Ndị Na - eme Ka E Nwee Ihe Ndị Na - enye Obi Ụtọ n'Ahụ́",
+    "Chọpụta ihe dị n'etiti ibute ọrịa ahụ na ihe ndị ga - eme ka ahụ́ gbasie gị ike",
+    "Ụgbọ mmiri ndị na - ebu ihe ndị e ji esi nri",
+    "Ihe ndị e ji echekwa ihe ma ọ bụ ebe ndị a na - edebe ihe n'ala"
+  ],
+  "management": [
+    "Na - amị mkpụrụ nke ọma iji zere ọnyá",
+    "Wepụ ma bibie mkpụrụ osisi ndị bu ya ozugbo",
+    "Nọgide na - adị ọcha n'ebe ndị a na - echekwa ihe",
+    "Mmiri ọgwụ ahụ́ a na - emepụta n'ọ̀tụ̀tụ̀ ịjụ oyi",
+    "Ime ka mmiri dị n'ime ala na ibelata ikike e nwere ịrịa ọrịa ogbu na nkwonkwo nke yiri ajụ oyi"
+  ],
+  "biological_control": [
+    "E nwere ụdị dị iche iche nke mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka ahụ́ ghara iru mmadụ ala",
+    "Ụmụ irighiri ihe ndị dị ndụ bụ́ ndị na - emepụta mmiri ọgwụ ndị na - alụso ọrịa ọgụ",
+    "Fengccg-triglagris bacteria ndị na - egbochi uto nke mmiri ọgwụ ahụ́ bụ́ hormone nke na - eme ka ezé ghara ito ngwa ngwa"
+  ],
+  "chemical_control": [
+    "Tlananana",
+    "Na - akwanyerenụ Ibe Unu Ùgwù",
+    "Mkpụrụ ndụ ihe nketa na - atọ ụtọ",
+    "Otú E Si Eme Ka Ndị Mmadụ Mata Onye Chineke Bụ",
+    "Ndị Mkpọrọ Bụ́ Ndị Na - eyi Ọha Egwu",
+    "Ihe a kpụrụ akpụ nke na - esi ísì ụtọ",
+    "Tebunale",
+    "Fenxxmide",
+    "Azstroron",
+    "ga - enyere gị aka ịna - ejidekwu onwe gị",
+    "Ndị Na - eme Ka Ndị Mmadụ Na - akwanyere Ndị Ọzọ Ùgwù",
+    "Ebe ịsa ahụ́"
+  ],
+  "prevention": [
+    "Mkpụrụ o wetara n'ubi na - akpachara anya ka o wee ghara imerụ ahụ́",
+    "Nọgide na - edebe ebe ndị jụrụ oyi nke ọma",
+    "Debe ebe ndị a na - ekpofu ihe ọcha na ndị a na - etinye ihe na ha",
+    "Zere iribiga nri ókè bụ́ ndị mkpụrụ ndị dị mma mebiri emebi",
+    "Mgbe a na - echekwa ihe na mgbe a na - ebu ya na mgbe a na - ebu ya"
+  ],
+  "source": [
+    "Ebe obibi akwụkwọ nke dị n'okpuru ebe a, akwụkwọ nta bụ́ Post's seed of seeds and And Runs",
+    "Smith Na - eme Nnyocha Iji Kwụsị Nkà Mmụta Ihe Ochie M",
+    "Mkpụrụ akụ́kụ́-Mrirorobes . . .",
+    "Akwụkwọ nkà mmụta sayensị ndị na-enweghị isi maka ọrịa ndị na-eme ka ahụ́ ghara iru mmadụ ala"
+  ]
+}

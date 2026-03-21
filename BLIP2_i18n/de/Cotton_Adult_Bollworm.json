@@ -1,0 +1,85 @@
+{
+  "pest_name": "Baumwolle_Adult_Bollwurm",
+  "common_name": "Baumwoll-Bollenwurm",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_type": "Insekten",
+  "description": "Cotton Bolwurm (Helioverpa armigera) ist ein hoch destruktiver landwirtschaftlicher Schädling weit verbreitet in Afrika, Europa, Asien, Australien und Südamerika. Der erwachsene Motten selbst nicht direkt beschädigen Kulturen, aber es legt Eier auf Wirtspflanzen. Die Larven, die entstehen, ernähren sich von Blättern, Knospen, Blumen, Früchten und Samen von vielen wirtschaftlich wichtigen Kulturen. Aufgrund seiner hohen Fortpflanzungsfähigkeit und starken Migration Fähigkeit, kann dieser Schädling schnell verbreiten und produzieren mehrere Generationen pro Jahr in warmen Klimazonen.",
+  "hosts": [
+    "Baumwolle",
+    "Tomaten",
+    "Mais",
+    "Kichererbsen",
+    "Erbsen",
+    "Reis",
+    "Sorghum",
+    "Cowpea",
+    "Sojabohnen",
+    "Kartoffeln",
+    "Okra",
+    "Erbsen",
+    "Tabak"
+  ],
+  "symptoms": [
+    "Löcher in Blättern und Blüten",
+    "Larven, die zu Früchten oder Hülsen gebohrt werden",
+    "Vorzeitige Frucht oder Blütentropfen",
+    "Beschädigte Baumwollbolls produzieren schlechte Qualität funte",
+    "Vorhandensein von Fraß und Futtertunneln in Früchten oder Körnern"
+  ],
+  "life_cycle": {
+    "eggs": "Gelblich-weiße Eier auf Blättern, Knospen, Blüten oder Früchten gelegt. Eier schlüpfen innerhalb von 3–11 Tagen.",
+    "larvae": "Larven ernähren sich 19–36 Tage lang durch mehrere Instars und verursachen den Hauptschaden der Pflanze.",
+    "pupae": "Pupation tritt im Boden oder Pflanzenmüll auf; Puppen können in kälteren Klimazonen überwintern.",
+    "adult": "Erwachsene Motten sind hellbraun mit einer Flügelspannweite von etwa 3,5–4 cm. Erwachsene leben etwa 10 Tage und Weibchen können hunderte bis tausende Eier legen."
+  },
+  "economic_significance": "Der Schädling verursacht schwere Ertragsverluste in Baumwolle, Tomaten, Mais, Kichererbsen und anderen Kulturen. Larven greifen reproduktive Pflanzenteile an und reduzieren Ertrag und Qualität. Schäden können auch sekundäre Pilz- und Bakterieninfektionen ermöglichen.",
+  "management": {
+    "monitoring": [
+      "Regelmäßige Feldsuche für Eier und Larven",
+      "Verwenden Sie Pheromonfallen, um erwachsene Mottenaktivität zu erkennen",
+      "Überwachung von Pflanzenschäden in Knospen, Früchten und Blumen"
+    ],
+    "cultural_control": [
+      "Fruchtfolge mit nicht gastgebenden Kulturen",
+      "Entfernung von Rückständen und Unkraut",
+      "Tief pflügen nach der Ernte, um Pupae zu zerstören",
+      "Verwendung von Fallpflanzen wie Sonnenblumen oder Ringelblumen"
+    ],
+    "mechanical_control": [
+      "Handpicken und Zerstören von Eiern und Larven",
+      "Entfernen von befallenen Früchten und Pflanzenteilen",
+      "Installation von Pheromonen oder leichten Fallen"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa Nucleopolyhedrovirus (HaNPV)",
+        "Baculovirus-Arten, die auf Lepidopteranlarven abzielen",
+        "Isaria fumosorosea"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (Eierparasitoide Wespe)",
+        "Habrobracon hebetor (larval parasitoide)"
+      ]
+    },
+    "chemical_control": {
+      "note": "Chemische Insektizide sollten im Rahmen einer integrierten Schädlingsbekämpfungsstrategie und nur dann eingesetzt werden, wenn die Schädlingspopulationen die wirtschaftlichen Schwellen überschreiten.",
+      "active_ingredients": [
+        "Spinosad",
+        "Emamectinbenzoat",
+        "Indoxacarb",
+        "Lambda-Cyhalothrin",
+        "Chlorantraniliprol"
+      ]
+    }
+  },
+  "references": [
+    "Wikipedia-Mitwirkende. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "CABI Crop Protection Compendium – Helicoverpa armigera.",
+    "Integrierte Leitlinien für die Schädlingsbekämpfung der FAO.",
+    "Plantwise Knowledge Bank – Pest Management Empfehlungen."
+  ],
+  "source_urls": [
+    "Veröffentlichungen der Europäischen Gemeinschaften: Januar 2002.",
+    "Die Veröffentlichungen der Europäischen Union werden im Amtsblatt der Europäischen Union veröffentlicht (http://www.cabi.org)."
+  ]
+}

@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "@ action",
+  "common_abbreviations": [
+    "keyboard- key- name",
+    "QShortcut",
+    "Media controller element"
+  ],
+  "description": "Wata ' yar'uwa mai kama da itace da ke ɗauke da ƙananan shuke - shuke dabam - dabam da ke kai wa ƙananan shuke - shuke masu yawa hari. Yana da muhimmanci sosai a dukan duniya.",
+  "distribution": "A ƙasashe dabam - dabam, ana samun mutane da yawa a ƙasashe dabam - dabam.",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "Aliiiiii, da kuma Ta'addanci suna kai wa mutane hari, fiye da ' ya'yan itace dubu uku.",
+    "notable_hosts": [
+      "KCharselect unicode block name",
+      "QShortcut",
+      "QShortcut",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "Media controller element",
+      "KCharselect unicode block name",
+      "Lalle kũ, haƙĩƙa, kunã cikin magana mai sãɓa wa juna (game da Alƙur'ani).",
+      "@ action",
+      "DakataCoptic weekday 3 - LongDayName"
+    ],
+    "below_ground": [
+      "@ item Text character set",
+      "@ item Text character set"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "KCharselect unicode block name",
+      "posterior_protuberance": "@ action",
+      "stylet_length": "15 Ka Kusaci Allah - \"Na rantse da Abin da Ka Koya Daga Wurin Yesu \"",
+      "stylet_knobs": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "perineal_pattern": "Ana son mutane su riƙa zuwa wurare dabam - dabam, su riƙa yin tafiya ko su yi wa'azi a ƙasar waje."
     },
     "male": {
-      "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
-      "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "shape": "KCharselect unicode block name",
+      "head": "A yawancin lokaci, ba a yawan yin amfani da yaren la'ana ba, ba tare da yin baƙar magana ba",
+      "stylet_length": "23 Ka Kusaci Allah - \"Yadda Za Ka Bi da Mutane \"",
+      "stylet_knobs": "An Motsa Su Su Yi Wa'azi da Ƙarfin Zuciya"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
-      "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "stage": "Na biyu, ka yi amfani da ɓangare na biyu (mai amfani da shi)",
+      "body_length": "3 KA YI AMFANI DA ABIN DA KA KOYA.",
+      "tail_length": "43 IGWURUTA ALI 10 (Turanci)",
+      "hyaline_region": "6 KA YI AMFANI DA ABIN DA KA KOYA",
+      "shape": "Ana Mai da Tawali'u Mai Daraja"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "QShortcut",
+      "Jumma'a",
+      "Jan (a tsakiya)",
+      "@ item Spelling dictionary",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name"
+    ],
+    "description": "Wata ' yar'uwa mai suna Jrranananananance daga ƙwai, da ke zama a gidan zuhudu, tana zama a wani irin abinci na dindindin, tana cin abinci na dindindin, tana zama manyan ma'aikata da suka ƙware sosai; ta bar ƙananan maza masu arziki a cikin kwanaki 21 K.Z.",
+    "reproduction": "Mata, Marasa Aure, ' Ya'ya, Mata, Masu Tawali'u"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "Za ka iya gane kuma ka yi tafiya zuwa inda ake da bukata don ka samu warƙa",
+    "chemotaxis": "An Gayyace Su Su Biyan Bukatan Ra'ayinsu"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "Mãsu aikin wahala ne, mãsu gajiya.",
+      "Ka Yi Amfani da Yanayin da Ya Dace",
+      "Raɓa tana kama da wani irin kifi mai kama da na'ura mai kama da Kallll da kuma Tabci"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "Indian National weekday 7 - LongDayName"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "KCharselect unicode block name"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "Yanã mai karkatar da sãshensa dõmin ya ɓatar (da wasu) daga tafarkin Allah!",
+    "KCharselect unicode block name"
   ]
 }

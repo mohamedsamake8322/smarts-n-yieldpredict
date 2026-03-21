@@ -1,68 +1,122 @@
 {
-  "pest_name": "Sweet Potato Leaf Feathery Mottle Virus",
+  "pest_name": "Tatlı Patates Yaprakları Feathery Mottle Virus",
   "abbreviation": "SPLFMV",
-  "type": "virus",
-  "history": "SPLFMV is closely related to SPFMV and has been identified worldwide, commonly as part of sweet potato viral disease (SPVD).",
+  "type": "Virüsler",
+  "history": "SPLFMV yakından SPFMV ile ilişkilidir ve dünya çapında, genellikle tatlı patates viral hastalığı (SPVD) bir parçası olarak tespit edilmiştir.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "pozitif RNA tek taraflı RNA",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "Tek Açık Okuma Çerçevesi",
+      "Üçüncü UTR",
+      "Poly(A) Tail için"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinaz, ssRNA bağlayıcı aktivite"
+      },
+      {
+        "name": "Hc-Pro için",
+        "function": "Proteinaz, aphid iletiminde yardımcı, uzun mesafeli hareket"
+      },
+      {
+        "name": "P3",
+        "function": "Viral replikasyon fonksiyonu"
+      },
+      {
+        "name": "6K1",
+        "function": "Bilinmeyen"
+      },
+      {
+        "name": "IŞİD",
+        "function": "Cytoplasmik dahil protein, RNA helikaz aktivitesi"
+      },
+      {
+        "name": "6K2",
+        "function": "Bilinmeyen, viral replikasyonla ilgili"
+      },
+      {
+        "name": "Niya",
+        "function": "VPG ve Proteinaz"
+      },
+      {
+        "name": "NİB",
+        "function": "Viral replikasyon"
+      },
+      {
+        "name": "Cistron",
+        "function": "Coat protein, viryon toplanması, viral iletim, spread"
+      }
+    ],
+    "virion_shape": "uzun, flexuous, rod şeklinde",
+    "virion_length_nm": "810 - 865"
   },
   "life_cycle": {
-    "entry": "Mechanical transmission or via aphid stylets piercing leaf tissue",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA in leaf cells",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Mekanik iletim veya aphid yaprakları ile yaprak dokusu",
+    "replication": "Genom polyprotein olarak tercüme edilir, P1, HC-Pro, NIa proteazları ile temizlenir",
+    "gene_silencing_suppression": "HC-Pro, yaprak hücrelerinde siRNA ve miRNA'yı bastırır",
+    "packaging": "Viryonlara paketlenmiş replikasyon genomi"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent via stylet tips during leaf feeding",
-    "seed_transmission": "Not transmitted through seeds",
-    "host_range": ["Ipomoea spp.", "Nicotiana spp.", "Chenopodium quinoa", "Datura stramonium"]
+    "vectors": [
+      "Afitler"
+    ],
+    "mechanism": "Yaprak beslenmesi sırasında stilet ipuçları ile dayanıksız",
+    "seed_transmission": "tohumlar aracılığıyla aktarılmamıştır",
+    "host_range": [
+      "İpomoea spp.",
+      "Nicotiana spp için.",
+      "Çanakkale Quinoa",
+      "Datura Stramonium Hakkında"
+    ]
   },
   "symptoms": {
-    "typical": "Feathery or mottled patterns on leaves, light to dark purple or green",
-    "severe_strains": ["Leaf chlorosis", "Leaf distortion", "Necrotic spots"],
+    "typical": "Yapraklar, ışıkta karanlık pürüzsüz veya yeşil",
+    "severe_strains": [
+      "Leaf klorozu",
+      "Yaprak bozukluğu",
+      "Necrotik Noktalar"
+    ],
     "co-infections": {
-      "SPVD": "When co-infected with SPCSV, causes stunting, mosaic leaves, reduced yield"
+      "SPVD": "SPCSV ile birlikte enfekte olduğunda, tıraş, mosaik yaprakları, düşük verimlilik neden olur"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "Eve",
+        "location": "Doğu Afrika"
+      },
+      {
+        "name": "RC",
+        "location": "Avustralya, Afrika, Kuzey Amerika, Asya"
+      },
+      {
+        "name": "O",
+        "location": "Afrika , Asya , Güney Amerika"
+      },
+      {
+        "name": "C",
+        "location": "Avustralya, Afrika, Asya, Kuzey ve Güney Amerika"
+      }
     ]
   },
   "agricultural_impact": {
-    "affected_tissues": "Leaf tissues primarily",
-    "yield_loss": "Significant when combined in SPVD; reduces photosynthetic efficiency and plant vigor",
-    "social_impact": "Affects smallholder farmers relying on sweet potato leaves as food and fodder"
+    "affected_tissues": "Yapraklar öncelikle",
+    "yield_loss": "SPVD'de birleştirildiğinde önemli; fotosentez verimliliğini ve bitki gücünü azaltır",
+    "social_impact": "Tatlı patates yapraklarına yiyecek ve besin olarak güvenen küçük çiftçileri etkiler"
   },
   "management": {
-    "early_detection": "Monitor leaf symptoms and confirm via ELISA",
-    "removal": "Rogue infected plants to prevent spread",
+    "early_detection": "Yaprak belirtilerini izlemek ve ELISA aracılığıyla doğrulamak",
+    "removal": "yayılmasını önlemek için enfekte bitkiler",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Maintain vector (aphid) control",
-      "Hygienic pruning and tool sanitation"
+      "Bitki virüssüz yayılma malzemesi",
+      "Vektör Kontrolü (Aphid Control)",
+      "Temizleme ve sanitasyon araçları"
     ]
   },
   "references": [
-    "Based on SPFMV research and sweet potato viral disease studies"
+    "SPFMV araştırmasına ve tatlı patates viral hastalık çalışmalarına dayanarak"
   ]
 }

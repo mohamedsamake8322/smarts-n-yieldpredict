@@ -1,0 +1,66 @@
+{
+  "disease": "Ebe A Na - ere Ọgwụ Ndị E Ji Eme Ihe n'Ụzọ Na - adịghị Ize Ndụ",
+  "scientific_name": "Ihe a bụ ihe e sere n'ahụ́ ájá. (e sere ya n'akwụkwọ akụkọ a)",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọrịa na - asọ oyi nke na - awakpo okooko osisi na mkpụrụ akwụkwọ dị iche iche na - eto eto, karịsịa ahịhịa ndị na - esi ísì ụtọ na ihe ndị na - esi ísì ụtọ, na - eme ka okooko osisi na - eto ngwa ngwa ma na - emebi ngwa ngwa n'ọnọdụ ndị na - ekpo ọkụ na ndị na - esi ísì ọma.",
+  "symptoms": [
+    "Mmiri ozuzo na okooko osisi na - eme ka mmiri dị n'ime ala",
+    "Ihe ndị na - agbawa agbawa na - ere ngwa ngwa ma na - ada ada",
+    "Nke a na - eme ka mkpụrụ osisi ndị na - eto eto ghara ịna - amịcha mkpụrụ",
+    "Mkpụrụ ndụ ndị na - acha ọcha bụ́ ndị na - acha ọcha na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - emepụta ọbara",
+    "Uwe agha-ọ́kụ̄ n'otú e si akụ okooko osisi",
+    "Osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ na - ama ifuru iji na - amị mkpụrụ ma na - eme ka mkpụrụ osisi na - ere ere"
+  ],
+  "hosts": [
+    "Okra",
+    "23.pkin",
+    "Trush",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Zrucrui",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Ndị Na - asụ Asụsụ Dị Iche Iche",
+    "Tlapea",
+    "Ńgwānụ́ banye",
+    "Ihe ndị ọzọ na - esi ísì ọma na akwụkwọ nri apụta"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe ndị na-eme ka ifufe nwee ike ịbanye n'ime ala",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Chọpụta ọdịiche dị n'etiti okooko osisi na mkpụrụ osisi ndị bu ya"
+  ],
+  "management": [
+    "Wepụ ma bibie okooko osisi na mkpụrụ osisi ndị bu ya",
+    "Ọ na - eme ka ahịhịa na - eto nke ọma iji mee ka ikuku na - abata",
+    "Zere ịgba ala mmiri n'ike n'ike",
+    "Owuwe ihe ubi na - anọgide na - ewepụ uru ahụ́ ndị na - ebute ọrịa ahụ",
+    "Mkpụrụ akụ́kụ́ ndị a na - akụ n'ubi na - amụba"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ihe nketa nke na - emepụta mmiri ọgwụ ahụ́",
+    "Mkpụrụ ndụ ihe nketa ndị si n'ebe obibi akwụkwọ bụ́ ndị dị n'ime ala"
+  ],
+  "chemical_control": [
+    "Macoze",
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Anadu-n'ọ́chāghị́ányá",
+    "Na - etinye Ihe Ndị Ị Na - amụta n'Ọrụ n'Oge anwụ Na - achasi Ike"
+  ],
+  "prevention": [
+    "Mkpụrụ n'ubi nke olulu mmiri",
+    "Wepụ ihe ndị a hapụrụ n'ubi mgbe oge owuwe ihe ubi gasịrị",
+    "Zere ịgba ala mmiri gabiga ókè na inwe akwụkwọ osisi ruo ogologo oge",
+    "Jiri mkpụrụ osisi ndị dị mma na - eme ihe ma na - edebe ebe ị na - edebe ihe ọcha n'ubi"
+  ],
+  "source": [
+    "NA - EME ka alaka Ụlọ Akụ̀ Na - enweta Ihe Ọmụma Ziri Ezi",
+    "Mahadum Florida Ọ Bụ Nkà Mmụta Sayensị Na - amụ Banyere Ọrịa Ndị Dị n'Ime Ala",
+    "IHE NDỊ NA - EME N'ỤWA KWURU"
+  ]
+}

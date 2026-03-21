@@ -1,100 +1,104 @@
 {
-  "virus_name": "Tobacco Etch Virus",
-  "abbreviation": "TEV",
-  "family": "Potyviridae",
-  "genus": "Potyvirus",
+  "virus_name": "التبّغ",
+  "abbreviation": "قوة الأمم المتحدة",
+  "family": "مريديد",
+  "genus": "فيروس",
   "taxonomy": {
-    "order": "Patatavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "",
+    "virus_group": "(أ) فيروس الرنا"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "monopartite",
-    "particle_shape": "flexuous filamentous particle",
-    "length": "approximately 730 nm",
+    "type": "RNA RNA",
+    "structure": "مُنكر",
+    "particle_shape": "الجسيمات",
+    "length": "حوالي 730 سمم",
     "proteins_encoded": 7
   },
   "transmission": {
-    "vectors": ["Aphids including Myzus persicae", "Aphis gossypii", "Macrosiphum euphorbiae"],
-    "mode": "non-persistent transmission",
+    "vectors": [
+      "محفوظات بما في ذلك ميزوس پرسيكا",
+      "ألف منظيف gosssypii",
+      "ماكروسيبهوم (Macrosipae)"
+    ],
+    "mode": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
     "mechanical": true,
     "seed_transmission": false,
-    "notes": "Aphids acquire the virus rapidly during feeding and can transmit it within minutes."
+    "notes": "وتحصل الحشرات على الفيروس بسرعة أثناء تغذيته ويمكن أن تنقله في غضون دقائق."
   },
   "hosts": {
     "cultivated": [
-      "Capsicum annuum",
-      "Capsicum frutescens",
-      "Tomato (Solanum lycopersicum)",
-      "Tobacco (Nicotiana spp.)"
+      "الفصل الذي يُنتحـوم",
+      "Capsum cuptuscens",
+      "طماططط (سولانيوم ماعور copersicum)",
+      "(نيكوتيانا سكوب)"
     ],
     "wild_hosts": [
-      "Solanum nigrum",
-      "Solanum aculeatissimum",
-      "Chenopodium album",
-      "Datura stramonium",
-      "Linaria canadensis",
-      "Physalis spp."
+      "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -))))",
+      "إذاً su lulum a clat assisim",
+      "مُثثث",
+      "Datura straonium",
+      "لينّيا Cenadss",
+      "فيساليس spp."
     ]
   },
   "symptoms": [
-    "Vein clearing on leaves",
-    "Mosaic or mottling patterns",
-    "Necrotic streaks or etched patterns on leaves",
-    "Leaf deformation and curling",
-    "Stunted plant growth",
-    "Reduced fruit yield and quality",
-    "Occasional fruit discoloration or necrotic lesions"
+    "في حالة تبرّط في الأوراق",
+    "الأنماط الموسوسية أو أنماط التغيير",
+    "علامات نخرية أو أنماط على أوراق الشوْر",
+    "التشويه والتكرار",
+    "نمو النباتات المبتت",
+    "غلة الفواكه والنوعية",
+    "تَغَيْرُ مُوَاكِلَةً مُنْتَجِرَةً"
   ],
   "disease_cycle": [
-    "Virus survives in infected host plants and weeds",
-    "Aphids acquire virus during feeding on infected plants",
-    "Virus is transmitted to healthy plants during probing",
-    "Mechanical transmission can occur via contaminated tools or handling"
+    "حالات البقاء على قيد الحياة في النباتات والمجاري المستضيفة المصابة",
+    "الفيروسات التي تحصل عليها الحشرات أثناء التغذية بالنباتات المصابة",
+    "ينتقل الفيروس إلى نباتات صحية أثناء الاختبار",
+    "يمكن أن يحدث الانتقال الميكانيكي عن طريق أدوات أو مناولة ملوثة"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Etch-like necrotic patterns on leaves",
-      "Mosaic symptoms on solanaceous crops"
+      "أنماط مستنثرة على أوراق الشوراء",
+      "الأعراض الموساوية على المحاصيل المسببة للانسلان"
     ],
     "laboratory_methods": [
-      "ELISA detection",
-      "RT-PCR assays",
-      "Electron microscopy"
+      "ELISA الكشف",
+      "TRTT- برمج في",
+      "المكنس"
     ],
     "viral_inclusions": [
-      "Cylindrical inclusions in the cytoplasm",
-      "Nuclear inclusions in infected cells"
+      "إدراجات اسطوانية في السايتوبلازم",
+      "إدراج المواد النووية في الخلايا المصابة"
     ]
   },
   "molecular_features": {
     "special_protein": {
-      "name": "TEV protease",
-      "function": "Highly specific protease used widely in biotechnology to cleave fusion proteins during purification."
+      "name": "TET TE ETS",
+      "function": "والبروتينات شديدة التحديد المستخدمة على نطاق واسع في مجال التكنولوجيا الأحيائية لتفريغ البروتينات خلال عملية التنقية."
     }
   },
   "management": {
     "cultural": [
-      "Remove weed hosts that serve as virus reservoirs",
-      "Use virus-free planting materials",
-      "Implement crop rotation"
+      "إزالة مُضيفات الأعشاب التي تعمل كمستودعات للفيروس",
+      "مواد الزرع الخالية من الفيروسات",
+      "تنفيذ دوران المحصول"
     ],
     "vector_control": [
-      "Monitor aphid populations",
-      "Use reflective mulches to repel aphids",
-      "Apply insecticides if aphid pressure is high"
+      "السكان المرمومون",
+      "إستعمل لـ إلى الـ",
+      "تطبيق المبيدات المبيدات الحشرية إذا كان الضغط الزهري مرتفعاً"
     ],
     "resistance": [
-      "Use resistant or tolerant cultivars when available"
+      "استخدامات مقاومة أو متسامحة للتسميات عندما تكون متاحة"
     ]
   },
   "impact": {
-    "economic": "Can cause significant yield losses in pepper and tobacco crops",
-    "agronomic": "Severe infections reduce fruit quality and plant vigor"
+    "economic": "يمكن أن تسبب خسائر كبيرة في غلة الفلفل ومحاصيل التبغ",
+    "agronomic": ":: انخفاض نوعية الفواكه وضرر النباتات"
   },
   "references": [
-    "ICTV Virus Taxonomy",
-    "APS Plant Disease Compendium",
-    "Plant Virus Online Database"
+    "تكنولوجيا تكنولوجيا تكنولوجيا تكنولوجيا المعلومات والاتصالات",
+    "APS PAS",
+    "قاعدة بيانات"
   ]
 }

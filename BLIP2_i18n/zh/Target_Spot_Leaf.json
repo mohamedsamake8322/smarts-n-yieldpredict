@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
-  "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "pest_name": "目标点点叶",
+  "causal_agent": "Corynespora cassiicola(卡西米科拉)",
+  "type": "菌类",
+  "distribution": "世界范围",
+  "host_plants": [
+    "黄瓜,特别是黄瓜"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "长叶上的角形黄色斑点。 斑点扩大并随着浅棕色中心和深棕色边界而循环。 在高级阶段, 灰色中心会因枪击孔或粉碎外观而退出。 在温室条件下, 斑点可能会有光中心、 橄榄绿组织环和黄色边界。 严重感染可能导致分解。",
+    "stem_petiole": "长点有助于区分炭疽杆菌、低温温或角叶点。",
+    "fruit": "如果感染早于花朵末期发生,则果实变暗、枯萎。",
+    "roots_flowers": "可能感染但不太常见。"
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "温度25-35°C(77-95°F)可促进发展;感染可能在21-26°C(70-80°F)发生。",
+    "humidity": "高湿湿度有利于感染",
+    "light": "长日促进疾病发展",
+    "other_factors": "每日温度波动和受感染植物残留物或杂草的存在"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "对至少两年的受感染植物残留物或对杂草宿主的受感染植物残留物",
+    "dispersal": "空气传播的螺子",
+    "infection": "在有利的条件下,叶叶、花、花、花、花"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "如有抗药品种,使用抗药性品种",
+      "在田间和温室实行良好的环境卫生",
+      "清除和销毁受感染的植物碎片",
+      "靠近作物的受控杂草宿主"
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "根据标签指示喷洒的预防杀真菌剂"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": "结合抗药性品种、卫生和杀真菌除菌剂方案,以减少疾病发病率"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "类作物疾病指南和推广出版物",
+    "Corynespora cassiicola全球分发报告"
   ]
 }

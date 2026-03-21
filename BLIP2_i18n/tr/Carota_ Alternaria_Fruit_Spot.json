@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
-  "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "disease": "Karot Alternaria yaprak noktası",
+  "scientific_name": "Alternatörlük",
+  "pathogen_type": "Fonksiyon",
+  "description": "Alternaria yaprak noktası, çoğunlukla hamur yapraklarını etkileyen bir mantar hastalığıdır. eski yapraklarda başlar ve sarı marjları olan karanlık noktalar üretir. şiddetli enfeksiyonlarda yapraklar siyah, kuru ve ölür, büyük gelir kaybına neden olur.",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "Karanlık kahverengi yapraklar üzerinde siyah noktalar",
+    "Sarı marjları olan köşeli hasarlar",
+    "Öncelikle eski yapraklarda yer alır.",
+    "Topraklar birleşir ve büyük ölü alanlar oluşturur",
+    "Yapraklar siyah, kuru ve yumuşak hale gelir",
+    "Şiddetli enfeksiyonlar yapraklar ve bitki zayıflamasına neden olur",
+    "Köylüler Damping-off'dan Ölebilir"
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "karanlık kahverengi veya siyah yaprak noktaları",
+    "Yaralanmaların etrafında sarı halo",
+    "Siyah Karot Foyu"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "Sayfalar",
+    "Petişler",
+    "tohumları"
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
+    "Karot",
+    "Celery için",
     "parsley",
-    "dill",
+    "Dil",
     "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "Vahşi Karot",
+    "Diğer Apiaceae bitkileri"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apiaceae Hakkında",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "ıslak hava",
+    "sık yağışlar",
+    "Yüksek nem",
+    "yoğun bitki",
+    "Uzun süreli yaprak ıslaklığı"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "Enfekte tohumlar",
+    "rüzgârlı yağmur",
+    "Toprakta enfekte bitki kalıntıları",
+    "rüzgârla yayılan sivrisinekler"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Soğuk su ile tohumları (50°C 25-30 dakika)",
+    "ıslaklığı azaltmak için yoğun bitkilerden kaçının",
+    "Yetiştirildikten sonra enfekte bitki çöplerini çıkarın",
+    "En az 3 yıl boyunca tahıl bitkileri",
+    "toleranslı karot çeşitleri"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "Trichoderma türü biofungicid",
+    "Bacillus subtilis biyolojik fungicidler"
   ],
-
   "chemical_control": [
-    "Mancozeb",
+    "Manşet",
     "Chlorothalonil",
-    "Copper fungicides",
-    "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "bakır fungicidleri",
+    "Iprodyon",
+    "Strobilurin fungicidleri",
+    "Triazol fungicidleri"
   ],
-
   "seed_treatment": [
-    "Thiram",
-    "Captan"
+    "Üçüncü",
+    "Kaptan"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "CERCOSPORA KAROTAE (CERCOSPORA KAROTAE)"
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "Koyu kahverengi ile siyah halos hasarları",
+    "Cercospora_leaf_spot": "hafif kahverengi veya yuvarlak tan hasarları"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "Karot folajının hızlı ölümü",
+    "Düşük fotosentez",
+    "Yağmurlu mevsimlerde büyük kayıplar"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "CABI Bitki Koruma Ödülü",
+    "CSIRO - Avustralya'da bitkisel tahıl hastalıkları",
+    "Massachusetts Üniversitesi Uzantısı",
+    "Temel Sanayi ve Bölgesel Kalkınma Bölümü"
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "disease": "Mkpụrụ akụ́kụ́ ndị nwere àgwà dị iche iche",
+  "scientific_name": "Foto Xnmnas",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "pathovars": [
+    "Xnmnanas na - akwọ ụgbọ epeepe ndị a na - akpọ pitv. na - enweghị ihe na - enyere ha aka",
+    "Xnmnas dos plas plaitv.",
+    "Ụmụ irighiri ihe ndị dị ndụ bụ́ ndị na - egbuke egbuke dị n'ime ala."
+  ],
+  "description": "Ọrịa ndị dị ka ọka wit na ọka bali, bụ́ ndị na - adị ná mkpo a na - agbawa agbawa, na - akpata ya.",
+  "symptoms": [
+    "Mmiri dị ogologo na-enweghị isi n'akwụkwọ",
+    "Ihe ndị na - acha akwụkwọ ndụ akwụkwọ ndụ ma ọ bụ odo odo dị n'etiti ihe ndị dị n'ime ya",
+    "Anwụrụ ọkụ na - aghọ ihe na - acha nchara nchara na ihe na - eju anya",
+    "A na - eji okwu ndị yiri ibe ha eme ihe gaa n'akwụkwọ osisi",
+    "Isi n'ebe ndị ahụ pụọ pụrụ ịkpọ nkụ ma nwụọ n'ihi ọrịa ndị siri ike",
+    "Nje ndị na - acha odo odo bụ́ ndị na - acha odo odo bụ́ ndị na - adị n'ahụ́ nwa ọhụrụ pụrụ ịpụta n'ihe ndị e ji akpụ afụ ọnụ",
+    "A pụrụ iyi ihe na - adịghị ihe ọ bụ n'akụkụ ebe ndị ahụ a na - edebe ihe ọmụma"
+  ],
+  "visual_signature": [
+    "Akwụkwọ osisi ndị na - acha odo odo ma ọ bụ ndị na - acha nchara nchara na - adị n'ime ya",
+    "Ihe ndị yiri ya e dere n'elu peeji na - eso akwụkwọ osisi ndị ahụ",
+    "Akwụkwọ osisi ndị na - acha odo odo bụ́ ndị dị n'elu ala"
+  ],
+  "affected_plant_parts": [
+    "akwụkwọ",
+    "akwụkwọ osisi",
+    "Mgbe ụfọdụ, ntị na - ama jijiji"
+  ],
+  "hosts": [
+    "ọka wit",
+    "ọka bali",
+    "Ńgwānụ́ banye",
+    "dị́ n'ụdị",
+    "Mkpụrụ akụ́kụ́",
+    "Mkpụrụ ndụ ihe nketa na - ejupụta ebe nile",
+    "ahịhịa",
+    "ahịhịa ndị na - acha akwụkwọ ndụ akwụkwọ ndụ"
+  ],
+  "plant_family": "ahụ́ ọkụ",
+  "important_hosts": [
+    "Mkpụrụ ndụ ihe nketa bụ́ alcum alcum (ma ọ bụ)",
+    "Flaumum dree (barley)",
+    "AGBOR 1 (Bekee)",
+    "Secale see (rye)",
+    "Sorghumcolor",
+    "O nwere ike ịbụ n'ihi na o nwere ike ịbụ na ọ na - eme otú ahụ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ nke okpomọkụ",
+    "Elu elu",
+    "Mgbe mgbe, mmiri na - ezo",
+    "Ịgba ubi n'ụzọ a na - achịkwaghị achịkwa",
+    "Oge ndị na - eto eto"
+  ],
+  "spread": [
+    "Mkpụrụ ndị butere ya",
+    "Mmiri ozuzo na - ezo",
+    "Ifufe-dimea ozuzo",
+    "Ihe ọkụkụ ndị e metọrọ emetọ",
+    "ata na ahịhịa ndị nwere nje ndị na - akpata ọrịa"
+  ],
+  "disease_cycle": [
+    "Nje bacteria na - alanarị mkpụrụ akụ́kụ́ ndị bu nje ahụ",
+    "Nje bacteria na - abanye n'ihe ọkụkụ site n'ihe ọkụkụ ma ọ bụ ọnyá",
+    "Ọrịa ndị a na - ebute n'akwụkwọ osisi na - agbasa n'akụkụ dị iche iche",
+    "Nje bacteria na - amụba ma na - emepụta akara ụbọchị",
+    "Mmiri ozuzo na - agbasa nje bacteria ruo n'ihe ọkụkụ ndị dị nso"
+  ],
+  "management": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Tinye n'ọrụ nnyocha ahụ́ ike siri ike",
+    "Zere ịkụ mkpụrụ ndị nwere nje ndị ahụ",
+    "Jiri òtù nzuzo ndị na - eguzogide ndị mmadụ ma ọ bụ ndị na - adịghị ekwe ekwe mee ihe mgbe e nwere ha",
+    "Na - enyocha ubi mgbe nile maka mgbaàmà ndị mbụ ọ na - enwe",
+    "Na - agbasonụ Ụkpụrụ Ndị Na - achịkwa Mkpụrụ Ndụ Ihe Nketa Unu"
+  ],
+  "biological_control": [
+    "Nje ndị na - akpata ọrịa nje ndị na - akpata ọrịa bụ́ ndị a na - eme nnyocha banyere ha"
+  ],
+  "chemical_control": [
+    "Ọ dịghị mmiri ọgwụ dị nnọọ irè e nwere n'ubi"
+  ],
+  "seed_treatment": [
+    "Ahụ́ a na - agwọ ndị mmadụ n'ụzọ kpụ ọkụ n'ọnụ (nke a na - akpọ ° 53 ruo minit 10)",
+    "Ebe a na - elekọta okpomọkụ",
+    "Ọgwụ ndị e ji ọla kọpa mee iji belata ọrịa mkpụrụ akụ́kụ́"
+  ],
+  "impact": [
+    "Ihe ruru pasent 40 n'ọnọdụ ndị tara akpụ",
+    "belata otú mkpụrụ akụ́kụ́ na - aha",
+    "belata ọnụ ọgụgụ mkpụrụ akụ́kụ́ ọ bụla"
+  ],
+  "diagnosis": [
+    "Ihe ndị a chọpụtara n'ozi ọma",
+    "Ndị na - akpa ókè agbụrụ na - anọpụrụ onwe ha iche n'usoro mgbasa ozi",
+    "DNA-Emume mkpụrụ ndụ ihe nketa (PRRROR ma ọ bụ cricriing)"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Nnyocha Banyere Ọrịa Ndị A Na - ebute n'Ihe Ndị Dị Ndụ",
+    "IHE ọkụkụ ndị a na - akọ n'ụlọ ọrụ mmepụta ihe na - eme ka a na - akọ",
+    "Saptata hàl all. mmadụ iri abụọ na otu n'ime ha bụ ndị ọsụ ụzọ pụrụ iche n'ụwa niile."
+  ]
+}

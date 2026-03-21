@@ -1,51 +1,51 @@
 {
-  "disease_name": "Alternaria Black Mold Stem Canker",
-  "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "disease_name": "Alternaria Siyah Çamur Çamur Kanser",
+  "scientific_name": "Alternatör SPP",
+  "pathogen_type": "Fonksiyon",
+  "genus": "Alternatif",
+  "description": "Alternaria siyah çam ağrısı çam ağrısı, Alternaria türünün türlerinden kaynaklanan bir mantar hastalığıdır. çam ağrısı, yaprakları ve bazen birçok bitkinin meyvelerini, özellikle de Solanaceae ailesindeki bitkileri etkiler. hastalık çam ağrısı büyümesini ve çam ağrısı üzerinde çam ağrısı üretir, bitki dayanıklılığını ve verim kaybını azaltır.",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "oy",
+    "Leaf Hakkında",
+    "Meyve"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "domates",
+    "Patates",
+    "Yumurta",
+    "Pepper için",
+    "Çeşitli Solanaceae bitkileri"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "Karanlık kahverengi siyah çerçeve büyümesi",
+    "Cancer veya bozulmuş yaralanmalar",
+    "Konsantrasyon yüzükleri ile yaprak noktaları",
+    "Yumuşak ve yaprakların dökülmesi",
+    "Bitki büyümesi azaldı"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "Sıcak sıcaklıklar (20-30°C)",
+    "Yüksek nem",
+    "Uzun süreli yaprak ıslaklığı",
+    "Enfekte bitki kalıntılarının varlığı"
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "rüzgârlı spores",
+    "yağmur splash",
+    "kirlenmiş bitki çöpleri",
+    "Enfekte tohumlar"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "Hastalığı olmayan tohumları kullanın",
+      "Ev sahibi olmayan bitkilerle döndürülen bitkiler",
+      "Enfekte bitki kalıntılarını ortadan kaldırmak",
+      "Bitkilerin çevresindeki hava dolaşımını iyileştirmek"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
+      "Mancozeb gibi fungicidler kullanın",
       "Chlorothalonil",
-      "Copper-based fungicides"
+      "bakır tabanlı fungicidler"
     ]
   }
 }

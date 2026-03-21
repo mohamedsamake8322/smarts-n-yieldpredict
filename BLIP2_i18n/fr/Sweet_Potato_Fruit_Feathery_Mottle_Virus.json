@@ -1,77 +1,128 @@
 {
-  "pest_name": "Sweet Potato Feathery Mottle Virus",
+  "pest_name": "Virus de la féverole de la pomme de terre douce",
   "abbreviation": "SPFMV",
   "type": "virus",
-  "history": "Initially discovered in the United States ~70 years ago. Most widely spread sweet potato virus worldwide, recently identified in Italy as primary contributor to SPVD.",
+  "history": "Initialement découvert aux États-Unis il y a ~70 ans. Le virus de la patate douce le plus largement répandu dans le monde, récemment identifié en Italie comme le principal contributeur de la DPVS.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à sens positif",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "cadre de lecture ouvert unique",
+      "3' UTR",
+      "arrière poly(A)"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Protéinase, activité de liaison de l'ARNss"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Protéinase, aide à la transmission du puceron, mouvement à longue distance"
+      },
+      {
+        "name": "P3",
+        "function": "Fonction de réplication virale"
+      },
+      {
+        "name": "6K1",
+        "function": "Inconnu"
+      },
+      {
+        "name": "États-Unis d'Amérique",
+        "function": "Protéine d'inclusion cytoplasmique, activité de l' hélicase de l' ARN"
+      },
+      {
+        "name": "6K2",
+        "function": "Inconnu, impliqué dans la réplication virale"
+      },
+      {
+        "name": "NIA",
+        "function": "VPg et protéinase"
+      },
+      {
+        "name": "NIB",
+        "function": "Réplique virale"
+      },
+      {
+        "name": "Cistron",
+        "function": "Protéines du manteau, assemblage virion, transmission virale, propagation"
+      }
+    ],
+    "virion_shape": "long, flexueux, en forme de tige",
     "virion_length_nm": "810-865"
   },
   "life_cycle": {
-    "entry": "Mechanical or vector-mediated via aphid stylets",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "translation_helpers": ["HC-Pro binds eIF4E, VPg, NIa"],
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Mécanique ou vectoriel via des stylets aphides",
+    "replication": "Génome traduit en polyprotéines, clivé par P1, HC-Pro, NIA protéases",
+    "translation_helpers": [
+      "HC-Pro lie eIF4E, VPg, NIa"
+    ],
+    "gene_silencing_suppression": "HC-Pro supprime siRNA et miRNA",
+    "packaging": "Génome répliqué emballé dans des virions"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent, via stylet tips",
-    "seed_transmission": "Not transmitted via seed",
+    "vectors": [
+      "aphidés"
+    ],
+    "mechanism": "Non persistante, via des conseils de stylet",
+    "seed_transmission": "Non transmis par l'intermédiaire de semences",
     "host_range": [
-      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
+      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. zéro, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
       "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
-      "Chenopodium quinoa",
+      "Chénopodium quinoa",
       "Datura stramonium"
     ]
   },
   "symptoms": {
-    "typical": "Feathery purple patterns on leaves",
-    "severe_strains": ["root necrosis", "leaf chlorosis", "root discoloration"],
+    "typical": "Féathéry pourpre motifs sur les feuilles",
+    "severe_strains": [
+      "nécrose des racines",
+      "chlorose foliaire",
+      "décoloration des racines"
+    ],
     "co-infections": {
-      "SPVD": "Occurs when SPFMV co-infects with SPCSV; causes stunted growth, severe mosaic, leaf distortion, reduced yield",
-      "synergism_effects": "SPFMV titers up to 600x higher in SPVD; enhanced spread and replication"
+      "SPVD": "Se produit lorsque le SPFMV co-infecte avec le SPCSV; provoque un retard de croissance, une mosaïque sévère, une distorsion foliaire, un rendement réduit",
+      "synergism_effects": "Titres SPFMV jusqu'à 600x plus élevés dans SPVD; diffusion et réplication accrues"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "EA",
+        "location": "Afrique de l ' Est"
+      },
+      {
+        "name": "RC",
+        "location": "Australie, Afrique, Amérique du Nord, Asie"
+      },
+      {
+        "name": "O",
+        "location": "Afrique, Asie, Amérique du Sud"
+      },
+      {
+        "name": "C",
+        "location": "Australie, Afrique, Asie, Amérique du Nord et du Sud"
+      }
     ],
-    "mutation_sources": "Geographical separation; coat protein gene variation affects immune response"
+    "mutation_sources": "Séparation géographique; la variation du gène des protéines du manteau affecte la réponse immunitaire"
   },
   "agricultural_impact": {
-    "affected_tissues": "Vegetative tissues, not reproductive",
-    "yield_loss": "Can range from 50% to near complete loss, especially in SPVD co-infections",
-    "affected_regions": "Oceania, Southern Africa, Barbados, other SPVD-affected areas",
-    "social_impact": "Impacts subsistence farmers relying on sweet potato as staple food"
+    "affected_tissues": "Tissus végétatifs, non reproducteurs",
+    "yield_loss": "Peut varier de 50% à une perte presque complète, en particulier dans les co-infections SPVD",
+    "affected_regions": "Océanie, Afrique australe, Barbade, autres zones touchées par le SPVD",
+    "social_impact": "Répercussions sur les agriculteurs de subsistance qui comptent sur la patate douce comme aliments de base"
   },
   "management": {
-    "early_detection": "ELISA for virus identification",
-    "removal": "Remove infected plants to prevent spread",
+    "early_detection": "ELISA pour l'identification du virus",
+    "removal": "Enlever les plantes infectées pour prévenir la propagation",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Properly clean tools to prevent mechanical transmission",
-      "Use transgenic plants expressing antiviral genes"
+      "Matériel de propagation sans virus végétal",
+      "Outils bien propres pour empêcher la transmission mécanique",
+      "Utiliser des plantes transgéniques exprimant des gènes antiviraux"
     ]
   },
   "references": [
-    "Various sources from plant virology and sweet potato disease studies as cited in user-provided content"
+    "Diverses sources d'études sur la virologie végétale et la patate douce citées dans le contenu fourni par l'utilisateur"
   ]
 }

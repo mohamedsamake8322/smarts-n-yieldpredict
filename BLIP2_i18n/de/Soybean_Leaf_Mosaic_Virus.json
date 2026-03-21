@@ -1,0 +1,64 @@
+{
+  "pest_name": "Sojabohnenblatt Mosaic Virus",
+  "scientific_name": "Sojabohnenmosaikvirus (SMV)",
+  "common_abbreviations": [
+    "SMV"
+  ],
+  "description": "Sojabohnenmosaikvirus (SMV) ist ein weit verbreitetes Pflanzenvirus, das hauptsächlich Sojabohnen betrifft und Blattmosaik, Stunting, reduzierte Pod-Zahl und Samenverfärbung verursacht. Ertragsverlust und verminderte Saatgutqualität können auftreten.",
+  "distribution": "Weltweit in allen Sojabohnenanbaugebieten, insbesondere in gemäßigten und subtropischen Regionen.",
+  "host_range": {
+    "general": "Meistens Glycine max (kultivierte Sojabohnen) und G. Soja (wilde Sojabohnen)",
+    "notable_hosts": [
+      "Erbsen",
+      "Bohnenknaben"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Mottling mit hellen und dunkelgrünen Flecken",
+      "Puckering entlang der Adern",
+      "Abwärtslocken von Blattblättern",
+      "Stunting und reduzierte Kraft"
+    ],
+    "pod": [
+      "Reduzierte Pod-Nummer pro Pflanze",
+      "Verfärbte und geschrumpfte Samen"
+    ]
+  },
+  "damage": [
+    "Reduzierte Saatgutqualität, -größe und -keimung",
+    "Reduzierte Nodulation und Ausbeute",
+    "Symptome können mild sein oder bei hohen Temperaturen fehlen",
+    "Schwere Auswirkungen bei Co-Infektion mit anderen Viren (z.B. BPMV)"
+  ],
+  "biology": {
+    "pathogen_type": "Virus, Gattung Potyvirus, Familie Potyviridae",
+    "particle": "Filamentische Partikel ~7500 Å lang, 120 Å Durchmesser",
+    "genome": "Einstrangige Positiv-Sense-RNA (~9,6 kb) mit VPg-Protein am 5′-Ende, Codierung eines einzelnen Polyproteins, das zu ~10 funktionellen Proteinen verarbeitet wird",
+    "transmission": [
+      "Nicht persistente Aphid-Übertragung",
+      "Samenübertragung",
+      "Sap"
+    ],
+    "favorable_conditions": "Kühle bis mittelschwere Temperaturen (16–28°C), Blattläuseaktivität fördert Verbreitung",
+    "seed_transmission_rate": "Typischerweise <5%, aber variabel je nach Sorte"
+  },
+  "management": {
+    "cultural_control": [
+      "pathogenfreies Saatgut verwenden",
+      "Pflanze früh in der Saison, um Auswirkungen zu reduzieren",
+      "Aphidpopulationen überwachen und verwalten"
+    ],
+    "genetic_control": [
+      "Verwendung von Sorten mit Resistenzgenen (R-Genen)"
+    ],
+    "chemical_control": [
+      "Begrenzte Wirksamkeit von Insektiziden zur Kontrolle von Blattläuse zur Verringerung der Virusausbreitung"
+    ]
+  },
+  "notes": [
+    "SMV-Interaktionen mit R-Genen werden als Modell für die Gen-für-Gen-Resistenz untersucht",
+    "RNA-Schleimung spielt eine Rolle bei der Samenübertragung und Saatmantelmottierung",
+    "Die Übertragung durch Blattläuse wird durch Virusproteine HC-Pro und Mantelprotein (CP) beeinflusst."
+  ]
+}

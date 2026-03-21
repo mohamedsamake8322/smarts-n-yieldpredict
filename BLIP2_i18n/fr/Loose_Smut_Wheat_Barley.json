@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "Morceau de blé et d'orge",
+  "scientific_name": "Ustiago tritici (Pers.) Rostr.",
+  "pathogen_type": "Agent pathogène fongique",
+  "description": "Le champignon infecte les grains en développement et les remplace par des masses de spores noires, qui sont dispersées par le vent pendant la floraison, ce qui entraîne des pertes de rendement importantes.",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "Spikelets remplacés par des spores noires poudreuses",
+    "Les têtes touchées émergent plus tôt que les têtes en bonne santé.",
+    "Pas de symptômes végétatifs sur les feuilles ou les tiges",
+    "Perte de rendement proportionnelle au taux d'infection"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "Blé (Triticum aestivum)",
+    "Orge (Hordeum vulgare)"
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "Conditions fraîches et humides pendant la floraison",
+    "Plantation de semences infectées"
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "Dispersion du vent des spores sur des fleurs saines",
+    "Transmission des semences à partir de grains infectés"
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "Utiliser des semences certifiées et exemptes de maladies",
+    "Traitement des semences avec des fongicides systémiques",
+    "Éviter de sauver les semences des cultures infectées",
+    "Rotation des cultures avec les espèces non hôtes"
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "Traitement des semences par la carboxine, le triadiménol ou les fongicides du thiram"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "Semences certifiées propres uniquement",
+    "Mettre en œuvre la rotation des cultures",
+    "Assainir le matériel de stockage et de plantation"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Guides phytosanitaires de la FAO",
+    "Publications scientifiques sur Ustilago tritici"
   ]
 }

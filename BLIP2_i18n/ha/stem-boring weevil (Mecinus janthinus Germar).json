@@ -1,69 +1,81 @@
 {
-  "pest_name": "Stem-Boring Weevil",
-  "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "pest_name": "Lalle Mũ, Mãsu yin azãbar rãmuwa ne ga mãsu laifi.",
+  "scientific_name": "@ item Spelling dictionary",
+  "type": "QFontDatabase",
+  "native_range": [
+    "Turai",
+    "Asiya"
+  ],
+  "introduced_range": [
+    "@ item Spelling dictionary"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
+    ],
+    "secondary": [
+      "@ item Spelling dictionary"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "shape": "keyboard- key- name"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "Mãsu aikin wahala ne, mãsu gajiya.",
+      "color": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "head_capsule": "QFontDatabase",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+      "features": [
+        "KCharselect unicode block name",
+        "Media controller element"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "Mãsu duhun inuwa.",
+      "length_mm": "2.",
+      "shape": "Raɓa tana da dogon yanayi kuma tana da ban dariya",
+      "metallic_sheen": "Sa'ad da aka gano sababbin abubuwa, sai a haɗa su da tsufa",
+      "comparison": "Suna da ƙananan abubuwa kuma ba sa amfani da abubuwan da ba su dace ba."
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "Ya yi girma a shekarun baya zuwa dama",
+    "spring_emergence": "A wurin da magaryar tuƙẽwa take.",
+    "adult_feeding": "Sabuwar ' yar itace kuma ta bar hagu, hakan na sa a daina bin misali mai kyau",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "' Ya'ya mata da suke kiwo a lokacin da suke girma, sukan yi ƙwai, su rufe kayan lambu.",
+      "quantity_per_lifetime": "dictionary variant"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "3 Sa'ad da nake girma, sai in ji kamar ba zan iya tashi ba.",
+    "pupation": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "adult_emergence": "A lokacin rani, a cikin ruwan sama da ke cike da gaɓar teku"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "Mãsu gudu suna ɓũya.",
+      "QXml",
+      "shuke - shuke suna raunana, suna shuka iri da kuma kayan aiki",
+      "' Ya'yan itacen, masuta suna juyawa da kuma kayan lambu"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "Media controller element",
+      "Abin da ke sa tsiro da mutuwa su zama ruwan dare gama gari",
+      "Wataƙila karin magana da aka yi amfani da ita, kana sa ruwa ya kasance na dogon lokaci"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "Idan ana kai hari kowace shekara, hakan zai rage yawan sa'ad da ake shuka iri a kan hanya"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "Ma'aikata da aka yi amfani da su a ƙasar Amirka",
+    "Idan mutum ya yi girma a cikin ruwan sama zai iya ja - goranci kayan aiki",
+    "@ action"
   ],
   "references": [
-    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+    "S.H.A. Y.I. S.A.A.A."
   ]
 }

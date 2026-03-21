@@ -1,0 +1,50 @@
+{
+  "disease": "Virus de la Clorosis de Lechuga (VCL)",
+  "scientific_name": "Virus de la clorosis de la lechuga",
+  "pathogen_type": "Virus (ARN-ss, Crinivirus)",
+  "description": "Una enfermedad viral que afecta a la lechuga y otros cultivos, causando coloración amarillenta, enrojecimiento y rizado de las hojas, crecimiento atrofiado y reducción del rendimiento. Transmitido por moscas blancas y material vegetal contaminado.",
+  "symptoms": [
+    "Amarillamiento y enrojecimiento de las hojas",
+    "Curtido de hojas",
+    "Adelgazamiento de las venas de las hojas",
+    "Plantas aturdidas o enanas",
+    "Rendimiento reducido y calidad de las flores"
+  ],
+  "hosts": [
+    "Lechuga",
+    "Remolachas",
+    "Más de 27 especies de plantas en 12 familias botánicas"
+  ],
+  "favorable_conditions": [
+    "Presencia de huespedes virulentos cerca de cultivos (por ejemplo, Physalis wrightii, Conyza canadensis, Lactuca serriola)",
+    "Poblaciones de moscas blancas altas",
+    "Invernadero o cultivo en el campo con un control deficiente de las plagas"
+  ],
+  "spread": [
+    "Alimentación por moscas blancas de invernadero (Bemisia tabaci y Bemisia argentifolii)",
+    "Semillas, esquejes u otros materiales vegetales infectados",
+    "Herramientas y equipos contaminados"
+  ],
+  "management": [
+    "Retire y destruya las plantas infectadas",
+    "Supervisar y controlar las poblaciones de moscas blancas",
+    "Utilizar semillas y esquejes libres de virus",
+    "Mantener una buena higiene y saneamiento de las herramientas",
+    "Retire las malas hierbas que actúan como reservorios"
+  ],
+  "chemical_control": [
+    "Insecticidas dirigidos a las moscas blancas (por ejemplo, imidacloprid, piretroides)",
+    "Aceite de neem o aerosoles de jabón insecticida como medidas preventivas"
+  ],
+  "prevention": [
+    "Utilizar material de plantación certificado sin virus",
+    "Aislar nuevas plantas de las zonas infectadas",
+    "Control de los anfitriones de malas hierbas en y alrededor de los campos",
+    "Monitorización regular de las moscas blancas"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Hojas informativas de la FAO sobre el virus de las plantas",
+    "Literatura científica sobre Crinivirus"
+  ]
+}

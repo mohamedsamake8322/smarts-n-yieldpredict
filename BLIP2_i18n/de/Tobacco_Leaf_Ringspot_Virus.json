@@ -1,0 +1,100 @@
+{
+  "virus_name": "Tabak-Ringfleckvirus",
+  "abbreviation": "VEREINIGTES KÖNIGREICH",
+  "family": "Secoviridae",
+  "genus": "Nepovirus",
+  "taxonomy": {
+    "order": "Picornavirale",
+    "virus_group": "Pflanzen-RNA-Virus"
+  },
+  "genome": {
+    "type": "Positiv-Sense-single-stranded-RNA",
+    "structure": "Bipartitgenom (RNA1 und RNA2)",
+    "particle_shape": "isometrisch",
+    "particle_size": "etwa 28 nm Durchmesser"
+  },
+  "transmission": {
+    "vectors": [
+      "Nematoden (Xiphinema spp.)",
+      "Trophäen",
+      "Weichtiere, auch geschrotet, auch geschrotet, auch geschrotet, auch geschrotet, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, ohne Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln, mit Zusatz von Zucker oder anderen Süßmitteln",
+      "Grashüpfer",
+      "Flohkäfer"
+    ],
+    "mechanical": true,
+    "seed_transmission": true,
+    "additional_notes": "Virus wurde in Bienen nachgewiesen, aber die Übertragung von Bienen auf Pflanzen wurde nicht bestätigt."
+  },
+  "hosts": {
+    "major_crops": [
+      "Tabak (Nicotiana-Arten)",
+      "Sojabohnen",
+      "Tomaten",
+      "Erdnuss",
+      "Kartoffeln",
+      "Kopfsalat"
+    ],
+    "ornamental_plants": [
+      "Zamia furfuracea",
+      "Chrysanthemen",
+      "Petunia"
+    ],
+    "weed_hosts": [
+      "Chenopodium spp.",
+      "Amaranthus spp.",
+      "Solanum nigrum"
+    ]
+  },
+  "symptoms": [
+    "Chlorotische Ringflecken auf Blättern",
+    "Nekrotische Ringflecken im Verlauf der Krankheit",
+    "Blattverformung und Verzerrung",
+    "Stuntes Wachstum in infizierten Pflanzen",
+    "Reduzierter Ertrag und Pflanzenkraft"
+  ],
+  "disease_cycle": [
+    "Virus überlebt in infizierten Pflanzen, Samen und Boden über Nematodenvektoren",
+    "Nematoden erwerben Virus während der Fütterung von infizierten Wurzeln",
+    "Vektoren übertragen Viren auf gesunde Pflanzen während der Fütterung",
+    "Mechanische Übertragung kann während des Anbaus auftreten"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Charakteristische Ringflecken auf Blättern",
+      "Chlorose und Nekrose um Läsionen"
+    ],
+    "laboratory_methods": [
+      "ELISA",
+      "PCR-basierte Diagnose",
+      "Elektronenmikroskopie"
+    ],
+    "viral_inclusions": [
+      "Vacuolat-Einschlüsse (Vac Inc.)",
+      "Kristalloide Einschlüsse (Cyst Inc)"
+    ]
+  },
+  "impact": {
+    "economic": "Kann schwere Ertragssenkungen bei Sojabohnen, Erdnüssen und Tabakpflanzen verursachen",
+    "agronomic": "Infizierte Pflanzen können ein schlechtes Wachstum und eine geringere Produktivität aufweisen"
+  },
+  "management": {
+    "cultural": [
+      "Verwendung zertifizierter virenfreier Samen",
+      "Infizierte Pflanzen frühzeitig entfernen",
+      "Rotieren von Kulturen mit Nicht-Host-Arten"
+    ],
+    "vector_management": [
+      "Bekämpfung der Nematodenpopulationen im Boden",
+      "Insektenvektoren überwachen und verwalten"
+    ],
+    "sanitation": [
+      "Desinfizieren Sie Werkzeuge und Geräte",
+      "Mechanische Übertragung zwischen Anlagen vermeiden"
+    ]
+  },
+  "references": [
+    "Handbuch zur APS-Pflanzenkrankheit",
+    "ICTV Virus Taxonomie",
+    "NCBI Virus Datenbank"
+  ]
+}

@@ -1,56 +1,56 @@
 {
- "pest": "Kudzu Bug",
- "scientific_name": "Megacopta cribraria",
- "pest_type": "Insect (Hemiptera: Plataspidae)",
- "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
- "symptoms": [
-  "Clusters of small brown shield-shaped insects on stems and leaves",
-  "Yellowing or browning of leaves",
-  "Reduced plant growth and vigor",
-  "Lower pod production in soybean",
-  "Sticky honeydew deposits that may lead to sooty mold"
- ],
- "hosts": [
-  "Soybean",
-  "Kudzu",
-  "Bean",
-  "Cowpea",
-  "Other legume crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Presence of kudzu plants near fields",
-  "Dense vegetation where insects can reproduce"
- ],
- "spread": [
-  "Adult insects flying to new fields",
-  "Movement from kudzu plants to nearby crops",
-  "Overwintering adults emerging in spring"
- ],
- "management": [
-  "Monitor fields regularly for insect clusters",
-  "Remove nearby kudzu plants when possible",
-  "Use resistant or tolerant soybean varieties",
-  "Encourage natural enemies in fields"
- ],
- "biological_control": [
-  "Parasitic wasps such as Paratelenomus saccharalis",
-  "General predators like spiders and lady beetles",
-  "Conservation of beneficial insects"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
-  "Neonicotinoid insecticides such as imidacloprid",
-  "Apply when pest populations reach economic threshold"
- ],
- "prevention": [
-  "Monitor fields early in the season",
-  "Control kudzu near crop fields",
-  "Maintain field sanitation and crop rotation"
- ],
- "source": [
-  "University of Georgia Extension",
-  "USDA Pest Management Guides",
-  "Integrated Pest Management literature"
- ]
+  "pest": "Kudzu Bug Hakkında",
+  "scientific_name": "Megacopta Cribraria Hakkında",
+  "pest_type": "Böcekler (Hemiptera: Plataspidae)",
+  "description": "Her ikisi de yetişkin ve nymph bitki çorbasını besler, bitki büyümesini ve verimliliğini azaltır. Asya'dan, çeşitli bitki bölgelerinde önemli bir pest haline gelmiştir.",
+  "symptoms": [
+    "Küçük kahverengi kalkan şeklinde böcek kümeleri çamur ve yapraklarda",
+    "Sarıya veya yaprakların çürümesi",
+    "Bitki büyümesi ve güç kaybı",
+    "Soya'da düşük pot üretimi",
+    "Yumuşak çamurlara yol açabilecek yumuşak bal depoları"
+  ],
+  "hosts": [
+    "Soylu",
+    "Kudzu",
+    "Bean",
+    "Koyun",
+    "Diğer sebze ürünleri"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar",
+    "Kudzu bitkilerinin alanların yakınında varlığı",
+    "Böceklerin çoğalabileceği yoğun bitki"
+  ],
+  "spread": [
+    "Yetişkin böcekler yeni alanlara uçuyor",
+    "Kudzu Bitkileri'nden Yakın Bitkilere Hareket",
+    "İlkbaharda ortaya çıkan kışlı yetişkinler"
+  ],
+  "management": [
+    "Böcek grupları için düzenli olarak tarama alanları",
+    "Mümkün olduğunda yakın kudzu bitkileri çıkarın",
+    "dayanıklı veya hoşgörülü soya çeşitleri kullanın",
+    "Doğal düşmanları alanlarda teşvik etmek"
+  ],
+  "biological_control": [
+    "Paratelenomus saccharalis gibi parazit böcekleri",
+    "Örümcekler ve Lady Beetles gibi genel haydutlar",
+    "faydalı böceklerin korunması"
+  ],
+  "chemical_control": [
+    "Piretroid böcek ilacı (örneğin bifenthrin, lambda-cyhalothrin)",
+    "Imidacloprid gibi neonicotinoid böcek ilacı",
+    "Pest Popülasyonları Ekonomik Sınırlara Ulaştığında Uygulama"
+  ],
+  "prevention": [
+    "Sonraki YazıSonraki YazıSonraki YazıSonraki YazıSonraki Yazı",
+    "Kudzu kontrolü bitki alanları yakınında",
+    "Toprak Sanitasyonu ve Bitki Dönüşü"
+  ],
+  "source": [
+    "Georgia Üniversitesi Genişletme",
+    "USDA Pest Yönetimi Kılavuzu",
+    "Entegre Pest Yönetimi Edebiyatı"
+  ]
 }

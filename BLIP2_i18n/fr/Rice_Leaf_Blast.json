@@ -1,87 +1,87 @@
 {
- "disease": "Rice Leaf Blast",
- "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
- "pathogen_type": "Fungus",
- "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
- "symptoms": [
-  "Diamond or spindle-shaped lesions on leaves",
-  "Lesions with gray or white center and brown or reddish border",
-  "Small spots that enlarge and merge on leaves",
-  "Leaf drying or death in severe infections",
-  "Reduced plant growth",
-  "In severe cases young plants may die"
- ],
- "visual_symptoms": [
-  "diamond-shaped leaf spots",
-  "gray or white center with brown border",
-  "multiple lesions merging on leaves",
-  "damaged or dried rice leaves"
- ],
- "hosts": [
-  "Rice (Oryza sativa)",
-  "Wild rice species",
-  "Some grasses"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "leaf collar",
-  "stem nodes",
-  "panicles"
- ],
- "favorable_conditions": [
-  "High humidity above 90%",
-  "Long periods of leaf wetness (dew, rain, fog)",
-  "Warm temperatures around 25–28°C",
-  "Dense crop canopy",
-  "Excess nitrogen fertilization"
- ],
- "spread": [
-  "Airborne fungal spores (conidia)",
-  "Wind",
-  "Splashing rain or irrigation water",
-  "Infected seeds",
-  "Crop residue from previous season"
- ],
- "disease_cycle": [
-  "Fungus survives on infected seeds and crop residues",
-  "Spores are produced on infected tissues",
-  "Spores spread by wind or water",
-  "Infection occurs when leaves remain wet",
-  "New lesions produce more spores causing rapid disease cycles"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf damage and plant weakening",
-  "Lower grain yield",
-  "Poor grain quality",
-  "Severe outbreaks can cause major crop losses"
- ],
- "cultural_control": [
-  "Use resistant rice varieties",
-  "Plant certified disease-free seed",
-  "Maintain continuous flooding when possible",
-  "Avoid excessive nitrogen fertilization",
-  "Destroy infected crop residue"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species",
-  "Promote balanced soil microbiology"
- ],
- "chemical_control": [
-  "Azoxystrobin",
-  "Trifloxystrobin",
-  "Propiconazole combinations",
-  "Difenoconazole combinations"
- ],
- "prevention": [
-  "Regular field monitoring for early symptoms",
-  "Balanced fertilization",
-  "Maintain proper irrigation management",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Rice Research and Extension Center",
-  "Crop Protection Network",
-  "Plant pathology references on rice blast"
- ]
+  "disease": "Blast de feuille de riz",
+  "scientific_name": "Magnaporthe oryzae (anamorphe : Pyricularia oryzae)",
+  "pathogen_type": "Champignons",
+  "description": "L'explosion du riz est l'une des maladies les plus destructrices du riz dans le monde. Le champignon infecte les feuilles, les nœuds et les panicules. Sur les feuilles il produit des lésions caractéristiques en forme de diamant qui réduisent la photosynthèse et affaiblissent la plante.",
+  "symptoms": [
+    "Lésions en forme de diamant ou de broche sur les feuilles",
+    "Lésions au centre gris ou blanc et bordure marron ou rougeâtre",
+    "Petites taches qui s'élargissent et fusionnent sur les feuilles",
+    "Séchage des feuilles ou décès lors d'infections graves",
+    "Réduction de la croissance des plantes",
+    "Dans les cas graves, les jeunes plantes peuvent mourir"
+  ],
+  "visual_symptoms": [
+    "Taches de feuilles en forme de diamant",
+    "centre gris ou blanc avec bordure marron",
+    "de multiples lésions se fusionnant sur les feuilles",
+    "feuilles de riz endommagées ou séchées"
+  ],
+  "hosts": [
+    "Riz (Oryza sativa)",
+    "Espèces de riz sauvage",
+    "Quelques graminées"
+  ],
+  "plant_parts_affected": [
+    "feuilles",
+    "col des feuilles",
+    "Nœuds de la tige",
+    "paniques"
+  ],
+  "favorable_conditions": [
+    "Humidité élevée supérieure à 90 %",
+    "Longues périodes d'humidité des feuilles (peu, pluie, brouillard)",
+    "Températures chaudes autour de 25–28°C",
+    "Canopée dense des cultures",
+    "Fertilisation excessive de l'azote"
+  ],
+  "spread": [
+    "Spores fongiques aéroportées (conidie)",
+    "Vent",
+    "Pluie éclatante ou eau d'irrigation",
+    "Graines infectées",
+    "Résidus de culture de la saison précédente"
+  ],
+  "disease_cycle": [
+    "Les champignons survivent sur les graines infectées et les résidus de cultures",
+    "Des spores sont produites sur des tissus infectés.",
+    "Spores disséminées par le vent ou l'eau",
+    "L'infection survient lorsque les feuilles restent mouillées",
+    "De nouvelles lésions produisent plus de spores causant des cycles de maladies rapides"
+  ],
+  "impact": [
+    "Photosynthèse réduite",
+    "Dommages foliaires et affaiblissement de la plante",
+    "Rendement céréalier inférieur",
+    "Mauvaise qualité des céréales",
+    "Des épidémies graves peuvent causer des pertes importantes de cultures."
+  ],
+  "cultural_control": [
+    "Utiliser des variétés de riz résistantes",
+    "Semences certifiées indemnes de maladies végétales",
+    "Maintenir les inondations continues dans la mesure du possible",
+    "Éviter la fertilisation excessive de l'azote",
+    "Détruire les résidus de cultures infectés"
+  ],
+  "biological_control": [
+    "Utiliser des microbes bénéfiques comme les espèces de Trichoderma",
+    "Promouvoir une microbiologie équilibrée des sols"
+  ],
+  "chemical_control": [
+    "Azoxystrobine",
+    "Trifloxystrobine",
+    "Associations de propiconazole",
+    "Associations de difénoconazole"
+  ],
+  "prevention": [
+    "Surveillance régulière des symptômes précoces sur le terrain",
+    "Fertilisation équilibrée",
+    "Maintenir une bonne gestion de l'irrigation",
+    "Utiliser des pratiques de gestion intégrée des maladies"
+  ],
+  "source": [
+    "Centre de recherche et d'extension sur le riz",
+    "Réseau de protection des cultures",
+    "Références de pathologie végétale sur les explosions de riz"
+  ]
 }

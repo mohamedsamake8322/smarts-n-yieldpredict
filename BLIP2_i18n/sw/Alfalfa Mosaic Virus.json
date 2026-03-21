@@ -1,84 +1,84 @@
 {
- "disease": "Alfalfa Mosaic Virus",
- "scientific_name": "Alfalfa mosaic virus (AMV)",
- "pathogen_type": "Virus (RNA virus)",
- "description": "A plant virus that infects peppers and many other crops. It spreads mainly by aphids and causes mosaic patterns, leaf deformation and reduced plant growth.",
- "symptoms": [
-  "Yellow mosaic patterns on leaves",
-  "Leaf vein deformation",
-  "Leaf curling",
-  "Whitish or bleached leaf spots",
-  "Black necrotic spots between veins (rare)",
-  "Mottled or blotchy fruits",
-  "Dark sunken spots on fruits",
-  "Stunted plant growth"
- ],
- "hosts": [
-  "Pepper",
-  "Alfalfa",
-  "Tomato",
-  "Potato",
-  "Eggplant",
-  "Cucumber",
-  "Squash",
-  "Pumpkin",
-  "Pea",
-  "Bean",
-  "Lentil",
-  "Chickpea",
-  "Soybean",
-  "Clover",
-  "Lucerne",
-  "Tobacco",
-  "Spinach",
-  "Lettuce",
-  "Carrot",
-  "Celery"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Pepper fields close to alfalfa crops",
-  "Aphid movement after alfalfa harvest"
- ],
- "spread": [
-  "Aphids feeding briefly on plants",
-  "Mechanical transmission through contaminated tools",
-  "Seed transmission (low rate)"
- ],
- "management": [
-  "Plant resistant or tolerant cultivars",
-  "Remove infected seedlings before planting",
-  "Plant peppers away from alfalfa fields",
-  "Use barrier crops such as corn",
-  "Use trap crops such as peas",
-  "Sanitize tools, pots and stakes",
-  "Adjust planting dates when possible"
- ],
- "biological_control": [
-  "Use natural predators such as lady beetles",
-  "Use minute pirate bugs (Orius spp.) to reduce aphid populations",
-  "Encourage beneficial insects in the field",
-  "Apply neem-based products containing azadirachtin"
- ],
- "chemical_control": [
-  "Mineral oil sprays to reduce virus transmission",
-  "Insecticidal soaps (fatty acids)",
-  "Imidacloprid",
-  "Acetamiprid",
-  "Flonicamid",
-  "Pymetrozine",
-  "Kaolin clay sprays to deter aphids"
- ],
- "prevention": [
-  "Use resistant cultivars",
-  "Keep distance between peppers and alfalfa fields",
-  "Use reflective mulch or straw mulch to repel aphids",
-  "Remove infected plants early",
-  "Control aphid populations in surrounding crops"
- ],
- "source": [
-  "Colorado State University Extension",
-  "Journal of Integrated Pest Management",
-  "Frontiers in Microbiology"
- ]
+  "disease": "Virusi vya Maalfalfa",
+  "scientific_name": "Virusi vya Alfalfa (AMV)",
+  "pathogen_type": "Virusi (virusi yaRNA)",
+  "description": "Virusi vya mmea ambavyo huambukiza pilipili na mimea mingine mingi, huenea hasa kwa wadudu wa aphids na kusababisha maumbo mbalimbali, ubichiji wa majani na kupungua kwa ukuzi wa mimea.",
+  "symptoms": [
+    "Michoro ya manjano kwenye majani",
+    "Sehemu ya juu ya mshipa wa majani",
+    "Kukunja majani",
+    "Madoa ya majani ya Whitish au yaliyotiwa dawa ya kuondoa madoa",
+    "Vyeo vya necrotic katikati ya vena (rare)",
+    "Matunda yenye umajimaji au yenye madoa - doa",
+    "Madoa meusi yaliyozama kwenye matunda",
+    "Ukuzi wa mimea iliyonyauka"
+  ],
+  "hosts": [
+    "Pilipili",
+    "Alfalfa",
+    "Nyanya",
+    "Potato",
+    "Kupanda Mayai",
+    "Pacumber",
+    "Swashi",
+    "Pumpkin",
+    "Pea",
+    "Bean",
+    "Lentil",
+    "Chickpea",
+    "Soybean",
+    "Kloofu",
+    "Lucerne",
+    "Tumbaku",
+    "Spinach",
+    "Letuce",
+    "Carrot",
+    "Kiepeo"
+  ],
+  "favorable_conditions": [
+    "Idadi kubwa ya watu wenye sumu",
+    "Mashamba ya Pepi karibu na mimea ya alfalfa",
+    "Uhamaji wa alfalfa baada ya kuvuna alfalfa"
+  ],
+  "spread": [
+    "Mifugo hula mimea kwa muda mfupi",
+    "Mashine za kupitisha kupitia vifaa vilivyochafuliwa",
+    "Kupitishwa kwa mbegu (kiwango cha chini)"
+  ],
+  "management": [
+    "Wafuasi wa madhehebu yenye kukinza au yenye kuvumilia",
+    "Ondoa mbegu zilizoambukizwa kabla ya kupanda",
+    "Pilipili za mimea zilizo mbali na mashamba ya alfalfa",
+    "Weka kizuizi cha mimea kama vile mahindi",
+    "Tumia mimea ya mtego kama vile pea",
+    "Panga vifaa, vyungu na vigingi",
+    "Badili tarehe za kupanda unapowezekana"
+  ],
+  "biological_control": [
+    "Tumia wanyama wanaowinda kama vile mbawakawa wa kike",
+    "Tumia wadudu wadogo wa pitexa (Orius pp.) kupunguza idadi ya watu wenye sumu",
+    "Watie moyo wadudu wenye manufaa shambani",
+    "Tumia bidhaa za neem zenye azadirachtin"
+  ],
+  "chemical_control": [
+    "Minyunyizo ya mafuta ya ardhini ili kupunguza kupitishwa kwa virusi",
+    "Sabuni za kuua wadudu",
+    "Imidicloprid",
+    "Acetamiprid",
+    "Floricamid",
+    "Pymetrozine",
+    "Minyunyizo ya udongo ya Kaolin ili kuzuia aphids"
+  ],
+  "prevention": [
+    "Tumia wafuasi wa madhehebu sugu",
+    "Weka umbali kati ya pilipili na mashamba ya alfalfa",
+    "Tumia kiakisi - nuru au nyasi kavu kufukuza wadudu wanaoitwa aphid",
+    "Ondoa mimea iliyoambukizwa mapema",
+    "Udhibiti idadi ya watu wenye upungufu katika mazao yaliyo karibu"
+  ],
+  "source": [
+    "Colorado State University Extension",
+    "Journal of Integrated Pest Management",
+    "Mipaka Katika Microbiolojia"
+  ]
 }

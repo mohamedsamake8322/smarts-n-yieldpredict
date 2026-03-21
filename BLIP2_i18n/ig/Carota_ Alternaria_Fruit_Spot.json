@@ -1,0 +1,90 @@
+{
+  "disease": "Ebe a na - edebe akwụkwọ osisi n'ala",
+  "scientific_name": "Plaria duuuu",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọ na - amalite n'akwụkwọ ya nke meworo ochie ma na - emepụta ihe ndị na - acha odo odo. N'ime ọrịa ndị siri ike, ọ na - akwụsị isi ọwụwa, kpọọ nkụ ma nwụọ, na - akpata mfu bụ́ isi.",
+  "symptoms": [
+    "Ọ na - esi ike ịhụ ebe ojii na - acha nchara nchara n'akwụkwọ",
+    "Ihe ndị na - acha odo odo na - eme ka ahụ́ na - ama jijiji",
+    "A na - ebu ụzọ ede ihe n'akwụkwọ ndị merela ochie",
+    "Ebe ndị a na - edebe ihe ọmụma n'Intanet na ebe ndị e nwere ọtụtụ ebe nwụrụ anwụ",
+    "Ihe ndị anyị hapụrụ na - aghọ ndị isi ojii, ndị akpịrị na - akpọ nkụ ma na - akpọnwụ akpọnwụ",
+    "Ọrịa ndị a na - ebute site n'ịṅụbiga mmanya ókè na - akpata mbibi nke akwụkwọ osisi ma na - eme ka ike gwụ mkpụrụ akụ́kụ́",
+    "Mkpụrụ akụ́kụ́ nwere ike ịnwụ n'ihi na ọ na-enweghị isi"
+  ],
+  "visual_signature": [
+    "Ebe ndị gbara ọchịchịrị ma ọ bụ akwụkwọ osisi ojii",
+    "Ihe na - acha odo odo bụ́ ndị na - adị gburugburu ihe ndị na - acha odo odo",
+    "Akwụkwọ ya ndị nwere àgwà ojii"
+  ],
+  "affected_plant_parts": [
+    "akwụkwọ",
+    "Ihe ndị dị n'ahụ́ ụmụ anụmanụ",
+    "Mkpụrụ"
+  ],
+  "hosts": [
+    "Nnyemaka ngwaọrụ",
+    "Hichaa ngwa ngwa?",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "ebe a na - edebe ihe n'ala",
+    "Obere ụgbọala",
+    "Ihe ọkụkụ ndị ọzọ na - agbawa agbawa"
+  ],
+  "plant_family": "Anụ ọhịa alsae",
+  "favorable_conditions": [
+    "Oge oyi",
+    "Mgbe mgbe, mmiri na - ezo",
+    "Elu elu",
+    "Na - akụ ihe n'ụba",
+    "Ogologo oge nke ahịhịa ndụ"
+  ],
+  "spread": [
+    "Mkpụrụ ndị butere ya",
+    "Ifufe-dimea ozuzo",
+    "Mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa na - agba n'ala",
+    "Ihe ndị na - atọ ọchị na - eme ka ikuku na - ebugharị"
+  ],
+  "management": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Jiri mmiri dị ọkụ saa mkpụrụ akụ́kụ́ ndị e ji mmiri dị ọkụ mee ihe ruo minit 303)",
+    "Zere ịgha mkpụrụ n'ụba iji belata mmiri ara ehi",
+    "Wepụ iberibe ihe ọkụkụ ndị nwere nje ndị na - akpata ọrịa mgbe oge owuwe ihe ubi gasịrị",
+    "Na - echebara ihe ubi echiche ruo ma ọ dịkarịa ala afọ 3",
+    "Ka ụdị ụgbọ mmiri dị iche iche na - amụba"
+  ],
+  "biological_control": [
+    "Ụdị dị iche iche nke mmiri ọgwụ ahụ́",
+    "Mkpụrụ ndụ ihe nketa ndị dị ndụ bụ́ ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - eme ka ahụ́ na - arụ ọrụ nke ọma"
+  ],
+  "chemical_control": [
+    "Macoze",
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Ihe ndị na - akpali agụụ mmekọahụ",
+    "Ana m arịa ọrịa shuga",
+    "Mkpụrụ ndụ ihe nketa na - ejupụta ebe nile",
+    "Ihe ndị a bụ ihe ndị na - atọ ọchị na ihe ndị na - akpali agụụ mmekọahụ"
+  ],
+  "seed_treatment": [
+    "[ Foto dị na peeji nke 24]",
+    "Nanai"
+  ],
+  "similar_diseases": [
+    "Ebe a na - edebe akwụkwọ nri"
+  ],
+  "differential_diagnosis": {
+    "Alternaria_leaf_spot": "A na - eji ihe ndị na - acha odo odo emepụta ihe na - acha odo odo",
+    "Cercospora_leaf_spot": "Ìhè ndị na - acha nchara nchara ma ọ bụ ndị na - adị gburugburu"
+  },
+  "impact": [
+    "Onye nwụrụ ngwa ngwa n'akwụkwọ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ",
+    "● Otú o si eme ka ọ ghara ịna - adị mfe iji ya eme ihe otú o si masị ya",
+    "Ihe ndị bụ́ isi na - ala n'iyi n'oge ụkọ nri"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "DỊ KA BỤ́ CIROSR BỤ́ onye na - arịa ọrịa na - efe efe bụ́ CArops n'Australia",
+    "University of Massachusetts (n'asụsụ Bekee)",
+    "Ngalaba Na - ahụ Maka Ihe Ndị Dị Ndụ na Ihe Ndị Na - eme n'Ụwa"
+  ]
+}

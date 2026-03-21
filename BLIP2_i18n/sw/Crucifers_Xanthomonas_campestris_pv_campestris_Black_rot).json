@@ -1,74 +1,74 @@
 {
-  "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
-  "common_name": "Black rot of crucifers",
-  "scientific_name": "Xanthomonas campestris pv. campestris",
-  "pathogen_type": "Bacterium",
-  "description": "Black rot is a serious bacterial disease affecting cruciferous crops. It is caused by the bacterium Xanthomonas campestris pv. campestris and spreads mainly through infected seeds, plant debris, water splash, and contaminated tools. The pathogen enters plants through hydathodes at the leaf margins or through wounds, then spreads through the vascular system, causing characteristic blackened veins and leaf necrosis.",
+  "disease_name": "Mwisho_Mwisho_Mwisho_Mwisho_Mwisho_Mwisho_Mwisho_Mwisho",
+  "common_name": "Rangi ya Black ya Crucifers",
+  "scientific_name": "Mnamo Mnamo Mnamo Mnamo Mnamo",
+  "pathogen_type": "Bakteri ya",
+  "description": "Root Black ni magonjwa makubwa ya bakteria ambayo huathiri mimea ya cruciferous. Ni kwa sababu ya bacterium Xanthomonas campestris pv. campestris na kuenea kwa ujumla kupitia mbolea zilizoathiriwa, mbolea ya mimea, maji, na vifaa zilizoathiriwa. Pathogens kuingia mimea kupitia hydatodes kwenye mbolea ya mti au kupitia maumivu, kisha kuenea kupitia mfumo wa maumivu, ambayo huathiri maumivu ya maumivu na necrosis ya mti.",
   "hosts": [
-    "Cabbage",
-    "Broccoli",
-    "Cauliflower",
-    "Brussels sprouts",
-    "Kale",
-    "Radish",
-    "Turnip",
-    "Mustard",
-    "Other cruciferous crops (Brassicaceae family)"
+    "ya Cabbage",
+    "ya Broccoli",
+    "Maua ya maua",
+    "Brussels ya kuvutia",
+    "wa Kale",
+    "Radhi ya",
+    "Mchezo",
+    "Mustard ya",
+    "Vitu vingine vya kiroho (familia ya Brassicaceae)"
   ],
   "symptoms": [
-    "Yellow V-shaped lesions starting from leaf margins",
-    "Lesions progressing toward the center of the leaf",
-    "Blackening of leaf veins",
-    "Leaf wilting and necrosis",
-    "Stunted plant growth",
-    "Severe infections may cause plant death"
+    "Maambukizi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi ya rangi",
+    "Majeruhi kuongezeka kwa mwelekeo wa bustani",
+    "Uchafu wa viungo vya nyama",
+    "Mchakato wa nywele na necrosis",
+    "Kuanzisha ukuaji wa mimea",
+    "Maambukizi makubwa yanaweza kusababisha mauti ya mimea"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall or overhead irrigation",
-    "Presence of infected seeds",
-    "Mechanical injuries on plants"
+    "Hali ya joto (25-30 ° C)",
+    "Ukosefu wa juu",
+    "Matokeo ya mvua ya mara kwa mara au mvua ya juu",
+    "Ukosefu wa matunda yaliyoathiriwa",
+    "Uharibifu wa kiufundi katika mimea"
   ],
   "management": {
     "monitoring": [
-      "Regular field scouting for V-shaped lesions on leaves",
-      "Inspection of seedlings and young plants",
-      "Monitoring fields after periods of rain or high humidity"
+      "Kazi ya kawaida kwa madhara ya V-shaped juu ya tiketi",
+      "Utafiti wa wanyama na mimea vijana",
+      "Ufuatiliaji wa maeneo baada ya kipindi cha mvua au nishati ya juu"
     ],
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Practice crop rotation for at least 3–4 years",
-      "Remove and destroy infected plant residues",
-      "Avoid overhead irrigation to reduce leaf wetness",
-      "Disinfect agricultural tools and equipment",
-      "Plant resistant or tolerant varieties when available"
+      "Kutumia matunda yasiyo ya magonjwa",
+      "Kuanzisha mzunguko wa mimea kwa muda wa angalau 3-4 miaka",
+      "Kuondoa na kuharibu mbegu za mazao yaliyoathirika",
+      "Kuepuka uchafu wa juu ili kupunguza uchafu wa karatasi",
+      "Kuondoa vifaa na vifaa vya kilimo",
+      "aina ya mimea ya kupumzika au kupumzika wakati inapatikana"
     ],
     "biological_control": {
       "microorganisms": [
-        "Bacillus subtilis",
-        "Bacillus amyloliquefaciens",
-        "Pseudomonas fluorescens"
+        "Maelezo ya Bacillus subtilis",
+        "ya Bacillus amyloliquefaciens",
+        "Msingi wa Fluorescent"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control of bacterial diseases is limited. Copper-based bactericides are commonly used as preventive treatments.",
+      "note": "Matibabu ya kemikali ya magonjwa ya bakteria ni mdogo. bactericides msingi tembo ni kawaida kutumika kama matibabu ya kuzuia.",
       "active_ingredients": [
-        "Copper hydroxide",
-        "Copper oxychloride",
-        "Copper sulfate"
+        "Hydroxide ya Copper",
+        "Ukubwa wa Oxychloride",
+        "Suluhisho ya Copper"
       ]
     }
   },
-  "economic_importance": "Black rot can cause significant yield losses in cruciferous crops worldwide. Severe infections may destroy entire fields, particularly in warm and humid climates where the disease spreads rapidly.",
+  "economic_importance": "Maua ya kijani inaweza kusababisha uharibifu mkubwa wa matunda katika matunda ya msalaba duniani kote. infection kubwa inaweza kuharibu maeneo yote, hasa katika hali ya hewa na ya mvua ambapo ugonjwa unaongezeka haraka.",
   "references": [
-    "Agrios, G. N. Plant Pathology.",
-    "CABI Crop Protection Compendium.",
-    "FAO Integrated Pest Management resources.",
-    "Wikipedia – Black rot of crucifers."
+    "Agrios, G. N. Matokeo ya matibabu ya mimea.",
+    "Mkataba wa kulinda bidhaa ya CABI.",
+    "Fedha ya Fedha ya Fedha ya Fedha ya Fedha.",
+    "Wikipedia - Rangi ya Black ya Crucifers."
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
-    "https://www.cabi.org"
+    "HTTPS://en.wikipedia.org/wiki/Xanthomonas_campestris",
+    "HTTPS ya www.cabi.org"
   ]
 }

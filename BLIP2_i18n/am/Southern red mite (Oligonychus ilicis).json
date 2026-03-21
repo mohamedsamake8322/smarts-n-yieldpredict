@@ -1,0 +1,209 @@
+{
+  "pest_name": "ደቡብ ደቡብ ደቡብ ደቡብ",
+  "scientific_name": "የኦሪጂናል የኦሪጂናል",
+  "common_abbreviation": "የ SRM",
+  "description": "Southern red mite በካሜል, rhododendron, holly, እና காபி ጨምሮ የተለያዩ ምርቶች ላይ የተመሠረተ የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል የካሜል",
+  "appearance": {
+    "size": "<0.5 ሚሜ",
+    "color": "Reddish ጥቁር ወደ ታላቅ ጥቁር ጥቁር ጥቁር, አንዳንድ ጊዜ አንድ ቀጥተኛ ደንበኞች እና ደንበኞች ጋር",
+    "sexual_dimorphism": "የሴቶች ቀላል መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን",
+    "eggs": "Reddish ጥቁር, ስፕሪካል; በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ በከፍተኛ ወረቀት ላይ"
+  },
+  "life_cycle": {
+    "stages": [
+      "መጋቢት",
+      "ፎቶዎች (6 ቀናት)",
+      "Nymph1 (8 ወረቀት)",
+      "Nymph2 (8 ወረቀት)",
+      "ተማሪዎች"
+    ],
+    "generation_time": "7 ሰዓታት የተሻለ ሁኔታዎች ውስጥ",
+    "population_peaks": "መጋቢት እና መጋቢት (የሙቀት 15-30 °C, ሙቀት)",
+    "overwintering": "አግኝት ላይ አግኝት አግኝት እና አንዳንድ ጊዜ አግኝት"
+  },
+  "dispersal": [
+    "የአውሮፕላኖች; የሽያጭ የሽያጭ የሽያጭ ይሆናል",
+    "የግል እና መሣሪያዎች ላይ Hitch-Hiking",
+    "ፎቶዎች ይሰጣል"
+  ],
+  "host_range": [
+    {
+      "common_name": "የላኪያ",
+      "scientific_name": "የ Rhododendron SPP."
+    },
+    {
+      "common_name": "ካሜራ",
+      "scientific_name": "ካሜራ ጃፓን"
+    },
+    {
+      "common_name": "የአሜሪካ SICAMORE",
+      "scientific_name": "የአውሮፕላኖች"
+    },
+    {
+      "common_name": "የክፍያ",
+      "scientific_name": "የንግድ SPP."
+    },
+    {
+      "common_name": "የኮምፒውተር ንድፍ",
+      "scientific_name": "የ Cinnamonum Camphora"
+    },
+    {
+      "common_name": "የካፊያ",
+      "scientific_name": "የኦሪጂናል ካፒታል"
+    },
+    {
+      "common_name": "የኮቶኒው",
+      "scientific_name": "የኮቶንቲክ SP."
+    },
+    {
+      "common_name": "የክሮኒካል",
+      "scientific_name": "ማክሮኮርፖን Vaccination"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የኦሪጂናል SP."
+    },
+    {
+      "common_name": "መኖሪያ ቤት",
+      "scientific_name": "የኦሪጂናል SP."
+    },
+    {
+      "common_name": "የካርቦን / Silverthorn",
+      "scientific_name": "ፎቶዎች ፎቶዎች"
+    },
+    {
+      "common_name": "የንግድ ቫልቭ",
+      "scientific_name": "የአውሮፕላኖች"
+    },
+    {
+      "common_name": "የ Eucalyptus",
+      "scientific_name": "የ Eucalyptus spp."
+    },
+    {
+      "common_name": "የንግድ",
+      "scientific_name": "ፎቶዎች ፎቶዎች"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የኦሪጂናል SPP"
+    },
+    {
+      "common_name": "የ Hibiscus",
+      "scientific_name": "የ HIBISCUS SPP"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የአውሮፓ SP."
+    },
+    {
+      "common_name": "ጓደኞች ወይም ጓደኞች",
+      "scientific_name": "የአውሮፕላስ Nobilis"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የኦሪጂናል የኦሪጂናል"
+    },
+    {
+      "common_name": "ፎቶ",
+      "scientific_name": "የንግድ SP."
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የፓሪስ ኮምኒስ"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "ፎቶዎች ፎቶዎች"
+    },
+    {
+      "common_name": "የኦሪጂናል / የኦሪጂናል",
+      "scientific_name": "የ Photinia SPP."
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የ Pyracantha Coccinea"
+    },
+    {
+      "common_name": "የኦሪጂናል Apples",
+      "scientific_name": "የሲሲጂየም JAMBOS"
+    },
+    {
+      "common_name": "የሽያጭ Oak",
+      "scientific_name": "የላቀ የላቀ"
+    },
+    {
+      "common_name": "መሳሪያዎች",
+      "scientific_name": "የፓንቲክ SP"
+    },
+    {
+      "common_name": "መጋቢት",
+      "scientific_name": "የሙከራዎች Alnifolia"
+    },
+    {
+      "common_name": "የክፍያ",
+      "scientific_name": "ፎቶዎች x Ananassa"
+    },
+    {
+      "common_name": "የሽያጭ",
+      "scientific_name": "የካሜሊያ SINENSIS"
+    },
+    {
+      "common_name": "የ Viburnum",
+      "scientific_name": "የቪዲዮዎች SPP."
+    },
+    {
+      "common_name": "የኦክሊት",
+      "scientific_name": "የኦክሊት"
+    },
+    {
+      "common_name": "ፎቶዎች Laurel",
+      "scientific_name": "የካልሜን Angustifolia"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "ፎቶዎች Virginiana"
+    },
+    {
+      "common_name": "ፎቶዎች",
+      "scientific_name": "የ Chamaedaphne calyculata"
+    },
+    {
+      "common_name": "ቫልቭ",
+      "scientific_name": "የአውሮፕላኖች"
+    },
+    {
+      "common_name": "የኃይል",
+      "scientific_name": "የኦሪጂናል Sativa"
+    }
+  ],
+  "damage_symptoms": [
+    "በከፍተኛ ዝርዝር ላይ ምግብ በ mesophyll ጫፍ, graying, እና stippling ይሆናል.",
+    "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች",
+    "የካርቦችን እና የካርቦችን ላይ የካርቦችን ይጀምራል, ከዚያም የካርቦችን ሁሉ ይጀምራል.",
+    "ፎቶዎች መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን",
+    "ዝቅተኛ የፕላስቲክ ኃይል እና ልምድ, առնվազն የሙቀት ወይም የሙቀት የፕላስቲክ መሣሪያዎች"
+  ],
+  "detection_monitoring": [
+    "የሽያጭ, የሽያጭ, የሽያጭ, የሽያጭ ፎቶዎች ፎቶዎች ፎቶ",
+    "ማረጋገጫ ለ ንድፍ ንድፍ",
+    "ዝቅተኛ አጠቃቀም ለ ጫማዎች (ማል / ጥቁር) ጫማዎች",
+    "የአውሮፕላኖች ላይ ጥቁር አክሮፕላኖች ማረጋገጫ"
+  ],
+  "chemical_control": [
+    "የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ የቴክኒካዊ",
+    "Aldicarb, bifenthrin, chlorpyrifos, dicofol, omethoate, propargite, tau-fluvalinate, tebufenpyrad አንዳንድ ሁኔታዎች ውስጥ ውጤታማ",
+    "Abamectin, chlorfenapyr, dimethoate, phenbutatin oxide, maldison በጣም በጣም ውጤታማ ነው.",
+    "ቀጣይ መተግበሪያዎች ዝቅተኛ ውጤታማ; ቀጣይ መተግበሪያዎች ቀጣይ መተግበሪያዎች ቀጣይ መተግበሪያ"
+  ],
+  "biological_control": [
+    "የፕላርቲክ ስሜት (Neoseiulus fallacis) እና ladybeetle (Stethorus punctillum) አጠቃቀም",
+    "እንደ Neoseiulus californicus እና Phytoseiulus persimilis እንደ ፎቶዎች የ SRM ለማግኘት አይችልም",
+    "የኦሪጂናል ማሸጊያ ማሸጊያ ማሸጊያ ማሸጊያ ማሸጊያ ማሸጊያ ማሸጊያ ማሸጊያ"
+  ],
+  "notes": [
+    "የ SRM በከፍተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ ዝቅተኛ",
+    "የኃይል ሙቀት እና የኃይል መስፈርቶች ውስጥ የኃይል መስፈርቶች",
+    "ከፍተኛ መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን",
+    "የአውስትራሊያ የንግድ ፎቶዎች በ SRM ላይ የተመሠረተ አይደለም"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "disease": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "scientific_name": "Scotnonoia Fotooio",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọ bụ ọrịa na - asọ oyi nke na - emetụta ọtụtụ ihe ọkụkụ.",
+  "symptoms": [
+    "Mmiri na-enweghị isi n'akwụkwọ",
+    "Ihe ndị na - eme ka mmadụ na - acha odo odo na ihe ndị na - atọ ya ụtọ",
+    "Ya mere, mkpụrụ akwụkwọ ndị dị n'ime ya na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị dị n'ime ala",
+    "Ụcha ogho nke dị ka ihe e ji esi nri na - eto n'akwụkwọ ma ọ bụ n'azụ ya",
+    "Mkpụrụ akụ́kụ́ bụ nke ochie na-arụ ọrụ n'ebe ndị nwere nsogbu",
+    "Ọ Na - eme Ka A Ghara Inwe Ihe Ịga nke Ọma Ma Na - anwụ Anwụ"
+  ],
+  "visual_symptoms": [
+    "Ihe ndị e ji esiji ákwà bụ́ ndị dị n'akwụkwọ",
+    "Akwụkwọ ya ndị na - esi ísì ọma, bụ́ ndị na - acha ọcha, na - ere ngwa ngwa",
+    "Mkpụrụ osisi ojii na - esi ísì ụtọ nke na - eto n'ime ala",
+    "O nwere ike ịbụ na akwụkwọ ahụ dara ada ma ọ bụ na akwụkwọ ya na - acha akwụkwọ ndụ akwụkwọ ya"
+  ],
+  "hosts": [
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ndị Na - asụ Asụsụ Dị Iche Iche",
+    "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+    "AGBOR 1 (Bekee)",
+    "Anwụ Na - acha",
+    "_Ebe ịsa ahụ́",
+    "Kèánáhụ́chāghị́ányá",
+    "Cimeba",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Ọtụtụ akụ́kụ́ ndị mara mma"
+  ],
+  "plant_parts_affected": [
+    "akwụkwọ",
+    "_Ebe ndesịta ngosi ebe",
+    "Ihe ndị dị n'ahụ́ ụmụ anụmanụ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ebe a na - edebe akwụkwọ ọgụgụ n'ụzọ dị mfe",
+    "Ọ́bá akwụkwọ ndị dị n'ime ala",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe ndị si n'ihe osise ndị e nwetara n'aka otu akwụkwọ akụkọ bụ́pothe ọhụrụ",
+    "Sinaia nke dị n'ala",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Mmiri na - asọ asọ ma ọ bụ ifufe"
+  ],
+  "disease_cycle": [
+    "A na - anọgide na - ebi n'ala ruo ọtụtụ afọ",
+    "Scritetaia ma mepụta iko-hahad sere ya n'ụdị a na-amaghị ama",
+    "Otu akwụkwọ akụkọ a na - ebipụta n'Amerịka kwuru na ikuku a na - abata n'ikuku",
+    "A na - eji osisi ndị dị n'ebe ahụ eme ihe n'ọnọdụ ndị dị ize ndụ",
+    "A na - akụ ahịhịa ndụ ọhụrụ n'elu osisi ndị bu ọrịa ahụ ma laghachi n'ala"
+  ],
+  "impact": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ na akụ́kụ́ na - agwụ ike",
+    "Imerụ Ahụ́ Na - ebelata Ihe Isi Ike Ndị A Na - enwe n'Ahụ́",
+    "Mkpụrụ akụ́kụ́ ndị dị oké ọnụ ahịa na - amị",
+    "Ọ̀ pụrụ ịkpata ọrịa ndị siri ike"
+  ],
+  "cultural_control": [
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ngwa ngwa",
+    "Ọ na - eme ka ahịhịa na - eto nke ọma ma na - eme ka ikuku na - abata n'ime ya",
+    "Tụgharịa ihe ọkụkụ na osisi ndị na-adịghị adị",
+    "Wepụ ahịhịa ndị nwere nje ndị na - akpata ọrịa site n'ubi"
+  ],
+  "biological_control": [
+    "Jiri mkpụrụ ndụ ihe nketa ndị na - atọ ọchị dị ka Conoththgris mee ihe",
+    "Jiri nje ndị bara uru mee ihe dị ka ụdị dị iche iche nke nje bacteria"
+  ],
+  "chemical_control": [
+    "Tinye ihe ndị na - akpali agụụ mmekọahụ n'akwụkwọ n'ebe a na - edebe ihe ọmụma n'akwụkwọ, bụ́ mgbe ihe ize ndụ nke ọrịa dị nnọọ ukwuu",
+    "Mmiri ọgwụ ndị na - atọ ụtọ bụ́ ndị dị n'ọnọdụ ndị dị ize ndụ"
+  ],
+  "prevention": [
+    "Zere ịkụ ihe n'ụzọ na - adịghị mma",
+    "Ihe ọkụkụ ndị a na - akọ n'oge oyi na oge ndị a na - enwe ntakịrị mmiri ozuzo na ha",
+    "Mkpụrụ akụ́kụ́ ndị a na - akụ n'ubi na - amụba",
+    "Jiri usoro e ji agwọ ọrịa ndị na - esite n'erighị ihe ndị na - edozi ahụ́ mee ihe"
+  ],
+  "source": [
+    "Mkpụrụ ndụ ihe nketa na - enye nduzi banyere ọrịa",
+    "Ihe ọzọ a na - emepụta n'ụlọ ọrụ a bụ ihe ndị dị oké ọnụ ahịa"
+  ]
+}

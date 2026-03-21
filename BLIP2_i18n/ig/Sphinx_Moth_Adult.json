@@ -1,0 +1,22 @@
+{
+  "pest_name": "OTA 9 (Yoruba)",
+  "stage": "Ndị toworo eto",
+  "common_name": "Ńgwānụ́ banye",
+  "description": "Nla nla nke toworo eto bụ nla buru ibu nke nwere nku na - esighị ike na nke na - esighị ike. Ndị ọkachamara na - eri nri na - edozi ahụ́ n'ụzọ dị ogologo, ọ bụkwa maka ọtụtụ ụdị ákụ́kụ́.",
+  "damage": [
+    "Ndị toworo eto adịghị emekarị ka ihe ọkụkụ bụrụ ihe na - ebibi ihe kpọmkwem",
+    "Ka ọkụ gbaa n'abalị ma na - eme ka à ga - asị na o nweghị ihe ga - adọta gị"
+  ],
+  "behavior": [
+    "Ọ na - eme nke ọma n'ụlọ akwụkwọ, n'abalị, nakwa n'abalị",
+    "Ogologo oge nke na-agba ọsọ; ọ pụrụ ime ka ihe ọkụkụ ndị ọhụrụ maa mma ma mee ka ha too ngwa ngwa"
+  ],
+  "control": [
+    "Ichebara ndị toworo eto echiche pụrụ inye aka n'ibu amụma banyere ntiwapụ nke ọrịa ogbu na nkwonkwo nke na - ebibi ihe",
+    "Ọnyà ndị na - agbapụ obere mgbọ pụrụ ibelata ihe omume ndị toworo eto na - eme n'ebe ndị dị nta"
+  ],
+  "notes": [
+    "Oge uto bara uru n'ụzọ bụ́ isi iji mee ka ọ dịghachi mma n'anya",
+    "Lekwasị anya n'ihe ndị ị ga - eme ka ihe ị kụrụ ghara imebi"
+  ]
+}

@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "Mwisho wa Southern Root-Knot",
+  "scientific_name": "Maonyesho ya Meloidogyne",
+  "common_abbreviations": [
+    "ya RKN",
+    "Miji ya Kusini ya Root-nematode",
+    "Siku ya Siku ya Siku ya Siku"
+  ],
+  "description": "Meloidogyne incognita ni mbegu ya mimea-parasitic ambayo huathiri rangi ya aina mbalimbali ya mimea, kuathiri rangi kubwa ya rangi. ni moja ya rangi ya kawaida na muhimu kwa kiuchumi duniani kote.",
+  "distribution": "Kwa ujumla kuenea duniani kote, inajulikana katika aina nyingi tofauti za ardhi, hasa katika mikoa ya tropical na subtropical.",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "Pamoja na polyphagous, kupigana na monocotyledons na dicotyledons; inatarajiwa zaidi ya 3,000 aina za mimea.",
+    "notable_hosts": [
+      "Maisha ya Manihot (Manihot Esculenta)",
+      "Baadhi ya Cotton",
+      "Mji wa Tomato",
+      "Pepsi ya",
+      "Mafuta ya Tabaka",
+      "Kawaida"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "Mtiririko wa maji",
+      "Ukosefu wa chakula",
+      "ya Yellow",
+      "ya Wilting",
+      "Mwisho wa"
+    ],
+    "below_ground": [
+      "Wanyama juu ya rangi, bulbs, na tubers",
+      "Maua ya mimea katika infestations ya juu"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "Kiwango cha",
+      "posterior_protuberance": "Hakuna",
+      "stylet_length": "15 - 16 kwa ajili ya",
+      "stylet_knobs": "Mchakato, Mchakato",
+      "perineal_pattern": "Oval hadi nyekundu, nyekundu nyekundu nyekundu, nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu nyekundu"
     },
     "male": {
-      "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
-      "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "shape": "ya Vermiform",
+      "head": "Hakuna malipo, diski ya kuongezeka, kwa kawaida bila nywele za nywele",
+      "stylet_length": "23 - 26 kwa ajili ya",
+      "stylet_knobs": "Kuanzishwa kwa oval, kuondoa"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
-      "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "stage": "Hatua ya pili (J2)",
+      "body_length": "ya 350-450 μm",
+      "tail_length": "Mzunguko wa 43 - 65 μm",
+      "hyaline_region": "6 - 14 μm ya muda",
+      "shape": "Mchakato wa Tape"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "Maji ya",
+      "J1",
+      "J2 (kumbukumbu ya kuvutia)",
+      "J3",
+      "J4",
+      "wazee"
+    ],
+    "description": "J2 juveniles hatch kutoka ya maua, kuingia juu tips, kuhamia kwa mwili wa maumivu, kujenga maeneo ya kuhifadhi wa kawaida (mchakato mkubwa), kuongezeka kwa watu wazima. Wanawake kuwa globose na kuweka maua katika mafuta ya gelatino; wanaume kuondoka nyuma. mzunguko wa maisha kufungwa katika siku 37 katika 21 °C.",
+    "reproduction": "Maumivu ya kijinsia; wanawake sedentary, wanaume vermiform"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "Inaweza kutambua na kuendesha kwa njia ya gradients ya joto ya chini sana ili kupata nyaraka",
+    "chemotaxis": "Maelekezo ya kemikali kutoka kwa matunda ya mwenyeji"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "Mzunguko wa mimea na aina zisizo na ya kupumzika",
+      "Matumizi ya mabadiliko ya kiroho",
+      "Mazao ya mimea ya antagonist kama Crotalaria spectabilis na aina ya Tagetes"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "Maumivu ya maumivu kama vile Paecilomyces lilacinus"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "Vyanzo vingi vinavyotumika kwa biashara"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "Hii inafanya uharibifu mkubwa na uharibifu katika matunda mengi.",
+    "Umuhimu mkubwa wa kiuchumi katika kilimo cha tropical na subtropical"
   ]
 }

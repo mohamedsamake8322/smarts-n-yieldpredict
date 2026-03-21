@@ -1,116 +1,116 @@
 {
-  "disease_name": "Yellow Sigatoka",
-  "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
+  "disease_name": "طراز Segatus",
+  "dataset_label": "بانان_ لاف_ يلّو_ سيغاتوكا",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "قطعة منششششش",
+    "بقعة مَرْكِس"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora musae",
-    "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
-    "phylum": "Ascomycota"
+    "type": "المنقوس",
+    "scientific_name": "Pseudocspra musae",
+    "synonym": "(أ) (أ)(أ) ((((((((((((((((((((((((((((((((((((((((((((((((((( (((((( (((((( ((((((( (((( (((((( ((((( ((((((( ((((((((( ((((((((((( (( ((( ((((((( (((((( ((((((( ((((((( () (( ((((((((((((((( ()) ()) () ()) ()) (())) ()) ()) ()) ()) ())) ())",
+    "kingdom": "",
+    "phylum": ""
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "موزان (ماسا spp.)",
     "other_hosts": [
-      "Plantain"
+      "المواصلة على مستوى"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "الآس"
   ],
   "symptoms": {
     "early_stage": [
-      "Small pale yellow streaks (1–2 mm) on young leaves",
-      "Chlorotic spots appearing near leaf margins or midrib"
+      "سلسلة صفراء صغيرة شاحب (من 1 إلى 2 ملم) على أوراق الشباب",
+      "بقع الكلورثيات التي تظهر بالقرب من هوامش الورقة أو المنتصف"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "تُنْسَج المُسْتَقَدْسَات إلى البُصُر المُطْرَدَة",
+      "بقع على شكل جنـيـديـد علـى الـقعـات مـع أصفر حولهم"
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "من الظلام إلى الأسود",
+      "المناطق الشوكية الكبيرة على الأوراق",
+      "أولاً - التجف والتخلف"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "المغذيات التي تنجو في الأنسجة المُصابة",
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "con ida",
+      "المناسور (المعامل)"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "طراز معر نفر",
+      "(ب) المطر",
+      ""
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "الرطوبة العالية",
+      "درجات حرارة الحرارة (25- 30 درجة مئوية)",
+      "مُطَلَق ورقة مِطْ طويلة",
+      "الأمطار أو الأمطار"
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "متوسط إلى مرتفع",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "درجة القدرة على",
+      "مجموعات صغيرة",
+      ":: جودة الفواكه",
+      "العمر الأخضر للثمار",
+      "ما قبل سن ما قبل العمر"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "حتى 50 في المائة في حالات الإصابات الشديدة"
   },
   "distribution": [
-    "Australia",
-    "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania"
+    "أستراليا",
+    "آسيا",
+    "أفريقيا",
+    "أمريكا الوسطى",
+    "أمريكا الجنوبية",
+    "البحر",
+    "أُحدثاً"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "سيغاتوكا الأسود (Pseudocscospora figensis)",
+    "أمراض مَرْكَسَة"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "أزيل الأوراق المُصابة (تزيل الرف)",
+      "تحسين الصرف الصحي",
+      ":: المحافظة على الصرف الصحي السليم",
+      "- تجنب اكتظاظ النباتات"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "مبيدات الفطريات",
+      "مبيدات",
+      "المنتجات المحتوية على Tebuconazole, Mancozeb, chluthalonil"
     ],
     "biological_control": [
-      "Bacillus subtilis",
-      "Trichoderma viride",
-      "Pseudomonas fluorescens"
+      "بكاسيلus صب ط",
+      "ثالثاً - ما وراءه",
+      "Pseuدومonas ploescens"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "الأصناف التي تستخدم فيها سلعاً معرة",
+      "التسمم الميزاني",
+      "الرصد المنتظم للمزارع"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "",
+    "",
+    "وجود أوراق مُصابة",
+    "أنواع المنقول (الموز)"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "العلوم الزراعية في أستراليا - سيجاتوكا",
+    "مجموعة حماية المُنتَجَب",
+    "منظمة CSITRS",
+    "أولاً - مقدمة أولاً - مقدمة 1 - مقدمة"
   ]
 }

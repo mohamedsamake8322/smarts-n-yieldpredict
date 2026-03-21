@@ -1,0 +1,112 @@
+{
+  "disease_name": "Ọrịa Na - efe Efe",
+  "dataset_label": "M_egharịanụdị_egharịanụdị>banye",
+  "pathogen": {
+    "type": "AGBOR 1 (Bekee)",
+    "name": "Nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "scientific_name": "Ala Ọma Jijiji nke Na - adịghị Oké Njọ",
+    "family": "Cimemmoviae",
+    "genus": "Ihe Ọjọọ Dị n'Ime Ya",
+    "genome": "Anadu-time DNA (d ụfọdụ)"
+  },
+  "host_plant": {
+    "primary_host": "Gana (Musnath.)",
+    "other_hosts": [
+      "Mkpụrụ ndụ ihe nketa"
+    ]
+  },
+  "affected_parts": [
+    "/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀",
+    "Ps Psuurum",
+    "Ike nke ịkụ ihe ọkụkụ n'ozuzu ya"
+  ],
+  "vector": {
+    "type": "IHE NDỊ GA - ENYERE GỊ AKA",
+    "name": "Nri Ndị A Na - eri n'Oge Nri",
+    "genera": [
+      "Hazie Otú Ị Ga - esi Na - emefu Ego",
+      "Ọmaeudo"
+    ]
+  },
+  "symptoms": {
+    "early_stage": [
+      "Ụgbọ mmiri ndị na - agba site n'etiti afọ ruo n'akwụkwọ osisi",
+      "O nwere ike ịbụ na ọ na - adị gị ka ọ̀ bụ ná mkpụrụ akwụkwọ okpotokpo ka ọ̀ bụ ná mkpụrụ akwụkwọ okpotokpo."
+    ],
+    "intermediate_stage": [
+      "A na - eji ụda okwu eme ihe n'ebe dị iche iche ma ọ bụ mee ndokwa ka a nọrọ n'òtù dị iche iche",
+      "Ọ̀tụ̀tụ̀ okpomọkụ nke akụ́kụ́ na - ebelata na ọ̀tụ̀tụ̀ dị nta"
+    ],
+    "advanced_stage": [
+      "Ụmụ irighiri ihe ndị na - acha nchara nchara ma ọ bụ ndị isi ojii bụ́ ndị na - eji akwụkwọ ndụ ndị na - acha nchara nchara eme ka ha kaa nká",
+      "Obere ụyọkọ unere",
+      "O nwere ike ịkpatara mmadụ oké ike ọgwụgwụ ma ọ bụ mee ka onye ahụ nwụọ n'ọnọdụ ndị tara akpụ"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Ngwá ọrụ e ji akụ osisi (ndị na - awa isi)",
+      "Ndị na - ere ihe oriri na - eji ihe ndị e ji esi nri bụ́ ndị a na - esi nri",
+      "Iji ihe ndị dị ndụ e si n'ọbara nweta emepụta ihe ndị e si n'ọbara nweta, bụ́ ndị na - akpata nrụgide"
+    ],
+    "latent_behavior": "Ọ bụrụ na ihe na - esi ezigbo ike, o nwere ike ime ka o siere mmadụ ike ịma ihe ọ ga - eme banyere nsogbu ndị ọ na - enwe",
+    "favorable_conditions": [
+      "Nrụgide nke Ihe Ndị Na - akpata Ya",
+      "Ihe ndị a na - eme n'obodo na - eme ka nchegbu a na - enwe n'obodo ka njọ",
+      "Nchegbu ndị a na - enwe n'ebe ọrụ"
+    ]
+  },
+  "impact": {
+    "severity": "Ụdị Dị Iche Iche",
+    "effects": [
+      "Ọ̀tụ̀tụ̀ okpomọkụ nke akụ́kụ́ na - ebelata",
+      "Mkpụrụ osisi ndị dị obere na - amị obere mkpụrụ",
+      "Ihe na - akpata mfu ndị a na - enwe n'ihi ịbụ onye a chụpụrụ n'òtù nzuzo na ibute ọrịa n'ụzọ siri ike",
+      "Owuwe ihe ubi a rụrụ nke ọma"
+    ],
+    "estimated_losses": "Ihe ruru pasent 6 kwa afọ n'ógbè ụfọdụ, bụ́ nke dị elu karị n'òtù nzuzo ndị a pụrụ iji mee ihe"
+  },
+  "distribution": [
+    "Eshia",
+    "Africa",
+    "Ebe Ugwu America",
+    "Ebe Etiti America",
+    "Ebe Ndịda America",
+    "Caribbean",
+    "Oké Osimiriia",
+    "Agwaetiti Pacific"
+  ],
+  "similar_diseases_or_confusions": [
+    "Ọrịa Na - efe Efe nke Na - efe Efe",
+    "Nje na - akpata ọrịa ogbu na nkwonkwo nke na - akpata ịba ọcha n'obi",
+    "Enweghị ebe obibi n'ụzọ na - enweghị isi na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi"
+  ],
+  "management": {
+    "cultural_control": [
+      "Jiri nje virus-ọ́dēèlụ̀ rụọ ọrụ",
+      "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+      "Ụmụ irighiri ihe ndị na - egbuke egbuke na - eme mgbe nile"
+    ],
+    "vector_control": [
+      "N'ihi ya, ndị mmadụ na - eri nri ndị na - adịghị oké ọnụ.",
+      "Jiri mmanụ e ji esi nri ma ọ bụ ncha mee ihe",
+      "Jiri mmanụ ala mee ihe"
+    ],
+    "quarantine": [
+      "Na - agbaso ụkpụrụ nduzi nke usoro njikọ nke ihe ndị dị ndụ na gburugburu ha maka ụdị anụmanụ na osisi",
+      "Jiri ọrịa a na-amaghị́ị̀ na-ahụ maka mkpụrụ ndụ ihe nketa"
+    ]
+  },
+  "spread_risk_factors": [
+    "Ịkụnye Ihe Ndị Na - alụso Nje HIV Ọgụ",
+    "Mgbanwe a na - atụghị anya ya n'ọdịbendị na - agbanwe agbanwe",
+    "Ụmụ irighiri nri ndị na - esi ísì ọma",
+    "Nsogbu ndị a na - enwe n'ihi nchegbu na - eme ka nje bacteria na - ebelata"
+  ],
+  "references": [
+    "KIIOPOppppcccccre2020)",
+    "NDỊ NA - EME KA A Dị n'Otu NKE BỤ́ Mkpụrụ osisi Na - amị Mkpụrụ n'Australia",
+    "Pacific Pests, Ụzọ Ụgbọ Mmiri na Ụgbọ Mmiri Ndị Dị na Ya",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụwa Nile n'Ụzọ Na - ezighị Ezi"
+  ]
+}

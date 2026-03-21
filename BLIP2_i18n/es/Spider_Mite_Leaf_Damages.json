@@ -1,0 +1,39 @@
+{
+  "pest_name": "Mito de araña",
+  "stage": "_daño de hoja",
+  "common_name": "Mito de araña",
+  "description": "Los ácaros araña son plagas comunes de árboles frutales, verduras, bayas, vides, plantas domésticas y plantas ornamentales. Los ácaros son pequeños arácnidos con ocho patas, relacionados con arañas y garrapatas.",
+  "identification": [
+    "Los adultos tienen menos de 1/20 pulgadas de largo con un cuerpo ovalado y dos ojales de color cerca de la cabeza",
+    "Vivir en colonias, principalmente en la parte inferior de las hojas; una sola colonia puede contener cientos de ácaros",
+    "Las poblaciones altas producen hojas, ramitas y frutas densas que cubren las redes",
+    "Busque el punteado de puntos claros en las hojas, la decoloración de bronce, el amarillento y la gota de la hoja"
+  ],
+  "damage": [
+    "Chupe el contenido de las celdas de las hojas, causando punzón y decoloración",
+    "Las hojas severamente infestadas se vuelven amarillas y pueden caer",
+    "Los daños son más graves en las condiciones calientes y polvorientas y en las plantas con esfuerzo por el agua"
+  ],
+  "natural_enemies": [
+    "Trips depredadores",
+    "Alambres",
+    "Minutos de errores piratas",
+    "Ácaros depredadores (más grandes con las piernas más largas y más activos)"
+  ],
+  "management": [
+    "Plantas de agua para evitar la sequía",
+    "Reducir el polvo utilizando cubiertas de suelo, mantillos y riego regular",
+    "Alentar a los enemigos naturales a controlar las poblaciones",
+    "Rocíe agua o niebla en la parte inferior de las hojas diariamente si está infestado"
+  ],
+  "chemical_control": [
+    "Aceites insecticidas o jabones insecticidas, aplicados a fondo en la parte inferior de las hojas",
+    "Evite la pulverización cuando las plantas están estresadas por el agua o durante el calor alto",
+    "Evite los insecticidas que matan a los enemigos naturales, ya que estos pueden causar picos de población de ácaros"
+  ],
+  "notes": [
+    "Los ácaros araña se vuelven frecuentemente problemáticos después de ciertas aplicaciones de organofosfato o insecticida piretroides",
+    "Minimizar el uso de plaguicidas, preferir opciones no químicas o menos tóxicas",
+    "Lea cuidadosamente las etiquetas de los productos para su uso y eliminación adecuados"
+  ]
+}

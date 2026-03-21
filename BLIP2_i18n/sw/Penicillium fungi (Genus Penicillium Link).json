@@ -1,70 +1,70 @@
 {
- "disease": "Penicillium Mold",
- "scientific_name": "Genus Penicillium",
- "pathogen_type": "Fungus",
- "description": "Penicillium is a genus of fungi commonly found in soil, air, and decaying organic matter. Many species cause post-harvest diseases in fruits and vegetables, producing blue or green molds and leading to significant storage losses.",
- "symptoms": [
-  "Soft watery rot on fruits or plant tissues",
-  "Blue-green or green powdery mold on infected areas",
-  "Sunken lesions on fruit surfaces",
-  "Rapid decay during storage",
-  "Musty odor from infected produce"
- ],
- "visual_symptoms": [
-  "blue or green mold growth on fruit surface",
-  "powdery fungal spores covering lesions",
-  "soft rotting tissue around infection site"
- ],
- "hosts": [
-  "Apple",
-  "Citrus fruits",
-  "Grapes",
-  "Pear",
-  "Peach",
-  "Tomato",
-  "Strawberry",
-  "Stored grains and seeds"
- ],
- "favorable_conditions": [
-  "High humidity",
-  "Cool to moderate temperatures",
-  "Poor storage conditions",
-  "Wounded or damaged fruits"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers and tools"
- ],
- "impact": [
-  "Post-harvest fruit decay",
-  "Loss of product quality during storage",
-  "Reduced market value of produce",
-  "Potential production of mycotoxins in some species"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Store produce at recommended temperature and humidity",
-  "Remove infected fruits immediately",
-  "Maintain clean storage facilities",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use of beneficial microbes such as Bacillus species",
-  "Application of antagonistic yeasts to suppress mold growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicides such as thiabendazole or imazalil",
-  "Use of approved storage fungicides depending on crop"
- ],
- "prevention": [
-  "Sanitize storage rooms and containers",
-  "Avoid mechanical injury during harvest",
-  "Proper ventilation in storage facilities",
-  "Maintain cold chain for perishable crops"
- ],
- "source": [
-  "Plant pathology literature on post-harvest diseases",
-  "Mycology references on Penicillium species"
- ]
+  "disease": "Maisha ya penicillium",
+  "scientific_name": "Maisha ya Penicillium",
+  "pathogen_type": "Fungus ya",
+  "description": "Penicillium ni aina ya maumivu inayopatikana kwa kawaida katika ardhi, hewa, na kupoteza mafuta ya organic. aina nyingi hufanya magonjwa ya baada ya kukua katika matunda na matunda, kuunda maumivu ya bluu au ya kijani na kusababisha uharibifu mkubwa wa usajili.",
+  "symptoms": [
+    "Maua ya maji ya maua ya maua ya maua ya maua ya maua ya maua",
+    "Maji ya bluu ya kijani au ya kijani katika maeneo yaliyoathirika",
+    "Uharibifu wa mbolea juu ya mbolea",
+    "Uharibifu wa haraka wakati wa kuhifadhi",
+    "Maua ya mafuta kutoka kwa bidhaa zilizoathirika"
+  ],
+  "visual_symptoms": [
+    "Mimea ya bluu au ya kijani ya kukua juu ya mbio za matunda",
+    "Mchakato wa mbegu ya spores ya kutibu maambukizi",
+    "mbegu ya kuongezeka karibu na tovuti ya infection"
+  ],
+  "hosts": [
+    "Mji wa Apple",
+    "Matunda ya Citrus",
+    "Maua ya",
+    "Mwisho",
+    "Peach ya",
+    "Mji wa Tomato",
+    "ya Strawberry",
+    "Mafuta na mbolea ya kuhifadhi"
+  ],
+  "favorable_conditions": [
+    "Ukosefu wa juu",
+    "Hali ya baridi kwa joto ya chini",
+    "hali mbaya ya kuhifadhi",
+    "Matunda ya kuharibiwa au kuharibiwa"
+  ],
+  "spread": [
+    "Mchakato wa Airborne",
+    "Mawasiliano kati ya bidhaa za kuvutia na za afya",
+    "Vifaa vya kuhifadhi na vifaa vya kuhifadhi"
+  ],
+  "impact": [
+    "Matunda ya mazao ya baada ya mazao",
+    "Uharibifu wa ubora wa bidhaa wakati wa kuhifadhi",
+    "Kupunguza thamani ya soko ya bidhaa",
+    "Uwezo wa uzalishaji wa mikotoksini katika aina fulani"
+  ],
+  "management": [
+    "Kuendesha matunda kwa makini ili kuepuka maumivu",
+    "Uhifadhi wa bidhaa kwa joto na nishati iliyopendekezwa",
+    "Kuondoa matunda ya kuvutia mara moja",
+    "Uhifadhi wa vifaa vya kuhifadhi salama",
+    "Tumia aina za kupumzika wakati inapatikana"
+  ],
+  "biological_control": [
+    "Matumizi ya virutubisho muhimu kama vile Bacillus",
+    "Matumizi ya wanyama antagonist kuzuia ukuaji wa muundo"
+  ],
+  "chemical_control": [
+    "Mbegu za baada ya kukua kama vile thiabendazole au imazalil",
+    "Matumizi ya fungicides ya kuhifadhi inayotolewa kulingana na mimea"
+  ],
+  "prevention": [
+    "Tumia kesi kwa kundi la Container Engine",
+    "Kuepuka uharibifu wa kiufundi wakati wa mazao",
+    "Ulinzi mzuri katika vifaa vya kuhifadhi",
+    "Kuhifadhi mzunguko wa baridi kwa ajili ya matunda ya kutosha"
+  ],
+  "source": [
+    "Matibabu ya matibabu ya matibabu juu ya magonjwa ya baada ya matibabu",
+    "Maonyesho ya Mikolojia juu ya aina ya Penicillium"
+  ]
 }

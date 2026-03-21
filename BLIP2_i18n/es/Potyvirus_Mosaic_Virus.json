@@ -1,0 +1,83 @@
+{
+  "disease": "Mosaico de Potyvirus",
+  "scientific_name": "Genus Potyvirus (familia Potyviridae)",
+  "pathogen_type": "Virus",
+  "description": "Los potyvirus son un gran grupo de virus vegetales con genomas de ARN de una sola cadena. Infectan muchos cultivos y causan enfermedades del mosaico que reducen el crecimiento y el rendimiento de las plantas.",
+  "symptoms": [
+    "Mosaico o moteado patrones en las hojas",
+    "Parches verdes claros y oscuros sobre follaje",
+    "Rizado o distorsión de las hojas",
+    "Crecimiento de plantas aturdidas",
+    "Reducción del tamaño y el rendimiento de los frutos",
+    "Rayas amarillas o despejamiento de las venas en las hojas"
+  ],
+  "visual_symptoms": [
+    "mosaico amarillo y verde patrones en las hojas",
+    "hojas distorsionadas o rizadas",
+    "clorosis irregular en el follaje de las plantas"
+  ],
+  "hosts": [
+    "Patata",
+    "Tomate",
+    "Pimienta",
+    "Pepino",
+    "Calabaza",
+    "Judía",
+    "Semillas de soja",
+    "Patatas dulces",
+    "Tabaco",
+    "Muchas plantas ornamentales"
+  ],
+  "plant_parts_affected": [
+    "hojas",
+    "tallos",
+    "Frutas"
+  ],
+  "vectors": [
+    "Aphids (más de 200 especies)",
+    "especialmente Myzus y Macrosiphum"
+  ],
+  "spread": [
+    "Aphid se alimenta de plantas infectadas",
+    "Transmisión mecánica a través del contacto de la planta",
+    "Herramientas o manos contaminadas",
+    "Tubérculos, esquejes o material de injertos infectados",
+    "A veces transmisión de semillas o polen"
+  ],
+  "favorable_conditions": [
+    "Poblaciones áfidas altas",
+    "Condiciones de cultivo cálidas",
+    "Plantación de cultivos densos",
+    "Presencia de plantas infectadas cerca"
+  ],
+  "impact": [
+    "Reducción del crecimiento de las plantas",
+    "Menor rendimiento de los cultivos",
+    "Mala calidad de las frutas",
+    "Pérdidas económicas en cultivos vegetales y ornamentales"
+  ],
+  "management": [
+    "Utilizar materiales de plantación libres de virus",
+    "Controlar las poblaciones de áfidos",
+    "Retire las plantas infectadas rápidamente",
+    "Utilizar variedades de cultivos resistentes cuando estén disponibles",
+    "Evite manipular las plantas cuando estén mojadas"
+  ],
+  "biological_control": [
+    "Animar a los depredadores naturales de pulgones como escarabajos de señora y alas de encaje"
+  ],
+  "chemical_control": [
+    "Utilizar insecticidas para reducir las poblaciones de áfidos cuando sea necesario",
+    "Los aceites minerales pueden reducir la transmisión de virus por pulgones"
+  ],
+  "prevention": [
+    "Variedades resistentes a las plantas",
+    "Monitoriza los campos para áfidos",
+    "Utilice mantillos reflectantes para repeler los pulgones",
+    "Practicar el saneamiento sobre el terreno y eliminar las plantas infectadas"
+  ],
+  "source": [
+    "Referencias virológicas sobre Potyvirus",
+    "Literatura sobre patología vegetal agrícola"
+  ]
+}

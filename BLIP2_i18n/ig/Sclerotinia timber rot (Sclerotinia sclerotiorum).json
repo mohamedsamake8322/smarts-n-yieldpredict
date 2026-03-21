@@ -1,0 +1,88 @@
+{
+  "disease": "Sctenonaa Ret",
+  "scientific_name": "Scotnonoia Fotooio",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Osisi ndị na - acha ọcha na ndị na - adị ndụ mgbe niile na - aghọ ihe na - adịghị mma ma ọ bụ ihe rere ure, bụ́ nke na - eme ka ọtụtụ ihe ọkụkụ na - emebi ngwa ngwa.",
+  "symptoms": [
+    "Ụcha dị ọcha- bụ otu n'ime ihe ndị ahụ yiri ihe na - atọ ọchị nke na-eto n'ala ala ya",
+    "Anwụpụ ma ọ bụ ezé kpọrọ nkụ (nke yiri ọdịdị)",
+    "Mkpụrụ akụ́kụ́ bụ nke ochie- dị ka ọ̀ nọ n'ime ma ọ bụ nke dị n'azụ",
+    "Ime ka akwụkwọ ya dị ọcha ma na - agba ya ọkụ",
+    "Iji ọgwụ ekechi Mmadụ n'ihi mbibi nke ihe ndị si na ya pụta"
+  ],
+  "visual_symptoms": [
+    "Ihe ndị e ji esiji ákwà bụ́ ndị dị n'ime ala",
+    "Ihe na - akpata ya bụ ịkpọ nkụ ma ọ bụ ire ure",
+    "Ahụ́ onye isi ojii nke na - agba ajọ dimkpa n'ahụ́ ya",
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ ma ọ bụ ihe ọkụkụ ndị a gbara ogige"
+  ],
+  "hosts": [
+    "Sobon",
+    "Anwụ Na - acha",
+    "Canola (mkpụrụ e ketara eketa n'ike)",
+    "Ndị Na - asụ Asụsụ Dị Iche Iche",
+    "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Kèánáhụ́chāghị́ányá",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Ọtụtụ akwụkwọ nri na ihe ọkụkụ ndị mara mma"
+  ],
+  "plant_parts_affected": [
+    "_Ebe ndesịta ngosi ebe",
+    "Ihe ndị dị n'ahụ́ ụmụ anụmanụ",
+    "Mgbe ụfọdụ akwụkwọ osisi na okooko osisi"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri ozuzo ma ọ bụ ịgba ala mmiri",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - eme nke ọma",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma"
+  ],
+  "spread": [
+    "Ihe ndị si n'ihe osise ndị e nwetara n'aka otu akwụkwọ akụkọ bụ́pothe ọhụrụ",
+    "Ọ dịrị ndụ n'ala nkịtị",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e ji osisi mee",
+    "Ifufe na Mmiri pọmpụ"
+  ],
+  "disease_cycle": [
+    "A na - anọgide na - ebi n'ala ruo ọtụtụ afọ",
+    "Scterteia ma mepụta ihe e ji esiji ákwà (obere iko-obere ihe owuwu)",
+    "Ihe ndị na - eme ka ikuku na - abata",
+    "Akụ́kụ́ ndị dị n'ime ala bụ́ ndị a na - akụ n'oge oyi",
+    "Ahụ́ nke ọhụrụ a na - ebute ma na - abanye n'ime ala"
+  ],
+  "impact": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ na mmebi nke ihe ọkụkụ",
+    "Ọ na - eme ka ihe ọkụkụ na - eto nke ọma ma na - amị mkpụrụ",
+    "Ihe ndị a na - agbawa agbawa na - ala n'iyi n'ihi ihe ndị a kụrụ n'ubi bụ́ ndị a na - ejighị n'aka"
+  ],
+  "cultural_control": [
+    "Tụgharịa ihe ọkụkụ na osisi ndị na-adịghị adị",
+    "Ọ na - eme ka ihe ọkụkụ na ikuku na - erugharịwanye n'etiti ihe ọkụkụ",
+    "Wepụ ma bibie iberibe ihe ọkụkụ ndị na - akpata ọrịa ahụ",
+    "Zere ịgba ala mmiri n'ụzọ gabigara ókè"
+  ],
+  "biological_control": [
+    "Ihe ndị na - adị n'ahụ́ mmadụ, dị ka mkpụrụ ndụ ihe nketa nke na - emepụta mmiri ọgwụ ahụ́",
+    "Na - eme ihe ndị ga - eme ka ahụ́ na - adị gị mma ka ihe i ji atụrụ ndụ"
+  ],
+  "chemical_control": [
+    "Ihe e ji emenwu ọkụ",
+    "Malanaam",
+    "Ana m arịa ọrịa shuga",
+    "Ndị Na - eto Eto Na - ajụ, Sị",
+    "Thif-melíchāghị́ányá"
+  ],
+  "prevention": [
+    "Jiri mkpụrụ osisi ndị dị ọcha na ihe ndị e ji asa ahụ́ na - eme ihe",
+    "Ihe ọkụkụ ndị a na - akọ n'oge oyi na oge oyi",
+    "Tinye usoro nlekọta nke ọrịa n'ọrụ"
+  ],
+  "source": [
+    "Akwụkwọ nduzi ndị na - enye aka n'ọrụ ugbo",
+    "Ihe ọzọ a na - emepụta n'ụlọ ọrụ a bụ ihe ndị dị oké ọnụ ahịa"
+  ]
+}

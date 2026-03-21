@@ -1,105 +1,105 @@
 {
-  "disease_name": "Banana Leaf Black Sigatoka",
-  "common_name": "Black Sigatoka",
+  "disease_name": "KCharselect unicode block name",
+  "common_name": "KCharselect unicode block name",
   "other_names": [
-    "Black leaf streak",
-    "BLS"
+    "Da itãcen dabĩno dõgãye, sunã da'ya'yan itãce gunda mãsu hauhawar jũna.",
+    "@ item Text character set"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora fijiensis"
+    "type": "Indian National weekday 5 - LongDayName",
+    "scientific_name": "KCharselect unicode block name"
   },
   "host_plant": {
-    "common_name": "Banana",
-    "scientific_name": "Musa spp."
+    "common_name": "KCharselect unicode block name",
+    "scientific_name": "Musa ya buga."
   },
   "affected_parts": [
-    "Leaves"
+    "QDialogButtonBox"
   ],
   "symptoms": {
     "early_stage": [
-      "Tiny reddish or rusty-brown flecks on the underside of banana leaves",
-      "Small streaks parallel to leaf veins"
+      "Ana sanye da ruwan inabi a ƙarƙashin hanya ta hagu",
+      "Yadda Za a Yi Amfani da Shi Yadda Ya Kamata"
     ],
     "intermediate_stage": [
-      "Streaks elongate and darken into reddish-brown or black lines",
-      "Lesions become visible on both sides of the leaf"
+      "@ item Text character set",
+      "Ana iya ganin waɗannan kayayyakin aiki a ko'ina"
     ],
     "advanced_stage": [
-      "Oval-shaped lesions with grey centers",
-      "Yellow halos surrounding lesions",
-      "Large necrotic areas causing leaf death"
+      "KCharselect unicode block name",
+      "Za ku iya zuwa inda ake bukatar masu shela sosai",
+      "Yawancin wuraren magani suna jawo mutuwa"
     ]
   },
   "disease_cycle": {
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "KCharselect unicode block name",
+      "Kamar Yadda Ake Sha'ani Da Waɗanda Suka Sada Suka Ba Da Aiki"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Air currents"
+      "QFontDatabase",
+      "Media controller element",
+      "KCharselect unicode block name"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Frequent rainfall",
-      "Warm tropical climate"
+      "QShortcut",
+      "KCharselect unicode block name",
+      "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
     ],
     "infection_time_days": 27
   },
   "impact": {
-    "yield_loss_percent": "30-50%",
+    "yield_loss_percent": "30%s",
     "effects": [
-      "Leaf death",
-      "Reduced fruit size",
-      "Reduced fruit quality",
-      "Premature and uneven fruit ripening"
+      "@ item Text character set",
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+      "Nuna 'yã'yan itãcen marmari",
+      "' Ya'yan itãcen marmari da bada ' Ya'ya"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "India",
-    "China",
-    "Pacific Islands",
-    "East Africa",
-    "West Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Papua New Guinea",
-    "Hawaii (USA)"
+    "KCharselect unicode block name",
+    "Indiya",
+    "@ item Text character set",
+    "@ item Spelling dictionary",
+    "Afirka ta Gabas",
+    "Afirka ta Yamma",
+    "@ item Text character set",
+    "Amirka ta Kudu",
+    "QFontDatabase",
+    "@ item Text character set",
+    "@ item Spelling dictionary"
   ],
   "similar_diseases": [
-    "Yellow Sigatoka (Pseudocercospora musae)",
-    "Eumusae leaf spot (Pseudocercospora eumusae)"
+    "Za ka so ka yi amfani da shi don ka kalli hoton batsa",
+    "@ item Text character set"
   ],
   "management": {
     "cultural_control": [
-      "Removal of infected leaves",
-      "Improving field drainage",
-      "Reducing humidity around plants",
-      "Planting resistant banana varieties"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi.",
+      "Yin Tsayayya da Matsi Mai Kyau"
     ],
     "chemical_control": [
-      "Triazole fungicides",
-      "Demethylation inhibitor fungicides",
-      "Methyl benzimidazole carbamates (MBC)"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary"
     ],
     "biological_or_genetic_control": [
-      "Breeding resistant banana cultivars",
-      "Genetically modified resistant banana varieties"
+      "Yin Biyayya da Gaba Gaɗi Tana Kawo Nasara",
+      "Sha'awa ta Yi Nasara Sosai a Tsayayya wa Mugunta ta Yi Nasara"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected plant material",
-    "Transport of banana leaves used for food packaging",
-    "Contaminated equipment or packaging materials"
+    "Media controller element",
+    "Ana amfani da kayan aiki da aka yi amfani da su don cin abinci",
+    "@ item Text character set"
   ],
   "references": [
-    "Biosecurity Queensland – Black Sigatoka pest profile",
-    "FAO Banana disease reports",
-    "Cook et al., 2013. Crop Protection Journal",
-    "Pattison, 2014. Australian Bananas"
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "A shekara ta 2013, A.Z., A.",
+    "A dā, ' yan'uwa da ke Ostareliya sun yi hidima a yankuna dabam - dabam don su yi hidima a ƙasar Ostareliya."
   ]
 }

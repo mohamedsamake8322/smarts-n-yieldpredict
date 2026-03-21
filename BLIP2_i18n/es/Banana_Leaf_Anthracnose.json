@@ -1,0 +1,62 @@
+{
+  "disease": "Hoja de Banana Antracnosa",
+  "scientific_name": "Colletotrichum musae",
+  "pathogen_type": "Hongos",
+  "common_name": "Antracnosa de plátano",
+  "host_plant": "Plátano (Musa spp.)",
+  "affected_parts": [
+    "Hojas",
+    "Pseudostem",
+    "Frutas (en infección avanzada)"
+  ],
+  "description": "La antracnosis de la hoja de plátano es una enfermedad fúngica causada principalmente por Colletotrichum musae. Infecta las hojas de plátano y otras partes aéreas de la planta, produciendo lesiones necróticas que pueden reducir la fotosíntesis y debilitar el crecimiento de la planta. El patógeno puede infectar a las plantas en el campo y permanecer latente hasta que las condiciones ambientales sean favorables para el desarrollo de síntomas.",
+  "symptoms": [
+    "Pequeñas manchas de color marrón oscuro a negro en las hojas",
+    "Lesiones necróticas irregulares con márgenes definidos",
+    "Halo amarillo alrededor de lesiones en algunos casos",
+    "Expansión de lesiones que conducen a la mancha de la hoja",
+    "Defoliación precoz en infecciones graves",
+    "Reducción del vigor y crecimiento de las plantas"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en los restos de plantas infectadas o en el suelo.",
+    "Las esporas (conidio) se producen en estructuras llamadas acervuli en tejidos infectados.",
+    "Conidia se propaga a través de salpicaduras de lluvia, viento, insectos o herramientas contaminadas.",
+    "Las esporas germinan en las superficies de las hojas en condiciones húmedas.",
+    "El patógeno penetra los tejidos usando un appressorium y coloniza las células vegetales."
+  ],
+  "favorable_conditions": [
+    "Alta humedad",
+    "Temperaturas cálidas (aproximadamente 25–30°C)",
+    "Lluvias frecuentes",
+    "Dosel denso con mala circulación de aire"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el aire",
+    "Salpicaduras de lluvia y agua de riego",
+    "Residuos vegetales infectados",
+    "Herramientas o manipulaciones contaminadas"
+  ],
+  "management": {
+    "cultural_control": [
+      "Retire y destruya las hojas infectadas y los restos vegetales",
+      "Mejorar la circulación del aire en las plantaciones",
+      "Utilizar material de plantación libre de enfermedades",
+      "Mantenimiento del saneamiento sobre el terreno"
+    ],
+    "biological_control": [
+      "Uso de hongos antagónicos como Trichoderma spp.",
+      "Aplicación de biocontroles microbianos beneficiosos"
+    ],
+    "chemical_control": [
+      "Fungicidas como carbendazima, mancozeb o tiofanato-metilo",
+      "Aplicar de acuerdo con las directrices agrícolas recomendadas"
+    ]
+  },
+  "economic_impact": "La antracnosa puede reducir el vigor de las plantas y contribuir a las pérdidas de rendimiento y a la reducción de la calidad de los frutos en las plantaciones de banano.",
+  "sources": [
+    "Literatura sobre patología vegetal en Colletotrichum musae",
+    "Revista Internacional de Medio Ambiente y Cambio Climático – Sintomatología de Colletotrichum musae",
+    "Guías de manejo de enfermedades vegetales y recursos de Plantwise"
+  ]
+}

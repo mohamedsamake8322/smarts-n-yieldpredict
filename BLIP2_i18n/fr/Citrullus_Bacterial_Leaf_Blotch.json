@@ -1,119 +1,119 @@
 {
   "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
-  "common_name": "Bacterial Fruit Blotch",
+  "common_name": "Bloque de fruits bactériens",
   "causal_agent": {
-    "type": "bacterium",
+    "type": "bactérie",
     "scientific_name": "Acidovorax citrulli",
     "taxonomy": {
-      "domain": "Bacteria",
+      "domain": "Bactéries",
       "class": "Betaproteobacteria",
-      "order": "Burkholderiales",
+      "order": "Les berlines",
       "family": "Comamonadaceae",
       "genus": "Acidovorax",
       "species": "citrulli"
     }
   },
   "microbiological_properties": {
-    "gram_stain": "Gram-negative",
-    "shape": "Rod-shaped",
-    "size": "Approximately 0.5 μm × 1.7 μm",
-    "oxygen_requirement": "Strictly aerobic",
-    "motility": "Motile with polar flagellum",
+    "gram_stain": "Gram négatif",
+    "shape": "En forme de tige",
+    "size": "Environ 0,5 μm × 1,7 μm",
+    "oxygen_requirement": "Strictement aérobie",
+    "motility": "Motile avec flagellum polaire",
     "optimal_growth_temperature_celsius": "27-30"
   },
   "host_plants": [
-    "Watermelon",
-    "Melon",
-    "Cucumber",
-    "Squash",
-    "Pumpkin",
+    "Pastèque",
+    "Mélône",
+    "Concombre",
+    "Courge",
+    "Citrouille",
     "Zucchini"
   ],
   "symptoms": {
     "seedlings": [
-      "Water-soaked lesions on cotyledons",
-      "Necrotic lesions near veins",
-      "Lesions on hypocotyl",
-      "Seedling collapse and death"
+      "Lésions apaisées par l'eau sur les cotylédons",
+      "Lésions nécrotiques près des veines",
+      "Lésions sur l'hypocotyle",
+      "L'effondrement des semis et la mort"
     ],
     "leaves": [
-      "Irregular dark-brown to black lesions (watermelon)",
-      "Reddish-brown lesions (melon)",
-      "Lesions spreading along veins",
-      "Leaf blight symptoms"
+      "Lésions irrégulières brun foncé à noires (melon d'eau)",
+      "Lésions brun-rougeâtre (mélon)",
+      "Les lésions se propagent le long des veines",
+      "Symptômes de brûlure des feuilles"
     ],
     "fruits": [
-      "Small irregular water-soaked lesions",
-      "Sunken rind spots",
-      "Lesions turn brown and crack",
-      "Internal fruit decay",
-      "Fruit rot before harvest"
+      "Petites lésions irrégulières dues à l'eau",
+      "Spots de croûte ensoleillés",
+      "Les lésions deviennent brunes et craquantes",
+      "Pourriture interne des fruits",
+      "Pourriture de fruits avant la récolte"
     ]
   },
   "disease_cycle": {
-    "primary_inoculum": "Contaminated seeds",
+    "primary_inoculum": "Graines contaminées",
     "transmission_methods": [
-      "Seed transmission",
-      "Splashing water",
-      "Wind-driven rain",
-      "Overhead irrigation"
+      "Transmission des semences",
+      "Eau d ' éclaboussure",
+      "Pluie due au vent",
+      "Irrigation par voie aérienne"
     ],
     "infection_entry_points": [
       "Stomata",
-      "Plant wounds"
+      "Blessures de plantes"
     ],
-    "fruit_infection_stage": "2–3 weeks after flowering"
+    "fruit_infection_stage": "2–3 semaines après la floraison"
   },
   "favorable_conditions": {
-    "temperature_celsius": "High (around 27–30°C)",
-    "humidity": "High relative humidity",
+    "temperature_celsius": "Élevée (environ 27 à 30 °C)",
+    "humidity": "Humidité relative élevée",
     "environment": [
       "Greenhouses",
-      "Dense plant populations",
-      "Overhead irrigation"
+      "Populations végétales denses",
+      "Irrigation par voie aérienne"
     ]
   },
   "economic_importance": {
-    "impact": "Severe losses in cucurbit crops, especially watermelon and melon",
-    "possible_loss_percentage": "Up to 90–100% fruit loss in severe outbreaks",
+    "impact": "Pertes graves dans les cultures de cucurbitacées, en particulier la pastèque et le melon",
+    "possible_loss_percentage": "Jusqu'à 90 à 100 % de la perte de fruits lors d'éclosions graves",
     "global_distribution": true
   },
   "management": {
     "seed_management": [
-      "Use pathogen-free certified seeds",
-      "Seed health testing (PCR or grow-out assays)"
+      "Utiliser des semences certifiées exemptes de pathogènes",
+      "Tests de santé des semences (PCR ou essais de culture)"
     ],
     "seed_treatments": [
-      "Dry heat treatment (85°C for 3–5 days)",
-      "Peroxyacetic acid treatment",
-      "Chlorine treatments"
+      "Traitement thermique à sec (85°C pendant 3 à 5 jours)",
+      "Traitement de l'acide peroxyacétique",
+      "Traitements au chlore"
     ],
     "cultural_practices": [
-      "Reduce humidity in greenhouses",
-      "Avoid overhead irrigation",
-      "Remove infected plants"
+      "Réduire l'humidité dans les serres",
+      "Éviter l'irrigation aérienne",
+      "Enlever les plantes infectées"
     ],
     "chemical_control": [
-      "Copper-based bactericides"
+      "Bactéricides à base de cuivre"
     ],
-    "host_resistance": "No commercially reliable resistant cultivars available"
+    "host_resistance": "Aucun cultivars résistants commercialement fiable n'est disponible"
   },
   "genetic_diversity": {
     "groups": [
       {
-        "name": "Group I",
-        "characteristics": "Moderately aggressive on multiple cucurbits"
+        "name": "Groupe I",
+        "characteristics": "Modérément agressif sur plusieurs coucurbites"
       },
       {
-        "name": "Group II",
-        "characteristics": "Highly aggressive on watermelon"
+        "name": "Groupe II",
+        "characteristics": "Très agressif sur la pastèque"
       }
     ]
   },
   "sources": [
-    "APS Plant Disease Lessons",
-    "Journal of Plant Pathology studies on Acidovorax citrulli",
-    "International Seed Health Initiative (ISHI)",
-    "Plant Pathology research publications"
+    "Leçons de l'APS sur les maladies des plantes",
+    "Revue d'études de pathologie végétale sur Acidovorax citrulli",
+    "Initiative internationale sur la santé des semences (ISSI)",
+    "Publications de recherche en pathologie végétale"
   ]
 }

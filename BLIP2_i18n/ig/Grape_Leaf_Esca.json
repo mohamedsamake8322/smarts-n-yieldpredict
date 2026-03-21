@@ -1,0 +1,57 @@
+{
+  "disease": "Grape Esca",
+  "scientific_name": "E nwere otu nwoke bi n'otu ime obodo dị n'obodo a.",
+  "pathogen_type": "Ọrịa ogbu na nkwonkwo nke na-enweghị ngwọta)",
+  "description": "Esca bụ ajọ ọrịa sitere n'osisi vaịn bụ́ nke na - emebi ọdịdị osisi ma na - ebelata ike nke osisi vaịn.",
+  "symptoms": [
+    "Ńgwānụ́ banye",
+    "A na - esi n'ebe ndị a na - egwu mmiri enweta ihe e ji esi nri ma kpọọ ya ọkụ",
+    "Ọ na - eme ka osisi vaịn na - eto nke ọma, meekwa ka ọ ghara ịna - amị mkpụrụ nke ọma",
+    "Ihe ndị dị ize ndụ dị n'ime osisi",
+    "Akụkụ ya nile na - acha ọcha n'ime úkwù ya",
+    "Ma ọ́ bụghị ya, ọ bụrụ na osisi vaịn na - ama jijiji ma ọ bụ na ọ na - anwụ anwụ"
+  ],
+  "hosts": [
+    "Mkpụrụ ndụ ndị a na - akpọ Grapea (VVVA)",
+    "Mkpụrụ vaịn",
+    "Mmanya vaịn",
+    "Ụkwara oké ọhịa ndị dị n'ọhịa"
+  ],
+  "favorable_conditions": [
+    "ubi vaịn ndị merela ochie",
+    "Obi mgbawa na - eme ka e nwee ike ịbanye n'ime ụlọ ndị na - atọ ọchị",
+    "Ọnọdụ ndị na - enye obi ụtọ n'oge uto",
+    "Enwela Ihe Ịga nke Ọma n'Ime Ka Ebe Obibi Dị Ọcha"
+  ],
+  "spread": [
+    "Ihe ndị na - esi ísì ọma apụta na - abanye n'ihe ndị na - agbawa agbawa",
+    "Ihe ndị e ji akụ osisi bụ́ ndị a pịrị apị",
+    "Ngwá ọrụ ndị e ji osisi mee bụ́ ndị e ji osisi mee"
+  ],
+  "management": [
+    "Wepụ ma bibie osisi vaịn ndị bu ya ụzọ",
+    "Kali n'oge ọkọchị",
+    "Ekwela ka ihe ọ bụla mee ka ị ghara ịkwa mmakwaara",
+    "Jiri akwụkwọ ndị e ji akụ ihe n'ụzọ dị mma na - eme ihe",
+    "Zere oké ihe mgbu ndị na - esi na ya apụta"
+  ],
+  "biological_control": [
+    "Ngwá ọrụ ndị bụ́ isi e ji arụ ọrụ bụ́ ndị e tinyere n'ịgba ọnyá",
+    "Ihe Mkpori Ndụ Ndị Na - akpali Agụụ Mmekọahụ Iji Kwụsị Ime Isi Ike"
+  ],
+  "chemical_control": [
+    "Ndị na - ere ihe n'ala na - echekwa ihe ndị na - atọ ọchị mgbe ha kwasịrị ya",
+    "usoro ọgwụgwọ-enweghị isi"
+  ],
+  "prevention": [
+    "Ngwá ọrụ ndị e ji arụ ọrụ n'ụzọ a na - achịkwaghị achịkwa",
+    "Jiri ọrịa a na-amaghị́ọ̀kụ̀-osisi vaịn",
+    "Chekwaa ihe mebiri emebi ozugbo ị kwasịrị ya",
+    "Nọgide Na - edebe Ihe Ndị Dị n'Ime Ala n'Ụzọ Na - adịghị Mma"
+  ],
+  "source": [
+    "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Akwụkwọ ndị e ji amụ Bible bụ́ ndị e ji mkpụrụ akwụkwọ okpotokpo dee"
+  ]
+}

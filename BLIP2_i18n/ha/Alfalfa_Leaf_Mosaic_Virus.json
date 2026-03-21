@@ -1,70 +1,70 @@
 {
-  "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "disease_name": "K_ar ka Goge",
+  "common_name": "@ item Spelling dictionary",
   "pathogen": {
-    "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
-    "abbreviation": "AMV",
-    "family": "Bromoviridae",
-    "genus": "Alfamovirus"
+    "type": "QFontDatabase",
+    "scientific_name": "KCharselect unicode block name",
+    "abbreviation": "Ka Shiga Duk da Haka",
+    "family": "KCharselect unicode block name",
+    "genus": "KCharselect unicode block name"
   },
   "host_plants": [
-    "Alfalfa",
-    "Potato",
-    "Tomato",
-    "Pepper",
-    "Soybean",
-    "Clover",
-    "Pea",
-    "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "Ethiopian weekday 2 - LongDayName",
+    "QFontDatabase",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 3 - LongDayName",
+    "@ action",
+    "@ item Spelling dictionary",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan."
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "QXml",
+      "Sa'an nan, Muka tsirar da ƙwaya, a cikinta."
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "@ action",
+      "Media controller element",
+      "An Mai da Tawali'u"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "Taro Mai Girma",
+    "KCharselect unicode block name",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "Yi Amfani da Irin na'ura",
+      "KCharselect unicode block name",
+      "Zanen zawan da ke nuna ayyukan da ba a saurin ganewa"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      "KCharselect unicode block name"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "Wasu da suka amince da ra'ayin siyasa sun dangana ne a kan yin lambu"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "' Ya'yan itace suna nuna sauƙin hali da kuma hali a wurare da yawa",
+    "distribution": "A dukan duniya"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "Littafi Mai Tsarki Yana Gyara Rayuwar Mutane",
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

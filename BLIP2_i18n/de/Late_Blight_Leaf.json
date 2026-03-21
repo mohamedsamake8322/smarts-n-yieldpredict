@@ -1,0 +1,45 @@
+{
+  "disease": "Late Blight (Blatt)",
+  "scientific_name": "Phytophthora infestans",
+  "pathogen_type": "Oomycete (mykotisch)",
+  "description": "Eine verheerende Krankheit von Kartoffel- und Tomatenblättern, die dunkelbraune Flecken und einen schnellen Blatttod verursacht.",
+  "symptoms": [
+    "Dunkelbraune bis schwarze Blattflecken",
+    "Blattkanten werden blass und sterben",
+    "Schnelles Verwelken infizierter Blätter"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Kartoffeln",
+    "Sonstige Solanaceae-Pflanzen"
+  ],
+  "favorable_conditions": [
+    "Kühles und nasses Wetter",
+    "Hohe Luftfeuchtigkeit",
+    "Schlechte Luftzirkulation in dichten Anpflanzungen"
+  ],
+  "spread": [
+    "Wind und Regen Verteilung von Sporen",
+    "Kontaminierte Werkzeuge oder Hände",
+    "Infizierte Sämlinge oder Knollen"
+  ],
+  "management": [
+    "Pflanzenresistente Sorten",
+    "Entfernen und zerstören infizierte Blätter",
+    "Verbesserung der Luftzirkulation mit richtigem Abstand und Schnitt",
+    "Pflanzen umdrehen, um Inokulumbildungen zu verhindern"
+  ],
+  "chemical_control": [
+    "Fungizide auf Kupferbasis",
+    "Mancozeb Sprays auf Laub während der nassen Perioden"
+  ],
+  "prevention": [
+    "Überkopfbewässerung vermeiden",
+    "Verwendung zertifizierter seuchenfreier Samen oder Knollen",
+    "Pflanzenreste nach der Ernte entfernen"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "USDA, Leitfaden für das Management von Pflanzenkrankheiten"
+  ]
+}

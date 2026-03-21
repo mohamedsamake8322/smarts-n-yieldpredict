@@ -1,0 +1,87 @@
+{
+  "disease": "Rubor suave de Rhizopus (Moho de pan negro)",
+  "scientific_name": "Rhizopus stolonifer",
+  "pathogen_type": "Hongos",
+  "description": "Rhizopus stolonifer es un hongo común que causa la putrefacción suave en muchas frutas y verduras, especialmente después de la cosecha. Crece rápidamente en condiciones cálidas y húmedas y se propaga fácilmente a través de esporas en el aire. La enfermedad ataca principalmente productos maduros o heridos con alto contenido de azúcar.",
+  "symptoms": [
+    "Putrefacción acuosa suave en frutas o verduras",
+    "Desintegración rápida de los tejidos y fugas de jugo",
+    "Crecimiento fúngico de algodón blanco en la superficie",
+    "Desarrollo de la esporangia negra (puntos de moho negro)",
+    "Olor ácido o agrio de los productos infectados",
+    "Caída rápida que se extiende a los frutos cercanos"
+  ],
+  "hosts": [
+    "fresa",
+    "tomate",
+    "melocotón",
+    "melón",
+    "sandía",
+    "Plátano",
+    "Uvas",
+    "mango",
+    "papayas",
+    "batata",
+    "zanahoria",
+    "pepino",
+    "berenjena",
+    "pimienta",
+    "Cebolla",
+    "ajo",
+    "Habas",
+    "diversas frutas y hortalizas almacenadas"
+  ],
+  "favorable_conditions": [
+    "Alta humedad",
+    "Temperatura de calentamiento (25–30°C)",
+    "Frutos heridos o dañados",
+    "Alto contenido de azúcar en frutas maduras",
+    "Condiciones de almacenamiento deficientes",
+    "Mala ventilación durante el almacenamiento"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el aire",
+    "Contacto entre frutas infectadas y frutas sanas",
+    "Insectos que transportan esporas",
+    "Contenedores o superficies de almacenamiento contaminados"
+  ],
+  "management": [
+    "Manipular las frutas con cuidado para evitar heridas",
+    "Quitar y destruir los frutos infectados rápidamente",
+    "Mantener una buena higiene en las zonas de almacenamiento",
+    "Almacenar los productos a baja temperatura",
+    "Mejorar la ventilación y reducir la humedad"
+  ],
+  "biological_control": [
+    "Especies sincéfalas que parasitan Rhizopus",
+    "Especies de bacillus que producen compuestos antifúngicos",
+    "Bacterias productoras de fengicina que inhiben el crecimiento fúngico"
+  ],
+  "chemical_control": [
+    "Tiabendazol",
+    "Benomilo",
+    "Imazalilo",
+    "Propiconazol",
+    "Tiocarbamatos",
+    "Fludioxonil",
+    "Tebuconazol",
+    "Fenhexamida",
+    "Azoxistrobina",
+    "Cloro",
+    "Hipoclorito sódico",
+    "Hipoclorito cálcico"
+  ],
+  "prevention": [
+    "Cosecha los frutos cuidadosamente para evitar lesiones",
+    "Mantener un almacenamiento en frío adecuado",
+    "Mantener las zonas de almacenamiento limpias y desinfectadas",
+    "Evite apilar productos dañados con frutas saludables",
+    "Reducir la humedad durante el almacenamiento y el transporte"
+  ],
+  "source": [
+    "Bautista-Baños et al., Postcosecha Decaimiento de Frutas y Hortalizas",
+    "Introducción de Smith a la Micología Industrial",
+    "Interacciones planta-microbio – Rhizopus stolonifer",
+    "Literatura científica sobre enfermedades fúngicas posteriores a la cosecha"
+  ]
+}

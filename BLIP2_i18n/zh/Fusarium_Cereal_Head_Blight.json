@@ -1,69 +1,69 @@
 {
- "disease": "Fusarium Head Blight",
- "scientific_name": "Fusarium graminearum (main species)",
- "pathogen_type": "Fungus",
- "description": "A serious fungal disease of cereal crops that infects the heads of plants such as wheat and barley. It reduces grain yield and quality and can produce a toxic compound (mycotoxin) in the grain.",
- "symptoms": [
-  "Premature bleaching of cereal heads",
-  "One or more spikelets turn white while the rest remain green",
-  "Pink or orange fungal spores at the base of glumes",
-  "Whitish or pink fluffy fungal growth on infected heads in wet weather",
-  "Shriveled, lightweight and bleached kernels (tombstone kernels)"
- ],
- "hosts": [
-  "Wheat",
-  "Durum wheat",
-  "Barley",
-  "Oats",
-  "Corn (maize)",
-  "Rye",
-  "Wild and cultivated grasses"
- ],
- "favorable_conditions": [
-  "Warm temperatures around 25°C",
-  "High humidity or continuous moisture for 36 hours",
-  "Rain during flowering stage",
-  "Presence of infected crop residues in the field"
- ],
- "spread": [
-  "Wind-borne spores from infected residues",
-  "Rain splash spreading spores between plants",
-  "Planting infected seeds",
-  "Movement of contaminated crop residues or grain"
- ],
- "management": [
-  "Use resistant or tolerant cereal varieties",
-  "Rotate crops and avoid planting cereals after corn",
-  "Use clean certified seeds",
-  "Apply seed treatment before planting",
-  "Scout fields during flowering for symptoms",
-  "Harvest early when infection risk is high",
-  "Dry and aerate grain properly during storage"
- ],
- "biological_control": [
-  "Trichoderma species used as biological antagonists in soil or seed treatment",
-  "Beneficial microbes to suppress Fusarium in crop residues"
- ],
- "chemical_control": [
-  "Apply triazole fungicides (e.g. tebuconazole, prothioconazole, metconazole) during flowering stage",
-  "Use registered fungicides according to local agricultural recommendations"
- ],
- "prevention": [
-  "Rotate crops for at least 2 years with non-host crops",
-  "Manage crop residues by tillage or decomposition",
-  "Avoid highly susceptible varieties",
-  "Use proper irrigation management during flowering",
-  "Separate and test contaminated grain before feeding livestock"
- ],
- "impact": [
-  "Reduced grain yield and quality",
-  "Production of mycotoxin deoxynivalenol (DON)",
-  "Contaminated grain affects food processing, malting and biofuel production",
-  "High DON levels reduce feed intake and immunity in livestock"
- ],
- "source": [
-  "Alberta Agriculture – Fusarium Head Blight",
-  "Canadian Grain Commission",
-  "Plant pathology literature on cereal diseases"
- ]
+  "disease": "烟雾头灯",
+  "scientific_name": "(主要物种)",
+  "pathogen_type": "蘑菇",
+  "description": "一种严重的谷类作物真菌病,感染小麦和大麦等植物头部,降低谷物产量和质量,并可能在谷物中产生有毒化合物(麦毒)。",
+  "symptoms": [
+    "谷物头部过早漂白",
+    "一只或多只小艇变成白色,其余的仍为绿色",
+    "底部的粉粉或橙色真菌",
+    "湿天气中感染者头部生长的真菌",
+    "碎裂、轻重量和漂白内核(墓碑内核)"
+  ],
+  "hosts": [
+    "小麦",
+    "杜鲁麦小麦",
+    "巴巴多斯",
+    "Oats",
+    "玉米(玉米)",
+    "莱叶",
+    "野草和耕地草"
+  ],
+  "favorable_conditions": [
+    "温度约25°C",
+    "高湿度或连续水湿度36小时",
+    "在开花阶段下雨",
+    "实地存在受感染作物残留物"
+  ],
+  "spread": [
+    "来自受感染残留物的风向发状物",
+    "植物间喷洒的雨水喷洒",
+    "播种感染种子",
+    "受污染作物残留物或谷物的流动"
+  ],
+  "management": [
+    "使用抗性或耐性谷物品种",
+    "旋转作物,避免种植玉米之后的谷物",
+    "使用经认证的清洁种子",
+    "种植前应用种子处理",
+    "开花时用于发症状的童子场",
+    "感染风险高时早期收获",
+    "贮存期间,田里有干燥的谷物,在贮存期间,"
+  ],
+  "biological_control": [
+    "在土壤或种子处理中用作生物对立物的三氯代磷物种",
+    "用于抑制作物残留物中富集质化炉的有益微生物"
+  ],
+  "chemical_control": [
+    "在开花阶段应用三硝醇杀真菌剂(例如,丁二甲诺明、丙二氯甲诺明、甲氯甲醚)",
+    "根据当地农业建议使用已登记的杀真菌剂"
+  ],
+  "prevention": [
+    "与非东道作物旋转至少2年的作物",
+    "通过耕作或分解管理作物残留物",
+    "避免高度易感染的品种",
+    "在开花期间使用适当的灌溉管理",
+    "在喂养牲畜前单独和测试受污染的谷物"
+  ],
+  "impact": [
+    "谷物产量和质量下降",
+    "生产甲酚(DON)",
+    "受污染的谷物影响粮食加工、麦芽和生物燃料生产",
+    "降低饲料摄入量和牲畜免疫率"
+  ],
+  "source": [
+    "艾伯塔省农业局",
+    "加拿大谷物委员会",
+    "关于谷物病的植物病理学文献"
+  ]
 }

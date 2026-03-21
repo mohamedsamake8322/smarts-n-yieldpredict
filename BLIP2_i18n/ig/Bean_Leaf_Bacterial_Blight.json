@@ -1,0 +1,69 @@
+{
+  "disease": "Ọrịa Na - efe Efe nke Na - efe Efe",
+  "scientific_name": "Xthmnanas a alopoppv.",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ọrịa ogbu na nkwonkwo nke nje bacteria na - akpata bụ ọrịa ụmụ nje ndị na - emetụta akwụkwọ osisi, mkpọrọgwụ, na ihe ndị si n'okike. Nje bacteria ndị a na - emepụta site n'ihe ndị e kere eke ma ọ bụ ọnyá ndị dị n'ime ala ma gbasaa ngwa ngwa n'ọnọdụ ndị na - ekpo ọkụ na ndị na - esi ísì ọma.",
+  "symptoms": [
+    "Obere mmiri. retịn n'okpuru akwụkwọ",
+    "Brown ma ọ bụ mkpịsị ụkwụ ojii bụ́ ndị nwere ụda odo odo",
+    "Ebe ndị buru ibu bụ́ ndị nwụrụ anwụ dị n'akwụkwọ",
+    "Ọ na - agbawa obi ma ọ bụ na - akpọ nkụ",
+    "Mmiri na-enweghị isi n'ebe ndị ahụ a na-amaghị́ị̀",
+    "Anụ ọhịa ndị na - acha nchara nchara, ndị na - acha nchara nchara, ma ọ bụ ndị nwere nkwarụ"
+  ],
+  "hosts": [
+    "ịbụ onye a ma ama",
+    "A Ọchịchị akụrụ Dị n'Ahụ́",
+    "Takaan",
+    "M̀ bụ onye isi ojii",
+    "Ndị Na - eyi Ọha Egwu",
+    "lima",
+    "Kalina",
+    "Sobean",
+    "E nwere ụdị osisi ndị ọzọ na - esi ísì ọma"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ (25430C)",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "Ịgba Àmà n'Ụzọ Zuru Ezu",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - eme nke ọma"
+  ],
+  "spread": [
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Mmiri ozuzo-disi",
+    "Ngwá ọrụ ndị a haziri ahazi",
+    "Otú ị ga - esi amata ihe dị n'etiti ahịhịa ndị dị n'ime ala"
+  ],
+  "management": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa",
+    "Zere ịgba ala mmiri n'ike n'ike",
+    "Na - atụgharị uche n'ihe ọkụkụ ruo narị afọ abụọ na iri atọ na atọ",
+    "Ime ka ozi ubi na - aga nke ọma"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ihe nketa ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - emepụta mmiri ọgwụ ahụ́ bụ́ ndị na - emepụta mmiri ọgwụ ahụ́",
+    "Ọgwụ ndị e ji agwọ ọrịa bụ́ ndị e ji alụso nje HIV ọgụ",
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche"
+  ],
+  "chemical_control": [
+    "Anwụrụ ọkụ na - esi ísì ụtọ nke na - esi n'ahụ́ apụta",
+    "E ji ya emenwu ọkụ",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ńgwānụ́ banye"
+  ],
+  "prevention": [
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche mgbe e nwere ha",
+    "Jiri mkpụrụ osisi ndị dị ọcha na - eme ihe",
+    "Zere ịrụ ọrụ n'ugbo ndị dị na mbara èzí",
+    "Ngwá ọrụ ndị a na - ejighị n'aka",
+    "Nọgide na - edebe ihe ọcha n'ụzọ dị mma n'ubi"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ebe a na - akọ banyere ọrịa a na - ebute site n'aka ndị ọrụ ugbo",
+    "A na - etinye akwụkwọ dị iche iche n'ihe ọkụkụ ndị dị na mahadum"
+  ]
+}

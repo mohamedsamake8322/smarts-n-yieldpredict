@@ -1,84 +1,84 @@
 {
- "disease": "Alfalfa Mosaic Virus",
- "scientific_name": "Alfalfa mosaic virus (AMV)",
- "pathogen_type": "Virus (RNA virus)",
- "description": "A plant virus that infects peppers and many other crops. It spreads mainly by aphids and causes mosaic patterns, leaf deformation and reduced plant growth.",
- "symptoms": [
-  "Yellow mosaic patterns on leaves",
-  "Leaf vein deformation",
-  "Leaf curling",
-  "Whitish or bleached leaf spots",
-  "Black necrotic spots between veins (rare)",
-  "Mottled or blotchy fruits",
-  "Dark sunken spots on fruits",
-  "Stunted plant growth"
- ],
- "hosts": [
-  "Pepper",
-  "Alfalfa",
-  "Tomato",
-  "Potato",
-  "Eggplant",
-  "Cucumber",
-  "Squash",
-  "Pumpkin",
-  "Pea",
-  "Bean",
-  "Lentil",
-  "Chickpea",
-  "Soybean",
-  "Clover",
-  "Lucerne",
-  "Tobacco",
-  "Spinach",
-  "Lettuce",
-  "Carrot",
-  "Celery"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Pepper fields close to alfalfa crops",
-  "Aphid movement after alfalfa harvest"
- ],
- "spread": [
-  "Aphids feeding briefly on plants",
-  "Mechanical transmission through contaminated tools",
-  "Seed transmission (low rate)"
- ],
- "management": [
-  "Plant resistant or tolerant cultivars",
-  "Remove infected seedlings before planting",
-  "Plant peppers away from alfalfa fields",
-  "Use barrier crops such as corn",
-  "Use trap crops such as peas",
-  "Sanitize tools, pots and stakes",
-  "Adjust planting dates when possible"
- ],
- "biological_control": [
-  "Use natural predators such as lady beetles",
-  "Use minute pirate bugs (Orius spp.) to reduce aphid populations",
-  "Encourage beneficial insects in the field",
-  "Apply neem-based products containing azadirachtin"
- ],
- "chemical_control": [
-  "Mineral oil sprays to reduce virus transmission",
-  "Insecticidal soaps (fatty acids)",
-  "Imidacloprid",
-  "Acetamiprid",
-  "Flonicamid",
-  "Pymetrozine",
-  "Kaolin clay sprays to deter aphids"
- ],
- "prevention": [
-  "Use resistant cultivars",
-  "Keep distance between peppers and alfalfa fields",
-  "Use reflective mulch or straw mulch to repel aphids",
-  "Remove infected plants early",
-  "Control aphid populations in surrounding crops"
- ],
- "source": [
-  "Colorado State University Extension",
-  "Journal of Integrated Pest Management",
-  "Frontiers in Microbiology"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "' Ya'yan itace da ke sa shuke - shuke da kuma wasu shuke - shuke su yi girma.",
+  "symptoms": [
+    "Za ku iya yin amfani da hanyar da ba ta dace ba",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "@ action"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Ethiopian weekday 2 - LongDayName",
+    "QShortcut",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "@ item Spelling dictionary",
+    "QShortcut",
+    "Indian National weekday 3 - LongDayName",
+    "Indian National month 5 - LongName",
+    "Ethiopian weekday 3 - LongDayName",
+    "@ action",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - LongName",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "Taro Mai Girma",
+    "mukan yi tafiya mai nisa kusa da wani fili da ke kusa da teku",
+    "Ana samun ci gaba ne bayan an gama girbi"
+  ],
+  "spread": [
+    "Wani ɗan abinci mai ci yana cin abinci a kan shuke - shuke",
+    "KCharselect unicode block name",
+    "An haifi Ɗabi'a (wanda ba a taɓa) ba"
+  ],
+  "management": [
+    "Yi Tsayayya da Matsi na Tsara ko Kuma ' Yan siyasa",
+    "Ana shuka iri kafin a shuka iri",
+    "Mãsu gudu suna ɓũya.",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka yi amfani da tarko kamar su ' ya'yan itace",
+    "San alkawarin da aka yi na yin amfani da shi, kayan aiki, da kuma na'ura",
+    "'Ya'yan itãcen marmari, idan ya yiwu"
+  ],
+  "biological_control": [
+    "Ka Yi Amfani da Yadda Ya Kamata a Yi Amfani da Irin Mata",
+    "Ka yi amfani da na'ura don ka rage wani babban taro.",
+    "Ka ƙarfafa abubuwa masu amfani a hidimar fage",
+    "@ item Spelling dictionary"
+  ],
+  "chemical_control": [
+    "Media controller element",
+    "\" Sa'ad da Kuke Fuskantar Abubuwan da Kuke Sha'awa",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Idan aka haɗa da yumɓu da aka yi da yumɓu don a hana mai yin maye da yumɓu"
+  ],
+  "prevention": [
+    "Yi Amfani da Cin Nasara Sosai a Yin Tsayayya da Haɗin Kai",
+    "Ka yi tafiya tsakanin mutanen da ke kusa da teku da kuma wurin da ake yin wa'azi",
+    "Ka yi amfani da ɗan firam ko kuma ɗan firam don ya ja da baya mai nauyi",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Ku nĩsanci abu mai girman kai a wurare dabam - dabam"
+  ],
+  "source": [
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Yin Wa'azi a Cikin Fara'a Mai Ban Al'ajabi"
+  ]
 }

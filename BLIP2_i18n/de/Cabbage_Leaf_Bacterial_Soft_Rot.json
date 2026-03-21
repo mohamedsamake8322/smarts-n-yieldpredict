@@ -1,0 +1,98 @@
+{
+  "disease": "Kohlbakterielle Weichfäule",
+  "scientific_name": "Pektobacterium carotovorum (ehemals Erwinia carotovora)",
+  "pathogen_type": "Bakterium",
+  "description": "Bakterielle Weichfäule ist eine zerstörerische Kohlkrankheit, die zu einem raschen Zerfall des Pflanzengewebes führt. Die Bakterien treten durch Wunden oder natürliche Öffnungen ein und verbreiten sich schnell unter warmen und feuchten Bedingungen. Die Krankheit kann im Feld auftreten, führt aber oft zu schweren Verlusten während der Lagerung und des Transports.",
+  "symptoms": [
+    "Wassergetränkte Flecken auf Blättern oder Kohlköpfen",
+    "Weiche, versunkene Läsionen, die sich schnell vergrößern",
+    "Gewebe werden weich, muschi und nass",
+    "Verfärbung von Creme zu Braun oder Schwarz",
+    "Flüssigkeitssickerung aus infizierten Geweben",
+    "Starker unangenehmer fauliger Geruch",
+    "Blätter, Stängel oder Wurzeln können bei schweren Infektionen vollständig zerfallen"
+  ],
+  "visual_signature": [
+    "nasse weiche Fäule auf Kohlgewebe",
+    "mushiges zerfallendes Pflanzengewebe",
+    "Dunkel verrottende Bereiche mit flüssiger Leckage"
+  ],
+  "affected_plant_parts": [
+    "Blätter",
+    "Stamm",
+    "Kohlkopf",
+    "Wurzeln"
+  ],
+  "hosts": [
+    "Kohl",
+    "Brokkoli",
+    "Blumenkohl",
+    "Kopfsalat",
+    "Kartoffeln",
+    "Karotten",
+    "Zwiebel",
+    "Pfeffer",
+    "Tomaten",
+    "viele Gemüsepflanzen"
+  ],
+  "favorable_conditions": [
+    "warme Temperaturen (25–30°C)",
+    "hohe Luftfeuchtigkeit",
+    "nasses Wetter",
+    "schlechte Luftzirkulation",
+    "durch Insekten oder Werkzeuge verursachte Pflanzenwunden",
+    "Niedriges Kalzium in Pflanzen"
+  ],
+  "spread": [
+    "infizierte Pflanzenreste im Boden",
+    "kontaminiertes Bewässerungswasser",
+    "Regenspritzer",
+    "Insekten wie Madenfliegen",
+    "kontaminierte Werkzeuge",
+    "Handhabung während der Ernte und Lagerung"
+  ],
+  "management": [
+    "Verwenden Sie gesundes und krankheitsfreies Pflanzmaterial",
+    "Behandle Pflanzen sorgfältig, um Wunden zu vermeiden",
+    "Entfernen und zerstören infizierte Pflanzen sofort",
+    "Rotieren von Kulturen mit Nichtwirten für mindestens 3 Jahre",
+    "Überkopfbewässerung vermeiden",
+    "Aufrechterhaltung einer guten Feldsanierung",
+    "Sicherstellen der richtigen Pflanzenernährung vor allem Calcium"
+  ],
+  "biological_control": [
+    "Bacillus subtilis-basierte Biobakterizide",
+    "Pseudomonas fluorescens biologische Behandlungen"
+  ],
+  "chemical_control": [
+    "Kupferoxychlorid",
+    "Kupferhydroxid",
+    "Kupfersulfatbakterizide"
+  ],
+  "example_products": [
+    "Greencop 500WP",
+    "Trinity Gold 452WP",
+    "Kolonisator 440WP",
+    "Biodistinktion Xtra 700CS",
+    "Pyramide 700WP"
+  ],
+  "prevention": [
+    "Pflanzenresistente oder tolerante Sorten",
+    "Verwenden Sie krankheitsfreie Samen und Sämlinge",
+    "Vermeiden Sie es, Pflanzen während des Anbaus zu verletzen",
+    "Ernte bei trockenen Bedingungen",
+    "Kohl vor der Lagerung inspizieren",
+    "Lagerbereiche sauber und trocken halten"
+  ],
+  "storage_management": [
+    "Kohl bei 0–4°C lagern (32–39°F)",
+    "Erhaltung der Lagerfeuchte um 90–95 %",
+    "Vermeiden Sie die Lagerung beschädigten oder infizierten Gemüses",
+    "Verwenden Sie weiche Materialien wie Stroh oder Papier, um Verletzungen zu verhindern"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Pflanzenpathologie Erweiterung Veröffentlichungen",
+    "Leitfaden für das Management von Pflanzenkrankheiten"
+  ]
+}

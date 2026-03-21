@@ -1,0 +1,96 @@
+{
+  "disease": "Blossom End Rot",
+  "crop": "Sandía",
+  "scientific_context": "Trastorno fisiológico causado por deficiencia de calcio localizada",
+  "pathogen_type": "Trastorno fisiológico (no causado por un patógeno)",
+  "description": "La podredumbre del extremo de la flor es un trastorno fisiológico que afecta a la sandía y otros vegetales frutales. Es causada por el calcio insuficiente que alcanza los tejidos de la fruta en desarrollo, generalmente debido a riego irregular, estrés por sequía, alta salinidad, o fertilización excesiva del nitrógeno.",
+  "scientific_name": "Trastorno por deficiencia de calcio",
+  "symptoms": [
+    "mancha empapada de agua al final de la flor de la fruta",
+    "Ligera lesión de bronceado que se agranda con el tiempo",
+    "zona hundida de color marrón oscuro o negro en la fruta",
+    "Tejidos coriáceos o secos al final de la flor",
+    "pudrición blanda secundaria cuando los hongos o las bacterias invaden",
+    "fruta afectada madurar antes de lo normal"
+  ],
+  "visual_signature": [
+    "parche negro oscuro al final de la flor de sandía",
+    "lesión hundida de cuero en la punta de la fruta",
+    "podredumbre negra seca en el extremo de la flor",
+    "zona deprimida descolorida en la superficie de la fruta"
+  ],
+  "affected_plant_parts": [
+    "fin de la flor de la fruta",
+    "desarrollo de tejido frutícola"
+  ],
+  "plant_family": "Cucurbitaceae",
+  "hosts": [
+    "sandía",
+    "tomate",
+    "pimienta",
+    "berenjena",
+    "calabaza",
+    "squash"
+  ],
+  "important_hosts": [
+    "Citrullus lanatus",
+    "Solanum lycopersicum",
+    "Capsicum annuum",
+    "Solanum melongena",
+    "Cucurbita pepo"
+  ],
+  "causes": [
+    "deficiencia de calcio en el desarrollo de frutas",
+    "riego irregular",
+    "estrés por sequía",
+    "alta salinidad del suelo",
+    "exceso de fertilización nitrogenada",
+    "rápido crecimiento de las plantas",
+    "baja absorción de calcio por las raíces"
+  ],
+  "favorable_conditions": [
+    "temperaturas calientes",
+    "estrés por sequía",
+    "humedad fluctuante del suelo",
+    "mal drenaje del suelo",
+    "camas levantadas que se secan rápidamente"
+  ],
+  "spread": [
+    "no contagiosa",
+    "causada por el desequilibrio ambiental y nutricional"
+  ],
+  "damage": [
+    "la fruta se convierte en incomercialización",
+    "reducción del rendimiento de los cultivos",
+    "maduración prematura de los frutos",
+    "infecciones secundarias pueden destruir la fruta"
+  ],
+  "management": [
+    "mantener la humedad uniforme del suelo",
+    "plantas de agua regularmente y profundamente",
+    "suelo de mantillo para conservar la humedad",
+    "evitar la fertilización excesiva de nitrógeno",
+    "mejorar el drenaje del suelo"
+  ],
+  "nutritional_management": [
+    "mantener el calcio adecuado en el suelo",
+    "aplicar cal agrícola para ajustar el pH del suelo",
+    "utilizar aerosoles foliares de nitrato de calcio o cloruro de calcio cuando sea necesario"
+  ],
+  "cultural_control": [
+    "espaciamiento adecuado de la planta para la circulación del aire",
+    "prácticas equilibradas de fertilización",
+    "calendario de riego coherente"
+  ],
+  "prevention": [
+    "pruebas del suelo antes de la plantación",
+    "mantener el pH del suelo alrededor de 6,5-7",
+    "evitar grandes fluctuaciones en el riego"
+  ],
+  "source": [
+    "Guías de patología de plantas de extensión universitaria",
+    "Invernadero",
+    "Diario Horticulturae",
+    "Revista de Nutrición Vegetal"
+  ]
+}

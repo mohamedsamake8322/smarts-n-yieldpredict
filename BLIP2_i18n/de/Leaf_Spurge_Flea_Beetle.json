@@ -1,0 +1,87 @@
+[
+  {
+    "disease": "Blattspülung Flea Beetle",
+    "scientific_name": "Aphthona spp.",
+    "pathogen_type": "Insekten (biologisches Kontrollmittel)",
+    "description": "Kleine Käfer, die als biologische Kontrollinsekte gegen Euphorbia esula (Leaf Spurge) eingesetzt werden. Die Larven ernähren sich von den Wurzeln, während die Erwachsenen die Blätter konsumieren, was das Wachstum und die Fortpflanzung der Pflanze verringert.",
+    "hosts": [
+      "Euphorbia esula",
+      "Blattspülung"
+    ],
+    "symptoms": [
+      "Von ausgewachsenen Käfern verzehrte Blätter",
+      "Verringerung des Pflanzenwachstums und der Blüte",
+      "Schwache oder sterbende Pflanzen im Laufe der Zeit"
+    ],
+    "favorable_conditions": [
+      "Mäßige Frühlings- und Sommertemperaturen",
+      "Gut durchlässige Böden, die Larvenentwicklung begünstigen"
+    ],
+    "spread": [
+      "Natürliche Bewegung der erwachsenen Käfer",
+      "Menschliche Einführung für biologische Kontrollprogramme"
+    ],
+    "management": [
+      "Verwendung als biologisches Kontrollmittel",
+      "Vermeiden Sie Pestizide, die Aphthona-Populationen töten können",
+      "Überwachen Sie die Einrichtung und Ausbreitung der Bevölkerung"
+    ],
+    "chemical_control": [
+      "Nicht zutreffend: als biologisches Kontrollmittel verwendet"
+    ],
+    "prevention": [
+      "Erhaltung gesunder Käferpopulationen für eine nachhaltige Bekämpfung",
+      "Vermeidung der Einführung nichtselektiver Pestizide"
+    ],
+    "source": [
+      "CABI Invasive Arten Kompendium",
+      "USDA Leaf Spurge Biological Control Program"
+    ]
+  },
+  {
+    "disease": "Geringerer Cornstalk Borer",
+    "scientific_name": "Elasmopalpus lignosella",
+    "pathogen_type": "Insekten (phytophagische Larven)",
+    "description": "Eine Raupe, die vor allem die Stängel und Wurzeln von Mais, Sorghum und anderen Gräsern angreift, was zu Verwelken und zum Tod junger Sämlinge führt.",
+    "hosts": [
+      "Mais",
+      "Sorghum",
+      "Zuckerrohr",
+      "Gräser",
+      "Bohnensämlinge"
+    ],
+    "symptoms": [
+      "Wilting und Vergilbung junger Pflanzen",
+      "Löcher und Tunnel an der Stängelbasis",
+      "Tote oder geschwächte Pflanzen"
+    ],
+    "favorable_conditions": [
+      "Trockene und sandige Böden",
+      "Heiße und trockene Klimazonen, die Eierlegen bevorzugen",
+      "Intensiv bepflanzte Kulturpflanzen"
+    ],
+    "spread": [
+      "Eier, die im Boden oder an der Basis von Pflanzen gelegt werden",
+      "Larven bewegen sich, um junge Stängel anzugreifen",
+      "Bewegung von befallenen Pflanzen oder Pflanzenmaterial"
+    ],
+    "management": [
+      "Fruchtrotation mit Nicht-Host-Pflanzen",
+      "Entfernung infizierter pflanzlicher Rückstände",
+      "Tiefe Pflanzung, um junge Sämlinge zu schützen"
+    ],
+    "chemical_control": [
+      "Systemische oder bodenapplizierte Insektizide (z. B. Chlorpyrifos, Imidacloprid)",
+      "Präventive Anwendung vor dem Keimen"
+    ],
+    "prevention": [
+      "Pflanzentolerante Sorten, wenn verfügbar",
+      "Felder frei von Pflanzenschrott halten",
+      "Überwachen Sie junge Pflanzen und behandeln Sie früh, wenn Befall auftritt"
+    ],
+    "source": [
+      "CABI-Kompendium zum Pflanzenschutz",
+      "FAO-Faktenblätter für Schädlingsbekämpfungsmittel"
+    ]
+  }
+]

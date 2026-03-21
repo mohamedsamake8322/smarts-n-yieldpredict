@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
+  "disease": "Brûlure bactérienne des haricots",
   "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
-  "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "pathogen_type": "Bactérie",
+  "description": "La brûlure bactérienne est une maladie bactérienne commune des haricots qui affecte les feuilles, les tiges et les gousses. La bactérie infecte les plantes par des ouvertures naturelles ou des blessures et se propage rapidement dans des conditions chaudes et humides.",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "Petites taches mouillées par l'eau sur les feuilles",
+    "Lésions brunes ou foncées avec halos jaunes",
+    "Grandes zones mortes irrégulières sur les feuilles",
+    "Séchage ou déchirage des feuilles",
+    "Taches mouillées par l'eau sur les gousses",
+    "Pochettes devenant brunes, râpées ou déformées"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
-    "soybean",
-    "other Phaseolus species"
+    "fèves communes",
+    "haricot rénal",
+    "haricot pinto",
+    "Haricot noir",
+    "Haricots marins",
+    "Haricot lima",
+    "Haricots cassés",
+    "soja",
+    "autres espèces de Phaseolus"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "Températures chaudes (25-30°C)",
+    "Humidité élevée",
+    "Pluies fréquentes",
+    "Irrigation par voie aérienne",
+    "Canopée dense des cultures"
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "Graines infectées",
+    "éclaboussure de pluie",
+    "Pluie due au vent",
+    "Outils contaminés",
+    "Contact entre les plantes humides"
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Enlever les résidus de plantes infectées",
+    "Éviter l'irrigation aérienne",
+    "Rotation des cultures de 2 à 3 ans",
+    "Améliorer la ventilation sur le terrain"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "Biopesticides à base de Bacillus subtilis",
+    "Pseudomonas fluorescens traitements biologiques",
+    "Résistance des plantes dans les variétés de haricots tolérants"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "Hydroxyde de cuivre",
+    "Oxychlorure de cuivre",
+    "Sulfate de cuivre",
+    "Bactéricides à base de cuivre"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "Variétés résistantes aux végétaux lorsqu'elles sont disponibles",
+    "Utiliser des graines propres",
+    "Évitez de travailler dans les champs humides",
+    "Désinfecter les outils",
+    "Maintenir de bonnes conditions d ' assainissement sur le terrain"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
-    "University plant pathology extension publications"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Guides de gestion des maladies des plantes de la FAO",
+    "Publications universitaires de vulgarisation en phytopathologie"
   ]
 }

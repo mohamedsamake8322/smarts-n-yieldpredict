@@ -1,0 +1,85 @@
+{
+  "disease": "Solanaceae Spot Bacterial",
+  "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+  "pathogen_type": "Bacteria",
+  "description": "La mancha bacteriana es una enfermedad bacteriana grave que afecta los tomates y los pimientos. Causa manchas oscuras empapadas en agua sobre las hojas y los frutos, lo que conduce a la defoliación y a la reducción del rendimiento. La enfermedad se propaga fácilmente en condiciones cálidas y húmedas.",
+  "symptoms": [
+    "Pequeñas manchas marrones empapadas de agua en las hojas",
+    "Lesiones circulares sin anillos concéntricos",
+    "Manchas que se fusionan para formar grandes vetas oscuras",
+    "Amarillamiento de las hojas alrededor de las lesiones",
+    "Las hojas pueden caer temprano (defoliación)",
+    "Manchas en forma de costra en las frutas"
+  ],
+  "visual_symptoms": [
+    "manchas de la hoja marrón oscuro",
+    "lesiones empapadas en agua",
+    "lesiones similares a las costras en la fruta",
+    "hojas amarillentas con muchas manchas"
+  ],
+  "hosts": [
+    "Tomate",
+    "Pimienta",
+    "Pimienta chili",
+    "Pimienta dulce",
+    "Otros cultivos de solanáceas"
+  ],
+  "plant_parts_affected": [
+    "hojas",
+    "tallos",
+    "Frutas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (27–32°C)",
+    "Alta humedad",
+    "Lluvia frecuente o irrigación superior",
+    "Hojas húmedas"
+  ],
+  "spread": [
+    "Semillas infectadas",
+    "Desechos vegetales",
+    "Lluvia eólica",
+    "Herramientas y equipos contaminados",
+    "Trabajadores de las plantas de manipulación"
+  ],
+  "disease_cycle": [
+    "Las bacterias sobreviven en semillas infectadas y desechos de cultivos",
+    "Las bacterias se propagan por salpicaduras de lluvia o contacto",
+    "Entran en las plantas a través de estomas o heridas",
+    "Las lesiones se forman sobre las hojas y los frutos",
+    "Las bacterias se multiplican y se propagan a las plantas cercanas"
+  ],
+  "impact": [
+    "Caída de hojas y fotosíntesis reducida",
+    "Pérdida de calidad de las frutas debido a lesiones",
+    "Reducción grave del rendimiento",
+    "Posible fallo de los cultivos en brotes graves"
+  ],
+  "cultural_control": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Girar los cultivos durante 2-3 años",
+    "Eliminar los desechos vegetales infectados",
+    "Evite trabajar en campos cuando las plantas están húmedas",
+    "Utilizar variedades resistentes cuando estén disponibles"
+  ],
+  "biological_control": [
+    "Utilizar microbios beneficiosos como los bioplaguicidas a base de bacillus",
+    "Aplicar productos fitosanitarios biológicos cuando estén disponibles"
+  ],
+  "chemical_control": [
+    "bactericidas a base de cobre",
+    "Cobre + mezclas de mancozeb",
+    "Hidróxido de cobre",
+    "Oxicloruro de cobre"
+  ],
+  "prevention": [
+    "Utilizar trasplantes sanos",
+    "Mantenimiento del saneamiento sobre el terreno",
+    "Control de malas hierbas y plantas voluntarias",
+    "Monitorear los cultivos regularmente durante el clima húmedo cálido"
+  ],
+  "source": [
+    "Guía de la enfermedad vegetal de extensión de Umass",
+    "Referencias fitopatológicas"
+  ]
+}

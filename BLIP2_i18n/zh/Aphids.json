@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "虫",
+  "scientific_name": "",
+  "description": "影响许多作物和装饰植物的小型稀释性昆虫。 通过遥测几代人的迅速繁殖可以让种群迅速繁殖。 某些物种在宿主植物之间交替生长;另一些物种则是泛泛的动物。 它们生产蜂蜜,从而导致肥沃的模子生长。 虫类是植物病毒的载体。",
+  "life_cycle": [
+    "以性生殖为主;女性生活生生女性性器官",
+    "本季晚些时候,成翼女性散至新植物",
+    "在温带地区,性生殖在秋天发生,作为鸡蛋过冬",
+    "与Buchnera aphidicola的共生关系提供了必要的氨基酸。"
+  ],
+  "hosts": [
+    "蔬菜、水果、谷物、豆类、装饰植物",
+    "许多作物和花园植物"
+  ],
+  "symptoms_and_damage": [
+    "增长和树叶摇摇",
+    "黄树或树叶的植树",
+    "蜜蜂在叶叶和根上存款",
+    "Sooty 模子生长减少光合作用",
+    "植物病毒的传播"
+  ],
+  "favorable_conditions": [
+    "温温温度",
+    "高湿湿度",
+    "下雨天气",
+    "高密度植物树冠和高压植物"
+  ],
+  "spread": [
+    "直接接触害虫植物",
+    "风分散翼型女性",
+    "养虫的蚂蚁",
+    "工具、工人和灌溉水"
+  ],
+  "natural_enemies": [
+    "虫(例如,Coccinella septempuncta、Adalia bipuncta)",
+    "幼虫环飞行",
+    "寄生虫蜂",
+    "虫中幼虫",
+    "绿带幼虫",
+    "蜘蛛蜘蛛",
+    "致虫性真菌(Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicilium lecaniii)"
+  ],
+  "biological_control": [
+    "食肉性昆虫和寄生虫的释放",
+    "鼓励自然敌人进入花园或温室",
+    "使用真菌生物农药(Beauveria, Lecanicion, Metarhizium)"
+  ],
+  "chemical_control": [
+    "由于抗药性(制药业、有机磷酸盐、除虫菊酯),杀虫剂往往有限。",
+    "系统杀虫剂不得穿透花朵",
+    "小型虫害:杀虫肥皂、强水喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式喷气式"
+  ],
+  "prevention": [
+    "使用黄色或Moericke 陷阱监测人群",
+    "避免过量的氮肥化以减少对虫的吸引力",
+    "迅速清除渗入的工厂部件",
+    "只在受控制的环境中鼓励相互性蚂蚁",
+    "作物轮作和维持植物健康"
+  ],
+  "ant_mutualism": [
+    "一些蚂蚁养养养蜂虫,养蜂蜜,保护它们免受掠食动物的侵食",
+    "蚂蚁可能会在冬季携带虫卵,然后在春季将其送回植物",
+    "蚂蚁出勤会增加蜂蜜生产,并影响两栖行为"
+  ],
+  "adaptations": [
+    "为保护而涂涂毛或毛毛蜡涂层",
+    "用于防御的胆形生物种的士兵形态",
+    "通过玉米球(阿洛蒙、粘粘蜡、费洛蒙)进行化学防护",
+    "能够丢弃植物以逃离掠食者"
+  ],
+  "sources": [
+    "维基百科 — — 虫类",
+    "植物害虫防治文献",
+    "虫害综合综合防治(IPM)参考文献"
+  ]
 }

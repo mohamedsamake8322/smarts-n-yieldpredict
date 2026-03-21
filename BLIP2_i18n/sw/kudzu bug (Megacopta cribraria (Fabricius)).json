@@ -1,56 +1,56 @@
 {
- "pest": "Kudzu Bug",
- "scientific_name": "Megacopta cribraria",
- "pest_type": "Insect (Hemiptera: Plataspidae)",
- "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
- "symptoms": [
-  "Clusters of small brown shield-shaped insects on stems and leaves",
-  "Yellowing or browning of leaves",
-  "Reduced plant growth and vigor",
-  "Lower pod production in soybean",
-  "Sticky honeydew deposits that may lead to sooty mold"
- ],
- "hosts": [
-  "Soybean",
-  "Kudzu",
-  "Bean",
-  "Cowpea",
-  "Other legume crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Presence of kudzu plants near fields",
-  "Dense vegetation where insects can reproduce"
- ],
- "spread": [
-  "Adult insects flying to new fields",
-  "Movement from kudzu plants to nearby crops",
-  "Overwintering adults emerging in spring"
- ],
- "management": [
-  "Monitor fields regularly for insect clusters",
-  "Remove nearby kudzu plants when possible",
-  "Use resistant or tolerant soybean varieties",
-  "Encourage natural enemies in fields"
- ],
- "biological_control": [
-  "Parasitic wasps such as Paratelenomus saccharalis",
-  "General predators like spiders and lady beetles",
-  "Conservation of beneficial insects"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
-  "Neonicotinoid insecticides such as imidacloprid",
-  "Apply when pest populations reach economic threshold"
- ],
- "prevention": [
-  "Monitor fields early in the season",
-  "Control kudzu near crop fields",
-  "Maintain field sanitation and crop rotation"
- ],
- "source": [
-  "University of Georgia Extension",
-  "USDA Pest Management Guides",
-  "Integrated Pest Management literature"
- ]
+  "pest": "Mwisho wa Bug",
+  "scientific_name": "Maelezo ya Cryptocurrency",
+  "pest_type": "Wanyama (Hemiptera: Plataspidae)",
+  "description": "Mshambuliaji wa safi ambayo huathiri safi na mazao mengine. Wanawake wote na nymphs hupata safi ya mimea, kupunguza ukuaji wa mimea na uzalishaji. Mwanzoni kutoka Asia, imekuwa uharibifu mkubwa katika mikoa kadhaa ya mimea.",
+  "symptoms": [
+    "Clusters of small brown shield-shaped insects on stems na tiketi",
+    "Kupata au kupata nywele za nywele",
+    "Kupunguza uzalishaji na uzalishaji",
+    "Kupunguza uzalishaji katika soya",
+    "Mchakato wa nyama ya nyama ambayo inaweza kusababisha muundo wa nyama"
+  ],
+  "hosts": [
+    "Soya ya",
+    "ya Kudzu",
+    "ya Bean",
+    "Mchakato",
+    "Vitu vingine vya matunda"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Uwepo wa mimea ya kudzu karibu na maeneo",
+    "Vituo vya dhahabu ambapo wanyama wanaweza kuzalisha"
+  ],
+  "spread": [
+    "Wanawake mbegu kuondoka katika maeneo mapya",
+    "Kuendesha kutoka mimea ya kudzu kwa mimea ya karibu",
+    "Wanawake wanaoongezeka kwa majira ya joto katika spring"
+  ],
+  "management": [
+    "Ufuatilia maeneo kwa mara kwa mara kwa ajili ya samaki",
+    "Kuondoa mimea ya kudzu karibu wakati inawezekana",
+    "Kutumia aina ya safi ya safi na ya kutosha",
+    "Kuimarisha maadui ya asili katika maeneo"
+  ],
+  "biological_control": [
+    "Matibabu ya matibabu kama Paratelenomus saccharalis",
+    "Maafisa wa kawaida kama nyama na lady beetles",
+    "Uhifadhi wa mbegu za faida"
+  ],
+  "chemical_control": [
+    "Wanyama wa Pyrethroid (kwa mfano, bifenthrin, lambda-cyhalothrin)",
+    "Mafuta ya Neonicotinoid kama vile Imidacloprid",
+    "Tumia wakati idadi ya wanyama kufikia kiwango cha kiuchumi"
+  ],
+  "prevention": [
+    "Ufuatiliaji wa maeneo mapema katika msimu huu",
+    "Ulinzi wa kudzu karibu na maeneo ya mimea",
+    "Kuanzisha uhifadhi wa ardhi na rotation ya mimea"
+  ],
+  "source": [
+    "Chuo Kikuu cha Georgia Extension",
+    "Utafiti wa Utafiti wa Utafiti wa USDA",
+    "Maandalizi ya Utawala wa Pest"
+  ]
 }

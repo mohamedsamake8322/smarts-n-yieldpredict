@@ -1,67 +1,67 @@
 {
- "disease": "Anthracnose of Cucurbits",
- "scientific_name": "Colletotrichum orbiculare",
- "pathogen_type": "Fungus",
- "description": "A fungal disease affecting cucurbits (cucumber, melon, squash, watermelon, pumpkin). Causes lesions on leaves, stems, and fruits, especially in warm, humid, rainy conditions. Can survive on seeds, soil, and plant debris, and spreads by rain, wind, tools, workers, and insects.",
- "symptoms": [
-  "Leaves: oily spots near veins, angular brown/red/black lesions, tissue death or drop",
-  "Stems and petioles: elongated, depressed, yellowish lesions, may produce black acervules under humid conditions",
-  "Fruits: circular, sunken brown lesions, may ooze red gummy exudate on melon; gelatinous salmon-colored spores on watermelon"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Squash",
-  "Watermelon",
-  "Pumpkin",
-  "Other cucurbits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (26–32°C)",
-  "High humidity and rainfall",
-  "Wet leaves or prolonged dew",
-  "Soil and crop debris harboring pathogen"
- ],
- "spread": [
-  "Infected seeds",
-  "Contaminated soil",
-  "Crop debris",
-  "Wind, rain splash, irrigation water",
-  "Tools and workers",
-  "Cucumber beetles"
- ],
- "management": [
-  "Use certified disease-free seeds",
-  "Plant resistant or tolerant cultivars",
-  "Destroy infected plants and crop debris",
-  "Rotate cucurbits with non-host crops for 2–3 seasons",
-  "Prune plants to increase airflow and reduce humidity",
-  "Avoid overhead irrigation and work when plants are wet"
- ],
- "biological_control": [
-  "Trichoderma harzianum: competes with pathogen, inhibits growth up to 72%",
-  "Bacillus subtilis: bio-pesticide to prevent pathogen establishment",
-  "Plant extracts: horsetail decoction, garlic or neem extracts inhibit fungal growth",
-  "Adjust pH on leaf surface with bicarbonate to reduce fungus development"
- ],
- "chemical_control": [
-  "Difenoconazole (Score) at 0.2 L/ha",
-  "Apply early morning or late evening",
-  "Ensure proper coverage, absorbed in 2 hours",
-  "Limit to one application per season or rotate with other fungicides",
-  "Follow safety precautions (gants, masque, lunettes) and pre-harvest interval"
- ],
- "prevention": [
-  "Use certified, disease-free seeds",
-  "Remove volunteer crops and crop debris",
-  "Avoid wounding plants",
-  "Maintain good field sanitation and air circulation",
-  "Implement crop rotation with cereals, legumes, or brassicas"
- ],
- "source": [
-  "Plantwise Knowledge Bank – Anthracnose in watermelon, Mooya A.M Nzila, CABI",
-  "Sherriff et al., 1994, Experimental Mycology",
-  "US Center for Agriculture, Food and Environment",
-  "French agronomic sources on cucurbit anthracnose"
- ]
+  "disease": "Kinuo cha Cucurbits",
+  "scientific_name": "\" Collettrichum \"",
+  "pathogen_type": "Kuvu",
+  "description": "Ugonjwa wa kuvu unaoathiri machicha (kuganda, melon, mung'unye, matikiti - maji, ngozi ya pampu). Husababisha vidonda kwenye majani, mashina, na matunda, hasa katika hali zenye joto, unyevu, na mvua.",
+  "symptoms": [
+    "Majani: madoa yenye mafuta karibu na vena, uvimbe wa rangi ya kahawia/red/susi, kufa kwa tishu au kushuka",
+    "Shina na viungo vya uzazi: vizee, vilivyoshuka moyo, vyenye rangi ya manjano, vinaweza kutokeza uvimbe mweusi chini ya unyevunyevu",
+    "Matunda: vidonda vya mviringo, vya kahawia vilivyozama, vyaweza kutia ndani gundi nyekundu kwenye meloni; mbegu za salmoni zenye rangi mbalimbali kwenye matikiti - maji"
+  ],
+  "hosts": [
+    "Pacumber",
+    "Melon",
+    "Swashi",
+    "Watermelon",
+    "Pumpkin",
+    "Mambo Mengine ya msingi"
+  ],
+  "favorable_conditions": [
+    "Halijoto zenye joto (2632 NAK)",
+    "Unyevu mwingi na mvua",
+    "Majani yaliyokauka au umande mrefu",
+    "Udongo na mabaki ya mazao huwa na viini"
+  ],
+  "spread": [
+    "Mbegu zilizoambukizwa",
+    "Udongo uliochafuliwa",
+    "Takataka za mazao",
+    "Upepo, mvua nyingi, maji ya umwagiliaji maji",
+    "Vifaa na wafanyakazi",
+    "Mbawakawa aina ya Cucumber"
+  ],
+  "management": [
+    "Tumia mbegu zilizothibitishwa zisizo na maradhi",
+    "Wafuasi wa madhehebu yenye kukinza au yenye kuvumilia",
+    "Kuangamiza mimea iliyoambukizwa na takataka za mazao",
+    "Zungura zenye mazao yasiyo ya asili kwa ajili ya majira 283",
+    "Mimea inayokuza hewa na kupunguza unyevu",
+    "Epuka kunyunyizia maji mashamba na kufanya kazi wakati mimea inapolowa maji"
+  ],
+  "biological_control": [
+    "Trichoderma harzianium: hushindana na viini, huzuia ukuzi kufikia asilimia 72",
+    "Bacillus citilis: bioper-pesticide ili kuzuia viini visiongezeke",
+    "Vituo vya kupanda mimea: uondoaji wa kitunguu saumu au neem huzuia ukuzi wa kuvu",
+    "Rekebisha pH juu ya jani kwa kutumia gundi ili kupunguza ukuzi wa kuvu"
+  ],
+  "chemical_control": [
+    "Difenoconazile (Score) at 0.2 L/ha",
+    "Tumia mapema asubuhi au jioni jioni",
+    "Hakikisha kwamba habari zifaazo zinapokewa kwa muda wa saa 2",
+    "Punguza matumizi moja kwa msimu au huzunguka kwa kutumia dawa nyingine za kuua kuvu",
+    "Fuata tahadhari za usalama (kama vile, masque, lunette) na kipindi cha kabla ya kuvunwa"
+  ],
+  "prevention": [
+    "Tumia mbegu zilizothibitishwa, zisizo na maradhi",
+    "Ondoa mazao ya kujitolea na takataka za mazao",
+    "Epuka kuharibu mimea",
+    "Dumisha usafi wa bustani na mzunguko wa hewa",
+    "Mimea huzunguka kwa kutumia nafaka, maharagwe, au shaba nyeupe"
+  ],
+  "source": [
+    "Mtambo wenye hekima ya Ujuzi huko Bank ▿ Anthracnise huko matikiti - maji, Mooya A.M Nzila, CABI",
+    "Sherriff et al., 1994, Expemental Mycology",
+    "US Center for Agriculture, Food and Environment",
+    "Vyanzo vya Kifaransa vya agronimomic katika cucurbit athractonise"
+  ]
 }

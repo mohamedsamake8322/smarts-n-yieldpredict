@@ -1,64 +1,70 @@
 {
-  "disease_name": "Tomato Leaf Bacterial Canker",
-  "type": "bacterial disease",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "disease_name": "Tomato Leaf Bakteriyel Kanser",
+  "type": "Bakteriyel Hastalık",
+  "causal_agent": "Clavibacter michiganensis pv.",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ],
+    "secondary": [
+      "Yumurta Bitkileri (Solanum melongena L)",
+      "Pirinç ( Capsicum spp )",
+      "Gece gölgeleri (Solanum spp)"
+    ]
   },
-  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "distribution": "Dünya çapında; sera ve alan yetiştirilmiş domateslerde yaygındır",
   "symptoms": {
     "leaves": [
-      "Older leaves develop brown, scorched margins that curl upward and inward",
-      "Distinct border between brown and green tissue, often with a thin yellow line",
-      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+      "Yaşlı yapraklar, yukarı ve içeriye dönen kahverengi, çizilmiş marjlar geliştirir.",
+      "Kahverengi ve yeşil doku arasındaki sınırı ayırt edin, çoğu zaman ince sarı bir çizgi ile",
+      "Sistemik enfeksiyonlar yaprakların dökülmesine ve yanmasına neden olabilir (kırılma ve çöküş)"
     ],
     "stems": [
-      "Light streaks develop that darken and split forming shallow cankers",
-      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
-      "Branches may break off easily in advanced infections"
+      "Işık çubukları, karanlık ve bölünen karanlık kankerlar oluşturur",
+      "Vascular doku bozulmuş sarı-tan, pith kırmızı-kırmızı ve yumuşak veya boş olabilir",
+      "Şubeler ileri enfeksiyonlarda kolayca kırılabilir"
     ],
     "fruit": [
-      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
-      "Fruit near calyx may have brown seeds due to vascular invasion"
+      "Yeşil ya da kırmızı meyvelere (bir kuşun gözü noktaları), çapında 1/16-1/8 inç (3-4 mm)",
+      "Kalik yakınındaki meyveler, vasküler invazyon nedeniyle kahverengi tohumlara sahip olabilir."
     ],
     "seedlings": [
-      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
-      "Symptoms often appear at flowering or later"
+      "Zayıf büyüme, geçici sızıntı, alt yapraklar sarı ve kırışıklık",
+      "Belirtiler çoğu zaman çiçek açtığında veya daha sonra ortaya çıkar."
     ]
   },
   "disease_cycle": [
-    "Introduced via infected seed or transplants",
-    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
-    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
-    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+    "Enfekte tohumlar veya transplantasyonlar aracılığıyla",
+    "Enfekte bitki kalıntılarında 3 yıla kadar hayatta kalır; kirlenmiş çubuklarda, tahıllarda ve tahıl ev sahiplerinde hayatta kalabilir.",
+    "Rüzgâr yağmuru, sprinkler sulama, mekanik yetiştirme ve işleme yoluyla yayılır",
+    "Bakteriler yaralar, kırık trichomlar veya yaprak kesimleri yoluyla tohumlara girer, sonra sistematik olarak xylem yoluyla hareket eder."
   ],
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants; certified seeds recommended",
-      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
-      "Steam or disinfect greenhouse flats, benches, and potting media",
-      "Rotate crops out of tomatoes for at least one season"
+      "Hastalıksız tohumlar ve transplantasyonlar kullanın; sertifikalı tohumlar tavsiye edilir",
+      "25 dakika boyunca 130°F suya dökülür, kirliliği azaltır.",
+      "Steam veya dezenfekte ısıtma çubukları, çubuklar ve sızdırma medyası",
+      "En az bir mevsim için domateslerden kurtulun."
     ],
     "cultural": [
-      "Incorporate plant debris thoroughly at season end",
-      "Control nightshade weeds that may harbor bacteria",
-      "Avoid working in fields when foliage is wet",
-      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+      "Sezon sonuna kadar bitki yıkımı tamamlandı",
+      "Bakterileri kaplayabilecek gece gölgesi tahılları kontrol edin",
+      "Folyo ıslak olduğunda alanlarda çalışmaktan kaçının.",
+      "Yüzey sulanmasını en aza indirin ve yarayı azaltmak için bitkileri dikkatlice ele alın"
     ],
     "chemical": [
-      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
-      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+      "Bakterikler nemli koşullarda yayılmasını azaltabilir, ancak sistemik enfeksiyonları kontrol edemezler.",
+      "0.5-1% kalsiyum veya sodyum hipoklorit veya Physan gibi ticari dezenfektanlar ile dezenfektan araçları ve yüzeyleri"
     ]
   },
   "notes": [
-    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
-    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
-    "Even a few infected seeds can result in high levels of infected transplants"
+    "Ekonomik kayıplar genellikle doğrudan toplanmış alanlarda azdır, ıslak koşullar ikincil yayılmayı teşvik etmez.",
+    "Yeşillik transplantasyonları daha zayıf; sanitasyonda uyanıklık kritiktir",
+    "Bazı enfekte tohumlar bile enfekte transplantasyonların yüksek seviyesine yol açabilir."
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
-    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+    "Jones, J.B., et al. 2014 Tomato Hastalıkları ve Hastalıkları Compendium, 2. Sürüm.",
+    "Kaliforniya Üniversitesi Tarım ve Doğal Kaynaklar. Tomato Pest Yönetimi Kılavuzu: Bakteriyel Kanser.",
+    "Schaad, N.W., et al. 2001 Bakteriyel domates kanseri. bitki sağlığı ilerlemesi."
   ]
 }

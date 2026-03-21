@@ -1,22 +1,22 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "adult",
-  "common_name": "Hawk Moth",
-  "description": "The adult sphinx moth is a large, fast-flying moth with narrow wings and a robust body. Adults feed on nectar using a long proboscis and are pollinators for many plant species.",
+  "pest_name": "سهول الهولوث",
+  "stage": "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م أ م",
+  "common_name": "منقس",
+  "description": "عث الهول الراشد هو عُثّة كبيرة وسريعة التحليق بأجنحة ضيقة وجسم قوي. يتغذّى البالغون على الرحيق باستخدام بروبوسيكسي طويل، وهم ملقّحون للعديد من أنواع النباتات.",
   "damage": [
-    "Adults do not usually cause direct plant damage",
-    "May be attracted to lights at night and act as pollinators"
+    "الراشرون لا يتسببون عادة في ضرر مباشر للمصنع",
+    "قد ينجذب إلى الأضواء ليلاً و يعمل كملق"
   ],
   "behavior": [
-    "Nocturnal; active at dusk and night",
-    "Long-distance fliers; can migrate and disperse larvae to new host plants"
+    "الليلية: نشطة ليلاً ونهاراً",
+    "نشرات بعيدة المدى؛ يمكن أن تهاجر وتوزع اليرقات في النباتات المضيفة الجديدة"
   ],
   "control": [
-    "Monitoring adults can help predict larval outbreaks",
-    "Light traps can reduce adult activity in small areas"
+    "يمكن للبالغين في الرصد أن يساعدوا في التنبؤ بتفشي اليرقات",
+    "يمكن أن تقلل الإضاءة من نشاط البالغين في المناطق الصغيرة"
   ],
   "notes": [
-    "Adult stage is mainly beneficial for pollination",
-    "Focus management on larvae to prevent crop damage"
+    "مرحلة النضج هي أساساً مفيدة للتلقيح",
+    "التركيز في الإدارة على اليرقات لمنع تلف المحاصيل"
   ]
 }

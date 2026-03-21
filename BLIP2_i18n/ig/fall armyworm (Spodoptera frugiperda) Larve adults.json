@@ -1,0 +1,48 @@
+{
+  "disease": "Iji Ụgbọelu Eme Njem n'Oge Agha",
+  "scientific_name": "Sipodtera fruggigida",
+  "pathogen_type": "Ńgwānụ́ banye",
+  "description": "Ndị agha toworo eto na - eyi àkwá n'akwụkwọ nri, àkwá ndị a na - abanye n'ime ala.",
+  "symptoms": [
+    "Ìgwè mmadụ nwere ihe ọ̀tụ̀tụ̀ ndị na - adịghị amị mkpụrụ bụ́ ndị dị n'akwụkwọ osisi",
+    "Nla nke nla na - agba ihe ọkụkụ gburugburu n'abalị"
+  ],
+  "hosts": [
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "NEPA",
+    "Sorghum",
+    "Ndị Na - eto Eto Na - ajụ Sị...",
+    "[ Ihe e dere n'ala ala peeji]",
+    "ONYE NA - ETO ETO"
+  ],
+  "favorable_conditions": [
+    "/Windo ndị ahụ/_akanri dọ́ọ̀kụ̀",
+    "Ebe a na - enweghị ihe ọkụkụ ndị e wefọrọ n'ubi",
+    "Oge mmiri na - eto n'ike n'ike"
+  ],
+  "spread": [
+    "Nla dị ike nke na-enweghị ike isi n'ebe dị anya kwaga ebe ọzọ",
+    "Ihe ndị dị n'akwụkwọ osisi ndị dị n'ala ala ha"
+  ],
+  "management": [
+    "Jiri ọnyà ndị na - esi ísì ọma na - enyocha ọnụ ọgụgụ ndị nọ n'afọ iri na ụma",
+    "A na - enwe àkwá ndị na - egbu egbu n'oge",
+    "Tupu ha gbasara, ha na - agwa ndị mụrụ ha ihe ha ga - eme ka ha ghara ịna - eme ihe ha na - ekwesịghị ime"
+  ],
+  "biological_control": [
+    "Nje ndị na - akpata ịba ọcha n'anya bụ́ ndị na - eyi àkwá egwu",
+    "Ụmụ ahụhụ ndị a zụrụ nke ọma na - eri nri n'ahụ́ àkwá"
+  ],
+  "chemical_control": [
+    "A na - eji ụzọ ndị e si agwọ ọrịa eme ihe mgbe a malitere ịgwọ ya"
+  ],
+  "prevention": [
+    "Jiri otu ọnyà na - esi ísì ụtọ chọọ ya mma",
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche",
+    "Nọgide na - enwe ụdị akụ́kụ́ dị iche iche"
+  ],
+  "source": [
+    "Òtù Ndị Agha Bụ́ Ndị Na - ahụ Maka Nchebe n'Ụzọ Na - aga n'Ihu",
+    "PAYI N'OZỌTỌNỌNNE"
+  ]
+}

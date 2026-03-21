@@ -1,0 +1,55 @@
+{
+  "disease": "Rhododendronstamm Borer Befall",
+  "scientific_name": "Oberea myops",
+  "pathogen_type": "Insektenpest (Beetle)",
+  "description": "Rhododendron Stammbohrer ist ein Käfer, dessen Larven in Pflanzenstängen gebohrt. Die Larven Tunnel durch Stängel, stören Wasser und Nährstofffluss, die Verwelken und Tod von Ästen verursacht.",
+  "symptoms": [
+    "Schwebende oder herabhängende Blätter auf einzelnen Zweigen",
+    "Plötzliches Absterben von Stängeln",
+    "Kleine Löcher auf Stängel, wo Erwachsene Eier legen",
+    "Frass (sawdustartiges Material) in der Nähe von Löchern",
+    "Stämme werden hohl oder geschwächt",
+    "Zweige brechen oder sterben"
+  ],
+  "hosts": [
+    "Rhododendron",
+    "Azaleen",
+    "Andere Ziersträucher von Ericaceae"
+  ],
+  "favorable_conditions": [
+    "Anwesenheit erwachsener Käfer im Frühjahr und Sommer",
+    "Pflanzen mit zarten Stängeln, die zum Eierlegen geeignet sind",
+    "Gärten oder Landschaften mit anfälligen Wirtspflanzen"
+  ],
+  "spread": [
+    "Erwachsene Käfer, die Eier in Pflanzenstämme legen",
+    "Larven, die sich innerhalb von Stängeln und Ästen entwickeln",
+    "Bewegung von befallenem Pflanzenmaterial"
+  ],
+  "impact": [
+    "Absterben von Zweigniederlassungen",
+    "Verringerte Pflanzenkraft",
+    "Schwere Befalle können Ziersträucher töten"
+  ],
+  "cultural_control": [
+    "Prüfen Sie regelmäßig Stängel für Ei-Laying-Löcher",
+    "Pflaumen und zerstören befallene Stängel",
+    "Erhaltung der Pflanzengesundheit zur Verringerung der Empfindlichkeit"
+  ],
+  "biological_control": [
+    "Ermutigen Sie natürliche Raubtiere wie Vögel oder parasitäre Insekten"
+  ],
+  "chemical_control": [
+    "Anwendung systemischer Insektizide, bei denen Befall schwerwiegend ist",
+    "Erwachsene Käfer während der Eiablage"
+  ],
+  "prevention": [
+    "Regelmäßige Überwachung während der Wachstumsperiode",
+    "Entferne und zerstöre infizierte Stängel früh",
+    "Vermeiden Sie das Anpflanzen von stark befallenen Baumschulen"
+  ],
+  "source": [
+    "Angaben zum Pflanzenschutz",
+    "Verlängerungsführer für Rhododendronschädlinge"
+  ]
+}

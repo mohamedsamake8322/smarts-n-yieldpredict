@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
+  "disease": "Rhizopus pourriture molle (Mode de pain noir)",
   "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "pathogen_type": "Champignons",
+  "description": "Rhizopus stolonifer est un champignon commun qui provoque la pourriture molle dans de nombreux fruits et légumes, en particulier après la récolte. Il pousse rapidement dans des conditions chaudes et humides et se propage facilement par les spores aéroportées. La maladie attaque principalement les produits mûrs ou blessés avec une teneur élevée en sucre.",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "Pourriture aqueuse molle sur les fruits ou les légumes",
+    "Dépression rapide des tissus et fuite de jus",
+    "Croissance fongique en coton blanc à la surface",
+    "Développement de la sporangie noire (points de moisissures noires)",
+    "Odeur acide ou acide provenant de produits infectés",
+    "La décomposition rapide s'étend aux fruits voisins"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
+    "fraises",
+    "tomate",
+    "pêche",
     "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
-    "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "pastèque",
+    "banane",
+    "raisins",
+    "Mangue",
+    "papaye",
+    "Pommes de terre douces",
+    "Carotte",
+    "concombre",
+    "aubergines",
+    "poivre",
+    "oignon",
+    "à l'ail",
+    "haricots",
+    "divers fruits et légumes entreposés"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "Humidité élevée",
+    "Température chaude (25-30°C)",
+    "Fruits blessés ou endommagés",
+    "Teneur élevée en sucre dans les fruits mûrs",
+    "Mauvaises conditions de stockage",
+    "Mauvaise ventilation pendant le stockage"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "Spores fongiques aéroportées",
+    "Contact entre fruits infectés et fruits sains",
+    "Insectes porteurs de spores",
+    "Récipients ou surfaces de stockage contaminés"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "Poignez soigneusement les fruits pour éviter les blessures",
+    "Enlever et détruire rapidement les fruits infectés",
+    "Maintenir une bonne hygiène dans les zones de stockage",
+    "Entreposer les produits à basse température",
+    "Améliorer la ventilation et réduire l'humidité"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "Espèces syncéphales qui parasitent Rhizopus",
+    "Espèces de Bacillus produisant des composés antifongiques",
+    "Bactéries productrices de fengycine qui inhibent la croissance fongique"
   ],
   "chemical_control": [
     "Thiabendazole",
-    "Benomyl",
+    "Comonyme",
     "Imazalil",
     "Propiconazole",
     "Thiocarbamates",
     "Fludioxonil",
     "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
+    "Fénhexamide",
+    "Azoxystrobine",
     "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "Hypochlorite de sodium",
+    "Hypochlorite de calcium"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "Récolter soigneusement les fruits pour éviter les blessures",
+    "Entreposer correctement le froid",
+    "Conserver les aires de stockage propres et désinfectées",
+    "Évitez d'empiler les produits endommagés avec des fruits sains",
+    "Réduire l'humidité pendant le stockage et le transport"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "Bautista-Baños et al., Décaissement post-récolte des fruits et légumes",
+    "Smith's Introduction à la mycologie industrielle",
+    "Interactions plantes-microbes – Rhizopus stolonifer",
+    "Documentation scientifique sur les maladies fongiques post-récolte"
   ]
 }

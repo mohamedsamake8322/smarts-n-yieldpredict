@@ -1,0 +1,122 @@
+{
+  "pest_name": "Virus de la mota de la hoja de la patata dulce",
+  "abbreviation": "SPLFMV",
+  "type": "virus",
+  "history": "SPLFMV está estrechamente relacionado con SPFMV y se ha identificado en todo el mundo, comúnmente como parte de la enfermedad viral de la batata (SPVD).",
+  "structure": {
+    "genome_type": "ARN de sentido positivo de una sola cadena",
+    "genome_length_bases": 10820,
+    "organization": [
+      "marco de lectura abierto único",
+      "3' UTR",
+      "cola poli(A)"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinasa, actividad de unión al ssRNA"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteinasa, ayudas en la transmisión de áfidos, movimiento de larga distancia"
+      },
+      {
+        "name": "P3",
+        "function": "Función de replicación viral"
+      },
+      {
+        "name": "6K1",
+        "function": "Desconocido"
+      },
+      {
+        "name": "CI",
+        "function": "Proteína de inclusión citoplasmática, actividad de ARN helicasa"
+      },
+      {
+        "name": "6K2",
+        "function": "Desconocido, involucrado en la replicación viral"
+      },
+      {
+        "name": "NIa",
+        "function": "VPg y proteinasa"
+      },
+      {
+        "name": "NIb",
+        "function": "Replicasa viral"
+      },
+      {
+        "name": "Cistron",
+        "function": "Proteína de escudo, ensamblaje de virión, transmisión viral, diseminación"
+      }
+    ],
+    "virion_shape": "largo, flexible, en forma de varilla",
+    "virion_length_nm": "810-865"
+  },
+  "life_cycle": {
+    "entry": "Transmisión mecánica o a través de estiletes de áfido que perforan el tejido de la hoja",
+    "replication": "Genoma traducido a poliproteína, cortado por P1, HC-Pro, proteasas NIa",
+    "gene_silencing_suppression": "HC-Pro suprime el siRNA y el miRNA en las células de la hoja",
+    "packaging": "Genoma replicado empaquetado en viriones"
+  },
+  "transmission": {
+    "vectors": [
+      "áfidos"
+    ],
+    "mechanism": "No persistente a través de puntas de estilete durante la alimentación de las hojas",
+    "seed_transmission": "No transmitidos a través de semillas",
+    "host_range": [
+      "Ipomoea spp.",
+      "Nicotiana spp.",
+      "Chenopodium quinoa",
+      "Datura stramonium"
+    ]
+  },
+  "symptoms": {
+    "typical": "Patrones de plumas o moteados en hojas, de color púrpura claro a oscuro o verde",
+    "severe_strains": [
+      "Clorosis de hoja",
+      "Distorsión de las hojas",
+      "Manchas necróticas"
+    ],
+    "co-infections": {
+      "SPVD": "Cuando coinfectado con SPCSV, causa retraso en el crecimiento, hojas de mosaico, rendimiento reducido"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "África oriental"
+      },
+      {
+        "name": "RC",
+        "location": "Australia, África, América del Norte, Asia"
+      },
+      {
+        "name": "O",
+        "location": "África, Asia, América del Sur"
+      },
+      {
+        "name": "C",
+        "location": "Australia, África, Asia, América del Norte y del Sur"
+      }
+    ]
+  },
+  "agricultural_impact": {
+    "affected_tissues": "Tejidos de hoja principalmente",
+    "yield_loss": "Significativo cuando se combina en SPVD; reduce la eficiencia fotosintética y el vigor de la planta",
+    "social_impact": "Afecta a los pequeños agricultores que dependen de las hojas de batata como alimento y forraje"
+  },
+  "management": {
+    "early_detection": "Supervisar los síntomas de las hojas y confirmar a través de ELISA",
+    "removal": "Plantas infectadas Rogue para prevenir la propagación",
+    "prevention": [
+      "Material de propagación libre de virus de las plantas",
+      "Mantener el control vectorial (áfido)",
+      "Poda higiénica y saneamiento de herramientas"
+    ]
+  },
+  "references": [
+    "Basado en la investigación de SPFMV y los estudios de la enfermedad viral de la batata"
+  ]
+}

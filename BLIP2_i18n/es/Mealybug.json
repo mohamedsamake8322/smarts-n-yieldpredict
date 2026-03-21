@@ -1,0 +1,68 @@
+{
+  "pest": "Mealybug",
+  "scientific_name": "Familia Pseudococcidae",
+  "pest_type": "Insectos",
+  "description": "Las mealybugs son pequeños insectos chupa-savia cubiertos con un polvo blanco ceroso. Atacan muchos cultivos y plantas ornamentales, debilitando las plantas y produciendo melza pegajosa que conduce al crecimiento del moho.",
+  "symptoms": [
+    "Insectos de algodón blanco en hojas, tallos o frutas",
+    "Melza pegajosa en las superficies de las plantas",
+    "Moho de sooty negro que crece en la mieldew",
+    "Hojas amarillentas o rizadas",
+    "Crecimiento de plantas aturdidas",
+    "Caída de hojas prematura en infestaciones severas"
+  ],
+  "hosts": [
+    "Cítricos",
+    "Grapevine",
+    "Plátano",
+    "Papayas",
+    "Piña",
+    "Café",
+    "Mandioca",
+    "Caña de azúcar",
+    "Girasol",
+    "Orquídeas",
+    "Cactus",
+    "Plantas de jardín y cultivos de invernadero"
+  ],
+  "favorable_conditions": [
+    "Climas cálidos y húmedos",
+    "Densa vegetación o condiciones de invernadero",
+    "Presencia de hormigas que protegen a los chinches",
+    "Mala actividad de depredadores naturales"
+  ],
+  "spread": [
+    "Movimiento de material vegetal infestado",
+    "Viento o insectos que transportan orugas",
+    "Hormigas que transportan y protegen colonias"
+  ],
+  "damage": [
+    "Debilitamiento de las plantas debido a la alimentación con savia",
+    "Transmisión de virus vegetales en algunos cultivos",
+    "Reducción del rendimiento y crecimiento de las plantas",
+    "Desarrollo de moho de sooty en la mieldew"
+  ],
+  "biological_control": [
+    "Escarabajo depredador Cryptolaemus montrouzieri (destructor de mealybug)",
+    "Larvas de lazo verdes (Chrysopidae)",
+    "Avispas parasitarias atacando chinches",
+    "Alentar a los depredadores naturales mediante la reducción de insecticidas amplios"
+  ],
+  "chemical_control": [
+    "Insecticidas piretroides como la permetrina, la bifentrina o la ciflutrina",
+    "Jabones insecticidas o aceites hortícolas",
+    "Insecticidas sistémicos cuando las infestaciones son graves"
+  ],
+  "prevention": [
+    "Inspeccione regularmente las plantas en busca de infestaciones tempranas",
+    "Controlar las hormigas que protegen a los chinches",
+    "Eliminar las partes de plantas muy infestadas",
+    "Evitar la fertilización excesiva de nitrógeno",
+    "Utilizar material de plantación limpio"
+  ],
+  "source": [
+    "Literatura entomológica sobre Pseudococcidae",
+    "Referencias sobre el manejo de plagas agrícolas",
+    "Wikipedia – Mealybug"
+  ]
+}

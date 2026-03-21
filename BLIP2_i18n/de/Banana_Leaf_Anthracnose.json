@@ -1,0 +1,62 @@
+{
+  "disease": "Bananenblatt-Anthraknose",
+  "scientific_name": "Colletotrichum musae",
+  "pathogen_type": "Pilze",
+  "common_name": "Anthracnose der Banane",
+  "host_plant": "Bananen (Musa-Arten)",
+  "affected_parts": [
+    "Blätter",
+    "Pseudosterm",
+    "Obst (bei fortgeschrittener Infektion)"
+  ],
+  "description": "Banana Blatt Anthracnose ist eine Pilzerkrankung, die hauptsächlich durch Colletotrichum Musae verursacht wird. Es infiziert Bananenblätter und andere Luftteile der Pflanze und produziert nekrotische Läsionen, die Photosynthese reduzieren und das Pflanzenwachstum schwächen können. Der Erreger kann Pflanzen im Feld infizieren und latent bleiben, bis die Umweltbedingungen für die Symptomentwicklung günstig werden.",
+  "symptoms": [
+    "Kleine dunkelbraune bis schwarze Flecken auf Blättern",
+    "Unregelmäßige nekrotische Läsionen mit definierten Rändern",
+    "Gelber Halo um Läsionen in einigen Fällen",
+    "Ausdehnung von Läsionen, die zu Blattbrand führen",
+    "Vorzeitiger Peeling bei schweren Infektionen",
+    "Verringerung der Pflanzenkraft und des Wachstums"
+  ],
+  "disease_cycle": [
+    "Der Pilz überlebt in infizierten Pflanzenresten oder Boden.",
+    "Sporen (Konidien) werden in Strukturen produziert, die Acervuli auf infizierten Geweben genannt werden.",
+    "Conidia verbreitete sich durch Regenspritzer, Wind, Insekten oder kontaminierte Werkzeuge.",
+    "Sporen keimen unter feuchten Bedingungen auf Blattoberflächen.",
+    "Der Erreger durchdringt Gewebe mit einem Appressorium und kolonisiert Pflanzenzellen."
+  ],
+  "favorable_conditions": [
+    "Hohe Luftfeuchtigkeit",
+    "Warme Temperaturen (ca. 25–30°C)",
+    "Häufige Regenfälle",
+    "Dichtes Baldachin mit schlechter Luftzirkulation"
+  ],
+  "spread": [
+    "Pilzsporen in der Luft",
+    "Regenspritzwasser und Bewässerungswasser",
+    "Infizierte Pflanzenrückstände",
+    "Verunreinigte Werkzeuge oder Handhabung"
+  ],
+  "management": {
+    "cultural_control": [
+      "Entfernen und zerstören infizierte Blätter und Pflanzenreste",
+      "Verbesserung der Luftzirkulation in Plantagen",
+      "Verwendung von krankheitsfreiem Pflanzmaterial",
+      "Aufrechterhaltung der Abwasserentsorgung im Feld"
+    ],
+    "biological_control": [
+      "Verwendung antagonistischer Pilze wie Trichoderma spp.",
+      "Anwendung von nützlichen mikrobiellen Biokontrollmitteln"
+    ],
+    "chemical_control": [
+      "Fungizide wie Carbendazim, Mancozeb oder Thiophanat-methyl",
+      "Anwendung gemäß den empfohlenen Agrarleitlinien"
+    ]
+  },
+  "economic_impact": "Anthracnose kann die Pflanzenkraft reduzieren und dazu beitragen, Verluste zu erzielen und die Qualität der Früchte in Bananenplantagen zu reduzieren.",
+  "sources": [
+    "Pflanzenpathologie Literatur zu Colletotrichum musae",
+    "Internationale Zeitschrift für Umwelt und Klimawandel – Symptomatologie von Colletotrichum musae",
+    "Leitfaden für das Management von Pflanzenkrankheiten und Plantwise-Ressourcen"
+  ]
+}

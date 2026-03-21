@@ -1,0 +1,70 @@
+{
+  "disease_name": "Canker Bacterial de Hoja de Tomate",
+  "type": "enfermedad bacteriana",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Berenjena (Solanum melongena L.)",
+      "Pimienta (Capsicum spp.)",
+      "Sombras nocturnas (Solanum spp.)"
+    ]
+  },
+  "distribution": "En todo el mundo; común en invernadero y tomates cultivados en el campo",
+  "symptoms": {
+    "leaves": [
+      "Las hojas más viejas desarrollan márgenes marrones y quemados que se enroscan hacia arriba y hacia adentro",
+      "Borde distintivo entre el tejido marrón y el verde, a menudo con una línea amarilla delgada",
+      "Las infecciones sistémicas pueden causar marchitamiento y cocción de las hojas (bronce y colapso)"
+    ],
+    "stems": [
+      "Rayas ligeras desarrollan que oscurecen y se dividen formando cankers poco profundos",
+      "Tejido vascular decolorado de color amarillo a bronceado, la piel puede volverse marrón rojizo y hariáceo o hueco",
+      "Las ramas pueden romperse fácilmente en infecciones avanzadas"
+    ],
+    "fruit": [
+      "Blísters de color blanco levantados en frutos verdes o rojos (puntos del ojo de pájaro), de diámetro de 3–4 mm (1/16–1/8 pulgadas)",
+      "Las frutas cercanas al cáliz pueden tener semillas marrones debido a la invasión vascular"
+    ],
+    "seedlings": [
+      "Bajo crecimiento, marchitamiento temporal, hojas inferiores amarillas y arrugadas",
+      "Los síntomas a menudo aparecen en la floración o más tarde"
+    ]
+  },
+  "disease_cycle": [
+    "Introducido a través de semillas o trasplantes infectados",
+    "Sobrevive en residuos de plantas infestadas por hasta 3 años; puede sobrevivir en bancos contaminados, estacas y hospederos de malas hierbas",
+    "Se propagan por lluvia de viento, riego de aspersores, cultivo mecánico y manipulación",
+    "Las bacterias entran en las plántulas a través de heridas, tricomas rotos o cortes de hojas, luego se mueven sistémicamente a través del xilema"
+  ],
+  "management": {
+    "prevention": [
+      "Utilizar semillas y trasplantes libres de enfermedades; semillas certificadas recomendadas",
+      "Remojar las semillas en agua de 130 °F durante 25 minutos para reducir la contaminación",
+      "Planos, bancos y medios de encapsulamiento de vapor o desinfección de invernadero",
+      "Rotar los cultivos de tomates durante al menos una temporada"
+    ],
+    "cultural": [
+      "Incorporar los desechos vegetales a fondo al final de la temporada",
+      "Controlar las malas hierbas de sombra nocturna que pueden albergar bacterias",
+      "Evite trabajar en campos cuando el follaje está mojado",
+      "Minimizar el riego general y manejar las plantas con cuidado para reducir las heridas"
+    ],
+    "chemical": [
+      "Los bactericidas de cobre pueden reducir la propagación durante las condiciones húmedas, pero no controlan las infecciones sistémicas",
+      "Desinfectar herramientas y superficies con 0,5-1 % de calcio o hipoclorito de sodio, o desinfectantes comerciales como Physan"
+    ]
+  },
+  "notes": [
+    "Las pérdidas económicas suelen ser menores en los campos de semillas directas a menos que las condiciones húmedas favorezcan la propagación secundaria",
+    "Los trasplantes de invernadero son más vulnerables; la vigilancia en el saneamiento es fundamental",
+    "Incluso unas pocas semillas infectadas pueden dar lugar a altos niveles de trasplantes infectados"
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. Compendio de Enfermedades y Plagas de Tomate, 2a Edición. APS Press.",
+    "Universidad de California Agricultura y Recursos Naturales. Guías de Manejo de Plagas de Tomate: Canker Bacterial.",
+    "Schaad, N.W., et al. 2001. Cankers bacterianos de Tomate. Progresos en Salud Vegetal."
+  ]
+}

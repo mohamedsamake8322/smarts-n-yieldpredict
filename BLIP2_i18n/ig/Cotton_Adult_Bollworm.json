@@ -1,0 +1,85 @@
+{
+  "pest_name": "Mechi_A ihu %d_B Ịlaịja",
+  "common_name": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Ziri Ezi",
+  "scientific_name": "Ngwá agha ndị nwere nje ndị na - akpata ọrịa bụ́ ndị e ji aka mee",
+  "pest_type": "IHE NDỊ GA - ENYERE GỊ AKA",
+  "description": "Ebe a na - akọ ugbo n'ebe nile n'Africa, Europe, Eshia, Australia, nakwa n'Ebe Ndịda America. Nla ahụ n'onwe ya adịghị emebi ihe kpọmkwem ihe ọkụkụ, kama ọ na - eyi àkwá n'osisi.",
+  "hosts": [
+    "Zuon",
+    "AGBOR 1 (Bekee)",
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "Chickpea",
+    "Playana",
+    "NEPA",
+    "Sorghum",
+    "Tlapea",
+    "Sobon",
+    "Plato",
+    "Okra",
+    "Mkpụrụ ndụ ihe nketa na - enye nsogbu n'obi",
+    "_Hichaa"
+  ],
+  "symptoms": [
+    "Ihe ndị e sere n'akwụkwọ osisi na okooko osisi",
+    "Ọ na - esi ike inweta mkpụrụ osisi ma ọ bụ ihe ndị e ji esi nri",
+    "Mkpụrụ osisi ma ọ bụ okooko osisi na - eto nke ọma",
+    "A na - eji ogho a tụrụ atụ eme ka ọ na - emepụta ezigbo okooko osisi ndị mara mma",
+    "Mkpụrụ osisi ma ọ bụ mkpụrụ akụ́kụ́ na - amị ma ọ bụ mkpụrụ akụ́kụ́"
+  ],
+  "life_cycle": {
+    "eggs": "A na-eji akwụkwọ, okooko osisi, ma ọ bụ mkpụrụ osisi chọọ àkwá mma.",
+    "larvae": "Mmiri dị n'ime ala na - eri ihe oriri ruo ụbọchị 196 site n'ọtụtụ ụyọkọ kpakpando ma na - ebibi isi ihe ọkụkụ ahụ.",
+    "pupae": "Mmiri na - ezonụ na - ezo n'ala ma ọ bụ n'ebe a na - akọ ihe; e nwere ọtụtụ ahịhịa ndị na - adị n'ebe oyi na - atụ.",
+    "adult": "Nla ndị nọ n'afọ iri na ụma nwere nku na - acha nchara nchara, bụ́ nke ihe dị ka sentimita 3.5 n'obosara.5 n'ime ihe dị ka ụbọchị 10, ndị inyom pụkwara ịdị na - eyi ọtụtụ narị àkwá."
+  },
+  "economic_significance": "Ihe ndị na - egbu egbu na - akpata mfu dị ukwuu nke ihe ndị na - agbawa obi bụ́ ndị a na - enweta na ogho, tomato, ọka, mkpụrụ akụ́kụ́, mkpụrụ akụ́kụ́, na ihe ọkụkụ ndị ọzọ.",
+  "management": {
+    "monitoring": [
+      "Imechi ihe ubi anya na - eme ka àkwá na - egbuke egbuke",
+      "Jiri ọnyà ndị na - esi ísì ọma na - achọpụta ma ọ̀ bụ ndị toworo eto nọ n'afọ iri na ụma ma ọ bụ na ọ dịghị ihe ha ji ya eme",
+      "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - emebi n'ihi okooko osisi, mkpụrụ osisi, na okooko osisi"
+    ],
+    "cultural_control": [
+      "Tinyere ihe ọkụkụ ndị na-enweghị isi",
+      "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na ata",
+      "Ime ka ihe ubi na - aga n'ihu n'ihu mgbe o bibisịrị ya iji bibie ihe a kụrụ akụ",
+      "Jiri ihe ọkụkụ ndị na - esi ísì ọma dị ka ihe ndị na - eme ka anwụ na - acha ma ọ bụ ihe ndị na - esi ísì ọma mee ihe"
+    ],
+    "mechanical_control": [
+      "Aka ekpe na - egbu àkwá, na - egbukwa okooko osisi",
+      "Akụkụ dị iche iche nke mkpụrụ osisi na ihe ọkụkụ dị iche iche",
+      "Ọnyà ndị na - esi ísì ụtọ ma ọ bụ ndị na - agbapụ obere mgbọ"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Ndị na - ahazi ngwá agha ọgwụrụ mba (HaNNVV)",
+        "Ọtụtụ ụdị dị iche iche na - achọ mma n'ahụ́ ha",
+        "Aịzaamomosora"
+      ],
+      "macroorganisms": [
+        "Trich Blanama bu ụzọ (egggllllsiry bụp)",
+        "Nne ịnyịnya ibu ọhịa (nke na - acha akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ)"
+      ]
+    },
+    "chemical_control": {
+      "note": "E kwesịrị iji ọgwụ mgbochi ọrịa mee ihe n'ụzọ gabigara ókè bụ́ nke na - eme ka e nwee usoro nlekọta Akụ̀ na ụba, ọ bụkwa nanị mgbe ọnụ ọgụgụ ndị na - anwụ n'ihi ọnọdụ akụ̀ na ụba karịrị nke akụ̀ na ụba.",
+      "active_ingredients": [
+        "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+        "Emacctin",
+        "Iji ụgbọ mmiri na - akwọ ụgbọ epeepe",
+        "Nwa Atụrụ bụ́da-mimemsium",
+        "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya."
+      ]
+    }
+  },
+  "references": [
+    "Akwụkwọ bụ́ The Freepa Encyclopedia, kwuru, sị: \"E nwere ndị na - anaghị achọ iji ntị anụ ihe ha na - ekwu. \"",
+    "AGBOR 7 (Bekee)",
+    "Òtù Na - ahụ Maka Ọrịa Ụmụaka nke United States, bụ́ ndị na - agwọ ndị agadi, kwuru, sị: \"Ọ bụrụ na mmadụ na - arịa ọrịa, ọ gaghị na - arịa ya. \"",
+    "Na - emepụta Ihe Ọmụma Amamihe Dị na Ya n'Ụlọ Akụ̀ Ndị Dị n'Ime Ala"
+  ],
+  "source_urls": [
+    "Habike/Ebike/Ebike_pa_konanasa",
+    "Ihe e dere n'ala ala peeji ya bụ \"Ndị Na - eto Eto Na - ajụ, Sị..."
+  ]
+}

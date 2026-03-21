@@ -1,91 +1,91 @@
 {
-  "pest_name": "Cotton_Larve_Bollworm",
-  "common_name": "Cotton bollworm larva",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_stage": "Larva",
-  "pest_type": "Insect",
-  "description": "The larval stage of the cotton bollworm (Helicoverpa armigera) is the most destructive phase of this pest. The caterpillars feed aggressively on leaves, buds, flowers, fruits, and seeds of many crops. Larvae vary in color from green, brown, pink, or black and usually have longitudinal stripes along the body. Because they feed directly on reproductive plant structures, they can cause significant yield losses in crops such as cotton, tomato, maize, and chickpea.",
+  "pest_name": "اللّون",
+  "common_name": "عُلْن",
+  "scientific_name": "PRE(أ) (أ) (أ)",
+  "pest_stage": "",
+  "pest_type": "",
+  "description": "إن مرحلة اليرقات في دودة العنب القطنية (Helikoverpa armigera) هي المرحلة الأكثر تدميراً في هذه الآفة، حيث تتغذى اليرقات بشدة على أوراق وأوراق وزهور وزهور وفواكه وبذور العديد من المحاصيل. وتتباين اليرقات من لون أخضر أو بني أو وردي أو أسود، وعادة ما تكون لها خطوط طولية على طول الجسم. ولأنها تتغذى مباشرة على هياكل النباتات الإنجابية، فإنها قد تتسبب في خسائر كبيرة في المحاصيل مثل القطن، والطماطم، والذرة، والحشب.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "القطن",
+    "طاطاطاطاط",
+    "",
+    "",
+    "خانث البازلة",
+    "",
+    "سُرْج هوجم",
+    "&",
+    "Soyban",
+    "",
+    "المكيرا",
+    "عدد الطا",
+    "اللسنج"
   ],
   "symptoms": [
-    "Holes in leaves, buds, and flowers",
-    "Larvae boring into fruits or pods",
-    "Damaged cotton bolls and young fruits",
-    "Presence of frass (insect excrement) around feeding sites",
-    "Premature dropping of flowers or fruits"
+    "تَقَلُّبُ ٱلْأَسْقَلَاتِ ، ٱلْأَوْقَاتِ ، وَٱلْأَزْزْزَوَ",
+    "يَدْخلُ إلى فواكهِ أَو بُزُرْ",
+    "أحجار القطن المتضررة والفاكهة الشابة",
+    "وجود الفراس (بق الحشرات) حول مواقع التغذية",
+    "إسقاط الأزهار أو الفواكه"
   ],
   "larva_characteristics": {
-    "length": "3–4 cm when fully developed",
+    "length": "٣-٤ سنتيمتر عند اكتمال تطويره",
     "color_variation": [
-      "Green",
-      "Brown",
-      "Pink",
-      "Black",
-      "Reddish-brown"
+      "أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر أخضر",
+      "دال -",
+      "ورد ورد وردي",
+      "سودسود أسود",
+      "مـن الـقــرد إلــى الأصــدن"
     ],
-    "distinctive_features": "Prominent longitudinal stripes along the body and a brown head capsule."
+    "distinctive_features": "خطوط طويلة بارزة على طول الجسم وكبسولة رأس بنية."
   },
-  "economic_significance": "Larvae cause severe crop damage by feeding directly on reproductive plant structures. This feeding can significantly reduce yield and quality, particularly in cotton, tomato, and maize. Damage may also allow secondary infections by fungi or bacteria.",
+  "economic_significance": "وقد يؤدي هذا الغذاء إلى انخفاض كبير في الغلة والنوعية، لا سيما في القطن والطماطم والذرة، وقد يسمح الضرر أيضاً بحدوث إصابات ثانوية بسبب الفطريات أو البكتيريا.",
   "management": {
     "monitoring": [
-      "Inspect plants regularly for eggs and young larvae",
-      "Use pheromone traps to monitor adult moth populations",
-      "Check buds, flowers, and fruits for feeding damage"
+      "النباتات التي تُزرع بانتظام للبيض واليرقات الشابة",
+      "استخدام محارخ الفيرومون لرصد التجمعات السكانية للبالغين",
+      "التكشير والزهور والفواكه لتلف التغذية"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of weeds and crop residues",
-      "Deep ploughing after harvest to destroy pupae",
-      "Planting trap crops such as sunflower or marigold"
+      "دوران المحاصيل مع المحاصيل غير المضيفة",
+      "إزالة الأعشاب ومخلفات المحاصيل",
+      "تُحَرِّثُ بَعْدَ مَحْرَ مِنَ ٱلْحَيَاةِ لِدَدَارَةِ ٱلْبَيْتِ",
+      "(ج) محاصيل مفخخة مثل أُسس الشمس أو المُسْجِد؛"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae",
-      "Removing infested fruits and plant parts",
-      "Using pheromone and light traps to monitor populations"
+      "جمع اليد وتدمير اليرقات",
+      "إزالة الثمار والقطع النباتية المزالة",
+      "استخدام فرفرمون واشراك الإضاءة لمراقبة السكان"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting larvae",
-        "Isaria fumosorosea"
+        "فيروس HANPV (HANPV)",
+        "الأنواع التي تستهدف اليرقات",
+        "(أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ) (أ)"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trigograme protosum",
+        "Habrobracon habrobracan habriper (Laral paraitoid)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used only when pest populations exceed economic thresholds and as part of an Integrated Pest Management strategy.",
+      "note": "وينبغي ألا تستخدم مبيدات الحشرات الكيميائية إلا عندما يتجاوز عدد سكان الآفات العتبات الاقتصادية وكجزء من استراتيجية متكاملة لإدارة الآفات.",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+        "المُنْكِتَل",
+        "في حالة سكر",
+        "لومدا - كيلوثرين",
+        "كلورانان يسيل"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "مساهمون في ويكيبيديا، هيليكوفربا أرمييغا، ويكيبيديا، موسوعة حرة",
+    "مجموعة حماية المحاصيل CABI- Helicoverpa Armigera.",
+    "المبادئ التوجيهية المتكاملة لإدارة الآفات التي وضعتها منظمة الأغذية والزراعة.",
+    "مصرف المعارف النباتية - توصيات بشأن إدارة الآفات."
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
-    "https://www.cabi.org"
+    "(أ) https://en.wwikipedia.org/wiki/Hilicoferpa_armigera",
+    "() انظر: https://www.cabi.org."
   ]
 }

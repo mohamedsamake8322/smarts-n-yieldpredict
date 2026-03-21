@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "Ugonjwa wa Grapevine Leafroll",
+  "scientific_name": "Virusi ya Grapevine Leafroll (GLRaVs)",
+  "pathogen_type": "Virusi ya",
+  "description": "Ugonjwa wa virusi wa grapevines ambayo huathiri uzalishaji na ubora wa matunda. Huu huathiri mzunguko wa nyota, uharibifu wa rangi, na uharibifu wa rangi mbaya.",
+  "symptoms": [
+    "Mchakato wa kuongezeka kutoka kwa nyuma",
+    "Maua ya rangi au purple katika aina ya rangi",
+    "Maua ya kijani katika aina ya kijani",
+    "Vinywa vya kijani bado zinaonekana",
+    "Matunda ya kupumzika kwa haraka",
+    "Kupunguza viwango vya kisukari katika wanyama"
+  ],
+  "hosts": [
+    "Maua ya mimea (Vitis vinifera)",
+    "Mchakato wa Msalaba",
+    "Maji ya wino",
+    "aina ya Wild Vitis"
+  ],
+  "favorable_conditions": [
+    "Utekelezaji wa matunda na wanyama wa ukubwa",
+    "Matumizi ya vifaa vya mazao yaliyoathiriwa"
+  ],
+  "spread": [
+    "Maelekezo ya",
+    "Wanyama wenye ukubwa mdogo",
+    "Kuongezeka kwa kuongezeka kwa kuongezeka kwa kuongezeka"
+  ],
+  "management": [
+    "Kuondoa viungo vya maambukizi",
+    "Ulinzi wa chakula na wanyama wa kiwango",
+    "Kutumia vifaa vya kupanda vya virusi vya kutosha",
+    "Ufuatiliaji wa wanyama mara kwa mara"
+  ],
+  "biological_control": [
+    "Kuimarisha maadui ya asili ya wanyama kama vile wanyama beetles",
+    "Kutumia wastani wa parazit kwa kudhibiti vectors"
+  ],
+  "chemical_control": [
+    "Wanyama kwa ajili ya kudhibiti wanyama (kwa mfano, imidacloprid, spirotetramat)",
+    "Mafuta ya kijani ili kupunguza idadi ya wakulima"
+  ],
+  "prevention": [
+    "Vifaa vya virusi vya vitunguu vya vitunguu",
+    "Mchakato wa injini ya injini ya awali",
+    "Kuondoa vifaa vya kuvutia haraka",
+    "Maudhui ya Maudhui ya Maudhui"
+  ],
+  "source": [
+    "Ugonjwa wa Grapevine wa FAO",
+    "Uwekezaji wa Uwekezaji wa UC Davis",
+    "Baraza la Kimataifa la Kilimo (OIV)"
+  ]
 }

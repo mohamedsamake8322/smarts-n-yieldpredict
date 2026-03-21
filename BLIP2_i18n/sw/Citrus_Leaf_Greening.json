@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "Mafuta ya Citrus Leaf",
   "other_names": [
-    "Huanglongbing",
-    "HLB",
-    "Citrus Greening"
+    "ya Huanglongbing",
+    "ya HLB",
+    "ya Citrus Green"
   ],
-  "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "scientific_name": "Mtaalamu wa kibinadamu SPP.",
+  "pathogen_type": "Bakteri ya",
+  "description": "Citrus greening ni moja ya magonjwa ya kuharibiwa zaidi ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea ya mimea.",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
-    "Citrus limon (lemon)",
-    "Other Citrus species"
+    "Citrus sinensis (kumbukumbu ya nguruwe)",
+    "Chini ya Chini ya Chini ya Chini (Citrus reticulata)",
+    "Maua ya Citrus paradisi (Grapefruit)",
+    "Chini ya Chini ya Chini (Lemon)",
+    "aina nyingine za Citrus"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "Chini ya Chini ya Chini ya Chini ya Chini (Diaphorina citri)",
+    "Mafuta ya Afrika ya Citrus (Trioza erytreae)"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "Maua ya bluu ya nyekundu juu ya karatasi",
+    "Maua ya maua ya maua na maua ya maua",
+    "Kuongezeka kwa mti",
+    "Twig dieback na mapumziko ya mapema",
+    "Matunda ndogo, yasiyo ya kawaida, mbaya ya rangi",
+    "Matunda yanaendelea kuwa ya kijani wakati wa kupanda",
+    "Matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda",
+    "Matunda ya kupumzika na maendeleo ya matunda mbaya"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "Bakteri zinaishi katika mwili wa phloem wa miti ya sitrus",
+    "Kuenea hasa kwa wanyama psyllid kuhifadhi katika mimea yaliyoathiriwa",
+    "Pia inaweza kuenea kwa njia ya kutafakari vifaa vya mimea",
+    "Hatua ya vijana ya psylide inachukua bakteria na kuhamisha kwa mimea salama"
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "Hali ya hewa katika maeneo ya tropical na subtropical",
+    "Ukosefu wa viungo vya insect psyllid",
+    "Bidhaa za uzalishaji wa Citrus"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
-    "Brazil",
-    "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "Asia ya",
+    "Afrika ya",
+    "Marekani (Florida, Texas, California na wengine)",
+    "Brazil ya",
+    "ya Mexico",
+    "Mikoa mengi ya kupanda ya Citrus ya tropical na subtropical duniani kote"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "Ufuatiliaji wa populations ya insect psyllid",
+    "Kuondoa na kuharibu miti ya kuvutia",
+    "Kutumia vifaa vya kuhifadhi safi na ya kuthibitishwa",
+    "Ufuatiliaji wa mara kwa mara na utafiti wa mapema",
+    "Utafiti juu ya aina ya citrus resistant"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "Hakuna matibabu sahihi kwa sasa",
+    "Baadhi ya wanyama hufa kwa kawaida ndani ya miaka kadhaa.",
+    "Ugonjwa huu umesababisha uharibifu mkubwa wa kiuchumi katika sekta ya wanyama duniani kote"
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "Wikipedia - Ugonjwa wa Citrus Green",
+    "USDA – Citrus Greening na Asia Citrus Psyllid"
   ]
 }

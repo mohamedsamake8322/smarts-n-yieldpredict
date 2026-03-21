@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "Virus ya Hosta X",
+  "scientific_name": "Virusi vya Hosta X (HVX)",
+  "pathogen_type": "Virusi ya",
+  "description": "Ugonjwa wa virusi ambayo huathiri mimea ya hosta.Hakuna kuua mimea lakini huathiri uharibifu wa mimea na kupunguza ubora wa ubora.Kisha kuathiri, mimea inazidi kuathiri kwa maisha.",
+  "symptoms": [
+    "Mchakato wa Mchakato wa Mchakato wa Mchakato",
+    "Matangazo ya kuvutia au kuvutia ya kuvutia",
+    "Mchakato wa nyama au nyama ya kupumzika",
+    "Maonyesho yasiyo ya mwanga na ya kijani ndogo juu ya karatasi",
+    "Matokeo ya kuongezeka au mbaya ya nywele"
+  ],
+  "hosts": [
+    "aina ya hosta",
+    "Mazao ya Hosta ya Ornamental"
+  ],
+  "favorable_conditions": [
+    "Uharibifu wa kiufundi wa rangi au rangi",
+    "Usalama mbaya wakati wa kupanda au usambazaji wa mimea",
+    "Mawasiliano ya karibu kati ya mimea ya ugonjwa na salama"
+  ],
+  "spread": [
+    "Usafiri wa Sapa",
+    "Matumizi ya vifaa vya kuvutia au nywele",
+    "Ukosefu wa mimea bila kuzuia",
+    "Mawasiliano kati ya nyaraka zilizoathirika",
+    "Matumizi ya Matumizi ya Matumizi ya Matumizi ya Matumizi"
+  ],
+  "management": [
+    "Kuondoa na kuharibu mimea ya kuvutia kabisa",
+    "Usisahau kuwa na vifaa vya mazao yaliyoathiriwa",
+    "Disinfect utaratibu na vifaa baada ya kuendesha mimea",
+    "Kuepuka mimea mpya katika ardhi ya kuvutia kwa muda wa chini ya miaka 2",
+    "Kutumia kits ya kutafuta virusi wakati infection inajulikana"
+  ],
+  "biological_control": [
+    "Hakuna usimamizi wa biolojia kwa sasa kwa HVX"
+  ],
+  "chemical_control": [
+    "Hakuna matibabu ya kemikali inapatikana kwa virusi za mimea kama HVX"
+  ],
+  "prevention": [
+    "kununua mimea kutoka kwa madaktari maarufu na protokoti za afya",
+    "Utafiti wa bidhaa kwa makini kabla ya kununua",
+    "Quarantine mimea mpya ya hosta kwa wiki kadhaa",
+    "Kupunguza uharibifu wa mimea wakati wa usimamizi",
+    "Kufuta mikono na vifaa vya kuzuia kati ya mimea",
+    "Kutumia suluhisho la kuzuia, kama vile trisodium phosphate au detergents ya makampuni"
+  ],
+  "source": [
+    "Mtaalamu wa ugonjwa wa Hosta Nursery",
+    "Chuo Kikuu cha Matumizi ya Matumizi ya Matumizi ya Matumizi ya Matumizi"
+  ]
 }

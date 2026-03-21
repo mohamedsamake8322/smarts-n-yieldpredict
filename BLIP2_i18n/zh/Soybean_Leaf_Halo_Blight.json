@@ -1,56 +1,72 @@
 {
-  "pest_name": "Halo Blight",
-  "scientific_name": "Pseudomonas syringae pv. phaseolicola",
-  "common_abbreviations": ["Pseudomonas blight", "bean halo blight", "Phaseolous blight", "bacterial leaf spot of beans"],
-  "description": "Halo blight is a bacterial disease of beans caused by Pseudomonas syringae pv. phaseolicola. It is seedborne and thrives under cool, humid conditions.",
-  "distribution": "Worldwide, especially in temperate and subtropical regions of North America, South America, Europe, Africa, and Asia.",
+  "pest_name": "光光灯",
+  "scientific_name": "相片类Pseudomonas syringae pv.",
+  "common_abbreviations": [
+    "破伤风",
+    "青豆光露",
+    "局部闪光",
+    "豆子细菌叶"
+  ],
+  "description": "光晕是一种豆类细菌疾病,由Pseudomonas syringae pv. syringae pv. specolicola引起,是种籽,在冷湿条件下生长。",
+  "distribution": "全世界,特别是北美洲、南美洲、欧洲、非洲和亚洲的温带和亚热带区域。",
   "host_range": {
-    "general": "Primarily beans (Phaseolus spp.)",
-    "notable_hosts": ["Light Red Kidney drybean", "Other common bean varieties"]
+    "general": "主要是豆类(Schetcholusspp.)",
+    "notable_hosts": [
+      "红肾干豆",
+      "其他常见豆类品种"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Small water-soaked lesions initially",
-      "Lesions surrounded by yellow-green halo",
-      "Lesions expand and coalesce into large necrotic areas",
-      "Irregular brown necrotic spots as disease progresses",
-      "Severe cases: extensive defoliation, reduced vigor"
+      "最初是水浸水的小型损害",
+      "周围环绕着黄绿色光环环绕的村庄",
+      "疏远扩大,凝聚到大面积的坏死区",
+      "随着疾病的发展,非正常的棕色坏死点",
+      "严重案件:大量脱落、减少活力"
     ],
     "pod": [
-      "Dark, sunken lesions with greasy appearance",
-      "Discolored or shriveled seeds"
+      "黑暗,沉沉的损伤 与油腻的外表",
+      "分色或片状种子"
     ]
   },
   "damage": [
-    "Significant yield and seed quality reduction",
-    "Can cause complete crop failure in high-incidence fields",
-    "Weakened plants more susceptible to secondary infections",
-    "Quarantine restrictions due to infected seed lots"
+    "大幅度降低产量和种子质量",
+    "可能导致高发病率田地作物完全歉收",
+    "较易受二次感染的脆弱植物",
+    "受感染种子批次的检疫限制"
   ],
   "biology": {
-    "pathogen_type": "Seedborne bacterium",
-    "survival": "Persists in crop debris and contaminated plant surfaces",
-    "infection_routes": ["Through natural openings (stomata, hydathodes)", "Wounds"],
-    "favorable_conditions": "Cool (16–24°C), humid environments",
-    "spread": ["Infected seeds", "Rain splash", "Irrigation", "Mechanical contact"]
+    "pathogen_type": "种子细菌",
+    "survival": "作物碎片和受污染植物表面的持久性",
+    "infection_routes": [
+      "通过自然开阔处(托马塔、西丁基)",
+      "伤伤"
+    ],
+    "favorable_conditions": "冷(16-24°C),潮湿环境",
+    "spread": [
+      "感染种子",
+      "雨水喷雨",
+      "灌溉",
+      "机械接触"
+    ]
   },
   "management": {
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Crop rotation with non-hosts",
-      "Avoid overhead irrigation",
-      "Proper field sanitation"
+      "使用经核证的无疾病的种子",
+      "非主机主的作物轮作",
+      "避免间接灌溉",
+      "适当的实地环境卫生"
     ],
     "chemical_control": [
-      "Copper-based bactericides to suppress spread",
-      "Seed treatments to prevent early infection"
+      "利用铜基杀菌剂抑制扩散",
+      "预防早期感染的种子治疗"
     ],
     "genetic_control": [
-      "Planting resistant varieties to reduce reliance on chemicals"
+      "植树抗药性品种,以减少对化学品的依赖"
     ]
   },
   "notes": [
-    "Integrated management combining cultural, chemical, and genetic strategies is most effective",
-    "Strict seed certification and quarantine measures are important to prevent spread"
+    "结合文化、化学和遗传战略的综合管理最为有效",
+    "严格的种子认证和检疫措施对于防止传播十分重要"
   ]
 }

@@ -1,69 +1,69 @@
 {
- "disease": "Fusarium Head Blight",
- "scientific_name": "Fusarium graminearum (main species)",
- "pathogen_type": "Fungus",
- "description": "A serious fungal disease of cereal crops that infects the heads of plants such as wheat and barley. It reduces grain yield and quality and can produce a toxic compound (mycotoxin) in the grain.",
- "symptoms": [
-  "Premature bleaching of cereal heads",
-  "One or more spikelets turn white while the rest remain green",
-  "Pink or orange fungal spores at the base of glumes",
-  "Whitish or pink fluffy fungal growth on infected heads in wet weather",
-  "Shriveled, lightweight and bleached kernels (tombstone kernels)"
- ],
- "hosts": [
-  "Wheat",
-  "Durum wheat",
-  "Barley",
-  "Oats",
-  "Corn (maize)",
-  "Rye",
-  "Wild and cultivated grasses"
- ],
- "favorable_conditions": [
-  "Warm temperatures around 25°C",
-  "High humidity or continuous moisture for 36 hours",
-  "Rain during flowering stage",
-  "Presence of infected crop residues in the field"
- ],
- "spread": [
-  "Wind-borne spores from infected residues",
-  "Rain splash spreading spores between plants",
-  "Planting infected seeds",
-  "Movement of contaminated crop residues or grain"
- ],
- "management": [
-  "Use resistant or tolerant cereal varieties",
-  "Rotate crops and avoid planting cereals after corn",
-  "Use clean certified seeds",
-  "Apply seed treatment before planting",
-  "Scout fields during flowering for symptoms",
-  "Harvest early when infection risk is high",
-  "Dry and aerate grain properly during storage"
- ],
- "biological_control": [
-  "Trichoderma species used as biological antagonists in soil or seed treatment",
-  "Beneficial microbes to suppress Fusarium in crop residues"
- ],
- "chemical_control": [
-  "Apply triazole fungicides (e.g. tebuconazole, prothioconazole, metconazole) during flowering stage",
-  "Use registered fungicides according to local agricultural recommendations"
- ],
- "prevention": [
-  "Rotate crops for at least 2 years with non-host crops",
-  "Manage crop residues by tillage or decomposition",
-  "Avoid highly susceptible varieties",
-  "Use proper irrigation management during flowering",
-  "Separate and test contaminated grain before feeding livestock"
- ],
- "impact": [
-  "Reduced grain yield and quality",
-  "Production of mycotoxin deoxynivalenol (DON)",
-  "Contaminated grain affects food processing, malting and biofuel production",
-  "High DON levels reduce feed intake and immunity in livestock"
- ],
- "source": [
-  "Alberta Agriculture – Fusarium Head Blight",
-  "Canadian Grain Commission",
-  "Plant pathology literature on cereal diseases"
- ]
+  "disease": "@ item Text character set",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Za a iya samun cuta mai tsanani na shuke - shuke kamar alkama da sha'ir.",
+  "symptoms": [
+    "KCharselect unicode block name",
+    "Rabinsa, ko ka rage abu kaɗan daga gare shi.",
+    "Raɓa ko kuma yin baƙar magana a filin wasa",
+    "Ko kuwa muna jin kunya sosai sa'ad da mutane suka soma shan giya a ko'ina a lokacin da muke girma",
+    "Mãsu gudu suna ɓũya."
+  ],
+  "hosts": [
+    "QFontDatabase",
+    "A lokacin alkama",
+    "Ethiopian weekday 5 - LongDayName",
+    "KCharselect unicode block name",
+    "Ethiopian weekday 1 - LongDayName",
+    "KCharselect unicode block name",
+    "Ana Bukatar Ta'aziyya Kuma a Yi Amfani da Shi"
+  ],
+  "favorable_conditions": [
+    "@ item Spelling dictionary",
+    "Ana iya samun sa'o'i 36 ko fiye da hakan",
+    "Media controller element",
+    "Sa'ad da muke wa'azi gida - gida, ba za mu iya yin amfani da maganin da muke da shi ba."
+  ],
+  "spread": [
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Media controller element"
+  ],
+  "management": [
+    "Ka Yi Tsayayya da Matsi na Tsara ko Kuma Kayan Aiki",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka yi amfani da zane - zane masu tsabta",
+    "Ka yi amfani da iri kafin ka shuka iri",
+    "Ku riƙi shirinku sa'ad da Kuke Fuskantar Abubuwa Masu Kyau",
+    "Da farko sa'ad da haɗari ta yi yawa",
+    "@ item Text character set"
+  ],
+  "biological_control": [
+    "Ana amfani da zane - zane da aka yi amfani da su a ƙasa ko kuma a hanyar da ba ta dace ba",
+    "@ item Text character set"
+  ],
+  "chemical_control": [
+    "Alal misali, ka yi amfani da dutsen da ke ɗauke da takardar nan mai suna Aliiia.",
+    "Ka yi amfani da takardar da aka yi amfani da su don rubuta sunayen waɗanda suke kula da tsofaffi a yankin"
+  ],
+  "prevention": [
+    "\"Ku rarrabe dabam, a yau, yã kũ mãsu laifi!\"",
+    "KCharselect unicode block name",
+    "Ka Guji Abubuwan Raba Hankali",
+    "Ka Yi Amfani da Shi Yadda Ya Kamata a Yi Amfani da Shi a Lokacin Wahala",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "impact": [
+    "Media controller element",
+    "Tarin da nake amfani da shi a matsayin mai kula da gida",
+    "Yadda ake samun hatsi yana shafan tsarin abinci, yadda ake samun abinci da kuma kayan aiki",
+    "A cikin dabbobi ma'adanar kayayyakin tarihi, ana samun isashen abinci da kuma dabbobi a wurin da ake cin abinci"
+  ],
+  "source": [
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "Hanya mai ban mamaki tana kashe littattafai a kan cututtuka masu tsanani"
+  ]
 }

@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
+  "pest_name": "Thrips Dommages à la feuille",
+  "order": "Thysanoptères",
   "family": "Thripidae",
-  "type": "insect",
+  "type": "Insecte",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "1–1,5 mm (0,03–0,06 pouces)",
+    "body": "Mâle, jaune ou brun, deux paires d'ailes étroites, frangées",
+    "mouthparts": "Asymétrique; utilisé pour racler les surfaces foliaires et extraire les fluides",
+    "species_of_major_concern": [
+      "Thrips de fleurs occidentales (Frankliniella occidentalis)",
+      "Thrips d'oignon (Thrips tabaci)"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "Chrysanthème",
+      "Cinéraire",
+      "Cyclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fuchsia",
+      "Insuffisance",
+      "Lis",
+      "Némésia",
+      "Primula",
+      "Ranunculus",
+      "Verveine",
+      "Colée",
+      "Diascia",
+      "Lobélie",
+      "Gerbera",
+      "Capsicum annuum",
+      "Begonia x hiemalis",
+      "Pélargonium"
+    ],
+    "vegetables": [
+      "Laitue",
+      "Tomates",
+      "Pommes de terre",
+      "Poivrons",
+      "Échalotes",
+      "Aile",
+      "Blé d'hiver",
+      "Alfalfa",
+      "Légumes",
+      "Oignons",
+      "Haricots",
+      "Concombre",
+      "Cravates",
+      "Fuite",
+      "Asperges",
+      "Choux-fleurs"
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "Perçage des cellules végétales et succion du contenu cellulaire, laissant des taches ou des taches blanchies ou argentées qui peuvent devenir brunes et nécrotiques. Causes de déformation des feuilles et des fleurs et rabougrissement. Petites taches fécales noires visibles dans les zones endommagées.",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "Feuilles et fleurs; fleurs et bourgeons de fleurs préférés",
+      "Japanese flower thrips": "Feuilles principalement; peuvent se produire dans les fleurs"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "Les dommages peuvent prédisposer les plantes à l'infection de Botrytis."
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "Thrips de fleurs occidentales",
+      "Thrips d'oignon",
+      "Thrips de fleurs japonaises (TSWV seulement)"
+    ],
+    "viruses": [
+      "Virus de flétrissement maculé de la tomate (VST)",
+      "Virus des taches nécrotiques imparfaits (VINS)"
+    ],
+    "mechanism": "Les larves d'étoiles premières acquièrent le virus des plantes infectées; les adultes transmettent le virus pendant l'alimentation.Les adultes restent infectieux pour la vie.",
+    "host_plants": [
+      "Chrysanthème",
+      "Cinéraire",
+      "Cyclamen",
+      "Dahlia",
+      "Dianthus",
+      "Fuchsia",
+      "Insuffisance",
+      "Lis",
+      "Némésia",
+      "Primula",
+      "Ranunculus",
+      "Verveine",
+      "Colée",
+      "Diascia",
+      "Lobélie"
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "Tôles foliaires chlorotiques ou nécrotiques",
+    "Anneaux de feuilles et patrons de lignes",
+    "Distorsion des feuilles, bronzage, jaunissement et nécrose",
+    "Noircissement des tiges",
+    "Mort à un point de croissance"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "Pesticide non-Quarantin réglementé (RNQP) chez Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
+    "INSV": "Pesticide non Quarantin réglementé (RNQP) chez le Begonia x hiemalis"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "Peut se reproduire asexuément; plusieurs générations par saison de croissance",
+    "notes": "Les plantes cultivées à l'intérieur plus vulnérables en raison de moins d'ennemis naturels"
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "Surveiller régulièrement les plantes pour détecter les signes précoces de thrips",
+      "Enlever et détruire les parties de plantes fortement infestées",
+      "Maintenir des populations saines d'ennemis naturels"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "Utiliser judicieusement les insecticides; suivre les directives locales et les instructions d'étiquetage"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "Combiner la surveillance, le contrôle culturel, les prédateurs naturels et l'utilisation ciblée d'insecticides"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "Guides des cultures ornementales du Royaume-Uni: Lutte contre les thrips dans les cultures ornementales protégées",
+    "Colorado State University Extension, Pest Notes: Thrips in Légumes et Ornementals"
   ]
 }

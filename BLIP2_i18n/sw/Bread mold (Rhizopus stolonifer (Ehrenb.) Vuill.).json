@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
-  "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "disease": "Roho ya Roho ya Roho ya Roho ya Roho ya Roho (Black Bread)",
+  "scientific_name": "Maisha ya Rizopus stolonifer",
+  "pathogen_type": "Fungus ya",
+  "description": "Rhizopus stolonifer ni fungus ya kawaida ambayo inakuza rangi ya kutosha katika matunda na matunda mengi, hasa baada ya kukua. Ni kukua haraka katika hali ya hewa na ya mvua na kupanua kwa urahisi kupitia rangi ya hewa. Ugonjwa huathiri hasa rangi au matunda ya bidhaa na kiwango cha juu cha sukari.",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "Matunda ya maji ya kuvutia juu ya matunda au matunda",
+    "Kuongezeka kwa haraka na kuongezeka kwa safi",
+    "Uzalishaji wa mbegu kama mboga ya kijani juu ya mbolea",
+    "Utengenezaji wa sporangia ya nyekundu (kumbukumbu za nyekundu za nyekundu)",
+    "Maua ya asidi au asidi kutoka kwa bidhaa zilizoathirika",
+    "Uharibifu wa haraka kuenea kwa matunda ya karibu"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
-    "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
-    "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "ya strawberry",
+    "Mji wa Tomato",
+    "Peach ya",
+    "Meloni ya",
+    "Mji wa maji",
+    "Banana ya",
+    "Mwisho wa",
+    "Mango ya",
+    "Papa ya",
+    "Karatasi ya nguruwe",
+    "Karoti ya",
+    "Mwisho wa",
+    "Mipango ya Egg",
+    "pepe ya",
+    "Mwisho wa",
+    "Chakula",
+    "ya Beans",
+    "Vyanzo vingi vya matunda na matunda"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "Ukosefu wa juu",
+    "Hali ya joto (25-30 ° C)",
+    "Matunda ya kuharibiwa au kuharibiwa",
+    "Kiwango cha juu cha sukari katika matunda ya ripe",
+    "hali mbaya ya kuhifadhi",
+    "Upungufu mdogo wakati wa kuhifadhi"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "Mchakato wa Airborne",
+    "Mawasiliano kati ya matunda ya matunda na ya afya",
+    "Wanyama wanaotumia spores",
+    "Mchakato wa kuhifadhi au mbinu za kuhifadhi"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "Kuendesha matunda kwa makini ili kuepuka maumivu",
+    "Kuondoa na kuharibu matunda ya kuvutia kwa haraka",
+    "Kutoa afya nzuri katika maeneo ya kuhifadhi",
+    "Mafuta ya bidhaa kwa joto ya chini",
+    "Kuimarisha uvumilivu na kupunguza umeme"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "aina ya sincephalis ambayo huathiri Rhizopus",
+    "aina ya Bacillus ambayo inafanya viungo vya antifungal",
+    "Fengycin-kuunda bakteria ambayo inhibiti ukuaji wa fungus"
   ],
   "chemical_control": [
-    "Thiabendazole",
-    "Benomyl",
-    "Imazalil",
-    "Propiconazole",
-    "Thiocarbamates",
-    "Fludioxonil",
-    "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
-    "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "ya Thiabendazole",
+    "Benki ya",
+    "Mwisho wa",
+    "ya Propiconazole",
+    "ya Thiocarbamates",
+    "ya Fludioxonil",
+    "ya Tebuconazole",
+    "ya fenhexamide",
+    "ya Azoxystrobin",
+    "Chlorini ya",
+    "Matumizi ya Sodium Hypochlorite",
+    "Matokeo ya Calcium Hypochlorite"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "Kupata matunda kwa makini ili kuepuka majeruhi",
+    "Uhifadhi wa baridi sahihi",
+    "Kutoa maeneo ya kuhifadhi safi na ya kutosha",
+    "Kuepuka kuondoa bidhaa zilizoathirika na matunda salama",
+    "Kupunguza umeme wakati wa kuhifadhi na usafirishaji"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "Bautista-Baños et al., Uharibifu wa baada ya mazao ya matunda na matunda",
+    "Maonyesho ya Smith katika Mikolojia ya Kazi",
+    "Mikopo ya mimea - Rhizopus stolonifer",
+    "Sayansi ya kisayansi juu ya magonjwa ya magonjwa ya baada ya mazao"
   ]
 }

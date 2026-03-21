@@ -1,0 +1,54 @@
+{
+  "disease": "Morbus Grapevine Leafroll",
+  "scientific_name": "Grapevine-Blattroll-assoziiertes Virus (GLRaVs)",
+  "pathogen_type": "Virus",
+  "description": "Eine virale Krankheit von Weinreben, die Ertrag und Fruchtqualität reduziert. Es verursacht Blattrollen, Verfärbungen und schlechte Traubenreifung.",
+  "symptoms": [
+    "Blätter rollen von den Kanten nach unten",
+    "Rote oder lila Blätter in roten Sorten",
+    "Gelbe Blätter in weißen Sorten",
+    "Grüne Adern bleiben sichtbar",
+    "Verzögerte Reife der Früchte",
+    "Verminderter Zuckergehalt in Weintrauben"
+  ],
+  "hosts": [
+    "Weintrauben (Vitis vinifera)",
+    "Tafeltrauben",
+    "Keltertrauben",
+    "Wilde Vitis-Arten"
+  ],
+  "favorable_conditions": [
+    "Vorhandensein von Maul- und Klauenseuche und Skalierungsinsekten",
+    "Verwendung von infiziertem Pflanzmaterial"
+  ],
+  "spread": [
+    "Mealybugs",
+    "Weiche Insekten",
+    "Vermehrung mit infizierten Stecklingen"
+  ],
+  "management": [
+    "Entferne infizierte Reben",
+    "Bekämpfung von Maulwürmern und Skalierungsinsekten",
+    "Verwendung von zertifiziertem virusfreiem Pflanzmaterial",
+    "Überwachen Sie die Weinberge regelmäßig"
+  ],
+  "biological_control": [
+    "Ermutigen Sie natürliche Feinde von mehligen Käfer wie Käfer",
+    "Verwenden Sie parasitoide Wespen, um Vektoren zu steuern"
+  ],
+  "chemical_control": [
+    "Insektizide zur Bekämpfung von Maul- und Klauenseuche (z.B. Imidacloprid, Spirotetramat)",
+    "Gartenbauöle zur Reduzierung von Vektorpopulationen"
+  ],
+  "prevention": [
+    "Pflanzenzertifizierte virenfreie Reben",
+    "Insektenvektoren frühzeitig kontrollieren",
+    "Infizierte Reben schnell entfernen",
+    "Vermehrungsmaterial sanieren"
+  ],
+  "source": [
+    "Leitfaden für die FAO-Grapevine-Krankheit",
+    "UC Davis Weinbau Ressourcen",
+    "Internationaler Rat für Weinbau (OIV)"
+  ]
+}

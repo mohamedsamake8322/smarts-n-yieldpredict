@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "(أ) تَرِنْرِكَبْرَج",
+  "scientific_name": "Pectopoacterium carotoutforum (سابقاً Erwinia carotovora)",
+  "pathogen_type": "بكثير",
+  "description": "التعفن الناعم بالبكتيريا هو مرض مدمّر من الملفوف الذي يسبب التحلل السريع للأنسجة النباتية، تدخل البكتيريا من خلال الجروح أو الفتحات الطبيعية وتنتشر بسرعة في ظروف دافئة ورطوبة، ويمكن أن يحدث المرض في الميدان ولكنه غالباً ما يتسبب في خسائر خطيرة أثناء التخزين والنقل.",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "بقع مغرقة بالمياه على أوراق الأوراق المالية أو رؤوس الملفف",
+    "مَنْحِنَةً ، مَنْ يُنَمِّي دَائِلًا فِي ٱلْمَسْحِيَّاتِ ٱلَّتِي تَنْمِي دَرَجًا",
+    "تصير الاضلة لينة ، مرنبة ، مُرْنَبة ، رطبة",
+    "التغير من كريم إلى بني أو أسود",
+    "التسرّب من الأنسجة المُحِكّة",
+    "الروأة الناشرة الناشرة الناشرة و الناشرة",
+    "يمكن أن تتحلل الأوراق أو الأسباب أو الجذور تماماً في حالات العدوى الحادة"
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "تعفن تعفن على أنسجة الملف",
+    "أنسجة النبتة التي تتحلل",
+    "المناطق المتعفنة الداكنة ذات التسرب السائل"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "أولاً -",
+    "ألف - تنظيم العمل",
+    "(أرمل)",
+    "يُجِج"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "",
+    "",
+    "القرني",
+    "سكرخس",
+    "",
+    "(يتبع)",
+    "(بدولارات",
+    "(بآلاف دولارات الولايات المتحدة)",
+    "ط ط ط ط ط ط ط ط",
+    "(بدولارات الولايات المتحدة)"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "درجات حرارة دافئة (25 - 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "(بالطن)",
+    ":: سوء الحركة الجوية",
+    "جروح نباتية ناجمة عن حشرات أو أدوات",
+    "نسبة مئوية منخفضة في النباتات"
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "مـن مـن مـن مـن مـن مـن مـن",
+    "",
+    "هطول الامطر)أ(",
+    "حشرات مثل الحشرات",
+    "ألف - الأدوات المُلوثة",
+    "أثناء الحصاد والتخزين"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "مواد الزراعة الصحية والخالية من الأمراض",
+    "معالجة النبتات بعناية لتجنب الجروح",
+    "(أ) أن تُزال وتُدمِر المنشآت المُحْزِنة على الفور",
+    "محاصيل دوران مع نباتات غير مستهلكة لمدة لا تقل عن 3 سنوات",
+    "",
+    "(أ) الصرف الصحي الصحي الميداني الجيد",
+    "كفالة التغذية النباتية السليمة، لا سيما الكالسولين"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "مبيدات بكرات أحيائياً",
+    "العلاجات البيولوجية PSEUDomonas"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "(أ) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "Hurxid",
+    "مبيدات البكتيريا"
   ],
-
   "example_products": [
-    "Greencop 500WP",
-    "Trinity Gold 452WP",
-    "Colonizer 440WP",
-    "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "طراز SCSSS",
+    "طراز Tital TAT",
+    "مسدس عيار ٤٤٠ WP",
+    "٧ر٠٠ /",
+    "العذرية 700 WP"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "الماهرة أو المتسامحة",
+    "استخدام البذور والشتلات الخالية من الأمراض",
+    "تجنب إصابة النباتات أثناء زراعتها",
+    "أثناء الظروف الجافة",
+    "(أ) ما قبل تخزينها قبل تخزينها؛",
+    "مناطق تخزين نظيفة وجارية"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "أكياس تخزن في أروقة عند درجة حرارة 0 - 4 درجة مئوية (32 - 39 درجة ف)",
+    ":: حفظ تخزين الرطوبة حوالي 90 - 95 في المائة",
+    "(أ) المواد الكيميائية:",
+    "استخدام مواد لينة مثل القش أو الورق لمنع الإصابات"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "مجموعة حماية المُنتَجَب",
+    "برنامج الأمم المتحدة الإنمائي",
+    "أدلة إدارة الأمراض النباتية"
   ]
 }

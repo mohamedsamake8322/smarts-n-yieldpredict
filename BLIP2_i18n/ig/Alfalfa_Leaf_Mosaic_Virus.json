@@ -1,0 +1,70 @@
+{
+  "disease_name": "Elu shéèdì_nces_Might_Vchas",
+  "common_name": "Ọrịa Ndị Mozis Na - arịa",
+  "pathogen": {
+    "type": "Nje virus",
+    "scientific_name": "Nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "abbreviation": "ONYE M BỤ",
+    "family": "Mkpụrụ ndụ ihe nketa na - agbanwe agbanwe",
+    "genus": "Alfamruru"
+  },
+  "host_plants": [
+    "Ọdọ̀sị́ị̀lụ̀",
+    "Plato",
+    "AGBOR 1 (Bekee)",
+    "Ndị Na - atụchasị Mmadụ",
+    "Sobon",
+    "Onye na - ahụ n'anya",
+    "Naa",
+    "Belan",
+    "_Hichaa",
+    "Ọtụtụ akụ́kụ́ ndị mara mma"
+  ],
+  "symptoms": {
+    "leaves": [
+      "Ụcha ndị na - acha odo odo bụ́ ndị na - acha odo odo",
+      "Anwụrụ Ọkụ Na - egbu Mmadụ",
+      "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+      "Akwụkwọ ya ma ọ bụ akwụkwọ ya ndị tụrụ ya n'anya",
+      "Ọ́bá akwụkwọ ndị e dere ihe na ha buru ibu"
+    ],
+    "plants": [
+      "Uto e nwere n'ụzọ a na - achịkwaghị achịkwa",
+      "Ike Na - agwụ M",
+      "Ihe Ndị Ọ Na - arụpụta Na - ebelata"
+    ]
+  },
+  "transmission": {
+    "vectors": [
+      "Achara (ihe karịrị ụdị anụmanụ 20)"
+    ],
+    "mechanical_transmission": true,
+    "seed_transmission": true,
+    "vegetative_propagation": true
+  },
+  "favorable_conditions": [
+    "Ọnụ ọgụgụ buru ibu nke ndị bi na ya",
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ọtụtụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa bụ́ ndị dị nso"
+  ],
+  "management": {
+    "cultural_control": [
+      "Jiri nje na-enweghị isi",
+      "Wepụ akụ́kụ́ ndị nwere nje ndị ahụ",
+      "Zere ahịhịa ndị na - arụ ọrụ dị ka nje virus"
+    ],
+    "vector_control": [
+      "Na - elekọta ma na - elekọta ọnụ ọgụgụ ndị oké ozu"
+    ],
+    "resistant_varieties": "Ụfọdụ n'ime òtù okpukpe ndị na - akwado òtù nzuzo ndị e nwere na - adabere n'ihe ọkụkụ"
+  },
+  "economic_importance": {
+    "impact": "Ọ na - eme ka ihe ọkụkụ ndị a kụrụ n'ubi na - eto nke ọma ma na - eto nke ọma n'ọtụtụ ụzọ n'ihe ọkụkụ nakwa n'ihe ọkụkụ ndị a kụrụ n'akwụkwọ nri",
+    "distribution": "Zuru Ụwa Ọnụ"
+  },
+  "sources": [
+    "IHE NDỊ NA - EME N'ỤWA KWURU",
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "IHE NDỊ NA - EME KA E NWEE OBI ỤTỌ N'OGE OCHIE"
+  ]
+}

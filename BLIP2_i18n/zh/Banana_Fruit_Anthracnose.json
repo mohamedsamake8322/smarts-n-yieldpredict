@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "disease": "香蕉水果",
+  "scientific_name": "立方公墓",
+  "other_name": "聚氨基聚氨基聚氨酯",
+  "pathogen_type": "蘑菇",
+  "description": "香蕉炭疽杆菌是一种主要真菌疾病,在收获前后影响香蕉水果,主要是由真菌复古菌引起的,对水果造成沉沉的黑暗损害,在成熟期间会扩大,在储存和运输过程中会造成严重的收获后损失。",
   "affected_parts": [
-    "Fruit",
-    "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "果果果",
+    "钢钢",
+    "流动部分(树皮)",
+    "严重感染的叶叶和枪草"
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "香蕉水果表面的深沉损伤",
+    "树苗在成熟期间膨胀,变黑或黑棕色",
+    "橙子团(acervuli)出现在成熟的损伤上。",
+    "水果腐烂和脱皮坏死",
+    "在严重情况下,叶叶泡和击打死死",
+    "过早叶叶下降和产量下降"
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "Fungus感染野外不成熟的香蕉水果",
+    "喷发和形成渗透植物组织的压力",
+    "在不成熟的水果中,感染仍然具有潜伏性(白种)",
+    "果实收获后成熟时,症状就会发展",
+    "通过雨水喷洒、风、工具和受感染的植物材料散布的喷泉"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "22至32摄氏度之间的热温",
+    "90%以上高湿湿度",
+    "雨季或季风季节",
+    "种植园空气流通不良"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "风和雨水散布的真菌螺",
+    "受感染植物碎片",
+    "收获和运输期间的处理",
+    "受污染工具或储存表面"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "成熟时水果腐烂",
+    "在收获的香蕉集群中腐烂王冠",
+    "水果质量和市场价值降低",
+    "重大收获后损失"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "Difenconazole 25% EC(COCOR):120-1150毫升/英亩",
+    "Carbendazim 12% + Mancozeb 63% WP(Samartha):300-400克/英亩",
+    "70%的WP(KTM):每英亩250-600克",
+    "红铜75% WP(K ZEB):500克/英亩",
+    "全部杀真菌剂:1.5-2克/升"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "使用生物对抗物,如三氯代克德马物种",
+    "天然植物提取物和微生物生物控制剂",
+    "结合生物制剂和文化习俗的综合疾病管理战略"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "保持良好的种植园卫生,清除受感染植物碎片",
+    "确保香蕉种植园空气流通良好",
+    "避免储存过度湿湿度",
+    "谨慎收获果实以避免伤口",
+    "使用无疾病种植材料"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "现有可选择的抗药性香蕉品种",
+    "应用综合疾病管理战略",
+    "在收获前和收获后阶段监测水果",
+    "保持清洁储存和运输条件"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "关于Coltetotrichum musae的植物病理学研究",
+    "关于香蕉病的农业推广出版物",
+    "关于炭疽菌管理的科学文献"
   ]
 }

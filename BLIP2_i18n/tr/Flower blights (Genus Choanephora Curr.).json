@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "Choanephora Çiçek Işık",
+  "scientific_name": "Choanephora spp. (örneğin, Choanephora cucurbitarum)",
+  "pathogen_type": "Fonksiyon",
+  "description": "Bir mantar hastalığı, çiçekleri ve çok sayıda sebze ve sebze genç meyveleri saldırır. sıcak ve ıslak koşullarda hızlı çiçek çürümesine ve meyve bozulmasına neden olur.",
+  "symptoms": [
+    "Çiçekler üzerinde su geçirmez noktalar",
+    "Çiçekler çabucak çürüyor ve çöküyor",
+    "Genç Meyvelere Yumuşak Çilek",
+    "Cottony beyaz mantar büyümesi enfekte dokularda",
+    "Çiçekler üzerinde şekillendiren siyah pin gibi spores",
+    "Enfekte çiçekler meyve yetiştirir ve meyve kırışıklığına neden olur"
+  ],
+  "hosts": [
+    "Okra",
+    "Pompalı",
+    "Squash Hakkında",
+    "Çanakkale",
+    "Zucchini",
+    "Şişe Gourd",
+    "Beanlar",
+    "Koyun",
+    "Yumurta",
+    "Diğer çilekler ve sebzeler"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar (yaklaşık 25-30°C)",
+    "Yüksek nem",
+    "sıklıkla yağış",
+    "Düşük hava dolaşımı ile kalın kanopi"
+  ],
+  "spread": [
+    "Rüzgarlı Mantar Spores",
+    "yağmur splash",
+    "Enfekte bitki çöpleri",
+    "Enfekte çiçekler ve meyveler arasındaki temas"
+  ],
+  "management": [
+    "Enfekte çiçekleri ve meyveleri çıkarmak ve yok etmek",
+    "Hava akışını arttırmak için bitki alanını iyileştirmek",
+    "Aşırı sulama önlemek",
+    "Enfekte dokuları ortadan kaldırmak için düzenli olarak hasat",
+    "Crop Rotasyon Uygulamaları"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum toprak veya folik biyokontrol ajanı olarak",
+    "Bacillus subtilis bazlı biofungicidler"
+  ],
+  "chemical_control": [
+    "Manşet",
+    "Chlorothalonil",
+    "bakır tabanlı fungicidler",
+    "ıslak hava koşullarında önleyici uygulama"
+  ],
+  "prevention": [
+    "İyi havalandırılmış alanlarda bitkiler",
+    "Yetiştirildikten sonra bitki çöpleri çıkarın",
+    "Aşırı sulama ve uzun süreli yaprak neminden kaçının",
+    "Sağlıklı tohumları kullanın ve alan sanitasyonunu koruyun"
+  ],
+  "source": [
+    "CABI Plantwise Bilgi Bankası",
+    "Florida Üniversitesi IFAS Bitki Patolojisi",
+    "APS Bitki Hastalıkları El Kitabı"
+  ]
 }

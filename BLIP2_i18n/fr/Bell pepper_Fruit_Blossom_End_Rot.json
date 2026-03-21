@@ -1,71 +1,71 @@
 {
-  "disease": "Bell pepper blossom-end rot",
-  "scientific_name": "Physiological disorder caused by calcium deficiency in fruit tissues",
-  "pathogen_type": "Abiotic (nutrient deficiency disorder)",
-  "description": "Blossom-end rot is a physiological disorder caused by a lack of calcium in developing fruits. It affects rapidly growing fruits when calcium supply to fruit tissue is insufficient. The disorder leads to tissue collapse at the blossom end of the fruit and can cause significant yield losses.",
+  "disease": "Pourriture à l'extrémité de la fleur de poivre",
+  "scientific_name": "Troubles physiologiques causés par une carence en calcium dans les tissus des fruits",
+  "pathogen_type": "Abiotique (déficit en nutriments)",
+  "description": "La pourriture du bout de lossom est un trouble physiologique causé par le manque de calcium dans le développement des fruits. Il affecte les fruits en croissance rapide lorsque l'apport de calcium dans les tissus des fruits est insuffisant. Le trouble conduit à l'effondrement tissulaire à l'extrémité de la fleur du fruit et peut causer des pertes de rendement significatives.",
   "symptoms": [
-    "Small light green or yellow spot at the blossom end of the fruit",
-    "Sunken dark brown or black lesion on fruit tip",
-    "Fruit tissue collapse and dry rot",
-    "Premature fruit ripening",
-    "Black fungal growth (secondary Alternaria colonization)",
-    "Secondary bacterial soft rot in severe cases"
+    "Petite tache vert clair ou jaune à l'extrémité florale du fruit",
+    "Lésion brune foncée ou noire sur l'extrémité des fruits",
+    "S'effondrer des tissus de fruits et pourriture sèche",
+    "Maturisation précoce des fruits",
+    "Croissance fongique noire (colonisation secondaire de l'Alternaria)",
+    "Pourriture molle bactérienne secondaire dans les cas graves"
   ],
   "hosts": [
-    "bell pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "zucchini",
+    "poivron",
+    "piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment",
+    "tomate",
+    "aubergines",
+    "courgettes",
     "squash",
-    "watermelon",
-    "cucumber",
+    "pastèque",
+    "concombre",
     "melon"
   ],
   "favorable_conditions": [
-    "Low calcium availability in plant tissues",
-    "Irregular irrigation or drought stress",
-    "Rapid vegetative growth",
-    "Excess nitrogen fertilization",
-    "High salt concentration in soil",
-    "Poor root development or root damage",
-    "High temperature and rapid fruit growth"
+    "Faible disponibilité de calcium dans les tissus végétaux",
+    "Irrigation irrégulière ou stress dû à la sécheresse",
+    "Croissance végétative rapide",
+    "Fertilisation excessive de l'azote",
+    "Concentration élevée de sel dans le sol",
+    "Mauvais développement des racines ou dommages aux racines",
+    "Haute température et croissance rapide des fruits"
   ],
   "spread": [
-    "Not infectious; it is a physiological disorder",
-    "Occurs when calcium transport to fruits is insufficient",
-    "Often triggered by water stress or nutrient imbalance"
+    "Non infectieux; il s'agit d'un trouble physiologique",
+    "Se produit lorsque le transport du calcium vers les fruits est insuffisant",
+    "Souvent déclenchés par le stress hydrique ou le déséquilibre des nutriments"
   ],
   "management": [
-    "Maintain consistent soil moisture with proper irrigation",
-    "Avoid excessive nitrogen fertilization",
-    "Improve soil structure for better root growth",
-    "Use mulching to regulate soil moisture and temperature",
-    "Monitor soil nutrient levels with soil testing"
+    "Maintenir une humidité constante du sol avec une irrigation appropriée",
+    "Éviter la fertilisation excessive de l'azote",
+    "Améliorer la structure du sol pour une meilleure croissance des racines",
+    "Utiliser le paillis pour réguler l'humidité et la température du sol",
+    "Surveiller les niveaux d'éléments nutritifs du sol à l'aide d'essais sur le sol"
   ],
   "biological_control": [
-    "Use beneficial microbes such as Bacillus subtilis to improve plant health",
-    "Apply Trichoderma species to support root growth and nutrient uptake",
-    "Use organic soil amendments like compost to improve soil structure"
+    "Utiliser des microbes bénéfiques comme Bacillus subtilis pour améliorer la santé des plantes",
+    "Appliquer les espèces de Trichoderma pour soutenir la croissance racinaire et l'absorption des nutriments",
+    "Utiliser des amendements de sol organiques comme le compost pour améliorer la structure du sol"
   ],
   "chemical_control": [
-    "Calcium nitrate",
-    "Calcium chloride",
-    "Calcium sulfate (gypsum)",
-    "Chelated calcium fertilizers",
-    "Foliar calcium sprays (limited effectiveness)"
+    "Nitrate de calcium",
+    "Chlorure de calcium",
+    "Sulfate de calcium (gypsum)",
+    "Engrais calciques chélatés",
+    "pulvérisateurs de calcium foliaire (efficacité limitée)"
   ],
   "prevention": [
-    "Ensure adequate calcium levels in soil",
-    "Maintain regular irrigation schedules",
-    "Avoid excessive nitrogen fertilization",
-    "Improve drainage and root health",
-    "Use drip irrigation to stabilize water supply",
-    "Avoid root damage from cultivation or diseases"
+    "Assurer des niveaux adéquats de calcium dans le sol",
+    "Maintenir des calendriers d'irrigation réguliers",
+    "Éviter la fertilisation excessive de l'azote",
+    "Améliorer le drainage et la santé des racines",
+    "Utiliser l'irrigation goutte à goutte pour stabiliser l'approvisionnement en eau",
+    "Éviter les dommages causés aux racines par la culture ou les maladies"
   ],
   "source": [
-    "University of Florida IFAS Extension",
-    "Principles of Plant Nutrition – Mengel & Kirkby",
-    "Plant pathology and vegetable crop management literature"
+    "Université de Floride IFAS Extension",
+    "Principes de la nutrition des plantes – Mengel & Kirkby",
+    "Pathologie végétale et documentation sur la gestion des cultures végétales"
   ]
 }

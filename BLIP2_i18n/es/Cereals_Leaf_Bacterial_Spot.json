@@ -1,0 +1,105 @@
+{
+  "disease": "Racha de hojas bacterianas de cereales",
+  "scientific_name": "Xanthomonas translucens",
+  "pathogen_type": "Bacteria",
+  "pathovars": [
+    "Xanthomonas translucens pv. undulosa",
+    "Xanthomonas translucens pv. translucens",
+    "Xanthomonas translucens pv. cerealis"
+  ],
+  "description": "La racha de la hoja bacteriana es una enfermedad importante de los cultivos de cereales como el trigo y la cebada. Es causada por la bacteria Xanthomonas translucens. La enfermedad produce largas rachas translúcidas en las hojas que luego se vuelven marrones y secas.",
+  "symptoms": [
+    "Rachas largas empapadas en agua en las hojas",
+    "Rayas verdes o amarillas entre venas",
+    "Las lesiones se vuelven marrones y alargadas",
+    "Los picos corren paralelos a las venas de las hojas",
+    "Las hojas pueden secar y morir en infecciones graves",
+    "Exudado bacteriano amarillo pegajoso puede aparecer en lesiones",
+    "Las hojas pueden parecer trituradas a lo largo de las rayas"
+  ],
+  "visual_signature": [
+    "rayas amarillas largas o marrón claro en las hojas de cereales",
+    "rayas paralelas que siguen a las venas de las hojas",
+    "gotitas pegajosas amarillas en la superficie de la hoja"
+  ],
+  "affected_plant_parts": [
+    "hojas",
+    "hoja de hoja",
+    "a veces el pedúnculo de la cabeza del oído"
+  ],
+  "hosts": [
+    "trigo",
+    "cebada",
+    "centeno",
+    "avena",
+    "Maíz",
+    "sorgo",
+    "Hierbas silvestres",
+    "pastos forrajeros"
+  ],
+  "plant_family": "Poaceae",
+  "important_hosts": [
+    "Triticum aestivum (trigo)",
+    "Hordeum vulgare (cebada)",
+    "Avena sativa (avena)",
+    "Secale cereale (rye)",
+    "Sorgo bicolor",
+    "Zea mays"
+  ],
+  "favorable_conditions": [
+    "temperaturas cálidas",
+    "alta humedad",
+    "frecuentes precipitaciones",
+    "riego por aspersores",
+    "estaciones de cultivo húmedas"
+  ],
+  "spread": [
+    "semillas infectadas",
+    "salpicadura de lluvia",
+    "Lluvia eólica",
+    "residuos de cultivos contaminados",
+    "malas hierbas infectadas y pastos"
+  ],
+  "disease_cycle": [
+    "las bacterias sobreviven en las semillas infectadas",
+    "bacterias entran en la planta a través de estomas o heridas",
+    "infección se propaga en las hojas a lo largo de las venas",
+    "las bacterias se multiplican y producen exudados",
+    "la lluvia propaga bacterias a las plantas cercanas"
+  ],
+  "management": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Aplicar pruebas estrictas de salud de las semillas",
+    "Evite plantar lotes de semillas infectadas",
+    "Use cultivares resistentes o tolerantes cuando estén disponibles",
+    "Monitorear los campos regularmente para detectar los síntomas tempranos",
+    "Seguir las normas de cuarentena para el movimiento de semillas"
+  ],
+  "biological_control": [
+    "Antagonistas bacterianos biológicos en investigación"
+  ],
+  "chemical_control": [
+    "no se dispone de un control químico muy eficaz sobre el terreno"
+  ],
+  "seed_treatment": [
+    "Tratamiento del agua caliente (alrededor de 53°C durante 10 minutos)",
+    "tratamiento térmico en seco",
+    "Tratamientos de cobre acidificado para reducir la infección de semillas"
+  ],
+  "impact": [
+    "pérdida de rendimiento hasta un 40 por ciento en casos graves",
+    "reducción del peso de los granos",
+    "reducción del número de granos por pico"
+  ],
+  "diagnosis": [
+    "observación de los síntomas de campo",
+    "aislamiento bacteriano en los medios de cultivo",
+    "Detección molecular basada en el ADN (PCR o secuenciación)"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Revista de Enfermedades Vegetales",
+    "Informes de cuarentena de plantas de la EPPO",
+    "Sapkota y otros 2020"
+  ]
+}

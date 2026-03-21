@@ -1,0 +1,54 @@
+{
+  "disease": "Agha Ndị Agha Na - adịghị Ala Ala A Na - apụghị Ịhụ Anya",
+  "scientific_name": "Sipodtera fruggigida",
+  "pathogen_type": "Oge oyi (oge anwụ na - achasi ike)",
+  "description": "Ọ na - eme ka ihe ọkụkụ na - akọ ihe, ọ pụkwara ibibi akụ́kụ́ ngwa ngwa.",
+  "symptoms": [
+    "Ndị na - eri mkpụrụ akụ́kụ́ na - eri nri n'ime mkpụrụ akụ́kụ́",
+    "Ọ na - ebibi akwụkwọ ya n'ụzọ dị ukwuu",
+    "Ebe ndị gbara ọchịchịrị bụ́ ndị dị nso n'ebe ndị a na - eri nri",
+    "A Na - ahapụ Ha Ka Ha Bụrụ Ndị Na - eso Ụzọ Jizọs Ma Ọ Bụ Ndị A Na - awa Ahụ́"
+  ],
+  "hosts": [
+    "Tinyere ngwá ọrụ ndị ahụ",
+    "NEPA",
+    "Sorghum",
+    "Ndị Na - eto Eto Na - ajụ Sị...",
+    "[ Ihe e dere n'ala ala peeji]",
+    "ONYE NA - ETO ETO"
+  ],
+  "favorable_conditions": [
+    "Ihu igwe na - ekpo ọkụ",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi",
+    "Ihe ọkụkụ ndị ahịhịa ndụ jupụtara na ha"
+  ],
+  "spread": [
+    "Ìgwè mmadụ a ma ama na - aga n'ebe a na - akụ osisi",
+    "Osisi ndị dị nso a na - akụ n'ebe ahụ",
+    "Bido n'ebe a na - ere ihe n'ala"
+  ],
+  "management": [
+    "Ebe ndị a na - eme egwuregwu bụ́ ndị a na - ejikarị eme ihe na ha mgbe nile maka osisi ndị dị n'ime ala",
+    "Anwụrụ ọkụ na àkwá ndị na - esi ísì ụtọ na - eme ka àkwá ndị na - esi ísì ụtọ na - eto eto",
+    "Ihe ndị e ji alụso nje HIV ọgụ ma ọ bụ ihe ndị e ji alụso nje HIV ọgụ n'oge"
+  ],
+  "biological_control": [
+    "Bacfus offcvealsis (Bt)",
+    "Belua Mmalite Ya",
+    "Trich Primas"
+  ],
+  "chemical_control": [
+    "Emacctin",
+    "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+    "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya."
+  ],
+  "prevention": [
+    "Ndị A Hụrụ n'Oge Ochie Bụ́ Ndị Na - ata Ahụhụ",
+    "Jiri ụdị akụ́kụ́ ndị na - eguzogide mmụọ mee ihe",
+    "Iji ụgbọelu eme njem"
+  ],
+  "source": [
+    "nile dị n'otu obodo dị nso n'obodo a, nke dị n'akụkụ ugwu, nke dị nso n'ebe ndịda Spen.",
+    "KBI"
+  ]
+}

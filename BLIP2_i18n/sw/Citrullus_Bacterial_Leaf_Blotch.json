@@ -1,119 +1,119 @@
 {
-  "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
-  "common_name": "Bacterial Fruit Blotch",
+  "disease_name": "Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+  "common_name": "Blotch ya matunda ya bakteria",
   "causal_agent": {
-    "type": "bacterium",
-    "scientific_name": "Acidovorax citrulli",
+    "type": "Bakteri ya",
+    "scientific_name": "ya Acidovorax citrulli",
     "taxonomy": {
-      "domain": "Bacteria",
-      "class": "Betaproteobacteria",
-      "order": "Burkholderiales",
-      "family": "Comamonadaceae",
-      "genus": "Acidovorax",
-      "species": "citrulli"
+      "domain": "Bakteri ya",
+      "class": "ya Betaproteobacteria",
+      "order": "ya Burkholderiales",
+      "family": "ya Comamonadaceae",
+      "genus": "ya Acidovorax",
+      "species": "ya citrulli"
     }
   },
   "microbiological_properties": {
-    "gram_stain": "Gram-negative",
-    "shape": "Rod-shaped",
-    "size": "Approximately 0.5 μm × 1.7 μm",
-    "oxygen_requirement": "Strictly aerobic",
-    "motility": "Motile with polar flagellum",
-    "optimal_growth_temperature_celsius": "27-30"
+    "gram_stain": "ya Gram-Negative",
+    "shape": "Mipango ya Rod",
+    "size": "Zaidi ya 0.5 μm × 1.7 μm",
+    "oxygen_requirement": "Kiwango cha aerobic",
+    "motility": "Mti wa Polar Flagellum",
+    "optimal_growth_temperature_celsius": "ya 27-30"
   },
   "host_plants": [
-    "Watermelon",
-    "Melon",
-    "Cucumber",
-    "Squash",
-    "Pumpkin",
-    "Zucchini"
+    "Mji wa maji",
+    "Meloni ya",
+    "ya Cucumber",
+    "Siku ya Squash",
+    "ya Pumpkin",
+    "Zucchini ya"
   ],
   "symptoms": {
     "seedlings": [
-      "Water-soaked lesions on cotyledons",
-      "Necrotic lesions near veins",
-      "Lesions on hypocotyl",
-      "Seedling collapse and death"
+      "Uharibifu wa maji juu ya cotyledons",
+      "Ugonjwa wa Necrotic karibu na maumivu",
+      "Uharibifu wa hypocotyl",
+      "Uharibifu wa mto na kifo"
     ],
     "leaves": [
-      "Irregular dark-brown to black lesions (watermelon)",
-      "Reddish-brown lesions (melon)",
-      "Lesions spreading along veins",
-      "Leaf blight symptoms"
+      "Ukosefu wa rangi ya rangi ya rangi ya rangi ya rangi (Watermelon)",
+      "Ugonjwa wa Reddish-Brown (Meloni)",
+      "Maumivu ya kuongezeka kwa wanyama",
+      "Maonyesho ya Blythe"
     ],
     "fruits": [
-      "Small irregular water-soaked lesions",
-      "Sunken rind spots",
-      "Lesions turn brown and crack",
-      "Internal fruit decay",
-      "Fruit rot before harvest"
+      "Uharibifu mdogo wa maji yasiyo ya kawaida",
+      "Maonyesho ya Sunken rind",
+      "Mateso yanaweza kuongezeka na kuongezeka",
+      "Matunda ya ndani",
+      "Matunda ya matunda kabla ya kukua"
     ]
   },
   "disease_cycle": {
-    "primary_inoculum": "Contaminated seeds",
+    "primary_inoculum": "Mafuta ya kuvutia",
     "transmission_methods": [
-      "Seed transmission",
-      "Splashing water",
-      "Wind-driven rain",
-      "Overhead irrigation"
+      "Uhamiaji wa mbegu",
+      "Utoaji wa maji",
+      "Mwisho wa mvua",
+      "Ukosefu wa Irrigation"
     ],
     "infection_entry_points": [
-      "Stomata",
-      "Plant wounds"
+      "Mti wa",
+      "Maua ya mimea"
     ],
-    "fruit_infection_stage": "2–3 weeks after flowering"
+    "fruit_infection_stage": "2 - 3 wiki baada ya kukua"
   },
   "favorable_conditions": {
-    "temperature_celsius": "High (around 27–30°C)",
-    "humidity": "High relative humidity",
+    "temperature_celsius": "Kiwango cha juu (kwa karibu 27-30 ° C)",
+    "humidity": "Ukosefu wa umeme wa juu",
     "environment": [
-      "Greenhouses",
-      "Dense plant populations",
-      "Overhead irrigation"
+      "Maeneo ya Greenhouse",
+      "Idadi ya watu wa mimea",
+      "Ukosefu wa Irrigation"
     ]
   },
   "economic_importance": {
-    "impact": "Severe losses in cucurbit crops, especially watermelon and melon",
-    "possible_loss_percentage": "Up to 90–100% fruit loss in severe outbreaks",
+    "impact": "Uharibifu mkubwa katika matunda ya cucurbit, hasa meloni ya maji na meloni",
+    "possible_loss_percentage": "Zaidi ya 90-100% ya kupoteza matunda wakati wa maambukizi makubwa",
     "global_distribution": true
   },
   "management": {
     "seed_management": [
-      "Use pathogen-free certified seeds",
-      "Seed health testing (PCR or grow-out assays)"
+      "Matumizi ya mbolea zisizohitajika bila patogen",
+      "Utafiti wa afya ya mbolea (PCR au utafiti wa ukuaji)"
     ],
     "seed_treatments": [
-      "Dry heat treatment (85°C for 3–5 days)",
-      "Peroxyacetic acid treatment",
-      "Chlorine treatments"
+      "Matibabu ya joto (85 ° C kwa siku 3-5)",
+      "Matibabu ya Asidi ya Peroxyacetic",
+      "Matibabu ya Chlorine"
     ],
     "cultural_practices": [
-      "Reduce humidity in greenhouses",
-      "Avoid overhead irrigation",
-      "Remove infected plants"
+      "Kupunguza umeme katika nyumba za greenhouse",
+      "Kuepuka upasuaji wa juu",
+      "Kuondoa mimea ya kuvutia"
     ],
     "chemical_control": [
-      "Copper-based bactericides"
+      "Bactericides kwa msingi wa tembo"
     ],
-    "host_resistance": "No commercially reliable resistant cultivars available"
+    "host_resistance": "Hakuna bidhaa za kuaminika zinazohitajika zinapatikana"
   },
   "genetic_diversity": {
     "groups": [
       {
-        "name": "Group I",
-        "characteristics": "Moderately aggressive on multiple cucurbits"
+        "name": "Sehemu ya I",
+        "characteristics": "Ukosefu wa kutosha juu ya matibabu kadhaa"
       },
       {
-        "name": "Group II",
-        "characteristics": "Highly aggressive on watermelon"
+        "name": "Sehemu ya II",
+        "characteristics": "Upinzani mkubwa juu ya watermelon"
       }
     ]
   },
   "sources": [
-    "APS Plant Disease Lessons",
-    "Journal of Plant Pathology studies on Acidovorax citrulli",
-    "International Seed Health Initiative (ISHI)",
-    "Plant Pathology research publications"
+    "Matokeo ya matibabu ya APS",
+    "Siku ya Utafiti wa Matibabu ya Mimea juu ya Acidovorax citrulli",
+    "Mkataba wa Afya ya Kimataifa (ISHI)",
+    "Maonyesho ya Maonyesho ya Maonyesho ya Maonyesho"
   ]
 }

@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "Şövalye Esca",
+  "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Fungus (Ağaç Decay Hastalık Kompleksi)",
+  "description": "Esca, ahşap dokuları zarar veren ve üzüm gücünü azaltan grapevinlerin ciddi bir çamur hastalığıdır. Ağır durumlarda yaprakların bozulmasına, ağaç çöküşüne ve üzüm ölümüne neden olur.",
+  "symptoms": [
+    "Sarı ve kahverengi tiger-stripe desenleri yapraklarda",
+    "Marjlardan kurutma ve yanma",
+    "Ağacın büyümesi ve zayıf atışlar",
+    "Karanlık ağaçlar içeride",
+    "Beyaz spongy rot içinde trunk",
+    "Şarapların aniden dökülmesi veya ölümü (apoplexy)"
+  ],
+  "hosts": [
+    "Grapevine (Vitis vinifera için)",
+    "Tablo çöpleri",
+    "Şarap Şarapları",
+    "Wild Vitis türleri"
+  ],
+  "favorable_conditions": [
+    "Eski Viyana",
+    "Mantar girişine izin veren yaralar",
+    "Yetiştirme mevsiminde sıcaklıklar",
+    "Kötü sanitasyon"
+  ],
+  "spread": [
+    "Fungal spores pruning yaraları aracılığıyla girer",
+    "Enfekte bitki malzemesi",
+    "Kirlenmiş Pruning Araçları"
+  ],
+  "management": [
+    "Enfekte şarapları kaldırmak ve yok etmek",
+    "ıslak hava koşullarında",
+    "Yaraları korumak",
+    "Sağlıklı sertifikalı bitki malzemesi kullanın",
+    "Büyük yaralanmalardan kaçının"
+  ],
+  "biological_control": [
+    "Trichoderma tabanlı ürünler yaraları tıraş etmek için kullanılır",
+    "Patolojik kolonizasyonu önlemek için faydalı mantarlar"
+  ],
+  "chemical_control": [
+    "Fonksiyon sonrası koruyucu maddeler yaralandı",
+    "bakır tabanlı koruyucu tedaviler"
+  ],
+  "prevention": [
+    "Disinfektör Pruning Araçları",
+    "Sertifikalı hastalık dışı şaraplar",
+    "Tıraştan hemen sonra yaraları koruyun",
+    "Viyana sanitasyonu sağlamak"
+  ],
+  "source": [
+    "OIV Vine Hastalık Rehberi",
+    "FAO Bitki Hastalıkları Kaynakları",
+    "Bitki Patolojisi Edebiyatı"
+  ]
 }

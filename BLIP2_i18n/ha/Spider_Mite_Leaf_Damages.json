@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "@ item Text character set",
+  "stage": "Zane-Zane",
+  "common_name": "@ item Text character set",
+  "description": "A yau akwai itatuwa da itatuwa da kuma kayan lambu. M. Wa.",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "Masanan taurari ba su kai guda ɗaya ba kuma sun fi ɗaya a cikin jirgin da ke kusa da kai",
+    "Rayuwa a ƙasashe dabam - dabam, yawancin mutane suna zama a gefen hagu, kuma hakan yana iya ɗauke da abubuwa da yawa da ba su dace ba",
+    "Babban kifi yana ba da kayan aiki da muke da su da kuma ' ya'yan itace masu yawa",
+    "Ka nemi ƙarin haske a kan abubuwan da ba su da amfani, wato, karin magana, karan, ka rage ko kuma ka rage abin da kake bukata"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "Wata ' yar'uwa mai suna Erica da ke ɗauke da abubuwan da suke faruwa a duniya, kuma hakan yana sa mutane su ga kamar ba su da amfani sosai.",
+    "Mãsu duhun inuwa.",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye."
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Mãsu aikin wahala ne, mãsu gajiya."
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "Ƙasan ruwa don su guje wa wahala",
+    "Media controller element",
+    "Ka ƙarfafa magabta na jiki su kame kanka",
+    "Ka yi addu'a a kan ruwa ko kuma a ƙarƙashin hanya ta hagu kowace rana idan babu wanda ya fi kusa."
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "Ana amfani da shi sosai a kan ƙananan jiragen ruwa ko kuma na'urar da ake amfani da su a gefen hanya",
+    "Kuma idan rãƙuma mãsu cikunna aka sakẽ su wãwai, bã ga kõwa ba.",
+    "Ka guje wa abubuwan da za su iya sa a kashe magabta na jiki, yadda wannan zai iya jawo jama'a da yawa"
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "Media controller element",
+    "Ana amfani da wasu hanyoyin yin amfani da su a hanyar da ba ta dace ba ko kuma an fi so",
+    "Ka karanta abubuwan da aka rubuta da kyau don ka yi amfani da su da kyau kuma ka yi amfani da su yadda ya dace"
   ]
 }

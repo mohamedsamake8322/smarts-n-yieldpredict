@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
-  "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "disease": "Bean Rost Hakkında",
+  "scientific_name": "Apendikülasyonlar",
+  "pathogen_type": "Fonksiyon",
+  "description": "Bean rust, bean yapraklarını, çamurları ve bazen gövdeleri etkileyen bir mantar hastalığıdır. yaprak yüzeylerinde rust renkli pustüller üretir, bu da fotosentezi azaltır ve yaprakların erken düşmesine ve verim kaybına neden olabilir.",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "Yapraklarda küçük beyaz veya sarı lekeler",
+    "Portakal, kahverengi veya pirinç renkli pustüller yaprak alt kısmında",
+    "Pustüllerden serbest bırakılan toz sporları",
+    "Yaralanmaların etrafında sarımsak",
+    "Birçok enfekte yapraklar kuru ve erken düşer",
+    "Bazen çamur ve gövde üzerinde pustüller"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
-    "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "Ortak Bean",
+    "Böbrek Bean",
+    "Pinto Bean Hakkında",
+    "Siyah Bean",
+    "Snap Bean Hakkında",
+    "5 Bean",
+    "Soya",
+    "Koyun",
+    "Diğer Phaseolus türleri"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "Sıcaklıklar (18-25°C)",
+    "Yüksek nem",
+    "sıklıkla yağış",
+    "Birkaç saat boyunca ıslaklık",
+    "Tohum Tohum Tohum"
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "Rüzgarlı Mantar Spores",
+    "yağmur splash",
+    "Enfekte bitki çöpleri",
+    "Airborne uzun mesafelerde seyahat ediyor"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "Bitki dayanıklı bean çeşitleri",
+    "Ev sahibi olmayan bitkilerle döndürülen bitkiler",
+    "Enfekte bitki kalıntılarını ortadan kaldırmak",
+    "Hava akışı için bitki alanını iyileştirmek",
+    "Yetiştirme mevsiminde erken alanları izlemek"
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "Trichoderma türleri biyolojik fungicid olarak kullanılır",
+    "Bacillus subtilis bazlı biofungicidler"
   ],
   "chemical_control": [
-    "Mancozeb",
+    "Manşet",
     "Chlorothalonil",
-    "Tebuconazole",
-    "Propiconazole",
-    "Azoxystrobin",
-    "Myclobutanil"
+    "Tebuconazol",
+    "Propikonazol",
+    "Azoksitrobin",
+    "Mikrobutanil"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "yoğun bitki yetiştirmekten kaçının",
+    "Yetiştirildikten sonra enfekte bitki çöplerini çıkarın",
+    "dayanıklı yetiştiriciler kullanın",
+    "ıslak hava koşullarında tahılları izlemek"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "CABI Bitki Koruma Ödülü",
+    "FAO Bitki Hastalıkları Yönetimi Kılavuzu",
+    "Üniversite Bitki Patolojisi Genişletme Yayınları"
   ]
 }

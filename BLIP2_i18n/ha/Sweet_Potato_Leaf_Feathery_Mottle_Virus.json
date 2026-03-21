@@ -1,68 +1,122 @@
 {
-  "pest_name": "Sweet Potato Leaf Feathery Mottle Virus",
-  "abbreviation": "SPLFMV",
-  "type": "virus",
-  "history": "SPLFMV is closely related to SPFMV and has been identified worldwide, commonly as part of sweet potato viral disease (SPVD).",
+  "pest_name": "KCharselect unicode block name",
+  "abbreviation": "KCharselect unicode block name",
+  "type": "QFontDatabase",
+  "history": "@ item Text character set",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "Media controller element",
+      "3 SHAFUFFUKA NA 3",
+      "KCharselect unicode block name"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "@ item Text character set",
+        "function": "Mãsu duhun inuwa, mãsu aljannu, mãsu yawa, mãsu tafiya, mãsu ruku'i, mãsu sujada mãsu umurni da alhẽri da mãsu hani daga abin da aka ƙi da mãsu tsarẽwaã ga iyãkõkin Allah."
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "6 KA YI AMFANI DA ABIN DA KA KOYA.",
+        "function": "Wanda ba'a sani ba"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "@ item Spelling dictionary"
+      },
+      {
+        "name": "624",
+        "function": "@ item Text character set"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "Indian National weekday 2 - LongDayName",
+        "function": "KCharselect unicode block name"
+      },
+      {
+        "name": "KCharselect unicode block name",
+        "function": "@ item Text character set"
+      }
+    ],
+    "virion_shape": "Media controller element",
+    "virion_length_nm": "8Wannan shi ne falalar da Allah Ya Yi wa Masu Tawali'u"
   },
   "life_cycle": {
-    "entry": "Mechanical transmission or via aphid stylets piercing leaf tissue",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA in leaf cells",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Media controller element",
+    "replication": "Faranan ya fassara zuwa wani sanannen gini da aka yi amfani da shi",
+    "gene_silencing_suppression": "@ item Text character set",
+    "packaging": "KCharselect unicode block name"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent via stylet tips during leaf feeding",
-    "seed_transmission": "Not transmitted through seeds",
-    "host_range": ["Ipomoea spp.", "Nicotiana spp.", "Chenopodium quinoa", "Datura stramonium"]
+    "vectors": [
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
+    ],
+    "mechanism": "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "seed_transmission": "Ba a fito da shi ta hanyar iri ba",
+    "host_range": [
+      "Ka duba shafuffuka na 12 da na littafin nan \"Ku Tsare Kanku Cikin Ƙaunar Allah. \"",
+      "An buga wani talifi a cikin Littafi Mai Tsarki.",
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name"
+    ]
   },
   "symptoms": {
-    "typical": "Feathery or mottled patterns on leaves, light to dark purple or green",
-    "severe_strains": ["Leaf chlorosis", "Leaf distortion", "Necrotic spots"],
+    "typical": "Raɓa ko kuma karin magana a kan hanya, haske ya yi duhu ko kuma ya yi duhu",
+    "severe_strains": [
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
+    ],
     "co-infections": {
-      "SPVD": "When co-infected with SPCSV, causes stunting, mosaic leaves, reduced yield"
+      "SPVD": "Sa'an nan idan tsõron ya tafi, sai su yi muku miyãgun maganganu da harussa mãsu kaifi, sunã mãsu rõwa a kan dũkiya."
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "keyboard- key- name",
+        "location": "Afirka ta Gabas"
+      },
+      {
+        "name": "keyboard- key- name",
+        "location": "Ostareliya, Afirka, Amirka ta Arewa, Asiya"
+      },
+      {
+        "name": "Shirin Hana Haske",
+        "location": "Afirka, Asiya, Amirka ta Kudu"
+      },
+      {
+        "name": "@ item Spelling dictionary",
+        "location": "Ostareliya, Afirka, Asiya, Amirka ta Kudu"
+      }
     ]
   },
   "agricultural_impact": {
-    "affected_tissues": "Leaf tissues primarily",
-    "yield_loss": "Significant when combined in SPVD; reduces photosynthetic efficiency and plant vigor",
-    "social_impact": "Affects smallholder farmers relying on sweet potato leaves as food and fodder"
+    "affected_tissues": "KCharselect unicode block name",
+    "yield_loss": "Yana da muhimmanci sa'ad da muka yi aiki tare a yankin R'A; mu rage kayan da muke da su kuma mu yi amfani da su",
+    "social_impact": "Masu zane - zane suna dogara ne ga manoma masu kyau da suke samun abinci da kuma kayan ɗaki masu kyau"
   },
   "management": {
-    "early_detection": "Monitor leaf symptoms and confirm via ELISA",
-    "removal": "Rogue infected plants to prevent spread",
+    "early_detection": "Sao'i masu daɗi da kuma ba da tabbaci ta hanyar Wa'azi",
+    "removal": "KCharselect unicode block name",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Maintain vector (aphid) control",
-      "Hygienic pruning and tool sanitation"
+      "KCharselect unicode block name",
+      "Ka Kasance Mai Tawali'u",
+      "KCharselect unicode block name"
     ]
   },
   "references": [
-    "Based on SPFMV research and sweet potato viral disease studies"
+    "Wani bincike mai daɗi da aka yi a kan jami'a ya dangana ga yin nazari da shi"
   ]
 }

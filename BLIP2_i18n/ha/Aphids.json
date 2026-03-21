@@ -1,76 +1,76 @@
 {
- "pest": "Aphids",
- "scientific_name": "Aphididae",
- "description": "Small sap-sucking insects affecting many crops and ornamental plants. Rapid reproduction via telescoping generations allows populations to multiply quickly. Some species alternate between host plants; others are generalists. They produce honeydew, which leads to sooty mold growth. Aphids act as vectors for plant viruses.",
- "life_cycle": [
-  "Asexual reproduction dominates; females give live birth to female nymphs",
-  "Winged females disperse to new plants later in the season",
-  "In temperate regions, sexual reproduction occurs in autumn, overwintering as eggs",
-  "Symbiosis with Buchnera aphidicola provides essential amino acids"
- ],
- "hosts": [
-  "Vegetables, fruits, cereals, legumes, ornamental plants",
-  "Many crops and garden plants"
- ],
- "symptoms_and_damage": [
-  "Stunted growth and leaf curling",
-  "Yellowing or mottling of leaves",
-  "Honeydew deposits on leaves and stems",
-  "Sooty mold growth reducing photosynthesis",
-  "Transmission of plant viruses"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Rainy weather",
-  "Dense plant canopy and stressed plants"
- ],
- "spread": [
-  "Direct contact with infested plants",
-  "Wind-dispersed winged females",
-  "Ants that tend aphids",
-  "Tools, workers, and irrigation water"
- ],
- "natural_enemies": [
-  "Ladybird beetles (e.g., Coccinella septempunctata, Adalia bipunctata)",
-  "Hoverfly larvae",
-  "Parasitic wasps",
-  "Aphid midge larvae",
-  "Green lacewing larvae",
-  "Spiders",
-  "Entomopathogenic fungi (Neozygites fresenii, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii)"
- ],
- "biological_control": [
-  "Release of predatory insects and parasitoids",
-  "Encourage natural enemies in gardens or greenhouses",
-  "Use of fungal biopesticides (Beauveria, Lecanicillium, Metarhizium)"
- ],
- "chemical_control": [
-  "Insecticides are often limited due to resistance (carbamates, organophosphates, pyrethroids)",
-  "Systemic insecticides may not penetrate flowers",
-  "For small infestations: insecticidal soap, strong water jets (contact action only)"
- ],
- "prevention": [
-  "Monitor populations using yellow-pan or Moericke traps",
-  "Avoid excessive nitrogen fertilization to reduce aphid attraction",
-  "Remove infested plant parts promptly",
-  "Encourage mutualistic ants only in controlled environments",
-  "Crop rotation and maintaining plant health"
- ],
- "ant_mutualism": [
-  "Some ants farm aphids for honeydew, protect them from predators",
-  "Ants may carry aphid eggs over winter and return them to plants in spring",
-  "Ant attendance increases honeydew production and affects aphid behavior"
- ],
- "adaptations": [
-  "Woolly or fluffy wax coating for protection",
-  "Soldier morphs in gall-forming species for defense",
-  "Chemical defenses via cornicles (allomones, sticky wax, pheromones)",
-  "Ability to drop off plants to escape predators"
- ],
- "sources": [
-  "Wikipedia – Aphid",
-  "Plant Pest Management Literature",
-  "Integrated Pest Management (IPM) references"
- ]
+  "pest": "KCharselect unicode block name",
+  "scientific_name": "@ item Spelling dictionary",
+  "description": "Wani karin ci na'ura mai kwanan watan da ake amfani da shi sosai ya shafi shuke - shuke da shuke da shuke - shuke masu yawa. Hakan yana sa abubuwa masu yawa su yi girma da sauri.",
+  "life_cycle": [
+    "' Yan mata suna da ' ya'ya mata da yawa; suna da zama ga mace da ba ta dace ba",
+    "Sa'an nan, Ya sanya daga gare shi, nau'i biyu: namiji damace?",
+    "Sa'ad da ake mai da hankali ga batutuwan jima'i, ana soma yin jima'i ne a matsayin ƙwai",
+    "@ item Text character set"
+  ],
+  "hosts": [
+    "Ana iya samun ' ya'yan itace, ' ya'yan itace, zane - zane",
+    "Farã mai dãɗi ga mashãyan."
+  ],
+  "symptoms_and_damage": [
+    "Media controller element",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Ƙari ga haka, ana iya buga takardar da aka saka a ƙasa kuma a soma amfani da shi.",
+    "Media controller element",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Media controller element",
+    "Da shuke-shuke da matsayi mai kyau."
+  ],
+  "spread": [
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Da wasu mãtã mãsu fararen idanu da girmansu.",
+    "Ra'ayin da ba a saurin ganewa ba",
+    "Kayan aiki, da kuma ruwan sama"
+  ],
+  "natural_enemies": [
+    "An yi amfani da shi don a yi amfani da shi wajen kāre ' yan'uwa daga addinin ƙarya.",
+    "QShortcut",
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "@ item Text character set"
+  ],
+  "biological_control": [
+    "KCharselect unicode block name",
+    "Ku ƙarfafa magabta na jiki a gidãjen Aljanna ko'ina",
+    "Ka Yi Amfani da Wadar Zuciya da aka yi amfani da ita a Cikin Littafi Mai Tsarki"
+  ],
+  "chemical_control": [
+    "A yawancin lokaci, mutane suna yin faɗa da juna, wato (mai baƙar magana) a kan abubuwan da ba su dace ba.",
+    "Wataƙila ba za a sami furanni masu yawa a duniya ba",
+    "Ga kaɗan daga cikin abubuwan da suka faru: ruwan sama mai ban sha'awa, mai ban sha'awa."
+  ],
+  "prevention": [
+    "KCharselect unicode block name",
+    "Ka guji yawan shan giya don ka rage sha'awar yin sha'awar banza",
+    "Media controller element",
+    "Ku ƙarfafa zaman jama'a a wurin da kuke da zama",
+    "Mãsu aikin wahala ne, mãsu gajiya."
+  ],
+  "ant_mutualism": [
+    "Wasu gonar noman zuma ne, suna kāre su daga kayan lambu",
+    "Maita yana iya ɗaukan ƙwai a lokacin sanyi kuma ya mayar da su ga shuke - shuke a cikin ruwa",
+    "' Yan'uwa da suka halarci taron suna samun abinci mai daɗi kuma suna kyautata hali mai kyau"
+  ],
+  "adaptations": [
+    "Ana iya yin amfani da na'ura don samun kāriya",
+    "Ana Mai da Tawali'u don a Kāre Shi",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "An kasa fitar da shuke - shuke don su tsira"
+  ],
+  "sources": [
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
+  ]
 }

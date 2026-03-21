@@ -1,0 +1,54 @@
+{
+  "disease": "Panyada X",
+  "scientific_name": "POMI X (HVA)",
+  "pathogen_type": "AGBOR 1 (Bekee)",
+  "description": "Ọrịa nje ndị na - egbu egbu, bụ́ ndị na - ebu nje ndị na - akpata ọrịa, adịghị egbu osisi ahụ kama ọ na - akpata mbibi na - adịgide adịgide ma na - ebelata ọdịdị ahụ́ bụ́ ịgba.",
+  "symptoms": [
+    "Usoro nke na-aka ọtọ n'ahịrị n'akụkụ akwụkwọ",
+    "Akwụkwọ ya nke na - acha akwụkwọ ndụ akwụkwọ ndụ ma ọ bụ akwụkwọ ya na - acha akwụkwọ ndụ akwụkwọ ndụ",
+    "Ọdọ Mmiri Mmiri Ma Ọ Bụ Ihe Dị n'Ime Ya",
+    "Ìhè na - adịghị na ya na ihe ndị na - acha akwụkwọ ndụ akwụkwọ ndụ na - adị n'akwụkwọ osisi",
+    "Ọdịdị akwụkwọ osisi ma ọ bụ akwụkwọ ya na - adịghị mma"
+  ],
+  "hosts": [
+    "Ụdị dị iche iche",
+    "Òtù nzuzo ndị e nwere n'ógbè ahụ"
+  ],
+  "favorable_conditions": [
+    "Ihe ndị na - emebi ihe n'ụzọ na - emebi ihe nye akwụkwọ ma ọ bụ mkpọrọgwụ",
+    "A bịa n'ihe banyere ịdị ọcha mgbe a na - apụnara mmadụ ihe ma ọ bụ na - akụ mkpụrụ osisi",
+    "Iso ndị bu nje HIV na ndị ahụ́ siri ike na - akpachi anya"
+  ],
+  "spread": [
+    "Ihe ndị a na - eme ka a ghara inwekwa ndị na - arụ ọrụ n'ụlọ ọrụ mmepụta ihe",
+    "A na - eji osisi ma ọ bụ mma akọ ya",
+    "Esemokwu nke na - enweghị ihe e ji akpata ya",
+    "Nsogbu dị n'agbata akwụkwọ osisi ndị mebiri emebi",
+    "Ihe ndị e ji akụ osisi bụ́ ndị a pịrị apị"
+  ],
+  "management": [
+    "Wepụ na ibibi akụ́kụ́ ndị bu ọrịa ahụ kpam kpam",
+    "Ekwela ka ihe ọkụkụ ndị nwere nje ndị na - akpata ọrịa nweta",
+    "Ngwá ọrụ ndị e ji arụ ọrụ na ngwá ọrụ ndị e ji arụ ọrụ mgbe e nwesịrị ihe ọkụkụ",
+    "Zere ịkụ ahịhịa ọhụrụ n'ala ruru unyi ruo ma ọ dịkarịa ala afọ 2",
+    "Jiri nje virus mee nnyocha mgbe a na - eche na a na - ebute ọrịa"
+  ],
+  "biological_control": [
+    "Ọ dịghị ihe ndị na - alụso nje HIV ọgụ nwere ugbu a iji gbochie ọrịa ogbu na nkwonkwo nke na - ebibi ihe"
+  ],
+  "chemical_control": [
+    "Ọ dịghị ọgwụ ọ bụla dịnụ maka nje virus ndị dị ka HVO"
+  ],
+  "prevention": [
+    "Jiri usoro idebe ihe ọcha zụrụ akụ́kụ́ ndị sitere n'aka ndị nọọsụ nwere aha ọma na ebe ndị a na - edebe ihe ọcha",
+    "A na - eji nlezianya azụ ihe ndị a kụrụ akụ tupu a zụọ ha",
+    "Osisi ndị ọhụrụ a kụrụ n'ubi ruo ọtụtụ izu",
+    "akụ́kụ́ ndị dị oké ọnụ ahịa bụ́ ndị e merụrụ ahụ́ mgbe a na - arụzi ha",
+    "Na - akwọ aka gị na ngwá ọrụ ndị na - adị n'agbata osisi",
+    "Jiri ọgwụ ndị e ji agwọ ọrịa ndị dị ka ọgwụ ndị e ji egbochi agụụ mmekọahụ mee ihe n'ụzọ na - ezighị ezi bụ́ ndị na - egbochi ịkpọasị ma ọ bụ ọgwụ mgbochi afọ ime"
+  ],
+  "source": [
+    "Ndị na - ahụ maka ọrịa na - efe efe na - enye nduzi n'ihe banyere otú a ga - esi na - achịkwa ya",
+    "Ihe ndị a kụrụ na mahadum na - eme ka ego a na - enweta na ha na - arị elu"
+  ]
+}

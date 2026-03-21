@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "Mji wa Esca",
+  "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
+  "pathogen_type": "Fungus (Mchakato wa Ugonjwa wa Wood Decay)",
+  "description": "Esca ni ugonjwa wa haraka wa grapevines ambayo huathiri viungo vya nyama na kupunguza nguvu ya viungo. Hii huathiri uharibifu wa nyama, uharibifu wa nyama, na mauti ya haraka ya viungo katika kesi mbaya.",
+  "symptoms": [
+    "Maonyesho ya nyekundu na nyekundu ya tiger-stripe juu ya karatasi",
+    "Mafuta ya kuharibu na kuharibu kutoka kwa margins",
+    "Kupunguza uzalishaji wa mazao na shinikizo ndogo",
+    "Mti wa dhahabu ndani ya trunk wood",
+    "White spongy rot ndani ya trunk",
+    "Uharibifu wa haraka au kifo cha wanyama (apoplexy)"
+  ],
+  "hosts": [
+    "Maua ya mimea (Vitis vinifera)",
+    "Mchakato wa Msalaba",
+    "Maji ya wino",
+    "aina ya Wild Vitis"
+  ],
+  "favorable_conditions": [
+    "Vifaa vya zamani",
+    "Maumivu ya maumivu ambayo inakuwezesha kuingia",
+    "Hali ya hewa wakati wa msimu wa ukuaji",
+    "Ukosefu wa ukosefu wa salama"
+  ],
+  "spread": [
+    "Fungal spores kuingia kwa njia ya maumivu maumivu",
+    "Matumizi ya Matumizi ya Matumizi ya Matumizi ya Matumizi",
+    "Utengenezaji wa vifaa vya kuvutia"
+  ],
+  "management": [
+    "Kuondoa na kuharibu viungo vya kuvutia",
+    "Mwisho wakati wa hali ya hewa",
+    "Kuhifadhi maumivu ya maumivu",
+    "Matumizi ya mazao ya afya ya kuaminika",
+    "Kuepuka majeruhi makubwa"
+  ],
+  "biological_control": [
+    "Bidhaa za Trichoderma zilizotumika kwa kuzuia maumivu",
+    "Fungi za faida za kuzuia utamaduni wa patogen"
+  ],
+  "chemical_control": [
+    "Maumivu ya kulinda fungicides baada ya kupumzika",
+    "Matibabu ya kulinda kwa msingi wa baku"
+  ],
+  "prevention": [
+    "Matumizi ya Disinfect Pruning",
+    "Tumia vitini zisizo na magonjwa",
+    "Kuhifadhi maumivu ya maumivu mara moja baada ya maumivu",
+    "Uhifadhi wa maji ya wanyama"
+  ],
+  "source": [
+    "Matibabu ya ugonjwa wa OIV Vine",
+    "Nguvu za ugonjwa wa mazao ya FAO",
+    "Matibabu ya Matibabu ya Matibabu"
+  ]
 }

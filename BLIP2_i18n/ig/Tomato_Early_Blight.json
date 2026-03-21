@@ -1,0 +1,72 @@
+{
+  "disease_name": "Ihe Ndị Na - enye Ìhè n'Oge Gara Aga",
+  "causal_agent": "E nwere otu nwa agbọghọ aha ya bụ Tanyaaada so ná ndị na - efe chi ụgha.",
+  "other_agents": [
+    "Mkpụrụ ndụ ndị a na - akpọ tomato nke nwere ihe dị iche iche na - eme ka ahụ́ na - adị mmadụ mma"
+  ],
+  "type": "Ihe ndị e ji atụrụ ndụ",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L.",
+      "OTA 9 (Bekee)"
+    ],
+    "secondary": [
+      "M ga - eji ya na - eme ihe ga - abara naanị m uru.",
+      "Mmiri na - esi ísì ọma na ose ndị na - esi ísì ọma."
+    ],
+    "weeds": [
+      "N'abalị mbụ n'ọnwa iri na anọ n'afọ 2000, otu ụlọ ọrụ na - ebipụta akwụkwọ akụkọ kwuru na ndị na - arụ ọrụ n'ebe a na - anọ amụ ihe n'ebe a na - anọ amụ ihe n'ebe a na - anọ amụ ihe n'Ịntanet"
+    ]
+  },
+  "distribution": "Gburugburu ụwa; nsogbu dị n'ebe ọwụwa anyanwụ nke Ugwu Rocky na etiti USA maka tomato; ihe a na - ahụkarị n'ógbè ndị dịpụrụ adịpụ",
+  "symptoms": {
+    "tomato": [
+      "Ihe ndị e ji esiji ákwà bụ́ ndị dị n'akwụkwọ ndị merela ochie, bụ́ ndị na - acha nchara nchara, na - adị ihe ruru sentimita iri abụọ na ise n'anya",
+      "Ime ka akwụkwọ osisi ma ọ bụ ihe na - esi ísì ụtọ dịrị gburugburu ebe akwụkwọ osisi dị iche iche",
+      "Anwụ na - acha, anwụ na - acha, anwụ ana - acha, anwụ ana - acha, anwụ ana - achakwa nke ọma.",
+      "Mkpụrụ osisi na - agbawa n'ala ala obi ma ọ bụ n'ebe ọnyá dị iche iche, bụ́ ndị nwere ihe ndị na - acha nchara nchara, bụ́ ndị nwere ihe ndị na - eme ka ha na - egbuke egbuke",
+      "Mkpụrụ akụ́kụ́: mkpịsị aka na - ere ere (ihe ndị e ji agwọ ọrịa), ọnwụ"
+    ],
+    "potato": [
+      "Ihe ndị na - acha nchara nchara bụ́ ndị dị n'akwụkwọ ndị meworo ochie",
+      "Itozu okè n'ụzọ na - eme ka e nwee ike ibelata ọ̀tụ̀tụ̀ shuga dị n'ahụ́ gị",
+      "Ebe ndị a na - edebe ihe ọmụma n'Intanet na n'Ụzọ Na - adịghị Ize Ndụ",
+      "Ihe ndị e ji esiji akpụkpọ anụ bụ́ ndị na - acha nchara nchara: ọkọchị, ọchịchịrị, bụ́ ndị a na - etinye n'ime ala; n'okpuru ahụ́ kpọrọ nkụ, n'okpuru akpụkpọ ahụ́ kpọrọ nkụ, n'okpuru akpụkpọ ahụ́, n'akpụkpọ ahụ́ nakwa n'akpụkpọ ahụ́; pụrụ ịmụba ihe mgbe a na - echekwa ha"
+    ]
+  },
+  "life_cycle": {
+    "type": "N'ezie, a na - eji ya eme ihe n'ụzọ na - ezighị ezi",
+    "overwintering": "Osisi ndị na - esi ísì ọma ma ọ bụ ahịhịa ndị na - esi ísì ọma",
+    "infection": "Mkpụrụ ndụ ihe nketa, nke a rụpụtara n'oge opupu ihe ubi, ma ọ bụ n'oge ifufe, ma ọ bụ n'oge ifufe, n'ihi ọnyá, n'ihi ihe mgbu, n'oge opupu ihe ubi, n'oge opupu ihe ubi, ma ọ bụ n'oge mgbụsị akwụkwọ",
+    "spread": "Akụkụ ọzọ nke osisi ma ọ bụ ihe ọkụkụ ndị agbata obi ha n'otu oge ahụ"
+  },
+  "pathogen_type": "Ihe Ndị Na - enye Aka n'Ahụ́",
+  "cultural_control": [
+    "E nwere ụmụ irighiri ihe ndị nwere nje ndị na - akpata ọrịa bụ́ ndị na - adị n'ime ala iji belata ọ̀tụ̀tụ̀ ikpo ọkụ nke mmiri ọgwụ ahụ́",
+    "Mmiri na - ezo n'ụtụtụ iji belata akwụkwọ osisi",
+    "Jiri ụzọ ịgba mmiri ara ehi mee ihe",
+    "Tinye ihe na - adịghị mma n'ime ala ka ala ghara isi ike",
+    "Tinyere mkpụrụ akụ́kụ́ na-enweghị isi ruo afọ atọ",
+    "N'ebe dị nso n'ubi",
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide òtù nzuzo",
+    "Mmụba ikuku na - amụba n'ike n'ike na mpagharauhie ndị ahụ",
+    "Mmiri na - ezonụ na - ezo nke ọma n'ala ndị na - ekpo ọkụ, ndị na - ekpokwa ọkụ"
+  ],
+  "chemical_control": [
+    "Azisilabn (Nooo myide)",
+    "Pyrecrorob",
+    "Mkpụrụ ndụ ihe nketa",
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Ihe ndị a na-amaghị́ọ̀fụ̀",
+    "Hyrorogen dioxide (Hyerrrrrtel)",
+    "Macoze",
+    "Ọrịa ogbu na nkwonkwo nke Na - ebibi Ihe",
+    "Ziram"
+  ],
+  "notes_on_resistance": "Ihe e ji amata mkpụrụ ndụ ndị dị n'ime ha bụ mkpụrụ ndụ nke mkpụrụ ndụ ndị dị n'ime ala, bụ́ nke mkpụrụ ndụ ndị dị n'ime ala, bụ́ ndị e si na ya nweta, bụ́ nke e ji eme ihe maka ya.",
+  "references": [
+    "Gịnị ka anyị ga - eme ma ọ bụrụ na anyị chọrọ ka Jehova nyere anyị aka?",
+    "Gịnị ka anyị ga - eme ma ọ bụrụ na anyị chọrọ ka anyị na ha na - adị ná mma?",
+    ". . . . .10/R. . ."
+  ]
+}

@@ -1,50 +1,50 @@
 {
-  "disease": "Lettuce Chlorosis Virus (LCV)",
-  "scientific_name": "Lettuce chlorosis virus",
-  "pathogen_type": "Virus (ssRNA, Crinivirus)",
-  "description": "A viral disease affecting lettuce and other crops, causing yellowing, reddening, and curling of leaves, stunted growth, and reduced yield. Transmitted by whiteflies and contaminated plant material.",
+  "disease": "Virus de la chlorose de la laitue (VLC)",
+  "scientific_name": "Virus de la chlorose de la laitue",
+  "pathogen_type": "Virus (ARNs, Crinivirus)",
+  "description": "Une maladie virale qui affecte la laitue et d'autres cultures, provoquant le jaunissement, le rougissement et le curling des feuilles, un retard de croissance et un rendement réduit.",
   "symptoms": [
-    "Yellowing and reddening of leaves",
-    "Curling of leaves",
-    "Thinning of leaf veins",
-    "Stunted or dwarf plants",
-    "Reduced yield and flower quality"
+    "Jaune et rougeur des feuilles",
+    "Curling des feuilles",
+    "Rincement des nervures des feuilles",
+    "Plantes stupéfiantes ou naines",
+    "Réduction du rendement et de la qualité des fleurs"
   ],
   "hosts": [
-    "Lettuce",
-    "Beetroot",
-    "More than 27 plant species in 12 botanical families"
+    "Laitue",
+    "Racines de betteraves",
+    "Plus de 27 espèces végétales dans 12 familles botaniques"
   ],
   "favorable_conditions": [
-    "Presence of virulent weed hosts near crops (e.g., Physalis wrightii, Conyza canadensis, Lactuca serriola)",
-    "High whitefly populations",
-    "Greenhouse or field cultivation with poor pest control"
+    "Présence d'hôtes de mauvaises herbes virulentes près des cultures (p. ex. Physalis wrightii, Conyza canadensis, Lactuca serriola)",
+    "Populations élevées de mouches blanches",
+    "Culture de serre ou de champ avec une mauvaise lutte antiparasitaire"
   ],
   "spread": [
-    "Feeding by greenhouse whiteflies (Bemisia tabaci and Bemisia argentifolii)",
-    "Infected seeds, cuttings, or other plant material",
-    "Contaminated tools and equipment"
+    "Nourrir par des mouches blanches de serre (Bemisia tabaci et Bemisia argentifolii)",
+    "Graines, boutures ou autres matériels végétaux infectés",
+    "Outils et équipements contaminés"
   ],
   "management": [
-    "Remove and destroy infected plants",
-    "Monitor and control whitefly populations",
-    "Use virus-free seeds and cuttings",
-    "Maintain good hygiene and sanitation of tools",
-    "Remove weeds that act as reservoirs"
+    "Enlever et détruire les plantes infectées",
+    "Surveiller et contrôler les populations de mouches blanches",
+    "Utiliser des semences et des boutures sans virus",
+    "Maintenir une bonne hygiène et l'assainissement des outils",
+    "Enlever les mauvaises herbes qui agissent comme des réservoirs"
   ],
   "chemical_control": [
-    "Insecticides targeting whiteflies (e.g., imidacloprid, pyrethroids)",
-    "Neem oil or insecticidal soap sprays as preventive measures"
+    "Insecticides ciblant les mouches blanches (p. ex. imidacloprid, pyréthroïdes)",
+    "L'huile de neem ou les sprays de savon insecticides comme mesures préventives"
   ],
   "prevention": [
-    "Use certified virus-free planting material",
-    "Isolate new plants from infected areas",
-    "Control weed hosts in and around fields",
-    "Regular monitoring for whiteflies"
+    "Utiliser du matériel de plantation certifié exempt de virus",
+    "Isoler de nouvelles plantes des zones infectées",
+    "Contrôle des hôtes de mauvaises herbes dans et autour des champs",
+    "Surveillance régulière des mouches blanches"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Virus Factsheets",
-    "Scientific literature on Criniviruses"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Fiches d'information de la FAO sur le virus des plantes",
+    "Publications scientifiques sur les crinivirus"
   ]
 }

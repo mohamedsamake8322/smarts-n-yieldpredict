@@ -1,65 +1,65 @@
 {
-  "disease_name": "Wheat Leaf Streak Mosaic Virus",
-  "abbreviation": "WSMV",
-  "pathogen_type": "Virus",
-  "family": "Potyviridae",
-  "genus": "Tritimovirus",
+  "disease_name": "فيروس نقص المناعة البشرية/متلازمة نقص المناعة المكتسب (الإيدز)",
+  "abbreviation": "سابعاً",
+  "pathogen_type": "من نوع نوع نوع",
+  "family": "مريديد",
+  "genus": "Tritimo",
   "hosts": [
-    "Wheat (Triticum spp.)",
-    "Corn (Zea mays)",
-    "Rye (Secale spp.)",
-    "Oats (Avena spp.)",
-    "Barley (Hordeum spp.)",
-    "Sorghum",
-    "Millet",
-    "Some grassy weeds"
+    "(Trititium spp.)",
+    "الكورنة (الزئز)",
+    "راي (السيل Spp.)",
+    "الشاطات (Avena spp.)",
+    "(Hordeum spp.)",
+    "سُرْج هوجم",
+    "المققدم",
+    "بعض المروجات"
   ],
-  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "distribution": "على الصعيد العالمي؛ وهي الغالبة في السهول الكبرى (الولايات المتحدة الأمريكية)، وأستراليا، ومعظم مناطق زراعة القمح",
   "vector": {
-    "name": "Wheat curl mite",
-    "scientific_name": "Aceria tosichella",
-    "transmission_type": "semi-persistent",
-    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+    "name": "مُجَضْت",
+    "scientific_name": "من الـ إلى",
+    "transmission_type": "شبه",
+    "notes": "الميزات هي حشرات بطيئة ، تُنثر بشكل رئيسي بالرياح ، ويمكن ان تنقل الفيروس بين القمح والذرة"
   },
   "symptoms": [
-    "Streaks of yellowed, non-uniform discoloration on leaves",
-    "Stunted growth",
-    "Severe infections can cause 100% crop loss",
-    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+    "سطور للتغير في لون الأوراق من غير أصفر أو شكلي أو غير شكلي",
+    "النمو المتوقع",
+    "يمكن أن تتسبب الإصابات الخطيرة في فقدان المحاصيل بنسبة 100 في المائة",
+    "أكثر حدة في كثير من الأحيان عندما تحدث التهابات تآزرية مع الفيروس الفسيفسيفسائي أو فيروس السهول العالية"
   ],
   "disease_cycle": [
-    "Virus overwinters in grasses and cereal crops and in infected seeds",
-    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
-    "Mites depend on wind to move between plants and fields",
-    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
-    "Multiple generations of mites per season can amplify spread"
+    ":: أكثر من المضار في الأعشاب ومحاصيل الحبوب وفي البذور المُصابة",
+    "تُقتنِجُ مَلَكاتُ الجَوْحِيّةُ الحَيَّةُ فيروساً مِنْ النباتاتِ المصابة وتُنَقِلُه إلى النباتات الصحية.",
+    "تعتمد الميزات على الرياح للتحرك بين النباتات والحقول",
+    "يُستخدم القمح الطّاع والأعشاب العشبية كمستودعات لكل من العلث والفيروس",
+    "من الممكن أن تنتشر أجيال متعددة من العث في كل موسم"
   ],
   "conditions_for_development": [
-    "Warm weather favors mite reproduction and virus transmission",
-    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
-    "Early planting increases risk due to longer exposure to mites"
+    "الأرصاد الجوية الدافئة الدافئة التي تفضل تكاثر العُض وانتقال فيروس نقص المناعة البشرية",
+    "توافر قمح التطوع أو الاستضافة العشبية المتطوعة يزيد من انتشار الأمراض",
+    "زيادة مخاطر الزرع المبكر بسبب التعرض لمدة أطول إلى العجّزات"
   ],
   "management": {
     "cultural": [
-      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
-      "Avoid early planting to reduce exposure to mites",
-      "Select wheat varieties with lower susceptibility to WSMV"
+      "تدمير القمح التطوعي قبل أسبوعين على الأقل من زرع قمح شتاء جديد",
+      "تجنب الغرس المبكر للحد من التعرض للأعراف",
+      "انتقِ أنواعاً من القمح مع تعرض أقل لWSMV"
     ],
     "chemical": [
-      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+      "مبيدات الآفات غير فعالة في مكافحة حشرة تجويض القمح لمكافحة انتشار الفيروسات"
     ],
     "resistance": [
-      "Use resistant/tolerant wheat cultivars where available",
-      "Research on RNAi-based resistance is ongoing"
+      "استخدامات مقاوم/مقاومات للقمح المستنبت حيثما توافرت",
+      "يجري حالياً بحوث بشأن المقاومة القائمة على أساس الرناي RNAi"
     ]
   },
   "impact": [
-    "Yield losses can reach up to 100% in susceptible varieties",
-    "Co-infection with other viruses can exacerbate damage"
+    "يمكن أن تصل الخسائر التي يمكن أن تُدفع إلى نسبة 100 في المائة في الأصناف المعرضة",
+    "يمكن أن يؤدي التلازم مع فيروسات أخرى إلى تفاقم الضرر"
   ],
   "references": [
-    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
-    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
-    "USDA-ARS research on WSMV and vector biology."
+    "Severs DL et al., 2002 فيروس الفسيفساسي: نظرة عامة. الأمراض النباتية 86: 781-790.",
+    "Martines et al., 2019, Wetcular mit-فيروس التفاعلات.",
+    "(ج) إجراء بحوث في وكالة الولايات المتحدة الأمريكية للاستشعار عن بُعد في مجال علم السفن والبيولوجيا الناقلة."
   ]
 }

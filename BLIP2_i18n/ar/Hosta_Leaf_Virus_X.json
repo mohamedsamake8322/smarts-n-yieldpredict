@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "مقدمــة",
+  "scientific_name": "(HVX)",
+  "pathogen_type": "من نوع نوع نوع",
+  "description": "المرض الفيروسي الذي يصيب النباتات، لا يقتل النبات، بل يسبب ضرراً دائماً في أوراق الأشجار، ويقلل من جودة الزينة، وما أن تصاب بالنبات، فإنها تظل مصابة مدى الحياة.",
+  "symptoms": [
+    "النمط المائل من الحبر على طول أروقة البر",
+    "معطّل أو معطّق ورقة معرّر",
+    "مُنْكِن أو مضغوط",
+    "الضوء غير العادي والأنماط الخضراء الداكنة على الأوراق",
+    "المظهر المُحلَّي أو المُصحِي لأوراق الزوَّام"
+  ],
+  "hosts": [
+    "نوع الجنس",
+    "المجموع الفرعي(أ)"
+  ],
+  "favorable_conditions": [
+    "التلف الميكانيكي للأوراق أو الجذر",
+    "مرافق الصرف الصحي أثناء التقطيع أو سوء تقسيم النبتات",
+    "الاتصال الوثيق بين النباتات المصابة والنباتات الصحية"
+  ],
+  "spread": [
+    "تحويل المُرْكِب إلى نقل",
+    "أدوات أو سكاكين التقطيع الملوّث",
+    "قسمة النباتات دون تطهير",
+    "الاتصال بين ورقي التالف",
+    "مواد الزرع المُعدية"
+  ],
+  "management": [
+    "(أ) ما يلي:",
+    "عدم تنفيذ مواد نباتية محدثة",
+    "أدوات ومعدات التعقيم بعد المناولة",
+    "تجنب زرع مساكن جديدة في التربة الملوثة لمدة سنتين على الأقل",
+    "استخدام مجموعات أدوات اختبار الفيروسات عند الاشتباه في الإصابة"
+  ],
+  "biological_control": [
+    "لا توجد مراقبة بيولوجية متاحة حالياً للHVX"
+  ],
+  "chemical_control": [
+    "لا يوجد علاج كيميائي للفيروسات النباتية مثل HVX"
+  ],
+  "prevention": [
+    "شراء نباتات من مشاتل ذات سمعة حسنة مع بروتوكولات للصرف الصحي",
+    "قبل الشراء بعناية قبل الشراء",
+    "إقامة مصانع جديدة لمضيفات الحجر الصحي لعدة أسابيع",
+    "عدد الحالات المصغرة خلال فترة الصيانة",
+    "- تفاضل الأيدي وأدوات التطهير بين النباتات",
+    "استخدام حلول مطهرة مثل فوسفات ثلاثي الصوديوم أو المعالجات المختبرية"
+  ],
+  "source": [
+    "أدلة إدارة أمراض الحضانة",
+    "موارد التوفير"
+  ]
 }

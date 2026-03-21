@@ -1,0 +1,209 @@
+{
+  "pest_name": "Mite Rojo Sur",
+  "scientific_name": "Oligonychus ilicis",
+  "common_abbreviation": "SRM",
+  "description": "El ácaro rojo del sur es una plaga de ácaro araña registrada en una amplia gama de plantas incluyendo camelia, rododendro, acebo y café. Los individuos tienden a habitar la hoja superior. La resistencia a los plaguicidas se ha reportado en el extranjero, y los depredadores ácaros típicos de dos manchas son ineficaces contra el SRM.",
+  "appearance": {
+    "size": "< 0,5 mm",
+    "color": "De color marrón rojizo a rojo purpúreo profundo, a veces con un parche central pálido y patas más ligeras",
+    "sexual_dimorphism": "Las hembras ligeramente más grandes, redondeadas hacia atrás; los machos delgados y pálidos",
+    "eggs": "Marrón rojizo, esférico; normalmente en la superficie superior de la hoja, huevos sobreinvernantes principalmente en la superficie inferior de la hoja"
+  },
+  "life_cycle": {
+    "stages": [
+      "Huevo",
+      "larva (6 patas)",
+      "ninfa1 (8 patas)",
+      "ninfa2 (8 patas)",
+      "adulto"
+    ],
+    "generation_time": "7 días en condiciones favorables",
+    "population_peaks": "Primavera y otoño (temperaturas moderadas 15–30°C, condiciones de secado)",
+    "overwintering": "Huevos en la superficie de la hoja inferior y a veces corteza"
+  },
+  "dispersal": [
+    "Viento; puede colgar de hilos de seda",
+    "Senderismo en personas y equipos",
+    "Extenderse tocando las hojas"
+  ],
+  "host_range": [
+    {
+      "common_name": "Azalea",
+      "scientific_name": "Rhododendron spp."
+    },
+    {
+      "common_name": "Camelias",
+      "scientific_name": "Camelia japonica"
+    },
+    {
+      "common_name": "Sycamore americano",
+      "scientific_name": "Platanus occidentalis"
+    },
+    {
+      "common_name": "Madera de Boxwood",
+      "scientific_name": "Buxus spp."
+    },
+    {
+      "common_name": "Árbol del alcanfor",
+      "scientific_name": "Cinnamonum camphora"
+    },
+    {
+      "common_name": "Café",
+      "scientific_name": "Coffea arábica"
+    },
+    {
+      "common_name": "Cotoneaster",
+      "scientific_name": "Cotoneaster sp."
+    },
+    {
+      "common_name": "Arándanos",
+      "scientific_name": "Macrocarpon de vaccinio"
+    },
+    {
+      "common_name": "Ciervo",
+      "scientific_name": "Rhexia sp."
+    },
+    {
+      "common_name": "Dogobble",
+      "scientific_name": "Leucothoe sp."
+    },
+    {
+      "common_name": "Elaeagnus/silverthorn",
+      "scientific_name": "Elaeagnus pungens"
+    },
+    {
+      "common_name": "Nuez inglesa",
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "common_name": "Eucalipto",
+      "scientific_name": "Eucalyptus spp."
+    },
+    {
+      "common_name": "Guayabas",
+      "scientific_name": "Psidium guajava"
+    },
+    {
+      "common_name": "Holly",
+      "scientific_name": "Ilex spp."
+    },
+    {
+      "common_name": "Hibisco",
+      "scientific_name": "Hibiscus spp."
+    },
+    {
+      "common_name": "Enebro",
+      "scientific_name": "Juniperus sp."
+    },
+    {
+      "common_name": "Hoja de laurel o de laurel",
+      "scientific_name": "Laurus nobilis"
+    },
+    {
+      "common_name": "Loquat",
+      "scientific_name": "Eriobotrya japonica"
+    },
+    {
+      "common_name": "Roble",
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "common_name": "Pera",
+      "scientific_name": "Pyrus communis"
+    },
+    {
+      "common_name": "Nueces de nuez",
+      "scientific_name": "Carya illinoensis"
+    },
+    {
+      "common_name": "Fotinia/punta roja",
+      "scientific_name": "Photinia spp."
+    },
+    {
+      "common_name": "Pyracantha",
+      "scientific_name": "Pyracantha coccinea"
+    },
+    {
+      "common_name": "Rosal",
+      "scientific_name": "Jambos de sicigium"
+    },
+    {
+      "common_name": "Roble sedoso",
+      "scientific_name": "Grevillea robusta"
+    },
+    {
+      "common_name": "Abeto",
+      "scientific_name": "Picea sp."
+    },
+    {
+      "common_name": "Summersweet",
+      "scientific_name": "Clethra alnifolia"
+    },
+    {
+      "common_name": "Fresa",
+      "scientific_name": "Fragaria x ananassa"
+    },
+    {
+      "common_name": "Té",
+      "scientific_name": "Camellia sinensis"
+    },
+    {
+      "common_name": "Viburnum",
+      "scientific_name": "Viburnum spp."
+    },
+    {
+      "common_name": "Oxalis",
+      "scientific_name": "Oxalis"
+    },
+    {
+      "common_name": "Laurel de oveja",
+      "scientific_name": "Kalmia angustifolia"
+    },
+    {
+      "common_name": "Arándanos",
+      "scientific_name": "Prunus virginiana"
+    },
+    {
+      "common_name": "Hoja de cuero",
+      "scientific_name": "Chamaedaphne calyculata"
+    },
+    {
+      "common_name": "Nuez de nogal",
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "common_name": "Arroz",
+      "scientific_name": "Oryza sativa"
+    }
+  ],
+  "damage_symptoms": [
+    "Alimentarse de las hojas superiores causa colapso de la mesofila, en gris y punzón",
+    "Hojas pierden brillo, aparecen bronceadas o aburridas",
+    "La bronca comienza a lo largo de la costilla media y las venas, eventualmente cubriendo toda la hoja",
+    "Grandes poblaciones causan caídas de hojas severas",
+    "Reducción del vigor y crecimiento de las plantas, en particular en las plantas secas o con esfuerzo de agua"
+  ],
+  "detection_monitoring": [
+    "Observación visual directa de daños, ácaros vivos y pieles de desecho",
+    "Lente de mano para confirmación",
+    "Latido de la planta en bandeja (blanco/negro) para poblaciones bajas",
+    "Observación de huevos rojos en plantas hospedadoras"
+  ],
+  "chemical_control": [
+    "Plaguicidas de generación más antigua utilizados históricamente",
+    "Aldicarb, bifentrina, clorpirifos, dicofol, ometoato, propargita, tau-fluvalinato, tebufenpirad eficaz bajo ciertas condiciones",
+    "Abamectina, clorfenapir, dimetoato, óxido de fenbutatina, maldison no siempre eficaz",
+    "Aplicaciones tardías menos eficaces; aplicación temprana cuando poblaciones bajas recomendadas"
+  ],
+  "biological_control": [
+    "Ácaros depredadores (Neoseiulus fallacis) y ladybeetle (Stethorus punctillum) eficaces en el extranjero",
+    "Depredadores como Neoseiulus californicus y Phytoseiulus persimilis no recomendados para SRM",
+    "La conservación de los depredadores naturales puede ayudar a reducir las poblaciones"
+  ],
+  "notes": [
+    "SRM prefiere la superficie superior de la hoja, se mueve más abajo a medida que aumentan las poblaciones",
+    "Poblaciones pico en temperatura moderada y condiciones secas",
+    "Las altas precipitaciones reducen las poblaciones",
+    "Los depredadores comerciales australianos no han sido probados contra SRM"
+  ]
+}

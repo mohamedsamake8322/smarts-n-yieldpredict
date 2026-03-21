@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "Infestation des boreaux du Rhododendron",
+  "scientific_name": "Oberea myops",
+  "pathogen_type": "Insecte nuisible (bête)",
+  "description": "L'agrile du Rhododendron est un dendroctone dont les larves portaient à l'intérieur des tiges de la plante. Les larves traversent les tiges, perturbant l'eau et l'écoulement des nutriments, ce qui provoque le flétrissement et la mort des branches.",
+  "symptoms": [
+    "Feuilles en flétrissement ou en flétrissement sur les branches individuelles",
+    "Diète soudaine des tiges",
+    "Petits trous sur les tiges où les adultes pondent des œufs",
+    "Frass (matériel ressemblant à de la sciure) près des trous",
+    "Les tiges deviennent creuses ou affaiblies",
+    "Branches brisées ou mourantes"
+  ],
+  "hosts": [
+    "Rhododendron",
+    "Azalea",
+    "Autres arbustes ornementaux Ericaceae"
+  ],
+  "favorable_conditions": [
+    "Présence de coléoptères adultes au printemps et en été",
+    "Plantes à tiges tendres adaptées à la ponte d'œufs",
+    "Jardins ou paysages avec plantes hôtes sensibles"
+  ],
+  "spread": [
+    "Les coléoptères adultes pondent des œufs à l'intérieur des tiges de la plante",
+    "Les larves se développent à l'intérieur des tiges et des branches",
+    "Mouvement de matériel végétal infesté"
+  ],
+  "impact": [
+    "Dieback des branches",
+    "Réduction de la vigueur des plantes",
+    "Des infestations graves peuvent tuer des arbustes ornementaux"
+  ],
+  "cultural_control": [
+    "Inspecter régulièrement les tiges pour les trous de ponte",
+    "Prunez et détruisez les tiges infestées",
+    "Maintenir la santé des végétaux pour réduire la susceptibilité"
+  ],
+  "biological_control": [
+    "Encourager les prédateurs naturels tels que les oiseaux ou les insectes parasites"
+  ],
+  "chemical_control": [
+    "Appliquer des insecticides systémiques lorsque les infestations sont graves",
+    "Cibler les coléoptères adultes pendant la période de ponte"
+  ],
+  "prevention": [
+    "Surveillance régulière pendant la saison de croissance",
+    "Enlever et détruire les tiges infectées tôt",
+    "Éviter de planter des pépinières fortement infestées"
+  ],
+  "source": [
+    "Références en matière de lutte phytosanitaire",
+    "Guides d'extension sur les rhododendrons nuisibles"
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "disease": "Virus de Hosta X",
+  "scientific_name": "Virus X de Hosta (HVX)",
+  "pathogen_type": "Virus",
+  "description": "Una enfermedad viral que infecta a las plantas de hosta. No mata a la planta sino que causa daño permanente a las hojas y reduce la calidad ornamental. Una vez infectada, la planta permanece infectada de por vida.",
+  "symptoms": [
+    "Patrón de sangrado de tinta a lo largo de las venas de las hojas",
+    "Decoloración de la hoja moteada o irregular",
+    "Tejido de hoja hundido o comprimido",
+    "Patrones de luz irregular y verde oscuro en las hojas",
+    "Apariencia de hoja distorsionada o malsana"
+  ],
+  "hosts": [
+    "Especie de Hosta",
+    "Cultivadores ornamentales de hosta"
+  ],
+  "favorable_conditions": [
+    "Daño mecánico a las hojas o raíces",
+    "Mal saneamiento durante la poda o la división de plantas",
+    "Contacto estrecho entre plantas infectadas y sanas"
+  ],
+  "spread": [
+    "Transferencia de savia vegetal",
+    "Herramientas o cuchillos de podar contaminados",
+    "División de plantas sin desinfección",
+    "Contacto entre hojas dañadas",
+    "Material de plantación infectado"
+  ],
+  "management": [
+    "Retire y destruya las plantas infectadas por completo",
+    "No compostar el material vegetal infectado",
+    "Desinfectar herramientas y equipos después de manipular las plantas",
+    "Evite plantar nuevas hostas en suelo contaminado durante al menos 2 años",
+    "Use kits de pruebas de virus cuando se sospeche infección"
+  ],
+  "biological_control": [
+    "No se dispone actualmente de ningún control biológico para el HVX"
+  ],
+  "chemical_control": [
+    "No se dispone de tratamiento químico para virus vegetales como HVX"
+  ],
+  "prevention": [
+    "Comprar plantas de viveros de buena reputación con protocolos de saneamiento",
+    "Inspeccione cuidadosamente las plantas antes de comprarlas",
+    "Cuarentena nuevas plantas de hosta durante varias semanas",
+    "Minimizar la herida de la planta durante el mantenimiento",
+    "Lavar las manos y desinfectar las herramientas entre las plantas",
+    "Utilizar soluciones desinfectantes como fosfato trisódico o detergentes de laboratorio"
+  ],
+  "source": [
+    "Guías de manejo de enfermedades infantiles de Hosta",
+    "Recursos de extensión de patología vegetal universitaria"
+  ]
+}

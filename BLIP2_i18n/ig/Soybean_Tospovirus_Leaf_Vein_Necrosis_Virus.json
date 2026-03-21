@@ -1,0 +1,57 @@
+{
+  "pest_name": "Ihe Ndị Na - eme Ka Ahụ́ Ruo Onye Ọ Bụla Ala",
+  "scientific_name": "Nje na - akpata ọrịa ogbu na nkwonkwo nke na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+  "common_name": "Mkpụrụ Ndụ Ihe Nketa Na - enye Ume Ọhụrụ nke Na - agwọ Ọrịa",
+  "description": "Nje bacteria ndị na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi, bụ́ ndị na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi, bụ nje na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi, nke na - emekwa ka mkpụrụ akụ́kụ́ ghara ịdị ike ma na - ebelata ikike na ọdịdị mkpụrụ akụ́kụ́.",
+  "distribution": "N'ụzọ bụ́ isi, a kọrọ na United States, karịsịa n'ógbè ndị dịpụrụ adịpụ.",
+  "host_range": {
+    "primary_host": "Gaccli (srun)",
+    "other_hosts": "A pụrụ inwe ụdị anụmanụ ndị ọzọ na - adịghị ize ndụ; nnyocha gara n'ihu na - aga n'ihu."
+  },
+  "symptoms": {
+    "leaf": [
+      "Ndị Na - eyi Ọha Egwu Bụ́ Ndị Nọ n'Okporo Ụzọ",
+      "Ihe na - eme ka ahụ́ na - ama jijiji ma ọ bụ na - acha odo odo",
+      "Ọ Na - eme Ka Ihe Na - aga nke Ọma Ma Ọ Bụ Na - esi Ọnwụ",
+      "Obere ebe ndị a na - edebe ihe n'akụkụ akwụkwọ ndị merela ochie"
+    ],
+    "timing": "Akwụkwọ ya na - adịkarị n'akwụkwọ ya merela ochie ma ọ pụrụ imetụta akwụkwọ ya n'ọ̀tụ̀tụ̀ nile",
+    "plant": [
+      "Ịgbọ́ọ̀pụ̀",
+      "Ime ka mkpụrụ akụ́kụ́ ghara ịdị mma n'ọrịa ndị siri ike"
+    ]
+  },
+  "conditions_favoring_disease": {
+    "vector": "Ihe ndị e si na ha nweta (n'ụzọ doro anya, ihe ndị e si na ha nweta ihe ndị e dere n'ahụ́ ya, bụ́ ndị e si n'ahụ́ nweta ihe ndị e dere n'ahụ́ ya nweta)",
+    "environment": "Ọ̀tụ̀tụ̀ okpomọkụ na ihu igwe nke ndị na - emepụta ngwá ahịa jupụtara ebe nile",
+    "season": "A pụrụ inwe mgbanwe n'oge uto n'oge uto"
+  },
+  "biology": {
+    "pathogen_type": "AGBOR 1 (Bekee)",
+    "virus_family": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "transmission": "A pụrụ isi n'ụzọ bụ́ isi wepụta ihe n'ụzọ bụ́ isi n'esepụghị aka; a pụrụ isi ná mkpụrụ akụ́kụ́ ndị bu ọrịa ahụ banye n'ahụ́ mmadụ nakwa site ná mkpụrụ akụ́kụ́ ndị bu ya (n'ọ̀tụ̀tụ̀ dị ala)",
+    "infection_process": "Ihe ndị e ji asa ezé n'akụkụ ahụ́ ndị mmadụ, na - eme ka e nwee ebe ndị a na - edebe nri bụ́ ndị e si abanye n'ime ụlọ; nri ndị e tinyere n'ime ha na - eme ka a na - enweta"
+  },
+  "damage": [
+    "Ahụ́ na - ama jijiji ma na - ere akwụkwọ",
+    "Ọ na - ebelata mmiri ọgwụ ahụ́ bụ́ hormone na ike ịkụ ihe",
+    "Ọ na - eme ka mkpụrụ akụ́kụ́ ghara ịrụ ọrụ nke ọma ma belata àgwà ya n'ọnọdụ ndị siri ike"
+  ],
+  "management": {
+    "cultural_control": [
+      "Jiri mkpụrụ na-enweghị isi",
+      "Wepụ aha onye ọrụ afọ ofufo bụ́ Soyan na ihe ọkụkụ ndị ọzọ a na - ebipụtara na ya iji belata ọ̀tụ̀tụ̀ ịdị n'ime ala",
+      "Zere ịkụ mkpụrụ n'akụkụ ebe ndị a na - enwe ọnụ ọgụgụ buru ibu nke ndị bi na ha"
+    ],
+    "chemical_control": [
+      "Ọgwụ nje ndị a na - etinye n'ahụ́ ha pụrụ ibelata mgbasa nke nje virus"
+    ],
+    "genetic_control": [
+      "Ọ dịghị òtù nzuzo ọ bụla na - eguzogide n'ụzọ zuru ezu ugbu a; nnyocha ndị a nọgidere na - eme n'esepụghị aka"
+    ]
+  },
+  "notes": [
+    "POLV bụ ihe a maara ọhụrụ bụ́ nke a na - eji eme ka ọ̀tụ̀tụ̀ ịjụ oyi n'ebe a na - eme bred.",
+    "Nchọpụta ndị e mere n'oge gboo na otú e si agwọ ọrịa na - enyere mmadụ aka ibelata ọrịa."
+  ]
+}

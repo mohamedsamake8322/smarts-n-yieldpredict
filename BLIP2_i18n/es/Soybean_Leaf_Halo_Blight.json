@@ -1,0 +1,72 @@
+{
+  "pest_name": "Halo Blight",
+  "scientific_name": "Pseudomonas siringae pv. phaseolicola",
+  "common_abbreviations": [
+    "Pseudomonas blight",
+    "halo de frijol mancha",
+    "La plaga phaseolosa",
+    "mancha de hoja bacteriana de frijoles"
+  ],
+  "description": "Halo blight es una enfermedad bacteriana de los frijoles causada por Pseudomonas syringae pv. phaseolicola. Es semilla transmitida y prospera bajo condiciones frías y húmedas.",
+  "distribution": "En todo el mundo, especialmente en las regiones templadas y subtropicales de América del Norte, América del Sur, Europa, África y Asia.",
+  "host_range": {
+    "general": "Habas (Phaseolus spp.)",
+    "notable_hosts": [
+      "Riñón rojo claro frijol seco",
+      "Otras variedades de frijoles comunes"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Pequeñas lesiones empapadas en agua inicialmente",
+      "Lesiones rodeadas de halo amarillo-verde",
+      "Las lesiones se expanden y se funden en grandes áreas necróticas",
+      "Manchas necróticas marrón irregulares a medida que la enfermedad progresa",
+      "Casos graves: defoliación extensa, reducción del vigor"
+    ],
+    "pod": [
+      "Lesiones oscuras hundidas con aspecto grasiento",
+      "Semillas descoloridas o arrugadas"
+    ]
+  },
+  "damage": [
+    "Rendimiento significativo y reducción de la calidad de las semillas",
+    "Puede causar un fallo total de los cultivos en campos de alta incidencia",
+    "Plantas debilitadas más susceptibles a infecciones secundarias",
+    "Restricciones de cuarentena debidas a lotes de semillas infectados"
+  ],
+  "biology": {
+    "pathogen_type": "Bacteria de semilla",
+    "survival": "Persiste en desechos de cultivos y superficies de plantas contaminadas",
+    "infection_routes": [
+      "A través de aberturas naturales (estomata, hidatodos)",
+      "Heridas"
+    ],
+    "favorable_conditions": "Enfriar (16–24°C), ambientes húmedos",
+    "spread": [
+      "Semillas infectadas",
+      "Salpicadura de la lluvia",
+      "Riego",
+      "Contacto mecánico"
+    ]
+  },
+  "management": {
+    "cultural_control": [
+      "Utilizar semillas certificadas sin enfermedades",
+      "Rotación de cultivos con no anfitriones",
+      "Evitar el riego por encima del suelo",
+      "Saneamiento adecuado sobre el terreno"
+    ],
+    "chemical_control": [
+      "bactericidas a base de cobre para suprimir la propagación",
+      "Tratamientos de semillas para prevenir infecciones tempranas"
+    ],
+    "genetic_control": [
+      "Plantar variedades resistentes para reducir la dependencia de productos químicos"
+    ]
+  },
+  "notes": [
+    "La gestión integrada que combina estrategias culturales, químicas y genéticas es más eficaz",
+    "La estricta certificación de semillas y las medidas de cuarentena son importantes para prevenir la propagación"
+  ]
+}

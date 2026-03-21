@@ -1,139 +1,119 @@
 {
-  "disease": "Choanephora Fruit Rot",
-  "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "disease": "Indian National month 5 - LongName",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wani karin ' ya'yan itace mai ban dariya yana da ban dariya kuma yana shafan mummunar cuta da ke ko'ina a wurin da ake sanyi sosai.",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan.",
+    "\"Kuma lalle mu, haƙĩƙa, mũ ne mãsu yin sahu-sahu (dõmin ibãda).\""
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
-    "order": "Mucorales",
-    "family": "Choanephoraceae"
+    "kingdom": "Indian National month 8 - LongName",
+    "order": "KCharselect unicode block name",
+    "family": "KCharselect unicode block name"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "Wata cuta mai ban ƙyama da take sa mu ji daɗin numfashi da kuma ' ya'yan itatuwa, musamman ma a lokacin da muke ɗumi da kuma yanayi mai daɗi.",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "Ruwan inabi Mai Kyau a Kan furanni",
+    "Sao'i da ba Su da amfani ko kuma ' ya'yan itace",
+    "Sa'ad da ake shuka ' ya'yan itace a ƙarshe",
+    "' Ya'yan itace suna lalacewa a cikin ' yan kwanaki",
+    "KCharselect unicode block name",
+    "fararen tukwane suna mai da hankali ga halaye masu kyau ko kuma baƙar magana",
+    "\"Lalle mãsu cĩ ne daga wata itãciya ta zaƙƙum (ɗanyen wutã).\""
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "Ta'aziya mai laushin hali a kan damu ko kuma mai ba da ' ya'ya da ba za su iya ba da ' ya'yan itace ba",
+    "Farã mai dãɗi ga mashãyan.",
+    "Media controller element",
+    "\"Kuma mun kasance muna kũtsãwa tãre da mãsu kũtsãwa.\""
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "Zane-Zane",
+    "' Ya'yan itãcen marmari",
+    "Yanã tsirar da shũka game da shi, dõminku zaitũni da dabĩnai da inabai, kuma daga dukan 'yã'yan itãce.",
+    "KCharselect unicode block name"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "KCharselect unicode block name",
   "hosts": [
-    "pumpkin",
-    "squash",
-    "zucchini",
-    "watermelon",
-    "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
-    "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "Indian National month 5 - LongName",
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "\"Kuma Ka sanya mini wani mataimaki daga mutãnena.\"",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Saurin Sura Mai Motsi",
+    "KCharselect unicode block name",
+    "QFontDatabase",
+    "Indian National weekday 3 - LongDayName",
+    "Indian National weekday 3 - LongDayName",
+    "Farã mai dãɗi ga mashãyan.",
+    "KCharselect unicode block name"
   ],
-
   "important_hosts": [
-    "Cucurbita pepo",
-    "Cucurbita maxima",
-    "Citrullus lanatus",
-    "Cucumis melo",
-    "Luffa cylindrica"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "\"Kuma Ka sanya mini wani mataimaki daga mutãnena.\"",
+    "KCharselect unicode block name"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "Abãban ɗaukakãwa, abãban tsarkakẽwa.",
+    "@ action",
+    "Da shuke-shuke da matsayi mai kyau",
+    "Media controller element",
+    "Raɓa tana da zafi a sama da 2539 K.Z."
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "Mãsu ƙyasta wuta (da kõfatansu a kan duwatsu) ƙyastawa.",
+    "Media controller element",
+    "KCharselect unicode block name",
+    "Media controller element",
+    "KCharselect unicode block name"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "Ana ciyar da ' ya'yan itace a gona da kuma ƙasa",
+    "KCharselect unicode block name",
+    "' Ya'yan itace masu yawa suna shuki daga furanni don su samu ' ya'yan itace",
+    "Yin wasa da dariya yana sa mutane da yawa su kasance da ra'ayin da bai dace ba game da yin ado",
+    "Ana yaɗa labarai da iska da ruwan sama da kuma iskar ƙuna"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "QXml",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka yi hasara a Lokacin Wahala"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "Ka cire furanni da ' ya'yan itace nan da nan",
+    "Ka guje wa Abubuwan da ba su da muhimmanci",
+    "Yi amfani da mazabababa idan zai yiwu",
+    "Media controller element",
+    "QShortcut",
+    "Media controller element"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "Sa'ad da ya yiwu",
+    "(Sunã) a cikin itãcen magarya maras ƙaya.",
+    "Media controller element",
+    "Raɓa tana da kyau kuma tana cire kayan aiki"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "Wata ' yar'uwa mai suna Naeaace ta ba da rahoto cewa za ta hana su yin wasa da al'ada"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "Raɓa tana da daɗi domin furanni suna buɗe a kai a kai"
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi."
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "@ item Text character set",
+    "QXml",
+    "Media controller element"
   ]
 }

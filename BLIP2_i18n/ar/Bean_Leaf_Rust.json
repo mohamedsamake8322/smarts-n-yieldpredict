@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
-  "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "disease": "حُصان",
+  "scientific_name": "(أ) (أ)",
+  "pathogen_type": "المنقوس",
+  "description": "إن الصدأ هو مرض فطري يؤثر على أوراق الفاصوليا وجرعاتها وأحياناً على الأزهار، فهو ينتج بثوراً ملوناً بالصدأ على أسطح أوراق تقلل من التركيب الضوئي ويمكن أن تسبب قطرة مبكرة من الأوراق وخسارة في الإنتاج.",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "بقع بيضاء أو صفراء صغيرة أو شاهبة على الأوراق",
+    "برتقالات برتقالية أو برتقالية بنية أو ذات لون صدأ على ورقة من جانب",
+    "بواغثات الپاندرية المتحررة من البوستلات",
+    "يُنْزَح حول",
+    "أُصيب بإصابات شديدة: الأوراق الجافة والسقوط في وقت مبكر",
+    "حشرات عرضية على المُقَرَّبات والنُسَب"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
-    "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "نوع الجنس المشترك",
+    "(أ) المجموع الكلي",
+    "\"إلى أن يصبح\"",
+    "الـ أسود",
+    "(أ) ما يُنبّح",
+    "لِمَا كَانَتْ",
+    "(و) من خلالي",
+    "",
+    "أنواع أخرى"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "درجات حرارة معتدلة )١٨ - ٢٥ درجة مئوية(",
+    "الرطوبة العالية",
+    "هطول هطول الأمطار",
+    "تسيير لعدّة ساعات",
+    "معلّل محصول معلّل"
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "البور الطائــة عــن الرياح",
+    "(ب) المطر",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "بُسور جوية تُسافر مسافات طويلة"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "أصناف الفاصولان النباتية",
+    "محاصيل دوران مع نباتات غير مستهلكة",
+    ":: التخلص من مخلفات المحاصيل",
+    "تحسين المباع بين النباتين للتدفق الجوي",
+    "رصد الحقول في وقت مبكر أثناء موسم النمو"
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "الأنواع التي تستخدم كمبيدات للآفات البيولوجية",
+    "المبيدات الأحيائية القائمة على أساس الباسيوس"
   ],
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Tebuconazole",
-    "Propiconazole",
-    "Azoxystrobin",
-    "Myclobutanil"
+    "ما يُنكس(ب)",
+    "كلوروثاثالونونيل",
+    "تيبوconazole",
+    "البرولينية azole",
+    "Assexstorbin",
+    "مشروع ماي (CyCloparanil)"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    ":: تجنب الغرس",
+    "(أ) التخلص من مخلفات النباتات بعد الحصاد",
+    "",
+    "المحاصيل التي يجري رصدها أثناء الطقس الرطوبة"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "مجموعة حماية المُنتَجَب",
+    "أدلة منظمة الأغذية والزراعة لإدارة الأمراض",
+    "جامعة الأمم المتحدة"
   ]
 }

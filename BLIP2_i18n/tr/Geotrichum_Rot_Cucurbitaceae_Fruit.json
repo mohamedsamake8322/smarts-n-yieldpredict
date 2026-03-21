@@ -1,60 +1,60 @@
 {
- "disease": "Geotrichum Fruit Rot of Cucurbits",
- "scientific_name": "Geotrichum candidum",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
- "symptoms": [
-  "Soft watery rot on fruits",
-  "White cottony mold on infected areas",
-  "Fruit tissue becomes soft and collapses",
-  "Sour or fermented smell from infected fruit",
-  "Rot usually starts at wounds or damaged areas"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Wounded or damaged fruits",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Handling of infected fruits",
-  "Wounds caused during harvest or transport"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Remove and destroy infected fruits",
-  "Improve field and storage sanitation",
-  "Ensure good ventilation during storage",
-  "Harvest fruits at proper maturity"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
-  "Apply Bacillus-based biofungicides to reduce pathogen development"
- ],
- "chemical_control": [
-  "Post-harvest fungicides containing thiabendazole",
-  "Imazalil-based treatments in storage facilities",
-  "Sanitation with approved disinfectants to reduce contamination"
- ],
- "prevention": [
-  "Avoid fruit injuries during harvest and transport",
-  "Maintain clean storage conditions",
-  "Remove plant debris from fields",
-  "Store fruits in cool and dry conditions"
- ],
- "source": [
-  "Plant pathology references on cucurbit post-harvest diseases",
-  "CABI Crop Protection Compendium",
-  "Plant disease management guides"
- ]
+  "disease": "Geotrichum Meyve Rot Cucurbits",
+  "scientific_name": "Geotrichum adaylığı",
+  "pathogen_type": "Fonksiyon",
+  "description": "Bir mantar hastalığı, kokürbet meyvelerinde yumuşak kırışıklıklara neden olur, örneğin, çilek, melon ve çilek. çoğunlukla kırışıklık veya hasarlı meyveleri etkiler ve daha sonra sert ve su kaynağı haline gelen beyaz bir şekil üretir.",
+  "symptoms": [
+    "Yumuşak su kaynağı meyveler",
+    "Enfekte bölgelerde beyaz kokteyl çubukları",
+    "Meyve dokusu yumuşaklaşır ve çökür",
+    "Enfekte meyvelerden koku veya fermente koku",
+    "Kırışıklık genellikle yaralanmış veya hasarlı bölgelerde başlar."
+  ],
+  "hosts": [
+    "Çanakkale",
+    "Melon",
+    "su melonları",
+    "Pompalı",
+    "Squash Hakkında",
+    "Diğer kurabiye bitkileri"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar",
+    "Yüksek nem",
+    "Yaralı veya hasarlı meyveler",
+    "Depolama sırasında düşük havalandırma"
+  ],
+  "spread": [
+    "kirlenmiş toprak",
+    "Enfekte bitki çöpleri",
+    "Enfekte meyvelerin tedavisi",
+    "hasat veya nakliye sırasında meydana gelen yaralanmalar"
+  ],
+  "management": [
+    "Yaraları önlemek için meyveleri dikkatlice kullanın.",
+    "Enfekte meyveleri çıkarmak ve yok etmek",
+    "Toprak ve depolama sanitasyonunu geliştirmek",
+    "Depolama sırasında iyi havalandırma sağlar",
+    "Doğru yetişkinlikte meyve yetiştirmek"
+  ],
+  "biological_control": [
+    "Mantar büyümesini bastırmak için Trichoderma türleri gibi faydalı mikroplar kullanın",
+    "Patogen gelişimini azaltmak için Bacillus tabanlı biofungicidler uygulayın"
+  ],
+  "chemical_control": [
+    "Tiyabendazol içeren hasat sonrası fungicidler",
+    "Imazalil tabanlı tedaviler depolama tesislerinde",
+    "Kirliliği azaltmak için onaylanmış dezenfektanlarla sanitasyon"
+  ],
+  "prevention": [
+    "Toplama ve taşıma sırasında meyve yaralanmaları önlemek",
+    "Temiz depolama koşullarını korumak",
+    "Bitki çöpleri alanlardan çıkarın",
+    "Meyveyi soğuk ve kuru koşullarda saklayın"
+  ],
+  "source": [
+    "Bitki patolojisi referansları cucurbit hasat sonrası hastalıklar",
+    "CABI Bitki Koruma Ödülü",
+    "Bitki Hastalıkları Yönetimi Rehberi"
+  ]
 }

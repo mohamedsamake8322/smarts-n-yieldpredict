@@ -1,87 +1,87 @@
 {
- "disease": "Sclerotinia Leaf Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia leaf rot is a fungal disease that affects many crops. The fungus infects leaves and stems under cool and wet conditions. It produces white cotton-like mold and black survival structures called sclerotia.",
- "symptoms": [
-  "Water-soaked spots on leaves",
-  "Leaves turning yellow and wilting",
-  "Soft rot on infected leaf tissue",
-  "White cotton-like fungal growth on leaves or stems",
-  "Black seed-like sclerotia forming in infected areas",
-  "Leaves collapsing and dying"
- ],
- "visual_symptoms": [
-  "white fluffy mold on leaves",
-  "soft watery leaf rot",
-  "black sclerotia inside fungal growth",
-  "collapsed or wilted leaves"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Sunflower",
-  "Cabbage",
-  "Carrot",
-  "Celery",
-  "Cucumber",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "petioles"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Prolonged leaf wetness",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia in soil",
-  "Infected plant debris",
-  "Water splash or wind"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce cup-shaped apothecia",
-  "Apothecia release spores into the air",
-  "Spores infect leaves during wet conditions",
-  "New sclerotia form on infected plants and return to soil"
- ],
- "impact": [
-  "Leaf rot and plant weakening",
-  "Reduced photosynthesis",
-  "Lower crop yield",
-  "Possible plant collapse in severe infections"
- ],
- "cultural_control": [
-  "Remove infected plants quickly",
-  "Improve plant spacing and airflow",
-  "Rotate crops with non-host plants",
-  "Remove infected plant debris from fields"
- ],
- "biological_control": [
-  "Use biocontrol fungi such as Coniothyrium minitans",
-  "Use beneficial microbes like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply registered fungicides when disease risk is high",
-  "Preventive fungicide sprays in humid conditions"
- ],
- "prevention": [
-  "Avoid overcrowded planting",
-  "Monitor crops during cool and wet seasons",
-  "Practice crop rotation",
-  "Use integrated disease management"
- ],
- "source": [
-  "Plant pathology disease guides",
-  "Agricultural extension resources"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wani abin ban dariya da ke shafan shuke - shuke da yawa da ke sa shuke - shuke da yawa su yi dariya kuma yana sa farin ciki sosai. Hakan yana sa ni farin ciki sosai kuma yana sa ni farin ciki sosai.",
+  "symptoms": [
+    "(Sunã) a kan wasu gadãje sãƙaƙƙuu.",
+    "Kunã sãmudaga gare shi, abin mãye da abinci mai kyau.",
+    "Don haka, sai ka riƙa yin amfani da ita a kan abubuwan da ba su dace ba.",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "KCharselect unicode block name",
+    "Barin Abubuwan da Ke Kawo Farin Ciki da Kuma Mutuwa"
+  ],
+  "visual_symptoms": [
+    "Farã mai dãɗi ga mashãyan.",
+    "Wani marmaro ne, a cikinta, ana kiran sa salsabil.",
+    "Tarin baƙin ciki da ake samu a ciki sosai yana ba da ' ya'ya masu daɗi",
+    "@ action"
+  ],
+  "hosts": [
+    "DakataCoptic month 13 - LongName",
+    "QShortcut",
+    "Ethiopian month 7 - LongName",
+    "QShortcut",
+    "DakataCoptic month 6 - LongName",
+    "Indian National weekday 5 - LongDayName",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan."
+  ],
+  "plant_parts_affected": [
+    "hagu",
+    "@ action",
+    "KCharselect unicode block name"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "Farã mai dãɗi ga mashãyan.",
+    "Media controller element"
+  ],
+  "spread": [
+    "An Gano Su Daga Sana'a",
+    "@ item Spelling dictionary",
+    "A wurin da magaryar tuƙẽwa take.",
+    "Ko kuwa wani matalauci ma'abũcin turɓãya."
+  ],
+  "disease_cycle": [
+    "Wannan ba'a da ake yi a ƙasar waje ba ce shekaru da yawa da suka shige",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Ana Mai da Tawali'u da aka shigar da shi a cikin iskar",
+    "Sa'ad da muke fuskantar matsaloli, muna samun kwanciyar hankali a lokacin da muke fuskantar yanayi mai wuya",
+    "Sabon ƙwayoyin halitta a kan tsiro da kuma komawa ƙasa"
+  ],
+  "impact": [
+    "Media controller element",
+    "KCharselect unicode block name",
+    "Yin Shirin Aiki",
+    "Za'a iya samun shuka cikin rami mai tsanani"
+  ],
+  "cultural_control": [
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Media controller element",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "KCharselect unicode block name"
+  ],
+  "biological_control": [
+    "Ka Yi Amfani daHn nan Ka Yi Amfani da Shi Yadda Ya Kamata a Yi Amfani da Shi",
+    "Ka Yi Amfani da Shi Yadda Ya Kamata Mu Yi Amfani da Shi"
+  ],
+  "chemical_control": [
+    "Alal misali, idan mutum yana da cuta mai tsanani, zai iya yin amfani da abubuwan da ba su dace ba.",
+    "Masu ba'a suna yin ba'a a yanayi mai ban tsoro"
+  ],
+  "prevention": [
+    "Ka Guji Yin Saurin Jumma'a",
+    "Mun yi noman gona sa'ad da muke sanyi da kuma lokacin sanyi",
+    "Ayyuka Masu Kyau",
+    "Yi amfani da ciwo mai maras inganci"
+  ],
+  "source": [
+    "Hanyar da ba ta dace ba tana ja - gorar cuta",
+    "KCharselect unicode block name"
+  ]
 }

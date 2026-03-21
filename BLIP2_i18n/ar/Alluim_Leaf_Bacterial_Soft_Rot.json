@@ -1,72 +1,72 @@
 {
- "disease": "Soft Rot of Allium",
- "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia chrysanthemi and related bacteria",
- "pathogen_type": "Bacteria",
- "description": "A bacterial disease that causes soft, watery rot of bulbs in onion and other Allium crops. It often appears near harvest or during storage and produces a foul-smelling decay.",
- "symptoms": [
-  "Young leaves become pale, bleached and wilted",
-  "Soft watery rot of bulb scales",
-  "Yellow discoloration of infected tissues",
-  "Brown streaks inside bulbs",
-  "Entire bulb becomes soft and rotten",
-  "Bad-smelling viscous fluid oozing from the neck of bulbs"
- ],
- "hosts": [
-  "Onion",
-  "Shallot",
-  "Garlic",
-  "Leek",
-  "Chive",
-  "Spring onion",
-  "Other Allium species"
- ],
- "favorable_conditions": [
-  "Heavy rainfall",
-  "Waterlogged or poorly drained soil",
-  "Wounds on bulbs or leaves",
-  "Warm temperatures between 20 and 30°C",
-  "High humidity during storage"
- ],
- "spread": [
-  "Infected planting material",
-  "Contaminated soil",
-  "Crop residues",
-  "Rain splash and irrigation water",
-  "Insects",
-  "Mechanical injuries during field operations"
- ],
- "management": [
-  "Use certified disease-free planting material",
-  "Avoid injuries during planting and harvest",
-  "Use drip irrigation instead of overhead irrigation",
-  "Allow onion tops to mature before harvest",
-  "Remove and destroy infected plants",
-  "Maintain balanced fertilization",
-  "Store bulbs at low temperature and moderate humidity",
-  "Use tolerant cultivars"
- ],
- "biological_control": [
-  "Encourage beneficial soil microbes through organic matter management",
-  "Use biological control agents such as Bacillus-based biofungicides",
-  "Improve soil health to suppress bacterial pathogens"
- ],
- "chemical_control": [
-  "Copper-based bactericides such as copper hydroxide",
-  "Kocide 2000",
-  "Mankocide",
-  "Copper sprays applied regularly to slow disease development"
- ],
- "prevention": [
-  "Plant certified pathogen-free bulbs or seeds",
-  "Avoid waterlogging in fields",
-  "Disinfect tools and equipment",
-  "Remove crop debris after harvest",
-  "Store bulbs at about 4°C with 65–70% relative humidity",
-  "Avoid excessive nitrogen fertilization and maintain adequate calcium levels"
- ],
- "source": [
-  "Plant Research International, Wageningen",
-  "IVEGRI Indonesia",
-  "Van der Wolf & Duriat – Soft rot diseases in Allium"
- ]
+  "disease": "روت من الأنيوم",
+  "scientific_name": "(أ) كاروتوفورا، وإيروينيا Chrysantheme وما يتصل بها من بكتيريا",
+  "pathogen_type": "",
+  "description": "المرض البكتيري الذي يسبب التعفن الماءي الناعم من المصابيح في البصل ومحاصيل الأليوم الأخرى، وكثيراً ما يظهر قرب الحصاد أو أثناء التخزين وينتج انحلالاً كريهاً.",
+  "symptoms": [
+    "تُصبح أوراق الشجر شُحْيَةً، تُبيَّتْ وتُذَبَّرُ وَتَذْبَرُ",
+    "تعفن الماء العذب من سُجّل المصابيح",
+    "أ. أ. أ. أ. أ.",
+    "مُنْظَرٌ مُنْزَفٌ مُنْزَفُ مُنْزَفُ مُنْزَفُ مُنْزَفْرُ مُنْزَفْر",
+    "المصباح الكامل يصبح ناعماً ومتعفناً",
+    "سائل من عُقْب المصابيح"
+  ],
+  "hosts": [
+    "جاري التنفيذ",
+    "مُشَجَّش",
+    "",
+    "الشيك",
+    "قُصصص",
+    "تَنْجِج",
+    "أنواع الأليوم الأخرى"
+  ],
+  "favorable_conditions": [
+    "",
+    "تربة مغمورة بالمياه أو سيئة التصريف",
+    "حالات الشبهات على المصابيح أو الأوراق",
+    "درجات حرارة حرارة تتراوح بين 20 و30 درجة مئوية",
+    "ارتفاع درجة الرطوبة أثناء التخزين أثناء التخزين"
+  ],
+  "spread": [
+    "مواد الزرع المُعدية",
+    "ألف - التروب",
+    "المخلفات",
+    "مياه الأمطار والري",
+    "",
+    "إصابات ميكانيكية أثناء العمليات الميدانية"
+  ],
+  "management": [
+    "مواد الزراعة الخالية من الأمراض المعتمدة",
+    "(ج) تجنب حدوث إصابات أثناء الزرع والحصاد",
+    "استخدام الري بالتنقيط بدلاً من الري بالري",
+    "اسمح لأعلى البصل أن تنضج قبل الحصاد",
+    "(أ) التخلص من النباتات المُحْكِرة وتدميرها",
+    "المحافظة على التسمم المتوازن",
+    "مصابيح مخزنة عند درجة حرارة منخفضة ورطوبة معتدلة",
+    "الاستخدام"
+  ],
+  "biological_control": [
+    "تشجيع جرثثثات التربة المفيدة من خلال إدارة المواد العضوية",
+    "عوامل الرقابة البيولوجية مثل مبيدات الآفات البيولوجية القائمة على أساس الباسليوس",
+    "تحسين صحة التربة لقمع مسببات الأمراض البكتريا"
+  ],
+  "chemical_control": [
+    "مبيدات البكتيريا القائمة على أساس النحاس مثل الهيدروكسيد النحاس",
+    "كولومبيا 2000",
+    "",
+    "تطبق بانتظام على مبيدات الأمراض البطيئة"
+  ],
+  "prevention": [
+    "مصابيح أو بذور مُعْرِضَة مُعْرِزَة",
+    "تجنّب التسرّب في الحقول",
+    "أدوات ومعدات المطهرات",
+    "(أ) ما بعد الحصاد",
+    "تخزن المصابيح عند حوالي 4 درجات مئوية مع رطوبة نسبية تتراوح بين 65 و70 في المائة",
+    "تجنب الإفراط في التلقيح في النيتروجين والمحافظة على مستويات كافية من الكالسيوم"
+  ],
+  "source": [
+    "الرابطة الدولية لبحوث النباتات",
+    "اندونيسيا",
+    "فان دير وولف ودوريات - الأمراض التعفنية في الأليوم"
+  ]
 }

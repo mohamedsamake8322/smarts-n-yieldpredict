@@ -1,0 +1,68 @@
+{
+  "pest": "Mkpụrụ Osisi Ndị Na - eto Eto",
+  "scientific_name": "Ngwá agha ndị nwere nje ndị na - akpata ọrịa bụ́ ndị e ji aka mee",
+  "pathogen_type": "Nla (Nlalalalasa lava)",
+  "description": "Ihe a na - ahụ nke ọma n'ógbè okpomọkụ na nke ebe okpomọkụ, bụ́ ebe a na - enweta nri n'akwụkwọ osisi, okooko osisi, nakwa n'ọtụtụ mkpụrụ akụ́kụ́, karịsịa tomato na ogho, na - akpata mfu ndị bụ́ isi.",
+  "symptoms": [
+    "Obere oghere ndị dị n'akwụkwọ osisi ndị na - eto eto bụ́ ndị nri oge ochie na - enye n'oge mbụ na - akpata",
+    "Obere oghere ndị dị ná mkpụrụ osisi, mgbe mgbe, n'akụkụ osisi",
+    "Ndị na - eri oké nri na - eri mkpụrụ osisi n'ime ụlọ ha",
+    "Mkpụrụ osisi ndị a gbara ná mkpọ ma ọ bụ ndị a gbara ná mkpọ bụ́ ndị e tinyere nri n'ime ụlọ",
+    "Mkpụrụ osisi na - akwụsị ito eto, mmalite, na isi n'osisi ahụ kpafuo",
+    "Osisi ndị mara mma na mkpụrụ osisi ndị mara mma bụ́ ndị a na - akụ n'ihe ịchọ mma"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Zuon",
+    "Sorghum",
+    "Mkpụrụ akụ́kụ́ na - atọ ụtọ",
+    "Ndị Na - asụ Asụsụ Dị Iche Iche",
+    "Sobon",
+    "_Hichaa",
+    "Anwụ Na - acha",
+    "Metaon",
+    "Ihe ọkụkụ dị iche iche na - amị mkpụrụ"
+  ],
+  "favorable_conditions": [
+    "Ebe okpomọkụ na gburugburu ebe okpomọkụ",
+    "E nwere ọtụtụ ihe ọkụkụ n'ebe ahụ",
+    "Ọnọdụ dị n'ụlọ nri maka mmepụta tomato"
+  ],
+  "spread": [
+    "Nla nke dị ime na - eyi àkwá n'akwụkwọ nakwa ná mkpụrụ osisi",
+    "Mmiri na - ezo n'etiti ihe ọkụkụ ndị dị nso",
+    "Nla nke nla nke ndị toworo eto n'agbata ihe ọkụkụ"
+  ],
+  "management": [
+    "Na - achịkọta ihe ọkụkụ mgbe nile maka àkwá na ụmụ ọhụrụ",
+    "Wepụ ma bibie mkpụrụ osisi ndị na - esi ísì ụtọ",
+    "Jiri ọnyà ndị na - esi ísì ọma na - enyocha ọnụ ọgụgụ ndị nọ n'afọ iri na ụma",
+    "Ịgba anụ ndị na - eri ibe ha ume, na - emekwa ka ahụ́ gbasie ha ike",
+    "Jiri ụdị ihe ọkụkụ ndị na - eguzogide ihe ma ọ bụ ndị na - adịghị ekwe mmadụ megharịa ahụ́ mee ihe mgbe e nwere ha"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ihe nketa na - emepụta mmiri ọgwụ ahụ́ nke na - eme ka ahụ́ na - arụ ọrụ nke ọma",
+    "Ụfọdụ n'ime ihe ndị a na - eme ka ahụ́ mmadụ ghara ịrụ ọrụ nke ọma bụ ime ka ahụ́ mmadụ ghara ịna - arụ ọrụ nke ọma",
+    "Anụ ndị na - eri ibe ha bụ́ ndị na - eri ibe ha, ndị na - eri ibe ha, na nnụnụ",
+    "Inwe ọmịiko n'ahụ́ ndị mmadụ na - eme ka ha na - enwe obi ụtọ otú ahụ e si amalite ịgba egwú"
+  ],
+  "chemical_control": [
+    "Ndị Na - eto Eto Bụ́ Ndị Na - eto Eto Na - ajụ, Sị",
+    "Emacctin",
+    "Iji ụgbọ mmiri na - akwọ ụgbọ epeepe",
+    "ga - eme ka di ya ma ọ bụ nwunye ya ghara ịna - echegbu onwe ya.",
+    "Nwa Atụrụ bụ́da-mimesin (iji ya mee ihe n'ụzọ na - ezighị ezi site n'ịnọgidesi ike n'ihe)"
+  ],
+  "prevention": [
+    "Tinyere ihe ọkụkụ ndị na-enweghị isi",
+    "Ebe ndị a na - edebe ihe ọcha na ebe ndị a na - ekpofu mkpụrụ akụ́kụ́",
+    "Jiri ọnyà ndị na - esi ísì ọma mee ihe maka nchọpụta ndị e mere n'oge mbụ",
+    "Ụmụ ahụhụ ndị na - ata ụmụ ahụhụ na - ata n'ebe ịta nri",
+    "Nọgide na - agbasi mbọ ike ka ị ghara ịna - akụ ihe gabiga ókè"
+  ],
+  "source": [
+    "Onye na - arụ ọrụ ugbo nke na - ahazi otú e si arụ ọrụ nke ọma",
+    "Mkpụrụ akụ́kụ́kụ́ ndị a na - akọ n'ụlọ ahịa na - echebe akwụkwọ",
+    "Ndị na - ahazi otú e si eji ngwá agha eme ihe n'ebe ndị a na - edebe ihe n'ala"
+  ]
+}

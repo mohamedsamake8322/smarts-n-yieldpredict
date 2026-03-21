@@ -1,0 +1,72 @@
+{
+  "pest_name": "Halo-Schädigung",
+  "scientific_name": "Pseudomonas syringae pv. phaseolicola",
+  "common_abbreviations": [
+    "Pseudomonas blight",
+    "Bohne Halo blight",
+    "Phaseolous blight",
+    "bakterielle Blattfleck von Bohnen"
+  ],
+  "description": "Halo blight ist eine bakterielle Krankheit von Bohnen, die durch Pseudomonas syringae pv. phaseolicola verursacht wird. Sie ist samengetragen und gedeiht unter kühlen, feuchten Bedingungen.",
+  "distribution": "Weltweit, insbesondere in gemäßigten und subtropischen Regionen Nordamerikas, Südamerikas, Europas, Afrikas und Asiens.",
+  "host_range": {
+    "general": "hauptsächlich Bohnen (Phaseolus spp.)",
+    "notable_hosts": [
+      "Hellrote Nierentrockenbohne",
+      "Andere gebräuchliche Bohnensorten"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Kleine, wassergetränkte Läsionen",
+      "Läsionen umgeben von gelb-grünem Halo",
+      "Läsionen expandieren und verschmelzen zu großen nekrotischen Gebieten",
+      "Unregelmäßige braune nekrotische Flecken im Verlauf der Krankheit",
+      "Schwere Fälle: extensiver Peeling, reduzierte Vitalität"
+    ],
+    "pod": [
+      "Dunkle, versunkene Läsionen mit fettigem Aussehen",
+      "Verfärbte oder geschrumpfte Samen"
+    ]
+  },
+  "damage": [
+    "Signifikante Verringerung der Ertrags- und Saatgutqualität",
+    "Kann in hochinzidenten Feldern zu einem vollständigen Ernteversagen führen",
+    "Schwache Pflanzen anfälliger für sekundäre Infektionen",
+    "Quarantänebeschränkungen aufgrund infizierter Saatgutpartien"
+  ],
+  "biology": {
+    "pathogen_type": "Saatgutbakterium",
+    "survival": "Persistent in Pflanzenabfällen und kontaminierten Pflanzenoberflächen",
+    "infection_routes": [
+      "Durch natürliche Öffnungen (Stomata, Hydathoden)",
+      "Wunden"
+    ],
+    "favorable_conditions": "Kühl (16–24°C), feuchte Umgebungen",
+    "spread": [
+      "Infizierte Samen",
+      "Regenspritzer",
+      "Bewässerung",
+      "Mechanischer Kontakt"
+    ]
+  },
+  "management": {
+    "cultural_control": [
+      "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+      "Fruchtrotation mit Nichtwirten",
+      "Überkopfbewässerung vermeiden",
+      "Richtiger Bereich Abwasserentsorgung"
+    ],
+    "chemical_control": [
+      "Bakterizide auf Kupferbasis zur Unterdrückung der Ausbreitung",
+      "Saatgut-Behandlungen, um eine frühe Infektion zu verhindern"
+    ],
+    "genetic_control": [
+      "Pflanzungsbeständige Sorten zur Verringerung der Abhängigkeit von Chemikalien"
+    ]
+  },
+  "notes": [
+    "Integriertes Management, das kulturelle, chemische und genetische Strategien kombiniert, ist am effektivsten",
+    "Strenge Saatgutzertifizierung und Quarantänemaßnahmen sind wichtig, um eine Ausbreitung zu verhindern"
+  ]
+}

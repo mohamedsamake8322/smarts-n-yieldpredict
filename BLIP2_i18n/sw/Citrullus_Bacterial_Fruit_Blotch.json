@@ -1,75 +1,75 @@
 {
-  "disease": "Bacterial Fruit Blotch",
-  "scientific_name": "Acidovorax citrulli",
-  "description": "Bacterial fruit blotch (BFB) is a destructive bacterial disease affecting cucurbit crops worldwide. It is caused by the Gram-negative bacterium Acidovorax citrulli and spreads primarily through contaminated seeds. The disease can cause severe economic losses, particularly in watermelon and melon production. Infection leads to water-soaked lesions on seedlings, leaves, and fruits, eventually resulting in fruit rot, cracking, and crop loss. Because the bacterium can survive inside seeds for many years, disease control mainly relies on seed sanitation and strict hygiene practices.",
+  "disease": "Blotch ya matunda ya bakteria",
+  "scientific_name": "ya Acidovorax citrulli",
+  "description": "Bacterial fruit blotch (BFB) ni magonjwa ya bakteria ya kuharibu matunda ya cucurbit ulimwenguni. Ni kwa sababu ya bacterium ya Gram-negative Acidovorax citrulli na kuenea hasa kupitia matunda ya kuvutia. Ugonjwa inaweza kusababisha uharibifu mkubwa wa kiuchumi, hasa katika uzalishaji wa meloni na meloni. Ugonjwa unaongoza kwa uharibifu wa maji juu ya matunda, majani, na matunda, ambayo mwishowe huathiri matunda ya matunda, kuongezeka, na kupoteza matunda. Kwa sababu bakteria inaweza kuishi ndani ya matunda kwa miaka mingi, usimamizi wa magonjwa ni msingi wa matunda ya matunda ya matunda na matibabu ya kudumu.",
   "hosts": [
-    "Watermelon (Citrullus lanatus)",
-    "Melon (Cucumis melo)",
-    "Cucumber (Cucumis sativus)",
-    "Pumpkin (Cucurbita spp.)",
-    "Zucchini (Cucurbita pepo)",
-    "Other cucurbit plants"
+    "Maua ya maji (Citrullus lanatus)",
+    "Maisha ya meli (Cucumis melo)",
+    "Maua ya Cucumis (Cucumis sativus)",
+    "Mchakato wa Mchakato (Cucurbita spp.)",
+    "Maua ya pepo (Cucurbita pepo)",
+    "Vyanzo vingine vya kukumbuka"
   ],
   "symptoms_and_damage": [
-    "Seedlings: water-soaked lesions on cotyledons and hypocotyls leading to collapse and death",
-    "Leaves: large irregular lesions that are brown to black in watermelon and reddish-brown in melon",
-    "Leaf lesions often spread along the main midrib",
-    "Fruits: small water-soaked lesions that enlarge and become sunken",
-    "Fruit rind becomes necrotic, leading to cracking and decay",
-    "Lesions allow secondary infections by other pathogens",
-    "Severely infected fruits rot and may contaminate seeds"
+    "Mazao: majeruhi ya maji kwenye cotyledons na hypocotyls yanayotokana na uharibifu na kifo",
+    "Maonyesho: madhara makubwa yasiyo ya kawaida ambayo ni rangi hadi rangi katika meloni na rangi-rangi katika meloni",
+    "Maambukizi ya nywele mara nyingi kuenea kwenye midrib kuu",
+    "Matunda: madhara ndogo ya maji ambayo huongezeka na kuongezeka",
+    "Siku ya matunda inazidi kuwa nekrotic, ambayo inazidi kuongezeka na kuongezeka",
+    "Maambukizi huwezesha maambukizi ya pili kutoka kwa wagonjwa wengine",
+    "Baadhi ya matunda yaliyoathiriwa na inaweza kuharibiwa mbegu"
   ],
   "disease_cycle": [
-    "Primary transmission occurs through infected seeds",
-    "The bacterium can survive inside seeds for many years",
-    "Initially behaves as a saprophyte using nutrients from the seed",
-    "Switches to pathogenic growth when the seedling emerges",
-    "Bacteria infect developing fruit through stomata 3–4 weeks after fruit set",
-    "Symptoms often appear late, near harvest, creating a delay between infection and detection",
-    "Infected fruits may contaminate new seeds, continuing the cycle"
+    "Uhamiaji wa kwanza unafanyika kwa njia ya matunda yaliyoathiriwa",
+    "Bakteri inaweza kuishi ndani ya mbegu kwa miaka mingi",
+    "Kwanza, inafanya kazi kama saprophyte kwa kutumia virutubisho kutoka kwa mizizi",
+    "Mabadiliko kwa ukuaji wa patogenic wakati mimea inaonekana",
+    "Bakteri inazidi kuendeleza matunda kupitia stomata 3-4 wiki baada ya matunda",
+    "Maonyesho mara nyingi huonekana mapema, karibu na kukua, kuunda muda kati ya ugonjwa na ukaguzi",
+    "Matunda ya kuvutia inaweza kuvutia mbegu mpya, kuendelea na mzunguko"
   ],
   "favorable_conditions": [
-    "High temperatures",
-    "High humidity",
-    "Warm and humid greenhouse conditions",
-    "High bacterial load on contaminated seeds",
-    "Dense plant populations and overhead irrigation"
+    "Temperature ya juu",
+    "Ukosefu wa juu",
+    "Hali ya hewa na umeme ya greenhouse",
+    "Umuhimu mkubwa wa bakteria juu ya mbolea zilizofungwa",
+    "Idadi ya mimea ya dhahabu na usafishaji wa juu"
   ],
   "prevention_and_cultural_controls": [
-    "Use pathogen-free certified seeds",
-    "Conduct seed health testing before planting",
-    "Maintain strict sanitation in nurseries and greenhouses",
-    "Avoid planting contaminated seed lots",
-    "Reduce overhead irrigation to limit bacterial spread",
-    "Remove infected plant debris and volunteer cucurbit plants"
+    "Matumizi ya mbolea zisizohitajika bila patogen",
+    "Kuendesha majaribio ya afya kabla ya kupanda",
+    "Kuanzisha usafirishaji wa dharura katika madaktari na makazi ya hewa",
+    "Kuepuka kutengeneza matunda ya matunda ya kuvutia",
+    "Kupunguza uchafu wa juu ili kuzuia usambazaji wa bakteria",
+    "Kuondoa mbegu za mimea na mimea ya kujitolea cucurbit"
   ],
   "chemical_control": [
-    "Copper-based bactericides may be used preventively to reduce bacterial spread",
-    "Chemical control is generally limited in effectiveness",
-    "Applications should follow local agricultural regulations and product labels"
+    "Bactericides kwa msingi wa tembo inaweza kutumika kuzuia kupunguza usambazaji wa bakteria",
+    "Ulinzi wa kemikali kwa ujumla ni mdogo katika ufanisi",
+    "Maombi yanapaswa kufuata sheria za kilimo za ndani na marekebisho ya bidhaa"
   ],
   "biological_control": [
-    "No widely established biological control methods are currently available",
-    "Research is ongoing to identify effective biological antagonists"
+    "Hakuna mbinu za kudhibitiwa kwa kiasi kikubwa zinapatikana kwa sasa",
+    "Utafiti unaendelea kutambua antagonists ya biolojia ya ufanisi"
   ],
   "resistance_breeding": [
-    "No commercial cultivars with strong resistance are currently available",
-    "Some experimental watermelon and melon accessions have shown partial resistance",
-    "Breeding programs continue to search for resistant germplasm"
+    "Hakuna wanyama wa kibiashara na upinzani mkubwa kwa sasa inapatikana",
+    "Baadhi ya majaribio ya maji ya meloni na meloni imeonyesha upinzani wa sehemu",
+    "Programu za kuzalisha zinatarajiwa kutafuta germplasm ya kudumu"
   ],
   "monitoring": [
-    "Inspect seedlings for water-soaked lesions on cotyledons",
-    "Monitor leaves for irregular brown or black lesions along veins",
-    "Check fruits for water-soaked spots that enlarge and become sunken",
-    "Test seed lots for contamination before planting"
+    "Utafiti wa mazao kwa madhara ya maji kwenye cotyledons",
+    "Ufuatiliaji wa barua kwa majeruhi yasiyo ya kawaida ya rangi au rangi kwa njia ya viungo",
+    "Tazama matunda kwa maeneo ya maji ambayo yanaongezeka na kuanguka",
+    "Utafiti wa samaki kwa ajili ya uchafuzi kabla ya kupanda"
   ],
   "direct_control_and_restrictions": [
-    "Destroy infected plants to prevent spread",
-    "Use heat treatment of seeds (around 85°C for 3–5 days) to reduce bacterial contamination",
-    "Implement strict hygiene in seed production and transplant facilities",
-    "Avoid saving seeds from infected fruits"
+    "Kupoteza mimea ya kuvutia ili kuzuia kuongezeka",
+    "Kutumia matibabu ya hewa ya matunda (kila 85 ° C kwa siku 3-5) ili kupunguza uchafuzi wa bakteria",
+    "Ufuatiliaji wa sanamu ya haraka katika vifaa vya uzalishaji na transplantation",
+    "Kuepuka kuokoa mbegu kutoka kwa matunda yaliyoathiriwa"
   ],
   "sources": [
-    "Wikipedia – Bacterial fruit blotch"
+    "Wikipedia – Mchakato wa Matunda ya Bakterial"
   ]
 }

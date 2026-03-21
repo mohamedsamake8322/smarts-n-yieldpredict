@@ -1,0 +1,87 @@
+{
+  "disease": "Mmiri na - esi n'ime ala apụta na - emebi ihe",
+  "scientific_name": "Chamalaplasas",
+  "pathogen_type": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+  "description": "Ụmụ ahụhụ na ihe ndị ọzọ ha na - akọ na - eyi àkwá n'ala dị nso n'osisi ndị a kụrụ n'ubi.",
+  "symptoms": [
+    "Akwụkwọ ya na - acha akwụkwọ ndụ akwụkwọ ndụ ma ghọọ nke na - esighị ike",
+    "Ihe ndị na - acha anụnụ anụnụ na - acha uhie uhie ma ọ bụ odo odo",
+    "Ọdọ mmiri ndị dị n'okpuru akpụkpọ ahụ́ ya",
+    "Ihe ndị na - esi na ya apụta na - aghọ ihe na - agbawa obi ma na - emebi ihe",
+    "Anwụrụ ọkụ na - ere ngwa ngwa a rịasịrị ọrịa",
+    "Ọ na - eme ka ihe a kụrụ akụ ghara ịna - amị mkpụrụ nke ọma, meekwa ka ọ ghara ịna - emepụta ezigbo ihe"
+  ],
+  "visual_signature": [
+    "Ọwa ndị na - acha nchara nchara bụ́ ndị dị n'ime mkpọrọgwụ osisi ndị dị n'ime ala",
+    "Mpụta ndị nwere oghere ndị mebiri emebi bụ́ ndị nwere oghere",
+    "Akwụkwọ nri ndị na - acha odo odo ma ọ bụ akwụkwọ na - acha odo odo"
+  ],
+  "pest_stage_causing_damage": "etela (nke a na - akpọ coggglas)",
+  "pest_description": [
+    "Mkpụrụ ndụ ihe nketa bụ ihe ịchọ mma n'ụzọ na - enweghị isi",
+    "O nweghị ezigbo ihe dị n'ime ya",
+    "O ruru ihe dị ka mita 10 n'ogologo",
+    "Nnụnụ na-enweghị ebe obibi dị obere ma dị ala"
+  ],
+  "affected_plant_parts": [
+    "Mepee ya na _usoroiheomume ndị ahụ",
+    "akwụkwọ"
+  ],
+  "hosts": [
+    "Nnyemaka ngwaọrụ",
+    "ebe a na - edebe ihe n'ala",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Hichaa ngwa ngwa?",
+    "Ihe ọkụkụ ndị ọzọ na - agbawa agbawa"
+  ],
+  "plant_family": "Anụ ọhịa alsae",
+  "life_cycle": [
+    "Nnụnụ ndị na - akpa ọkụkọ na - eyi àkwá n'ala dị nso n'osisi ndị a kụrụ n'ala",
+    "Nje ndị na - esi n'ahụ́ àkwá apụta",
+    "Mmiri ọgwụ ahụ́ a na - agbanye n'ime ya na - abanye ná mkpọrọgwụ osisi ma na - enye nri",
+    "Nwa ọkụkọ na - etolite n'ala ma mesịa ghọọ onye na - efe efe toworo eto"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi",
+    "Ọnọdụ ndị na - agbanwe agbanwe n'ala",
+    "ubi ya na ihe ọkụkụ ndị mbụ a kụrụ n'ubi"
+  ],
+  "spread": [
+    "Nnụnụ ndị toworo eto na - eyi àkwá n'ala",
+    "Njikọ dị n'agbata ugbo ndị dị nso n'ebe ahụ"
+  ],
+  "management": [
+    "Jiri oge ịkụ ihe ọkụkụ mee ihe iji zere ịkụ ihe ọkụkụ ugboro ugboro n'otu ubi",
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa na mkpọrọgwụ ndị mebiri emebi",
+    "Jiri ihe mgbochi anụ ahụ́ ndị dị ka msh ma ọ bụ ụgbụ ụmụ ahụhụ mee ihe",
+    "Jiri mmiri ọgwụ ndị na - esi ísì ụtọ kpuchie ihe ndị a kụrụ n'ubi",
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ụdị dị iche iche nke ụgbọala mgbe e nwere ha"
+  ],
+  "biological_control": [
+    "A na - eji mmiri ọgwụ ahụ́ bụ́ hormone e ji eme ihe n'oge a eme ihe maka ala",
+    "Ịgba anụ ufe nkịtị bụ́ ndị sitere n'okike ume"
+  ],
+  "chemical_control": [
+    "Ala ebe e nwere ike isi na ya nweta ala a nabatara nke ọma",
+    "Ọgwụ ndị e ji agwọ ọrịa bụ́ ndị a na - ebute site n'iji ọgwụ ekechi mmadụ (ụkpụrụ ndị e ji amata ndị bụ́ ndị bụ́ isi nke okpukpe)"
+  ],
+  "companion_plants": [
+    "Ebe a na - eli ozu",
+    "galik",
+    "Ihe ndị a kpụrụ akpụ",
+    "Ahụ́ na - ama ya jijiji",
+    "IHE NDỊ GA - ENYERE GỊ AKA"
+  ],
+  "prevention": [
+    "Jiri ụgbụ ndị dị mma na - ata ahịhịa ndị dị gburugburu ihe ọkụkụ",
+    "Jiri mmiri ọgwụ na - esi ísì ụtọ na - ekpuchi ihe ọkụkụ ndị a kụrụ n'ubi",
+    "Ihe ndị na - esi ísì ọma bụ́ ndị nwere ihe ọkụkụ ndị na - esi ísì ọma",
+    "Nọgide na - edebe ihe ọcha n'ụzọ ọhịa",
+    "Ekwela ka ihe ọ bụla mebie ya n'ala"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ọrụ ugbo na Mahadum tinyere akwụkwọ ndị e ji arụ ọrụ ugbo na ha",
+    "Ndị na - ahazi otú e si ahazi ihe nke ọma"
+  ]
+}

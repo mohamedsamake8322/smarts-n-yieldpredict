@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
-  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "disease": "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+  "scientific_name": "Aliiiiaaaaaa, Mrrrrrua, Mrrrr.",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Cin hanci ciwo ne mai daɗi da ke kai wa ' ya'yan itace, furanni, da kuma ' ya'yan itace masu yawa. Ƙari ga haka, cutar tana sa a samu ' ya'yan itace da yawa kafin a girbe ko kuma bayan girbi kuma za ta iya yaɗuwa da sauri a yanayi mai zafi.",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "Zane-Zane na nuna ' ya'yan itace a sararin samaniya",
+    "Saboda haka, ' ya'yan itace suna ta yawo a kan ' ya'yan itace.",
+    "Ana yin amfani da rana ko kuma a haɗa su a kan ' ya'yan itace",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "' Ya'yan itace sun kasance da haɗin kai ga rassa",
+    "Kwanciyar hankali da kuma ruwan sama suna mutuwa a yanayi mai tsanani"
   ],
   "hosts": [
-    "peach",
-    "apricot",
-    "plum",
-    "cherry",
-    "nectarine",
-    "apple",
-    "pear",
-    "almond",
-    "other stone fruits"
+    "Ethiopian weekday 2 - LongDayName",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "QFontDatabase",
+    "QFontDatabase",
+    "@ item Spelling dictionary",
+    "Da wasu 'ya'yan itacen marmari mãsu yawa."
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "' Ya'ya Masu Ban Al'ajabi ko Kuma Masu Tawali'u",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "KCharselect unicode block name",
+    "Media controller element",
+    "A wurin da magaryar tuƙẽwa take.",
+    "Nuna 'yã'yan itãcen marmari a cikinta",
+    "A wurin da magaryar tuƙẽwa take."
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "\"Kuma ya yalwata muku game da dũkiya da ɗiya, Ya sanya muku (albarka) ga gõnaki, kuma Ya sanya muku koguna.\"",
+    "Mãsu aikin wahala ne, mãsu gajiya.",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka guje wa ' ya'yan itace sa'ad da kake girbi",
+    "Ka Kasance da Ɗabi'a Mai Kyau"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "chemical_control": [
-    "Tebuconazole",
-    "Propiconazole",
-    "Myclobutanil",
-    "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
-    "Fenbuconazole"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ka guje wa ' ya'yan itace da za su ɓata maka rai",
+    "Ka Kasance da Tsabta Mai Kyau",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "' Ya'yan itace a lokacin sanyi da sanyi"
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "Nuna tausayi a kan ' ya'yan itace",
+    "KCharselect unicode block name",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
   ],
   "source": [
-    "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "IGWURUTA ALI 20",
+    "@ item Spelling dictionary",
+    "Mai Kula Mai Kyau Yana Koyar Da Kai",
+    "KCharselect unicode block name"
   ]
 }

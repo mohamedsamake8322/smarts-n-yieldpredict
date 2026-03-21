@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "Siku ya Siku ya Siku ya Wheat & Barley",
+  "scientific_name": "Mwisho wa Ustilago Tritici (Pers.)",
+  "pathogen_type": "Magonjwa ya Fungal",
+  "description": "Maumivu ya kutosha ni ugonjwa wa fungus wa mfumo ambao huathiri wanyama na nyama. fungus huathiri nyama zilizoendelea na kurudi kwa misuli ya nyama za nyama, ambayo hutolewa na maua wakati wa maua, yanayotokana na uharibifu mkubwa wa bidhaa.",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "Mchakato uliochukuliwa na spores ya nyekundu, nyekundu",
+    "Maumivu yaliyoathiriwa huonekana mapema kuliko maumivu ya afya",
+    "Hakuna maambukizi ya mimea juu ya nyota au nyota",
+    "Uharibifu wa faida kwa kiwango cha infection"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "Mafuta ya Triticum (Triticum Aestivum)",
+    "Mji wa Barley (Hordeum vulgare)"
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "Hali ya baridi na ya baridi wakati wa maua",
+    "Kupata matunda ya matunda yaliyoathirika"
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "Mafuriko ya rangi ya spores kwenye maua salama",
+    "Uhamiaji wa nyama kutoka kwa wanyama zilizoathirika"
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "Matumizi ya mbolea isiyojulikana, bila magonjwa",
+    "Matibabu ya mbolea na fungicides ya mfumo",
+    "Kuepuka kuokoa mbolea kutoka kwa matunda yaliyoathiriwa",
+    "Mzunguko wa mimea na aina yasiyo ya mwenyeji"
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "Matibabu ya mbolea na carboxine, triadimenol, au thiram fungicides"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "Mafuta ya kutosha ya kutosha ya kutosha",
+    "Kuendeleza mzunguko wa mimea",
+    "Uhifadhi wa mbegu na vifaa vya kuhifadhi"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "Mkataba wa Ulinzi wa CABI",
+    "Maelekezo ya Afya ya FAO",
+    "Maandishi ya Ustilago Tritici"
   ]
 }

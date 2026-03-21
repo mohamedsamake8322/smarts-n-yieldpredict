@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "Virus de l'Hosta X",
+  "scientific_name": "Virus de l'Hosta X (HVX)",
+  "pathogen_type": "Virus",
+  "description": "Une maladie virale qui infecte les plantes d'hosta. Il ne tue pas la plante mais provoque des dommages permanents aux feuilles et réduit la qualité ornementale. Une fois infecté, la plante reste infectée à vie.",
+  "symptoms": [
+    "Motif de saignement d'encre le long des nervures des feuilles",
+    "Décoloration des feuilles tachetées ou irrégulières",
+    "Tissus de feuilles coulés ou comprimés",
+    "Patterns irréguliers de vert clair et foncé sur les feuilles",
+    "Aspects foliaires distordus ou malsains"
+  ],
+  "hosts": [
+    "Espèces d'Hosta",
+    "Cultivars d'hôtes ornementaux"
+  ],
+  "favorable_conditions": [
+    "Dommages mécaniques aux feuilles ou aux racines",
+    "Mauvais assainissement lors de l'élagage ou de la division des installations",
+    "Contacts étroits entre les plantes infectées et les plantes saines"
+  ],
+  "spread": [
+    "Transfert de la sève végétale",
+    "Outils ou couteaux d'élagage contaminés",
+    "Division végétale sans désinfection",
+    "Contact entre les feuilles endommagées",
+    "Matériel de plantation infecté"
+  ],
+  "management": [
+    "Enlever et détruire complètement les plantes infectées",
+    "Ne pas composter les matières végétales infectées",
+    "Désinfecter les outils et l'équipement après manipulation des installations",
+    "Éviter de planter de nouvelles hostas dans un sol contaminé pendant au moins 2 ans",
+    "Utiliser des trousses de dépistage du virus lorsque l'infection est soupçonnée"
+  ],
+  "biological_control": [
+    "Aucun contrôle biologique n'est actuellement disponible pour le HVX"
+  ],
+  "chemical_control": [
+    "Aucun traitement chimique n'est disponible pour les virus végétaux tels que le HVX"
+  ],
+  "prevention": [
+    "Acheter des plantes dans des pépinières réputées avec des protocoles d'assainissement",
+    "Inspecter soigneusement les usines avant l'achat",
+    "Quarantine nouvelles plantes d'hosta pendant plusieurs semaines",
+    "Minimiser les blessures de la plante pendant l'entretien",
+    "Se laver les mains et désinfecter les outils entre les plantes",
+    "Utiliser des solutions désinfectantes comme le phosphate trisodique ou les détergents de laboratoire"
+  ],
+  "source": [
+    "Guides de gestion des maladies des pépinières d'Hosta",
+    "Ressources universitaires de vulgarisation en phytopathologie"
+  ]
 }

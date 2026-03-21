@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "Maua ya Choanephora",
+  "scientific_name": "Simu ya Choanephora (kwa mfano, Choanephora cucurbitarum)",
+  "pathogen_type": "Fungus ya",
+  "description": "Ugonjwa wa fungus ambayo huathiri maua na matunda ya muda wa matunda mengi, hasa matunda na matunda. Huu huathiri maua ya haraka na matunda ya kuongezeka chini ya hali ya hewa na ya mvua.",
+  "symptoms": [
+    "Mafuta ya maji juu ya maua",
+    "Maua ya haraka kuanguka na kuanguka",
+    "Maua ya muda juu ya matunda ya kijana",
+    "Kutoa uzalishaji wa gesi ya Cottony White juu ya viungo vya ugonjwa",
+    "Black pin-like spores kuunda juu ya maua ya rotting",
+    "Maua yaliyoathiriwa husaidia kujenga matunda na kusababisha maua ya matunda"
+  ],
+  "hosts": [
+    "ya Okra",
+    "ya Pumpkin",
+    "Siku ya Squash",
+    "ya Cucumber",
+    "Zucchini ya",
+    "Mkusanyiko wa GURD",
+    "ya Beans",
+    "Mchakato",
+    "Mipango ya Egg",
+    "Vitu vingine vya matunda na matunda"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto (kwa karibu 25-30 ° C)",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Mchakato wa dhahabu na trafiki mbaya ya hewa"
+  ],
+  "spread": [
+    "Mchakato wa mvua wa mvua",
+    "Mchezo wa mvua",
+    "Ukosefu wa mbegu za mimea",
+    "Mawasiliano kati ya maua na matunda yaliyoathiriwa"
+  ],
+  "management": [
+    "Kuondoa na kuharibu maua na matunda yaliyoathiriwa",
+    "Kuimarisha uwanja wa mimea ili kuongeza umeme wa hewa",
+    "Kuepuka upasuaji wa juu",
+    "Kupata mara kwa mara ili kuondoa viungo vya ugonjwa.",
+    "Mafunzo ya Rotation"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum kama virutubisho au virutubisho vya biocontrol",
+    "Bacillus subtilis kwa ajili ya biofungicides"
+  ],
+  "chemical_control": [
+    "ya Mancozeb",
+    "ya Chlorothalonil",
+    "Magonjwa ya fungicide ya tembo",
+    "Kuanzishwa kwa kuzuia wakati wa hali ya hewa ya hewa"
+  ],
+  "prevention": [
+    "Mimea katika maeneo ya kuvutia vizuri",
+    "Kuondoa mbegu ya mimea baada ya kukua",
+    "Kuepuka kupumzika na kupumzika kwa muda mrefu",
+    "Kutumia mbegu za afya na kudumisha utulivu wa ardhi"
+  ],
+  "source": [
+    "Benki ya Maarifa ya CABI Plantwise",
+    "Chuo Kikuu cha Florida (IFAS)",
+    "Kitabu cha APS cha ugonjwa wa mimea"
+  ]
 }

@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "common_abbreviations": [
+    "Indian National weekday 3 - LongDayName"
+  ],
+  "description": "Saboda haka, ruwan inabi ne da ke ko'ina da ke ko'ina kuma yana shafan yadda ake yin noma da yadda ake yin ado da yadda ake yin ado da kuma yadda ake rashin iri - iri.",
+  "distribution": "A dukan duniya a wurare masu ban al'ajabi, musamman ma a wuraren da ake kula da mutane da kuma wuraren da ake da'awa.",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "@ item Text character set",
+    "notable_hosts": [
+      "@ item Spelling dictionary",
+      "KCharselect unicode block name"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "Mãsu duhun inuwa.",
+      "KCharselect unicode block name",
+      "Kayan Aikin Na'ura",
+      "Media controller element"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "KCharselect unicode block name",
+      "Ka Guji Rashin Lafiya da Kuma Yadda Kake Bi da Kai"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "An shuka iri mai kyau, girma, da kuma ban dariya",
+    "@ item Text character set",
+    "Ana iya kasancewa da tawali'u ko kuma a wurin da babu kowa",
+    "Wasu suna yin hakan sa'ad da wasu ' yan'uwa suka soma yin amfani da su don su taimaka musu."
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "Alananan, wato, Taran, iyali da ke kula da tsofaffi suna zama kusa da inda ake bukatar masu wa'azi sosai",
+    "particle": "65: 2) Wata ' yar'uwa mai suna Erica mai shekara 120 da ta shige ta yi shekaru 120 tana hidimar majagaba.",
+    "genome": "Wata ' yar'uwa marar aure mai suna Aliiiiiia (a ƙarshen shekara ta 5 Mũsã), ta kama wata hanya mai kyau da ake amfani da ita don a yi amfani da wani tsari mai kyau na musamman da ake samu don a shigar da shi a cikin mahaifa.",
+    "transmission": [
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+      "Ɗabi'a Mai Ban Al'ajabi",
+      "KCharselect unicode block name"
+    ],
+    "favorable_conditions": "Wani aiki mai ban mamaki da ke sa mutane su samu ci gaba sosai shi ne yin wa'azi da ƙwazo",
+    "seed_transmission_rate": "@ item Spelling dictionary"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "Yi Amfani da hanyar da ba ta dace ba",
+      "Ka ɗan dakata ka rage yadda za ka yi amfani da shi a lokacin da ya dace",
+      "KCharselect unicode block name"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "Ka Yi Amfani da Haɗin Kai da Yin Tsayayya da Gwaji"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "Ƙari ga haka, akwai wasu abubuwan da za su iya hana mutane samun ci gaba a faɗin duniya."
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "An yi nazari da Hauwa'u a matsayin misali mai kyau don yin tsayayya da gwaji",
+    "Yin amfani da zane - zane wajen shuka iri da iri yashi",
+    "@ item Text character set"
   ]
 }

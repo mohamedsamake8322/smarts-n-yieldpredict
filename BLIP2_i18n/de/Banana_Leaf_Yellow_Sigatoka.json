@@ -1,0 +1,116 @@
+{
+  "disease_name": "Gelbe Sigatoka",
+  "dataset_label": "Banana_Blatt_Gelb_Sigatoka",
+  "other_names": [
+    "Sigatoka-Blattfleck",
+    "Bananenblattfleck"
+  ],
+  "pathogen": {
+    "type": "Pilze",
+    "scientific_name": "Pseudocercospora musae",
+    "synonym": "Mycosphaerella musicola",
+    "kingdom": "Pilze",
+    "phylum": "Ascomycota"
+  },
+  "host_plant": {
+    "primary_host": "Bananen (Musa-Arten)",
+    "other_hosts": [
+      "Plantain"
+    ]
+  },
+  "affected_parts": [
+    "Blätter"
+  ],
+  "symptoms": {
+    "early_stage": [
+      "Kleine hellgelbe Streifen (1–2 mm) auf jungen Blättern",
+      "Chlorotische Flecken erscheinen in der Nähe von Blatträndern oder Midrib"
+    ],
+    "intermediate_stage": [
+      "Streaks vergrössern sich zu länglichen braunen Läsionen",
+      "Spindelförmige Flecken mit gelben Halos um sie herum"
+    ],
+    "advanced_stage": [
+      "Dunkelbraune bis schwarze nekrotische Flecken",
+      "Große nekrotische Flächen auf Blättern",
+      "Vorzeitige Blatttrocknung und Entlaubung"
+    ]
+  },
+  "disease_cycle": {
+    "survival": "Pilz überlebt in infizierten Blattgewebe",
+    "spores": [
+      "Konidia",
+      "Ascosporen"
+    ],
+    "spread_mechanism": [
+      "Wind",
+      "Regenspritzer",
+      "Wassertröpfchen"
+    ],
+    "favorable_conditions": [
+      "Hohe Luftfeuchtigkeit",
+      "Warme Temperaturen (25–30°C)",
+      "Längere Blattnaßigkeit",
+      "Regen- oder nasse Jahreszeit"
+    ]
+  },
+  "impact": {
+    "severity": "Mäßig bis hoch",
+    "effects": [
+      "Reduzierte photosynthetische Kapazität",
+      "Kleinere Bananenstrauße",
+      "Reduzierte Qualität der Früchte",
+      "Kürzeres grünes Leben der Früchte",
+      "Vorzeitige Reifung der Früchte"
+    ],
+    "estimated_yield_loss": "Bis zu 50% bei schweren Infektionen"
+  },
+  "distribution": [
+    "Australien",
+    "Länder Mittel- und Osteuropas",
+    "Afrika",
+    "Mittelamerika",
+    "Südamerika",
+    "Karibik",
+    "Ozeanien"
+  ],
+  "similar_diseases_or_confusions": [
+    "Schwarze Sigatoka (Pseudocercospora fijiensis)",
+    "Bananenblattfleckkrankheiten"
+  ],
+  "management": {
+    "cultural_control": [
+      "Infizierte Blätter entfernen (entblößen)",
+      "Verbesserung der Abwasserentsorgung mit Plantagen",
+      "Aufrechterhaltung einer ordnungsgemäßen Entwässerung",
+      "Vermeiden Sie Überbelegung von Pflanzen"
+    ],
+    "chemical_control": [
+      "Fungizide des Schutzmittels",
+      "Systemische Fungizide",
+      "Tebuconazol, Mancozeb, Chlorthalonil enthaltende Produkte"
+    ],
+    "biological_control": [
+      "Bacillus subtilis",
+      "Trichodermavirid",
+      "Pseudomonas fluorescens"
+    ],
+    "preventive_measures": [
+      "Verwendung toleranter Bananensorten",
+      "Ausgewogene Düngung",
+      "Regelmäßige Überwachung der Plantagen"
+    ]
+  },
+  "spread_risk_factors": [
+    "Umgebungen mit hoher Luftfeuchtigkeit",
+    "Schlechte Entwässerung",
+    "Vorhandensein infizierter Blätter",
+    "Annehmbare Bananensorten"
+  ],
+  "references": [
+    "Kulturwissenschaft Australien – Gelbe Sigatoka",
+    "CABI-Kompendium zum Pflanzenschutz",
+    "CSIRO Pflanzenpathologie Ressourcen",
+    "Pflanzenpathologie Journal Veröffentlichungen"
+  ]
+}

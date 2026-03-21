@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
+    "disease": "(ل) (ل) (ل) (ل) (ل)",
     "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "pathogen_type": "الحشرة (عامل التحكم البيولوجي)",
+    "description": "وتغذي اليرقات على الجذور بينما يستهلك الكبار الأوراق، مما يقلل من نمو النبتة وتكاثرها.",
+    "hosts": [
+      "Eupchorpia esula",
+      ""
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "الاوراق التي تستهلكها الخزائن الراشدة",
+      "نمو النباتات وازهورها",
+      "النباتات الضعيفة أو التي تموت مع مرور الزمن"
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "درجة حرارة الربيع ودرجة حرارة الصيف",
+      "التربة المستنزرة جيداً التي تحبذ تنمية اليرق"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "الحركة الطبيعية لخنافس الراشدة",
+      "إدخال الإنسان في برامج المراقبة البيولوجية"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "الاستخدام كعامل من عوامل التحكم البيولوجي",
+      "مبيدات الآفات التي يمكن أن تقتل سكان أفيثونا",
+      ":: عدد السكان المثبتة والمنتشرة"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "لا ينطبق: يُستخدم كعامل من عوامل التحكم البيولوجي"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "الحفاظ على صحة الأحياء من الخنافس من أجل التحكم المستدام",
+      "تجنب إدخال مبيدات الآفات غير الانتكاسة"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "CABI CAB CAB CAB",
+      "برنامج مراقبة التنوع البيولوجي"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
-    "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "disease": "مَزْرِز المَزْرِز",
+    "scientific_name": "المـوسـس مـوسـيلا",
+    "pathogen_type": "الحشرة (اليرقة الحشرية)",
+    "description": "يرقة تهاجم بشكل رئيسي جذوع وجذور الذرة والذرة وغيرها من الأعشاب، مما يتسبب في هلاك وموت الشتلات الشابة.",
+    "hosts": [
+      "",
+      "سُرْج هوجم",
+      "",
+      "",
+      "كب"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "تهيم النباتات اليافعة وأصفرها",
+      "\"الثقوب والأنفاق عند قاعدة المُنَقَف\"",
+      "النباتات الميتة أو المنهكة"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "التربة الجافة والتربة الرملية",
+      "المناخات الساخنة والجافة التي تفضل وضع البيض",
+      "محاصيل مزروعة بكثافة"
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "البيضات الموضوعة في التربة أو في قاعدة النباتات",
+      "يَتحرّكُ إلى يُهْجِمُ يُوَجّهُ الشبابُ",
+      "حركة النباتات أو المواد النباتية"
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "تناوب المحاصيل مع المصانع غير المضيفة",
+      "إزالة مخلفات المحاصيل المصابة",
+      "الزراعة العميقة لحماية شتلات الشباب"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "مبيدات مبيدات حشرية نظامية أو مبيدات مبيدات حشرية في التربة (مثلاً، الكلوربيريفور، Imidacloprid)",
+      "الاستخدام الوقائي قبل ظهور"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "النباتات المطيرة في حال توافرها",
+      "الميادين الخالية من الحطام النباتي",
+      "رصد النبتات الشابة وعلاجها مبكراً إذا ظهرت الإصابة"
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "مجموعة حماية المُنتَجَب",
+      "صحائف وقائع منظمة الأمم المتحدة للأغذية والزراعة (الفاو)"
     ]
   }
 ]

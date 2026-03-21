@@ -1,0 +1,45 @@
+{
+  "disease": "Obere akwụkwọ ozi nke na - egosi ihe ndị dị n'eluigwe na n'ụwa na ihe ndị dị n'ime ha na - aga n'usoro.",
+  "scientific_name": "Ọrịa Uche Na - ebibi Ihe n'Ụzọ Na - ezighị Ezi",
+  "pathogen_type": "Kèánáhụ́chāghị́ányá",
+  "description": "Ọrịa na - ebibi ihe nke ahịhịa na tomato, bụ́ nke na - akpata ntụpọ na - acha nchara nchara ma na - egbu ngwa ngwa, pụrụ ibibi ihe ọkụkụ ngwa ngwa n'ọnọdụ ndị jọgburu onwe ha.",
+  "symptoms": [
+    "Ọ na - acha nchara nchara ruo n'ebe ndị e nwere akwụkwọ osisi ojii",
+    "Ọdọ mmiri na - esi n'ọnụ ọnụ ụzọ ma na - anwụ anwụ",
+    "Akwụkwọ osisi ndị nwere nje ndị na - akpata ọrịa bụ́ ndị a na - etinye n'ime ha"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Ihe ọkụkụ ndị ọzọ a na - akụ n'ubi"
+  ],
+  "favorable_conditions": [
+    "Oge oyi na oge oyi",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ikuku na - adịghị mma na - eme ka e nwee ọtụtụ ihe a na - akụ n'ụba"
+  ],
+  "spread": [
+    "Ifufe na Oké Mmiri ozuzo",
+    "Ngwá ọrụ ndị e ji rụọ ọrụ ma ọ bụ aka",
+    "Mkpụrụ Akụ́kụ́kụ́ Ma Ọ Bụ Mkpụrụ Osisi E Ji Eme Ihe n'Ụzọ Na - adịghị Ize Ndụ"
+  ],
+  "management": [
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide òtù nzuzo",
+    "Wepụ ma bibie akwụkwọ ndị bu ọrịa ahụ",
+    "Ọ na - eme ka ikuku na - erugharị nke ọma, na - emekwa ka ọ na - ekpo ọkụ nke ọma",
+    "Na - atụgharị uche n'ihe ọkụkụ ndị a kụrụ n'ubi iji gbochie ha ịkọ ugbo"
+  ],
+  "chemical_control": [
+    "Anadu-n'ọ́chāghị́ányá",
+    "Akwụkwọ osisi na - amị mkpụrụ n'oge oyi"
+  ],
+  "prevention": [
+    "Zere ịgba ala mmiri n'ike n'ike",
+    "Jiri ọrịa nke na-enweghị mkpụrụ akụ́kụ́ ma ọ bụ ndị nke na-agba agbawa mee ihe",
+    "Wepụ ahịhịa ndị dị n'ubi mgbe owuwe ihe ubi gasịrị"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "DALUWON 1 (Yoruba)"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "virus_name": "Ịṅụ Mmanya Na - aba n'Anya n'Ụzọ Na - adịghị Mma",
+  "abbreviation": "TRRM",
+  "family": "Seviviae",
+  "genus": "Npoviru",
+  "taxonomy": {
+    "order": "Mkpụrụ Osisi Ndị Dị n'Ime Ala",
+    "virus_group": "Nje HIV nke Na - akpata Ọrịa AIDS"
+  },
+  "genome": {
+    "type": "Ítụ̀ nà-dēèlụ̀",
+    "structure": "Narị afọ abụọ na iri asaa na otu)",
+    "particle_shape": "Mmeghachi Omume Dị Mgbagwoju Anya",
+    "particle_size": "Ihe dị ka mita 28 n'obosara"
+  },
+  "transmission": {
+    "vectors": [
+      "Ihe ndị e ji asa ezé n'oge a (n'ala ala peeji)",
+      "Usoro ndị nke a kara chọọ",
+      "IHE NDỊ GA - ENYERE GỊ AKA",
+      "Ndị na - egbu ahịhịa na - eri ahịhịa",
+      "Ihe Ndị Na - enye Aka n'Ahụ́"
+    ],
+    "mechanical": true,
+    "seed_transmission": true,
+    "additional_notes": "A chọpụtala ihe ndị na - esi ísì ọma n'ebe ahụ, ma a chọpụtabeghị na e si n'ebe a na - akọ ihe ọkụkụ nweta ihe ọkụkụ."
+  },
+  "hosts": {
+    "major_crops": [
+      "Ịṅụ sịga (n'asụsụ Igbo)",
+      "Sobon",
+      "AGBOR 1 (Bekee)",
+      "IHE NDỊ GA - ENYERE GỊ AKA",
+      "Plato",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ],
+    "ornamental_plants": [
+      "Zirimia isi",
+      "Mkpụrụ Osisi Ndị Dị n'Ime Ala",
+      "Petnoia"
+    ],
+    "weed_hosts": [
+      "Ọ na - adị m ka m̀ bụ onye a jụrụ ajụ.",
+      "Ma, ọ na - adị ka à ga - asị na ọ bụ otu n'ime ha dere ya.",
+      "N'ihi Gịnị Ka A Ga - eji Na - eme Ihe n'Ụzọ Ziri Ezi?"
+    ]
+  },
+  "symptoms": [
+    "Ihe ndị e ji esiji ákwà bụ́ ndị e ji ajị anụ mee bụ́ ndị dị n'akwụkwọ",
+    "Ihe mgbochi ndị na - eyi egwu bụ́ ndị na - eme ka ọrịa na - akawanye njọ",
+    "Ihe Ndị Na - adịghị Mkpa na Ihe Ndị Na - adịghị Mma",
+    "Mkpụrụ akụ́kụ́ ndị dị n'ime ala na - eto nke ọma",
+    "Ọ na - eme ka ihe a kụrụ akụ ghara ịrụ ọrụ nke ọma, ọ na - emekwa ka o nwee ume ọ ga - eji na - arụ ọrụ nke ọma"
+  ],
+  "disease_cycle": [
+    "Ụmụ irighiri ihe ndị dị ndụ na - ebi n'osisi ndị nwere nje ndị na - akpata ọrịa, mkpụrụ akụ́kụ́, na ala site n'ihe ndị dị mmiri mmiri mmiri ara ehi bụ́ ndị dị n'ebe ahụ",
+    "Ụlọ ọrụ ndị na - emepụta mmiri ọgwụ na - ebute nje virus ka ha na - eri mkpọrọgwụ ndị bu ọrịa ahụ",
+    "Ụmụ irighiri ihe ndị dị ndụ na - ekesa nje virus n'ebe ákụ́kụ́ ndị dị mma dị mgbe a na - eri nri",
+    "A pụrụ inwe mmịnye ọbara n'oge a na - akụ ya"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Ihe ndị e ji esiji ákwà bụ́ ndị a tụrụ atụ n'akwụkwọ",
+      "Ihe ndị na - eme ka ahụ́ na - ama jijiji na ihe ndị na - eme ka ahụ́ na - ama jijiji"
+    ],
+    "laboratory_methods": [
+      "EZA",
+      "PCR-N'ọ́ọ̀kụ̀ ndị di na nwunye",
+      "Ihe Ndị Na - enyere Anụ Ahụ́ Aka Ịghọta Ihe Ndị Na - edozi Ahụ́"
+    ],
+    "viral_inclusions": [
+      "E nwere otu nwoke bi n'obodo dị́ nso n'ebe anyị bi.",
+      "Ihe osise ndị dị n'ebe ndị a na - edebe ihe ọmụma n'Intanet (Cyst Inc)"
+    ]
+  },
+  "impact": {
+    "economic": "Ọ̀ pụrụ ime ka ihe ọkụkụ ndị a na - enweta site n'itinye nnu na ose, ahụekere, na ụtaba n'ọ̀tụ̀tụ̀ dị ukwuu",
+    "agronomic": "Osisi ndị a kụrụ n'ala pụrụ ito nke ọma ma belata imepụta ihe"
+  },
+  "management": {
+    "cultural": [
+      "Jiri nje na-enweghị isi",
+      "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ná mmalite",
+      "Jiri anya nke uche gị hụ ụdị akụ́kụ́ ndị na-adịghị adị"
+    ],
+    "vector_management": [
+      "Ekwela ka ọnụ ọgụgụ ndị bi n'ala ndị dị nso na - amụba amụba n'ike n'ike",
+      "Ndị na - azụ ụmụ ahụhụ na ndị na - akpa ha aka ọjọọ"
+    ],
+    "sanitation": [
+      "Ngwá ọrụ na ngwá ọrụ ndị bụ́ ọkpọka",
+      "Zere ibu ndị dị n'agbata osisi ndị ahụ"
+    ]
+  },
+  "references": [
+    "IHE NDỊ NA - EME N'ỤWA KWURU",
+    "IHE NDỊ NA - EME KA E NWEE OBI ỤTỌ N'OGE OCHIE",
+    "PỤRỤ ICHE N'EBE A NA - EME IHE IKE N'OGE OCHIE"
+  ]
+}

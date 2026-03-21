@@ -1,69 +1,81 @@
 {
-  "pest_name": "Stem-Boring Weevil",
-  "scientific_name": "Mecinus janthinus Germar",
-  "type": "insect",
-  "native_range": ["Europe", "Asia"],
-  "introduced_range": ["United States"],
+  "pest_name": "Şarkı Sözleri Weevil",
+  "scientific_name": "Mecinus Janthinus Germar Hakkında",
+  "type": "böcekler",
+  "native_range": [
+    "Avrupa",
+    "Asya"
+  ],
+  "introduced_range": [
+    "Birleşik Devletler"
+  ],
   "hosts": {
-    "primary": ["yellow toadflax (Linaria vulgaris)"],
-    "secondary": ["Dalmatian toadflax (Linaria dalmatica)"]
+    "primary": [
+      "sarı toadflax (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "Dalmatian toadflax (Linaria dalmatica) - Dalmatian toadflax (Dalmatian toadflax)"
+    ]
   },
   "description": {
     "eggs": {
-      "color": "white",
-      "shape": "oval"
+      "color": "Beyaz",
+      "shape": "Oval"
     },
     "larvae": {
-      "shape": "C-shaped",
-      "color": "creamy-white",
-      "head_capsule": "brown",
+      "shape": "C şekli",
+      "color": "krem beyaz",
+      "head_capsule": "kahverengi",
       "length_mm": 5
     },
     "pupae": {
-      "color": "creamy-white",
-      "features": ["conspicuous appendages", "long snout"]
+      "color": "krem beyaz",
+      "features": [
+        "Konfüçyüs eklentileri",
+        "Uzun Snoot"
+      ]
     },
     "adults": {
-      "color": "bluish-black (rarely greenish-black)",
-      "length_mm": "2.4–3.4",
-      "shape": "elongated with long snouts and elbowed antennae",
-      "metallic_sheen": "subtle when newly emerged, dulls with age",
-      "comparison": "smaller and less abruptly curved snouts than M. janthiniformis"
+      "color": "mavi-siyah ( nadiren yeşil-siyah)",
+      "length_mm": "2 - 3 - 4",
+      "shape": "Uzun çubuklar ve yumuşak antenler ile uzatılmış",
+      "metallic_sheen": "Yeni ortaya çıktığında ince, yaşla dolu",
+      "comparison": "M. janthiniformis'ten daha küçük ve daha az aniden eğilmiş çubuklar"
     }
   },
   "life_cycle": {
     "generation_per_year": 1,
-    "overwintering_stage": "adult in previous year's toadflax stems",
-    "spring_emergence": "early spring, timing varies by site-specific factors",
-    "adult_feeding": "new shoot tips and leaves, produces shot hole injury pattern",
+    "overwintering_stage": "Yetişkinler önceki yılın toadflax sesleri",
+    "spring_emergence": "Erken bahar, zamanlama sitesi belirli faktörlere göre değişir",
+    "adult_feeding": "yeni atış ipuçları ve yapraklar, atış delik yaralanma örneği üretir",
     "egg_laying": {
-      "method": "females chew holes in stems, lay eggs singly, cover with chewed plant tissue",
-      "quantity_per_lifetime": "60–160 under lab conditions"
+      "method": "kadınlar çamurlu delikler, yumuşak yumurta tek, çamurlu bitki dokusu ile kaplı",
+      "quantity_per_lifetime": "60-160 laboratuvar koşullarında"
     },
-    "larval_feeding": "3 instars, mine lower stems in tunnels",
-    "pupation": "mid-summer in larval tunnels",
-    "adult_emergence": "late summer, overwinter inside pupal chambers"
+    "larval_feeding": "3 inç, tünellerde alt çubuklar",
+    "pupation": "Sonbahar, larval tünellerinde",
+    "adult_emergence": "Yazın sonuna kadar, pupal odalarının içindeki kış"
   },
   "damage": {
     "adult": [
-      "chews growing tips, stems, leaves",
-      "distinctive shot hole injury pattern",
-      "weakens plants, suppresses flowering and seed production",
-      "stunts shoots, shoot tips turn brown and shrivel"
+      "bitkiler bitkiler, bitkiler, yapraklar",
+      "Özel atış delik yaralanma modeli",
+      "Bitkileri zayıflatır, çiçeklenme ve tohum üretimi bastırır",
+      "iğrenç atışlar, atış ipuçları kahverengi ve yumuşak"
     ],
     "larval": [
-      "mines stems, severs water/nutrient-conducting tissues",
-      "causes desiccation and death of plant tissue",
-      "likely depletes root nutrient reserves, impacting plant persistence"
+      "maden çamurları, su / besin taşıma dokuları",
+      "Bitki dokusunun bozulmasına ve ölümüne neden olur.",
+      "muhtemelen kök besin rezervlerini yok eder, bitki dayanıklılığını etkiler"
     ],
-    "long_term_impact": "Repeated yearly attack reduces toadflax plant density"
+    "long_term_impact": "Yıllık tekrarlanan saldırı toadflax bitki yoğunluğunu azaltır"
   },
   "management_notes": [
-    "Biocontrol agent used against invasive toadflax in North America",
-    "Monitoring adult emergence in spring can guide management strategies",
-    "Supports long-term reduction of toadflax populations"
+    "Kuzey Amerika'da invaziv toadflax'a karşı kullanılan Biocontrol ajanı",
+    "İlkbaharda yetişkinlerin ortaya çıkmasını izlemek yönetim stratejilerini yönlendirebilir",
+    "Uzun vadede toadflax nüfusunun azaltılmasını destekler"
   ],
   "references": [
-    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America. In: Biological Control of Weeds in North America. NAISMA-BCW-2022-29-TOADFLAXES-A."
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: History and Ecology in North America."
   ]
 }

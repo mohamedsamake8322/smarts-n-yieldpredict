@@ -1,51 +1,51 @@
 {
-  "disease_name": "Alternaria Black Mold Stem Canker",
-  "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "disease_name": "Mwani wa Altania Black Mold Stember",
+  "scientific_name": "Artania pp.",
+  "pathogen_type": "Kuvu",
+  "genus": "Altaniria",
+  "description": "Muundo mweusi wa kuvu ni ugonjwa wa kuvu unaosababishwa na jamii ya jamii ya Altaniria. Unaathiri mashina, majani na nyakati nyingine matunda ya mazao mengi, hasa mimea katika familia ya Solanaceae.",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "Shina",
+    "Jani",
+    "Matunda"
   ],
   "hosts": [
-    "Tomato",
+    "Nyanya",
     "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "Kupanda Mayai",
+    "Pilipili",
+    "Mimea mbalimbali ya Solanaceace"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "Ukuzi mweusi wa hudhurungi hadi ukungu kwenye mashina",
+    "Viboko vya msingi au vidonda vilivyozama",
+    "Sehemu za majani zenye umbo la pia",
+    "Manjano na majani yanayonyauka",
+    "Ukuzi wa mimea uliopunguzwa"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "Halijoto yenye joto (20furahi30furahi1C)",
+    "Unyevu mwingi",
+    "Kulowesha majani kwa muda mrefu",
+    "Kuwapo kwa mabaki ya mimea iliyoambukizwa"
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "Mbegu Zilizopeperushwa na Upepo",
+    "Maji ya mvua",
+    "Takataka za mimea zilizochafuliwa",
+    "Mbegu zilizoambukizwa"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "Tumia mbegu zisizo na maradhi",
+      "Zungusha mazao kwa mimea isiyo ya asili",
+      "Ondoa takataka za mimea iliyoambukizwa",
+      "Kuboresha mzunguko wa hewa kwenye mimea"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
-      "Chlorothalonil",
-      "Copper-based fungicides"
+      "Tumia dawa za kuua kuvu kama vile Mancozeb",
+      "Klorothalolonil",
+      "Dawa za kuua kuvu zinazotokana na shaba"
     ]
   }
 }

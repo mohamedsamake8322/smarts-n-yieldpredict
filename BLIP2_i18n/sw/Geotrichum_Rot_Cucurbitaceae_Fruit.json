@@ -1,60 +1,60 @@
 {
- "disease": "Geotrichum Fruit Rot of Cucurbits",
- "scientific_name": "Geotrichum candidum",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
- "symptoms": [
-  "Soft watery rot on fruits",
-  "White cottony mold on infected areas",
-  "Fruit tissue becomes soft and collapses",
-  "Sour or fermented smell from infected fruit",
-  "Rot usually starts at wounds or damaged areas"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Wounded or damaged fruits",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Handling of infected fruits",
-  "Wounds caused during harvest or transport"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Remove and destroy infected fruits",
-  "Improve field and storage sanitation",
-  "Ensure good ventilation during storage",
-  "Harvest fruits at proper maturity"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
-  "Apply Bacillus-based biofungicides to reduce pathogen development"
- ],
- "chemical_control": [
-  "Post-harvest fungicides containing thiabendazole",
-  "Imazalil-based treatments in storage facilities",
-  "Sanitation with approved disinfectants to reduce contamination"
- ],
- "prevention": [
-  "Avoid fruit injuries during harvest and transport",
-  "Maintain clean storage conditions",
-  "Remove plant debris from fields",
-  "Store fruits in cool and dry conditions"
- ],
- "source": [
-  "Plant pathology references on cucurbit post-harvest diseases",
-  "CABI Crop Protection Compendium",
-  "Plant disease management guides"
- ]
+  "disease": "Matunda ya Geotrichum Rot ya Cucurbits",
+  "scientific_name": "Maelezo ya Geotrichum",
+  "pathogen_type": "Fungus ya",
+  "description": "Ugonjwa wa fungus ambayo huwa huwa na matunda ya kutosha kwenye matunda ya cucurbit kama vile kukumbuka, melon, na pumkin. Ni hasa kuathiri matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda ya matunda.",
+  "symptoms": [
+    "Matunda ya maji kwa matunda ya matunda",
+    "Mti wa White Cottony kwenye maeneo yaliyoathiriwa",
+    "Mafuta ya matunda inakuwa ya kuvutia na kuanguka",
+    "Maua ya maua ya maua ya maua ya maua ya maua",
+    "Root mara nyingi huanza katika maeneo yaliyoathiriwa au yaliyoathiriwa"
+  ],
+  "hosts": [
+    "ya Cucumber",
+    "Meloni ya",
+    "Mji wa maji",
+    "ya Pumpkin",
+    "Siku ya Squash",
+    "Vitu vingine vya kukumbuka"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Matunda ya kuharibiwa au kuharibiwa",
+    "Upungufu mdogo wakati wa kuhifadhi"
+  ],
+  "spread": [
+    "ardhi ya kuvutia",
+    "Ukosefu wa mbegu za mimea",
+    "Matibabu ya matibabu yaliyoathiriwa",
+    "Majeruhi yaliyoathiriwa wakati wa mazao au usafiri"
+  ],
+  "management": [
+    "Kuendesha matunda kwa makini ili kuepuka maumivu",
+    "Kuondoa na kuharibu matunda yaliyoathiriwa",
+    "kuboresha uhifadhi wa ardhi na usafirishaji",
+    "Kutoa usafiri mzuri wakati wa kuhifadhi",
+    "Kupata matunda kwa kiwango cha kutosha"
+  ],
+  "biological_control": [
+    "Kutumia virutubisho muhimu kama vile aina ya Trichoderma ili kuzuia ukuaji wa fungus",
+    "Matumizi ya biofungicides ya Bacillus ili kupunguza maendeleo ya patogen"
+  ],
+  "chemical_control": [
+    "Mbegu za baada ya mazao ambayo hutoa thiabendazole",
+    "Matibabu ya Imazalil katika vituo vya kuhifadhi",
+    "Usalama na Desinfectants zilizowekwa ili kupunguza uchafuzi"
+  ],
+  "prevention": [
+    "Kuepuka majeruhi ya matunda wakati wa mazao na usafiri",
+    "Kutoa hali ya kuhifadhi safi",
+    "Kuondoa mbegu za mimea kutoka kwenye maeneo",
+    "Kuhifadhi matunda katika hali ya baridi na safi"
+  ],
+  "source": [
+    "Matokeo ya matibabu ya mimea juu ya magonjwa ya cucurbit baada ya mimea",
+    "Mkataba wa Ulinzi wa CABI",
+    "Matibabu ya matibabu ya matibabu"
+  ]
 }

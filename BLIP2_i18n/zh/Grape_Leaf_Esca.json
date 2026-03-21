@@ -1,57 +1,57 @@
 {
- "disease": "Grape Esca",
- "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp., Fomitiporia mediterranea",
- "pathogen_type": "Fungus (wood-decay disease complex)",
- "description": "Esca is a serious trunk disease of grapevines that damages wood tissues and reduces vine vigor. It causes leaf discoloration, wood decay, and sudden vine death in severe cases.",
- "symptoms": [
-  "Yellow and brown tiger-stripe patterns on leaves",
-  "Leaf drying and burning from margins",
-  "Reduced vine growth and weak shoots",
-  "Dark streaks inside trunk wood",
-  "White spongy rot inside the trunk",
-  "Sudden wilting or death of vines (apoplexy)"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Old vineyards",
-  "Pruning wounds allowing fungal entry",
-  "Warm conditions during growing season",
-  "Poor pruning sanitation"
- ],
- "spread": [
-  "Fungal spores entering through pruning wounds",
-  "Infected planting material",
-  "Contaminated pruning tools"
- ],
- "management": [
-  "Remove and destroy infected vines",
-  "Prune during dry weather",
-  "Protect pruning wounds",
-  "Use healthy certified planting material",
-  "Avoid large pruning wounds"
- ],
- "biological_control": [
-  "Trichoderma-based products applied to pruning wounds",
-  "Beneficial fungi to prevent pathogen colonization"
- ],
- "chemical_control": [
-  "Wound protectant fungicides after pruning",
-  "Copper-based protective treatments"
- ],
- "prevention": [
-  "Disinfect pruning tools",
-  "Use certified disease-free vines",
-  "Protect pruning wounds immediately after pruning",
-  "Maintain vineyard sanitation"
- ],
- "source": [
-  "OIV Vine Disease Guide",
-  "FAO Plant Disease Resources",
-  "Viticulture pathology literature"
- ]
+  "disease": "葡萄埃斯加",
+  "scientific_name": "Pheeomoniella Cllamydospora, Phaeopiacremonium spp., Fomitiporia mediterranea. 甲型六氯环己烷",
+  "pathogen_type": "Fungus(木材-衰变疾病综合综合体)",
+  "description": "Esca是一种严重的葡萄干疾病,它损害木材组织并减少葡萄活力,导致叶子脱色、木材腐烂和严重情况下的葡萄突然死亡。",
+  "symptoms": [
+    "叶叶上的黄色和棕色老虎纹状图案",
+    "叶子干燥和从边边上燃烧",
+    "降低葡萄生长和弱发芽",
+    "树干木中黑暗的痕迹",
+    "白海绵在后备箱里腐烂",
+    "松树的蒸发或死亡(翻滚)"
+  ],
+  "hosts": [
+    "Grapevine (维尼菲拉病毒)",
+    "表葡萄",
+    "葡萄酒",
+    "脊髓灰炎物种"
+  ],
+  "favorable_conditions": [
+    "旧葡萄园",
+    "治疗创伤,允许真菌入境",
+    "生长季节的温暖条件",
+    "贫穷的缺水的卫生条件"
+  ],
+  "spread": [
+    "菌类螺子通过修补伤口进入",
+    "感染的种植材料",
+    "受污染的处理工具"
+  ],
+  "management": [
+    "清除和销毁已感染的葡萄树",
+    "干旱天气期间的湿度",
+    "保护修剪伤口",
+    "使用健康、经认证的种植材料",
+    "避免大修剪伤口"
+  ],
+  "biological_control": [
+    "用于修剪伤口的基于三氯代双甲基产品",
+    "防止病原体殖民化的有益真菌"
+  ],
+  "chemical_control": [
+    "修剪后的杀真菌剂",
+    "基于铜的防护处理"
+  ],
+  "prevention": [
+    "排除运行工具",
+    "使用经认证的无疾病的藤蔓",
+    "在修剪后立即保护修剪伤口",
+    "维持葡萄园环境卫生"
+  ],
+  "source": [
+    "OIV OIV 葡萄病指南",
+    "粮农组织植物疾病资源",
+    "活性文化病理学文献"
+  ]
 }

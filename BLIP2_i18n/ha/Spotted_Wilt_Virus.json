@@ -1,76 +1,106 @@
 {
-  "pest_name": "Tomato Spotted Wilt Virus",
-  "abbreviation": "TSWV",
-  "type": "virus",
-  "family": "Tospoviridae",
+  "pest_name": "KCharselect unicode block name",
+  "abbreviation": "Indian National weekday 3 - LongDayName",
+  "type": "QFontDatabase",
+  "family": "KCharselect unicode block name",
   "genome": {
-    "type": "negative-sense RNA",
-    "structure": "spherical, 80-110 nm diameter",
+    "type": "Indian National weekday 5 - LongDayName",
+    "structure": "@ item Spelling dictionary",
     "segments": [
-      {"name": "L", "length_kb": 8.9},
-      {"name": "M", "length_kb": 4.8},
-      {"name": "S", "length_kb": 2.9, "genes": ["N", "NSs"]}
+      {
+        "name": "Layin context menu item",
+        "length_kb": 8.9
+      },
+      {
+        "name": "MASU SHELA",
+        "length_kb": 4.8
+      },
+      {
+        "name": "S.",
+        "length_kb": 2.9,
+        "genes": [
+          "@ action",
+          "@ item Text character set"
+        ]
+      }
     ]
   },
   "hosts": {
-    "primary": ["tomato", "tobacco", "capsicum", "lettuce", "potato", "peanut", "eggplant", "onion", "various ornamentals"],
-    "weeds": ["sowthistle", "capeweed", "thornapples", "cobbler's pegs", "nightshades", "Jamaican snakeweed"]
+    "primary": [
+      "QShortcut",
+      "a kai a kai",
+      "KCharselect unicode block name",
+      "QDialogButtonBox",
+      "KCharselect unicode block name",
+      "Indian National weekday 3 - LongDayName",
+      "Saurin Sura Mai Motsi",
+      "@ action",
+      "KCharselect unicode block name"
+    ],
+    "weeds": [
+      "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Da dare a lõkacin da ya jũyar da baya.",
+      "Sai gã ta dabbar macĩjiya, tanã tafiya da gaggãwa."
+    ]
   },
   "symptoms": [
-    "Stunting of plants",
-    "Ringspots and mottling on leaves and fruit",
-    "Chlorotic blotches and line patterns on leaves",
-    "Wilting and purpling of leaves",
-    "Necrotic lesions on stems",
-    "Distorted or necrotic fruits"
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "KCharselect unicode block name",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "transmission": {
-    "vector": "thrips",
+    "vector": "KCharselect unicode block name",
     "vector_species": [
-      "Frankliniella occidentalis (western flower thrips)",
-      "Frankliniella sulphurea (yellow tomato thrips)",
-      "Thrips palmi (melon thrips)",
-      "Thrips tabaci (onion thrips)"
+      "KCharselect unicode block name",
+      "@ item Text character set",
+      "\"Kuma ki girgiza zuwa gare ki game da kututturen dabĩnon ya zuba a kanki yanã 'ya'yan dabĩno, ruɗabi nunannu.\"",
+      "KCharselect unicode block name"
     ],
     "mechanism": [
-      "Acquisition occurs only in larval stage (1st and early 2nd instar)",
-      "Virus circulates and multiplies in vector's gut and salivary glands",
-      "Adult thrips remain infective for life but do not transmit to offspring",
-      "Transmission can occur in 5–10 minutes of feeding"
+      "An yi amfani da wata dabara ce kawai a filin da ake kira e da kuma a farkon ƙarni na biyu a ƙasar.",
+      "Ana samun ci gaba sosai a faɗin duniya, kuma hakan ya ba ni mamaki sosai.",
+      "Ana kashe kuɗi sosai don rayuwa amma ba a tilasta wa ' ya'ya",
+      "Za a iya samun masu cin abinci a cikin mintoci 5 idan aka yi amfani da su wajen ciyar da ' yan'uwa maza da mata"
     ]
   },
   "life_cycle": {
-    "thrips_larval_stage": "1–3 days",
-    "thrips_adult_lifespan": "20–30 days",
-    "TSWV_infection_duration": "lifelong in vector acquired as larva"
+    "thrips_larval_stage": "1 kwanaki 12",
+    "thrips_adult_lifespan": "20 tsawon kwanaki fiye da dubu biyar",
+    "TSWV_infection_duration": "Rayuwa ta dogon lokaci ta samu gamsuwa kamar rana"
   },
   "economic_impact": [
-    "Serious losses in vegetables, field crops, and ornamentals",
-    "Considered one of the most economically devastating plant viruses globally"
+    "Rashin aiki a lambu, shuke - shuke, shuke - shuke, da kuma shuke - shuke",
+    "Ka yi la'akari da ɗaya cikin manyan shuke - shuke mafi muni"
   ],
   "management": {
     "prevention": [
-      "Use virus- and thrips-free transplants",
-      "Remove infected plants and old crops",
-      "Maintain weed-free buffers of at least 25 m",
-      "Sanitation practices in greenhouses and fields"
+      "Ka Yi Amfani da ' Yancinka da Kuma Yin Amfani da Wa'azi",
+      "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+      "Mun riƙe mutane a kano'i 25",
+      "Media controller element"
     ],
     "resistant_varieties": [
-      "Use TSWV-resistant capsicum and tomato varieties",
-      "Consider resistance-breaking strains and maintain hygiene"
+      "Ka Yi Amfani da Wa'azi da Kuma Yin Wa'azi",
+      "Ku nĩsanci abu mai yãwa na zato."
     ],
     "chemical_control": [
-      "Limited value of insecticides against vectors due to rapid resistance",
-      "Insecticides may reduce thrips populations but do not eliminate virus spread"
+      "QXml",
+      "A wasu wurare, ana iya rage ma'aikata masu yawa amma kuma ba a kawar da hani da ke ko'ina"
     ],
     "biological_control": [
-      "Predators of thrips such as Orius insidiosus (minute pirate bugs) and Geocoris punctipes (big-eyed bugs)"
+      "Ana iya kiran su da kyau kamar Aliiii da ake kira Niaaaa (a tsakiya) da kuma Tarado da ake amfani da su don a yi amfani da su wajen yin amfani da abubuwan da ba su dace ba."
     ]
   },
   "notes": [
-    "Infected plants cannot be cured",
-    "Virus spreads only via thrips, not by seed, other insects, handling, or soil",
-    "TSWV has a very wide host range (>900 species in Australia alone)",
-    "Other related tospoviruses include CaCV, INSV, IYSV"
+    "Ba za a iya warkar da shuke - shuke ba",
+    "Ana samun ci gaba ne ba kawai ta wurin iri ba, ba iri, ko kuma ƙasa mai kyau ba",
+    "KA YI la'akari da mutane da yawa da suka fito daga wurare dabam - dabam a ƙasar Ostareliya",
+    "Wasu abubuwa da suka shafi yin maye da aka yi a ƙasar Ida, sun haɗa da yin amfani da na'ura don a yi amfani da su a yaƙi, ko ba haka ba?"
   ]
 }

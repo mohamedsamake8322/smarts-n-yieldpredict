@@ -1,0 +1,105 @@
+{
+  "disease": "Bakterielle Blattstreifen von Getreide",
+  "scientific_name": "Xanthomonas translucens",
+  "pathogen_type": "Bakterium",
+  "pathovars": [
+    "Xanthomonas translucens pv. undulosa",
+    "Xanthomonas translucens pv. translucens",
+    "Xanthomonas translucens pv. cerealies"
+  ],
+  "description": "Bakterielle Blattstreifen ist eine wichtige Krankheit von Getreidepflanzen wie Weizen und Gerste. Es wird durch das Bakterium Xanthomonas translucens verursacht. Die Krankheit produziert lange transluzente Streifen auf Blättern, die später braun und trocken werden. Schwere Infektionen können Getreideertrag erheblich reduzieren.",
+  "symptoms": [
+    "Lange, wasserdurchtränkte Streifen auf Blättern",
+    "Hellgrüne oder gelbe Streifen zwischen den Adern",
+    "Läsionen werden braun und länglich",
+    "Streaks verlaufen parallel zu Blattvenen",
+    "Blätter können bei schweren Infektionen trocknen und sterben",
+    "Sticky gelb bakterielle Exsudat kann auf Läsionen erscheinen",
+    "Blätter können entlang der Streifen zerfetzt aussehen"
+  ],
+  "visual_signature": [
+    "lange gelbe oder hellbraune Streifen auf Getreideblättern",
+    "parallele Streifen nach Blattvenen",
+    "gelbe klebrige Tröpfchen auf Blattoberfläche"
+  ],
+  "affected_plant_parts": [
+    "Blätter",
+    "Blattblatt",
+    "Manchmal Ohr Kopf Pedunkel"
+  ],
+  "hosts": [
+    "Weizen",
+    "Gerste",
+    "Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen/Roggen",
+    "Hafer",
+    "Mais",
+    "Sorghum",
+    "Wildgräser",
+    "Futtergräser"
+  ],
+  "plant_family": "Hülsengemüse",
+  "important_hosts": [
+    "Triticum aestivum (Weizen)",
+    "Hordeum vulgare (Barley)",
+    "Avena sativa (Haar)",
+    "Säkalgetreide (Roggen)",
+    "Sorghum bicolor",
+    "Zea mays"
+  ],
+  "favorable_conditions": [
+    "warme Temperaturen",
+    "hohe Luftfeuchtigkeit",
+    "häufige Niederschläge",
+    "Sprinklerbewässerung",
+    "Feuchte Vegetationsperioden"
+  ],
+  "spread": [
+    "infizierte Samen",
+    "Regenspritzer",
+    "Windgetriebener Regen",
+    "kontaminierte pflanzliche Rückstände",
+    "infiziertes Unkraut und Gräser"
+  ],
+  "disease_cycle": [
+    "Bakterien überleben auf infizierten Samen",
+    "Bakterien treten durch Stomata oder Wunden in die Pflanze ein",
+    "Infektion breitet sich in Blättern entlang Venen",
+    "Bakterien vermehren sich und produzieren Exsudate",
+    "Regen verbreitet Bakterien zu nahe gelegenen Pflanzen"
+  ],
+  "management": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Strenge Prüfung der Gesundheit von Saatgut anwenden",
+    "Vermeiden Sie das Anpflanzen infizierter Saatgutpartien",
+    "Verwenden Sie resistente oder tolerante Sorten, wenn verfügbar",
+    "Überwachen Sie die Felder regelmäßig auf Frühsymptome",
+    "Einhaltung der Quarantänevorschriften für die Verbringung von Saatgut"
+  ],
+  "biological_control": [
+    "biologische bakterielle Antagonisten in der Forschung"
+  ],
+  "chemical_control": [
+    "keine hochwirksame chemische Kontrolle auf dem Gebiet verfügbar"
+  ],
+  "seed_treatment": [
+    "Warmwasseraufbereitung (ca. 53°C für 10 Minuten)",
+    "Trockenwärmebehandlung",
+    "Versauerte Kupferbehandlungen zur Verringerung der Saatgutinfektion"
+  ],
+  "impact": [
+    "Ertragsverlust bis zu 40 Prozent in schweren Fällen",
+    "Verringerung des Getreidegewichts",
+    "Verringerung der Kornzahl pro Spitze"
+  ],
+  "diagnosis": [
+    "Beobachtung von Feldsymptomen",
+    "bakterielle Isolierung auf Kulturmedien",
+    "DNA-basierter molekularer Nachweis (PCR oder Sequenzierung)"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Bewertungen des Pflanzenkrankheiten-Journals",
+    "Quarantäneberichte der EPPO-Pflanzen",
+    "Sapkota et al. 2020"
+  ]
+}

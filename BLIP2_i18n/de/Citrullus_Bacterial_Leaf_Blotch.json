@@ -1,0 +1,119 @@
+{
+  "disease_name": "Citrullus_Bakterial_Fruit_Blotch",
+  "common_name": "Bakterielle Fruit Blotch",
+  "causal_agent": {
+    "type": "Bakterium",
+    "scientific_name": "Acidovorax Citrulli",
+    "taxonomy": {
+      "domain": "Bakterien",
+      "class": "Betaproteobakterien",
+      "order": "Burkholderiales",
+      "family": "Comamonadaceae",
+      "genus": "Acidovorax",
+      "species": "Zitruskohle"
+    }
+  },
+  "microbiological_properties": {
+    "gram_stain": "Gram-negativ",
+    "shape": "Stangenform",
+    "size": "Ca. 0,5 μm × 1,7 μm",
+    "oxygen_requirement": "Streng aerobe",
+    "motility": "Motil mit polarem Flagellum",
+    "optimal_growth_temperature_celsius": "27-30"
+  },
+  "host_plants": [
+    "Wassermelone",
+    "Melonen",
+    "Gurken",
+    "Squash",
+    "Kürbisgewächse",
+    "Zucchini"
+  ],
+  "symptoms": {
+    "seedlings": [
+      "Wassergetränkte Läsionen an Kotyledonen",
+      "Nekrotische Läsionen in der Nähe von Venen",
+      "Läsionen auf Hypocotyl",
+      "Sämling Zusammenbruch und Tod"
+    ],
+    "leaves": [
+      "Unregelmäßige dunkelbraune bis schwarze Läsionen (Wassermelone)",
+      "rötlich-braune Läsionen (Melonen)",
+      "Läsionen, die sich entlang der Adern ausbreiten",
+      "Symptome der Blattlähmung"
+    ],
+    "fruits": [
+      "Kleine, unregelmäßige, wassergetränkte Läsionen",
+      "Versunkene Rindenflecken",
+      "Läsionen werden braun und knacken",
+      "Innere Fruchtzerfall",
+      "Fruchtfäule vor der Ernte"
+    ]
+  },
+  "disease_cycle": {
+    "primary_inoculum": "Kontaminierte Samen",
+    "transmission_methods": [
+      "Samenübertragung",
+      "Spritzwasser",
+      "Windgetriebener Regen",
+      "Überkopfbewässerung"
+    ],
+    "infection_entry_points": [
+      "Magengeschwüre",
+      "Pflanzenwunden"
+    ],
+    "fruit_infection_stage": "2–3 Wochen nach der Blüte"
+  },
+  "favorable_conditions": {
+    "temperature_celsius": "Hoch (ca. 27–30°C)",
+    "humidity": "Hohe relative Luftfeuchtigkeit",
+    "environment": [
+      "Gewächshäuser",
+      "Dichte Pflanzenpopulationen",
+      "Überkopfbewässerung"
+    ]
+  },
+  "economic_importance": {
+    "impact": "Starke Verluste bei Cucurbit-Pflanzen, insbesondere Wassermelone und Melone",
+    "possible_loss_percentage": "Bis zu 90–100 % Obstverlust bei schweren Ausbrüchen",
+    "global_distribution": true
+  },
+  "management": {
+    "seed_management": [
+      "pathogenfreie zertifizierte Samen verwenden",
+      "Saatgut-Gesundheitstests (PCR- oder Grow-out-Tests)"
+    ],
+    "seed_treatments": [
+      "Trockene Wärmebehandlung (85°C für 3–5 Tage)",
+      "Behandlung von Peroxyessigsäure",
+      "Chlorbehandlungen"
+    ],
+    "cultural_practices": [
+      "Verringerung der Luftfeuchtigkeit in Gewächshäusern",
+      "Überkopfbewässerung vermeiden",
+      "Entferne infizierte Pflanzen"
+    ],
+    "chemical_control": [
+      "Bakterizide auf Kupferbasis"
+    ],
+    "host_resistance": "Keine kommerziell zuverlässigen resistenten Sorten verfügbar"
+  },
+  "genetic_diversity": {
+    "groups": [
+      {
+        "name": "Gruppe I",
+        "characteristics": "Mäßig aggressiv auf mehrere Cucurbits"
+      },
+      {
+        "name": "Gruppe II",
+        "characteristics": "Hoch aggressiv auf Wassermelone"
+      }
+    ]
+  },
+  "sources": [
+    "APS-Lehren über Pflanzenkrankheiten",
+    "Journal of Plant Pathology studies on Acidovorax citrulli",
+    "Internationale Initiative für Saatgutgesundheit (ISHI)",
+    "Veröffentlichungen zur Pflanzenpathologie"
+  ]
+}

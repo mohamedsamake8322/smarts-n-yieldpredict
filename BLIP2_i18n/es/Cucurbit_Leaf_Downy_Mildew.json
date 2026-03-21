@@ -1,0 +1,72 @@
+{
+  "disease": "Cucurbit Downy Mildew",
+  "scientific_name": "Pseudoperonospora cubensis",
+  "pathogen_type": "Oomiceto (patógeno similar a los hongos)",
+  "description": "Una enfermedad foliar destructiva que afecta a los cultivos de cucurbitáceas en todo el mundo. Causa lesiones en las hojas amarillas y muerte rápida de las hojas, reduciendo el crecimiento de las plantas y el rendimiento de los frutos.",
+  "symptoms": [
+    "Manchas amarillas angulares o cloróticas en las hojas",
+    "Lesiones limitadas por las venas de las hojas (especialmente en el pepino)",
+    "Gris a púrpura crecimiento borroso en la parte inferior de las hojas",
+    "Las lesiones se agrandan y se vuelven marrones o necróticas",
+    "Hojas secas y mueren rápidamente",
+    "Disminución del dosel que provoca quemaduras solares y daños en la fruta"
+  ],
+  "hosts": [
+    "Pepino",
+    "Melón",
+    "Sandía",
+    "Calabaza",
+    "Squash",
+    "Otras especies de cucurbitáceas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías a moderadas (15–20°C óptima)",
+    "Alta humedad",
+    "Lluvia frecuente o humedad de las hojas largas",
+    "Dosel de plantas densas con flujo de aire pobre"
+  ],
+  "spread": [
+    "Esporangia dispersada por el viento",
+    "Salpicadura de la lluvia",
+    "Herramientas o equipos contaminados",
+    "Transmisión aérea a larga distancia desde regiones infectadas"
+  ],
+  "infection_process": [
+    "Las esporas aterrizan en superficies de hojas húmedas",
+    "Zoósporas nadan a la estomata de la hoja",
+    "Patógeno entra en la hoja a través de estomata",
+    "Los hifas crecen dentro del tejido de la hoja y extraen nutrientes"
+  ],
+  "management": [
+    "Use cultivares tolerantes o resistentes cuando estén disponibles",
+    "Mejorar el flujo de aire a través del espaciado y la poda de las plantas",
+    "Monitorear los cultivos regularmente para detectar los síntomas tempranos",
+    "Utilizar sistemas de pronóstico para predecir brotes",
+    "Eliminar el material de la planta fuertemente infectado"
+  ],
+  "biological_control": [
+    "Utilizar bioplaguicidas microbianos como productos a base de Bacillus",
+    "Alentar el microbioma sano del suelo para reducir la presión de la enfermedad"
+  ],
+  "chemical_control": [
+    "sprays de fungicida preventivos durante períodos de alto riesgo",
+    "Aplicar fungicidas cada 5-7 días para el pepino o 7-10 días para otras cucurbitáceas durante los brotes",
+    "Rotar fungicidas con diferentes modos de acción para prevenir la resistencia",
+    "Los ingredientes activos pueden incluir alternativas al metalaxil, estrobilurinas u otros fungicidas registrados"
+  ],
+  "prevention": [
+    "Cultivadores resistentes a las plantas cuando estén disponibles",
+    "Garantizar una buena circulación del aire en los campos",
+    "Evite la humedad prolongada de las hojas del riego",
+    "Utilizar herramientas de pronóstico de enfermedades para cronometrar pulverizaciones de fungicidas"
+  ],
+  "impact": [
+    "Puede causar pérdidas de rendimiento de hasta 80–100% en brotes graves",
+    "Gran amenaza para la producción de cucurbitáceas en todo el mundo"
+  ],
+  "source": [
+    "Patología vegetal de la Universidad Estatal de Michigan",
+    "Savory et al. – Patología de las Plantas Moleculares",
+    "Recursos de Cucurbit Downy Mildew IPM"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "disease": "Bakterielle Fruit Blotch",
+  "scientific_name": "Acidovorax Citrulli",
+  "description": "Bakterieller Obstblotch (BFB) ist eine destruktive bakterielle Krankheit, die Cucurbitkulturen weltweit betrifft. Er wird durch das Gram-negative Bakterium Acidovorax Citrulli verursacht und verbreitet sich vor allem durch kontaminierte Samen. Die Krankheit kann zu schweren wirtschaftlichen Verlusten führen, insbesondere bei der Wassermelonen- und Melonenproduktion. Infektion führt zu wassergetränkten Läsionen auf Sämlingen, Blättern und Früchten, was schließlich zu Fruchtfäule, Rissbildung und Ernteverlust führt. Da das Bakterium in Samen über viele Jahre hinweg überleben kann, beruht die Krankheitsbekämpfung vor allem auf Saatgutsanierung und strengen Hygienepraktiken.",
+  "hosts": [
+    "Wassermelone (Citrullus lanatus)",
+    "Melonen (Cucumis melo)",
+    "Gurken (Cucumis sativus)",
+    "Kürbis (Cucurbita spp.)",
+    "Zucchini (Cucurbita pepo)",
+    "Sonstige Cucurbit-Pflanzen"
+  ],
+  "symptoms_and_damage": [
+    "Sämlinge: wassergetränkte Läsionen an Cotyledonen und Hypocotylen, die zum Kollaps und zum Tod führen",
+    "Blätter: große unregelmäßige Läsionen, die braun bis schwarz in Wassermelone und rötlich-braun in Melone sind",
+    "Blattläsionen breiten sich oft entlang der Hauptmittelrippe aus",
+    "Früchte: kleine, wassergetränkte Läsionen, die sich vergrößern und versunken werden",
+    "Fruchtrinde wird nekrotisch, führt zu Rissbildung und Zerfall",
+    "Läsionen ermöglichen sekundäre Infektionen durch andere Krankheitserreger",
+    "Schwer infizierte Früchte verrotten und können Samen verunreinigen"
+  ],
+  "disease_cycle": [
+    "Primäre Übertragung erfolgt durch infizierte Samen",
+    "Das Bakterium kann innerhalb von Samen für viele Jahre überleben",
+    "Benimmt sich zunächst als Saprophyt mit Nährstoffen aus dem Samen",
+    "Wechselt zu pathogenem Wachstum, wenn der Keimling entsteht",
+    "Bakterien infizieren die Entwicklung von Früchten durch Stomata 3–4 Wochen nach dem Obst-Set",
+    "Symptome erscheinen oft spät, nahe der Ernte, wodurch eine Verzögerung zwischen Infektion und Nachweis",
+    "Infizierte Früchte können neue Samen verunreinigen und den Zyklus fortführen"
+  ],
+  "favorable_conditions": [
+    "Hohe Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Warme und feuchte Gewächshausbedingungen",
+    "Hohe bakterielle Belastung kontaminierter Samen",
+    "Dichte Pflanzenpopulationen und Overhead-Bewässerung"
+  ],
+  "prevention_and_cultural_controls": [
+    "pathogenfreie zertifizierte Samen verwenden",
+    "Durchführung von Saatgutgesundheitsprüfungen vor der Pflanzung",
+    "Aufrechterhaltung strenger Hygiene in Baumschulen und Gewächshäusern",
+    "Vermeiden Sie das Anpflanzen kontaminierter Saatgutpartien",
+    "Verringern Sie die Bewässerung über Kopf, um die Ausbreitung von Bakterien zu begrenzen",
+    "Entfernen infizierte Pflanzenabfälle und freiwillige Cucurbit-Pflanzen"
+  ],
+  "chemical_control": [
+    "Kupferbasierte Bakterizide können präventiv zur Verringerung der bakteriellen Ausbreitung eingesetzt werden.",
+    "Die chemische Kontrolle ist in der Regel begrenzt in der Wirksamkeit",
+    "Anträge sollten den lokalen landwirtschaftlichen Vorschriften und Produktetiketten entsprechen"
+  ],
+  "biological_control": [
+    "Derzeit gibt es keine weit verbreiteten biologischen Kontrollmethoden.",
+    "Die Forschung zur Identifizierung wirksamer biologischer Antagonisten ist im Gange."
+  ],
+  "resistance_breeding": [
+    "Keine kommerziellen Sorten mit starker Resistenz sind derzeit verfügbar",
+    "Einige experimentelle Wassermelone und Melone Beitritte haben teilweise Widerstand gezeigt",
+    "Zuchtprogramme suchen weiterhin nach resistentem Keimplasma"
+  ],
+  "monitoring": [
+    "Untersuchen Sie Sämlinge für wassergetränkte Läsionen an Kotyledonen",
+    "Überwachen Sie Blätter für unregelmäßige braune oder schwarze Läsionen entlang der Venen",
+    "Prüfen Sie Früchte für wassergetränkte Stellen, die sich vergrößern und versunken werden",
+    "Test von Saatgutpartien auf Kontamination vor der Pflanzung"
+  ],
+  "direct_control_and_restrictions": [
+    "Zerstöre infizierte Pflanzen, um Verbreitung zu verhindern",
+    "Verwenden Sie Wärmebehandlung von Samen (ca. 85°C für 3–5 Tage), um bakterielle Kontamination zu reduzieren",
+    "Strenge Hygiene in Saatgutproduktions- und Transplantationsanlagen umsetzen",
+    "Vermeiden Sie, Samen von infizierten Früchten zu retten"
+  ],
+  "sources": [
+    "Wikipedia – Bakterieller Obstfleck"
+  ]
+}

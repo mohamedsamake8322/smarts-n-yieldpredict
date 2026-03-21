@@ -1,0 +1,84 @@
+{
+  "disease": "Ala Ọma Jijiji nke Mozis",
+  "scientific_name": "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi (AMMV)",
+  "pathogen_type": "▪ Ọrịa ogbu na nkwonkwo nke na - ebibi ihe",
+  "description": "Nje virus nke na - akpata mmiri ozuzo na ọtụtụ ihe ọkụkụ ndị ọzọ, na - agbasa n'ụzọ bụ́ isi site n'ihe ọkụkụ ma na - akpata usoro dị iche iche nke mkpụrụ akụ́kụ́, na - eme ka ahịhịa na - eto nke ọma ma na - ebelata uto.",
+  "symptoms": [
+    "Otú akwụkwọ osisi si arụ ọrụ n'oge ochie",
+    "Ihe Ndị Na - akpali Agụụ Mmekọahụ Na - apụ n'Anya",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ebe ndị a na - edebe akwụkwọ nri ma ọ bụ ebe ndị a na - edebe akwụkwọ",
+    "Ebe ndị e sere ihe na - acha uhie uhie n'etiti oghere ndị dị n'etiti oghere ndị dị n'etiti ihe ndị dị n'elu ahụ́ (rore)",
+    "Mkpụrụ osisi ndị mara mma ma ọ bụ ndị nke na - esi ísì ọma",
+    "Ebe ndị dị ize ndụ nke anwụ na - acha na - emetụta mkpụrụ osisi",
+    "Uto nke ihe ọkụkụ a tụrụ atụ"
+  ],
+  "hosts": [
+    "Ndị Na - atụchasị Mmadụ",
+    "Ọdọ̀sị́ị̀lụ̀",
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Ńgwānụ́ banye",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Trush",
+    "23.pkin",
+    "Naa",
+    "Belan",
+    "Ihe a bụ ihe ndị na - eme ka mmadụ na - enwe obi ụtọ ná ndụ.",
+    "Chickpea",
+    "Sobon",
+    "Onye na - ahụ n'anya",
+    "Nwa m nwaanyị dị afọ iri abụọ na ise, aha ya bụ ka mụ na ya nwee ike ịna - arụ ọrụ n'ebe a na - anọ arụ ọrụ.",
+    "_Hichaa",
+    "Ọdọ Mmiri",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Kèánáhụ́chāghị́ányá",
+    "Cimeba"
+  ],
+  "favorable_conditions": [
+    "Ọnụ ọgụgụ buru ibu nke ndị bi na ya",
+    "Ubi ndị a na - akọ ugbo bụ́ ndị dị nso n'ebe a na - akụ ihe ọkụkụ ndị a na - akụ ihe na ha",
+    "Òtù a na - akwanyere ùgwù mgbe e guzobesịrị ihe ubi n'ebe a na - akọ ugbo"
+  ],
+  "spread": [
+    "Ihe ndị e ji esi nri bụ́ ndị a na - eri eri ruo nwa oge n'osisi",
+    "E si n'ihe ndị rụrụ arụ enweta ihe ndị e ji ebi ndụ n'oge ochie",
+    "Mmịnye mkpụrụ (ọ̀tụ̀tụ̀ ịjụ oyi)"
+  ],
+  "management": [
+    "Mkpụrụ akụ́kụ́ na - eguzogide ma ọ bụ na - akwado òtù nzuzo",
+    "Wepụ mkpụrụ ndị bu nje ahụ tupu ị kụọ ya",
+    "A na - esi n'ebe a na - anọ akụ ihe n'ubi dị iche iche apụta",
+    "Jiri ihe ndị a kụrụ n'ubi, dị ka ọka mee ihe",
+    "Jiri ihe ndị a kụrụ n'ubi dị ka ahụekere mee ihe",
+    "Ngwá ọrụ ndị e ji arụ ihe, ite na osisi",
+    "Ọ bụrụ na ọ ga - ekwe mee, ọ ga - agbanwe obi gị ma ọ bụrụ na ọ ga - ekwe mee"
+  ],
+  "biological_control": [
+    "Jiri anụ ndị na - eri ibe ha, dị ka anụ ndị na - eri ibe ha, mee ihe",
+    "Jiri mmiri ọgwụ ndị na - egbu egbu mee ihe iji belata ọnụ ọgụgụ ndị na - egwu mmiri",
+    "Gbaa ụmụ ahụhụ bara uru ume n'ubi",
+    "Gbakwunye ihe ndị a na-amaghị́ọ̀tụ̀ bụ́ ndị nwere ihe e ji emenwu ọkụ n'obi"
+  ],
+  "chemical_control": [
+    "Mmanụ a na - agbanye n'ime ala iji belata mmịnye nke nje virus",
+    "Ihe ndị e ji asa ezé (ihe ndị na - enye mmiri ara ehi)",
+    "Ihe ndị na - esi ísì ọma na - eme ka ahụ́ ghara iru mmadụ ala",
+    "Mmiri Na - ezo n'Ime Ime Obodo",
+    "Ndị E Mere Ka Ha Bụrụ Ndị Na - eso Ụzọ Jizọs",
+    "Pymrozine",
+    "Ihe ndị e ji ụrọ kpụọ bụ́ ndị e ji ụrọ kpụọ na - egbochi ihe ọkpụkpụ"
+  ],
+  "prevention": [
+    "Jiri òtù nzuzo ndị na - eguzogide ọgwụ mee ihe",
+    "Nọrọ n'ebe dị anya n'agbata ose na ebe a na - egwu mmiri",
+    "Jiri ihe na - adịghị ọcha ma ọ bụ ihe na - amị amị mee ihe iji mee ka ọ ghara ịdị mma n'anya",
+    "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ná mmalite",
+    "N'ihi ya, ọtụtụ ndị na - eri ihe ndị a na - eri eri n'ebe dị iche iche n'ụwa"
+  ],
+  "source": [
+    "Mahadum Colorado State T.O.A.",
+    "Magazin bụ́ Journal of Intat Pest Care",
+    "Ihe Ndị Na - enye Aka n'Akụkọ Ihe Mere Eme Banyere Ala Ọma Jijiji"
+  ]
+}

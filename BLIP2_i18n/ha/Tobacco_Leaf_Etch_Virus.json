@@ -1,100 +1,104 @@
 {
-  "virus_name": "Tobacco Etch Virus",
-  "abbreviation": "TEV",
-  "family": "Potyviridae",
-  "genus": "Potyvirus",
+  "virus_name": "KCharselect unicode block name",
+  "abbreviation": "Indian National weekday 3 - LongDayName",
+  "family": "KCharselect unicode block name",
+  "genus": "KCharselect unicode block name",
   "taxonomy": {
-    "order": "Patatavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "KCharselect unicode block name",
+    "virus_group": "Indian National weekday 3 - LongDayName"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "monopartite",
-    "particle_shape": "flexuous filamentous particle",
-    "length": "approximately 730 nm",
+    "type": "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "structure": "@ item Spelling dictionary",
+    "particle_shape": "KCharselect unicode block name",
+    "length": "@ item Spelling dictionary",
     "proteins_encoded": 7
   },
   "transmission": {
-    "vectors": ["Aphids including Myzus persicae", "Aphis gossypii", "Macrosiphum euphorbiae"],
-    "mode": "non-persistent transmission",
+    "vectors": [
+      "Abubuwan da Ke Kawo Farin Ciki a Iyali - Ta'aziyya",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
+    ],
+    "mode": "Waɗanda ba a halitta kwatankwacinsu ba a cikin garũruwa (na dũniya).",
     "mechanical": true,
     "seed_transmission": false,
-    "notes": "Aphids acquire the virus rapidly during feeding and can transmit it within minutes."
+    "notes": "Masu sayar da abinci suna iya samun abinci sosai a lokacin cin abinci kuma su yi amfani da shi a cikin mintoci."
   },
   "hosts": {
     "cultivated": [
-      "Capsicum annuum",
-      "Capsicum frutescens",
-      "Tomato (Solanum lycopersicum)",
-      "Tobacco (Nicotiana spp.)"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon.",
+      "To, da sannu zã su hau da wani sharri."
     ],
     "wild_hosts": [
-      "Solanum nigrum",
-      "Solanum aculeatissimum",
-      "Chenopodium album",
-      "Datura stramonium",
-      "Linaria canadensis",
-      "Physalis spp."
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "An buga wani talifi a cikin Littafi Mai Tsarki da ya yi magana a kan yadda za a yi amfani da shi."
     ]
   },
   "symptoms": [
-    "Vein clearing on leaves",
-    "Mosaic or mottling patterns",
-    "Necrotic streaks or etched patterns on leaves",
-    "Leaf deformation and curling",
-    "Stunted plant growth",
-    "Reduced fruit yield and quality",
-    "Occasional fruit discoloration or necrotic lesions"
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Musa ko Ya Yi Amfani da Yadda Ya Kamata",
+    "KCharselect unicode block name",
+    "Yadda Za Mu Jimre da Kuma Yadda Za Mu Kasance da Ban Al'ajabi",
+    "@ action",
+    "Ana nuna ' ya'yan itace da halin kirki",
+    "A wasu lokatai, ' ya'yan itace na ba da ' ya'yan itace ko kuma na'yan itace"
   ],
   "disease_cycle": [
-    "Virus survives in infected host plants and weeds",
-    "Aphids acquire virus during feeding on infected plants",
-    "Virus is transmitted to healthy plants during probing",
-    "Mechanical transmission can occur via contaminated tools or handling"
+    "' Yan kasuwa suna tsira a kan ciyawa da zawan",
+    "Ana samun kayan ci ne a lokacin cin abinci a kan shuke - shuke masu yawa",
+    "Ana samun hatsi mai kyau a lokacin tãshin hankali",
+    "Yin amfani da kayan aiki don yin amfani da abubuwan da ba su dace ba ko kuma yin amfani da su a hanyar da ba ta dace ba"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Etch-like necrotic patterns on leaves",
-      "Mosaic symptoms on solanaceous crops"
+      "KCharselect unicode block name",
+      "Abin da Musa ya faɗa a kan Kubawar Shari'a"
     ],
     "laboratory_methods": [
-      "ELISA detection",
-      "RT-PCR assays",
-      "Electron microscopy"
+      "KA YI AMFANI DA ABIN DA KE SA'AD DA WANI YA RASU",
+      "KCharselect unicode block name",
+      "Indian National weekday 5 - LongDayName"
     ],
     "viral_inclusions": [
-      "Cylindrical inclusions in the cytoplasm",
-      "Nuclear inclusions in infected cells"
+      "@ item Text character set",
+      "KCharselect unicode block name"
     ]
   },
   "molecular_features": {
     "special_protein": {
-      "name": "TEV protease",
-      "function": "Highly specific protease used widely in biotechnology to cleave fusion proteins during purification."
+      "name": "Indian National month 7 - ShortName",
+      "function": "An yi amfani da ainihin abubuwan da aka yi amfani da su a dukan duniya a shekara ta 1931 don a yi amfani da su wajen kawar da ƙwayoyin cuta a lokacin cin hanci."
     }
   },
   "management": {
     "cultural": [
-      "Remove weed hosts that serve as virus reservoirs",
-      "Use virus-free planting materials",
-      "Implement crop rotation"
+      "Mun yi farin ciki sosai sa'ad da muka haɗu da ' yan'uwa da yawa da suke hidima a matsayin masu kula da da'ira",
+      "Yi amfani da kayan daidaita na'ura",
+      "KCharselect unicode block name"
     ],
     "vector_control": [
-      "Monitor aphid populations",
-      "Use reflective mulches to repel aphids",
-      "Apply insecticides if aphid pressure is high"
+      "@ item Text character set",
+      "Yi amfani da mazaba ka sauya wata shirin ayuka don ka kalli shirin ayuka",
+      "Idan matsi na dogon lokaci ya yi yawa"
     ],
     "resistance": [
-      "Use resistant or tolerant cultivars when available"
+      "Yi amfani da ciyar da Ƙarfi ko kuma ba da haɗin kai sa'ad da ake da izini"
     ]
   },
   "impact": {
-    "economic": "Can cause significant yield losses in pepper and tobacco crops",
-    "agronomic": "Severe infections reduce fruit quality and plant vigor"
+    "economic": "Zai yiwu a yi hasarar hasara ta musamman a wajen shan taba da kuma shan taba",
+    "agronomic": "KCharselect unicode block name"
   },
   "references": [
-    "ICTV Virus Taxonomy",
-    "APS Plant Disease Compendium",
-    "Plant Virus Online Database"
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ]
 }

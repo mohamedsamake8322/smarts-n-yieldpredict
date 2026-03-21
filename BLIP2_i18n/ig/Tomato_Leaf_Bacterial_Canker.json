@@ -1,0 +1,70 @@
+{
+  "disease_name": "IHE NDỊ NA - EME EME N'ỤWA",
+  "type": "Ọrịa na - efe efe",
+  "causal_agent": "Clavisris Mimenlasvv.Mimess",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "Ngwá ọrụ ndị e ji akwọ ụgbọ mmiri bụ́ ndị na - arụ ọrụ n'ebe a na - edebe ihe ndị mgbe ochie na - arụ ọrụ bụ́ ndị na - adị n'ime ala.",
+      "Ma, e nwere ihe ụfọdụ nwere ike ime ka mmadụ chewe echiche igbu onwe ya.",
+      "Chi ejie (Ọwa Mmiri)"
+    ]
+  },
+  "distribution": "N'ụwa nile; ihe a na - ahụkarị bụ tomato na tomato-achaghị acha",
+  "symptoms": {
+    "leaves": [
+      "Akwụkwọ ya ndị meworo ochie na - emepụta ihe ndị na - acha nchara nchara, na - emepụta ihe ndị na - eme ka ọ na - egbuke egbuke nakwa ndị na - adị n'obi",
+      "Ebe ọ bụ na uru ahụ́ na - acha nchara nchara na akwụkwọ ndụ akwụkwọ ndụ, ọtụtụ mgbe, ọ na - enwe ọdịdị na - acha odo odo nke na - acha odo odo",
+      "Ọrịa ndị a na - ebute n'oge a pụrụ ime ka akwụkwọ osisi na - egbu egbu ma na - egbu egbu (ihe ndị na - agbawa agbawa na ihe ndị na - ada ada)"
+    ],
+    "stems": [
+      "Ìhè ndị na - esi n'ọkụ na - eto nke na - agbawa agbawa ma na - ekewa n'ụzọ na - enweghị isi",
+      "Ọ bụrụ na ọ na - acha odo odo nke ọma, o nwere ike ime ka o sie ike isighachi nri ma ọ bụ sie nri n'olulu mmiri",
+      "Ọrịa ndị ka njọ pụrụ ịkwụsị ngwa ngwa"
+    ],
+    "fruit": [
+      "Mkpụrụ osisi ndị na - acha uhie uhie ma ọ bụ ndị na - acha uhie uhie (nke na - acha ọbara ọbara) na - adị n'anya anya nnụnụ, 1 / 1681/81 (otu mita na ọkara) n'obosara",
+      "Mkpụrụ osisi ndị na - acha nchara nchara pụrụ inwe mkpụrụ osisi ndị na - acha nchara nchara n'ihi mwakpo obi"
+    ],
+    "seedlings": [
+      "Uto na - adịghị mma, nke na - adịru nwa oge, na - ebelata odo odo na isi ọwụwa",
+      "A na - ahụkarị okooko osisi ma ọ bụ mgbe e mesịrị"
+    ]
+  },
+  "disease_cycle": [
+    "A na - esi n'mkpụrụ osisi ndị bu ya ma ọ bụ n'osisi ndị e tinyere n'ebe ahụ a na - egwu mmiri enweta ya",
+    "Ụgbọ mmiri ndị dị n'ime ala bụ́ ndị dị n'ime ala ruo ihe ruru afọ 3; pụrụ ịdịgide ndụ n'elu oche, n'elu osisi, nakwa n'ụgbọ mmiri",
+    "Ihe na - amalite site n'oké mmiri ozuzo, ịgba ala mmiri, ịgba ihe ndị e ji ebu ibu, na ịrụ ọrụ",
+    "Ndị na - agba chaa chaa na - esi n'ihe ndị merụrụ ahụ́, n'ihe ndị na - agbawa agbawa, n'ihe ndị na - agbawa agbawa, ma ọ bụ n'ihe ndị na - agbawa agbawa banye n'ime ụlọ, na - esi n'ebe ndị ahụ banyezi n'ebe ndị a na - agba mkpụrụ akụ́kụ́ ndị dị n'ime ala bụ́ ndị na - esi n'ime ala abanye ná mkpụrụ akụ́kụ́"
+  ],
+  "management": {
+    "prevention": [
+      "Jiri mkpụrụ akụ́kụ́ ndị na-enweghị ọrịa mee ihe; mkpụrụ akụ́kụ́ ndị a tụrụ aro ha",
+      "Ya mere, mkpụrụ osisi ndị dị n'ime mmiri 130 na - asọ asọ ruo minit 25 iji belata mmetọ a na - emetọ ezé",
+      "Ihe ndị na - egbuke egbuke ma ọ bụ ndị na - emepụta ihe ndị na - edozi ahụ́, oche, na usoro mgbasa ozi",
+      "Jiri tomato tụgharịa uche n'ihe ọkụkụ ruo ma ọ dịkarịa ala otu oge"
+    ],
+    "cultural": [
+      "N'ụlọ ọrụ dị iche iche, ahịhịa ndị dị n'ebe ahụ na - emechi nke ọma",
+      "Kwụsị ịta ahịhịa n'abalị, bụ́ nke pụrụ ibu nje bacteria",
+      "Zere ịrụ ọrụ n'ubi mgbe akwụkwọ nri na - adịghị akọ ụkọ",
+      "Ịdị ukwuu nke ịgba ala mmiri n'elu mmiri na idozi ihe ọkụkụ nke ọma iji belata ọnyá ahụ"
+    ],
+    "chemical": [
+      "Ọgwụ ndị e ji alụso nje HIV ọgụ pụrụ ibelata mgbasa a na - agbasa n'ọnọdụ ndị dị ize ndụ, ma achịkwaghị ọrịa ndị a na - ebute site n'usoro ahụ́ ji alụso ọrịa ọgụ",
+      "Ngwá ọrụ ndị e ji emepụta ihe na ebe ndị a na - akpọsa ngwá ahịa na ha 0.51%1% ma ọ bụ ihe ndị e ji emepụta ihe n'ụlọ ahịa, ma ọ bụ ndị na - ere ihe n'ụlọ ahịa dị ka ndị na - emepụta ngwá ahịa"
+    ]
+  },
+  "notes": [
+    "Mgbe mgbe, mfu akụ̀ na ụba na-enweghị isi n'ubi mkpụrụ osisi, ọ gwụla ma ọnọdụ ndị dị mma ọ̀ gbasara n'akụkụ nke ọzọ",
+    "Ọ bụrụ na ị na - edebe ụlọ ọcha, ọ ga - adịrị gị mfe karị ịnọ n'ụlọ gị na - asa ahụ́; ịnọ na nche mgbe ị na - edebe ebe ị na - edebe ihe ọcha dị oké mkpa",
+    "Ọbụna mkpụrụ akụ́kụ́ ole na ole butere ọrịa ahụ pụrụ ime ka e nwee ọ̀tụ̀tụ̀ dị elu nke ibute ọrịa ahụ"
+  ],
+  "references": [
+    "Jones, J.B., n'afọ 2014, e nwere ọrịa na - efe efe n'ebe a na - edebe ihe ndị dị ndụ n'ebe a na - edebe ihe ọmụma n'Ịntanet.",
+    "Mahadum California bụ́ Ọrụ Ugbo na Ọrụ Ugbo Na - akpata Ọrịa Ndị Na - esi n'Ihe Ndị Na - edozi Ahụ́.",
+    "Schaad, N.W.W., nke e dere n'afọ 2001."
+  ]
+}

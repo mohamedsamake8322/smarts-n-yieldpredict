@@ -1,0 +1,60 @@
+{
+  "disease_name": "Hoja de tomate Septoria",
+  "type": "enfermedad fúngica",
+  "causal_agent": "Septoria lycopersici",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Hierbas solanáceas (por ejemplo: ortiga)"
+    ],
+    "other_hosts": []
+  },
+  "distribution": "En todo el mundo",
+  "symptoms": {
+    "foliage": [
+      "Manchas circulares con márgenes marrones oscuros y de bronceado a centros grises",
+      "Centros salpicados de pycnidia negra",
+      "Halo amarillo estrecho a menudo rodea las lesiones de las hojas",
+      "Las infecciones graves causan coloración amarillenta de las hojas, marchitamiento, marchitamiento y defoliación"
+    ],
+    "fruit": [
+      "La infección por frutas es rara."
+    ]
+  },
+  "disease_cycle": [
+    "El hongo sobrecoge los restos infectados de tomate o los restos de malas hierbas solanáceas",
+    "También puede sobrevivir en equipos como estacas de plantas y jaulas",
+    "Conidia se propagan por salpicaduras de agua de lluvia o riego por aspersión",
+    "Alta humedad relativa, altas temperaturas y humedad prolongada de las hojas favorecen el desarrollo de la enfermedad"
+  ],
+  "management": {
+    "cultural": [
+      "Girar los cultivos durante al menos 1–2 años a los cultivos no solánicos",
+      "Control de malezas sensibles como la mortaja",
+      "Retirar y destruir los desechos de los cultivos (quemar o enterrar las plantas infestadas cuando se permita)",
+      "Plantas de entubación para mejorar la circulación del aire y reducir el contacto follaje-suelo",
+      "Aumentar el espaciamiento entre las plantas y evitar el sobremulcho para reducir la humedad",
+      "Monitorear el riego para prevenir la humedad prolongada de las hojas",
+      "Utilizar variedades de tomate resistentes cuando estén disponibles"
+    ],
+    "chemical": [
+      "Aplicar aerosoles de fungicida de protección registrados a intervalos regulares",
+      "Los fungicidas con principios activos como clorotalonil o bisditiocarbamato de etileno (EBDC) son eficaces",
+      "Nombres comerciales comunes incluyen Daconil, Mancozeb, Fungonil",
+      "Volver a aplicar con frecuencia (normalmente cada 7 días) según las instrucciones de la etiqueta",
+      "Las aplicaciones preventivas de fungicidas a base de cobre o clorotalonil pueden estar justificadas en áreas con infección crónica"
+    ]
+  },
+  "notes": [
+    "Las medidas preventivas son más eficaces que tratar de curar las plantas infectadas",
+    "Conidia sobrevive tanto en desechos vegetales como en equipo, por lo que el saneamiento es fundamental",
+    "Humedad excesiva o alta humedad exacerba la propagación de la enfermedad"
+  ],
+  "references": [
+    "Clínica de Diagnóstico de Enfermedades Vegetales de la Universidad de Wisconsin (PDDC).",
+    "Brannen, P. & Sugar, D. 2020. Tomate Leaf Spot Management en Home Gardens. Extensión de la Universidad de Georgia.",
+    "Jones, J.B., et al. 2014. Compendio de Enfermedades y Plagas de Tomate, 2a Edición. APS Press."
+  ]
+}

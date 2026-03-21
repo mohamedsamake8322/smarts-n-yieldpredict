@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
-  "family": "Thripidae",
-  "type": "insect",
+  "pest_name": "اللآمات",
+  "order": "تَدْسَانْ بِتْنِ",
+  "family": "الطربيدية",
+  "type": "الزراعـة",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "١-١-١-١-١-٥ مم )٠-٠٣-٦٠-٠,٦ بوصة(",
+    "body": "مائل، أصفر أو بني، زوجان من الأجنحة الضيقة والأجنحة",
+    "mouthparts": "غير متناظرة؛ تُستخدم في كشط أسطح وسوائل الاستخلاص",
+    "species_of_major_concern": [
+      "الأزهار الغربية (Frankliniella occidalis)",
+      "بُصَلَات الأصل (الصفائات)"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "الـ / الـ / um",
+      "",
+      "منايق",
+      "مُطالجليا",
+      "إ",
+      "Fuchsia",
+      "المُحِلّات",
+      "ليلياً",
+      "درجة",
+      "المُسْجِل",
+      "فترات",
+      "فيربانينا",
+      "كورس",
+      "",
+      "منقولياً",
+      "",
+      "الفصل الذي يُنتحـوم",
+      "Pigonia x Fhilis",
+      "السلف"
+    ],
+    "vegetables": [
+      "لِسِسْس",
+      "طاطاطاطاط",
+      "البطاطس",
+      "الانفلس",
+      "المُنْشِشات",
+      "",
+      "الشتر",
+      "الكفل",
+      "",
+      "اثنيات",
+      "كهنس",
+      "",
+      "",
+      "الشيك",
+      "المسساوس",
+      ""
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "تَخَرُّب الخلايا النباتية وامتصاص محتويات الخلايا، وتَرْك بقع مُبَيَّضة أو فضية أو بقع يمكن أن تتحول إلى بنية أو نخرية. تُسبِّب أوراقاً وأزهاراً تشوُّهاً وتَقَوُّطاً. تَنَقُّصاً، تَنْقُلُ الغائط الأسود الصغير الذي يُظْهَر داخل المناطق المتضرِّرة.",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "الأوراق والأزهار؛ تفضل الأزهار/زهور الأزهار",
+      "Japanese flower thrips": "الأوراق المالية في المقام الأول؛ يمكن أن تحدث في الأزهار"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "الضرر يمكن أن يوصل النباتات إلى العدوى"
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "الزهرة الغربية الغربية",
+      "« من الطور » من النعم",
+      "الأزهار اليابانية (TTSWV فقط)"
+    ],
+    "viruses": [
+      "فيروس طماططس (TSWV)",
+      "(INSV)"
+    ],
+    "mechanism": "أولاً في اليرقات النجمية تحصل على الفيروس من النباتات المصابة؛ البالغين ينقلون الفيروس أثناء التغذية. البالغين يظلون معديين مدى الحياة.",
+    "host_plants": [
+      "الـ / الـ / um",
+      "",
+      "منايق",
+      "مُطالجليا",
+      "إ",
+      "Fuchsia",
+      "المُحِلّات",
+      "ليلياً",
+      "درجة",
+      "المُسْجِل",
+      "فترات",
+      "فيربانينا",
+      "كورس",
+      "",
+      "منقولياً"
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "بقعتين مكلورة أو غير محدثة",
+    "حلقات اللفت والأنماط",
+    "التشويه، والبرونز، والتصفير، والنخر",
+    "S::",
+    "نقطة الأساس الوفاة"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "مبيدات الآفات غير الحجرية المنظمة في بيغونيا x الهيماليس، وكابسيكوم نونيوم، وكرياسانثيموم، وجيربيرا، وإمباسينس، وبيلارغونيوم",
+    "INSV": "مبيدات الآفات غير الحجرية الخاضعة للتنظيم (RNQP) في البيغونية x الهيماليس"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "يمكن أن تتكاثر جنساً جنسياً؛ أجيال متعددة في كل موسم زراعة",
+    "notes": "النباتات التي تُزرع في الداخل أكثر عرضة للضعف بسبب قلة الأعداء الطبيعيين"
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "رصد النبتات بانتظام للعلامات المبكرة على النبضات",
+      "(أ) التخلص منها وتدميرها بشدة",
+      "المحافظة على صحة سكان الأعداء الطبيعيين"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "استخدام المبيدات الحشرية بحكمة؛ اتباع المبادئ التوجيهية المحلية وتعليمات الوسم"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "الرصد المختلط، والمراقبة الثقافية، والمفترسات الطبيعية، والاستخدام المستهدف للمبيدات الحشرية"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "دليلات المحاصيل الزراعية: السيطرة على الثيربات في المحاصيل الزيلية المحمية",
+    "تمديد جامعة الدولة كولورادو، Pest Notes: thrips في الخضروات والفكريات"
   ]
 }

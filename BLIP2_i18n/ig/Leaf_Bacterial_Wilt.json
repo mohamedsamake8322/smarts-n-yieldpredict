@@ -1,0 +1,46 @@
+{
+  "disease": "OTA 8 (Yoruba)",
+  "scientific_name": "Raltonaaia so n'ihe ndị e ji eme ihe n'ebe a na - eme egwuregwu",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ọrịa ụmụ irighiri ihe ndị si n'ala pụta na - akpata mmepụta nke akwụkwọ osisi na ihe ndị ọzọ, n'ikpeazụ, igbu akụ́kụ́.",
+  "symptoms": [
+    "A na - eji akwụkwọ ndị dị n'ime ala eme ka akwụkwọ dị ọcha",
+    "Isi akwụkwọ ndị merela ochie n'ọkụ na n'azụ akwụkwọ ndị merela ochie",
+    "Brown Ahụ́ nke Dị n'Ime Obi"
+  ],
+  "hosts": [
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Ńgwānụ́ banye",
+    "Ndị Na - atụchasị Mmadụ",
+    "Ihe Ndị Ọzọ Na - enyere Gị Aka Ife Chineke"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ nke ala",
+    "Mmiri dị n'ime ala",
+    "Ubi ndị na - adịghị mma n'anya"
+  ],
+  "spread": [
+    "Ala kpọrọ nkụ na ebe a na - agba mmiri",
+    "Ngwá ọrụ ma ọ bụ ígwè ọrụ ndị na - enye ígwè ọrụ ike",
+    "Ịkụnye Mkpụrụ Ndụ Ihe Nketa"
+  ],
+  "management": [
+    "Jiri òtù nzuzo ndị na - eguzogide ihe ma ọ bụ ndị na - akwado okpukpe mee ihe",
+    "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+    "Ime ka ala dị larịị karị ma zere ụkọ mmiri",
+    "A na-eji ọrụ ugbo na ndị na-adịghị akụ ya na ndị na-adịghị"
+  ],
+  "chemical_control": [
+    "Ọ dịghị ụzọ e si agwọ ya n'ụzọ dị irè; lekwasị anya n'usoro idebe ihe ọcha nakwa n'usoro ndị a na - apụghị iguzogide ezere"
+  ],
+  "prevention": [
+    "Jiri ngwaọrụ- ná mmechi pịa ebe ndesịta ngosi ebe",
+    "Jiri ngwá ọrụ na ngwá ọrụ na - arụ ọrụ",
+    "Zere isi n'ubi ndị nwere nje ndị na - akpata ọrịa banye n'ime ala"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ụlọ Ọrụ Na - ahụ Maka Ahụ́ Ike nke Òtù Na - ahụ Maka Ọgwụ na Ahụ́ Ike"
+  ]
+}

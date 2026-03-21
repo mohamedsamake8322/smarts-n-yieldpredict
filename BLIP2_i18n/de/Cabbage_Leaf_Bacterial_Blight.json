@@ -1,0 +1,75 @@
+{
+  "disease": "Kohl bakterielle Blattfleck",
+  "scientific_name": "Xanthomonas campestris pv. campestris (üblicherweise mit bakteriellem Blattfleck und schwarzer Fäule in Brassicas verbunden)",
+  "pathogen_type": "Bakterium",
+  "description": "Kohl bakterielle Blattfleck ist eine bakterielle Krankheit, die Kohlblätter betrifft. Es verursacht kleine braune Flecken, die sich ausdehnen und unregelmäßige tote Bereiche auf dem Blatt bilden. In schweren Fällen, Blätter gelb werden, Fäulnis, und Pflanzen schwach werden.",
+  "symptoms": [
+    "Kleine braune Flecken auf Kohlblättern",
+    "Flecken vergrößern und verbinden",
+    "Unregelmäßiges totes Gewebe auf Blättern",
+    "Läsionen oft begrenzt durch Blattvenen",
+    "Blätter werden gelb",
+    "Schwer infizierte Blätter verrotten",
+    "Pflanzenwachstum wird schwach"
+  ],
+  "visual_signature": [
+    "kleine braune Blattflecken",
+    "unregelmäßige nekrotische Pflaster",
+    "gelbliche Kohlblätter"
+  ],
+  "hosts": [
+    "Kohl",
+    "Brokkoli",
+    "Blumenkohl",
+    "Grünkohl",
+    "Senfgrün",
+    "Sonstige Brassica-Pflanzen"
+  ],
+  "affected_plant_parts": [
+    "Blätter"
+  ],
+  "favorable_conditions": [
+    "feuchte Bedingungen",
+    "hohe Luftfeuchtigkeit",
+    "häufige Niederschläge",
+    "Pflanzenwunden oder Insektenschäden",
+    "Überlandbewässerung"
+  ],
+  "spread": [
+    "Regenspritzer",
+    "infizierte Samen",
+    "kontaminierte Werkzeuge",
+    "Insekten, die Bakterien tragen",
+    "Kontakt zwischen nassen Pflanzen"
+  ],
+  "management": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Befallene Pflanzen sofort entfernen",
+    "Vermeiden Sie den Anbau von Kohl wiederholt auf dem gleichen Land",
+    "Praxis Fruchtfolge für 2–3 Jahre",
+    "Mulch-Boden, um Regenspritzer zu reduzieren",
+    "Vermeiden Sie schädliche Pflanzen während des Unkrauts",
+    "Werkzeuge regelmäßig reinigen und desinfizieren"
+  ],
+  "biological_control": [
+    "Bacillus subtilis-basierte Biobakterizide",
+    "Pseudomonas fluorescens biologische Behandlungen"
+  ],
+  "chemical_control": [
+    "Kupferoxychlorid",
+    "Kupferhydroxid",
+    "Kupfersulfat-basierte Bakterizide"
+  ],
+  "prevention": [
+    "Verwendung toleranter oder resistenter Kohlsorten",
+    "Pflanzengesunde Sämlinge",
+    "Vermeiden Sie das Arbeiten in Feldern, wenn Pflanzen nass sind",
+    "Aufrechterhaltung einer guten Feldsanierung",
+    "Bekämpfung von Insektenschäden zur Verringerung der Eintrittspunkte für Bakterien"
+  ],
+  "source": [
+    "FAO-Pflanzenschutzleitfäden",
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Pflanzenpathologie Erweiterung Veröffentlichungen"
+  ]
+}

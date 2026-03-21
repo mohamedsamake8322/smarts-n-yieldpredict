@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "QShortcut",
+  "type": "KCharselect unicode block name",
+  "causal_agent": "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon."
+    ],
+    "secondary": [
+      "MGBOKO UMUORIA 7 (Igbo)",
+      "\"Kuma Ka sanya mini harshen gaskiya a cikin mutãnen ƙarshe.\""
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "A dukan duniya; a ko'ina da ƙasa mai ba da kyauta ko kuma mai ba da kyauta mai yawa",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "Abubuwan al'ajabi, rana tana fid da zafi a ƙarshen ' ya'yan itace",
+      "Wataƙila kayan aiki suna iya ƙaruwa, su zama ' ya'yan itace, kuma su kai ga samun ' ya'yan itace",
+      "Da farko, ana ganin ' ya'yan itace suna girma, sau da yawa a cikin ' ya'yan itace",
+      "Idan wani yanayi ya ci gaba da canjawa"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "Ba za a iya ganin shuke - shuke a ƙasa ko kuma a fito da su ba; amma shuke - shuke sau da yawa suna bayyana kamar suna da lafiya fiye da dalla - dalla"
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "Ku riƙi ƙawarku a wurin kõwane masallãci kuma ku ci daga 'ya'yan itãcen marmari, idan ya yi 'ya'yan itãcen marmari mãsu yawa,",
+    "Ruwan sama mai ba da ruwa yana kai zuwa ƙasa mai ba da ruwa",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Media controller element"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "Ka sa ƙasa ta kasance a lokacin da ake amfani da ' ya'yan itace ta wajen ja - gorar ruwa ko kuma mai ba da ' ya'yan itace",
+      "Dõmin Mu fitar da ƙasa game da shi, gari matacce, kuma Mu shayar da shi dabbõbi da mutãne mãsu yawa daga abin da Muka halitta.",
+      "Ka ba da isashen bayani don ka tabbatar da iska mai kyau kuma ka rage koshin lafiya",
+      "Kuma ku nĩsanci mãta a cikin wurin haila kuma kada ku kusance su sai sun yi tsarki.",
+      "Media controller element"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "@ item Text character set",
+      "Ka yi amfani da kayan aiki da safe don ka rage yawan abubuwan da ba su dace ba",
+      "Ka ƙiƙiro wasu shiryoyin ayuka da aka sani yayin da za su iya rage ko kuma su jawo lahani"
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "Ka mai da hankali ga al'adu na ɗabi'a da kuma abubuwan da ba su dace ba maimakon dogara ga abubuwan da ba su dace ba",
+      "Kafin ka yi noman ƙasa, ka gyara ƙasa idan bukata ta kama"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "A ranar 31 ga Janairu, 2016 A.Z., shi ne gida mai kyau.",
+    "Da yake an san shi, K.H. Y.I.I. Ṣ̃.A.A.",
+    "MGBOKO UMUORIA 12 (Turanci)",
+    "K̃.H.H. Y.I.I.I. Ṣ̃."
   ]
 }

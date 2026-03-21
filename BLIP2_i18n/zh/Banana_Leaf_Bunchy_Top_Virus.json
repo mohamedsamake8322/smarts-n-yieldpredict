@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "香蕉本族最高疾病",
+  "dataset_label": "香蕉 Leaf_Bunchy_Top_病毒",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana bunchy top virus",
-    "abbreviation": "BBTV",
-    "family": "Nanoviridae",
-    "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "type": "病毒病毒",
+    "name": "香蕉暴毒顶级病毒",
+    "abbreviation": "BBTV BBTV BBTV 毕巴电视台",
+    "family": "纳诺维里达ecoloriae. kgm",
+    "genus": "Babu病毒",
+    "genome": "圆形单弦DNA(ssDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "香蕉(Musa pp.)",
     "other_hosts": [
-      "Plantain",
-      "Abaca"
+      "平面",
+      "阿巴卡"
     ],
     "vector_alternate_hosts": [
-      "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "希利奥尼亚",
+      "花生姜(Zingiberaceae)"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "休假请请假",
+    "发光组织",
+    "果果果",
+    "整个工厂增长"
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
-    "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "type": "昆虫",
+    "name": "香蕉虫",
+    "scientific_name": "Pentalonia 硝硝基纳沃萨",
+    "transmission_type": "循环性非刺激性"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "沿叶静脉的深绿色绿纹",
+      "短叶,短叶,短叶,短叶,",
+      "悬浮在树叶花瓣上的摩索密码"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "树叶是直立的,是集合的,",
+      "黄叶和叶叶叶叶叶氯化",
+      "叶叶面积减少"
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "邦奇出现在工厂的顶端",
+      "严重植物发育迟缓",
+      "水果变形或缺果"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "虫类食用纤维组织",
+      "种植受感染的吸虫",
+      "感染感染的种植材料的流动"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "甚高",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "严重植物发育迟缓",
+      "水果生产减少或停止",
+      "已经变形的香蕉捆",
+      "香蕉生产的重大经济损失"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
-    "Taiwan",
-    "India",
-    "Pakistan",
-    "East Asia",
-    "Oceania",
-    "Pacific Islands",
-    "Hawaii",
-    "Africa"
+    "东南亚东南亚",
+    "菲律宾 菲律宾 菲律宾",
+    "台台",
+    "印度 印度 印度",
+    "巴基斯坦 巴基斯坦 巴基斯坦",
+    "东亚东亚",
+    "大洋洲",
+    "太平洋岛屿",
+    "夏威夷夏威夷",
+    "非洲 非洲 非洲 非洲"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "香蕉病病毒",
+    "香蕉马赛克病毒",
+    "致氯酸缺乏症"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "使用无病毒种植材料",
+      "清除和销毁受感染植物(编织)",
+      "避免种植受感染的吸虫"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "控制香蕉虫人口",
+      "使用杀虫剂,如异丁二烯或西维基",
+      "监视替代的两栖宿主植物"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "严格检疫条例",
+      "监测种植材料的流动",
+      "使用经认证的组织培养厂"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "使用有益的细菌进行生物规划",
+      "开发抗药性香蕉品种"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "受感染的香蕉种植材料的流动",
+    "存在香蕉虫人口",
+    "不良的农场环境卫生做法"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
-    "Queensland Department of Agriculture"
+    "粮农组织植物疾病报告",
+    "ICTV 病毒分类",
+    "植物病理学杂志",
+    "夏威夷植物疾病大学出版物",
+    "昆士兰州农业部"
   ]
 }

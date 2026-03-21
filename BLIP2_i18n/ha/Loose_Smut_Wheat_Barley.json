@@ -1,43 +1,43 @@
 {
-  "disease": "Loose Smut of Wheat and Barley",
-  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
-  "pathogen_type": "Fungal pathogen",
-  "description": "Loose smut is a systemic fungal disease affecting wheat and barley. The fungus infects the developing kernels and replaces them with masses of black spores, which are dispersed by wind during flowering, leading to significant yield losses.",
+  "disease": "DakataEthiopian month 5 - LongNamePossessive",
+  "scientific_name": "Mãsu aikin wahala ne, mãsu gajiya.",
+  "pathogen_type": "K̃.H. Y.I. Ṣ̃.",
+  "description": "Wata cuta mai ban ƙyama tana shafan alkama da sha'awa, kuma hakan yana sa mutane da yawa su ji daɗin shan iska kuma su yi musu dariya.",
   "symptoms": [
-    "Spikelets replaced by black, powdery spores",
-    "Affected heads emerge earlier than healthy ones",
-    "No vegetative symptoms on leaves or stems",
-    "Yield loss proportional to infection rate"
+    "@ item Text character set",
+    "An fito da kai a kai fiye da masu koshin lafiya",
+    "@ action",
+    "QXml"
   ],
   "hosts": [
-    "Wheat (Triticum aestivum)",
-    "Barley (Hordeum vulgare)"
+    "KCharselect unicode block name",
+    "L̃.H. Y.I. Ṣ̃."
   ],
   "favorable_conditions": [
-    "Cool and moist conditions during flowering",
-    "Planting of infected seeds"
+    "Wahala da kuma yanayi da ke sa mutum baƙin ciki sa'ad da yake girma",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
   ],
   "spread": [
-    "Wind dispersal of spores onto healthy flowers",
-    "Seed-borne transmission from infected grains"
+    "Ku Yi Wa'azi Game da Dukan Al'ummai da Suke Aiki da Kyau",
+    "Zuriyar da aka shuka daga Kamar dai shi kãnun Shaiɗan ne."
   ],
   "management": [
-    "Use certified, disease-free seeds",
-    "Seed treatment with systemic fungicides",
-    "Avoid saving seeds from infected crops",
-    "Crop rotation with non-host species"
+    "An la'ani mãsu ƙiri-faɗi.",
+    "Ɗabi'a ta zamani tana da daɗi",
+    "Sabõda haka ku nĩsanci ƙazanta daga gumãka kuma ku nĩsanci ƙazanta daga shaidar zur.",
+    "Mãsu duhun inuwa."
   ],
   "chemical_control": [
-    "Seed treatment with carboxin, triadimenol, or thiram fungicides"
+    "Zuriyar da aka yi amfani da ita a hanyar da ba ta dace ba, ko kuma an yi mata ba'a"
   ],
   "prevention": [
-    "Plant only certified clean seed",
-    "Implement crop rotation",
-    "Sanitize storage and planting equipment"
+    "Sai dai irin da aka shuka ne kawai aka shuka",
+    "KCharselect unicode block name",
+    "Wurin mai gabatar da shiri da kuma kayan aiki"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Guides",
-    "Scientific literature on Ustilago tritici"
+    "@ item Text character set",
+    "' Yan'uwa Maza Marasa Lafiya a Iyali Suna Ja - gorar Muku Ja - gora",
+    "Wahayin Bayani Game da Mu"
   ]
 }

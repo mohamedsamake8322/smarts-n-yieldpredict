@@ -1,0 +1,90 @@
+{
+  "disease_name": "Corynespora Blattfleck",
+  "causal_agent": "Corynespora cassiicola",
+  "disease_type": "Pilze",
+  "description": "Corynespora Blattfleck ist eine zerstörerische Pilzkrankheit, die über 500 Pflanzenarten betrifft, einschließlich wirtschaftlich wichtiger Kulturen wie Tabak, Tomaten, Gurken, Sojabohnen, Baumwolle und Gummibaum. Infektion beginnt auf unteren oder mittleren Blättern, bildet dunkelgrüne, wassergetränkte Flecken, die braun werden und sich in große Läsionen ausdehnen. Der Erreger kann als Nekrotroph, Saprophyt oder Endophyt existieren und gedeiht unter hoher Luftfeuchtigkeit und leicht sauren Bedingungen.",
+  "hosts": [
+    "Tabak",
+    "Tomaten",
+    "Gurken",
+    "Sojabohnen",
+    "Baumwolle",
+    "Gummibaum"
+  ],
+  "symptoms": [
+    "Kleine dunkelgrüne, mit Wasser gefüllte Flecken auf Blättern",
+    "Flecken werden allmählich braun",
+    "Circulare oder unregelmäßige nekrotische Läsionen",
+    "Läsionen erweitern und verschmelzen bilden große Patches",
+    "Krankheit beginnt oft auf unteren oder mittleren Blättern"
+  ],
+  "favorable_conditions": {
+    "temperature_optimum": "25-30°C",
+    "temperature_range": "15-35°C",
+    "humidity": "Hohe Luftfeuchtigkeit (> 90%) begünstigt Infektion",
+    "pH_optimum": "Rund 5.5"
+  },
+  "biological_control": [
+    {
+      "agent": "Bacillus subtilis",
+      "type": "Benefitielles Bakterium",
+      "mode_of_action": "Erzeugt antimykotische Metaboliten und hemmt das Pilzwachstum"
+    },
+    {
+      "agent": "Bacillus amyloliquefaciens",
+      "type": "Benefitielles Bakterium",
+      "mode_of_action": "Produziert Lipopeptide, die Pilzzellmembranen schädigen"
+    },
+    {
+      "agent": "Trichoderma harzianum",
+      "type": "Biocontrol Pilze",
+      "mode_of_action": "Mykoparasitismus und Wettbewerb mit Pflanzenpathogenen"
+    },
+    {
+      "agent": "Trichodermavirid",
+      "type": "Biocontrol Pilze",
+      "mode_of_action": "Erzeugt antimykotische Enzyme und sekundäre Metaboliten"
+    }
+  ],
+  "chemical_control": {
+    "fungicides": [
+      {
+        "active_ingredient": "Mancozeb",
+        "type": "Kontaktfungizid",
+        "mode_of_action": "Verhindert Sporenkeimung"
+      },
+      {
+        "active_ingredient": "Chlorothalonil",
+        "type": "Fungizid des Schutzmittels",
+        "mode_of_action": "Hemmt das Pilzwachstum auf der Blattoberfläche"
+      },
+      {
+        "active_ingredient": "Azoxystrobin",
+        "type": "QoI-Fungizid",
+        "mode_of_action": "Hemmt die mitochondriale Atmung"
+      },
+      {
+        "active_ingredient": "Difenoconazol",
+        "type": "Triazol-Fungizid",
+        "mode_of_action": "Hemmt Sterolbiosynthese"
+      },
+      {
+        "active_ingredient": "Tebuconazol",
+        "type": "Triazol-Fungizid",
+        "mode_of_action": "Blöcke Ergosterolsynthese"
+      },
+      {
+        "active_ingredient": "Carbendazim",
+        "type": "Systemisches Fungizid",
+        "mode_of_action": "Zerbricht die Zellteilung von Pilzen"
+      }
+    ]
+  },
+  "management_notes": [
+    "Wenn verfügbar, resistente Sorten verwenden",
+    "Drehen Sie Fungizide mit verschiedenen Wirkweisen, um Widerstand zu verhindern",
+    "Vermeiden Sie verlängerte Blattfeuchte",
+    "Entfernen infizierten Pflanzenmüll",
+    "Einsatz integrierter Strategien für das Krankheitsmanagement"
+  ]
+}

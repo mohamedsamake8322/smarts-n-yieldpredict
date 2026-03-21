@@ -1,86 +1,86 @@
 {
- "disease": "Sclerotinia Stem Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia stem rot is a fungal disease that attacks the stems of many crops. The fungus produces white cotton-like mold and black survival structures called sclerotia. Infected stems become soft, rot, and may cause the plant to collapse.",
- "symptoms": [
-  "Water-soaked lesions on stems",
-  "Soft rot on stems near the soil line",
-  "White cotton-like fungal growth on stems",
-  "Black seed-like sclerotia inside or on infected stems",
-  "Wilting and yellowing of leaves",
-  "Plants collapsing due to stem decay"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "soft watery stem rot",
-  "black hard sclerotia in infected tissue",
-  "collapsed plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Lettuce",
-  "Tomato",
-  "Beans",
-  "Peas",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "leaves",
-  "sometimes fruits"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense plant canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia surviving in soil",
-  "Infected plant debris",
-  "Wind and water splash"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and form apothecia (cup-like structures)",
-  "Apothecia release spores into the air",
-  "Spores infect stems or leaves during wet conditions",
-  "New sclerotia develop on infected plants and return to the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced nutrient and water transport",
-  "Major yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve plant spacing and airflow",
-  "Remove and destroy infected plants",
-  "Manage crop residue after harvest"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Apply beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Apply fungicides when environmental conditions favor the disease",
-  "Use protective fungicide treatments during high-risk periods"
- ],
- "prevention": [
-  "Avoid dense planting",
-  "Monitor crops regularly during cool and wet periods",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural disease management guides"
- ]
+  "disease": "Maisha ya Sclerotinia",
+  "scientific_name": "Maandiko ya Sclerotiorum",
+  "pathogen_type": "Fungus ya",
+  "description": "Sclerotinia stem rot ni magonjwa ya fungal ambayo huathiri stems ya matunda mengi. fungus huunda muundo wa kipekee kama coton na nyekundu muundo wa kuishi inayojulikana kwa sclerotia. stems yaliyoathiri kuwa ya kuvutia, rot, na inaweza kusababisha mmea kuanguka.",
+  "symptoms": [
+    "Uharibifu wa maji juu ya nyama",
+    "Siku ya kutosha juu ya stems karibu na barua ya ardhi",
+    "Uzalishaji wa mbegu kama mbegu ya kijani juu ya stems",
+    "Sclerotia ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama ya nyama.",
+    "Kuongezeka na kuongezeka kwa karatasi",
+    "Vitu vyote vimepoteza kutokana na uharibifu wa nyama"
+  ],
+  "visual_symptoms": [
+    "Picha ya Picha ya Picha ya Picha ya Picha",
+    "Mchakato wa maji ya Root",
+    "Sclerotia ya ngumu ya kijani katika mwili wa ugonjwa",
+    "Vyanzo vya kuanguka"
+  ],
+  "hosts": [
+    "Soya ya",
+    "Maua ya jua",
+    "Mkataba wa Kanisa (Mkataba wa Mkataba)",
+    "Furaha ya",
+    "Mji wa Tomato",
+    "ya Beans",
+    "Mipango",
+    "gari ya",
+    "ya Cucumber",
+    "Baadhi ya matunda ya matunda na matunda ya matunda"
+  ],
+  "plant_parts_affected": [
+    "Maoni ya",
+    "Picha ya",
+    "Makala ya",
+    "Mara nyingi matunda"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Mara nyingi mvua au mvua",
+    "Chini ya Chini ya Cannabis",
+    "Usafiri wa hewa mbaya"
+  ],
+  "spread": [
+    "Ndege ya Airborne kuondolewa kutoka Apothecia",
+    "Sclerotia ya kuishi katika ardhi",
+    "Ukosefu wa mbegu za mimea",
+    "Mafuriko ya maji na mvua"
+  ],
+  "disease_cycle": [
+    "Fungi inaishi katika ardhi kama sclerotia kwa miaka kadhaa",
+    "Sclerotia germinate na kujenga apothecia (muundo kama mti)",
+    "Apothecia kuondoa spores ndani ya hewa",
+    "Matibabu ya maumivu ya maumivu ya maumivu ya maumivu ya maumivu ya maumivu ya maumivu",
+    "Sclerotia mpya huongezeka juu ya mimea yaliyoathiriwa na kurudi kwenye ardhi"
+  ],
+  "impact": [
+    "Uharibifu wa ardhi na uharibifu wa mimea",
+    "Kupunguza uzalishaji na usafiri wa maji",
+    "Uharibifu mkubwa wa matunda katika matunda ya kuvutia"
+  ],
+  "cultural_control": [
+    "Matunda ya kuvutia na mimea yasiyo ya kuvutia",
+    "kuboresha umeme na usafiri wa hewa",
+    "Kuondoa na kuharibu mimea ya kuvutia",
+    "Utawala wa mimea baada ya kukatwa"
+  ],
+  "biological_control": [
+    "Matumizi ya virutubisho kama vile Coniothyrium minitans",
+    "Kutoa mbegu za manufaa kama aina ya Trichoderma"
+  ],
+  "chemical_control": [
+    "Kutoa fungicides wakati hali ya mazingira husaidia ugonjwa",
+    "Kutumia matibabu ya kulinda fungicide wakati wa kipindi cha hatari"
+  ],
+  "prevention": [
+    "Kuepuka mazao ya dhahabu",
+    "Ufuatilia mimea mara kwa mara wakati wa kipindi cha baridi na chafu",
+    "Kutumia matibabu ya usimamizi wa magonjwa"
+  ],
+  "source": [
+    "Matokeo ya patologi ya mimea",
+    "Utawala wa magonjwa ya kilimo"
+  ]
 }

@@ -1,0 +1,56 @@
+{
+  "disease_name": "Roto final de la flor de la fruta del tomate",
+  "type": "Trastornos fisiológicos",
+  "causal_agent": "Deficiencia de calcio combinada con captación irregular de agua",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pimienta (Capsicum spp.)",
+      "Berenjena (Solanum melongena L.)"
+    ]
+  },
+  "distribution": "Mundialmente; común en áreas con humedad fluctuante del suelo o baja disponibilidad de calcio",
+  "symptoms": {
+    "fruit": [
+      "Lesión oscura hundida al final de la flor de la fruta",
+      "La lesión puede agrandarse, volverse coriácea y llevar a la putrefacción de la fruta",
+      "Primero visible en frutos jóvenes en desarrollo, a menudo en racimos",
+      "Los tejidos internos también pueden decolorarse si la condición persiste"
+    ],
+    "leaves_and_stems": [
+      "No hay síntomas directos en las hojas o los tallos; las plantas a menudo aparecen sanas por encima del suelo"
+    ]
+  },
+  "cause_and_risk_factors": [
+    "Insuficiente captación de calcio mediante el desarrollo de frutas",
+    "Riego irregular que lleva a fluctuar la humedad del suelo",
+    "Crecimiento vegetativo excesivo debido a la sobrefertilización, creando un desequilibrio entre la capacidad de la raíz y la demanda de fruta",
+    "Alta humedad que reduce la transpiración y el transporte de calcio"
+  ],
+  "management": {
+    "cultural": [
+      "Mantener incluso la humedad del suelo durante los frutos a través de riego controlado o riego por goteo",
+      "Mulch para retener la humedad del suelo y reducir las fluctuaciones",
+      "Proporcionar un espacio adecuado y podar para garantizar una buena circulación del aire y reducir la humedad relativa",
+      "Evitar la fertilización excesiva de nitrógeno; sólo si es necesario para mantener un crecimiento moderado",
+      "Supervisar el vigor de la planta para asegurar el equilibrio entre el desarrollo de raíces y brotes"
+    ],
+    "chemical": [
+      "Aplicación foliar de nitrato de calcio o cloruro de calcio (1,5 tsp por galón de agua + 0,5 tsp tensioactivo, por ejemplo, CapSil) semanalmente durante la fructificación",
+      "Aplicar pulverizaciones por la mañana para reducir el riesgo de fitotoxicidad",
+      "Evitar aplicaciones de calcio excesivas, ya que puede reducir los rendimientos o causar lesiones de follaje"
+    ],
+    "preventive_notes": [
+      "Centrarse en las prácticas culturales consistentes y la disponibilidad de calcio en lugar de depender únicamente de aerosoles foliares",
+      "Supervisar los niveles de calcio del suelo antes de la plantación y modificar los suelos si es necesario"
+    ]
+  },
+  "references": [
+    "Brubaker, V. 2016. Calcio: Hace bien a una planta. Invernadero, enero.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. El níquel reduce la putrefacción en flor incluso en condiciones de deficiencia de calcio; evidencia de las respuestas fisiológicas de la interacción NI-CA. J. Plant Nutrition 46(12)893-2904. DOI: 10.1080/01904167.2022.160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., y Mohamad, A. 2021. spray foliar precosecha de cloruro de calcio sobre el crecimiento, el rendimiento, la calidad y la extensión de la vida útil de diferentes variedades de tomate de tierras bajas en Malasia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae711046",
+    "Reitz, N.F., Shackel, K.A., y Mitcham, E.J. 2021. Efectos diferenciales del exceso de calcio aplicado a plantas enteras vs. tejido de fruta extraída sobre la podredumbre del extremo de la flor en tomate. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+  ]
+}

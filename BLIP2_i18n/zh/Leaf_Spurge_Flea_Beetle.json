@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
-    "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "disease": "叶浆浆花粉",
+    "scientific_name": "阿弗索纳斯普",
+    "pathogen_type": "昆虫(生物控制剂)",
+    "description": "幼虫作为针对Euphorbia esula(Leaf Sprug)的生物控制昆虫使用的小甲虫,幼虫以树根为食,而成人则食用树叶,减少了植物的生长和繁殖。",
+    "hosts": [
+      "爱的Eurorbia esula",
+      "叶片溢出"
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "成人甲虫食用的叶子",
+      "减少植物增长和开花",
+      "随着时间的推移变弱或衰亡的植物"
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "中度春季和夏季温度",
+      "有利于幼虫发育的土壤干燥的土壤"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "成人甲虫的自然自然运动",
+      "将人类引入生物控制方案"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "用作生物控制剂",
+      "避免可杀死Aphthona人口的农药",
+      "监测人口的建立和蔓延"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "不适用:用作生物控制剂"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "保持健康的甲虫种群,以可持续控制",
+      "避免引入非选择性农药"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "CABI 入侵物种简编",
+      "AUSDA 叶子溢出生物生物控制方案"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
-    "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "disease": "更小的角跟踪博尔",
+    "scientific_name": "伊拉斯莫帕尔普斯 利尼诺塞拉",
+    "pathogen_type": "昆虫(幼虫植物)",
+    "description": "一个毛毛虫,主要攻击玉米、高梁和其他草根和根部,造成幼苗枯萎和死亡。",
+    "hosts": [
+      "成熟",
+      "高 orghum",
+      "甘甘蔗",
+      "草 草 草",
+      "豆苗苗"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "年轻植物的繁殖和黄黄化",
+      "根底的洞洞和隧道",
+      "死植物或衰弱植物"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "干土和沙土土壤",
+      "炎热和干燥的气候 有利于下蛋",
+      "种植种植的作物"
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "埋在土壤或植物底部的鸡蛋",
+      "Larvae 移动来攻击幼苗",
+      "渗入植物或植物材料的移动"
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "非宿主植物作物轮作和非宿主植物",
+      "清除受感染作物残留物",
+      "为保护幼苗进行深植"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "系统杀虫剂或土壤施用杀虫剂(例如,氯氟化碳、异丙虫)",
+      "幼苗出现前的预防性应用"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "植物容忍品种(如有)",
+      "保持田地无植物残块",
+      "监测年轻植物,如果出现感染,及早治疗"
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "CABI 作物保护简编",
+      "粮农组织 \" 虫害 \" 概况介绍"
     ]
   }
 ]

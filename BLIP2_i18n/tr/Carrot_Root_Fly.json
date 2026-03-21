@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
-  "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "disease": "Carrot root uçuş hasarı",
+  "scientific_name": "Çanakkale Rosa",
+  "pathogen_type": "Böcek Hastalığı",
+  "description": "Çilek kökü, çilek ve ilgili bitkilerin ciddi bir böcek pestisidir. yetişkin çilek, çilek bitkilerinin yakınında toprakta yumurta yerleştirir. larvae (maggots) hatch ve tünel, kökleri besler ve bitkiye ciddi hasara neden olur.",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "Karot bırakır ve zayıf olur",
+    "Yapraklar kırmızı veya sarıya dönüşür",
+    "Kırmızı kahverengi tüneller karot cildinin altında",
+    "Kökleri bozulur ve bozulur",
+    "Patatesler enfeksiyon sonrası kolayca kırılır",
+    "Düşük gelir ve düşük kaliteli kökleri"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "Karot kökünde kahverengi tüneller",
+    "hasarlı karot kökleri ile delikler",
+    "Sarı veya sarı karot folajı"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "Larvae krem sarı maggotlar",
+    "Larva ayaksız",
+    "Larvae yaklaşık 10 mm uzunluğuna ulaşır",
+    "Yetişkin uçaklar küçük ve düşük uçan"
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "Kökleri",
+    "Sayfalar"
   ],
-
   "hosts": [
-    "carrot",
+    "Karot",
     "parsnip",
     "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "Celery için",
+    "Diğer Apiaceae bitkileri"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apiaceae Hakkında",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "Yetişkinler karot bitkileri yakınlarında toprakta yumurta döküyor",
+    "Yumurtadan Larvae Hatch",
+    "Larvae karot kökleri ve beslenir",
+    "Larva toprakta gelişir ve daha sonra yetişkin uçlar haline gelir."
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "Soğuk - ıslak sıcaklıklar",
+    "ıslak toprak koşulları",
+    "Önceki Önceki yazı: Karot bitkileri"
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "Yetişkinler toprakta yumurta koyar",
+    "yakındaki karot alanları arasında hareket"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "Aynı alanda çileklerin tekrar tekrar dikilmesini önlemek için bitki dönüşünü kullanın.",
+    "Enfekte bitkiler ve hasarlı kökleri ortadan kaldırmak",
+    "Fiziksel engelleri kullanın, örneğin hamur ya da böcek tıkanıklığı",
+    "Bitkileri kaplamak için bahçe yaprakları kullanın",
+    "Kullanılabilir olduğunda bitki dayanıklı karot çeşitleri"
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "Toprağa uygulanan faydalı nematodlar (Steinernema türleri)",
+    "Doğal uçan larva haydutları teşvik etmek"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "Kullanılabilecek yerlerde toprak insektisitleri",
+    "larvalara yönelik hedefli böcek ilacı tedavileri (yerel düzenlemeler uygulanır)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "Onyon",
+    "Çilek",
+    "Çeçen",
+    "Rosemary",
+    "Akıllı"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "Bitkilerin etrafında yumuşak böcek kullanın",
+    "Yetiştiriciliği yeşillik ile kaplı bitkiler",
+    "Aromatik bitkiler ile intercrop karotlar",
+    "alan sanitasyonu sağlamak",
+    "Toprağa hasarlı çilek bırakmaktan kaçının."
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "CABI Bitki Koruma Ödülü",
+    "Üniversite Tarım Uzantısı Yayınları",
+    "Entegre pest yönetimi rehberi"
   ]
 }

@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
-  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "disease": "Meyvelerin kahverengi kökü",
+  "scientific_name": "Monilinia fructigena, Monilinia fructicola ve Monilinia laxa",
+  "pathogen_type": "Fonksiyon",
+  "description": "Brown rot, birçok meyve ağacının meyvelerini, çiçeklerini ve çamurlarını etkileyen bir mantar hastalığıdır. bu hastalık, hasat öncesi veya sonrası meyve kaybına neden olur ve sıcak ve nemli koşullarda hızlı bir şekilde yayılabilir.",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "Meyve yüzeyinde küçük kahverengi lekeler",
+    "Yumuşak kahverengi çilek meyveler boyunca yayılır",
+    "Çevrimiçi gri veya beige meyve üzerinde spore kütleleri",
+    "Meyveler ağaçta kurutulur ve kurutulur",
+    "Mumyalı meyveler şubelere bağlı kalır",
+    "Çiçek blight ve twig şiddetli enfeksiyonlarda ölüyor"
   ],
   "hosts": [
-    "peach",
-    "apricot",
+    "Peach için",
+    "Çilek",
     "plum",
-    "cherry",
-    "nectarine",
-    "apple",
+    "Çilek",
+    "Nektar",
+    "Elma",
     "pear",
     "almond",
-    "other stone fruits"
+    "Diğer taş meyveleri"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "Sıcak sıcaklıklar (20-25°C)",
+    "Yüksek nem",
+    "sıklıkla yağış",
+    "Meyve yaralanmaları veya kırışıklıklar",
+    "Kötü hava akışına sahip yumuşak orkardlar"
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "Windborne Mantar Sporları",
+    "yağmur splash",
+    "Ağaçlarda bırakılan meyveler",
+    "Mumyalı meyveler şubelerde",
+    "Enfekte bitki çöpleri"
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "Enfekte meyveleri çıkarmak ve yok etmek",
+    "Hava akışını iyileştirmek için ağaçlar",
+    "Mumyalı meyveleri ağaçlardan çıkarın",
+    "Toplama sırasında meyve yaralanmaları önlemek",
+    "Orkide Sanitasyon"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "Bacillus subtilis biofungicidleri",
+    "Trichoderma tabanlı biyolojik tedaviler",
+    "Aureobasidi biyolojik kontrol ajanları"
   ],
   "chemical_control": [
-    "Tebuconazole",
-    "Propiconazole",
-    "Myclobutanil",
-    "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
-    "Fenbuconazole"
+    "Tebuconazol",
+    "Propikonazol",
+    "Mikrobutanil",
+    "Kaptan",
+    "Manşet",
+    "Azoksitrobin",
+    "Fenbuconazol"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "Sezon boyunca enfekte meyveleri çıkarın",
+    "Böcekler tarafından meyve hasarını önlemek",
+    "İyi bir orkard hijyenini koruyun",
+    "Meyveleri dikkatlice toplayın",
+    "Meyveyi kuru ve soğuk koşullarda saklayın."
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "Meyve üzerinde yumuşak kahverengi",
+    "yuvarlak gri spor yüzükler",
+    "Mumyalı meyveler şubelerde"
   ],
   "source": [
-    "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "CABI Bitki Koruma Ödülü 2022",
+    "Mikrobiyolojide Sınırlar 2022",
+    "Bitki Sağlığı Eğitmeni",
+    "Cornell Üniversitesi - Ağaçların ve Shrubların Hastalıkları"
   ]
 }

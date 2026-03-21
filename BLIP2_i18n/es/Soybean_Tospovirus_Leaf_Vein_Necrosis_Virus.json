@@ -1,0 +1,57 @@
+{
+  "pest_name": "Tospovirus de soja",
+  "scientific_name": "Virus de la necrosis de la vena de soja (VSVN)",
+  "common_name": "Virus de la necrosis de la vena de hoja",
+  "description": "El virus de la necrosis venosa de soja (VSVN) es un tospovirus que afecta a la soja, causando necrosis a lo largo de las venas de las hojas y reduciendo el vigor de las plantas y la calidad de las semillas.",
+  "distribution": "Principalmente reportado en los Estados Unidos, especialmente en las regiones de cultivo de soja del Medio Oeste.",
+  "host_range": {
+    "primary_host": "Glicina máx. (soja)",
+    "other_hosts": "Otras especies leguminosas pueden ser susceptibles; investigación en curso."
+  },
+  "symptoms": {
+    "leaf": [
+      "Rayas necróticas a lo largo de las venas",
+      "Clorosis interveneinal o amarillento",
+      "Deformación o rizado de las hojas",
+      "Pequeñas manchas necróticas o manchas en hojas más viejas"
+    ],
+    "timing": "Los síntomas generalmente aparecen en hojas más viejas, pero pueden afectar a las hojas en todas las etapas",
+    "plant": [
+      "Aturdimiento",
+      "Reducción de la calidad de las semillas en infecciones graves"
+    ]
+  },
+  "conditions_favoring_disease": {
+    "vector": "Trips (principalmente trips de soja, Neohydatothrips variabilis)",
+    "environment": "Temperaturas leves y presencia de vectores favorecen la difusión",
+    "season": "Las infecciones pueden ocurrir a lo largo de la temporada de crecimiento"
+  },
+  "biology": {
+    "pathogen_type": "Virus",
+    "virus_family": "Tospoviridae",
+    "transmission": "Principalmente por trips de manera persistente; puede transmitirse mecánicamente y a través de semillas infectadas (tasa baja)",
+    "infection_process": "El virus se replica en los tejidos del huésped, causando lesiones necróticas a lo largo de las venas; vectorizado por la alimentación de trips"
+  },
+  "damage": [
+    "Necrosis venosa y decoloración de las hojas",
+    "Reducción de la fotosíntesis y del vigor de las plantas",
+    "Pérdida potencial de rendimiento y reducción de la calidad de las semillas en casos graves"
+  ],
+  "management": {
+    "cultural_control": [
+      "Utilizar semillas libres de patógenos",
+      "Retire la soja voluntaria y otras plantas hospedadoras para reducir el inóculo",
+      "Evite plantar cerca de áreas con poblaciones de trips altos"
+    ],
+    "chemical_control": [
+      "Los insecticidas dirigidos a los trips pueden reducir la propagación del virus"
+    ],
+    "genetic_control": [
+      "No hay cultivares de soja totalmente resistentes disponibles actualmente; investigación en curso"
+    ]
+  },
+  "notes": [
+    "SVNV es un tospovirus relativamente recientemente reconocido en la soja.",
+    "La detección temprana y la gestión de vectores son fundamentales para reducir el impacto de las enfermedades."
+  ]
+}

@@ -1,46 +1,46 @@
 {
-  "disease_name": "Late Blight Fruit",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "oomycete",
-  "description": "Late blight fruit rot is a destructive disease caused by the oomycete Phytophthora infestans. It mainly affects tomato and potato plants. The pathogen infects fruits, leaves and stems and can spread rapidly under cool and humid conditions, often leading to severe crop losses.",
+  "disease_name": "Ci Gaba na Kawo Ci Gaba",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "Da wata ayaba mai yawan 'ya'ya.",
+  "description": "Cin ' ya'yan itace yana jawo cuta mai tsanani da ke tattare da ciwon daji da ake kira Toauua. Yana shafan yadda ake yin itatuwa da kuma yadda ake samun isashen ' ya'yan itace. Ƙari ga haka, ' ya'yan itace suna iya yin ɓarna sosai kuma suna iya yin ɓarna sosai a yanayi mai wuya.",
   "affected_parts": [
-    "Fruit",
-    "Leaf",
-    "Stem"
+    "' Ya'ya",
+    "KCharselect unicode block name",
+    "DakataCoptic weekday 2 - LongDayName"
   ],
   "hosts": [
-    "Tomato",
-    "Potato"
+    "QShortcut",
+    "QFontDatabase"
   ],
   "symptoms": [
-    "Dark brown or black lesions on fruits",
-    "Firm rot with greasy appearance",
-    "White mold growth under humid conditions",
-    "Rapid fruit decay"
+    "' Ya'yan itace da ba a Yi Amfani da su a kan ' ya'yan itace",
+    "Ka Yi Ƙarfin Zuciya Da Yadda Ya Kamata",
+    "Za a iya mulmula su a yanayi mai wuya",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "favorable_conditions": [
-    "Cool temperatures (10–20°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Long periods of leaf wetness"
+    "MGBOKO UMUORIA 9 (Igbo)",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Tsawon Lokaci da muke girma"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Contaminated tools and equipment"
+    "KCharselect unicode block name",
+    "Media controller element",
+    "A wurin da magaryar tuƙẽwa take.",
+    "Wuraren Mahaɗar Sadarwa"
   ],
   "management": {
     "cultural": [
-      "Remove infected plants",
-      "Improve air circulation",
-      "Avoid overhead irrigation",
-      "Use resistant cultivars when available"
+      "KCharselect unicode block name",
+      "Media controller element",
+      "Ka Guji Abubuwan Raba Hankali",
+      "Yi amfani da ciyar da ' Yancin Kai yayin da ake samu"
     ],
     "chemical": [
-      "Metalaxyl-based fungicides",
-      "Chlorothalonil",
-      "Mancozeb"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "@ item Spelling dictionary"
     ]
   }
 }

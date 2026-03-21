@@ -1,0 +1,46 @@
+{
+  "disease": "Bakterieller Wilt (Blatt)",
+  "scientific_name": "Ralstonia solanacearum",
+  "pathogen_type": "Bakterium",
+  "description": "Eine durch den Boden übertragene bakterielle Krankheit, die das Verwelken von Blättern und Stängeln verursacht und schließlich Pflanzen tötet.",
+  "symptoms": [
+    "Plötzliches Verwelken der Blätter",
+    "Vergilben und Abhängen von älteren Blättern",
+    "Braune Verfärbung im Gefäßgewebe"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Kartoffeln",
+    "Auberginen",
+    "Pfeffer",
+    "Sonstige Solanaceae"
+  ],
+  "favorable_conditions": [
+    "Warme Bodentemperaturen",
+    "Hohe Bodenfeuchte",
+    "Schlecht entwässerte Felder"
+  ],
+  "spread": [
+    "Kontaminiertes Boden- und Bewässerungswasser",
+    "Befallene Werkzeuge oder Maschinen",
+    "Pflanzung infizierter Sämlinge"
+  ],
+  "management": [
+    "Verwendung resistenter oder toleranter Sorten",
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Verbesserung der Bodenentwässerung und Vermeidung von Wasserverschmutzung",
+    "Üben Sie Fruchtfolge mit Nichtwirten"
+  ],
+  "chemical_control": [
+    "Keine wirksame chemische Behandlung; Konzentration auf sanitäre und resistente Sorten"
+  ],
+  "prevention": [
+    "pathogenfreies Pflanzmaterial verwenden",
+    "Sanitisieren Sie Werkzeuge und Geräte",
+    "Vermeiden Sie das Bewegen von Boden aus infizierten Feldern"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Pflanzenschutzmanagement der FAO"
+  ]
+}

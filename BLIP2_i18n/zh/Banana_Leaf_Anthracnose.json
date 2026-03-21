@@ -1,62 +1,62 @@
 {
-  "disease": "Banana Leaf Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "pathogen_type": "Fungus",
-  "common_name": "Anthracnose of Banana",
-  "host_plant": "Banana (Musa spp.)",
+  "disease": "香蕉Leaf Anthracnose",
+  "scientific_name": "立方公墓",
+  "pathogen_type": "蘑菇",
+  "common_name": "香蕉的炭疽",
+  "host_plant": "香蕉(Musa pp.)",
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Fruit (in advanced infection)"
+    "休假请请假",
+    "优度",
+    "水果(先进感染)"
   ],
-  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "description": "香蕉叶炭疽杆菌是一种真菌疾病,主要由Colletotrichum musae引起的,它感染香蕉叶和植物的其他空气部分,造成坏疽性损伤,可能减少光合作用和削弱植物生长。 病原体可以感染田间植物,在环境条件有利于症状发育之前,这种病原体仍然具有潜伏性。",
   "symptoms": [
-    "Small dark brown to black spots on leaves",
-    "Irregular necrotic lesions with defined margins",
-    "Yellow halo around lesions in some cases",
-    "Expansion of lesions leading to leaf blight",
-    "Premature defoliation in severe infections",
-    "Reduced plant vigor and growth"
+    "叶子上小黑黑黑黑斑点",
+    "固定利润幅度的非正常坏性坏坏性损害",
+    "在一些情况下,围绕损伤的黄光环绕黄光环绕",
+    "导致叶子枯萎的损伤扩大",
+    "严重感染的过早脱叶",
+    "减少植物活力和增长"
   ],
   "disease_cycle": [
-    "The fungus survives in infected plant debris or soil.",
-    "Spores (conidia) are produced in structures called acervuli on infected tissues.",
-    "Conidia spread through rain splash, wind, insects, or contaminated tools.",
-    "Spores germinate on leaf surfaces under humid conditions.",
-    "The pathogen penetrates tissues using an appressorium and colonizes plant cells."
+    "真菌在受感染的植物残块或土壤中存活下来。",
+    "Spories (conidia) 是在被感染组织上使用称为accervuli 的结构中生产的。",
+    "通过雨水喷洒、风、昆虫或被污染的工具传播。",
+    "在潮湿条件下叶子表面发芽。",
+    "病原体利用电压器插入组织,并开垦植物细胞。"
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperatures (approximately 25–30°C)",
-    "Frequent rainfall",
-    "Dense canopy with poor air circulation"
+    "高湿湿度",
+    "温度(约25至30°C)",
+    "频繁降雨",
+    "空气循环不良的高密度树冠"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Rain splash and irrigation water",
-    "Infected plant residues",
-    "Contaminated tools or handling"
+    "空传真菌螺子",
+    "雨水喷洒和灌溉用水",
+    "感染植物残留物",
+    "受污染工具或处理"
   ],
   "management": {
     "cultural_control": [
-      "Remove and destroy infected leaves and plant debris",
-      "Improve air circulation in plantations",
-      "Use disease-free planting material",
-      "Maintain field sanitation"
+      "清除和销毁受感染的树叶和植物碎片",
+      "改善种植园的空气流通",
+      "使用无疾病种植材料",
+      "维持外地环境卫生"
     ],
     "biological_control": [
-      "Use of antagonistic fungi such as Trichoderma spp.",
-      "Application of beneficial microbial biocontrol agents"
+      "使用对抗性真菌,如Trichoderma spp。",
+      "应用有益的微生物生物控制剂"
     ],
     "chemical_control": [
-      "Fungicides such as carbendazim, mancozeb or thiophanate-methyl",
-      "Apply according to recommended agricultural guidelines"
+      "杀虫杀虫剂,如卡本达齐姆、麦可兹布或硫磷酸甲酯-甲基",
+      "根据建议的农业准则适用"
     ]
   },
-  "economic_impact": "Anthracnose can reduce plant vigor and contribute to yield losses and fruit quality reduction in banana plantations.",
+  "economic_impact": "炭疽杆菌可以减少植物活力,并促成香蕉种植园的产量损失和水果质量下降。",
   "sources": [
-    "Plant pathology literature on Colletotrichum musae",
-    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
-    "Plant disease management guides and Plantwise resources"
+    "关于Colletotricthum musae的植物病理学文献",
+    "《国际环境与气候变化杂志》-科里特古姆沼泽的症状学",
+    "植物疾病管理指南和植物资源"
   ]
 }

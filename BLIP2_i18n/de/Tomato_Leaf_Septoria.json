@@ -1,0 +1,60 @@
+{
+  "disease_name": "Tomatenblatt Septoria",
+  "type": "Pilzerkrankung",
+  "causal_agent": "Septoria lycopersici",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Solanes Unkraut (z.B. Pferdenessel)"
+    ],
+    "other_hosts": []
+  },
+  "distribution": "Weltweit",
+  "symptoms": {
+    "foliage": [
+      "Kreisförmige Flecken mit dunkelbraunen Rändern und braunen bis grauen Zentren",
+      "Zentren mit schwarzen Pyknidien gepunktet",
+      "Schmaler gelber Halo umgibt oft Blattläsionen",
+      "Schwere Infektionen verursachen Blattvergilbung, Bräunung, Verwelken und Entlaubung"
+    ],
+    "fruit": [
+      "Obstinfektion ist selten"
+    ]
+  },
+  "disease_cycle": [
+    "Der Pilz überwintert auf infizierten Tomatenresten oder Trümmern von Solanees Unkraut",
+    "Es kann auch auf Ausrüstung wie Pflanzenpfähle und Käfige überleben",
+    "Conidia werden durch Spritzwasser aus Regen oder Sprinklerbewässerung ausgebreitet",
+    "Hohe relative Luftfeuchtigkeit, hohe Temperaturen und verlängerte Blattfeuchte begünstigen die Krankheitsentwicklung"
+  ],
+  "management": {
+    "cultural": [
+      "Pflanzen mindestens 1–2 Jahre lang auf nichtsolanhaltige Kulturen umdrehen",
+      "Kontrolle anfälliger Unkrautarten wie Pferdenettle",
+      "Pflanzenreste entfernen und zerstören (befallene Pflanzen verbrennen oder vergraben, wenn dies erlaubt ist)",
+      "Pflanzen zur Verbesserung der Luftzirkulation und Verringerung des Laub-Boden-Kontaktes",
+      "Erhöhen Sie den Abstand zwischen den Pflanzen und vermeiden Sie übermäßiges Mulchen, um die Feuchtigkeit zu reduzieren",
+      "Überwachung der Bewässerung, um verlängerte Blattnässe zu verhindern",
+      "Verwendung resistenter Tomatensorten, soweit vorhanden"
+    ],
+    "chemical": [
+      "In regelmäßigen Abständen registrierte Fungizid-Schutzsprays anwenden",
+      "Fungizide mit Wirkstoffen wie Chlorthalonil oder Ethylenbisdithiocarbamat (EBDC) sind wirksam",
+      "Häufige Handelsnamen sind Daconil, Mancozeb, Fungonil",
+      "Wiederholen Sie häufig (in der Regel alle 7 Tage) nach den Anweisungen des Etiketts",
+      "Präventive Anwendungen von Kupfer- oder Chlorthalonilfungiziden können in Gebieten mit chronischer Infektion gerechtfertigt sein."
+    ]
+  },
+  "notes": [
+    "Präventivmaßnahmen sind effektiver als der Versuch, infizierte Pflanzen zu heilen",
+    "Conidia überlebt sowohl auf Pflanzenmüll und Ausrüstung, so Sanitär ist kritisch",
+    "Übermäßige Benetzung oder hohe Luftfeuchtigkeit verschlimmert Krankheitsausbreitung"
+  ],
+  "references": [
+    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria Blattfleck Factsheet.",
+    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
+    "Jones, J.B., et al. 2014. Kompendium von Tomatenkrankheiten und Schädlingen, 2. Auflage. APS Press."
+  ]
+}

@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "pest_name": "Sphinx Nez de sphinx",
+  "stage": "larve",
+  "common_name": "Vers de la Corne",
+  "description": "Le stade larvaire (caterpillar) des sphinx est communément appelé vers de corne. Il est grand, lisse-corps, souvent avec une projection semblable à une corne à l'extrémité postérieure.",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "Nourrir sur les feuilles, les tiges et parfois les fruits des plantes hôtes",
+    "Une défoliation peut survenir si les populations sont élevées",
+    "Les feuilles ont souvent des trous irréguliers ou des bords mâchés",
+    "Peut affaiblir les jeunes plantes et réduire le rendement des cultures comme la tomate, le tabac et d'autres solanaceae"
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "Tomates (Solanum lycopersicum)",
+    "Tabac (Nicotiana tabacum)",
+    "Poivre (Capsicum spp.)",
+    "Autres espèces de Solanaceae"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "Larve à cueillir à la main dans les petits jardins",
+    "Contrôle biologique avec Bacillus thuringiensis (Bt) ou guêpes parasitaires",
+    "Utilisation de couvertures de rangées pour les jeunes plants",
+    "Encourager les prédateurs naturels comme les oiseaux et les insectes prédateurs"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "Les larves de sphinx sont souvent confondues avec d'autres grandes chenilles; cherchez la corne à l'extrémité postérieure.",
+    "La gestion se concentre principalement sur le stade larvaire, car les adultes sont des pollinisateurs bénéfiques."
   ]
 }

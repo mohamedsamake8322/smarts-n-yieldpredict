@@ -1,56 +1,56 @@
 {
- "pest": "Kudzu Bug",
- "scientific_name": "Megacopta cribraria",
- "pest_type": "Insect (Hemiptera: Plataspidae)",
- "description": "A sap-sucking insect that attacks soybean and other legumes. Both adults and nymphs feed on plant sap, reducing plant growth and yield. Originally from Asia, it has become an important pest in several crop regions.",
- "symptoms": [
-  "Clusters of small brown shield-shaped insects on stems and leaves",
-  "Yellowing or browning of leaves",
-  "Reduced plant growth and vigor",
-  "Lower pod production in soybean",
-  "Sticky honeydew deposits that may lead to sooty mold"
- ],
- "hosts": [
-  "Soybean",
-  "Kudzu",
-  "Bean",
-  "Cowpea",
-  "Other legume crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Presence of kudzu plants near fields",
-  "Dense vegetation where insects can reproduce"
- ],
- "spread": [
-  "Adult insects flying to new fields",
-  "Movement from kudzu plants to nearby crops",
-  "Overwintering adults emerging in spring"
- ],
- "management": [
-  "Monitor fields regularly for insect clusters",
-  "Remove nearby kudzu plants when possible",
-  "Use resistant or tolerant soybean varieties",
-  "Encourage natural enemies in fields"
- ],
- "biological_control": [
-  "Parasitic wasps such as Paratelenomus saccharalis",
-  "General predators like spiders and lady beetles",
-  "Conservation of beneficial insects"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides (e.g., bifenthrin, lambda-cyhalothrin)",
-  "Neonicotinoid insecticides such as imidacloprid",
-  "Apply when pest populations reach economic threshold"
- ],
- "prevention": [
-  "Monitor fields early in the season",
-  "Control kudzu near crop fields",
-  "Maintain field sanitation and crop rotation"
- ],
- "source": [
-  "University of Georgia Extension",
-  "USDA Pest Management Guides",
-  "Integrated Pest Management literature"
- ]
+  "pest": "كُدْزُ بُغْغ",
+  "scientific_name": "(الماطل)",
+  "pest_type": "الحشرة (Hemeptera: Plataspidae)",
+  "description": "الحشرة التي تهاجم فول الصويا وغيره من البقول، حيث يتغذى كل من البالغين والحوريات على نضوج النباتات، مما يقلل من نمو النبتة والغلة، وقد أصبحت أصلاً من آسيا آفة هامة في العديد من مناطق المحاصيل.",
+  "symptoms": [
+    "مجموعات صغيرة من الحشرات الصغيرة ذات الدرع البُنّي على الجُزْر والأوراق",
+    "أصفر أو بنية أوراق الشُّرْح",
+    "انخفاض نمو النبتات وازدهارها",
+    "إنتاج حجرات أقل إنتاجاً في الصويا",
+    "رواسب عسّيّة ملتصقة بعسّيّة يمكن ان تؤدي الى العفن"
+  ],
+  "hosts": [
+    "Soyban",
+    "كودزو",
+    "بكanan",
+    "&",
+    ""
+  ],
+  "favorable_conditions": [
+    "درجة حرارة",
+    "وجود نباتات كودزو بالقرب من الحقول",
+    "الغطاء النباتي حيث يمكن للحشرات أن تتكاثر"
+  ],
+  "spread": [
+    "حشرات الراشدة التي تسافر إلى حقول جديدة",
+    "الانتقال من نباتات كودزو إلى المحاصيل المجاورة",
+    "الراشدون الذين يتفوقون على الجميع يظهرون في الربيع"
+  ],
+  "management": [
+    "ميادين الرصد المنتظم لمجموعات الحشرات",
+    "ازل مُنَشات كودزو القريبة عند الإمكان",
+    "استخدام الأصناف المقاومة أو المتسامحة من فول الصويا",
+    "تشجيع الاعداء الطبيعي في الحقول"
+  ],
+  "biological_control": [
+    "(أ) كان منسّبات من قبيل Paratelenoms saccharalis",
+    "مفترسات عامة مثل العناكب والخرافات النسائية",
+    "حفظ الحشرات المفيدة"
+  ],
+  "chemical_control": [
+    "مبيدات مبيدات مبيدات حشرات البيريثيرات (مثل، بيفينثرين، ولامدا - سيهالوثرين)",
+    "مبيدات الحشرات الحشرية مثل emidaclopr",
+    "الانطباق عند بلوغ الفئات السكانية للآفات العتبة الاقتصادية"
+  ],
+  "prevention": [
+    "رصد الحقول في وقت مبكر من الموسم",
+    "مراقبة كودزو قرب حقول المحاصيل",
+    "الصرف الصحي الميداني وتناوب المحاصيل"
+  ],
+  "source": [
+    "جامعة جورجيا",
+    "دليل إدارة مبيدات",
+    "المؤلفات المتعلقة بالإدارة المتكاملة"
+  ]
 }

@@ -1,0 +1,67 @@
+{
+  "disease": "Verdelización de las hojas de cítricos",
+  "other_names": [
+    "Huanglongbing",
+    "HLB",
+    "Verdelización de los cítricos"
+  ],
+  "scientific_name": "Candidatus Liberibacter spp.",
+  "pathogen_type": "Bacteria",
+  "description": "El verde cítrico es una de las enfermedades más destructivas de los árboles cítricos. Es causado por bacterias del género Liberibacter y transmitido principalmente por insectos psílidos. Los árboles infectados producen frutos pequeños, amargos, mal coloreados y eventualmente disminuyen y mueren en unos pocos años. Actualmente no hay cura para la enfermedad.",
+  "hosts": [
+    "Citrus sinensis (naranja dulce)",
+    "Citrus reticulata (mandarina)",
+    "Citrus paradisi (grapefruit)",
+    "Limón cítrico (lemón)",
+    "Otras especies de cítricos"
+  ],
+  "vectors": [
+    "Psílido cítrico asiático (Diaphorina citri)",
+    "Psílido cítrico africano (Trioza erytreae)"
+  ],
+  "symptoms_and_damage": [
+    "Blotchy amarillo mottling en las hojas",
+    "Amarillamiento de las venas y brotes de las hojas",
+    "Crecimiento aturdido de los árboles",
+    "Retroceso de la ramita y caída prematura de la hoja",
+    "Frutas pequeñas, irregulares, de mal color",
+    "Los frutos permanecen parcialmente verdes cuando están maduros",
+    "Las frutas saben amargas o agrias",
+    "Semillas abortadas y desarrollo de frutas pobres"
+  ],
+  "disease_cycle_and_spread": [
+    "Las bacterias viven en el tejido floema de los cítricos",
+    "Se propagan principalmente por insectos psílidos que se alimentan de plantas infectadas",
+    "También puede propagarse a través del injerto de material vegetal infectado",
+    "Los estadios psílidos jóvenes adquieren la bacteria y la transmiten a plantas sanas"
+  ],
+  "favorable_conditions": [
+    "Climas cálidos en regiones tropicales y subtropicales",
+    "Presencia de vectores de insectos psílidos",
+    "Zonas de producción de cítricos densos"
+  ],
+  "distribution": [
+    "Asia",
+    "África",
+    "Estados Unidos (Florida, Texas, California y otros)",
+    "Brasil",
+    "México",
+    "Muchas regiones de cultivo de cítricos tropicales y subtropicales en todo el mundo"
+  ],
+  "management": [
+    "Control de las poblaciones de insectos psílidos",
+    "Quitar y destruir los árboles infectados",
+    "Utilizar material de plantación limpio y certificado",
+    "Vigilancia periódica y detección temprana",
+    "Investigación sobre variedades de cítricos resistentes"
+  ],
+  "notes": [
+    "Actualmente no existe una cura efectiva",
+    "Los árboles infectados suelen morir en pocos años.",
+    "La enfermedad ha causado importantes pérdidas económicas en las industrias cítricas de todo el mundo"
+  ],
+  "sources": [
+    "Wikipedia – Enfermedad verdosa de los cítricos",
+    "USDA – Citrus Greening y Asia Citrus Psyllid"
+  ]
+}

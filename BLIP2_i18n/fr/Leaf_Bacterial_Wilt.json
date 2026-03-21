@@ -1,46 +1,46 @@
 {
-  "disease": "Bacterial Wilt (Leaf)",
+  "disease": "Wilt bactérien (leaf)",
   "scientific_name": "Ralstonia solanacearum",
-  "pathogen_type": "Bacterium",
-  "description": "A soil-borne bacterial disease causing wilting of leaves and stems, eventually killing plants. Can persist in soil and water for years.",
+  "pathogen_type": "Bactérie",
+  "description": "Une maladie bactérienne causée par le sol qui provoque le flétrissement des feuilles et des tiges, tuant éventuellement les plantes. Peut persister dans le sol et l'eau pendant des années.",
   "symptoms": [
-    "Sudden wilting of leaves",
-    "Yellowing and drooping of older leaves",
-    "Brown discoloration in vascular tissue"
+    "flétrissement soudain des feuilles",
+    "Jaunissement et enfoncement des feuilles plus anciennes",
+    "Décoloration brune dans les tissus vasculaires"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Other Solanaceae"
+    "Tomates",
+    "Pommes de terre",
+    "Aubergines",
+    "Poivre",
+    "Autres Solanaceae"
   ],
   "favorable_conditions": [
-    "Warm soil temperatures",
-    "High soil moisture",
-    "Poorly drained fields"
+    "Températures chaudes du sol",
+    "Humidité élevée du sol",
+    "Champs mal drainés"
   ],
   "spread": [
-    "Contaminated soil and irrigation water",
-    "Infested tools or machinery",
-    "Planting infected seedlings"
+    "Sol contaminé et eau d'irrigation",
+    "Outils ou machines infestés",
+    "Plantation de semis infectés"
   ],
   "management": [
-    "Use resistant or tolerant cultivars",
-    "Remove and destroy infected plants",
-    "Improve soil drainage and avoid waterlogging",
-    "Practice crop rotation with non-hosts"
+    "Utiliser des cultivars résistants ou tolérants",
+    "Enlever et détruire les plantes infectées",
+    "Améliorer le drainage des sols et éviter l'engorgement de l'eau",
+    "Pratiquer la rotation des cultures avec les non-hôtes"
   ],
   "chemical_control": [
-    "No effective chemical treatment; focus on sanitation and resistant varieties"
+    "Pas de traitement chimique efficace; l'accent est mis sur l'assainissement et les variétés résistantes"
   ],
   "prevention": [
-    "Use pathogen-free planting material",
-    "Sanitize tools and equipment",
-    "Avoid moving soil from infected fields"
+    "Utiliser du matériel de plantation exempt de pathogènes",
+    "Sanitiser les outils et l'équipement",
+    "Éviter de déplacer le sol des champs infectés"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Management"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "FAO Gestion de la santé des végétaux"
   ]
 }

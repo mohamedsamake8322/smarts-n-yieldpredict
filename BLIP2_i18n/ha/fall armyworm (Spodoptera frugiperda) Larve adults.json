@@ -1,48 +1,48 @@
 {
- "disease": "Fall Armyworm Adult",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (adult moth)",
- "description": "The adult fall armyworm is a nocturnal moth responsible for laying eggs on crop leaves. These eggs hatch into destructive larvae.",
- "symptoms": [
-  "Egg masses covered with gray scales on leaves",
-  "Presence of moths around crop fields at night"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm climates",
-  "Availability of host crops",
-  "Rainy growing seasons"
- ],
- "spread": [
-  "Strong flying moths capable of long-distance migration",
-  "Egg laying on leaves of host plants"
- ],
- "management": [
-  "Use pheromone traps to monitor moth populations",
-  "Destroy egg masses early",
-  "Control larvae before they spread"
- ],
- "biological_control": [
-  "Parasitoid wasps attacking eggs",
-  "Predatory insects feeding on eggs"
- ],
- "chemical_control": [
-  "Target treatments applied when larvae emerge"
- ],
- "prevention": [
-  "Field monitoring with pheromone traps",
-  "Plant resistant crop varieties",
-  "Maintain crop diversity"
- ],
- "source": [
-  "FAO Fall Armyworm Monitoring Guide",
-  "CABI Invasive Species Database"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "A cikin Allo tsararre.",
+  "description": "Waɗanda suka yi girma sukan faɗi a kan hanya mai kyau, kuma hakan yana nufin cewa ba za su iya yin noma ba.",
+  "symptoms": [
+    "Kuma ma'abũta cikinna ajalinsu, (shi ne) cewa su haifi cikinnansu.",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
+  ],
+  "hosts": [
+    "Indian National weekday 7 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Zaɓuɓɓuka na Zaman Shawara"
+  ],
+  "favorable_conditions": [
+    "Media controller element",
+    "Nuna Godiya ga ' ya'yan fari",
+    "Lalle ne, a wurinMu, akwai wasu marũruwa mãsu nauyi da Jahĩm."
+  ],
+  "spread": [
+    "Sammai sunã kusa su tsattsage sabõda shi, kuma ƙasa ke kẽce kuma duwãtsu su faɗi sunã karyayyu.",
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi."
+  ],
+  "management": [
+    "Ka Yi Amfani da tarkuna Ɗaya don Ka Kiyaye Abubuwa Masu Kyau",
+    "KCharselect unicode block name",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "biological_control": [
+    "Ana sanye da ƙwai da aka gasa da su",
+    "Ana ciyar da su a kan ƙwai"
+  ],
+  "chemical_control": [
+    "Masu magani suna amfani da magani idan an fito da na'ura"
+  ],
+  "prevention": [
+    "Biyan Bukata Ɗaya",
+    "Yin Tsayayya da Halin Kirki",
+    "Ka Kasance da Ra'ayi dabam dabam"
+  ],
+  "source": [
+    "KA YI KOYI DA ABIN DA KA KOYA DAGA LITTAFI MAI TSARKI",
+    "@ item Text character set"
+  ]
 }

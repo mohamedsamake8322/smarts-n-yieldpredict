@@ -1,67 +1,67 @@
 {
- "disease": "Anthracnose of Cucurbits",
- "scientific_name": "Colletotrichum orbiculare",
- "pathogen_type": "Fungus",
- "description": "A fungal disease affecting cucurbits (cucumber, melon, squash, watermelon, pumpkin). Causes lesions on leaves, stems, and fruits, especially in warm, humid, rainy conditions. Can survive on seeds, soil, and plant debris, and spreads by rain, wind, tools, workers, and insects.",
- "symptoms": [
-  "Leaves: oily spots near veins, angular brown/red/black lesions, tissue death or drop",
-  "Stems and petioles: elongated, depressed, yellowish lesions, may produce black acervules under humid conditions",
-  "Fruits: circular, sunken brown lesions, may ooze red gummy exudate on melon; gelatinous salmon-colored spores on watermelon"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Squash",
-  "Watermelon",
-  "Pumpkin",
-  "Other cucurbits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (26–32°C)",
-  "High humidity and rainfall",
-  "Wet leaves or prolonged dew",
-  "Soil and crop debris harboring pathogen"
- ],
- "spread": [
-  "Infected seeds",
-  "Contaminated soil",
-  "Crop debris",
-  "Wind, rain splash, irrigation water",
-  "Tools and workers",
-  "Cucumber beetles"
- ],
- "management": [
-  "Use certified disease-free seeds",
-  "Plant resistant or tolerant cultivars",
-  "Destroy infected plants and crop debris",
-  "Rotate cucurbits with non-host crops for 2–3 seasons",
-  "Prune plants to increase airflow and reduce humidity",
-  "Avoid overhead irrigation and work when plants are wet"
- ],
- "biological_control": [
-  "Trichoderma harzianum: competes with pathogen, inhibits growth up to 72%",
-  "Bacillus subtilis: bio-pesticide to prevent pathogen establishment",
-  "Plant extracts: horsetail decoction, garlic or neem extracts inhibit fungal growth",
-  "Adjust pH on leaf surface with bicarbonate to reduce fungus development"
- ],
- "chemical_control": [
-  "Difenoconazole (Score) at 0.2 L/ha",
-  "Apply early morning or late evening",
-  "Ensure proper coverage, absorbed in 2 hours",
-  "Limit to one application per season or rotate with other fungicides",
-  "Follow safety precautions (gants, masque, lunettes) and pre-harvest interval"
- ],
- "prevention": [
-  "Use certified, disease-free seeds",
-  "Remove volunteer crops and crop debris",
-  "Avoid wounding plants",
-  "Maintain good field sanitation and air circulation",
-  "Implement crop rotation with cereals, legumes, or brassicas"
- ],
- "source": [
-  "Plantwise Knowledge Bank – Anthracnose in watermelon, Mooya A.M Nzila, CABI",
-  "Sherriff et al., 1994, Experimental Mycology",
-  "US Center for Agriculture, Food and Environment",
-  "French agronomic sources on cucurbit anthracnose"
- ]
+  "disease": "库库比特人炭疽",
+  "scientific_name": "千兆立方千兆立方千兆立方厘米",
+  "pathogen_type": "蘑菇",
+  "description": "一种影响的真菌疾病(、瓜、瓜、壁球、西瓜、南瓜),在叶、茎和水果上造成损伤,特别是在温暖、潮湿、雨季条件下。 种子、土壤和植物残块可以存活下来,雨水、风、工具、工人和昆虫会扩散。",
+  "symptoms": [
+    "叶叶:血管附近的油污点、角形褐色/红/黑、组织死亡或坠落",
+    "斯泰姆斯和花生:长长、抑郁、黄黄病,在潮湿条件下可能产生黑色抗菌素",
+    "水果:圆形、下沉的棕色损害,可能用甜瓜吸食红软软蛋白;西瓜上粘糊的鲑鱼色斑点。"
+  ],
+  "hosts": [
+    "黄瓜",
+    "环环",
+    "安静",
+    "西瓜",
+    "南瓜",
+    "其他"
+  ],
+  "favorable_conditions": [
+    "温度(26-32°C)",
+    "湿湿度和降雨量高",
+    "湿叶或长期露水",
+    "土壤和作物碎片 隐藏病原体"
+  ],
+  "spread": [
+    "感染种子",
+    "受污染土壤",
+    "作物碎片",
+    "风、雨水喷洒、灌溉用水",
+    "工具和工人",
+    "黄瓜甲虫"
+  ],
+  "management": [
+    "使用经核证的无疾病的种子",
+    "耐植物或容忍植物的栽种品种",
+    "销毁受感染的植物和作物碎片",
+    "在2-3个季节与非东道作物旋转二次至三季",
+    "种植植物,以增加空气流量和减少湿度",
+    "当植物湿湿时,避免高空灌溉和工作"
+  ],
+  "biological_control": [
+    "Tricchoderma harzianum:与病原体竞争,抑制增长高达72%",
+    "Bacillus 亚地基:预防病原体形成的生物农药",
+    "植物提取物:马尾、大蒜或乳蜜提取物抑制真菌生长",
+    "调整叶叶表面的pH值,加碳酸双碳酸酯,以减少真菌的生长"
+  ],
+  "chemical_control": [
+    "Difenoconazole(芯),0.2升/公顷",
+    "申请时间: 清晨或晚晚",
+    "确保适当覆盖,2小时内吸收",
+    "限制每个季节申请一次或与其他杀真菌剂轮流使用",
+    "遵循安全预防措施(长枪、长毛帽、润滑油)和收获前间隔期"
+  ],
+  "prevention": [
+    "使用经核证的无疾病的种子",
+    "消除自愿作物和作物碎片",
+    "避免受伤装置",
+    "保持良好的实地环境卫生和空气流通",
+    "实行谷物、豆类或铜类作物轮作"
+  ],
+  "source": [
+    "植物知识银行—西瓜中的炭疽杆菌,Mooya A.M.Nzila,CABI",
+    "Sherriff等人,1994年,《实验神学》",
+    "美国农业、粮食和环境中心",
+    "法国关于氯比特炭疽杆菌的农艺来源"
+  ]
 }

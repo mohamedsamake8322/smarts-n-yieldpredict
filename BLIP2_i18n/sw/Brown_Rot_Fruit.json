@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
-  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "disease": "Roho ya Brown ya Matunda",
+  "scientific_name": "Maisha ya Monilinia Fructicola, Monilinia Fructicola",
+  "pathogen_type": "Fungus ya",
+  "description": "Root Brown ni ugonjwa wa fungu ambayo huathiri matunda, maua na mti wa matunda mengi. ugonjwa huo huathiri matunda kabla au baada ya kukua na inaweza kupanua haraka katika hali ya baridi na ya baridi.",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "Picha ndogo ya rangi juu ya mbolea ya matunda",
+    "Maua ya maua ya maua ya maua ya maua ya maua ya maua",
+    "Mzunguko wa kijani au beige huathiri mafuta juu ya matunda",
+    "Matunda ya kutibu na kutibu juu ya mti",
+    "Matunda ya mummi bado inatumika kwa makundi",
+    "Blythe na twig kufa katika maambukizi makubwa"
   ],
   "hosts": [
-    "peach",
-    "apricot",
-    "plum",
-    "cherry",
-    "nectarine",
-    "apple",
-    "pear",
-    "almond",
-    "other stone fruits"
+    "Peach ya",
+    "Mchakato",
+    "ya Plum",
+    "ya Cherry",
+    "Nektari ya",
+    "Mji wa Apple",
+    "Mmoja wa",
+    "ya almond",
+    "Vitu vingine vya matunda"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "Hali ya joto (20-25 ° C)",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Matokeo ya mateso au mateso",
+    "Mchakato wa dhahabu na usafiri wa hewa"
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "Mchakato wa Windborne",
+    "Mchezo wa mvua",
+    "Matokeo ya matunda yaliyopatikana kwenye mti",
+    "Matunda ya Mummy kwenye tovuti",
+    "Ukosefu wa mbegu za mimea"
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "Kuondoa na kuharibu matunda yaliyoathiriwa",
+    "Vifaa vya maji ili kuboresha umeme wa hewa",
+    "Kuondoa matunda ya mummi kutoka kwa mti",
+    "Kuepuka majeruhi ya matunda wakati wa mazao",
+    "Uhifadhi wa orchard sanitation"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "Bacillus subtilis ya biofungicides",
+    "Matibabu ya Biolojia ya Trichoderma",
+    "Aureobasidium pullulans viungo vya usimamizi wa biolojia"
   ],
   "chemical_control": [
-    "Tebuconazole",
-    "Propiconazole",
-    "Myclobutanil",
-    "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
-    "Fenbuconazole"
+    "ya Tebuconazole",
+    "ya Propiconazole",
+    "Mikobutanili ya",
+    "Kiongozi",
+    "ya Mancozeb",
+    "ya Azoxystrobin",
+    "ya Fenbuconazole"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "Kuondoa matunda yaliyoathiriwa wakati wa msimu",
+    "Kuepuka uharibifu wa matunda kwa wanyama",
+    "Kuhifadhi mbinu nzuri ya orchard",
+    "Kupata matunda kwa makini",
+    "Kuhifadhi matunda katika hali ya hewa na ya baridi"
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "Maua ya rangi juu ya matunda",
+    "Mzunguko wa rangi ya rangi ya rangi",
+    "Matunda ya matunda kwenye mzunguko"
   ],
   "source": [
-    "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "Tuzo ya Usalama wa Maji ya CABI ya 2022",
+    "Hatari katika Mikrobiology 2022",
+    "Mtaalamu wa afya ya mimea",
+    "Chuo Kikuu cha Cornell - Ugonjwa wa Maji na Shrubs"
   ]
 }

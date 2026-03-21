@@ -1,87 +1,87 @@
 {
- "disease": "Rice Leaf Blast",
- "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
- "pathogen_type": "Fungus",
- "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
- "symptoms": [
-  "Diamond or spindle-shaped lesions on leaves",
-  "Lesions with gray or white center and brown or reddish border",
-  "Small spots that enlarge and merge on leaves",
-  "Leaf drying or death in severe infections",
-  "Reduced plant growth",
-  "In severe cases young plants may die"
- ],
- "visual_symptoms": [
-  "diamond-shaped leaf spots",
-  "gray or white center with brown border",
-  "multiple lesions merging on leaves",
-  "damaged or dried rice leaves"
- ],
- "hosts": [
-  "Rice (Oryza sativa)",
-  "Wild rice species",
-  "Some grasses"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "leaf collar",
-  "stem nodes",
-  "panicles"
- ],
- "favorable_conditions": [
-  "High humidity above 90%",
-  "Long periods of leaf wetness (dew, rain, fog)",
-  "Warm temperatures around 25–28°C",
-  "Dense crop canopy",
-  "Excess nitrogen fertilization"
- ],
- "spread": [
-  "Airborne fungal spores (conidia)",
-  "Wind",
-  "Splashing rain or irrigation water",
-  "Infected seeds",
-  "Crop residue from previous season"
- ],
- "disease_cycle": [
-  "Fungus survives on infected seeds and crop residues",
-  "Spores are produced on infected tissues",
-  "Spores spread by wind or water",
-  "Infection occurs when leaves remain wet",
-  "New lesions produce more spores causing rapid disease cycles"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf damage and plant weakening",
-  "Lower grain yield",
-  "Poor grain quality",
-  "Severe outbreaks can cause major crop losses"
- ],
- "cultural_control": [
-  "Use resistant rice varieties",
-  "Plant certified disease-free seed",
-  "Maintain continuous flooding when possible",
-  "Avoid excessive nitrogen fertilization",
-  "Destroy infected crop residue"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species",
-  "Promote balanced soil microbiology"
- ],
- "chemical_control": [
-  "Azoxystrobin",
-  "Trifloxystrobin",
-  "Propiconazole combinations",
-  "Difenoconazole combinations"
- ],
- "prevention": [
-  "Regular field monitoring for early symptoms",
-  "Balanced fertilization",
-  "Maintain proper irrigation management",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Rice Research and Extension Center",
-  "Crop Protection Network",
-  "Plant pathology references on rice blast"
- ]
+  "disease": "Pirinç Yaprakları Blast",
+  "scientific_name": "Magnaporthe oryzae (Anamorph: Pyricularia oryzae)",
+  "pathogen_type": "Fonksiyon",
+  "description": "Pirinç patlaması dünya çapında pirinç en yıkıcı hastalıklarından biridir. mantar yaprakları, düğümleri ve panikleri enfekte eder. yapraklarda karakteristik elmas şeklinde hasarlar üretir, bu da fotosintezi azaltır ve bitkiyi zayıflatır.",
+  "symptoms": [
+    "Elmas veya çamur şeklinde yapraklarda hasar",
+    "Gri veya beyaz merkez ve kahverengi veya kırışıklık sınırları ile hasar",
+    "Yapraklar üzerinde genişleyen ve birleşen küçük noktalar",
+    "Ağır enfeksiyonlarda kurutma veya ölüm",
+    "Bitki büyümesi azaldı",
+    "Şiddetli durumlarda, genç bitkiler ölebilir"
+  ],
+  "visual_symptoms": [
+    "Elmas şeklinde yaprak noktaları",
+    "gri veya beyaz merkez ile kahverengi sınır",
+    "Yapraklarda Birleşen Çeşitli Yaralanmalar",
+    "hasarlı veya kurutulmuş pirinç yaprakları"
+  ],
+  "hosts": [
+    "Pirinç ( Oryza sativa )",
+    "Vahşi pirinç türleri",
+    "Bazı bitkiler"
+  ],
+  "plant_parts_affected": [
+    "Sayfalar",
+    "boynuz boynuz",
+    "Sırt düğümleri",
+    "Panik"
+  ],
+  "favorable_conditions": [
+    "Yüksek nem %90'ın üzerinde",
+    "Uzun süreli yaprak ıslaklığı (kırışıklık, yağmur, çamur)",
+    "Sıcaklıklar 25-28°C",
+    "Tohum Tohum Tohum",
+    "Aşırı nitrojen gübre"
+  ],
+  "spread": [
+    "Airborne mantar spores (konidya)",
+    "rüzgar",
+    "Yağmur ya da sulama suyu",
+    "Enfekte tohumlar",
+    "Önceki sezon bitki kalıntıları"
+  ],
+  "disease_cycle": [
+    "Mantar enfekte tohumlarda ve bitki kalıntılarında hayatta kalır",
+    "Sporlar enfekte dokularda üretilir.",
+    "Rüzgar veya su ile yayılan sporlar",
+    "Enfeksiyon, yapraklar ıslak kaldığında meydana gelir.",
+    "Yeni yaralanmalar, hastalık döngüleri hızla tetikleyen daha fazla spor üretir"
+  ],
+  "impact": [
+    "Düşük fotosentez",
+    "Yaprak hasarı ve bitki zayıflaması",
+    "Düşük tahıl üretimi",
+    "Kötü tahıl kalitesi",
+    "Şiddetli patlamalar büyük tahıl kaybına neden olabilir"
+  ],
+  "cultural_control": [
+    "dayanıklı pirinç çeşitleri kullanın",
+    "Bitki Sertifikası Hastalık Dışı Tohum",
+    "Mümkün olduğunda sürekli sular",
+    "Aşırı nitrojen yağlanmasını önleyin",
+    "Enfekte bitki kalıntılarını yok etmek"
+  ],
+  "biological_control": [
+    "Trichoderma türleri gibi faydalı mikroplar kullanın",
+    "Dengeli toprak mikrobiolojisini teşvik etmek"
+  ],
+  "chemical_control": [
+    "Azoksitrobin",
+    "Trifloxystrobin",
+    "Propiconazol kombinasyonları",
+    "Difenokonazol kombinasyonları"
+  ],
+  "prevention": [
+    "Erken belirtiler için düzenli alan izleme",
+    "Dengeli Üreme",
+    "• Doğru irigasyon yönetimi",
+    "Entegre Hastalık Yönetimi Uygulamaları"
+  ],
+  "source": [
+    "Rice Araştırma ve Uzantı Merkezi",
+    "Bitki Koruma Ağı",
+    "Pirinç patolojisi referansları pirinç patlaması"
+  ]
 }

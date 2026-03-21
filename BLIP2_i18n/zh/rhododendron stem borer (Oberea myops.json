@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "Rhododendendron Stem Borer 灾区",
+  "scientific_name": "Oberea 近视",
+  "pathogen_type": "昆虫虫害(虫虫)",
+  "description": "Rhododendron 干燥器是一种甲虫,其幼虫在植物中生长。 幼虫隧道通过茎茎,干扰水和养分流动,造成树枝的枯萎和死亡。",
+  "symptoms": [
+    "个别分支的树叶或树叶",
+    "突然断裂",
+    "成人产卵时的小孔孔",
+    "孔附近Fras(锯灰类材料)",
+    "毒气变得空空或变弱",
+    "断裂或死亡"
+  ],
+  "hosts": [
+    "Rhododendendron",
+    "阿扎莱亚",
+    "其他埃丽卡塞装饰性灌木"
+  ],
+  "favorable_conditions": [
+    "春季和夏季有成人甲虫出现",
+    "适合产卵的温柔植物",
+    "园圃或风景,有易受影响的宿主植物"
+  ],
+  "spread": [
+    "在植物中产卵的成年甲虫",
+    "生长于体内和树枝中的拉华拉华",
+    "渗入植物材料的移动"
+  ],
+  "impact": [
+    "分支的后退",
+    "减少植物振动",
+    "严重侵扰会杀死装饰性灌木"
+  ],
+  "cultural_control": [
+    "产卵孔经常被检查",
+    "庄稼和破坏的果实,",
+    "保持植物健康,减少易感性"
+  ],
+  "biological_control": [
+    "鼓励鸟类或寄生虫等自然捕食者"
+  ],
+  "chemical_control": [
+    "在灾情严重的情况下应用系统杀虫剂",
+    "鸡蛋产期的目标成人甲虫"
+  ],
+  "prevention": [
+    "种植季节的定期监测",
+    "消除和销毁被感染者早早发芽",
+    "避免种植严重侵扰的苗苗苗厂"
+  ],
+  "source": [
+    "植物虫害管理参考资料",
+    "Rhododdendron虫害推广指南"
+  ]
 }

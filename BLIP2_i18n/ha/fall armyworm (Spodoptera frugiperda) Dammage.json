@@ -1,63 +1,63 @@
 {
- "disease": "Fall Armyworm Damage",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (Lepidoptera pest)",
- "description": "Fall armyworm is a destructive caterpillar pest that attacks maize and many other crops. Larvae feed on leaves and growing points, causing severe crop damage and yield loss.",
- "symptoms": [
-  "Irregular holes and chewing damage on leaves",
-  "Window-pane feeding on young leaves",
-  "Large ragged holes in maize leaves",
-  "Frass (insect droppings) inside leaf whorl",
-  "Severely damaged or destroyed plant growing point"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Wheat",
-  "Cotton",
-  "Soybean",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "Rainy season",
-  "Continuous maize cultivation"
- ],
- "spread": [
-  "Adult moth migration over long distances",
-  "Egg masses laid on crop leaves",
-  "Larvae moving between nearby plants"
- ],
- "management": [
-  "Regular field scouting for early detection",
-  "Hand removal of larvae in small fields",
-  "Destroy heavily infested plants",
-  "Use pheromone traps for monitoring"
- ],
- "biological_control": [
-  "Trichogramma parasitoid wasps",
-  "Predators such as lady beetles and lacewings",
-  "Biopesticides based on Bacillus thuringiensis (Bt)",
-  "Entomopathogenic fungi such as Beauveria bassiana"
- ],
- "chemical_control": [
-  "Spinosad",
-  "Emamectin benzoate",
-  "Chlorantraniliprole",
-  "Lambda-cyhalothrin",
-  "Indoxacarb"
- ],
- "prevention": [
-  "Early planting to avoid peak infestation",
-  "Crop rotation",
-  "Plant resistant maize varieties",
-  "Maintain field sanitation"
- ],
- "source": [
-  "FAO Fall Armyworm Guide",
-  "CABI Invasive Species Compendium"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "A cikin Allo tsararre.",
+  "description": "A wasu lokatai, sojoji da yawa suna cin abinci mai tsanani kuma suna cin abincin da zai sa su yi muni.",
+  "symptoms": [
+    "Nakan ji kamar in yi ɓarna a ƙasa a ƙasa.",
+    "G ciyar da shũka mai ƙunsa da shĩ (Alƙur'ãni) tambayi 'ya'yan itãcen marmari,",
+    "@ item Text character set",
+    "Da ƙwãya mai sõshiya da ƙamshi.",
+    "Mutane da yawa sun lalace ko kuma an halaka su suna girma"
+  ],
+  "hosts": [
+    "Indian National weekday 7 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "QFontDatabase",
+    "QShortcut",
+    "Ethiopian weekday 3 - LongDayName",
+    "Zaɓuɓɓuka na Zaman Shawara"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "Media controller element",
+    "KCharselect unicode block name"
+  ],
+  "spread": [
+    "KCharselect unicode block name",
+    "Mutane da yawa sun yi amfani da kayan lambu don su ci gaba da yin wa'azi",
+    "Ƙasa tana tafiya tsakanin shuke - shuke da ke kusa"
+  ],
+  "management": [
+    "Media controller element",
+    "Media controller element",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Ka Yi Amfani da Matsi Ɗaya don Yin Ƙarya"
+  ],
+  "biological_control": [
+    "Ana amfani da shi a matsayin mai kula da da'ira",
+    "Ana Mai da Tawali'u Kamar Mata Tana Wa'azi Kuma Tana Wadda Ya Kamata",
+    "@ item Text character set",
+    "@ item Text character set"
+  ],
+  "chemical_control": [
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "An la'ani mãsu ƙiri-faɗi.",
+    "KCharselect unicode block name"
+  ],
+  "prevention": [
+    "Da farko, ka mai da hankali don kada ka zama mai shi",
+    "Ethiopian weekday 2 - LongDayName",
+    "Yi Tsayayya da Matsi na Tsarawa",
+    "Ka Kasance da Ra'ayin da ya Dace"
+  ],
+  "source": [
+    "MASU SHELA na Ja - gora",
+    "@ item Text character set"
+  ]
 }

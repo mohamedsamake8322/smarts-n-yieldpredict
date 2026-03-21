@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "طراز CA",
+  "scientific_name": "(مثلاً، تشونيفوسا ككوربيتساروم)",
+  "pathogen_type": "المنقوس",
+  "description": "مرض فطري يصيب الزهور والفواكه الشابة للعديد من الخضراوات، خاصة القرع والبقول، ويسبب تعفن الزهور السريع وتعفن الفاكهة في ظل ظروف دافئة ورطبة.",
+  "symptoms": [
+    "بقع مغرقة بالمياه على الأزهار",
+    "يطير وينهار بسرعة",
+    "تُعَرَّفُ عَثَرًا عَثَرًا فِي صِفَافِثَاتِ صَفَامَامًا",
+    "نمو الفطريات البيضاء القطنية في الأنسجة المُصابة",
+    "بوغرات سوداء ذات دبوس أسود تتشكل على أزهار متعفنة",
+    "الأزهار المصابة تلتصق بالثمرات النامية وتتسبب في تعفن الفاكهة"
+  ],
+  "hosts": [
+    "المكيرا",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "سواش",
+    "",
+    "طراز scchini",
+    "قُنْق قُرْض",
+    "كهنس",
+    "&",
+    "المس",
+    "أنواع أخرى من الطكور والخضر"
+  ],
+  "favorable_conditions": [
+    "درجات الحرارة (حوالي 25 - 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "هطول هطول الأمطار",
+    "مع ضعف الدوران الهوائي"
+  ],
+  "spread": [
+    "البور الطائــة عــن الرياح",
+    "(ب) المطر",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "الاتصال بين الأزدة والثمرة"
+  ],
+  "management": [
+    "أززهار وأمواج متأثرة وتدمير هذه الأزهار",
+    "تحسين المباعبة بين النباتات لزيادة تدفق الهواء",
+    "",
+    "(ج) القيام بانتظام بإزالة الأنسجة المُحْكِسة",
+    "تناوب ممارسة الممارسة في المحصول"
+  ],
+  "biological_control": [
+    "تريشودرما الرزينوم كعامل تربة أو عامل ثبات أحيائي",
+    "المبيدات الأحيائية القائمة على أساس الباسيوس"
+  ],
+  "chemical_control": [
+    "ما يُنكس(ب)",
+    "كلوروثاثالونونيل",
+    "مبيدات الفطريات القائمة على أساس النحاس",
+    "تطبق بصورة وقائية أثناء طقس الرطوبة"
+  ],
+  "prevention": [
+    "في الحقول ذات التهوية الجيدة",
+    "(أ) ما بعد الحصاد",
+    ":: تجنب الإفراط في الري وطول طول فترة التلوّح",
+    "استخدام البذور الصحية وصيانة المرافق الصحية الميدانية"
+  ],
+  "source": [
+    "مصرف المعارف المتعلقة بالنبات",
+    "جامعة فلوريدا الاتحاد الدولي IFAS علم النبات",
+    "دليل APSS"
+  ]
 }

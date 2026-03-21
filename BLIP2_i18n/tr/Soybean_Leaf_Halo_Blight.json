@@ -1,56 +1,72 @@
 {
-  "pest_name": "Halo Blight",
+  "pest_name": "Merhaba Blight",
   "scientific_name": "Pseudomonas syringae pv. phaseolicola",
-  "common_abbreviations": ["Pseudomonas blight", "bean halo blight", "Phaseolous blight", "bacterial leaf spot of beans"],
-  "description": "Halo blight is a bacterial disease of beans caused by Pseudomonas syringae pv. phaseolicola. It is seedborne and thrives under cool, humid conditions.",
-  "distribution": "Worldwide, especially in temperate and subtropical regions of North America, South America, Europe, Africa, and Asia.",
+  "common_abbreviations": [
+    "Pseudomonas uçuş",
+    "Bean Halo Blight Hakkında",
+    "Phaseolojik uçuş",
+    "Bakteriyel yaprak noktası beans"
+  ],
+  "description": "Halo blight, Pseudomonas syringae pv. phaseolicola tarafından neden olan tahılların bakteriyel bir hastalığıdır. tohumlu ve soğuk, nemli koşullarda gelişir.",
+  "distribution": "Dünya çapında, özellikle Kuzey Amerika, Güney Amerika, Avrupa, Afrika ve Asya'nın orta ve subtropikal bölgelerinde.",
   "host_range": {
-    "general": "Primarily beans (Phaseolus spp.)",
-    "notable_hosts": ["Light Red Kidney drybean", "Other common bean varieties"]
+    "general": "Temel olarak beans (Phaseolus spp.)",
+    "notable_hosts": [
+      "Işık Kırmızı Böbrek Drybean",
+      "Diğer yaygın bean çeşitleri"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Small water-soaked lesions initially",
-      "Lesions surrounded by yellow-green halo",
-      "Lesions expand and coalesce into large necrotic areas",
-      "Irregular brown necrotic spots as disease progresses",
-      "Severe cases: extensive defoliation, reduced vigor"
+      "Küçük su geçirmez hasarlar başlangıçta",
+      "Sarı-yeşil halo ile çevrili yaralanmalar",
+      "Yaralanmalar genişletilir ve büyük nekrotik bölgelere dökülür",
+      "Hastalık ilerledikçe düzensiz kahverengi nekrotik noktalar",
+      "Şiddetli durumlar: geniş bozulma, azalma"
     ],
     "pod": [
-      "Dark, sunken lesions with greasy appearance",
-      "Discolored or shriveled seeds"
+      "Karanlık, şişmiş görünümlü bozukluklar",
+      "Kırık veya kırık tohumlar"
     ]
   },
   "damage": [
-    "Significant yield and seed quality reduction",
-    "Can cause complete crop failure in high-incidence fields",
-    "Weakened plants more susceptible to secondary infections",
-    "Quarantine restrictions due to infected seed lots"
+    "Üretimi ve tohum kalitesinin önemli ölçüde azaltılması",
+    "Yüksek sıklık alanlarında tam bitki başarısızlığına neden olabilir",
+    "Zayıflatılmış bitkiler ikincil enfeksiyonlara daha duyarlıdır",
+    "Karantina kısıtlamaları enfekte tohumlar nedeniyle"
   ],
   "biology": {
-    "pathogen_type": "Seedborne bacterium",
-    "survival": "Persists in crop debris and contaminated plant surfaces",
-    "infection_routes": ["Through natural openings (stomata, hydathodes)", "Wounds"],
-    "favorable_conditions": "Cool (16–24°C), humid environments",
-    "spread": ["Infected seeds", "Rain splash", "Irrigation", "Mechanical contact"]
+    "pathogen_type": "Tohum Bakterisi",
+    "survival": "Bitki çöplerinde ve kirlenmiş bitki yüzeylerinde kalır",
+    "infection_routes": [
+      "Doğal açılımlar aracılığıyla (stomata, hydathodes)",
+      "Yaralanma"
+    ],
+    "favorable_conditions": "Soğuk (16-24°C), nemli ortamlar",
+    "spread": [
+      "Enfekte tohumlar",
+      "yağmur splash",
+      "Irigasyon",
+      "Mekanik İletişim"
+    ]
   },
   "management": {
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Crop rotation with non-hosts",
-      "Avoid overhead irrigation",
-      "Proper field sanitation"
+      "Sertifikalı hastalık dışı tohumlar kullanın",
+      "Ev sahibi olmayanlar ile bitki dönüşü",
+      "Aşırı sulama önlemek",
+      "Doğru alan sanitasyonu"
     ],
     "chemical_control": [
-      "Copper-based bactericides to suppress spread",
-      "Seed treatments to prevent early infection"
+      "Bakterikler yayılmasını bastırmak için bakır tabanlı bakteriler",
+      "Erken enfeksiyonu önlemek için tohum tedavisi"
     ],
     "genetic_control": [
-      "Planting resistant varieties to reduce reliance on chemicals"
+      "Kimyasal bağımlılığı azaltmak için dayanıklı çeşitler yetiştirmek"
     ]
   },
   "notes": [
-    "Integrated management combining cultural, chemical, and genetic strategies is most effective",
-    "Strict seed certification and quarantine measures are important to prevent spread"
+    "Kültürel, kimyasal ve genetik stratejileri birleştiren en etkili bütünleşik yönetim",
+    "Dayanıklı tohum sertifikası ve karantin önlemleri yayılmasını önlemek için önemlidir"
   ]
 }

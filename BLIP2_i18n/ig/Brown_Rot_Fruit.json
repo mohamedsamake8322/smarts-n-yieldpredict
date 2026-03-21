@@ -1,0 +1,78 @@
+{
+  "disease": "Brown na - ere mkpụrụ osisi",
+  "scientific_name": "Mminai fruclilina, Mninia frururulala, Mnininia",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Brown na - ere akwụkwọ bụ ọrịa na - asọ oyi nke na - awakpo mkpụrụ osisi, okooko osisi na osisi ndị na - amị mkpụrụ, bụ́ ndị na - agbawa mkpụrụ n'ahụ́ ọtụtụ osisi ndị na - amị mkpụrụ, bụ́ ndị ọrịa ahụ na - akpata ire ure tupu oge owuwe ihe ubi ma ọ bụ mgbe e mesịrị, ọ pụkwara ịgbasa ngwa ngwa n'ọnọdụ ndị na - ekpo ọkụ nakwa n'ụzọ na - adịghị mma.",
+  "symptoms": [
+    "Obere ihe ndị na - acha nchara nchara bụ́ ndị dị n'elu mkpụrụ osisi",
+    "N'ihi ya, obere ahịhịa na - acha nchara nchara na - agbasa n'akụkụ mkpụrụ osisi ahụ",
+    "Ìgwè mmadụ ndị na - agba chaa chaa ma ọ bụ ndị na - apụnara mmadụ ihe bụ́ ndị nọ n'elu mkpụrụ osisi",
+    "Mkpụrụ osisi na - amị mkpụrụ ma na - amị mkpụrụ n'osisi",
+    "Mkpụrụ osisi ndị a mịrị amị na - anọgide na - aba n'alaka",
+    "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ bụ́ ndị na - egbu egbu na - anwụ n'ụzọ dị njọ n'ihi ọrịa ndị siri ike"
+  ],
+  "hosts": [
+    "NEPA",
+    "Ihe Na - akpali Agụụ Mmekọahụ",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Ńgwānụ́ banye",
+    "Plaine",
+    "Alaeze Ukwu Gris",
+    "HỌL",
+    "[ Ihe e dere n'ala ala peeji]",
+    "Mkpụrụ osisi ndị ọzọ e ji nkume kpụọ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ nke oyi na - atụ n'ebe ahụ na - ebelata ọ̀tụ̀tụ̀ ịjụ oyi",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "Ndị Na - emerụ Ahụ Ma Ọ Bụ Ndị Na - emebi Ihe",
+    "Ala ubi ndị na - adịghị eme nri bụ́ ndị ikuku na - adịghị abata na ha"
+  ],
+  "spread": [
+    "Ihe Ndị Na - eme Ka E Nwee Ifufe",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Mkpụrụ osisi ndị a mịrị amị fọrọ n'elu osisi",
+    "Mkpụrụ osisi ndị dị n'alaka ụlọ ọrụ dị iche iche",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala"
+  ],
+  "management": [
+    "Wepụ ma bibie mkpụrụ osisi ndị bu ya",
+    "Osisi ndị na - amị mkpụrụ iji mee ka ikuku na - ekpokwu ọkụ",
+    "Wepụ mkpụrụ osisi ndị na - esi n'osisi apụta",
+    "Zere mmerụ ahụ ndị na - amị mkpụrụ n'oge owuwe ihe ubi",
+    "Nọgide Na - edebe Ebe Obibi Gị ọcha"
+  ],
+  "biological_control": [
+    "Mkpụrụ ndụ ndị dị n'ime ala",
+    "Usoro ọgwụgwọ mkpụrụ ndụ ihe nketa ndị dabeere ná mkpụrụ ndụ ihe nketa",
+    "Ihe ndị na - egbochi mmiri ọgwụ ahụ́ ịbanye n'ahụ́ bụ́ ndị na - emepụta mmiri ọgwụ ahụ́"
+  ],
+  "chemical_control": [
+    "Tebunale",
+    "Otú E Si Eme Ka Ndị Mmadụ Mata Onye Chineke Bụ",
+    "Ebe M Na - aga",
+    "Nanai",
+    "Macoze",
+    "Azstroron",
+    "Strinanale"
+  ],
+  "prevention": [
+    "Wepụ mkpụrụ osisi ndị butere ọrịa n'oge ahụ",
+    "Ekwela ka ụmụ ahụhụ mebie mkpụrụ osisi",
+    "Nọgide na - adị ọcha n'ubi mkpụrụ osisi",
+    "Owuwe ihe ubi na - eji nlezianya amị mkpụrụ",
+    "Na - amị mkpụrụ n'ọnọdụ ndị kpọrọ nkụ na ndị jụrụ oyi"
+  ],
+  "visual_signature": [
+    "Anwụrụ ọkụ na - acha nchara nchara n'ime mkpụrụ osisi",
+    "Mpụta ndị na - agba gburugburu",
+    "Mkpụrụ osisi ndị a mịrị amị n'alaka ụlọ ọrụ dị iche iche"
+  ],
+  "source": [
+    "AGBOR 6 (Bekee)",
+    "Nnyocha Ndị E Mere n'Oge Gara Aga 2022",
+    "Mkpụrụ Ahụ́ Ike nke Na - amịpụta Ezi Ahụ́ Ike",
+    "Nkà Mmụta Ihe Ochie nke Mahadum - Ọrịa Osisi na Sherus"
+  ]
+}

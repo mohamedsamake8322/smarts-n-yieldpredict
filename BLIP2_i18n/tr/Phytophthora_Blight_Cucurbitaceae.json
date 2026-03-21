@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "Phytophthora Blight of Cucurbits İle İlgili Yazılar",
+  "scientific_name": "Phytophthora kapsici",
+  "pathogen_type": "Oomycete (Fungus gibi bir organizma)",
+  "description": "Phytophthora blight, oomycete Phytophthora capsici tarafından tetiklenen cucurbit bitkilerinin yıkıcı bir hastalığıdır. tohumları, şarapları, yaprakları ve meyveleri enfekte eder, sıklıkla sıcak ve ıslak koşullarda hızlı bitki çöküşüne ve şiddetli bitki kaybına yol açar.",
+  "symptoms": [
+    "Damping-off toprak çizgisinde su geçirmez çamur ile",
+    "Yapraklar sarı olmadan bitkilerin aniden dökülmesi",
+    "Suyun içindeki karanlık yaralanmalar çamur ve şaraplarda",
+    "Zeytin veya sarı sınırları ile nekrotik olan yaprak noktaları",
+    "Ülkeye dokunma noktasından başlayan meyve çubukları",
+    "Bitkiler üzerinde beyaz çamur büyümesi",
+    "Hızlı meyve çöküş ve çöküş"
+  ],
+  "visual_symptoms": [
+    "Su geçirmez hasarlar çamur ve şaraplarda",
+    "Enfekte meyveler için beyaz çamur",
+    "yumuşak kırışıklık pompaları, çilekler veya melonlar",
+    "Aniden bitki çöktü ve üzüm çöktü"
+  ],
+  "hosts": [
+    "Çanakkale",
+    "Pompalı",
+    "Squash Hakkında",
+    "su melonları",
+    "Çanakkale",
+    "Honeydew melon",
+    "Çıplak",
+    "Pepper için",
+    "domates",
+    "Yumurta"
+  ],
+  "plant_parts_affected": [
+    "tohumları",
+    "Kökleri",
+    "Krona",
+    "Şarap",
+    "Sayfalar",
+    "Meyveler"
+  ],
+  "favorable_conditions": [
+    "Sıcak sıcaklıklar (20-30°C)",
+    "Su dolu topraklar",
+    "Şiddetli yağış veya sular",
+    "Kötü kayıp alanlar",
+    "sıklıkla sulama"
+  ],
+  "spread": [
+    "Toprakta su hareketleri",
+    "yağmur splash",
+    "Irigasyon suyu",
+    "kirlenmiş toprak ve çiftlik ekipmanları",
+    "Enfekte bitki çöpleri"
+  ],
+  "disease_cycle": [
+    "Patogenler birkaç yıl boyunca toprakta oospor olarak hayatta kalır",
+    "Sporlar sporangya ve zoospor üretir.",
+    "Zoosporlar su içinde yüzüyor ve bitki dokularını enfekte ediyor",
+    "Enfekte bitkilerde yeni spores oluşur ve su veya yağmurla yayılır."
+  ],
+  "impact": [
+    "Ağır bitki sızıntısı ve ölüm",
+    "Meyve çalı alanında veya depolama alanında",
+    "Şiddetli yağmurdan sonra yayılan hastalık",
+    "Ağır patlamalarda %100'e kadar kayıplar"
+  ],
+  "cultural_control": [
+    "iyi ıslatılmış alanlarda bitki",
+    "Aşırı sulama önlemek",
+    "Yetişkin bitkiler için kaldırılmış yatak kullanın",
+    "En az 3 yıl boyunca ev sahipliği yapmayan bitkilerle döndürülen alanlar",
+    "Enfekte bitkileri kaldırmak ve yok etmek",
+    "Çiftlikler arasında hareket etmeden önce temiz çiftlik ekipmanları"
+  ],
+  "chemical_control": [
+    "Mefenoksam veya metalaxil ile tedavi",
+    "Dimethomorph'in Foliar Spreyleri",
+    "bakır tabanlı fungicidler",
+    "ıslak koşullarda düzenli fungicid uygulamaları"
+  ],
+  "prevention": [
+    "Önceki Hastalık Tarihi Olmayan Temiz Alan Kullanımı",
+    "Kirlenmiş sulama suyu önlemek",
+    "Şiddetli Yağmur Sonrası İzleme Alanları",
+    "Enfekte meyveleri hızlı bir şekilde çıkarın"
+  ],
+  "source": [
+    "Illinois Üniversitesi Bitki Sağlığı Eğitmeni",
+    "Babadoost M. 2005 Phytophthora kurbağalar"
+  ]
 }

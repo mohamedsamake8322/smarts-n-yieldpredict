@@ -1,116 +1,116 @@
 {
-  "disease_name": "Yellow Sigatoka",
-  "dataset_label": "Banana_Leaf_Yellow_Sigatoka",
+  "disease_name": "Lalle ne kunã hawan wani hãli daga wani hãli.",
+  "dataset_label": "KCharselect unicode block name",
   "other_names": [
-    "Sigatoka leaf spot",
-    "Banana leaf spot"
+    "@ action",
+    "Da wata ayaba mai yawan 'ya'ya."
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora musae",
-    "synonym": "Mycosphaerella musicola",
-    "kingdom": "Fungi",
-    "phylum": "Ascomycota"
+    "type": "Indian National weekday 5 - LongDayName",
+    "scientific_name": "KCharselect unicode block name",
+    "synonym": "Wata ' yar'uwa mai suna Naeaace ta ce a riƙa kaɗe - kaɗe da ake kaɗe - kaɗe da ke cikin Littafi Mai Tsarki",
+    "kingdom": "Indian National month 8 - LongName",
+    "phylum": "Kamar dai sũ, jãkuna firgitattu ne."
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "Wata ' yar'uwa mai suna Raka (ana duba hoton da ke wannan talifin.)",
     "other_hosts": [
-      "Plantain"
+      "Shirin Hana Haske"
     ]
   },
   "affected_parts": [
-    "Leaves"
+    "QDialogButtonBox"
   ],
   "symptoms": {
     "early_stage": [
-      "Small pale yellow streaks (1–2 mm) on young leaves",
-      "Chlorotic spots appearing near leaf margins or midrib"
+      "QXml",
+      "KCharselect unicode block name"
     ],
     "intermediate_stage": [
-      "Streaks enlarge into elongated brown lesions",
-      "Spindle-shaped spots with yellow halos around them"
+      "KCharselect unicode block name",
+      "Mãsu duhun inuwa."
     ],
     "advanced_stage": [
-      "Dark brown to black necrotic spots",
-      "Large necrotic areas on leaves",
-      "Premature leaf drying and defoliation"
+      "KCharselect unicode block name",
+      "Babbar wuraren da ake amfani da su a hagu",
+      "Sao'i Masu Ban Al'ajabi"
     ]
   },
   "disease_cycle": {
-    "survival": "Fungus survives in infected leaf tissue",
+    "survival": "KCharselect unicode block name",
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "KCharselect unicode block name",
+      "Kamar Yadda Ake Sha'ani Da Waɗanda Suka Sada Suka Ba Da Aiki"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Water droplets"
+      "QFontDatabase",
+      "Media controller element",
+      "Sa'an nan Muka sanya samanta ya kõma ƙasanta, kuma Muka yi ruwan duwãtsu na lãkar wuta a kansu."
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Warm temperatures (25–30°C)",
-      "Prolonged leaf wetness",
-      "Rainy or wet season"
+      "QShortcut",
+      "KCharselect unicode block name",
+      "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+      "Rabinsa, ko ka rage abu kaɗan daga gare shi."
     ]
   },
   "impact": {
-    "severity": "Moderate to high",
+    "severity": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
     "effects": [
-      "Reduced photosynthetic capacity",
-      "Smaller banana bunches",
-      "Reduced fruit quality",
-      "Shorter green life of fruit",
-      "Premature fruit ripening"
+      "KCharselect unicode block name",
+      "QXml",
+      "Nuna 'yã'yan itãcen marmari",
+      "Mãsu aikin wahala ne, mãsu gajiya.",
+      "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
     ],
-    "estimated_yield_loss": "Up to 50% in severe infections"
+    "estimated_yield_loss": "Har zuwa 50 a lokacin Wahala mai tsanani"
   },
   "distribution": [
-    "Australia",
-    "Asia",
-    "Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
-    "Oceania"
+    "Ostareliya",
+    "Asiya",
+    "Afirka",
+    "@ item Text character set",
+    "Amirka ta Kudu",
+    "QFontDatabase",
+    "K_ar ka Goge"
   ],
   "similar_diseases_or_confusions": [
-    "Black Sigatoka (Pseudocercospora fijiensis)",
-    "Banana leaf spot diseases"
+    "KCharselect unicode block name",
+    "Ana iya samun cuta mai kyau"
   ],
   "management": {
     "cultural_control": [
-      "Remove infected leaves (de-leafing)",
-      "Improve plantation sanitation",
-      "Maintain proper drainage",
-      "Avoid overcrowding of plants"
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Ka Kasance da Ra'ayin da Ya Dace",
+      "Ka guje wa yin amfani da shuke - shuke a hanyar da ba ta dace ba"
     ],
     "chemical_control": [
-      "Protectant fungicides",
-      "Systemic fungicides",
-      "Products containing tebuconazole, mancozeb, chlorothalonil"
+      "@ action",
+      "KCharselect unicode block name",
+      "Wani mutum mai suna Alanan yana ɗauke da wani irin magani da ke ɗauke da yaren Almai da ke kusa da teku."
     ],
     "biological_control": [
-      "Bacillus subtilis",
-      "Trichoderma viride",
-      "Pseudomonas fluorescens"
+      "KCharselect unicode block name",
+      "Indian National weekday 3 - LongDayName",
+      "KCharselect unicode block name"
     ],
     "preventive_measures": [
-      "Use tolerant banana varieties",
-      "Balanced fertilization",
-      "Regular monitoring of plantations"
+      "Ka Yi Amfani da Halin da Ya Dace",
+      "KCharselect unicode block name",
+      "@ action"
     ]
   },
   "spread_risk_factors": [
-    "High humidity environments",
-    "Poor drainage",
-    "Presence of infected leaves",
-    "Susceptible banana varieties"
+    "QXml",
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "references": [
-    "Crop Science Australia – Yellow Sigatoka",
-    "CABI Crop Protection Compendium",
-    "CSIRO Plant Pathology Resources",
-    "Plant Pathology Journal Publications"
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set"
   ]
 }

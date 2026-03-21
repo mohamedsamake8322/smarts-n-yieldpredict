@@ -1,0 +1,90 @@
+{
+  "disease": "Karotte Alternaria Blattfleck",
+  "scientific_name": "Alternaria dauci",
+  "pathogen_type": "Pilze",
+  "description": "Alternaria Blattfleck ist eine Pilzerkrankung, die hauptsächlich Karottenblätter betrifft. Es beginnt auf älteren Blättern und produziert dunkle Flecken mit gelben Rändern. Bei schweren Infektionen werden die Blätter schwarz, trocken und sterben, was einen großen Ertragsverlust verursacht.",
+  "symptoms": [
+    "Dunkelbraune bis schwarze Flecken auf Blättern",
+    "Anguläre Läsionen mit gelben Rändern",
+    "Flecken erscheinen zuerst auf älteren Blättern",
+    "Flecken verschmelzen und bilden große tote Bereiche",
+    "Blätter werden schwarz, trocken und verdorren",
+    "Schwere Infektion verursacht Blattbrand und Pflanzenschwächung",
+    "Setzlinge können durch Dämpfung absterben"
+  ],
+  "visual_signature": [
+    "dunkelbraune oder schwarze Blattflecken",
+    "gelber Halo um Läsionen",
+    "Geschwärzte Karottenblätter"
+  ],
+  "affected_plant_parts": [
+    "Blätter",
+    "Blattläuse",
+    "Sämlinge"
+  ],
+  "hosts": [
+    "Karotten",
+    "Sellerie",
+    "Petersilie",
+    "Dill",
+    "Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip-Parsnip",
+    "Wildkarotten",
+    "Sonstige Apiaceae-Pflanzen"
+  ],
+  "plant_family": "Apiaceae",
+  "favorable_conditions": [
+    "feuchtes Wetter",
+    "häufige Niederschläge",
+    "hohe Luftfeuchtigkeit",
+    "dichte Pflanzung",
+    "lange Perioden der Blattnaßigkeit"
+  ],
+  "spread": [
+    "infizierte Samen",
+    "Windgetriebener Regen",
+    "infizierte pflanzliche Rückstände im Boden",
+    "Pilzsporen durch Wind verbreitet"
+  ],
+  "management": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Samen mit heißem Wasser behandeln (50°C für 25-30 Minuten)",
+    "Vermeiden Sie dichte Pflanzung, um Feuchtigkeit zu reduzieren",
+    "Entfernen Sie infizierte Pflanzenabfälle nach der Ernte",
+    "Rotieren von Kulturen für mindestens 3 Jahre",
+    "Tolerante Karottensorten wachsen"
+  ],
+  "biological_control": [
+    "Trichoderma-Arten Biofungizide",
+    "Bacillus subtilis biologische Fungizide"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Chlorothalonil",
+    "Kupferfungizide",
+    "Iprodion",
+    "Strobilurin-Fungizide",
+    "Triazolfungizide"
+  ],
+  "seed_treatment": [
+    "Thiram",
+    "Captan (Erdäpfel)"
+  ],
+  "similar_diseases": [
+    "Cercospora-Blattfleck der Karotte (Cercospora carotae)"
+  ],
+  "differential_diagnosis": {
+    "Alternaria_leaf_spot": "dunkelbraune bis schwarze Läsionen mit gelbem Halos",
+    "Cercospora_leaf_spot": "hellbraune oder bräunliche kreisförmige Läsionen"
+  },
+  "impact": [
+    "rascher Tod des Karottenblätters",
+    "reduzierte Photosynthese",
+    "Starke Ertragsverluste während der Regenzeit"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "CSIRO – Krankheiten von Gemüsepflanzen in Australien",
+    "Universität von Massachusetts Erweiterung",
+    "Abteilung für Primärindustrie und Regionalentwicklung"
+  ]
+}

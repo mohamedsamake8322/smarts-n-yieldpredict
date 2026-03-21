@@ -1,77 +1,128 @@
 {
-  "pest_name": "Sweet Potato Feathery Mottle Virus",
+  "pest_name": "Tatlı Patates Feathery Mottle Virüsü",
   "abbreviation": "SPFMV",
-  "type": "virus",
-  "history": "Initially discovered in the United States ~70 years ago. Most widely spread sweet potato virus worldwide, recently identified in Italy as primary contributor to SPVD.",
+  "type": "Virüsler",
+  "history": "İlk olarak Amerika Birleşik Devletleri'nde keşfedildi ~70 yıl önce. dünya çapında yaygın olarak yayılan tatlı patates virüsü, son zamanlarda İtalya'da SPVD'ye ana katkısı olarak tespit edildi.",
   "structure": {
-    "genome_type": "positive-sense single-stranded RNA",
+    "genome_type": "pozitif RNA tek taraflı RNA",
     "genome_length_bases": 10820,
-    "organization": ["single open reading frame", "3' UTR", "poly(A) tail"],
-    "proteins": [
-      {"name": "P1", "function": "Proteinase, ssRNA binding activity"},
-      {"name": "HC-Pro", "function": "Proteinase, aids in aphid transmission, long-distance movement"},
-      {"name": "P3", "function": "Viral replication function"},
-      {"name": "6K1", "function": "Unknown"},
-      {"name": "CI", "function": "Cytoplasmic inclusion protein, RNA helicase activity"},
-      {"name": "6K2", "function": "Unknown, involved in viral replication"},
-      {"name": "NIa", "function": "VPg and proteinase"},
-      {"name": "NIb", "function": "Viral replicase"},
-      {"name": "Cistron", "function": "Coat protein, virion assembly, viral transmission, spread"}
+    "organization": [
+      "Tek Açık Okuma Çerçevesi",
+      "Üçüncü UTR",
+      "Poly(A) Tail için"
     ],
-    "virion_shape": "long, flexuous, rod-shaped",
-    "virion_length_nm": "810-865"
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinaz, ssRNA bağlayıcı aktivite"
+      },
+      {
+        "name": "Hc-Pro için",
+        "function": "Proteinaz, aphid iletiminde yardımcı, uzun mesafeli hareket"
+      },
+      {
+        "name": "P3",
+        "function": "Viral replikasyon fonksiyonu"
+      },
+      {
+        "name": "6K1",
+        "function": "Bilinmeyen"
+      },
+      {
+        "name": "IŞİD",
+        "function": "Cytoplasmik dahil protein, RNA helikaz aktivitesi"
+      },
+      {
+        "name": "6K2",
+        "function": "Bilinmeyen, viral replikasyonla ilgili"
+      },
+      {
+        "name": "Niya",
+        "function": "VPG ve Proteinaz"
+      },
+      {
+        "name": "NİB",
+        "function": "Viral replikasyon"
+      },
+      {
+        "name": "Cistron",
+        "function": "Coat protein, viryon toplanması, viral iletim, spread"
+      }
+    ],
+    "virion_shape": "uzun, flexuous, rod şeklinde",
+    "virion_length_nm": "810 - 865"
   },
   "life_cycle": {
-    "entry": "Mechanical or vector-mediated via aphid stylets",
-    "replication": "Genome translated into polyprotein, cleaved by P1, HC-Pro, NIa proteases",
-    "translation_helpers": ["HC-Pro binds eIF4E, VPg, NIa"],
-    "gene_silencing_suppression": "HC-Pro suppresses siRNA and miRNA",
-    "packaging": "Replicated genome packaged into virions"
+    "entry": "Mekanik veya vektor aracılığıyla aphid yaprakları",
+    "replication": "Genom polyprotein olarak tercüme edilir, P1, HC-Pro, NIa proteazları ile temizlenir",
+    "translation_helpers": [
+      "HC-Pro bağları eIF4E, VPg, NIa"
+    ],
+    "gene_silencing_suppression": "HC-Pro siRNA ve miRNA'yı bastırır",
+    "packaging": "Viryonlara paketlenmiş replikasyon genomi"
   },
   "transmission": {
-    "vectors": ["aphids"],
-    "mechanism": "Non-persistent, via stylet tips",
-    "seed_transmission": "Not transmitted via seed",
+    "vectors": [
+      "Afitler"
+    ],
+    "mechanism": "Dayanıklı olmayan, stilet ipuçları aracılığıyla",
+    "seed_transmission": "tohum yoluyla iletilmemiştir",
     "host_range": [
       "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
-      "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
-      "Chenopodium quinoa",
-      "Datura stramonium"
+      "Nicotiana spp. (N. benthamiana, N. rustica ve N. tabacum)",
+      "Çanakkale Quinoa",
+      "Datura Stramonium Hakkında"
     ]
   },
   "symptoms": {
-    "typical": "Feathery purple patterns on leaves",
-    "severe_strains": ["root necrosis", "leaf chlorosis", "root discoloration"],
+    "typical": "Feathery pürüzsüz desenler yapraklar üzerinde",
+    "severe_strains": [
+      "ırk necrosis",
+      "Çerçeve Kloroz",
+      "ırk bozukluğu"
+    ],
     "co-infections": {
-      "SPVD": "Occurs when SPFMV co-infects with SPCSV; causes stunted growth, severe mosaic, leaf distortion, reduced yield",
-      "synergism_effects": "SPFMV titers up to 600x higher in SPVD; enhanced spread and replication"
+      "SPVD": "SPFMV SPCSV ile birlikte enfekte olduğunda ortaya çıkar; çarpıcı büyüme, şiddetli mosaik, yaprak bozukluğu, düşük verimlilik neden olur",
+      "synergism_effects": "SPFMV titroları SPVD'de 600 kat daha yüksek; yayılma ve replikasyon geliştirilmiştir"
     }
   },
   "genetic_variability": {
     "strains": [
-      {"name": "EA", "location": "East Africa"},
-      {"name": "RC", "location": "Australia, Africa, North America, Asia"},
-      {"name": "O", "location": "Africa, Asia, South America"},
-      {"name": "C", "location": "Australia, Africa, Asia, North and South America"}
+      {
+        "name": "Eve",
+        "location": "Doğu Afrika"
+      },
+      {
+        "name": "RC",
+        "location": "Avustralya, Afrika, Kuzey Amerika, Asya"
+      },
+      {
+        "name": "O",
+        "location": "Afrika , Asya , Güney Amerika"
+      },
+      {
+        "name": "C",
+        "location": "Avustralya, Afrika, Asya, Kuzey ve Güney Amerika"
+      }
     ],
-    "mutation_sources": "Geographical separation; coat protein gene variation affects immune response"
+    "mutation_sources": "Coat protein gen değişimi bağışıklık tepkisini etkiler"
   },
   "agricultural_impact": {
-    "affected_tissues": "Vegetative tissues, not reproductive",
-    "yield_loss": "Can range from 50% to near complete loss, especially in SPVD co-infections",
-    "affected_regions": "Oceania, Southern Africa, Barbados, other SPVD-affected areas",
-    "social_impact": "Impacts subsistence farmers relying on sweet potato as staple food"
+    "affected_tissues": "Yetişkin olmayan bitkisel dokular",
+    "yield_loss": "%50'den neredeyse tam kaybına kadar olabilir, özellikle SPVD co-infeksiyonlarında",
+    "affected_regions": "Okyanusya, Güney Afrika, Barbados, diğer SPVD etkilenen bölgeler",
+    "social_impact": "Hayatta kalma etkisi, tatlı patates yiyecek olarak güvenen çiftçiler"
   },
   "management": {
-    "early_detection": "ELISA for virus identification",
-    "removal": "Remove infected plants to prevent spread",
+    "early_detection": "ELISA virüs tanımlama için",
+    "removal": "Bulaşıcı bitkilerin yayılmasını önlemek için",
     "prevention": [
-      "Plant virus-free propagation material",
-      "Properly clean tools to prevent mechanical transmission",
-      "Use transgenic plants expressing antiviral genes"
+      "Bitki virüssüz yayılma malzemesi",
+      "Mekanik iletimleri önlemek için iyi temiz araçlar",
+      "Antiviral genleri ifade eden transjenik bitkiler kullanın"
     ]
   },
   "references": [
-    "Various sources from plant virology and sweet potato disease studies as cited in user-provided content"
+    "Bitki virolojisinden ve tatlı patates hastalığı çalışmalarından çeşitli kaynaklar, kullanıcı tarafından sağlanan içeriğinde belirtildiği gibi"
   ]
 }

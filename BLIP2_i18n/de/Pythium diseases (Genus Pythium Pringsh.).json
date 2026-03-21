@@ -1,0 +1,90 @@
+{
+  "disease": "Pythiumabdämpfung",
+  "scientific_name": "Genus Pythium",
+  "pathogen_type": "Oomycete (fungusähnlicher Organismus)",
+  "description": "Pythiumarten sind bodengetragene Krankheitserreger, die in vielen Kulturen zu Dämpfungs- und Wurzelfäule führen. Die Krankheit greift vor allem Keimlinge an und verursacht weiche wässrige Fäule in der Nähe der Bodenlinie, die zum Pflanzenkollaps und zum Tod führt.",
+  "symptoms": [
+    "Unregelmässige Flecken von verwelkten oder gelben Pflanzen in Saatbetten",
+    "Weichbraune wässrige Fäule an der Basis der Stängel",
+    "Setzlinge fallen an der Bodenlinie über",
+    "Stuntes Wachstum junger Pflanzen",
+    "Gelbfärbung älterer Pflanzen aufgrund von Wurzelschäden",
+    "Stammfäule in neu transplantierten Pflanzen"
+  ],
+  "visual_symptoms": [
+    "Setzlinge brachen an der Bodenoberfläche zusammen",
+    "weiche braune, wassergetränkte Stängelbasis",
+    "Pflaster von toten oder verkümmerten Sämlingen"
+  ],
+  "hosts": [
+    "Tabak",
+    "Pflanzliche Setzlinge",
+    "Gurken",
+    "Tomaten",
+    "Pfeffer",
+    "Kopfsalat",
+    "Bohnen",
+    "Viele Baumschulen"
+  ],
+  "host_specific_example": {
+    "crop": "Burley-Tabak",
+    "scientific_name": "Nicotiana tavacum (Burley-Typ)"
+  },
+  "plant_parts_affected": [
+    "Sämlinge",
+    "Wurzeln",
+    "unterer Stamm",
+    "Hypocotyl"
+  ],
+  "image_type": "Feld",
+  "favorable_conditions": [
+    "Feuchte oder schlecht entwässerte Böden",
+    "Hohe Bodenfeuchte",
+    "Kühle bis moderate Temperaturen",
+    "Dichte Saatbetten mit schlechter Luftzirkulation",
+    "Übermäßige Bewässerung"
+  ],
+  "spread": [
+    "Kontaminierter Boden",
+    "Bewässerungswasser",
+    "Infizierte Pflanzenabfälle",
+    "Kontaminierte Werkzeuge oder Tabletts in Baumschulen"
+  ],
+  "disease_cycle": [
+    "Pythium überlebt im Boden als Sporen oder Myzel",
+    "Sporen keimen unter nassen Bodenbedingungen",
+    "Krankheitserreger infiziert Samen oder junge Sämlinge",
+    "Infizierte Gewebe produzieren mehr Sporen, die sich über Wasser ausbreiten"
+  ],
+  "impact": [
+    "Verlust von Setzlingen in Baumschulen",
+    "Schlechte Betriebsstätte",
+    "Verringerte Pflanzenpopulation",
+    "Ertragsreduzierung durch schwache Pflanzenstände"
+  ],
+  "cultural_control": [
+    "Gut durchlässige Saatbeete verwenden",
+    "Überwässerung vermeiden",
+    "Verbesserung der Luftzirkulation in Baumschulen",
+    "Steriler Boden oder Keimsubstrat verwenden",
+    "Verringerung der Pflanzdichte"
+  ],
+  "biological_control": [
+    "Benutze wohltuende Pilze wie Trichoderma-Arten",
+    "Benutze nützliche Bakterien wie Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Saatgutbehandlung mit Fungiziden wie Metalaxyl oder Mefenoxam",
+    "Böden mit geeigneten Fungiziden in Baumschulen"
+  ],
+  "prevention": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Sterilisieren von Baumschulen und Werkzeugen",
+    "Vermeiden Sie übermäßige Bewässerung",
+    "Pflanzen nach Möglichkeit umdrehen"
+  ],
+  "source": [
+    "Pflanzenpathologie-Referenzen auf Pythiumdämpfung",
+    "Leitfaden für den Umgang mit landwirtschaftlichen Krankheiten"
+  ]
+}

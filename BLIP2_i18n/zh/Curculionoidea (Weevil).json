@@ -1,104 +1,92 @@
 {
- "pest": "Weevils (Snout beetles)",
- "scientific_name": "Superfamily Curculionoidea; family Curculionidae",
- "pest_type": "Insect (Coleoptera: Curculionidae)",
- "description": "Weevils are plant-feeding beetles characterized by a long snout (rostrum). Both larvae and adults damage crops by feeding on plant tissues such as leaves, fruits, seeds, stems or roots. Many species are serious pests in agriculture and storage systems.",
- 
- "identification": [
-  "Adults have a long curved snout called a rostrum",
-  "Elbowed antennae ending in a club",
-  "Body robust and usually covered with scales or bristles",
-  "Size typically 5–15 mm (range 1–35 mm)",
-  "Larvae are white, C-shaped grubs without legs"
- ],
-
- "life_cycle": [
-  "Female uses the rostrum to drill holes in plant tissue",
-  "Eggs are laid inside fruits, seeds, stems or roots",
-  "Larvae develop inside plant tissue and feed internally",
-  "Larvae pupate in soil or plant material",
-  "Adults emerge and continue feeding on plants"
- ],
-
- "hosts": [
-  "Rice",
-  "Maize",
-  "Wheat",
-  "Cotton",
-  "Coffee",
-  "Banana",
-  "Citrus",
-  "Apple",
-  "Mango",
-  "Coconut",
-  "Stored grains"
- ],
-
- "symptoms": [
-  "Small holes in leaves, fruits or seeds",
-  "Damaged or hollow seeds and grains",
-  "Premature fruit drop",
-  "Larval tunnels inside stems or fruits",
-  "Stunted plant growth",
-  "Presence of adult beetles with a long snout"
- ],
-
- "favorable_conditions": [
-  "Warm climates",
-  "High humidity",
-  "Fields with plant residues or poor sanitation",
-  "Continuous cropping without rotation"
- ],
-
- "spread": [
-  "Movement of infested seeds or fruits",
-  "Adult beetles flying to new host plants",
-  "Transport of contaminated soil or plant material"
- ],
-
- "economic_importance": [
-  "Major pests of agricultural crops worldwide",
-  "Some species attack stored grains",
-  "Can cause significant yield and quality losses"
- ],
-
- "biological_control": [
-  "Predators such as birds, spiders and predatory beetles",
-  "Parasitic wasps attacking larvae or eggs",
-  "Entomopathogenic fungi such as Beauveria bassiana and Metarhizium anisopliae",
-  "Entomopathogenic nematodes (Steinernema spp., Heterorhabditis spp.)"
- ],
-
- "chemical_control": [
-  "Imidacloprid",
-  "Thiamethoxam",
-  "Lambda-cyhalothrin",
-  "Deltamethrin",
-  "Chlorpyrifos (where permitted)",
-  "Carbaryl"
- ],
-
- "integrated_management": [
-  "Crop rotation to break the life cycle",
-  "Remove and destroy infested fruits or plant residues",
-  "Use pheromone or food traps to monitor adults",
-  "Use resistant or tolerant crop varieties",
-  "Maintain field sanitation",
-  "Apply biological or chemical control when populations exceed thresholds"
- ],
-
- "notable_species": [
-  "Sitophilus oryzae (rice weevil)",
-  "Sitophilus zeamais (maize weevil)",
-  "Anthonomus grandis (cotton boll weevil)",
-  "Rhynchophorus ferrugineus (red palm weevil)",
-  "Cosmopolites sordidus (banana weevil)"
- ],
-
- "sources": [
-  "CABI Crop Protection Compendium",
-  "USDA Agricultural Research Service",
-  "FAO Integrated Pest Management guides",
-  "Triplehorn & Johnson – Borror and DeLong's Introduction to the Study of Insects"
- ]
+  "pest": "害虫( 鼻甲虫)",
+  "scientific_name": "超级家庭Curculionoidea;家庭Curculionidae",
+  "pest_type": "昆虫(科里普特拉: 库库利奥里尼达)",
+  "description": "幼虫和成人通过食用树叶、水果、种子、根茎或根茎等植物组织对作物造成破坏,许多物种是农业和储存系统中的严重害虫。",
+  "identification": [
+    "成年人有一个长长的弯曲鼻子 叫做讲台",
+    "Elbowed天线 结束在一个俱乐部",
+    "身体健健健,通常覆盖尺寸或底盘",
+    "大小一般为5-15毫米(1-35毫米)",
+    "是白白的,C形没有腿的动物"
+  ],
+  "life_cycle": [
+    "女性使用讲台钻植物组织洞孔",
+    "鸡蛋埋在水果、种子、根茎或根根里",
+    "拉尔瓦在植物组织内部发育,在内部进食",
+    "土壤或植物材料中的拉瓦",
+    "成人出现并不断食用植物"
+  ],
+  "hosts": [
+    "大米稻米",
+    "成熟",
+    "小麦",
+    "棉花棉花",
+    "咖啡咖啡咖啡 咖啡咖啡咖啡咖啡",
+    "香蕉香蕉",
+    "柑橘",
+    "苹果苹果",
+    "芒果",
+    "椰子",
+    "储存的谷物"
+  ],
+  "symptoms": [
+    "叶叶、水果或种子的小孔孔",
+    "损坏或空心种子和谷物",
+    "早产水果滴落",
+    "花茎或果实中的拉瓦尔隧道",
+    "抑制植物生长",
+    "长鼻子的成年甲虫的存在"
+  ],
+  "favorable_conditions": [
+    "温热气候",
+    "高湿湿度",
+    "植物残留物或卫生条件差的田地",
+    "不轮作连续耕种"
+  ],
+  "spread": [
+    "弥漫的种子或水果运动",
+    "成人甲虫飞向新的宿主植物",
+    "受污染土壤或植物材料的运输"
+  ],
+  "economic_importance": [
+    "全世界主要农作物虫害",
+    "一些物种攻击一些物种攻击储存的谷物",
+    "会造成重大收益和质量损失"
+  ],
+  "biological_control": [
+    "鸟类、蜘蛛和捕食性甲虫等捕食动物",
+    "攻击幼虫或卵的寄生虫喷发",
+    "诸如Beauveria Bassiana和Metarhizium anisopliae等致虫病真菌",
+    "致虫性线虫(Steinernema spp.,Heterorhabidiss spp.)"
+  ],
+  "chemical_control": [
+    "蚊虫",
+    "丁胺磷",
+    "Lambda-cyhalotsrin(辛巴威辛)",
+    "德尔甲基苯菊酯",
+    "(在允许的情况下)",
+    "西维基"
+  ],
+  "integrated_management": [
+    "作物轮作以打破生命周期",
+    "清除和销毁害虫水果或植物残留物",
+    "使用pheomone或食物陷阱来监测成年人",
+    "使用耐抗性或耐性作物品种",
+    "维持外地环境卫生",
+    "当人口超过阈值时应用生物或化学控制"
+  ],
+  "notable_species": [
+    "静水杆菌(虫)",
+    "比特菲力斯·杰马伊斯(Mize Weevil)",
+    "安特诺马斯巨人",
+    "红棕榈网",
+    "(巴拿纳韦韦韦)"
+  ],
+  "sources": [
+    "CABI 作物保护简编",
+    "AUSDA 农业研究服务",
+    "粮农组织虫害综合防治指南",
+    "三角和约翰逊 - 博鲁尔和德龙对昆虫研究的介绍"
+  ]
 }

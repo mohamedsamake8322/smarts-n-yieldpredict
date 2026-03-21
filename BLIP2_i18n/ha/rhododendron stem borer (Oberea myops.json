@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "\"Yã abõkaina biyu na kurkuku!",
+  "pathogen_type": "A cikin Allo tsararre.",
+  "description": "Wani abin ban mamaki shi ne, abubuwan da ake amfani da su a cikin ƙasa suna ƙara ƙarfi sosai.",
+  "symptoms": [
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre.",
+    "Li'azaru ya mutu sanadiyyar tashin matattu",
+    "Sai ya wãyi gari daga mãsu nadãmã.",
+    "Mãsu duhun inuwa.",
+    "Waɗanda suka raunana ko kuma suka yi sanyin gwiwa",
+    "rabawa ko kuma mutuwa"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "@ item Text character set"
+  ],
+  "favorable_conditions": [
+    "Ana san su sosai sa'ad da ake sanyi sosai a lokacin sanyi",
+    "Yin wanka da juyayi ya dace don yin kala",
+    "\"Kõ kuma wata gõna daga dabĩnai da inabi ta kasance a gare ka."
+  ],
+  "spread": [
+    "Ana shuka hatsi a ciki",
+    "Mãsu gudu suna ɓũya.",
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi."
+  ],
+  "impact": [
+    "KCharselect unicode block name",
+    "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+    "KCharselect unicode block name"
+  ],
+  "cultural_control": [
+    "Kuma idan rãƙuma mãsu cikunna aka sakẽ su wãwai, bã ga kõwa ba.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Ka ci gaba da ba da lafiyar jiki don ka rage yawan lafiyar jiki"
+  ],
+  "biological_control": [
+    "Ku Ƙarfafa Yanayinku na jiki kamar su tsuntsaye ko kuma zane - zane Masu Ban Al'ajabi"
+  ],
+  "chemical_control": [
+    "Yin amfani da abubuwan da ba su dace ba a wurin da ake da bukata sosai",
+    "Sa'an nan idan 'yan'uwa sun kasance gare shi, to, uwarsa tana da sudusi (ɗaya daga cikin kashi shida) daga bayan wasiyya wadda ya yi kõ kuwa bãshi."
+  ],
+  "prevention": [
+    "A kai a kai sa'ad da ake girma",
+    "Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).",
+    "Ka guje wa yin noman hatsi mai yawa"
+  ],
+  "source": [
+    "Canza kayan daidaita na'ura",
+    "Shirin Ja - gora a kan Ci Gaba"
+  ]
 }

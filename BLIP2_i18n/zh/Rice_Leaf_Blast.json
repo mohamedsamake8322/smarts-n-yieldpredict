@@ -1,87 +1,87 @@
 {
- "disease": "Rice Leaf Blast",
- "scientific_name": "Magnaporthe oryzae (anamorph: Pyricularia oryzae)",
- "pathogen_type": "Fungus",
- "description": "Rice blast is one of the most destructive diseases of rice worldwide. The fungus infects leaves, nodes, and panicles. On leaves it produces characteristic diamond-shaped lesions that reduce photosynthesis and weaken the plant.",
- "symptoms": [
-  "Diamond or spindle-shaped lesions on leaves",
-  "Lesions with gray or white center and brown or reddish border",
-  "Small spots that enlarge and merge on leaves",
-  "Leaf drying or death in severe infections",
-  "Reduced plant growth",
-  "In severe cases young plants may die"
- ],
- "visual_symptoms": [
-  "diamond-shaped leaf spots",
-  "gray or white center with brown border",
-  "multiple lesions merging on leaves",
-  "damaged or dried rice leaves"
- ],
- "hosts": [
-  "Rice (Oryza sativa)",
-  "Wild rice species",
-  "Some grasses"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "leaf collar",
-  "stem nodes",
-  "panicles"
- ],
- "favorable_conditions": [
-  "High humidity above 90%",
-  "Long periods of leaf wetness (dew, rain, fog)",
-  "Warm temperatures around 25–28°C",
-  "Dense crop canopy",
-  "Excess nitrogen fertilization"
- ],
- "spread": [
-  "Airborne fungal spores (conidia)",
-  "Wind",
-  "Splashing rain or irrigation water",
-  "Infected seeds",
-  "Crop residue from previous season"
- ],
- "disease_cycle": [
-  "Fungus survives on infected seeds and crop residues",
-  "Spores are produced on infected tissues",
-  "Spores spread by wind or water",
-  "Infection occurs when leaves remain wet",
-  "New lesions produce more spores causing rapid disease cycles"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf damage and plant weakening",
-  "Lower grain yield",
-  "Poor grain quality",
-  "Severe outbreaks can cause major crop losses"
- ],
- "cultural_control": [
-  "Use resistant rice varieties",
-  "Plant certified disease-free seed",
-  "Maintain continuous flooding when possible",
-  "Avoid excessive nitrogen fertilization",
-  "Destroy infected crop residue"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species",
-  "Promote balanced soil microbiology"
- ],
- "chemical_control": [
-  "Azoxystrobin",
-  "Trifloxystrobin",
-  "Propiconazole combinations",
-  "Difenoconazole combinations"
- ],
- "prevention": [
-  "Regular field monitoring for early symptoms",
-  "Balanced fertilization",
-  "Maintain proper irrigation management",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Rice Research and Extension Center",
-  "Crop Protection Network",
-  "Plant pathology references on rice blast"
- ]
+  "disease": "稻叶爆炸",
+  "scientific_name": "Magnapoorthe oryzae(反形:无孔径)",
+  "pathogen_type": "蘑菇",
+  "description": "大米爆炸是全世界大米最具破坏性的疾病之一。 真菌感染了叶子、节点和恐慌。 在叶子上,它产生了典型的钻石形损伤,减少了光合作用,削弱了植物。",
+  "symptoms": [
+    "树叶上的钻石或脊柱形损伤",
+    "灰色或白白中、棕色或红色边界",
+    "树叶上扩大和合并的小斑点",
+    "叶叶干干干或严重感染死亡",
+    "减少植物增长",
+    "在严重的情况下,年轻植物可能死亡"
+  ],
+  "visual_symptoms": [
+    "钻石形状的叶斑点",
+    "带有棕色边框的灰色或白色中心",
+    "树叶上合并",
+    "被损坏或干干米叶"
+  ],
+  "hosts": [
+    "大米(Oryza zativa)",
+    "野稻种",
+    "一些草地"
+  ],
+  "plant_parts_affected": [
+    "叶叶叶",
+    "叶叶圈",
+    "干干节点",
+    "恐慌"
+  ],
+  "favorable_conditions": [
+    "90%以上高湿湿度",
+    "长时期湿叶(泥、雨、雾)",
+    "温度约25-28°C",
+    "密集作物树冠",
+    "过量氮肥化"
+  ],
+  "spread": [
+    "空传真菌螺子(共合体)",
+    "风风",
+    "喷洒雨水或灌溉水",
+    "感染种子",
+    "上一个季节的作物残留"
+  ],
+  "disease_cycle": [
+    "Fungus靠被感染种子和作物残留物生存",
+    "在受感染的组织上产生泉水",
+    "风或水散布的烟雾",
+    "当叶叶保持湿润时即发生感染",
+    "新的损伤产生更多的螺子,导致迅速的疾病循环"
+  ],
+  "impact": [
+    "减少光合作用",
+    "叶子破坏和厂厂厂变弱",
+    "谷物产量低",
+    "粮食质量差",
+    "严重爆发可能造成重大作物损失"
+  ],
+  "cultural_control": [
+    "使用抗水稻品种",
+    "植物核证无疾病的种子",
+    "尽可能保持持续水灾",
+    "避免过量氮肥化",
+    "销毁受感染作物残留物"
+  ],
+  "biological_control": [
+    "使用有益的微生物,如三合二体物种。",
+    "促进平衡的土壤微生物学"
+  ],
+  "chemical_control": [
+    "Aoxoxystrobin 氧氧基苯",
+    "三氟氧基苯",
+    "丙诺阿诺明混合物",
+    "Difinoconconazole 组合组合"
+  ],
+  "prevention": [
+    "定期实地监测早期症状",
+    "平衡肥化",
+    "维持适当的灌溉管理",
+    "使用综合疾病管理做法"
+  ],
+  "source": [
+    "稻米研究和推广中心",
+    "作物保护网",
+    "关于水稻爆炸的植物病理学参考"
+  ]
 }

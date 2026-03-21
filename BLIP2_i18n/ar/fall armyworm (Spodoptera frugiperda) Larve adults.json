@@ -1,48 +1,48 @@
 {
- "disease": "Fall Armyworm Adult",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (adult moth)",
- "description": "The adult fall armyworm is a nocturnal moth responsible for laying eggs on crop leaves. These eggs hatch into destructive larvae.",
- "symptoms": [
-  "Egg masses covered with gray scales on leaves",
-  "Presence of moths around crop fields at night"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm climates",
-  "Availability of host crops",
-  "Rainy growing seasons"
- ],
- "spread": [
-  "Strong flying moths capable of long-distance migration",
-  "Egg laying on leaves of host plants"
- ],
- "management": [
-  "Use pheromone traps to monitor moth populations",
-  "Destroy egg masses early",
-  "Control larvae before they spread"
- ],
- "biological_control": [
-  "Parasitoid wasps attacking eggs",
-  "Predatory insects feeding on eggs"
- ],
- "chemical_control": [
-  "Target treatments applied when larvae emerge"
- ],
- "prevention": [
-  "Field monitoring with pheromone traps",
-  "Plant resistant crop varieties",
-  "Maintain crop diversity"
- ],
- "source": [
-  "FAO Fall Armyworm Monitoring Guide",
-  "CABI Invasive Species Database"
- ]
+  "disease": "الراشر",
+  "scientific_name": "سابعاً -",
+  "pathogen_type": "الحشرة (القسط الذرة)",
+  "description": "ان دودة الجيش البالغة في الخريف هي فراشة ليلية مسؤولة عن وضع البيض على اوراق المحاصيل .",
+  "symptoms": [
+    "كتل مغطاة بجداول رمادية على أوراق",
+    "وجود نباتات حول حقول المحاصيل ليلاً"
+  ],
+  "hosts": [
+    "",
+    "",
+    "سُرْج هوجم",
+    "المققدم",
+    "",
+    "الخضرس"
+  ],
+  "favorable_conditions": [
+    "",
+    "توافر المحاصيل المضيفة",
+    "المواطر التي تُطر"
+  ],
+  "spread": [
+    "العثثث الطائرة القوية القادرة على الهجرة البعيدة",
+    "وضع البيض على أوراق النباتات المضيفة"
+  ],
+  "management": [
+    "استخدام محارخ فرهمون لرصد التجمعات السكانية",
+    "دُمِّرْ كُلَّامًا مبكِّرًا",
+    "التحكم في اليرقات قبل أن تنتشر"
+  ],
+  "biological_control": [
+    "(أ) كان عدد الحالات التي تم فيها مناولة البيض",
+    "الحشرات المفترسة التي تتغذى على البيض"
+  ],
+  "chemical_control": [
+    "العلاجات التي تطبق عند ظهور اليرقات"
+  ],
+  "prevention": [
+    "الرصد الميداني مع أفخاخ فيرمون",
+    "الأصناف المُطرة",
+    "المحافظة على تنوع المحاصيل"
+  ],
+  "source": [
+    "دليل منظمة الأغذية والزراعة",
+    "قاعدة بيانات الأنواع المستغلة"
+  ]
 }

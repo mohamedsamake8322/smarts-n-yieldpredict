@@ -1,104 +1,92 @@
 {
- "pest": "Weevils (Snout beetles)",
- "scientific_name": "Superfamily Curculionoidea; family Curculionidae",
- "pest_type": "Insect (Coleoptera: Curculionidae)",
- "description": "Weevils are plant-feeding beetles characterized by a long snout (rostrum). Both larvae and adults damage crops by feeding on plant tissues such as leaves, fruits, seeds, stems or roots. Many species are serious pests in agriculture and storage systems.",
- 
- "identification": [
-  "Adults have a long curved snout called a rostrum",
-  "Elbowed antennae ending in a club",
-  "Body robust and usually covered with scales or bristles",
-  "Size typically 5–15 mm (range 1–35 mm)",
-  "Larvae are white, C-shaped grubs without legs"
- ],
-
- "life_cycle": [
-  "Female uses the rostrum to drill holes in plant tissue",
-  "Eggs are laid inside fruits, seeds, stems or roots",
-  "Larvae develop inside plant tissue and feed internally",
-  "Larvae pupate in soil or plant material",
-  "Adults emerge and continue feeding on plants"
- ],
-
- "hosts": [
-  "Rice",
-  "Maize",
-  "Wheat",
-  "Cotton",
-  "Coffee",
-  "Banana",
-  "Citrus",
-  "Apple",
-  "Mango",
-  "Coconut",
-  "Stored grains"
- ],
-
- "symptoms": [
-  "Small holes in leaves, fruits or seeds",
-  "Damaged or hollow seeds and grains",
-  "Premature fruit drop",
-  "Larval tunnels inside stems or fruits",
-  "Stunted plant growth",
-  "Presence of adult beetles with a long snout"
- ],
-
- "favorable_conditions": [
-  "Warm climates",
-  "High humidity",
-  "Fields with plant residues or poor sanitation",
-  "Continuous cropping without rotation"
- ],
-
- "spread": [
-  "Movement of infested seeds or fruits",
-  "Adult beetles flying to new host plants",
-  "Transport of contaminated soil or plant material"
- ],
-
- "economic_importance": [
-  "Major pests of agricultural crops worldwide",
-  "Some species attack stored grains",
-  "Can cause significant yield and quality losses"
- ],
-
- "biological_control": [
-  "Predators such as birds, spiders and predatory beetles",
-  "Parasitic wasps attacking larvae or eggs",
-  "Entomopathogenic fungi such as Beauveria bassiana and Metarhizium anisopliae",
-  "Entomopathogenic nematodes (Steinernema spp., Heterorhabditis spp.)"
- ],
-
- "chemical_control": [
-  "Imidacloprid",
-  "Thiamethoxam",
-  "Lambda-cyhalothrin",
-  "Deltamethrin",
-  "Chlorpyrifos (where permitted)",
-  "Carbaryl"
- ],
-
- "integrated_management": [
-  "Crop rotation to break the life cycle",
-  "Remove and destroy infested fruits or plant residues",
-  "Use pheromone or food traps to monitor adults",
-  "Use resistant or tolerant crop varieties",
-  "Maintain field sanitation",
-  "Apply biological or chemical control when populations exceed thresholds"
- ],
-
- "notable_species": [
-  "Sitophilus oryzae (rice weevil)",
-  "Sitophilus zeamais (maize weevil)",
-  "Anthonomus grandis (cotton boll weevil)",
-  "Rhynchophorus ferrugineus (red palm weevil)",
-  "Cosmopolites sordidus (banana weevil)"
- ],
-
- "sources": [
-  "CABI Crop Protection Compendium",
-  "USDA Agricultural Research Service",
-  "FAO Integrated Pest Management guides",
-  "Triplehorn & Johnson – Borror and DeLong's Introduction to the Study of Insects"
- ]
+  "pest": "Lalle Mũ, Mãsu yin azãbar rãmuwa ne ga mãsu laifi.",
+  "scientific_name": "@ item Text character set",
+  "pest_type": "A cikin Allo tsararre.",
+  "description": "Muna shuka abin sha'awa ne da ke da dogon launi dabam dabam.",
+  "identification": [
+    "Masu zane - zane suna da wata ma'ana mai dogon gaske da ake kira o'i masu yawa",
+    "Elon ya yi karo da kusan shekara goma a wata majami'a",
+    "Hukumar Mulki tana hana mutum ya cika da kayan aiki da ma'auni ko kuma wanda ba a yawan yin wa'azi da shi",
+    "Ana iya kwatanta tsawon inci 5 ne da ke kama da tsawon inci ɗaya daga cikin jirgin ruwa mai tsawon kafa ɗari.",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi."
+  ],
+  "life_cycle": [
+    "Ana amfani da kayan aiki da ake amfani da su don a yi amfani da na'ura mai gina jiki da aka yi amfani da shi wajen yin shuki",
+    "Ana ba da ' ya'yan itace a ciki, iri, ko kuma inuwa",
+    "A ciki, ana samun ' ya'ya a ciki kuma ana ciyar da shi cikin gida",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Masu zane - zane suna fitowa kuma ci gaba da cin abinci a kan shuke - shuke"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Indian National weekday 7 - LongDayName",
+    "QFontDatabase",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 8 - LongNamePossessive",
+    "@ action",
+    "Indian National weekday 3 - LongDayName",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta."
+  ],
+  "symptoms": [
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Dõmin, Mu fitar da ƙwaya da tsiri game da shi?",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "' Ya'yan itace suna tashi a ciki ko kuma ' ya'yan itace",
+    "@ action",
+    "Suna yin girma tare da ' yan'uwansu da daɗewa"
+  ],
+  "favorable_conditions": [
+    "Media controller element",
+    "QShortcut",
+    "Sao'i da ke ba da ' ya'yan itace ko matalauta",
+    "KCharselect unicode block name"
+  ],
+  "spread": [
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Ana yin tafiya da ƙananan shuke - shuke a kai a kai zuwa sababbin shuke - shuke",
+    "Sa'an nan, su zama mãsu gaugãwa (da umurnin Allah) kamar suna tsẽre."
+  ],
+  "economic_importance": [
+    "' Ya'yan itace masu yawa a dukan duniya",
+    "Wasu abubuwa masu ban mamaki sun sa aka adana hatsi",
+    "Za a iya sa mutum ya zama mai sauƙin hali da kuma hasara"
+  ],
+  "biological_control": [
+    "Ana san su sosai kamar tsuntsaye, masu zane - zane da kuma zane - zane",
+    "Ana iya samun na'ura mai yawa a kan nesa ko kuma a gasa",
+    "@ item Text character set",
+    "@ item Text character set"
+  ],
+  "chemical_control": [
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Tarin yin magana da al'ada...",
+    "An la'ani mãsu ƙiri-faɗi.",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary"
+  ],
+  "integrated_management": [
+    "Ka yi tunanin yadda za ka iya canja salon rayuwarka",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka yi amfani da makami ɗaya ko kuma karin ci don ka kāre manyan mutane",
+    "Ka Yi Tsayayya da Matsi na Tsara ko Kuma Kayan Aiki",
+    "Ka Kasance da Ra'ayin da ya Dace",
+    "Yi amfani da yanayi ko kuma kamewa sa'ad da mutane suka fi zama masu faɗa"
+  ],
+  "notable_species": [
+    "\"Kuma lalle ne shi, wãwanmu ya kasance yana faɗar abin da ya ƙetare haddi ga Allah.\"",
+    "\"Kuma lalle ne shi, wãwanmu ya kasance yana faɗar abin da ya ƙetare haddi ga Allah.\"",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
+  ],
+  "sources": [
+    "@ item Text character set",
+    "GAME DA Waɗanda Suka Sauke Karatu a Hidima",
+    "@ item Spelling dictionary",
+    "@ item Text character set"
+  ]
 }

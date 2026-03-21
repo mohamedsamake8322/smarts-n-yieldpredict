@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
-  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "disease": "果子的棕色腐烂",
+  "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa , Monilinia fructicola, Monilinia Laxa , Monilinia fructicola, Monilinia Laxa , Monilinia fructigena, Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
+  "pathogen_type": "蘑菇",
+  "description": "棕色腐烂是一种菌类疾病,它攻击许多果树的水果、花朵和树枝,在收获前后导致水果腐烂,并在温暖和潮湿的条件下迅速传播。",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "水果表面的小棕色斑点",
+    "柔软的棕色腐烂 散布在水果上",
+    "水果上的灰色圆形或蜜蜂团团",
+    "果实在树上枯枯干,",
+    "木质水果仍附在树枝上",
+    "在严重感染中死伤"
   ],
   "hosts": [
-    "peach",
-    "apricot",
-    "plum",
-    "cherry",
-    "nectarine",
-    "apple",
-    "pear",
-    "almond",
-    "other stone fruits"
+    "桃桃桃桃",
+    "阿拉伯元",
+    "梅子",
+    "樱桃",
+    "肾",
+    "苹果苹果",
+    "梨",
+    "杏杏杏杏",
+    "其它宝石水果"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "温度(20至25°C)",
+    "高湿湿度",
+    "频繁降雨",
+    "水果伤害或裂缝",
+    "空气流量差的密集果园"
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "风传真菌螺纹",
+    "雨水喷雨",
+    "树上留下的感染果实",
+    "树枝上的果实,",
+    "受感染植物碎片"
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "清除和销毁受感染的水果",
+    "为改善空气流通而植树",
+    "从树上除去木木果",
+    "收获期间避免水果伤害",
+    "维持果园环境卫生"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "生物杀菌剂",
+    "以三氯代氨基生物处理法为基础的生物处理法",
+    "Aureobasidium pullulans生物控制剂"
   ],
   "chemical_control": [
-    "Tebuconazole",
-    "Propiconazole",
-    "Myclobutanil",
-    "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
-    "Fenbuconazole"
+    "Tebuconazole 炸药",
+    "丙烯烷",
+    "微氯丁二烯",
+    "卡普坦语Name",
+    "红铜",
+    "Aoxoxystrobin 氧氧基苯",
+    "Fenbuconazole 芬兰"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "在季节期间移除已感染的水果",
+    "避免昆虫破坏水果",
+    "保持良好的果园卫生",
+    "仔细收获果实",
+    "将水果储存在干燥和凉凉的状态下"
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "水果上褐色软软腐烂",
+    "灰圆圆圆圆灰圆环",
+    "树枝上的果实,已成木木,"
   ],
   "source": [
-    "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "CABI 2022年作物保护简编",
+    "2022年微生物生物学前沿",
+    "植物健康教官",
+    "康奈尔大学-树和灌木疾病"
   ]
 }

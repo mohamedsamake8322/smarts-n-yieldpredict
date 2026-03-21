@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "柑橘树叶绿化",
   "other_names": [
-    "Huanglongbing",
+    "黄龙",
     "HLB",
-    "Citrus Greening"
+    "柑橘绿化"
   ],
-  "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "scientific_name": "卡迪塔斯·利佩里巴克特·塞普",
+  "pathogen_type": "细菌",
+  "description": "柑橘绿化是柑橘树中最具破坏力的疾病之一,它是由异族解放者细菌引起的,主要由精神昆虫传播,受感染的树木产生微小的、苦的、色彩恶劣的水果,最终在几年内下降和死亡,目前无法治愈这一疾病。",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
-    "Citrus limon (lemon)",
-    "Other Citrus species"
+    "柑橘类(甜橙)",
+    "柑橘酸(mandarin)",
+    "Cexrus paradisi( 葡萄果)",
+    "Citrus 豪华轿车(莱蒙)",
+    "其他柑橘类物种"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "亚洲柑橘psymillid (Diaphorina catri)",
+    "非洲柑橘(Trioza erytreae)"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "叶子上闪闪闪闪的黄刺青",
+    "叶叶静脉和射击的黄黄",
+    "树木生长阻断",
+    "Twig 死后和早叶落叶",
+    "小型、非正常、色彩差的水果",
+    "水果成熟时部分保持绿色",
+    "水果吃苦或酸",
+    "种子中止和水果开发不良"
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "细菌生活在柑橘树的面状组织中。",
+    "主要通过食用受感染植物的虫虫传播",
+    "也可以通过粘合感染植物材料传播",
+    "年轻精神病人阶段获得细菌并将其传播给健康植物"
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "热带和亚热带地区温热气候",
+    "存在精神病昆虫病媒",
+    "经常柑橘生产区"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
-    "Brazil",
-    "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "亚洲 亚洲",
+    "非洲 非洲 非洲 非洲",
+    "美国(佛罗里达州、得克萨斯州、加利福尼亚州和其他州)",
+    "巴西 巴西",
+    "墨西哥 墨西哥 墨西哥 墨西哥 墨西哥",
+    "全世界许多热带和亚热带柑橘类种植区域"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "控制精神病昆虫群",
+    "清除和销毁被感染的树木",
+    "使用清洁和经认证的种植材料",
+    "定期监测和早期发现",
+    "耐抗性柑橘品种研究"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "目前没有有效的治疗方法",
+    "受感染的树木通常在几年内死亡",
+    "该疾病给全世界柑橘业造成重大经济损失"
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "维基百科 — — 柑橘绿病",
+    "USDA - Centrus绿化和亚洲Citrus Syllid"
   ]
 }

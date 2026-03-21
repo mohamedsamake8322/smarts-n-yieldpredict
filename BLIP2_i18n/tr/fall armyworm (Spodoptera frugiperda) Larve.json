@@ -1,54 +1,54 @@
 {
- "disease": "Fall Armyworm Larva",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (larval stage)",
- "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
- "symptoms": [
-  "Caterpillars feeding inside maize whorl",
-  "Large chewing damage on leaves",
-  "Presence of dark frass near feeding areas",
-  "Leaves shredded or skeletonized"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm humid climates",
-  "Dense crop fields",
-  "Abundant host plants"
- ],
- "spread": [
-  "Egg masses hatch into larvae on plant leaves",
-  "Larvae crawl to nearby plants",
-  "Spread from infested fields"
- ],
- "management": [
-  "Scout fields regularly for larvae",
-  "Crush egg masses and young larvae",
-  "Apply biological or chemical control early"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt)",
-  "Beauveria bassiana",
-  "Trichogramma parasitoids"
- ],
- "chemical_control": [
-  "Emamectin benzoate",
-  "Spinosad",
-  "Chlorantraniliprole"
- ],
- "prevention": [
-  "Early detection in maize whorl",
-  "Use resistant crop varieties",
-  "Crop rotation"
- ],
- "source": [
-  "FAO",
-  "CABI"
- ]
+  "disease": "Düştü Armyworm Larva",
+  "scientific_name": "Spodoptera Frugiperda Hakkında",
+  "pathogen_type": "Böcekler (Larval aşaması)",
+  "description": "Larva (caterpillar) düşen silah formunun zararlı aşamasıdır. bitki yapraklarına saldırgan bir şekilde besler ve bitkileri hızlı bir şekilde yok edebilir.",
+  "symptoms": [
+    "Caterpillars ekmeğin içine beslenir",
+    "Yapraklarda büyük zararlar",
+    "Beslenme alanlarının yakınında karanlık fırınların varlığı",
+    "Kırık veya skeletonize edilmiş yapraklar"
+  ],
+  "hosts": [
+    "Maize",
+    "pirinç",
+    "Özürler",
+    "Millet",
+    "Şekerli",
+    "Sebzeler"
+  ],
+  "favorable_conditions": [
+    "Sıcak ıslak iklimler",
+    "Sıcak bitki alanları",
+    "Buranın yakınındaki restoranlar"
+  ],
+  "spread": [
+    "Yumurta, bitki yapraklarında larva içine girer",
+    "Larvae crawl yakındaki bitkiler için",
+    "Enfekte alanlardan yayılır"
+  ],
+  "management": [
+    "larva için düzenli olarak kaydırma alanları",
+    "Kırışıklık yumurtaları ve genç larva",
+    "Biyolojik veya kimyasal kontrolü erken uygulayın"
+  ],
+  "biological_control": [
+    "Bacillus thuringiensis (Bt) Hakkında",
+    "Beauveria Bassiana için",
+    "Trichogram Parazitler"
+  ],
+  "chemical_control": [
+    "Emamektin benzoat",
+    "Spinoza",
+    "Chlorantraniliprole"
+  ],
+  "prevention": [
+    "Önceki Önceki yazı: Maize Whorl",
+    "dayanıklı bitki çeşitleri kullanın",
+    "Bitki dönüşü"
+  ],
+  "source": [
+    "FAO",
+    "kabuğu"
+  ]
 }

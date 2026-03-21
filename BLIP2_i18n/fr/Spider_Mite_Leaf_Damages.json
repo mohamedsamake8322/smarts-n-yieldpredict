@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "Mite d'araignées",
+  "stage": "_dommage de la feuille",
+  "common_name": "Mite d'araignées",
+  "description": "Les acariens sont des ravageurs courants des arbres fruitiers, des légumes, des baies, des vignes, des plantes ménagères et des plantes ornementales.",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "Les adultes mesurent moins de 1/20 pouce de long avec un corps ovale et deux oculaires colorés près de la tête",
+    "Vivre dans des colonies, principalement sur le dessous des feuilles; une seule colonie peut contenir des centaines d'acariens",
+    "Des populations élevées produisent des feuilles de couverture denses, des rameaux et des fruits.",
+    "Recherchez des taches de lumière sur les feuilles, la décoloration du bronze, le jaunissement et la goutte de feuilles"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "Sucer le contenu cellulaire des feuilles, ce qui provoque des piqûres et une décoloration",
+    "Les feuilles gravement infestées deviennent jaunes et peuvent tomber",
+    "Les dommages sont les plus graves dans les conditions chaudes et poussiéreuses et sur les plantes soumises à un stress hydrique."
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "Thrips prédatoires",
+    "Oignons d'Amérique du Nord",
+    "Pièges pirates de minute",
+    "Acariens prédatoires (plus grands avec des jambes plus longues et plus actifs)"
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "Plantes d'eau pour éviter le stress dû à la sécheresse",
+    "Réduire la poussière à l'aide de couvertures de sol, de paillis et d'irrigation régulière",
+    "Encourager les ennemis naturels à contrôler les populations",
+    "Vaporiser de l'eau ou de la brume sur le dessous des feuilles tous les jours si infesté"
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "Huiles insecticides ou savons insecticides, appliqués soigneusement sur les faces inférieures des feuilles",
+    "Évitez de pulvériser lorsque les plantes sont stressées par l'eau ou pendant la chaleur élevée",
+    "Éviter les insecticides qui tuent les ennemis naturels, car ceux-ci peuvent causer des pics de population d'acariens"
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "Les acariens araignées deviennent souvent problématiques après certaines applications d'insecticide organophosphate ou pyréthroïde",
+    "Minimiser l'utilisation des pesticides, préférer les options non chimiques ou moins toxiques",
+    "Lisez attentivement les étiquettes des produits pour une utilisation et une élimination appropriées"
   ]
 }

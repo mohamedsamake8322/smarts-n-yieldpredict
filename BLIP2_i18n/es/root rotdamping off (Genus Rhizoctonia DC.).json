@@ -1,0 +1,90 @@
+{
+  "disease": "Rotura y amortiguación de la raíz de Rhizoctonia",
+  "scientific_name": "Rhizoctonia spp. (Genus Rhizoctonia)",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre y amortiguación de la raíz de la rizoctonia es una enfermedad fúngica común transmitida por el suelo que ataca las semillas, las plántulas y las raíces de las plantas.",
+  "symptoms": [
+    "Las plántulas colapsan en la línea del suelo",
+    "Lesiones marrones o rojizas en tallos cercanos a la superficie del suelo",
+    "La podredumbre de la raíz y el mal desarrollo de la raíz",
+    "Crecimiento atípico y atrofiado de las plantas",
+    "Parches irregulares de plantas muertas o débiles en el campo",
+    "Cinturón de tallo que causa la muerte de la planta"
+  ],
+  "visual_symptoms": [
+    "lesiones marrón hundidas en la línea del suelo",
+    "plántulas cayendo",
+    "raíces podridas o poco desarrolladas",
+    "parches de plántulas muertas"
+  ],
+  "hosts": [
+    "Judías",
+    "Semillas de soja",
+    "Maíz",
+    "Arroz",
+    "Patata",
+    "Tomate",
+    "Lechuga",
+    "Repollo",
+    "Zanahoria",
+    "Pimienta",
+    "Algodón",
+    "Muchos cultivos vegetales y de campo"
+  ],
+  "plant_parts_affected": [
+    "Rábanos rusticanos",
+    "plántulas",
+    "tallo inferior",
+    "hipocotilo"
+  ],
+  "favorable_conditions": [
+    "Suelo cálido y húmedo",
+    "Suelo mal drenado",
+    "Alta densidad de las plantas",
+    "Tierra compactada",
+    "Residuo de los cultivos en el suelo"
+  ],
+  "spread": [
+    "Suelo contaminado",
+    "Desechos de plantas infectados",
+    "Movimiento del suelo sobre herramientas o maquinaria",
+    "Semilleros o trasplantes infectados"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo y los escombros de las plantas",
+    "Infecta semillas o plántulas jóvenes",
+    "Se desarrollan lesiones en tallos y raíces",
+    "El patógeno se propaga a través del contacto con el suelo"
+  ],
+  "impact": [
+    "Mala germinación de las semillas",
+    "Pérdida de plántulas",
+    "Reducción de la población vegetal",
+    "Menor rendimiento de los cultivos"
+  ],
+  "cultural_control": [
+    "Utilizar suelos bien drenados",
+    "Evite plantar en suelo frío o muy húmedo",
+    "Rotar los cultivos con plantas no hospedantes",
+    "Reducir la densidad de las plantas",
+    "Eliminar los desechos vegetales infectados"
+  ],
+  "biological_control": [
+    "Use hongos beneficiosos como la especie Trichoderma",
+    "Utilice bacterias beneficiosas como Bacillus subtilis"
+  ],
+  "chemical_control": [
+    "Fungicidas de tratamiento de semillas",
+    "Fungicidas del suelo cuando sea necesario"
+  ],
+  "prevention": [
+    "Utilizar semillas sanas certificadas",
+    "Mejorar el drenaje del suelo",
+    "Evitar el riego excesivo",
+    "Practicar la rotación de cultivos"
+  ],
+  "source": [
+    "Referencias fitopatológicas",
+    "Guías de gestión de enfermedades agrícolas"
+  ]
+}

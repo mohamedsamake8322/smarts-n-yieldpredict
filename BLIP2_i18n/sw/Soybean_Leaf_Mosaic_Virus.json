@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "Virusi ya Mosaic ya Soybean",
+  "scientific_name": "Virusi ya Mosaic ya Sojia (SMV)",
+  "common_abbreviations": [
+    "ya SMV"
+  ],
+  "description": "Soya mosaic virus (SMV) ni virusi maarufu ya mimea ambayo huathiri hasa soya, ambayo huathiri mosaic ya baridi, kuongezeka, idadi ya chini ya pod, na kupoteza mizizi ya mimea.",
+  "distribution": "duniani kote katika maeneo yote ya uzalishaji wa soya, hasa katika maeneo ya chini na subtropical.",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "Glycine max (sojia ya kultivated) na G. soja (sojia ya kijani)",
+    "notable_hosts": [
+      "Nyuma ya",
+      "Mchakato wa Bean"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "Kuongezeka kwa maua ya kijani na ndoto",
+      "Kutembea juu ya vinywaji",
+      "Mchakato wa nyama ya nyama ya nyama",
+      "Kuongezeka na kupunguza nguvu"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "Kupunguza idadi ya mimea kwa mimea",
+      "Matunda ya kupumzika na kupumzika"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "Ukosefu wa ubora, ukubwa, na germination",
+    "Kupunguza uzalishaji na uzalishaji",
+    "Maonyesho yanaweza kuwa ya kutisha au kutokuwa na joto la juu",
+    "Matokeo makubwa wakati wa kuunganishwa na virusi nyingine (kwa mfano, BPMV)"
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "Virusi, aina ya Potyvirus, familia ya Potyviridae",
+    "particle": "Sehemu ya Filamento ~7500 Å long, 120 Å diameter",
+    "genome": "RNA ya kutosha (~9.6 kb) na protein ya VPg kwenye mwisho wa 5′, kurekodi polyprotein moja iliyoundwa katika ~10 protein ya kazi",
+    "transmission": [
+      "Usafiri wa Aphid isiyo ya kudumu",
+      "Uhamiaji wa mbegu",
+      "Sapa ya"
+    ],
+    "favorable_conditions": "Nishati ya baridi hadi ya chini (16-28 ° C), shughuli za aphid husaidia kupanua",
+    "seed_transmission_rate": "Kwa kawaida <5%, lakini tofauti kulingana na mimea"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "Kutumia mbegu za kutosha za virutubisho",
+      "Kupata mapema katika msimu ili kupunguza athari",
+      "Ufuatiliaji na usimamizi wa idadi ya aphid"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "Matumizi ya mazao na gen ya upinzani (gen R)"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "Ufanisi mdogo wa insecticides kwa kudhibiti afids kupunguza kuenea kwa virusi"
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "Mchanganyiko wa SMV na gen R yanajifunza kama mfano wa upinzani wa gen-for-gen",
+    "RNA kusimama ina jukumu katika usambazaji wa mbegu na kupitisha mbegu ya mbegu",
+    "Uhamiaji kwa afids huathiriwa na protein ya virusi ya HC-Pro na protein ya mbegu (CP)"
   ]
 }

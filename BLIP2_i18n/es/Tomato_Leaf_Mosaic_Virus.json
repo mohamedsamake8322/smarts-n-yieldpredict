@@ -1,0 +1,69 @@
+{
+  "disease_name": "Virus del mosaico de la hoja de tomate (ToMV)",
+  "type": "enfermedad viral",
+  "causal_agent": "Virus del mosaico de tomate (ToMV), género Tobamovirus",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pimienta (Capsicum spp.)",
+      "Petunia spp."
+    ],
+    "other_hosts": [
+      "Snapdragon (Antirrinum spp.)",
+      "Delphinium spp.",
+      "Marigold (Tagetes spp.)",
+      "Otras plantas ornamentales y de cultivo"
+    ]
+  },
+  "distribution": "En todo el mundo",
+  "symptoms": {
+    "foliage": [
+      "Moteado con áreas alternas de color amarillento y verde oscuro",
+      "Áreas verdes oscuras a menudo elevadas o más gruesas, dando un aspecto parecido a una ampolla",
+      "Hojas pueden parecer helechos con puntas puntiagudas",
+      "Las hojas más jóvenes pueden ser retorcidas"
+    ],
+    "fruit": [
+      "Distorsión y manchas amarillas",
+      "Manchas necróticas en frutos verdes y maduros",
+      "Marronización interna de la pared de la fruta"
+    ],
+    "overall_plant": [
+      "Enano de plantas jóvenes",
+      "Decoloración de las flores",
+      "Set de frutas reducido y crecimiento distorsionado"
+    ]
+  },
+  "disease_cycle": [
+    "El virus se puede introducir a través de semillas infectadas",
+    "Sólo unas pocas plántulas infectadas pueden llevar a una rápida propagación",
+    "La diseminación también se produce a través de herramientas, manos y ropa contaminadas durante la manipulación rutinaria",
+    "Factores ambientales tales como temperatura, duración del día, intensidad de la luz, variedad de plantas, edad de la planta a la infección y virulencia de la cepa influyen en la expresión de los síntomas"
+  ],
+  "management": {
+    "cultural": [
+      "Utilizar semillas certificadas libres de virus y trasplantes sanos",
+      "Limpiar las herramientas, las manos y la ropa cuando se manipulen las plantas",
+      "Retire y destruya las plántulas infectadas rápidamente para reducir la propagación",
+      "Control de malas hierbas que pueden servir como anfitriones alternativos"
+    ],
+    "resistant_varieties": [
+      "Cultivadores de plantas conocidos por tener resistencia a ToMV cuando estén disponibles"
+    ],
+    "chemical": [
+      "Ningún control químico es eficaz contra las infecciones virales; el manejo depende de la prevención y la higiene"
+    ]
+  },
+  "notes": [
+    "ToMV se transmite mecánicamente; no requiere vectores de insectos",
+    "Las plántulas en las guarderías son especialmente vulnerables, especialmente durante el trasplante",
+    "Los síntomas pueden variar dependiendo de las condiciones ambientales y la etapa de crecimiento de las plantas"
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. Compendio de Enfermedades y Plagas de Tomate, 2a Edición. APS Press.",
+    "Virus del mosaico de hojas de tomate. American Phytopathological Society (APS) – Hojas informativas sobre enfermedades vegetales",
+    "Brunt, A.A., et al. 1996. Virus de plantas en línea: Descripciones y listas de la base de datos VIDE"
+  ]
+}

@@ -1,71 +1,71 @@
 {
-  "disease_name": "Alternaria_Leaf_Spot",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
+  "disease_name": "ال_مُعلِلornaria_Leaf_Spot",
+  "pathogen_type": "الفطر",
+  "genus": "اللمراء",
   "common_species": [
-    "Alternaria solani",
-    "Alternaria alternata",
-    "Alternaria brassicae",
-    "Alternaria brassicicola",
-    "Alternaria melongenae"
+    "العذراء سولاني",
+    "Alternaria gennata",
+    "Alternaria procicae",
+    "Alternaria procicola",
+    "الأُلْترِنْرِنْ مِلْنيْنْ(ه)"
   ],
   "affected_crops": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Lettuce",
-    "Brassica crops (cabbage, broccoli, mustard)",
-    "Pomegranate",
-    "Many ornamental and wild plants"
+    "طاطاطاطاط",
+    "",
+    "المس",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "لِسِسْس",
+    "محاصيل براسيكا (الربيان، القرنكولي، الخردل)",
+    "الرماني",
+    "الكثير من النباتات"
   ],
   "symptoms": [
-    "Small brown to black spots on leaves",
-    "Spots often have concentric rings forming a 'target-like' pattern",
-    "Yellow halo around lesions",
-    "Lesions enlarge and may merge together",
-    "Leaf yellowing and premature leaf drop",
-    "Severe infections can reduce plant growth and yield"
+    "صغيرة البنية إلى سوداء البقايا على الأوراق",
+    "غالباً ما يكون للبقع في الغالب حلقات كونية تشكل نمطاً `مماثلاً مستهدفاً'",
+    "أصفر الهالون حول",
+    "تتسع وقد تتكامل معاً",
+    "أصفر وسقطة أوراق ما قبل الأوان",
+    "يمكن أن تؤدي الإصابات المعدية إلى الحد من نمو النبتات وغلاتها"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity or prolonged leaf wetness",
-    "Frequent rain or overhead irrigation",
-    "Presence of infected plant debris"
+    "درجات حرارة الحرارة (20 - 30 درجة مئوية)",
+    "الرطوبة العالية أو الرطوبة المطولة",
+    "مياه الأمطار أو ري الري",
+    "أن يكون الشخص قد أصيب بحطان نباتي"
   ],
   "disease_cycle": [
-    "The fungus survives in infected crop residues, seeds, and weeds",
-    "Spores are produced on infected tissues",
-    "Spores spread through wind, rain splash, irrigation water, and tools",
-    "Infection occurs when spores land on wet leaves",
-    "Multiple infection cycles can occur during a growing season"
+    "تعيش الفطريات في المحاصيل المُصابة بالمخلفات، والبذور، والأعشاب",
+    "تُنتَج البقول على أنسجة مُصابة",
+    "الأوج التي تنتشر من خلال الرياح، ورش الأمطار، ومياه الري، والأدوات",
+    "يحدث العدوى عندما تستقر البواحق على أوراق الشوراء",
+    "دورات العدوى المتعددة يمكن أن تحدث أثناء موسم النمو"
   ],
   "monitoring": [
-    "Inspect leaves regularly for brown or black spots",
-    "Look for concentric ring patterns on lesions",
-    "Monitor humidity and temperature conditions favorable to the disease"
+    "أوراق الشوكة بانتظام للبقع البني أو الأسود",
+    "البحث عن أنماط الحلقة المتمركزة على الصُّحْر",
+    "الرطوبة وظروف الحرارة الملائمة للمرض"
   ],
   "management": {
     "cultural": [
-      "Use certified disease-free seeds and planting materials",
-      "Practice crop rotation with non-host crops",
-      "Remove and destroy infected plant debris after harvest",
-      "Improve air circulation by proper plant spacing and pruning",
-      "Avoid overhead irrigation when possible"
+      "استخدام البذور والمواد الزراعية المعتمدة الخالية من الأمراض",
+      "تناوب المحاصيل الممارسة مع المحاصيل غير المضيفة",
+      "بعد الحصاد:",
+      "تحسين الدوران الجوي عن طريق المباعة والقص السليم للنباتات",
+      "تجنب الري عند الإمكان"
     ],
     "chemical": [
-      "Apply protective fungicides such as Mancozeb",
-      "Use Chlorothalonil-based fungicides",
-      "Copper-based fungicides can help reduce disease spread",
-      "Rotate fungicides with different FRAC groups to avoid resistance"
+      "تطبيق مبيدات فطرات حماية مثل مانكوزيب",
+      "استخدام مبيدات الفطريات القائمة على الكلوروثوثالونيل",
+      "يمكن لمبيدات الفطريات القائمة على أساس النحاس أن تساعد على الحد من انتشار الأمراض",
+      "تدوير مبيدات الفطريات مع مجموعات مختلفة من التركيزات"
     ],
     "biological": [
-      "Use biological control agents such as Bacillus subtilis formulations",
-      "Encourage beneficial microorganisms that suppress fungal pathogens"
+      "استخدام عوامل المراقبة البيولوجية مثل تركيبات باسيليوس Subtilis",
+      "تشجيع الكائنات المجهرية المفيدة التي تقمع مسببات الأمراض الفطرية"
     ]
   },
   "impact": {
-    "crop_loss": "Moderate to severe depending on environmental conditions and crop susceptibility",
-    "economic_importance": "Common disease in many vegetable crops worldwide that can significantly reduce yield and quality"
+    "crop_loss": "من المتوسط إلى الحاد تبعاً للظروف البيئية ولقابلية المحاصيل",
+    "economic_importance": "الأمراض الشائعة في العديد من المحاصيل النباتية في جميع أنحاء العالم التي يمكن أن تقلل من غلتها وجودتها بدرجة كبيرة"
   }
 }

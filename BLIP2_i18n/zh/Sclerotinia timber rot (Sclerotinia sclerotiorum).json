@@ -1,88 +1,88 @@
 {
- "disease": "Sclerotinia Timber Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia timber rot is a fungal disease that causes severe stem decay in many crops. The fungus produces white cotton-like mold and black survival bodies called sclerotia. Infected stems become dry or rotten, leading to plant wilting and collapse.",
- "symptoms": [
-  "White cotton-like fungal growth on stems",
-  "Stem rot or dry decay (timber-like appearance)",
-  "Black seed-like sclerotia inside or on stems",
-  "Yellowing and wilting of leaves",
-  "Plants collapsing due to stem damage"
- ],
- "visual_symptoms": [
-  "white fluffy mold on stems",
-  "dry or rotting stems",
-  "black hard sclerotia in infected tissue",
-  "collapsed or wilted plants"
- ],
- "hosts": [
-  "Soybean",
-  "Sunflower",
-  "Canola (oilseed rape)",
-  "Beans",
-  "Peas",
-  "Lettuce",
-  "Tomato",
-  "Potato",
-  "Carrot",
-  "Cucumber",
-  "Many vegetable and ornamental crops"
- ],
- "plant_parts_affected": [
-  "stems",
-  "petioles",
-  "sometimes leaves and flowers"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Frequent rain or irrigation",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores from apothecia",
-  "Sclerotia surviving in soil",
-  "Contaminated plant debris",
-  "Wind and splashing water"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce apothecia (small cup-like structures)",
-  "Apothecia release airborne spores",
-  "Spores infect plant tissues during wet conditions",
-  "New sclerotia develop in infected stems and fall into the soil"
- ],
- "impact": [
-  "Stem decay and plant collapse",
-  "Reduced plant growth and productivity",
-  "Severe yield losses in susceptible crops"
- ],
- "cultural_control": [
-  "Rotate crops with non-host plants",
-  "Improve spacing and airflow between plants",
-  "Remove and destroy infected plant debris",
-  "Avoid excessive irrigation"
- ],
- "biological_control": [
-  "Apply biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi like Trichoderma species"
- ],
- "chemical_control": [
-  "Boscalid",
-  "Fluazinam",
-  "Iprodione",
-  "Procymidone",
-  "Thiophanate-methyl"
- ],
- "prevention": [
-  "Use clean seeds and healthy transplants",
-  "Monitor crops during cool and wet weather",
-  "Apply integrated disease management practices"
- ],
- "source": [
-  "Plant pathology guides",
-  "Agricultural extension resources"
- ]
+  "disease": "Sclerotinia 木材旋转",
+  "scientific_name": "丙烯二烯丙烯二烯二烯三烯二烯二烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯二烯三烯二烯三烯三烯三烯二烯三烯三烯二烯三烯三烯三烯二烯三烯三烯三烯三烯三烯二烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯三烯二烯二烯三烯三烯",
+  "pathogen_type": "蘑菇",
+  "description": "木质腐烂是一种真菌病,它导致许多作物严重干枯。 真菌产生白色的棉花模具和黑色的存活体,叫作白白。 受感染的根茎变得干燥或腐烂,导致植物枯萎和崩溃。",
+  "symptoms": [
+    "白棉花类真菌植物生长",
+    "腐烂或干腐烂(像木材一样的外观)",
+    "黑种类黑种种的内或根茎内或根",
+    "黄黄树叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶叶",
+    "由于干损而倒塌的植物"
+  ],
+  "visual_symptoms": [
+    "根状白毛发色",
+    "干枯的,或腐烂的,",
+    "受感染组织中的黑硬骨质素",
+    "倒塌或枯萎的植物"
+  ],
+  "hosts": [
+    "豆类",
+    "向向日向",
+    "卡诺拉(油籽强奸)",
+    "豆豆",
+    "青豆",
+    "发生",
+    "番茄",
+    "马铃薯",
+    "胡萝",
+    "黄瓜",
+    "许多蔬菜和观赏作物"
+  ],
+  "plant_parts_affected": [
+    "源根",
+    "树花叶",
+    "有时叶子和鲜花"
+  ],
+  "favorable_conditions": [
+    "凉凉温度",
+    "高湿湿度",
+    "频繁降雨或灌溉",
+    "密集作物树冠",
+    "空气循环不畅"
+  ],
+  "spread": [
+    "来自Apothecia的空中飞弹",
+    "在土壤中生存的短短闪尘",
+    "受污染植物碎片",
+    "风和泼水"
+  ],
+  "disease_cycle": [
+    "这些真菌在土壤中生存了几年 以血清的形式存活",
+    "短小杯状结构)",
+    "Apothecia释放空气中的星粒",
+    "在湿湿条件下喷泉渗入植物组织",
+    "在被感染的根茎中产生新的血清,并坠入土壤"
+  ],
+  "impact": [
+    "腐蚀和植物崩溃",
+    "降低植物增长和生产力",
+    "易种植作物收成严重损失"
+  ],
+  "cultural_control": [
+    "非宿主植物的旋转作物",
+    "改善各工厂之间的间隔和空气流",
+    "清除和销毁受感染的植物碎片",
+    "避免过度灌溉"
+  ],
+  "biological_control": [
+    "应用生物制剂,如微型",
+    "使用有益的真菌,如三头菌种"
+  ],
+  "chemical_control": [
+    "博斯卡利德",
+    "氟氮南",
+    "异丙酮",
+    "胺酮",
+    "硫代甲基"
+  ],
+  "prevention": [
+    "使用清洁种子和健康移植",
+    "在寒冷和湿湿天气期间监测作物",
+    "应用综合疾病管理做法"
+  ],
+  "source": [
+    "植物病理学指南",
+    "农业推广资源"
+  ]
 }

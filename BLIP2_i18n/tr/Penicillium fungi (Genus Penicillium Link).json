@@ -1,70 +1,70 @@
 {
- "disease": "Penicillium Mold",
- "scientific_name": "Genus Penicillium",
- "pathogen_type": "Fungus",
- "description": "Penicillium is a genus of fungi commonly found in soil, air, and decaying organic matter. Many species cause post-harvest diseases in fruits and vegetables, producing blue or green molds and leading to significant storage losses.",
- "symptoms": [
-  "Soft watery rot on fruits or plant tissues",
-  "Blue-green or green powdery mold on infected areas",
-  "Sunken lesions on fruit surfaces",
-  "Rapid decay during storage",
-  "Musty odor from infected produce"
- ],
- "visual_symptoms": [
-  "blue or green mold growth on fruit surface",
-  "powdery fungal spores covering lesions",
-  "soft rotting tissue around infection site"
- ],
- "hosts": [
-  "Apple",
-  "Citrus fruits",
-  "Grapes",
-  "Pear",
-  "Peach",
-  "Tomato",
-  "Strawberry",
-  "Stored grains and seeds"
- ],
- "favorable_conditions": [
-  "High humidity",
-  "Cool to moderate temperatures",
-  "Poor storage conditions",
-  "Wounded or damaged fruits"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers and tools"
- ],
- "impact": [
-  "Post-harvest fruit decay",
-  "Loss of product quality during storage",
-  "Reduced market value of produce",
-  "Potential production of mycotoxins in some species"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Store produce at recommended temperature and humidity",
-  "Remove infected fruits immediately",
-  "Maintain clean storage facilities",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use of beneficial microbes such as Bacillus species",
-  "Application of antagonistic yeasts to suppress mold growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicides such as thiabendazole or imazalil",
-  "Use of approved storage fungicides depending on crop"
- ],
- "prevention": [
-  "Sanitize storage rooms and containers",
-  "Avoid mechanical injury during harvest",
-  "Proper ventilation in storage facilities",
-  "Maintain cold chain for perishable crops"
- ],
- "source": [
-  "Plant pathology literature on post-harvest diseases",
-  "Mycology references on Penicillium species"
- ]
+  "disease": "Penicillium Moğolları",
+  "scientific_name": "cinsiyet penicillium",
+  "pathogen_type": "Fonksiyon",
+  "description": "Penicillium, toprakta, havada ve organik madde bozulmasında yaygın olarak bulunan bir mantar türüdür.Birçok tür meyve ve sebzelerde hasat sonrası hastalıklara neden olur, mavi veya yeşil şekiller üretir ve önemli depolama kayıplarına yol açar.",
+  "symptoms": [
+    "Yumuşak su damlası meyve veya bitki dokuları üzerinde",
+    "Mavi-yeşil veya yeşil toz şekeri enfekte bölgelerde",
+    "Meyve yüzeyleri üzerindeki yaralanmalar",
+    "Depolama sırasında hızlı bozulma",
+    "Enfekte ürünlerin kokusu"
+  ],
+  "visual_symptoms": [
+    "Meyve yüzeyinde mavi veya yeşil çamur büyümesi",
+    "Tohumlar hasarları kapsayan mantar spores",
+    "enfeksiyon sitesi etrafında yumuşak kırışıklık dokusu"
+  ],
+  "hosts": [
+    "Apple",
+    "Citrus Meyveleri",
+    "Korkunç",
+    "pear",
+    "Peach için",
+    "domates",
+    "Strawberry için",
+    "Depolanan tahıllar ve tohumlar"
+  ],
+  "favorable_conditions": [
+    "Yüksek nem",
+    "Soğuk, ılımlı sıcaklıklar",
+    "Kötü depolama koşulları",
+    "Yaralı veya hasarlı meyveler"
+  ],
+  "spread": [
+    "Airborne Mantar Spores",
+    "Enfekte ve Sağlıklı Ürünler Arasındaki İletişim",
+    "Kirlenmiş depolama konteynerleri ve araçları"
+  ],
+  "impact": [
+    "Yetiştirme Sonrası Meyve Kaybı",
+    "Depolama sırasında ürün kalitesinin kaybı",
+    "Ürünlerin Piyasa Değerinin Azaltılması",
+    "Bazı türlerde mikotoksin üretiminin potansiyeli"
+  ],
+  "management": [
+    "Yaraları önlemek için meyveleri dikkatlice kullanın.",
+    "Ürünler tavsiye edilen sıcaklık ve nem seviyesinde",
+    "Enfekte meyveleri hemen çıkarın",
+    "Temiz depolama tesisleri",
+    "Mevcut olduğunda dayanıklı çeşitleri kullanın."
+  ],
+  "biological_control": [
+    "Bacillus türleri gibi faydalı mikropların kullanımı",
+    "Antagonist yastıkların şekil büyümesini bastırmak için uygulanması"
+  ],
+  "chemical_control": [
+    "Tıpkı tiabendazol veya imazalil gibi hasat sonrası fungicidler",
+    "Onaylanmış depolama fungicidlerinin kullanımı, bitkiye bağlı olarak"
+  ],
+  "prevention": [
+    "Depolama odaları ve konteynerleri temizleyin",
+    "Toplama sırasında mekanik hasarlardan kaçının.",
+    "Mükemmel havalandırma depolama tesislerinde",
+    "Kayıp bitkiler için soğuk zincir tutun"
+  ],
+  "source": [
+    "Bitki Patolojisi Edebiyatı Sonrası Hastalıklar",
+    "Penicillium türleri için mikoloji referansları"
+  ]
 }

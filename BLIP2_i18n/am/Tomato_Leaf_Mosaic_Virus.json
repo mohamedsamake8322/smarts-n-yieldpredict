@@ -1,0 +1,69 @@
+{
+  "disease_name": "የ Tomato Leaf Mosaic Virus (ToMV) ፡፡",
+  "type": "የቪሮኒየም ፎቶዎች",
+  "causal_agent": "TOMATOS MOSAIC VIRUS (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC VIRUS) (TOMATOS MOSAIC) (TOMATOS MOS) (TOS) (TOMATOS)",
+  "hosts": {
+    "primary": [
+      "የቶማስ (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "የፓይፕ (Capsicum spp)",
+      "ፎቶዎች SPP."
+    ],
+    "other_hosts": [
+      "የ Snapdragon (Antirrhinum spp.)",
+      "የፕላስቲክ SPP",
+      "ማርጋል (Tagetes spp.)",
+      "ሌሎች ምግብ እና ምግብ ምርቶች"
+    ]
+  },
+  "distribution": "በዓለም አቀፍ",
+  "symptoms": {
+    "foliage": [
+      "ቀለም እና ጥቁር ጥቁር ቦታዎች ጋር ተስማሚ",
+      "ጥቁር ጥቁር ቦታዎች ብዙ ጊዜ ከፍተኛ ወይም ቀጥተኛ ናቸው, አንድ ቀጥተኛ ቀጥተኛ ቀጥተኛ ቀጥተኛ ይሆናል",
+      "ፎቶዎች በይነዚህ ፎቶዎች በይነዚህ ፎቶዎች ይሆናል",
+      "ፎቶዎች የተመሠረተ ይችላሉ"
+    ],
+    "fruit": [
+      "ፎቶዎች እና ጥቁር ፎቶዎች",
+      "የክክሮቲክ ፎቶዎች እና የክሮቲክ እና የክሮቲክ ፎቶዎች",
+      "የፋብሪካ ንድፍ ንድፍ ንድፍ"
+    ],
+    "overall_plant": [
+      "ፎቶዎች ፎቶዎች ፎቶዎች",
+      "የሽያጭዎች ለመፍጠር",
+      "ዝቅተኛ ፍጥነት እና ዝቅተኛ ፍጥነት"
+    ]
+  },
+  "disease_cycle": [
+    "የቪሮስ በሽያጭ በሽያጭ በሽያጭ በሽያጭ በሽያጭ በሽያጭ በሽያጭ በሽያጭ በሽያጭ",
+    "በሽያጭ መሳሪያዎች በሽያጭ መሳሪያዎች በሽያጭ መሳሪያዎች በሽያጭ መሳሪያዎች በሽያጭ መሳሪያዎች በሽያጭ መሳሪያዎች ይሆናል.",
+    "መሣሪያዎች, መሣሪያዎች, እና መሣሪያዎች በመጠቀም የተመሠረተ ይሆናል.",
+    "የሙቀት, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን, ቀናት መጠን"
+  ],
+  "management": {
+    "cultural": [
+      "የኦሪጂናል ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ",
+      "መሣሪያዎች, መሣሪያዎች, መሣሪያዎች እና መሣሪያዎች መሣሪያዎች መሣሪያዎች",
+      "መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች",
+      "መቆጣጠሪያ መሣሪያዎች እንደ ሌሎች መሣሪያዎች ሊሆን ይችላል"
+    ],
+    "resistant_varieties": [
+      "የፕላስቲክ አምራቾች በ ToMV ላይ ተስማሚ ይሆናል."
+    ],
+    "chemical": [
+      "የኬሚካል መቆጣጠሪያ አይችልም የቪሮኒካል መቆጣጠሪያዎች; መቆጣጠሪያ በ prevention እና hygiene ላይ ይሰጣል"
+    ]
+  },
+  "notes": [
+    "ToMV በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል በሞክኒካል",
+    "ጓደኞች ጓደኞች ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ ጓደኛ",
+    "የሙከራዎች የሙከራዎች የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች እና የሙከራዎች"
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. የኮምፒዲየም የኮምፒዲየም እና የኮምፒዲየም, 2nd Edition. APS Press.",
+    "የዩናይትድ ስቴትስ የፕሮፕላስቲክ ኩባንያ (American Phytopathological Society, APS) - የፕሮፕላስቲክ የፕሮፕላስቲክ የፕሮፕላስቲክ የፕሮፕላስቲክ የፕሮፕላስቲክ የፕሮፕላስቲክ",
+    "Brunt, A.A., et al. 1996. Plant Viruses Online: የ VIDE መለያዎች እና መስመርዎች"
+  ]
+}

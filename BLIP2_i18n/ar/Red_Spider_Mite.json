@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "اللمْس الأحمر",
+  "scientific_name": "Tetranynichuss urticae (وأنواع العنكبوت ذات الصلة بها)",
+  "pathogen_type": "حشرات الراكاشنيد (مني)",
+  "description": "تتكاثر بسرعة في ظروف دافئة وجافة ويمكن أن تسبب ضرراً خطيراً للمحاصيل عن طريق الحد من التركيبات الضوئية وإضعاف النباتات.",
+  "symptoms": [
+    "بقع صغيرة شاحبة أو صفراء على أوراق الشوائب (التقطيع)",
+    "يُفْسِلُ أَفُسُسٌ تَفْسِلْ لونَها الأخضر",
+    "# # # # ## # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #",
+    "الأوراق المالية التي تتحول إلى صفر أو بنية",
+    "التصرف والسقوط",
+    "نباتات ضعيفة بشدة أو موتات نباتات"
+  ],
+  "hosts": [
+    "طاطاطاطاط",
+    "الفراء",
+    "بكanan",
+    "",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "المس",
+    "",
+    "Cit",
+    "",
+    "القطن",
+    "",
+    "النباتات المولدات الخلقية",
+    "(أ) (أ) ((((((((( (((( ((( ((("
+  ],
+  "favorable_conditions": [
+    "درجة الحرارة",
+    "الظروف التي لا توجد فيها",
+    "منخفض الرطوبة",
+    "بيئات",
+    "ثالثاً - ظروف الدفيئة الحشود"
+  ],
+  "spread": [
+    "طراز معر نفر",
+    "حركة حركة النباتات الموب",
+    "الأدوات أو الملابس الملوثة",
+    "من المصنع إلى المصنع"
+  ],
+  "impact": [
+    "اززدج",
+    "",
+    "انخفاض غلة المحاصيل",
+    "حرق الشمس على الفواكه بسبب الخسارة الناجمة عن الخسارة",
+    "(أ) ضعف أو وفاة في الحالات الشديدة"
+  ],
+  "cultural_control": [
+    ":: زيادة الزيادة حول النباتات",
+    "الرش المنتظم مع الماء",
+    "(أ) أُسرت أو أُسرت أو أُسرت",
+    "المزروعات النظيفـة والمشروبات الضارة",
+    "(أ) الظروف التي لا يمكن فيها التصحُّر في الحقول أو في غازات الدفيئة"
+  ],
+  "biological_control": [
+    "meth mete Phitoseilus persimilis",
+    "الأمبلسيوس كاليفورنيكوس",
+    "(أ) أُسرسوغا (أ)",
+    "خُدَسَات النساء (الآدب)",
+    "اليرقة الخضراء",
+    "Fungos Poveria Passiana"
+  ],
+  "chemical_control": [
+    "المني",
+    "مبيدات الآفات أو مبيدات السكار عندما تكون المبيدات شديدة",
+    "استخدام مبيدات آفات متوافقة مع المراقبة البيولوجية"
+  ],
+  "prevention": [
+    "رصد أوراق نظر منتظمة مع عدس يدوي",
+    "المحافظة على جودة الري والرطوبة",
+    "(أ) يزيل حطم المنشأة بعد الحصاد",
+    "الإدارة المتكاملة للآفات (IPM)"
+  ],
+  "source": [
+    "بوابة الحماية البيولوجية",
+    "المراجع المرجعية لمعالجة الآفات الزراعية"
+  ]
 }

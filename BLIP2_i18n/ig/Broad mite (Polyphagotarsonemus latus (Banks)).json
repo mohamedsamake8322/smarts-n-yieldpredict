@@ -1,0 +1,79 @@
+{
+  "disease": "Mbibi a na - ebibi ihe n'ụzọ dị egwu",
+  "scientific_name": "Anụ ọhịa bea ndị nwere nje ndị na - akpata ọrịa bụ́ ndị a na - akpọ laus",
+  "pathogen_type": "Mite (nke na - acha ọbara ọbara)",
+  "description": "Mmiri ọgwụ ahụ́ bụ́ hormone a na - adịghị ahụ anya nke na - awakpo okooko osisi ndị na - eto eto. Ọ na - eri akwụkwọ, mkpọrọgwụ, na mkpụrụ osisi site n'ime ka ahịhịa ndị na - eto ngwa ngwa na - eto nke ọma.",
+  "symptoms": [
+    "Akwụkwọ ya ndị na - acha ọcha ma ọ bụ ndị nke gbagọrọ agbagọ",
+    "Ihe Ndị Na - enye Ume Ọhụrụ na Ihe Ndị Dị Oké Ọnụ Ahịa",
+    "Ihe ndị dị n'ala ala ya ma ọ bụ ihe ndị e ji ahịhịa mee",
+    "Uto nke ihe ọkụkụ a tụrụ atụ",
+    "Mkpụrụ osisi ndị a gbara ná mkpọ ma ọ bụ ndị a mịrị amị",
+    "Mkpụrụ osisi na okooko osisi",
+    "Ibu ibu na - esi ike ma na - esi ike"
+  ],
+  "hosts": [
+    "ghaghị ime ka obi sie gị ike na Jehova ga - enyere gị aka",
+    "Ihe na - esi ísì ọma",
+    "tomato",
+    "Ụcha àkwá",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Jehova na - agọzi ndị na - erubere ya isi",
+    "Ilon",
+    "Àgwà",
+    "ogho",
+    "tii",
+    "Ihe Ndị Na - egosi na Anyị Bụ Ndị Ozi",
+    "Senaya",
+    "ube bekee",
+    "Mango",
+    "Osisi ndị mara mma"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Ọ́bá akwụkwọ ndị dị n'ime ala",
+    "A na - ekesa ikuku n'ụzọ na - adịghị mma",
+    "Ebe obibi ndị dị n'ụlọ"
+  ],
+  "spread": [
+    "Òtù Ifufe",
+    "Ngwá ọrụ ndị e ji osisi mee na ihe ndị e ji akụ osisi",
+    "Ụmụ ahụhụ ndị dị ka ụmụ ahụhụ ndị na - acha ọcha na - akpa ike n'ahụ́ ha",
+    "Na - eyi uwe ndị ọrụ"
+  ],
+  "management": [
+    "Na - edetu akwụkwọ ndị na - eto eto mgbe nile",
+    "Wepụ akụkụ dị iche iche nke ihe ọkụkụ n'ụzọ dị egwu",
+    "Ime ka ikuku na - abatakwu n'etiti ihe ọkụkụ",
+    "Jiri ụdị ọ bụla nke na - eguzogide ihe ma ọ bụ nke na - adịghị ekwe mmadụ megharịa ahụ́ mee ihe mgbe e nwere ya",
+    "Zere Imebiga Ihe Ókè n'Ụzọ Na - ezighị Ezi"
+  ],
+  "biological_control": [
+    "A gbara ndị mmadụ ọgwụ mgbochi ọrịa ndị dị ka Relililius",
+    "A gbara ya ọgwụ mgbochi ọrịa ndị dị ka Abruruseius n'anwụ",
+    "Ndị na - agba ọgwụ mgbochi ọrịa ndị dị ka lagrugrus",
+    "Iji ihe na - atọ ọchị eme ihe n'ụzọ na - ezighị ezi, dị ka ihe e ji eme ihe n'ụzọ na - akpali agụụ mmekọahụ"
+  ],
+  "chemical_control": [
+    "Earthmectin",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Okporo ụzọ e si abanye n'ebe a na - egwupụta ihe n'ala",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Ńgwānụ́ banye",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+  ],
+  "prevention": [
+    "Mkpụrụ akụ́kụ́ tupu a kụọ ya",
+    "Nọgide na - adị ọcha n'ụzọ dị ọcha",
+    "Kwụsị ịta ahịhịa ndị nwere ike ịba mmadụ n'ahụ́",
+    "Ekwela ka ihe ọkụkụ ndị na - adịghị ndụ banye n'ime ala",
+    "Na - amụchi ihe anya mgbe nile n'oge ndị na - ekpo ọkụ"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "University of Florida Ọ NA - EME IHE IKE",
+    "Akwụkwọ ndị e ji amụ Bible bụ́ ndị e dere n'ụdị dị iche iche",
+    "Ihe ndị e dere n'ala ala peeji na - echebe ndị mmadụ"
+  ]
+}

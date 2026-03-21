@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
+  "pest_name": "Feuille de la cible",
   "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "type": "Champignons",
+  "distribution": "Dans le monde entier",
+  "host_plants": [
+    "Cucurbitacées, en particulier le concombre"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "Les taches s'agrandissent et deviennent circulaires avec des centres brun clair et des bordures brunes foncées. Dans les stades avancés, les centres gris s'éteignent, provoquant un trou de tir ou un aspect déchiqueté. Dans les conditions de serre, les taches peuvent avoir des centres légers, des anneaux de tissu vert olive et des bordures jaunes. Une infection sévère peut conduire à la défoliation.",
+    "stem_petiole": "Les taches allongées aident à se différencier de l'anthracnose, du mildiou ou de la tache angulaire des feuilles.",
+    "fruit": "Fruits assombrie et râpés si l'infection survient tôt à l'extrémité de la fleur.",
+    "roots_flowers": "Infections possibles mais moins fréquentes."
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "La chaleur de 25 à 35°C (77 à 95°F) favorise le développement; l'infection peut survenir à 21 à 26°C (70 à 80°F)",
+    "humidity": "Une humidité élevée favorise l'infection",
+    "light": "De longues journées favorisent le développement de la maladie",
+    "other_factors": "Fluctuation des températures quotidiennes et présence de résidus ou de mauvaises herbes végétaux infectés"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "Sur les résidus végétaux infectés pendant au moins deux ans, ou sur les hôtes de mauvaises herbes",
+    "dispersal": "Spores aéroportées",
+    "infection": "Feuilles, tiges, pétioles, racines, fleurs et fruits dans des conditions favorables"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "Utiliser des variétés résistantes lorsqu'elles sont disponibles",
+      "Mettre en œuvre de bons systèmes d ' assainissement dans les champs et les serres",
+      "Enlever et détruire les débris végétaux infectés",
+      "Hôtes de mauvaises herbes témoins près des cultures"
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "pulvérisateurs de fongicides préventifs selon les instructions de l'étiquette"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": "Combiner des variétés résistantes, des programmes d'assainissement et des programmes de fongicides pour réduire l'incidence des maladies"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "Guides et publications complémentaires sur les maladies des cultures de Cucurbite",
+    "Rapports sur la distribution mondiale de Corynespora cassiicola"
   ]
 }

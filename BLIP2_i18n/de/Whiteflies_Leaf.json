@@ -1,0 +1,129 @@
+{
+  "pest_name": "Silberblättrige Weißfliege",
+  "scientific_name": "Bemisia argentifolii",
+  "common_names": [
+    "Süßkartoffel-Weißfliege",
+    "Silberblättrige Weißfliege"
+  ],
+  "description": "Erwachsene sind 1,5 mm lang, gelber Bauch und Thorax, weiße Flügel; Nymphen sind oval, transluzent oder gelblich. Letzter Instar wird \"Rotaugen-Nymphe\" genannt.",
+  "hosts": [
+    "Cole-Pflanzen (Brokkoli, Kohl, Blumenkohl, Grünkohl, Kohlrabi, Chinesischer Kohl, Rosenkohl)",
+    "Sonstige pflanzliche Kulturpflanzen als Nebenwirte"
+  ],
+  "damage": [
+    "Sap-Sucking führt zu verkümmertem Wachstum und verzögerter Ernte",
+    "Ausscheidung von Honigtau fördert die Rußform und reduziert die Photosynthese",
+    "Bleichen von Stängeln und Blattrosen in Brokkoli (weißer Stängel)"
+  ],
+  "life_cycle": [
+    "Eier auf Blattunterseite gelegt",
+    "Erster Instar (Crawler) ist mobil; nachfolgende Nymphen sind sessil",
+    "Letzter Instar (Pupa/Rot-Auge) geht dem erwachsenen Aufkommen voraus",
+    "Erwachsene fliegen leicht, wenn Pflanzen gestört sind"
+  ],
+  "spread": [
+    "Durch Wind und Migration aus nahe gelegenen Kulturen",
+    "Mechanische Verbreitung über kontaminierte Werkzeuge oder Arbeiter",
+    "Rasche Bevölkerungszunahme bei rückläufigen Gastgebern in der Nähe"
+  ],
+  "monitoring": [
+    "Überprüfung der Feldmargen 2x/Woche (Aug-Okt) oder wöchentlich (Nov-Mar)",
+    "Gelbe klebrige Fallen helfen, erste Migration zu erkennen",
+    "Blätter umdrehen, um Nymphen zu inspizieren"
+  ],
+  "management": {
+    "cultural": [
+      "Verzögern Sie die Pflanzung oder schaffen Sie gastfreie Zeiträume, um Befall zu reduzieren",
+      "Pflanzenkulturen im Wind von anderen Whitefly-Hosts",
+      "Sanitäre Pflege: Unkraut und Pflanzenreste umgehend entfernen",
+      "Bewässerung und Stickstoff verwalten, um übermäßiges Pflanzenwachstum zu vermeiden"
+    ],
+    "biological": [
+      "Parasitäre Wespen (Encarsia, Eretmocerus)",
+      "Predators: Bigeyed Käfer, Spitzenlarven, Damenkäfer",
+      "Entomopathogene Pilze: Beauveria bassiana, Isaria fumosorosea"
+    ],
+    "chemical": [
+      {
+        "name": "Cyantraniliprole (Exirel, Verimark)",
+        "targets": "Erwachsene",
+        "MOA_group": "28 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+      },
+      {
+        "name": "Chlorantraniliprol (Coragen)",
+        "targets": "Erwachsene",
+        "MOA_group": "28 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+      },
+      {
+        "name": "Dinotefuran (Venom)",
+        "targets": "Erwachsene",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Imidacloprid (Admire Pro)",
+        "targets": "Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Acetamiprid (Assail 70 WP)",
+        "targets": "Nymphen/Erwachsene",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Flupyradifuron (Sivanto 200 SL)",
+        "targets": "Eier und Nymphen",
+        "MOA_group": "4D"
+      },
+      {
+        "name": "Sulfoxaflor (Sequoia CA)",
+        "targets": "Eier und Nymphen",
+        "MOA_group": "4C"
+      },
+      {
+        "name": "Thiamethoxam (Actara)",
+        "targets": "Nymphen/Erwachsene",
+        "MOA_group": "4A"
+      },
+      {
+        "name": "Bifenthrin (Brigade 2EC)",
+        "targets": "Erwachsene",
+        "MOA_group": "3A"
+      },
+      {
+        "name": "Spirotetramat (Movento)",
+        "targets": "Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen",
+        "MOA_group": "23"
+      },
+      {
+        "name": "Spiromesifen (Oberon 2 SC)",
+        "targets": "Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen",
+        "MOA_group": "23"
+      },
+      {
+        "name": "Buprofezin (Courier SC)",
+        "targets": "Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen/Nixen",
+        "MOA_group": "16"
+      },
+      {
+        "name": "Insektizide Seifen",
+        "targets": "Nymphen und Erwachsene",
+        "mode": "Ansprechpartner"
+      },
+      {
+        "name": "Schmalzöle (Omniöl, JMS Stylet-Oil)",
+        "targets": "Nymphen und Erwachsene",
+        "mode": "Kontakt/Abdeckung"
+      }
+    ],
+    "organic": [
+      "Beauveria Bassiana und Isaria Fumosorosea für Nymphe Kontrolle",
+      "Insektizide Seifen und Schmalbandöle",
+      "wärmegetötete Burkholderia spp. (Venerate)"
+    ],
+    "resistance_management": [
+      "Insektizide mit unterschiedlichen Wirkweise-Gruppen rotieren",
+      "Abdeckung und Anwendungszeitpunkt optimieren"
+    ]
+  },
+  "notes": "Die Schwellen sind nicht gut etabliert; in organischen oder unbehandelten Feldern werden Grenzen bevorzugt behandelt, wenn der Befall an den Rändern höher ist."
+}

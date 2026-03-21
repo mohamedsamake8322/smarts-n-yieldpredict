@@ -1,0 +1,96 @@
+{
+  "disease": "Blossom End Rot",
+  "crop": "Wassermelone",
+  "scientific_context": "Physiologische Störung durch lokalisierten Kalziummangel",
+  "pathogen_type": "Physiologische Störung (nicht durch einen Erreger verursacht)",
+  "description": "Blossom Endfäule ist eine physiologische Störung, die Wassermelone und andere Fruchtgemüse. Es wird durch unzureichendes Kalzium erreicht entwickelnde Fruchtgewebe verursacht, in der Regel aufgrund unregelmäßiger Bewässerung, Dürre Stress, hoher Salzgehalt oder übermäßige Stickstoffdüngung. Die Störung führt zu dunklen, versunkenen Läsionen am Blütenende der Frucht.",
+  "scientific_name": "Calciummangel-Störung",
+  "symptoms": [
+    "Wassergetränkte Stelle am Blütenende der Frucht",
+    "leichte tan Läsion, die im Laufe der Zeit vergrößert",
+    "dunkelbraun oder schwarz versunkene Fläche auf Frucht",
+    "Lederiges oder trockenes Gewebe am Blütenende",
+    "sekundäre weiche Fäule, wenn Pilze oder Bakterien eindringen",
+    "Betroffene Früchte reifen früher als normal"
+  ],
+  "visual_signature": [
+    "dunkelschwarzes Pflaster am Blütenende der Wassermelone",
+    "versunkene ledrige Läsion auf Fruchtspitze",
+    "Trockene schwarze Fäule auf Blütenende",
+    "verfärbte depressive Fläche auf der Fruchtoberfläche"
+  ],
+  "affected_plant_parts": [
+    "Fruchtblütenende",
+    "Entwicklung von Fruchtgewebe"
+  ],
+  "plant_family": "Cucurbitaceae",
+  "hosts": [
+    "Wassermelone",
+    "Tomaten",
+    "Pfeffer",
+    "Auberginen",
+    "Kürbis",
+    "Kürbisgewächse"
+  ],
+  "important_hosts": [
+    "Citrullus lanatus",
+    "Solanum lycopersicum",
+    "Capsicum annuum",
+    "Solanum melongena",
+    "Cucurbita pepo"
+  ],
+  "causes": [
+    "Kalziummangel bei der Fruchtentwicklung",
+    "unregelmäßige Bewässerung",
+    "Trockenheitsstress",
+    "hoher Salzgehalt im Boden",
+    "überschüssige Stickstoffdüngung",
+    "schnelles Pflanzenwachstum",
+    "schlechte Kalziumaufnahme durch Wurzeln"
+  ],
+  "favorable_conditions": [
+    "Heiße Temperaturen",
+    "Trockenheitsstress",
+    "fluktuierende Bodenfeuchte",
+    "schlechte Bodenentwässerung",
+    "erhöhte Betten schnell trocknen"
+  ],
+  "spread": [
+    "nicht ansteckend",
+    "verursacht durch Umwelt- und Ernährungsungleichgewicht"
+  ],
+  "damage": [
+    "Obst wird unverkaufbar",
+    "Verringerung des Ernteertrags",
+    "Frühreifung der Früchte",
+    "Sekundärinfektionen können Früchte zerstören"
+  ],
+  "management": [
+    "gleichmäßige Bodenfeuchte erhalten",
+    "Wasserpflanzen regelmäßig und tief",
+    "Mulchboden, um Feuchtigkeit zu schonen",
+    "Vermeidung übermäßiger Stickstoffdüngung",
+    "Verbesserung der Bodenentwässerung"
+  ],
+  "nutritional_management": [
+    "ausreichend Kalzium im Boden erhalten",
+    "Landwirtschaftliche Kalk verwenden, um den pH-Wert des Bodens anzupassen",
+    "Calciumnitrat oder Calciumchlorid-Blattsprays verwenden, wenn nötig"
+  ],
+  "cultural_control": [
+    "korrekter Pflanzenabstand für die Luftzirkulation",
+    "Ausgewogene Befruchtungspraktiken",
+    "konsistenter Bewässerungsplan"
+  ],
+  "prevention": [
+    "Bodenprüfung vor der Pflanzung",
+    "Aufrechterhaltung des pH-Werts im Boden um 6,5–7",
+    "große Fluktuationen bei der Bewässerung vermeiden"
+  ],
+  "source": [
+    "Universität Erweiterung Pflanzenpathologie Führer",
+    "Gewächshausbauer",
+    "Horticulturae Zeitschrift",
+    "Journal of Plant Nutrition"
+  ]
+}

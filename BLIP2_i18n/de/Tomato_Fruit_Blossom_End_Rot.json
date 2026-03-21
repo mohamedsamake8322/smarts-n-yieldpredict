@@ -1,0 +1,56 @@
+{
+  "disease_name": "Tomatenobstblüten-Endrot",
+  "type": "physiologische Störung",
+  "causal_agent": "Calciummangel in Verbindung mit unregelmäßiger Wasseraufnahme",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Pfeffer (Capsicum spp.)",
+      "Aubergine (Solanum melongena L.)"
+    ]
+  },
+  "distribution": "Weltweit; häufig in Gebieten mit schwankender Bodenfeuchte oder geringer Kalziumverfügbarkeit",
+  "symptoms": {
+    "fruit": [
+      "Dunkle, versunkene Läsion am Blütenende der Frucht",
+      "Läsion kann sich vergrößern, ledrig werden und zu Fruchtfäule führen",
+      "Zuerst sichtbar auf jungen, sich entwickelnden Früchten, oft in Clustern",
+      "Innere Gewebe können auch verfärbt werden, wenn Zustand fortbesteht"
+    ],
+    "leaves_and_stems": [
+      "Keine direkten Symptome an Blättern oder Stängeln; Pflanzen erscheinen oft gesund oberirdisch"
+    ]
+  },
+  "cause_and_risk_factors": [
+    "Unzureichende Calciumaufnahme durch Entwicklung von Früchten",
+    "Unregelmäßige Bewässerung führt zu schwankender Bodenfeuchte",
+    "Übermäßiges vegetatives Wachstum durch Überdüngung, wodurch Ungleichgewichte zwischen Wurzelkapazität und Obstnachfrage entstehen",
+    "Hohe Luftfeuchtigkeit reduziert Transpiration und Kalziumtransport"
+  ],
+  "management": {
+    "cultural": [
+      "Erhalten Sie selbst Bodenfeuchte während der Fruchtbildung durch kontrolliertes Bewässern oder Tropfbewässern",
+      "Mulch, um Bodenfeuchte zu erhalten und Fluktuationen zu reduzieren",
+      "Geben Sie ausreichend Abstand und Pflaume, um eine gute Luftzirkulation zu gewährleisten und relative Luftfeuchtigkeit zu reduzieren",
+      "Vermeiden Sie übermäßige Stickstoffdüngung; Side-dress nur, wenn nötig, um moderates Wachstum zu halten",
+      "Überwachung der Pflanzenkraft, um das Gleichgewicht zwischen Wurzel- und Triebentwicklung zu gewährleisten"
+    ],
+    "chemical": [
+      "Blattapplikation von Calciumnitrat oder Calciumchlorid (1,5 TL pro Gallone Wasser + 0,5 TL Tenside, z.B. CapSil) wöchentlich während der Fruchtbildung",
+      "Spritzen am frühen Morgen auftragen, um das Risiko der Phytotoxizität zu verringern",
+      "Vermeiden Sie übermäßige Calcium-Anwendungen, da es die Erträge verringern oder Blattschäden verursachen kann"
+    ],
+    "preventive_notes": [
+      "Konzentrieren Sie sich auf konsistente kulturelle Praktiken und die Verfügbarkeit von Kalzium, anstatt sich ausschließlich auf Foliarsprays zu verlassen.",
+      "Überwachung des Bodenkalziumspiegels vor der Pflanzung und gegebenenfalls Änderung der Böden"
+    ]
+  },
+  "references": [
+    "Brubaker, V. 2016. Calcium: Es tut eine Pflanze gut. Gewächshausbauer, Januar.",
+    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduziert Blütenfäule auch unter Kalziummangelbedingungen; Hinweise auf physiologische Reaktionen der NI-CA-Interaktion. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
+    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M. und Mohamad, A. 2021. Vorernte Blattspray von Calciumchlorid auf Wachstum, Ertrag, Qualität und Haltbarkeit Verlängerung der verschiedenen Lowland-Tomatensorten in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
+    "Reitz, N.F., Shackel, K.A., und Mitcham, E.J. 2021. Unterschiedliche Effekte von überschüssigem Kalzium, das auf ganze Pflanzen angewendet wird, vs. verzehrtes Fruchtgewebe auf Blütenfäule in Tomaten. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514."
+  ]
+}

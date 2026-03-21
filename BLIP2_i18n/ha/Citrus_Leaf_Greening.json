@@ -1,67 +1,67 @@
 {
-  "disease": "Citrus Leaf Greening",
+  "disease": "KCharselect unicode block name",
   "other_names": [
-    "Huanglongbing",
-    "HLB",
-    "Citrus Greening"
+    "KCharselect unicode block name",
+    "keyboard- key- name",
+    "KCharselect unicode block name"
   ],
-  "scientific_name": "Candidatus Liberibacter spp.",
-  "pathogen_type": "Bacterium",
-  "description": "Citrus greening is one of the most destructive diseases of citrus trees. It is caused by bacteria of the genus Liberibacter and transmitted mainly by psyllid insects. Infected trees produce small, bitter, poorly colored fruits and eventually decline and die within a few years. There is currently no cure for the disease.",
+  "scientific_name": "Za a iya yin amfani da hotuna masu wuyan fahimta.",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Wani abu mai ban sha'awa shi ne rashin lafiya mafi muni da ke cikin itatuwa.",
   "hosts": [
-    "Citrus sinensis (sweet orange)",
-    "Citrus reticulata (mandarin)",
-    "Citrus paradisi (grapefruit)",
-    "Citrus limon (lemon)",
-    "Other Citrus species"
+    "Abin sani kawai, laifi Yanã a kan waɗanda suke nẽman izininka alhãli kuwa sũ mawadãta ne.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Wasu Abubuwan da Ba Su Dace Ba"
   ],
   "vectors": [
-    "Asian citrus psyllid (Diaphorina citri)",
-    "African citrus psyllid (Trioza erytreae)"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "symptoms_and_damage": [
-    "Blotchy yellow mottling on leaves",
-    "Yellowing of leaf veins and shoots",
-    "Stunted tree growth",
-    "Twig dieback and premature leaf drop",
-    "Small, irregular, poorly colored fruits",
-    "Fruits remain partly green when ripe",
-    "Fruits taste bitter or sour",
-    "Aborted seeds and poor fruit development"
+    "KCharselect unicode block name",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi.",
+    "Sa'ad da muka mutu, ba za mu ji daɗin rashin lafiya ba kuma ba za mu iya taimaka wa mutane su san gaskiya game da Allah ba.",
+    "Ƙaramin ' ya'yan itace, Wadda aka haɗa da ' ya'yan itace",
+    "' Ya'yan itace suna yin gunaguni sa'ad da ake nuna",
+    "' Ya'yan itace suna ɗanɗana zafi ko kuma ' ya'yansu",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
   ],
   "disease_cycle_and_spread": [
-    "Bacteria live in the phloem tissue of citrus trees",
-    "Spread mainly by psyllid insects feeding on infected plants",
-    "Can also spread through grafting infected plant material",
-    "Young psyllid stages acquire the bacteria and transmit it to healthy plants"
+    "Ababa tana zama a cikin itatuwa masu yawa",
+    "Ana iya yin amfani da ruwan sama da aka yi a ƙasa don a ciyar da shuke - shuke.",
+    "Ƙari ga haka, za a iya yaɗa wa'azin bishara ta wajen yin amfani da kayayyakin da aka shuka",
+    "Matasa suna sanye da halittu masu kyau kuma suna sa shuke - shuke su zama masu koshin lafiya"
   ],
   "favorable_conditions": [
-    "Warm climates in tropical and subtropical regions",
-    "Presence of psyllid insect vectors",
-    "Dense citrus production areas"
+    "mukan yi tafiya mai nisa sosai a yankunan da ke kusa da teku da kuma wasu wurare dabam - dabam",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "distribution": [
-    "Asia",
-    "Africa",
-    "United States (Florida, Texas, California and others)",
+    "Asiya",
+    "Afirka",
+    "@ item Spelling dictionary",
     "Brazil",
     "Mexico",
-    "Many tropical and subtropical citrus-growing regions worldwide"
+    "KCharselect unicode block name"
   ],
   "management": [
-    "Control psyllid insect populations",
-    "Remove and destroy infected trees",
-    "Use clean and certified planting material",
-    "Regular monitoring and early detection",
-    "Research on resistant citrus varieties"
+    "Ana Mai da Tawali'u Mai Kyau",
+    "Da ƙwãya mai sõshiya da ƙamshi.",
+    "Ka yi amfani da abubuwa masu tsabta kuma ka yi amfani da su da kyau",
+    "Media controller element",
+    "Bincike Game da Yin Tsayayya da Matsi Mai Kyau"
   ],
   "notes": [
-    "No effective cure currently exists",
-    "Infected trees usually die within a few years",
-    "The disease has caused major economic losses in citrus industries worldwide"
+    "@ item Text character set",
+    "A yawancin lokaci itatuwa suna mutuwa cikin ' yan shekaru",
+    "Yanayin tattalin arziki ya jawo rashin tattalin arziki a dukan duniya"
   ],
   "sources": [
-    "Wikipedia – Citrus greening disease",
-    "USDA – Citrus Greening and Asian Citrus Psyllid"
+    "KCharselect unicode block name",
+    "@ item Text character set"
   ]
 }

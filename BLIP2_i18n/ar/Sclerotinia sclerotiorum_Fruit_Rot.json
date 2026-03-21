@@ -1,91 +1,91 @@
 {
- "disease": "Sclerotinia Fruit Rot",
- "scientific_name": "Sclerotinia sclerotiorum",
- "pathogen_type": "Fungus",
- "description": "Sclerotinia fruit rot is a fungal disease that affects many crops and vegetables. The fungus survives in soil as black structures called sclerotia and infects plants during cool and wet conditions, causing soft rot and plant collapse.",
- "symptoms": [
-  "Plants suddenly wilt and collapse",
-  "Soft wet rot on stems or fruits",
-  "White cotton-like fungal growth on infected tissues",
-  "Black seed-like structures (sclerotia) forming on infected areas",
-  "Yellowing leaves before plant collapse",
-  "Rotting of stems, fruits, bulbs, or roots"
- ],
- "visual_symptoms": [
-  "white fluffy mold on plant tissue",
-  "black hard sclerotia inside white fungal growth",
-  "soft watery rot on stems or fruits",
-  "collapsed plants"
- ],
- "hosts": [
-  "Lettuce",
-  "Beans",
-  "Peas",
-  "Tomato",
-  "Cucumber",
-  "Celery",
-  "Chicory",
-  "Sunflower",
-  "Oilseed rape (canola)",
-  "Carrot",
-  "Many ornamental plants"
- ],
- "plant_parts_affected": [
-  "stems",
-  "fruits",
-  "leaves",
-  "bulbs",
-  "roots"
- ],
- "favorable_conditions": [
-  "Cool temperatures",
-  "High humidity",
-  "Wet weather",
-  "Dense crop canopy",
-  "Poor air circulation"
- ],
- "spread": [
-  "Airborne spores released from apothecia",
-  "Sclerotia in soil",
-  "Contaminated plant debris",
-  "Direct contact with infected plants"
- ],
- "disease_cycle": [
-  "The fungus survives in soil as sclerotia for several years",
-  "Sclerotia germinate and produce small cup-like structures (apothecia)",
-  "Apothecia release spores that spread by wind",
-  "Spores infect plant tissues during wet conditions",
-  "Infected plants produce new sclerotia that return to the soil"
- ],
- "impact": [
-  "Plant wilting and collapse",
-  "Fruit and stem rot",
-  "Major crop losses in vegetables and oilseed crops",
-  "Reduced yield and product quality"
- ],
- "cultural_control": [
-  "Remove and destroy infected plants immediately",
-  "Avoid overcrowding of plants",
-  "Improve air circulation in crops",
-  "Rotate crops with non-host plants",
-  "Remove crop debris from the field"
- ],
- "biological_control": [
-  "Use biological agents such as Coniothyrium minitans",
-  "Use beneficial fungi such as Trichoderma species"
- ],
- "chemical_control": [
-  "Use registered fungicides when disease pressure is high",
-  "Apply protective fungicides during favorable disease conditions"
- ],
- "prevention": [
-  "Avoid planting susceptible crops repeatedly in the same field",
-  "Maintain proper plant spacing",
-  "Monitor fields during wet seasons",
-  "Use integrated disease management practices"
- ],
- "source": [
-  "Plant pathology references",
-  "Agricultural extension disease guides"
- ]
+  "disease": "سلسلتراتينيا روت",
+  "scientific_name": "SSSSSultrulinia sculturrum",
+  "pathogen_type": "المنقوس",
+  "description": "تعفن فاكهة سليروتينيا هو مرض فطري يؤثر على العديد من المحاصيل والخضراوات، وتعيش الفطريات في التربة مثل الهياكل السوداء التي تسمى sclerotiya وتصيب النباتات خلال ظروف التبريد والرطوبة، مما يسبب التعفن الناعم وانهيار النباتات.",
+  "symptoms": [
+    "تَنْبَطُ فجأة وتَنْهِرُ وتَنْهِرُ",
+    "الرطوبة الرطب الرطب على السلاسل أو الفواكه",
+    "نمو الفطريات البيضاء في الأنسجة المُصابة",
+    "الهياكل الشبيهة بالبذور السوداء (cclululoritia) التي تشكل في المناطق المصابة",
+    "الأوراق المالية قبل انهيار النبتة",
+    "دوران الجينات ، الفواكه ، المصابيح ، او الجذور"
+  ],
+  "visual_symptoms": [
+    "منقوش أبيض أبيض على أنسجة النبات",
+    "داخل نمو الفطريات البيضاء",
+    "الماء العذب التعفن على السور أو الفواكه",
+    "النباتات المهتلة"
+  ],
+  "hosts": [
+    "لِسِسْس",
+    "كهنس",
+    "عدد الطا",
+    "طاطاطاطاط",
+    "",
+    "المسيل",
+    "",
+    "",
+    "اغتصاب البذور الزيتية (الكانولا)",
+    "شيء",
+    "العديد من النباتات"
+  ],
+  "plant_parts_affected": [
+    "مُنْسَج",
+    "(الكاكر)",
+    "أولاً -",
+    "",
+    "يُجِج"
+  ],
+  "favorable_conditions": [
+    "درجات الحرارة",
+    "الرطوبة العالية",
+    "الطقس الصحي",
+    "معلّل محصول معلّل",
+    ""
+  ],
+  "spread": [
+    "بصور جوية متحررة من البوغات المنبثّة عن",
+    "سلسلتوريا في التربة",
+    "(أ) النفايات الملوثة",
+    "الاتصال المباشر بالنباتات المصابة"
+  ],
+  "disease_cycle": [
+    "الفطريات تنجو في التربة كسلسلوريا لعدة سنوات",
+    "تُزرع وتُنتج هياكل صغيرة شبيهة بكأس (السلوريات)",
+    "(أ) (أ) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب) (ب)",
+    "الأوج في أنسجة النبتات المُمَيَّة في ظروف الرطوبة",
+    "تُنتج النباتات المُعَيَّلة سلسلوثياً جديداً تعود إلى التربة"
+  ],
+  "impact": [
+    "النبتة والانهيار",
+    "الفواكه والتعفن",
+    "ألف - الخسائر الكبيرة في المحاصيل في الخضروات ومحاصيل البذور الزيتية",
+    "انخفاض الغلة ونوعية المنتج"
+  ],
+  "cultural_control": [
+    "(أ) أن تُزال وتُدمِر المنشآت المُحْزِنة على الفور",
+    "- تجنب اكتظاظ النباتات",
+    ":: تحسين الدوران الجوي للمحاصيل",
+    "محاصيل دوران مع نباتات غير مستهلكة",
+    "أزل حطام المحاصيل من الميدان"
+  ],
+  "biological_control": [
+    "استخدام عوامل بيولوجية مثل المصغرات المصغرة للكونيوسريوم",
+    "استخدام الفطريات المفيدة مثل أنواع الترايشودرما"
+  ],
+  "chemical_control": [
+    "استخدام مبيدات الفطريات المسجلة عندما يكون ضغط المرض عالياً",
+    "تطبيق مبيدات الفطريات الواقية أثناء ظروف المرض المُرض"
+  ],
+  "prevention": [
+    "تحاشي زراعة المحاصيل القابلة للزرع بصورة متكررة في نفس الميدان",
+    "(أ) المحافظة على المباعة بين النبتة المناسبة",
+    "ميادين المراقبة خلال الفصول المبتة",
+    "ممارسات الإدارة المتكاملة لمعالجة الأمراض"
+  ],
+  "source": [
+    "المراجع الطبية للمطرب",
+    "دليل أمراض الإرشاد الزراعي الزراعي"
+  ]
 }

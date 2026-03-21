@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "تَنْبِط",
+  "scientific_name": "الأُسرة: الأُسرة",
+  "pathogen_type": ")))))))))))))))))))))))))))))))))))))))))))))",
+  "description": "إن الخنافس ذات القرون الطويلة هي حشرات تزرع الخشب وتهاجم الأشجار والنباتات الخشبية، وحملت الخنازير في جذوعها وجذوعها، وأضعفت النباتات، وتسببت في أضرار هيكلية، أدت أحياناً إلى وفاة المضيف.",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "فتحات وأنفاق في السُقُل ، الفروع ، او الجذوع",
+    "الإطارات (الخراطس) حول ثقوب الدخول",
+    "الوصـف أو الكسـر أو التسميـة الـورق",
+    "تراجع الفروع",
+    "النمو المتوقع"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "أشجار خشبية صلبة (الضوء، والمقبل، والرماد)",
+    ")أشجار الفاكهة )النبتة، الكرز، الخوخ(",
+    "",
+    "الأشجار والأشجار والأشجار"
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "أُكثِرَ أو أُثُرَتْ أو أُضعفت",
+    "المناخ الدافئ والمنااخ الحر والمنااخ الرطبة",
+    "وجود الخشب المسقط أو الميت في مكان قريب"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "تَطَارُ إِلَى شُجَرٍ مُزْرِدَةٍ",
+    "حركة الحطب، أو الجذوع، أو المواد",
+    "تشتت طبيعي للبالغين الساعين إلى إقامة مصانع جديدة"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "تدقيق وإزالة الخشب المزروع",
+    "الختان وتدمير الفروع المتأثرة",
+    "رصد السكان الراشرين مع المحارج",
+    "تعزيز صحة الشجرة للحد من القابلية",
+    "تجنب نقل الحطب أو المواد النباتية من المناطق الموبوءة"
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "مبيدات حشرية نظامية (مثل emidadaclogrid) تطبق على التربة أو تُحقن في الأشجار",
+    "مبيدات الحشرات (المبيدات الحشرية للاتصال) في اللحاء من أجل السيطرة عليها من جانب الكبار",
+    "التأريخ أمر بالغ الأهمية: استهداف اليرقات الشابة والكبار الناشئين"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "الحجر الصحي والتفتيش والتفتيش على الخشب والمصانع المستورة",
+    "المحافظة على صحة الشجرة",
+    "يُزال ميتاً أو مضغوطاً على الأشجار",
+    "استخدام لفائف شجرة أو حواجز حائلة حيثما أمكن ذلك"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "(أ) صحيفة وقائع الخدمة الحرجية",
+    "CABI CAB CAB CAB",
+    "المؤلفات العلمية عن إدارة مكافحة الآفات في سيرامبيسيدا"
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "disease": "Ọdịdị nke Ihe Ndị Na - akpali Agụụ Mmekọahụ",
+  "scientific_name": "Otú Ị Ga - esi Bụrụ Onye Na - eso Ụzọ Jizọs",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọrịa na - asọ oyi nke na - emetụta mmiri ọgwụ ahụ́ bụ́ nke na - emetụta mkpụrụ akụ́kụ́, ala, ala, ahịhịa, na ihe ọkụkụ, mmiri ozuzo, ngwá ọrụ, ngwá ọrụ, na ụmụ ahụhụ.",
+  "symptoms": [
+    "N'aka ekpe: Ebe ndị a na - egwu mmanụ bụ́ ndị dị nso n'ebe a na - anọ enweta mmanụ, bụ́ ebe ndị na - acha nchara nchara nchara/ihe ndị e ji esiji ákwà, ebe a na - egbu mmadụ ma ọ bụ ebe a na - egbu mmadụ",
+    "Ihe ndị na - eme ka ahụ́ na - ama mmadụ jijiji na ihe ndị na - eme ka ahụ́ na - ama ya jijiji: Ọ bụrụ na ahụ́ ya na - ama jijiji, ya ana - ada mbà n'obi, ọ pụkwara ime ka ọ na - acha odo odo, bụ́ nke nwere ike ime ka ahụ́ ya na - ama jijiji",
+    "Mkpụrụ akụ́kụ́: Gbara gburugburu, anwụ na - acha nchara nchara, nwere ike ịdị na - acha uhie uhie nke na - acha uhie n'ahụ́ mlon; ọ na - eme ka ọ na - ama jijiji n'elu mmiri"
+  ],
+  "hosts": [
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Metaon",
+    "Trush",
+    "Mmiri dị n'ime ala",
+    "23.pkin",
+    "Ihe Ndị Ọzọ Na - adịghị Ize Ndụ"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ okpomọkụ na - ekpo ọkụ (4 degree CelsiusC)",
+    "Mmiri Na - ezo na Ya",
+    "Akwụkwọ osisi ma ọ bụ igirigi na - adịru ogologo oge",
+    "Mkpụrụ akụ́kụ́ na ụmụ irighiri ihe ọkụkụ ndị na - ebu ihe ndị e ji esi nri"
+  ],
+  "spread": [
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́",
+    "Ala e tere ágbá",
+    "Ihe ndị dị n'ime ala",
+    "Ifufe, mmiri ozuzo, mmiri pọmpụ",
+    "Ngwá ọrụ na ndị ọrụ",
+    "Ihe Ndị Na - enye Aka n'Ahụ́"
+  ],
+  "management": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Mkpụrụ akụ́kụ́ na - eguzogide ma ọ bụ na - akwado òtù nzuzo",
+    "Ihe ọkụkụ ndị nwere nje ndị na - akpata ọrịa na iberibe ihe ọkụkụ dị iche iche",
+    "Na - atụgharị uche n'ihe ọkụkụ ndị na-enweghị ihe a kụrụ n'ubi na nke ndị na-achaghị ama maka oge dị puku ụbọchị abụọ na narị atọ na iri atọ na atọ",
+    "Ọ̀tụ̀tụ̀ mkpụrụ akụ́kụ́ ndị na - amị mkpụrụ ga - eme ka ikuku na - erugharị nke ọma ma belata ọ̀tụ̀tụ̀ okpomọkụ nke mmiri ọgwụ ahụ́",
+    "Zere ịgba ala mmiri n'elu mmiri na ịrụ ọrụ mgbe ihe ọkụkụ dị mmiri mmiri"
+  ],
+  "biological_control": [
+    "Ihe dị ka mmadụ iri asaa na abụọ n'ime mmadụ iri ọ bụla na - agbasi mbọ ike tupu ha alụọ di ma ọ bụ nwunye.",
+    "Mkpụrụ ndụ ihe nketa: usoro njikọ nke ihe ndị dị ndụ na gburugburu ebe obibi na gburugburu ebe obibi",
+    "Ihe ndị a na - esi na ha enweta ihe oriri: ịnyịnya na - esi ísì ụtọ, galik ma ọ bụ ihe ndị a na - esi ísì ọma bụ́ ndị na - eme ka ezé ghara ito ngwa ngwa",
+    "Na - eme mgbanwe n'elu akwụkwọ osisi ndị nwere ihe ndị na - eme ka ha ghara ito ngwa ngwa"
+  ],
+  "chemical_control": [
+    "Drinananala (Score) na 0.2 L /ha",
+    "Mee ihe n'isi ụtụtụ ma ọ bụ ná mgbede",
+    "Mee ka ndị mmadụ mara banyere ya n'ụzọ kwesịrị ekwesị, tinye uche ha n'awa 2",
+    "Ruo n'ókè kwesịrị ekwesị, ị ga - eji otu oge ma ọ bụ ihe ndị ọzọ na - atọ ọchị mee ihe n'ụzọ gabigara ókè",
+    "Na-ezipụta ịdọ aka ná ntị maka nchebe (ndị na-enweghị isi, ma ọ bụ ndị a na-akpọ, lulus) nakwa tupuu"
+  ],
+  "prevention": [
+    "Jiri mkpụrụ akụ́kụ́ ndị a na - adịghị ahụ anya, nke na-enweghị nsogbu",
+    "Wepụ ihe ubi ndị ọrụ afọ ofufo na iberibe ihe ọkụkụ",
+    "Zere akụ́kụ́ ndị na - emebi emebi",
+    "Nọgide na - edebe ihe ọcha n'ụzọ dị mma n'ubi ma na - ekesa ikuku",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - enwe mkpụrụ akụ́kụ́, mkpụrụ akụ́kụ́, ma ọ bụ mkpụrụ akụ́kụ́ dị iche iche"
+  ],
+  "source": [
+    "Ihe Ọmụma Amamihe Dị na Ya Maka Ihe Ọmụma Banyere Ụlọ Akụ̀ A Na - enweta n'Ụlọ Akụ̀ Na - adịghị Ama nke Dị n'Ime Mmiri, Myraa A.Mezila, CBI",
+    "Sherrrobla al., 1994, ọkà n'ihe ọmụmụ banyere akparamàgwà mmadụ nke aha ya bụ Mycal History",
+    "Ebe Ọrụ Ugbo, Nri na Gburugburu Ebe Obibi",
+    "French ebe e si enweta akara ugo mmụta banyere ihe ndị dị ndụ bụ́ nke dị n'ime ala"
+  ]
+}

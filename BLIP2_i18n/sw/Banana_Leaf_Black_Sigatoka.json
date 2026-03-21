@@ -1,105 +1,105 @@
 {
-  "disease_name": "Banana Leaf Black Sigatoka",
+  "disease_name": "Ndizi Sigatoka",
   "common_name": "Black Sigatoka",
   "other_names": [
-    "Black leaf streak",
+    "Sehemu ya juu ya jani lenye majani meusi",
     "BLS"
   ],
   "pathogen": {
-    "type": "Fungus",
-    "scientific_name": "Pseudocercospora fijiensis"
+    "type": "Kuvu",
+    "scientific_name": "Pseudocercospora ficiensis"
   },
   "host_plant": {
-    "common_name": "Banana",
-    "scientific_name": "Musa spp."
+    "common_name": "Ndizi",
+    "scientific_name": "Musa aomba msaada."
   },
   "affected_parts": [
-    "Leaves"
+    "Majani"
   ],
   "symptoms": {
     "early_stage": [
-      "Tiny reddish or rusty-brown flecks on the underside of banana leaves",
-      "Small streaks parallel to leaf veins"
+      "Matabaka madogo - madogo mekundu au yenye kutu kwenye sehemu ya chini ya majani ya ndizi",
+      "Nyoo ndogo zilizo sambamba na vena za majani"
     ],
     "intermediate_stage": [
-      "Streaks elongate and darken into reddish-brown or black lines",
-      "Lesions become visible on both sides of the leaf"
+      "Streak hurefuka na kuwa nyeusi katika mistari ya rangi nyekundu - nyekundu au nyeusi",
+      "Tezi huonekana pande zote mbili za jani"
     ],
     "advanced_stage": [
-      "Oval-shaped lesions with grey centers",
-      "Yellow halos surrounding lesions",
-      "Large necrotic areas causing leaf death"
+      "Visuko vilivyochakaa vyenye vitovu vya rangi ya kijivu",
+      "Pete za manjano zinazozunguka vidonda",
+      "Sehemu kubwa za necrotic zinazosababisha vifo vya majani"
     ]
   },
   "disease_cycle": {
     "spores": [
-      "Conidia",
-      "Ascospores"
+      "Conidaa",
+      "Ascosspores"
     ],
     "spread_mechanism": [
-      "Wind",
-      "Rain splash",
-      "Air currents"
+      "Upepo",
+      "Maji ya mvua",
+      "Mikondo ya hewa"
     ],
     "favorable_conditions": [
-      "High humidity",
-      "Frequent rainfall",
-      "Warm tropical climate"
+      "Unyevu mwingi",
+      "Mvua ya mara nyingi",
+      "Hali - joto ya kitropiki"
     ],
     "infection_time_days": 27
   },
   "impact": {
-    "yield_loss_percent": "30-50%",
+    "yield_loss_percent": "Asilimia 30 hadi 50",
     "effects": [
-      "Leaf death",
-      "Reduced fruit size",
-      "Reduced fruit quality",
-      "Premature and uneven fruit ripening"
+      "Janga la majani linakufa",
+      "Ukubwa wa matunda uliopunguzwa",
+      "Ubora wa matunda ulipunguzwa",
+      "Matunda yasiyokomaa na yasiyo laini yakiiva"
     ]
   },
   "distribution": [
-    "Southeast Asia",
+    "Kusini - Mashariki mwa Asia",
     "India",
     "China",
-    "Pacific Islands",
-    "East Africa",
-    "West Africa",
-    "Central America",
-    "South America",
-    "Caribbean",
+    "Visiwa vya Pasifiki",
+    "Afrika Mashariki",
+    "Afrika Magharibi",
+    "Amerika ya Kati",
+    "Amerika Kusini",
+    "Karibea",
     "Papua New Guinea",
     "Hawaii (USA)"
   ],
   "similar_diseases": [
     "Yellow Sigatoka (Pseudocercospora musae)",
-    "Eumusae leaf spot (Pseudocercospora eumusae)"
+    "Sehemu ya majani ya Emussae (Pseudocercospora emussae)"
   ],
   "management": {
     "cultural_control": [
-      "Removal of infected leaves",
-      "Improving field drainage",
-      "Reducing humidity around plants",
-      "Planting resistant banana varieties"
+      "Kuondoa majani yaliyoambukizwa",
+      "Kuboresha uondoaji wa maji shambani",
+      "Kupunguza unyevu wa unyevu kwenye mimea",
+      "Kupanda ndizi za namna mbalimbali zisizoweza kukinza"
     ],
     "chemical_control": [
-      "Triazole fungicides",
-      "Demethylation inhibitor fungicides",
-      "Methyl benzimidazole carbamates (MBC)"
+      "Dawa za kuua kuvu za Triazole",
+      "Vizuiaji vya kuvu",
+      "Methyl benzimedazole carbaet (MBC)"
     ],
     "biological_or_genetic_control": [
-      "Breeding resistant banana cultivars",
-      "Genetically modified resistant banana varieties"
+      "Wenyeji wa madhehebu sugu ya ndizi",
+      "Aina za ndizi zilizobadilishwa maumbile"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected plant material",
-    "Transport of banana leaves used for food packaging",
-    "Contaminated equipment or packaging materials"
+    "Mabadiliko makubwa ya mimea iliyoambukizwa",
+    "Upelekaji wa majani ya ndizi yanayotumiwa kupakia chakula",
+    "Vifaa vilivyochafuliwa"
   ],
   "references": [
-    "Biosecurity Queensland – Black Sigatoka pest profile",
-    "FAO Banana disease reports",
-    "Cook et al., 2013. Crop Protection Journal",
-    "Pattison, 2014. Australian Bananas"
+    "Wadudu aina ya Bio Sigaka wa jamii ya wadudu",
+    "Ugonjwa wa ndizi wa FAO laripoti",
+    "Cook et al., 2013. Butterting Protection Journal",
+    "Migomba ya Australia, 2014"
   ]
 }

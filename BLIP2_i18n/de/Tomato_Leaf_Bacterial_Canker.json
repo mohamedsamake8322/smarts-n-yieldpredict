@@ -1,0 +1,70 @@
+{
+  "disease_name": "Tomaten-Blatt-Bacterial Canker",
+  "type": "bakterielle Erkrankung",
+  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Aubergine (Solanum melongena L.)",
+      "Pfeffer (Capsicum spp.)",
+      "Nachtschatten (Solanum spp.)"
+    ]
+  },
+  "distribution": "Weltweit; häufig in Gewächshaus- und Feld-Anbautomaten",
+  "symptoms": {
+    "leaves": [
+      "Ältere Blätter entwickeln braune, verbrannte Ränder, die nach oben und nach innen rollen",
+      "Unterschiedliche Grenze zwischen braunem und grünem Gewebe, oft mit einer dünnen gelben Linie",
+      "Systemische Infektionen können Blattwelken und Brennen verursachen (Braunen und Kollaps)"
+    ],
+    "stems": [
+      "Lichtstreifen entwickeln, dass dunkel und gespalten bilden flache Cankers",
+      "Gefäßgewebe verfärbt gelb bis bräunen, Pith kann rötlich-braun und mehlig oder hohl werden",
+      "Zweige können bei fortgeschrittenen Infektionen leicht abbrechen"
+    ],
+    "fruit": [
+      "Aufgezogene weiße Blisterpackungen auf grünen oder roten Früchten („Vogelaugenflecken\"), Durchmesser: 1/16–1/8 Zoll (3–4 mm)",
+      "Früchte in der Nähe von Kelch können braune Samen aufgrund von Gefäßinvasion haben"
+    ],
+    "seedlings": [
+      "Schlechtes Wachstum, vorübergehendes Verwelken, untere Blätter gelb und shrivel",
+      "Symptome treten oft bei der Blüte oder später auf"
+    ]
+  },
+  "disease_cycle": [
+    "Eingeführt durch infiziertes Saatgut oder Transplantationen",
+    "Survives in befallenen Pflanzenresten für bis zu 3 Jahre; kann auf kontaminierten Bänken, Pflöcken und Unkrautwirten überleben",
+    "Verbreitung durch Windregen, Sprinklerbewässerung, mechanischer Anbau und Handhabung",
+    "Bakterien treten durch Wunden, gebrochene Trichome oder Blattschnitte in Sämlinge ein und bewegen sich dann systemisch durch Xylem"
+  ],
+  "management": {
+    "prevention": [
+      "Verwendung von krankheitsfreien Samen und Transplantationen; zertifiziertes Saatgut empfohlen",
+      "Samen in 130°F Wasser 25 Minuten einweichen, um die Kontamination zu reduzieren",
+      "Steam oder desinfizieren Gewächshauswohnungen, Bänke und Topfmittel",
+      "Ernten aus Tomaten für mindestens eine Saison rotieren"
+    ],
+    "cultural": [
+      "Einschließlich Pflanzenmüll gründlich am Saisonende",
+      "Kontrollieren Sie Nachtschatten Unkraut, das Bakterien beherbergen kann",
+      "Vermeiden Sie das Arbeiten in Feldern, wenn das Laub nass ist",
+      "Minimieren Sie die Overhead-Bewässerung und behandeln Sie Pflanzen sorgfältig, um die Wunde zu reduzieren"
+    ],
+    "chemical": [
+      "Kupferbakterizide können die Ausbreitung unter nassen Bedingungen verringern, aber systemische Infektionen nicht kontrollieren.",
+      "Desinfizieren Sie Werkzeuge und Oberflächen mit 0,5–1% Calcium- oder Natriumhypochlorit oder kommerziellen Desinfektionsmitteln wie Physan"
+    ]
+  },
+  "notes": [
+    "Wirtschaftliche Verluste sind in der Regel geringfügig in direkt angesäten Feldern, es sei denn, die nassen Bedingungen begünstigen sekundäre Verbreitung",
+    "Gewächshaustransplantationen sind anfälliger; Wachsamkeit bei der Abwasserentsorgung ist von entscheidender Bedeutung",
+    "Selbst ein paar infizierte Samen können zu hohen Mengen an infizierten Transplantationen führen"
+  ],
+  "references": [
+    "Jones, J.B., et al. 2014. Kompendium von Tomatenkrankheiten und Schädlingen, 2. Auflage. APS Press.",
+    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bakterial Canker.",
+    "Schaad, N.W., et al. 2001. Bakterielle Cankers of Tomato. Pflanzengesundheit Fortschritt."
+  ]
+}

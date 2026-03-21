@@ -1,0 +1,69 @@
+{
+  "disease": "Fusarium Kopflampe",
+  "scientific_name": "Fusarium graminearum (Hauptart)",
+  "pathogen_type": "Pilze",
+  "description": "Eine schwere Pilzkrankheit von Getreidepflanzen, die die Köpfe von Pflanzen wie Weizen und Gerste infiziert. Es reduziert Getreideertrag und Qualität und kann eine giftige Verbindung (Mykotoxin) im Getreide produzieren.",
+  "symptoms": [
+    "Vorzeitiges Bleichen von Getreideköpfen",
+    "Ein oder mehrere Spikelets werden weiß, während der Rest grün bleibt",
+    "Rosa- oder orangefarbene Pilzsporen an der Basis von Glühen",
+    "Whitish oder rosa flauschiges Pilzwachstum auf infizierten Köpfen bei nassem Wetter",
+    "geschälte, leichte und gebleichte Kerne (Tombstone-Kerne)"
+  ],
+  "hosts": [
+    "Weizen",
+    "Hartweizen",
+    "Gerste",
+    "Hafer",
+    "Mais",
+    "Roggen",
+    "Wilde und kultivierte Gräser"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen um 25°C",
+    "Hohe Luftfeuchtigkeit oder kontinuierliche Feuchtigkeit für 36 Stunden",
+    "Regen während der Blütephase",
+    "Vorhandensein infizierter pflanzlicher Rückstände im Feld"
+  ],
+  "spread": [
+    "Windgetragene Sporen aus infizierten Rückständen",
+    "Regenspritzer, der Sporen zwischen Pflanzen ausbreitet",
+    "Pflanzung infizierter Samen",
+    "Verbringung von kontaminierten Pflanzenrückständen oder Getreide"
+  ],
+  "management": [
+    "Verwendung resistenter oder toleranter Getreidesorten",
+    "Pflanzen rotieren und vermeiden, Getreide nach Mais zu pflanzen",
+    "Saubere zertifizierte Samen verwenden",
+    "Saatgutbehandlung vor der Pflanzung anwenden",
+    "Pfadfinderfelder während der Blüte für Symptome",
+    "Frühe Ernte, wenn das Infektionsrisiko hoch ist",
+    "Trockenes und kohlensäurehaltiges Getreide während der Lagerung"
+  ],
+  "biological_control": [
+    "Trichoderma-Arten, die als biologische Antagonisten in der Boden- oder Saatgutbehandlung verwendet werden",
+    "Benefitielle Mikroben zur Unterdrückung von Fusarium in pflanzlichen Rückständen"
+  ],
+  "chemical_control": [
+    "Triazol-Fungizide (z. B. Tebuconazol, Prothioconazol, Metconazol) während der Blüte anwenden",
+    "Verwendung registrierter Fungizide gemäß lokalen landwirtschaftlichen Empfehlungen"
+  ],
+  "prevention": [
+    "Rotieren von Kulturen für mindestens 2 Jahre mit Nicht-Gaskulturen",
+    "Ernterückstände durch Bodenbearbeitung oder Zersetzung verwalten",
+    "Vermeiden Sie hoch empfindliche Sorten",
+    "Verwenden Sie richtige Bewässerungsmanagement während der Blüte",
+    "Separate und Test verunreinigtes Getreide vor der Fütterung"
+  ],
+  "impact": [
+    "Reduzierter Getreideertrag und Qualität",
+    "Herstellung von Mykotoxin Deoxynivalenol (DON)",
+    "Kontaminiertes Getreide wirkt sich auf die Lebensmittelverarbeitung, die Mälzerei und die Herstellung von Biokraftstoffen aus",
+    "Hohe DON-Werte reduzieren Futteraufnahme und Immunität bei Nutztieren"
+  ],
+  "source": [
+    "Alberta Agriculture – Fusarium Head Blight",
+    "Kanadische Getreidekommission",
+    "Literatur zur Pflanzenpathologie über Getreidekrankheiten"
+  ]
+}

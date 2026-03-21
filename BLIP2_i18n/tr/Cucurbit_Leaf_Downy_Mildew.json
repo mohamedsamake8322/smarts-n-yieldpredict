@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "Cucurbit Downy Mildew Hakkında",
+  "scientific_name": "Pseudoperonospora kubensis",
+  "pathogen_type": "Oomycete (fungus benzeri patogen)",
+  "description": "Dünya çapında cucurbit bitkileri etkileyen yıkıcı bir folya hastalığıdır. sarı yaprak hasarlarına ve hızlı yaprak ölümüne neden olur, bitki büyümesini ve meyve verimini azaltır. şiddetli patlamalar büyük bitki kayıplarına neden olabilir.",
+  "symptoms": [
+    "Yapraklarda sarı veya klorotik lekeler",
+    "Yaprak damarları ile sınırlı hasarlar (özellikle kumlarda)",
+    "Gray to purple fuzzy büyüme yaprakların alt kısmında",
+    "Yaralanmalar büyür ve kahverengi veya nekrotik hale gelir.",
+    "Kuru bırakın ve hızlı ölün",
+    "Güneş yanığı ve meyve hasarına yol açan düşük kanopi"
+  ],
+  "hosts": [
+    "Çanakkale",
+    "Melon",
+    "su melonları",
+    "Pompalı",
+    "Squash Hakkında",
+    "Diğer kuyruk türleri"
+  ],
+  "favorable_conditions": [
+    "Soğuk ve ıslak sıcaklıklar (15-20°C optimal)",
+    "Yüksek nem",
+    "Sık sık yağmur ya da uzun yaprak ıslaklığı",
+    "Düşük hava akışı ile kalın bitki kanopi"
+  ],
+  "spread": [
+    "rüzgârlı sporangia",
+    "yağmur splash",
+    "kirlenmiş araçlar veya ekipmanlar",
+    "Uzun mesafeli havalimanı enfekte bölgelerden yayıldı"
+  ],
+  "infection_process": [
+    "ıslak yaprak yüzeyleri üzerinde toprak izleri",
+    "Zoospores Stomata için Yüzme",
+    "Patogen, mide yoluyla yaprak içine girer",
+    "Hyphae yaprak dokusu içinde büyür ve besin maddelerini çıkarır"
+  ],
+  "management": [
+    "Mevcut olduğunda toleranslı veya dayanıklı bitkiler kullanın.",
+    "Hava akışının iyileştirilmesi, bitki yalıtımı ve pruning yoluyla",
+    "Erken semptomlar için düzenli olarak tahılları izlemek",
+    "Patlamaları tahmin etmek için tahmin sistemleri kullanın",
+    "Ağır derecede enfekte bitki malzemelerinin kaldırılması"
+  ],
+  "biological_control": [
+    "Bacillus tabanlı ürünler gibi mikrobiyal biyopesticidler kullanın",
+    "Sağlıklı toprak mikrobojisini teşvik etmek hastalık basıncını azaltmak için"
+  ],
+  "chemical_control": [
+    "Yüksek riskli dönemlerde önleyici fungicid spreyler",
+    "Mantarlar için her 5-7 günde bir veya diğer mantarlar için 7-10 günde bir mantarlar uygulayın.",
+    "Direnci önlemek için farklı eylem yöntemleri ile döner fungicidler",
+    "Aktif bileşenler metalaxil alternatifleri, strobilurinler veya diğer kayıtlı fungicidler içerebilir."
+  ],
+  "prevention": [
+    "Kullanılabilir olduğunda bitki direnci yetiştiricileri",
+    "Topraklarda iyi hava dolaşımının sağlanması",
+    "Uzun süreli yaprak ıslaklığından kaçının",
+    "Fungicide sprey zaman için hastalık tahmin araçları kullanın"
+  ],
+  "impact": [
+    "Şiddetli patlamalarda %80-100'e kadar kazanç kaybına neden olabilir.",
+    "Üretimi küresel düzeyde çökme tehdidi"
+  ],
+  "source": [
+    "Michigan Devlet Üniversitesi Bitki Patolojisi",
+    "Savory et al. - Moleküler Bitki Patolojisi",
+    "Cucurbit Downy Mildew IPM Kaynakları"
+  ]
 }

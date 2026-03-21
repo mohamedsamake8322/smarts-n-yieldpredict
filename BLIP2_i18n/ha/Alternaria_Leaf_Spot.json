@@ -1,71 +1,71 @@
 {
-  "disease_name": "Alternaria_Leaf_Spot",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
+  "disease_name": "K_ar ka Goge",
+  "pathogen_type": "MASU SHELA",
+  "genus": "Indian National weekday 3 - LongDayName",
   "common_species": [
-    "Alternaria solani",
-    "Alternaria alternata",
-    "Alternaria brassicae",
-    "Alternaria brassicicola",
-    "Alternaria melongenae"
+    "Indian National weekday 3 - LongDayName",
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Ta ce: \"Yã kũ mashawarta!"
   ],
   "affected_crops": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Lettuce",
-    "Brassica crops (cabbage, broccoli, mustard)",
-    "Pomegranate",
-    "Many ornamental and wild plants"
+    "QShortcut",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - LongName",
+    "Farã mai dãɗi ga mashãyan.",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan."
   ],
   "symptoms": [
-    "Small brown to black spots on leaves",
-    "Spots often have concentric rings forming a 'target-like' pattern",
-    "Yellow halo around lesions",
-    "Lesions enlarge and may merge together",
-    "Leaf yellowing and premature leaf drop",
-    "Severe infections can reduce plant growth and yield"
+    "KCharselect unicode block name",
+    "Sau da yawa ' yan sukan kafa misali mai kyau na yin kama da na'ura mai kama da na'ura",
+    "Za ku iya samun labarin batsa a ko'ina a duniya",
+    "Za a iya samun ci gaba tare kuma za a iya haɗa su",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Abubuwa da yawa za su iya rage girma kuma su ba da haɗin kai"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity or prolonged leaf wetness",
-    "Frequent rain or overhead irrigation",
-    "Presence of infected plant debris"
+    "KCharselect unicode block name",
+    "Raɓa ko kayan lambu da muke da su da daɗewa",
+    "Media controller element",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
   ],
   "disease_cycle": [
-    "The fungus survives in infected crop residues, seeds, and weeds",
-    "Spores are produced on infected tissues",
-    "Spores spread through wind, rain splash, irrigation water, and tools",
-    "Infection occurs when spores land on wet leaves",
-    "Multiple infection cycles can occur during a growing season"
+    "Waɗanda suke yin dariya suna tsira sa'ad da suka gasa da iri da kuma ciyayi",
+    "Ana shuka ƙwayoyin cuta a kan ƙwayoyin cuta",
+    "Masu yaɗa labarai suna yaɗa labarai ta iska, ruwan sama, ruwa, ruwa mai sanyi, da kuma kayan aiki",
+    "Idan muka bar ƙasar da ke kusa da teku, hakan zai faru sa'ad da muka bar ƙasar da ke kusa da teku",
+    "Ana iya yin amfani da na'ura a lokacin da ake girma"
   ],
   "monitoring": [
-    "Inspect leaves regularly for brown or black spots",
-    "Look for concentric ring patterns on lesions",
-    "Monitor humidity and temperature conditions favorable to the disease"
+    "KCharselect unicode block name",
+    "Ka Nemi hanyoyin da Za Ka Iya Yin Amfani da Shi a Kan Abubuwan da Suka Dace",
+    "A wasu lokatai, yanayin yana da kyau sosai kuma yanayin ya yi daidai da cutar."
   ],
   "management": {
     "cultural": [
-      "Use certified disease-free seeds and planting materials",
-      "Practice crop rotation with non-host crops",
-      "Remove and destroy infected plant debris after harvest",
-      "Improve air circulation by proper plant spacing and pruning",
-      "Avoid overhead irrigation when possible"
+      "An yi amfani da ƙwayoyin cuta da kuma kayan aiki",
+      "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+      "Sa'an nan Ya daidaita ta (azãbar ga mai laifi da ruɓaɓɓen jini).",
+      "Media controller element",
+      "Ka guji yawan magana sa'ad da ya yiwu"
     ],
     "chemical": [
-      "Apply protective fungicides such as Mancozeb",
-      "Use Chlorothalonil-based fungicides",
-      "Copper-based fungicides can help reduce disease spread",
-      "Rotate fungicides with different FRAC groups to avoid resistance"
+      "Za a iya samun kāriya ta wajen yin amfani da ita a hanyar da ba ta dace ba kamar ' yan Adam",
+      "Ka Yi Amfani da Shikakakakakan da Kyau",
+      "Cin hanci da rashawa zai iya taimaka wajen rage cuta da aka samu",
+      "Ka yi magana a kan wasu ƙananan rukunoni dabam dabam don ka guje wa yin tsayayya"
     ],
     "biological": [
-      "Use biological control agents such as Bacillus subtilis formulations",
-      "Encourage beneficial microorganisms that suppress fungal pathogens"
+      "Ka Yi Amfani da Masu Iko Kamar Al'ada",
+      "Ta'aziyya tana da amfani sosai a hanyar da ba ta dace ba kuma tana hana yin ba'a a hanyar da ba ta dace ba"
     ]
   },
   "impact": {
-    "crop_loss": "Moderate to severe depending on environmental conditions and crop susceptibility",
-    "economic_importance": "Common disease in many vegetable crops worldwide that can significantly reduce yield and quality"
+    "crop_loss": "Mai da hankali sosai ga yanayin duniya da kuma tattalin arziki",
+    "economic_importance": "Rashin lafiya a ƙasashe masu yawa a dukan duniya da za su iya rage sauƙin hali da kuma hali"
   }
 }

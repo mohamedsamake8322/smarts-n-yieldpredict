@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
-  "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "disease": "قطعة ورقية",
+  "scientific_name": "اللمنيات (Altenrian dos",
+  "pathogen_type": "المنقوس",
+  "description": "بقع ورق الألترناريا هي مرض فطري يؤثر بشكل رئيسي على أوراق الجزر، يبدأ من أوراق الأوراق القديمة وينتج بقع مظلمة مع هوامش صفراء. وفي حالات العدوى الحادة تتحول الأوراق إلى سواد، يجف، ويموت، مما يتسبب في خسارة كبيرة في الغلة.",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "مُظلم إلى مُسْطَرْس",
+    "بواكس مع a أصفر",
+    "تظهر البق البؤ أولاً على الأوراق القديمة",
+    "البُقع المندمجة والتشكّل مناطق ميتة كبيرة",
+    "الأوراق تصبح سوداء، جافة، مُعْلِقة",
+    "الأسباب المسببة للورق وإضعاف النبتة",
+    "قد تموت الشتلات من الجفاف"
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "بقع سوداء أو سوداء",
+    "الهالون الأصفر حول",
+    "اسود اسود"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "أولاً -",
+    "",
+    "شتلات"
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
-    "parsley",
-    "dill",
-    "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "(يتبع)",
+    "2 - الطور",
+    "مقرر",
+    "(قِلْل",
+    "ما قبل نِسَنيب",
+    "جزرية برية",
+    "المحاصيل الأخرى الأخرى"
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "Apaceay",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "",
+    "(يحدث هطولاً)",
+    "الرطوبة العالية",
+    "المك",
+    "لفترات طويلة من عمر الورقة"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "مُصْرِز",
+    "رابعاً - مقدمـة",
+    "(ب) مستخلصات محدثة في التربة",
+    "بواغســر التــي نشرتهــا الرياح"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    "معالجة البذور بالماء الساخن (50 درجة مئوية لمدة 25-30 دقيقة)",
+    ":: تجنب الغرس للحد من الرطوبة",
+    "أزيل الحطان المُصاب بعد الحصاد",
+    "محاصيل الدوران لما لا يقل عن 3 سنوات",
+    ":: تزرع أنواعاً متسامحة من الجزر"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "المبيدات البيولوجية",
+    "Bacylus Subtilis"
   ],
-
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Copper fungicides",
-    "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "ما يُنكس(ب)",
+    "كلوروثاثالونونيل",
+    "",
+    "أَبْرَأْتُ",
+    "مبيدات مبيدات الأجيورين",
+    "تريازول مبيدات"
   ],
-
   "seed_treatment": [
-    "Thiram",
-    "Captan"
+    "الطور",
+    "المُرْكَبْن"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "بقعـة مـن ورقـة السـرة (Cercospora carotae)"
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "لون داكن إلى أسود مع أحرف صفر",
+    "Cercospora_leaf_spot": "(أ) أو (ب)"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "الوفاة الناجمة عن الجزر",
+    "مُقْرَض",
+    "خسائر في العوائد خلال موسم الأمطار"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "مجموعة حماية المُنتَجَب",
+    "- أمراض المحاصيل النباتية في أستراليا",
+    "جامعة ماساتس",
+    "إدارة الصناعات الأولية والتنمية الإقليمية"
   ]
 }

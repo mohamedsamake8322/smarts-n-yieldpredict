@@ -1,0 +1,122 @@
+{
+  "disease_name": "የ Banana Bunchy ፎቶዎች",
+  "dataset_label": "የፓንካን_አልስ_Bunchy_Top_Virus",
+  "pathogen": {
+    "type": "የቪዲዮዎች",
+    "name": "የ Banana Bunchy Top Virus የተመሠረተ",
+    "abbreviation": "የ BBTV",
+    "family": "የኦሪጂናል",
+    "genus": "የ Babuvirus",
+    "genome": "የካርካል አንድ ገጽን የ DNA (ssDNA)"
+  },
+  "host_plant": {
+    "primary_host": "የፓናን (Musa spp.)",
+    "other_hosts": [
+      "መሣሪያዎች",
+      "መጋቢት"
+    ],
+    "vector_alternate_hosts": [
+      "ፎቶዎች",
+      "የሙቀት የሙቀት (Zingiberaceae)"
+    ]
+  },
+  "affected_parts": [
+    "መለያዎች",
+    "የ Phloem መሳሪያዎች",
+    "ምርቶች",
+    "ሁሉም ምርቶች ልማት"
+  ],
+  "vector": {
+    "type": "መሳሪያዎች",
+    "name": "የፓንካል Aphid",
+    "scientific_name": "Pentalonia nigronervosa ፎቶዎች",
+    "transmission_type": "የኃይል አቅርቦት የኃይል አቅርቦት"
+  },
+  "symptoms": {
+    "early_stage": [
+      "ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር",
+      "ቀጣይ እና ቀጣይ ፎቶዎች",
+      "የ Morse ኮድ ፎቶዎች ላይ ይሰጣል"
+    ],
+    "intermediate_stage": [
+      "ፎቶዎች ተስማሚ እና ተስማሚ ነው",
+      "ፎቶዎች ፎቶዎች ፎቶዎች ፎቶዎች",
+      "ዝቅተኛ መጠን"
+    ],
+    "advanced_stage": [
+      "የፕላስቲክ ላይ Bunchy ልምድ",
+      "የኃይል መሣሪያዎች",
+      "የፈጠራ ወይም የፈጠራ ምርቶች"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Aphid ምግብ ላይ phloem መሳሪያዎች",
+      "የሞክሮ መሳሪያዎች መሳሪያዎች",
+      "መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች"
+    ],
+    "vector_acquisition_time_hours": 18,
+    "vector_retention_time_days": 14,
+    "minimum_transmission_time_minutes": 15,
+    "symptom_development_time_days": 30
+  },
+  "impact": {
+    "severity": "በጣም ከፍተኛ",
+    "effects": [
+      "የኃይል መሣሪያዎች",
+      "አነስተኛ ወይም አነስተኛ ምርት",
+      "የፓንካን ዱቄት",
+      "የንግድ ፍጥነት የፓንካን ምርት ውስጥ"
+    ]
+  },
+  "distribution": [
+    "የአውሮፓ",
+    "ፎቶዎች",
+    "ቻይና",
+    "ቻይና",
+    "ቻይና",
+    "የአውሮፓ",
+    "የኦሪጂናል",
+    "የፓይክቲክ አውሮፕላን",
+    "የአውሮፓ",
+    "አፍሪካ"
+  ],
+  "similar_diseases_or_confusions": [
+    "የፓንካን ቫይሮስ",
+    "የፓንካን mozaic virus",
+    "የኃይል አነስተኛ መጠን Chlorosis ይሆናል"
+  ],
+  "management": {
+    "cultural_control": [
+      "የቪሮስ-free መሣሪያ መሣሪያዎች",
+      "የሽያጭ እና የሽያጭ (የሽያጭ)",
+      "የሞክሮ መሳሪያዎች መሳሪያዎች መክፈል"
+    ],
+    "vector_control": [
+      "መቆጣጠሪያ bananas aphid populations",
+      "እንደ Imidacloprid ወይም Carbaryl እንደ መሳሪያዎች መጠቀም",
+      "የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል"
+    ],
+    "preventive_measures": [
+      "የካርንቲን መስፈርቶች",
+      "የፕላስቲክ ቁሳቁሶች መቆጣጠሪያ",
+      "ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ"
+    ],
+    "research_directions": [
+      "የቢዮፕሪሚንግ በሽያጭ ባክቴሪያዎች",
+      "የላቀ የላቀ የላቀ የላቀ የላቀ የላቀ የላቀ የላቀ"
+    ]
+  },
+  "spread_risk_factors": [
+    "የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ የሞክሮ",
+    "የፕላስቲክ ፓላስቲክ ፓላስቲክ ፓላስቲክ",
+    "ጥቁር የንግድ የንግድ የንግድ መሣሪያዎች"
+  ],
+  "references": [
+    "የ FAO ሮፕላኖች ሮፕላኖች ሮፕላን ሮፕላኖች",
+    "የ ICTV Virus Taxonomy ማረጋገጫ",
+    "የፕላስቲክ የፕላስቲክ የፕላስቲክ",
+    "የአውሮፓ ዩኒቨርሲቲ የፕላስቲክ መሳሪያዎች",
+    "ደንበኞች ደንበኞች ደንበኞች ደንበኞች"
+  ]
+}

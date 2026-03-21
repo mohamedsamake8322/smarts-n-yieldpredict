@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
-  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
-  "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "disease": "Bean Bakteriyel Blight",
+  "scientific_name": "Xanthomonas axonopodis pv.",
+  "pathogen_type": "Bakteriler",
+  "description": "Bakteriyel mantar, yaprakları, çamurları ve gövdeleri etkileyen yaygın bir bakteriyel hastalıktır. bakteriler doğal açılımlar veya yaralar aracılığıyla bitkileri bulaştırır ve sıcak ve nemli koşullarda hızlı bir şekilde yayılır. şiddetli enfeksiyonlar fotosentezi ve üretimi azaltır.",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "Küçük su aralığı yapraklar üzerinde",
+    "Sarı veya karanlık haloz hasarları",
+    "Yapraklardaki büyük düzensiz ölü alanlar",
+    "Yumuşatma veya kurutma",
+    "Suyun üstünde yerleşim yerleri",
+    "Potlar kahverengi, kırpılmış veya bozulmuş olur"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
-    "soybean",
-    "other Phaseolus species"
+    "Ortak Bean",
+    "Böbrek Bean",
+    "Pinto Bean Hakkında",
+    "Siyah Bean",
+    "Denizli Bean",
+    "5 Bean",
+    "Snap Bean Hakkında",
+    "Soya",
+    "Diğer Phaseolus türleri"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "Sıcak sıcaklıklar (25-30°C)",
+    "Yüksek nem",
+    "sıklıkla yağış",
+    "Yüzey Irrigation",
+    "Tohum Tohum Tohum"
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "Enfekte tohumlar",
+    "yağmur splash",
+    "rüzgârlı yağmur",
+    "kirlenmiş araçlar",
+    "ıslak bitkiler arasındaki iletişim"
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Enfekte bitki kalıntılarının kaldırılması",
+    "Aşırı sulama önlemek",
+    "Rotat bitkileri 2-3 yıl boyunca",
+    "alan havalandırma geliştirme"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "Bacillus subtilis bazlı biopesticidler",
+    "Pseudomonas fluorescens biyolojik tedaviler",
+    "tolerant bean çeşitlerinde bitki direnci"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "bakır hidroksit",
+    "bakır oksiklorid",
+    "bakır sülfat",
+    "bakır tabanlı bakteriler"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "mevcut olduğunda bitki dayanıklı çeşitleri",
+    "Temiz tohumları kullanın",
+    "ıslak alanlarda çalışmaktan kaçının",
+    "Disinfektörler",
+    "İyi alan sanitasyonu sağlamak"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
-    "University plant pathology extension publications"
+    "CABI Bitki Koruma Ödülü",
+    "FAO Bitki Hastalıkları Yönetimi Kılavuzu",
+    "Üniversite Bitki Patolojisi Genişletme Yayınları"
   ]
 }

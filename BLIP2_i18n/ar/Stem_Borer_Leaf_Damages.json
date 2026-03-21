@@ -1,38 +1,38 @@
 {
-  "pest_name": "Stem Borer Leaf Damages",
-  "pest_type": "insect",
-  "description": "Stem borers are insect pests whose larvae feed on plant stems and leaves. They are common in cereal crops such as maize, rice and sorghum. Larvae bore into stems and cause internal damage that reduces plant growth and productivity.",
+  "pest_name": "شركة Stem Borer Leaf",
+  "pest_type": "الزراعـة",
+  "description": "وتنتشر هذه الآفات في محاصيل الحبوب مثل الذرة والأرز والسرغوم، وتتحول اليرقات إلى جذوع وتتسبب في أضرار داخلية تحد من نمو وإنتاجية النباتات.",
   "affected_parts": [
-    "Leaf",
-    "Stem"
+    "",
+    "ستيم"
   ],
   "hosts": [
-    "Maize",
-    "Rice",
-    "Sugarcane",
-    "Sorghum"
+    "",
+    "",
+    "",
+    "سُرْج هوجم"
   ],
   "symptoms": [
-    "Leaf holes and feeding marks",
-    "Dead heart symptom in young plants",
-    "Stem tunneling",
-    "Reduced plant growth"
+    "الثقف وعلامات التغذية",
+    "القلب المُوَجِّه في النبتات الصغيرة",
+    "- - - - - - - - - - - - - - - - - - - - -",
+    ""
   ],
   "spread": [
-    "Adult insects laying eggs on plant leaves",
-    "Larvae moving into plant stems"
+    "حشرات الراشدة التي تضع بيضاً على أوراق النباتات",
+    "يَتحرّكُ إلى يَنْقلُ النبتةَ"
   ],
   "management": {
     "cultural": [
-      "Remove crop residues",
-      "Crop rotation",
-      "Use resistant varieties"
+      "المخلفات",
+      "المُنْكِل",
+      "الأصناف القابلة للاستخدام"
     ],
     "biological": [
-      "Encourage parasitoid wasps and natural predators"
+      "تشجيع المناقصات الطفيلية والمفترسات الطبيعية"
     ],
     "chemical": [
-      "Apply recommended insecticides when infestation levels are high"
+      "مبيدات مبيدات مبيدات موصى بها عندما تكون مستويات المبيدات مرتفعة"
     ]
   }
 }

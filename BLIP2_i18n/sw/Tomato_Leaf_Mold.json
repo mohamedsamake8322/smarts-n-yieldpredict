@@ -1,63 +1,65 @@
 {
-  "disease_name": "Tomato Leaf Mold",
-  "type": "fungal disease",
-  "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+  "disease_name": "Mafuta ya mimea ya mimea",
+  "type": "Ugonjwa wa fungus",
+  "causal_agent": "Mwisho wa Mwisho (Fulvia fulva, Cladosporium fulvum)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"]
+    "primary": [
+      "Matunda ya mimea (Solanum lycopersicum L.)"
+    ]
   },
-  "distribution": "Worldwide; especially problematic in greenhouses and high tunnels with high humidity",
+  "distribution": "duniani kote; hasa tatizo katika mtoaji wa mtoaji na mabomu ya juu na umati wa juu",
   "symptoms": {
     "leaves": [
-      "Yellow spots on upper leaf surfaces",
-      "Fuzzy olive-green to gray mold growth on lower leaf surfaces",
-      "Leaves may curl and become distorted",
-      "Severe infections can cause defoliation"
+      "Picha za nyekundu juu ya mbinu za juu",
+      "Fuzzy ya mafuta ya kijani kwa ukuaji wa muundo wa kijani juu ya mbolea za chini",
+      "Maonyesho yanaweza kuongezeka na kuongezeka",
+      "Maambukizi makubwa yanaweza kusababisha uharibifu"
     ],
     "stems": [
-      "Occasionally stems can be infected, but disease is mostly foliar"
+      "Mara kwa mara, nyama inaweza kupatikana, lakini ugonjwa ni kwa kiasi kikubwa folia"
     ]
   },
   "disease_cycle": [
-    "Spores form on lower leaf surfaces within 10–12 days of infection",
-    "High relative humidity (≥85%) favors spore production and infection",
-    "Multiple generations can occur within a single growing season",
-    "Spread occurs via wind, rain/overhead irrigation, tools, workers, and possibly insects",
-    "Pathogen can persist in crop residue and on contaminated greenhouse surfaces"
+    "Matokeo ya kuonekana kwenye maeneo ya chini ya nywele ndani ya siku 10-12 ya infection",
+    "Ukosefu wa juu (≥85%) husaidia kurekebisha uzalishaji na ugonjwa",
+    "Mazao mengi yanaweza kutokea ndani ya msimu mmoja wa ukuaji",
+    "Kuongezeka hutokea kwa njia ya injini, mvua / mvua, vifaa, wafanyakazi, na uwezekano insects.",
+    "Pathogen inaweza kuishi katika mbolea ya mimea na juu ya mbolea ya greenhouse"
   ],
   "environmental_conditions": [
-    "Optimal temperature: 21–24 °C (70–75 °F), but disease can develop between 10–32 °C (50–90 °F)",
-    "High relative humidity (>85%) is critical for severe epidemics",
-    "Poor air circulation and leaf wetness favor infection"
+    "Temperature bora: 21–24 °C (70–75 °F), lakini ugonjwa inaweza kuongezeka kati ya 10–32 °C (50–90 °F)",
+    "Ukosefu wa juu (> 85%) ni muhimu kwa maambukizi makubwa",
+    "Ukosefu wa hewa na ukosefu wa baridi hupata ugonjwa"
   ],
   "management": {
     "cultural": [
-      "Use drip irrigation and avoid wetting foliage",
-      "Space plants to improve air circulation",
-      "Stake, string, or prune plants to reduce humidity around leaves",
-      "Circulate air in greenhouses/high tunnels with vents, fans, or by rolling up sides",
-      "Maintain night temperatures higher than outside to reduce dew formation",
-      "Remove and destroy crop residue at the end of the season; sanitize greenhouse surfaces and equipment"
+      "Kutumia uchafu na kuepuka uchafu",
+      "Uwanja wa Ndege ili kuboresha usafiri wa hewa",
+      "Mti, mti, au matunda ya mti ili kupunguza umaskini karibu na tiketi",
+      "Kuondoa hewa katika greenhouses/tunnels ya juu na maua, wapendwa, au kwa kurekebisha upande",
+      "Kuhifadhi joto ya usiku juu kuliko nje ili kupunguza muundo wa dhahabu",
+      "Kuondoa na kuharibu mbegu za mimea mwishoni mwa msimu; kuhifadhi mbegu za greenhouse na vifaa"
     ],
     "resistant_varieties": [
-      "Use resistant cultivars cautiously, as resistance is often race-specific",
-      "Test resistant varieties on a small scale before large-scale planting",
-      "Reference: Cornell Disease Resistant Vegetable Varieties list"
+      "Kutumia matunda ya kupumzika kwa makini, kwa sababu upinzani ni mara nyingi ras-specific",
+      "Utafiti wa aina za kupumzika kwa ukubwa mdogo kabla ya kupanda kwa ukubwa kubwa",
+      "Maonyesho: List ya aina za mimea zinazohusiana na magonjwa ya Cornell"
     ],
     "chemical": [
-      "Apply fungicides preventively when conditions favor disease",
-      "Rotate chemical families to prevent resistance development",
-      "For organic production, copper-based products (e.g., Champ) can provide partial control",
-      "Follow all pesticide labels and legal restrictions for greenhouse/high tunnel use"
+      "Kutoa fungicides kwa kuzuia wakati hali husaidia ugonjwa",
+      "Familia za kemikali za kurekebisha kuzuia maendeleo ya upinzani",
+      "Kwa uzalishaji wa kiroho, bidhaa za kupanda (kwa mfano, Champ) zinaweza kutoa usimamizi wa sehemu",
+      "Ufuatilia majaribio yote ya pesticide na vikwazo vya kisheria kwa matumizi ya greenhouse / tunnel ya juu"
     ]
   },
   "notes": [
-    "Early scouting during high humidity periods is critical for timely management",
-    "New races of P. fulva may emerge, so monitoring resistant cultivar efficacy is important",
-    "Effective management combines cultural, genetic, and chemical strategies"
+    "Kupata mapema wakati wa kipindi cha umeme mkubwa ni muhimu kwa usimamizi wa wakati",
+    "Maji mpya ya P. fulva inaweza kuonekana, hivyo kufuatilia ufanisi wa uzalishaji wa kudumu ni muhimu",
+    "Utawala wa ufanisi unaunganisha mkakati wa utamaduni, genetiki na kemia"
   ],
   "references": [
-    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
-    "Minnesota Extension, Tomato Leaf Mold Management",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "Mwongozo wa uzalishaji wa mimea ya Magharibi kwa Wachezaji wa Biashara, 2023",
+    "Minnesota Extension, Utawala wa Mafuta ya Tomato",
+    "Jones, J.B., et al. 2014 Compendium of Tomato Diseases and Pests, 2nd Edition."
   ]
 }

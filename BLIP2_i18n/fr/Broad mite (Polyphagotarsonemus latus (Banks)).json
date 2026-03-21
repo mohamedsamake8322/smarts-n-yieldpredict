@@ -1,79 +1,79 @@
 {
-  "disease": "Broad mite damage",
+  "disease": "Dommages causés aux acariens",
   "scientific_name": "Polyphagotarsonemus latus",
-  "pathogen_type": "Mite (arthropod pest)",
-  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "pathogen_type": "Mite (parasites arthropodes)",
+  "description": "Il se nourrit de feuilles, de tiges et de fruits en injectant de la salive toxique qui fausse la croissance des plantes. Les dommages causent une déformation sévère des feuilles et des fruits et peuvent réduire significativement le rendement des cultures.",
   "symptoms": [
-    "Distorted or twisted young leaves",
-    "Leaf curling and thickening",
-    "Bronzing or darkening of leaf surface",
-    "Stunted plant growth",
-    "Cracked or scarred fruits",
-    "Deformed buds and flowers",
-    "Young tissues become hard and brittle"
+    "Feuilles jeunes déformées ou tordues",
+    "Curling et épaississement des feuilles",
+    "Bronzage ou assombrissement de la surface des feuilles",
+    "Croissance des plantes stupéfiées",
+    "Fruits craqués ou craqués",
+    "Boutons et fleurs déformés",
+    "Les jeunes tissus deviennent durs et cassants"
   ],
   "hosts": [
-    "pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "potato",
-    "cucumber",
+    "poivre",
+    "piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment, piment",
+    "tomate",
+    "aubergines",
+    "pommes de terre",
+    "concombre",
     "melon",
-    "beans",
-    "cotton",
-    "tea",
-    "citrus",
-    "papaya",
-    "avocado",
-    "mango",
-    "ornamental plants"
+    "haricots",
+    "coton",
+    "thé",
+    "Agrumes",
+    "papaye",
+    "avocat",
+    "Mangue",
+    "plantes ornementales"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "High humidity",
-    "Dense plant canopy",
-    "Poor air circulation",
-    "Greenhouse environments"
+    "Températures chaudes",
+    "Humidité élevée",
+    "Canopée végétale dense",
+    "Mauvaise circulation d'air",
+    "Environnements à effet de serre"
   ],
   "spread": [
-    "Wind movement",
-    "Contaminated tools and plant material",
-    "Movement by insects such as whiteflies",
-    "Transport on workers' clothing"
+    "Mouvement du vent",
+    "Outils contaminés et matériel végétal",
+    "Mouvements d'insectes tels que les mouches blanches",
+    "Transport sur l'habillement des travailleurs"
   ],
   "management": [
-    "Regular monitoring of young leaves",
-    "Remove heavily infested plant parts",
-    "Improve air circulation between plants",
-    "Use resistant or tolerant varieties when available",
-    "Avoid excessive nitrogen fertilization"
+    "Surveillance régulière des jeunes feuilles",
+    "Enlever les parties de plantes fortement infestées",
+    "Améliorer la circulation de l'air entre les installations",
+    "Utiliser des variétés résistantes ou tolérantes lorsqu'elles sont disponibles",
+    "Éviter la fertilisation excessive de l'azote"
   ],
   "biological_control": [
-    "Predatory mites such as Neoseiulus californicus",
-    "Predatory mites such as Amblyseius swirskii",
-    "Predatory mites such as Phytoseiulus persimilis",
-    "Use of entomopathogenic fungi such as Beauveria bassiana"
+    "Acariens prédateurs tels que Neoseiulus californicus",
+    "Acariens prédatoires comme Amblyseius swirskii",
+    "Acariens prédatoires tels que Phytoseiulus persimilis",
+    "Utilisation de champignons entomopathogènes tels que Beauveria bassiana"
   ],
   "chemical_control": [
-    "Abamectin",
-    "Spiromesifen",
-    "Spirodiclofen",
-    "Bifenazate",
-    "Sulfur-based miticides",
+    "Abamectine",
+    "Spiromésifène",
+    "Spirodiclofène",
+    "Bifénazate",
+    "Miticides à base de soufre",
     "Fenpyroximate"
   ],
   "prevention": [
-    "Inspect seedlings before planting",
-    "Maintain good greenhouse hygiene",
-    "Control weeds that may host mites",
-    "Avoid moving infested plants",
-    "Monitor regularly during warm humid periods"
+    "Inspecter les semis avant de planter",
+    "Maintenir une bonne hygiène des serres",
+    "Mauvaises herbes qui peuvent héberger des acariens",
+    "Évitez de déplacer des plantes infestées",
+    "Surveiller régulièrement pendant les périodes humides chaudes"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "University of Florida IFAS Extension",
-    "Integrated Pest Management literature",
-    "Plant protection entomology references"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Université de Floride IFAS Extension",
+    "Documentation sur la lutte intégrée contre les ravageurs",
+    "Références entomologiques relatives à la protection des végétaux"
   ]
 }

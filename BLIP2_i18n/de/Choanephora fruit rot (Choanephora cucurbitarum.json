@@ -1,0 +1,119 @@
+{
+  "disease": "Choanephora Fruchtrot",
+  "scientific_name": "Choanephora cucurbitarum",
+  "pathogen_type": "Pilze",
+  "description": "Choanephora Fruchtfäule ist eine Pilzkrankheit, die Cucurbit-Pflanzen in warmen und feuchten Klimazonen betrifft. Der Krankheitserreger infiziert Blumen zuerst und später verbreitet sich auf Früchte, wodurch weiche wässrige Fäule. Infizierte Gewebe werden schnell musy und sind mit fuzzy Pilzwachstum bedeckt, das von weiß zu dunkellila oder schwarz wird.",
+  "common_names": [
+    "Obstfäule",
+    "Choanephora-Fruchtfäule",
+    "cucurbit blume blight",
+    "Melonenblütenbrand",
+    "nasse Fäule"
+  ],
+  "taxonomy": {
+    "kingdom": "Pilze",
+    "order": "Maul- und Klauenseuche",
+    "family": "Choanephoraceae"
+  },
+  "description_short": "Eine Pilzkrankheit, die vor allem bei warmen und nassen Bedingungen eine schnelle Weichfäule von Cucurbitblüten und Früchten verursacht.",
+  "symptoms": [
+    "weiche wässrige Fäule auf Blumen",
+    "Mushy braunes oder transluzentes Fruchtgewebe",
+    "Fäulnis beginnend am Blütenende der Frucht",
+    "rascher Fruchtzerfall innerhalb weniger Tage",
+    "Fuzzy Pilzwachstum über infiziertes Gewebe",
+    "weiße Form wird lila oder schwarz",
+    "Pinhead-ähnliche Pilzstrukturen auf faulen Früchten"
+  ],
+  "visual_signature": [
+    "Mushy weiche Fäule auf Squash oder Gurke Obst",
+    "weiß flauschig Form drehen dunkel lila oder schwarz",
+    "schwarze Pinhead-ähnliche Strukturen auf verrottendem Gewebe",
+    "Feuchte durchscheinende Fruchtfäule"
+  ],
+  "affected_plant_parts": [
+    "Blüten",
+    "Obst",
+    "Fruchtblütenende",
+    "seneszierende florale Organe"
+  ],
+  "plant_family": "Cucurbitaceae",
+  "hosts": [
+    "Kürbis",
+    "Kürbisgewächse",
+    "Zucchini",
+    "Wassermelone",
+    "Melone",
+    "Luffa",
+    "Gurken",
+    "Auberginen",
+    "Chilipfeffer",
+    "Bohnen",
+    "Okra",
+    "Spinat",
+    "Süßkartoffeln",
+    "Kassava"
+  ],
+  "important_hosts": [
+    "Cucurbita pepo",
+    "Cucurbita maxima",
+    "Citrullus lanatus",
+    "Cucumis melo",
+    "Luffa cylindrica"
+  ],
+  "favorable_conditions": [
+    "hohe Luftfeuchtigkeit",
+    "häufige Niederschläge",
+    "nasse Blüten und Früchte",
+    "schlechte Luftzirkulation",
+    "warme Temperaturen über 25°C"
+  ],
+  "spread": [
+    "Windstreusporen",
+    "Regenspritzer",
+    "Insekten, die Sporen tragen",
+    "verunreinigte Pflanzenabfälle",
+    "infizierte pflanzliche Rückstände"
+  ],
+  "disease_cycle": [
+    "Pilz überlebt in Getreideresten und Boden",
+    "Sporen infizieren seneszierende Blüten",
+    "Infektion breitet sich von Blumen zu entwickelnden Früchten",
+    "Pilz produziert reichlich Sporen auf verrottendem Gewebe",
+    "Sporen verbreitet durch Wind, Regen, Bewässerung und Insekten"
+  ],
+  "damage": [
+    "Schnelle Fruchtfäule",
+    "Verlust marktfähiger Cucurbit-Früchte",
+    "Fruchtverflüssigung",
+    "Ertragsverluste bei Cucurbit-Pflanzen"
+  ],
+  "management": [
+    "entfernen infizierte Blumen und Früchte sofort",
+    "Vermeidung von Overhead-Bewässerung",
+    "Tropfbewässerung verwenden, wenn möglich",
+    "Raumpflanzen für gute Luftzirkulation",
+    "Ernteobst vor Überreifung",
+    "Verringerung der Feuchtigkeit in Gewächshäusern"
+  ],
+  "cultural_control": [
+    "Fruchtfolge, wenn möglich",
+    "erhöhte Betten oder gut durchlässige Böden",
+    "Kunststoffmulch, um Bodenkontakt zu reduzieren",
+    "gute Abwasserentsorgung und Entfernung von Pflanzenabfällen"
+  ],
+  "biological_control": [
+    "Mycoparasit Piptocephalis virginiana berichtet, um den Pilz zu unterdrücken"
+  ],
+  "chemical_control": [
+    "Fungizide im Allgemeinen unwirksam, weil Blüten kontinuierlich öffnen"
+  ],
+  "confusable_diseases": [
+    "Rhizopus-Fruchtfäule"
+  ],
+  "source": [
+    "Universität von Minnesota Erweiterung",
+    "Veröffentlichungen zur Pflanzenpathologie",
+    "Leitfaden für das Management von Cucurbit-Krankheiten"
+  ]
+}

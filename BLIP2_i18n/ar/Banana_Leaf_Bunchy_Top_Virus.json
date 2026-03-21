@@ -1,59 +1,59 @@
 {
-  "disease_name": "Banana Bunchy Top Disease",
-  "dataset_label": "Banana_Leaf_Bunchy_Top_Virus",
+  "disease_name": "ڤ الْمَنْدَانَانَانَانَانَانَانَانَانَانُ مِنْ أُلْمَا",
+  "dataset_label": "المنى_ لاف_ لاف_ بُنْشِي_ تop_ فيرس",
   "pathogen": {
-    "type": "Virus",
-    "name": "Banana bunchy top virus",
-    "abbreviation": "BBTV",
-    "family": "Nanoviridae",
-    "genus": "Babuvirus",
-    "genome": "Circular single-stranded DNA (ssDNA)"
+    "type": "من نوع نوع نوع",
+    "name": "مجموعة من الفيروسات العليا",
+    "abbreviation": "BBBTV",
+    "family": "الناصريضة",
+    "genus": "",
+    "genome": "DNA (sDNA)"
   },
   "host_plant": {
-    "primary_host": "Banana (Musa spp.)",
+    "primary_host": "موزان (ماسا spp.)",
     "other_hosts": [
-      "Plantain",
-      "Abaca"
+      "المواصلة على مستوى",
+      "مدارا"
     ],
     "vector_alternate_hosts": [
-      "Heliconia",
-      "Flowering ginger (Zingiberaceae)"
+      "الميل",
+      "(زنجيبر أيسياساي)"
     ]
   },
   "affected_parts": [
-    "Leaves",
-    "Phloem tissue",
-    "Fruit",
-    "Whole plant growth"
+    "الآس",
+    "منديل",
+    "ما ما قبله",
+    ""
   ],
   "vector": {
-    "type": "Insect",
-    "name": "Banana aphid",
-    "scientific_name": "Pentalonia nigronervosa",
-    "transmission_type": "Circulative non-propagative"
+    "type": "",
+    "name": "",
+    "scientific_name": "النسرvusa Name",
+    "transmission_type": "غير متداولة غير متداولة"
   },
   "symptoms": {
     "early_stage": [
-      "Dark green streaks along leaf veins",
-      "Short and narrow young leaves",
-      "Morse code streaking on leaf petioles"
+      "المُسْتَرَكْرُ المُسْكِنَةُ",
+      "أوراق الشباب القصيرة والقصيرة والضيقة",
+      "رمز مورس على ورقة تَوَلَى"
     ],
     "intermediate_stage": [
-      "Leaves become upright and clustered",
-      "Yellowing and chlorosis of leaves",
-      "Reduced leaf size"
+      "تُسْطَس الأوراق ، وتُدْلى وتُكَبَّك",
+      "أصفر وتشوهات أوراق الشجر",
+      ""
     ],
     "advanced_stage": [
-      "Bunchy appearance at the top of the plant",
-      "Severe plant stunting",
-      "Deformed or absent fruit"
+      "ظهور في قمة النبتة",
+      "وقف تشغيل المنشآت",
+      "التشوهات أو الغيبتات"
     ]
   },
   "disease_cycle": {
     "transmission": [
-      "Aphid feeding on phloem tissue",
-      "Planting infected suckers",
-      "Movement of infected planting material"
+      "التغذيـة على أنسجة الفلوية",
+      "مُقْصِص",
+      "حركة المواد الزراعية المسببة للإصابات"
     ],
     "vector_acquisition_time_hours": 18,
     "vector_retention_time_days": 14,
@@ -61,62 +61,62 @@
     "symptom_development_time_days": 30
   },
   "impact": {
-    "severity": "Very high",
+    "severity": "مرتفع جداً جداً",
     "effects": [
-      "Severe plant stunting",
-      "Reduced or absent fruit production",
-      "Deformed banana bunches",
-      "Major economic losses in banana production"
+      "وقف تشغيل المنشآت",
+      "إنتاج أو خفض أو عدم إنتاج الفواكه",
+      "مجموعات الموز المشوهة",
+      "ألف - الخسائر الاقتصادية الفاقدة في إنتاج الموز"
     ]
   },
   "distribution": [
-    "Southeast Asia",
-    "Philippines",
-    "Taiwan",
-    "India",
-    "Pakistan",
-    "East Asia",
-    "Oceania",
-    "Pacific Islands",
-    "Hawaii",
-    "Africa"
+    "جنوب شرق آسيا",
+    "الفلبين",
+    "تايوان",
+    "الهند",
+    "",
+    "شرق آسيا",
+    "أُحدثاً",
+    "",
+    "هاواي",
+    "أفريقيا"
   ],
   "similar_diseases_or_confusions": [
-    "Banana streak virus",
-    "Banana mosaic virus",
-    "Nutrient deficiency causing chlorosis"
+    "فيروس نقص المن/",
+    "فيروس الفاصول المنسو",
+    "نقص المغذيات المسبب للكلور"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free planting material",
-      "Remove and destroy infected plants (roguing)",
-      "Avoid planting infected suckers"
+      "مواد الزرع الخالية من فيروس نقص فيروس",
+      ":: إزالة وتدمير النباتات المُصابة (الضرب)",
+      ":: تجنب غرس الأصحاء"
     ],
     "vector_control": [
-      "Control banana aphid populations",
-      "Use insecticides such as imidacloprid or carbaryl",
-      "Monitor alternate aphid host plants"
+      "السكان المنكوبون",
+      "استخدام مبيدات حشرية مثل الإيميداكلوبريد أو الكرباريل",
+      "الوحدات المضيفة للورق"
     ],
     "preventive_measures": [
-      "Strict quarantine regulations",
-      "Monitoring of planting material movement",
-      "Use of certified tissue culture plants"
+      "أنظمة الحجر الصحي",
+      "رصد حركة المواد الزراعية",
+      "استخدام النباتات المستنبتة للنسيج المعتمد"
     ],
     "research_directions": [
-      "Biopriming with beneficial bacteria",
-      "Development of resistant banana varieties"
+      "التعادل البيولوجي مع البكتيريا المفيدة",
+      "تنمية أنواع المُوز المُسْتَرِعَة المُسْتَنِيّة"
     ]
   },
   "spread_risk_factors": [
-    "Movement of infected banana planting material",
-    "Presence of banana aphid populations",
-    "Poor farm sanitation practices"
+    "حركة نقل المواد المزروعة بالموز المصابة",
+    "وجود مجموعات الموز على",
+    "ممارسات الصرف الصحي"
   ],
   "references": [
-    "FAO Plant Disease Reports",
-    "ICTV Virus Taxonomy",
-    "Plant Pathology Journals",
-    "University of Hawaii Plant Disease Publications",
-    "Queensland Department of Agriculture"
+    "تقارير منظمة الأغذية والزراعة عن الأمراض",
+    "تكنولوجيا تكنولوجيا تكنولوجيا تكنولوجيا المعلومات والاتصالات",
+    "الجدول اليومي في العالم",
+    "جامعة هاواي",
+    "وزارة الزراعة"
   ]
 }

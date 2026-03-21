@@ -1,0 +1,47 @@
+{
+  "disease": "Blattlockenvirus",
+  "scientific_name": "Tomatenblattlockenvirus (ToLCV)",
+  "pathogen_type": "Virus (ssDNA, Begomovirus)",
+  "description": "Eine virale Krankheit verursacht Locken und Verzerrung der Blätter, Verknappung des Wachstums und Verringerung der Fruchtausbeute. Durch weiße Fliegen übertragen.",
+  "symptoms": [
+    "Auf- oder Abwärtslocken der Blätter",
+    "Gelbfärbung entlang der Blattvenen",
+    "Stuntes Wachstum und reduzierte Fruchtgröße",
+    "Schwere Infektion kann junge Pflanzen töten"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Pfeffer",
+    "Auberginen",
+    "Sonstige Solanaceae"
+  ],
+  "favorable_conditions": [
+    "Warmes Wetter",
+    "Hohe Whitefly-Population",
+    "Dichte Bepflanzung mit schlechtem Luftstrom"
+  ],
+  "spread": [
+    "Weißfliegen (Primärvektor)",
+    "Infizierte Sämlinge oder Transplantate",
+    "Verunreinigte Werkzeuge oder Handhabung"
+  ],
+  "management": [
+    "Wachsresistente oder tolerante Sorten",
+    "Kontrollieren von Whitefly-Populationen",
+    "Entfernen und zerstören infizierte Pflanzen",
+    "Beibehaltung des richtigen Pflanzenabstands"
+  ],
+  "chemical_control": [
+    "Insektizide zur Behandlung von Weißfliegen (z. B. Imidacloprid)",
+    "Verwenden Sie insektizide Seife oder Neem Sprays als präventive"
+  ],
+  "prevention": [
+    "Beginnen Sie mit virenfreien Sämlingen",
+    "Überwachung der Whitefly-Populationen",
+    "Vermeiden Sie die Pflanzung in der Nähe infizierter Kulturen"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "FAO-Faktenblätter über Schädlinge und Krankheiten"
+  ]
+}

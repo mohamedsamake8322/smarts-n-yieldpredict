@@ -1,64 +1,70 @@
 {
-  "disease_name": "Tomato Leaf Bacterial Canker",
-  "type": "bacterial disease",
-  "causal_agent": "Clavibacter michiganensis pv. michiganensis",
+  "disease_name": "@ item Text character set",
+  "type": "KCharselect unicode block name",
+  "causal_agent": "Indian National weekday 5 - LongDayName",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Eggplant (Solanum melongena L.)", "Pepper (Capsicum spp.)", "Nightshades (Solanum spp.)"]
+    "primary": [
+      "Ga (matalauci) mai rõƙo da wanda aka hanã wa roƙon."
+    ],
+    "secondary": [
+      "\"Kuma Ka sanya mini harshen gaskiya a cikin mutãnen ƙarshe.\"",
+      "MGBOKO UMUORIA 7 (Igbo)",
+      "Da dare a lõkacin da ya rufe (da duhunsa)."
+    ]
   },
-  "distribution": "Worldwide; common in greenhouse and field-grown tomatoes",
+  "distribution": "A dukan duniya, mutane suna zama ne a cikin gida da kuma fili",
   "symptoms": {
     "leaves": [
-      "Older leaves develop brown, scorched margins that curl upward and inward",
-      "Distinct border between brown and green tissue, often with a thin yellow line",
-      "Systemic infections can cause leaf wilting and firing (browning and collapse)"
+      "Tsofaffin sun yi girma suna koyon abubuwa masu ban al'ajabi, kuma hakan yana sa su samu kwanciyar hankali da kuma kwanciyar hankali",
+      "Cin gaba tsakanin ƙasashe dabam - dabam da kuma ƙwayoyin cuta, sau da yawa yana da ma'ana mai yawa",
+      "' Yan Adam suna iya sa shuke - shuke su yi girma kuma su yi noman hatsi (su lalata)"
     ],
     "stems": [
-      "Light streaks develop that darken and split forming shallow cankers",
-      "Vascular tissue discolored yellow to tan, pith may become reddish-brown and mealy or hollow",
-      "Branches may break off easily in advanced infections"
+      "Haske da ke girma da ke bambanta da juna suna iya raba abubuwa da ba za su yiwu ba",
+      "' Yan ruwan sama da aka yi da ruwan sama suna iya zama ruwan inabi ko kuma ruwan inabi",
+      "Za a iya daina yin maye da wuri sa'ad da ake girma"
     ],
     "fruit": [
-      "Raised, white blisters on green or red fruit (‘bird's eye’ spots), 1/16–1/8 inch (3–4 mm) in diameter",
-      "Fruit near calyx may have brown seeds due to vascular invasion"
+      "@ item Spelling dictionary",
+      "Ba da ' ya'ya kusa da inda babu wanda zai iya sa a kai masa hari"
     ],
     "seedlings": [
-      "Poor growth, temporary wilting, lower leaves yellow and shrivel",
-      "Symptoms often appear at flowering or later"
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+      "Sau da yawa ana bayyana a wurin da ake yin rawa ko kuma bayan haka"
     ]
   },
   "disease_cycle": [
-    "Introduced via infected seed or transplants",
-    "Survives in infested plant residue for up to 3 years; can survive on contaminated benches, stakes, and weed hosts",
-    "Spread by windblown rain, sprinkler irrigation, mechanical cultivation, and handling",
-    "Bacteria enter seedlings through wounds, broken trichomes, or leaf cuts, then move systemically through xylem"
+    "Yadda aka Ta da iri ko kuma aka shuka",
+    "Waɗanda suke dasa da yawa suna ba da amfanin gona har tsawon shekaru 3; za su iya tsira a kan keken shanu, gasa, da kuma manyan motoci",
+    "Mãsu gudu suna ɓũya.",
+    "Daga baya, sai suka shiga cikin garin da ake amfani da su don a kashe su."
   ],
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants; certified seeds recommended",
-      "Soak seeds in 130°F water for 25 minutes to reduce contamination",
-      "Steam or disinfect greenhouse flats, benches, and potting media",
-      "Rotate crops out of tomatoes for at least one season"
+      "Ka yi amfani da garin kawa da kuma karin magana; ka haɗa da zane - zane",
+      "Saboda haka, ruwan sama da aka yi a ƙasar 130 har tsawon minti 25 don a rage sanyi",
+      "Ana amfani da hanyar watsa labarai ko kuma na'ura mai wuyan gaske",
+      "Kuma kunã sanya arzikinku (game da shi) lalle kũ, ku ƙaryata (shi)?"
     ],
     "cultural": [
-      "Incorporate plant debris thoroughly at season end",
-      "Control nightshade weeds that may harbor bacteria",
-      "Avoid working in fields when foliage is wet",
-      "Minimize overhead irrigation and handle plants carefully to reduce wounding"
+      "Sa'ad da ka ke shuki da kyau",
+      "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+      "Ka guje wa yin aiki a gona sa'ad da ba ma saka tufafi",
+      "Yadda aka gano ƙasa kuma ya yi amfani da shuke - shuke a hankali don ya rage gajiya"
     ],
     "chemical": [
-      "Copper bactericides may reduce spread during wet conditions, but do not control systemic infections",
-      "Disinfect tools and surfaces with 0.5–1% calcium or sodium hypochlorite, or commercial disinfectants like Physan"
+      "Ko da yake ba ma iya yin wasu abubuwa, amma ba za mu iya yin amfani da su don mu magance matsalolin da muke fuskanta ba.",
+      "@ item Text character set"
     ]
   },
   "notes": [
-    "Economic losses are usually minor in direct-seeded fields unless wet conditions favor secondary spread",
-    "Greenhouse transplants are more vulnerable; vigilance in sanitation is critical",
-    "Even a few infected seeds can result in high levels of infected transplants"
+    "Rashin kuɗi kaɗan ne kawai cikin gona mai ja - gora sai dai yanayi na biyu ya yaɗu",
+    "Gida mai haɗari ya fi haɗari; kasancewa a faɗake a lokacin cin abinci yana da wuya",
+    "Har ma wasu ƙwayoyin cuta za su iya sa mutum ya kamu da cuta mai yawa"
   ],
   "references": [
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press.",
-    "University of California Agriculture and Natural Resources. Tomato Pest Management Guidelines: Bacterial Canker.",
-    "Schaad, N.W., et al. 2001. Bacterial Cankers of Tomato. Plant Health Progress."
+    "Wani ɗan'uwa mai suna Jackson Jr., mai suna P.M.A.A. M.",
+    "A Jami'ar California da kuma Ta'ina a Jami'a. Akwai wani mutumin da zai iya yin ja - gora a kan hanya mai ban sha'awa.",
+    "AGBOR 6 (Turanci)"
   ]
 }

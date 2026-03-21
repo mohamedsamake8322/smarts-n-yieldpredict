@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
+  "disease": "Rouille des haricots",
   "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "pathogen_type": "Champignons",
+  "description": "La rouille des haricots est une maladie fongique qui affecte les feuilles de haricots, les tiges et parfois les gousses. Elle produit des pustules de couleur rouille sur les surfaces foliaires qui réduisent la photosynthèse et peuvent provoquer une chute précoce des feuilles et une perte de rendement.",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "Petites taches blanches ou jaunes pâles sur les feuilles",
+    "Pustules orange, brunes ou rouilleuses sur le dessous des feuilles",
+    "Spores pulvérulentes libérées des pustules",
+    "Jaune autour des lésions",
+    "Les feuilles gravement infectées sèchent et tombent tôt",
+    "Pustules occasionnelles sur les tiges et les gousses"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
-    "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "fèves communes",
+    "haricot rénal",
+    "haricot pinto",
+    "Haricot noir",
+    "Haricots cassés",
+    "Haricot lima",
+    "soja",
+    "Pois de vache",
+    "autres espèces de Phaseolus"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "Températures modérées (18-25°C)",
+    "Humidité élevée",
+    "Pluies fréquentes",
+    "L'humidité des feuilles pendant plusieurs heures",
+    "Canopée dense des cultures"
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "Spores fongiques d'origine éolienne",
+    "éclaboussure de pluie",
+    "Débris de plantes infectées",
+    "Spores aéroportées voyageant sur de longues distances"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "Variétés de haricots résistants aux végétaux",
+    "Cultures en rotation avec des plantes non hôtes",
+    "Enlever les résidus de cultures infectés",
+    "Améliorer l'espacement des installations pour le débit d'air",
+    "Surveiller les champs tôt pendant la saison de croissance"
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "Espèces de trichoderme utilisées comme fongicides biologiques",
+    "Biofongicides à base de Bacillus subtilis"
   ],
   "chemical_control": [
-    "Mancozeb",
+    "Mancozéb",
     "Chlorothalonil",
     "Tebuconazole",
     "Propiconazole",
-    "Azoxystrobin",
+    "Azoxystrobine",
     "Myclobutanil"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "Utiliser des semences certifiées exemptes de maladies",
+    "Éviter les plantations denses",
+    "Enlever les débris végétaux infectés après la récolte",
+    "Utiliser des cultivars résistants",
+    "Surveiller les cultures par temps humide"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Guides de gestion des maladies des plantes de la FAO",
+    "Élargissement de la phytopathologie à l'Université Publications"
   ]
 }

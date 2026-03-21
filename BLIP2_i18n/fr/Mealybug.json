@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "Métarybogue",
+  "scientific_name": "Famille des Pseudococcudés",
+  "pest_type": "Insecte",
+  "description": "Les mealybugs sont de petits insectes suceurs de sève recouverts d'une poudre cireuse blanche. Ils attaquent de nombreuses cultures et plantes ornementales, affaiblissent les plantes et produisent de la mielle collante qui conduit à la croissance des moisissures.",
+  "symptoms": [
+    "Insectes de coton blanc sur les feuilles, les tiges ou les fruits",
+    "Mieldew collant sur les surfaces végétales",
+    "Moules noires de suie poussant sur le miel",
+    "Feuilles de jaunissement ou de curling",
+    "Croissance des plantes stupéfiées",
+    "Baisse prématurée des feuilles lors d'infestations sévères"
+  ],
+  "hosts": [
+    "Agrumes",
+    "Raisins",
+    "Banane",
+    "Papaye",
+    "Ananas",
+    "Café",
+    "Cassaves",
+    "Canne à sucre",
+    "Tournesol",
+    "Orchidées",
+    "Cactus",
+    "Plantes de jardin et cultures en serre"
+  ],
+  "favorable_conditions": [
+    "Climats chauds et humides",
+    "Conditions de végétation ou de serre denses",
+    "Présence de fourmis qui protègent les punaises",
+    "Mauvaise activité des prédateurs naturels"
+  ],
+  "spread": [
+    "Mouvement de matériel végétal infesté",
+    "Vent ou insectes porteurs de rampeurs",
+    "Fourmis transportant et protégeant des colonies"
+  ],
+  "damage": [
+    "L'affaiblissement de la plante dû à l'alimentation de la sève",
+    "Transmission de virus végétaux dans certaines cultures",
+    "Réduction du rendement et de la croissance des plantes",
+    "Développement de la moisissure de suie sur le miel"
+  ],
+  "biological_control": [
+    "Cryptolaemus montrouzieri (destroyer de Mealybug)",
+    "Larve à lacets vert (Chrysopidae)",
+    "Les guêpes parasitaires attaquent les voyous",
+    "Encourager les prédateurs naturels en réduisant les grands insecticides"
+  ],
+  "chemical_control": [
+    "insecticides pyréthroïdes tels que la perméthrine, la bifenthrine ou la cyfluthrine",
+    "Savons insecticides ou huiles horticoles",
+    "Insecticides systémiques en cas d'infestation sévère"
+  ],
+  "prevention": [
+    "Inspecter régulièrement les plantes en cas d'infestations précoces",
+    "Contrôler les fourmis qui protègent les punaises",
+    "Enlever les parties de plantes fortement infestées",
+    "Éviter la fertilisation excessive de l'azote",
+    "Utiliser du matériel de plantation propre"
+  ],
+  "source": [
+    "Littérature entomologique sur les Pseudococcudés",
+    "Références en matière de lutte antiparasitaire agricole",
+    "Wikipedia – Mealybug"
+  ]
 }

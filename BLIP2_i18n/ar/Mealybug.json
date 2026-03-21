@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "مُضِلّ حشر",
+  "scientific_name": "الأسرة Psudocococcidadae",
+  "pest_type": "",
+  "description": "والحشرات الصغيرة هي حشرات صغيرة مغطاة بمسحوق شمعي أبيض، وهي تهاجم العديد من المحاصيل ونباتات الزينة، وتضعف النباتات وتنتج عسلاً لزجاً يؤدي إلى النمو.",
+  "symptoms": [
+    "حشرات مثل القطن البيضاء على أوراق الشجر أو الجُسْر أو الفواكه",
+    "عُلِّل لُقِيْ على أسطح النباتات",
+    "تَنْبِيَةُ ٱلْعَسْدِ",
+    "أصفر أو أوراق الشوّر",
+    "نمو النباتات المبتت",
+    "قطرة من ورقة ما قبل السن السابقة لأوانها في الحالات الشديدة"
+  ],
+  "hosts": [
+    "Cit",
+    "",
+    "",
+    "يُنْيي",
+    "(الإنابيب)",
+    "جيم -",
+    "ماس ماس",
+    "",
+    "",
+    "أورcheds",
+    "كوامر مُلْظ",
+    "نباتات البساتين ومحاصيل الدفيئة"
+  ],
+  "favorable_conditions": [
+    "المناخ الدافئ والمنااخ الحر والمنااخ الرطبة",
+    "الغطاء النباتي أو أحوال الدفيئة",
+    "وجود النمل الذي يحمي الحشرات العذب",
+    "نشاط المفتراس الطبيعي"
+  ],
+  "spread": [
+    "حركة نقل المواد النباتية",
+    "الرياح أو الحشرات الحاملات",
+    "النمل النقي الذي ينقل ويحمي المستعمرات"
+  ],
+  "damage": [
+    "(أ) ضعف النبات بسبب التغذية",
+    "في بعض المحاصيل",
+    "انخفاض الإنتاج ونمو النباتات",
+    "تطوير قالب الصودي على العسل"
+  ],
+  "biological_control": [
+    "(مدمر حشرات ميالي)",
+    "اليرقات الخضراء (Chrysopidae)",
+    "المناقصات المظلية تهاجم بقاً مغذية",
+    "تشجيع المفترسات الطبيعية عن طريق الحد من مبيدات الحشرات الواسعة"
+  ],
+  "chemical_control": [
+    "مبيدات مبيدات حشرية للبيروثات مثل برمثرين، أو بفينثرين، أو سيفلوثرين",
+    "الصابونات أو زيت البستنة",
+    "المبيدات الحشرية في حالة شدة المبيدات الحشرية"
+  ],
+  "prevention": [
+    "تُنَظَّم المُنَظَّمات بشكل منتظم للإصابات المبكِّرة",
+    "النمل المتحكِّك الذي يحمِي البق",
+    "(أ) أُسرت أو أُزيلت",
+    "تجنب الإفراط في التلقيح",
+    "مادة الغرس النظيف"
+  ],
+  "source": [
+    "دراسة علم الفلك في مجال Pseudococcidae",
+    "المراجع المرجعية لمعالجة الآفات الزراعية",
+    "Wikedia - bili bug"
+  ]
 }

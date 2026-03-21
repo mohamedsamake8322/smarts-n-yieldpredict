@@ -1,91 +1,91 @@
 {
-  "pest_name": "Cotton_Larve_Bollworm",
-  "common_name": "Cotton bollworm larva",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_stage": "Larva",
-  "pest_type": "Insect",
-  "description": "The larval stage of the cotton bollworm (Helicoverpa armigera) is the most destructive phase of this pest. The caterpillars feed aggressively on leaves, buds, flowers, fruits, and seeds of many crops. Larvae vary in color from green, brown, pink, or black and usually have longitudinal stripes along the body. Because they feed directly on reproductive plant structures, they can cause significant yield losses in crops such as cotton, tomato, maize, and chickpea.",
+  "pest_name": "Cottom_Larve_幼虫",
+  "common_name": "棉虫幼虫",
+  "scientific_name": "直升机武装武装直升机",
+  "pest_stage": "拉瓦",
+  "pest_type": "昆虫",
+  "description": "棉花虫的幼虫(Helicoverpa afrigera)的幼虫阶段是这一害虫最具破坏性的阶段。 毛虫在树叶、芽芽、鲜花、水果和许多作物的种子上肆虐地觅食。 长颈鹿的颜色与绿色、棕色、粉色或黑色不同,通常沿身体有长长长带。 由于它们直接依靠生殖植物结构供养,它们可能会在棉花、番茄、玉米和小鸡皮豆等作物上造成重大的收成损失。",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
-    "Okra",
-    "Peas",
-    "Tobacco"
+    "棉花棉花",
+    "番茄",
+    "成熟",
+    "恰克比亚",
+    "梨",
+    "大米稻米",
+    "高 orghum",
+    "考比亚",
+    "豆类",
+    "马铃薯",
+    "奥克拉",
+    "青豆",
+    "烟草"
   ],
   "symptoms": [
-    "Holes in leaves, buds, and flowers",
-    "Larvae boring into fruits or pods",
-    "Damaged cotton bolls and young fruits",
-    "Presence of frass (insect excrement) around feeding sites",
-    "Premature dropping of flowers or fruits"
+    "树叶洞洞洞洞洞洞 花朵洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞洞",
+    "荒凉无味于水果或豆类",
+    "破坏的棉花块和青嫩水果",
+    "供餐地点周围存在缺食(昆虫排泄物)",
+    "花花或水果过早坠落"
   ],
   "larva_characteristics": {
-    "length": "3–4 cm when fully developed",
+    "length": "3-4厘米(完全开发后)",
     "color_variation": [
-      "Green",
-      "Brown",
-      "Pink",
-      "Black",
-      "Reddish-brown"
+      "绿绿色",
+      "棕色",
+      "粉红色",
+      "黑黑色",
+      "红褐色"
     ],
-    "distinctive_features": "Prominent longitudinal stripes along the body and a brown head capsule."
+    "distinctive_features": "尸体和棕色头罩上 明显的纵向条纹"
   },
-  "economic_significance": "Larvae cause severe crop damage by feeding directly on reproductive plant structures. This feeding can significantly reduce yield and quality, particularly in cotton, tomato, and maize. Damage may also allow secondary infections by fungi or bacteria.",
+  "economic_significance": "Larvae通过直接喂养生殖植物结构,造成严重作物损害,这种喂养可显著降低产量和质量,特别是棉花、番茄和玉米的产量和质量。 损害还可能导致真菌或细菌的二次感染。",
   "management": {
     "monitoring": [
-      "Inspect plants regularly for eggs and young larvae",
-      "Use pheromone traps to monitor adult moth populations",
-      "Check buds, flowers, and fruits for feeding damage"
+      "鸡蛋和幼幼幼虫定期检查植物",
+      "使用pheomone 陷阱来监测成人飞蛾种群",
+      "用于喂养损害的花芽、花花和水果"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of weeds and crop residues",
-      "Deep ploughing after harvest to destroy pupae",
-      "Planting trap crops such as sunflower or marigold"
+      "非东道作物作物轮作",
+      "清除杂草和作物残留物",
+      "收割后深入耕种,以摧毁小狗",
+      "种植向日葵或马龙等陷阱作物"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae",
-      "Removing infested fruits and plant parts",
-      "Using pheromone and light traps to monitor populations"
+      "手工挑选和摧毁幼虫",
+      "清除渗入的水果和植物部件",
+      "使用pheomone和光捕捉器监测人口"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting larvae",
-        "Isaria fumosorosea"
+        "Helicoverpa nucleopopolyhedro病毒(HANPV)",
+        "针对幼虫的Baculo病毒物种",
+        "海岛"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "敌百虫黄蜂(Egg 寄生虫黄蜂)",
+        "Habrobracon 教唆者(幼寄生虫)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used only when pest populations exceed economic thresholds and as part of an Integrated Pest Management strategy.",
+      "note": "只有在害虫人口超过经济阈值,并作为虫害综合防治战略的一部分,才应使用化学杀虫剂。",
       "active_ingredients": [
-        "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
-        "Chlorantraniliprole"
+        "脊柱状",
+        "Emmectin 苯甲酸",
+        "印毒carb",
+        "Lambda-cyhalotsrin(辛巴威辛)",
+        "氯氯化物"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
-    "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "维基百科的撰稿人 维基百科自由百科全书",
+    "CABI 作物保护简编 — Helicoverpa afrigera。",
+    "粮农组织虫害综合管理准则。",
+    "植物知识银行-害虫管理建议。"
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Helicoverpa_armigera",
-    "https://www.cabi.org"
+    "http://en.wikipedia.org/wiki/Helicoverpa_armigera https://en.wikipedia.org/wiki/Helicoverpa_armigera https://en.wikipedia.org/wiki/Helicoverpa_armigera/",
+    "http://www.cabi.org"
   ]
 }

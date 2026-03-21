@@ -1,91 +1,91 @@
 {
- "disease": "Phytophthora Blight of Cucurbits",
- "scientific_name": "Phytophthora capsici",
- "pathogen_type": "Oomycete (fungus-like organism)",
- "description": "Phytophthora blight is a destructive disease of cucurbit crops caused by the oomycete Phytophthora capsici. It infects seedlings, vines, leaves and fruits, often leading to rapid plant collapse and severe crop losses under warm and wet conditions.",
- "symptoms": [
-  "Seedling damping-off with water-soaked rot at soil line",
-  "Sudden wilting of plants without leaf yellowing",
-  "Water-soaked dark lesions on stems and vines",
-  "Leaf spots that become necrotic with olive or yellow borders",
-  "Fruit rot starting at the point touching the soil",
-  "White mold growth on rotting fruits",
-  "Rapid fruit collapse and decay"
- ],
- "visual_symptoms": [
-  "water-soaked lesions on stems and vines",
-  "white mold on infected cucurbit fruits",
-  "soft rotting pumpkins, cucumbers, or melons",
-  "sudden plant wilt and vine collapse"
- ],
- "hosts": [
-  "Cucumber",
-  "Pumpkin",
-  "Squash",
-  "Watermelon",
-  "Cantaloupe",
-  "Honeydew melon",
-  "Gourd",
-  "Pepper",
-  "Tomato",
-  "Eggplant"
- ],
- "plant_parts_affected": [
-  "seedlings",
-  "roots",
-  "crown",
-  "vines",
-  "leaves",
-  "fruit"
- ],
- "favorable_conditions": [
-  "Warm temperatures (20–30°C)",
-  "Water-saturated soils",
-  "Heavy rainfall or flooding",
-  "Poorly drained fields",
-  "Frequent irrigation"
- ],
- "spread": [
-  "Water movement in soil",
-  "Rain splash",
-  "Irrigation water",
-  "Contaminated soil and farm equipment",
-  "Infected plant debris"
- ],
- "disease_cycle": [
-  "Pathogen survives in soil as oospores for several years",
-  "Spores germinate and produce sporangia and zoospores",
-  "Zoospores swim in water and infect plant tissues",
-  "New spores form on infected plants and spread by water or rain"
- ],
- "impact": [
-  "Severe plant wilting and death",
-  "Fruit rot in the field or storage",
-  "Rapid disease spread after heavy rain",
-  "Yield losses up to 100% in severe outbreaks"
- ],
- "cultural_control": [
-  "Plant in well-drained fields",
-  "Avoid excessive irrigation",
-  "Use raised beds for cucurbit crops",
-  "Rotate fields with non-host crops for at least 3 years",
-  "Remove and destroy infected plants",
-  "Clean farm equipment before moving between fields"
- ],
- "chemical_control": [
-  "Seed treatment with mefenoxam or metalaxyl",
-  "Foliar sprays of dimethomorph",
-  "Copper-based fungicides",
-  "Regular fungicide applications during wet conditions"
- ],
- "prevention": [
-  "Use clean fields without previous disease history",
-  "Avoid contaminated irrigation water",
-  "Monitor fields after heavy rainfall",
-  "Remove infected fruits quickly"
- ],
- "source": [
-  "University of Illinois Plant Health Instructor",
-  "Babadoost M. 2005. Phytophthora blight of cucurbits"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+  "description": "Tarin ' ya'yan itace da ake amfani da su a dā, cuta ce mai ɓarna da ke sa ruwa ya yi ƙarfi sosai.",
+  "symptoms": [
+    "Kuma ƙasa ta fitar da kayanta, masu nauyi.",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),",
+    "Da shĩ ake narkar da abin da yake a cikin cikunansu da fãtun jikinsu.",
+    "Ƙasa dabam dabam da suke zama ruwan dare a tsakanin ma'adanar zaitun ko kuma ma'adadanar kayayyakin tarihi",
+    "Yadda ake samun ' ya'ya a lokacin ya taɓa ƙasar",
+    "Media controller element",
+    "' Ya'yan itace sun ɓace kuma sun ɓace"
+  ],
+  "visual_symptoms": [
+    "Da inabi da ciyãwa.",
+    "fararen ' ya'yan itace masu yawa",
+    "Yadda Za a Yi Amfani da na'ura ko na'ura mai laushi",
+    "Sa'an nan da girãgizai mãsu ɗaukar nauyi (na ruwa)."
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "\"Kuma Ka sanya mini harshen gaskiya a cikin mutãnen ƙarshe.\"",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name"
+  ],
+  "plant_parts_affected": [
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Banner page",
+    "Manajan Taga",
+    "inabi",
+    "hagu",
+    "' Ya'yan itãcen marmari"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Ya Yi Nasara ko Kuma Yin Wa'azi",
+    "Mãsu gudu suna ɓũya.",
+    "Indian National weekday 3 - LongDayName"
+  ],
+  "spread": [
+    "Sãbonsu na tafiyar hunturu da ta bazara.",
+    "Media controller element",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "ƙasa da shuke - shuke",
+    "A wurin da magaryar tuƙẽwa take."
+  ],
+  "disease_cycle": [
+    "Hanyar da ta tsira a ƙasa shekaru da yawa da suka shige",
+    "@ item Text character set",
+    "Takan yi iyo a cikin ruwa da kuma ruwa mai ba da ' ya'yan itace",
+    "Sabuwar gwamnati tana zuba ruwa ko kuma ruwan sama"
+  ],
+  "impact": [
+    "Mutane da yawa za su yi shuki da kuma mutuwa",
+    "' Ya'ya a hidimar fage ko kuma a hanyar da ba ta dace ba",
+    "KCharselect unicode block name",
+    "An yi hasarar mutane wajen kashi 100 zuwa 100 a lokacin da ake bala'i mai tsanani"
+  ],
+  "cultural_control": [
+    "Da shuke-shuke da matsayi mai kyau.",
+    "Ka guje wa yin maye",
+    "Ka yi amfani da Intane don ka kalli abubuwan da za su iya sa ka farin ciki sosai",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "gona mai kyau kafin ka ƙaura zuwa ƙasa"
+  ],
+  "chemical_control": [
+    "Zuriyar da nake bi da ni tana da ciwo mai tsanani ko kuma ƙarfe takwas",
+    "KCharselect unicode block name",
+    "Indian National weekday 6 - LongDayName",
+    "Shiryoyin ayukan zane-zane a kai a kai lokacin da muke fuskantar yanayi"
+  ],
+  "prevention": [
+    "Ka yi amfani da gonaki masu tsabta ba tare da ciwo ba na dā",
+    "Ka guji yawan shan ruwan sama",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "source": [
+    "@ item Text character set",
+    "Indian National month 9 - LongName"
+  ]
 }

@@ -1,46 +1,46 @@
 {
-  "disease_name": "Late Blight Fruit",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "oomycete",
-  "description": "Late blight fruit rot is a destructive disease caused by the oomycete Phytophthora infestans. It mainly affects tomato and potato plants. The pathogen infects fruits, leaves and stems and can spread rapidly under cool and humid conditions, often leading to severe crop losses.",
+  "disease_name": "晚淡果",
+  "scientific_name": "内地的植物卫生",
+  "pathogen_type": "暗暗暗暗暗暗暗暗暗",
+  "description": "深淡的水果腐烂是一种破坏性疾病,它是由超大植物植物造成的,主要影响番茄和土豆植物,病原体感染水果、叶叶和根茎,可以在冷湿条件下迅速蔓延,往往造成严重作物损失。",
   "affected_parts": [
-    "Fruit",
-    "Leaf",
-    "Stem"
+    "果果果",
+    "叶叶",
+    "斯特丁"
   ],
   "hosts": [
-    "Tomato",
-    "Potato"
+    "番茄",
+    "马铃薯"
   ],
   "symptoms": [
-    "Dark brown or black lesions on fruits",
-    "Firm rot with greasy appearance",
-    "White mold growth under humid conditions",
-    "Rapid fruit decay"
+    "水果的深棕色或黑色损害",
+    "连着油油的面容腐烂",
+    "湿湿湿条件下白模数增长",
+    "水果迅速腐烂"
   ],
   "favorable_conditions": [
-    "Cool temperatures (10–20°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Long periods of leaf wetness"
+    "冷温度(10-20°C)",
+    "高湿湿度",
+    "频繁降雨",
+    "长期湿润叶叶"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Contaminated tools and equipment"
+    "风云螺子",
+    "雨水喷雨",
+    "受感染植物碎片",
+    "受污染工具和设备"
   ],
   "management": {
     "cultural": [
-      "Remove infected plants",
-      "Improve air circulation",
-      "Avoid overhead irrigation",
-      "Use resistant cultivars when available"
+      "消除感染植物",
+      "改善空气流通",
+      "避免间接灌溉",
+      "如有抗药性栽培品种,使用"
     ],
     "chemical": [
-      "Metalaxyl-based fungicides",
-      "Chlorothalonil",
-      "Mancozeb"
+      "以金属氧基基杀真菌剂",
+      "氯代烷基",
+      "红铜"
     ]
   }
 }

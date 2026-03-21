@@ -1,38 +1,38 @@
 {
-  "pest_name": "Stem Borer Leaf Damages",
-  "pest_type": "insect",
-  "description": "Stem borers are insect pests whose larvae feed on plant stems and leaves. They are common in cereal crops such as maize, rice and sorghum. Larvae bore into stems and cause internal damage that reduces plant growth and productivity.",
+  "pest_name": "KCharselect unicode block name",
+  "pest_type": "QFontDatabase",
+  "description": "Waɗanda suke cin abinci sosai suna amfani da abinci don su yi girma kuma suna samun isashen abinci da kuma fita wa'azi.",
   "affected_parts": [
-    "Leaf",
-    "Stem"
+    "KCharselect unicode block name",
+    "DakataCoptic weekday 2 - LongDayName"
   ],
   "hosts": [
-    "Maize",
-    "Rice",
-    "Sugarcane",
-    "Sorghum"
+    "Indian National weekday 7 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "symptoms": [
-    "Leaf holes and feeding marks",
-    "Dead heart symptom in young plants",
-    "Stem tunneling",
-    "Reduced plant growth"
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "An Tallafa wa Matasa Rai a Dukan Duniya",
+    "DakataCoptic month 5 - LongName",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "spread": [
-    "Adult insects laying eggs on plant leaves",
-    "Larvae moving into plant stems"
+    "Sa'ad da ake shuka hatsi a ƙasa, ba za a iya samun na'ura mai kyau ba",
+    "Mai girman kai yana ƙara yin shuki"
   ],
   "management": {
     "cultural": [
-      "Remove crop residues",
-      "Crop rotation",
-      "Use resistant varieties"
+      "KCharselect unicode block name",
+      "Ethiopian weekday 2 - LongDayName",
+      "Yi Amfani da Ƙarfi"
     ],
     "biological": [
-      "Encourage parasitoid wasps and natural predators"
+      "Ta'aziyya ta Ɗabi'a Tana da Muhimmanci Kuma Tana da Muhimmanci"
     ],
     "chemical": [
-      "Apply recommended insecticides when infestation levels are high"
+      "Yin amfani da hanyar da ba ta dace ba yana da girma sosai"
     ]
   }
 }

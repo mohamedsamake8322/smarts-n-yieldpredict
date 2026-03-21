@@ -1,85 +1,85 @@
 {
- "disease": "Solanaceae Bacterial Spot",
- "scientific_name": "Xanthomonas campestris pv. vesicatoria",
- "pathogen_type": "Bacterium",
- "description": "Bacterial spot is a serious bacterial disease affecting tomatoes and peppers. It causes dark water-soaked spots on leaves and fruit, leading to defoliation and reduced yield. The disease spreads easily in warm and wet conditions.",
- "symptoms": [
-  "Small brown water-soaked spots on leaves",
-  "Circular lesions without concentric rings",
-  "Spots merging to form large dark streaks",
-  "Yellowing of leaves around lesions",
-  "Leaves may drop early (defoliation)",
-  "Raised scab-like spots on fruits"
- ],
- "visual_symptoms": [
-  "dark brown leaf spots",
-  "water-soaked lesions",
-  "scab-like lesions on fruit",
-  "yellowing leaves with many spots"
- ],
- "hosts": [
-  "Tomato",
-  "Pepper",
-  "Chili pepper",
-  "Sweet pepper",
-  "Other Solanaceae crops"
- ],
- "plant_parts_affected": [
-  "leaves",
-  "stems",
-  "fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures (27–32°C)",
-  "High humidity",
-  "Frequent rain or overhead irrigation",
-  "Wet foliage"
- ],
- "spread": [
-  "Infected seeds",
-  "Plant debris",
-  "Wind-driven rain",
-  "Contaminated tools and equipment",
-  "Workers handling plants"
- ],
- "disease_cycle": [
-  "Bacteria survive in infected seeds and crop debris",
-  "Bacteria spread by rain splash or contact",
-  "They enter plants through stomata or wounds",
-  "Lesions form on leaves and fruit",
-  "Bacteria multiply and spread to nearby plants"
- ],
- "impact": [
-  "Leaf drop and reduced photosynthesis",
-  "Fruit quality loss due to lesions",
-  "Severe yield reduction",
-  "Possible crop failure in severe outbreaks"
- ],
- "cultural_control": [
-  "Use certified disease-free seeds",
-  "Rotate crops for 2–3 years",
-  "Remove infected plant debris",
-  "Avoid working in fields when plants are wet",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus-based bio-pesticides",
-  "Apply biological plant protection products where available"
- ],
- "chemical_control": [
-  "Copper-based bactericides",
-  "Copper + mancozeb mixtures",
-  "Copper hydroxide",
-  "Copper oxychloride"
- ],
- "prevention": [
-  "Use healthy transplants",
-  "Maintain field sanitation",
-  "Control weeds and volunteer plants",
-  "Monitor crops regularly during warm wet weather"
- ],
- "source": [
-  "UMass Extension Vegetable Disease Guide",
-  "Plant pathology references"
- ]
+  "disease": "Solanassae (ب)",
+  "scientific_name": "4 - خزانتهوماناس",
+  "pathogen_type": "بكثير",
+  "description": "فالبقعة البكتيرية هي مرض بكتيري خطير يؤثر على الطماطم والفلفل، ويسبب بقعاً داكنة تتسرب من الماء على الأوراق والفواكه، مما يؤدي إلى انحلال الرطوبة وانخفاض الغلة، وينتشر المرض بسهولة في ظروف دافئة ومبللة.",
+  "symptoms": [
+    "بقع صغيرة من الماء البني على أوراق الشوراء",
+    "بقع دائرية بدون حلقات متقاربة",
+    "اندمجت البؤر لتشكّل خطوطاً مظلمة كبيرة",
+    "أصفر من أوراق الشوّات حول الصُّفَر",
+    "يمكن أن تنخفض الإجازة في وقت مبكر (تقصير الإجازة)",
+    "علـى فواكـس"
+  ],
+  "visual_symptoms": [
+    "مسود",
+    "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "آثار على المواك",
+    "أوراق أوراق أصفر مع العديد من النقاط"
+  ],
+  "hosts": [
+    "طاطاطاطاط",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "",
+    "",
+    "المحاصيل الأخرى Solalasacea"
+  ],
+  "plant_parts_affected": [
+    "أولاً -",
+    "مُنْسَج",
+    "(الكاكر)"
+  ],
+  "favorable_conditions": [
+    "درجات حرارة الحرارة (27 - 32 درجة مئوية)",
+    "الرطوبة العالية",
+    "مياه الأمطار أو ري الري",
+    "شطر رطب"
+  ],
+  "spread": [
+    "البذور المصح",
+    "",
+    ")أطــر",
+    "الأدوات والمعدات الملوثة",
+    ""
+  ],
+  "disease_cycle": [
+    "بقاء البكتريا على قيد الحياة في البذور المُصابة وحطام المحاصيل",
+    "انتشار البكتيرية عن طريق المطر أو عن طريق الاتصال",
+    "تُدخل إلى النباتات من خلال التسممات أو الجروح",
+    "الشكل الموازي على الأوراق المالية والفواكة",
+    "تتضاعف البكتريا وتنتشر إلى النباتات المجاورة"
+  ],
+  "impact": [
+    "قطرة من الأرض ومخفضة",
+    "فقدان جودة الفواكه بسبب الإصابات",
+    "الانخفاض في العائد العائد",
+    "فشل المحصول المحتمل في حالات التفشي الشديد"
+  ],
+  "cultural_control": [
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    "المحاصيل المتناوبة لـ 2 - 3 سنوات",
+    "(أ) أُزيل",
+    "تجنب العمل في الحقول عندما تكون النباتات رطبة",
+    "استخدام الأصناف المقاومة عند توافرها"
+  ],
+  "biological_control": [
+    "استخدام ميكروبات مفيدة مثل المبيدات الحيوية القائمة على الباسيليوس",
+    "منتجات وقاية النباتات البيولوجية حيثما كانت متاحة"
+  ],
+  "chemical_control": [
+    "مبيدات آفات البكتيريا القائمة على أساس أساس أساس أساس",
+    "(أ) النحاس + مزائز المنكوزيب",
+    "Hurxid",
+    "(أ) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+  ],
+  "prevention": [
+    "الاستخدام الصحي",
+    "الصرف الصحي الميداني",
+    "المضارب ومحطات التطوع",
+    "رصد المحاصيل بانتظام أثناء الطقس الرطبي الدافئ"
+  ],
+  "source": [
+    "دليل الأمراض النباتية",
+    "المراجع الطبية للمطرب"
+  ]
 }

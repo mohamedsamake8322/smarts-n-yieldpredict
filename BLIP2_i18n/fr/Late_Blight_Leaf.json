@@ -1,41 +1,45 @@
 {
-  "disease": "Late Blight (Leaf)",
+  "disease": "Brûlure tardive (Feuille)",
   "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "Oomycete (fungal-like)",
-  "description": "A devastating disease of potato and tomato leaves, causing dark brown spots and rapid leaf death. Can destroy crops quickly under wet conditions.",
+  "pathogen_type": "Oomycète (semblable à du fungal)",
+  "description": "Une maladie dévastatrice des feuilles de pommes de terre et de tomates, causant des taches brunes foncées et la mort rapide des feuilles. Peut détruire rapidement les cultures dans des conditions humides.",
   "symptoms": [
-    "Dark brown to black leaf spots",
-    "Leaf edges turn pale and die",
-    "Rapid wilting of infected leaves"
+    "Marron foncé à taches de feuilles noires",
+    "Les bords des feuilles deviennent pâles et meurent",
+    "flétrissement rapide des feuilles infectées"
   ],
-  "hosts": ["Tomato", "Potato", "Other Solanaceae crops"],
+  "hosts": [
+    "Tomates",
+    "Pommes de terre",
+    "Autres cultures de Solanaceae"
+  ],
   "favorable_conditions": [
-    "Cool and wet weather",
-    "High humidity",
-    "Poor air circulation in dense plantings"
+    "Temps frais et humide",
+    "Humidité élevée",
+    "Mauvaise circulation d'air dans les plantations denses"
   ],
   "spread": [
-    "Wind and rain dispersal of spores",
-    "Contaminated tools or hands",
-    "Infected seedlings or tubers"
+    "Dispersion du vent et de la pluie des spores",
+    "Outils ou mains contaminés",
+    "Plantules ou tubercules infectés"
   ],
   "management": [
-    "Plant resistant cultivars",
-    "Remove and destroy infected leaves",
-    "Improve air circulation with proper spacing and pruning",
-    "Rotate crops to prevent inoculum buildup"
+    "Cultivars résistants aux végétaux",
+    "Enlever et détruire les feuilles infectées",
+    "Améliorer la circulation de l'air avec un espacement et une taille appropriés",
+    "Rotation des cultures pour prévenir l'accumulation d'inoculum"
   ],
   "chemical_control": [
-    "Copper-based fungicides",
-    "Mancozeb sprays on foliage during wet periods"
+    "Fongicides à base de cuivre",
+    "Vaporisateurs de mancozébe sur le feuillage pendant les périodes humides"
   ],
   "prevention": [
-    "Avoid overhead irrigation",
-    "Use certified disease-free seeds or tubers",
-    "Remove plant debris after harvest"
+    "Éviter l'irrigation aérienne",
+    "Utiliser des semences ou tubercules certifiés exempts de maladies",
+    "Enlever les débris végétaux après la récolte"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "USDA, Plant Disease Management Guide"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "USDA, Guide de gestion des maladies des plantes"
   ]
 }

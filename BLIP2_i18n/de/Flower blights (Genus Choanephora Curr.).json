@@ -1,0 +1,66 @@
+{
+  "disease": "Choanephora Blütenweather forecast",
+  "scientific_name": "Choanephora spp. (z. B. Choanephora cucurbitarum)",
+  "pathogen_type": "Pilze",
+  "description": "Eine Pilzkrankheit, die Blumen und junge Früchte vieler Gemüsearten angreift, vor allem Cucurbits und Hülsenfrüchte. Sie verursacht unter warmen und feuchten Bedingungen einen schnellen Blütenfäule- und Fruchtzerfall.",
+  "symptoms": [
+    "Wassergetränkte Flecken auf Blumen",
+    "Blumen verrotten schnell und kollabieren",
+    "Weiche Fäule auf jungen Früchten",
+    "Cottony weißes Pilzwachstum auf infizierten Geweben",
+    "Schwarze Pin-ähnliche Sporen, die sich auf verrottenden Blüten bilden",
+    "Infizierte Blumen haften an der Entwicklung von Früchten und verursachen Fruchtfäule"
+  ],
+  "hosts": [
+    "Okra",
+    "Kürbisgewächse",
+    "Squash",
+    "Gurken",
+    "Zucchini",
+    "Flaschengurke",
+    "Bohnen",
+    "Cowpea",
+    "Auberginen",
+    "Andere Gurken und Gemüse"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (ca. 25–30°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle",
+    "Dichtes Baldachin mit schlechter Luftzirkulation"
+  ],
+  "spread": [
+    "Pilzsporen auf Windbasis",
+    "Regenspritzer",
+    "Infizierte Pflanzenabfälle",
+    "Kontakt zwischen infizierten Blumen und Früchten"
+  ],
+  "management": [
+    "Entfernen und zerstören infizierte Blumen und Früchte",
+    "Verbesserung des Anlagenabstands zur Erhöhung des Luftstroms",
+    "Überkopfbewässerung vermeiden",
+    "Ernte regelmäßig, um infizierte Gewebe zu entfernen",
+    "Praxis Fruchtfolge"
+  ],
+  "biological_control": [
+    "Trichoderma harzianum als Boden- oder Foliar-Biokontrollmittel",
+    "Bacillus subtilis-basierte Biofungizide"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Chlorothalonil",
+    "Fungizide auf Kupferbasis",
+    "Bei feuchtem Wetter vorbeugend anwenden"
+  ],
+  "prevention": [
+    "Anlage in gut belüfteten Feldern",
+    "Nach der Ernte Pflanzenreste entfernen",
+    "Vermeiden Sie übermäßige Bewässerung und verlängerte Blattnässe",
+    "Verwenden Sie gesunde Samen und pflegen Sie Feldhygiene"
+  ],
+  "source": [
+    "CABI Plantwise Knowledge Bank",
+    "Universität von Florida IFAS Pflanzenpathologie",
+    "Handbuch zur APS-Pflanzenkrankheit"
+  ]
+}

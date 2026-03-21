@@ -1,0 +1,28 @@
+{
+  "pest_name": "Sphinx-Motte",
+  "stage": "Larve",
+  "common_name": "Hornwurm",
+  "description": "Das Larvenstadium (Katerpillar) der Sphinx-Motten wird allgemein Hornwurm genannt. Es ist groß, glatt, oft mit einer Horn-ähnlichen Projektion am hinteren Ende.",
+  "damage": [
+    "Fütterung von Blättern, Stängeln und manchmal Früchten von Wirtspflanzen",
+    "Entlaubung kann auftreten, wenn die Populationen hoch sind",
+    "Blätter haben oft unregelmäßige Löcher oder gekaute Kanten",
+    "Kann junge Pflanzen schwächen und den Ertrag in Kulturen wie Tomaten, Tabak und anderen Solanaceae reduzieren"
+  ],
+  "host_range": [
+    "Tomaten (Solanum lycopersicum)",
+    "Tabak (Nicotiana tavacum)",
+    "Pfeffer (Capsicum spp.)",
+    "Andere Solanaceae-Arten"
+  ],
+  "control": [
+    "Handpicking Larven in kleinen Gärten",
+    "Biologische Kontrolle mit Bacillus thuringiensis (Bt) oder parasitären Wespen",
+    "Verwendung von Reihenabdeckungen für Jungpflanzen",
+    "Ermutigende natürliche Raubtiere wie Vögel und Raubinsekten"
+  ],
+  "notes": [
+    "Sphinx-Mottelarven werden oft mit anderen großen Raupen verwechselt; suchen Sie nach dem Horn am hinteren Ende.",
+    "Das Management konzentriert sich hauptsächlich auf das Larvenstadium, da Erwachsene vorteilhafte Bestäuber sind."
+  ]
+}

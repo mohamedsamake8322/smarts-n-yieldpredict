@@ -1,79 +1,79 @@
 {
- "disease": "Red Spider Mite Infestation",
- "scientific_name": "Tetranychus urticae (and related spider mite species)",
- "pathogen_type": "Arachnid pest (mite)",
- "description": "Red spider mites are tiny arachnid pests that feed on plant sap by piercing leaf cells. They reproduce quickly in warm and dry conditions and can cause serious damage to crops by reducing photosynthesis and weakening plants.",
- "symptoms": [
-  "Small pale or yellow spots on leaves (stippling)",
-  "Leaves losing their green color",
-  "Fine silk webbing on leaves and stems",
-  "Leaves turning yellow or brown",
-  "Leaf drying and falling",
-  "Severely weakened plants or plant death"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Bean",
-  "Cucumber",
-  "Pepper",
-  "Eggplant",
-  "Apple",
-  "Citrus",
-  "Grapevine",
-  "Cotton",
-  "Maize",
-  "Ornamental plants",
-  "Greenhouse crops"
- ],
- "favorable_conditions": [
-  "Hot temperatures",
-  "Dry conditions",
-  "Low humidity",
-  "Dusty crop environments",
-  "Crowded greenhouse conditions"
- ],
- "spread": [
-  "Wind",
-  "Movement of infested plants",
-  "Contaminated tools or clothing",
-  "Plant-to-plant contact"
- ],
- "impact": [
-  "Reduced photosynthesis",
-  "Leaf loss",
-  "Reduced crop yield",
-  "Sunburn on fruits due to canopy loss",
-  "Plant weakening or death in severe infestations"
- ],
- "cultural_control": [
-  "Increase humidity around plants",
-  "Regularly spray plants with water",
-  "Remove heavily infested leaves or plants",
-  "Clean crop debris and weeds",
-  "Avoid dusty conditions in fields or greenhouses"
- ],
- "biological_control": [
-  "Predatory mite Phytoseiulus persimilis",
-  "Predatory mite Amblyseius californicus",
-  "Predatory midge Feltiella acarisuga",
-  "Lady beetles (ladybugs)",
-  "Green lacewing larvae",
-  "Fungus Beauveria bassiana"
- ],
- "chemical_control": [
-  "Neem oil",
-  "Miticides or acaricides when infestations are severe",
-  "Use selective pesticides compatible with biological control"
- ],
- "prevention": [
-  "Monitor leaves regularly with a hand lens",
-  "Maintain good irrigation and humidity",
-  "Remove plant debris after harvest",
-  "Use integrated pest management (IPM)"
- ],
- "source": [
-  "CABI BioProtection Portal",
-  "Agricultural pest management references"
- ]
+  "disease": "Kırmızı Örümcek Infestation",
+  "scientific_name": "Tetranychus urticae (ve ilgili örümcek mite türleri)",
+  "pathogen_type": "Arachnid Hastalığı (Mite)",
+  "description": "Kırmızı örümcek mitleri, bitki çorbasını, yaprak hücrelerini yırtarak besleyen küçük arachnid böceklerdir. sıcak ve kuru koşullarda hızlı bir şekilde çoğalırlar ve bitkileri fotosentez ve zayıflatarak azaltarak bitkilere ciddi zarar verebilirler.",
+  "symptoms": [
+    "Küçük sarı veya sarı lekeler yapraklar üzerinde (kırpma)",
+    "Yeşil renklerini kaybeder",
+    "Yapraklar ve çamurlar üzerinde güzel silk webbing",
+    "Sarı veya kahverengi dönen yapraklar",
+    "Yapraklar kurutulur ve düşer",
+    "Çoğunlukla zayıflatılmış bitkiler veya bitki ölümü"
+  ],
+  "hosts": [
+    "domates",
+    "Strawberry için",
+    "Bean",
+    "Çanakkale",
+    "Pepper için",
+    "Yumurta",
+    "Apple",
+    "Citrüs",
+    "Grapevine",
+    "Pamuk",
+    "Maize",
+    "Orjinal Bitkiler",
+    "Yeşillik Bitkileri"
+  ],
+  "favorable_conditions": [
+    "Sıcaklıklar",
+    "kuru koşullar",
+    "düşük nem",
+    "Yumuşak bitki ortamları",
+    "Çoğaltılmış sera koşulları"
+  ],
+  "spread": [
+    "rüzgar",
+    "Enfekte Bitkilerin Hareketi",
+    "kirlenmiş aletler veya kıyafetler",
+    "Bitki ile Bitki İletişim"
+  ],
+  "impact": [
+    "Düşük fotosentez",
+    "Leaf kaybı",
+    "Düşük bitki üretimi",
+    "Canopy kaybı nedeniyle meyvelerde güneş yanması",
+    "Bitki zayıflaması veya şiddetli enfeksiyonlarda ölüm"
+  ],
+  "cultural_control": [
+    "Bitkilerin etrafında nem artışı",
+    "Düzenli olarak su ile püskürtme bitkileri",
+    "Şiddetle kirlenmiş yaprakları veya bitkileri çıkarın",
+    "Temiz bitki çöpleri ve tahılları",
+    "Topraklarda veya sera alanlarında kirli koşullardan kaçının."
+  ],
+  "biological_control": [
+    "Fytoseiulus persimilis ile ilgili bilgiler",
+    "Anasayfa GÜNCEL Amblyseius californicus",
+    "Çiğ köfte Feltiella acarisuga",
+    "Lady Beetles (← bağlantılar  değiştir)",
+    "yeşil yırtıcı larva",
+    "Fungus Beauveria Bassiana Hakkında"
+  ],
+  "chemical_control": [
+    "Yağ alın",
+    "Mitikler veya akarikler, infestasyonlar şiddetli olduğunda",
+    "Biyolojik kontrolle uyumlu seçici pestisitler kullanın"
+  ],
+  "prevention": [
+    "Monitör düzenli olarak bir el lensiyle çıkıyor",
+    "İyi sulama ve nem korumak",
+    "Yetiştirildikten sonra bitki çöpleri çıkarın",
+    "Entegre pest yönetimi (IPM)"
+  ],
+  "source": [
+    "CABI Biyolojik Koruma Portalı",
+    "Tarımsal pestlik yönetimi referansları"
+  ]
 }

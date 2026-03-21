@@ -1,63 +1,90 @@
 {
-  "pest_name": "Southern root-knot nematode",
-  "scientific_name": "Meloidogyne incognita",
-  "common_abbreviations": ["RKN", "southern root-nematode", "cotton root-knot nematode"],
-  "description": "Meloidogyne incognita is a plant-parasitic roundworm that attacks roots of a wide variety of plants, causing large irregular galls. It is one of the most common and economically important root-knot nematodes worldwide.",
-  "distribution": "Widely spread globally, found in many different soil types, mainly tropical and subtropical regions.",
+  "pest_name": "الجذر- kknth",
+  "scientific_name": "3 - 1 - 1 - 3 3 - 3 3",
+  "common_abbreviations": [
+    "RKN",
+    "جذر الجنوب",
+    "جذر المُنتر"
+  ],
+  "description": "الميلويد أوجين (Miloidoogline in cogeta) هي دودة دائرية طفيلية نباتية تهاجم جذور مجموعة واسعة من النباتات، مما يسبب مشاجرات كبيرة غير منتظمة. وهي واحدة من أكثر الجذور شيوعاً واهمية من الناحية الاقتصادية - knot- نيماتود في جميع أنحاء العالم.",
+  "distribution": "وينتشر انتشاراً واسعاً على الصعيد العالمي، ويوجد في العديد من أنواع التربة المختلفة، ولا سيما في المناطق المدارية وشبه المدارية.",
   "host_range": {
-    "general": "Extremely polyphagous, attacking both monocotyledons and dicotyledons; estimated over 3,000 plant species.",
-    "notable_hosts": ["Cassava (Manihot esculenta)", "Cotton", "Tomato", "Pepper", "Tobacco", "Coffee"]
+    "general": "2 - ثنائي الفينيل متعدد الفازاوي المتطرّف، الذي يهاجم كلاً من الأكواد أحادية الكوتيل والديكوتيليكليز؛ يقدر بأكثر من 000 3 نوع نباتي.",
+    "notable_hosts": [
+      "(مانيهوت سسكولينتا)",
+      "القطن",
+      "طاطاطاطاط",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+      "اللسنج",
+      "جيم -"
+    ]
   },
   "symptoms": {
-    "above_ground": ["Water stress", "Nutrient stress", "Yellowing", "Wilting", "Stunting"],
-    "below_ground": ["Galls on roots, bulbs, and tubers", "Plant death in high infestations"]
+    "above_ground": [
+      "(الضغط)",
+      "",
+      "_",
+      "الترويج",
+      "المسنتنغ"
+    ],
+    "below_ground": [
+      "جالات على الجذور ، المصابيح ، والبطارات",
+      "الوفاة في حالة الوفاة في الحالات المرتفعة"
+    ]
   },
   "morphology": {
     "female": {
-      "shape": "Pear-shaped",
-      "posterior_protuberance": "None",
-      "stylet_length": "15–16 μm",
-      "stylet_knobs": "Rounded, offset",
-      "perineal_pattern": "Oval to rounded, high dorsal arch, wavy striae, lateral field absent or weakly demarcated"
+      "shape": "الوفر - على شكل",
+      "posterior_protuberance": "أي شيء",
+      "stylet_length": "15 - 16 ميكروم",
+      "stylet_knobs": "الموارد الخارجة عن - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+      "perineal_pattern": "مائل إلى مُدْرَبَجَة، عالي جداً قوس دورسال، ووافي striae، حقل جانبي غائب أو مُرسَم بشكل ضعيف"
     },
     "male": {
-      "shape": "Vermiform",
-      "head": "Not offset, elevated labial disc, usually without lateral lips",
-      "stylet_length": "23–26 μm",
-      "stylet_knobs": "Rounded to oval, offset"
+      "shape": "لمريشيل",
+      "head": "لا يُعوّض عن ذلك، ارتفاع مستوى القرص المختبري، عادة بدون شفتين أفقيتين",
+      "stylet_length": "23 - 26 ميكروم",
+      "stylet_knobs": "من 1 إلى 31 كانون الأول/"
     },
     "juvenile": {
-      "stage": "Second stage (J2)",
-      "body_length": "350–450 μm",
-      "tail_length": "43–65 μm",
-      "hyaline_region": "6–14 μm long",
-      "shape": "Rounded tail tip"
+      "stage": "المرحلة الثانية (J2)",
+      "body_length": "٣٥٠ - ٤٥٠ ميكروم",
+      "tail_length": "43 - 65 ميكرو ميكروم",
+      "hyaline_region": "6 - 14 ميكرو ميكروم",
+      "shape": "الجزء المدور من"
     }
   },
   "life_cycle": {
-    "stages": ["Egg", "J1", "J2 (infective)", "J3", "J4", "Adult"],
-    "description": "J2 juveniles hatch from eggs, penetrate root tips, migrate to vascular tissue, form permanent feeding sites (giant cells), molt to adults. Females become globose and lay eggs in gelatinous mass; males leave roots. Life cycle completes in 37 days at 21 °C.",
-    "reproduction": "Sexually dimorphic; females sedentary, males vermiform"
+    "stages": [
+      "بيض",
+      "",
+      "J2 (العدوى)",
+      "",
+      "",
+      "الراشر"
+    ],
+    "description": "(ج2) يفقس الأحداث من البيض، ويخترقون الجذور، ويهاجرون إلى الأنسجة الوعائية، ويشكلون مواقع تغذية دائمة (زنزانات أحيائية)، ويذوبون إلى البالغين، وتتحول الإناث إلى جلوبات وتضع البيض في الكتلة الغلياتينية؛ ويترك الذكور الجذور، وتكتمل دورة الحياة في 37 يوما عند 21 درجة مئوية.",
+    "reproduction": "(ب) الإناث في حالة عدم وجود، الذكور في حدود"
   },
   "behavior": {
-    "thermotaxis": "Can detect and move along very shallow temperature gradients to find roots",
-    "chemotaxis": "Responsive to chemical cues from host roots"
+    "thermotaxis": "قادرة على الكشف والحركة على طول درجات حرارة سطحية جداً للعثور على الجذور",
+    "chemotaxis": "مستجيباً للإشارات الكيميائية من الجُزُر"
   },
   "management": {
     "cultural_control": [
-      "Crop rotation with nonhost or resistant varieties",
-      "Use of organic amendments",
-      "Plant antagonistic crops like Crotalaria spectabilis and Tagetes species"
+      "دوران المحاصيل مع الأصناف غير المأهولة أو المُسِرة",
+      "استخدام التعديلات العضوية",
+      "محاصيل معادية للنباتات مثل أنواع الكروتالاريا"
     ],
     "biological_control": [
-      "Egg-parasitic fungi such as Paecilomyces lilacinus"
+      "فطريات طفيليات البيض مثل المهرجي مثل Paeciloomy celacinus"
     ],
     "chemical_control": [
-      "Several nematicides available commercially"
+      "عـدد مـن المعطيات"
     ]
   },
   "notes": [
-    "Causes severe galling and yield loss in many crops",
-    "Major economic importance in tropical and subtropical agriculture"
+    "(ب) ما يسببه من نقص حاد في المزروعات وخسارة غلة في العديد من المحاصيل",
+    "الأهمية الاقتصادية الكبرى في الزراعة الاستوائية وشبه المدارية"
   ]
 }

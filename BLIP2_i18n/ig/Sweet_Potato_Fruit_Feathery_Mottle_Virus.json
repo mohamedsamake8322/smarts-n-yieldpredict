@@ -1,0 +1,128 @@
+{
+  "pest_name": "AGBOR 7 (Bekee)",
+  "abbreviation": "PỌZỌ",
+  "type": "Nje virus",
+  "history": "Ihe ka ọtụtụ n'ime ha na - ekesa nje virus ndị na - atọ ụtọ n'ụwa nile, bụ́ ndị a chọpụtara n'Ịtali n'oge na - adịbeghị anya dị ka ihe bụ́ isi so akpata ọrịa ogbu na nkwonkwo nke United States.",
+  "structure": {
+    "genome_type": "Ítụ̀ nà-dēèlụ̀",
+    "genome_length_bases": 10820,
+    "organization": [
+      "Sọsọọ́dēèlụ̀",
+      "3 IHE NDỊ GA - ENYERE GỊ AKA",
+      "PAAA) ọdụ ụgbọ mmiri"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Ihe omume ntụkwasị obi bụ́ nke a na - eme iji mee ka a nọgide na - arụ ọrụ a na - arụ"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteli, bụ́ onye na-enye aka n'ihe nrite, nke were ogologo oge-ọ́ọ̀kụ̀"
+      },
+      {
+        "name": "P3",
+        "function": "Ọrụ a na - arụ n'oge a bụ ọrụ a na - arụ n'ụlọ"
+      },
+      {
+        "name": "6K1",
+        "function": "Amaghị"
+      },
+      {
+        "name": "CI",
+        "function": "Na - eme ka ahụ́ gị na - arụ ọrụ nke ọma, ọ na - eme ka ahụ́ gị na - arụ ọrụ nke ọma"
+      },
+      {
+        "name": "6K2",
+        "function": "Amaghị, tinye aka n'ihe ndị na - ekwesịghị ekwesị"
+      },
+      {
+        "name": "NIa",
+        "function": "VPg na protein"
+      },
+      {
+        "name": "NIb",
+        "function": "Ihe Ndị Na - akpali Agụụ Mmekọahụ"
+      },
+      {
+        "name": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+        "function": "Mmiri ọgwụ ahụ́ bụ́ protein, mgbakọ na - adị n'ahụ́ ọkụ, mmịnye ọbara, na - agbasa"
+      }
+    ],
+    "virion_shape": "Ogologo oge, ogologo oge, mkpara-hahas",
+    "virion_length_nm": "810-8N"
+  },
+  "life_cycle": {
+    "entry": "Anadu ma ọ bụ onye na-arụ ọrụ site n'ụzọ e si ede ihe",
+    "replication": "Jenome sụgharịrị gaa n'akwụkwọ bụ́ St1 HC-Proro, NIatetet",
+    "translation_helpers": [
+      "HC-Pro na-ezu, VPg, NIa"
+    ],
+    "gene_silencing_suppression": "HC-Pro na-enweghị ihe mgbochi",
+    "packaging": "Anwụrụ Ọkụ Na - esi n'Ahụ́ Ruo n'Ime Ala"
+  },
+  "transmission": {
+    "vectors": [
+      "Ebe A Na - anọ Akparịta Ụka n'Intanet"
+    ],
+    "mechanism": "Na-enweghị isi, site n'inye nkọwa n'ụdị nkọwa",
+    "seed_transmission": "Ọ bụghị site ná mkpụrụ ka a na - ewepụta",
+    "host_range": [
+      "Ipoblateth. (I. alba, I. I. Herrarara, I. I., I.I. . lasa, I. . . . . . . . . . . . . .",
+      "Ma, e nwere otu nwoke aha ya bụ Naconana. (N.M.B.llinlanana, N., N.",
+      "Chenanabbbo quinoa",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ]
+  },
+  "symptoms": {
+    "typical": "Ụcha ndị dị oké ọnụ ahịa bụ́ ndị dị n'akwụkwọ",
+    "severe_strains": [
+      "Anwụrụ ọkụ si n'ahụ́ ya",
+      "Ihe ndị e ji ebi akwụkwọ",
+      "Isiji ya"
+    ],
+    "co-infections": {
+      "SPVD": "Ndị na-eme egwuregwu mgbe ha na-eme ka ihe ndị na-eme ka ihe ghara isi ike; na-eme ka ihe ghara ito ngwa ngwa, na-enweghị isi, akwụkwọ osisi ndị siri ike, akwụkwọ nta, belata ihe ndị ọ rụpụtara",
+      "synergism_effects": "NDỊ na - emepụta fim bụ́ ndị na - eru narị isii na iri isii n'ime ha; na - agbasa ma na - agbasa ngwa ngwa karị"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "Ebe Ọwụwa Anyanwụ Africa"
+      },
+      {
+        "name": "RC",
+        "location": "Australia, Africa, Ebe Ugwu America, Eshia"
+      },
+      {
+        "name": "Kèánáhụ́chāghị́ányá",
+        "location": "Africa, Eshia, Ebe Ndịda America"
+      },
+      {
+        "name": "C",
+        "location": "Australia, Africa, Eshia, Ebe Ugwu na Ebe Ndịda America"
+      }
+    ],
+    "mutation_sources": "Ọ bụrụ na ihe ndị dị n'ahụ́ mmadụ na - ekewa onwe ha; usoro mkpụrụ ndụ ihe nketa ndị dị n'ahụ́ ya na - emetụta otú ahụ́ onye ahụ na - adị"
+  },
+  "agricultural_impact": {
+    "affected_tissues": "Mkpụrụ Ndụ Ihe Nketa, Ọ Bụghị Ịmụghachi Ụmụ",
+    "yield_loss": "Ndị dị iche iche pụrụ ịdị site na 50% ruo n'ịbụ ndị mfu zuru ezu, karịsịa n'ihe ndị a na-amaghị ama",
+    "affected_regions": "seaia, Southern Africa, karịa, n'ógbè ndị ọzọ dịpụrụ adịpụ bụ́ ndị a na-amaghị ama",
+    "social_impact": "Ndị ọrụ ugbo bụ́ ndị na - adịghị eri ihe ndị na - edozi ahụ́ na - adabere n'ihe oriri ndị na - atọ ụtọ dị ka nri ndị bụ́ isi"
+  },
+  "management": {
+    "early_detection": "IHE e ji amata nje virus",
+    "removal": "Wepụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa ka ha wee ghara ịgbasa",
+    "prevention": [
+      "Ihe ndị na-enweghị ihe jikọrọ ha na nje virus-enweghị isi",
+      "Ngwá ọrụ ndị dị ọcha bụ́ ndị kwesịrị ekwesị iji gbochie ibu ibu",
+      "Jiri ihe ọkụkụ ndị a gbanwere mkpụrụ ndụ ihe nketa ha, bụ́ ndị na - egosipụta mkpụrụ ndụ ihe nketa nke mkpụrụ ndụ ihe nketa"
+    ]
+  },
+  "references": [
+    "Ebe dị iche iche e si enweta ihe ọkụkụ na ihe ọmụmụ banyere ọrịa obi, bụ́ ndị e zoro aka na ha n'ebe onye na-arụ ọrụ nọ, nwere ọtụtụ ihe ndị na-eme ka o nwee afọ ojuju"
+  ]
+}

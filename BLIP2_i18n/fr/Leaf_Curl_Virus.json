@@ -1,42 +1,47 @@
 {
-  "disease": "Leaf Curl Virus",
-  "scientific_name": "Tomato leaf curl virus (ToLCV)",
-  "pathogen_type": "Virus (ssDNA, Begomovirus)",
-  "description": "A viral disease causing curling and distortion of leaves, stunting growth and reducing fruit yield. Transmitted by whiteflies.",
+  "disease": "Virus des courbures foliaires",
+  "scientific_name": "Virus des feuilles de tomate (ToLCV)",
+  "pathogen_type": "Virus (ADNs, Begomovirus)",
+  "description": "Une maladie virale causant le curling et la distorsion des feuilles, retardant la croissance et réduisant le rendement des fruits.",
   "symptoms": [
-    "Upward or downward curling of leaves",
-    "Yellowing along leaf veins",
-    "Stunted growth and reduced fruit size",
-    "Severe infection can kill young plants"
+    "Curling vers le haut ou vers le bas des feuilles",
+    "Jaunissant le long des nervures des feuilles",
+    "Croissance étouffée et réduction de la taille des fruits",
+    "Une infection sévère peut tuer de jeunes plantes"
   ],
-  "hosts": ["Tomato", "Pepper", "Eggplant", "Other Solanaceae"],
+  "hosts": [
+    "Tomates",
+    "Poivre",
+    "Aubergines",
+    "Autres Solanaceae"
+  ],
   "favorable_conditions": [
-    "Warm weather",
-    "High whitefly population",
-    "Dense planting with poor airflow"
+    "Temps chaud",
+    "Population élevée de mouches blanches",
+    "Plantation dense avec un faible débit d'air"
   ],
   "spread": [
-    "Whiteflies (primary vector)",
-    "Infected seedlings or grafts",
-    "Contaminated tools or handling"
+    "Papillons blancs (vecteur primaire)",
+    "Plantules ou greffons infectés",
+    "Outils ou manipulation contaminés"
   ],
   "management": [
-    "Grow resistant or tolerant cultivars",
-    "Control whitefly populations",
-    "Remove and destroy infected plants",
-    "Maintain proper plant spacing"
+    "Cultivars résistants ou tolérants à la culture",
+    "Populations témoins de mouches blanches",
+    "Enlever et détruire les plantes infectées",
+    "Maintenir un espacement approprié des plantes"
   ],
   "chemical_control": [
-    "Insecticides to manage whiteflies (e.g., imidacloprid)",
-    "Use insecticidal soap or neem sprays as preventive"
+    "Insecticides pour la gestion des mouches blanches (p. ex., imidacloprid)",
+    "Utiliser du savon insecticide ou des vaporisateurs de neem comme prévention"
   ],
   "prevention": [
-    "Start with virus-free seedlings",
-    "Monitor whitefly populations",
-    "Avoid planting near infected crops"
+    "Commencez par des semis exempts de virus",
+    "Surveiller les populations de mouches blanches",
+    "Éviter de planter près des cultures infectées"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Pest and Disease Factsheets"
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Fiches d'information de la FAO sur les parasites et les maladies"
   ]
 }

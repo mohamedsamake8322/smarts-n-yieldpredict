@@ -1,0 +1,81 @@
+{
+  "pest_name": "Stem-Boring Weevil",
+  "scientific_name": "Mecinus janthinus Germar",
+  "type": "Insekten",
+  "native_range": [
+    "Europa",
+    "Länder Mittel- und Osteuropas"
+  ],
+  "introduced_range": [
+    "Vereinigte Staaten von Amerika"
+  ],
+  "hosts": {
+    "primary": [
+      "Gelbe Kröten (Linaria vulgaris)"
+    ],
+    "secondary": [
+      "dalmatinische Krötenflax (Linaria dalmatica)"
+    ]
+  },
+  "description": {
+    "eggs": {
+      "color": "weiß",
+      "shape": "oval"
+    },
+    "larvae": {
+      "shape": "C-förmig",
+      "color": "cremig-weiß",
+      "head_capsule": "braun",
+      "length_mm": 5
+    },
+    "pupae": {
+      "color": "cremig-weiß",
+      "features": [
+        "auffällige Anhängsel",
+        "Lange Schnauze"
+      ]
+    },
+    "adults": {
+      "color": "bläulich-schwarz (selten grünlich-schwarz)",
+      "length_mm": "2.4–3.4",
+      "shape": "länglich mit langen Schnauzen und Ellenbogenantennen",
+      "metallic_sheen": "subtil, wenn neu entstanden, stumpf mit dem Alter",
+      "comparison": "kleiner und weniger abrupt gekrümmte Schnauzen als M. janthiniformis"
+    }
+  },
+  "life_cycle": {
+    "generation_per_year": 1,
+    "overwintering_stage": "Erwachsener in den Krötenstämmen des Vorjahres",
+    "spring_emergence": "Frühfrühling, Zeitpunkt variiert nach standortspezifischen Faktoren",
+    "adult_feeding": "neue Shoot-Tipps und Blätter, produziert Schussloch Verletzung Muster",
+    "egg_laying": {
+      "method": "Weibchen kauen Löcher in Stängeln, Eier einzeln legen, mit gekautem Pflanzengewebe bedecken",
+      "quantity_per_lifetime": "60–160 unter Laborbedingungen"
+    },
+    "larval_feeding": "3 Instars, Mine unteren Stängel in Tunneln",
+    "pupation": "Hochsommer in Larventunneln",
+    "adult_emergence": "Spätsommer, Überwinterung in Pupalkammern"
+  },
+  "damage": {
+    "adult": [
+      "kaut wachsende Spitzen, Stängel, Blätter",
+      "Unterscheidungskraft Schuss Loch Verletzung Muster",
+      "schwächt Pflanzen, unterdrückt Blüte und Saatgutproduktion",
+      "Stunts schießt, schießen Spitzen drehen braun und shrivel"
+    ],
+    "larval": [
+      "Minenstänge, Severs Wasser/Nährstoff-leitende Gewebe",
+      "verursacht Austrocknung und Tod von Pflanzengewebe",
+      "wahrscheinlich erschöpft Wurzel Nährstoffreserven, Auswirkungen auf die Pflanzen Persistenz"
+    ],
+    "long_term_impact": "Wiederholter jährlicher Angriff reduziert die Krötendichte"
+  },
+  "management_notes": [
+    "Biokontrollmittel gegen invasive Toadflax in Nordamerika",
+    "Überwachung der erwachsenen Entstehung im Frühjahr kann Management-Strategien führen",
+    "Unterstützung einer langfristigen Reduzierung der Kröten-Populationen"
+  ],
+  "references": [
+    "Sing, S.E., De Clerck-Floate, R.A., Randall, C.B., Toševski, I. 2022. Toadflax Biocontrol Agents: Geschichte und Ökologie in Nordamerika. In: Biologische Kontrolle von Unkraut in Nordamerika. NAISMA-BCW-2022-29-TOADFLAXES-A."
+  ]
+}

@@ -1,60 +1,60 @@
 {
- "disease": "Geotrichum Fruit Rot of Cucurbits",
- "scientific_name": "Geotrichum candidum",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
- "symptoms": [
-  "Soft watery rot on fruits",
-  "White cottony mold on infected areas",
-  "Fruit tissue becomes soft and collapses",
-  "Sour or fermented smell from infected fruit",
-  "Rot usually starts at wounds or damaged areas"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Wounded or damaged fruits",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Handling of infected fruits",
-  "Wounds caused during harvest or transport"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Remove and destroy infected fruits",
-  "Improve field and storage sanitation",
-  "Ensure good ventilation during storage",
-  "Harvest fruits at proper maturity"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
-  "Apply Bacillus-based biofungicides to reduce pathogen development"
- ],
- "chemical_control": [
-  "Post-harvest fungicides containing thiabendazole",
-  "Imazalil-based treatments in storage facilities",
-  "Sanitation with approved disinfectants to reduce contamination"
- ],
- "prevention": [
-  "Avoid fruit injuries during harvest and transport",
-  "Maintain clean storage conditions",
-  "Remove plant debris from fields",
-  "Store fruits in cool and dry conditions"
- ],
- "source": [
-  "Plant pathology references on cucurbit post-harvest diseases",
-  "CABI Crop Protection Compendium",
-  "Plant disease management guides"
- ]
+  "disease": "روتة من Qucurbs",
+  "scientific_name": "2 مدّة",
+  "pathogen_type": "المنقوس",
+  "description": "مرض فطري يسبب تعفنا ناعما على الفواكه القَطَرية مثل الخيار ، البطيخ ، واليقطين ، فهو يؤثر بشكل رئيسي على الناجين او الثمار المتلفة وينتج قالبا ابيض يصبح لاحقا حامضا وماءا .",
+  "symptoms": [
+    "الماء العذب التعفن على الفواكه",
+    "قالب أبيض في المناطق المصابة",
+    "تُصبح النواة والانهيارات",
+    "من الفواكه المُحْتَكِب أو المُخْتَمِج",
+    "عادة ما يبدأ التناوب عند الجروح أو المناطق التالفة"
+  ],
+  "hosts": [
+    "",
+    "",
+    "",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "سواش",
+    "أنواع أخرى من المحاصيل الطوقية"
+  ],
+  "favorable_conditions": [
+    "درجة حرارة",
+    "الرطوبة العالية",
+    "أو الثمار المقطوعة أو المتلفة",
+    "سوء التغذية أثناء التخزين"
+  ],
+  "spread": [
+    "ألف - التروب",
+    "أُطلِلَة المُعَيَّنَةُ",
+    "مناولة الثمار المُحْتة",
+    "الجروح التي تُسبب أثناء الحصاد أو النقل"
+  ],
+  "management": [
+    "تَدْوِنَا مِنْاةً مِنْ تَجَنُّبِ ٱلْجُرْحِ",
+    "(أ) إزالة وتدمير ما يلي:",
+    "تحسين الصرف الصحي في الميدان والتخزين",
+    "ضمان جودة التهوية أثناء التخزين",
+    "الفواكه عند النضج السليم"
+  ],
+  "biological_control": [
+    "استخدام الميكروبات المفيدة مثل أنواع الترايشودرما لقمع النمو الفطري",
+    "تطبيق مبيدات الآفات الأحيائية القائمة على الأسيليس للحد من تطور مسببات الأمراض"
+  ],
+  "chemical_control": [
+    "مبيدات الفطريات بعد الحصاد المحتوية على الثابيندازول",
+    "العلاجات القائمة على أساس الإمازال في مرافق التخزين",
+    "مرافق الصرف الصحي مع مطهرات معتمدة للحد من التلوث"
+  ],
+  "prevention": [
+    "حالات تحاشي حدوث إصابات فاكهة أثناء الحصاد والنقل",
+    "المحافظة على ظروف التخزين النظيف",
+    "(أ) إذا كان قد حدث",
+    "تخزن الفواكه في ظروف باردة وجافة"
+  ],
+  "source": [
+    "مراجع أمراض النبات بشأن أمراض ما بعد الحصاد",
+    "مجموعة حماية المُنتَجَب",
+    "أدلة إدارة أمراض النبات"
+  ]
 }

@@ -1,0 +1,42 @@
+{
+  "pest_name": "OKÉ OSIMIRI PỤRỤ ICHE",
+  "causal_agent": "Ole Ndị Bụ Ezigbo Ndị Enyi M?",
+  "type": "Ihe ndị e ji atụrụ ndụ",
+  "distribution": "Zuru Ụwa Ọnụ",
+  "host_plants": [
+    "Ihe ndị e ji emenwu ọkụ, karịsịa ihe ndị e dere n'ala ala peeji"
+  ],
+  "symptoms": {
+    "leaf": "N'ọnọdụ ndị na - acha anụnụ anụnụ ma ọ bụ ndị na - acha odo odo bụ́ ndị dị n'akwụkwọ ndị meworo ochie.",
+    "stem_petiole": "Ebe ndị a na - edebe akwụkwọ, bụ́ ndị na - enye aka eme ka e nwee ebe ndị a na - edebe akwụkwọ n'ala ala peeji, ma ọ bụ ebe a na - edebe akwụkwọ osisi.",
+    "fruit": "Mkpụrụ osisi ndị dị ize ndụ, bụ́ ndị a gbara agba ma ọ bụrụ na ọrịa ahụ amalite n'isi ụtụtụ.",
+    "roots_flowers": "O nwere ike ịbụ na ọtụtụ ndị anaghị eme otú ahụ, ma ha anaghị emekarị otú ahụ."
+  },
+  "conditions_favoring_disease": {
+    "temperature": "Nke a na - eme ka ahụ́ ya na - ekpo ọkụ; ọ na - eme ka ọ na - eto nke ọma; ọ na - eme ka mmadụ ghara ịrịa ọrịa ahụ mgbe ọ dị afọ iri abụọ na otu, ma ọ bụ mgbe ọ fọrọ obere ka o ruo otu narị puku lita abụọ na iri asatọ.",
+    "humidity": "Ihe Ọma Ndị Pụrụ Iche Anyị Nwere Ike Ime Ka Anyị na Ndị Ọzọ Na - adị ná Mma",
+    "light": "Ogologo ụbọchị na - akwalite uto nke ọrịa",
+    "other_factors": "Ihe ndị na - enye ìhè na - eme ka ọ̀tụ̀tụ̀ ikpo ọkụ nke oge a na - enwe n'afọ nakwa n'oge e nwere ahịhịa ndị nwere nje ndị na - akpata ọrịa ma ọ bụ ata"
+  },
+  "pathogen_lifecycle": {
+    "survival": "Ọ dịkarịa ala, afọ abụọ, ma ọ bụ ndị nọ n'ụgbọ mmiri na - ebu nje ahụ",
+    "dispersal": "Ihe Ndị Na - akpata Ọrịa",
+    "infection": "Si n'ebe ahụ pụọ, n'ebe e si abanye n'ime ụlọ, n'ebe a na - akpa ákwà, n'osisi, n'ebe okooko osisi, nakwa ná mkpụrụ osisi, n'ọnọdụ ndị dị mma"
+  },
+  "management": {
+    "cultural": [
+      "Jiri ụdị dị iche iche na - eguzogide ihe mee ihe mgbe e nwere ha",
+      "Ime ka ebe obibi dị ọcha n'ubi nakwa n'ebe ndị a na - enwe okpomọkụ",
+      "Wepụ ma bibie iberibe ihe ọkụkụ ndị na - akpata ọrịa ahụ",
+      "N'ebe dị nso n'ebe a na - akụ ihe ọkụkụ dị"
+    ],
+    "chemical": [
+      "Mmiri ọgwụ ndị na - atọ ụtọ bụ́ ndị a na - aṅụ site n'ịkpọ ntụziaka ndị a na - enye"
+    ],
+    "integrated": "Ụdị dị iche iche na - eguzogide ụdị dị iche iche, usoro idebe ihe ọcha, na ihe omume ndị na - akpali akpali iji belata ọrịa"
+  },
+  "references": [
+    "Ígwè ọrụ ndị na - emepụta ọrịa na - eduzi ma na - etinye akwụkwọ ndị e ji amụ Bible n'ihe ize ndụ",
+    "A na - anụ akụkọ banyere ndị na - egbu ọchụ n'ụwa nile"
+  ]
+}

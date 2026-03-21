@@ -1,0 +1,65 @@
+{
+  "disease_name": "Weizen Blatt Streak Mosaic Virus",
+  "abbreviation": "WSMV",
+  "pathogen_type": "Virus",
+  "family": "Potyviridae",
+  "genus": "Tritimovirus",
+  "hosts": [
+    "Weizen (Triticum spp.)",
+    "Mais (Zea mays)",
+    "Roggen (Secale spp.)",
+    "Hafer (Avena-Arten)",
+    "Gerste (Hordeum spp.)",
+    "Sorghum",
+    "Hirse",
+    "Einige Gras Unkraut"
+  ],
+  "distribution": "Weltweit; vorherrschend in den Great Plains (USA), Australien und den meisten Weizenanbaugebieten",
+  "vector": {
+    "name": "Weizen-Curlmilbe",
+    "scientific_name": "Aceria tosichella",
+    "transmission_type": "semi-persistent",
+    "notes": "Milben sind langsame Raupen, verteilen sich hauptsächlich durch Wind und können das Virus zwischen Weizen und Mais übertragen."
+  },
+  "symptoms": [
+    "Flecken von vergilbten, nicht einheitlichen Verfärbungen auf Blättern",
+    "Stuntes Wachstum",
+    "Schwere Infektionen können einen 100%igen Ernteverlust verursachen",
+    "Symptome oft schwerer, wenn synergistische Infektionen mit Triticum mosaic Virus oder High Plains Virus auftreten"
+  ],
+  "disease_cycle": [
+    "Virusüberwinterungen in Gräsern und Getreidepflanzen und in infizierten Samen",
+    "Weizencurlmilben erwerben Viren von infizierten Pflanzen und übertragen es an gesunde Pflanzen",
+    "Milben hängen vom Wind ab, um sich zwischen Pflanzen und Feldern zu bewegen",
+    "Volunteer Weizen und Gras Unkraut wirken als Reservoirs für Milben und Viren",
+    "Mehrere Milbengenerationen pro Saison können die Ausbreitung verstärken"
+  ],
+  "conditions_for_development": [
+    "Warmes Wetter begünstigt Milbenreproduktion und Virusübertragung",
+    "Verfügbarkeit von freiwilligen Weizen oder grasige Gastgeber erhöht Krankheit Prävalenz",
+    "Frühe Pflanzung erhöht das Risiko aufgrund einer längeren Milbenexposition"
+  ],
+  "management": {
+    "cultural": [
+      "Vernichten Sie freiwillig Weizen mindestens 2 Wochen vor der Pflanzung neuen Winterweizen",
+      "Vermeiden Sie vorzeitige Pflanzung, um die Exposition gegenüber Milben zu reduzieren",
+      "Auswählen von Weizensorten mit geringerer WSMV-Anfälligkeit"
+    ],
+    "chemical": [
+      "Mitizide sind nicht wirksam gegen die Weizencurlmilbe zur Kontrolle der Virusausbreitung"
+    ],
+    "resistance": [
+      "Verwendung resistenter/toleranter Weizensorten, soweit vorhanden",
+      "Forschung an RNAi-basierten Resistenzen ist im Gange"
+    ]
+  },
+  "impact": [
+    "Ertragsverluste können bei anfälligen Sorten bis zu 100% erreichen",
+    "Co-Infektion mit anderen Viren kann Schäden verschlimmern"
+  ],
+  "references": [
+    "Seifers DL et al., 2002. Weizenstreifenmosaikvirus: Eine Übersicht. Pflanzenkrankheit 86: 781–790.",
+    "Martinez et al., 2019. Weizencurl-Mite-Virus-Interaktionen. Front. Plant Sci.",
+    "USDA-ARS Forschung über WSMV und Vektorbiologie."
+  ]
+}

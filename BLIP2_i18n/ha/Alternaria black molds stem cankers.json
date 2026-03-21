@@ -1,51 +1,51 @@
 {
-  "disease_name": "Alternaria Black Mold Stem Canker",
-  "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "disease_name": "KCharselect unicode block name",
+  "scientific_name": "Wata ' yar'uwa mai suna Maita Wa'azi a lokacin ta ce: \"A kwana kwanan nan, mutane da yawa ba sa son su yi baftisma. \"",
+  "pathogen_type": "MASU SHELA",
+  "genus": "Indian National weekday 3 - LongDayName",
+  "description": "Irin waɗannan ƙwayoyin halitta suna iya ɓata cuta mai ban dariya ta wajen yin amfani da abubuwan da ke faruwa a cikin ruwan sama. Hakan yana iya faruwa a ƙasashe da yawa, musamman ma ' ya'yan itatuwa da yawa, musamman ma shuke - shuke masu ban dariya da kuma yadda ake amfani da su a cikin gida. Ƙari ga haka, yana iya sa mutum ya yi girma sosai.",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "DakataCoptic weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "' Ya'ya"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "QShortcut",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "Abubuwan da za su iya sa a yi girma da baƙar fata sa'ad da aka soma mulmula su",
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?\"",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Sa'an nan, Muka tsirar da ƙwaya, a cikinta.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri)."
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "KCharselect unicode block name",
+    "Media controller element",
+    "KCharselect unicode block name",
+    "A cikin wasu ginshiƙai mĩƙaƙƙu"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "Yi Amfani da irin na'ura",
+      "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+      "KCharselect unicode block name",
+      "Media controller element"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
-      "Chlorothalonil",
-      "Copper-based fungicides"
+      "Irin mutanen da ba a taɓa yin amfani da su ba suna yin amfani da abubuwan da ba su dace ba.",
+      "KCharselect unicode block name",
+      "Indian National weekday 6 - LongDayName"
     ]
   }
 }

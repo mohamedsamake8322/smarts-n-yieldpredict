@@ -1,72 +1,72 @@
 {
- "disease": "Cucurbit Downy Mildew",
- "scientific_name": "Pseudoperonospora cubensis",
- "pathogen_type": "Oomycete (fungus-like pathogen)",
- "description": "A destructive foliar disease affecting cucurbit crops worldwide. It causes yellow leaf lesions and rapid leaf death, reducing plant growth and fruit yield. Severe outbreaks can cause major crop losses.",
- "symptoms": [
-  "Angular yellow or chlorotic spots on leaves",
-  "Lesions limited by leaf veins (especially on cucumber)",
-  "Gray to purple fuzzy growth on the underside of leaves",
-  "Lesions enlarge and become brown or necrotic",
-  "Leaves dry and die quickly",
-  "Reduced canopy leading to sunburn and fruit damage"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit species"
- ],
- "favorable_conditions": [
-  "Cool to moderate temperatures (15–20°C optimal)",
-  "High humidity",
-  "Frequent rain or long leaf wetness",
-  "Dense plant canopy with poor airflow"
- ],
- "spread": [
-  "Wind-dispersed sporangia",
-  "Rain splash",
-  "Contaminated tools or equipment",
-  "Long-distance airborne spread from infected regions"
- ],
- "infection_process": [
-  "Spores land on wet leaf surfaces",
-  "Zoospores swim to leaf stomata",
-  "Pathogen enters leaf through stomata",
-  "Hyphae grow inside leaf tissue and extract nutrients"
- ],
- "management": [
-  "Use tolerant or resistant cultivars when available",
-  "Improve airflow through plant spacing and pruning",
-  "Monitor crops regularly for early symptoms",
-  "Use forecasting systems to predict outbreaks",
-  "Remove heavily infected plant material"
- ],
- "biological_control": [
-  "Use microbial biopesticides such as Bacillus-based products",
-  "Encourage healthy soil microbiome to reduce disease pressure"
- ],
- "chemical_control": [
-  "Preventive fungicide sprays during high-risk periods",
-  "Apply fungicides every 5–7 days for cucumber or 7–10 days for other cucurbits during outbreaks",
-  "Rotate fungicides with different modes of action to prevent resistance",
-  "Active ingredients may include metalaxyl alternatives, strobilurins, or other registered fungicides"
- ],
- "prevention": [
-  "Plant resistant cultivars when available",
-  "Ensure good air circulation in fields",
-  "Avoid prolonged leaf wetness from irrigation",
-  "Use disease forecasting tools to time fungicide sprays"
- ],
- "impact": [
-  "Can cause yield losses up to 80–100% in severe outbreaks",
-  "Major threat to cucurbit production worldwide"
- ],
- "source": [
-  "Michigan State University Plant Pathology",
-  "Savory et al. – Molecular Plant Pathology",
-  "Cucurbit Downy Mildew IPM resources"
- ]
+  "disease": "库库比·唐尼·米尔杜",
+  "scientific_name": "立方体",
+  "pathogen_type": "Oomycete(类似蘑菇的病原体)",
+  "description": "一种破坏性的叶子疾病影响着全世界的作物,造成黄叶损伤和迅速的叶子死亡,降低植物生长和水果产量。 严重的爆发会造成重大作物损失。",
+  "symptoms": [
+    "叶叶上角黄色或叶绿化点",
+    "受叶静脉(特别是黄瓜)限制的疏漏",
+    "树叶下部的灰色至紫色模糊生长",
+    "枯萎膨胀 变成棕色或腐烂",
+    "干枯,死得很快",
+    "减少树冠树冠,导致晒伤和水果破坏"
+  ],
+  "hosts": [
+    "黄瓜",
+    "环环",
+    "西瓜",
+    "南瓜",
+    "安静",
+    "其他种"
+  ],
+  "favorable_conditions": [
+    "冷至中温温度(15-20°C最佳)",
+    "高湿湿度",
+    "频繁雨雨或长叶干湿",
+    "空气流量差的密集植物树冠"
+  ],
+  "spread": [
+    "风向驱散的狂风",
+    "雨水喷雨",
+    "受污染工具或设备",
+    "从受感染地区远距离空中传播"
+  ],
+  "infection_process": [
+    "湿叶表面的喷泉",
+    "动物园游向树叶",
+    "病原体通过stomata进入叶叶子",
+    "Hyphae在叶叶组织内部生长,提取营养物"
+  ],
+  "management": [
+    "如有耐用或抗耐用的栽培品种,则使用",
+    "通过植物间距和修剪改善空气流量",
+    "定期监测作物的早期症状",
+    "利用预报系统预测疾病爆发",
+    "清除严重受感染的植物材料"
+  ],
+  "biological_control": [
+    "使用微生物生物农药,如巴氏菌基产品",
+    "鼓励健康的土壤微生物,以减少疾病压力"
+  ],
+  "chemical_control": [
+    "高风险时期的预防杀真菌剂喷洒",
+    "黄瓜每5至7天施杀真菌剂5至7天一次,疾病爆发期间其他黄瓜每7至10天一次施杀菌剂7至10天一次",
+    "以不同行动方式旋转杀真菌杀菌剂以防止抗药性",
+    "活性成分可能包括金属氧基替代品、菌素或其他已登记的杀真菌剂。"
+  ],
+  "prevention": [
+    "具有耐植物抗药植物的栽种品种(如有)",
+    "确保实地空气流通良好",
+    "避免灌溉造成旷日持久的叶叶湿",
+    "使用疾病预报工具来及时喷洒杀真菌剂"
+  ],
+  "impact": [
+    "在爆发严重疾病时可造成高达80-100%的损失",
+    "全世界古柯生产面临重大威胁"
+  ],
+  "source": [
+    "密歇根州立大学植物病理学",
+    "Savory等人 - 分子植物病理学",
+    "Dowiny Mildew IPPM 资源"
+  ]
 }

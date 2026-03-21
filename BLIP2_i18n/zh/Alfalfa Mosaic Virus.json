@@ -1,84 +1,84 @@
 {
- "disease": "Alfalfa Mosaic Virus",
- "scientific_name": "Alfalfa mosaic virus (AMV)",
- "pathogen_type": "Virus (RNA virus)",
- "description": "A plant virus that infects peppers and many other crops. It spreads mainly by aphids and causes mosaic patterns, leaf deformation and reduced plant growth.",
- "symptoms": [
-  "Yellow mosaic patterns on leaves",
-  "Leaf vein deformation",
-  "Leaf curling",
-  "Whitish or bleached leaf spots",
-  "Black necrotic spots between veins (rare)",
-  "Mottled or blotchy fruits",
-  "Dark sunken spots on fruits",
-  "Stunted plant growth"
- ],
- "hosts": [
-  "Pepper",
-  "Alfalfa",
-  "Tomato",
-  "Potato",
-  "Eggplant",
-  "Cucumber",
-  "Squash",
-  "Pumpkin",
-  "Pea",
-  "Bean",
-  "Lentil",
-  "Chickpea",
-  "Soybean",
-  "Clover",
-  "Lucerne",
-  "Tobacco",
-  "Spinach",
-  "Lettuce",
-  "Carrot",
-  "Celery"
- ],
- "favorable_conditions": [
-  "High aphid populations",
-  "Pepper fields close to alfalfa crops",
-  "Aphid movement after alfalfa harvest"
- ],
- "spread": [
-  "Aphids feeding briefly on plants",
-  "Mechanical transmission through contaminated tools",
-  "Seed transmission (low rate)"
- ],
- "management": [
-  "Plant resistant or tolerant cultivars",
-  "Remove infected seedlings before planting",
-  "Plant peppers away from alfalfa fields",
-  "Use barrier crops such as corn",
-  "Use trap crops such as peas",
-  "Sanitize tools, pots and stakes",
-  "Adjust planting dates when possible"
- ],
- "biological_control": [
-  "Use natural predators such as lady beetles",
-  "Use minute pirate bugs (Orius spp.) to reduce aphid populations",
-  "Encourage beneficial insects in the field",
-  "Apply neem-based products containing azadirachtin"
- ],
- "chemical_control": [
-  "Mineral oil sprays to reduce virus transmission",
-  "Insecticidal soaps (fatty acids)",
-  "Imidacloprid",
-  "Acetamiprid",
-  "Flonicamid",
-  "Pymetrozine",
-  "Kaolin clay sprays to deter aphids"
- ],
- "prevention": [
-  "Use resistant cultivars",
-  "Keep distance between peppers and alfalfa fields",
-  "Use reflective mulch or straw mulch to repel aphids",
-  "Remove infected plants early",
-  "Control aphid populations in surrounding crops"
- ],
- "source": [
-  "Colorado State University Extension",
-  "Journal of Integrated Pest Management",
-  "Frontiers in Microbiology"
- ]
+  "disease": "Alfalfa Mosaic病毒",
+  "scientific_name": "Alfalfa masaic病毒(AMV)",
+  "pathogen_type": "病毒(RNA病毒)",
+  "description": "一种感染胡椒和许多其他作物的植物病毒,主要通过虫虫传播,造成马赛克形态、叶子变形和植物生长减少。",
+  "symptoms": [
+    "叶叶上的黄色马赛克图案",
+    "叶血管变形",
+    "叶卷卷卷",
+    "白叶或漂白叶斑点",
+    "静脉间黑色腐蚀点(稀有)",
+    "果实或水果腐烂或腐烂",
+    "果实上的黑沉点",
+    "抑制植物生长"
+  ],
+  "hosts": [
+    "辣椒",
+    "阿尔法法",
+    "番茄",
+    "马铃薯",
+    "茄子种植",
+    "黄瓜",
+    "安静",
+    "南瓜",
+    "皮蜂",
+    "豆豆",
+    "冷冻",
+    "恰克比亚",
+    "豆类",
+    "切缩",
+    "卢塞恩",
+    "烟草",
+    "菠菜",
+    "发生",
+    "胡萝",
+    "切菜"
+  ],
+  "favorable_conditions": [
+    "高栖类人口",
+    "接近Alfalfa作物的胡椒田",
+    "在Alfalfa收割之后的两栖运动"
+  ],
+  "spread": [
+    "虫类食用植物",
+    "通过受污染工具进行机械传播",
+    "种子传播(低率)"
+  ],
+  "management": [
+    "耐植物或容忍植物的栽种品种",
+    "在种植前先除去受感染的幼苗",
+    "在阿尔法法田外种植胡椒",
+    "使用玉米等屏障作物",
+    "使用泥豆等陷阱作物",
+    "使工具、锅和赌注清洁化",
+    "尽可能调整种植日期"
+  ],
+  "biological_control": [
+    "使用自然掠食动物,如蜜蜂女士",
+    "使用微小海盗虫( Orius spp.) 来减少虫群",
+    "鼓励实地的有益昆虫",
+    "应用含有azadirachtin 的耐氨基产品"
+  ],
+  "chemical_control": [
+    "减少病毒传播的矿物油喷喷剂",
+    "杀虫肥皂(脂肪酸)",
+    "蚊虫",
+    "阿塞塔米里",
+    "氟化",
+    "苯甲苯",
+    "Kaolin粘土喷雾,以阻吓虫"
+  ],
+  "prevention": [
+    "使用抗抗性栽培品种",
+    "保持胡椒和紫花字段之间的距离",
+    "使用反射沉积或吸管沉积法击退虫",
+    "及早移除受感染的植物",
+    "周围作物作物的受控虫群"
+  ],
+  "source": [
+    "科罗拉多州立大学扩展",
+    "《综合虫害管理日刊》",
+    "微生物生物学前沿"
+  ]
 }

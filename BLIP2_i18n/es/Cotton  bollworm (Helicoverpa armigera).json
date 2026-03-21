@@ -1,0 +1,84 @@
+{
+  "pest_name": "Cotton Bollworm",
+  "scientific_name": "Helicoverpa armigera",
+  "pest_type": "Insectos",
+  "description": "Helicoverpa armigera, conocida como lombriz de algodón, es una plaga polifagosa de la polilla distribuida por África, Europa, Asia, Australia y América del Sur. La etapa larvaria se alimenta de hojas, brotes, flores, frutas y semillas de muchos cultivos, causando graves pérdidas económicas. Los adultos son capaces de migración de larga distancia, lo que permite una rápida propagación y múltiples generaciones por año en climas cálidos.",
+  "hosts": [
+    "Algodón",
+    "Tomate",
+    "Maíz",
+    "Guisantes",
+    "Guisante de paloma",
+    "Arroz",
+    "Sorgo",
+    "Cowpea",
+    "Semillas de soja",
+    "Patata",
+    "Okra",
+    "Guisantes",
+    "Tabaco"
+  ],
+  "symptoms": [
+    "Agujeros en hojas y flores",
+    "Las larvas se aburren en frutos o vainas",
+    "Caída de flores o frutos prematuros",
+    "Bolas de algodón dañadas que producen pelusa de mala calidad",
+    "Presencia de frass y túneles de alimentación en frutas o granos"
+  ],
+  "life_cycle": {
+    "eggs": "Los huevos amarillo-blancos se ponen sobre hojas, brotes, flores o frutos. Los huevos eclosionan dentro de 3-11 días.",
+    "larvae": "Las larvas se alimentan durante 19 a 36 días a través de varias estrellas y causan el daño principal de la planta.",
+    "pupae": "La pupa se produce en el suelo o en los desechos vegetales; las pupas sobre el invierno en climas más fríos.",
+    "adults": "Los adultos son polillas de color marrón claro con una envergadura de aproximadamente 3,5-4 cm y viven unos 10 días.",
+    "generations_per_year": "Hasta 11 generaciones al año en climas cálidos."
+  },
+  "economic_significance": "La plaga causa graves pérdidas de rendimiento en el algodón, tomate, maíz, garbanzos y otros cultivos. Las larvas dañan las partes de las plantas reproductivas y reducen tanto el rendimiento como la calidad del producto.",
+  "management": {
+    "monitoring": [
+      "Búsqueda regular de huevos, larvas y daños en la alimentación",
+      "Usar trampas de feromonas para monitorear poblaciones adultas",
+      "Las trampas de luz también pueden ayudar a detectar la actividad de la polilla"
+    ],
+    "cultural_control": [
+      "Rotación de cultivos con cultivos distintos de los de acogida",
+      "Eliminación de residuos de cultivos y malas hierbas",
+      "Arado profundo después de la cosecha para destruir las pupas",
+      "Utilización de cultivos trampa como el girasol o la caléndula"
+    ],
+    "mechanical_control": [
+      "Recoger y destruir larvas y huevos",
+      "Uso de trampas y barreras físicas",
+      "Eliminación de frutas infestadas o partes de plantas"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Helicoverpa nucleopoliedrovirus (HaNPV)",
+        "Especies de Baculovirus dirigidas a las larvas lepidópteras",
+        "Isaria fumosorosea (hongo entomopatogénico)"
+      ],
+      "macroorganisms": [
+        "Trichogramma pretiosum (avispa parasitoide de huevo)",
+        "Hebetor de habrobracon (parasitoide larval)"
+      ]
+    },
+    "chemical_control": {
+      "note": "El control químico debe utilizarse como parte de la gestión integrada de plagas (IPM) y únicamente cuando las poblaciones de plagas superen los umbrales económicos.",
+      "active_ingredients": [
+        "Espinosad",
+        "Benzoato de emamectina",
+        "Indoxacarb",
+        "Lambda-cihalotrina",
+        "Clorantraniliprol"
+      ]
+    },
+    "genetic_control": [
+      "Cultivo de algodón Bt que expresa toxinas Bacillus thuringiensis (Cry1Ab, Cry1Ac, Cry2Ab, Vip3A)"
+    ]
+  },
+  "references": [
+    "CABI. Cotton Bollworm (Helicoverpa armigera) – Crop Pest Management Information.",
+    "Colaboradores de Wikipedia. Helicoverpa armigera. Wikipedia, La Enciclopedia Libre.",
+    "FAO. Directrices para la gestión integrada de plagas.",
+    "Plantwise Knowledge Bank – Pest Management Recommendations."
+  ]
+}

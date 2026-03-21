@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
-  "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "pest_name": "Hedef Spot Leaf",
+  "causal_agent": "Çanakkale Cassiicola",
+  "type": "Fonksiyon",
+  "distribution": "Dünya çapında",
+  "host_plants": [
+    "Çilekler, özellikle çilekler"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "Yaşlı yapraklarda açılı, sarı noktalar. noktalar genişler ve hafif kahverengi merkezler ve koyu kahverengi sınırlar ile yuvarlak hale gelir. ileri aşamalarda, gri merkezler atış deliği veya kırık görünüm neden olur. sera koşullarında, noktalar hafif merkezler, zeytin yeşil doku yüzükler ve sarı sınırlar olabilir. şiddetli enfeksiyon defolasyon yol açabilir.",
+    "stem_petiole": "Uzun noktalar, anthracnose, düşük yumuşaklık veya açılı yaprak noktasından ayırt etmeye yardımcı olur.",
+    "fruit": "Karanlık, kızarmış meyveler, enfeksiyon çiçek açma sonunda erken ortaya çıkarsa.",
+    "roots_flowers": "Enfeksiyonlar mümkün ama daha az yaygındır."
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "Sıcaklık 25–35°C (77–95°F) gelişimi teşvik eder; enfeksiyon 21–26°C (70–80°F) arasında meydana gelebilir.",
+    "humidity": "Yüksek nem enfeksiyonu teşvik eder",
+    "light": "Uzun günler hastalık gelişimini teşvik eder",
+    "other_factors": "Günlük sıcaklıklar ve enfekte bitki kalıntılarının veya tahılların varlığı"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "En az 2 yıl boyunca enfekte bitki kalıntıları veya tahıl evcil hayvanlarda",
+    "dispersal": "Airborne Sporları",
+    "infection": "Yapraklar, çamur, pete, kökler, çiçekler ve meyveler olumlu koşullarda"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "Mevcut olduğunda dayanıklı çeşitleri kullanın.",
+      "Topraklarda ve sera alanlarında iyi sanitasyon uygulanması",
+      "Enfekte bitki kalıntılarını ortadan kaldırmak ve yok etmek",
+      "Kontrol bitki ev sahipleri bitkilerin yakınında"
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "Önleyici fungicid sprey etiket talimatlarına göre"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": "Hastalık yayını azaltmak için dayanıklı çeşitleri, sanitasyon ve fungicid programları birleştirin"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "Cucurbit bitki hastalıkları kılavuzları ve uzantı yayınları",
+    "Global dağıtım raporları Corynespora cassiicola"
   ]
 }

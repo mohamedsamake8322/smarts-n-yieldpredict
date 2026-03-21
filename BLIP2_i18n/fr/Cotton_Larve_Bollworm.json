@@ -1,88 +1,88 @@
 {
-  "pest_name": "Cotton_Larve_Bollworm",
-  "common_name": "Cotton bollworm larva",
-  "scientific_name": "Helicoverpa armigera",
-  "pest_stage": "Larva",
-  "pest_type": "Insect",
-  "description": "The larval stage of the cotton bollworm (Helicoverpa armigera) is the most destructive phase of this pest. The caterpillars feed aggressively on leaves, buds, flowers, fruits, and seeds of many crops. Larvae vary in color from green, brown, pink, or black and usually have longitudinal stripes along the body. Because they feed directly on reproductive plant structures, they can cause significant yield losses in crops such as cotton, tomato, maize, and chickpea.",
+  "pest_name": "Tordeuse de coton",
+  "common_name": "Larve à tête blanche de coton",
+  "scientific_name": "Hélicoverpa armigera",
+  "pest_stage": "Larve",
+  "pest_type": "Insecte",
+  "description": "Le stade larvaire de la tordeuse de coton (Helicoverpa armigera) est la phase la plus destructrice de ce ravageur. Les chenilles se nourrissent agressivement sur les feuilles, les bourgeons, les fleurs, les fruits et les graines de nombreuses cultures. Les larves varient en couleur du vert, du brun, du rose ou du noir et ont généralement des rayures longitudinales le long du corps.",
   "hosts": [
-    "Cotton",
-    "Tomato",
-    "Maize",
-    "Chickpea",
-    "Pigeon pea",
-    "Rice",
-    "Sorghum",
-    "Cowpea",
-    "Soybean",
-    "Potato",
+    "Coton",
+    "Tomates",
+    "Maïs",
+    "Pois chiches",
+    "Pigeons",
+    "Riz",
+    "Sorgho",
+    "Pois de vache",
+    "Soja",
+    "Pommes de terre",
     "Okra",
-    "Peas",
-    "Tobacco"
+    "Pois",
+    "Tabac"
   ],
   "symptoms": [
-    "Holes in leaves, buds, and flowers",
-    "Larvae boring into fruits or pods",
-    "Damaged cotton bolls and young fruits",
-    "Presence of frass (insect excrement) around feeding sites",
-    "Premature dropping of flowers or fruits"
+    "Trous dans les feuilles, les bourgeons et les fleurs",
+    "Les larves s'arpentent dans les fruits ou les gousses",
+    "Bolles de coton endommagées et jeunes fruits",
+    "Présence de frass (excréments d'insectes) autour des sites d'alimentation",
+    "Chute prématurée de fleurs ou de fruits"
   ],
   "larva_characteristics": {
-    "length": "3–4 cm when fully developed",
+    "length": "3-4 cm lorsqu'il est complètement développé",
     "color_variation": [
-      "Green",
-      "Brown",
-      "Pink",
-      "Black",
-      "Reddish-brown"
+      "Vert",
+      "Marron",
+      "Rose",
+      "Noir",
+      "Brun rouge-brun"
     ],
-    "distinctive_features": "Prominent longitudinal stripes along the body and a brown head capsule."
+    "distinctive_features": "Des bandes longitudinales importantes le long du corps et une capsule brune de la tête."
   },
-  "economic_significance": "Larvae cause severe crop damage by feeding directly on reproductive plant structures. This feeding can significantly reduce yield and quality, particularly in cotton, tomato, and maize. Damage may also allow secondary infections by fungi or bacteria.",
+  "economic_significance": "Les larves causent de graves dommages aux cultures en se nourrissant directement des structures des plantes reproductrices, ce qui peut réduire considérablement le rendement et la qualité, en particulier dans le coton, la tomate et le maïs.",
   "management": {
     "monitoring": [
-      "Inspect plants regularly for eggs and young larvae",
-      "Use pheromone traps to monitor adult moth populations",
-      "Check buds, flowers, and fruits for feeding damage"
+      "Inspecter régulièrement les plantes pour les oeufs et les jeunes larves",
+      "Utiliser des pièges à phéromone pour surveiller les populations de papillons de nuit adultes",
+      "Vérifier les bourgeons, les fleurs et les fruits pour endommager l'alimentation"
     ],
     "cultural_control": [
-      "Crop rotation with non-host crops",
-      "Removal of weeds and crop residues",
-      "Deep ploughing after harvest to destroy pupae",
-      "Planting trap crops such as sunflower or marigold"
+      "Rotation des cultures avec les cultures non hôtes",
+      "Enlèvement des mauvaises herbes et des résidus végétaux",
+      "Laboure profonde après la récolte pour détruire les pupes",
+      "Plantation de cultures pièges telles que le tournesol ou le marigold"
     ],
     "mechanical_control": [
-      "Handpicking and destroying larvae",
-      "Removing infested fruits and plant parts",
-      "Using pheromone and light traps to monitor populations"
+      "Cueillir à la main et détruire les larves",
+      "Suppression des fruits infestés et des parties de plantes",
+      "Utilisation de pièges à phéromone et à lumière pour surveiller les populations"
     ],
     "biological_control": {
       "microorganisms": [
-        "Helicoverpa nucleopolyhedrovirus (HaNPV)",
-        "Baculovirus species targeting larvae",
+        "Hélicoverpa nucléopolyédrovirus (HaNPV)",
+        "Espèces de Baculovirus ciblant les larves",
         "Isaria fumosorosea"
       ],
       "macroorganisms": [
-        "Trichogramma pretiosum (egg parasitoid wasp)",
-        "Habrobracon hebetor (larval parasitoid)"
+        "Trichogramma pretiosum (gaspille parasitoïde de l'œuf)",
+        "Hémobète (parasitoïde larvaire)"
       ]
     },
     "chemical_control": {
-      "note": "Chemical insecticides should be used only when pest populations exceed economic thresholds and as part of an Integrated Pest Management strategy.",
+      "note": "Les insecticides chimiques ne devraient être utilisés que lorsque les populations de ravageurs dépassent les seuils économiques et dans le cadre d'une stratégie de lutte intégrée contre les ravageurs.",
       "active_ingredients": [
         "Spinosad",
-        "Emamectin benzoate",
-        "Indoxacarb",
-        "Lambda-cyhalothrin",
+        "benzoate d' emamectine",
+        "Indoxacarbe",
+        "Lambda-cyhalothrine",
         "Chlorantraniliprole"
       ]
     }
   },
   "references": [
-    "Wikipedia contributors. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
+    "Les contributeurs de Wikipedia. Helicoverpa armigera. Wikipedia, The Free Encyclopedia.",
     "CABI Crop Protection Compendium – Helicoverpa armigera.",
-    "FAO Integrated Pest Management Guidelines.",
-    "Plantwise Knowledge Bank – Pest Management Recommendations."
+    "Directives de la FAO pour la lutte intégrée contre les ravageurs.",
+    "Banque de connaissances végétales – Recommandations en matière de lutte antiparasitaire."
   ],
   "source_urls": [
     "https://en.wikipedia.org/wiki/Helicoverpa_armigera",

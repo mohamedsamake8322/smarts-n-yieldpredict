@@ -1,65 +1,65 @@
 {
-  "disease_name": "Wheat Leaf Streak Mosaic Virus",
-  "abbreviation": "WSMV",
-  "pathogen_type": "Virus",
-  "family": "Potyviridae",
-  "genus": "Tritimovirus",
+  "disease_name": "小麦叶子牛排蚊菌病毒",
+  "abbreviation": "WSMV 水母体",
+  "pathogen_type": "病毒病毒",
+  "family": "波蒂韦里达e",
+  "genus": "Tritimo病毒",
   "hosts": [
-    "Wheat (Triticum spp.)",
-    "Corn (Zea mays)",
-    "Rye (Secale spp.)",
+    "小麦(Triticum spp.)",
+    "玉米(Zea Mays)",
+    "Rye( secale spp. )",
     "Oats (Avena spp.)",
-    "Barley (Hordeum spp.)",
-    "Sorghum",
-    "Millet",
-    "Some grassy weeds"
+    "贝利 (Hordeum spp.)",
+    "高 orghum",
+    "米勒",
+    "一些草草杂草"
   ],
-  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "distribution": "在世界范围内;在大平原(美国)、澳大利亚和大多数小麦种植地区占主导地位",
   "vector": {
-    "name": "Wheat curl mite",
-    "scientific_name": "Aceria tosichella",
-    "transmission_type": "semi-persistent",
-    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+    "name": "小麦卷",
+    "scientific_name": "磷酸丙烷",
+    "transmission_type": "半持久性",
+    "notes": "老鼠是缓慢的爬行者,主要通过风散散散,可以在小麦和玉米之间传播病毒"
   },
   "symptoms": [
-    "Streaks of yellowed, non-uniform discoloration on leaves",
-    "Stunted growth",
-    "Severe infections can cause 100% crop loss",
-    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+    "树叶上黄黄色、非异色化的堆叠",
+    "强劲增长增长",
+    "严重感染可造成100%的作物损失",
+    "当协同感染与Triticum masaic病毒或高平原病毒发生时,症状往往更为严重。"
   ],
   "disease_cycle": [
-    "Virus overwinters in grasses and cereal crops and in infected seeds",
-    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
-    "Mites depend on wind to move between plants and fields",
-    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
-    "Multiple generations of mites per season can amplify spread"
+    "草草、谷类作物和受感染种子的病毒双赢者",
+    "小麦卷毛虫从受感染的植物获取病毒并将病毒传播给健康植物",
+    "在植物和田地之间移动时, 陨石依赖风",
+    "志愿小麦和草草杂草作为灭蚁和病毒的蓄水池",
+    "每一季多代的 能够扩大繁殖"
   ],
   "conditions_for_development": [
-    "Warm weather favors mite reproduction and virus transmission",
-    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
-    "Early planting increases risk due to longer exposure to mites"
+    "温暖的天气有利于微生物繁殖和病毒传播",
+    "提供志愿小麦或草草宿主使疾病发病率增加",
+    "早期种植因长期接触虫而增加风险"
   ],
   "management": {
     "cultural": [
-      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
-      "Avoid early planting to reduce exposure to mites",
-      "Select wheat varieties with lower susceptibility to WSMV"
+      "在种植新的冬季小麦前至少两周销毁志愿小麦",
+      "避免及早种植以减少接触",
+      "选择较不易受WSMV影响的小麦品种"
     ],
     "chemical": [
-      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+      "在控制病毒传播方面,杀杀灭杀虫剂对小麦curl mite不起作用。"
     ],
     "resistance": [
-      "Use resistant/tolerant wheat cultivars where available",
-      "Research on RNAi-based resistance is ongoing"
+      "尽可能使用抗抗/耐抗性小麦栽培品种",
+      "RNAi的抗药性研究正在进行中"
     ]
   },
   "impact": [
-    "Yield losses can reach up to 100% in susceptible varieties",
-    "Co-infection with other viruses can exacerbate damage"
+    "易受影响的品种的产量损失可高达100%",
+    "与其他病毒同时感染会加剧损害"
   ],
   "references": [
-    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
-    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
-    "USDA-ARS research on WSMV and vector biology."
+    "Seeifers DL等人,2002年,《小麦链马赛克病毒:概览》,植物疾病86:781-790。",
+    "Martinez等人,2019年,小麦卷毛微粒病毒与病毒的相互作用,Front, Plant Sci。",
+    "USDA-ARS关于WSMV和病媒生物学的研究。"
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "disease": "Roto de Frutas de Geotrichum de Cucurbitáceas",
+  "scientific_name": "Geotrichum candidum",
+  "pathogen_type": "Hongos",
+  "description": "Una enfermedad fúngica que causa una putrefacción suave en los frutos de cucurbitáceas como el pepino, el melón y la calabaza. Afecta principalmente a los frutos maduros o dañados y produce un moho blanco que luego se vuelve agrio y acuoso.",
+  "symptoms": [
+    "Putrefacción acuosa suave en las frutas",
+    "Moho de algodón blanco en las zonas infectadas",
+    "El tejido de la fruta se vuelve blando y colapsa",
+    "Olor agrio o fermentado de frutas infectadas",
+    "La podredumbre generalmente comienza en heridas o áreas dañadas"
+  ],
+  "hosts": [
+    "Pepino",
+    "Melón",
+    "Sandía",
+    "Calabaza",
+    "Squash",
+    "Otros cultivos de cucurbitáceas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas",
+    "Alta humedad",
+    "Frutos heridos o dañados",
+    "Mala ventilación durante el almacenamiento"
+  ],
+  "spread": [
+    "Suelo contaminado",
+    "Desechos de plantas infectados",
+    "Manipulación de frutos infectados",
+    "Heridas causadas durante la cosecha o el transporte"
+  ],
+  "management": [
+    "Manipular las frutas con cuidado para evitar heridas",
+    "Quitar y destruir los frutos infectados",
+    "Mejorar el saneamiento sobre el terreno y el almacenamiento",
+    "Garantizar una buena ventilación durante el almacenamiento",
+    "Cosecha los frutos en la madurez adecuada"
+  ],
+  "biological_control": [
+    "Utilice microbios beneficiosos como la especie Trichoderma para suprimir el crecimiento fúngico",
+    "Aplicar biofungicidas a base de bacilo para reducir el desarrollo de patógenos"
+  ],
+  "chemical_control": [
+    "Fungicidas poscosecha que contienen tiabendazol",
+    "Tratamientos a base de imazalilo en instalaciones de almacenamiento",
+    "Saneamiento con desinfectantes aprobados para reducir la contaminación"
+  ],
+  "prevention": [
+    "Evitar lesiones de frutas durante la cosecha y el transporte",
+    "Mantener condiciones de almacenamiento limpias",
+    "Eliminar los residuos vegetales de los campos",
+    "Almacenar las frutas en condiciones frías y secas"
+  ],
+  "source": [
+    "Referencias de patología vegetal sobre enfermedades de cucurbitáceas post-cosecha",
+    "Compendio de protección de cultivos CABI",
+    "Guías de gestión de enfermedades vegetales"
+  ]
+}

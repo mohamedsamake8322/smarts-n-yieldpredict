@@ -1,0 +1,88 @@
+{
+  "disease": "Esclerotinia Rot de madera",
+  "scientific_name": "Esclerotinia esclerotiorum",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre de la madera de esclerotinia es una enfermedad fúngica que causa la desintegración severa del tallo en muchos cultivos. El hongo produce moho blanco similar al algodón y cuerpos negros de supervivencia llamados esclerotia.",
+  "symptoms": [
+    "Crecimiento fúngico similar al algodón blanco en los tallos",
+    "Pudrición del tallo o descomposición seca (apariencia similar a la madera)",
+    "Esclerotia tipo semilla negra en el interior o en los tallos",
+    "Amarillamiento y marchitamiento de las hojas",
+    "Plantas que colapsan debido al daño del tallo"
+  ],
+  "visual_symptoms": [
+    "moho esponjoso blanco en los tallos",
+    "tallos secos o podridos",
+    "esclerotia dura negra en tejido infectado",
+    "plantas desplomadas o marchitadas"
+  ],
+  "hosts": [
+    "Semillas de soja",
+    "Girasol",
+    "Canola (viola de semillas oleaginosas)",
+    "Judías",
+    "Guisantes",
+    "Lechuga",
+    "Tomate",
+    "Patata",
+    "Zanahoria",
+    "Pepino",
+    "Muchos cultivos vegetales y ornamentales"
+  ],
+  "plant_parts_affected": [
+    "tallos",
+    "peciolos",
+    "a veces hojas y flores"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías",
+    "Alta humedad",
+    "Lluvia o irrigación frecuentes",
+    "Dosel de cultivo denso",
+    "Baja circulación del aire"
+  ],
+  "spread": [
+    "Esporas aerotransportadas de apothecia",
+    "Esclerotia que sobrevive en el suelo",
+    "Desechos de plantas contaminados",
+    "Viento y salpicaduras de agua"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo como esclerotia durante varios años",
+    "La esclerotia germina y produce apotecia (estructuras pequeñas parecidas a copas)",
+    "Apothecia libera esporas aerotransportadas",
+    "Las esporas infectan los tejidos de las plantas durante las condiciones húmedas",
+    "Nueva esclerotia se desarrolla en los tallos infectados y caen en el suelo"
+  ],
+  "impact": [
+    "Decaimiento de tallos y colapso de plantas",
+    "Reducción del crecimiento y la productividad de las plantas",
+    "Pérdidas graves de rendimiento en cultivos susceptibles"
+  ],
+  "cultural_control": [
+    "Rotar los cultivos con plantas no hospedantes",
+    "Mejorar el espaciamiento y el flujo de aire entre las plantas",
+    "Retire y destruya los desechos vegetales infectados",
+    "Evitar el riego excesivo"
+  ],
+  "biological_control": [
+    "Aplicar agentes biológicos como los minitans de Coniothyrium",
+    "Use hongos beneficiosos como las especies de Trichoderma"
+  ],
+  "chemical_control": [
+    "Boscalida",
+    "Fluazinam",
+    "Iprodiona",
+    "Procimidona",
+    "Tiofanato-metilo"
+  ],
+  "prevention": [
+    "Utilizar semillas limpias y trasplantes saludables",
+    "Monitoriza los cultivos durante el clima fresco y húmedo",
+    "Aplicar prácticas integradas de gestión de enfermedades"
+  ],
+  "source": [
+    "Guías de patología vegetal",
+    "Recursos de extensión agrícola"
+  ]
+}

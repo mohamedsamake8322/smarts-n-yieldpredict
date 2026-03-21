@@ -1,0 +1,72 @@
+{
+  "pest_name": "Ihe Ndị Na - enye Ìhè",
+  "scientific_name": "Malanananas flalvv.",
+  "common_abbreviations": [
+    "Ọdachi Ndị Na - emere Onwe Ha",
+    "Ọrịa na - efe efe nke na - efe efe",
+    "Ọdachi Ndị Na - emere Onwe Ha",
+    "Ebe ụmụ irighiri ihe dị iche iche na - acha akwụkwọ ndụ akwụkwọ ndụ"
+  ],
+  "description": "Ọrịa ogbu na nkwonkwo nke na - ebibi ihe bụ ọrịa ụmụ nje na - akpata, bụ́ nke àgwà ndị na - agbawa agbawa na - akpata.",
+  "distribution": "N'ụwa nile, karịsịa n'ógbè ndị dị jụụ ma na - ekpo ọkụ bụ́ ndị dị n'Ebe Ugwu America, Ebe Ndịda America, Europe, Africa, na Eshia.",
+  "host_range": {
+    "general": "Àgwà ndị bụ́ isi (àgwà ndị bụ́ isi e ji mara ya).",
+    "notable_hosts": [
+      "Ìhè Na - enwu n'Ebe Dị Anya",
+      "Ụdị ndị ọzọ a na - ahụkarị"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "Obere mmiri-ime ka ọ dị bu ibu na-enweghị isi",
+      "Ihe a kpụrụ akpụ nke nwere odo odo-na-na-ihebada",
+      "Anwụrụ ọkụ na - amụba ma na - abanye n'ebe ndị buru ibu a na - enwe mmekọahụ rụrụ arụ",
+      "Nsogbu ndị na - esi n'erighị ihe ndị na - edozi ahụ́ na - akpata ka ọrịa na - akawanye njọ",
+      "Nsogbu Ndị A Na - enwe: Inwebiga ahụ́ ike ókè, ibelata ike ọgwụgwụ"
+    ],
+    "pod": [
+      "Ihe ndị dị ize ndụ, bụ́ ndị na - eme ka anwụ na - acha, bụ́ ndị na - egosi ọdịdị elu ahụ́ bụ́ ịgba",
+      "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpọ ma ọ bụ ndị a gbara mmiri"
+    ]
+  },
+  "damage": [
+    "Ihe ndị dị ịrịba ama ọ rụpụtara na mkpụrụ ya na - ebelata",
+    "Nke a nwere ike ime ka ọka ghara ito nke ọma n'ubi ndị dị elu",
+    "Mkpụrụ akụ́kụ́ ndị nwere àgwà dị iche iche pụrụ ibute ọrịa ndị ọzọ",
+    "Mmachibido iwu nke ihe ndị e ji egbochi afọ ime bụ n'ihi nsogbu nke mkpụrụ akụ́kụ́ ndị bu nje ahụ"
+  ],
+  "biology": {
+    "pathogen_type": "Nje Ndị Na - akpata Mkpụrụ",
+    "survival": "Ihe ndị e gwupụtara n'ala ahịhịa ndị a kụrụ n'ubi nakwa n'ebe ndị e metọrọ emetọ",
+    "infection_routes": [
+      "Site ná mmalite nke ihe ndị e kere eke (ma ọ bụ, ihe ndị na - eme ka mmiri dị n'ime ala)",
+      "IHE NDỊ GA - ENYERE GỊ AKA"
+    ],
+    "favorable_conditions": "N'Ahụ́ ájá, a na - enwe ebe dị iche iche a na - anọ ehi ụra n'ebe ndị a na - edebe ihe ọmụma n'Intanet",
+    "spread": [
+      "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́",
+      "Mmiri Na - ezo n'Ime Mmiri",
+      "Ime Ka Ahụ́ Ruo Onye Ọ Bụla Ala",
+      "Iso onye na - abụghị nwoke ma ọ bụ nwanyị ibe gị na - ekwurịta okwu"
+    ]
+  },
+  "management": {
+    "cultural_control": [
+      "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+      "Ya na ndi na-adịghị eso ndịna",
+      "Zere ịgba ala mmiri n'ike n'ike",
+      "Idebe ihe ọcha n'ụzọ kwesịrị ekwesị n'ubi"
+    ],
+    "chemical_control": [
+      "Omemmegharị-n'ọ́nụ́ iji kwụsị mgbasa ozi",
+      "Usoro ọgwụgwọ mkpụrụ akụ́kụ́ iji gbochie ọrịa ndị mbụ a na - ebute n'oge"
+    ],
+    "genetic_control": [
+      "Ịzụlite ụdị dị iche iche nke ndị na - eguzogide ọgwụ iji belata ịdabere ná mmiri ọgwụ"
+    ]
+  },
+  "notes": [
+    "Ime ka ọdịbendị, mmiri ọgwụ, na usoro mkpụrụ ndụ ihe nketa kwekọọ n'ọnọdụ e nwere n'ebe ha nọ kasị dị irè",
+    "Mkpụrụ akụ́kụ́ ndị e mere ka ha dị ọcha na ndị na - adịghị ọcha dị mkpa iji gbochie mgbasa ozi"
+  ]
+}

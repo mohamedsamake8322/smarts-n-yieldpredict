@@ -1,59 +1,69 @@
 {
-  "disease_name": "Tomato Early Blight",
+  "disease_name": "Éclairage précoce de la tomate",
   "causal_agent": "Alternaria solani",
-  "other_agents": ["Alternaria tomatophila"],
-  "type": "fungal pathogen",
+  "other_agents": [
+    "Alternaria tomatephila"
+  ],
+  "type": "Agent pathogène fongique",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)", "Potato (S. tuberosum)"],
-    "secondary": ["Eggplant (S. melongena L.)", "Bell pepper and hot pepper (Capsicum spp.)"],
-    "weeds": ["Black nightshade (Solanum nigrum)"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)",
+      "Pommes de terre (S. tuberosum)"
+    ],
+    "secondary": [
+      "Aubergine (S. melongena L.)",
+      "Poivrons et poivrons (Capsicum spp.)"
+    ],
+    "weeds": [
+      "Rasoir noir (Solanum nigrum)"
+    ]
   },
-  "distribution": "Worldwide; problematic east of the Rocky Mountains and midwest USA for tomato; common in potato-growing regions",
+  "distribution": "Dans le monde entier; problématique à l'est des montagnes Rocheuses et au centre-ouest des États-Unis pour la tomate; commune dans les régions productrices de pommes de terre",
   "symptoms": {
     "tomato": [
-      "Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm",
-      "Yellowing or chlorosis around leaf spots",
-      "Stem lesions, dark and slightly sunken with concentric rings",
-      "Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass",
-      "Seedlings: collar rot (basal girdling), death"
+      "Taches de feuilles concentriques 'bulleseye' sur les feuilles plus anciennes, brunes à noires, jusqu'à 1,3 cm",
+      "Jaune ou chlorose autour des taches foliaires",
+      "Lésions de la tige, foncées et légèrement coulées avec des anneaux concentriques",
+      "Pourriture de fruits aux points d'attachement de la tige ou par des plaies, brun avec des cercles concentriques foncés, masse de spores veloutées noires",
+      "Plantules: pourriture du col (ceinture de basal), mort"
     ],
     "potato": [
-      "Concentric dark brown spots on older leaves",
-      "Premature defoliation leading to tuber yield reduction",
-      "Stem spots gaunt and diffuse",
-      "Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage"
+      "Taches concentriques brunes foncées sur les feuilles plus anciennes",
+      "Défoliation prématurée entraînant une réduction du rendement des tubercules",
+      "Les taches de la tige gantent et diffusent",
+      "Lésions tuberculeuses : sèches, foncées, pressées en surface; chair sous-jacente sèche, similicuir et brun; peut s'élargir pendant l'entreposage"
     ]
   },
   "life_cycle": {
-    "type": "polycyclic",
-    "overwintering": "Crop residues or wild solanaceous plants",
-    "infection": "Conidia produced in spring, splashed or wind-dispersed, infect through wounds, stomata or direct penetration",
-    "spread": "Conidia from lesions infect other parts of plant or neighboring plants during the same season"
+    "type": "polycyclique",
+    "overwintering": "Résidus végétaux ou plantes solanacées sauvages",
+    "infection": "Conidies produites au printemps, éclaboussées ou dispersées par le vent, infectées par des blessures, des stomates ou une pénétration directe",
+    "spread": "Conidies provenant de lésions infectant d'autres parties de plantes ou de plantes voisines au cours de la même saison"
   },
-  "pathogen_type": "Necrotrophic",
+  "pathogen_type": "Nécrotrophique",
   "cultural_control": [
-    "Clear infected debris to reduce inoculum",
-    "Water plants in the morning to minimize leaf wetness",
-    "Use drip irrigation",
-    "Apply mulch to block soil splash",
-    "Rotate to non-solanaceous crops for at least three years",
-    "Control wild solanaceous plants near fields",
-    "Plant resistant cultivars",
-    "Increase air circulation in rows",
-    "Monitor fields closely in warm, damp weather"
+    "Effacer les débris infectés pour réduire l'inoculum",
+    "Plantes d'eau le matin pour minimiser l'humidité des feuilles",
+    "Utiliser l'irrigation goutte à goutte",
+    "Appliquer le paillis pour bloquer les éclaboussures de sol",
+    "Rotation vers des cultures non solanacées pendant au moins trois ans",
+    "Contrôler les plantes solanacées sauvages près des champs",
+    "Cultivars résistants aux végétaux",
+    "Augmenter la circulation de l'air dans les rangées",
+    "Surveillez de près les champs par temps chaud et humide"
   ],
   "chemical_control": [
-    "Azoxystrobin (QoI fungicide)",
-    "Pyraclostrobin",
+    "Azoxystrobine (fongicide QoI)",
+    "Pyraclostrobine",
     "Bacillus subtilis",
     "Chlorothalonil",
-    "Copper-based products",
-    "Hydrogen dioxide (Hydroperoxyl)",
-    "Mancozeb",
-    "Potassium bicarbonate",
+    "Produits à base de cuivre",
+    "Dioxyde d'hydrogène (Hydroperoxyl)",
+    "Mancozéb",
+    "Bicarbonate de potassium",
     "Ziram"
   ],
-  "notes_on_resistance": "Decreased sensitivity to QoI fungicides due to F129L amino acid substitution in A. solani",
+  "notes_on_resistance": "Diminution de la sensibilité aux fongicides QoI en raison de la substitution d'acides aminés F129L chez A. solani",
   "references": [
     "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
     "https://www.cabdirect.org/cabdirect/abstract/20093196520",

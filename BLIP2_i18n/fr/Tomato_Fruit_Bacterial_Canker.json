@@ -1,69 +1,78 @@
 {
-  "disease_name": "Tomato Fruit Bacterial Canker",
+  "disease_name": "Bouclier bactérien aux fruits de la tomate",
   "causal_agent": "Clavibacter michiganensis pv. michiganensis",
-  "type": "bacterial pathogen",
+  "type": "pathogène bactérien",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"],
-    "weeds": ["Perennial nightshade (Solanum douglasii)", "Black nightshade (S. nigrum)", "S. triflorum"]
+    "primary": [
+      "Tomates (Solanum lycopersicum L.)"
+    ],
+    "secondary": [
+      "Poivre (Capsicum spp.)",
+      "Aubergine (Solanum melongena L.)"
+    ],
+    "weeds": [
+      "Nuisette vivace (Solanum douglasii)",
+      "Rasoir noir (S. nigrum)",
+      "S. triflorum"
+    ]
   },
-  "distribution": "Worldwide; particularly problematic in greenhouse and field-grown tomatoes",
+  "distribution": "Dans le monde entier, particulièrement problématique pour les tomates de serre et les tomates cultivées sur le terrain",
   "symptoms": {
     "seedlings": [
-      "No symptoms in most cases",
-      "Young plants may show poor growth or temporary branch wilting"
+      "Pas de symptômes dans la plupart des cas",
+      "Les jeunes plantes peuvent présenter une faible croissance ou un flétrissement temporaire des branches"
     ],
     "mature_plants_systemic": [
-      "Curling, yellowing, wilting, and browning (firing) of oldest leaflets",
-      "Stunted growth and general plant wilting",
-      "Yellow to reddish-brown pith with mealy appearance",
-      "Stem streaks, branch breakage, and potential plant death"
+      "Curling, jaunissement, flétrissement et brunissement (fruit) des folioles les plus anciennes",
+      "Croissance étouffée et flétrissement général des plantes",
+      "Poitrine jaune à brun rougeâtre avec aspect farineux",
+      "Stem stries, rupture de la branche et mort potentielle de la plante"
     ],
     "mature_plants_secondary": [
-      "Dark brown to almost black lesions on leaf margins",
-      "Round or irregular leaf spotting",
-      "Fruit: yellow to brown raised spots with persistent white halo ('bird's eye' spots), ~3 mm in diameter",
-      "Vascular tissue under calyx may be discolored, affecting seeds"
+      "Lésions brunes foncées à presque noires sur les bords des feuilles",
+      "Spots foliaires ronds ou irréguliers",
+      "Fruits : taches surélevées jaune à brun avec halo blanc persistant (pointes de l'œil de l'oiseau), ~3 mm de diamètre",
+      "Les tissus vasculaires sous calice peuvent être décolorés, affectant les graines"
     ]
   },
   "disease_cycle": {
-    "introduction": "Through infected seeds or transplants",
-    "overwintering": "Up to 3 years on plant residue; in weeds; on greenhouse materials (benches, stakes, flats)",
+    "introduction": "Au moyen de semences ou de greffes infectées",
+    "overwintering": "Jusqu'à 3 ans sur les résidus végétaux; dans les mauvaises herbes; sur les matériaux de serre (benches, piquets, plats)",
     "spread": [
-      "Windblown rain and sprinkler irrigation",
-      "Mechanical cultivation and hand harvesting",
-      "Overhead irrigation splash from infected plants",
-      "Direct contact with infected plants or equipment"
+      "Pluie éolienne et irrigation par aspersion",
+      "Culture mécanique et récolte à la main",
+      "Les éclaboussures d'irrigation aérienne provenant de plantes infectées",
+      "Contact direct avec des végétaux ou des équipements infectés"
     ],
-    "entry": "Bacteria enter seedlings through small wounds in cotyledons and move systemically through xylem"
+    "entry": "Les bactéries pénètrent dans les semis par de petites blessures dans les cotylédons et se déplacent systémiquement dans le xylème."
   },
   "management": {
     "prevention": [
-      "Use disease-free seeds and transplants",
-      "Plant certified clean transplants",
-      "Strict monitoring of seed fields; discard contaminated lots",
-      "Soak seed in 130°F water for 25 minutes"
+      "Utiliser des semences et des transplantations exemptes de maladies",
+      "Transplantations propres certifiées par les végétaux",
+      "Surveillance stricte des champs de semences; rejet des lots contaminés",
+      "Faire tremper les graines dans de l'eau à 130 °F pendant 25 minutes"
     ],
     "greenhouse_measures": [
-      "Steam potting mix and flats",
-      "Disinfect benches, flats, and irrigation hoses",
-      "Empty greenhouses between crops"
+      "Mélange de potage à vapeur et plats",
+      "Désinfecter les bancs, les plats et les tuyaux d'irrigation",
+      "Entre les cultures, vider les serres"
     ],
     "field_measures": [
-      "Avoid working when foliage is wet",
-      "Incorporate all plant tissue at season's end",
-      "Rotate fields out of tomato for at least one year",
-      "Control related weeds around fields"
+      "Évitez de travailler lorsque le feuillage est mouillé",
+      "Incorporer tous les tissus végétaux à la fin de la saison",
+      "Roter les champs hors de la tomate pendant au moins un an",
+      "Les mauvaises herbes liées au contrôle autour des champs"
     ],
     "chemical_control": [
-      "Repeated copper applications may reduce disease spread but are not fully reliable",
-      "Surface disinfectants: bleach (0.5–1% calcium or sodium hypochlorite), Physan, etc."
+      "Les applications répétées de cuivre peuvent réduire la propagation de la maladie, mais ne sont pas entièrement fiables",
+      "Désinfectants de surface : Javel (0,5 à 1 % d'hypochlorite de calcium ou de sodium), Physan, etc."
     ]
   },
   "notes": [
-    "Economic losses in direct-seeded fields are usually uncommon",
-    "Seed contamination with very few bacteria can lead to significant greenhouse infection",
-    "Systemic infections cannot be cured with bactericides; focus is on prevention and sanitation"
+    "Les pertes économiques dans les champs à graines directes sont généralement peu fréquentes.",
+    "La contamination des graines par très peu de bactéries peut entraîner une infection importante en serre.",
+    "Les infections systémiques ne peuvent pas être guéries avec des bactéricides; l'accent est mis sur la prévention et l'assainissement"
   ],
   "references": [
     "https://ucanr.edu/sites/UCIPM/Tomato_Leaf_Canker/",

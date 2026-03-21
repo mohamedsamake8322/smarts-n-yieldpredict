@@ -1,0 +1,91 @@
+{
+  "disease": "Ihe Ndị Na - enye Ìhè Bụ́ Ndị Na - eme Ka E Nwee Mgbanwe n'Ahụ́",
+  "scientific_name": "Mkpụrụ ndụ ihe nketa na - agbanwe agbanwe",
+  "pathogen_type": "Kèánáhụ́chāghị́ányá",
+  "description": "Ọrịa na - ebibi ihe n'ụzọ na - ebibi ihe bụ ọrịa na - ebibi ihe nke ihe ọkụkụ ndị na - egbu egbu bụ́ ndị mkpụrụ akụ́kụ́ bụ́ griteteteted na - akpata. Ọ na - agbawa mkpụrụ akụ́kụ́, osisi vaịn, akwụkwọ osisi, na mkpụrụ osisi, bụ́ ndị na - akpatakarị ndakpọ nke ihe ọkụkụ ndị na - ebibi ngwa ngwa ma na - akpata oké mfu n'ọnọdụ ndị na - ekpo ọkụ na ndị na - adịghị mma.",
+  "symptoms": [
+    "Mkpụrụ na-enweghị mmiri na-enweghị isi n'ala",
+    "Ikuru ahịhịa ndị dị n'ime ala n'enweghị akwụkwọ ndụ na - acha odo odo",
+    "Mmiri na-enweghị isi n'ala ala osisi ma ọ bụ n'osisi vaịn",
+    "Ebe ndị mara mma e ji osisi oliv ma ọ bụ odo odo mee na - enwe ihe ndị e ji esiji ákwà bụ́ ndị na - eme ka ha ghara ịdị mma n'anya",
+    "Mkpụrụ osisi na - amalite n'oge na - emetụ ala aka",
+    "Mkpụrụ osisi na - acha ọcha na - eto nke ọma",
+    "Mkpụrụ osisi ndị na - esi ísì ọma na - emebi emebi ma na - emebi emebi"
+  ],
+  "visual_symptoms": [
+    "Mmiri na-enweghị isi n'ala ala osisi vaịn nakwa n'osisi vaịn",
+    "Ihe e ji esiji ákwà bụ́ nke dị ná mkpụrụ osisi ndị na - acha ọcha",
+    "Ọ na - eme ka ahụ́ na - adị mmadụ mma n'ahụ́, na - emekwa ka ahụ́ ruo ya ala, ma ọ bụ na - eme ka onye ahụ ghara ịna - ahụ ụzọ nke ọma",
+    "Osisi vaịn ndị a kụrụ na mberede na - agbawa agbawa ma na - ada n'ike n'ike"
+  ],
+  "hosts": [
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "23.pkin",
+    "Trush",
+    "Mmiri dị n'ime ala",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Mmanụ aṅụ nke e tere mlon",
+    "Gourd",
+    "Ndị Na - atụchasị Mmadụ",
+    "AGBOR 1 (Bekee)",
+    "Ńgwānụ́ banye"
+  ],
+  "plant_parts_affected": [
+    "Mkpụrụ",
+    "Mepee ya na _usoroiheomume ndị ahụ",
+    "okpueze",
+    "Osisi vaịn",
+    "akwụkwọ",
+    "amị"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ ya na - ebelata",
+    "Mmiri dị n'ime ala",
+    "Oké mmiri ozuzo ma ọ bụ idei mmiri",
+    "Ubi ndị na - adịghị mma n'anya",
+    "Ịgba ubi n'ụzọ iwu na - akwadoghị"
+  ],
+  "spread": [
+    "Mmiri na - asọ n'ala",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Mmiri nke na - asọ asọ",
+    "Ala na ngwá ọrụ ndị e ji akọ ugbo bụ́ ndị ala ha dị larịị na ihe ndị e ji arụ ọrụ ugbo",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala"
+  ],
+  "disease_cycle": [
+    "A na - ebi n'ala ruo ọtụtụ afọ",
+    "Ndị na - agba chaa chaa na - agba chaa ma na - emepụta ihe na - eme ka mmadụ na - enwe obi ụtọ.",
+    "Ebe ndị a na - egwu mmiri n'ime mmiri nakwa n'ihe ọkụkụ ndị dị n'ime ala",
+    "Ihe ndị ọhụrụ na - adị n'osisi ndị bu ọrịa ahụ ma na - agbasa mmiri ma ọ bụ mmiri ozuzo"
+  ],
+  "impact": [
+    "Mkpụrụ akụ́kụ́ ndị na - esi ísì ụtọ na ndị na - anwụ anwụ",
+    "Mkpụrụ osisi na - amị mkpụrụ n'ubi ma ọ bụ n'ebe a na - echekwa ihe",
+    "Ọrịa ndị a na - ebute site n'erighị ihe ndị na - edozi ahụ́ gbasara mgbe e nwesịrị oké mmiri ozuzo",
+    "Ihe fọrọ nke nta ka ọ bụrụ 100% n'oké ntiwapụ"
+  ],
+  "cultural_control": [
+    "Mkpụrụ n'ubi olulu mmiri.",
+    "Zere ịgba ala mmiri n'ụzọ gabigara ókè",
+    "Jiri ihe ndina ndị a kụrụ n'ubi na - eme ihe maka ihe ọkụkụ ndị na - esi ísì ụtọ",
+    "Wepụta oge soro ihe ọkụkụ ndị na-adịghị mkpa tụgharịa uche ruo ma ọ dịkarịa ala afọ 3",
+    "Wepụ ma bibie akụ́kụ́ ndị bu ya",
+    "Ihe ndị e ji edebe ihe ndị e ji arụ ọrụ ugbo tupu ị gawa n'agbata ugbo na ala"
+  ],
+  "chemical_control": [
+    "Mkpụrụ akụ́kụ́ na - enye m ọ̀tụ̀tụ̀ ma ọ bụ ígwè",
+    "Ihe Ndị Na - esi n'Ahụ́ apụta",
+    "Anadu-n'ọ́chāghị́ányá",
+    "Usoro mmega ahụ́ ndị dị ịrịba ama mgbe ọbụla n'oge ọnọdụ mbawanye"
+  ],
+  "prevention": [
+    "Jiri ihe ndị dị ọcha mee ihe n'ejighị akụkọ ihe mere eme nke ọrịa ndị bu ya ụzọ",
+    "Zere mmiri e metọrọ emetọ",
+    "Ka mmiri na - ezo nke ọma n'ubi n'oge oké mmiri ozuzo",
+    "Wepụ mkpụrụ ndị butere ọrịa ahụ ngwa ngwa"
+  ],
+  "source": [
+    "Mahadum Illinois Na - akụzi Ihe Banyere Ahụ́ Ike",
+    "Ihe a kpụrụ akpụ nke na - akpata ọrịa ogbu na nkwonkwo nke yiri ajụ oyi, bụ́ nke a kpụrụ akpụ."
+  ]
+}

@@ -1,55 +1,55 @@
 {
- "disease": "Rhododendron Stem Borer Infestation",
- "scientific_name": "Oberea myops",
- "pathogen_type": "Insect pest (beetle)",
- "description": "Rhododendron stem borer is a beetle whose larvae bore inside plant stems. The larvae tunnel through stems, disrupting water and nutrient flow, which causes wilting and death of branches.",
- "symptoms": [
-  "Wilting or drooping leaves on individual branches",
-  "Sudden dieback of stems",
-  "Small holes on stems where adults lay eggs",
-  "Frass (sawdust-like material) near holes",
-  "Stems becoming hollow or weakened",
-  "Branches breaking or dying"
- ],
- "hosts": [
-  "Rhododendron",
-  "Azalea",
-  "Other Ericaceae ornamental shrubs"
- ],
- "favorable_conditions": [
-  "Presence of adult beetles during spring and summer",
-  "Plants with tender stems suitable for egg laying",
-  "Gardens or landscapes with susceptible host plants"
- ],
- "spread": [
-  "Adult beetles laying eggs inside plant stems",
-  "Larvae developing inside stems and branches",
-  "Movement of infested plant material"
- ],
- "impact": [
-  "Dieback of branches",
-  "Reduced plant vigor",
-  "Severe infestations can kill ornamental shrubs"
- ],
- "cultural_control": [
-  "Inspect stems regularly for egg-laying holes",
-  "Prune and destroy infested stems",
-  "Maintain plant health to reduce susceptibility"
- ],
- "biological_control": [
-  "Encourage natural predators such as birds or parasitic insects"
- ],
- "chemical_control": [
-  "Apply systemic insecticides where infestations are severe",
-  "Target adult beetles during egg-laying period"
- ],
- "prevention": [
-  "Regular monitoring during the growing season",
-  "Remove and destroy infected stems early",
-  "Avoid planting heavily infested nursery plants"
- ],
- "source": [
-  "Plant pest management references",
-  "Extension guides on rhododendron pests"
- ]
+  "disease": "Rhododendendron Stem Bur",
+  "scientific_name": "أولاً - أُسس ما قبل الولادة",
+  "pathogen_type": "الحشرة الحشرية )الخلت(",
+  "description": "يَعْتَبِرُ ٱلْيَارَاثُ ٱلْمَسِيحِيُّونَ ٱلْمَسِيحِيُّونَ أَنَّهُمْ يَسْتَخْدِمُونَ أَنْفُسَهُمْ .",
+  "symptoms": [
+    ":: تأويل أو تأويل أوراق على فرادى الفروع",
+    "\"مُسْدُد مُسْتَبَتًا مِنْ وَجَجَجَجَجَجَ",
+    "ثقوب صغيرة في المنافذ حيث يضع الكبار بيضاً",
+    "الإطارات (المواد الشبيهة بمسح المواد) بالقرب من الثقوب",
+    "الحواث التي تتحول إلى جو أو تضعف أو تضعف",
+    "الفرعــات"
+  ],
+  "hosts": [
+    "تنفيذ التنفيذroin",
+    "",
+    "مسائل أخرى أخرى"
+  ],
+  "favorable_conditions": [
+    "وجود الخنافس الراشدة أثناء الربيع والصيف",
+    "نباتات ذات سُسْر رقيقة مناسبة لوضع البيض",
+    "حدائق أو مناظر منزلية ذات نباتات قابلة للسكن"
+  ],
+  "spread": [
+    "تَنْزَعُ خُزُونًا دَرْسًا دَوْرًا",
+    "تُنَوِّي الجُزّات والفروع",
+    "حركة نقل المواد النباتية"
+  ],
+  "impact": [
+    "تراجع الفروع",
+    "انخفاض النشاط",
+    "يمكن أن تقتل الشجيرات المُنْزِلة"
+  ],
+  "cultural_control": [
+    "تُسَجَّدُ المُسْتَقْرَبُ بانتظام لثقبِ خضرةِ البيض",
+    "يَخْدَمُ ويُدَمِّرُ",
+    "المحافظة على صحة النبات لتقليل القابل"
+  ],
+  "biological_control": [
+    "تشجيع المفترسات الطبيعية مثل الطيور أو الحشرات الطفيلية"
+  ],
+  "chemical_control": [
+    "تطبيق مبيدات مبيدات حشرية نظامية عندما تكون المبيدات شديدة",
+    "4 خنافس بالغة مستهدفة أثناء فترة زرع البيض"
+  ],
+  "prevention": [
+    "الرصد المنتظم خلال موسم النمو",
+    "(أ) إزالة وتدمير ما يلي:",
+    "المراوغة في زراعة النباتات المزروعات المزروعات المغرقة"
+  ],
+  "source": [
+    "المراجع المرجعية لمعالجة الآفات",
+    "أدلة إرشادية للإمدادات بشأن الآفات الآفات (Rhoododdindendon مبيدات الآفات)"
+  ]
 }

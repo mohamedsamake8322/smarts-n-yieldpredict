@@ -1,0 +1,71 @@
+{
+  "disease_name": "Péèláàgị̀_PID_PID",
+  "pathogen_type": "Ihe ndị e ji atụrụ ndụ",
+  "genus": "Kanaria",
+  "common_species": [
+    "E nwere otu nwa agbọghọ aha ya bụ Tanyaaada so ná ndị na - efe chi ụgha.",
+    "Ha na - esi n'otu obodo dị n'obodo a aga ebe ọzọ.",
+    "Mmiri ọgwụ ahụ́ a na - akpọ Pnariassae",
+    "E nwere otu nwa agbọghọ aha ya bụ Nanaadasla.",
+    "Nne m ochie bụ́ Milelaxe"
+  ],
+  "affected_crops": [
+    "AGBOR 1 (Bekee)",
+    "Plato",
+    "Ńgwānụ́ banye",
+    "Ndị Na - atụchasị Mmadụ",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+    "Mkpụrụ akụ́kụ́ ndị na - egbu egbu, ndị a na - akụ n'ubi, ndị na - esi ísì ọma, na ndị nke na - adịghị amị mkpụrụ na ha)",
+    "Ndị Na - eto Eto Na - ajụ, Sị",
+    "Ọtụtụ akụ́kụ́ ndị mara mma na ọhịa"
+  ],
+  "symptoms": [
+    "Obere nchara nchara na - acha nchara nchara gaa n'ebe ojii dị n'akwụkwọ",
+    "Ọtụtụ mgbe, ndị na-ahụ maka ihe ndị a na-ahụ anya na-eme ka ihe ndị yiri ihe-ama-ama-dị̀",
+    "Ihe e ji emenwu ọkụ n'akụkụ ebe a na - etinye ihe n'ahụ́ ụlọ",
+    "Ihe ndị a na - eme ka ahụ́ dịkwuo onye ọ bụla mma, ha nwekwara ike ịna - emekọ ihe ọnụ",
+    "Anya mmiri na - acha odo odo na akwụkwọ osisi ndị na - eto ngwa ngwa",
+    "Ọrịa ndị a na - ebute site ná mmiri ọgwụ ahụ́ pụrụ ibelata uto nke ihe ọkụkụ ma mee ka ha nwee ihe ịga nke ọma"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke okpomọkụ ya na - ebelata",
+    "Akụkụ Akwụkwọ Mpịakọta Dị Elu Ma Ọ Bụ nke Na - adịru Ogologo Oge",
+    "Mmiri ozuzo na - adịghị akwụsị akwụsị ma ọ bụ ịgba ala mmiri n'elu mmiri",
+    "Ihe ndị dị n'ime ya bụ iberibe ahịhịa ndị dị n'ime ala"
+  ],
+  "disease_cycle": [
+    "Mkpụrụ akụ́kụ́ ndị ahụ na - atọ ụtọ na - adịgide n'ihe ọkụkụ ndị bu ọrịa ahụ, mkpụrụ akụ́kụ́, na ata",
+    "A na - emepụta ihe ndị e ji alụso nje HIV ọgụ n'akụkụ ahụ́ ndị e ji alụso nje HIV ọgụ",
+    "Ụgbọ mmiri na - esi n'ikuku, n'olulu mmiri, n'ịgba mmiri, nakwa n'ihe ndị ọzọ",
+    "Mmiri na - ezo n'elu ala mgbe anwụ na - achasi ike n'elu akwụkwọ osisi",
+    "Usoro ahụ́ ji alụso ọrịa ọgụ pụrụ ime n'oge na - arị elu"
+  ],
+  "monitoring": [
+    "Akwụkwọ osisi ndị na - acha nchara nchara ma ọ bụ ndị na - acha nchara nchara",
+    "Chọọ akara ndị siri ike bụ́ ndị dị n'ihe ndị e ji ekwe ákwà",
+    "Ọnọdụ ndị dị ize ndụ na ọ̀tụ̀tụ̀ ikpo ọkụ nke ọrịa ahụ dị mma"
+  ],
+  "management": {
+    "cultural": [
+      "Jiri ọrịa nke na-enweghị mkpụrụ ma ọ bụ ihe ndị e ji akụ osisi",
+      "A na-eji ọrụ ugbo na ihe ọkụkụ ndị na-adịghị mkpa",
+      "Wepụ ma bibie iberibe ihe ọkụkụ ndị na - akpata ọrịa ahụ mgbe oge owuwe ihe ubi gasịrị",
+      "Ọ na - eme ka ikuku na - abata n'ime ụlọ bụ́ nke ahịhịa ndị kwesịrị ekwesị na - eme ka ọ na - emepụta ngwa ngwa",
+      "Zere ịgba ala mmiri n'esepụghị aka mgbe o kwere mee"
+    ],
+    "chemical": [
+      "Tinye ihe ndị na - echebe ahụ́ gị n'ihe ndị na - eme ka ị na - enwe obi ụtọ bụ́ ndị dị ka Maryzeb",
+      "Jiri Ọkpara ya mee ihe iji gosi na ya nwere mmasị n'ihe ndị na - akpali agụụ mmekọahụ",
+      "Ọgwụ Igbo pụrụ inye aka belata mgbasa nke ọrịa",
+      "Soro ìgwè dị iche iche nke ndị na - aga mgbakọ dị iche iche tụgharịa uche iji zere iguzogide mkpebi siri ike"
+    ],
+    "biological": [
+      "Jiri ihe ndị nwere nje ndị na - akpata ọrịa mee ihe dị ka ihe ndị na - eme ka ahụ́ gị ghara ịrụ ọrụ nke ọma",
+      "Gbaa nje ndị bara uru ume bụ́ ndị na - ebelata ụmụ irighiri ihe ndị na - eme ka mmadụ ghara ịdị na - ekpori ndụ"
+    ]
+  },
+  "impact": {
+    "crop_loss": "Ihe na - ekpebi ma ihe ọ̀ ga - adị otú ọ dị na otú ọ ga - adị ma ọ bụ na ọ gaghị emebi ya",
+    "economic_importance": "Ọrịa a na - arịakarị n'ọtụtụ ihe ọkụkụ akwụkwọ nri n'ụwa nile bụ́ ndị pụrụ ibelata nnọọ ihe ịga nke ọma na àgwà ọma"
+  }
+}

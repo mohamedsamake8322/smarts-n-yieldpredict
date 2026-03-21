@@ -1,0 +1,46 @@
+{
+  "disease": "Bacterial Wilt (Leaf)",
+  "scientific_name": "Ralstonia solanacearum",
+  "pathogen_type": "Bacteria",
+  "description": "Una enfermedad bacteriana transmitida por el suelo que causa marchitamiento de hojas y tallos, eventualmente matando plantas. Puede persistir en el suelo y el agua durante años.",
+  "symptoms": [
+    "Marchitamiento repentino de las hojas",
+    "Amarilla y caída de hojas más viejas",
+    "Decoloración marrón en el tejido vascular"
+  ],
+  "hosts": [
+    "Tomate",
+    "Patata",
+    "Berenjenas",
+    "Pimienta",
+    "Las demás solanáceas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas del suelo cálidas",
+    "Alta humedad del suelo",
+    "Campos mal drenados"
+  ],
+  "spread": [
+    "Suelo contaminado y agua de riego",
+    "Herramientas o máquinas infestadas",
+    "Plantar plántulas infectadas"
+  ],
+  "management": [
+    "Utilizar cultivares resistentes o tolerantes",
+    "Retire y destruya las plantas infectadas",
+    "Mejorar el drenaje del suelo y evitar el anegamiento",
+    "Practicar la rotación de cultivos con no huéspedes"
+  ],
+  "chemical_control": [
+    "No hay un tratamiento químico eficaz; se centra en el saneamiento y las variedades resistentes"
+  ],
+  "prevention": [
+    "Utilizar material de plantación libre de patógenos",
+    "Limpiar herramientas y equipos",
+    "Evite mover el suelo de los campos infectados"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Gestión fitosanitaria de la FAO"
+  ]
+}

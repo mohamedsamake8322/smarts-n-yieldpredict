@@ -1,0 +1,87 @@
+{
+  "disease": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+  "scientific_name": "Pynaverhe ma ọ bụyzae (nke dị n'ala ala peeji: Pyriaia ma ọ bụzae)",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ọ bụ otu n'ime ọrịa ndị kasị ebibi ihe nke osikapa n'ụwa nile.",
+  "symptoms": [
+    "Anadu ma ọ bụ Nnag-shas n'akwụkwọ",
+    "Ihe ndị e ji ama ebe isi awọ ma ọ bụ ebe ọcha na ebe na - acha nchara nchara ma ọ bụ ebe na - adịghị mma e si abanye n'ókè mba ọzọ",
+    "Obere ihe ndị na - adọrọ mmasị ma na - egbuke egbuke n'akwụkwọ",
+    "Ọrịa ndị siri oké ike na - egbu mmadụ ma ọ bụ na - egbu mmadụ",
+    "Ọ na - eme ka ihe ọkụkụ na - eto ngwa ngwa",
+    "N'ọnọdụ ndị siri ike, osisi ndị na - eto eto pụrụ ịnwụ"
+  ],
+  "visual_symptoms": [
+    "[ Ihe e dere n'ala ala peeji]",
+    "Ebe isi awọ ma ọ bụ ebe ọcha nke nwere ókèala na - acha nchara nchara",
+    "Ọ na - adị m ka m̀ bụ onye a jụrụ ajụ.",
+    "Akwụkwọ nri ndị mebiri emebi ma ọ bụ ndị a mịrị amị"
+  ],
+  "hosts": [
+    "E nwere otu nwoke aha ya bụ Oryza.",
+    "Ụdị osikapa dị iche iche",
+    "Ụfọdụ ahịhịa"
+  ],
+  "plant_parts_affected": [
+    "akwụkwọ",
+    "Aka akwụkwọ",
+    "sàhụ́ọ̀tụ̀ọ́",
+    "Ụcha ndị na - emenye ụjọ"
+  ],
+  "favorable_conditions": [
+    "Nnukwu ụlọ ahịa karịrị 90%",
+    "Ogologo oge nke akwụkwọ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ, mmiri ozuzo, mmiri ozuzo, na mmiri ozuzo)",
+    "Ọ̀tụ̀tụ̀ okpomọkụ dị egwu e nwere n'ebe ahụ n'ihe dị ka lita mmiri °C",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - eme nke ọma",
+    "IHE NDỊ GA - ENYERE GỊ AKA"
+  ],
+  "spread": [
+    "Ngwá ọrụ ndị e ji emepụta ihe ndị na - atọ ọchị bụ́ ndị a na - eji eme ihe n'ụzọ na - atọ ọchị",
+    "Ifufe",
+    "Idei mmiri ma ọ bụ ịgba mmiri n'anwụ",
+    "Mkpụrụ akụ́kụ́ ndị a gbara ná mkpụrụ akụ́kụ́",
+    "Ihe ndị a na - enweta site n'oge gara aga"
+  ],
+  "disease_cycle": [
+    "Mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa na akụ́kụ́ ndị na - adị ná mkpụrụ akụ́kụ́",
+    "A na - emepụta ihe ndị e ji alụso nje HIV ọgụ n'akụkụ ahụ́ ndị e ji alụso nje HIV ọgụ",
+    "Ifufe ma ọ bụ mmiri na - ebugharị",
+    "A na - eji akwụkwọ nri eme ihe mgbe akwụkwọ ya ka dị obere",
+    "Akwara ndị ọhụrụ na - eme ka ọ̀tụ̀tụ̀ ọbara ji erugharị n'ahụ́ na - akpata ọ̀tụ̀tụ̀ ọbara ji erugharị n'ahụ́ ngwa ngwa"
+  ],
+  "impact": [
+    "Imerụ Ahụ́ Na - ebelata Ihe Isi Ike Ndị A Na - enwe n'Ahụ́",
+    "Ihe ndị na - emebi ihe na akụ́kụ́ na - eme ka ike gwụ ha",
+    "Mkpụrụ akụ́kụ́ ndị dị nsọ na - amị",
+    "Mkpụrụ akụ́kụ́ dara ogbenye",
+    "Ọrịa ndị a na - ebute site n'oge ruo n'oge pụrụ ịkpata mfu ndị bụ́ isi"
+  ],
+  "cultural_control": [
+    "Na - eji ụdị osikapa ndị na - esi ísì ụtọ eme ihe",
+    "Mkpụrụ akụ́kụ́ ndị a kọwara nke ọma na-enweghị ọrịa",
+    "Nọgide na - enwe idei mmiri mgbe o kwere mee",
+    "Zere Imebiga Ihe Ókè n'Ụzọ Na - ezighị Ezi",
+    "Nje ndị na - egbu egbu bụ́ ndị a na - eji eme ihe n'ihe banyere mkpụrụ akụ́kụ́"
+  ],
+  "biological_control": [
+    "Jiri nje ndị bara uru dị ka ụdị dị iche iche nke nje bacteria na - akpata mee ihe",
+    "Mee ka ala nọgide na - emepụta nri nke ọma"
+  ],
+  "chemical_control": [
+    "Azstroron",
+    "Tlllabroron",
+    "Njikọ Dị Iche Iche",
+    "Njikọ Dị Iche Iche"
+  ],
+  "prevention": [
+    "Na - enyochakarị onwe gị mgbe nile maka mgbaàmà ndị mbụ ị na - enwe",
+    "Echiche Ziri Ezi Banyere Ihe Ndị Na - agaghị Ekwe Omume",
+    "Nọgide na - elekọta ebe a na - agba mmiri nke ọma",
+    "Jiri usoro nlekọta nke ọrịa ndị a na - ejighị alụso nje HIV ọgụ mee ihe"
+  ],
+  "source": [
+    "Ebe A Na - eme Nnyocha Banyere Ọrịa Ụmụaka na Ụlọ Ọrụ Na - ahụ Maka Mmekọrịta Anyị na Ndị Mmadụ n'Otu Ọnụ Ọgụgụ Mmadụ na Ibe Ya",
+    "Ebe Ndị A Na - edebe Ihe Ndị Ruuru Mmadụ n'Ụzọ Nchebe",
+    "Ihe osise ndị e zoro aka na ha n'ihe ndị a kụrụ n'ubi osikapa"
+  ]
+}

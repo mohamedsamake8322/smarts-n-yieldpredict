@@ -1,0 +1,88 @@
+{
+  "disease": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "scientific_name": "Bruriri nweta lajarai",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "Ebe a na - emepụta akwụkwọ osisi ndị na - acha akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ bụ ebe dị ụtọ nke na - emetụta osisi ndị na - acha odo odo, karịsịa n'ógbè ndị na - ajụ oyi ma ọ bụ n'ógbè ndị mmiri na - adịghị ezo na ha.",
+  "symptoms": [
+    "Obere ihe ndị na - acha odo odo, ndị na - acha nchara nchara ma ọ bụ ndị na - acha nchara nchara n'akwụkwọ",
+    "Ọ na - adị n'elu akwụkwọ osisi ma ọ bụ n'azụ ya",
+    "Ebe okpuru pụrụ ịkpọ nkụ ma daa n'ike n'ike",
+    "Aka akwụkwọ ya na - acha odo odo ma na - ebelata ngwa ngwa",
+    "Ụmụ irighiri ihe ndị ọzọ na - atọ ọchị dị n'okpuru akwụkwọ osisi",
+    "Mkpụrụ osisi pụrụ ịmalite inwe ntụpọ ma ghọọ nke na - esighị ike",
+    "Mkpụrụ osisi ndị butere ọrịa nwere ike ime ka mmadụ mịa mkpụrụ"
+  ],
+  "visual_signature": [
+    "Ọtụtụ ntụpọ ndị dị obere ma ọ bụ ndị na - acha nchara nchara dị n'akwụkwọ osisi ndị na - acha odo odo",
+    "Akwụkwọ ndị na - acha odo odo bụ́ ndị nwere ihe dị iche iche na - acha odo odo",
+    "Elu ụlọ ndị dị n'akwụkwọ osisi mgbe ahụ́ nwụsịrị na - ada",
+    "A dọkwara ya n'azụ akwụkwọ n'okpuru ebe a na-amaghị ama"
+  ],
+  "affected_plant_parts": [
+    "akwụkwọ",
+    "Mkpụrụ osisi na - amalite",
+    "Mkpụrụ osisi (n'aka ekpe)"
+  ],
+  "hosts": [
+    "Ihe Na - atọ Ụtọ E Ji Eme Ihe n'Ụzọ Na - atọ Ụtọ",
+    "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+  ],
+  "plant_family": "Rosaceae",
+  "important_hosts": [
+    "Prunus alum",
+    "Prunusssrasus"
+  ],
+  "favorable_conditions": [
+    "Elu elu",
+    "Akwụkwọ ya",
+    "Mgbe mgbe, mmiri na - ezo",
+    "Ọ̀tụ̀tụ̀ okpomọkụ ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi"
+  ],
+  "spread": [
+    "Ifufe-solúọ̀tụ̀ọ́",
+    "Mmiri ozuzo na - ezo",
+    "Akwụkwọ osisi ndị nwere nje ndị na - akpata ọrịa bụ́ ndị na - ada ada"
+  ],
+  "disease_cycle": [
+    "Ihe ndị na - atọ ọchị a na - ahụ n'akwụkwọ osisi ndị nwere nje ndị na - akpata ọrịa",
+    "Ihe ndị e mepụtara n'oge oyi n'oge oyi",
+    "Ifufe ma ọ bụ mmiri ozuzo na - agbasa akwụkwọ ọhụrụ",
+    "A na - ebute ọrịa mgbe ọ bụla akwụkwọ osisi na - adịghị adị",
+    "Ọrịa na - agbasa ugboro ugboro n'oge uto"
+  ],
+  "damage": [
+    "Wepụ n'ike usoroiheomume na-enye nsogbu",
+    "● Otú o si eme ka ọ ghara ịna - adị mfe iji ya eme ihe otú o si masị ya",
+    "Mkpụrụ osisi na - adịghị amị mkpụrụ nke ọma",
+    "Mkpụrụ osisi dị nro",
+    "belata mkpụrụ osisi na - amị mkpụrụ n'oge na - esonụ"
+  ],
+  "management": [
+    "Hichaa akwụkwọ ya mebiri emebi ma laa ya n'iyi",
+    "Ihe ọkụkụ ndị dị ọcha bụ́ ndị dị n'okpuru osisi",
+    "Mee ihe iji belata olulu mmiri",
+    "Osisi ndị a kụrụ n'ubi iji mee ka ikuku na - abata n'ime ha",
+    "Na - ele osisi anya n'oge oyi"
+  ],
+  "organic_treatment": [
+    "Mmiri ọgwụ ahụ́ a na - akpọ alcccide",
+    "Tinye mmanụ n'ebe a na - ete ya mmanụ n'oge a",
+    "Ime achịcha iji mee ka mmiri dị n'ime ala dịghachi n'ahụ́ gị"
+  ],
+  "chemical_control": [
+    "Ụcha ọla kọpa:",
+    "Mmiri ọgwụ ndị na - eme ka ahụ́ ghara iru mmadụ ala n'oge oyi"
+  ],
+  "prevention": [
+    "Ebe a na - edebe ihe ọcha nke ọma",
+    "A na - eji osisi a na - eji ewepụ ikuku n'ọdụ ụgbọelu mgbe nile",
+    "Mgbe oge oyi na - eru, a na - ahụ ihe ndị na - esi ísì ọma na - eme n'oge oyi"
+  ],
+  "source": [
+    "University of California Intet Pest Care",
+    "Mahadum nke dị n'Amọọk",
+    "Ohio University State T.O.A.",
+    "Ebe Ugwu Pacific Na - adọrọ Mmasị",
+    "Ihe Isi Ike nke Na - esi n'Ahụ́ Ike"
+  ]
+}

@@ -1,55 +1,64 @@
 {
-  "pest_name": "Soybean Leaf Mosaic Virus",
-  "scientific_name": "Soybean mosaic virus (SMV)",
-  "common_abbreviations": ["SMV"],
-  "description": "Soybean mosaic virus (SMV) is a widespread plant virus affecting primarily soybean, causing leaf mosaic, stunting, reduced pod number, and seed discoloration. Yield loss and reduced seed quality can occur.",
-  "distribution": "Worldwide in all soybean-growing areas, particularly in temperate and subtropical regions.",
+  "pest_name": "索比埃人 Leaf Mosaic病毒",
+  "scientific_name": "联盟马赛克病毒(SMV)",
+  "common_abbreviations": [
+    "SMV 机动车辆"
+  ],
+  "description": "黄豆马赛克病毒(SMV)是一种广泛流行的植物病毒,主要影响大豆,造成叶片马赛克、发育迟缓、豆类数量减少和种子变色。 产量损失和种子质量下降可能发生。",
+  "distribution": "全世界所有大豆种植地区,特别是温带和亚热带地区。",
   "host_range": {
-    "general": "Mostly Glycine max (cultivated soybean) and G. soja (wild soybean)",
-    "notable_hosts": ["Pea", "Snap bean"]
+    "general": "大部分为最大甘油(种植大豆)和大豆(大豆)",
+    "notable_hosts": [
+      "皮蜂",
+      "平角豆豆"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Mottling with light and dark green patches",
-      "Puckering along the veins",
-      "Downward curling of leaf blades",
-      "Stunting and reduced vigor"
+      "与灯光和暗绿绿补丁交接",
+      "围着血管拉着",
+      "叶片向下弯曲",
+      "振动和减少振动"
     ],
     "pod": [
-      "Reduced pod number per plant",
-      "Discolored and shriveled seeds"
+      "减少每个工厂的舱号",
+      "分色和片状种子"
     ]
   },
   "damage": [
-    "Reduced seed quality, size, and germination",
-    "Reduced nodulation and yield",
-    "Symptoms may be mild or absent in high temperatures",
-    "Severe impact when co-infected with other viruses (e.g., BPMV)"
+    "种子质量、体积和发芽下降",
+    "减少点头和产量",
+    "在高温下,症状可能是温和的,也可能是无症状的。",
+    "当与其他病毒(如BPMV)同时感染时产生严重影响"
   ],
   "biology": {
-    "pathogen_type": "Virus, genus Potyvirus, family Potyviridae",
-    "particle": "Filamentous particles ~7500 Å long, 120 Å diameter",
-    "genome": "Single-stranded positive-sense RNA (~9.6 kb) with VPg protein at 5′ end, encoding a single polyprotein processed into ~10 functional proteins",
-    "transmission": ["Aphid non-persistent transmission", "Seed transmission", "Sap"],
-    "favorable_conditions": "Cool to moderate temperatures (16–28°C), aphid activity promotes spread",
-    "seed_transmission_rate": "Typically <5%, but variable depending on cultivar"
+    "pathogen_type": "病毒、genus Poty病毒、Potyviridae家族",
+    "particle": "细微粒子~7500 长 120 直径",
+    "genome": "5 ' 末端有VPg蛋白蛋白的单根正辛辛醇-阳性RNA(~9.6 kb),将加工为~10功能蛋白的单一聚蛋白编码为~10功能蛋白",
+    "transmission": [
+      "非持久性传染",
+      "种子传播",
+      "沙发"
+    ],
+    "favorable_conditions": "冷至中温温度(16-28°C),活动促进扩散",
+    "seed_transmission_rate": "通常 <5%,但因耕种而异"
   },
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Plant early in the season to reduce impact",
-      "Monitor and manage aphid populations"
+      "使用无病原原种种子",
+      "季节初期工厂,以减少影响",
+      "监测并管理两栖人口"
     ],
     "genetic_control": [
-      "Use cultivars with resistance genes (R genes)"
+      "使用具有抗药性基因的品种(R基因)"
     ],
     "chemical_control": [
-      "Limited effectiveness of insecticides for controlling aphids to reduce virus spread"
+      "杀虫剂在控制虫虫以减少病毒传播方面效力有限"
     ]
   },
   "notes": [
-    "SMV interactions with R genes are studied as a model for gene-for-gene resistance",
-    "RNA silencing plays a role in seed transmission and seed coat mottling",
-    "Transmission by aphids is influenced by virus proteins HC-Pro and coat protein (CP)"
+    "研究SMV与R基因的相互作用,作为基因换基因抗药性的模式。",
+    "RNA 沉默在种子传播和种子大衣插播中起着作用。",
+    "甲虫的传播受病毒蛋白的影响 HC-Pro和大衣蛋白(CP)"
   ]
 }

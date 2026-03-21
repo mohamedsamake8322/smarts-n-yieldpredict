@@ -1,0 +1,71 @@
+{
+  "disease": "Osisi aṅụrị- sà ná mkpụrụ osisi",
+  "scientific_name": "Nsogbu na - esi n'erighị ihe ndị na - edozi ahụ́ nke ọ̀tụ̀tụ̀ shuga dị n'ọbara na - akpata",
+  "pathogen_type": "Ihe a bụ nsogbu na - enweghị ngwọta nke na - esi n'erighị ihe ndị na - edozi ahụ́.",
+  "description": "Ọ na - emetụta mkpụrụ osisi ndị na - amị mkpụrụ n'ike n'ike n'ike mgbe ihe ndị na - esi n'ahụ́ ha na - amị mkpụrụ na - ebelata. Nsogbu ahụ na - akpata ndakpọ nke mkpụrụ osisi ahụ, ọ pụkwara ịkpata mfu ndị dị ịrịba ama.",
+  "symptoms": [
+    "Obere ìhè na - acha akwụkwọ ndụ akwụkwọ ndụ ma ọ bụ odo odo n'isi mkpụrụ osisi ahụ",
+    "Anwụ na - acha ma ọ bụ azụ̀ ojii n'ọnụ ọnụ akpa mkpụrụ osisi",
+    "Mkpụrụ akụ́kụ́ na - apụ n'anya ma na - emebi emebi",
+    "Mkpụrụ osisi nke na - amị mkpụrụ nke ọma na - amị mkpụrụ",
+    "Mkpụrụ ndụ ihe nketa na - eto n'ụdị dị iche iche (nke bụ́ isi na - eme ka ọbara na - erugharị n'ahụ́)",
+    "Nje bacteria ndị na - akpata ọrịa bụ́ ndị na - adị nro n'ọnọdụ ndị siri ike"
+  ],
+  "hosts": [
+    "_Okwunchọcha:",
+    "Ihe na - esi ísì ọma",
+    "tomato",
+    "Ụcha àkwá",
+    "zui",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Mmiri dị n'ime ala",
+    "Jehova na - agọzi ndị na - erubere ya isi",
+    "Ilon"
+  ],
+  "favorable_conditions": [
+    "A na - enweta ihe ndị e ji ebi akwụkwọ n'ebe a na - akụ osisi",
+    "Ịgba ala mmiri n'ụba ma ọ bụ oké ọkọchị",
+    "Uto e nwere n'ọnụ ọgụgụ ndị na - eto eto",
+    "IHE NDỊ GA - ENYERE GỊ AKA",
+    "Ebe a na - etinye nnu n'ime ala",
+    "Ọ na - emebi ihe ma ọ bụ na - emebi ihe n'ụzọ na - adịghị mma",
+    "Oké ọ̀tụ̀tụ̀ okpomọkụ na mkpụrụ osisi na - eto ngwa ngwa"
+  ],
+  "spread": [
+    "Ọ bụghị ihe na - efe efe; ọ bụ nsogbu na - adịghị akwụsị akwụsị",
+    "Ọ bụrụ na a na - ebugara ndị mmadụ mkpụrụ akụ́kụ́ n'ebe a na - ere mkpụrụ akụ́kụ́, ọ dịghị ihe a ga - eji ya mee",
+    "Nsogbu mmiri na - akpatakarịkarị ma ọ bụ ụkọ mmiri ozuzo"
+  ],
+  "management": [
+    "Na - eme ka mmiri dị n'ala dị larịị site n'ịgba ya mmiri n'ụzọ kwesịrị ekwesị",
+    "Zere Imebiga Ihe Ókè n'Ụzọ Na - ezighị Ezi",
+    "Ime ka ala na - emepụta ihe nke ọma maka uto ka mma",
+    "Na - eji ihe ndị na - egbochi mmiri na ọ̀tụ̀tụ̀ okpomọkụ eme ihe iji chịkwaa mmiri na ọ̀tụ̀tụ̀ okpomọkụ",
+    "Ebe ala na - adịghị emepụta ihe nke ọma na - ebelata ọ̀tụ̀tụ̀ okpomọkụ nke ala na - emepụta ihe site n'inyocha ala"
+  ],
+  "biological_control": [
+    "Jiri ụmụ irighiri ihe ndị bara uru dị ka mkpụrụ ndụ ihe nketa ndị dị ndụ bụ́ ndị na - eme ka ihe ọkụkụ ka mma",
+    "Ụdị dị iche iche nke mkpụrụ ndụ ndị dị n'ime ala na - akwado uto ndị a na - enwe n'ọnụ ọgụgụ ndị na - eto eto na ndị na - esi ísì ọma",
+    "Jiri ájá ala dị n'ime ala mee ihe iji mee ka ala dị mma n'ụzọ dị mma"
+  ],
+  "chemical_control": [
+    "Ihe ndị na - eme ka ahụ́ na - adị mmadụ mma n'ahụ́",
+    "Calccccclaide",
+    "Calccccclis (pgrilum)",
+    "Ihe ndị na - esi ísì ọma na - eme ka mmanụ na - esi ísì ụtọ na - esi ísì ụtọ",
+    "Ihe ndị e ji emenwu ọkụ (ihe ndị na - enye aka n'ịmụ ọrụ)"
+  ],
+  "prevention": [
+    "Ọ̀tụ̀tụ̀ ịjụ oyi nke mmiri ọgwụ ahụ́ zuru ezu n'ala",
+    "Nọgide na - eme ihe omume ndị a na - eme mgbe nile",
+    "Zere Imebiga Ihe Ókè n'Ụzọ Na - ezighị Ezi",
+    "Ime ka ahụ́ sikwuo gị ike, meekwa ka ahụ́ sikwuo gị ike",
+    "Jiri ịgba mmiri ara ehi mee ka mmiri dị n'ime ala",
+    "Zere imebi ihe n'ụzọ na - adịghị mma n'ihi ịkụ ihe ma ọ bụ ọrịa"
+  ],
+  "source": [
+    "University of Florida Ọ NA - EME IHE IKE",
+    "Ụkpụrụ Ndị Na - achịkwa Mkpụrụ Ndụ Ihe Nketa Na - eme Ka E Nwee Mmasị n'Ahụ́ Ndị Mmadụ Na - anụ Ọkụ n'Obi n'Ahụ́",
+    "Akwụkwọ nri na akwụkwọ nri"
+  ]
+}

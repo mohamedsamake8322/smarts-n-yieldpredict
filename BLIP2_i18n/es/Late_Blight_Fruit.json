@@ -1,0 +1,46 @@
+{
+  "disease_name": "Frutas tardías de la plaga",
+  "scientific_name": "Phytophthora infestans",
+  "pathogen_type": "oomiceto",
+  "description": "La podredumbre tardía de la fruta es una enfermedad destructiva causada por los infestantes del oomiceto Phytophthora. Afecta principalmente a las plantas de tomate y patata. El patógeno infecta frutas, hojas y tallos y se puede propagar rápidamente en condiciones frías y húmedas, lo que a menudo conduce a graves pérdidas de cultivos.",
+  "affected_parts": [
+    "Frutas",
+    "Hoja",
+    "Tallo"
+  ],
+  "hosts": [
+    "Tomate",
+    "Patata"
+  ],
+  "symptoms": [
+    "Lesiones de color marrón oscuro o negro en las frutas",
+    "Pudrición firme con aspecto grasiento",
+    "Crecimiento de moho blanco en condiciones húmedas",
+    "Caída rápida de la fruta"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías (10–20°C)",
+    "Alta humedad",
+    "Lluvias frecuentes",
+    "Largos períodos de humedad de las hojas"
+  ],
+  "spread": [
+    "Esporas transportadas por el viento",
+    "Salpicadura de la lluvia",
+    "Desechos de plantas infectados",
+    "Herramientas y equipos contaminados"
+  ],
+  "management": {
+    "cultural": [
+      "Eliminar las plantas infectadas",
+      "Mejorar la circulación del aire",
+      "Evitar el riego por encima del suelo",
+      "Utilizar cultivares resistentes cuando estén disponibles"
+    ],
+    "chemical": [
+      "Fungicidas a base de metalaxilo",
+      "Clorotalonil",
+      "Mancozeb"
+    ]
+  }
+}

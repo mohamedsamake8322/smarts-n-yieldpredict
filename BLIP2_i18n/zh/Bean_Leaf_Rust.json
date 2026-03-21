@@ -1,69 +1,69 @@
 {
-  "disease": "Bean rust",
-  "scientific_name": "Uromyces appendiculatus",
-  "pathogen_type": "Fungus",
-  "description": "Bean rust is a fungal disease that affects bean leaves, stems and sometimes pods. It produces rust-colored pustules on leaf surfaces that reduce photosynthesis and can cause early leaf drop and yield loss.",
+  "disease": "豆生锈",
+  "scientific_name": "缩略图附附图",
+  "pathogen_type": "蘑菇",
+  "description": "豆锈是一种菌类疾病,它影响豆叶、茎和有时是豆类。 它在叶子表面产生生锈色的胡萝卜,减少光合作用,并可能导致叶叶早落和产量下降。",
   "symptoms": [
-    "Small white or pale yellow spots on leaves",
-    "Orange, brown or rust-colored pustules on leaf underside",
-    "Powdery spores released from pustules",
-    "Yellowing around lesions",
-    "Severely infected leaves dry and fall early",
-    "Occasional pustules on stems and pods"
+    "叶叶上的白色或黄色小斑点",
+    "橙色、棕色或生锈色",
+    "从薄饼中释放出来的火药颗粒",
+    "围绕损伤的黄黄",
+    "受严重感染的叶叶干枯,早落",
+    "偶尔在根茎和豆类上出现悬浮"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "snap bean",
-    "lima bean",
-    "soybean",
-    "cowpea",
-    "other Phaseolus species"
+    "共同豆类",
+    "肾肾脏豆",
+    "品级豆类",
+    "黑色豆豆",
+    "豆",
+    "豆",
+    "大豆",
+    "牛角",
+    "其他次甲醇种"
   ],
   "favorable_conditions": [
-    "Moderate temperatures (18–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Leaf wetness for several hours",
-    "Dense crop canopy"
+    "中温温度(18-25°C)",
+    "高湿湿度",
+    "频繁降雨",
+    "叶叶湿湿数小时",
+    "密集作物树冠"
   ],
   "spread": [
-    "Wind-borne fungal spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Airborne spores traveling long distances"
+    "风传真菌螺纹",
+    "雨水喷雨",
+    "受感染植物碎片",
+    "长途旅行的空载螺子"
   ],
   "management": [
-    "Plant resistant bean varieties",
-    "Rotate crops with non-host plants",
-    "Remove infected crop residues",
-    "Improve plant spacing for airflow",
-    "Monitor fields early during the growing season"
+    "耐植物耐植物植物的豆类品种",
+    "非宿主植物的旋转作物",
+    "清除受感染作物残留物",
+    "改善空气流通的植物间隔",
+    "在生长季节初期监测田地"
   ],
   "biological_control": [
-    "Trichoderma species used as biological fungicides",
-    "Bacillus subtilis based biofungicides"
+    "用作生物杀真菌剂的三头菌种",
+    "基于生物杀菌剂的生物杀菌剂"
   ],
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Tebuconazole",
-    "Propiconazole",
-    "Azoxystrobin",
-    "Myclobutanil"
+    "红铜",
+    "氯代烷基",
+    "Tebuconazole 炸药",
+    "丙烯烷",
+    "Aoxoxystrobin 氧氧基苯",
+    "微氯丁二烯"
   ],
   "prevention": [
-    "Use certified disease-free seeds",
-    "Avoid dense planting",
-    "Remove infected plant debris after harvest",
-    "Use resistant cultivars",
-    "Monitor crops during humid weather"
+    "使用经核证的无疾病的种子",
+    "避免密集种植",
+    "收获后清除受感染植物碎片",
+    "使用抗抗性栽培品种",
+    "监测潮湿天气期间的作物"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Disease Management Guides",
-    "University Plant Pathology Extension Publications"
+    "CABI 作物保护简编",
+    "粮农组织植物疾病管理指南",
+    "大学植物病理学推广出版物"
   ]
 }

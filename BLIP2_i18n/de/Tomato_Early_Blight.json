@@ -1,0 +1,72 @@
+{
+  "disease_name": "Tomaten Frühbrand",
+  "causal_agent": "Alternaria solani",
+  "other_agents": [
+    "Alternaria tomatophila"
+  ],
+  "type": "Pilzpathogen",
+  "hosts": {
+    "primary": [
+      "Tomaten (Solanum lycopersicum L.)",
+      "Kartoffeln (S. tuberosum)"
+    ],
+    "secondary": [
+      "Auberginen (S. melongena L.)",
+      "Paprika und Paprika (Capsicum spp.)"
+    ],
+    "weeds": [
+      "Schwarzer Nachtschatten (Solanum nigrum)"
+    ]
+  },
+  "distribution": "Weltweit; problematischer Osten der Rocky Mountains und Mittlerer Westen der USA für Tomaten; verbreitet in Kartoffelanbaugebieten",
+  "symptoms": {
+    "tomato": [
+      "Konzentrische \"Bullseye\"-Blattflecken auf älteren Blättern, braun bis schwarz, bis 1,3 cm",
+      "Gelbfärbung oder Chlorose um Blattflecken",
+      "Stängelläsionen, dunkel und leicht versunken mit konzentrischen Ringen",
+      "Fruchtfäule an Stängelbefestigungspunkten oder durch Wunden, braun mit dunklen konzentrischen Kreisen, schwarze samtige Sporenmasse",
+      "Sämlinge: Kragenfäule (Basalgürtel), Tod"
+    ],
+    "potato": [
+      "Konzentrische dunkelbraune Flecken auf älteren Blättern",
+      "Vorzeitige Entlaubung, die zu einer Verringerung der Knollenausbeute führt",
+      "Stängelflecken gunt und diffus",
+      "Tuber Läsionen: trocken, dunkel, in die Oberfläche gedrückt; darunter Fleisch trocken, ledrig und braun; kann während der Lagerung vergrößert werden"
+    ]
+  },
+  "life_cycle": {
+    "type": "Polyzyklisch",
+    "overwintering": "Pflanzliche Rückstände oder wildlebende Pflanzen",
+    "infection": "Konidien, im Frühjahr hergestellt, gespritzt oder winddispersiert, durch Wunden, Stomata oder direkte Penetration infizieren",
+    "spread": "Conidia aus Läsionen infizieren andere Teile der Pflanze oder benachbarte Pflanzen in der gleichen Saison"
+  },
+  "pathogen_type": "Nekrotroph",
+  "cultural_control": [
+    "Klare infizierte Trümmer, um Inokulum zu reduzieren",
+    "Wasserpflanzen am Morgen zur Minimierung der Blattfeuchte",
+    "Tropfbewässerung verwenden",
+    "Mulch aufbringen, um Bodenspritzer zu blockieren",
+    "Über einen Zeitraum von mindestens drei Jahren auf nicht solenhaltige Kulturpflanzen umsteigen",
+    "Kontrolle wilder Solane-Pflanzen in der Nähe von Feldern",
+    "Pflanzenresistente Sorten",
+    "Luftzirkulation in Zeilen erhöhen",
+    "Überwachung der Felder bei warmem, feuchtem Wetter"
+  ],
+  "chemical_control": [
+    "Azoxystrobin (QoI-Fungizid)",
+    "Pyraclostrobin",
+    "Bacillus subtilis",
+    "Chlorothalonil",
+    "Kupferhaltige Erzeugnisse",
+    "Wasserstoffdioxid (Hydroperoxyl)",
+    "Mancozeb",
+    "Kaliumbicarbonat",
+    "Ziram"
+  ],
+  "notes_on_resistance": "Verminderte Empfindlichkeit gegenüber QoI-Fungiziden aufgrund von F129L-Aminosäuresubstitution in A. solani",
+  "references": [
+    "Die Kommission ist der Auffassung, dass die in Artikel 2 Absatz 1 der Verordnung (EU) Nr. 1308/2013 genannten Maßnahmen nicht mit dem Gemeinsamen Markt vereinbar sind.",
+    "Die Veröffentlichungen der Europäischen Union werden im Amtsblatt der Europäischen Union veröffentlicht und sind auf der Website der Europäischen Kommission unter folgender Adresse abrufbar: http://www.cabdirect.org/cabdirect/abstract/20093196520",
+    "L 347 vom 20.12.2013, S. 671."
+  ]
+}

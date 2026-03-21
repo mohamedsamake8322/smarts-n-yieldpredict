@@ -1,100 +1,100 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
-  "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "virus_name": "Virusi ya Ringspot",
+  "abbreviation": "ya TRSV",
+  "family": "ya Secoviridae",
+  "genus": "Ukosefu wa",
   "taxonomy": {
-    "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "order": "ya Picornavirales",
+    "virus_group": "Virusi ya RNA"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "Hifadhi ya RNA ya moja kwa moja",
+    "structure": "Genoa ya bipartiti (RNA1 na RNA2)",
+    "particle_shape": "ya Isometric",
+    "particle_size": "Kiwango cha juu cha 28 nm"
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
-      "grasshoppers",
-      "flea beetles"
+      "Maandiko ya Kichina (Xiphinema spp.)",
+      "Mwisho wa",
+      "Mitano ya",
+      "ya grasshoppers",
+      "ya flea beetles"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "Virusi imejulikana katika mbegu, lakini usambazaji kutoka mbegu kwa mimea haikujulikana."
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
-      "Peanut",
-      "Potato",
-      "Lettuce"
+      "Mchakato wa Kijapani (Nicotiana spp.)",
+      "Soya ya",
+      "Mji wa Tomato",
+      "ya Peanut",
+      "Mapato ya",
+      "Furaha ya"
     ],
     "ornamental_plants": [
-      "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "ya furfuracea",
+      "ya Chrysanthemum",
+      "Petunia ya"
     ],
     "weed_hosts": [
-      "Chenopodium spp.",
-      "Amaranthus spp.",
-      "Solanum nigrum"
+      "Chenopodium ya SPP.",
+      "Mchakato wa SPP.",
+      "Maisha ya Sulaiman"
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "Maonyesho ya Chlorotic juu ya karatasi",
+    "Ukosefu wa nywele kama ugonjwa unaendelea",
+    "Ukosefu wa mwili na ukosefu wa",
+    "Kuongezeka kwa umeme katika mimea ya kuongezeka",
+    "Kupunguza uzalishaji na uzalishaji"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "Virusi huishi katika mimea, mbegu, na ardhi zilizoathirika kupitia vectors ya nematode",
+    "Nematodes inachukua virusi wakati wa kula juu ya rangi zilizoathirika",
+    "Vectors kuhamisha virusi kwa mimea salama wakati wa chakula",
+    "Mchakato inaweza kutokea wakati wa uzalishaji"
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "Maonyesho ya rangi juu ya karatasi",
+      "Chlorosis na necrosis karibu na magonjwa"
     ],
     "laboratory_methods": [
-      "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "ya Elisa",
+      "Matibabu ya PCR",
+      "Mikroskopi ya Electron"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "Ushirikiano wa Vacuolate (Vac Inc)",
+      "Ushirikiano wa Crystalloid (Cyst Inc)"
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "Inaweza kusababisha kupunguza kiwango cha uzalishaji katika soya, peanut, na mimea ya tabak",
+    "agronomic": "Mimea ya kuvutia inaweza kuonyesha ukuaji mbaya na uzalishaji wa chini"
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "Tumia mbolea zisizo na virusi ya kuthibitishwa",
+      "Kuondoa mimea ya kuvutia mapema",
+      "Matunda ya mimea na aina zisizohusiana"
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "Ulinzi wa idadi ya nematode katika ardhi",
+      "Ufuatiliaji na usimamizi wa viktori ya insect"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "Matumizi na vifaa vya disinfect",
+      "Kuepuka usambazaji wa mashine kati ya mimea"
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "Kitabu cha APS cha ugonjwa wa mimea",
+    "Taksonomia ya virusi ya ICTV",
+    "Mfumo wa NCBI Virus Database"
   ]
 }

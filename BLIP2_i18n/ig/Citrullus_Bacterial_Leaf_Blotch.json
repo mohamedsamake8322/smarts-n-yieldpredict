@@ -1,0 +1,119 @@
+{
+  "disease_name": "Fláàgị̀ ndị ahụ_B_L_color_B ngosi",
+  "common_name": "Mkpụrụ Osisi Ndị Na - esi n'Ahụ́ Akụ́ Dị n'Ime Ala",
+  "causal_agent": {
+    "type": "Nje bacteria",
+    "scientific_name": "Ihe e dere n'ụrọ bụ́ Acirax (ihe e dere n'ahụ́ ya)",
+    "taxonomy": {
+      "domain": "Ụchà dọ́ọ̀kụ̀",
+      "class": "Belta Ndidi",
+      "order": "Ihe Ndị Na - alụso Ọrịa Ọgụ n'Ahụ́",
+      "family": "Ha na - esi ebe ahụ aga ebe ọ bụla ha na - aga",
+      "genus": "Ihe Na - adọrọ Oké Mmasị n'Ahụ́",
+      "species": "Ihe ndị e dere n'ahụ́ ájá"
+    }
+  },
+  "microbiological_properties": {
+    "gram_stain": "PIm-n'ụzọ na-enweghị isi",
+    "shape": "Ńgwānụ́ banye",
+    "size": "N'ihe fọrọ nke nta ka o ruo afọ 0",
+    "oxygen_requirement": "N'ụzọ Na - eju Afọ",
+    "motility": "Ka mụ na ọkọlọtọ ihe na - emetụ n'isi nọ na - aga",
+    "optimal_growth_temperature_celsius": "27-30"
+  },
+  "host_plants": [
+    "Mmiri dị n'ime ala",
+    "Metaon",
+    "Onye na - ahazi ụzọ n'ebe ndị a na - eme egwuregwu",
+    "Trush",
+    "23.pkin",
+    "Zrucrui"
+  ],
+  "symptoms": {
+    "seedlings": [
+      "Mmiri na-enweghị isi n'ala Igbo",
+      "Ihe Ndị Na - egbochi Agụụ Mmekọahụ n'Ebe Dị Anya",
+      "Ihe Ndị Na - eme Ka A Ghara Ịdị Na - enwe Ihe Ịga nke Ọma n'Ahụ́",
+      "Ndakpọ Mkpụrụ na Ọnwụ"
+    ],
+    "leaves": [
+      "Irregg-blablad to les les les (melon)",
+      "Ref-blablablas les (melon)",
+      "Ihe ndị a na - eme iji gbochie afọ ime na - agbasa n'akụkụ dị iche iche",
+      "Mgbaàmà ndị na - ebelata ihe mgbu ndị na - esi n'erighị ihe ndị na - edozi ahụ́"
+    ],
+    "fruits": [
+      "Mmiri na-enweghị isi-enweghị isi",
+      "Ebe Ndị A Na - edebe Ihe Ndị Ruuru Mmadụ n'Ụzọ Na - ezighị Ezi",
+      "Anwụrụ ọkụ na - acha nchara nchara ma na - agbawa agbawa",
+      "Na - emebi mkpụrụ osisi n'ike n'ike",
+      "Mkpụrụ osisi na - amị mkpụrụ tupu ya enwee owuwe ihe ubi"
+    ]
+  },
+  "disease_cycle": {
+    "primary_inoculum": "Mkpụrụ akụ́kụ́ ndị a gbara agba",
+    "transmission_methods": [
+      "Mmịnye Mkpụrụ",
+      "Mmiri na - asọ asọ",
+      "Mmiri ozuzo-disi",
+      "Ịgba Àmà n'Ụzọ Zuru Ezu"
+    ],
+    "infection_entry_points": [
+      "Stwellta",
+      "Ihe ọjọọ ndị na - esi n'erighị ihe ndị na - edozi ahụ́ apụta"
+    ],
+    "fruit_infection_stage": "263 izu3 ka a kụsịrị okooko osisi"
+  },
+  "favorable_conditions": {
+    "temperature_celsius": "Oké nkume (nke e biri n'elu ya malite n'afọ 30303030 T)",
+    "humidity": "Nnukwutetete ihe mgbochi",
+    "environment": [
+      "Ụlọ ịsa ahụ́",
+      "Ọnụ ọgụgụ ndị na - egbu azụ̀",
+      "Ịgba Àmà n'Ụzọ Zuru Ezu"
+    ]
+  },
+  "economic_importance": {
+    "impact": "Ihe ndị funahụrụ m n'ihe ọkụkụ ndị a na - eri eri bụ́ ndị a na - eri eri na ha, karịsịa mụ na nwunye m n'afọlon",
+    "possible_loss_percentage": "Ihe ruru pasent 90 nke mkpụrụ osisi na - apụ n'anya n'ihi ntiwapụ dị oké njọ",
+    "global_distribution": true
+  },
+  "management": {
+    "seed_management": [
+      "Jiri mkpụrụ akụ́g NA-enweghị isi",
+      "Nnyocha ahụ́ ike (PRRR ma ọ bụ too-n'ala dị ka okwu ndị si n'ime ahụ́ ike)"
+    ],
+    "seed_treatments": [
+      "Ahụ́ ọkụ na - ekpo oké ọkụ (ULLER ruo ụbọchị 35)",
+      "Ọgwụ ndị na - alụso ọrịa ọgụ bụ́ ndị na - alụso ọrịa ọgụ bụ́ ndị na - eme ka ahụ́ ghara iru mmadụ ala",
+      "Ọgwụ ndị e ji agwọ ọrịa bụ́ ndị na - enye ume ọhụrụ"
+    ],
+    "cultural_practices": [
+      "Ọ Na - ebelata Nsogbu Mgbanwe Ndị Na - enwe n'Ahụ́",
+      "Zere ịgba ala mmiri n'ike n'ike",
+      "Wepụ akụ́kụ́ ndị nwere nje ndị ahụ"
+    ],
+    "chemical_control": [
+      "Ńgwānụ́ banye"
+    ],
+    "host_resistance": "Ọ dịghị òtù nzuzo a pụrụ ịtụkwasị obi nke e nwere"
+  },
+  "genetic_diversity": {
+    "groups": [
+      {
+        "name": "Òtù nke Mbụ",
+        "characteristics": "Iji Ike Eme Ihe n'Ụzọ Na - ezighị Ezi n'Ahụ́ n'Ụzọ Na - eju Afọ"
+      },
+      {
+        "name": "Òtù nke Abụọ",
+        "characteristics": "Ime ihe ike n'ụzọ dị ukwuu n'elu mmiri"
+      }
+    ]
+  },
+  "sources": [
+    "Nsogbu Na - esi n'erighị Ihe Ndị Na - edozi Ahụ́",
+    "Magazin bụ́ Journal of the Encyclopædia Judaica na - eme nnyocha n'ihe ọmụmụ ndị e mere n'ihe ọmụmụ banyere mkpụrụ ndụ ihe nketa bụ́ Aciraxlii",
+    "Mkpụrụ Ahụ́ Ike Mba Nile",
+    "Ndị ọkà mmụta ihe ndị dị ndụ na - enyocha akwụkwọ ndị e ji eme nnyocha"
+  ]
+}

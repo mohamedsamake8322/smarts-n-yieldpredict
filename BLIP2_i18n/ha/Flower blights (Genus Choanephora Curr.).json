@@ -1,66 +1,66 @@
 {
- "disease": "Choanephora Flower Blight",
- "scientific_name": "Choanephora spp. (e.g., Choanephora cucurbitarum)",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that attacks flowers and young fruits of many vegetables, especially cucurbits and legumes. It causes rapid flower rot and fruit decay under warm and humid conditions.",
- "symptoms": [
-  "Water-soaked spots on flowers",
-  "Flowers quickly rot and collapse",
-  "Soft rot on young fruits",
-  "Cottony white fungal growth on infected tissues",
-  "Black pin-like spores forming on rotting flowers",
-  "Infected flowers stick to developing fruits and cause fruit rot"
- ],
- "hosts": [
-  "Okra",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Zucchini",
-  "Bottle gourd",
-  "Beans",
-  "Cowpea",
-  "Eggplant",
-  "Other cucurbits and vegetables"
- ],
- "favorable_conditions": [
-  "Warm temperatures (around 25–30°C)",
-  "High humidity",
-  "Frequent rainfall",
-  "Dense canopy with poor air circulation"
- ],
- "spread": [
-  "Wind-borne fungal spores",
-  "Rain splash",
-  "Infected plant debris",
-  "Contact between infected flowers and fruits"
- ],
- "management": [
-  "Remove and destroy infected flowers and fruits",
-  "Improve plant spacing to increase airflow",
-  "Avoid overhead irrigation",
-  "Harvest regularly to remove infected tissues",
-  "Practice crop rotation"
- ],
- "biological_control": [
-  "Trichoderma harzianum as a soil or foliar biocontrol agent",
-  "Bacillus subtilis based biofungicides"
- ],
- "chemical_control": [
-  "Mancozeb",
-  "Chlorothalonil",
-  "Copper-based fungicides",
-  "Apply preventively during humid weather"
- ],
- "prevention": [
-  "Plant in well-ventilated fields",
-  "Remove crop debris after harvest",
-  "Avoid excess irrigation and prolonged leaf wetness",
-  "Use healthy seeds and maintain field sanitation"
- ],
- "source": [
-  "CABI Plantwise Knowledge Bank",
-  "University of Florida IFAS Plant Pathology",
-  "APS Plant Disease Handbook"
- ]
+  "disease": "@ item Spelling dictionary",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai ban dariya da take kai wa furanni da kuma ' ya'yan itatuwa masu yawa hari, musamman ma abubuwa da ke sa ruwa ya yi ƙarfi kuma tana sa yanayin ya yi daɗi.",
+  "symptoms": [
+    "Da wasu mãtã mãsu fararen idanu da girmansu.",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Sabõda haka, suka yawaita yin ɓarna a cikinsu.",
+    "An yi farin ciki sosai sa'ad da mutane suka kamu da cuta",
+    "Kamar dai su ƙwai ne ɓõyayye.",
+    "A furanni suna ci gaba da koyon ' ya'yan itace kuma suna sa ' ya'yan itace su yi girma"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Ethiopian month 5 - LongName",
+    "KCharselect unicode block name",
+    "Wasu kayan ciki da kayan ado"
+  ],
+  "favorable_conditions": [
+    "KA YI AMFANI DA ABIN DA KA KOYA.",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
+  ],
+  "spread": [
+    "KCharselect unicode block name",
+    "Media controller element",
+    "A wurin da magaryar tuƙẽwa take.",
+    "Yanã fita daga tsakanin tsatso da karankarman ƙirji."
+  ],
+  "management": [
+    "Kunã sãmudaga gare shi, abin mãye da abinci mai kyau.",
+    "Media controller element",
+    "Ka Guji Abubuwan Raba Hankali",
+    "Ana iya cire ƙwayoyin cuta a kai a kai don a cire su",
+    "Ayyuka Masu Kyau"
+  ],
+  "biological_control": [
+    "@ item Text character set",
+    "KCharselect unicode block name"
+  ],
+  "chemical_control": [
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "Indian National weekday 6 - LongDayName",
+    "Yin amfani da abubuwan da za su iya hana ka yin amfani da su sa'ad da kake fuskantar yanayi mai wuya"
+  ],
+  "prevention": [
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "KA YI AMFANI DA ABIN DA KA KOYA bayan ka girbe",
+    "Ka guje wa yin amfani da kayan aiki da kyau da kuma dogon lambu da muke da shi",
+    "Ka yi amfani da iri mai kyau kuma ka ci gaba da tafiya a gona"
+  ],
+  "source": [
+    "AN YI Wa'azi Game da Cikakken Sani",
+    "@ item Text character set",
+    "Littafi Mai Tsarki Yana Gyara Rayuwar Mutane"
+  ]
 }

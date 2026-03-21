@@ -1,0 +1,72 @@
+{
+  "disease": "Roto suave de allio",
+  "scientific_name": "Erwinia carotovora subsp. carotovora, Erwinia crisanthemi y bacterias relacionadas",
+  "pathogen_type": "Bacterias",
+  "description": "Una enfermedad bacteriana que causa la podredumbre blanda y acuosa de los bulbos en la cebolla y otros cultivos de Allio. A menudo aparece cerca de la cosecha o durante el almacenamiento y produce una descomposición de olor sucio.",
+  "symptoms": [
+    "Las hojas jóvenes se vuelven pálidas, blanqueadas y marchitas",
+    "Putrefacción acuosa suave de las escamas de la bombilla",
+    "Decoloración amarilla de los tejidos infectados",
+    "Rayas marrones dentro de las bombillas",
+    "El bulbo entero se vuelve suave y podrido",
+    "Líquido viscoso mal oleante que sale del cuello de los bulbos"
+  ],
+  "hosts": [
+    "Cebolla",
+    "Chalote",
+    "Ajos",
+    "Puerros",
+    "Cebolla",
+    "Cebolla de primavera",
+    "Otras especies de allio"
+  ],
+  "favorable_conditions": [
+    "Lluvias fuertes",
+    "Suelo anegado o mal drenado",
+    "Heridas en bulbos u hojas",
+    "Temperaturas cálidas entre 20 y 30°C",
+    "Alta humedad durante el almacenamiento"
+  ],
+  "spread": [
+    "Material de plantación infectado",
+    "Suelo contaminado",
+    "Residuos de cultivos",
+    "Salpicaduras de lluvia y agua de riego",
+    "Insectos",
+    "Lesiones mecánicas durante las operaciones sobre el terreno"
+  ],
+  "management": [
+    "Utilizar material de plantación certificado libre de enfermedades",
+    "Evitar lesiones durante la siembra y la cosecha",
+    "Use riego por goteo en lugar de irrigación superior",
+    "Dejar madurar la cebolla antes de la cosecha",
+    "Retire y destruya las plantas infectadas",
+    "Mantener una fertilización equilibrada",
+    "Almacene las bombillas a baja temperatura y humedad moderada",
+    "Usar cultivares tolerantes"
+  ],
+  "biological_control": [
+    "Fomentar los microbios beneficiosos del suelo mediante la gestión de la materia orgánica",
+    "Utilizar agentes de control biológico como los biofungicidas a base de bacillus",
+    "Mejorar la salud del suelo para suprimir los patógenos bacterianos"
+  ],
+  "chemical_control": [
+    "bactericidas a base de cobre como el hidróxido de cobre",
+    "Kocide 2000",
+    "Mankocide",
+    "Pulverizadores de cobre aplicados regularmente para desacelerar el desarrollo de enfermedades"
+  ],
+  "prevention": [
+    "Bombillas o semillas sin patógenos certificadas por las plantas",
+    "Evitar el anegamiento en los campos",
+    "Desinfectar herramientas y equipos",
+    "Eliminar los desechos de los cultivos después de la cosecha",
+    "Almacene las bombillas a unos 4°C con una humedad relativa del 65-70%",
+    "Evitar la fertilización excesiva de nitrógeno y mantener niveles de calcio adecuados"
+  ],
+  "source": [
+    "Internacional de Investigaciones Vegetales, Wageningen",
+    "IVEGRI Indonesia",
+    "Van der Wolf & Duriat – Enfermedades de la podredumbre blanda en Allio"
+  ]
+}

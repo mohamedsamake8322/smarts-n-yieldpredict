@@ -1,0 +1,75 @@
+{
+  "disease": "Mancha bacteriana de la hoja de la col",
+  "scientific_name": "Xanthomonas campestris pv. campestris (comúnmente asociado con mancha de hoja bacteriana y podredumbre negra en brassicas)",
+  "pathogen_type": "Bacteria",
+  "description": "Es una enfermedad bacteriana que afecta a las hojas de col. Provoca pequeñas manchas marrones que se expanden y forman áreas muertas irregulares en la hoja. En casos graves, las hojas se vuelven amarillas, se pudren y las plantas se debilitan.",
+  "symptoms": [
+    "Pequeñas manchas marrones en las hojas de col",
+    "Los puntos se agrandan y se unen",
+    "Tejido muerto irregular en las hojas",
+    "Lesiones a menudo limitadas por las venas de las hojas",
+    "Las hojas se vuelven amarillas",
+    "Las hojas severamente infectadas se pudren.",
+    "El crecimiento de las plantas se debilita"
+  ],
+  "visual_signature": [
+    "pequeñas manchas de hojas marrones",
+    "parches necróticos irregulares",
+    "hojas de col amarillenta"
+  ],
+  "hosts": [
+    "Coles",
+    "brócoli",
+    "coliflor",
+    "col rizada",
+    "Verduras de mostaza",
+    "Otros cultivos de Brassica"
+  ],
+  "affected_plant_parts": [
+    "hojas"
+  ],
+  "favorable_conditions": [
+    "condiciones de humedad",
+    "alta humedad",
+    "frecuentes precipitaciones",
+    "heridas de plantas o daños a insectos",
+    "irrigación general"
+  ],
+  "spread": [
+    "salpicadura de lluvia",
+    "semillas infectadas",
+    "herramientas contaminadas",
+    "insectos portadores de bacterias",
+    "contacto entre plantas húmedas"
+  ],
+  "management": [
+    "Utilizar semillas certificadas sin enfermedades",
+    "Quitar inmediatamente las plantas infectadas",
+    "Evitar el cultivo de repollo repetidamente en la misma tierra",
+    "Practica la rotación de cultivos durante 2-3 años",
+    "Suelo de mulch para reducir las salpicaduras de lluvia",
+    "Evite dañar las plantas durante el deshierbe",
+    "Limpiar y desinfectar herramientas regularmente"
+  ],
+  "biological_control": [
+    "Biobactericidas a base de bacillus subtilis",
+    "Pseudomonas fluorescens tratamientos biológicos"
+  ],
+  "chemical_control": [
+    "Oxicloruro de cobre",
+    "Hidróxido de cobre",
+    "bactericidas a base de sulfato de cobre"
+  ],
+  "prevention": [
+    "Utilizar variedades de col tolerantes o resistentes",
+    "Plantas de plántulas sanas",
+    "Evite trabajar en campos cuando las plantas están húmedas",
+    "Mantener un buen saneamiento sobre el terreno",
+    "Controlar el daño de insectos para reducir los puntos de entrada de bacterias"
+  ],
+  "source": [
+    "Guías de protección fitosanitaria de la FAO",
+    "Compendio de protección de cultivos CABI",
+    "Extensión de Patología Vegetal Publicaciones"
+  ]
+}

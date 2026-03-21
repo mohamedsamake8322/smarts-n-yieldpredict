@@ -1,0 +1,87 @@
+{
+  "disease": "Daño a la mosca de la raíz de la zanahoria",
+  "scientific_name": "Chamaepsila rosae",
+  "pathogen_type": "Plagas de insectos",
+  "description": "La mosca de la raíz de la zanahoria es una plaga grave de insectos de zanahorias y cultivos relacionados. La mosca adulta pone huevos en el suelo cerca de las plantas de la zanahoria. Las larvas (magotas) eclosionan y tunelan en las raíces, se alimentan de los tejidos y causan graves daños al cultivo.",
+  "symptoms": [
+    "Las hojas de zanahoria se marchitan y se debilitan",
+    "Las hojas se vuelven rojas o amarillas oxidadas",
+    "Túneles pardos rustos bajo la piel de la zanahoria",
+    "Las raíces se deforman y dañan",
+    "Las zanahorias se pudren fácilmente después de la infección",
+    "Rendimiento reducido y raíces de mala calidad"
+  ],
+  "visual_signature": [
+    "Túneles marrones oxidados en raíz de zanahoria",
+    "raíces de zanahoria dañadas con agujeros",
+    "follaje de zanahorias rojizas o amarillas"
+  ],
+  "pest_stage_causing_damage": "larvas (magotas)",
+  "pest_description": [
+    "Las larvas son gusanos amarillo-cremoso",
+    "Las larvas no tienen piernas",
+    "Las larvas alcanzan aproximadamente 10 mm de longitud",
+    "Las moscas adultas son pequeñas y de bajo vuelo"
+  ],
+  "affected_plant_parts": [
+    "Rábanos rusticanos",
+    "hojas"
+  ],
+  "hosts": [
+    "zanahoria",
+    "parsnip",
+    "perejil",
+    "apio",
+    "Otros cultivos de apiáceas"
+  ],
+  "plant_family": "Apiaceae",
+  "life_cycle": [
+    "Las moscas adultas ponen huevos en el suelo cerca de las plantas de zanahoria",
+    "Larvas incubadas de huevos",
+    "Larva madriguera en raíces de zanahoria y pienso",
+    "Las larvas se desarrollan en el suelo y más tarde se convierten en moscas adultas"
+  ],
+  "favorable_conditions": [
+    "temperaturas frías a moderadas",
+    "condiciones del suelo húmedo",
+    "campos con cultivos previos de zanahorias"
+  ],
+  "spread": [
+    "moscas adultas que ponen huevos en el suelo",
+    "movimiento entre campos de zanahorias cercanos"
+  ],
+  "management": [
+    "Utilice la rotación de cultivos para evitar plantar zanahorias repetidamente en el mismo campo",
+    "Retire las plantas infectadas y las raíces dañadas",
+    "Utilizar barreras físicas como mallas o redes de insectos",
+    "Utilizar vellón hortícola para cubrir los cultivos",
+    "Variedades de zanahorias resistentes a las plantas cuando estén disponibles"
+  ],
+  "biological_control": [
+    "Nematodos beneficiosos (especie Steinernema) aplicados al suelo",
+    "Estimular a los depredadores naturales de las larvas de mosca"
+  ],
+  "chemical_control": [
+    "insecticidas del suelo aprobados cuando se disponga de ellos",
+    "tratamientos selectivos con insecticidas contra las larvas (se aplican reglamentaciones locales)"
+  ],
+  "companion_plants": [
+    "Cebolla",
+    "ajo",
+    "Cebolletas",
+    "romero",
+    "salvia"
+  ],
+  "prevention": [
+    "Utilizar redes de insectos finos alrededor de los cultivos",
+    "Cubrir los cultivos con vellón hortícola",
+    "Zanahorias con plantas aromáticas",
+    "Mantenimiento del saneamiento sobre el terreno",
+    "Evite dejar zanahorias dañadas en el suelo"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Publicaciones universitarias de extensión agrícola",
+    "Guías integradas de gestión de plagas"
+  ]
+}

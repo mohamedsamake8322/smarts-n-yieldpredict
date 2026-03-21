@@ -1,76 +1,76 @@
 {
-  "disease": "Banana Fruit Anthracnose",
-  "scientific_name": "Colletotrichum musae",
+  "disease": "Tunda la Migomba",
+  "scientific_name": "Collettrichum musae",
   "other_name": "Gloeosporium musarum",
-  "pathogen_type": "Fungus",
-  "description": "Banana anthracnose is a major fungal disease affecting banana fruits both before and after harvest. It is mainly caused by the fungus Colletotrichum musae. The disease produces sunken dark lesions on fruits that expand during ripening and can cause serious postharvest losses during storage and transport.",
+  "pathogen_type": "Kuvu",
+  "description": "Ndizi ni ugonjwa mkubwa wa kuvu unaoathiri matunda ya ndizi kabla na baada ya kuvunwa. Ugonjwa huo husababishwa hasa na kuvu iitwayo Collettrichum musae.",
   "affected_parts": [
-    "Fruit",
+    "Matunda",
     "Peel",
-    "Flowering parts (crown)",
-    "Leaves and shoots in severe infections"
+    "Sehemu za maua (krown)",
+    "Majani na machipukizi katika maambukizo makali"
   ],
   "symptoms": [
-    "Dark sunken lesions on banana fruit surface",
-    "Lesions enlarge and become black or dark brown during ripening",
-    "Orange spore masses (acervuli) appear on mature lesions",
-    "Fruit rot and peel necrosis",
-    "Leaf blight and shoot dieback in severe cases",
-    "Premature leaf drop and reduced yield"
+    "Mivinje meusi iliyozama kwenye sehemu ya juu ya ndizi",
+    "Tezi hupanuka na kuwa nyeusi au kahawia nyeusi wakati wa kuiva",
+    "Machungwa (acervuli) hutokea kwenye vidonda vilivyokomaa",
+    "Kuoza kwa matunda na kuambua necrosis",
+    "Ugonjwa wa majani na risasi hufa tena katika visa vibaya sana",
+    "Majani yaliyokomaa huanguka na kupunguza mazao"
   ],
   "disease_cycle": [
-    "Fungus infects immature banana fruits in the field",
-    "Spores germinate and form appressoria to penetrate plant tissue",
-    "Infection remains latent (quiescent stage) in immature fruits",
-    "Symptoms develop when fruits ripen after harvest",
-    "Spores spread through rain splash, wind, tools and infected plant material"
+    "Kuvu huambukiza matunda ya ndizi yasiyokomaa shambani",
+    "Sporeo huota na kufanyiza kifadurori ili kupenya tishu za mimea",
+    "Ambukizo labaki likiwa la kuchelewa mno (hatua ya katikati) katika matunda yasiyokomaa",
+    "Dalili hutokea matunda yanapoiva baada ya mavuno",
+    "Spores ilienea kupitia maji ya mvua, upepo, vifaa na mimea iliyoambukizwa"
   ],
   "favorable_conditions": [
-    "Warm temperatures between 22–32°C",
-    "High humidity above 90%",
-    "Rainy or monsoon seasons",
-    "Poor air circulation in plantations"
+    "Halijoto yenye joto kati ya 2232 NAK",
+    "Unyevu mwingi juu ya asilimia 90",
+    "Majira ya mvua au ya mvua",
+    "Usambazaji mbaya wa hewa katika mashamba"
   ],
   "spread": [
-    "Wind and rain-dispersed fungal spores",
-    "Infected plant debris",
-    "Handling during harvest and transport",
-    "Contaminated tools or storage surfaces"
+    "Upepo na mbegu za mvua zilizonyeshewa",
+    "Takataka za mimea zilizoambukizwa",
+    "Kufanya kazi wakati wa mavuno na usafiri",
+    "Vifaa au sehemu za kuhifadhia zilizochafuliwa"
   ],
   "field_and_postharvest_damage": [
-    "Fruit rot during ripening",
-    "Crown rot in harvested banana clusters",
-    "Reduced fruit quality and market value",
-    "Significant postharvest losses"
+    "Kuoza kwa matunda wakati wa kuiva",
+    "Taji katika vishada vya ndizi vilivyovunwa",
+    "Kupunguza ubora wa matunda na thamani ya soko",
+    "Hasara kubwa baada ya mavuno"
   ],
   "chemical_control": [
-    "Difenconazole 25% EC (CONCOR): 120–150 ml per acre",
-    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g per acre",
-    "Thiophanate Methyl 70% WP (KTM): 250–600 g per acre",
-    "Mancozeb 75% WP (K ZEB): 500 g per acre",
-    "All in One fungicide: 1.5–2 g per liter"
+    "Difentizali 25% EC (CONCOR): mililita 120150 kwa kila ekari",
+    "Carbendazime 12% + Mancozeb 63% WP (Samartha): gramu 14,400 kwa ekari",
+    "Thiophinate Methil 70% WP (KTM): 250600 g kwa ekari",
+    "Mancozeb 75% WP (K ZEB): gramu 500 kwa kila ekari",
+    "All in One kuvucide: 1.53 g kwa lita moja"
   ],
   "biological_control": [
-    "Use of biological antagonists such as Trichoderma species",
-    "Natural plant extracts and microbial biocontrol agents",
-    "Integrated disease management strategies combining biological agents and cultural practices"
+    "Utumizi wa viini kama vile spishi za Trichoderma",
+    "Mimea ya asili hutoa na kudhibiti vijiumbe - maradhi",
+    "Mbinu za kudhibiti magonjwa zilizotiliwa mkazo za kuunganisha viini vya maradhi na desturi za kitamaduni"
   ],
   "cultural_management": [
-    "Maintain good plantation hygiene and remove infected plant debris",
-    "Ensure good air circulation in banana plantations",
-    "Avoid excessive humidity in storage",
-    "Harvest fruits carefully to avoid wounds",
-    "Use disease-free planting material"
+    "Dumisha usafi wa bustani na kuondoa takataka za mimea zilizoambukizwa",
+    "Hakikisha kwamba mzunguko mzuri wa hewa katika mashamba ya ndizi",
+    "Epuka unyevu mwingi sana katika hifadhi",
+    "Kuvuna matunda kwa uangalifu ili kuepuka majeraha",
+    "Tumia vifaa visivyo na kinga ya maradhi"
   ],
   "prevention": [
-    "Select resistant banana varieties where available",
-    "Apply integrated disease management strategies",
-    "Monitor fruit during pre-harvest and postharvest stages",
-    "Maintain clean storage and transport conditions"
+    "Chagua aina mbalimbali za ndizi ambazo zinapatikana",
+    "Tumia mbinu za pamoja za kutibu magonjwa",
+    "Matunda yaliyogunduliwa kabla ya kuvunwa na baada ya kuvunwa",
+    "Dumisha mazingira safi ya uhifadhi na ya usafirishaji"
   ],
   "sources": [
-    "Plant pathology research on Colletotrichum musae",
-    "Agricultural extension publications on banana diseases",
-    "Scientific literature on anthracnose management"
+    "Utafiti wa elimu ya mimea katika Kollettrichum musae",
+    "Vichapo vya upanuzi wa kilimo juu ya maradhi ya ndizi",
+    "Fasihi za kisayansi juu ya usimamizi wa athrocose"
   ]
 }

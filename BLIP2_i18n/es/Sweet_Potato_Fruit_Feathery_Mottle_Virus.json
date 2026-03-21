@@ -1,0 +1,128 @@
+{
+  "pest_name": "Virus de la mota de la pluma de patata dulce",
+  "abbreviation": "SPFMV",
+  "type": "virus",
+  "history": "Descubierto inicialmente en los Estados Unidos hace ~70 años. El virus de la batata más ampliamente difundido en todo el mundo, recientemente identificado en Italia como principal contribuyente al SPVD.",
+  "structure": {
+    "genome_type": "ARN de sentido positivo de una sola cadena",
+    "genome_length_bases": 10820,
+    "organization": [
+      "marco de lectura abierto único",
+      "3' UTR",
+      "cola poli(A)"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinasa, actividad de unión al ssRNA"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteinasa, ayudas en la transmisión de áfidos, movimiento de larga distancia"
+      },
+      {
+        "name": "P3",
+        "function": "Función de replicación viral"
+      },
+      {
+        "name": "6K1",
+        "function": "Desconocido"
+      },
+      {
+        "name": "CI",
+        "function": "Proteína de inclusión citoplasmática, actividad de ARN helicasa"
+      },
+      {
+        "name": "6K2",
+        "function": "Desconocido, involucrado en la replicación viral"
+      },
+      {
+        "name": "NIa",
+        "function": "VPg y proteinasa"
+      },
+      {
+        "name": "NIb",
+        "function": "Replicasa viral"
+      },
+      {
+        "name": "Cistron",
+        "function": "Proteína de escudo, ensamblaje de virión, transmisión viral, diseminación"
+      }
+    ],
+    "virion_shape": "largo, flexible, en forma de varilla",
+    "virion_length_nm": "810-865"
+  },
+  "life_cycle": {
+    "entry": "Mecánica o mediada por vectores a través de estilos áfidos",
+    "replication": "Genoma traducido a poliproteína, cortado por P1, HC-Pro, proteasas NIa",
+    "translation_helpers": [
+      "HC-Pro une eIF4E, VPg, NIa"
+    ],
+    "gene_silencing_suppression": "HC-Pro suprime el siRNA y el miRNA",
+    "packaging": "Genoma replicado empaquetado en viriones"
+  },
+  "transmission": {
+    "vectors": [
+      "áfidos"
+    ],
+    "mechanism": "No persistente, a través de puntas de estilete",
+    "seed_transmission": "No transmitidos a través de semillas",
+    "host_range": [
+      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
+      "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
+      "Chenopodium quinoa",
+      "Datura stramonium"
+    ]
+  },
+  "symptoms": {
+    "typical": "Patrones púrpuras de plumas en hojas",
+    "severe_strains": [
+      "necrosis de la raíz",
+      "clorosis de las hojas",
+      "decoloración de la raíz"
+    ],
+    "co-infections": {
+      "SPVD": "Sucede cuando SPFMV co-infecta con SPCSV; causa crecimiento atrofiado, mosaico severo, distorsión de la hoja, rendimiento reducido",
+      "synergism_effects": "Títulos SPFMV hasta 600x más altos en SPVD; propagación y replicación mejoradas"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "África oriental"
+      },
+      {
+        "name": "RC",
+        "location": "Australia, África, América del Norte, Asia"
+      },
+      {
+        "name": "O",
+        "location": "África, Asia, América del Sur"
+      },
+      {
+        "name": "C",
+        "location": "Australia, África, Asia, América del Norte y del Sur"
+      }
+    ],
+    "mutation_sources": "Separación geográfica; la variación del gen de la proteína de la capa afecta la respuesta inmune"
+  },
+  "agricultural_impact": {
+    "affected_tissues": "Tejidos vegetales, no reproductivos",
+    "yield_loss": "Puede oscilar entre el 50% y la pérdida casi total, especialmente en coinfecciones por SPVD",
+    "affected_regions": "Oceanía, África meridional, Barbados, otras zonas afectadas por el SPVD",
+    "social_impact": "Repercusiones para los agricultores de subsistencia que dependen de la batata como alimento básico"
+  },
+  "management": {
+    "early_detection": "ELISA para la identificación del virus",
+    "removal": "Retire las plantas infectadas para prevenir la propagación",
+    "prevention": [
+      "Material de propagación libre de virus de las plantas",
+      "Herramientas adecuadamente limpias para evitar la transmisión mecánica",
+      "Utilizar plantas transgénicas que expresen genes antivirales"
+    ]
+  },
+  "references": [
+    "Diversas fuentes de estudios sobre la virología de las plantas y la enfermedad de la batata, según se citan en el contenido proporcionado por el usuario"
+  ]
+}

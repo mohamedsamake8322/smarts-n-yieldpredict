@@ -1,0 +1,78 @@
+{
+  "disease": "Maissmut",
+  "other_names": [
+    "Häufig Smut",
+    "Kokskohle",
+    "Blister smut",
+    "Huitlacoche",
+    "Cuitlacoche"
+  ],
+  "scientific_name": "Mykosarkom maydis",
+  "synonym": "Ustilago maydis",
+  "pathogen_type": "Pilze",
+  "description": "Maissmut ist eine Pilzkrankheit von Mais, die Tumor-ähnliche Gallen an verschiedenen Teilen der Pflanze produziert. Diese Gallen enthalten Massen von dunklen Sporen und können die Ausbeute deutlich reduzieren. In Mexiko gelten unreife Gallen als kulinarische Delikatesse, bekannt als Huitlacoche.",
+  "hosts": [
+    "Mais (Zea mays)",
+    "Teosinte (Zea mexicana)"
+  ],
+  "symptoms": {
+    "general": [
+      "Tumorähnliche Gallen auf Pflanzengeweben",
+      "Geschwollene Kerne oder Pflanzenorgane",
+      "Schwarze pulverförmige Sporen im Inneren von Gallen"
+    ],
+    "leaves": [
+      "Kleine Gallen auf Blattvenen oder Klingen"
+    ],
+    "stems": [
+      "Große Gallen auf Stielen oder Knoten"
+    ],
+    "ears": [
+      "Kerne ersetzt durch geschwollene Gallen",
+      "Gallen werden schwarz und Bruch lösen Sporen"
+    ]
+  },
+  "disease_cycle": [
+    "Der Pilz überlebt im Boden oder Erntemüll als Teliosporen",
+    "Sporen keimen und haploide Sporidien produzieren",
+    "Kompatibel sporidia mate und bilden infektiöse Hyphen",
+    "Hyphae dringt in junge Pflanzengewebe ein",
+    "Tumorartige Gallen bilden und produzieren neue Teliosporen",
+    "Sporen, die von Wind und Regen ausgebreitet werden"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Pflanzenverletzungen oder Wunden",
+    "Hoher Stickstoffgehalt im Boden",
+    "Wind und Regen, die Sporen verbreiten",
+    "Perioden der schlechten Bestäubung oder des Pflanzenstresses"
+  ],
+  "distribution": [
+    "Weltweit in Maisanbaugebieten"
+  ],
+  "management": {
+    "cultural": [
+      "Verwendung resistenter Maissorten",
+      "Praxis Fruchtfolge",
+      "Entfernen infizierten Pflanzenmüll",
+      "Vermeiden Sie mechanische Schäden an Pflanzen",
+      "Stickstoffdüngung verwalten"
+    ],
+    "chemical": [
+      "Fungizide sind in der Regel unwirksam für die Kontrolle von Maissmut"
+    ]
+  },
+  "economic_importance": [
+    "In der Regel verursacht niedrige Ausbeute Verluste im Feld Mais",
+    "Kann die Zuckermaisproduktion erheblich beeinflussen",
+    "Ohrgallen senken den Marktwert von frischem Mais"
+  ],
+  "additional_notes": [
+    "Immature Galls sind essbar und als Gourmet-Food namens Huitlacoche in Mexiko verkauft",
+    "Der Pilz ist weit verbreitet als Modellorganismus in der Pilzgenetik und Pflanzenpathologie Forschung"
+  ],
+  "sources": [
+    "Wikipedia – Maissmut",
+    "Literaturhinweise zur Pflanzenpathologie an der Universität"
+  ]
+}

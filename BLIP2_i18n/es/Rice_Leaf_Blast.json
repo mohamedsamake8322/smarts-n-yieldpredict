@@ -1,0 +1,87 @@
+{
+  "disease": "Blast de hojas de arroz",
+  "scientific_name": "Magnaporthe oryzae (anamorfo: Piricularia oryzae)",
+  "pathogen_type": "Hongos",
+  "description": "La explosión de arroz es una de las enfermedades más destructivas del arroz en todo el mundo. El hongo infecta hojas, nodos y panículas. En las hojas produce lesiones características en forma de diamante que reducen la fotosíntesis y debilitan la planta.",
+  "symptoms": [
+    "Lesiones en forma de diamante o husillo en las hojas",
+    "Lesiones con centro gris o blanco y borde marrón o rojizo",
+    "Pequeñas manchas que se agrandan y se funden en las hojas",
+    "Secado de hojas o muerte en infecciones graves",
+    "Reducción del crecimiento de las plantas",
+    "En casos graves las plantas jóvenes pueden morir"
+  ],
+  "visual_symptoms": [
+    "manchas de hoja en forma de diamante",
+    "centro gris o blanco con borde marrón",
+    "lesiones múltiples que se fusionan en las hojas",
+    "hojas de arroz dañadas o secas"
+  ],
+  "hosts": [
+    "Arroz (Oryza sativa)",
+    "Especies de arroz silvestre",
+    "Algunos pastos"
+  ],
+  "plant_parts_affected": [
+    "hojas",
+    "cuello de hoja",
+    "ganglios tallos",
+    "panículas"
+  ],
+  "favorable_conditions": [
+    "Alta humedad por encima del 90%",
+    "Largos períodos de humedad de las hojas (poco, lluvia, niebla)",
+    "Temperaturas cálidas alrededor de 25–28°C",
+    "Dosel de cultivo denso",
+    "Fertilización excesiva del nitrógeno"
+  ],
+  "spread": [
+    "Esporas fúngicas transmitidas por el aire (conidio)",
+    "Viento",
+    "Lluvia o agua de riego",
+    "Semillas infectadas",
+    "Residuos de cultivos de la temporada anterior"
+  ],
+  "disease_cycle": [
+    "Los hongos sobreviven con semillas infectadas y residuos de cultivos",
+    "Las esporas se producen en los tejidos infectados",
+    "Esporas esparcidas por el viento o el agua",
+    "La infección ocurre cuando las hojas permanecen húmedas",
+    "Nuevas lesiones producen más esporas causando ciclos de enfermedad rápidos"
+  ],
+  "impact": [
+    "Disminución de la fotosíntesis",
+    "Daños en las hojas y debilitamiento de las plantas",
+    "Rendimiento de grano más bajo",
+    "Mala calidad del grano",
+    "Los brotes graves pueden causar grandes pérdidas en los cultivos"
+  ],
+  "cultural_control": [
+    "Utilizar variedades de arroz resistentes",
+    "Semillas indemnes de enfermedades certificadas por las plantas",
+    "Mantener las inundaciones continuas cuando sea posible",
+    "Evitar la fertilización excesiva de nitrógeno",
+    "Destruir los residuos de cultivos infectados"
+  ],
+  "biological_control": [
+    "Utilice microbios beneficiosos como las especies de Trichoderma",
+    "Promover la microbiología equilibrada del suelo"
+  ],
+  "chemical_control": [
+    "Azoxistrobina",
+    "Trifloxistrobina",
+    "Combinaciones de propiconazol",
+    "Combinaciones de difenoconazol"
+  ],
+  "prevention": [
+    "Monitoreo regular de los síntomas tempranos en el campo",
+    "Fertilización equilibrada",
+    "Mantener una gestión adecuada del riego",
+    "Utilizar prácticas integradas de gestión de enfermedades"
+  ],
+  "source": [
+    "Centro de Investigación y Extensión del Arroz",
+    "Red de protección de cultivos",
+    "Referencias de patología vegetal sobre la explosión de arroz"
+  ]
+}

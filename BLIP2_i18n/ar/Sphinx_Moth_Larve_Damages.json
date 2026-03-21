@@ -1,28 +1,28 @@
 {
-  "pest_name": "Sphinx Moth",
-  "stage": "larva",
-  "common_name": "Hornworm",
-  "description": "The larval stage (caterpillar) of sphinx moths is commonly called hornworm. It is large, smooth-bodied, often with a horn-like projection at the posterior end.",
+  "pest_name": "سهول الهولوث",
+  "stage": "الير",
+  "common_name": "دودة",
+  "description": "وعادة ما يطلق على مرحلة اليرقات (caterbillar) من عثثات الهولكس اسم دودة القرن. وهي كبيرة، سلسة الجسم، وغالباً ما تكون ذات إسقاط شبيه بالقرن في الطرف الخلفي.",
   "damage": [
-    "Feeding on leaves, stems, and sometimes fruit of host plants",
-    "Defoliation can occur if populations are high",
-    "Leaves often have irregular holes or chewed edges",
-    "Can weaken young plants and reduce yield in crops such as tomato, tobacco, and other Solanaceae"
+    "تتغذّى على اوراق وسوائل ، وأحيانا ثمر نباتات مضيفة",
+    "يمكن أن يحدث التآكل إذا كان عدد السكان مرتفعاً",
+    "غالباً ما يكون للأوراق فتحات غير منتظمة أو حواف مضغ غير منتظمة",
+    "يمكن ان تضعف النباتات الشابة وتقلِّل من غلة المحاصيل مثل الطحالب والتبّغ وغيرها من المحاصيل"
   ],
   "host_range": [
-    "Tomato (Solanum lycopersicum)",
-    "Tobacco (Nicotiana tabacum)",
-    "Pepper (Capsicum spp.)",
-    "Other Solanaceae species"
+    "طماططط (سولانيوم ماعور copersicum)",
+    "التبـاغ (التبـاغ (التركية))",
+    "(كابسيكوم سكوب.)",
+    "الأنواع الأخرى Solalasacea"
   ],
   "control": [
-    "Handpicking larvae in small gardens",
-    "Biological control with Bacillus thuringiensis (Bt) or parasitic wasps",
-    "Use of row covers for young plants",
-    "Encouraging natural predators like birds and predatory insects"
+    "جمع اليرقات في بساتين صغيرة",
+    "التحكم البيولوجي مع Bacyllus Turriginsis (Bt) أو الزبيب الطفيلي",
+    "استخدام أغطية صف للنبتات الصغيرة",
+    "المفترسات الطبيعية مثل الطيور والحشرات المفترسة"
   ],
   "notes": [
-    "Sphinx moth larvae are often confused with other large caterpillars; look for the horn at the posterior end.",
-    "Management focuses mainly on larval stage, as adults are beneficial pollinators."
+    "غالبا ما يختلط اليرقات العثّية السفونية مع اليرقات الكبيرة الاخرى ؛ ابحث عن البوق عند الطرف الخلفي .",
+    "وتركز الإدارة أساسا على مرحلة اليرقات، حيث أن البالغين هم من الملقحات المفيدة."
   ]
 }

@@ -1,45 +1,37 @@
 {
-  "disease": "Blossom End Rot",
-  "crop": "Watermelon",
-  "scientific_context": "Physiological disorder caused by localized calcium deficiency",
-  "pathogen_type": "Physiological disorder (not caused by a pathogen)",
-
-  "description": "Blossom end rot is a physiological disorder that affects watermelon and other fruiting vegetables. It is caused by insufficient calcium reaching developing fruit tissues, usually due to irregular watering, drought stress, high salinity, or excessive nitrogen fertilization. The disorder results in dark, sunken lesions at the blossom end of the fruit.",
-
-  "scientific_name": "Calcium deficiency disorder",
-
+  "disease": "Boussole en bout de rotule",
+  "crop": "Pastèque",
+  "scientific_context": "Troubles physiologiques causés par une carence en calcium localisée",
+  "pathogen_type": "Troubles physiologiques (non causés par un agent pathogène)",
+  "description": "La pourriture terminale de Blossom est un trouble physiologique qui affecte la pastèque et d'autres légumes fruitiers. Il est causé par l'insuffisance de calcium atteignant les tissus de fruits en développement, généralement en raison de l'arrosage irrégulier, stress de sécheresse, salinité élevée, ou fertilisation excessive de l'azote.",
+  "scientific_name": "Troubles liés à la carence en calcium",
   "symptoms": [
-    "water-soaked spot at blossom end of fruit",
-    "light tan lesion that enlarges over time",
-    "dark brown or black sunken area on fruit",
-    "leathery or dry tissue at blossom end",
-    "secondary soft rot when fungi or bacteria invade",
-    "affected fruit ripen earlier than normal"
+    "tache mouillée par l'eau à l'extrémité florale du fruit",
+    "Lésion bronzée légère qui s'élargit au fil du temps",
+    "zone sombre brune ou noire sur les fruits",
+    "tissu similicuir ou sec à l'extrémité de la fleur",
+    "pourriture molle secondaire lorsque des champignons ou des bactéries envahissent",
+    "fruits atteints mûrissent plus tôt que la normale"
   ],
-
   "visual_signature": [
-    "dark black patch at blossom end of watermelon",
-    "sunken leathery lesion on fruit tip",
-    "dry black rot on blossom end",
-    "discolored depressed area on fruit surface"
+    "tache noire foncée au bout de la fleur de pastèque",
+    "Lésion enduite de cuir sur la pointe des fruits",
+    "pourriture noire sèche à l'extrémité de la fleur",
+    "zone dépressive décolorée sur la surface des fruits"
   ],
-
   "affected_plant_parts": [
-    "fruit blossom end",
-    "developing fruit tissue"
+    "bout de fleur de fruit",
+    "développement des tissus fruitiers"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "Cucurbitacées",
   "hosts": [
-    "watermelon",
-    "tomato",
-    "pepper",
-    "eggplant",
-    "pumpkin",
+    "pastèque",
+    "tomate",
+    "poivre",
+    "aubergines",
+    "Citrouille",
     "squash"
   ],
-
   "important_hosts": [
     "Citrullus lanatus",
     "Solanum lycopersicum",
@@ -47,66 +39,57 @@
     "Solanum melongena",
     "Cucurbita pepo"
   ],
-
   "causes": [
-    "calcium deficiency in developing fruit",
-    "irregular watering",
-    "drought stress",
-    "high soil salinity",
-    "excess nitrogen fertilization",
-    "rapid plant growth",
-    "poor calcium uptake by roots"
+    "carence en calcium dans les fruits en développement",
+    "arrosage irrégulier",
+    "stress dû à la sécheresse",
+    "Salinité élevée du sol",
+    "fertilisation excessive de l'azote",
+    "croissance rapide des plantes",
+    "faible absorption de calcium par les racines"
   ],
-
   "favorable_conditions": [
-    "hot temperatures",
-    "drought stress",
-    "fluctuating soil moisture",
-    "poor soil drainage",
-    "raised beds drying quickly"
+    "Températures chaudes",
+    "stress dû à la sécheresse",
+    "humidité fluctuante du sol",
+    "Mauvais drainage des sols",
+    "les lits surélevés sèchent rapidement"
   ],
-
   "spread": [
-    "not contagious",
-    "caused by environmental and nutritional imbalance"
+    "non contagieuse",
+    "du fait du déséquilibre environnemental et nutritionnel"
   ],
-
   "damage": [
-    "fruit becomes unmarketable",
-    "reduced crop yield",
-    "premature fruit ripening",
-    "secondary infections may destroy fruit"
+    "Les fruits deviennent non commercialisables",
+    "rendement réduit des cultures",
+    "mûrissement prématuré des fruits",
+    "les infections secondaires peuvent détruire les fruits"
   ],
-
   "management": [
-    "maintain uniform soil moisture",
-    "water plants regularly and deeply",
-    "mulch soil to conserve moisture",
-    "avoid excessive nitrogen fertilization",
-    "improve soil drainage"
+    "maintenir une humidité uniforme du sol",
+    "plantes d'eau régulièrement et profondément",
+    "sol de paillis pour conserver l'humidité",
+    "éviter une fertilisation excessive de l'azote",
+    "améliorer le drainage des sols"
   ],
-
   "nutritional_management": [
-    "maintain adequate calcium in soil",
-    "apply agricultural lime to adjust soil pH",
-    "use calcium nitrate or calcium chloride foliar sprays when needed"
+    "maintenir un calcium adéquat dans le sol",
+    "appliquer de la chaux agricole pour ajuster le pH du sol",
+    "utiliser des vaporisateurs foliaires de nitrate de calcium ou de chlorure de calcium au besoin;"
   ],
-
   "cultural_control": [
-    "proper plant spacing for air circulation",
-    "balanced fertilization practices",
-    "consistent irrigation schedule"
+    "espacement approprié de la plante pour la circulation de l'air",
+    "pratiques de fertilisation équilibrées",
+    "un calendrier d'irrigation cohérent"
   ],
-
   "prevention": [
-    "soil testing before planting",
-    "maintain soil pH around 6.5–7",
-    "avoid large fluctuations in watering"
+    "essai du sol avant plantation",
+    "maintenir le pH du sol autour de 6,5–7",
+    "éviter les grandes fluctuations de l'arrosage"
   ],
-
   "source": [
-    "University extension plant pathology guides",
-    "Greenhouse Grower",
+    "Guides de pathologie des plantes d'extension de l'université",
+    "Producteur de serres",
     "Horticulturae journal",
     "Journal of Plant Nutrition"
   ]

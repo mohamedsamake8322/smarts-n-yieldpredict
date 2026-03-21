@@ -1,57 +1,57 @@
 {
-  "pest_name": "Soybean Tospovirus",
-  "scientific_name": "Soybean vein necrosis virus (SVNV)",
-  "common_name": "Leaf Vein Necrosis Virus",
-  "description": "Soybean vein necrosis virus (SVNV) is a tospovirus affecting soybean, causing necrosis along leaf veins and reducing plant vigor and seed quality.",
-  "distribution": "Primarily reported in the United States, especially in the Midwest soybean-growing regions.",
+  "pest_name": "Soya Tospovirüs",
+  "scientific_name": "Soya damar nekroz virüsü (SVNV)",
+  "common_name": "Leaf Vein Necrosis Virüsü",
+  "description": "Soya damlası nekroz virüsü (SVNV) soya damlasını etkileyen bir tospovirus, yaprak damlası boyunca nekroz neden olur ve bitki dayanıklılığını ve tohum kalitesini azaltır.",
+  "distribution": "Öncelikle Amerika Birleşik Devletleri'nde, özellikle Orta Batı soya büyüyen bölgelerde.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Other leguminous species may be susceptible; research ongoing."
+    "primary_host": "Glycine max (Soybean) ile ilgili bilgiler",
+    "other_hosts": "Diğer sebze türleri hassas olabilir; araştırma devam ediyor."
   },
   "symptoms": {
     "leaf": [
-      "Necrotic streaks along the veins",
-      "Interveinal chlorosis or yellowing",
-      "Leaf deformation or curling",
-      "Small necrotic spots or flecks on older leaves"
+      "Necrotik yollar damarları boyunca",
+      "Intervenal kloroz veya sarı",
+      "Kırışıklık veya Kırışıklık",
+      "Küçük nekrotik lekeler veya eski yapraklarda lekeler"
     ],
-    "timing": "Symptoms usually appear on older leaves but can affect leaves at all stages",
+    "timing": "Belirtiler genellikle yaşlı yapraklarda ortaya çıkar, ancak her aşamada yaprakları etkileyebilir.",
     "plant": [
-      "Stunting",
-      "Reduced seed quality in severe infections"
+      "Sıkıştırma",
+      "Ağır enfeksiyonlarda düşük tohum kalitesi"
     ]
   },
   "conditions_favoring_disease": {
-    "vector": "Thrips (mainly soybean thrips, Neohydatothrips variabilis)",
-    "environment": "Mild temperatures and presence of vectors favor spread",
-    "season": "Infections can occur throughout the growing season"
+    "vector": "Çubuklar (çoğunlukla soya çubukları, Neohydatothrips variabilis)",
+    "environment": "Yumuşak sıcaklıklar ve vektörlerin varlığı favor spread",
+    "season": "Yetiştirme mevsiminde enfeksiyonlar meydana gelebilir."
   },
   "biology": {
-    "pathogen_type": "Virus",
-    "virus_family": "Tospoviridae",
-    "transmission": "Primarily by thrips in a persistent manner; can be transmitted mechanically and through infected seeds (low rate)",
-    "infection_process": "Virus replicates in host tissues, causing necrotic lesions along veins; vectored by thrips feeding"
+    "pathogen_type": "Virüsler",
+    "virus_family": "Tospoviridae Hakkında",
+    "transmission": "Öncelikle tutarlı bir şekilde püskürtme yoluyla; mekanik olarak ve enfekte tohumlar aracılığıyla iletilebilir (düşük oranda)",
+    "infection_process": "Virüs ev dokularında çoğaltılır, damarlar boyunca nekrotik hasara neden olur; beslenme çubukları tarafından vektörlenir"
   },
   "damage": [
-    "Vein necrosis and leaf discoloration",
-    "Reduced photosynthesis and plant vigor",
-    "Potential yield loss and reduced seed quality in severe cases"
+    "Venik nekroz ve yaprak bozukluğu",
+    "Düşük fotosentez ve bitki gücü",
+    "Potansiyel hasat kaybı ve şiddetli durumlarda tohum kalitesinin azalması"
   ],
   "management": {
     "cultural_control": [
-      "Use pathogen-free seed",
-      "Remove volunteer soybean and other host plants to reduce inoculum",
-      "Avoid planting near areas with high thrips populations"
+      "Patogen-free tohumları kullanın",
+      "Inokulum azaltmak için gönüllü soya ve diğer ev sahipliği bitkileri kaldırmak",
+      "Yetiştiriciliğin yüksek nüfuslu bölgelerin yakınında yerleştirilmesinden kaçının."
     ],
     "chemical_control": [
-      "Insecticides targeting thrips may reduce virus spread"
+      "Tırnakları hedef alan böcek ilacı virüs yayılmasını azaltabilir"
     ],
     "genetic_control": [
-      "No fully resistant soybean cultivars currently available; research ongoing"
+      "Tamamen dayanıklı soya yetiştiricileri mevcut değildir; araştırma devam ediyor"
     ]
   },
   "notes": [
-    "SVNV is a relatively newly recognized tospovirus in soybean.",
-    "Early detection and vector management are key to reducing disease impact."
+    "SVNV, soya içindeki nispeten yeni tanınan bir tospovirüs.",
+    "Erken tespit ve vektör yönetimi, hastalık etkilerini azaltmanın anahtarıdır."
   ]
 }

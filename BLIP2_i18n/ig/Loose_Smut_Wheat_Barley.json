@@ -1,0 +1,43 @@
+{
+  "disease": "Ndị Na - eto Eto Na - ajụ Sị...",
+  "scientific_name": "O nwere otu nwa agbọghọ aha ya bụ Maglamai.",
+  "pathogen_type": "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+  "description": "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi bụ ọrịa na - emetụta ọka wit na ọka bali.",
+  "symptoms": [
+    "A na - eji ihe ndị e ji esiji ákwà bụ́ ndị e ji ihe ndị e ji esiji ákwà bụ́ ndị e ji esiji ákwà bụ́ ndị na - egbuke egbuke",
+    "Isiokwu ndị na - enye nsogbu n'obi na - ebute ụzọ karịa ndị ahụ́ siri ike",
+    "Ọ dịghị ihe mgbaàmà ndị na - egosi na e nwere akwụkwọ ma ọ bụ ihe na - akpata ya",
+    "Ọnụ ọgụgụ ndị na - arịa ya na - arị elu n'ọ̀tụ̀tụ̀ ọ̀tụ̀ ọbara ji erugharị n'ahụ́"
+  ],
+  "hosts": [
+    "Mkpụrụ ndụ ihe nketa (Trimum a kasị nwee mmetụta n'ahụ́ mmadụ)",
+    "A na - eji ọgwụ Igbo eme ka ndị mmadụ na - akpọ ibe ha asị n'ihi na ha na - eme ka ndị mmadụ na - akwanyere ibe ha ùgwù, na - emekwa ka ndị ọzọ na - akwanyere ibe ha ùgwù."
+  ],
+  "favorable_conditions": [
+    "Ọnọdụ ndị na - agbanwe agbanwe n'oge a na - akụ okooko osisi",
+    "Ịkụnye mkpụrụ ndụ ndị bu ọrịa ahụ"
+  ],
+  "spread": [
+    "Ifufe Na - eme Ka okooko osisi ndị na - esi ísì ọma na - eme nke ọma",
+    "Mkpụrụ nke si n'ụdị mkpụrụ akụ́kụ́"
+  ],
+  "management": [
+    "Jiri mkpụrụ akụ́kụ́ ndị a na - adịghị ahụ anya, nke na-enweghị nsogbu",
+    "Mkpụrụ akụ́kụ́ ndị e ji ihe ndị e ji eme ihe n'usoro na - eme ka ahụ́ gbasie mmadụ ike",
+    "Zere ichekwa mkpụrụ akụ́kụ́ ndị nwere nje ndị ahụ",
+    "Ńgwānụ́ banye n'ụdị dị iche iche nke na-adịghị adị"
+  ],
+  "chemical_control": [
+    "Mkpụrụ akụ́kụ́ ndị a na - akụ n'ụgbọala, n'aka nri, n'aka nri, ma ọ bụ n'aka nri"
+  ],
+  "prevention": [
+    "Nanị ihe a na - arụpụta bụ mkpụrụ dị ọcha",
+    "Ihe a kụrụ n'ubi na - eme nke ọma",
+    "Jiri ihe ndị e ji echekwa ihe na ihe ndị e ji akụ ihe"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Ihe Ndị Na - eme Ka Ahụ́ Dị Mmadụ Mma n'Ahụ́",
+    "Akwụkwọ nkà mmụta sayensị ndị e dere n'Aglagolii"
+  ]
+}

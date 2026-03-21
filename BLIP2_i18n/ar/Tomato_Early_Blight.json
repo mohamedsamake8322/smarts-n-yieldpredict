@@ -1,62 +1,72 @@
 {
-  "disease_name": "Tomato Early Blight",
-  "causal_agent": "Alternaria solani",
-  "other_agents": ["Alternaria tomatophila"],
-  "type": "fungal pathogen",
+  "disease_name": "",
+  "causal_agent": "العذراء سولاني",
+  "other_agents": [
+    "اللمناريا الطنطرة"
+  ],
+  "type": "",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)", "Potato (S. tuberosum)"],
-    "secondary": ["Eggplant (S. melongena L.)", "Bell pepper and hot pepper (Capsicum spp.)"],
-    "weeds": ["Black nightshade (Solanum nigrum)"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)",
+      "بطاطس (س."
+    ],
+    "secondary": [
+      "(S. Memilonena L.)",
+      "الفلفل والفلفل الحار (Capsisum spp.)"
+    ],
+    "weeds": [
+      "(Sulanum engrum)"
+    ]
   },
-  "distribution": "Worldwide; problematic east of the Rocky Mountains and midwest USA for tomato; common in potato-growing regions",
+  "distribution": "على الصعيد العالمي؛ إشكاليات تتعلق بالطماطم في الشرق من جبال روكي وفي غرب الولايات المتحدة الأمريكية؛ شائعة في مناطق زراعة البطاطس",
   "symptoms": {
     "tomato": [
-      "Concentric 'bullseye' leaf spots on older leaves, brown to black, up to 1.3 cm",
-      "Yellowing or chlorosis around leaf spots",
-      "Stem lesions, dark and slightly sunken with concentric rings",
-      "Fruit rot at stem attachment points or through wounds, brown with dark concentric circles, black velvety spore mass",
-      "Seedlings: collar rot (basal girdling), death"
+      "بقع ورقة ورق \"عين العين\" مركزة مركزة على أوراق أوراق أقدم، من البني إلى الأسود، حتى 1.3 سم",
+      "أصفر أو كرغس حول بقع الورقة",
+      "الجراثيم، المظلمة والقليلة التي تتخللها حلقات متشابكة",
+      "تتعفن الفاكهة عند نقاط الارتباط الجذعية أو من خلال الجروح، البنية مع دوائر مركزية داكنة، كتلة مخملية سوداء",
+      "الشتلات: تتعفن الياقة (الضربة، الموت)"
     ],
     "potato": [
-      "Concentric dark brown spots on older leaves",
-      "Premature defoliation leading to tuber yield reduction",
-      "Stem spots gaunt and diffuse",
-      "Tuber lesions: dry, dark, pressed into surface; underlying flesh dry, leathery and brown; may enlarge during storage"
+      "بقع سوداء داكنة و مركزة على الأوراق القديمة",
+      "انخفاض غلة النقر",
+      "حالات النبذ التي يُعَثَفُها ويُنْشرُها",
+      "الجروح المنضدية: جاف، داك، مضغوطة في السطح؛ واللحم الأساسي جاف، وجلدي، وبني؛ وقد تتسع أثناء التخزين"
     ]
   },
   "life_cycle": {
-    "type": "polycyclic",
-    "overwintering": "Crop residues or wild solanaceous plants",
-    "infection": "Conidia produced in spring, splashed or wind-dispersed, infect through wounds, stomata or direct penetration",
-    "spread": "Conidia from lesions infect other parts of plant or neighboring plants during the same season"
+    "type": "متعدد الدورات(ج)",
+    "overwintering": "مخلفات المحاصيل أو النباتات البرية",
+    "infection": "Conidia المنتجة في الربيع، أو المرش أو المتناثرة بالرياح، أو المصابة بجروح، أو ستوماتا، أو الاختراق المباشر",
+    "spread": "مضافاً من الأضرار التي تصيب أجزاء أخرى من النبات أو النباتات المجاورة خلال نفس الموسم"
   },
-  "pathogen_type": "Necrotrophic",
+  "pathogen_type": "(البالغة)",
   "cultural_control": [
-    "Clear infected debris to reduce inoculum",
-    "Water plants in the morning to minimize leaf wetness",
-    "Use drip irrigation",
-    "Apply mulch to block soil splash",
-    "Rotate to non-solanaceous crops for at least three years",
-    "Control wild solanaceous plants near fields",
-    "Plant resistant cultivars",
-    "Increase air circulation in rows",
-    "Monitor fields closely in warm, damp weather"
+    "تطهير الحطام المُصاب بتطهير",
+    "نباتات المياه في الصباح للتقليل من رطوبة أوراق الورق",
+    "",
+    "تطبيق مُلْك إلى كتلة",
+    "دوران إلى المحاصيل غير المسببة للشلالالاث سنوات على الأقل",
+    "النباتات البرية القريبة من الحقول",
+    "المقاومات",
+    "زيادة دوران الهواء في الصفوف",
+    "رصد الحقول عن كثب في الطقس الدافئ والطقس الرطوبي"
   ],
   "chemical_control": [
-    "Azoxystrobin (QoI fungicide)",
-    "Pyraclostrobin",
-    "Bacillus subtilis",
-    "Chlorothalonil",
-    "Copper-based products",
-    "Hydrogen dioxide (Hydroperoxyl)",
-    "Mancozeb",
-    "Potassium bicarbonate",
-    "Ziram"
+    "Assoxisstrobin (مبيد فطريات QoI)",
+    "Pyraclostroin",
+    "بكاسيلus صب ط",
+    "كلوروثاثالونونيل",
+    "المنتجات القائمة على أساس المنتجات",
+    "ثاني أكسيد الهيدروجين (Hyddroderoxyl)",
+    "ما يُنكس(ب)",
+    "بكربونات البوتاسيوم",
+    "& & &"
   ],
-  "notes_on_resistance": "Decreased sensitivity to QoI fungicides due to F129L amino acid substitution in A. solani",
+  "notes_on_resistance": "نقص في الحساسية إزاء مبيدات الفطريات التي تُعزى إلى استبدال حمض الأمينين F12L في A. Solani",
   "references": [
-    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
-    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
-    "https://doi.org/10.1094/PHYTO-94-11-1231"
+    "(بآلاف دولارات الولايات المتحدة)",
+    "(أ) انظر: http://www.cabdar.org/cabdardar/abstract/straft/subt/http://www.cabdart.org/cabdar/abstract/straft/straftreg/straft3196520",
+    "الأمم المتحدة"
   ]
 }

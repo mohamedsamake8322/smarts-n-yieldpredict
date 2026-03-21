@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
-  "causal_agent": "Septoria lycopersici",
+  "disease_name": "土豆叶切土机",
+  "type": "真菌病",
+  "causal_agent": "碱性碱性",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "番茄"
+    ],
+    "secondary": [
+      "索拉氏杂草(如马鼻)"
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "世界范围",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "带深棕色棕色边距和棕色的圆圆圆点到灰色中心",
+      "中心用黑色双尖形黑色",
+      "黄黄色的黄光环绕着叶子的损伤",
+      "严重感染导致黄叶、褐色、枯萎和除叶"
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "水果感染很少"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "被感染的番茄残块或独生杂草残块的真菌",
+    "它也可以靠木桩和笼子等设备生存",
+    "从雨水或喷洒水灌溉中喷洒水,分散了共犯活动。",
+    "高相对湿湿度、高温和长叶叶湿度有利于疾病发展"
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "将至少1-2年的作物旋转为非孤立作物",
+      "控制易受控制的杂草,如马桶等",
+      "清除和销毁作物残块(在允许的情况下焚烧或掩埋受污染的植物)",
+      "收集或研磨工厂,以改善空气循环,减少叶子-土壤接触",
+      "增加植物之间的间距,避免为减少湿度而过度消湿",
+      "监测灌溉情况,防止长期叶叶干湿",
+      "尽可能使用耐抗性番茄品种"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "定期施用登记的保护性杀真菌杀虫剂喷喷剂",
+      "含有活性成分,如氯二氟乙烯或乙基双硫氨酸酯(EBDC)的杀菌剂是有效的。",
+      "通用商品名称包括Daconil、Mancozeb、Fungonil",
+      "按照标签说明经常(通常每7天7天一次)重新使用",
+      "在慢性感染地区可能需要预防性地应用铜基杀菌剂或氯二氟乙烯杀菌剂"
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "预防措施比试图治愈受感染植物更加有效",
+    "共同公司既依靠植物残块和设备生存,也依靠植物残块和设备生存,因此环境卫生至关重要",
+    "湿湿或湿湿过量或高湿湿度加剧疾病传播"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "威斯康星大学植物疾病诊断诊所(PDDC)。",
+    "Brannen, P. & Sugar, D.2020,《家庭花园番茄叶片管理》,佐治亚大学推广。",
+    "Jones, J.B.等人,2014年,《番茄病和虫害简编》,第二版,APS出版社。"
   ]
 }

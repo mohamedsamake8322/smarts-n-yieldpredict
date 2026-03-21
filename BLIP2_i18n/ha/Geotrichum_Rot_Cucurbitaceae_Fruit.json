@@ -1,60 +1,60 @@
 {
- "disease": "Geotrichum Fruit Rot of Cucurbits",
- "scientific_name": "Geotrichum candidum",
- "pathogen_type": "Fungus",
- "description": "A fungal disease that causes soft rot on cucurbit fruits such as cucumber, melon, and pumpkin. It mainly affects ripe or damaged fruits and produces a white mold that later becomes sour and watery.",
- "symptoms": [
-  "Soft watery rot on fruits",
-  "White cottony mold on infected areas",
-  "Fruit tissue becomes soft and collapses",
-  "Sour or fermented smell from infected fruit",
-  "Rot usually starts at wounds or damaged areas"
- ],
- "hosts": [
-  "Cucumber",
-  "Melon",
-  "Watermelon",
-  "Pumpkin",
-  "Squash",
-  "Other cucurbit crops"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Wounded or damaged fruits",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Contaminated soil",
-  "Infected plant debris",
-  "Handling of infected fruits",
-  "Wounds caused during harvest or transport"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Remove and destroy infected fruits",
-  "Improve field and storage sanitation",
-  "Ensure good ventilation during storage",
-  "Harvest fruits at proper maturity"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Trichoderma species to suppress fungal growth",
-  "Apply Bacillus-based biofungicides to reduce pathogen development"
- ],
- "chemical_control": [
-  "Post-harvest fungicides containing thiabendazole",
-  "Imazalil-based treatments in storage facilities",
-  "Sanitation with approved disinfectants to reduce contamination"
- ],
- "prevention": [
-  "Avoid fruit injuries during harvest and transport",
-  "Maintain clean storage conditions",
-  "Remove plant debris from fields",
-  "Store fruits in cool and dry conditions"
- ],
- "source": [
-  "Plant pathology references on cucurbit post-harvest diseases",
-  "CABI Crop Protection Compendium",
-  "Plant disease management guides"
- ]
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai ban tsoro da ke sa mutum ya zama mai tausayi kamar su ' ya'yan itace da ke ɗauke da ' ya'yan itace da ke ɗauke da ruwa mai kama da su. Ƙari ga haka, yana shafan wasu ' ya'yan itace ko kuma ' ya'yan itace da suka lalace.",
+  "symptoms": [
+    "\"Sa'an nan kuma mãsu shã ne, a kan wannan abin cin, daga ruwan zãfi.\"",
+    "Za a iya mulmula su a wuraren da za su iya raunanawa",
+    "' Ya'yan itace sun zama da laushin hali kuma sun rushe",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Ana soma ne sa'ad da mutane suka soma rashin lafiya ko kuma a wuraren da suka lalace"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "DakataCoptic month 13 - ShortNamePossessive",
+    "KCharselect unicode block name",
+    "Indian National weekday 2 - LongDayName",
+    "KCharselect unicode block name",
+    "Wasu shuke - shuke da aka shuka"
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "QShortcut",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Rashin Lafiya a Lokacin Wahala"
+  ],
+  "spread": [
+    "ƙasa mai sanyi",
+    "A wurin da magaryar tuƙẽwa take.",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa.",
+    "Ana samun kwanciyar hankali a lokacin kaka ko kuma a wurin da ake yin wa'azi"
+  ],
+  "management": [
+    "Yin ' ya'yan itace a hankali don kada su yi faɗa",
+    "\"Kuma ya yalwata muku game da dũkiya da ɗiya, Ya sanya muku (albarka) ga gõnaki, kuma Ya sanya muku koguna.\"",
+    "KCharselect unicode block name",
+    "@ item Text character set",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "biological_control": [
+    "Ka yi amfani da abubuwan da ba su dace ba kamar waɗanda suke son su yi baƙar magana don su hana ka samun ci gaba",
+    "Yi amfani da hanyar da ba ta dace ba don ta rage lokacin da ake girma"
+  ],
+  "chemical_control": [
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Media controller element"
+  ],
+  "prevention": [
+    "Ka guje wa ' ya'yan itace sa'ad da kake girbi da kuma ba da kayan aiki",
+    "Ka kasance da tsabta a yanayi mai tsabta",
+    "Rabinsa, ko ka rage abu kaɗan daga gare shi.",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
+  ],
+  "source": [
+    "Wata hanya mai ban mamaki da aka yi ƙaulinta a kan cututtuka da ke cike da cututtuka masu yawa",
+    "@ item Text character set",
+    "Za a iya samun cuta ta wajen yin amfani da ita a hanyar da ba ta dace ba"
+  ]
 }

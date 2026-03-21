@@ -1,38 +1,38 @@
 {
-  "pest_name": "Stem Borer Leaf Damages",
-  "pest_type": "insect",
-  "description": "Stem borers are insect pests whose larvae feed on plant stems and leaves. They are common in cereal crops such as maize, rice and sorghum. Larvae bore into stems and cause internal damage that reduces plant growth and productivity.",
+  "pest_name": "Dommages causés par les feuilles de l'éperlan",
+  "pest_type": "Insecte",
+  "description": "Les herses sont des insectes nuisibles dont les larves se nourrissent de tiges et de feuilles végétales. Elles sont courantes dans les cultures céréalières telles que le maïs, le riz et le sorgho. Les larves se nourrissent de tiges et causent des dommages internes qui réduisent la croissance et la productivité des plantes.",
   "affected_parts": [
-    "Leaf",
-    "Stem"
+    "Feuille",
+    "Tige"
   ],
   "hosts": [
-    "Maize",
-    "Rice",
-    "Sugarcane",
-    "Sorghum"
+    "Maïs",
+    "Riz",
+    "Canne à sucre",
+    "Sorgho"
   ],
   "symptoms": [
-    "Leaf holes and feeding marks",
-    "Dead heart symptom in young plants",
-    "Stem tunneling",
-    "Reduced plant growth"
+    "Trous des feuilles et marques d'alimentation",
+    "Symptôme cardiaque mort chez les jeunes plantes",
+    "Tunnel à tige",
+    "Réduction de la croissance des plantes"
   ],
   "spread": [
-    "Adult insects laying eggs on plant leaves",
-    "Larvae moving into plant stems"
+    "Insectes adultes pondant des œufs sur des feuilles de plantes",
+    "Les larves se déplacent dans les tiges de la plante"
   ],
   "management": {
     "cultural": [
-      "Remove crop residues",
-      "Crop rotation",
-      "Use resistant varieties"
+      "Enlever les résidus de culture",
+      "Rotation des cultures",
+      "Utiliser des variétés résistantes"
     ],
     "biological": [
-      "Encourage parasitoid wasps and natural predators"
+      "Encourager les guêpes parasitoïdes et les prédateurs naturels"
     ],
     "chemical": [
-      "Apply recommended insecticides when infestation levels are high"
+      "Appliquer les insecticides recommandés lorsque les taux d'infestation sont élevés"
     ]
   }
 }

@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "مُعيت",
+  "stage": "",
+  "common_name": "مُعيت",
+  "description": "وَهٰذَا مَا يَتَعَلَّقُ بِٱلْأَسْفَارِ ٱلْمُقَدَّسَةِ ٱلْمُقَدَّسَةِ ٱلَّتِي تُسَاعِدُنَا أَنْ نَتَعَلَّمَ مِنَ ٱلْأَسْفَارِ ٱلْمُقَدَّسَةِ ٱلْمُقَدَّسَةِ .",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "البالغون أقل من 1/20 بوصة طولها أقل من 1/20 بوصة طولاً مع جسم بيضاوي وبقعتا عين ملونتان بالقرب من الرأس",
+    "تعيش في مستعمرات، معظمها على الجانب السفلي من الأوراق؛ مستعمرة واحدة يمكن أن تحتوي على مئات العث",
+    "السكان المرتفعون يُنتجون كُثُر سكاناً مرتفعين إنتاجاً كثيفاً يَنْكِج أوراقاً وغجراً وفاكهة.",
+    "البحث عن تلميع نقاط الضوء على الأوراق، والتغير في اللون، والتصفير، وإسقاط الورقة"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "امتص محتويات الخلية من الأوراق، مسبباً التقلّب والتغيّر",
+    "اوراق الاوراق المملوءة بشدة تتحول الى اصفر وقد تسقط",
+    "يكون الضرر أشد حدة في الظروف الساخنة والمتربة وفي النباتات التي تحتاج إلى الماء"
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "مُمَجَز مُمَزَج",
+    "منشششات",
+    "حشرات مُقَرْصِق",
+    "الأوث المفترس (أكبر مع أرجل أطول وأكثر نشاطاً)"
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "النباتات المائية لتفادي الإجهاد من الجفاف",
+    "الحد من الغبار باستخدام الأغطية الأرضية والمضلات والري المنتظم",
+    "تشجيع الأعداء الطبيعي على السيطرة على السكان",
+    "المياه أو الض الرياشية أو الض الريض على أسفل الأوراق يومياً إذا كانت"
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "زيوت الحشرة أو صابون المبيدات الحشرية، تطبق تطبيقاً دقيقاً على الأجزاء السفلية للأوراق",
+    "تجنب الرش عندما تكون النباتات مضغوطة في الماء أو أثناء الحرارة العالية",
+    "تجنب المبيدات الحشرية التي تقتل الأعداء الطبيعيين، لأن ذلك يمكن أن يتسبب في ارتفاعات سكانية"
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "كثيراً ما تصبح الأمثات العنكبوتية إشكالية بعد بعض تطبيقات مبيدات الحشرات العضوية الفوسفاتية أو البيريثورية",
+    "الاستخدام الأدنى لمبيدات الآفات، أو الخيارات المفضلة غير الكيميائية أو الخيارات الأقل سمية",
+    "وسمات المنتجات المقروءة بعناية من أجل استخدامها والتخلص منها على النحو السليم"
   ]
 }

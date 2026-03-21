@@ -1,0 +1,69 @@
+{
+  "disease": "nchara ncharala",
+  "scientific_name": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "pathogen_type": "Okwu Ndị Na - akpali Agụụ Mmekọahụ",
+  "description": "nchara nchara bụ ọrịa na - asọ oyi nke na - emetụta akwụkwọ osisi ndị a na - akpọ grin, bụ́ nke a na - enweta site n'oge ruo n'oge, nakwa mgbe ụfọdụ.",
+  "symptoms": [
+    "Obere ihe na - acha ọcha ma ọ bụ odo odo dị n'akwụkwọ",
+    "Anadu, nchara nchara ma ọ bụ nchara- kachanụ n'akwụkwọ osisi ndị dị n'okpuru ala",
+    "Ụlọ ọrụ ndị na - emepụta mmanụ aṅụ bụ́ ndị e wepụtara site n'ebe ndị a na - edebe ihe ọmụma n'Intanet",
+    "Ime Ka Ahụ́ Na - ama Gị Mma",
+    "Mmiri ọgwụ ahụ́ bụ́ hormone na - acha akwụkwọ ndụ akwụkwọ ndụ ma na - ada n'isi ụtụtụ",
+    "Ihe osise ndị na - adị n'elu ala bụ́ ndị a na - eji eme ihe n'ebe ndị ahụ nakwa n'ebe ndị a na - egwupụta ihe n'ala"
+  ],
+  "hosts": [
+    "ịbụ onye a ma ama",
+    "A Ọchịchị akụrụ Dị n'Ahụ́",
+    "Takaan",
+    "M̀ bụ onye isi ojii",
+    "Kalina",
+    "lima",
+    "Sobean",
+    "Nwa ehi",
+    "E nwere ụdị osisi ndị ọzọ na - esi ísì ọma"
+  ],
+  "favorable_conditions": [
+    "Ọ̀tụ̀tụ̀ ikpo ọkụ nke ọ̀tụ̀tụ̀ ịjụ oyi nke ọ̀tụ̀tụ̀ ịjụ oyi nke oyi",
+    "Ihe Ndị Dị Oké Ọnụ Ahịa Na - adọrọ Mmasị",
+    "Mmiri Na - ezo n'Oge Ochie",
+    "Ụkwụ na - agba m ruo ọtụtụ awa",
+    "Mkpụrụ akụ́kụ́ ndị a kụrụ n'ubi na - eme nke ọma"
+  ],
+  "spread": [
+    "Ihe ndị na-eme ka ifufe nwee ike ịbanye n'ime ala",
+    "Mmiri Na - ezo n'Ime Mmiri",
+    "Ihe ndị a kụrụ n'ala bụ́ ndị e gwupụtara n'ala",
+    "Ihe ndị na - akpata agha na - eme ka ime njem na - aga n'ebe dị anya"
+  ],
+  "management": [
+    "Mkpụrụ akụ́kụ́ ndị na - eguzogide ọgwụ bụ ụdị dị iche iche",
+    "Tụgharịa ihe ọkụkụ na osisi ndị na-adịghị adị",
+    "Wepụ mkpụrụ akụ́kụ́ ndị nwere nje ndị na - akpata ọrịa",
+    "Ihe Ndị Na - eme Ka Osisi Na - eto nke Ọma",
+    "Na - akọ ugbo n'oge uto"
+  ],
+  "biological_control": [
+    "A na - eji ụdị dị iche iche nke nje bacteria eme ihe dị ka ihe ndị na - enye ihe n'ahụ́",
+    "Mkpụrụ ndụ ihe nketa ndị si n'ebe obibi akwụkwọ bụ́ ndị dị n'ime ala"
+  ],
+  "chemical_control": [
+    "Macoze",
+    "Ọrịa ogbu na nkwonkwo nke yiri ajụ oyi",
+    "Tebunale",
+    "Otú E Si Eme Ka Ndị Mmadụ Mata Onye Chineke Bụ",
+    "Azstroron",
+    "Ebe M Na - aga"
+  ],
+  "prevention": [
+    "Jiri ọrịa a na-enweghị isi-enweghị mkpụrụ akụ́kụ́",
+    "Zere ịgha mkpụrụ n'ụba",
+    "Wepụ iberibe ihe ọkụkụ ndị na - egbu egbu mgbe e resịrị ha ihe ubi",
+    "Jiri òtù nzuzo ndị na - eguzogide ọgwụ mee ihe",
+    "Ihe ubi ndị a na - adịghị ahụ anya n'oge oyi"
+  ],
+  "source": [
+    "OTA 6 (Bekee, Ụdị Asụsụ Ogbi nke America)",
+    "Mkpụrụ Ndụ Ihe Nketa Maka Ọrịa Na - eduzi Ahụ́ Ike",
+    "Nkà Mmụta Ihe Ochie nke Mahadum bụ́ Encyclopædia Judaica Publications"
+  ]
+}

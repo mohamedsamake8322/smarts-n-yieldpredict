@@ -1,0 +1,67 @@
+{
+  "disease": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "other_names": [
+    "Iji Oge Eme Ihe n'Ụzọ Ziri Ezi",
+    "HLB",
+    "Iji Ọgwụ Eme Ihe n'Ụzọ Ziri Ezi"
+  ],
+  "scientific_name": "Ọ na - adị m ka m̀ bụ onye a jụrụ ajụ.",
+  "pathogen_type": "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "description": "Ihe na - akpata ọrịa ndị na - ebibi ihe bụ nje bacteria nke ụmụ ahụhụ na - ekesa ma na - ekesa ha n'ụzọ bụ́ isi bụ ụmụ ahụhụ ndị nwere nje ndị na - akpata ọrịa.",
+  "hosts": [
+    "Nje ndị na - akpata ịba ahụ́ a na - akpọ litayas (ya bụ, ahụekere a na - agwaghị agwa)",
+    "Paruta (ma ọ bụ ihe yiri ihe na - adịghị ihe ọ bụ)",
+    "Tladidisi (mkpụrụ osisi ndị na - esi ísì ọma)",
+    "Parug lion (nke dị n'ala ala)",
+    "Ụdị dị iche iche nke mmiri ọgwụ ahụ́"
+  ],
+  "vectors": [
+    "Ndị Eshia na - eji ihe e dere n'ala ala peeji akọwa ihe ndị dị n'ime ala",
+    "Africa a na - akpọ rarus (Trioza erereree)"
+  ],
+  "symptoms_and_damage": [
+    "Akwụkwọ osisi na - acha odo odo na - ama mma n'ahụ́",
+    "Iji akwụkwọ na - akọwa ihe ndị e dere na ya na otú akwụkwọ osisi ndị dị na ya si amị mkpụrụ",
+    "Uto nke osisi a pịrị apị",
+    "Mmiri na - ezonụ na - ezo, akwụkwọ osisi ndị na - adịghị eto ngwa ngwa na ndị nke na - adịghị eto ngwa ngwa na - anwụkwa",
+    "Obere mkpụrụ osisi ndị na - acha anụnụ anụnụ, ndị na - acha anụnụ anụnụ, na ndị tụrụ àgwà ndị na - ekwesịghị ekwesị",
+    "Mkpụrụ osisi na - anọgide na - acha akwụkwọ ndụ akwụkwọ ndụ mgbe ọ chara acha",
+    "Mkpụrụ osisi na - atọ ụtọ nke ukwuu ma ọ bụ na - atọ ụtọ",
+    "Mkpụrụ akụ́kụ́ a mịrị amị na mkpụrụ dara ogbenye"
+  ],
+  "disease_cycle_and_spread": [
+    "A na - eji osisi ndị dị n'ime osisi ndị ahụ esi ísì ọma, bụ́ ndị dị n'ime ala, eme ka osisi ndị dị n'ime ala maa mma",
+    "N'ụzọ bụ́ isi, ọ bụ ụmụ ahụhụ ndị na - esi n'erighị ihe ndị na - edozi ahụ́ na - eri nri n'osisi ndị bu ọrịa ahụ",
+    "A pụkwara ịgbasa ya site n'ihe ọkụkụ ndị nwere nje ndị na - akpata ọrịa",
+    "Oge uto nke mmiri ọgwụ ahụ́ bụ́ hormone na - emepụta nje bacteria ma na - ebuga ya n'ebe akụ́kụ́ ndị na - emepụta ezi ahụ́ ike"
+  ],
+  "favorable_conditions": [
+    "Ihu igwe na - ekpo ọkụ n'ebe okpomọkụ na n'ebe okpomọkụ",
+    "Ụmụ ahụhụ ndị na - eri ibe ha na - eri ibe ha",
+    "Ebe ndị a na - emepụta mmanụ"
+  ],
+  "distribution": [
+    "Eshia",
+    "Africa",
+    "United States (Fhadran, Texas, California na ndị ọzọ)",
+    "Brazil",
+    "Mexico",
+    "Ọtụtụ ógbè ebe okpomọkụ na gburugburu ebe okpomọkụ"
+  ],
+  "management": [
+    "Ọ na - eme ka ahụhụ ndị na - ebibi ihe na - amụba n'ike n'ike",
+    "Wepụ ma bibie osisi ndị bu ya",
+    "Jiri ihe ndị dị ọcha e ji akụ ihe bụ́ ndị a pịrị apị mee ihe",
+    "Na - amụchi Ya Anya Ma Na - achọpụta Ihe Ndị Mere n'Oge",
+    "Nnyocha e mere banyere ụdị dị iche iche nke ụmụ irighiri ihe ndị na - eguzogide ọgwụ"
+  ],
+  "notes": [
+    "Ọ dịghị ọgwụgwọ dị irè dịnụ ugbu a",
+    "Osisi ndị a gbara ogige na - anwụkarị n'ime afọ ole na ole",
+    "Ọrịa ahụ akpatawo oké mfu n'ụzọ akụ̀ na ụba n'ụlọ ọrụ dị iche iche n'ụwa nile"
+  ],
+  "sources": [
+    "Ọrịa na - esi n'erighị ihe ndị na - edozi ahụ́ apụta",
+    "Ebe a na - edebe ihe ọmụma n'Internet na n'Ebe Ọwụwa Anyanwụ Eshia"
+  ]
+}

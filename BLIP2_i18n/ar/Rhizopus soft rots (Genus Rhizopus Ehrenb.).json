@@ -1,74 +1,74 @@
 {
- "disease": "Rhizopus Soft Rot",
- "scientific_name": "Rhizopus spp. (Genus Rhizopus)",
- "pathogen_type": "Fungus",
- "description": "Rhizopus soft rot is a fungal disease that mainly affects fruits, vegetables, and stored crops. The fungus infects wounded plant tissues and causes a rapid soft, watery decay. It is common during storage, transport, and in warm and humid conditions.",
- "symptoms": [
-  "Soft watery rot on infected tissues",
-  "Rapid breakdown of fruit or vegetable tissue",
-  "White cotton-like fungal growth on the surface",
-  "Black pin-like spore structures on infected areas",
-  "Foul smell in advanced decay",
-  "Infected tissues become mushy and collapse"
- ],
- "hosts": [
-  "Tomato",
-  "Strawberry",
-  "Peach",
-  "Papaya",
-  "Banana",
-  "Sweet potato",
-  "Carrot",
-  "Pumpkin",
-  "Squash",
-  "Cucumber",
-  "Melon",
-  "Mango",
-  "Eggplant",
-  "Pepper",
-  "Stored vegetables and fruits"
- ],
- "favorable_conditions": [
-  "Warm temperatures",
-  "High humidity",
-  "Damaged or wounded plant tissues",
-  "Poor storage conditions",
-  "Poor ventilation during storage"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers or tools",
-  "Insects or mechanical damage that create wounds"
- ],
- "impact": [
-  "Rapid post-harvest losses",
-  "Fruit and vegetable decay during storage or transport",
-  "Reduced market value of crops"
- ],
- "cultural_control": [
-  "Handle fruits and vegetables carefully to avoid wounds",
-  "Harvest crops during dry conditions",
-  "Remove damaged or infected produce quickly",
-  "Maintain good hygiene in storage areas",
-  "Ensure proper ventilation in storage facilities"
- ],
- "biological_control": [
-  "Use beneficial microbes such as Bacillus species",
-  "Use biocontrol yeasts that inhibit fungal growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicide treatments where allowed",
-  "Use of disinfectants for storage containers and equipment"
- ],
- "prevention": [
-  "Avoid mechanical injuries during harvest",
-  "Store crops at appropriate temperature and humidity",
-  "Use clean containers and storage facilities",
-  "Separate infected produce from healthy produce"
- ],
- "source": [
-  "Plant pathology references on post-harvest diseases",
-  "Agricultural storage disease management guides"
- ]
+  "disease": "Rhizusps sure rut",
+  "scientific_name": "Rhizosuspus spp. (جينوس Rhizupuss)",
+  "pathogen_type": "المنقوس",
+  "description": "التعفن الناعم هو مرض فطري يؤثر بشكل رئيسي على الفواكه والخضراوات والمحاصيل المخزونة، ويتسبب الفطر في جرح أنسجة النباتات ويتسبب في انحلال سريع في الماء، وهو شائع أثناء التخزين والنقل وفي ظروف دافئة ورطبة.",
+  "symptoms": [
+    "تعفن الماء العذب على الأنسجة المُصابة",
+    "الكسرة السريعة للفاكهة أو أنسجة الخضر",
+    "النمو الفطري على سطح الأرض",
+    "الهياكل البسورية ذات الدبابيس السوداء في المناطق المصابة",
+    "النكهة في التحلل المتقدّم",
+    "الانسجة المُعدية تصبح مُليَكة وتنهار"
+  ],
+  "hosts": [
+    "طاطاطاطاط",
+    "الفراء",
+    "رقي",
+    "يُنْيي",
+    "",
+    "",
+    "شيء",
+    "قُبكِنكِنكِنكِر قِِِنكِرْ قِ قِِِِنكِرْ قِنكِ قِ قِِِِنك قِنك قِِِنكِر قِ قِنك قِنك قِنك قِِِِِِلْ قِِِِِنك قِنك قِنك قِنك قِنك قِِِِِِلْ قِنك قِنك قِِِِِلْ قِنك قِلْ قِنك",
+    "سواش",
+    "",
+    "",
+    "Name",
+    "المس",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "الخضروات والفاكهة"
+  ],
+  "favorable_conditions": [
+    "درجة حرارة",
+    "الرطوبة العالية",
+    "أنسجة النباتات التي لحقها أو التي أصابتها إصابة",
+    "ظروف سوء ظروف التخزين",
+    "سوء التغذية أثناء التخزين"
+  ],
+  "spread": [
+    "بُغَرَجَات الجو",
+    "الاتصال بين المصاب والمنتج الصحي",
+    "حاويات أو أدوات أو أدوات التخزين الملوثة",
+    "الحشرات أو الأضرار الميكانيكية التي تخلق جروحاً"
+  ],
+  "impact": [
+    "خسائر ما بعد الحصاد السريعة",
+    "الفواكه والخضر أثناء التخزين أو النقل",
+    "انخفاض القيمة السوقية للمحاصيل"
+  ],
+  "cultural_control": [
+    "مناولة الفواكه والخضر وحرصاً على تجنب الجروح",
+    "المحاصيل أثناء الظروف الجافة",
+    "أُتلف أو أُنتج بسرعة",
+    "الحفاظ على النظافة الصحية الجيدة في مناطق التخزين",
+    "ضمان التهوية السليمة في مرافق التخزين"
+  ],
+  "biological_control": [
+    "استخدام ميكروبات مفيدة مثل أنواع الباسيوس",
+    "استخدام الخُمج التي تعوق النمو الفطري"
+  ],
+  "chemical_control": [
+    "العلاجات في مرحلة ما بعد ما بعد الحصاد حيثما يُسمح بذلك",
+    "استخدام المطهرات في حاويات ومعدات التخزين"
+  ],
+  "prevention": [
+    "تجنب حدوث إصابات ميكانيكية أثناء الحصاد",
+    "تخزن المحاصيل في درجة حرارة ودرجة رطوبة مناسبتين",
+    "الحاويات ومرافق التخزين النظيفة",
+    "المنتجات المنبتة بطريقة غير مُصابة من إنتاج صحي"
+  ],
+  "source": [
+    "المراجع المتعلقة بأمراض ما بعد الحصاد",
+    "أدلة إدارة أمراض التخزين الزراعي"
+  ]
 }

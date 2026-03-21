@@ -1,68 +1,68 @@
 {
- "pest": "Mealybug",
- "scientific_name": "Family Pseudococcidae",
- "pest_type": "Insect",
- "description": "Mealybugs are small sap-sucking insects covered with a white waxy powder. They attack many crops and ornamental plants, weakening plants and producing sticky honeydew that leads to mold growth.",
- "symptoms": [
-  "White cotton-like insects on leaves, stems, or fruits",
-  "Sticky honeydew on plant surfaces",
-  "Black sooty mold growing on honeydew",
-  "Yellowing or curling leaves",
-  "Stunted plant growth",
-  "Premature leaf drop in severe infestations"
- ],
- "hosts": [
-  "Citrus",
-  "Grapevine",
-  "Banana",
-  "Papaya",
-  "Pineapple",
-  "Coffee",
-  "Cassava",
-  "Sugarcane",
-  "Sunflower",
-  "Orchids",
-  "Cactus",
-  "Garden plants and greenhouse crops"
- ],
- "favorable_conditions": [
-  "Warm and humid climates",
-  "Dense vegetation or greenhouse conditions",
-  "Presence of ants that protect mealybugs",
-  "Poor natural predator activity"
- ],
- "spread": [
-  "Movement of infested plant material",
-  "Wind or insects carrying crawlers",
-  "Ants transporting and protecting colonies"
- ],
- "damage": [
-  "Plant weakening due to sap feeding",
-  "Transmission of plant viruses in some crops",
-  "Reduced yield and plant growth",
-  "Development of sooty mold on honeydew"
- ],
- "biological_control": [
-  "Predatory beetle Cryptolaemus montrouzieri (mealybug destroyer)",
-  "Green lacewing larvae (Chrysopidae)",
-  "Parasitic wasps attacking mealybugs",
-  "Encourage natural predators by reducing broad insecticides"
- ],
- "chemical_control": [
-  "Pyrethroid insecticides such as permethrin, bifenthrin, or cyfluthrin",
-  "Insecticidal soaps or horticultural oils",
-  "Systemic insecticides when infestations are severe"
- ],
- "prevention": [
-  "Inspect plants regularly for early infestations",
-  "Control ants that protect mealybugs",
-  "Remove heavily infested plant parts",
-  "Avoid excessive nitrogen fertilization",
-  "Use clean planting material"
- ],
- "source": [
-  "Entomology literature on Pseudococcidae",
-  "Agricultural pest management references",
-  "Wikipedia – Mealybug"
- ]
+  "pest": "KCharselect unicode block name",
+  "scientific_name": "Iyali Tana Baƙin Ciki",
+  "pest_type": "QShortcut",
+  "description": "Jibin abinci kaɗan ne da ke cike da fari, suna kai wa shuke - shuke da shuke - shuke da shuke da shuke - shuke da shuke masu kyau da ke sa su yi girma.",
+  "symptoms": [
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "\"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa.\"",
+    "A dā, ana yin amfani da yumɓu sosai wajen buga Littafi Mai Tsarki da kuma yin amfani da kayan da ake amfani da su don kyautata yadda ake amfani da su wajen yin waƙa.",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "@ action",
+    "Media controller element"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Indian National month 5 - LongName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "DakataCoptic month 6 - LongName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
+  ],
+  "favorable_conditions": [
+    "KCharselect unicode block name",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+    "Za a iya samun kwanciyar hankali da ke kāre abincin da ake cin abinci da shi",
+    "Ayyuka marasa amfani"
+  ],
+  "spread": [
+    "Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi.",
+    "KCharselect unicode block name",
+    "Ana Bukatar Mu Yi Muku Ja - gora da Kuma Kāre Mu"
+  ],
+  "damage": [
+    "Media controller element",
+    "' Ya'yan itace a wasu shuke - shuke",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Irin waɗannan ƙwayoyin yumɓu suna kama da zuma da aka yi a kan zuma"
+  ],
+  "biological_control": [
+    "Sai aka ji girman kai, kuma aka fi kowa ƙarfi da aka yi a wurin.",
+    "@ item Text character set",
+    "Ana dafa abinci ne da ake ci",
+    "Ku Ƙarfafa Yanayinku na Kullum ta Wajen Sa Rashin Lafiya Ya Kasance Mai Ban Al'ajabi"
+  ],
+  "chemical_control": [
+    "@ item Text character set",
+    "Ana iya samun na'urar da ake amfani da shi a wurin aiki ko kuma mai ba da māi",
+    "QXml"
+  ],
+  "prevention": [
+    "Media controller element",
+    "Rashin Lafiya da ke kāre cin abinci",
+    "Media controller element",
+    "Ka Guji Yawan Matsaloli",
+    "Ka yi amfani da abin da ka ke da shi da kyau"
+  ],
+  "source": [
+    "Media controller element",
+    "Media controller element",
+    "@ item Text character set"
+  ]
 }

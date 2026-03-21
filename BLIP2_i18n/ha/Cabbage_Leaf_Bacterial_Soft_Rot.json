@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "KCharselect unicode block name",
+  "scientific_name": "@ item Text character set",
+  "pathogen_type": "KCharselect unicode block name",
+  "description": "Masu kiwon lafiya suna iya yin ciwo mai tsanani da ke sa ruwa ya yi ƙarfi.",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "Sunã mĩƙa wa jũnansu a cikinta hinjãlan giya, wadda bãbu yãsassar magana a cikinta, kuma bãbu jin nauyin zunubi.",
+    "Saboda haka, rana tana ƙara ƙarfi sosai",
+    "Masu zane - zane sun zama masu laushin hali, masu ba da kyauta, da kuma marasa amfani",
+    "Ka Guje wa Rashin Gaskiya ko Kuma Kada Ka Shawo Kan Abubuwan da ba Su da Amfani",
+    "Ana iya ganin ƙwayoyin cuta daga ƙwayoyin cuta",
+    "Media controller element",
+    "Barin abubuwa, ko kuma ka ajiye su za su iya lalacewa gabaki ɗaya a yanayi mai tsanani"
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "Muna da laushin hali a kan abubuwan da ba su dace ba",
+    "Sao'i Masu Ban Al'ajabi",
+    "Media controller element"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "hagu",
+    "QFontDatabase",
+    "QShortcut",
+    "Banner page"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "Indian National weekday 3 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QDialogButtonBox",
+    "KCharselect unicode block name",
+    "Media controller element",
+    "@ action",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "shuke-shuke da matsayi mai kyau"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "Mãsu son mazansu, a cikin tsãrã ɗaya.",
+    "Abãban ɗaukakãwa, abãban tsarkakẽwa.",
+    "Wurin mai gabatar da shiri",
+    "Media controller element",
+    "Bayarwa ta sa kayan aiki ko kuma kayan aiki su sa kayan aiki su yi sanyi",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "ƘasaOrientation",
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "Media controller element",
+    "Kamar dai sũ, jãkuna firgitattu ne.",
+    "Wuraren Mahaɗar Sadarwa",
+    "Jimre a lokacin kaka da Yin Wa'azi"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "Ka yi amfani da isashen abinci da cuta da ake amfani da shi a hanyar da ba ta dace ba",
+    "Sa shuke - shuke su guje wa abokantaka",
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Kunã sãmudaga gare shi, abin mãye da abinci mai kyau.",
+    "Ka Guji Abubuwan Raba Hankali",
+    "Ka Kasance da Ra'ayin da ya Dace",
+    "KCharselect unicode block name"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "example_products": [
-    "Greencop 500WP",
-    "Trinity Gold 452WP",
-    "Colonizer 440WP",
-    "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "@ action",
+    "Tsarin Allah - Uku - Cikin - Ɗaya",
+    "MGBOKO UMUORIA 4 (Igbo)",
+    "KCharselect unicode block name",
+    "@ item Text character set"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "Yi Tsayayya da Matsi na Tsarawa ko Kuma Yin Wa'azi",
+    "Ka yi amfani da irin shigar da iri da ake amfani da shi a hanyar da ba ta dace ba da marar kyau",
+    "Ka Guji Sa shuke - shuke a Lokacin Wahala",
+    "Kayan aiki na ci-gaban masarrafin kwamfyuta",
+    "KCharselect unicode block name",
+    "Ka sa wurare masu tsabta da marar zurfi su zama wurare masu tsabta"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "MGBOKO UMUORIA 1 (Igbo)",
+    "Ka Ci Gaba da Bin Ra'ayin da Ya Dace a Duk shekara ta 90",
+    "Ka guji saka kayan ado da suka lalace",
+    "Ka yi amfani da kayan ado kamar firam ko kuma takarda don ka hana shi samun nauyi"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "@ item Text character set",
+    "@ action",
+    "Ana Iya Yi wa Mutum Ja - gora"
   ]
 }

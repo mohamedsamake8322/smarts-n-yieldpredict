@@ -1,51 +1,56 @@
 {
-  "disease_name": "Tomato Fruit Blossom-End Rot",
-  "type": "physiological disorder",
-  "causal_agent": "Calcium deficiency combined with irregular water uptake",
+  "disease_name": "طُماططططْحْسُسْرْرْت",
+  "type": "اضطراب",
+  "causal_agent": "نقص الكلسيوم المقترن بامتصاص الماء غير المنتظم",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Pepper (Capsicum spp.)", "Eggplant (Solanum melongena L.)"]
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ],
+    "secondary": [
+      "(كابسيكوم سكوب.)",
+      "(Solanum Milonena L.)"
+    ]
   },
-  "distribution": "Worldwide; common in areas with fluctuating soil moisture or low calcium availability",
+  "distribution": "على الصعيد العالمي؛ وهو شائع في المناطق التي تتقلب فيها رطوبة التربة أو قلة توافرها",
   "symptoms": {
     "fruit": [
-      "Dark, sunken lesion at blossom end of fruit",
-      "Lesion may enlarge, become leathery, and lead to fruit rot",
-      "First visible on young developing fruits, often in clusters",
-      "Internal tissues may also be discolored if condition persists"
+      "مُظلمة، مُتَغَرَّرَةٌ مُعَلَّمَةٌ مِنْ فَوْقِ فَوْقِ فَوْقِ فَوْقِ فَوْقِ ٱلْفَاكَرَةِ",
+      "قد يُوسِّح ليُوسِّح ، يصير جلديا ، ويُؤدّي الى تعفن فاكهة",
+      "أولاً مرئياً لأول مرة على الفواكه النامية الشابة، وفي كثير من الأحيان في مجموعات",
+      "يمكن أيضاً أن تتغير الأنسجة الداخلية إذا استمرت الحالة"
     ],
     "leaves_and_stems": [
-      "No direct symptoms on leaves or stems; plants often appear healthy aboveground"
+      "لا توجد أعراض مباشرة على الأوراق أو الأُسَر؛ فالنباتات غالباً ما تبدو صحية فوق سطح الأرض"
     ]
   },
   "cause_and_risk_factors": [
-    "Insufficient calcium uptake by developing fruit",
-    "Irregular watering leading to fluctuating soil moisture",
-    "Excessive vegetative growth due to over-fertilization, creating imbalance between root capacity and fruit demand",
-    "High humidity reducing transpiration and calcium transport"
+    "عدم كفاية ما يستوعبه من زراعـة الفواكه",
+    "المياه غير المنتظمة التي تؤدي إلى رطوبة التربة المتقلبة",
+    "النمو المفرط في الغطاء النباتي بسبب الإفراط في الإخصاب، مما يؤدي إلى اختلال التوازن بين القدرة الجذرية والطلب على الفواكه",
+    "انخفاض درجة الرطوبة العالية في معدل النبض ونقل الكالسيوم"
   ],
   "management": {
     "cultural": [
-      "Maintain even soil moisture during fruiting via controlled watering or drip irrigation",
-      "Mulch to retain soil moisture and reduce fluctuations",
-      "Provide adequate spacing and prune to ensure good air circulation and reduce relative humidity",
-      "Avoid excessive nitrogen fertilization; side-dress only if needed to maintain moderate growth",
-      "Monitor plant vigor to ensure balance between root and shoot development"
+      "حتى المحافظة على رطوبة التربة أثناء الإبادة عن طريق المياه الخاضعة للرقابة أو الري بالتنقيط",
+      "الاحتفاظ برطوبة التربة والحد من التقلبات",
+      "توفير ما يكفي من المباعدة والمراوغة لضمان الدوران الهوائي الجيد والحد من الرطوبة النسبية",
+      "تجنب الإفراط في التلقيح النيتروجيني؛ عدم معالجة الجانب الجانبي إلا إذا دعت الحاجة إلى الحفاظ على النمو المعتدل",
+      "رصد فعالية النباتات لضمان تحقيق التوازن بين تنمية الجذور والرمي"
     ],
     "chemical": [
-      "Foliar application of calcium nitrate or calcium chloride (1.5 tsp per gallon water + 0.5 tsp surfactant, e.g., CapSil) weekly during fruiting",
-      "Apply sprays in the early morning to reduce risk of phytotoxicity",
-      "Avoid excessive calcium applications as it may reduce yields or cause foliage injury"
+      "تطبيق الفولير على نترات الكالسيوم أو كلوريد الكالسيوم (1,5 tsp في الماء الغالوني + 0.5 tsp toxctant، مثلاً CapSil) أسبوعياً أثناء الفاكهة",
+      "تطبيق الرش في الصباح الباكر للحد من مخاطر السمية",
+      "تجنب استخدامات الكالسيوم المفرطة لأنها قد تقلل من غلة الغلة أو تسبب إصابة في الشجر"
     ],
     "preventive_notes": [
-      "Focus on consistent cultural practices and calcium availability rather than relying solely on foliar sprays",
-      "Monitor soil calcium levels prior to planting and amend soils if needed"
+      "التركيز على الممارسات الثقافية المتسقة وعلى توافر الكالسيوم بدلاً من الاكتفاء بالاعتماد على الرش بالفوليط",
+      "رصد مستويات الكالسيوم في التربة قبل الزرع وتعديل التربة عند الحاجة"
     ]
   },
   "references": [
-    "Brubaker, V. 2016. Calcium: It does a plant good. Greenhouse Grower, January.",
-    "Macedo, F.G., José de Melo, W., et al. 2022. Nickel reduces blossom-end rot even under calcium deficiency conditions; evidence from physiological responses of the NI-CA interaction. J. Plant Nutrition 46(12):893-2904. DOI: 10.1080/01904167.2022.2160759.",
-    "Mazumder, M.N.N., Misran, A., Ding, P., Wahab, P.E.M., and Mohamad, A. 2021. Preharvest foliar spray of calcium chloride on growth, yield, quality, and shelf life extension of different lowland tomato varieties in Malaysia. Horticulturae 7(11):466. https://doi.org/10.3390/horticulturae7110466",
-    "Reitz, N.F., Shackel, K.A., and Mitcham, E.J. 2021. Differential effects of excess calcium applied to whole plants vs. excised fruit tissue on blossom-end rot in tomato. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.scienta.2021.110514"
+    "بروباكر، في 2016، الكالسيوم: إنه يعمل نباتاً جيداً، مُزارع غازات الدفيئة، كانون الثاني/يناير.",
+    "ماسيدو، و ف. ج.، وخوسيه دي ميلو، و.، وآخرون 2022. ويقلل النيكل من تعفن الزهرة حتى في ظل ظروف نقص الكالسيوم؛ وأدلة مستمدة من الردود الفسيولوجية للتفاعل بين المعهد الوطني للتغذية والتغذية.",
+    "مازومدر، م. ن.، ميسران، أ.، دنغ، ب.، وهاب، ب. إ. م.، ومحمد، أ. 2021. قبل الحصاد، رش أوليات كلوريد الكلسيوم على أساس النمو والحصيلة والنوعية وإطالة عمر الرفوف لمختلف أنواع الطماطم الواطئة في ماليزيا. Horticulturae 7(11): 466. https://doi.org/10.3390/hurticultrae7110466",
+    "ف.، شاكيكل، ك. أ.، وميتشام، إ. ج. 2021. وطبقت الآثار التفاضلية للكالسيوم الزائد على النباتات الكاملة مقابل أنسجة فاكهة مُخْتَصَبة على أنسجة الزهرة المتعفنة في الطماطم. Scientia Horticulturae 290:110514. https://doi.org/10.1016/j.senta.2021.110514"
   ]
 }

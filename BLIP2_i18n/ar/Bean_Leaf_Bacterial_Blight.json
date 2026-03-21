@@ -1,69 +1,69 @@
 {
-  "disease": "Bean bacterial blight",
-  "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
-  "pathogen_type": "Bacterium",
-  "description": "Bacterial blight is a common bacterial disease of beans that affects leaves, stems, and pods. The bacteria infect plants through natural openings or wounds and spread rapidly in warm and humid conditions. Severe infections reduce photosynthesis and yield.",
+  "disease": "بكتيريا بكاتيريا",
+  "scientific_name": "Xanthhomonas axxonoonopopdes pv.",
+  "pathogen_type": "بكثير",
+  "description": "البكتيريا تصيب النباتات من خلال فتحات طبيعية أو جروح وتنتشر بسرعة في ظروف دافئة ورطوبة، وتقلل الالتهابات الحادة من التركيبات الضوئية والحصيلة.",
   "symptoms": [
-    "Small water-soaked spots on leaves",
-    "Brown or dark lesions with yellow halos",
-    "Large irregular dead areas on leaves",
-    "Leaf tearing or drying",
-    "Water-soaked spots on pods",
-    "Pods becoming brown, shriveled, or deformed"
+    "بقع صغيرة متسربة من الماء على أوراق",
+    "أو معقّر أو معقّر",
+    "مناطق ميتة كبيرة غير عادية على أوراق الشوائب",
+    "التلقي أو التكسير أو التج",
+    "بُقع المياه المُزَوَّجَة على النُسَج",
+    "تصبح البودز بنية، أو مهزوة، أو مشوهة"
   ],
   "hosts": [
-    "common bean",
-    "kidney bean",
-    "pinto bean",
-    "black bean",
-    "navy bean",
-    "lima bean",
-    "snap bean",
-    "soybean",
-    "other Phaseolus species"
+    "نوع الجنس المشترك",
+    "(أ) المجموع الكلي",
+    "\"إلى أن يصبح\"",
+    "الـ أسود",
+    "(أ) أنش",
+    "لِمَا كَانَتْ",
+    "(أ) ما يُنبّح",
+    "(و) من خلالي",
+    "أنواع أخرى"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Overhead irrigation",
-    "Dense crop canopy"
+    "درجات حرارة الحرارة (25- 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "هطول هطول الأمطار",
+    "",
+    "معلّل محصول معلّل"
   ],
   "spread": [
-    "Infected seeds",
-    "Rain splash",
-    "Wind-driven rain",
-    "Contaminated tools",
-    "Contact between wet plants"
+    "البذور المصح",
+    "(ب) المطر",
+    ")أطــر",
+    "دال - الأدوات المُلَفَّاة",
+    "الاتصال بين المصانع المبتلة"
   ],
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plant residues",
-    "Avoid overhead irrigation",
-    "Rotate crops for 2–3 years",
-    "Improve field ventilation"
+    "استخدام بذور خالية من الأمراض المعتمدة",
+    "(أ) التخلص من مخلفات النباتات",
+    "",
+    "المحاصيل المتناوبة لـ 2 - 3 سنوات",
+    "تحسين التهوية الميدانية"
   ],
   "biological_control": [
-    "Bacillus subtilis based biopesticides",
-    "Pseudomonas fluorescens biological treatments",
-    "Plant resistance in tolerant bean varieties"
+    "Bacsellus Subtilis",
+    "العلاجات البيولوجية PSEUDomonas",
+    "المقاومة النباتية في أنواع الفول المتسامحة"
   ],
   "chemical_control": [
-    "Copper hydroxide",
-    "Copper oxychloride",
-    "Copper sulfate",
-    "Copper-based bactericides"
+    "Hurxid",
+    "(أ) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "(أ) (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+    "مبيدات آفات البكتيريا القائمة على أساس أساس أساس أساس"
   ],
   "prevention": [
-    "Plant resistant varieties when available",
-    "Use clean seeds",
-    "Avoid working in wet fields",
-    "Disinfect tools",
-    "Maintain good field sanitation"
+    "النباتات القابلة للاستهلاك في حال توافرها",
+    "",
+    "تجنب العمل في الحقول الرطبة",
+    "أدوات المطهرات",
+    "(أ) الصرف الصحي الصحي الميداني الجيد"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO plant disease management guides",
-    "University plant pathology extension publications"
+    "مجموعة حماية المُنتَجَب",
+    "أدلة منظمة الأغذية والزراعة لإدارة أمراض النبات",
+    "مطبوعات ارشادية لمجاريم"
   ]
 }

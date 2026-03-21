@@ -1,40 +1,42 @@
 {
-  "pest_name": "Target Spot Leaf",
-  "causal_agent": "Corynespora cassiicola",
-  "type": "fungus",
-  "distribution": "Worldwide",
-  "host_plants": ["Cucurbits, especially cucumber"],
+  "pest_name": "KCharselect unicode block name",
+  "causal_agent": "KCharselect unicode block name",
+  "type": "MASU SHELA",
+  "distribution": "A dukan duniya",
+  "host_plants": [
+    "KCharselect unicode block name"
+  ],
   "symptoms": {
-    "leaf": "Angular, yellow spots on older leaves. Spots enlarge and become circular with light brown centers and dark brown borders. In advanced stages, gray centers drop out causing shot-hole or shredded appearance. Under greenhouse conditions, spots may have light centers, rings of olive green tissue, and yellow borders. Severe infection can lead to defoliation.",
-    "stem_petiole": "Elongated spots, helps differentiate from anthracnose, downy mildew, or angular leaf spot.",
-    "fruit": "Darkened, shriveled fruit if infection occurs early at blossom end.",
-    "roots_flowers": "Infections possible but less common."
+    "leaf": "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne.",
+    "stem_petiole": "Ƙari ga haka, za mu iya koyan yadda ake amfani da wannan kalmar don a yi amfani da ita a hanyar da ba ta dace ba.",
+    "fruit": "' Ya'yan itace suna samun ' ya'yan itace idan ' ya'yan itacen ya fito da wuri a ƙarshe.",
+    "roots_flowers": "Ko da yake ba za mu iya yin hakan ba, amma ba za mu iya yin hakan ba."
   },
   "conditions_favoring_disease": {
-    "temperature": "Warm 25–35°C (77–95°F) promotes development; infection can occur at 21–26°C (70–80°F)",
-    "humidity": "High humidity favors infection",
-    "light": "Long days promote disease development",
-    "other_factors": "Fluctuating daily temperatures and presence of infected plant residues or weeds"
+    "temperature": "MGBOKO UMUORIA 9 (Turanci)",
+    "humidity": "Nuna Godiya Mai Girma",
+    "light": "' Yan kwanaki suna jawo cuta",
+    "other_factors": "Cin hanci kowace rana da kuma shigan da aka shuka a cikin mahaifa ko kuma zawa a yi sata"
   },
   "pathogen_lifecycle": {
-    "survival": "On infected plant residues for at least two years, or on weed hosts",
-    "dispersal": "Airborne spores",
-    "infection": "Leaves, stems, petioles, roots, flowers, and fruits under favorable conditions"
+    "survival": "Sa'ad da muke shuka kaya mai yawa na kusan shekara biyu, ko kuma a kan sojoji da yawa",
+    "dispersal": "KCharselect unicode block name",
+    "infection": "Ku bar, ku bar, ku fari, ku girgizar ƙasa, furanni, furanni, da kuma ' ya'yan itace a cikin yanayi mai kyau"
   },
   "management": {
     "cultural": [
-      "Use resistant varieties when available",
-      "Implement good sanitation in fields and greenhouses",
-      "Remove and destroy infected plant debris",
-      "Control weed hosts near crops"
+      "Yi amfani da mazabababa yayin da ake samu",
+      "Mãsu gudu suna ɓũya.",
+      "Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).",
+      "Mun yi ƙoƙari sosai don mu taimaka wa mutane da yawa su soma bauta wa Jehobah."
     ],
     "chemical": [
-      "Preventive fungicide sprays according to label instructions"
+      "QXml"
     ],
-    "integrated": "Combine resistant varieties, sanitation, and fungicide programs to reduce disease incidence"
+    "integrated": "' Yan hamayya suna yin tsayayya da saurin fushi, ba'a, da kuma yin baƙar fata don su rage ciwo a kan gaba"
   },
   "references": [
-    "Cucurbit crop disease guides and extension publications",
-    "Global distribution reports of Corynespora cassiicola"
+    "Cin cuta mai yawa yana ja - gora da kuma littattafai masu yawa",
+    "@ item Text character set"
   ]
 }

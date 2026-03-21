@@ -1,0 +1,43 @@
+{
+  "disease": "Manga suelta de trigo y cebada",
+  "scientific_name": "Ustilago tritici (Pers.) Rostr.",
+  "pathogen_type": "Patógeno fúngico",
+  "description": "Es una enfermedad fúngica sistémica que afecta al trigo y la cebada. El hongo infecta los granos en desarrollo y los reemplaza con masas de esporas negras, que se dispersan por el viento durante la floración, lo que lleva a pérdidas de rendimiento significativas.",
+  "symptoms": [
+    "Esporas en polvo negras reemplazadas por esporas en polvo",
+    "Las cabezas afectadas emergen antes que las sanas",
+    "No hay síntomas vegetativos en hojas o tallos",
+    "Pérdida de rendimiento proporcional a la tasa de infección"
+  ],
+  "hosts": [
+    "Trigo (Triticum aestivum)",
+    "Cebada (Hordeum vulgare)"
+  ],
+  "favorable_conditions": [
+    "Condiciones frías y húmedas durante la floración",
+    "Plantación de semillas infectadas"
+  ],
+  "spread": [
+    "Dispersión del viento de esporas sobre flores sanas",
+    "Transmisión transmitida por semillas a partir de granos infectados"
+  ],
+  "management": [
+    "Utilizar semillas certificadas y sin enfermedades",
+    "Tratamiento de semillas con fungicidas sistémicos",
+    "Evitar el ahorro de semillas de cultivos infectados",
+    "Rotación de cultivos con especies no anfitrionas"
+  ],
+  "chemical_control": [
+    "Tratamiento de semillas con carboxina, triadimenol o fungicidas tiram"
+  ],
+  "prevention": [
+    "Planta únicamente semillas limpias certificadas",
+    "Implementar rotación de cultivos",
+    "Desinfectar el equipo de almacenamiento y plantación"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Guías fitosanitarias de la FAO",
+    "Literatura científica sobre Ustilago tritici"
+  ]
+}

@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
+  "disease": "Bakteriyel yapraklar tahıllar",
   "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "pathogen_type": "Bakteriler",
   "pathovars": [
     "Xanthomonas translucens pv. undulosa",
     "Xanthomonas translucens pv. translucens",
     "Xanthomonas translucens pv. cerealis"
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "Bakteriyel yaprak sızıntısı, tahıl ve tahıl gibi tahıl bitkilerinin önemli bir hastalığıdır. bakterinin Xanthomonas translucensinden kaynaklanır. hastalık, daha sonra kahverengi ve kuru olan yapraklarda uzun translucent sızıntılar üretir. şiddetli enfeksiyonlar tahıl üretimini önemli ölçüde azaltabilir.",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "Uzun su aralığı yapraklar üzerinde",
+    "Işık yeşil veya sarı damarlar arasında çizgiler",
+    "Kırışıklıklar kahverengi ve uzatılır",
+    "Streaks, yaprak damarlarına paralel olarak çalışır",
+    "Yapraklar kuru olabilir ve şiddetli enfeksiyonlarda ölebilir",
+    "Yumuşak sarı bakteriyel eksudat yaralanmalarda ortaya çıkabilir",
+    "Yapraklar sokaklar boyunca parçalanmış görünebilir"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "Uzun sarı veya hafif kahverengi çubuklar tahıl yaprakları üzerinde",
+    "Paralel çizgiler yaprak damarlarının ardından",
+    "Sarı yapraklı damlalar yaprak yüzeyinde"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "Sayfalar",
+    "Çiçek Blade",
+    "Bazen kulak başı"
   ],
-
   "hosts": [
-    "wheat",
+    "Tohum",
     "barley",
     "rye",
     "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "Peynir",
+    "Sürpriz",
+    "vahşi bitkiler",
+    ""
   ],
-
-  "plant_family": "Poaceae",
-
+  "plant_family": "Çiçekler",
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
-    "Zea mays"
+    "Triticum aestivum (kırmızı biber)",
+    "Hordeum vulgare (Kırışıklık)",
+    "Avena sativa (kırışıklık)",
+    "Çiğ Çiğ Çiğ (Rye)",
+    "Sorghum Bisiklet",
+    "Zeynep Mays"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "Sıcaklıklar",
+    "Yüksek nem",
+    "sık yağışlar",
+    "Sprinkler İrigasyon",
+    "ıslak büyüme mevsimleri"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "Enfekte tohumlar",
+    "yağmur splash",
+    "rüzgârlı yağmur",
+    "kirlenmiş bitki kalıntıları",
+    "Enfekte çimler ve tahıllar"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "Bakteriler enfekte tohumlarda hayatta kalır",
+    "Bakteriler mide veya yaralar aracılığıyla bitkiye girer",
+    "Enfeksiyon damarları boyunca yapraklarda yayılır",
+    "Bakteriler çoğalır ve eksudat üretir",
+    "Yağmur Bakterileri Yakın Bitkilere Yayıyor"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "Sertifikalı hastalık dışı tohumlar kullanın",
+    "Sıkı Tohum Sağlığı Testleri",
+    "Enfekte tohumlar yetiştirmekten kaçının",
+    "Mevcut olduğunda dayanıklı veya hoşgörülü ürünler kullanın.",
+    "Erken semptomlar için düzenli olarak kontrol alanları",
+    "Karantin kurallarına uymak için tohum hareketleri"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "Bakteriyel Antagonistler Araştırma"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "Bu alanda çok etkili kimyasal kontrol yok"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "Sıcak su tedavisi (yaklaşık 53°C 10 dakika)",
+    "Sıcaklık tedavisi",
+    "Tohum enfeksiyonu azaltmak için asitlenmiş bakır tedavileri"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "Ağır durumlarda %40'a kadar kayıp",
+    "Düşük tahıl ağırlığı",
+    "Spike başına tahıl sayısı azaldı"
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "Alan belirtileri gözlem",
+    "Bakteriyel izolasyon kültür medyasında",
+    "DNA tabanlı moleküler algılama (PCR veya sequencing)"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
-    "Sapkota et al. 2020"
+    "CABI Bitki Koruma Ödülü",
+    "Bitki Hastalıkları Dergisi Yorumları",
+    "EPPO Karantina Raporları",
+    "Çanakkale et al. 2020"
   ]
 }

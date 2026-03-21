@@ -1,0 +1,54 @@
+{
+  "disease": "Ọrịa Ụmụ Ahụhụ Na - ekesa",
+  "scientific_name": "Mkpụrụ osisi ndị a na-amaghị́ọ̀kụ̀-assovovox (RRRAV)",
+  "pathogen_type": "AGBOR 1 (Bekee)",
+  "description": "Ọrịa a na - ebute site ná mkpụrụ vaịn, bụ́ nke na - eme ka mkpụrụ osisi vaịn na - amị mkpụrụ ma na - amị mkpụrụ, na - eme ka a ghara ịmị mkpụrụ nke ọma, na - emekwa ka mkpụrụ vaịn ghara mkpụrụ nke ọma.",
+  "symptoms": [
+    "Akwụkwọ mpịakọta na - esi n'ọnụ ọnụ ya apụta",
+    "Akwụkwọ ndị na - acha uhie uhie ma ọ bụ ndị na - acha odo odo dị n'ụdị dị iche iche",
+    "A na - eji ụdị dị iche iche nke akwụkwọ osisi eme ihe n'ụdị dị iche iche na - acha ọcha",
+    "A ka na - ahụ ihe ndị dị n'ime mkpụrụ akụ́kụ́ ndị ahụ",
+    "Mkpụrụ osisi a mịrị amị nke na - amị mkpụrụ mgbe ọ na - acha",
+    "Ọ na - eme ka shuga dị n'ime mkpụrụ vaịn belata"
+  ],
+  "hosts": [
+    "Mkpụrụ ndụ ndị a na - akpọ Grapea (VVVA)",
+    "Mkpụrụ vaịn",
+    "Mmanya vaịn",
+    "Ụkwara oké ọhịa ndị dị n'ọhịa"
+  ],
+  "favorable_conditions": [
+    "Ụmụ ahụhụ na - ata ma na - eri nri n'ọ̀tụ̀tụ̀ dị ukwuu",
+    "Jiri ihe ndị e ji akụ osisi mee ihe"
+  ],
+  "spread": [
+    "Nri Ndị A Na - eri n'Oge Nri",
+    "N'ihi ya, ọ bụ ụmụ ahụhụ na - enweghị atụ",
+    "Ahụ́ ọkụ na ọrịa ndị na - efe efe"
+  ],
+  "management": [
+    "Wepụ osisi vaịn ndị nwere nje ndị ahụ",
+    "Ekwela ka ihe oriri na ụmụ ahụhụ na - eri na - eri nri n'ọ̀tụ̀tụ̀ ha nhata",
+    "Jiri nje virus ndị a na-amaghị́ọ̀kụ̀ pịaa ya",
+    "Osisi vaịn ndị na - egbuke egbuke na - ejupụta n'osisi vaịn ndị na - egbuke egbuke mgbe nile"
+  ],
+  "biological_control": [
+    "Na - agba ndị iro nke ihe oriri ndị e bu pụta ụwa ume dị ka ndị inyom na - eri nri",
+    "Iji ọgwụ ndị e ji alụso nje HIV ọgụ na - eme ihe iji chịkwaa nje ndị na - akpata ọrịa ọgụ"
+  ],
+  "chemical_control": [
+    "Ndị na - emepụta ihe ndị e ji esi nri na - ejide ihe ndị e ji esi nri (eee)., ihe ndị e ji esi nri, ihe ndị e ji esi nri bụ́ ndị na - esi ísì ụtọ, ihe ndị e ji esiji ákwà)",
+    "Mmanụ e ji esi nri iji belata ọnụ ọgụgụ ndị na - arịa ọrịa shuga"
+  ],
+  "prevention": [
+    "Mkpụrụ ndụ ihe nketa na-enweghị isi",
+    "Na - achịkwa ụmụ ahụhụ ndị na - amalite n'oge",
+    "Wepụ osisi vaịn ndị bu ọrịa ahụ ngwa ngwa",
+    "Ngwá ọrụ ndị e ji echekwa ihe bụ́ ndị e ji eme ihe n'usoro"
+  ],
+  "source": [
+    "Ihe Ga - enyere Gị Aka Ka Ị Ghara Ịda Mbà n'Obi",
+    "Ụlọ Ọrụ Na - ahụ Maka Ihe Ndị Na - eme n'Ụwa",
+    "Kansụl Mba Nile Maka Ọrụ Aka Ike (OIV)"
+  ]
+}

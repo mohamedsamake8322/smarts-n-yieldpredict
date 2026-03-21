@@ -1,0 +1,74 @@
+{
+  "disease_name": "Kruzifer_Xanthomonas_campestris_pv_campestris_Black_rot",
+  "common_name": "Schwarze Fäule von Kruzifer",
+  "scientific_name": "Xanthomonas campestris pv. campestris",
+  "pathogen_type": "Bakterium",
+  "description": "Schwarzfäule ist eine schwere bakterielle Krankheit, die Kreuzfrüchte betrifft. Sie wird durch das Bakterium Xanthomonas campestris pv. campestris verursacht und breitet sich hauptsächlich durch infizierte Samen, Pflanzenreste, Wasserspritzer und kontaminierte Werkzeuge aus. Der Erreger tritt durch Hydathoden an den Blatträndern oder durch Wunden in Pflanzen ein und breitet sich dann durch das Gefäßsystem aus, was charakteristische geschwärzte Venen und Blattnekrose verursacht.",
+  "hosts": [
+    "Kohl",
+    "Brokkoli",
+    "Blumenkohl",
+    "Rosenkohl",
+    "Kale",
+    "Radisch",
+    "Rüben",
+    "Senf",
+    "Sonstige Baumkulturen (Familie Brassicaceae)"
+  ],
+  "symptoms": [
+    "Gelbe V-förmige Läsionen ausgehend von Blatträndern",
+    "Läsionen, die in Richtung der Mitte des Blattes voranschreiten",
+    "Schwärzen der Blattvenen",
+    "Blattwelken und Nekrose",
+    "Stuntes Pflanzenwachstum",
+    "Schwere Infektionen können zum Pflanzentod führen"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen (25–30°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle oder Überlandbewässerung",
+    "Vorhandensein infizierter Samen",
+    "Mechanische Verletzungen an Pflanzen"
+  ],
+  "management": {
+    "monitoring": [
+      "Regelmäßige Feldsuche für V-förmige Läsionen auf Blättern",
+      "Inspektion von Sämlingen und Jungpflanzen",
+      "Überwachung von Feldern nach Regenperioden oder hoher Luftfeuchtigkeit"
+    ],
+    "cultural_control": [
+      "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+      "Praxis Fruchtfolge für mindestens 3–4 Jahre",
+      "Entfernen und zerstören infizierte Pflanzenrückstände",
+      "Vermeiden Sie Overhead-Bewässerung, um Blattfeuchte zu reduzieren",
+      "Desinfizieren landwirtschaftliche Werkzeuge und Geräte",
+      "Pflanzenresistente oder tolerante Sorten, wenn verfügbar"
+    ],
+    "biological_control": {
+      "microorganisms": [
+        "Bacillus subtilis",
+        "Bacillus amyloliquefaciens",
+        "Pseudomonas fluorescens"
+      ]
+    },
+    "chemical_control": {
+      "note": "Die chemische Kontrolle von bakteriellen Erkrankungen ist begrenzt. Kupferbasierte Bakterizide werden häufig als Präventivbehandlungen eingesetzt.",
+      "active_ingredients": [
+        "Kupferhydroxid",
+        "Kupferoxychlorid",
+        "Kupfersulfat"
+      ]
+    }
+  },
+  "economic_importance": "Schwarzfäule kann weltweit zu erheblichen Ertragsverlusten in Kreuzblütlern führen. Schwere Infektionen können ganze Felder zerstören, insbesondere in warmen und feuchten Klimazonen, in denen sich die Krankheit schnell ausbreitet.",
+  "references": [
+    "Agrios, G. N. Pflanzenpathologie.",
+    "CABI Crop Protection Compendium.",
+    "Integrierte Ressourcen der FAO für Schädlingsbekämpfung.",
+    "Wikipedia – Schwarzfäule von Kreuzbissen."
+  ],
+  "source_urls": [
+    "Die Veröffentlichungen der Europäischen Union werden in der folgenden Ausgabe veröffentlicht: http://en.wikipedia.org/wiki/Xanthomonas_campestris",
+    "Die Veröffentlichungen der Europäischen Union werden im Amtsblatt der Europäischen Union veröffentlicht (http://www.cabi.org)."
+  ]
+}

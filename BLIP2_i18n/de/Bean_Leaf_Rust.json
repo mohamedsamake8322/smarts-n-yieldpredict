@@ -1,0 +1,69 @@
+{
+  "disease": "Bohnenrost",
+  "scientific_name": "Uromyces appendiculatus",
+  "pathogen_type": "Pilze",
+  "description": "Bohnenrost ist eine Pilzkrankheit, die Bohnenblätter, Stiele und manchmal Hülsen betrifft. Es produziert rostfarbene Pusteln auf Blattoberflächen, die Photosynthese reduzieren und frühe Blatttropfen und Ertragsverlust verursachen können.",
+  "symptoms": [
+    "Kleine weiße oder blassgelbe Flecken auf Blättern",
+    "Orange, braun oder rostfarbene Pusteln auf Blattunterseite",
+    "Pulverförmige Sporen aus Pusteln",
+    "Gelbfärbung um Läsionen",
+    "Stark infizierte Blätter trocken und früh fallen",
+    "Gelegentliche Pusteln an Stängeln und Hülsen"
+  ],
+  "hosts": [
+    "häufige Bohne",
+    "Niere",
+    "pinto bohne",
+    "schwarze Bohne",
+    "Schnabelbohne",
+    "Limabohne",
+    "Sojabohnen",
+    "Kuherbsen",
+    "andere Phaseolus-Arten"
+  ],
+  "favorable_conditions": [
+    "Mäßige Temperaturen (18–25°C)",
+    "Hohe Luftfeuchtigkeit",
+    "Häufige Regenfälle",
+    "Blattfeuchte für mehrere Stunden",
+    "Dichtes Pflanzendach"
+  ],
+  "spread": [
+    "Pilzsporen auf Windbasis",
+    "Regenspritzer",
+    "Infizierte Pflanzenabfälle",
+    "Sporen, die weite Strecken zurücklegen"
+  ],
+  "management": [
+    "Pflanzenresistente Bohnensorten",
+    "Rotieren von Kulturen mit Nichtwirtspflanzen",
+    "Entfernen infizierter pflanzlicher Rückstände",
+    "Verbesserung des Anlagenabstands für den Luftstrom",
+    "Überwachen Sie die Felder früh während der Wachstumsperiode"
+  ],
+  "biological_control": [
+    "Trichoderma-Arten, die als biologische Fungizide verwendet werden",
+    "Bacillus subtilis-basierte Biofungizide"
+  ],
+  "chemical_control": [
+    "Mancozeb",
+    "Chlorothalonil",
+    "Tebuconazol",
+    "Propiconazol",
+    "Azoxystrobin",
+    "Myclobutanil"
+  ],
+  "prevention": [
+    "Verwendung von zertifiziertem, seuchenfreiem Saatgut",
+    "Vermeiden Sie dichte Pflanzung",
+    "Entfernen infizierte Pflanzenabfälle nach der Ernte",
+    "Verwendung resistenter Sorten",
+    "Überwachung der Ernten bei feuchtem Wetter"
+  ],
+  "source": [
+    "CABI-Kompendium zum Pflanzenschutz",
+    "Leitfaden für das Management von Pflanzenkrankheiten der FAO",
+    "Universität Pflanzenpathologie Erweiterung Publikationen"
+  ]
+}

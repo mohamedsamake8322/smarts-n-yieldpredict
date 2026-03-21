@@ -1,0 +1,54 @@
+{
+  "disease": "Fall-Armeewurm Larva",
+  "scientific_name": "Spodoptera frugiperda",
+  "pathogen_type": "Insekt (Larvalstadium)",
+  "description": "Die Larve (Katerpillar) ist das schädigende Stadium des Fallarmeewurms. Sie ernährt sich aggressiv von Pflanzenblättern und kann Pflanzen schnell zerstören.",
+  "symptoms": [
+    "Raupen, die in der Maiskröte füttern",
+    "Großer Kauschaden an den Blättern",
+    "Vorhandensein von dunklen Frass in der Nähe von Futterstellen",
+    "Blätter zerkleinert oder skelettiert"
+  ],
+  "hosts": [
+    "Mais",
+    "Reis",
+    "Sorghum",
+    "Hirse",
+    "Zuckerrohr",
+    "Gemüse"
+  ],
+  "favorable_conditions": [
+    "Warme feuchte Klimazonen",
+    "Pflanzliche Felder destillieren",
+    "Abundante Wirtspflanzen"
+  ],
+  "spread": [
+    "Eiermassen schlüpfen auf Pflanzenblättern in Larven",
+    "Larven kriechen zu nahe gelegenen Pflanzen",
+    "Verbreitung von befallenen Feldern"
+  ],
+  "management": [
+    "Pfadfinderfelder regelmäßig für Larven",
+    "Crush Eiermassen und junge Larven",
+    "biologische oder chemische Kontrolle frühzeitig anwenden"
+  ],
+  "biological_control": [
+    "Bacillus thuringiensis (Bt)",
+    "Beauveria bassiana",
+    "Trichogramma parasitoide"
+  ],
+  "chemical_control": [
+    "Emamectinbenzoat",
+    "Spinosad",
+    "Chlorantraniliprol"
+  ],
+  "prevention": [
+    "Früherkennung bei Maiskröten",
+    "Verwendung resistenter Pflanzensorten",
+    "Fruchtfolge"
+  ],
+  "source": [
+    "FAO",
+    "CABI"
+  ]
+}

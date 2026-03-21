@@ -1,56 +1,60 @@
 {
-  "disease_name": "Tomato Leaf Septoria",
-  "type": "fungal disease",
-  "causal_agent": "Septoria lycopersici",
+  "disease_name": "طُمط طُلَيْقِسْتُوريا",
+  "type": "",
+  "causal_agent": "پيوريا / / / / /  /   /",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"],
-    "secondary": ["Solanaceous weeds (e.g., horsenettle)"],
+    "primary": [
+      "طماططس (اللّم) (سولانيوم اللّم)"
+    ],
+    "secondary": [
+      "عشاقيات ذات عسر عشاق (مثل، الجوزانيات)"
+    ],
     "other_hosts": []
   },
-  "distribution": "Worldwide",
+  "distribution": "المنظمة الدولية للمنقول (LALLLLLLS",
   "symptoms": {
     "foliage": [
-      "Circular spots with dark brown margins and tan to gray centers",
-      "Centers dotted with black pycnidia",
-      "Narrow yellow halo often surrounds leaf lesions",
-      "Severe infections cause leaf yellowing, browning, wilting, and defoliation"
+      "نقاط دائرية ذات هوامش بنية داكة وسام إلى مراكز رمادية",
+      "مراكز مُقَرَّبَةَ مع أسود Pycnidia",
+      "غالباً ما تُحيط ببقع",
+      "وتتسبب حالات الإصابة الخطيرة في أُسس التصفير، والتبن، والذبل، والانحلال"
     ],
     "fruit": [
-      "Fruit infection is rare"
+      "ونادراً ما تكون هناك"
     ]
   },
   "disease_cycle": [
-    "The fungus overwinters on infected tomato debris or debris of solanaceous weeds",
-    "It can also survive on equipment like plant stakes and cages",
-    "Conidia are spread by splashing water from rain or sprinkler irrigation",
-    "High relative humidity, high temperatures, and prolonged leaf wetness favor disease development"
+    "الفطريات التي تعلو على الموالح على الطماطم المصابة أو على حطام أو أنقاض من أعشابها",
+    "ويمكنها أيضاً البقاء على قيد الحياة على معدات مثل أحجار النبتات والقفص",
+    "وينتشر الكونيديا عن طريق رش المياه من المطر أو من الري بالرش",
+    "الرطوبة النسبية العالية، وارتفاع درجات الحرارة، وطول طول طول الشجر"
   ],
   "management": {
     "cultural": [
-      "Rotate crops for at least 1–2 years to non-solanaceous crops",
-      "Control susceptible weeds such as horsenettle",
-      "Remove and destroy crop debris (burn or bury infested plants where allowed)",
-      "Staking or trellising plants to improve air circulation and reduce foliage-soil contact",
-      "Increase spacing between plants and avoid overmulching to reduce humidity",
-      "Monitor irrigation to prevent prolonged leaf wetness",
-      "Use resistant tomato varieties where available"
+      "تدوير المحاصيل لما لا يقل عن سنة إلى سنتين لمحاصيل غير سولانية",
+      "المواد الضارة القابلة للتضرر مثل الخيل",
+      "إزالة وتدمير حطام المحاصيل (حرق أو دفن النباتات الموبوءة حيثما يسمح بذلك)",
+      ":: إقامة أو تقطيع أو إغراء نباتات لتحسين الدوران الهوائي والحد من التلامس بين الشجر والتربة",
+      "زيادة المباعدة بين النباتات وتجنب الإفراط في الإفراط في التباعد للحد من الرطوبة",
+      ":: الري للحيلولة دون إطالة طول فترة رطوبة أوراق الورق",
+      "استخدام أصناف الطماطم المقاومة حيثما كانت متاحة"
     ],
     "chemical": [
-      "Apply registered protective fungicide sprays at regular intervals",
-      "Fungicides with active ingredients such as chlorothalonil or ethylene bisdithiocarbamate (EBDC) are effective",
-      "Common trade names include Daconil, Mancozeb, Fungonil",
-      "Reapply frequently (typically every 7 days) as per label instructions",
-      "Preventive applications of copper-based or chlorothalonil fungicides may be warranted in areas with chronic infection"
+      "تطبيق مبيدات مبيدات الفطريات الوقائية المسجلة على فترات منتظمة",
+      "مبيدات فطرية ذات مكونات نشطة مثل كلورو اللهونيل أو الإيثيلين (EEBDC)",
+      "تشمل الأسماء التجارية المشتركة: Daconil, Mancozeb, Fongonil",
+      "يجري تطبيقه (عادة كل 7 أيام في العادة) حسب تعليمات الوسم",
+      "قد يكون هناك ما يبرر التطبيقات الوقائية لمبيدات الفطريات القائمة على أساس النحاس أو مبيدات الفطريات القائمة على الكلوروثالونيل في المناطق التي توجد فيها عدوى مزمنة."
     ]
   },
   "notes": [
-    "Preventive measures are more effective than attempting to cure infected plants",
-    "Conidia survive on both plant debris and equipment, so sanitation is critical",
-    "Excessive wetting or high humidity exacerbates disease spread"
+    "التدابير الوقائية أكثر فعالية من محاولة علاج النباتات المصابة",
+    "البقاء على قيد الحياة على كل من حطام النبات والمعدات، لذلك فإن الصرف الصحي أمر بالغ الأهمية",
+    ":: انتشار الأمراض"
   ],
   "references": [
-    "University of Wisconsin Plant Disease Diagnostics Clinic (PDDC). Septoria leaf spot factsheet.",
-    "Brannen, P. & Sugar, D. 2020. Tomato Leaf Spot Management in Home Gardens. University of Georgia Extension.",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "عيادة تشخيص أمراض النباتات التابعة لجامعة ويسكونسن (PDDC) - صحيفة وقائع بقع لأوراق الاشتعال.",
+    "براننن، P. & Sugar, D. 2020, Tomato Leaf Spot Management في حدائق المنزل، جامعة جورجيا الموسعة.",
+    "J.B., et al. 2014 خلاصة وافية عن أمراض الطماطم والآفات، الطبعة الثانية، مطبعة APS."
   ]
 }

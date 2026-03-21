@@ -1,104 +1,88 @@
 {
-  "disease": "Cherry Leaf Spot",
-  "scientific_name": "Blumeriella jaapii",
-  "pathogen_type": "Fungus",
-
-  "description": "Cherry leaf spot is a fungal disease affecting cherry trees, especially in humid or rainy regions. It causes small purple or brown spots on leaves that enlarge over time. Severe infections lead to yellowing and premature leaf drop, reducing fruit quality and yield.",
-
+  "disease": "樱桃叶点",
+  "scientific_name": "布卢梅里拉 jaapii",
+  "pathogen_type": "蘑菇",
+  "description": "樱桃叶是影响樱桃树的真菌病,特别是在潮湿或雨季,它造成叶子上的紫色或棕色小斑点,随着时间推移而扩大,严重感染导致黄叶和早产叶下降,水果质量和产量下降。",
   "symptoms": [
-    "small purple, brown or tan spots on leaves",
-    "irregular or circular lesions across leaf surface",
-    "center of spots may dry and fall out creating holes",
-    "leaves turn yellow and drop prematurely",
-    "cream-colored fungal spore masses on underside of leaves",
-    "fruit may develop spots and become soft",
-    "infected fruit stems may cause fruit drop"
+    "叶叶上小紫、棕或棕色斑点",
+    "横跨叶表面的不定期或循环损害",
+    "点点中心可能干燥, 并掉出产生洞",
+    "叶子变成黄色,过早掉落",
+    "树叶下层的奶油色真藻花团",
+    "果实可能发展出斑点,变得软软",
+    "受感染的果根可能会导致水果落落"
   ],
-
   "visual_signature": [
-    "numerous small purple or brown spots on cherry leaves",
-    "yellowing leaves with scattered lesions",
-    "holes in leaves after tissue falls out",
-    "cream-colored spore clusters on leaf underside"
+    "樱桃叶上无数紫色或棕色小斑点",
+    "黄黄的树叶,有分散的损伤,",
+    "组织脱落后叶子上的空洞",
+    "下边叶子上的奶油彩色树枝团"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "fruit stems",
-    "fruit (occasionally)"
+    "叶叶叶",
+    "果果,果果,果果,果果果,果果,果果,果果,果果,果果,果果果,果果,果果果,果果,果果果,果果果,果果果,果果果,果果果,果果果,果果果果,果果果,果果果果,果果果,果果果果,果果果果,果果果果果,果果果果果果,果果果果果果果果果,果果果果果果果果果,果果果果,果果果果果果,果果果果果果,果果果果,果果果果果果果,果果果果果果果,果果果果果果果果,果果果果果果果果果果果,果果果果果果果果果果,果果果果果果果果果果果果果果,果果果果果果果果果果果果果,果果果果果果果果果果果果果果果果果果,果果果果果果果果果果果果果果果果果果果果果果果果果,果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果,果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果,果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果",
+    "水果(偶尔)"
   ],
-
   "hosts": [
-    "sweet cherry",
-    "sour cherry"
+    "甜樱桃甜樱桃",
+    "酸酸樱樱桃"
   ],
-
-  "plant_family": "Rosaceae",
-
+  "plant_family": "罗塞亚",
   "important_hosts": [
-    "Prunus avium",
-    "Prunus cerasus"
+    "普鲁努斯 Avium",
+    "普鲁纳塞拉索斯"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "wet leaves",
-    "frequent rainfall",
-    "cool to moderate temperatures"
+    "高湿湿度",
+    "湿叶",
+    "频繁降雨",
+    "冷到中温"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "infected fallen leaves"
+    "风分散的螺纹",
+    "雨水喷雨",
+    "受感染的落叶"
   ],
-
   "disease_cycle": [
-    "fungus overwinters on fallen infected leaves",
-    "spores produced during wet weather",
-    "wind or rain spreads spores to new leaves",
-    "infection occurs whenever leaves remain wet",
-    "disease spreads repeatedly during the growing season"
+    "被感染的叶子上掉的真菌",
+    "湿天气期间产生的颗粒",
+    "暴风或雨水使微粒散布到新的叶子上。",
+    "当叶子湿润时即发生感染",
+    "生长季节的疾病反复蔓延"
   ],
-
   "damage": [
-    "premature leaf drop",
-    "reduced photosynthesis",
-    "poor fruit quality",
-    "soft fruit",
-    "reduced fruit yield the following season"
+    "早产叶叶落",
+    "减少光合作用",
+    "水果质量差",
+    "软果软果",
+    "下一季水果产量减少"
   ],
-
   "management": [
-    "remove and destroy fallen leaves",
-    "clean infected plant debris under trees",
-    "apply mulch to reduce soil splash",
-    "prune trees to improve air circulation",
-    "monitor trees during wet seasons"
+    "将落落的树叶除掉,并毁灭落落的树叶;",
+    "树木下的清洁受感染植物碎片",
+    "应用毫拉法来减少土壤飞溅",
+    "利用树木改善空气循环",
+    "监测湿季树木"
   ],
-
   "organic_treatment": [
-    "spray sulfur fungicide",
-    "apply neem oil",
-    "baking soda spray solution"
+    "喷洒硫喷雾杀菌剂",
+    "应用净油",
+    "苏打汽水喷雾溶液"
   ],
-
   "chemical_control": [
-    "copper-based fungicides",
-    "protective fungicide sprays during wet periods"
+    "基于铜的杀真菌剂",
+    "湿期间的保护性杀真菌杀虫剂喷洒"
   ],
-
   "prevention": [
-    "good orchard sanitation",
-    "regular pruning for airflow",
-    "early fungicide application during rainy seasons"
+    "良好果园环境卫生",
+    "空气流的正正排行",
+    "在雨季使用早期杀真菌剂"
   ],
-
   "source": [
-    "University of California Integrated Pest Management",
-    "University of Minnesota Extension",
-    "Ohio State University Extension",
-    "Pacific Northwest Extension",
-    "The Holistic Orchard"
+    "加利福尼亚大学害虫综合管理",
+    "明尼苏达大学扩展大学",
+    "俄亥俄州州立大学扩展",
+    "太平洋西北延伸",
+    "整体果园"
   ]
 }

@@ -1,56 +1,59 @@
 {
-  "pest_name": "Soybean Leaf Rust",
-  "scientific_name": "Phakopsora pachyrhizi",
-  "common_name": "Soybean Rust",
-  "description": "Soybean rust is a foliar disease of soybean caused by the fungus Phakopsora pachyrhizi. It can cause severe yield losses under favorable conditions.",
-  "distribution": "Originally from Asia; in the U.S., first found in the South in 2004 and spreads northward each growing season.",
+  "pest_name": "KCharselect unicode block name",
+  "scientific_name": "KCharselect unicode block name",
+  "common_name": "Indian National weekday 5 - LongDayName",
+  "description": "Saboda haka, ruwan sama yana iya jawo cuta mai tsanani a cikin yanayi mai wuya.",
+  "distribution": "Daga Asiya zuwa Asiya; a Amirka, da farko, mun samu ƙaruwa a Kudu a shekara ta 2004, kuma hakan yana ƙaruwa a kowane lokaci.",
   "host_range": {
-    "primary_host": "Glycine max (soybean)",
-    "other_hosts": "Not specified; obligate pathogen surviving only on green host tissue"
+    "primary_host": "KCharselect unicode block name",
+    "other_hosts": "Ba a ba da umurni ba; hanyar da ba ta dace ba ce ta tsira ne kawai a kan hanya mai faɗi"
   },
   "symptoms": {
     "leaf": [
-      "Small gray spots on lower leaf surfaces that turn tan or reddish-brown",
-      "Lesions scattered within yellow halos",
-      "Pustules (blisters) develop in lesions releasing tan spores",
-      "Early symptoms difficult to distinguish from other leaf diseases"
+      "Media controller element",
+      "Mutane da yawa suna son yin wa'azi a wurare dabam - dabam a faɗin duniya.",
+      "Indian National weekday 7 - LongDayName",
+      "Yana da wuya a bambanta da wasu cututtuka"
     ],
     "pod_stem": [
-      "Lesions and pustules may appear on pods and stems"
+      "Ana iya ganin hotunan batsa da na'ura a hanyar da ba ta dace ba kuma a tashi"
     ],
-    "timing": "Most common after flowering, during reproductive stages"
+    "timing": "Yawancin mutane bayan sun yi noma, sa'ad da suke girma"
   },
   "conditions_favoring_disease": {
-    "temperature": "59–85°F (15–29°C)",
-    "humidity": "High humidity (>75%)",
-    "weather": "Extended periods of wet weather",
-    "plant_stage": "Reproductive stages, after flowering and pod development"
+    "temperature": "5951",
+    "humidity": "@ item Spelling dictionary",
+    "weather": "Lokacin UNIX",
+    "plant_stage": "Mãsu gudu suna ɓũya."
   },
   "biology": {
-    "pathogen_type": "Fungus",
-    "species": ["Phakopsora pachyrhizi", "Phakopsora meibomiae (mild pathogen, not causing major yield loss)"],
+    "pathogen_type": "Indian National weekday 5 - LongDayName",
+    "species": [
+      "KCharselect unicode block name",
+      "Ta ce: \"A'a kã zauna shẽkara ɗari.\""
+    ],
     "obligate_pathogen": true,
-    "survival": "On living green tissue in southern states and Mexico; spores dispersed by wind northward each season",
-    "infection": "Lesions develop on lower leaves first; can spread to pods and stems"
+    "survival": "Sa'ad da suke zama a kudancin ku da kuma Mexico; iska tana cike da iska mai sanyi a kowane lokaci",
+    "infection": "Idan mutum ya yi girma da farko, zai iya yin amfani da na'urar da ya kamata ya yi amfani da shi don ya samu na'urar da za ta iya kai ga samun na'ura"
   },
   "damage": [
-    "Leaf spots and defoliation",
-    "Yield losses greater than 50% under favorable conditions"
+    "KCharselect unicode block name",
+    "Rashin aiki ya fi kashi hamsin a yanayi mai kyau"
   ],
   "management": {
     "cultural_control": [
-      "Scout lower canopy weekly, especially during wet weather",
-      "Cultural practices have limited effect"
+      "Akwai lokacin da muke hutawa a kai a kai, musamman ma a lokacin da muke girma",
+      "Ayyukan banza ba su da iyaka"
     ],
     "chemical_control": [
-      "Use foliar fungicides applied early or immediately after infection"
+      "Ka yi amfani da hanyar da ba ta dace ba tun da wuri ko kuma nan da nan bayan an yi amfani da ita"
     ],
     "genetic_control": [
-      "Soybean varieties resistant to rust are under development"
+      "Saboda haka, ana bukatar a guji yin tsatsa don kada a yi maye"
     ]
   },
   "notes": [
-    "Soybean rust requires repeated annual northward spore dispersal to cause epidemics in northern areas",
-    "P. pachyrhizi is the aggressive pathogen causing significant yield loss; P. meibomiae is mild and not yet reported in continental U.S."
+    "Saboda haka, yin tsatsa yana bukatar yin amfani da kayan aiki kowace shekara don ya sa ma'adad da ake wa'azi a arewacin arewacin ƙasar",
+    "Babu shakka, wannan shi ne hanyar cin hanci da rashawa kuma ba a ba da rahoton a ƙasar Amirka ba."
   ]
 }

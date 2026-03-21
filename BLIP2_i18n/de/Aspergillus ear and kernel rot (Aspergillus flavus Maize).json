@@ -1,0 +1,84 @@
+{
+  "disease": "Aspergillus Ohrrot des Maises",
+  "scientific_name": "Aspergillus flavus",
+  "pathogen_type": "Pilze",
+  "description": "Aspergillus Ohrfäule ist eine wichtige Pilzkrankheit von Mais, die hauptsächlich durch Aspergillus flavus verursacht wird. Die Krankheit produziert olivgrüne Pulverform auf Maiskernen und verunreinigt Getreide mit Aflatoxin, einem hochgiftigen und krebserregenden Mykotoxin, das Vieh und die menschliche Gesundheit bedroht und die Kornvermarktbarkeit reduziert.",
+  "hosts": [
+    "Mais",
+    "Erdnüsse",
+    "Getreidekörner",
+    "Hülsenfrüchte",
+    "Nüsse"
+  ],
+  "symptoms": [
+    "Olivengrüne Pulverform auf Kernen",
+    "Die Form beginnt in der Regel an der Spitze des Ohrs, kann sich aber auf die Basis ausbreiten",
+    "Pulverförmige Sporen zerstreuen sich wie Staub, wenn Husken geöffnet wird",
+    "Kleine Ohren und verkümmerte Pflanzen in trockenen oder gestressten Bereichen",
+    "Verfärbung des Kerns und verminderte Keimung des Samens"
+  ],
+  "toxins": [
+    "Aflatoxin (karzinogenes Mykotoxin)",
+    "Kontaminierte Getreide- und Viehfutter",
+    "Kann vorhanden sein, auch wenn Kernel gesund erscheinen"
+  ],
+  "disease_cycle": [
+    "Pilz überlebt in Boden- und Pflanzenresten wie Myzelien oder Sklerotien",
+    "Produziert Konidien (Sporen), die sich durch Wind und Insekten ausbreiten",
+    "Infektionen entstehen durch Seide oder Wunden, die durch Insekten, Vögel oder Hagel verursacht werden",
+    "Kann Pflanzen vor der Ernte anstecken und bis zur Lagerung ruhend bleiben",
+    "Herstellung von Aflatoxin bei heißen, trockenen Bedingungen oder verzögerter Ernte"
+  ],
+  "favorable_conditions": [
+    "Heißes und trockenes Wetter",
+    "Trockener Stress oder Nährstoffmangel",
+    "Insektenschäden an den Ohren",
+    "Hohe Temperatur und Feuchtigkeit während der Lagerung"
+  ],
+  "spread": [
+    "Windsporen",
+    "Insektenvektoren (Stink Bugs, Lygus Bugs)",
+    "Infizierte pflanzliche Rückstände und Böden",
+    "Kontaminierte Samen",
+    "Unsachgemäße Lagerungsbedingungen für Getreide"
+  ],
+  "monitoring": [
+    "Vor der Ernte mindestens 30 Ohren an verschiedenen Feldplätzen inspizieren",
+    "Hülsen schälen und auf olivgrüne Form überprüfen",
+    "Fokus auf trockene Flächen wie Sandböden oder Hanglagen",
+    "Überwachen Sie gestresste Pflanzen mit kleinen Ohren"
+  ],
+  "cultural_management": [
+    "Kontrolle von Ohrspeicheln",
+    "Reduzierung von Pflanzenstress durch Bewässerung und richtige Ernährung",
+    "Ernte infizierte Felder früh",
+    "Kontaminiertes Getreide von gesundem Getreide trennen",
+    "Beschädigte Kerne entfernen und Abwasserentsorgung pflegen"
+  ],
+  "postharvest_management": [
+    "Trockenes Getreide unmittelbar nach der Ernte",
+    "Getreidefeuchte unter 11,5% halten",
+    "Getreide bei niedriger Temperatur lagern (wenn möglich unter 5°C)",
+    "Lüftungssysteme in Speicherbehältern verwenden",
+    "Pflege sauberer Lagereinrichtungen"
+  ],
+  "biological_control": [
+    "Pichia anomala Hefe konkurriert mit Aspergillus flavus und reduziert das Wachstum bis zu 97%",
+    "Atoxigener Stamm Aspergillus flavus AF36 als Biokontrolle zur Reduzierung der Aflatoxinproduktion"
+  ],
+  "chemical_or_physical_control": [
+    "Verwenden Sie Begasungsmittel, um Insekten in der Lagerung zu kontrollieren",
+    "Aufrechterhaltung von Belüftungssystemen zur Entfernung von Wärme und Feuchtigkeit",
+    "Keine allgemein wirksamen Fungizid-Behandlungen bei Feldbedingungen"
+  ],
+  "economic_impact": [
+    "Nachernteverluste können 10-30% erreichen",
+    "Höhere Verluste in Entwicklungsländern möglich",
+    "Größere wirtschaftliche Verluste durch Aflatoxinkontamination statt Ertragsreduzierung"
+  ],
+  "sources": [
+    "Universitätserweiterung Pflanzenkrankheit Veröffentlichungen",
+    "USDA Agrarforschungsdienst",
+    "Wissenschaftliche Literatur zu Aspergillus flavus und Aflatoxinkontamination"
+  ]
+}

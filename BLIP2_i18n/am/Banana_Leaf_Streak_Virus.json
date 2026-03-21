@@ -1,0 +1,112 @@
+{
+  "disease_name": "የፓንካን ሻጋታ ሻጋታ",
+  "dataset_label": "የፓንካን_Leaf_Streak_Virus",
+  "pathogen": {
+    "type": "የቪዲዮዎች",
+    "name": "የፓንካን ቫይሮስ",
+    "scientific_name": "የፓንካን ሻጋታ Badnavirus",
+    "family": "የኦሪጂናል",
+    "genus": "የ Badnavirus",
+    "genome": "የ DDSDNA (Double-Stranded DNA)"
+  },
+  "host_plant": {
+    "primary_host": "የፓናን (Musa spp.)",
+    "other_hosts": [
+      "መሣሪያዎች"
+    ]
+  },
+  "affected_parts": [
+    "መለያዎች",
+    "ፎቶዎች",
+    "አጠቃቀም አቅም"
+  ],
+  "vector": {
+    "type": "መሳሪያዎች",
+    "name": "ፎቶዎች",
+    "genera": [
+      "ፎቶዎች",
+      "የ Pseudococcus"
+    ]
+  },
+  "symptoms": {
+    "early_stage": [
+      "የጎን ብረት በጎን ብረት በጎን ብረት በጎን ብረት በጎን ብረት",
+      "ቀዝቃዛ ወይም ቀዝቃዛ ቀዝቃዛ ቀዝቃዛ ቀዝቃዛ"
+    ],
+    "intermediate_stage": [
+      "ጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓጓ.",
+      "መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን መጠን"
+    ],
+    "advanced_stage": [
+      "ጥቁር ፎቶዎች ቀለም ወይም ጥቁር ይሆናል ፎቶዎች ይሆናል",
+      "መጠን መጠን መጠን መጠን መጠን",
+      "የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ የፈጠራ"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "የሽያጭ መሳሪያዎች (Sugar)",
+      "የቴክኒካል መቆጣጠሪያ በ Mealybugs",
+      "የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል የኦሪጂናል"
+    ],
+    "latent_behavior": "Virus fragments can integrate into banana genome and reactivate under stress conditions ቪሮን መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች መሳሪያዎች",
+    "favorable_conditions": [
+      "ግምገማዎች",
+      "የቴክኖሎጂ ልማት ንድፍ ንድፍ",
+      "የመስመር ላይ የመስመር ላይ"
+    ]
+  },
+  "impact": {
+    "severity": "ሞዴል",
+    "effects": [
+      "ዝቅተኛ መሣሪያዎች",
+      "ዝቅተኛ ምርቶች",
+      "የሽያጭ ፍጥነት እና በሽያጭ ፍጥነት ላይ ያካትታል",
+      "ጓደኛ ጓደኛ"
+    ],
+    "estimated_losses": "ከ 6% ከዓመቱ አንዳንድ ቦታዎች ውስጥ, የፈጠራ ምግብዎች ውስጥ ከፍተኛ ነው"
+  },
+  "distribution": [
+    "አሲያ",
+    "አፍሪካ",
+    "የአውሮፓ",
+    "የአሜሪካ",
+    "የአውሮፓ",
+    "ካርቦን",
+    "የኦሪጂናል",
+    "የፓይክቲክ አውሮፕላን"
+  ],
+  "similar_diseases_or_confusions": [
+    "የ Cucumber Mosaic Virus",
+    "የ Banana Bunchy Top Virus የተመሠረተ",
+    "የኃይል አነስተኛ መጠን Chlorosis ይሆናል"
+  ],
+  "management": {
+    "cultural_control": [
+      "የቪሮስ-free መሣሪያ መሣሪያዎች",
+      "በሽከርካሪ እና በሽከርካሪ መቆጣጠሪያዎች",
+      "የፕላስቲክ መሣሪያዎች መቆጣጠሪያ"
+    ],
+    "vector_control": [
+      "መቆጣጠሪያ Mealybug Population",
+      "መሣሪያዎች መሣሪያዎች ወይም መሣሪያዎች መሣሪያዎች",
+      "የንግድ የንግድ የንግድ የንግድ የንግድ የንግድ ምርቶች"
+    ],
+    "quarantine": [
+      "የ FAO ጂምፕላስቲክ መሣሪያዎች ለ ጂምፕላስቲክ መሣሪያዎች",
+      "ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ"
+    ]
+  },
+  "spread_risk_factors": [
+    "የሞክሮ መሳሪያዎች መሳሪያዎች",
+    "የክፍያ የክፍያ የክፍያ የክፍያ የክፍያ የክፍያ",
+    "የ Mealybug Vector አቅርቦት",
+    "የፕላስቲክ ግምገማ ሁኔታዎች የተመሠረተ የቪሮን DNA መተግበሪያ"
+  ],
+  "references": [
+    "የ CABI Crop Protection Compendium (2020) ያግኙን",
+    "CSIRO Publishing – የአውስትራሊያ ውስጥ የፋብሪካ ሮፕዎች ሮፕዎች ሮፕዎች ሮፕዎች (2009)",
+    "Pacific Pests, Pathogens and Weeds መለያዎች",
+    "Bioversity International – የ FAO Musa Germplasm መሣሪያዎች"
+  ]
+}

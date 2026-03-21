@@ -1,63 +1,65 @@
 {
-  "disease_name": "Tomato Leaf Mold",
-  "type": "fungal disease",
-  "causal_agent": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+  "disease_name": "Tomato Yaprakları",
+  "type": "Mantar Hastalığı",
+  "causal_agent": "Pasalora fulva (Fulvia fulva ve Cladosporium fulvum)",
   "hosts": {
-    "primary": ["Tomato (Solanum lycopersicum L.)"]
+    "primary": [
+      "Tomatlar (Solanum lycopersicum L)"
+    ]
   },
-  "distribution": "Worldwide; especially problematic in greenhouses and high tunnels with high humidity",
+  "distribution": "Dünya çapında; özellikle yüksek nemli sera ve yüksek tünellerde sorunlu",
   "symptoms": {
     "leaves": [
-      "Yellow spots on upper leaf surfaces",
-      "Fuzzy olive-green to gray mold growth on lower leaf surfaces",
-      "Leaves may curl and become distorted",
-      "Severe infections can cause defoliation"
+      "Yukarıdaki yüzeylerde sarı lekeler",
+      "Fuzzy zeytin-yeşil gri çamur büyümesi alt yaprak yüzeylerinde",
+      "Yapraklar kırılabilir ve bozulabilir",
+      "Şiddetli enfeksiyonlar defoliasyona neden olabilir"
     ],
     "stems": [
-      "Occasionally stems can be infected, but disease is mostly foliar"
+      "Bazen sivrisinekler enfekte olabilir, ancak hastalık çoğunlukla foliktir."
     ]
   },
   "disease_cycle": [
-    "Spores form on lower leaf surfaces within 10–12 days of infection",
-    "High relative humidity (≥85%) favors spore production and infection",
-    "Multiple generations can occur within a single growing season",
-    "Spread occurs via wind, rain/overhead irrigation, tools, workers, and possibly insects",
-    "Pathogen can persist in crop residue and on contaminated greenhouse surfaces"
+    "10-12 gün içinde alt yaprak yüzeylerinde spor oluşur.",
+    "Yüksek nispeten nem (≥85%) üretimi ve enfeksiyonu izlemeyi destekler",
+    "Çeşitli nesiller tek bir büyüme mevsiminde gerçekleşebilir.",
+    "Yayılma rüzgar, yağmur / yüzey sulama, aletler, işçiler ve muhtemelen böcekler aracılığıyla gerçekleşir.",
+    "Patogen bitki kalıntılarında ve kirlenmiş sera yüzeylerinde kalabilir"
   ],
   "environmental_conditions": [
-    "Optimal temperature: 21–24 °C (70–75 °F), but disease can develop between 10–32 °C (50–90 °F)",
-    "High relative humidity (>85%) is critical for severe epidemics",
-    "Poor air circulation and leaf wetness favor infection"
+    "Optimal sıcaklık: 21–24 °C (70–75 °F), ancak hastalık 10–32 °C (50–90 °F) arasında gelişebilir.",
+    "Yüksek nispeten nem (>85%) şiddetli epidemiler için kritik",
+    "Düşük hava dolaşımı ve yaprak ıslaklığı enfeksiyonu destekler"
   ],
   "management": {
     "cultural": [
-      "Use drip irrigation and avoid wetting foliage",
-      "Space plants to improve air circulation",
-      "Stake, string, or prune plants to reduce humidity around leaves",
-      "Circulate air in greenhouses/high tunnels with vents, fans, or by rolling up sides",
-      "Maintain night temperatures higher than outside to reduce dew formation",
-      "Remove and destroy crop residue at the end of the season; sanitize greenhouse surfaces and equipment"
+      "Drip irigasyon kullanın ve folyo yapıştırmaktan kaçının",
+      "Hava dolaşımını iyileştirmek için uzay tesisleri",
+      "Yaprakların etrafındaki nemi azaltmak için çubuk, çubuk veya çubuk bitkileri",
+      "Havayı rüzgarlar, hayranlar ile sera/yüksek tünellerde dolaşmak ya da tarafları döndürmek",
+      "Gece sıcaklıkları dışarıdan daha yüksek tutun, çamur oluşumunu azaltın",
+      "Sezon sonunda bitki kalıntılarını çıkarmak ve yok etmek; sera yüzeyleri ve ekipmanları temizlemek"
     ],
     "resistant_varieties": [
-      "Use resistant cultivars cautiously, as resistance is often race-specific",
-      "Test resistant varieties on a small scale before large-scale planting",
-      "Reference: Cornell Disease Resistant Vegetable Varieties list"
+      "Dayanıklı yetiştiricileri dikkatlice kullanın, çünkü dayanıklılık genellikle ırk spesifiktir.",
+      "Büyük ölçekli yetiştirmeden önce küçük ölçekte dayanıklı çeşitleri test edin",
+      "Referans: Cornell hastalığına dayanıklı bitki çeşitleri listesi"
     ],
     "chemical": [
-      "Apply fungicides preventively when conditions favor disease",
-      "Rotate chemical families to prevent resistance development",
-      "For organic production, copper-based products (e.g., Champ) can provide partial control",
-      "Follow all pesticide labels and legal restrictions for greenhouse/high tunnel use"
+      "Fonkizidler önleyici olarak uygulanır, koşullar hastalığı desteklerken",
+      "Direnç gelişimini önlemek için kimyasal aileleri döndürmek",
+      "Organik üretim için, bakır tabanlı ürünler (örneğin, Champ) kısmi kontrol sağlayabilir",
+      "Tüm pestisit etiketlerine ve sera/yüksek tünel kullanımı için yasal kısıtlamalara uymak"
     ]
   },
   "notes": [
-    "Early scouting during high humidity periods is critical for timely management",
-    "New races of P. fulva may emerge, so monitoring resistant cultivar efficacy is important",
-    "Effective management combines cultural, genetic, and chemical strategies"
+    "Yüksek nemli dönemlerde erken kaydırma, zamanında yönetim için önemlidir.",
+    "P. fulva'nın yeni ırkları ortaya çıkabilir, bu nedenle dayanıklı yetiştirme verimliliğini izlemek önemlidir",
+    "Etkili yönetim kültürel, genetik ve kimyasal stratejileri birleştirir"
   ],
   "references": [
-    "Midwest Vegetable Production Guide for Commercial Growers, 2023",
-    "Minnesota Extension, Tomato Leaf Mold Management",
-    "Jones, J.B., et al. 2014. Compendium of Tomato Diseases and Pests, 2nd Edition. APS Press."
+    "Orta Batı Bitki Üretimi Kılavuzu Ticari Yetiştiriciler İçin, 2023",
+    "Minnesota Extension, Tomato Leaf Mould Yönetimi",
+    "Jones, J.B., et al. 2014 Tomato Hastalıkları ve Hastalıkları Compendium, 2. Sürüm."
   ]
 }

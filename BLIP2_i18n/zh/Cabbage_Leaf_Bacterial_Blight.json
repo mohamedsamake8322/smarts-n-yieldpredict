@@ -1,86 +1,75 @@
 {
-  "disease": "Cabbage bacterial leaf spot",
-  "scientific_name": "Xanthomonas campestris pv. campestris (commonly associated with bacterial leaf spot and black rot in brassicas)",
-  "pathogen_type": "Bacterium",
-  "description": "Cabbage bacterial leaf spot is a bacterial disease that affects cabbage leaves. It causes small brown spots that expand and form irregular dead areas on the leaf. In severe cases, leaves turn yellow, rot, and plants become weak.",
-  
+  "disease": "卷心菜菌菌菌叶菌叶",
+  "scientific_name": "Xanthomonascampestris pv.campestris(通常与细菌叶点和铜管中的黑腐化有关)",
+  "pathogen_type": "细菌",
+  "description": "白菜细菌叶点是一种细菌疾病,它影响白菜叶,造成棕色小点,扩大并形成叶子上非正常死亡区。 在严重的情况下,叶子变黄,腐烂,植物变弱。",
   "symptoms": [
-    "Small brown spots on cabbage leaves",
-    "Spots enlarge and join together",
-    "Irregular dead tissue on leaves",
-    "Lesions often limited by leaf veins",
-    "Leaves turn yellow",
-    "Severely infected leaves become rotten",
-    "Plant growth becomes weak"
+    "菜菜叶上的小棕色斑点",
+    "点点扩大并联合起来",
+    "叶叶上的非正常死亡组织",
+    "叶静脉往往限制的遗骨",
+    "叶子变成黄色",
+    "受严重感染的叶子腐烂",
+    "植物增长变得疲软"
   ],
-
   "visual_signature": [
-    "small brown leaf spots",
-    "irregular necrotic patches",
-    "yellowing cabbage leaves"
+    "棕色小叶斑",
+    "非正常坏腐性补丁",
+    "黄黄卷心菜叶"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "kale",
-    "mustard greens",
-    "other Brassica crops"
+    "白菜",
+    "花花椰醇",
+    "花椰花",
+    "白白",
+    "芥芥芥绿",
+    "其他巴西作物"
   ],
-
   "affected_plant_parts": [
-    "leaves"
+    "叶叶叶"
   ],
-
   "favorable_conditions": [
-    "wet conditions",
-    "high humidity",
-    "frequent rainfall",
-    "plant wounds or insect damage",
-    "overhead irrigation"
+    "湿湿条件",
+    "高湿湿度",
+    "频繁降雨",
+    "植物伤口或昆虫损伤",
+    "临时临时灌溉"
   ],
-
   "spread": [
-    "rain splash",
-    "infected seeds",
-    "contaminated tools",
-    "insects carrying bacteria",
-    "contact between wet plants"
+    "雨水喷雨",
+    "受感染种子",
+    "受污染工具",
+    "携带细菌的昆虫",
+    "湿工厂之间的接触"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Remove infected plants immediately",
-    "Avoid growing cabbage repeatedly on the same land",
-    "Practice crop rotation for 2–3 years",
-    "Mulch soil to reduce rain splash",
-    "Avoid damaging plants during weeding",
-    "Clean and disinfect tools regularly"
+    "使用经核证的无疾病的种子",
+    "立即清除感染植物",
+    "避免在同一土地上反复种植卷心菜",
+    "实际作物轮作2-3年",
+    "减少雨水喷洒的Mulch土壤",
+    "在除草期间避免破坏植物",
+    "定期使用清洁和消毒工具"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "基于生物除菌剂的生物除菌剂",
+    "Pseudomonas 荧光菌生物治疗"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate based bactericides"
+    "氧化氯化铜",
+    "氢氧化铜",
+    "基于硫酸铜的杀菌剂"
   ],
-
   "prevention": [
-    "Use tolerant or resistant cabbage varieties",
-    "Plant healthy seedlings",
-    "Avoid working in fields when plants are wet",
-    "Maintain good field sanitation",
-    "Control insect damage to reduce entry points for bacteria"
+    "使用耐耐性或抗耐性卷心菜品种",
+    "植物健康幼苗",
+    "当植物湿润时避免在田地中工作",
+    "保持良好的实地环境卫生",
+    "控制昆虫损害以减少细菌的切入点"
   ],
-
   "source": [
-    "FAO Plant Protection Guides",
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications"
+    "粮农组织植物保护指南",
+    "CABI 作物保护简编",
+    "植物病理学推广出版物"
   ]
 }

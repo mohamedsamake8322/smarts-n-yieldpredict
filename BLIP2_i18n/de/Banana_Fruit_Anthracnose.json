@@ -1,0 +1,76 @@
+{
+  "disease": "Bananenobst Anthracnose",
+  "scientific_name": "Colletotrichum musae",
+  "other_name": "Gloeosporiummusarum",
+  "pathogen_type": "Pilze",
+  "description": "Banana anthracnose ist eine große Pilzkrankheit, die Bananenfrüchte sowohl vor als auch nach der Ernte betrifft. Es wird hauptsächlich durch den Pilz Colletotrichum musae verursacht. Die Krankheit produziert versunkene dunkle Läsionen auf Früchten, die sich während der Reifung ausdehnen und schwere Nachernteverluste während der Lagerung und des Transports verursachen können.",
+  "affected_parts": [
+    "Obst",
+    "Peeling",
+    "Blühende Teile (Kronen)",
+    "Blätter und Triebe bei schweren Infektionen"
+  ],
+  "symptoms": [
+    "Dunkle versunkene Läsionen auf der Bananenfruchtoberfläche",
+    "Läsionen vergrößern sich und werden schwarz oder dunkelbraun während der Reifung",
+    "Orange Sporenmassen (Acervuli) erscheinen auf reifen Läsionen",
+    "Nekrose von Obstfäule und Fruchtschalen",
+    "Blattbrand und Abschuss Dieback in schweren Fällen",
+    "Vorzeitiger Blatttropfen und reduzierter Ertrag"
+  ],
+  "disease_cycle": [
+    "Pilz infiziert unreife Bananenfrüchte auf dem Feld",
+    "Sporen keimen und bilden eine Appressoria, um Pflanzengewebe zu durchdringen",
+    "Infektion bleibt latent (quieszentes Stadium) in unreifen Früchten",
+    "Symptome entwickeln sich, wenn Früchte nach der Ernte reifen",
+    "Sporen, die sich durch Regenspritzer, Wind, Werkzeuge und infiziertes Pflanzenmaterial ausbreiten"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen zwischen 22–32°C",
+    "Hohe Luftfeuchtigkeit über 90%",
+    "Regen- oder Monsunzeit",
+    "Schlechte Luftzirkulation in Plantagen"
+  ],
+  "spread": [
+    "Wind- und regenverteilte Pilzsporen",
+    "Infizierte Pflanzenabfälle",
+    "Handhabung während der Ernte und des Transports",
+    "Kontaminierte Werkzeuge oder Lagerflächen"
+  ],
+  "field_and_postharvest_damage": [
+    "Fruchtfäule während der Reifung",
+    "Kronenfäule in geernteten Bananenhaufen",
+    "Reduzierte Qualität und Marktwert von Früchten",
+    "Bedeutende Verluste nach der Ernte"
+  ],
+  "chemical_control": [
+    "Difenconazol 25% EC (CONCOR): 120–150 ml pro Acre",
+    "Carbendazim 12% + Mancozeb 63% WP (Samartha): 300–400 g pro Hektar",
+    "Thiophanat Methyl 70% WP (KTM): 250–600 g pro Hektar",
+    "Mancozeb 75% WP (K ZEB): 500 g pro Hektar",
+    "Alles in einem Fungizid: 1,5–2 g pro Liter"
+  ],
+  "biological_control": [
+    "Verwendung von biologischen Antagonisten wie Trichoderma-Arten",
+    "Natürliche Pflanzenextrakte und mikrobielle Biokontrollmittel",
+    "Integrierte Strategien für das Seuchenmanagement, die biologische Arbeitsstoffe und kulturelle Praktiken kombinieren"
+  ],
+  "cultural_management": [
+    "Pflegen Sie eine gute Plantagenhygiene und entfernen Sie infizierte Pflanzenreste",
+    "Gewährleistung einer guten Luftzirkulation in Bananenplantagen",
+    "Vermeiden Sie übermäßige Feuchtigkeit in der Lagerung",
+    "Früchte sorgfältig ernten, um Wunden zu vermeiden",
+    "Verwendung von krankheitsfreiem Pflanzmaterial"
+  ],
+  "prevention": [
+    "Wählen Sie resistente Bananensorten, wenn verfügbar",
+    "Umsetzung integrierter Strategien für das Krankheitsmanagement",
+    "Überwachung der Früchte während der Vor- und Nacherntestadien",
+    "Erhaltung sauberer Lagerungs- und Transportbedingungen"
+  ],
+  "sources": [
+    "Pflanzenpathologie-Forschung zu Colletotrichum musae",
+    "Landwirtschaftliche Erweiterungspublikationen über Bananenkrankheiten",
+    "Wissenschaftliche Literatur zum Anthracnose-Management"
+  ]
+}

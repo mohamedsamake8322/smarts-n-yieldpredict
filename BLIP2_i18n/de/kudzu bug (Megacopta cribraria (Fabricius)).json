@@ -1,0 +1,56 @@
+{
+  "pest": "Kudzu-Fehler",
+  "scientific_name": "Megacopta-Kribrarie",
+  "pest_type": "Insekten (Hemiptera: Plataspidae)",
+  "description": "Ein saftsaugendes Insekt, das Sojabohnen und andere Hülsenfrüchte angreift. Erwachsene und Nymphen ernähren sich von Pflanzensaft, wodurch Pflanzenwachstum und Ertrag reduziert werden. Ursprünglich aus Asien, ist es zu einem wichtigen Schädling in mehreren Anbaugebieten geworden.",
+  "symptoms": [
+    "Cluster von kleinen braunen, schildförmigen Insekten auf Stängeln und Blättern",
+    "Gelbfärbung oder Bräunung der Blätter",
+    "Verringerung des Pflanzenwachstums und der Kraft",
+    "Untere Hülsenproduktion in Sojabohnen",
+    "Sticky Honigtau Ablagerungen, die zu weichen Schimmel führen kann"
+  ],
+  "hosts": [
+    "Sojabohnen",
+    "Kudzu",
+    "Bohnen",
+    "Cowpea",
+    "Sonstige Hülsenfrüchte"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Vorhandensein von Kudzu-Pflanzen in der Nähe von Feldern",
+    "Dichte Vegetation, wo Insekten sich vermehren können"
+  ],
+  "spread": [
+    "Erwachsene Insekten fliegen zu neuen Feldern",
+    "Bewegung von Kudzu-Pflanzen zu nahe gelegenen Kulturen",
+    "Überwinternde Erwachsene im Frühjahr"
+  ],
+  "management": [
+    "Überwachen Sie regelmäßig Felder für Insektenhaufen",
+    "Entfernen in der Nähe von Kudzu-Pflanzen, wenn möglich",
+    "Verwendung resistenter oder toleranter Sojabohnensorten",
+    "Ermutigen Sie natürliche Feinde auf Feldern"
+  ],
+  "biological_control": [
+    "Parasitäre Wespen wie Paratelenomus saccharalis",
+    "Allgemeine Raubtiere wie Spinnen und Käfer",
+    "Erhaltung nützlicher Insekten"
+  ],
+  "chemical_control": [
+    "Pyrethroide Insektizide (z. B. Bifenthrin, Lambda-Cyhalothrin)",
+    "Neonicotinoide Insektizide wie Imidacloprid",
+    "Anwenden, wenn Schädlingspopulationen wirtschaftliche Schwelle erreichen"
+  ],
+  "prevention": [
+    "Überwachen Sie die Felder früh in der Saison",
+    "Kudzu in der Nähe von Feldern kontrollieren",
+    "Pflege der Feldsanierung und Fruchtfolge"
+  ],
+  "source": [
+    "Erweiterung der Universität von Georgien",
+    "USDA-Pflanzenmanagement-Leitfäden",
+    "Integrierte Literatur zur Schädlingsbekämpfung"
+  ]
+}

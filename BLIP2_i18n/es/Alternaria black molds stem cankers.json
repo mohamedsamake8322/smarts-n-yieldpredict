@@ -1,0 +1,51 @@
+{
+  "disease_name": "Alternaria Black Mold Stem Canker",
+  "scientific_name": "Alternaria spp.",
+  "pathogen_type": "hongo",
+  "genus": "Alternaria",
+  "description": "Alternaria es una enfermedad fúngica causada por especies del género Alternaria. Afecta tallos, hojas y a veces frutos de muchos cultivos, especialmente plantas de la familia Solanaceae. La enfermedad produce crecimiento de moho oscuro y cankers en tallos, lo que conduce a una reducción del vigor de las plantas y pérdidas de rendimiento.",
+  "affected_parts": [
+    "Tallo",
+    "Hoja",
+    "Frutas"
+  ],
+  "hosts": [
+    "Tomate",
+    "Patata",
+    "Berenjenas",
+    "Pimienta",
+    "Varios cultivos de solanáceas"
+  ],
+  "symptoms": [
+    "Crecimiento de moho marrón oscuro a negro en tallos",
+    "Cankers de tallo o lesiones hundidas",
+    "Manchas de hojas con anillos concéntricos",
+    "Amarillamiento y marchitamiento de las hojas",
+    "Reducción del crecimiento de las plantas"
+  ],
+  "favorable_conditions": [
+    "Temperaturas cálidas (20–30°C)",
+    "Alta humedad",
+    "Humedad prolongada de las hojas",
+    "Presencia de desechos vegetales infectados"
+  ],
+  "spread": [
+    "Esporas dispersadas por el viento",
+    "Salpicadura de la lluvia",
+    "Desechos de plantas contaminados",
+    "Semillas infectadas"
+  ],
+  "management": {
+    "cultural": [
+      "Utilizar semillas libres de enfermedades",
+      "Rotar los cultivos con plantas no hospedantes",
+      "Eliminar los desechos vegetales infectados",
+      "Mejorar la circulación del aire alrededor de las plantas"
+    ],
+    "chemical": [
+      "Aplicar fungicidas como Mancozeb",
+      "Clorotalonil",
+      "Fungicidas a base de cobre"
+    ]
+  }
+}

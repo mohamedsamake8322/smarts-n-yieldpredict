@@ -1,39 +1,39 @@
 {
-  "pest_name": "Spider Mite",
-  "stage": "leaf_damage",
-  "common_name": "Spider Mite",
-  "description": "Spider mites are common pests of fruit trees, vegetables, berries, vines, houseplants, and ornamental plants. Mites are tiny arachnids with eight legs, related to spiders and ticks.",
+  "pest_name": "蜘蛛 Mite",
+  "stage": "叶叶损害_ 损害",
+  "common_name": "蜘蛛 Mite",
+  "description": "蜘蛛蜜蜂是水果树、蔬菜、浆果、葡萄藤、家庭植物和装饰植物的常见害虫。 蜘蛛蜜蜂是八条腿的小,与蜘蛛和虱子有关。",
   "identification": [
-    "Adults are less than 1/20 inch long with an oval body and two colored eyespots near the head",
-    "Live in colonies, mostly on the underside of leaves; a single colony can contain hundreds of mites",
-    "High populations produce dense webbing covering leaves, twigs, and fruit",
-    "Look for stippling of light dots on leaves, bronze discoloration, yellowing, and leaf drop"
+    "成人长小于1/20英寸,头部有奥瓦尔身体和两个彩色眼睛壶",
+    "生活在聚居地,大多在树叶的下层;一个聚居地可容纳数百只。",
+    "高人口生产密集的编织,覆盖叶叶、树枝和水果",
+    "寻找树叶上的光点、青铜脱色、黄色和叶子落落"
   ],
   "damage": [
-    "Suck cell contents from leaves, causing stippling and discoloration",
-    "Severely infested leaves turn yellow and may drop",
-    "Damage is most severe in hot, dusty conditions and on water-stressed plants"
+    "吸吸叶叶中的细胞内装物,导致变色和变色",
+    "严重侵扰的叶叶变黄,可能会掉落",
+    "在炎热、灰尘和水压工厂中,损害最为严重"
   ],
   "natural_enemies": [
-    "Predatory thrips",
-    "Lacewings",
-    "Minute pirate bugs",
-    "Predatory mites (larger with longer legs and more active)"
+    "预 食 食 足 量",
+    "滑雪",
+    "一分钟海盗虫",
+    "食用虫(长腿大,更活性大)"
   ],
   "management": [
-    "Water plants to avoid drought stress",
-    "Reduce dust using ground covers, mulches, and regular irrigation",
-    "Encourage natural enemies to control populations",
-    "Spray water or mist on the undersides of leaves daily if infested"
+    "避免干旱压力的水厂",
+    "利用地面覆盖物、泥土和定期灌溉减少灰尘",
+    "鼓励自然敌人控制人口",
+    "喷水或叶叶子下侧喷雾,如果渗入,每天喷洒"
   ],
   "chemical_control": [
-    "Insecticidal oils or insecticidal soaps, applied thoroughly on undersides of leaves",
-    "Avoid spraying when plants are water-stressed or during high heat",
-    "Avoid insecticides that kill natural enemies, as these can cause mite population spikes"
+    "彻底施在叶叶下侧的杀虫油或杀虫肥皂",
+    "当植物受到水压或高热时避免喷洒",
+    "避免导致自然敌人死亡的杀虫剂,因为这些杀虫剂可造成蚊虫人口激增"
   ],
   "notes": [
-    "Spider mites frequently become problematic after certain organophosphate or pyrethroid insecticide applications",
-    "Minimize pesticide use, prefer nonchemical or less toxic options",
-    "Read product labels carefully for proper usage and disposal"
+    "在应用某些有机磷酸盐或除虫菊酯杀虫剂之后,蜘蛛鼠经常成为问题",
+    "尽量减少农药的使用,优先选择非化学或毒性较低选择",
+    "仔细阅读产品标签,以便适当使用和处置"
   ]
 }

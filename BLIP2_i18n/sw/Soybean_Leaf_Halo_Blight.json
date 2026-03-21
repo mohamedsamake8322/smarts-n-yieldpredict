@@ -1,56 +1,72 @@
 {
-  "pest_name": "Halo Blight",
-  "scientific_name": "Pseudomonas syringae pv. phaseolicola",
-  "common_abbreviations": ["Pseudomonas blight", "bean halo blight", "Phaseolous blight", "bacterial leaf spot of beans"],
-  "description": "Halo blight is a bacterial disease of beans caused by Pseudomonas syringae pv. phaseolicola. It is seedborne and thrives under cool, humid conditions.",
-  "distribution": "Worldwide, especially in temperate and subtropical regions of North America, South America, Europe, Africa, and Asia.",
+  "pest_name": "Salamu ya Blythe",
+  "scientific_name": "Msingi wa Msingi wa Msingi wa Msingi wa Msingi wa Msingi wa Msingi",
+  "common_abbreviations": [
+    "Mwisho wa Pseudomonas",
+    "Mwisho wa Halo Blight",
+    "Mwisho wa Blythe",
+    "Bacterial nyama ya nyama ya nyama"
+  ],
+  "description": "Halo blight ni magonjwa ya bakteria ya mti iliyoundwa na Pseudomonas syringae pv. phaseolicola. ni mti na kukua chini ya hali ya baridi, ya baridi.",
+  "distribution": "Katika ulimwengu, hasa katika maeneo ya chini na subtropical ya Amerika ya Kaskazini, Amerika ya Kusini, Ulaya, Afrika, na Asia.",
   "host_range": {
-    "general": "Primarily beans (Phaseolus spp.)",
-    "notable_hosts": ["Light Red Kidney drybean", "Other common bean varieties"]
+    "general": "Maisha ya msingi (Phaseolus spp.)",
+    "notable_hosts": [
+      "Mwanga wa Red Kidney Drybean",
+      "Vyanzo vingine vya kawaida vya Bean"
+    ]
   },
   "symptoms": {
     "leaf": [
-      "Small water-soaked lesions initially",
-      "Lesions surrounded by yellow-green halo",
-      "Lesions expand and coalesce into large necrotic areas",
-      "Irregular brown necrotic spots as disease progresses",
-      "Severe cases: extensive defoliation, reduced vigor"
+      "Uharibifu mdogo wa maji mwanzoni",
+      "Mateso yanayohusiana na Halo ya Yellow-Green",
+      "Uharibifu kuongezeka na kuongezeka kwa maeneo makubwa ya necrotic",
+      "Maonyesho yasiyo ya kawaida ya nyekroti wakati ugonjwa unaendelea",
+      "Matukio makubwa: uharibifu mkubwa, uharibifu mdogo"
     ],
     "pod": [
-      "Dark, sunken lesions with greasy appearance",
-      "Discolored or shriveled seeds"
+      "Ugonjwa wa dhahabu na kuonekana kwa macho",
+      "Matunda ya kupotea au kupotea"
     ]
   },
   "damage": [
-    "Significant yield and seed quality reduction",
-    "Can cause complete crop failure in high-incidence fields",
-    "Weakened plants more susceptible to secondary infections",
-    "Quarantine restrictions due to infected seed lots"
+    "Matumizi makubwa ya bidhaa na kupunguza ubora wa mazao",
+    "Inaweza kusababisha uharibifu kamili wa mimea katika maeneo ya hasara ya juu",
+    "Wanyama wadogo wanaweza kuwa na ugonjwa wa pili zaidi",
+    "Mkataba wa Quarantine kwa sababu ya matibabu ya matibabu"
   ],
   "biology": {
-    "pathogen_type": "Seedborne bacterium",
-    "survival": "Persists in crop debris and contaminated plant surfaces",
-    "infection_routes": ["Through natural openings (stomata, hydathodes)", "Wounds"],
-    "favorable_conditions": "Cool (16–24°C), humid environments",
-    "spread": ["Infected seeds", "Rain splash", "Irrigation", "Mechanical contact"]
+    "pathogen_type": "Bakteri ya mbegu",
+    "survival": "Kuishi katika mbegu za mimea na mbegu za mimea zilizotangulia",
+    "infection_routes": [
+      "Kwa njia ya ufumbuzi wa asili (stomata, hydathodes)",
+      "Majeruhi"
+    ],
+    "favorable_conditions": "Nishati ya baridi (16 - 24 ° C), mazingira ya baridi",
+    "spread": [
+      "Mafuta ya kuvutia",
+      "Mchezo wa mvua",
+      "ya Irrigation",
+      "Mawasiliano ya Mechanical"
+    ]
   },
   "management": {
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Crop rotation with non-hosts",
-      "Avoid overhead irrigation",
-      "Proper field sanitation"
+      "Kutumia matunda yasiyo ya magonjwa",
+      "Mzunguko wa mimea na wageni wa kutosha",
+      "Kuepuka upasuaji wa juu",
+      "Usalama wa maeneo sahihi"
     ],
     "chemical_control": [
-      "Copper-based bactericides to suppress spread",
-      "Seed treatments to prevent early infection"
+      "Bactericides kwa ajili ya kuzuia kuongezeka",
+      "Matibabu ya mbegu ili kuzuia ugonjwa wa mapema"
     ],
     "genetic_control": [
-      "Planting resistant varieties to reduce reliance on chemicals"
+      "Kupanda aina za kupumzika ili kupunguza utumziko wa kemikali"
     ]
   },
   "notes": [
-    "Integrated management combining cultural, chemical, and genetic strategies is most effective",
-    "Strict seed certification and quarantine measures are important to prevent spread"
+    "Utawala unaounganisha mkakati wa utamaduni, kemikali na genetici ni sahihi zaidi",
+    "Utekelezaji wa dharura na masharti ya karantina ni muhimu kuzuia kuongezeka"
   ]
 }

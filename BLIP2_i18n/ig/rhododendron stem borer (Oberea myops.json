@@ -1,0 +1,55 @@
+{
+  "disease": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+  "scientific_name": "Orerebea m",
+  "pathogen_type": "Ọdịdị a na - enwe n'oge uto (ebe a na - edebe ihe ọmụma n'Internet)",
+  "description": "A na - esi n'osisi enweta ihe ọkụkụ ahụ n'ime ya. A na - esi na ya enweta mmiri na mmiri ozuzo, bụ́ nke na - eme ka alaka ndị dị n'ebe ahụ na - ekpo ọkụ ma na - anwụ anwụ.",
+  "symptoms": [
+    "Akwụkwọ ndị e dere n'otu n'otu dị n'alaka ụlọ ọrụ",
+    "Ọdachi Ndị Na - emere Onwe Ha Na - anwụ n'Ahụ́",
+    "Obere oghere ndị dị n'ime ala bụ́ ebe ndị toworo eto na - eyi àkwá",
+    "Ndị na-ahụ anya (nke yiri ihe a na-enweghị isi) na ndagwurugwu",
+    "Ọ na - aghọ ihe na - adịghị ihe ọ bụ ma ọ bụ ihe na - esighị ike",
+    "Ọ Na - agbawa Obi Ma Ọ Bụ Na - anwụ Anwụ"
+  ],
+  "hosts": [
+    "Ọdọ Mmiri E Ji Eme Ihe n'Oge Ochie",
+    "Azalea",
+    "Ihe Ndị Ọzọ Na - adọrọ Mmasị"
+  ],
+  "favorable_conditions": [
+    "N'oge opupu ihe ubi nakwa n'oge okpomọkụ",
+    "Ọ bụrụ na àkwá na - adị n'ahụ́, ọ ga - adị mma ka ọ na - egwuri egwu",
+    "Ihe ndị dị ndụ ma ọ bụ ala dị larịị bụ́ ndị nwere ahịhịa ndụ"
+  ],
+  "spread": [
+    "Ụmụ ahụhụ na - eyi àkwá n'ime osisi",
+    "Alaka ndị dị n'ime ala na alaka ụlọ ọrụ dị iche iche na - eto",
+    "Ihe ọkụkụ ndị dị n'ebe a na - ere ihe n'ala"
+  ],
+  "impact": [
+    "Akụkụ Dị Iche Iche nke alaka",
+    "Ọ̀tụ̀tụ̀ okpomọkụ nke akụ́kụ́ na - ebelata",
+    "Ọgwụ nje ndị na - egbu egbu pụrụ igbu ihe ịchọ mma ndị na - akpali agụụ mmekọahụ"
+  ],
+  "cultural_control": [
+    "A na-eji ụzọ njikọ nke ebe obibi na-enweghị isi maka ọnụ ụlọ ndị dị n'ime ala",
+    "Ihe na - akpata ya bụ oké ifufe na oké ifufe na oké mmiri ozuzo na oké mmiri ozuzo",
+    "Nọgide na - enwe ahụ́ ike iji belata ihe ndị na - adịghị ize ndụ"
+  ],
+  "biological_control": [
+    "Ịgba anụ ndị e bu pụta ụwa ume dị ka nnụnụ ma ọ bụ ahụhụ ndị na - egbu egbu"
+  ],
+  "chemical_control": [
+    "Ihe ndị e ji eme ihe n'usoro bụ́ ebe ndị a na - etinye ihe ọmụma n'ọrụ bụ́ ndị na - esi oké ike",
+    "Ndị toworo eto na-agba ọtọ n'oge a na-eme ara"
+  ],
+  "prevention": [
+    "Na - emechi ya anya n'oge uto",
+    "Wepụ ma bibie nje ndị ahụ malitere n'oge",
+    "Zere ịkụ ihe n'ụzọ dị ukwuu n'ebe ahịhịa ndị na - amị mkpụrụ dị n'ime ala"
+  ],
+  "source": [
+    "Otú e si ahazi ihe n'ebe ndị a na - edebe ihe ọmụma n'Intanet",
+    "Ihe ndị ọkachamara na - amụ banyere ihe ndị dị ndụ bụ́ ndị na - amụ banyere ihe ndị dị ndụ bụ́ ndị na - amụ banyere ihe ndị dị ndụ"
+  ]
+}

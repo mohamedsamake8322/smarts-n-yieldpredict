@@ -1,43 +1,43 @@
 {
-  "virus_name": "Tobacco Ringspot Virus",
+  "virus_name": "Virus des points d'ancrage du tabac",
   "abbreviation": "TRSV",
-  "family": "Secoviridae",
-  "genus": "Nepovirus",
+  "family": "Sécoviridae",
+  "genus": "Népovirus",
   "taxonomy": {
     "order": "Picornavirales",
-    "virus_group": "Plant RNA virus"
+    "virus_group": "Virus de l'ARN végétal"
   },
   "genome": {
-    "type": "positive-sense single-stranded RNA",
-    "structure": "bipartite genome (RNA1 and RNA2)",
-    "particle_shape": "isometric",
-    "particle_size": "approximately 28 nm diameter"
+    "type": "ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à ARN à sens positif",
+    "structure": "génome bipartite (ARN1 et ARN2)",
+    "particle_shape": "isométrique",
+    "particle_size": "diamètre d'environ 28 nm"
   },
   "transmission": {
     "vectors": [
-      "nematodes (Xiphinema spp.)",
-      "thrips",
-      "mites",
-      "grasshoppers",
-      "flea beetles"
+      "nématodes (Xiphinema spp.)",
+      "les thrips",
+      "acariens",
+      "sauterelles",
+      "Choux des puces"
     ],
     "mechanical": true,
     "seed_transmission": true,
-    "additional_notes": "Virus has been detected in bees, but transmission from bees to plants has not been confirmed."
+    "additional_notes": "Le virus a été détecté dans les abeilles, mais la transmission des abeilles aux plantes n'a pas été confirmée."
   },
   "hosts": {
     "major_crops": [
-      "Tobacco (Nicotiana spp.)",
-      "Soybean",
-      "Tomato",
-      "Peanut",
-      "Potato",
-      "Lettuce"
+      "Tabacs (Nicotiana spp.)",
+      "Soja",
+      "Tomates",
+      "Tourteaux",
+      "Pommes de terre",
+      "Laitue"
     ],
     "ornamental_plants": [
       "Zamia furfuracea",
-      "Chrysanthemum",
-      "Petunia"
+      "Chrysanthème",
+      "Pétunia"
     ],
     "weed_hosts": [
       "Chenopodium spp.",
@@ -46,55 +46,55 @@
     ]
   },
   "symptoms": [
-    "Chlorotic ringspots on leaves",
-    "Necrotic ringspots as disease progresses",
-    "Leaf deformation and distortion",
-    "Stunted growth in infected plants",
-    "Reduced yield and plant vigor"
+    "Cerneaux chlorotiques sur les feuilles",
+    "Spots nécrotiques au fur et à mesure de l'évolution de la maladie",
+    "Déformation et distorsion des feuilles",
+    "Croissance étouffée chez les plantes infectées",
+    "Réduction du rendement et de la vigueur des plantes"
   ],
   "disease_cycle": [
-    "Virus survives in infected plants, seeds, and soil via nematode vectors",
-    "Nematodes acquire virus while feeding on infected roots",
-    "Vectors transmit virus to healthy plants during feeding",
-    "Mechanical transmission may occur during cultivation"
+    "Le virus survit dans les plantes, les graines et le sol infectés par des vecteurs nématodes",
+    "Les nématodes acquièrent le virus tout en se nourrissant des racines infectées",
+    "Les vecteurs transmettent le virus à des plantes saines pendant l'alimentation",
+    "Une transmission mécanique peut se produire pendant la culture."
   ],
   "diagnosis": {
     "field_symptoms": [
-      "Characteristic ringspots on leaves",
-      "Chlorosis and necrosis around lesions"
+      "Cerneaux caractéristiques sur les feuilles",
+      "Chlorose et nécrose autour des lésions"
     ],
     "laboratory_methods": [
       "ELISA",
-      "PCR-based diagnostics",
-      "Electron microscopy"
+      "Diagnostic basé sur PCR",
+      "Microscopie électronique"
     ],
     "viral_inclusions": [
-      "Vacuolate inclusions (Vac Inc)",
-      "Crystalloid inclusions (Cyst Inc)"
+      "Inclusions sous vide (Vac Inc)",
+      "Inclusions cristalloïdes (Cyst Inc)"
     ]
   },
   "impact": {
-    "economic": "Can cause severe yield reductions in soybean, peanut, and tobacco crops",
-    "agronomic": "Infected plants may exhibit poor growth and reduced productivity"
+    "economic": "Peut entraîner de fortes réductions du rendement des cultures de soja, d'arachide et de tabac",
+    "agronomic": "Les plantes infectées peuvent présenter une faible croissance et une productivité réduite."
   },
   "management": {
     "cultural": [
-      "Use certified virus-free seeds",
-      "Remove infected plants early",
-      "Rotate crops with non-host species"
+      "Utiliser des semences certifiées exempts de virus",
+      "Enlever les plantes infectées tôt",
+      "Cultures en rotation avec des espèces non hôtes"
     ],
     "vector_management": [
-      "Control nematode populations in soil",
-      "Monitor and manage insect vectors"
+      "Populations témoins de nématodes dans le sol",
+      "Surveiller et gérer les vecteurs d'insectes"
     ],
     "sanitation": [
-      "Disinfect tools and equipment",
-      "Avoid mechanical transmission between plants"
+      "Désinfecter les outils et l'équipement",
+      "Éviter la transmission mécanique entre les installations"
     ]
   },
   "references": [
-    "APS Plant Disease Handbook",
-    "ICTV Virus Taxonomy",
-    "NCBI Virus Database"
+    "Manuel sur les maladies des plantes APS",
+    "Taxonomie du virus du VCI",
+    "Base de données sur les virus de l'ICNE"
   ]
 }

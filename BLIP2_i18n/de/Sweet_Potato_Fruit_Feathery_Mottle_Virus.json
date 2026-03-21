@@ -1,0 +1,128 @@
+{
+  "pest_name": "Süßer Kartoffel-Feathery-Mottle-Virus",
+  "abbreviation": "L 347 vom 20.12.2013, S. 671.",
+  "type": "Virus",
+  "history": "Ursprünglich in den Vereinigten Staaten vor ~70 Jahren entdeckt. Am weitesten verbreitet Süßkartoffel-Virus weltweit, vor kurzem in Italien als primärer Beitrag zu SPVD identifiziert.",
+  "structure": {
+    "genome_type": "Positiv-Sense-single-stranded-RNA",
+    "genome_length_bases": 10820,
+    "organization": [
+      "einzelne offene Leserahmen",
+      "3' UTR",
+      "Poly(A)-Schwanz"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Proteinase, ssRNA-Bindungsaktivität"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteinase, Hilfsmittel bei der Blattläuseübertragung, Fernbewegung"
+      },
+      {
+        "name": "P3",
+        "function": "Virale Replikationsfunktion"
+      },
+      {
+        "name": "6K1",
+        "function": "Unbekannt"
+      },
+      {
+        "name": "KI",
+        "function": "Zytoplasmatische Einschlussproteine, RNA-Helicase-Aktivität"
+      },
+      {
+        "name": "6K2",
+        "function": "Unbekannt, beteiligt an der Virusreplikation"
+      },
+      {
+        "name": "NIEDERLANDE",
+        "function": "VPg und Proteinase"
+      },
+      {
+        "name": "NIb",
+        "function": "Virale Nachbildungen"
+      },
+      {
+        "name": "Cistrone",
+        "function": "Coat Protein, Virion Montage, virale Übertragung, Ausbreitung"
+      }
+    ],
+    "virion_shape": "lang, biegsam, stabförmig",
+    "virion_length_nm": "810-865"
+  },
+  "life_cycle": {
+    "entry": "Mechanisch oder vektorvermittelt über Blattläuse",
+    "replication": "Genom in Polyprotein, durch P1, HC-Pro, Nia-Proteasen gespalten",
+    "translation_helpers": [
+      "HC-Pro bindet eIF4E, VPg, NIA"
+    ],
+    "gene_silencing_suppression": "HC-Pro unterdrückt siRNA und miRNA",
+    "packaging": "Replicated Genome verpackt in Virionen"
+  },
+  "transmission": {
+    "vectors": [
+      "Blattläuse"
+    ],
+    "mechanism": "Nicht-persistent, über Stylet-Tipps",
+    "seed_transmission": "Nicht über Saatgut übertragen",
+    "host_range": [
+      "Ipomoea spp. (I. alba, I. aquatica, I. heredifolia, I. nil, I. lacunosa, I. purpurea, I. cordatotriloba, I. tricolor)",
+      "Nicotiana spp. (N. benthamiana, N. rustica, N. tabacum)",
+      "Chenopodium- Quinoa",
+      "Datura stramonium"
+    ]
+  },
+  "symptoms": {
+    "typical": "Feathery lila Muster auf Blättern",
+    "severe_strains": [
+      "Wurzelnekrose",
+      "Blattchlorose",
+      "Wurzelverfärbung"
+    ],
+    "co-infections": {
+      "SPVD": "tritt auf, wenn SPFMV mit SPCSV infiziert; verursacht verkümmertes Wachstum, schweres Mosaik, Blattverzerrung, reduzierte Ausbeute",
+      "synergism_effects": "SPFMV-Titer bis zu 600x höher in SPVD; verstärkte Verbreitung und Replizierung"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "Ostafrika"
+      },
+      {
+        "name": "RC",
+        "location": "Australien, Afrika, Nordamerika, Asien"
+      },
+      {
+        "name": "O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "location": "Afrika, Asien, Südamerika"
+      },
+      {
+        "name": "C",
+        "location": "Australien, Afrika, Asien, Nord- und Südamerika"
+      }
+    ],
+    "mutation_sources": "Geografische Trennung; Veränderung des Fellprotein-Gens wirkt sich auf die Immunantwort aus"
+  },
+  "agricultural_impact": {
+    "affected_tissues": "Pflanzengewebe, nicht reproduktiv",
+    "yield_loss": "Kann von 50% bis nahezu vollständiger Verlust reichen, insbesondere bei SPVD-Koinfektionen",
+    "affected_regions": "Ozeanien, Südliches Afrika, Barbados, andere SPVD-betroffene Gebiete",
+    "social_impact": "Auswirkungen von Subsistenzbauern auf Süßkartoffeln als Grundnahrungsmittel"
+  },
+  "management": {
+    "early_detection": "ELISA zur Virusidentifizierung",
+    "removal": "Entfernen infizierte Pflanzen, um Ausbreitung zu verhindern",
+    "prevention": [
+      "Pflanzenvirusfreies Vermehrungsmaterial",
+      "Richtig saubere Werkzeuge, um mechanische Übertragungen zu verhindern",
+      "Verwendung transgener Pflanzen, die antivirale Gene exprimieren"
+    ]
+  },
+  "references": [
+    "Verschiedene Quellen aus Studien zur Pflanzenvirologie und zur Süßkartoffelkrankheit, wie sie in benutzerbezogenen Inhalten angeführt werden"
+  ]
+}

@@ -1,106 +1,90 @@
 {
-  "disease": "Carrot Alternaria leaf spot",
-  "scientific_name": "Alternaria dauci",
-  "pathogen_type": "Fungus",
-
-  "description": "Alternaria leaf spot is a fungal disease that mainly affects carrot leaves. It starts on older leaves and produces dark spots with yellow margins. In severe infections the leaves turn black, dry and die, causing major yield loss.",
-
+  "disease": "Keana Marner ta sami kayan ado mai kyau",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wata cuta mai ban tsoro da ke shafan motar da ta shafi tsufa kuma tana soma da ruwan sama.",
   "symptoms": [
-    "Dark brown to black spots on leaves",
-    "Angular lesions with yellow margins",
-    "Spots appear first on older leaves",
-    "Spots merge and form large dead areas",
-    "Leaves become black, dry and wither",
-    "Severe infection causes leaf blight and plant weakening",
-    "Seedlings may die from damping-off"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Da farko, ' yan sanda sun fito ne daga hagu",
+    "Masu zane - zane da kuma wurare masu yawa sun zama wurare dabam - dabam",
+    "Kuma idan rãƙuma mãsu cikunna aka sakẽ su wãwai, bã ga kõwa ba.",
+    "KCharselect unicode block name",
+    "Kuma idan sun kasance, 'yan'uwa, maza da mãtã to namiji yana da misãlin rabon mãtã biyu."
   ],
-
   "visual_signature": [
-    "dark brown or black leaf spots",
-    "yellow halo around lesions",
-    "blackened carrot foliage"
+    "Mãsu duhun inuwa.",
+    "KCharselect unicode block name",
+    "Media controller element"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "petioles",
-    "seedlings"
+    "hagu",
+    "KCharselect unicode block name",
+    "'Ya'yan itãcen marmari, kuma sunã waɗanda ake girmamãwa."
   ],
-
   "hosts": [
-    "carrot",
-    "celery",
-    "parsley",
-    "dill",
-    "parsnip",
-    "wild carrot",
-    "other Apiaceae crops"
+    "Media controller element",
+    "Lalle ne, a cikin wannan, haƙĩƙa, akwaiãyõyi ga mutãne waɗanda suke yin halitta",
+    "@ item Spelling dictionary",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "Farã mai dãɗi ga mashãyan."
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "KCharselect unicode block name",
   "favorable_conditions": [
-    "humid weather",
-    "frequent rainfall",
-    "high humidity",
-    "dense planting",
-    "long periods of leaf wetness"
+    "Media controller element",
+    "@ action",
+    "Abãban ɗaukakãwa, abãban tsarkakẽwa.",
+    "Mãsu aikin wahala ne, mãsu gajiya.",
+    "Tsawon Lokaci da muke girma"
   ],
-
   "spread": [
-    "infected seeds",
-    "wind-driven rain",
-    "infected crop residues in soil",
-    "fungal spores spread by wind"
+    "Media controller element",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "KCharselect unicode block name",
+    "Suna sa mutane su ji daɗin iska sosai."
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Treat seeds with hot water (50°C for 25–30 minutes)",
-    "Avoid dense planting to reduce humidity",
-    "Remove infected crop debris after harvest",
-    "Rotate crops for at least 3 years",
-    "Grow tolerant carrot varieties"
+    "KCharselect unicode block name",
+    "Ka yi amfani da ruwan sama mai sanyi sosai don ka yi amfani da shi na minti 25.)",
+    "Ka Guji shuka sama don ka rage Abubuwa Masu Ban Sha'awa",
+    "KCharselect unicode block name",
+    "Ka yi wa'azi na aƙalla shekara 3",
+    "Media controller element"
   ],
-
   "biological_control": [
-    "Trichoderma species biofungicides",
-    "Bacillus subtilis biological fungicides"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "chemical_control": [
-    "Mancozeb",
-    "Chlorothalonil",
-    "Copper fungicides",
-    "Iprodione",
-    "Strobilurin fungicides",
-    "Triazole fungicides"
+    "@ item Spelling dictionary",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name"
   ],
-
   "seed_treatment": [
-    "Thiram",
-    "Captan"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
-
   "similar_diseases": [
-    "Cercospora leaf spot of carrot (Cercospora carotae)"
+    "Wata ' yar'uwa mai suna Alea da ke kusa da wata motar da ke kusa da teku."
   ],
-
   "differential_diagnosis": {
-    "Alternaria_leaf_spot": "dark brown to black lesions with yellow halos",
-    "Cercospora_leaf_spot": "light brown or tan circular lesions"
+    "Alternaria_leaf_spot": "Mãsu duhun inuwa da Mutane da yawa da ba a san su sosai ba",
+    "Cercospora_leaf_spot": "Hasken rana ko kuma na'ura"
   },
-
   "impact": [
-    "rapid death of carrot foliage",
-    "reduced photosynthesis",
-    "major yield losses during rainy seasons"
+    "QXml",
+    "Saurin Sura Mai Motsi",
+    "Babbar hasara a Lokacin Wahala"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "CSIRO – Diseases of Vegetable Crops in Australia",
-    "University of Massachusetts Extension",
-    "Department of Primary Industries and Regional Development"
+    "@ item Text character set",
+    "@ item Text character set",
+    "@ item Text character set",
+    "Sashen Bayanai Masu Ban Al'ajabi da Kuma Yin Wa'azi"
   ]
 }

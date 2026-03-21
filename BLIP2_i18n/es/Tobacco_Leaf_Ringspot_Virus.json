@@ -1,0 +1,100 @@
+{
+  "virus_name": "Virus de la mancha de tabaco",
+  "abbreviation": "TRSV",
+  "family": "Secoviridae",
+  "genus": "Nepovirus",
+  "taxonomy": {
+    "order": "Picornavirales",
+    "virus_group": "Virus del ARN vegetal"
+  },
+  "genome": {
+    "type": "ARN de sentido positivo de una sola cadena",
+    "structure": "genoma bipartito (ARN1 y ARN2)",
+    "particle_shape": "isométrico",
+    "particle_size": "aproximadamente 28 nm de diámetro"
+  },
+  "transmission": {
+    "vectors": [
+      "nematodos (Xiphinema spp.)",
+      "thrips",
+      "ácaros",
+      "saltamontes",
+      "Escarabajos pulgas"
+    ],
+    "mechanical": true,
+    "seed_transmission": true,
+    "additional_notes": "Se ha detectado virus en las abejas, pero no se ha confirmado la transmisión de las abejas a las plantas."
+  },
+  "hosts": {
+    "major_crops": [
+      "Tabaco (Nicotiana spp.)",
+      "Semillas de soja",
+      "Tomate",
+      "Cacahuetes",
+      "Patata",
+      "Lechuga"
+    ],
+    "ornamental_plants": [
+      "Zamia furfuracea",
+      "Crisantemo",
+      "Petunia"
+    ],
+    "weed_hosts": [
+      "Chenopodium spp.",
+      "Amaranthus spp.",
+      "Solanum nigrum"
+    ]
+  },
+  "symptoms": [
+    "Manchas cloróticas en las hojas",
+    "Anillas necróticas a medida que progresa la enfermedad",
+    "Deformación y distorsión de las hojas",
+    "Crecimiento aturdido en plantas infectadas",
+    "Reducción del rendimiento y del vigor de las plantas"
+  ],
+  "disease_cycle": [
+    "El virus sobrevive en plantas, semillas y suelo infectados a través de vectores nematodos",
+    "Los nematodos adquieren virus mientras se alimentan de raíces infectadas",
+    "Vectores transmiten virus a plantas sanas durante la alimentación",
+    "La transmisión mecánica puede ocurrir durante el cultivo"
+  ],
+  "diagnosis": {
+    "field_symptoms": [
+      "Manchas de anillos característicos en las hojas",
+      "Clorosis y necrosis alrededor de las lesiones"
+    ],
+    "laboratory_methods": [
+      "ELISA",
+      "Diagnóstico basado en PCR",
+      "Microscopía electrónica"
+    ],
+    "viral_inclusions": [
+      "Inclusiones en vacío (Vac Inc)",
+      "Inclusiones cristaloides (Cyst Inc)"
+    ]
+  },
+  "impact": {
+    "economic": "Puede causar reducciones severas del rendimiento en los cultivos de soja, maní y tabaco",
+    "agronomic": "Las plantas infectadas pueden presentar un crecimiento deficiente y una productividad reducida"
+  },
+  "management": {
+    "cultural": [
+      "Utilizar semillas certificadas libres de virus",
+      "Eliminar las plantas infectadas antes de tiempo",
+      "Girar los cultivos con especies no hospedantes"
+    ],
+    "vector_management": [
+      "Controlar las poblaciones de nematodos en el suelo",
+      "Monitorear y administrar vectores de insectos"
+    ],
+    "sanitation": [
+      "Desinfectar herramientas y equipos",
+      "Evitar la transmisión mecánica entre plantas"
+    ]
+  },
+  "references": [
+    "APS Plant Disease Handbook",
+    "Taxonomía del virus ICTV",
+    "Base de datos de virus NCBI"
+  ]
+}

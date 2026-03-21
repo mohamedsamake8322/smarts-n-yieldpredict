@@ -1,0 +1,68 @@
+{
+  "pest": "Frutas Lombrices",
+  "scientific_name": "Helicoverpa armigera",
+  "pathogen_type": "Insecto (Lepidoptera polilla larva)",
+  "description": "Las larvas se alimentan de hojas, flores y frutos de muchos cultivos, especialmente el tomate y el algodón, causando grandes pérdidas de rendimiento.",
+  "symptoms": [
+    "Pequeños agujeros en hojas jóvenes causados por la alimentación temprana de las larvas",
+    "Pequeños agujeros de entrada en las frutas, a menudo cerca del tallo",
+    "Caterpillars alimentando dentro de las frutas",
+    "Frutas dañadas o minadas con alimentación interna",
+    "Las frutas dejan de crecer, maduran temprano y caen de la planta",
+    "Flores dañadas y vainas de semillas perforadas en leguminosas"
+  ],
+  "hosts": [
+    "Tomate",
+    "Algodón",
+    "Sorgo",
+    "Maíz dulce",
+    "Judías",
+    "Semillas de soja",
+    "Tabaco",
+    "Girasol",
+    "Melón",
+    "Varios cultivos frutales"
+  ],
+  "favorable_conditions": [
+    "Climas tropicales y subtropicales cálidos",
+    "Alta disponibilidad de cultivos de acogida",
+    "Condiciones de los invernaderos para la producción de tomate"
+  ],
+  "spread": [
+    "Polillas adultas que ponen huevos sobre hojas y frutas",
+    "Larvas moviéndose entre plantas cercanas",
+    "Migración de polillas adultas entre campos de cultivo"
+  ],
+  "management": [
+    "Control periódico de los cultivos de huevos y larvas jóvenes",
+    "Quitar y destruir las frutas infestadas",
+    "Utilice trampas de feromonas para monitorear las poblaciones de polillas",
+    "Fomentar los depredadores naturales y los parasitoides",
+    "Utilizar variedades de cultivos resistentes o tolerantes cuando estén disponibles"
+  ],
+  "biological_control": [
+    "Pulverizadores de bioinsecticida Bacillus thuringiensis (Bt)",
+    "Liberación de avispas parasitoideas como la especie Trichogramma",
+    "Depredadores como escarabajos femeninos, alas de encaje y aves",
+    "Hongos entomopatógenos como Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Espinosad",
+    "Benzoato de emamectina",
+    "Indoxacarb",
+    "Clorantraniliprol",
+    "Lambda-cihalotrina (utilización con control de resistencia)"
+  ],
+  "prevention": [
+    "Rotación de cultivos con cultivos distintos de los de acogida",
+    "Saneamiento sobre el terreno y eliminación de residuos de cultivos",
+    "Utilizar trampas de feromonas para la detección temprana",
+    "Instalar redes de insectos en invernaderos",
+    "Mantener una fertilización equilibrada para evitar el crecimiento excesivo de las plantas"
+  ],
+  "source": [
+    "Guías de manejo de plagas agrícolas",
+    "Literatura sobre la protección de los cultivos de invernadero",
+    "Referencias sobre el manejo de plagas de Helicoverpa armigera"
+  ]
+}

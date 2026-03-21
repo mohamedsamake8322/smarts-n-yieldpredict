@@ -1,78 +1,87 @@
 [
   {
-    "disease": "Leaf Spurge Flea Beetle",
-    "scientific_name": "Aphthona spp.",
-    "pathogen_type": "Insect (biological control agent)",
-    "description": "Small beetles used as biological control insects against Euphorbia esula (Leaf Spurge). The larvae feed on the roots while the adults consume the leaves, reducing the plant's growth and reproduction.",
-    "hosts": ["Euphorbia esula", "Leaf Spurge"],
+    "disease": "KCharselect unicode block name",
+    "scientific_name": "An buga wani talifi mai ban sha'awa.",
+    "pathogen_type": "A cikin Allo tsararre.",
+    "description": "Ana amfani da jini a matsayin mai ja - gorar da ake amfani da shi a kan wani irin abinci da ake amfani da shi a kan wani irin abinci da ake ci da kuma yadda ake amfani da shi.",
+    "hosts": [
+      "KCharselect unicode block name",
+      "KCharselect unicode block name"
+    ],
     "symptoms": [
-      "Leaves consumed by adult beetles",
-      "Reduced plant growth and flowering",
-      "Weakened or dying plants over time"
+      "Ku bar ' yan'uwan da suka yi girma su shawo kan abubuwan da ba su dace ba",
+      "Sa'ad da ya yi girma da kuma ban dariya",
+      "Rabinsa, ko ka rage abu kaɗan daga gare shi."
     ],
     "favorable_conditions": [
-      "Moderate spring and summer temperatures",
-      "Well-drained soils that favor larval development"
+      "Sãbonsu na tafiyar hunturu da ta bazara.",
+      "ƙasa da ke cike da ni'ima"
     ],
     "spread": [
-      "Natural movement of adult beetles",
-      "Human introduction for biological control programs"
+      "Ana iya samun ci gaba na manya",
+      "Farat ɗaya na ' yan Adam don tsara ayyukan da za su iya sarrafawa"
     ],
     "management": [
-      "Use as a biological control agent",
-      "Avoid pesticides that can kill Aphthona populations",
-      "Monitor population establishment and spread"
+      "Ka Yi Amfani da Shi a Matsayin Mai Iko",
+      "Ka guje wa wasu abubuwa da za su iya kashe wani mutum da ba shi da amfani",
+      "Jama'a da aka kafa don jama'a su yaɗa bishara"
     ],
     "chemical_control": [
-      "Not applicable: used as a biological control agent"
+      "Bai dace ba: Kamar ma'aikaci ne da ke ja - gora"
     ],
     "prevention": [
-      "Maintain healthy beetle populations for sustainable control",
-      "Avoid introducing non-selective pesticides"
+      "Ka kasance da koshin lafiya don ka iya kula da lafiyar jiki",
+      "Ka Guji Saurari Jama'a"
     ],
     "source": [
-      "CABI Invasive Species Compendium",
-      "USDA Leaf Spurge Biological Control Program"
+      "@ item Text character set",
+      "@ item Text character set"
     ]
   },
   {
-    "disease": "Lesser Cornstalk Borer",
-    "scientific_name": "Elasmopalpus lignosella",
-    "pathogen_type": "Insect (phytophagous larva)",
-    "description": "A caterpillar that mainly attacks the stems and roots of maize, sorghum, and other grasses, causing wilting and death of young seedlings.",
-    "hosts": ["Maize", "Sorghum", "Sugarcane", "Grasses", "Bean seedlings"],
+    "disease": "KCharselect unicode block name",
+    "scientific_name": "Indian National weekday 1 - LongDayName",
+    "pathogen_type": "A cikin Allo tsararre.",
+    "description": "Masu ba da shawara da ke kai hari ne kawai kuma ke kai hari ga bangon da ke tasowa, hakan yana nufin cewa za a yi amfani da maganin hana ɗaukar ciki, da kuma wasu ƙwayoyin iri, kuma zai jawo mutuwa da mutuwa.",
+    "hosts": [
+      "Indian National weekday 7 - LongDayName",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "KCharselect unicode block name",
+      "Ka Zama Mai Tawali'u"
+    ],
     "symptoms": [
-      "Wilting and yellowing of young plants",
-      "Holes and tunnels at the base of stems",
-      "Dead or weakened plants"
+      "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\"",
+      "Raɓa da kayan ado a wurin da ake girma",
+      "Matattu ko waɗanda suka raunana"
     ],
     "favorable_conditions": [
-      "Dry and sandy soils",
-      "Hot and dry climates that favor egg laying",
-      "Densely planted crops"
+      "Sa'an nan, Muka tsattsãge ƙasa tsattsagewa.",
+      "Mãsu gudu suna ɓũya.",
+      "Da shuke-shuke da matsayi mai kyau."
     ],
     "spread": [
-      "Eggs laid in the soil or at the base of plants",
-      "Larvae move to attack young stems",
-      "Movement of infested plants or plant material"
+      "Da ƙwãya mai sõshiya da ƙamshi.",
+      "An soma kai wa matasa hari",
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
     ],
     "management": [
-      "Crop rotation with non-host plants",
-      "Removal of infected crop residues",
-      "Deep planting to protect young seedlings"
+      "Da wata ayaba mai yawan 'ya'ya.",
+      "KCharselect unicode block name",
+      "Sa'ad da matasa suka yi girma don su kāre ' ya'yansu"
     ],
     "chemical_control": [
-      "Systemic or soil-applied insecticides (e.g., Chlorpyrifos, Imidacloprid)",
-      "Preventive application before seedling emergence"
+      "Rabinsa, ko ka rage abu kaɗan daga gare shi.",
+      "Yi amfani da mazaba ka sauya tsakanin tagogi da aka buɗe"
     ],
     "prevention": [
-      "Plant tolerant varieties when available",
-      "Keep fields free of plant debris",
-      "Monitor young plants and treat early if infestation appears"
+      "Ba da haɗin kai idan akwai wani wuri",
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+      "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
     ],
     "source": [
-      "CABI Crop Protection Compendium",
-      "FAO Pest Fact Sheets"
+      "@ item Text character set",
+      "@ item Text character set"
     ]
   }
 ]

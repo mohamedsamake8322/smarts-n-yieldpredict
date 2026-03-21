@@ -1,0 +1,122 @@
+{
+  "pest_name": "A NA - EME KA NDỊ NA - EME IHE IKE NA - EME IHE IKE",
+  "abbreviation": "PALIV",
+  "type": "Nje virus",
+  "history": "NDỊ mmadụ na - arịa ọrịa ndị na - eme ka ahụ́ na - adị mmadụ mma n'ahụ́ n'ụwa niile.",
+  "structure": {
+    "genome_type": "Ítụ̀ nà-dēèlụ̀",
+    "genome_length_bases": 10820,
+    "organization": [
+      "Sọsọọ́dēèlụ̀",
+      "3 IHE NDỊ GA - ENYERE GỊ AKA",
+      "PAAA) ọdụ ụgbọ mmiri"
+    ],
+    "proteins": [
+      {
+        "name": "P1",
+        "function": "Ihe omume ntụkwasị obi bụ́ nke a na - eme iji mee ka a nọgide na - arụ ọrụ a na - arụ"
+      },
+      {
+        "name": "HC-Pro",
+        "function": "Proteli, bụ́ onye na-enye aka n'ihe nrite, nke were ogologo oge-ọ́ọ̀kụ̀"
+      },
+      {
+        "name": "P3",
+        "function": "Ọrụ a na - arụ n'oge a bụ ọrụ a na - arụ n'ụlọ"
+      },
+      {
+        "name": "6K1",
+        "function": "Amaghị"
+      },
+      {
+        "name": "CI",
+        "function": "Na - eme ka ahụ́ gị na - arụ ọrụ nke ọma, ọ na - eme ka ahụ́ gị na - arụ ọrụ nke ọma"
+      },
+      {
+        "name": "6K2",
+        "function": "Amaghị, tinye aka n'ihe ndị na - ekwesịghị ekwesị"
+      },
+      {
+        "name": "NIa",
+        "function": "VPg na protein"
+      },
+      {
+        "name": "NIb",
+        "function": "Ihe Ndị Na - akpali Agụụ Mmekọahụ"
+      },
+      {
+        "name": "Iji Ọgwụ Eme Ihe n'Ụzọ Na - ezighị Ezi",
+        "function": "Mmiri ọgwụ ahụ́ bụ́ protein, mgbakọ na - adị n'ahụ́ ọkụ, mmịnye ọbara, na - agbasa"
+      }
+    ],
+    "virion_shape": "Ogologo oge, ogologo oge, mkpara-hahas",
+    "virion_length_nm": "810-8N"
+  },
+  "life_cycle": {
+    "entry": "A na - esi n'ihe ndị dị n'ime akwụkwọ ndụ enweta ihe ndị e ji ebi akwụkwọ ma ọ bụ mkpụrụ akwụkwọ ndị e ji esiji ákwà",
+    "replication": "Jenome sụgharịrị gaa n'akwụkwọ bụ́ St1 HC-Proro, NIatetet",
+    "gene_silencing_suppression": "HC-Pro na-enweghị ihe mgbochi",
+    "packaging": "Anwụrụ Ọkụ Na - esi n'Ahụ́ Ruo n'Ime Ala"
+  },
+  "transmission": {
+    "vectors": [
+      "Ebe A Na - anọ Akparịta Ụka n'Intanet"
+    ],
+    "mechanism": "Onye na-enweghị isi site n'akwụkwọ nri",
+    "seed_transmission": "Ọ bụghị mkpụrụ ka a na - ewepụta",
+    "host_range": [
+      "Ma, ọ na - adị m ka m̀ bụ onye a jụrụ ajụ.",
+      "Ma, e nwere ihe ụfọdụ nwere ike inyere anyị aka ịna - enwe obi ụtọ.",
+      "Chenanabbbo quinoa",
+      "Iji Ọgwụ Ọjọọ Eme Ihe n'Ụzọ Na - ezighị Ezi"
+    ]
+  },
+  "symptoms": {
+    "typical": "Otú akwụkwọ osisi si maa mma ma ọ bụ otú o si maa mma n'anya na - eme ka ọ na - acha odo odo ma ọ bụ akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ akwụkwọ ndụ",
+    "severe_strains": [
+      "Anwụrụ ọkụ na - esi ísì ụtọ nke na - esi n'ahụ́ apụta",
+      "IHE NDỊ NA - ETO ETO IBE GỊ KWURU",
+      "Ebe Ndị Na - adịghị Mma"
+    ],
+    "co-infections": {
+      "SPVD": "Mgbe mụ na nwunye m na-enweghị nsogbu, na-eme ka akwụkwọ osisi na-enweghị isi, ka ihe anyị na - arụpụta belata"
+    }
+  },
+  "genetic_variability": {
+    "strains": [
+      {
+        "name": "EA",
+        "location": "Ebe Ọwụwa Anyanwụ Africa"
+      },
+      {
+        "name": "RC",
+        "location": "Australia, Africa, Ebe Ugwu America, Eshia"
+      },
+      {
+        "name": "Kèánáhụ́chāghị́ányá",
+        "location": "Africa, Eshia, Ebe Ndịda America"
+      },
+      {
+        "name": "C",
+        "location": "Australia, Africa, Eshia, Ebe Ugwu na Ebe Ndịda America"
+      }
+    ]
+  },
+  "agricultural_impact": {
+    "affected_tissues": "N'ụzọ bụ́ isi, uru ahụ́ bụ́ isi",
+    "yield_loss": "Ọ bụrụ na e jikọta foto ndị ahụ na kọmputa, ha na - eme ka ahụ́ ghara ịna - eru mmadụ ala, meekwa ka o nwee ike ịna - akụ ihe nke ọma",
+    "social_impact": "Ndị ọrụ ugbo bụ́ ndị nwere obere ego na - adabere n'akwụkwọ ndị na - atọ ụtọ dị ka nri na mmiri ara ehi"
+  },
+  "management": {
+    "early_detection": "Mgbaàmà akwụkwọ osisi ndị na - adọrọ adọrọ ma na - agba akaebe site n'ELISA",
+    "removal": "Osisi ndị nwere nje ndị na - akpata ọrịa iji gbochie mgbasa ozi",
+    "prevention": [
+      "Ihe ndị na-enweghị ihe jikọrọ ha na nje virus-enweghị isi",
+      "Na - achịkwa onwe gị nke ọma",
+      "A na - eji osisi ndị e ji asa ezé na ihe ndị e ji edebe ebe obibi ọcha eme ihe n'ụzọ na - ezighị ezi"
+    ]
+  },
+  "references": [
+    "Dabere ná nnyocha ndị e mere n'ọbara mgbali elu nakwa ná nnyocha ndị na - atọ ụtọ e mere banyere ọrịa ụmụ ahụhụ na - ekesa"
+  ]
+}

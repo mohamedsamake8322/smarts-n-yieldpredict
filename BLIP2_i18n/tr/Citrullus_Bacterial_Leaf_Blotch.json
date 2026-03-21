@@ -1,119 +1,119 @@
 {
-  "disease_name": "Citrullus_Bacterial_Fruit_Blotch",
-  "common_name": "Bacterial Fruit Blotch",
+  "disease_name": "Citrullus_Bakteriyel_Fruit_Blotch",
+  "common_name": "Bakteriyel Meyve Blotch",
   "causal_agent": {
-    "type": "bacterium",
-    "scientific_name": "Acidovorax citrulli",
+    "type": "Bakteriler",
+    "scientific_name": "Acidovorax sitrulli",
     "taxonomy": {
-      "domain": "Bacteria",
-      "class": "Betaproteobacteria",
-      "order": "Burkholderiales",
-      "family": "Comamonadaceae",
-      "genus": "Acidovorax",
-      "species": "citrulli"
+      "domain": "Bakteriler",
+      "class": "Betaproteobakteriler",
+      "order": "Burkholderi",
+      "family": "Comamonadaceae Hakkında",
+      "genus": "Acidovorax Hakkında",
+      "species": "Citroën"
     }
   },
   "microbiological_properties": {
-    "gram_stain": "Gram-negative",
-    "shape": "Rod-shaped",
-    "size": "Approximately 0.5 μm × 1.7 μm",
-    "oxygen_requirement": "Strictly aerobic",
-    "motility": "Motile with polar flagellum",
-    "optimal_growth_temperature_celsius": "27-30"
+    "gram_stain": "Gram-negatif",
+    "shape": "Rod şekli",
+    "size": "Yaklaşık 0.5 μm × 1.7 μm",
+    "oxygen_requirement": "Sıkı aerobik",
+    "motility": "Polar flagellum ile motil",
+    "optimal_growth_temperature_celsius": "27 - 30"
   },
   "host_plants": [
-    "Watermelon",
+    "su melonları",
     "Melon",
-    "Cucumber",
-    "Squash",
-    "Pumpkin",
+    "Çanakkale",
+    "Squash Hakkında",
+    "Pompalı",
     "Zucchini"
   ],
   "symptoms": {
     "seedlings": [
-      "Water-soaked lesions on cotyledons",
-      "Necrotic lesions near veins",
-      "Lesions on hypocotyl",
-      "Seedling collapse and death"
+      "Cotyledonlarda su geçirmez hasarlar",
+      "Necrotik bozukluklar damarların yakınında",
+      "hypocotyl bozuklukları",
+      "Seedling çöküşü ve ölüm"
     ],
     "leaves": [
-      "Irregular dark-brown to black lesions (watermelon)",
-      "Reddish-brown lesions (melon)",
-      "Lesions spreading along veins",
-      "Leaf blight symptoms"
+      "Sıradışı karanlık kahverengi siyah hasarlar (su melonu)",
+      "Reddish kahverengi yaralanmalar (melon)",
+      "damarları boyunca yayılan yaralanmalar",
+      "Leaf Blight Belirtileri"
     ],
     "fruits": [
-      "Small irregular water-soaked lesions",
-      "Sunken rind spots",
-      "Lesions turn brown and crack",
-      "Internal fruit decay",
-      "Fruit rot before harvest"
+      "Küçük düzensiz su geçirmez hasarlar",
+      "Sunken rind noktaları",
+      "Kırışıklıklar kahverengi ve kırışıklık",
+      "İç Meyve Çöküşü",
+      "Yetiştirmeden Önce Meyve Yetiştirme"
     ]
   },
   "disease_cycle": {
-    "primary_inoculum": "Contaminated seeds",
+    "primary_inoculum": "kirlenmiş tohumlar",
     "transmission_methods": [
-      "Seed transmission",
-      "Splashing water",
-      "Wind-driven rain",
-      "Overhead irrigation"
+      "Tohum Transmisi",
+      "Suyun boşaltılması",
+      "rüzgârlı yağmur",
+      "Yüzey Irrigation"
     ],
     "infection_entry_points": [
-      "Stomata",
-      "Plant wounds"
+      "Stomatizasyon",
+      "Bitki Yaraları"
     ],
-    "fruit_infection_stage": "2–3 weeks after flowering"
+    "fruit_infection_stage": "Çiçek açtıktan 2-3 hafta sonra"
   },
   "favorable_conditions": {
-    "temperature_celsius": "High (around 27–30°C)",
-    "humidity": "High relative humidity",
+    "temperature_celsius": "Yüksek (yaklaşık 27-30°C)",
+    "humidity": "Yüksek nispeten nem",
     "environment": [
-      "Greenhouses",
-      "Dense plant populations",
-      "Overhead irrigation"
+      "Yeşilçam",
+      "Düşük bitki nüfusu",
+      "Yüzey Irrigation"
     ]
   },
   "economic_importance": {
-    "impact": "Severe losses in cucurbit crops, especially watermelon and melon",
-    "possible_loss_percentage": "Up to 90–100% fruit loss in severe outbreaks",
+    "impact": "Cukurbit tohumlarında, özellikle su melonu ve melonlarda ciddi kayıplar",
+    "possible_loss_percentage": "Şiddetli patlamalarda %90-100 meyve kaybı",
     "global_distribution": true
   },
   "management": {
     "seed_management": [
-      "Use pathogen-free certified seeds",
-      "Seed health testing (PCR or grow-out assays)"
+      "Patogen-free sertifikalı tohumları kullanın",
+      "Tohum Sağlığı Testleri (PCR veya Grow-Out Testleri)"
     ],
     "seed_treatments": [
-      "Dry heat treatment (85°C for 3–5 days)",
-      "Peroxyacetic acid treatment",
-      "Chlorine treatments"
+      "Kuru ısı tedavisi (3-5 gün boyunca 85°C)",
+      "peroxyacetik asit tedavisi",
+      "klor tedavisi"
     ],
     "cultural_practices": [
-      "Reduce humidity in greenhouses",
-      "Avoid overhead irrigation",
-      "Remove infected plants"
+      "Yeşil alanlarda nemin azaltılması",
+      "Aşırı sulama önlemek",
+      "Enfekte bitkilerin kaldırılması"
     ],
     "chemical_control": [
-      "Copper-based bactericides"
+      "bakır tabanlı bakteriler"
     ],
-    "host_resistance": "No commercially reliable resistant cultivars available"
+    "host_resistance": "Hiçbir ticari olarak güvenilir dayanıklı yetiştiriciler mevcut"
   },
   "genetic_diversity": {
     "groups": [
       {
-        "name": "Group I",
-        "characteristics": "Moderately aggressive on multiple cucurbits"
+        "name": "Grup I",
+        "characteristics": "Çeşitli cucurbits üzerinde orta derecede agresif"
       },
       {
-        "name": "Group II",
-        "characteristics": "Highly aggressive on watermelon"
+        "name": "Grup II",
+        "characteristics": "su melon üzerinde çok agresif"
       }
     ]
   },
   "sources": [
-    "APS Plant Disease Lessons",
-    "Journal of Plant Pathology studies on Acidovorax citrulli",
-    "International Seed Health Initiative (ISHI)",
-    "Plant Pathology research publications"
+    "APS Bitki Hastalıkları Dersleri",
+    "Acidovorax citrulli üzerinde bitki patolojisi çalışmaları",
+    "Uluslararası Tohum Sağlığı Girişimi (ISHI)",
+    "Bitki Patolojisi Araştırma Yayınları"
   ]
 }

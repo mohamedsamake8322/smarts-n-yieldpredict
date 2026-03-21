@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "@ item Spelling dictionary",
+  "scientific_name": "@ item Spelling dictionary",
+  "pathogen_type": "Ethiopian weekday 5 - LongDayName",
+  "description": "Da zarar mutum yana da ciwon daji, sai ya kashe shuke - shuke kuma ya rage yawan shuke - shuke.",
+  "symptoms": [
+    "A wurin da magaryar tuƙẽwa take.",
+    "Media controller element",
+    "Media controller element",
+    "Hasken walƙiyarsa Yanã kusa ya tafi da gannai.",
+    "Media controller element"
+  ],
+  "hosts": [
+    "KCharselect unicode block name",
+    "\"Kõ kuwa wata ƙungiya daga gare su, lalle ne, haƙĩƙa, sunã a cikin wata hujja bayyananniya.\""
+  ],
+  "favorable_conditions": [
+    "Cin hanci da rashawa na sa tafiya ya yi ɓarna ko kuma kyauta",
+    "Sa'ad da mutum ya yi zina ko kuma ya yi wasu abubuwa tare",
+    "Yi kusa da tsakanin shuke - shuke da kuma shuke - shuke masu kyau"
+  ],
+  "spread": [
+    "Media controller element",
+    "@ item Text character set",
+    "dictionary variant",
+    "Yanã fita daga tsakanin tsatso da karankarman ƙirji.",
+    "A cikin wata takardar fãta shimfiɗaɗɗa."
+  ],
+  "management": [
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "Kada ku sayi kayan duniya",
+    "Media controller element",
+    "Ka guje wa shuka sababbin baƙi a ƙasa mai faɗi na aƙalla shekara 2",
+    "Ka Yi Amfani da Gwaji Sa'ad da Ake Ganin Rashin Lafiya"
+  ],
+  "biological_control": [
+    "@ item Text character set"
+  ],
+  "chemical_control": [
+    "Babu magani da za a iya samu da zarin ci kamar su Ola"
+  ],
+  "prevention": [
+    "Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki",
+    "Yadda ake samun shuke - shuke da kyau kafin a sayi sayayya",
+    "Sabuwar fasaha ta yi wa'azi na makonni da yawa",
+    "Yadda ake samun ƙarfi sosai sa'ad da ake kula da marar lafiya",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Ka yi amfani da hanyar da ba ta dace ba don magance matsalar da ba ta dace ba ko kuma ta da lahani"
+  ],
+  "source": [
+    "Za a iya warkar da cuta ta wajen yin amfani da ita a hanyar da ba ta dace ba",
+    "KCharselect unicode block name"
+  ]
 }

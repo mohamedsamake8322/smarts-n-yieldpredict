@@ -1,46 +1,46 @@
 {
-  "disease_name": "Late Blight Fruit",
-  "scientific_name": "Phytophthora infestans",
-  "pathogen_type": "oomycete",
-  "description": "Late blight fruit rot is a destructive disease caused by the oomycete Phytophthora infestans. It mainly affects tomato and potato plants. The pathogen infects fruits, leaves and stems and can spread rapidly under cool and humid conditions, often leading to severe crop losses.",
+  "disease_name": "Gecikme Meyveleri",
+  "scientific_name": "Phytophthora Sıkıntılar",
+  "pathogen_type": "Oomycete",
+  "description": "Oomycete Phytophthora infestans tarafından tetiklenen yıkıcı bir hastalıktır. çoğunlukla domates ve patates bitkileri etkiler. Patojen meyveleri, yaprakları ve çamurları enfekte eder ve soğuk ve nemli koşullarda hızlı bir şekilde yayılabilir, çoğu zaman ciddi bitki kaybına yol açar.",
   "affected_parts": [
-    "Fruit",
-    "Leaf",
-    "Stem"
+    "Meyve",
+    "Leaf Hakkında",
+    "oy"
   ],
   "hosts": [
-    "Tomato",
-    "Potato"
+    "domates",
+    "Patates"
   ],
   "symptoms": [
-    "Dark brown or black lesions on fruits",
-    "Firm rot with greasy appearance",
-    "White mold growth under humid conditions",
-    "Rapid fruit decay"
+    "Karanlık kahverengi veya siyah yaralanmalar meyvelerde",
+    "Yumuşak görünümlü firm rot",
+    "ıslak koşullarda beyaz çamur büyümesi",
+    "Hızlı meyve kaybı"
   ],
   "favorable_conditions": [
-    "Cool temperatures (10–20°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Long periods of leaf wetness"
+    "Soğuk sıcaklıklar (10-20°C)",
+    "Yüksek nem",
+    "sıklıkla yağış",
+    "Uzun süreli yaprak ıslaklığı"
   ],
   "spread": [
-    "Wind-borne spores",
-    "Rain splash",
-    "Infected plant debris",
-    "Contaminated tools and equipment"
+    "rüzgarlı sporlar",
+    "yağmur splash",
+    "Enfekte bitki çöpleri",
+    "kirlenmiş araçlar ve ekipmanlar"
   ],
   "management": {
     "cultural": [
-      "Remove infected plants",
-      "Improve air circulation",
-      "Avoid overhead irrigation",
-      "Use resistant cultivars when available"
+      "Enfekte bitkilerin kaldırılması",
+      "Hava dolaşımını iyileştirmek",
+      "Aşırı sulama önlemek",
+      "Mevcut olduğunda dayanıklı bitkiler kullanın"
     ],
     "chemical": [
-      "Metalaxyl-based fungicides",
+      "Metalaxil bazlı fungicidler",
       "Chlorothalonil",
-      "Mancozeb"
+      "Manşet"
     ]
   }
 }

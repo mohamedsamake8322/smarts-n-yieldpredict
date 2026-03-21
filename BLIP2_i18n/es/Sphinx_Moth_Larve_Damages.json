@@ -1,0 +1,28 @@
+{
+  "pest_name": "Polilla de esfinge",
+  "stage": "larva",
+  "common_name": "Hornworm",
+  "description": "La etapa larval (caterpillar) de las polillas de la esfinge se llama comúnmente gusano de cuerno. Es grande, de cuerpo liso, a menudo con una proyección similar a cuerno en el extremo posterior.",
+  "damage": [
+    "Alimentación de hojas, tallos y a veces frutos de plantas huésped",
+    "La defoliación puede ocurrir si las poblaciones son altas",
+    "Las hojas a menudo tienen agujeros irregulares o bordes masticados",
+    "Puede debilitar las plantas jóvenes y reducir el rendimiento en cultivos como el tomate, el tabaco y otras Solanaceae"
+  ],
+  "host_range": [
+    "Tomate (Solanum lycopersicum)",
+    "Tabaco (Nicotiana tabacum)",
+    "Pimienta (Capsicum spp.)",
+    "Otras especies de Solanaceae"
+  ],
+  "control": [
+    "Larvas recolectoras en pequeños jardines",
+    "Control biológico con Bacillus thuringiensis (Bt) o avispas parasitarias",
+    "Utilización de cubiertas de fila para plantas jóvenes",
+    "Estimular a los depredadores naturales como las aves y los insectos depredadores"
+  ],
+  "notes": [
+    "Las larvas de la polilla esfinge a menudo se confunden con otras orugas grandes; busque el cuerno en el extremo posterior.",
+    "El manejo se centra principalmente en el estadio larval, ya que los adultos son polinizadores beneficiosos."
+  ]
+}

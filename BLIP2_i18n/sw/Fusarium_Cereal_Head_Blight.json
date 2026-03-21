@@ -1,69 +1,69 @@
 {
- "disease": "Fusarium Head Blight",
- "scientific_name": "Fusarium graminearum (main species)",
- "pathogen_type": "Fungus",
- "description": "A serious fungal disease of cereal crops that infects the heads of plants such as wheat and barley. It reduces grain yield and quality and can produce a toxic compound (mycotoxin) in the grain.",
- "symptoms": [
-  "Premature bleaching of cereal heads",
-  "One or more spikelets turn white while the rest remain green",
-  "Pink or orange fungal spores at the base of glumes",
-  "Whitish or pink fluffy fungal growth on infected heads in wet weather",
-  "Shriveled, lightweight and bleached kernels (tombstone kernels)"
- ],
- "hosts": [
-  "Wheat",
-  "Durum wheat",
-  "Barley",
-  "Oats",
-  "Corn (maize)",
-  "Rye",
-  "Wild and cultivated grasses"
- ],
- "favorable_conditions": [
-  "Warm temperatures around 25°C",
-  "High humidity or continuous moisture for 36 hours",
-  "Rain during flowering stage",
-  "Presence of infected crop residues in the field"
- ],
- "spread": [
-  "Wind-borne spores from infected residues",
-  "Rain splash spreading spores between plants",
-  "Planting infected seeds",
-  "Movement of contaminated crop residues or grain"
- ],
- "management": [
-  "Use resistant or tolerant cereal varieties",
-  "Rotate crops and avoid planting cereals after corn",
-  "Use clean certified seeds",
-  "Apply seed treatment before planting",
-  "Scout fields during flowering for symptoms",
-  "Harvest early when infection risk is high",
-  "Dry and aerate grain properly during storage"
- ],
- "biological_control": [
-  "Trichoderma species used as biological antagonists in soil or seed treatment",
-  "Beneficial microbes to suppress Fusarium in crop residues"
- ],
- "chemical_control": [
-  "Apply triazole fungicides (e.g. tebuconazole, prothioconazole, metconazole) during flowering stage",
-  "Use registered fungicides according to local agricultural recommendations"
- ],
- "prevention": [
-  "Rotate crops for at least 2 years with non-host crops",
-  "Manage crop residues by tillage or decomposition",
-  "Avoid highly susceptible varieties",
-  "Use proper irrigation management during flowering",
-  "Separate and test contaminated grain before feeding livestock"
- ],
- "impact": [
-  "Reduced grain yield and quality",
-  "Production of mycotoxin deoxynivalenol (DON)",
-  "Contaminated grain affects food processing, malting and biofuel production",
-  "High DON levels reduce feed intake and immunity in livestock"
- ],
- "source": [
-  "Alberta Agriculture – Fusarium Head Blight",
-  "Canadian Grain Commission",
-  "Plant pathology literature on cereal diseases"
- ]
+  "disease": "Fusarium kichwa Blight",
+  "scientific_name": "Fusarium graminearum (jina kuu)",
+  "pathogen_type": "Fungus ya",
+  "description": "Ugonjwa mkubwa wa fungus wa matunda ya wanyama ambayo huathiri kichwa cha mimea kama vile wanyama na wanyama. Ni kupunguza uzalishaji na ubora wa wanyama na inaweza kuzalisha muundo wa uchawi (mycotoxin) katika wanyama.",
+  "symptoms": [
+    "Maua ya mapema ya kichwa cha wanyama",
+    "Mmoja au zaidi ya mti huwa wa kijani wakati wengine huwa wa kijani.",
+    "Pembe au orange fungal spores juu ya msingi wa mazoezi",
+    "Uzalishaji wa giza ya bluu au bluu kwenye kichwa zilizoathirika wakati wa hali ya hewa",
+    "Mchakato wa nyekundu, nyekundu na nyekundu (tombstone kernels)"
+  ],
+  "hosts": [
+    "Maji ya Wheat",
+    "wakati wa mimea",
+    "Barry ya",
+    "Mwisho",
+    "Mafuta ya Mafuta (Mafuta ya Mafuta)",
+    "ya Rye",
+    "Mimea ya kijani na ya kutengenezwa"
+  ],
+  "favorable_conditions": [
+    "Hali ya joto karibu na 25°C",
+    "Ukosefu mkubwa au ukosefu wa kudumu kwa muda wa masaa 36",
+    "Mvua wakati wa maua",
+    "Ukosefu wa mbegu za mazao yanayohusiana katika ardhi"
+  ],
+  "spread": [
+    "Mchakato wa maua kutoka kwa vichaka vya kuvutia",
+    "Mlipuko wa mvua kuenea spores kati ya mimea",
+    "Kupata mbegu za kuvutia",
+    "Mabadiliko ya wanyama au wanyama wa kuvutia"
+  ],
+  "management": [
+    "Matumizi ya aina ya wanyama ya kudumu au ya kudumu",
+    "Kuondoa matunda na kuepuka mazao baada ya maziwa",
+    "Kutoa mbegu za kuhifadhi safi",
+    "Matumizi ya matibabu ya mbegu kabla ya kupanda",
+    "Kupata maeneo wakati wa kukua kwa madhumuni",
+    "Kupata mapema wakati uwezekano wa infection ni juu",
+    "Matunda na kuhifadhi kwa urahisi wakati wa kuhifadhi"
+  ],
+  "biological_control": [
+    "aina za trichoderma zinazotumika kama antagonists ya biolojia katika matibabu ya ardhi au mbegu",
+    "Mikrobi za faida za kuzuia Fusarium katika mbegu za mimea"
+  ],
+  "chemical_control": [
+    "Matumizi ya triazole fungicides (kwa mfano, tebuconazole, prothioconazole, metconazole) wakati wa maua",
+    "Matumizi ya fungicides zilizoandikwa kulingana na mapendekezo ya kilimo ya ndani"
+  ],
+  "prevention": [
+    "Matunda ya Rotate kwa muda wa chini ya miaka 2 na matunda yasiyo ya mwenyeji",
+    "Utawala wa mbegu za mimea kwa njia ya kuanguka au kuanguka",
+    "Kuepuka aina ya kuvutia sana",
+    "Kutoa usimamizi sahihi wa kuvutia wakati wa maua",
+    "Kuanzisha na kujaribu wanyama kuvutia kabla ya kuhifadhi wanyama"
+  ],
+  "impact": [
+    "Kupunguza uzalishaji na ubora wa nyama",
+    "Uwekezaji wa Mykotoxin Deoxynivalenol (DON)",
+    "Mafuta ya kuharibiwa yanaathiri mchakato wa chakula, uharibifu na uzalishaji wa biofuels",
+    "Kiwango cha DON cha juu cha kupunguza uzalishaji wa chakula na uvumilivu katika wanyama"
+  ],
+  "source": [
+    "Mji wa Alberta - Fusarium Head Blight",
+    "Tume ya Kimataifa ya Kanisa",
+    "Matibabu ya matibabu ya mimea juu ya magonjwa ya wanyama"
+  ]
 }

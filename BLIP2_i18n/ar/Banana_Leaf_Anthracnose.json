@@ -1,62 +1,62 @@
 {
-  "disease": "Banana Leaf Anthracnose",
-  "scientific_name": "Colletotrichum musae",
-  "pathogen_type": "Fungus",
-  "common_name": "Anthracnose of Banana",
-  "host_plant": "Banana (Musa spp.)",
+  "disease": "الناونة اللِقْن",
+  "scientific_name": "ملفetetetetetturerisum musae",
+  "pathogen_type": "المنقوس",
+  "common_name": "عنان المنان",
+  "host_plant": "موزان (ماسا spp.)",
   "affected_parts": [
-    "Leaves",
-    "Pseudostem",
-    "Fruit (in advanced infection)"
+    "الآس",
+    "Psedostem",
+    "الفواكه (الإصابة المتقدمة)"
   ],
-  "description": "Banana leaf anthracnose is a fungal disease caused mainly by Colletotrichum musae. It infects banana leaves and other aerial parts of the plant, producing necrotic lesions that may reduce photosynthesis and weaken plant growth. The pathogen can infect plants in the field and remain latent until environmental conditions become favorable for symptom development.",
+  "description": "إن مرض بنانانا اوراق الاوراق هو مرض فطري سببه أساساً الكوليتوتريكوم الموز، وهو يصيب أوراق الموز والأجزاء الجوية الأخرى من المصنع، وينتج عن ذلك تشوهات نثرية يمكن أن تقلل من التركيبة الضوئية وتضعف نمو النباتات، ويمكن لمسبب المرض أن يصيب النباتات في الميدان ويظل كامناً حتى تصبح الظروف البيئية مواتية لتطوير الأعراض.",
   "symptoms": [
-    "Small dark brown to black spots on leaves",
-    "Irregular necrotic lesions with defined margins",
-    "Yellow halo around lesions in some cases",
-    "Expansion of lesions leading to leaf blight",
-    "Premature defoliation in severe infections",
-    "Reduced plant vigor and growth"
+    "ظلام صغير إلى أسود على أوراق الشوَر",
+    "غير عادي مجزاً مع هامش مُعجج",
+    "الهالون الأصفر حول الشظايا في بعض الحالات",
+    ":: اتساع نطاق الإصابات المؤدية إلى بزّة الورقة",
+    "ما قبل النشاز في حالات التهابات خطيرة",
+    "انخفاض قوة النبتة والنمو"
   ],
   "disease_cycle": [
-    "The fungus survives in infected plant debris or soil.",
-    "Spores (conidia) are produced in structures called acervuli on infected tissues.",
-    "Conidia spread through rain splash, wind, insects, or contaminated tools.",
-    "Spores germinate on leaf surfaces under humid conditions.",
-    "The pathogen penetrates tissues using an appressorium and colonizes plant cells."
+    "وتبقى الفطريات على قيد الحياة في حطام نباتي أو تربة مصابين.",
+    "وتُنتَج البواسير (conidia) في هياكل تُدعى Acervolly على الأنسجة المُصابة.",
+    "وينتشر الكونيديا من خلال طقطقة المطر ، الرياح ، الحشرات ، او الادوات الملوثة .",
+    "وتنتشر البقول على أسطح الأوراق في ظل ظروف رطبة.",
+    "ويخترق المُمْرض الأنسجة باستخدام أبسسوريوم ويستعمر الخلايا النباتية."
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperatures (approximately 25–30°C)",
-    "Frequent rainfall",
-    "Dense canopy with poor air circulation"
+    "الرطوبة العالية",
+    "درجات الحرارة (نحو 25 - 30 درجة مئوية)",
+    "هطول هطول الأمطار",
+    "مع ضعف الدوران الهوائي"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Rain splash and irrigation water",
-    "Infected plant residues",
-    "Contaminated tools or handling"
+    "بُغَرَجَات الجو",
+    "مياه الأمطار والري",
+    "مخلفات النبتة المصابة",
+    "الأدوات أو المناولة الملوثة"
   ],
   "management": {
     "cultural_control": [
-      "Remove and destroy infected leaves and plant debris",
-      "Improve air circulation in plantations",
-      "Use disease-free planting material",
-      "Maintain field sanitation"
+      "(أ) إزالة وتدمير ما أصاب من أُسس وحطان نباتي",
+      "تحسين الحركة الجوية في المزارع",
+      "مواد الزرع الخالية من الأمراض",
+      "الصرف الصحي الميداني"
     ],
     "biological_control": [
-      "Use of antagonistic fungi such as Trichoderma spp.",
-      "Application of beneficial microbial biocontrol agents"
+      "استخدام فطريات معادية مثل تريشودرما Spp.",
+      "استخدام عوامل المراقبة البيولوجية المجراثية المفيدة"
     ],
     "chemical_control": [
-      "Fungicides such as carbendazim, mancozeb or thiophanate-methyl",
-      "Apply according to recommended agricultural guidelines"
+      "مبيدات آفات من قبيل الكربديندازيم أو المنكوزيب أو الثيوفان - ميثيل",
+      "تطبق وفقاً للمبادئ التوجيهية الزراعية الموصى بها"
     ]
   },
-  "economic_impact": "Anthracnose can reduce plant vigor and contribute to yield losses and fruit quality reduction in banana plantations.",
+  "economic_impact": "ويمكن للمهرجان الخبيث أن يقلل من قوة النباتات ويسهم في خسائر الغلال والحد من جودة الفواكه في مزارع الموز.",
   "sources": [
-    "Plant pathology literature on Colletotrichum musae",
-    "International Journal of Environment and Climate Change – Symptomatology of Colletotrichum musae",
-    "Plant disease management guides and Plantwise resources"
+    "كتابات عن علم النبات بشأن Colleetotrichum musae",
+    "Journal International Journal of Environment and Caletotrichum musae",
+    "أدلة إدارة الأمراض النباتية والموارد النباتية"
   ]
 }

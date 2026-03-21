@@ -1,51 +1,51 @@
 {
-  "disease_name": "Alternaria Black Mold Stem Canker",
+  "disease_name": "Alternaria Pack Molld Stem Canker",
   "scientific_name": "Alternaria spp.",
-  "pathogen_type": "fungus",
-  "genus": "Alternaria",
-  "description": "Alternaria black mold stem canker is a fungal disease caused by species of the genus Alternaria. It affects stems, leaves and sometimes fruits of many crops, especially plants in the Solanaceae family. The disease produces dark mold growth and cankers on stems, leading to reduced plant vigor and yield losses.",
+  "pathogen_type": "الفطر",
+  "genus": "اللمراء",
+  "description": "وينتج هذا المرض نمو عفن داكن وحشرات على الجذوع، مما يؤدي إلى انخفاض قوة النباتات وخسارة المحاصيل.",
   "affected_parts": [
-    "Stem",
-    "Leaf",
-    "Fruit"
+    "ستيم",
+    "",
+    "ما ما قبله"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Various Solanaceae crops"
+    "طاطاطاطاط",
+    "",
+    "المس",
+    "1 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م و، 1 م أ م و، 1 م أ م",
+    "متنوعات Solalasacea"
   ],
   "symptoms": [
-    "Dark brown to black mold growth on stems",
-    "Stem cankers or sunken lesions",
-    "Leaf spots with concentric rings",
-    "Yellowing and wilting of leaves",
-    "Reduced plant growth"
+    "من الظلام إلى الأسود نمو على المُنَوِّج",
+    "ستيما للورق أو بقع الشمس",
+    "بقع مائلة مع حلقات متقاربة",
+    "أصفر وسوائل الأوراق",
+    ""
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–30°C)",
-    "High humidity",
-    "Prolonged leaf wetness",
-    "Presence of infected plant debris"
+    "درجات حرارة الحرارة (20 - 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "مُطَلَق ورقة مِطْ طويلة",
+    "أن يكون الشخص قد أصيب بحطان نباتي"
   ],
   "spread": [
-    "Wind-dispersed spores",
-    "Rain splash",
-    "Contaminated plant debris",
-    "Infected seeds"
+    "بواحق الرياح المتناثرة",
+    "(ب) المطر",
+    "(أ) النفايات الملوثة",
+    "البذور المصح"
   ],
   "management": {
     "cultural": [
-      "Use disease-free seeds",
-      "Rotate crops with non-host plants",
-      "Remove infected plant debris",
-      "Improve air circulation around plants"
+      "البذور الخالية من الأمراض",
+      "محاصيل دوران مع نباتات غير مستهلكة",
+      "(أ) أُزيل",
+      "تحسين الدوران الجوي بين النباتات"
     ],
     "chemical": [
-      "Apply fungicides such as Mancozeb",
-      "Chlorothalonil",
-      "Copper-based fungicides"
+      "(أ) تطبيق مبيدات فطرية مثل مانكوزيب",
+      "كلوروثاثالونونيل",
+      "مبيدات الفطريات القائمة على أساس النحاس"
     ]
   }
 }

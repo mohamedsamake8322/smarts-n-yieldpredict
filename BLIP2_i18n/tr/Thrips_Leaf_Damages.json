@@ -1,60 +1,123 @@
 {
-  "pest_name": "Thrips Leaf Damages",
-  "order": "Thysanoptera",
-  "family": "Thripidae",
-  "type": "insect",
+  "pest_name": "Tırnaklar hasar veriyor",
+  "order": "Thysanoptera için",
+  "family": "Üçlü",
+  "type": "böcekler",
   "description": {
-    "size": "1–1.5 mm (0.03–0.06 inches)",
-    "body": "Slender, yellow or brown, two pairs of narrow, fringed wings",
-    "mouthparts": "Asymmetrical; used to scrape leaf surfaces and extract fluids",
-    "species_of_major_concern": ["Western flower thrips (Frankliniella occidentalis)", "Onion thrips (Thrips tabaci)"]
+    "size": "1–1.5 mm (0.03–0.06 inç)",
+    "body": "Yumuşak, sarı veya kahverengi, iki çift dar, çizilmiş kanat",
+    "mouthparts": "Asimetrik; yaprak yüzeyleri kesmek ve sıvı çıkarmak için kullanılır",
+    "species_of_major_concern": [
+      "Batı Çiçek Çubukları (Frankliniella occidentalis)",
+      "Onyon Tırnakları (Thrips tabaci)"
+    ]
   },
   "hosts": {
-    "ornamentals": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia", "Gerbera", "Capsicum annuum", "Begonia x hiemalis", "Pelargonium"],
-    "vegetables": ["Lettuce", "Tomato", "Potatoes", "Peppers", "Shallots", "Garlic", "Winter wheat", "Alfalfa", "Legumes", "Onions", "Beans", "Cucumber", "Cabbage", "Leek", "Asparagus", "Cauliflower"]
+    "ornamentals": [
+      "Chrysanthem",
+      "Sinyal",
+      "Bisiklet",
+      "Dahlia için",
+      "Dianabol",
+      "Fukushima",
+      "Empatikler",
+      "lily",
+      "Nemezya",
+      "Başlıca",
+      "Ranunkulüs",
+      "Verbena için",
+      "Koleksiyon",
+      "Diasya",
+      "Lobiye",
+      "Gerbera",
+      "Capsicum Yıllık",
+      "Başlangıç x Hiemalis",
+      "Pelargonium"
+    ],
+    "vegetables": [
+      "Mutluluk",
+      "domates",
+      "Patatesler",
+      "Pepperler",
+      "Şelaleler",
+      "Çilek",
+      "Kış Çilek",
+      "Alfalfa",
+      "Sebzeler",
+      "Onyonlar",
+      "Beanlar",
+      "Çanakkale",
+      "Cabbage için",
+      "Leek",
+      "Asparagüs",
+      "Cauliflower"
+    ]
   },
   "damage": {
-    "direct_feeding": "Piercing of plant cells and sucking of cell contents, leaving bleached or silvery flecks or patches that can turn brown and necrotic. Causes leaf and flower distortion and stunting. Small black faecal flecks visible within damaged areas.",
+    "direct_feeding": "Bitki hücrelerinin sızıntısı ve hücre içeriğinin sızıntısı, kahverengi ve nekrotik hale gelebilecek beyaz veya gümüş lekeler veya patşeler bırakır. yaprak ve çiçeklerin bozulmasına ve sızıntısına neden olur.",
     "feeding_preferences": {
-      "Western flower thrips": "Leaves and flowers; flowers/flower buds preferred",
-      "Japanese flower thrips": "Leaves primarily; can occur in flowers"
+      "Western flower thrips": "Yapraklar ve çiçekler; çiçekler / çiçekler tercih edilir",
+      "Japanese flower thrips": "Yapraklar çoğunlukla; çiçeklerde ortaya çıkabilir"
     },
-    "secondary_effects": "Damage can predispose plants to Botrytis infection."
+    "secondary_effects": "hasar bitkileri Botrytis enfeksiyonuna eğilebilir."
   },
   "virus_transmission": {
-    "vector": ["Western flower thrips", "Onion thrips", "Japanese flower thrips (TSWV only)"],
-    "viruses": ["Tomato spotted wilt virus (TSWV)", "Impatiens necrotic spot virus (INSV)"],
-    "mechanism": "First instar larvae acquire virus from infected plants; adults transmit virus during feeding. Adults remain infective for life.",
-    "host_plants": ["Chrysanthemum", "Cineraria", "Cyclamen", "Dahlia", "Dianthus", "Fuchsia", "Impatiens", "lily", "Nemesia", "Primula", "Ranunculus", "Verbena", "Coleus", "Diascia", "Lobelia"]
+    "vector": [
+      "Batı Çiçekleri",
+      "Onyon Tırnakları",
+      "Japon çiçek çubukları (TSWV yalnızca)"
+    ],
+    "viruses": [
+      "Tomato spotted wilt virüs (TSWV)",
+      "Impatiens necrotic spot virüsü (INSV)"
+    ],
+    "mechanism": "İlk kez larva enfekte bitkilerden virüs kazanır; yetişkinler beslenme sırasında virüsü iletir. yetişkinler ömür boyu bulaşıcı kalır.",
+    "host_plants": [
+      "Chrysanthem",
+      "Sinyal",
+      "Bisiklet",
+      "Dahlia için",
+      "Dianabol",
+      "Fukushima",
+      "Empatikler",
+      "lily",
+      "Nemezya",
+      "Başlıca",
+      "Ranunkulüs",
+      "Verbena için",
+      "Koleksiyon",
+      "Diasya",
+      "Lobiye"
+    ]
   },
   "symptoms_of_virus_infection": [
-    "Chlorotic or necrotic leaf spots",
-    "Leaf rings and line patterns",
-    "Leaf distortion, bronzing, yellowing, and necrosis",
-    "Stem blackening",
-    "Growing point death"
+    "Klorotik veya nekrotik yaprak noktaları",
+    "Yüzükler ve çizgi desenleri",
+    "Yaprak bozukluğu, bronzlaşma, sarılaşma ve nekroz",
+    "Siyah Siyah",
+    "Büyüme noktası ölüm"
   ],
   "regulatory_status": {
-    "TSWV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
-    "INSV": "Regulated Non-Quarantine Pest (RNQP) in Begonia x hiemalis"
+    "TSWV": "Begonia x hiemalis, Capsicum annuum, Chrysanthemum, Gerbera, Impatiens, Pelargonium",
+    "INSV": "Begonia x hiemalis'te düzenlenmemiş Quarantine Pest (RNQP)"
   },
   "life_cycle": {
-    "reproduction": "Can reproduce asexually; multiple generations per growing season",
-    "notes": "Indoor-grown plants more vulnerable due to fewer natural enemies"
+    "reproduction": "Aseksüel olarak çoğaltılabilir; büyüme mevsiminde birden fazla nesil",
+    "notes": "Yerli bitkiler daha az doğal düşman nedeniyle daha hassas"
   },
   "management": {
     "cultural": [
-      "Monitor plants regularly for early signs of thrips",
-      "Remove and destroy heavily infested plant parts",
-      "Maintain healthy populations of natural enemies"
+      "Bitkilerin erken belirtileri için düzenli olarak izlenmesi",
+      "Ağır derecede kirlenmiş bitki parçalarını kaldırmak ve yok etmek",
+      "Doğal düşmanların sağlıklı nüfuslarını korumak"
     ],
     "chemical": [
-      "Use insecticides judiciously; follow local guidelines and label instructions"
+      "Böcek ilacını adaletle kullanın; yerel talimatları ve etiketleme talimatlarını izleyin"
     ],
-    "integrated": "Combine monitoring, cultural control, natural predators, and targeted insecticide use"
+    "integrated": "Birleşik izleme, kültür kontrolü, doğal avcılar ve hedefli böcek ilacı kullanımı"
   },
   "references": [
-    "UK Ornamental Crop Guides: Thrips control in protected ornamental crops",
-    "Colorado State University Extension, Pest Notes: Thrips in Vegetables and Ornamentals"
+    "İngiltere Dekoratif Bitki Kılavuzu: Korunan Dekoratif Bitkilerde Kontrol Yöntemleri",
+    "Colorado Devlet Üniversitesi Uzantısı, Pest Notları: Sebze ve Dekorasyonlarda Çubuklar"
   ]
 }

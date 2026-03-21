@@ -1,0 +1,79 @@
+{
+  "disease": "La infestación de la araña roja",
+  "scientific_name": "Tetranychus urticae (y especies afines de ácaros araña)",
+  "pathogen_type": "Plagas arácnidas (ácaro)",
+  "description": "Los ácaros de araña roja son pequeñas plagas de arácnidos que se alimentan de la savia vegetal mediante la perforación de las células de las hojas. Se reproducen rápidamente en condiciones cálidas y secas y pueden causar graves daños a los cultivos al reducir la fotosíntesis y debilitar las plantas.",
+  "symptoms": [
+    "Pequeñas manchas pálidas o amarillas en las hojas",
+    "Hojas perdiendo su color verde",
+    "Seda fina que se enrosca en hojas y tallos",
+    "Hojas que se vuelven amarillas o marrones",
+    "Secado y caída de hojas",
+    "Plantas gravemente debilitadas o muerte de plantas"
+  ],
+  "hosts": [
+    "Tomate",
+    "Fresa",
+    "Judía",
+    "Pepino",
+    "Pimienta",
+    "Berenjenas",
+    "Manzana",
+    "Cítricos",
+    "Grapevine",
+    "Algodón",
+    "Maíz",
+    "Plantas ornamentales",
+    "Cultivos de invernadero"
+  ],
+  "favorable_conditions": [
+    "Temperaturas calientes",
+    "Condiciones de sequedad",
+    "Baja humedad",
+    "Ambientes de cultivo polvorientos",
+    "Condiciones de invernadero abarrotadas"
+  ],
+  "spread": [
+    "Viento",
+    "Movimiento de plantas infestadas",
+    "Herramientas o prendas de vestir contaminadas",
+    "Contacto de planta a planta"
+  ],
+  "impact": [
+    "Disminución de la fotosíntesis",
+    "Pérdida de hojas",
+    "Reducción del rendimiento de los cultivos",
+    "Quemadura solar en frutas debido a la pérdida del dosel",
+    "Debilitamiento o muerte de plantas en infestaciones graves"
+  ],
+  "cultural_control": [
+    "Aumentar la humedad alrededor de las plantas",
+    "Rocíe regularmente las plantas con agua",
+    "Quitar hojas o plantas muy infestadas",
+    "Limpie los desechos de los cultivos y las malas hierbas",
+    "Evitar condiciones de polvo en campos o invernaderos"
+  ],
+  "biological_control": [
+    "Ácaro depredador Phytoseiulus persimilis",
+    "Ácaro depredador Amblyseius californicus",
+    "Predatory midge Feltiella acarisuga",
+    "Señora escarabajos (ladybugs)",
+    "Larvas de lazo verdes",
+    "Fungus Beauveria bassiana"
+  ],
+  "chemical_control": [
+    "Aceite de neem",
+    "Miticidas o acaricidas cuando las infestaciones son graves",
+    "Utilizar plaguicidas selectivos compatibles con el control biológico"
+  ],
+  "prevention": [
+    "Monitor hojas regularmente con una lente de mano",
+    "Mantener un buen riego y humedad",
+    "Eliminar los restos vegetales después de la cosecha",
+    "Utilizar la gestión integrada de plagas (IPM)"
+  ],
+  "source": [
+    "Portal de Bioprotección de CABI",
+    "Referencias sobre el manejo de plagas agrícolas"
+  ]
+}

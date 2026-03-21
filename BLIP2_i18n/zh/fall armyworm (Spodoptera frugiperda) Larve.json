@@ -1,54 +1,54 @@
 {
- "disease": "Fall Armyworm Larva",
- "scientific_name": "Spodoptera frugiperda",
- "pathogen_type": "Insect (larval stage)",
- "description": "The larva (caterpillar) is the damaging stage of the fall armyworm. It feeds aggressively on crop leaves and can destroy plants quickly.",
- "symptoms": [
-  "Caterpillars feeding inside maize whorl",
-  "Large chewing damage on leaves",
-  "Presence of dark frass near feeding areas",
-  "Leaves shredded or skeletonized"
- ],
- "hosts": [
-  "Maize",
-  "Rice",
-  "Sorghum",
-  "Millet",
-  "Sugarcane",
-  "Vegetables"
- ],
- "favorable_conditions": [
-  "Warm humid climates",
-  "Dense crop fields",
-  "Abundant host plants"
- ],
- "spread": [
-  "Egg masses hatch into larvae on plant leaves",
-  "Larvae crawl to nearby plants",
-  "Spread from infested fields"
- ],
- "management": [
-  "Scout fields regularly for larvae",
-  "Crush egg masses and young larvae",
-  "Apply biological or chemical control early"
- ],
- "biological_control": [
-  "Bacillus thuringiensis (Bt)",
-  "Beauveria bassiana",
-  "Trichogramma parasitoids"
- ],
- "chemical_control": [
-  "Emamectin benzoate",
-  "Spinosad",
-  "Chlorantraniliprole"
- ],
- "prevention": [
-  "Early detection in maize whorl",
-  "Use resistant crop varieties",
-  "Crop rotation"
- ],
- "source": [
-  "FAO",
-  "CABI"
- ]
+  "disease": "瀑布军虫",
+  "scientific_name": "浮游植物(frugiperda)",
+  "pathogen_type": "昆虫(幼虫阶段)",
+  "description": "幼虫(毛虫)是坠落的幼虫的破坏性阶段,它以作物叶为生,可以迅速摧毁植物。",
+  "symptoms": [
+    "玉米里喂养的毛虫",
+    "叶叶的咀嚼大损伤",
+    "在喂食区附近存在暗干燥",
+    "被切碎或骨质化的叶子"
+  ],
+  "hosts": [
+    "成熟",
+    "大米稻米",
+    "高 orghum",
+    "米勒",
+    "甘甘蔗",
+    "蔬菜"
+  ],
+  "favorable_conditions": [
+    "温湿湿气候",
+    "密集作物田",
+    "丰盛的宿主设备"
+  ],
+  "spread": [
+    "蛋质在植物叶叶上孵化成幼虫",
+    "Larvae爬行到附近的植物",
+    "从渗入的字段中散开"
+  ],
+  "management": [
+    "为幼虫定期设置童子场",
+    "粉碎鸡蛋团和幼幼幼虫",
+    "及早应用生物或化学控制"
+  ],
+  "biological_control": [
+    "图林金氏菌( Bt)",
+    "博韦里亚·贝西亚纳",
+    "厚重图图示寄生物"
+  ],
+  "chemical_control": [
+    "Emmectin 苯甲酸",
+    "脊柱状",
+    "氯氯化物"
+  ],
+  "prevention": [
+    "及早发现玉米 whorl",
+    "使用抗抗药作物品种",
+    "作物轮轮作"
+  ],
+  "source": [
+    "粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织 粮农组织",
+    "CABI 加勒比"
+  ]
 }

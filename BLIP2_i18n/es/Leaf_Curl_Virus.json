@@ -1,0 +1,47 @@
+{
+  "disease": "Virus del Curl de Hoja",
+  "scientific_name": "Virus del rizado de la hoja de tomate (ToLCV)",
+  "pathogen_type": "Virus (ADNss, Begomovirus)",
+  "description": "Una enfermedad viral que causa rizado y distorsión de las hojas, retraso en el crecimiento y reducción del rendimiento de la fruta. Transmitido por las moscas blancas.",
+  "symptoms": [
+    "Enroscado de hojas hacia arriba o hacia abajo",
+    "Amarilla a lo largo de las venas de las hojas",
+    "Crecimiento aturdido y tamaño reducido de la fruta",
+    "La infección grave puede matar plantas jóvenes"
+  ],
+  "hosts": [
+    "Tomate",
+    "Pimienta",
+    "Berenjenas",
+    "Las demás solanáceas"
+  ],
+  "favorable_conditions": [
+    "Clima cálido",
+    "Alta población de moscas blancas",
+    "Plantación densa con mal flujo de aire"
+  ],
+  "spread": [
+    "Moscas blancas ( vector primario)",
+    "Semilleros o injertos infectados",
+    "Herramientas o manipulaciones contaminadas"
+  ],
+  "management": [
+    "Cultivadores resistentes o tolerantes",
+    "Controlar las poblaciones de moscas blancas",
+    "Retire y destruya las plantas infectadas",
+    "Mantener el espaciado adecuado de la planta"
+  ],
+  "chemical_control": [
+    "Insecticidas para tratar las moscas blancas (por ejemplo, imidacloprid)",
+    "Utilizar jabón insecticida o aerosoles de neem como prevención"
+  ],
+  "prevention": [
+    "Comience con plántulas libres de virus",
+    "Monitoriza las poblaciones de moscas blancas",
+    "Evite plantar cerca de cultivos infectados"
+  ],
+  "source": [
+    "Compendio de protección de cultivos CABI",
+    "Hojas informativas de la FAO sobre plagas y enfermedades"
+  ]
+}

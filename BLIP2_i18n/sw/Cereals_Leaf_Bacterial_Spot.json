@@ -1,123 +1,105 @@
 {
-  "disease": "Bacterial leaf streak of cereals",
-  "scientific_name": "Xanthomonas translucens",
-  "pathogen_type": "Bacterium",
-
+  "disease": "Bacterial mti wa wanyama",
+  "scientific_name": "Xanthomonas ya Translucens",
+  "pathogen_type": "Bakteri ya",
   "pathovars": [
     "Xanthomonas translucens pv. undulosa",
     "Xanthomonas translucens pv. translucens",
-    "Xanthomonas translucens pv. cerealis"
+    "Xanthomonas translucens pv. wanyama"
   ],
-
-  "description": "Bacterial leaf streak is an important disease of cereal crops such as wheat and barley. It is caused by the bacterium Xanthomonas translucens. The disease produces long translucent streaks on leaves that later turn brown and dry. Severe infections can reduce grain yield significantly.",
-
+  "description": "Barua ya bacterial ni ugonjwa muhimu wa matunda ya wanyama kama vile wanyama na nyama. Ni kwa sababu ya bacterium Xanthomonas translucens. Ugonjwa inafanya barua ya muda mrefu juu ya barua ambayo baadaye huwa baridi na safi. Maambukizi makubwa yanaweza kupunguza uzalishaji wa wanyama kwa kiasi kikubwa.",
   "symptoms": [
-    "Long water-soaked streaks on leaves",
-    "Light green or yellow stripes between veins",
-    "Lesions become brown and elongated",
-    "Streaks run parallel to leaf veins",
-    "Leaves may dry and die in severe infections",
-    "Sticky yellow bacterial exudate may appear on lesions",
-    "Leaves may look shredded along the streaks"
+    "Mbegu ya muda mrefu ya maji juu ya karatasi",
+    "Rangi ya kijani au kijani kati ya vinywaji",
+    "Uharibifu unaongezeka na kuongezeka",
+    "Matangazo yanayohusiana na nywele za nywele",
+    "Maonyesho yanaweza kufa na kufa kwa maambukizi makubwa",
+    "Bacterial exudate ya nyekundu inaweza kuonekana kwenye maambukizi",
+    "Maonyesho yanaweza kuonekana kuongezeka juu ya barabara"
   ],
-
   "visual_signature": [
-    "long yellow or light brown streaks on cereal leaves",
-    "parallel streaks following leaf veins",
-    "yellow sticky droplets on leaf surface"
+    "ya muda mrefu au nyekundu au nyekundu nyekundu juu ya tiketi ya wanyama",
+    "Mzunguko wa mzunguko baada ya mzunguko wa baridi",
+    "Maua ya kijani juu ya bustani"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "leaf blade",
-    "sometimes ear head peduncle"
+    "Makala ya",
+    "Nyuma ya Blade",
+    "Mara kwa mara kichwa kimoja"
   ],
-
   "hosts": [
-    "wheat",
-    "barley",
-    "rye",
-    "oat",
-    "maize",
-    "sorghum",
-    "wild grasses",
-    "forage grasses"
+    "Mji wa",
+    "ya barley",
+    "Riyadh",
+    "Siku ya",
+    "Mafuta ya",
+    "Mwisho wa",
+    "Mimea ya kijani",
+    "Mchakato wa matunda"
   ],
-
-  "plant_family": "Poaceae",
-
+  "plant_family": "Wawakilishi",
   "important_hosts": [
-    "Triticum aestivum (wheat)",
-    "Hordeum vulgare (barley)",
-    "Avena sativa (oat)",
-    "Secale cereale (rye)",
-    "Sorghum bicolor",
-    "Zea mays"
+    "Triticum aestivum (mchakato wa nyama)",
+    "Hordeum vulgare ya barley (barley)",
+    "Maisha ya Avena Sativa (Oat)",
+    "Mafuta ya mimea (Rye)",
+    "Mzunguko wa bicolor",
+    "Maji ya Maji"
   ],
-
   "favorable_conditions": [
-    "warm temperatures",
-    "high humidity",
-    "frequent rainfall",
-    "sprinkler irrigation",
-    "wet growing seasons"
+    "Hali ya joto",
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Ukosefu wa sprinkler",
+    "Mabadiliko ya kukua"
   ],
-
   "spread": [
-    "infected seeds",
-    "rain splash",
-    "wind-driven rain",
-    "contaminated crop residues",
-    "infected weeds and grasses"
+    "Mafuta ya kuvutia",
+    "Siku ya mvua",
+    "Mwisho wa mvua",
+    "Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo",
+    "Wanyama na matunda ya kuvutia"
   ],
-
   "disease_cycle": [
-    "bacteria survive on infected seeds",
-    "bacteria enter plant through stomata or wounds",
-    "infection spreads in leaves along veins",
-    "bacteria multiply and produce exudates",
-    "rain spreads bacteria to nearby plants"
+    "Bakteri ya kuishi juu ya mbegu zilizoathirika",
+    "Bakteri kuingia katika mmea kupitia stomata au maumivu",
+    "Maambukizi yanaongezeka katika karatasi kwa njia ya viungo",
+    "Bakteri kuongezeka na kuunda exudates",
+    "mvua inazidi bakteria katika mimea ya karibu"
   ],
-
   "management": [
-    "Use certified disease-free seeds",
-    "Apply strict seed health testing",
-    "Avoid planting infected seed lots",
-    "Use resistant or tolerant cultivars when available",
-    "Monitor fields regularly for early symptoms",
-    "Follow quarantine rules for seed movement"
+    "Kutumia matunda yasiyo ya magonjwa",
+    "Kutoa utafiti wa afya ya mbolea",
+    "Kuepuka kutengeneza matunda ya matunda ya kuvutia",
+    "Tumia matunda ya kuzuia au kuzuia wakati inapatikana.",
+    "Kuanzisha maeneo mara kwa mara kwa ajili ya matukio ya awali",
+    "Ufuatilia sheria za karanteni kwa ajili ya kuendesha mbegu"
   ],
-
   "biological_control": [
-    "biological bacterial antagonists under research"
+    "Biological bacterial antagonists katika utafiti"
   ],
-
   "chemical_control": [
-    "no highly effective chemical control available in the field"
+    "Hakuna usimamizi wa kemikali yenye ufanisi katika eneo hilo"
   ],
-
   "seed_treatment": [
-    "hot water treatment (around 53°C for 10 minutes)",
-    "dry heat treatment",
-    "acidified copper treatments to reduce seed infection"
+    "Matibabu ya maji ya joto (kwa joto ya joto ya joto ya joto ya joto ya joto kwa dakika 10)",
+    "Matibabu ya joto",
+    "matibabu ya asidi ili kupunguza maambukizi ya mimea"
   ],
-
   "impact": [
-    "yield loss up to 40 percent in severe cases",
-    "reduced grain weight",
-    "reduced grain number per spike"
+    "kuongezeka kwa asilimia 40 katika hali mbaya.",
+    "kupunguza uzito wa nyama",
+    "Kupunguza idadi ya wanyama kwa spike"
   ],
-
   "diagnosis": [
-    "field symptom observation",
-    "bacterial isolation on culture media",
-    "DNA-based molecular detection (PCR or sequencing)"
+    "Matokeo ya Matokeo ya Matokeo ya Matokeo",
+    "Uzoefu wa bakteria kwenye vyombo vya habari vya utamaduni",
+    "Utafiti wa molekuli kwa msingi wa DNA (PCR)"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Disease Journal reviews",
-    "EPPO plant quarantine reports",
-    "Sapkota et al. 2020"
+    "Mkataba wa Ulinzi wa CABI",
+    "Utafiti wa Siku ya Magonjwa ya Mimea",
+    "Ripoti ya Karantina ya EPPO",
+    "Mkutano wa Mkutano wa 2020"
   ]
 }

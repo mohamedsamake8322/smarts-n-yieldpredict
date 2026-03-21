@@ -1,139 +1,119 @@
 {
-  "disease": "Choanephora Fruit Rot",
-  "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "disease": "Maua ya Choanephora",
+  "scientific_name": "Maelezo ya Choanephora cucurbitarum",
+  "pathogen_type": "Fungus ya",
+  "description": "Choanephora fruct rot ni magonjwa ya fungal ambayo huathiri mimea ya cucurbit katika hali ya hewa na ya mvua. mimea ya ugonjwa huathiri maua mapema na baadaye kuenea kwa matunda, kusababisha mimea ya maji mapema. mimea ya ugonjwa mara moja huathiri na huathiri kwa ukuaji wa fungal fuzzy ambayo huathiri kutoka kwa nyekundu hadi nyekundu au nyekundu.",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "Matunda ya Root",
+    "Choanephora mbegu ya matunda",
+    "Maua ya Blythe Blythe",
+    "Meloni ya Blossom",
+    "Roho ya Roho"
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
-    "order": "Mucorales",
-    "family": "Choanephoraceae"
+    "kingdom": "Fungi ya",
+    "order": "Mwisho wa",
+    "family": "ya Choanephoraceae"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "Ugonjwa wa fungus ambayo hufanya haraka rangi ya maua na matunda ya cucurbit, hasa wakati wa hali ya hewa na ya mvua.",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "mti wa maji juu ya maua",
+    "Mafuta ya nyekundu au nyekundu ya matunda",
+    "Matunda ya mti huanza katika mwisho wa maua",
+    "Matunda ya haraka kuanguka ndani ya siku chache",
+    "ukuaji wa fungal fuzzy kutafakari mwili infected",
+    "Mchakato wa kijani huwa na rangi au rangi ya kijani",
+    "Muundo wa fungus kama pinhead juu ya matunda ya matunda"
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini ya Chini",
+    "Fomu ya bluu ya bluu ya bluu ya bluu ya bluu ya bluu ya bluu ya bluu ya bluu",
+    "muundo wa nyama kama pinhead juu ya mwili wa rotting",
+    "Matunda ya matunda ya matunda ya matunda"
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "Maua ya",
+    "Matunda ya",
+    "Matunda ya maua ya mwisho",
+    "Maeneo ya maua ya Senescent"
   ],
-
-  "plant_family": "Cucurbitaceae",
-
+  "plant_family": "ya Cucurbitaceae",
   "hosts": [
-    "pumpkin",
-    "squash",
-    "zucchini",
-    "watermelon",
-    "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
-    "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "Pumbo ya",
+    "ya squash",
+    "Mchakato",
+    "Mji wa maji",
+    "Meloni ya",
+    "ya Luffy",
+    "Mwisho wa",
+    "Mipango ya Egg",
+    "Chili ya pepe",
+    "ya Beans",
+    "ya Okra",
+    "Siku ya Spinach",
+    "Karatasi ya nguruwe",
+    "ya Kaskazini"
   ],
-
   "important_hosts": [
-    "Cucurbita pepo",
-    "Cucurbita maxima",
-    "Citrullus lanatus",
-    "Cucumis melo",
-    "Luffa cylindrica"
+    "Mchakato wa pepo",
+    "Mzunguko wa Maxima",
+    "Maelezo ya Citrullus lanatus",
+    "Maisha ya Melo",
+    "Mchakato wa silindri"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "Ukosefu wa juu",
+    "Mvua ya kawaida",
+    "Matunda ya maua na matunda",
+    "Usafiri wa hewa mbaya",
+    "Hali ya joto juu ya 25°C"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "Mchakato wa umeme",
+    "Siku ya mvua",
+    "Wanyama wanaotumia spores",
+    "Ukosefu wa mbegu za mimea",
+    "Matengenezo ya matengenezo ya matengenezo"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "Fungi kuishi katika misitu ya mimea na ardhi",
+    "Matokeo ya matibabu ya maua ya Senescent",
+    "Maambukizi yanaongezeka kutoka kwa maua kuongezeka kwa matunda",
+    "fungus hutoa spores nyingi juu ya mwili wa rotting",
+    "Matokeo yaliyotumika kwa mvua, mvua, usafishaji na wanyama"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "Matunda ya haraka",
+    "Kupoteza matunda ya matunda ya kukumbuka",
+    "Matunda ya likizo",
+    "Matokeo ya kupoteza katika matunda ya kukua"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "kuondoa maua na matunda ya kuvutia mara moja",
+    "kuepuka uchafuzi wa juu",
+    "Kutoa usafirishaji wa maji kama inawezekana",
+    "Uwanja wa Ndege kwa ajili ya usafiri mzuri wa hewa",
+    "Kupata matunda kabla ya kuogopa",
+    "Kupunguza umeme katika nyumba za greenhouse"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "Matengenezo ya mimea wakati inawezekana",
+    "Mipango ya kuongezeka au ardhi ya kuongezeka",
+    "Mchakato wa plastiki ili kupunguza mawasiliano ya ardhi",
+    "Usalama mzuri na kuondoa mbegu za mimea"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "Mykoparasite Piptocephalis virginiana ilitangaza kupunguza fungus"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "fungicides kwa ujumla hatari kwa sababu maua ya wazi daima"
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Roho ya Roho ya Roho"
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "Chuo Kikuu cha Minnesota Extension",
+    "Maonyesho ya Maonyesho ya Matibabu ya Matibabu",
+    "Utawala wa ugonjwa wa Cucurbit"
   ]
 }

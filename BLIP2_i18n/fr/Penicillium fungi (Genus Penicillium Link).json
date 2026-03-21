@@ -1,70 +1,70 @@
 {
- "disease": "Penicillium Mold",
- "scientific_name": "Genus Penicillium",
- "pathogen_type": "Fungus",
- "description": "Penicillium is a genus of fungi commonly found in soil, air, and decaying organic matter. Many species cause post-harvest diseases in fruits and vegetables, producing blue or green molds and leading to significant storage losses.",
- "symptoms": [
-  "Soft watery rot on fruits or plant tissues",
-  "Blue-green or green powdery mold on infected areas",
-  "Sunken lesions on fruit surfaces",
-  "Rapid decay during storage",
-  "Musty odor from infected produce"
- ],
- "visual_symptoms": [
-  "blue or green mold growth on fruit surface",
-  "powdery fungal spores covering lesions",
-  "soft rotting tissue around infection site"
- ],
- "hosts": [
-  "Apple",
-  "Citrus fruits",
-  "Grapes",
-  "Pear",
-  "Peach",
-  "Tomato",
-  "Strawberry",
-  "Stored grains and seeds"
- ],
- "favorable_conditions": [
-  "High humidity",
-  "Cool to moderate temperatures",
-  "Poor storage conditions",
-  "Wounded or damaged fruits"
- ],
- "spread": [
-  "Airborne fungal spores",
-  "Contact between infected and healthy produce",
-  "Contaminated storage containers and tools"
- ],
- "impact": [
-  "Post-harvest fruit decay",
-  "Loss of product quality during storage",
-  "Reduced market value of produce",
-  "Potential production of mycotoxins in some species"
- ],
- "management": [
-  "Handle fruits carefully to avoid wounds",
-  "Store produce at recommended temperature and humidity",
-  "Remove infected fruits immediately",
-  "Maintain clean storage facilities",
-  "Use resistant varieties when available"
- ],
- "biological_control": [
-  "Use of beneficial microbes such as Bacillus species",
-  "Application of antagonistic yeasts to suppress mold growth"
- ],
- "chemical_control": [
-  "Post-harvest fungicides such as thiabendazole or imazalil",
-  "Use of approved storage fungicides depending on crop"
- ],
- "prevention": [
-  "Sanitize storage rooms and containers",
-  "Avoid mechanical injury during harvest",
-  "Proper ventilation in storage facilities",
-  "Maintain cold chain for perishable crops"
- ],
- "source": [
-  "Plant pathology literature on post-harvest diseases",
-  "Mycology references on Penicillium species"
- ]
+  "disease": "Moule de penicillium",
+  "scientific_name": "Genre Penicillium",
+  "pathogen_type": "Champignons",
+  "description": "Le Penicillium est un genre de champignons couramment présents dans le sol, l'air et la matière organique en décomposition. De nombreuses espèces causent des maladies post-récolte dans les fruits et légumes, produisant des moisissures bleues ou vertes et entraînant des pertes de stockage importantes.",
+  "symptoms": [
+    "Pourriture aqueuse molle sur les fruits ou les tissus végétaux",
+    "Moulage vert-bleu ou vert poudreux sur les zones infectées",
+    "Lésions ensanglantées sur la surface des fruits",
+    "Désintégration rapide pendant l'entreposage",
+    "Inodore musculaire provenant de produits infectés"
+  ],
+  "visual_symptoms": [
+    "croissance de moisissures bleues ou vertes sur la surface des fruits",
+    "spores fongiques poudreuses couvrant les lésions",
+    "tissu mou pourriture autour du site d'infection"
+  ],
+  "hosts": [
+    "Pommes",
+    "Agrumes",
+    "Raisins",
+    "Poire",
+    "Pêche",
+    "Tomates",
+    "Fraises",
+    "Grains et graines entreposés"
+  ],
+  "favorable_conditions": [
+    "Humidité élevée",
+    "Températures froides à modérées",
+    "Mauvaises conditions de stockage",
+    "Fruits blessés ou endommagés"
+  ],
+  "spread": [
+    "Spores fongiques aéroportées",
+    "Contact entre produits infectés et produits sains",
+    "Récipients et outils de stockage contaminés"
+  ],
+  "impact": [
+    "Pourriture des fruits après récolte",
+    "Perte de qualité du produit pendant l'entreposage",
+    "Réduction de la valeur marchande des produits",
+    "Production potentielle de mycotoxines chez certaines espèces"
+  ],
+  "management": [
+    "Poignez soigneusement les fruits pour éviter les blessures",
+    "Conserver les produits à la température et à l'humidité recommandées.",
+    "Retirer immédiatement les fruits infectés",
+    "Maintenir des installations d ' entreposage propres",
+    "Utiliser des variétés résistantes lorsqu'elles sont disponibles"
+  ],
+  "biological_control": [
+    "Utilisation de microbes bénéfiques tels que les espèces de Bacillus",
+    "Application de levures antagonistes pour supprimer la croissance des moisissures"
+  ],
+  "chemical_control": [
+    "Fongicides post-récolte tels que le thiabendazole ou l'imazalil",
+    "Utilisation de fongicides de stockage approuvés selon la culture"
+  ],
+  "prevention": [
+    "Sanitiser les salles de stockage et les conteneurs",
+    "Éviter les blessures mécaniques pendant la récolte",
+    "Une ventilation adéquate dans les installations de stockage",
+    "Maintenir la chaîne du froid pour les cultures périssables"
+  ],
+  "source": [
+    "La littérature sur la pathologie des plantes sur les maladies post-récolte",
+    "Références mycologiques sur les espèces de Penicillium"
+  ]
 }

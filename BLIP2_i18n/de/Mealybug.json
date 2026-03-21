@@ -1,0 +1,68 @@
+{
+  "pest": "Mealybug",
+  "scientific_name": "Familie Pseudococcidae",
+  "pest_type": "Insekten",
+  "description": "Mealybugs sind kleine saftsaugende Insekten, die mit einem weißen Wachspulver bedeckt sind. Sie greifen viele Kulturen und Zierpflanzen an, schwächen Pflanzen und produzieren klebrige Honigtau, die zum Schimmelwachstum führt.",
+  "symptoms": [
+    "Weiße baumwollartige Insekten auf Blättern, Stängeln oder Früchten",
+    "Sticky Honigtau auf Pflanzenoberflächen",
+    "Schwarze Rußform wächst auf Honigtau",
+    "Gelbfärbungs- oder Lockenblätter",
+    "Stuntes Pflanzenwachstum",
+    "Vorzeitiger Blatttropfen bei schweren Befall"
+  ],
+  "hosts": [
+    "Zitrusfrüchte",
+    "Weintrauben",
+    "Bananen",
+    "Papaya",
+    "Ananas",
+    "Kaffee",
+    "Kassava",
+    "Zuckerrohr",
+    "Sonnenblume",
+    "Orchideen",
+    "Kaktus",
+    "Gartenpflanzen und Gewächshauspflanzen"
+  ],
+  "favorable_conditions": [
+    "Warmes und feuchtes Klima",
+    "Dichte Vegetation oder Gewächshausbedingungen",
+    "Vorhandensein von Ameisen, die mehlige Käfer schützen",
+    "Schlechte natürliche Raubtieraktivität"
+  ],
+  "spread": [
+    "Bewegung von befallenem Pflanzenmaterial",
+    "Wind oder Insekten, die Raupen tragen",
+    "Ameisen, die Kolonien transportieren und schützen"
+  ],
+  "damage": [
+    "Pflanzenschwächung durch Saftfütterung",
+    "Übertragung von Pflanzenviren in einigen Kulturen",
+    "Reduzierter Ertrag und Pflanzenwachstum",
+    "Entwicklung von Rußform auf Honigtau"
+  ],
+  "biological_control": [
+    "Predatory Beetle Cryptolaemus montrouzieri (Mealybug Zerstörer)",
+    "Grünspießlarven (Chrysopidae)",
+    "Parasitäre Wespen, die Mehlkäfer angreifen",
+    "Ermutigen Sie natürliche Raubtiere, indem Sie breite Insektizide reduzieren"
+  ],
+  "chemical_control": [
+    "Pyrethroide Insektizide wie Permethrin, Bifenthrin oder Cyfluthrin",
+    "Insektizide Seifen oder gartenbauliche Öle",
+    "Systemische Insektizide bei schweren Befall"
+  ],
+  "prevention": [
+    "Pflanzen regelmäßig auf Frühbefall untersuchen",
+    "Ameisen kontrollieren, die mehlige Käfer schützen",
+    "Stark befallene Pflanzenteile entfernen",
+    "Vermeiden Sie übermäßige Stickstoffdüngung",
+    "Sauberes Pflanzmaterial verwenden"
+  ],
+  "source": [
+    "Entomologische Literatur zu Pseudodococcidae",
+    "Angaben zur Schädlingsbekämpfung in der Landwirtschaft",
+    "Wikipedia – Mealybug"
+  ]
+}

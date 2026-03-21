@@ -1,70 +1,70 @@
 {
   "disease_name": "Alfalfa_Leaf_Mosaic_Virus",
-  "common_name": "Alfalfa Mosaic Disease",
+  "common_name": "Maladie mosaïque de l'Alfalfa",
   "pathogen": {
     "type": "virus",
-    "scientific_name": "Alfalfa mosaic virus",
+    "scientific_name": "Virus de la mosaïque d'Alfalfa",
     "abbreviation": "AMV",
     "family": "Bromoviridae",
     "genus": "Alfamovirus"
   },
   "host_plants": [
     "Alfalfa",
-    "Potato",
-    "Tomato",
-    "Pepper",
-    "Soybean",
+    "Pommes de terre",
+    "Tomates",
+    "Poivre",
+    "Soja",
     "Clover",
-    "Pea",
-    "Bean",
-    "Tobacco",
-    "Many ornamental plants"
+    "Pois",
+    "Haricots",
+    "Tabac",
+    "Nombreuses plantes ornementales"
   ],
   "symptoms": {
     "leaves": [
-      "Bright yellow mosaic patterns",
-      "Chlorotic mottling",
-      "Leaf distortion",
-      "Narrow or elongated leaves",
-      "Reduced leaf size"
+      "Modèles de mosaïque jaune vif",
+      "Le mottling chlorotique",
+      "Distorsion des feuilles",
+      "Feuilles étroites ou allongées",
+      "Taille réduite des feuilles"
     ],
     "plants": [
-      "Stunted growth",
-      "Reduced vigor",
-      "Reduced yield"
+      "Croissance assourdie",
+      "Une vigueur réduite",
+      "Rendement réduit"
     ]
   },
   "transmission": {
     "vectors": [
-      "Aphids (more than 20 species)"
+      "Aphids (plus de 20 espèces)"
     ],
     "mechanical_transmission": true,
     "seed_transmission": true,
     "vegetative_propagation": true
   },
   "favorable_conditions": [
-    "High aphid populations",
-    "Warm temperatures",
-    "Presence of infected host plants nearby"
+    "Populations élevées de pucerons",
+    "Températures chaudes",
+    "Présence de plantes hôtes infectées à proximité"
   ],
   "management": {
     "cultural_control": [
-      "Use virus-free certified seeds",
-      "Remove infected plants",
-      "Control weeds that act as virus reservoirs"
+      "Utiliser des semences certifiées sans virus",
+      "Enlever les plantes infectées",
+      "Les mauvaises herbes de contrôle qui agissent comme réservoirs de virus"
     ],
     "vector_control": [
-      "Monitor and manage aphid populations"
+      "Surveiller et gérer les populations de pucerons"
     ],
-    "resistant_varieties": "Some tolerant cultivars available depending on crop"
+    "resistant_varieties": "Certains cultivars tolérants disponibles selon la culture"
   },
   "economic_importance": {
-    "impact": "Reduces crop yield and quality in many legume and vegetable crops",
-    "distribution": "Worldwide"
+    "impact": "Réduit le rendement et la qualité des cultures dans de nombreuses cultures de légumineuses et de légumes",
+    "distribution": "Dans le monde entier"
   },
   "sources": [
-    "APS Plant Disease Handbook",
-    "CABI Crop Protection Compendium",
-    "ICTV Virus Taxonomy"
+    "Manuel sur les maladies des plantes APS",
+    "Recueil sur la protection des cultures de l'IBAC",
+    "Taxonomie du virus du VCI"
   ]
 }

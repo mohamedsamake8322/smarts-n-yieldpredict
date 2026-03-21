@@ -1,52 +1,52 @@
 {
-  "disease": "Longhorn Beetle Infestation",
-  "scientific_name": "Family: Cerambycidae",
-  "pathogen_type": "Insect pest",
-  "description": "Longhorn beetles are wood-boring insects that attack trees and woody plants. Larvae bore into stems and trunks, weakening plants and causing structural damage, sometimes leading to death of the host.",
+  "disease": "Infestation du dendroctone du Longhorn",
+  "scientific_name": "Famille des Cerambycidae",
+  "pathogen_type": "Insecte nuisible",
+  "description": "Les larves percent dans les tiges et les troncs, affaiblissent les plantes et causent des dommages structuraux, entraînant parfois la mort de l'hôte.",
   "symptoms": [
-    "Holes and tunnels in stems, branches, or trunks",
-    "Frass (sawdust-like excrement) around entry holes",
-    "Wilting or yellowing of leaves",
-    "Dieback of branches",
-    "Stunted growth"
+    "Trous et tunnels dans les tiges, les branches ou les troncs",
+    "Frass (excréments de sciure) autour des trous d'entrée",
+    "Villation ou jaunissement des feuilles",
+    "Dieback des branches",
+    "Croissance assourdie"
   ],
   "hosts": [
-    "Hardwood trees (oak, maple, ash)",
-    "Fruit trees (apple, cherry, peach)",
-    "Forest trees",
-    "Ornamental trees and shrubs"
+    "Bois feuillus (poêle, érable, frêne)",
+    "Fruitiers (pomme, cerise, pêche)",
+    "Arbres forestiers",
+    "Arbres et arbustes ornementaux"
   ],
   "favorable_conditions": [
-    "Stressed or weakened trees",
-    "Warm and humid climates",
-    "Presence of fallen or dead wood nearby"
+    "Arbres stressés ou affaiblis",
+    "Climats chauds et humides",
+    "Présence de bois tombé ou mort à proximité"
   ],
   "spread": [
-    "Adult beetles flying to nearby trees",
-    "Movement of infested firewood, logs, or nursery stock",
-    "Natural dispersal by adults seeking new host plants"
+    "Des coléoptères adultes volent vers les arbres avoisinants",
+    "Mouvement de bois de chauffage, de grumes ou de matériel de pépinière infesté",
+    "Dispersion naturelle par les adultes à la recherche de nouvelles plantes hôtes"
   ],
   "management": [
-    "Inspect and remove infested wood",
-    "Prune and destroy affected branches",
-    "Monitor adult beetle populations with traps",
-    "Promote tree health to reduce susceptibility",
-    "Avoid transporting firewood or plant material from infested areas"
+    "Inspecter et enlever le bois infesté",
+    "Prunez et détruisez les branches touchées",
+    "Surveiller les populations de coléoptères adultes avec des pièges",
+    "Promouvoir la santé des arbres pour réduire la susceptibilité",
+    "Éviter de transporter du bois de chauffage ou du matériel végétal provenant de zones infestées"
   ],
   "chemical_control": [
-    "Systemic insecticides (e.g., imidacloprid) applied to the soil or injected into trees",
-    "Contact insecticides (pyrethroids) on bark for adult control",
-    "Timing is critical: target young larvae and emerging adults"
+    "insecticides systémiques (p. ex. imidacloprid) appliqués sur le sol ou injectés dans les arbres",
+    "insecticides de contact (pyréthroïdes) sur l'écorce pour le contrôle des adultes",
+    "Le moment est crucial : cibler les jeunes larves et les adultes émergents"
   ],
   "prevention": [
-    "Quarantine and inspect imported wood and nursery plants",
-    "Maintain vigorous tree health",
-    "Remove dead or stressed trees promptly",
-    "Use tree wraps or protective barriers where feasible"
+    "Quarantine et inspection des plantes de bois et de pépinière importées",
+    "Maintenir une bonne santé des arbres",
+    "Enlever rapidement les arbres morts ou stressés",
+    "Utiliser des enveloppements d'arbres ou des barrières de protection lorsque c'est possible"
   ],
   "source": [
-    "USDA Forest Service Pest Fact Sheets",
-    "CABI Invasive Species Compendium",
-    "Scientific literature on Cerambycidae pest management"
+    "Fiches d'information sur les ravageurs du service forestier de l'USDA",
+    "Recueil des espèces envahissantes de la CABI",
+    "Documentation scientifique sur la lutte antiparasitaire des Cerambycidae"
   ]
 }

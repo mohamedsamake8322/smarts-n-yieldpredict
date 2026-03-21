@@ -1,79 +1,79 @@
 {
-  "disease": "Broad mite damage",
-  "scientific_name": "Polyphagotarsonemus latus",
-  "pathogen_type": "Mite (arthropod pest)",
-  "description": "Broad mite is a microscopic pest that attacks young plant tissues. It feeds on leaves, stems, and fruits by injecting toxic saliva that distorts plant growth. The damage causes severe deformation of leaves and fruits and can significantly reduce crop yield.",
+  "disease": "تلف كبير جدات",
+  "scientific_name": "1 - 1 - 3 3",
+  "pathogen_type": "Mite (الآفات (الآفات))",
+  "description": "إن العطر الواسع هو آفة مجهرية تهاجم أنسجة النباتات الشابة. فهو يتغذى على الأوراق، والجرثوم، والثمار من خلال حقن اللعاب السام الذي يشوه نمو النباتات. وهذا الضرر يتسبب في تشوه حاد في الأوراق والفواكه، ويمكن أن يقلل إلى حد كبير من غلة المحاصيل.",
   "symptoms": [
-    "Distorted or twisted young leaves",
-    "Leaf curling and thickening",
-    "Bronzing or darkening of leaf surface",
-    "Stunted plant growth",
-    "Cracked or scarred fruits",
-    "Deformed buds and flowers",
-    "Young tissues become hard and brittle"
+    "أوراق شباب مُزَّمة أو مُلتَوِيَة أو مُلتَوِيَة",
+    "ترفرف وتتكثُّف",
+    "أو ظلام سطح الورقة",
+    "نمو النباتات المبتت",
+    "« أو فواكه أو فواكه أو فواكه",
+    "الأذرع والزهور المشوهة",
+    "أنسجة الشباب تصبح صلبة و صلبة"
   ],
   "hosts": [
-    "pepper",
-    "chili pepper",
-    "tomato",
-    "eggplant",
-    "potato",
-    "cucumber",
-    "melon",
-    "beans",
-    "cotton",
-    "tea",
-    "citrus",
-    "papaya",
-    "avocado",
-    "mango",
-    "ornamental plants"
+    "(بآلاف دولارات الولايات المتحدة)",
+    "",
+    "ط ط ط ط ط ط ط ط",
+    "(ب) ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))((((()))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "",
+    "الخيار",
+    "البطائل",
+    "",
+    "القطن",
+    "2 ف-5، 1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م أ م",
+    "المتكسسسس",
+    "يبانيا",
+    "مُكُصب مُعْسِس",
+    "",
+    "النباتات"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "High humidity",
-    "Dense plant canopy",
-    "Poor air circulation",
-    "Greenhouse environments"
+    "درجة حرارة",
+    "الرطوبة العالية",
+    "معلق معلق",
+    "",
+    "البيئات"
   ],
   "spread": [
-    "Wind movement",
-    "Contaminated tools and plant material",
-    "Movement by insects such as whiteflies",
-    "Transport on workers' clothing"
+    "حركة الرياح",
+    "الأدوات الملوثة والمواد النباتية",
+    "حركة الحشرات مثل الحشرات البيضاء",
+    "باء/معاملات النقل في ملابس العمال"
   ],
   "management": [
-    "Regular monitoring of young leaves",
-    "Remove heavily infested plant parts",
-    "Improve air circulation between plants",
-    "Use resistant or tolerant varieties when available",
-    "Avoid excessive nitrogen fertilization"
+    "الرصد المنتظم لأوراق الشباب",
+    "(أ) أُسرت أو أُزيلت",
+    "تحسين الدوران الجوي بين النباتات",
+    "الاستخدام المقاوم أو المتسامح عندما يكون متاحاً",
+    "تجنب الإفراط في التلقيح"
   ],
   "biological_control": [
-    "Predatory mites such as Neoseiulus californicus",
-    "Predatory mites such as Amblyseius swirskii",
-    "Predatory mites such as Phytoseiulus persimilis",
-    "Use of entomopathogenic fungi such as Beauveria bassiana"
+    "مَثثيات مثل نيوسيولس كاليفورنيكوس",
+    "مَثَثَث مثل أمبلليسيوس سويرسكي",
+    "مَثَثث مثل ڤيتوسيولس persimilis",
+    "استخدام فطريات مثل بوفيريا باسيانا (Boveria Bassiana)"
   ],
   "chemical_control": [
-    "Abamectin",
-    "Spiromesifen",
-    "Spirodiclofen",
-    "Bifenazate",
-    "Sulfur-based miticides",
-    "Fenpyroximate"
+    "",
+    "منسَفْك",
+    "E-S-A",
+    "پيفينازا",
+    "مبيدات مبيدات مبيدات",
+    "الفرق"
   ],
   "prevention": [
-    "Inspect seedlings before planting",
-    "Maintain good greenhouse hygiene",
-    "Control weeds that may host mites",
-    "Avoid moving infested plants",
-    "Monitor regularly during warm humid periods"
+    "ما قبل الزرع:",
+    "المحافظة على صحة جيدة",
+    "المناقصات التي يمكن أن تُضاف إليها",
+    "المراوغة في النباتات المتنقلات",
+    "الرصد المنتظم أثناء فترات الرطوبة الدافئة"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "University of Florida IFAS Extension",
-    "Integrated Pest Management literature",
-    "Plant protection entomology references"
+    "مجموعة حماية المُنتَجَب",
+    "جامعة فلوريدا",
+    "المؤلفات المتعلقة بالإدارة المتكاملة",
+    "المراجع المرجعية"
   ]
 }

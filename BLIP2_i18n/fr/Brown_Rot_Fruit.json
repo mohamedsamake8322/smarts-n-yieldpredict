@@ -1,78 +1,78 @@
 {
-  "disease": "Brown rot of fruit",
+  "disease": "Pourriture brune de fruits",
   "scientific_name": "Monilinia fructigena, Monilinia fructicola, Monilinia laxa",
-  "pathogen_type": "Fungus",
-  "description": "Brown rot is a fungal disease that attacks fruits, flowers and twigs of many fruit trees. The disease causes fruit decay before or after harvest and can spread quickly in warm and humid conditions.",
+  "pathogen_type": "Champignons",
+  "description": "La pourriture brune est une maladie fongique qui attaque les fruits, les fleurs et les rameaux de nombreux arbres fruitiers. La maladie provoque la décomposition des fruits avant ou après la récolte et peut se propager rapidement dans des conditions chaudes et humides.",
   "symptoms": [
-    "Small brown spots on fruit surface",
-    "Soft brown rot spreading across the fruit",
-    "Circular grey or beige spore masses on the fruit",
-    "Fruit shriveling and drying on the tree",
-    "Mummified fruits remaining attached to branches",
-    "Flower blight and twig dieback in severe infections"
+    "Petites taches brunes à la surface des fruits",
+    "Pourriture brune molle qui s'étend à travers le fruit",
+    "Masses circulaires de spores grises ou beiges sur le fruit",
+    "Fruits broyés et séchés sur l'arbre",
+    "Fruits momifiés restant attachés aux branches",
+    "Brûlure des fleurs et dépérissement des rameaux dans les infections graves"
   ],
   "hosts": [
-    "peach",
-    "apricot",
-    "plum",
-    "cherry",
+    "pêche",
+    "d'abricot",
+    "prune",
+    "Cerise",
     "nectarine",
-    "apple",
-    "pear",
-    "almond",
-    "other stone fruits"
+    "pomme",
+    "poire",
+    "Amandes",
+    "autres fruits en pierre"
   ],
   "favorable_conditions": [
-    "Warm temperatures (20–25°C)",
-    "High humidity",
-    "Frequent rainfall",
-    "Fruit injuries or cracks",
-    "Dense orchards with poor airflow"
+    "Températures chaudes (20-25°C)",
+    "Humidité élevée",
+    "Pluies fréquentes",
+    "Blessures ou fissures de fruits",
+    "Des vergers denses à faible débit d'air"
   ],
   "spread": [
-    "Windborne fungal spores",
-    "Rain splash",
-    "Infected fruits left on trees",
-    "Mummified fruits on branches",
-    "Infected plant debris"
+    "Spores fongiques éoliennes",
+    "éclaboussure de pluie",
+    "Fruits infectés laissés sur les arbres",
+    "Fruits momifiés sur les branches",
+    "Débris de plantes infectées"
   ],
   "management": [
-    "Remove and destroy infected fruits",
-    "Prune trees to improve airflow",
-    "Remove mummified fruits from trees",
-    "Avoid fruit injuries during harvest",
-    "Maintain orchard sanitation"
+    "Enlever et détruire les fruits infectés",
+    "Pruneaux pour améliorer le débit d'air",
+    "Retirer les fruits momifiés des arbres",
+    "Éviter les blessures causées par les fruits pendant la récolte",
+    "Entretien de l'assainissement des vergers"
   ],
   "biological_control": [
-    "Bacillus subtilis biofungicides",
-    "Trichoderma based biological treatments",
-    "Aureobasidium pullulans biological control agents"
+    "Bacillus subtilis biofongicides",
+    "Traitements biologiques à base de trichoderme",
+    "Aureobasidium pullulans agents de contrôle biologique"
   ],
   "chemical_control": [
     "Tebuconazole",
     "Propiconazole",
     "Myclobutanil",
     "Captan",
-    "Mancozeb",
-    "Azoxystrobin",
+    "Mancozéb",
+    "Azoxystrobine",
     "Fenbuconazole"
   ],
   "prevention": [
-    "Remove infected fruit during the season",
-    "Avoid fruit damage by insects",
-    "Maintain good orchard hygiene",
-    "Harvest fruit carefully",
-    "Store fruit in dry and cool conditions"
+    "Enlever les fruits infectés pendant la saison",
+    "Éviter les dommages causés aux fruits par les insectes",
+    "Maintenir une bonne hygiène des vergers",
+    "Récolter soigneusement les fruits",
+    "Conserver les fruits dans des conditions sèches et fraîches."
   ],
   "visual_signature": [
-    "brown soft rot on fruit",
-    "circular grey spore rings",
-    "mummified fruits on branches"
+    "pourriture molle brune sur les fruits",
+    "Cerneaux de spores gris circulaires",
+    "Fruits momifiés sur les branches"
   ],
   "source": [
     "CABI Crop Protection Compendium 2022",
-    "Frontiers in Microbiology 2022",
-    "The Plant Health Instructor",
-    "Cornell University - Diseases of Trees and Shrubs"
+    "Frontières en microbiologie 2022",
+    "L'instructeur phytosanitaire",
+    "Université Cornell - Maladies des arbres et des arbustes"
   ]
 }

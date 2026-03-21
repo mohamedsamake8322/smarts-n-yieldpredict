@@ -1,0 +1,72 @@
+{
+  "pest_name": "ይሰጣሉ Blight",
+  "scientific_name": "የ Pseudomonas syringae pv. phaseolicola",
+  "common_abbreviations": [
+    "የ Pseudomonas blight",
+    "ደንበኞች Halo blight",
+    "ፎቶዎች ፎቶዎች",
+    "bacterial ፎቶ ፎቶ ፎቶ ፎቶ ፎቶ"
+  ],
+  "description": "Halo blight በ Pseudomonas syringae pv. phaseolicola በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv. በ Pseudomonas syringae pv.",
+  "distribution": "በዓለም ዙሪያ, առնվազն በአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ, የአውሮፓ,",
+  "host_range": {
+    "general": "ፎቶዎች (Phaseolus spp)",
+    "notable_hosts": [
+      "ቀዝቃዛ Red Kidney Drybean",
+      "ሌሎች common bean ስሪት"
+    ]
+  },
+  "symptoms": {
+    "leaf": [
+      "የኃይል አነስተኛ አነስተኛ አነስተኛ አነስተኛ አነስተኛ አነስተኛ",
+      "ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር ጥቁር",
+      "የሽከርካሪ እና የሽከርካሪ አቅርቦት እና የሽከርካሪ አቅርቦት በሽከርካሪ አቅርቦት",
+      "የክክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ ኬክሮቲክ",
+      "ጥቁር ሁኔታዎች: አነስተኛ አነስተኛ አነስተኛ አነስተኛ አነስተኛ"
+    ],
+    "pod": [
+      "የሙቀት, የሙቀት የሙቀት የሙቀት የሙቀት",
+      "የሙከራ ወይም የሙከራ መሳሪያዎች"
+    ]
+  },
+  "damage": [
+    "ከፍተኛ ምርት እና ምርት ጥራት ዝቅተኛ",
+    "ከፍተኛ ፍጥነት ገበያዎች ውስጥ ሙሉ ፍጥነት ለመፍጠር ይችላሉ",
+    "የኃይል አነስተኛ የኃይል አነስተኛ የኃይል አነስተኛ የኃይል አነስተኛ የኃይል አነስተኛ",
+    "የካሬንቲን ግምገማዎች በካሬንቲን ግምገማዎች በካሬንቲን ግምገማዎች"
+  ],
+  "biology": {
+    "pathogen_type": "ባክቴሪያዎች",
+    "survival": "የሽያጭዎች እና የሽያጭዎች ላይ የተመሠረተ",
+    "infection_routes": [
+      "የኃይል ማረፊያ (Hydatodes, Stomata)",
+      "ፎቶዎች"
+    ],
+    "favorable_conditions": "የሙቀት (16-24 °C), የሙቀት የሙቀት",
+    "spread": [
+      "መሳሪያዎች",
+      "የአውሮፕላን Splash",
+      "መሳሪያዎች",
+      "Mechanical መለያዎች"
+    ]
+  },
+  "management": {
+    "cultural_control": [
+      "ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ ማረጋገጫ",
+      "የንግድ የንግድ የንግድ የንግድ የንግድ የንግድ የንግድ የንግድ",
+      "የአውሮፕላን ማሸጊያ ማሸጊያ",
+      "የተሻለ የንግድ መሣሪያዎች"
+    ],
+    "chemical_control": [
+      "የካርቦን ላይ የተመሠረተ የካርቦን የካርቦን የካርቦን ለማስተካከል",
+      "መድሃኒት መድሃኒት መድሃኒት መድሃኒት መድሃኒት መድሃኒት"
+    ],
+    "genetic_control": [
+      "የካሚካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካኒካቲ"
+    ]
+  },
+  "notes": [
+    "የካሚካል, የካሚካል እና የካሚካል ቴክኖሎጂዎች ጋር የተመሠረተ አስተዳደር በጣም ውጤታማ ነው",
+    "የሙከራ ማረጋገጫ እና የኮርንቲን መቆጣጠሪያዎች በጣም አስፈላጊ ነው."
+  ]
+}

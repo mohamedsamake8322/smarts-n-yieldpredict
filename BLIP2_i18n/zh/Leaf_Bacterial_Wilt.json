@@ -1,46 +1,46 @@
 {
-  "disease": "Bacterial Wilt (Leaf)",
-  "scientific_name": "Ralstonia solanacearum",
-  "pathogen_type": "Bacterium",
-  "description": "A soil-borne bacterial disease causing wilting of leaves and stems, eventually killing plants. Can persist in soil and water for years.",
+  "disease": "细菌(叶)",
+  "scientific_name": "Ralstonia Solanacearum 索氏菌",
+  "pathogen_type": "细菌",
+  "description": "土壤传播的细菌疾病导致叶叶和根的枯萎,最终导致植物死亡,在土壤和水中可能持续多年。",
   "symptoms": [
-    "Sudden wilting of leaves",
-    "Yellowing and drooping of older leaves",
-    "Brown discoloration in vascular tissue"
+    "叶子突然枯萎",
+    "黄树和老树老树叶",
+    "血管组织中的棕色变色"
   ],
   "hosts": [
-    "Tomato",
-    "Potato",
-    "Eggplant",
-    "Pepper",
-    "Other Solanaceae"
+    "番茄",
+    "马铃薯",
+    "茄子种植",
+    "辣椒",
+    "其他索拉纳塞e"
   ],
   "favorable_conditions": [
-    "Warm soil temperatures",
-    "High soil moisture",
-    "Poorly drained fields"
+    "温暖土壤温度",
+    "高土壤湿度",
+    "贫乏的田地"
   ],
   "spread": [
-    "Contaminated soil and irrigation water",
-    "Infested tools or machinery",
-    "Planting infected seedlings"
+    "受污染土壤和灌溉水",
+    "渗透工具或机械",
+    "种植感染感染的幼苗"
   ],
   "management": [
-    "Use resistant or tolerant cultivars",
-    "Remove and destroy infected plants",
-    "Improve soil drainage and avoid waterlogging",
-    "Practice crop rotation with non-hosts"
+    "使用耐抗或容忍的栽培品种",
+    "清除和销毁受感染植物",
+    "改善土壤排水和避免水涝",
+    "与非东道方进行种植作物轮作"
   ],
   "chemical_control": [
-    "No effective chemical treatment; focus on sanitation and resistant varieties"
+    "没有有效的化学处理;侧重于卫生和抗药性品种"
   ],
   "prevention": [
-    "Use pathogen-free planting material",
-    "Sanitize tools and equipment",
-    "Avoid moving soil from infected fields"
+    "使用无病原植物材料",
+    "使工具和设备清洁化",
+    "避免土壤从受感染的田地移动"
   ],
   "source": [
-    "CABI Crop Protection Compendium",
-    "FAO Plant Health Management"
+    "CABI 作物保护简编",
+    "粮农组织植物健康管理"
   ]
 }

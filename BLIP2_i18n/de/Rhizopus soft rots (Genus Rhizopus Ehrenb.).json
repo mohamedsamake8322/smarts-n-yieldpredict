@@ -1,0 +1,74 @@
+{
+  "disease": "Rhizopus Soft Rot",
+  "scientific_name": "Rhizopus-Arten (Genus Rhizopus)",
+  "pathogen_type": "Pilze",
+  "description": "Rhizopus soft rot ist eine Pilzkrankheit, die hauptsächlich Obst, Gemüse und gelagerte Kulturen betrifft. Der Pilz infiziert verwundete Pflanzengewebe und verursacht einen schnellen weichen, wässrigen Zerfall. Er ist häufig während der Lagerung, des Transports und unter warmen und feuchten Bedingungen.",
+  "symptoms": [
+    "Weiche wässrige Fäule auf infizierten Geweben",
+    "Schneller Abbau von Obst- oder Gemüsegewebe",
+    "Weißes Baumwoll-ähnliches Pilzwachstum auf der Oberfläche",
+    "Schwarze pin-ähnliche Sporenstrukturen auf infizierten Gebieten",
+    "Foul Geruch im fortgeschrittenen Zerfall",
+    "Infizierte Gewebe werden musy und Kollaps"
+  ],
+  "hosts": [
+    "Tomaten",
+    "Erdbeere",
+    "Pfirsich",
+    "Papaya",
+    "Bananen",
+    "Süßkartoffeln",
+    "Karotten",
+    "Kürbisgewächse",
+    "Squash",
+    "Gurken",
+    "Melonen",
+    "Mango",
+    "Auberginen",
+    "Pfeffer",
+    "Gespeichertes Gemüse und Früchte"
+  ],
+  "favorable_conditions": [
+    "Warme Temperaturen",
+    "Hohe Luftfeuchtigkeit",
+    "Beschädigtes oder verwundetes Pflanzengewebe",
+    "Schlechte Lagerungsbedingungen",
+    "Schlechte Belüftung während der Lagerung"
+  ],
+  "spread": [
+    "Pilzsporen in der Luft",
+    "Kontakt zwischen infizierten und gesunden Produkten",
+    "Kontaminierte Lagerbehälter oder Werkzeuge",
+    "Insekten oder mechanische Schäden, die Wunden verursachen"
+  ],
+  "impact": [
+    "Schnelle Verluste nach der Ernte",
+    "Obst- und Gemüsezerfall während der Lagerung oder des Transports",
+    "Verminderter Marktwert von Kulturpflanzen"
+  ],
+  "cultural_control": [
+    "Behandeln Sie Obst und Gemüse sorgfältig, um Wunden zu vermeiden",
+    "Erntekulturen unter trockenen Bedingungen",
+    "Beschädigte oder infizierte Produkte schnell entfernen",
+    "Gute Hygiene in Lagerräumen bewahren",
+    "Gewährleistung einer ordnungsgemäßen Belüftung in Speicheranlagen"
+  ],
+  "biological_control": [
+    "Benutze nützliche Mikroben wie Bacillus-Arten",
+    "Verwenden Sie Biocontrol Hefen, die Pilzwachstum hemmen"
+  ],
+  "chemical_control": [
+    "Fungizid-Behandlungen nach der Ernte, soweit erlaubt",
+    "Verwendung von Desinfektionsmitteln für die Lagerung von Behältern und Geräten"
+  ],
+  "prevention": [
+    "Mechanische Verletzungen während der Ernte vermeiden",
+    "Pflanzen bei entsprechender Temperatur und Luftfeuchtigkeit lagern",
+    "Verwendung sauberer Behälter und Lagereinrichtungen",
+    "Separate infizierte Produkte von gesunden Produkten"
+  ],
+  "source": [
+    "Pflanzenpathologie-Referenzen zu Post-Ernte-Erkrankungen",
+    "Leitfaden für das Management der landwirtschaftlichen Lagerungskrankheiten"
+  ]
+}

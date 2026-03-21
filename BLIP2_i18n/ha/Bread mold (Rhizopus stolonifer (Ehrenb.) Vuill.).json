@@ -1,87 +1,87 @@
 {
-  "disease": "Rhizopus soft rot (Black bread mold)",
-  "scientific_name": "Rhizopus stolonifer",
-  "pathogen_type": "Fungus",
-  "description": "Rhizopus stolonifer is a common fungus that causes soft rot in many fruits and vegetables, especially after harvest. It grows rapidly in warm and humid conditions and spreads easily through airborne spores. The disease mainly attacks ripe or wounded produce with high sugar content.",
+  "disease": "Sai su motsar da ƙũra game da shi.",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "Indian National weekday 5 - LongDayName",
+  "description": "Wani abin ban dariya ne da ke sa mutum ya ji tausayin ' ya'yan itace da yawa, musamman ma idan girbi ya yi girbi mai zafi kuma ya yi girma a yanayi mai zafi.",
   "symptoms": [
-    "Soft watery rot on fruits or vegetables",
-    "Rapid tissue breakdown and leakage of juice",
-    "White cotton-like fungal growth on the surface",
-    "Development of black sporangia (black mold dots)",
-    "Sour or acidic smell from infected produce",
-    "Rapid decay spreading to nearby fruits"
+    "\"Sa'an nan kuma mãsu shã ne, a kan wannan abin cin, daga ruwan zãfi.\"",
+    "KCharselect unicode block name",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "KCharselect unicode block name",
+    "Ana iya samun cuta daga cuta",
+    "Nunannun 'yã'yan itãcenta makusantã ne (ga mai son ɗĩba),"
   ],
   "hosts": [
-    "strawberry",
-    "tomato",
-    "peach",
-    "melon",
-    "watermelon",
-    "banana",
-    "grape",
-    "mango",
-    "papaya",
-    "sweet potato",
-    "carrot",
-    "cucumber",
-    "eggplant",
-    "pepper",
-    "onion",
-    "garlic",
-    "beans",
-    "various stored fruits and vegetables"
+    "Media controller element",
+    "QShortcut",
+    "Ethiopian weekday 2 - LongDayName",
+    "\"Kuma Ka sanya mini wani mataimaki daga mutãnena.\"",
+    "Ana shãyar da su daga wani marmaro mai zãfin ruwa.",
+    "QFontDatabase",
+    "Yin Shirin Aiki",
+    "Yã kũ mutãne!",
+    "KCharselect unicode block name",
+    "Farã mai dãɗi ga mashãyan.",
+    "Media controller element",
+    "KCharselect unicode block name",
+    "Saurin Sura Mai Motsi",
+    "KCharselect unicode block name",
+    "@ action",
+    "QFontDatabase",
+    "QFontDatabase",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa."
   ],
   "favorable_conditions": [
-    "High humidity",
-    "Warm temperature (25–30°C)",
-    "Wounded or damaged fruits",
-    "High sugar content in ripe fruits",
-    "Poor storage conditions",
-    "Poor ventilation during storage"
+    "QShortcut",
+    "Ka Shiga Duk da Haka",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi.",
+    "Yanayin da ba a son kai ba ya sa yanayin duniya ya daɗa muni",
+    "Rashin Lafiya a Lokacin Wahala"
   ],
   "spread": [
-    "Airborne fungal spores",
-    "Contact between infected and healthy fruits",
-    "Insects carrying spores",
-    "Contaminated storage containers or surfaces"
+    "@ item Text character set",
+    "Yanã fita daga tsakanin tsatso da karankarman ƙirji.",
+    "Ana Mai da Tawali'u Mai Ban Al'ajabi",
+    "KCharselect unicode block name"
   ],
   "management": [
-    "Handle fruits carefully to avoid wounds",
-    "Remove and destroy infected fruits quickly",
-    "Maintain good hygiene in storage areas",
-    "Store produce at low temperature",
-    "Improve ventilation and reduce humidity"
+    "Yin ' ya'yan itace a hankali don kada su yi faɗa",
+    "Kunã sãmudaga gare shi, abin mãye da abinci mai kyau.",
+    "Ka kasance da tsabta a wuraren da babu surutu",
+    "Mãsu gudu suna ɓũya.",
+    "Media controller element"
   ],
   "biological_control": [
-    "Syncephalis species that parasitize Rhizopus",
-    "Bacillus species producing antifungal compounds",
-    "Fengycin-producing bacteria that inhibit fungal growth"
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "Mãsu farin idãnu da baƙinsu waɗanda aka tsare a cikin haimõmi."
   ],
   "chemical_control": [
-    "Thiabendazole",
-    "Benomyl",
-    "Imazalil",
-    "Propiconazole",
-    "Thiocarbamates",
-    "Fludioxonil",
-    "Tebuconazole",
-    "Fenhexamide",
-    "Azoxystrobin",
-    "Chlorine",
-    "Sodium hypochlorite",
-    "Calcium hypochlorite"
+    "KCharselect unicode block name",
+    "Benjamin",
+    "Indian National weekday 5 - LongDayName",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "QShortcut",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name",
+    "KCharselect unicode block name"
   ],
   "prevention": [
-    "Harvest fruits carefully to avoid injuries",
-    "Maintain proper cold storage",
-    "Keep storage areas clean and disinfected",
-    "Avoid stacking damaged produce with healthy fruits",
-    "Reduce humidity during storage and transport"
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Ka Kasance da Ra'ayin da Ya Dace",
+    "Ka sa wurare masu tsabta da marasa tsabta su zama ruwan dare gama gari",
+    "Ka guje wa yin maye da ' ya'ya masu kyau",
+    "@ action"
   ],
   "source": [
-    "Bautista-Baños et al., Postharvest Decay of Fruits and Vegetables",
-    "Smith’s Introduction to Industrial Mycology",
-    "Plant-Microbe Interactions – Rhizopus stolonifer",
-    "Scientific literature on post-harvest fungal diseases"
+    "Mãsu duhun inuwa.",
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "QXml"
   ]
 }

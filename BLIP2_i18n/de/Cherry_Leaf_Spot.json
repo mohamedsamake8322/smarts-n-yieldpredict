@@ -1,0 +1,88 @@
+{
+  "disease": "Kirsche-Blattfleck",
+  "scientific_name": "Blumenriella jaapii",
+  "pathogen_type": "Pilze",
+  "description": "Kirschblattfleck ist eine Pilzkrankheit, die Kirschbäume betrifft, besonders in feuchten oder regnerischen Regionen. Es verursacht kleine lila oder braune Flecken auf Blättern, die sich im Laufe der Zeit vergrößern. Schwere Infektionen führen zu Vergilbung und vorzeitigen Blatttropfen, wodurch Fruchtqualität und Ertrag reduziert werden.",
+  "symptoms": [
+    "kleine lila, braune oder braune Flecken auf Blättern",
+    "unregelmäßige oder kreisförmige Läsionen über die Blattoberfläche",
+    "Mitte der Flecken kann trocknen und herausfallen schaffen Löcher",
+    "Blätter werden gelb und fallen vorzeitig",
+    "cremefarbene Pilzsporenmassen auf der Unterseite der Blätter",
+    "Obst kann Flecken entwickeln und weich werden",
+    "infizierte Fruchtstämme können Fruchttropfen verursachen"
+  ],
+  "visual_signature": [
+    "zahlreiche kleine lila oder braune Flecken auf Kirschblättern",
+    "vergilbende Blätter mit verstreuten Läsionen",
+    "Löcher in den Blättern nach dem Herausfallen des Gewebes",
+    "cremefarbene Sporenhaufen auf Blattunterseite"
+  ],
+  "affected_plant_parts": [
+    "Blätter",
+    "Fruchtstämme",
+    "Obst (gelegentlich)"
+  ],
+  "hosts": [
+    "Süßkirsche",
+    "Sauerkirsche"
+  ],
+  "plant_family": "Rosengewächse",
+  "important_hosts": [
+    "Prunus avium",
+    "Prunus cerasus"
+  ],
+  "favorable_conditions": [
+    "hohe Luftfeuchtigkeit",
+    "nasse Blätter",
+    "häufige Niederschläge",
+    "kühle bis mittelschwere Temperaturen"
+  ],
+  "spread": [
+    "Windstreusporen",
+    "Regenspritzer",
+    "infizierte fallende Blätter"
+  ],
+  "disease_cycle": [
+    "Pilzüberwinterungen auf gefallenen infizierten Blättern",
+    "Sporen, die bei nassem Wetter hergestellt werden",
+    "Wind oder Regen breitet Sporen zu neuen Blättern aus",
+    "Infektionen treten auf, wenn die Blätter nass bleiben",
+    "Krankheit breitet sich während der Wachstumsperiode immer wieder aus"
+  ],
+  "damage": [
+    "vorzeitiger Blatttropfen",
+    "reduzierte Photosynthese",
+    "schlechte Qualität der Früchte",
+    "Weichobst",
+    "Verringerung der Fruchtausbeute in der folgenden Saison"
+  ],
+  "management": [
+    "entfernen und zerstören gefallene Blätter",
+    "sauber infizierte Pflanzenreste unter Bäumen",
+    "Mulch auftragen, um Bodenspritzen zu reduzieren",
+    "Pflaumen zur Verbesserung der Luftzirkulation",
+    "Überwachung der Bäume während der nassen Jahreszeiten"
+  ],
+  "organic_treatment": [
+    "Schwefel-Fungizid sprühen",
+    "Neemöl auftragen",
+    "Backpulver-Spray-Lösung"
+  ],
+  "chemical_control": [
+    "Fungizide auf Kupferbasis",
+    "Schutz-Fungizid-Sprays während der Nässe"
+  ],
+  "prevention": [
+    "gute Obstgarten sanitäre Einrichtungen",
+    "Regelmäßige Beschneidung für Luftströmung",
+    "frühe Anwendung von Fungiziden während der Regenzeit"
+  ],
+  "source": [
+    "Integriertes Pestmanagement an der Universität von Kalifornien",
+    "Universität von Minnesota Erweiterung",
+    "Erweiterung der Ohio State University",
+    "Erweiterung des Pazifischen Nordwestens",
+    "Der ganze Obstgarten"
+  ]
+}

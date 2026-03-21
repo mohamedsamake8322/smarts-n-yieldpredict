@@ -1,45 +1,53 @@
 {
-  "disease_name": "Solanaceae Bacterial Spot",
-  "pathogen": "Xanthomonas campestris pv. vesicatoria",
-  "host_plants": ["Pepper", "Tomato (field)", "Tomato (greenhouse)"],
-  "affected_parts": ["Leaves", "Fruits", "Sometimes stems"],
+  "disease_name": "Solanaceae Bakteriyel Noktası",
+  "pathogen": "Xanthomonas campestris pv.",
+  "host_plants": [
+    "Pepper için",
+    "Domates ( alanı )",
+    "Tomat ( Yeşil Ev )"
+  ],
+  "affected_parts": [
+    "Yazıları",
+    "Meyveler",
+    "Bazen oy"
+  ],
   "symptoms": [
-    "Small brown circular spots on leaves, sometimes water-soaked",
-    "Spots may coalesce into dark streaks",
-    "General yellowing and severe epinasty of leaves",
-    "Green fruits: raised brown lesions, sometimes scab-like, may have halo"
+    "Yapraklarda küçük kahverengi yuvarlak noktalar, bazen suya sarılmış",
+    "Topraklar karanlık sokaklara dökülebilir",
+    "Genel sarılaşma ve yaprakların şiddetli epinastisi",
+    "Yeşil meyveler: yükseltilmiş kahverengi hasarlar, bazen scab gibi, halo olabilir"
   ],
   "favorable_conditions": [
-    "Warm and humid weather",
-    "Frequent rainfall or overhead irrigation",
-    "Leaves remaining wet for long periods",
-    "Injuries caused by insects, wind-driven sand, or tools"
+    "Sıcak ve nemli hava",
+    "sıklıkla yağmur ya da aşırı sulama",
+    "Yapraklar uzun süre ıslak kalır",
+    "Böcekler, rüzgârlı kum veya aletler tarafından meydana gelen yaralanmalar"
   ],
   "disease_cycle": [
-    "Survives on infected plant debris and volunteer plants",
-    "Seed-borne transmission (even 1 infected seed in 10,000 can cause full infection)",
-    "Spread by wind, rain, workers, and tools",
-    "Enters plants through stomates or wounds"
+    "Enfekte bitki çöpleri ve gönüllü bitkiler üzerinde hayatta kalma",
+    "Tohumdan kaynaklanan iletim (yaklaşık 10.000'de 1 enfekte tohum da tüm enfeksiyonlara neden olabilir)",
+    "Rüzgar, yağmur, işçiler ve araçlar tarafından yayılır",
+    "Bitkileri stomates veya yaralar aracılığıyla girer"
   ],
   "crop_impact": [
-    "Reduced photosynthesis",
-    "Leaf defoliation",
-    "Unmarketable fruits due to lesions",
-    "Potential for significant yield losses"
+    "Düşük fotosentez",
+    "Deflasyon yaprakları",
+    "Yaralanmalar nedeniyle satılamayan meyveler",
+    "önemli gelir kaybı potansiyeli"
   ],
   "cultural_control": [
-    "Use certified, disease-free seeds and seedlings",
-    "Rotate fields and eliminate volunteer plants",
-    "Avoid working in wet fields",
-    "Sanitize tools and equipment"
+    "Sertifikalı, hastalık dışı tohumları ve tohumları kullanın",
+    "Rotasyon alanları ve gönüllü bitkileri ortadan kaldırmak",
+    "ıslak alanlarda çalışmaktan kaçının",
+    "Sanitasyon araçları ve ekipmanları"
   ],
   "chemical_control": [
-    "Copper-based bactericides",
-    "Copper/mancozeb solutions",
-    "Application more effective preventively or at early infection stages"
+    "bakır tabanlı bakteriler",
+    "bakır/mancozeb çözümleri",
+    "Daha etkili bir önleyici veya erken enfeksiyon aşamalarında uygulama"
   ],
   "notes": [
-    "Six races/pathovars identified",
-    "Resistance in cultivars is often race-specific"
+    "6 Yarış/Pathovars Tanımlandı",
+    "Yetiştiricilerde direnci genellikle ırk spesifiktir."
   ]
 }

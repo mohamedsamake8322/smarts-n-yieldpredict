@@ -1,0 +1,112 @@
+{
+  "disease_name": "Enfermedad por racha de plátano",
+  "dataset_label": "Banana_Leaf_Streak_Virus",
+  "pathogen": {
+    "type": "Virus",
+    "name": "Virus de la racha de plátano",
+    "scientific_name": "Racha de plátano badnavirus",
+    "family": "Colimoviridae",
+    "genus": "Badnavirus",
+    "genome": "ADN de doble cadena (dsDNA)"
+  },
+  "host_plant": {
+    "primary_host": "Plátano (Musa spp.)",
+    "other_hosts": [
+      "Plátano"
+    ]
+  },
+  "affected_parts": [
+    "Hojas",
+    "Pseudostem",
+    "El vigor de la planta entera"
+  ],
+  "vector": {
+    "type": "Insectos",
+    "name": "Mealybugs",
+    "genera": [
+      "Planococcus",
+      "Pseudococcus"
+    ]
+  },
+  "symptoms": {
+    "early_stage": [
+      "Rayas amarillas que van desde el borde medio de la hoja hasta el margen de la hoja",
+      "Líneas amarillas continuas o rotas a través de la hoja"
+    ],
+    "intermediate_stage": [
+      "Los streaks aparecen dispersos o dispuestos en bandas",
+      "Reducción del vigor de la planta y menor tamaño de la planta"
+    ],
+    "advanced_stage": [
+      "Las rayas amarillas se vuelven marrones o negras con el envejecimiento de las hojas",
+      "Racimos de plátano más pequeños",
+      "Posible pudrición interna del pseudo-tallo y retroceso en casos graves"
+    ]
+  },
+  "disease_cycle": {
+    "transmission": [
+      "Material de plantación infectado (sombreros)",
+      "Transmisión vectorial por mealybugs",
+      "Activación del ADN viral integrado en el genoma vegetal bajo estrés"
+    ],
+    "latent_behavior": "Los fragmentos de virus pueden integrarse en el genoma del plátano y reactivarse en condiciones de estrés",
+    "favorable_conditions": [
+      "Estrés de las plantas",
+      "Estrés de propagación del cultivo de tejidos",
+      "Estrés ambiental"
+    ]
+  },
+  "impact": {
+    "severity": "Variable",
+    "effects": [
+      "Reducción del vigor de las plantas",
+      "Racimos de frutas más pequeños",
+      "Pérdidas de rendimiento en función del cultivar y la intensidad de la infección",
+      "Cosecha retrasada"
+    ],
+    "estimated_losses": "Hasta cerca del 6% anual en algunas regiones, mayor en cultivares susceptibles"
+  },
+  "distribution": [
+    "Asia",
+    "África",
+    "América del Norte",
+    "Centroamérica",
+    "América del Sur",
+    "Caribe",
+    "Oceanía",
+    "Islas del Pacífico"
+  ],
+  "similar_diseases_or_confusions": [
+    "Virus del mosaico del pepino",
+    "Virus de la parte superior del banano",
+    "Deficiencia de nutrientes que causa clorosis"
+  ],
+  "management": {
+    "cultural_control": [
+      "Utilizar material de plantación libre de virus",
+      "Retire y destruya las plantas infectadas",
+      "Supervisar las plantaciones con regularidad"
+    ],
+    "vector_control": [
+      "Controlar las poblaciones de haryybug",
+      "Utilizar aceites hortícolas o aerosoles de jabón",
+      "Utilizar productos oleaginosos hortícolas comerciales"
+    ],
+    "quarantine": [
+      "Siga las directrices de movimiento de germoplasma de la FAO para las especies de Musa",
+      "Utilizar plantas de cultivo de tejidos libres de enfermedades certificadas"
+    ]
+  },
+  "spread_risk_factors": [
+    "Plantando succionadores infectados",
+    "Propagación de cultivos tisulares sin cribar",
+    "Presencia de vectores de mealybug",
+    "Condiciones de estrés de las plantas que activan el ADN del virus integrado"
+  ],
+  "references": [
+    "Compendio de protección de cultivos de CABI (2020)",
+    "CSIRO Publishing – Enfermedades de los Cultivos Frutales en Australia (2009)",
+    "Base de datos de plagas, patógenos y malas hierbas en el Pacífico",
+    "Bioversity International – Guías del Movimiento Musa Germplasm de la FAO"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pest_name": "OTA 7 (Yoruba)",
+  "stage": "Ngwaọrụ ndị ahụ",
+  "common_name": "OTA 7 (Yoruba)",
+  "description": "Ụmụ irighiri ihe ndị e ji amị mkpụrụ, akwụkwọ nri, ahịhịa ndụ, osisi vaịn, osisi ndị dị n'ụlọ, na osisi ndị mara mma mara mma.",
+  "identification": [
+    "Ndị toworo eto erughị otu mita n'ogologo nke nwere ahụ na anya abụọ tụrụ àgwà bụ́ ndị dị nso n'isi ya",
+    "Ebe ọ bụ na ndị mmadụ bi n'ógbè dị iche iche, ihe ka ọtụtụ n'ime ha dị n'okpuru akwụkwọ osisi; otu ógbè nwere ike ịba ọtụtụ narị puku akwụkwọ osisi",
+    "Ọnụ ọgụgụ ndị buru ibu na - emepụta akwụkwọ osisi, mkpụrụ osisi, na mkpụrụ osisi n'ụba",
+    "N'ihi ya, lee ma è nwere ihe dị iche iche dị n'akwụkwọ osisi, ọla nchara, odo odo, na akwụkwọ nri"
+  ],
+  "damage": [
+    "Ihe ndị dị n'ime mkpụrụ ndụ bụ́ ndị sitere n'akwụkwọ osisi, na - akpata ihe ndị na - egbu egbu na ihe ndị na - agbawa agbawa",
+    "N'ịbụ nke akwụkwọ ya na - acha odo odo, nke ahụ pụkwara ime ka ike gwụ ya",
+    "Mmiri ozuzo bụ ihe kasị sie ike n'ọnọdụ ndị dị oké ọkụ, uzuzu, nakwa n'osisi ndị a na-akpọ nkụ"
+  ],
+  "natural_enemies": [
+    "Ihe Ndị A Tụrụ Mkpọrọ na Ha n'Ụlọ Mkpọrọ",
+    "Ebe ndị a na - egwupụta ihe ọmụma n'ala",
+    "Nsogbu Ndị Na - esi n'erighị Ihe Ndị Na - edozi Ahụ́",
+    "E ji ụkwụ buru ibu na - aga n'ihu n'ihu na n'ihu karị)"
+  ],
+  "management": [
+    "Ihe ọkụkụ ndị a kụrụ n'ala iji zere oké ọkọchị",
+    "Jiri ájá na - arụ ọrụ nke ọma, na - arụ ọrụ nke ọma, na - agba ya mmiri mgbe niile",
+    "Gbaa ndị iro bụ́ ndị mmadụ ume ịchịkwa ọnụ ọgụgụ mmadụ",
+    "Na - ekpe ekpere kwa ụbọchị ma ọ bụ na - agba mmiri n'ala ahịhịa juru"
+  ],
+  "chemical_control": [
+    "A na - eji mmanụ a na - agbanye n'ime ala ma ọ bụ ncha e ji asa ezé eme ihe nke ọma n'okpuru akwụkwọ osisi",
+    "Zere ịgba akụ́kụ́ mgbe a kụrụ ya mmiri ma ọ bụ mgbe oké okpomọkụ",
+    "Zere ọgwụ ndị na - egbu ndị iro anụ ahụ́, ebe ọ bụ na ha pụrụ ime ka ọtụtụ mmadụ na - anwụ"
+  ],
+  "notes": [
+    "Ọgwụ nje na - aghọkarị ihe na - enye nsogbu n'ahụ́ mgbe ihe ụfọdụ na - emetụta akụkụ ahụ́ ụfọdụ nke usoro ahụ́ ji alụso ọrịa ọgụ gasịrị",
+    "Ihe ndị e ji eme ihe n'ụzọ na - adịghị mma, bụ́ ndị na - adịghị ize ndụ ma ọ bụ ndị na - adịchaghị ize ndụ",
+    "Ihe ndị e ji ede ihe bụ́ ndị e ji nlezianya mepụta maka iji ya eme ihe n'ụzọ kwesịrị ekwesị ma jiri ya mee ihe n'ụzọ kwesịrị ekwesị"
+  ]
+}

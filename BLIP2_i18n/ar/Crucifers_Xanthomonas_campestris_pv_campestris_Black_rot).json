@@ -1,74 +1,74 @@
 {
-  "disease_name": "Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot",
-  "common_name": "Black rot of crucifers",
-  "scientific_name": "Xanthomonas campestris pv. campestris",
-  "pathogen_type": "Bacterium",
-  "description": "Black rot is a serious bacterial disease affecting cruciferous crops. It is caused by the bacterium Xanthomonas campestris pv. campestris and spreads mainly through infected seeds, plant debris, water splash, and contaminated tools. The pathogen enters plants through hydathodes at the leaf margins or through wounds, then spreads through the vascular system, causing characteristic blackened veins and leaf necrosis.",
+  "disease_name": "كُرْسِيfs__ Xanthomonas_ campestris_ abv_ procumpestris_ abcestris_ blc_ ruul",
+  "common_name": "(أ) د/أسود (أ)(أ)",
+  "scientific_name": "(بآلاف دولارات الولايات المتحدة)",
+  "pathogen_type": "بكثير",
+  "description": "التعفن هو مرض بكتيري خطير يؤثر على المحاصيل الجذعية، ويسببه البكتيريا Xanthomonas campestris pv. وينتشر أساساً من خلال البذور المصابة، والحطام النباتي، ورشة المياه، والأدوات الملوثة. ويدخل الممرض النباتات من خلال الغدد الحلزونية على هوامش الورقة أو من خلال الجروح، ثم ينتشر من خلال النظام الوعائي، مما يتسبب في الأوردة السوداء والنيكروسيس المميزة.",
   "hosts": [
-    "Cabbage",
-    "Broccoli",
-    "Cauliflower",
-    "Brussels sprouts",
-    "Kale",
-    "Radish",
-    "Turnip",
-    "Mustard",
-    "Other cruciferous crops (Brassicaceae family)"
+    "",
+    "نحوك",
+    "",
+    "مُنْسِس",
+    "",
+    "",
+    "لِفْرِض",
+    "مبرسرت",
+    "المحاصيل الأخرى المصلية (أسرة المصليات)"
   ],
   "symptoms": [
-    "Yellow V-shaped lesions starting from leaf margins",
-    "Lesions progressing toward the center of the leaf",
-    "Blackening of leaf veins",
-    "Leaf wilting and necrosis",
-    "Stunted plant growth",
-    "Severe infections may cause plant death"
+    "صُرَصات ذات صفة V الأصفر التي تبدأ من وَف الورقة",
+    "التقدم نحو مركز الورقة",
+    "ثانياً - تثبط أروقة",
+    "3 - التطلاق والنكات",
+    "نمو النباتات المبتت",
+    "يمكن أن تسبب حالات الوفاة بسبب النبتة"
   ],
   "favorable_conditions": [
-    "Warm temperatures (25–30°C)",
-    "High humidity",
-    "Frequent rainfall or overhead irrigation",
-    "Presence of infected seeds",
-    "Mechanical injuries on plants"
+    "درجات حرارة الحرارة (25- 30 درجة مئوية)",
+    "الرطوبة العالية",
+    "هطول هطول الأمطار أو ري الري",
+    "وجود البذرة المصابة",
+    "إصابات ميكانيكية في النباتات"
   ],
   "management": {
     "monitoring": [
-      "Regular field scouting for V-shaped lesions on leaves",
-      "Inspection of seedlings and young plants",
-      "Monitoring fields after periods of rain or high humidity"
+      "الكشافة الميدانية العادية للآفات ذات الشكل V على أوراق",
+      "تفتيش المصتلات والمصانع الصغيرة",
+      "ميادين الرصد بعد فترات الأمطار أو الرطوبة العالية"
     ],
     "cultural_control": [
-      "Use certified disease-free seeds",
-      "Practice crop rotation for at least 3–4 years",
-      "Remove and destroy infected plant residues",
-      "Avoid overhead irrigation to reduce leaf wetness",
-      "Disinfect agricultural tools and equipment",
-      "Plant resistant or tolerant varieties when available"
+      "استخدام بذور خالية من الأمراض المعتمدة",
+      "تناوب المحصول العملي لما لا يقل عن ٣-٤ سنوات",
+      "التخلص من مخلفات النبتة المُحْتة وتدميرها",
+      "تجنب الري للحد من رطوبة أوراق الورق",
+      "الأدوات والمعدات الزراعية",
+      "النباتات أو الأصناف المعمرة أو المتسامحة عندما تكون متاحة"
     ],
     "biological_control": {
       "microorganisms": [
-        "Bacillus subtilis",
-        "Bacillus amyloliquefaciens",
-        "Pseudomonas fluorescens"
+        "بكاسيلus صب ط",
+        "BCBCAsys",
+        "Pseuدومonas ploescens"
       ]
     },
     "chemical_control": {
-      "note": "Chemical control of bacterial diseases is limited. Copper-based bactericides are commonly used as preventive treatments.",
+      "note": "وتُستخدم مبيدات البكتيريا القائمة على النحاس عادة كعلاجات وقائية.",
       "active_ingredients": [
-        "Copper hydroxide",
-        "Copper oxychloride",
-        "Copper sulfate"
+        "Hurxid",
+        "(أ) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "(أ) (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((()(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((("
       ]
     }
   },
-  "economic_importance": "Black rot can cause significant yield losses in cruciferous crops worldwide. Severe infections may destroy entire fields, particularly in warm and humid climates where the disease spreads rapidly.",
+  "economic_importance": "قد يتسبب التعفن الأسود في خسائر كبيرة في الغلة في المحاصيل الجشعة في جميع أنحاء العالم. وقد تدمر الإصابات الحادة حقولاً كاملة، وخاصة في المناخات الدافئة والرطبة حيث ينتشر المرض بسرعة.",
   "references": [
-    "Agrios, G. N. Plant Pathology.",
-    "CABI Crop Protection Compendium.",
-    "FAO Integrated Pest Management resources.",
-    "Wikipedia – Black rot of crucifers."
+    "(أغريوس)، (جي إن) علم الأمراض النباتية.",
+    "مجموعة حماية المحاصيل CABI.",
+    "موارد الفاو المتكاملة لإدارة الآفات.",
+    "ويكيبيديا – تتعفن بلا هوادة من صوف الصقور."
   ],
   "source_urls": [
-    "https://en.wikipedia.org/wiki/Xanthomonas_campestris",
-    "https://www.cabi.org"
+    "(ج) https://en.wwikipedia.org/wiki/Xanthomonas_campestris",
+    "() انظر: https://www.cabi.org."
   ]
 }

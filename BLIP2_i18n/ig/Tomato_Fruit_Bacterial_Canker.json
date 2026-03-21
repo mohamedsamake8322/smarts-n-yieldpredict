@@ -1,0 +1,81 @@
+{
+  "disease_name": "Mkpụrụ Akụ́kụ́ Ndị Dị Oké Ọnụ Ahịa Bụ́ Bchal Canker",
+  "causal_agent": "Clavisris Mimenlasvv.Mimess",
+  "type": "Nje bacteria na - akpata ọrịa",
+  "hosts": {
+    "primary": [
+      "E nwere otu nwa agbọghọ aha ya bụ Malaum dị́ afọ iri abụọ na ise aha ya bụ L."
+    ],
+    "secondary": [
+      "Ma, e nwere ihe ụfọdụ nwere ike ime ka mmadụ chewe echiche igbu onwe ya.",
+      "Ngwá ọrụ ndị e ji akwọ ụgbọ mmiri bụ́ ndị na - arụ ọrụ n'ebe a na - edebe ihe ndị mgbe ochie na - arụ ọrụ bụ́ ndị na - adị n'ime ala."
+    ],
+    "weeds": [
+      "N'abalị, e nwere ike ịsị na ọ bụ n'abalị ọ bụla ka a na - anọ alụ ọgụ.",
+      "N'abalị mbụ n'ọnwa iri na otu n'afọ 2000, otu ụlọ ọrụ na - ebipụta akwụkwọ akụkọ kwuru, sị: \"N'abalị ahụ, a na - eji ụgbọala aga ebe ọ bụla a na - aga. \"",
+      "S."
+    ]
+  },
+  "distribution": "Zuru ụwa ọnụ; karịsịa ihe na-enweghị nsogbu na-enweghị mgbanwe na tomato-enweghị isi",
+  "symptoms": {
+    "seedlings": [
+      "Ọ dịghị mgbaàmà ọ bụla n'ihe ka ọtụtụ n'ọnọdụ ndị a na - enwe",
+      "Ihe ọkụkụ ndị na - eto eto pụrụ igosi na ha etochaghị eto ma ọ bụ na - eto n'alaka ụlọ ọrụ ruo nwa oge"
+    ],
+    "mature_plants_systemic": [
+      "Akwụkwọ mpịakọta ndị kasị ochie na - acha odo odo, na - acha odo odo, na - acha odo odo, ma na - acha nchara nchara",
+      "Uto a na - enwe n'ụzọ a na - achịkwaghị achịkwa nakwa n'ụzọ bụ́ isi",
+      "Ńgwānụ́ banye n'olulu nri",
+      "Ihe ndị a kụrụ n'ubi, ihe ndị a kụrụ n'alaka ụlọ ọrụ, na ihe ndị ọzọ nwere ike igbu mmadụ"
+    ],
+    "mature_plants_secondary": [
+      "Ọ na - afọ nke nta ka ọ bụrụ na ọ na - acha nchara nchara ojii n'elu akwụkwọ osisi",
+      "O nwere ike ịdị gị ka è nwere ebe ị na - aga ma ọ bụ ebe ị na - enweghị akwụkwọ ị na - aga",
+      "Mkpụrụ osisi: odo odo odo na - acha nchara nchara na - eme ka ihe ndị na - acha ọcha mgbe nile (anya nnụnụ) na - acha ọcha, na - egbuke egbuke n'obosara",
+      "A pụrụ iji uru ahụ́ ndị dị n'ime ala bụ́ ndị dị n'okpuru mmiri ọgwụ ahụ́, na - emetụta mkpụrụ akụ́kụ́"
+    ]
+  },
+  "disease_cycle": {
+    "introduction": "Site ná mkpụrụ akụ́kụ́ ndị butere ọrịa ahụ ma ọ bụ ndị a wara awa",
+    "overwintering": "Ruo ihe karịrị afọ 3 n'elu ahịhịa; n' ata; n'ihe ndị e ji emepụta mmiri ozuzo (n'elu osisi, n'elu osisi, n'elu ala)",
+    "spread": [
+      "Mmiri ozuzo na - ezonụ na ịgba ala mmiri n'anwụ",
+      "Ndị na - akụ ihe n'oge ochie na ndị na - ewe ihe ubi n'oge owuwe ihe ubi",
+      "A na - esi n'osisi ndị nwere nje ndị na - akpata ọrịa enweta mmiri n'elu ya",
+      "Na - agakwuru ahịhịa ma ọ bụ ngwá ọrụ ndị nwere nje ndị ahụ"
+    ],
+    "entry": "Ndị na - agba chaa chaa na - esi n'obere ọnyá ndị dị n'ebe a na - agba akụ́kụ́ banye ná mkpụrụ akụ́kụ́ ndị na - esi n'ime ala apụta"
+  },
+  "management": {
+    "prevention": [
+      "Jiri ụdị mkpụrụ akụ́kụ́ ndị na-enweghị nsogbu",
+      "A na - etinye ihe ndị dị ọcha n'ebe ndị a na - akwọ osisi",
+      "Jiri nlezianya na - enyocha ubi mkpụrụ akụ́kụ́; tụfuo arụsị e metọrọ emetọ",
+      "Mkpụrụ ndị a ghara n'ime mmiri 130 na - asọ asọ ruo minit 25"
+    ],
+    "greenhouse_measures": [
+      "Ebe ndị a na - ejikọta ọnụ na ebe ndị a na - achọghị mma",
+      "A na - eji oche, oche, na ebe ndị a na - agba mmiri eme ihe n'ụzọ na - ezighị ezi",
+      "Ghewe mpaghara ụwa oghe n'etiti ihe ndị a kụrụ n'ubi"
+    ],
+    "field_measures": [
+      "Zere ịrụ ọrụ mgbe akwụkwọ nri juru ebe nile",
+      "N'ụlọ ọrụ dị iche iche, ihe ọkụkụ nile na - adị ná ngwụsị oge ha",
+      "Jiri tomato tụgharịa uche n'ubi ruo ma ọ dịkarịa ala otu afọ",
+      "nchịkwa ndị e jikọtara ha na ahịhịa ndị dị gburugburu ubi"
+    ],
+    "chemical_control": [
+      "Ihe ndị e ji ọla kọpa mee pụrụ ibelata mgbasa nke ọrịa ma bụrụ ndị a pụrụ ịdabere na ha kpam kpam",
+      "Ụlọ ọrụ ndị na - emepụta ihe ndị dị ndụ na - emepụta ihe ndị e ji emenwu ọkụ: ihe dị ka otu narị puku na puku iri anọ, narị itoolu na iri anọ na otu, ma ọ bụ ihe ndị e ji emenwu ọkụ, bụ́ ndị na - adị n'ime ha."
+    ]
+  },
+  "notes": [
+    "Ndakpọ akụ̀ na ụba n'ubi kpọmkwem bụ ihe a na - ahụkarị",
+    "Nje bacteria ole na ole pụrụ ịkpata ọrịa ndị dị ịrịba ama",
+    "A pụghị ịgwọta ọrịa ndị a na - ebute n'oge a site n'iji ọgwụ ndị e ji alụso nje HIV ọgụ; ilekwasị anya n'igbochi nakwa n'usoro idebe ihe ọcha"
+  ],
+  "references": [
+    "Ndị ome iwu na-enweghị isi. /Windo ndị ahụ/enweghị isi",
+    "Gịnị ka anyị ga - eme ma ọ bụrụ na anyị chọrọ ka Jehova nyere anyị aka?"
+  ]
+}

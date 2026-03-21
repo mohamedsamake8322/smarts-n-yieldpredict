@@ -1,112 +1,98 @@
 {
-  "disease": "Cabbage bacterial soft rot",
-  "scientific_name": "Pectobacterium carotovorum (formerly Erwinia carotovora)",
-  "pathogen_type": "Bacterium",
-
-  "description": "Bacterial soft rot is a destructive disease of cabbage that causes rapid decay of plant tissues. The bacteria enter through wounds or natural openings and spread quickly in warm and humid conditions. The disease can occur in the field but often causes serious losses during storage and transportation.",
-
+  "disease": "Mbegu ya bacterial soft rot",
+  "scientific_name": "Pectobacterium carotovorum (kwa zamani Erwinia carotovora)",
+  "pathogen_type": "Bakteri ya",
+  "description": "Bacterial mti ni ugonjwa wa uharibifu wa mti ambao hufanya uharibifu wa haraka wa mazao ya mimea. Bakteri kuingia kupitia ugonjwa au ufunguzi wa asili na kuenea haraka katika hali ya hewa na safi. Ugonjwa inaweza kutokea katika eneo lakini mara nyingi hufanya uharibifu mkubwa wakati wa kuhifadhi na usafirishaji.",
   "symptoms": [
-    "Water-soaked spots on leaves or cabbage heads",
-    "Soft, sunken lesions that enlarge rapidly",
-    "Tissues become soft, mushy, and wet",
-    "Discoloration from cream to brown or black",
-    "Liquid seepage from infected tissues",
-    "Strong unpleasant rotten odor",
-    "Leaves, stems or roots may completely decay in severe infections"
+    "Mafuta ya maji juu ya tiketi au kichwa cha kabbage",
+    "Maumivu, maumivu ambayo huongezeka kwa haraka",
+    "Mafuta yanaweza kuwa ya kuvutia, ya kuvutia, na ya kuvutia",
+    "Ukosefu wa maua kutoka kwa cream kwa brown au black",
+    "Mafuta ya umeme kutoka kwa viungo vya ugonjwa",
+    "Maumivu ya kutisha ya kutisha",
+    "Maonyesho, maonyesho au nywele zinaweza kuanguka kabisa katika maambukizi makubwa"
   ],
-
   "visual_signature": [
-    "wet soft rot on cabbage tissue",
-    "mushy decaying plant tissue",
-    "dark rotting areas with liquid leakage"
+    "Siku ya kupumzika juu ya mbegu ya Cabbage",
+    "Mushy kuongezeka kwa mazao ya mimea",
+    "maeneo ya giza ya giza ya giza ya giza"
   ],
-
   "affected_plant_parts": [
-    "leaves",
-    "stem",
-    "cabbage head",
-    "roots"
+    "Makala ya",
+    "Simu ya",
+    "kichwa cha Cabbage",
+    "Roho ya"
   ],
-
   "hosts": [
-    "cabbage",
-    "broccoli",
-    "cauliflower",
-    "lettuce",
-    "potato",
-    "carrot",
-    "onion",
-    "pepper",
-    "tomato",
-    "many vegetable crops"
+    "Kabla ya",
+    "Broccoli ya",
+    "Mwisho wa",
+    "ya Lettuce",
+    "Mapato ya",
+    "Karoti ya",
+    "Mwisho wa",
+    "pepe ya",
+    "Mji wa Tomato",
+    "Baadhi ya matunda ya matunda"
   ],
-
   "favorable_conditions": [
-    "warm temperatures (25–30°C)",
-    "high humidity",
-    "wet weather",
-    "poor air circulation",
-    "plant wounds caused by insects or tools",
-    "low calcium in plants"
+    "Hali ya joto (25-30 ° C)",
+    "Ukosefu wa juu",
+    "Hali ya hewa",
+    "Usafiri wa hewa mbaya",
+    "Maambukizi ya mimea yaliyoathiriwa na wanyama au vifaa",
+    "Kazi ya chini ya kalsium katika mimea"
   ],
-
   "spread": [
-    "infected plant debris in soil",
-    "contaminated irrigation water",
-    "rain splash",
-    "insects such as maggot flies",
-    "contaminated tools",
-    "handling during harvest and storage"
+    "Matengenezo ya matengenezo ya matengenezo katika ardhi",
+    "maji ya kuvutia ya maji",
+    "Siku ya mvua",
+    "Wanyama kama Maggot Flies",
+    "vifaa vya kuvutia",
+    "Kutoa wakati wa kutengeneza na kuhifadhi"
   ],
-
   "management": [
-    "Use healthy and disease-free planting material",
-    "Handle plants carefully to avoid wounds",
-    "Remove and destroy infected plants immediately",
-    "Rotate crops with non-host plants for at least 3 years",
-    "Avoid overhead irrigation",
-    "Maintain good field sanitation",
-    "Ensure proper plant nutrition especially calcium"
+    "Kutumia vifaa salama na salama vya kupanda",
+    "Kuendesha mimea kwa makini ili kuepuka majeruhi",
+    "Kuondoa na kuharibu mimea ya kuvutia mara moja",
+    "Matunda ya Rotate na mimea yasiyo ya nyumbani kwa muda wa angalau 3 miaka",
+    "Kuepuka upasuaji wa juu",
+    "Uhifadhi mzuri wa maeneo ya hewa",
+    "Kutoa chakula cha mimea, hasa kwa kalsium"
   ],
-
   "biological_control": [
-    "Bacillus subtilis based bio-bactericides",
-    "Pseudomonas fluorescens biological treatments"
+    "Bacillus subtilis kwa ajili ya bio-bactericides",
+    "Pseudomonas fluorescens matibabu ya biolojia"
   ],
-
   "chemical_control": [
-    "Copper oxychloride",
-    "Copper hydroxide",
-    "Copper sulfate bactericides"
+    "Ukubwa wa Oxychloride",
+    "Hydroxide ya Copper",
+    "Baktari ya Sulfate ya Copper"
   ],
-
   "example_products": [
-    "Greencop 500WP",
-    "Trinity Gold 452WP",
-    "Colonizer 440WP",
-    "Biodistinction Xtra 700CS",
-    "Pyramid 700WP"
+    "Tumia kesi kwa kundi la Greencop 500",
+    "Jumuiya ya Trinity Gold 452WP",
+    "Mchakato wa 440WP",
+    "Maelezo ya Biodistinction Xtra 700CS",
+    "Mchakato wa 700WP"
   ],
-
   "prevention": [
-    "Plant resistant or tolerant varieties",
-    "Use disease-free seeds and seedlings",
-    "Avoid injuring plants during cultivation",
-    "Harvest during dry conditions",
-    "Inspect cabbages before storage",
-    "Keep storage areas clean and dry"
+    "Vyanzo vya kupumzika au kupumzika",
+    "Kutumia mbolea na mbolea zisizo na magonjwa",
+    "Kuepuka mazao yanayoharibiwa wakati wa uzalishaji",
+    "Matunda wakati wa hali ya hewa",
+    "Utafiti wa mbegu kabla ya kuhifadhi",
+    "Kuhifadhi maeneo safi na safi"
   ],
-
   "storage_management": [
-    "Store cabbages at 0–4°C (32–39°F)",
-    "Maintain storage humidity around 90–95%",
-    "Avoid storing damaged or infected vegetables",
-    "Use soft materials like straw or paper to prevent injuries"
+    "Mchakato wa kuhifadhi katika 0-4 °C (32-39 °F)",
+    "Kuhifadhi umaskini wa kuhifadhi karibu na 90-95%",
+    "Kuacha kuhifadhi matunda ya kuharibiwa au kuharibiwa",
+    "Kutumia vifaa vya kuvutia kama mbegu au kipaumbele ili kuzuia majeruhi"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "Plant Pathology Extension Publications",
-    "Vegetable Disease Management Guides"
+    "Mkataba wa Ulinzi wa CABI",
+    "Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo ya Matokeo",
+    "Matibabu ya matibabu ya matibabu"
   ]
 }

@@ -1,65 +1,65 @@
 {
-  "disease_name": "Wheat Leaf Streak Mosaic Virus",
+  "disease_name": "Wheat Leaf Streak Mosaik Virüsü",
   "abbreviation": "WSMV",
-  "pathogen_type": "Virus",
-  "family": "Potyviridae",
-  "genus": "Tritimovirus",
+  "pathogen_type": "Virüsler",
+  "family": "Potyviridae Hakkında",
+  "genus": "Tritimovirüs",
   "hosts": [
-    "Wheat (Triticum spp.)",
-    "Corn (Zea mays)",
-    "Rye (Secale spp.)",
-    "Oats (Avena spp.)",
-    "Barley (Hordeum spp.)",
-    "Sorghum",
+    "Çilek (Triticum spp)",
+    "Çiğ Köfte (Zea Mays)",
+    "Rye (Secale spp) ile ilgili bilgiler",
+    "Çilekler (Avena spp)",
+    "Barley (Hordeum spp) için",
+    "Özürler",
     "Millet",
-    "Some grassy weeds"
+    "Bazı bitkiler"
   ],
-  "distribution": "Worldwide; predominant in the Great Plains (USA), Australia, and most wheat-growing regions",
+  "distribution": "Dünya çapında; Büyük Plains (ABD), Avustralya ve çoğu tahıl yetiştiren bölgelerde egemen",
   "vector": {
-    "name": "Wheat curl mite",
-    "scientific_name": "Aceria tosichella",
-    "transmission_type": "semi-persistent",
-    "notes": "Mites are slow crawlers, disperse mainly by wind, and can transmit the virus between wheat and corn"
+    "name": "Çiğ köfte mite",
+    "scientific_name": "Aceria Tosichella Hakkında",
+    "transmission_type": "yarı dayanıklı",
+    "notes": "Mitler, rüzgâr tarafından çoğunlukla yayılan ve virüsün buğday ve mısır arasında iletilebileceği yavaş çöplerdir."
   },
   "symptoms": [
-    "Streaks of yellowed, non-uniform discoloration on leaves",
-    "Stunted growth",
-    "Severe infections can cause 100% crop loss",
-    "Symptoms often more severe when synergistic infections occur with Triticum mosaic virus or High plains virus"
+    "Yapraklarda sarı, eşitsiz bozulma sızıntıları",
+    "Sıkıntılı büyüme",
+    "Ağır enfeksiyonlar %100 bitki kaybına neden olabilir",
+    "Belirtiler genellikle sinerjik enfeksiyonlar Triticum mosaik virüsü veya High plains virüsü ile meydana geldiğinde daha şiddetlidir."
   ],
   "disease_cycle": [
-    "Virus overwinters in grasses and cereal crops and in infected seeds",
-    "Wheat curl mites acquire virus from infected plants and transmit it to healthy plants",
-    "Mites depend on wind to move between plants and fields",
-    "Volunteer wheat and grassy weeds act as reservoirs for both mites and virus",
-    "Multiple generations of mites per season can amplify spread"
+    "Virüsler tahıllarda ve tahıl ürünlerinde ve enfekte tohumlarda kış geçirir",
+    "Wheat curl efsaneleri enfekte bitkilerden virüs kazanır ve sağlıklı bitkilere iletir.",
+    "Mitler, bitkiler ve alanlar arasında hareket etmek için rüzgardan bağımlıdır.",
+    "Gönüllü tahıl ve tahıl tahılları hem mitler hem de virüsler için rezervuarlar olarak hareket eder.",
+    "Sezon başına çok nesil efsaneler yayılmasını arttırabilir"
   ],
   "conditions_for_development": [
-    "Warm weather favors mite reproduction and virus transmission",
-    "Availability of volunteer wheat or grassy hosts increases disease prevalence",
-    "Early planting increases risk due to longer exposure to mites"
+    "Sıcak hava, mite çoğalmasını ve virüs aktarımını destekler",
+    "Gönüllü tahıl veya tahıl barındırma mevcutluğu hastalık yaygınlığını arttırır",
+    "Erken bitki yetiştirme, mitlere daha uzun süre maruz kalma riskini arttırır"
   ],
   "management": {
     "cultural": [
-      "Destroy volunteer wheat at least 2 weeks before planting new winter wheat",
-      "Avoid early planting to reduce exposure to mites",
-      "Select wheat varieties with lower susceptibility to WSMV"
+      "Gönüllü buğdayı en az 2 hafta önce yok et, yeni kış buğdayı dikmeden önce",
+      "Erken bitki yetiştirmeyi önlemek, mitlere maruz kalmayı azaltmak için",
+      "WSMV'ye daha düşük duyarlılığa sahip tahıl çeşitleri seçin"
     ],
     "chemical": [
-      "Miticides are not effective against the wheat curl mite for controlling virus spread"
+      "Mitikler, virüsün yayılmasını kontrol etmek için buğday kükürtüne karşı etkili değildir."
     ],
     "resistance": [
-      "Use resistant/tolerant wheat cultivars where available",
-      "Research on RNAi-based resistance is ongoing"
+      "Kullanılabildiğince dayanıklı / hoşgörülü tahıl yetiştiricileri kullanın",
+      "RNAi dayalı direnci araştırmaları devam ediyor"
     ]
   },
   "impact": [
-    "Yield losses can reach up to 100% in susceptible varieties",
-    "Co-infection with other viruses can exacerbate damage"
+    "Düşük kayıplar hassas çeşitlerde %100'e kadar ulaşabilir",
+    "Diğer virüslerle birlikte enfeksiyon zararları daha da kötüleştirebilir"
   ],
   "references": [
-    "Seifers DL et al., 2002. Wheat streak mosaic virus: An Overview. Plant Disease 86: 781–790.",
-    "Martinez et al., 2019. Wheat curl mite-virus interactions. Front. Plant Sci.",
-    "USDA-ARS research on WSMV and vector biology."
+    "Seifers DL et al., 2002 Wheat streak mosaik virüsü: Bir genel bakış. Bitki hastalığı 86: 781-790.",
+    "Martinez et al., 2019 Wheat curl mite-virüs etkileşimleri.",
+    "USDA-ARS WSMV ve vektör biyolojisi araştırması."
   ]
 }

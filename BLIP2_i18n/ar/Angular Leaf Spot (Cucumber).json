@@ -1,40 +1,40 @@
 {
   "title": [
-    "Angular Leaf Spot (Cucumber, Melon, Pumpkin, Squash, and Zucchini)",
-    "Pseudomonas syringae pv. lachrymans"
+    "سبوت (العقاقير، والميلون، وبمبكين، وسكواش، وزوتشيني)",
+    "Pseudoدومonas syringae pv. chrimans"
   ],
   "Table": {
     "Prevention": [
-      "Planting pathogen-free seed is the primary control strategy",
-      "Treat contaminated seed with hot water to reduce bacteria levels",
-      "Practice a three-year or longer crop rotation to nonhosts such as small grains or corn",
-      "Avoid overhead irrigation and reuse of irrigation tail water",
-      "Only cultivate and work in fields when the canopy is dry to reduce secondary spread",
-      "Plant resistant cucumber varieties if the disease is a recurrent problem",
-      "No biological control practices have been developed for angular leaf spot"
+      "أن تكون البذرة الخالية من العوامل المسببة للمرض هي استراتيجية الرقابة الأولية",
+      "معالجة البذور الملوثة بالماء الساخن لتقليل مستويات البكتريا",
+      "ممارسة تناوب المحاصيل لمدة ثلاث سنوات أو أكثر مع غير المضيفين مثل الحبوب الصغيرة أو الذرة",
+      "تجنب الري وإعادة استخدام مياه الري",
+      "لا يزرع ويعمل إلا في الحقول التي يجف فيها المظلي للحد من الانتشار الثانوي",
+      "أنواع الخيار النباتية المقاومة للخيارات النباتية إذا كان المرض مشكلة متكررة",
+      "لم تُستحدث أي ممارسات بيولوجية للمراقبة فيما يتعلق ببقعة الورقة الزُزُرية"
     ],
     "Monitoring": [
-      "Look for small, water-soaked lesions on leaves largely confined by large plant veins",
-      "Check for angular appearance of lesions (they do not cross plant veins)",
-      "Look for clear to milky exudate on the lower surface of lesions during humid weather",
-      "Watch for lesions turning tan brown and dropping out of the leaf (shot-hole appearance)",
-      "Check fruits for small (0.04 to 0.1 inches) water-soaked lesions with light tan centers",
-      "Monitor growing tips in determinate types for systemic infection that stops vine growth"
+      "ابحث عن إصابات صغيرة ممتصة بالماء على اوراق الاوراق التي تنحصر الى حد كبير في اوردة نباتية كبيرة",
+      "كِش لـ لـ لـ agular ظهور من ليس تتقاطع مع نباتات",
+      "ابحث عن توضيح لخريطي الحليبي على السطح السفلي للآفات أثناء الطقس الرطوبة",
+      "راقبوا الجروح التي تحوّل إلى سمّان بنيّ وتسقط من الورقة (ظهور فتحة الطّرح)",
+      "(أ) التحقق من الفواكه بالنسبة للآفات الصغيرة (من 0.04 إلى 0.1 بوصة) التي تُمتص بالماء مع مراكز تمارين خفيفة",
+      "رصد نمو الإكراميات في أنواع محددة لأمراض منتظمة توقف نمو الكرم"
     ],
     "Direct Control": [
-      "Use Copper-based bactericides (Champ, Kocide, Nordox, Tri Basic Copper) to reduce severity",
-      "Apply Champ Dry Prill or Champ Formula 2 at 1.33 lb/pt per acre",
-      "Apply Kocide (101, DF, 4.5LF, 3000) at recommended rates (0.5 to 3 lbs/pts)",
-      "Apply Nordox at 1.5-2.0 lb per acre",
-      "Use Copper/EBDC mixtures like Cuprofix MZ Disperss at 4-7.25 lb",
-      "Chemical controls are most effective when integrated with sound cultural control practices"
+      "استخدام مبيدات البكترات القائمة على أساس النحاس (Champ, Kodid, Nordox, Tri Basis) لتقليل الحدة",
+      "طبّق اللّمبّر أو الرّمْل أو الرّمْل 2 عند 1.33 رطل/بتر/بتر لكلّ acre",
+      "تطبيق KUsided (101، DF، 45/FR، 3000) بالمعدلات الموصى بها (0.5 إلى 3 لترات/لترات)",
+      "تطبيق نوندروكس عند 1,5- 2, 1, 1 رطل لكل قكر",
+      "(ب) استخدام مزائج مثل Caperofix MZ",
+      "الضوابط الكيميائية تكون أكثر فعالية عندما تكون مدمجة في ممارسات الرقابة الثقافية السليمة"
     ],
     "Restrictions": [
-      "Copper Fungicides: 5-7 days application frequency; may cause plant injury",
-      "Copper-Count-N: 7 days application frequency; may cause injury",
-      "Cuprofix MZ Disperss: Maximum of 63.1 pounds per season; PHI 5 days",
-      "A 4 to 7 day spray interval is necessary when conditions are highly favorable",
-      "Always follow product label for specific dosage and timing of application"
+      "مبيدات المبيدات المجهرية النحاسية: ترددات تطبيقية تتراوح بين 5 و 7 أيام؛ قد تتسبب في إصابة نباتية",
+      "النحاس - الكونت - نون: 7 أيام من تواتر الطلب؛ قد يسبب إصابة",
+      "المسحات: أقصى حد أقصى قدره 63.1 رطلاً في الموسم؛",
+      "تكون فترة الرش من 4 إلى 7 أيام ضرورية عندما تكون الظروف مواتية جداً",
+      "الـ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _:"
     ]
   }
 }

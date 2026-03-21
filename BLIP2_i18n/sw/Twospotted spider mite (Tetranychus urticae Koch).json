@@ -1,58 +1,67 @@
 {
-  "pest_name": "Twospotted Spider Mite",
-  "scientific_name": "Tetranychus urticae Koch",
-  "type": "arthropod / mite",
+  "pest_name": "Mchezo wa Spider Mite",
+  "scientific_name": "Siku ya Siku ya Siku ya Siku",
+  "type": "Mifano ya Mifano / Mifano",
   "description": {
-    "size": "Adults 0.4–0.5 mm long",
-    "appearance": "Oval, green to yellowish body with two dark spots on the back; eight legs",
-    "life_cycle": "Egg → larva → protonymph → deutonymph → adult; several generations per season",
-    "notes": "Very small, often requires a hand lens or magnification for detection"
+    "size": "Idadi ya watu wazima 0.4 - 0.5 mm",
+    "appearance": "Oval, mwili wa kijani hadi ya nyekundu na peke mbili za nyekundu juu ya nyuma; nyekundu",
+    "life_cycle": "Maji → larva → protonymph → deutonymph → watu wazima; kadhaa kwa msimu",
+    "notes": "Ni ndogo sana, mara nyingi inahitaji lensi ya mkono au uzalishaji kwa ajili ya ukaguzi"
   },
   "hosts": {
-    "primary": ["Tomato", "Cucumber", "Pepper", "Strawberry"],
-    "secondary": ["Many ornamentals, vegetables, and fruit crops"],
-    "weeds": ["Common weed hosts can harbor populations during off-season"]
+    "primary": [
+      "Mji wa Tomato",
+      "ya Cucumber",
+      "Pepsi ya",
+      "ya Strawberry"
+    ],
+    "secondary": [
+      "Matunda mengi, matunda, na matunda ya matunda"
+    ],
+    "weeds": [
+      "Wafanyabiashara wa kawaida wanaweza kukimbia idadi ya wakazi wakati wa msimu"
+    ]
   },
-  "distribution": "Worldwide, especially in warm, dry conditions",
+  "distribution": "duniani kote, hasa katika hali ya hewa na ya kutisha",
   "symptoms": {
     "foliage": [
-      "Tiny yellow or pale spots on upper leaf surface (stippling)",
-      "Webbing on undersides of leaves under heavy infestations",
-      "Leaves may turn bronze, curl, and drop prematurely"
+      "Siku za nyekundu au za nyekundu juu ya bustani ya juu (kutafsiri)",
+      "Kumbuka juu ya chini ya tiketi chini ya infestations kubwa",
+      "Maonyesho yanaweza kubadilika kwa bronze, curl, na kupoteza mapema"
     ],
-    "overall_impact": "Reduced photosynthesis, stunted growth, lower yield, increased plant stress"
+    "overall_impact": "Ukosefu wa photosynthesis, ukuaji wa kushangaza, uzalishaji wa chini, shinikizo kubwa ya mimea"
   },
   "conditions_for_development": [
-    "Thrives in hot, dry weather",
-    "Population growth is rapid under temperatures of 25–35°C",
-    "Low relative humidity favors outbreaks"
+    "kufurahia wakati wa hali ya hewa na ya juu",
+    "Maendeleo ya idadi ya watu ni haraka chini ya joto la 25-35 ° C",
+    "Ukosefu wa umeme wa chini hutoa faida"
   ],
   "spread": [
-    "Wind, irrigation water, contaminated tools",
-    "Transported via infested plants or plant debris"
+    "Wind, maji ya kuvutia, vifaa vya kuvutia",
+    "Kuendeshwa kwa njia ya mimea au misitu ya mimea"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate irrigation and humidity to reduce stress on plants",
-      "Remove infested plant debris and weeds",
-      "Avoid excessive use of broad-spectrum insecticides that disrupt natural predators"
+      "Kuhifadhi usafishaji na umaskini sahihi ili kupunguza shinikizo juu ya mimea",
+      "Kuondoa mbegu za mimea na mbegu za kuvutia",
+      "Kuepuka matumizi ya kutosha ya insecticides ya spektrum kubwa ambayo huathiri wanyama wa asili"
     ],
     "biological": [
-      "Introduce predatory mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)",
-      "Encourage natural predators such as lady beetles and lacewings"
+      "Maonyesho ya kuvutia (kwa mfano, Phytoseiulus persimilis, Neoseiulus californicus)",
+      "Kuimarisha wanyama wa asili kama vile wanyama wanyama na kupoteza"
     ],
     "chemical": [
-      "Use miticides (acaricides) as a last resort and rotate chemical classes to avoid resistance",
-      "Apply to undersides of leaves where mites are concentrated"
+      "Kutumia miticides (acaricides) kama njia ya mwisho na kurekebisha viwango vya kemikali ili kuepuka upinzani",
+      "Kuanzisha juu ya chini ya tiketi ambapo mites ni kuhusiana"
     ]
   },
   "notes": [
-    "One of the most common and economically important mite pests worldwide",
-    "Can develop resistance rapidly to multiple chemical classes"
+    "Moja ya matibabu ya kawaida na ya kiuchumi duniani kote",
+    "Inaweza kuendeleza upinzani haraka kwa aina nyingi za kemikali"
   ],
   "references": [
-    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Their Biology, Natural Enemies and Control. Elsevier.",
-    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mites (Acari) for Pest Control. Blackwell Science.",
-    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). Mites Injurious to Economic Plants. University of California Press."
+    "Helle, W. & Sabelis, M.W. (1985). Spider Mites: Biology yao, Maadui ya Asili na Ulinzi.",
+    "Gerson, U., Smiley, R.L., & Ochoa, R. (2003). Mita (Acari) kwa ajili ya Ulinzi.",
+    "Jeppson, L.R., Keifer, H.H., & Baker, E.W. (1975). mita ya kutisha kwa mimea ya kiuchumi."
   ]
 }

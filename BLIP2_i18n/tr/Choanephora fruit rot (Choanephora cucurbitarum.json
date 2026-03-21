@@ -1,139 +1,119 @@
 {
-  "disease": "Choanephora Fruit Rot",
-  "scientific_name": "Choanephora cucurbitarum",
-  "pathogen_type": "Fungus",
-
-  "description": "Choanephora fruit rot is a fungal disease affecting cucurbit crops in warm and humid climates. The pathogen infects flowers first and later spreads to fruits, causing soft watery rot. Infected tissues quickly become mushy and are covered with fuzzy fungal growth that turns from white to dark purple or black.",
-
+  "disease": "Choanephora Meyveleri",
+  "scientific_name": "Choanephora cucurbitarum Hakkında",
+  "pathogen_type": "Fonksiyon",
+  "description": "Choanephora meyve kabuğu, sıcak ve nemli iklimlerde cucurbit bitkileri etkileyen bir mantar hastalığıdır. patolojik enfeksiyon çiçekleri ilk ve sonradan meyveye yayılır, yumuşak su kabuğu neden olur. enfekte dokular hızla mantar haline gelir ve beyazdan karanlık pürüzsüz veya siyahya dönüşen mantar büyüme ile kaplıdır.",
   "common_names": [
-    "fruit rot",
-    "Choanephora fruit rot",
-    "cucurbit flower blight",
-    "melon blossom blight",
-    "wet rot"
+    "Meyve rot",
+    "Choanephora Meyve Kırışıklığı",
+    "Çiçek Çiçek Blight",
+    "Melon Çiçek Blight",
+    "ıslak rot"
   ],
-
   "taxonomy": {
-    "kingdom": "Fungi",
-    "order": "Mucorales",
-    "family": "Choanephoraceae"
+    "kingdom": "Mantarlar",
+    "order": "Mükemmel",
+    "family": "Choanephoraceae Hakkında"
   },
-
-  "description_short": "A fungal disease that causes rapid soft rot of cucurbit flowers and fruits, especially during warm and wet conditions.",
-
+  "description_short": "Bir mantar hastalığı, özellikle sıcak ve ıslak koşullarda, çiçek ve meyvelerin yumuşak çürümesine neden olur.",
   "symptoms": [
-    "soft watery rot on flowers",
-    "mushy brown or translucent fruit tissue",
-    "rot starting at blossom end of fruit",
-    "rapid fruit decay within a few days",
-    "fuzzy fungal growth covering infected tissue",
-    "white mold turning purple or black",
-    "pinhead-like fungal structures on rotten fruit"
+    "Çiçekler üzerinde yumuşak su rot",
+    "mushy kahverengi veya translucent meyve dokusu",
+    "Meyvelerin çiçeklenmesiyle başlar",
+    "Hızlı meyve kaybı birkaç gün içinde",
+    "Fuzzy mantar büyümesi enfekte dokuları kaplar",
+    "beyaz şekil sarı veya siyah dönüştürülür",
+    "Pinehead gibi mantar yapıları çamurlu meyvelerde"
   ],
-
   "visual_signature": [
-    "mushy soft rot on squash or cucumber fruit",
-    "white fluffy mold turning dark purple or black",
-    "black pinhead-like structures on rotting tissue",
-    "wet translucent fruit rot"
+    "Yumuşak çilek çilek ya da çilek meyvelerinde",
+    "beyaz fluffy şekli karanlık pürüzsüz veya siyah",
+    "Kırışıklık dokusu üzerinde siyah pinhead gibi yapılar",
+    "ıslak translucent meyve rot"
   ],
-
   "affected_plant_parts": [
-    "flowers",
-    "fruit",
-    "fruit blossom end",
-    "senescent floral organs"
+    "Çiçekler",
+    "Meyveler",
+    "Meyve Çiçek Sonu",
+    "Senescent çiçek organları"
   ],
-
   "plant_family": "Cucurbitaceae",
-
   "hosts": [
-    "pumpkin",
-    "squash",
-    "zucchini",
-    "watermelon",
+    "Pompa",
+    "Çanakkale",
+    "Çanakkale",
+    "su melonları",
     "melon",
-    "luffa",
-    "cucumber",
-    "eggplant",
-    "chili pepper",
-    "beans",
-    "okra",
-    "spinach",
-    "sweet potato",
-    "cassava"
+    "Lüfe",
+    "Cevapla",
+    "Yumurta",
+    "Çilek Pepper",
+    "Beyonce",
+    "Okra",
+    "İspanya",
+    "tatlı patates",
+    "Kayseri"
   ],
-
   "important_hosts": [
-    "Cucurbita pepo",
-    "Cucurbita maxima",
-    "Citrullus lanatus",
-    "Cucumis melo",
-    "Luffa cylindrica"
+    "Cucurbita Pepo için",
+    "Cucurbita Maksima",
+    "Citrullus lanatus Hakkında",
+    "Çanakkale Melo",
+    "Çerçeve Silindir"
   ],
-
   "favorable_conditions": [
-    "high humidity",
-    "frequent rainfall",
-    "wet flowers and fruits",
-    "poor air circulation",
-    "warm temperatures above 25°C"
+    "Yüksek nem",
+    "sık yağışlar",
+    "Çiçekler ve Meyveler",
+    "Kötü hava dolaşımı",
+    "Sıcaklıklar 25°C'nin üzerinde"
   ],
-
   "spread": [
-    "wind-dispersed spores",
-    "rain splash",
-    "insects carrying spores",
-    "contaminated plant debris",
-    "infected crop residues"
+    "rüzgârlı spores",
+    "yağmur splash",
+    "Spore taşıyan böcekler",
+    "kirlenmiş bitki çöpleri",
+    "Enfekte bitki kalıntıları"
   ],
-
   "disease_cycle": [
-    "fungus survives in crop debris and soil",
-    "spores infect senescent flowers",
-    "infection spreads from flowers to developing fruit",
-    "fungus produces abundant spores on rotting tissue",
-    "spores spread by wind, rain, irrigation and insects"
+    "Mantarlar bitki çöplerinde ve topraklarda hayatta kalır",
+    "Spores enfekte senescent çiçekler",
+    "Enfeksiyon çiçeklerden meyveye yayılır",
+    "Mantar, kırışıklık dokusundaki bol miktarda spor üretir.",
+    "rüzgar, yağmur, sulama ve böcekler tarafından yayılan spores"
   ],
-
   "damage": [
-    "rapid fruit rot",
-    "loss of marketable cucurbit fruits",
-    "fruit liquefaction",
-    "yield losses in cucurbit crops"
+    "Hızlı meyve rot",
+    "Satışa sunulabilen meyvelerin kaybı",
+    "Meyve Liquefaction",
+    "Çiğ kömürlerde kayıplar"
   ],
-
   "management": [
-    "remove infected flowers and fruits immediately",
-    "avoid overhead irrigation",
-    "use drip irrigation if possible",
-    "space plants for good air circulation",
-    "harvest fruit before overmaturity",
-    "reduce humidity in greenhouses"
+    "Enfekte çiçekleri ve meyveleri hemen çıkarın.",
+    "aşırı sulama yapmaktan kaçının",
+    "Mümkünse Drip Irrigation kullanın.",
+    "İyi hava dolaşımı için uzay tesisleri",
+    "Yetişkinlik öncesinde meyve yetiştirmek",
+    "ısıtma ısıtma ısıtma ısıtma"
   ],
-
   "cultural_control": [
-    "crop rotation when possible",
-    "raised beds or well-drained soil",
-    "plastic mulch to reduce soil contact",
-    "good sanitation and removal of plant debris"
+    "Mümkün olduğunda bitki dönüşü",
+    "Yataklar veya iyi ıslatılmış topraklar",
+    "Toprağın temasını azaltmak için plastik çamur",
+    "İyi sanitasyon ve bitki çöpleri kaldırma"
   ],
-
   "biological_control": [
-    "mycoparasite Piptocephalis virginiana reported to suppress the fungus"
+    "Mykoparasit Piptocephalis virginiana mantarı bastırmak için bildirildi"
   ],
-
   "chemical_control": [
-    "fungicides generally ineffective because flowers open continuously"
+    "Çiçekler sürekli açıldığı için genellikle etkisizdir."
   ],
-
   "confusable_diseases": [
-    "Rhizopus fruit rot"
+    "Rhizopus meyve rot"
   ],
-
   "source": [
-    "University of Minnesota Extension",
-    "Plant pathology research publications",
-    "Cucurbit disease management guides"
+    "Minnesota Genişletme Üniversitesi",
+    "Bitki Patolojisi Araştırma Yayınları",
+    "Cucurbit Hastalık Yönetimi Rehberi"
   ]
 }

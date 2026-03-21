@@ -1,0 +1,72 @@
+{
+  "disease_name": "Tomate temprano Blight",
+  "causal_agent": "Alternaria solani",
+  "other_agents": [
+    "Alternaria tomatephila"
+  ],
+  "type": "patógeno fúngico",
+  "hosts": {
+    "primary": [
+      "Tomate (Solanum lycopersicum L.)",
+      "Patata (S. tuberosum)"
+    ],
+    "secondary": [
+      "Berenjena (S. melongena L.)",
+      "Pimienta y pimienta picante (Capsicum spp.)"
+    ],
+    "weeds": [
+      "Sombra negra (Solanum nigrum)"
+    ]
+  },
+  "distribution": "Mundialmente; problemático al este de las Montañas Rocosas y medio oeste de EE.UU. para el tomate; común en las regiones productoras de patatas",
+  "symptoms": {
+    "tomato": [
+      "Manchas de hojas concéntricas en hojas más viejas, de color marrón a negro, hasta 1,3 cm",
+      "Amarillo o clorosis alrededor de las manchas de las hojas",
+      "Lesiones de tallo, oscuras y ligeramente hundidas con anillos concéntricos",
+      "Fruta podrida en puntos de fijación del tallo o a través de heridas, marrón con círculos concéntricos oscuros, masa de espora aterciopelada negra",
+      "Semilleros: putrefacción del cuello (cinturón basal), muerte"
+    ],
+    "potato": [
+      "Manchas concéntricas de color marrón oscuro en hojas más antiguas",
+      "Defoliación precoz que conduce a la reducción del rendimiento del tubérculo",
+      "Manchas de tallo deslumbrantes y difusas",
+      "Lesiones tubérgicas: secas, oscuras, presionadas en la superficie; pulpa subyacente seca, cuerosa y marrón; pueden agrandarse durante el almacenamiento"
+    ]
+  },
+  "life_cycle": {
+    "type": "policíclicos",
+    "overwintering": "Residuos de cultivos o plantas soláceas silvestres",
+    "infection": "Conidia producida en primavera, salpicada o dispersada por el viento, infectada por heridas, estomas o penetración directa",
+    "spread": "Conidios de lesiones infectan otras partes de plantas o plantas vecinas durante la misma temporada"
+  },
+  "pathogen_type": "Necrotrófico",
+  "cultural_control": [
+    "Limpiar los desechos infectados para reducir el inóculo",
+    "Plantas de agua por la mañana para minimizar la humedad de las hojas",
+    "Utilizar riego por goteo",
+    "Aplicar mantillo para bloquear la salpicadura del suelo",
+    "Girar a cultivos no solánicos durante al menos tres años",
+    "Controlar plantas silvestres solanáceas cerca de campos",
+    "Cultivadores resistentes a las plantas",
+    "Aumentar la circulación de aire en filas",
+    "Monitoriza estrechamente los campos en clima cálido y húmedo"
+  ],
+  "chemical_control": [
+    "Azoxistrobina (Fungicida QoI)",
+    "Piraclostrobina",
+    "Bacillus subtilis",
+    "Clorotalonil",
+    "Productos a base de cobre",
+    "Dióxido de hidrógeno (Hidroperoxilo)",
+    "Mancozeb",
+    "Bicarbonato de potasio",
+    "Ziram"
+  ],
+  "notes_on_resistance": "Disminución de la sensibilidad a los fungicidas QoI debido a la sustitución de aminoácidos F129L en A. solani",
+  "references": [
+    "https://www.apsnet.org/edcenter/intropp/lessons/fungi/Pages/Alternaria.aspx",
+    "https://www.cabdirect.org/cabdirect/abstract/20093196520",
+    "https://doi.org/10.1094/PHYTO-94-11-1231"
+  ]
+}

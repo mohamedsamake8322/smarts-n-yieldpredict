@@ -1,41 +1,41 @@
 {
-  "pest_name": "Lesser Cornstalk Borer",
-  "scientific_name": "Elasmopalpus lignosella",
-  "pest_type": "insect",
-  "order": "Lepidoptera",
-  "family": "Pyralidae",
-  "description": "The lesser cornstalk borer is a moth whose larvae attack the lower stems of many crops. The larvae bore into stems near the soil surface, damaging seedlings and young plants. Severe infestations can cause plant death and significant yield reduction.",
+  "pest_name": "Mchakato wa Cornstalk Borer",
+  "scientific_name": "ya Elasmopalpus lignosella",
+  "pest_type": "Wanyama",
+  "order": "ya Lepidoptera",
+  "family": "ya Pyralidae",
+  "description": "Mti mdogo wa mti ni mti ambao larvae kuathiri mti chini ya matunda mengi. larvae mti katika mti karibu na mbolea ya ardhi, kuharibu mti na mti mdogo. Matangazo makubwa yanaweza kusababisha mauti ya mimea na kupungua kwa kiasi kikubwa katika matunda.",
   "hosts": [
-    "Corn",
-    "Peanut",
-    "Soybean",
-    "Sorghum",
-    "Various legumes"
+    "Mji wa Corn",
+    "ya Peanut",
+    "Soya ya",
+    "Maombi ya",
+    "Vyanzo mbalimbali"
   ],
   "damage": [
-    "Larvae bore into stems near soil line",
-    "Wilting and death of seedlings",
-    "Stunted growth",
-    "Reduced plant population"
+    "Larvae inakuja kwenye mti karibu na mti wa ardhi",
+    "Kufa na kufa kwa wanyama",
+    "Kuanzisha ukuaji",
+    "Ukosefu wa idadi ya mimea"
   ],
   "life_cycle": [
-    "Egg",
-    "Larva (damaging stage)",
-    "Pupa",
-    "Adult moth"
+    "Maji ya",
+    "Mzunguko (Mzunguko wa Mzunguko)",
+    "Pupa ya",
+    "Mtoto wa wazee"
   ],
   "spread": [
-    "Adult moth flight",
-    "Movement of infested plant debris or soil"
+    "Ndege ya Madhara ya Mtoto",
+    "Mabadiliko ya mbegu za mimea au ardhi"
   ],
   "management": {
     "cultural": [
-      "Maintain adequate soil moisture",
-      "Rotate crops",
-      "Remove crop residues"
+      "Kuhifadhi ubora wa ardhi sahihi",
+      "Matunda ya Rotate",
+      "Kuondoa mbegu ya mimea"
     ],
     "chemical": [
-      "Apply soil insecticides when infestations are severe"
+      "Kutoa insecticides ya ardhi wakati infestations ni mbaya"
     ]
   }
 }

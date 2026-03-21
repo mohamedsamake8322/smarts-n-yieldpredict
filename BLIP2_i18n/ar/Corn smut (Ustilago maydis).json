@@ -1,78 +1,78 @@
 {
-  "disease": "Corn smut",
+  "disease": "",
   "other_names": [
-    "Common smut",
-    "Boil smut",
-    "Blister smut",
-    "Huitlacoche",
-    "Cuitlacoche"
+    "Smut",
+    "Butut",
+    "",
+    "Huit cochch",
+    "الكوشش"
   ],
-  "scientific_name": "Mycosarcoma maydis",
-  "synonym": "Ustilago maydis",
-  "pathogen_type": "Fungus",
-  "description": "Corn smut is a fungal disease of maize that produces tumor-like galls on different parts of the plant. These galls contain masses of dark spores and can significantly reduce yield. In Mexico, immature galls are considered a culinary delicacy known as huitlacoche.",
+  "scientific_name": "قد يترتب على ذلك ما يلي:",
+  "synonym": "سَيُسْتَطْلَقُ قَدْ",
+  "pathogen_type": "المنقوس",
+  "description": "في المكسيك، تُعَد المراوح الناضجة من مطهرات الطهي المعروف باسم هوتلاكوتشي. وفي المكسيك، تُعَد المراوح الناضجة من مطهرات الطهي المعروفة باسم هوتلاكوتشي.",
   "hosts": [
-    "Maize (Zea mays)",
-    "Teosinte (Zea mexicana)"
+    "Maizize (زئ أيار/مايو)",
+    "Teosinte (Zea Mexexicana)"
   ],
   "symptoms": {
     "general": [
-      "Tumor-like galls on plant tissues",
-      "Swollen kernels or plant organs",
-      "Black powdery spores inside galls"
+      "حالات التشوهات الشبيهة بالتشوهات على أنسجة النباتات",
+      "نواميل أو أعضاء نباتية",
+      "بـاء - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
     ],
     "leaves": [
-      "Small galls on leaf veins or blades"
+      "(أ) أُدُر أو نُفَف"
     ],
     "stems": [
-      "Large galls on stalks or nodes"
+      "« كبيرات كبيرات » كثيرات « على حبس أو عقدات » ."
     ],
     "ears": [
-      "Kernels replaced by swollen galls",
-      "Galls turn black and rupture releasing spores"
+      "حلت محلها مجاملات مُنْفَجَة",
+      "تُحوّلُ النُظُرُ إلى أسود و تَمَتّعُ الجُوُث"
     ]
   },
   "disease_cycle": [
-    "The fungus survives in soil or crop debris as teliospores",
-    "Spores germinate and produce haploid sporidia",
-    "Compatible sporidia mate and form infectious hyphae",
-    "Hyphae penetrate young plant tissues",
-    "Tumor-like galls form and produce new teliospores",
-    "Spores spread by wind and rain"
+    "تنجو الفطريات في التربة أو من حطام المحاصيل كما تنجو الفطريات في التربة أو في المحاصيل",
+    "البقول التي تُنتِج وتُنتِج sporidia",
+    "الرفيق المتوافق والشكل المُعَدي",
+    "(أ) الإهتار في أنسجة النبتة الفتية",
+    "تُشكِّل المرّات الشبيهة بالورم وتُنتِج تيلياسبوريات جديدة",
+    "الأوج التي تنتشر بالرياح والمطر"
   ],
   "favorable_conditions": [
-    "Warm temperatures",
-    "Plant injuries or wounds",
-    "High nitrogen levels in soil",
-    "Wind and rain that spread spores",
-    "Periods of poor pollination or plant stress"
+    "درجة حرارة",
+    "إصابات أو جروح",
+    "مستويات النيتروجين المرتفعة في التربة",
+    "« وريا ورياد ومطر » المطر الذي فطرت به",
+    "فترات ضعف التلقيح أو الإجهاد النباتي"
   ],
   "distribution": [
-    "Worldwide in maize-growing regions"
+    "المنظمة العالمية في المناطق التي تزرع فيها الذرة"
   ],
   "management": {
     "cultural": [
-      "Use resistant maize varieties",
-      "Practice crop rotation",
-      "Remove infected plant debris",
-      "Avoid mechanical injury to plants",
-      "Manage nitrogen fertilization"
+      "الأصناف المُسَمِمة",
+      "تناوب ممارسة الممارسة في المحصول",
+      "(أ) أُزيل",
+      "تجنب الإصابة الميكانيكية للنباتات",
+      "تخصيب النيتروجان"
     ],
     "chemical": [
-      "Fungicides are generally ineffective for controlling corn smut"
+      "مبيدات الآفات الفلورية غير فعالة عموماً في التحكم في سموت الذرة"
     ]
   },
   "economic_importance": [
-    "Usually causes low yield losses in field corn",
-    "Can significantly affect sweet corn production",
-    "Ear galls reduce market value of fresh corn"
+    "أسباب انخفاض خسائر الغلة في حقل الذرة",
+    "يمكن أن يؤثر إلى حد كبير على إنتاج الذرة الحلوة",
+    "انخفاض القيمة السوقية للذرة الطازجة"
   ],
   "additional_notes": [
-    "Immature galls are edible and sold as a gourmet food called huitlacoche in Mexico",
-    "The fungus is widely used as a model organism in fungal genetics and plant pathology research"
+    "تُؤَدَّى المُسْتَرَات غير القابلة للأكل وتُباع كغذاء مُعَيَّن يُدعى هوتلاسكوتشي في المكسيك",
+    "يستخدم الفطريات على نطاق واسع ككائن نموذجي في علم الوراثة الفطرية والبحوث المرضية النباتية."
   ],
   "sources": [
-    "Wikipedia – Corn smut",
-    "University plant pathology references"
+    "ويكيبيديا - الذرة Smut",
+    "المراجع المرجعية لمياه النباتات في جامعة"
   ]
 }

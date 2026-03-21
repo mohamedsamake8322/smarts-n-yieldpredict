@@ -1,54 +1,54 @@
 {
- "disease": "Grapevine Leafroll Disease",
- "scientific_name": "Grapevine leafroll-associated virus (GLRaVs)",
- "pathogen_type": "Virus",
- "description": "A viral disease of grapevines that reduces yield and fruit quality. It causes leaf rolling, discoloration, and poor grape ripening.",
- "symptoms": [
-  "Leaves roll downward from the edges",
-  "Red or purple leaves in red varieties",
-  "Yellow leaves in white varieties",
-  "Green veins remain visible",
-  "Delayed fruit ripening",
-  "Reduced sugar content in grapes"
- ],
- "hosts": [
-  "Grapevine (Vitis vinifera)",
-  "Table grapes",
-  "Wine grapes",
-  "Wild Vitis species"
- ],
- "favorable_conditions": [
-  "Presence of mealybugs and scale insects",
-  "Use of infected planting material"
- ],
- "spread": [
-  "Mealybugs",
-  "Soft scale insects",
-  "Propagation with infected cuttings"
- ],
- "management": [
-  "Remove infected vines",
-  "Control mealybugs and scale insects",
-  "Use certified virus-free planting material",
-  "Monitor vineyards regularly"
- ],
- "biological_control": [
-  "Encourage natural enemies of mealybugs such as lady beetles",
-  "Use parasitoid wasps to control vectors"
- ],
- "chemical_control": [
-  "Insecticides to control mealybugs (e.g., imidacloprid, spirotetramat)",
-  "Horticultural oils to reduce vector populations"
- ],
- "prevention": [
-  "Plant certified virus-free vines",
-  "Control insect vectors early",
-  "Remove infected vines quickly",
-  "Sanitize propagation materials"
- ],
- "source": [
-  "FAO Grapevine Disease Guide",
-  "UC Davis Viticulture Resources",
-  "International Council for Viticulture (OIV)"
- ]
+  "disease": "Maladie des feuilles de vigne",
+  "scientific_name": "Virus associé à la rouille des feuilles de vigne (VGLRa)",
+  "pathogen_type": "Virus",
+  "description": "Une maladie virale des vignes qui réduit le rendement et la qualité des fruits. Il provoque le laminage des feuilles, la décoloration, et le mauvais mûrissement des raisins.",
+  "symptoms": [
+    "Les feuilles roulent vers le bas des bords",
+    "Feuilles rouges ou violettes de variétés rouges",
+    "Feuilles jaunes en variétés blanches",
+    "Les nervures vertes restent visibles",
+    "Fruits dont la maturation est retardée",
+    "Réduction de la teneur en sucre des raisins"
+  ],
+  "hosts": [
+    "Pamplemousses (Vitis vinifera)",
+    "Raisins de table",
+    "Raisins de cuve",
+    "Espèces de Vitis sauvages"
+  ],
+  "favorable_conditions": [
+    "Présence de punaises et d'insectes à l'échelle",
+    "Utilisation de matériel de plantation infecté"
+  ],
+  "spread": [
+    "Mâle-mâle",
+    "Insectes à petite échelle",
+    "Propagation avec boutures infectées"
+  ],
+  "management": [
+    "Enlever les vignes infectées",
+    "Contrôler les punaises et les insectes à l'échelle",
+    "Utiliser du matériel de plantation certifié exempt de virus",
+    "Surveiller régulièrement les vignobles"
+  ],
+  "biological_control": [
+    "Encourager les ennemis naturels des punaises comme les coccinelles",
+    "Utiliser des guêpes parasitoïdes pour contrôler les vecteurs"
+  ],
+  "chemical_control": [
+    "Insecticides pour lutter contre les punaises (p. ex. imidacloprid, spirotetramat)",
+    "Huiles horticoles pour réduire les populations vectorielles"
+  ],
+  "prevention": [
+    "Cépages certifiés exempts de virus",
+    "Lutte précoce contre les vecteurs d'insectes",
+    "Enlever rapidement les vignes infectées",
+    "Désinfecter les matériaux de propagation"
+  ],
+  "source": [
+    "Guide de la FAO sur la maladie de la vigne",
+    "UC Davis Viticulture Ressources",
+    "Conseil international de la viticulture (OIV)"
+  ]
 }

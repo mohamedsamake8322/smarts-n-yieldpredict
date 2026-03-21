@@ -1,104 +1,87 @@
 {
-  "disease": "Carrot root fly damage",
-  "scientific_name": "Chamaepsila rosae",
-  "pathogen_type": "Insect pest",
-
-  "description": "Carrot root fly is a serious insect pest of carrots and related crops. The adult fly lays eggs in the soil near carrot plants. The larvae (maggots) hatch and tunnel into the roots, feeding on the tissues and causing serious damage to the crop.",
-
+  "disease": "@ action",
+  "scientific_name": "KCharselect unicode block name",
+  "pathogen_type": "@ action",
+  "description": "Wani ƙaramin mutum da ya girma ya yi girma a cikin ƙasa da ke kusa da teku kuma yana da ƙananan shuke - shuke da aka yi amfani da su wajen ciyar da motar.",
   "symptoms": [
-    "Carrot leaves wilt and become weak",
-    "Leaves turn rusty red or yellow",
-    "Rusty-brown tunnels under the carrot skin",
-    "Roots become deformed and damaged",
-    "Carrots rot easily after infection",
-    "Reduced yield and poor quality roots"
+    "Rashin lafiya zai bar kuma ya raunana",
+    "Ku riƙi shirinku sa'an nan ku fitar da hari jama'a, jama'a ko ku fitar da yaƙi gaba ɗaya.",
+    "Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.",
+    "Waɗanda suka tsira sun lalace sosai kuma sun lalace",
+    "@ item Spelling dictionary",
+    "Ana nuna sauƙin hali da kuma hali na matalauta"
   ],
-
   "visual_signature": [
-    "rusty brown tunnels in carrot root",
-    "damaged carrot roots with holes",
-    "reddish or yellow carrot foliage"
+    "KCharselect unicode block name",
+    "QXml",
+    "Ana sanye da kayan ado ko kuma gaɓar teku"
   ],
-
-  "pest_stage_causing_damage": "larvae (maggots)",
-
+  "pest_stage_causing_damage": "Mãsu gudu suna ɓũya.",
   "pest_description": [
-    "Larvae are creamy-yellow maggots",
-    "Larvae are legless",
-    "Larvae reach about 10 mm length",
-    "Adult flies are small and low-flying"
+    "Mai girman kai, bãyan haka kuma la'ĩmi (bã ya son alhẽri).",
+    "@ item Spelling dictionary",
+    "@ item Text character set",
+    "Dũkiyarsa ba ta tsare masa kõme ba, da abin da ya tãra."
   ],
-
   "affected_plant_parts": [
-    "roots",
-    "leaves"
+    "Banner page",
+    "hagu"
   ],
-
   "hosts": [
-    "carrot",
-    "parsnip",
-    "parsley",
-    "celery",
-    "other Apiaceae crops"
+    "Media controller element",
+    "KCharselect unicode block name",
+    "@ item Spelling dictionary",
+    "Lalle ne, a cikin wannan, haƙĩƙa, akwaiãyõyi ga mutãne waɗanda suke yin halitta",
+    "Farã mai dãɗi ga mashãyan."
   ],
-
-  "plant_family": "Apiaceae",
-
+  "plant_family": "KCharselect unicode block name",
   "life_cycle": [
-    "Adult flies lay eggs in soil near carrot plants",
-    "Larvae hatch from eggs",
-    "Larvae burrow into carrot roots and feed",
-    "Larvae develop in soil and later become adult flies"
+    "Masu kiwon ' ya'yan itace suna noma a ƙasa kusa da ƙananan shuke - shuke",
+    "Wani abin shã yanã fita daga cikunanta, mai sãɓãwar launukansa a cikinsa akwai wata warkewa ga mutãne.",
+    "@ item Text character set",
+    "Raɓa tana girma a ƙasa kuma daga baya ta girma"
   ],
-
   "favorable_conditions": [
-    "cool to moderate temperatures",
-    "moist soil conditions",
-    "fields with previous carrot crops"
+    "Media controller element",
+    "ƙasa mai sanyi",
+    "\"Da shuke-shuke da dabĩ nai, 'ya'yan itãcensu hirtsi mãsu narkẽwa a ciki?\""
   ],
-
   "spread": [
-    "adult flies laying eggs in soil",
-    "movement between nearby carrot fields"
+    "Sai su motsar da ƙũra game da shi.",
+    "Haɗa da bayanen da aka shigar"
   ],
-
   "management": [
-    "Use crop rotation to avoid planting carrots repeatedly in the same field",
-    "Remove infected plants and damaged roots",
-    "Use physical barriers such as mesh or insect netting",
-    "Use horticultural fleece to cover crops",
-    "Plant resistant carrot varieties when available"
+    "Ku yi amfani da kayan aiki don kada ku riƙa shuka mota a kai a kai",
+    "Yadda aka ɓata shuke - shuke kuma aka yi watsi da su",
+    "Ka yi amfani da makamanka na zahiri kamar su yin iyo ko kuma yin maye da su",
+    "Ka yi amfani da kayan aiki don ka rufe shuke - shuke",
+    "Mãsu gudu suna ɓũya."
   ],
-
   "biological_control": [
-    "Beneficial nematodes (Steinernema species) applied to soil",
-    "Encouraging natural predators of fly larvae"
+    "Wata ' yar'uwa mai suna Alanan ta yi amfani da wata ƙasa don ta yi wa mutane wa'azi.",
+    "KCharselect unicode block name"
   ],
-
   "chemical_control": [
-    "approved soil insecticides where available",
-    "targeted insecticide treatments against larvae (local regulations apply)"
+    "@ action",
+    "Ana son a yi jinyar da aka yi a kan rana (ko kuma a riƙe ko'ina)"
   ],
-
   "companion_plants": [
-    "onion",
-    "garlic",
-    "chives",
-    "rosemary",
-    "sage"
+    "@ action",
+    "QFontDatabase",
+    "KCharselect unicode block name",
+    "Mãsu gudu suna ɓũya.",
+    "QShortcut"
   ],
-
   "prevention": [
-    "Use fine insect netting around crops",
-    "Cover crops with horticultural fleece",
-    "Intercrop carrots with aromatic plants",
-    "Maintain field sanitation",
-    "Avoid leaving damaged carrots in the soil"
+    "Ka yi amfani da zane - zane masu kyau a kewaye da shuke - shuke",
+    "Ku dũba zuwa 'ya'yan itãcensa, idan ya yi 'ya'yan, da nunarsa.",
+    "Mãsu duhun inuwa.",
+    "Ka Kasance da Ra'ayin da ya Dace",
+    "Ka guji barin motar da ta lalace a ƙasa"
   ],
-
   "source": [
-    "CABI Crop Protection Compendium",
-    "University agricultural extension publications",
-    "Integrated pest management guides"
+    "@ item Text character set",
+    "KCharselect unicode block name",
+    "Media controller element"
   ]
 }

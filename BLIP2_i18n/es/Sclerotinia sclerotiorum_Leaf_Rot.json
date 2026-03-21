@@ -1,0 +1,87 @@
+{
+  "disease": "Esclerotinia Leaf Rot",
+  "scientific_name": "Esclerotinia esclerotiorum",
+  "pathogen_type": "Hongos",
+  "description": "La podredumbre de la hoja de esclerotinia es una enfermedad fúngica que afecta a muchos cultivos. El hongo infecta hojas y tallos bajo condiciones frías y húmedas. Produce moho blanco similar al algodón y estructuras de supervivencia negras llamadas esclerotia.",
+  "symptoms": [
+    "Manchas empapadas de agua en las hojas",
+    "Hojas que se vuelven amarillas y marchitas",
+    "Suave pudrición en el tejido de la hoja infectada",
+    "Crecimiento fúngico similar al algodón blanco en hojas o tallos",
+    "Se forma esclerotia tipo semilla negra en áreas infectadas",
+    "Hojas colapsando y muriendo"
+  ],
+  "visual_symptoms": [
+    "moho esponjoso blanco en las hojas",
+    "pudrición suave de la hoja acuosa",
+    "esclerotia negra dentro del crecimiento fúngico",
+    "hojas desplomadas o marchitadas"
+  ],
+  "hosts": [
+    "Lechuga",
+    "Judías",
+    "Guisantes",
+    "Tomate",
+    "Girasol",
+    "Repollo",
+    "Zanahoria",
+    "Apio",
+    "Pepino",
+    "Muchas plantas ornamentales"
+  ],
+  "plant_parts_affected": [
+    "hojas",
+    "tallos",
+    "peciolos"
+  ],
+  "favorable_conditions": [
+    "Temperaturas frías",
+    "Alta humedad",
+    "Humedad prolongada de las hojas",
+    "Dosel de plantas densas",
+    "Baja circulación del aire"
+  ],
+  "spread": [
+    "Esporas aerotransportadas de apothecia",
+    "Esclerotia en el suelo",
+    "Desechos de plantas infectados",
+    "Salpicadura de agua o viento"
+  ],
+  "disease_cycle": [
+    "El hongo sobrevive en el suelo como esclerotia durante varios años",
+    "La esclerotia germina y produce apotecia en forma de copa",
+    "Apothecia libera esporas en el aire",
+    "Las esporas infectan las hojas durante las condiciones húmedas",
+    "Nueva forma de esclerotia en plantas infectadas y retorno al suelo"
+  ],
+  "impact": [
+    "Rotura de las hojas y debilitamiento de las plantas",
+    "Disminución de la fotosíntesis",
+    "Menor rendimiento de los cultivos",
+    "Posible colapso de la planta en infecciones graves"
+  ],
+  "cultural_control": [
+    "Retire las plantas infectadas rápidamente",
+    "Mejorar el espaciamiento de las plantas y el flujo de aire",
+    "Rotar los cultivos con plantas no hospedantes",
+    "Eliminar los residuos vegetales infectados de los campos"
+  ],
+  "biological_control": [
+    "Use hongos biocontrol como los minitans de Coniothyrium",
+    "Utilizar microbios beneficiosos como especies de Trichoderma"
+  ],
+  "chemical_control": [
+    "Aplicar fungicidas registrados cuando el riesgo de enfermedad es alto",
+    "Pulverizadores de fungicidas preventivos en condiciones húmedas"
+  ],
+  "prevention": [
+    "Evitar el hacinamiento en la plantación",
+    "Supervisar los cultivos durante las estaciones frías y húmedas",
+    "Practicar la rotación de cultivos",
+    "Utilizar la gestión integrada de las enfermedades"
+  ],
+  "source": [
+    "Guías de patología vegetal",
+    "Recursos de extensión agrícola"
+  ]
+}

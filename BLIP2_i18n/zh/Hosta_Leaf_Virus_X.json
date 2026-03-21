@@ -1,54 +1,54 @@
 {
- "disease": "Hosta Virus X",
- "scientific_name": "Hosta Virus X (HVX)",
- "pathogen_type": "Virus",
- "description": "A viral disease that infects hosta plants. It does not kill the plant but causes permanent leaf damage and reduces ornamental quality. Once infected, the plant remains infected for life.",
- "symptoms": [
-  "Ink-bleed pattern along leaf veins",
-  "Mottled or patchy leaf discoloration",
-  "Sunken or compressed leaf tissue",
-  "Irregular light and dark green patterns on leaves",
-  "Distorted or unhealthy leaf appearance"
- ],
- "hosts": [
-  "Hosta species",
-  "Ornamental hosta cultivars"
- ],
- "favorable_conditions": [
-  "Mechanical damage to leaves or roots",
-  "Poor sanitation during pruning or plant division",
-  "Close contact between infected and healthy plants"
- ],
- "spread": [
-  "Plant sap transfer",
-  "Contaminated pruning tools or knives",
-  "Plant division without disinfection",
-  "Contact between damaged leaves",
-  "Infected planting material"
- ],
- "management": [
-  "Remove and destroy infected plants completely",
-  "Do not compost infected plant material",
-  "Disinfect tools and equipment after handling plants",
-  "Avoid planting new hostas in contaminated soil for at least 2 years",
-  "Use virus testing kits when infection is suspected"
- ],
- "biological_control": [
-  "No biological control currently available for HVX"
- ],
- "chemical_control": [
-  "No chemical treatment available for plant viruses such as HVX"
- ],
- "prevention": [
-  "Buy plants from reputable nurseries with sanitation protocols",
-  "Inspect plants carefully before purchase",
-  "Quarantine new hosta plants for several weeks",
-  "Minimize plant wounding during maintenance",
-  "Wash hands and disinfect tools between plants",
-  "Use disinfectant solutions such as trisodium phosphate or laboratory detergents"
- ],
- "source": [
-  "Hosta nursery disease management guides",
-  "University plant pathology extension resources"
- ]
+  "disease": "Hosta病毒X",
+  "scientific_name": "Hosta病毒X(HVX)",
+  "pathogen_type": "病毒病毒",
+  "description": "一种病毒性疾病感染了宿主植物,它不会杀死植物,而是造成永久性叶子损害,并降低装饰质量。 一旦感染,植物将终身感染。",
+  "symptoms": [
+    "叶叶静脉上的墨水流模式",
+    "腐烂或杂乱的叶叶分色变色",
+    "枯枯或压缩叶叶组织",
+    "叶叶上不定期的光光和暗绿色模式",
+    "扭曲或不健康叶的外观"
+  ],
+  "hosts": [
+    "宿主物种",
+    "宗教的宿主教区"
+  ],
+  "favorable_conditions": [
+    "对叶叶或根叶的机械损害",
+    "修剪或植物分区期间卫生条件差",
+    "受感染植物与健康植物之间的密切接触"
+  ],
+  "spread": [
+    "植物肥料转移",
+    "受污染的犁田工具或刀",
+    "无消消消消消消消的植物分厂",
+    "受损害叶叶叶之间的接触",
+    "感染的种植材料"
+  ],
+  "management": [
+    "完全清除和销毁被感染的植物",
+    "不要堆肥受感染植物材料",
+    "处理厂处理后对工具和设备的排除",
+    "避免在受污染的土壤中至少2年栽种新主机",
+    "在怀疑感染时使用病毒检测包"
+  ],
+  "biological_control": [
+    "目前HVX没有可用的生物控制"
+  ],
+  "chemical_control": [
+    "诸如HVX等植物病毒没有可用的化学处理方法"
+  ],
+  "prevention": [
+    "从有卫生规程的声誉良好的托儿所购买植物",
+    "采购前仔细检查工厂",
+    "隔离新宿主设施厂,为期数周",
+    "尽量减少维修保养期间的工伤",
+    "工厂之间的洗手和消毒工具",
+    "使用消毒溶剂,如磷酸三钠或实验室洗涤剂"
+  ],
+  "source": [
+    "幼儿疾病管理指南",
+    "大学植物病理学扩展资源"
+  ]
 }
