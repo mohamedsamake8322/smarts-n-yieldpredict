@@ -141,6 +141,16 @@ splash_css = """
 </style>
 """
 
+st.markdown(
+    """
+    <style>
+    /* Hide root page nav entry when on Home page */
+    [data-testid="stSidebarNav"] > div:first-child { display: none !important; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 st.markdown(splash_css, unsafe_allow_html=True)
 
 # Contenu de l'écran de démarrage
