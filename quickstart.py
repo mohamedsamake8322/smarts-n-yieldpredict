@@ -93,14 +93,14 @@ def main():
     if IN_COLAB:
         # For Colab, use specific configuration
         run_command(
-            [sys.executable, "-m", "streamlit", "run", "04_app_streamlit.py",
+            [sys.executable, "-m", "streamlit", "run", "streamlit_app.py",
              "--logger.level=error", "--client.showErrorDetails=false"],
             "Launching App on Google Colab"
         )
     else:
         # For local machine
         run_command(
-            [sys.executable, "-m", "streamlit", "run", "04_app_streamlit.py"],
+            [sys.executable, "-m", "streamlit", "run", "streamlit_app.py"],
             "Launching App"
         )
 

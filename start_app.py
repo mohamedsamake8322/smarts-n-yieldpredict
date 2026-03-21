@@ -15,14 +15,12 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent
 sys.path.append(str(PROJECT_ROOT))
 
-from config import SWIN_MODEL_PATH, SWIN_FAISS_INDEX
-
 def check_app_requirements():
     """Vérifier les prérequis pour l'application."""
     checks = {
-        "Modèle Swin entraîné": os.path.exists(SWIN_MODEL_PATH),
-        "Index FAISS (phase2)": os.path.exists(SWIN_FAISS_INDEX),
-        "Application Streamlit": os.path.exists("04_app_streamlit.py"),
+        "Modèle Swin entraîné": os.path.exists("models/swin_base_patch4_window7_224.pth"),
+        "Index FAISS": os.path.exists("models/faiss_index.bin"),
+        "Application Streamlit": os.path.exists("streamlit_app.py"),
         "Données BLIP-2": os.path.exists("data/blip2_normalized"),
         "Configuration": os.path.exists("config.py")
     }
@@ -93,7 +91,7 @@ def start_application(port=8501):
 
     # Lancement de l'application
     process = subprocess.Popen([
-        sys.executable, '-m', 'streamlit', 'run', '04_app_streamlit.py',
+        sys.executable, '-m', 'streamlit', 'run', 'streamlit_app.py',
         '--server.port', str(port),
         '--server.address', '0.0.0.0',
         '--logger.level', 'error'
