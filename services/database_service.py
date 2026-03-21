@@ -86,11 +86,26 @@ class DatabaseService:
                 )
             """)
             
+            # Table des analyses d'images (new - simplified analysis logging)
+            cursor.execute("""
+                CREATE TABLE IF NOT EXISTS analysis_history (
+                    id TEXT PRIMARY KEY,
+                    user_id TEXT,
+                    disease_name TEXT,
+                    confidence REAL,
+                    image_path_log TEXT,
+                    disease_data TEXT,
+                    analysis_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                )
+            """)
+            
             # Index pour améliorer les performances
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_detections_user ON detections(user_id)")
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_detections_created ON detections(created_at)")
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_chat_user ON chat_messages(user_id)")
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_chat_created ON chat_messages(created_at)")
+            cursor.execute("CREATE INDEX IF NOT EXISTS idx_analysis_user ON analysis_history(user_id)")
+            cursor.execute("CREATE INDEX IF NOT EXISTS idx_analysis_date ON analysis_history(analysis_date)")
             
             conn.commit()
             conn.close()
@@ -442,6 +457,81 @@ class DatabaseService:
                 "top_diseases": {},
                 "top_plants": {}
             }
+    
+    async def save_analysis(
+        self,
+        user_id: str,
+        disease_name: str,
+        confidence: float,
+        image_path_log: Optional[str] = None,
+        disease_data: Optional[Dict] = None
+    ) -> str:
+        """Sauvegarde une analyse d'image dans l'historique"""
+        try:
+            import uuid
+            analysis_id = str(uuid.uuid4())
+            
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                INSERT INTO analysis_history (
+                    id, user_id, disease_name, confidence, image_path_log, disease_data
+                ) VALUES (?, ?, ?, ?, ?, ?)
+            """, (
+                analysis_id,
+                user_id,
+                disease_name,
+                confidence,
+                image_path_log,
+                json.dumps(disease_data) if disease_data else None
+            ))
+            
+            # Mise à jour de l'utilisateur
+            cursor.execute("""
+                INSERT OR REPLACE INTO users (user_id, last_active)
+                VALUES (?, CURRENT_TIMESTAMP)
+            """, (user_id,))
+            
+            conn.commit()
+            conn.close()
+            
+            logger.info(f"Analyse sauvegardée: {analysis_id}")
+            return analysis_id
+            
+        except Exception as e:
+            logger.error(f"Erreur lors de la sauvegarde de l'analyse: {str(e)}")
+            return ""
+    
+    async def get_user_analysis_history(self, user_id: str, limit: int = 20) -> List[Dict]:
+        """Récupère l'historique des analyses d'un utilisateur"""
+        try:
+            conn = sqlite3.connect(self.db_path)
+            conn.row_factory = sqlite3.Row
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                SELECT * FROM analysis_history
+                WHERE user_id = ?
+                ORDER BY analysis_date DESC
+                LIMIT ?
+            """, (user_id, limit))
+            
+            rows = cursor.fetchall()
+            analyses = []
+            
+            for row in rows:
+                analysis = dict(row)
+                if analysis['disease_data']:
+                    analysis['disease_data'] = json.loads(analysis['disease_data'])
+                analyses.append(analysis)
+            
+            conn.close()
+            return analyses
+            
+        except Exception as e:
+            logger.error(f"Erreur lors de la récupération de l'historique: {str(e)}")
+            return []
 
 
 

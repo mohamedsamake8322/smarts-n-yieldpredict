@@ -31,6 +31,7 @@ import streamlit as st
 from PIL import Image
 import datetime
 import json
+import asyncio
 
 from model_core import (
     MODELS_PATH_PHASE2,
@@ -39,6 +40,8 @@ from model_core import (
 )
 from utils.blip2_explainer import generate_explanation_for_image, load_disease_info
 from utils.i18n import language_selector, get_lang, t, LANGUAGE_OPTIONS
+from utils.helpers import get_user_id
+from services.database_service import DatabaseService
 import numpy as np
 
 
@@ -134,12 +137,12 @@ def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
         return True  # in case of doubt, let the AI decide
 
 
-def save_analyzed_image(image: Image.Image, disease_name: str, confidence: float = None):
+def save_analyzed_image(image: Image.Image, disease_name: str, confidence: float = None, disease_data: dict = None):
     """
     Saves the analyzed image to a folder named after the detected disease.
-    Creates folder structure: prediction_logs/<disease_name>/
-    Also saves metadata as JSON.
+    Also saves metadata to local SQLite database.
     
+    Creates folder structure: prediction_logs/<disease_name>/
     Returns the path where the image was saved.
     """
     try:
@@ -172,6 +175,19 @@ def save_analyzed_image(image: Image.Image, disease_name: str, confidence: float
         
         with open(metadata_path, "w", encoding="utf-8") as f:
             json.dump(metadata, f, indent=2, ensure_ascii=False)
+        
+        # Also save to SQLite database
+        try:
+            db_service = DatabaseService()
+            asyncio.run(db_service.save_analysis(
+                user_id=get_user_id(),
+                disease_name=disease_name,
+                confidence=confidence,
+                image_path_log=str(image_path),
+                disease_data=disease_data
+            ))
+        except Exception as db_err:
+            st.warning(f"⚠️ Could not save to database: {str(db_err)}")
         
         return str(image_path)
     
@@ -434,33 +450,104 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     if confidence is not None:
         st.markdown(f"**Confidence:** {confidence*100:.0f}%")
 
-    # Show symptoms / cause / management directly from JSON (authoritative)
-    st.markdown(t("symptoms_heading"))
-    if disease_data.get("symptoms"):
-        for item in disease_data["symptoms"]:
-            st.markdown(f"- {item}")
-    else:
-        st.markdown(t("no_data"))
+    # ====== STEP 1: Show basic information ======
+    if disease_data.get("description"):
+        st.markdown("### 📖 Description")
+        st.write(disease_data["description"])
 
-    st.markdown(t("cause_heading"))
-    if disease_data.get("cause"):
-        st.markdown(disease_data["cause"])
-    else:
-        st.markdown(t("no_data"))
+    # Scientific name & pathogen type
+    col1, col2 = st.columns(2)
+    with col1:
+        if disease_data.get("scientific_name"):
+            st.markdown(f"**Scientific Name:** {disease_data['scientific_name']}")
+    with col2:
+        if disease_data.get("pathogen_type"):
+            st.markdown(f"**Pathogen Type:** {disease_data['pathogen_type']}")
 
-    st.markdown(t("management_heading"))
-    if disease_data.get("management"):
-        for item in disease_data["management"]:
-            st.markdown(f"- {item}")
-    else:
-        st.markdown(t("no_data"))
+    # Hosts
+    if disease_data.get("hosts"):
+        st.markdown("### 🌾 Hosts Affected")
+        for host in disease_data["hosts"]:
+            st.markdown(f"- {host}")
 
-    source_file = disease_data.get("_source_file")
-    if source_file:
-        st.caption(f"🔗 Source JSON: {source_file}")
+    # Susceptibility
+    if disease_data.get("susceptibility"):
+        st.markdown("### 🛡️ Susceptibility")
+        suscept = disease_data["susceptibility"]
+        
+        if suscept.get("highly_susceptible"):
+            st.markdown("**Highly Susceptible:**")
+            for item in suscept["highly_susceptible"]:
+                st.markdown(f"- {item}")
+        
+        if suscept.get("moderately_susceptible"):
+            st.markdown("**Moderately Susceptible:**")
+            for item in suscept["moderately_susceptible"]:
+                st.markdown(f"- {item}")
+        
+        if suscept.get("more_tolerant"):
+            st.markdown("**More Tolerant:**")
+            for item in suscept["more_tolerant"]:
+                st.markdown(f"- {item}")
+
+    # ====== BUTTON to expand for more details ======
+    if st.button("📋 View detailed treatment & management", type="secondary", use_container_width=True):
+        st.session_state.show_detailed_info = True
+
+    # ====== STEP 2: Show detailed information (after button click) ======
+    if st.session_state.get("show_detailed_info", False):
+        st.markdown("---")
+        st.markdown("### 📋 Detailed Information")
+
+        # Symptoms and damage
+        if disease_data.get("symptoms"):
+            st.markdown("**Symptoms and Damage:**")
+            for item in disease_data["symptoms"]:
+                st.markdown(f"- {item}")
+
+        # Disease cycle and spread
+        if disease_data.get("disease_cycle_and_spread"):
+            st.markdown("**Disease Cycle and Spread:**")
+            for item in disease_data["disease_cycle_and_spread"]:
+                st.markdown(f"- {item}")
+
+        # Favorable conditions
+        if disease_data.get("favorable_conditions"):
+            st.markdown("**Favorable Conditions:**")
+            for item in disease_data["favorable_conditions"]:
+                st.markdown(f"- {item}")
+
+        # Pathogen characteristics
+        if disease_data.get("pathogen_characteristics"):
+            st.markdown("**Pathogen Characteristics:**")
+            for item in disease_data["pathogen_characteristics"]:
+                st.markdown(f"- {item}")
+
+        # Monitoring
+        if disease_data.get("monitoring"):
+            st.markdown("**Monitoring:**")
+            for item in disease_data["monitoring"]:
+                st.markdown(f"- {item}")
+
+        # Management
+        if disease_data.get("management"):
+            st.markdown("**Management and Control:**")
+            for item in disease_data["management"]:
+                st.markdown(f"- {item}")
+
+        # Prevention (if available)
+        if disease_data.get("prevention"):
+            st.markdown("**Prevention:**")
+            for item in disease_data["prevention"]:
+                st.markdown(f"- {item}")
+
+        source_file = disease_data.get("_source_file")
+        if source_file:
+            st.caption(f"🔗 Source: {source_file}")
 
     # Visual confirmation: 3–4 images from dataset_light for the predicted class
     if not is_unknown and pred_disease:
+        st.markdown("---")
         st.markdown(t("visual_confirmation"))
 
         light_images = _get_light_images_for_disease(pred_disease, max_images=4)
