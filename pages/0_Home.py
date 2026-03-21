@@ -208,5 +208,20 @@ st.markdown(
 
 # For Streamlit, also render a native button
 if st.button("Start Diagnosis"):
-    st.switch_page("Detection")
+    st.experimental_set_query_params(page="Detection")
+    st.experimental_rerun()
+
+# Auto-redirect after 3 seconds via browser (safe in Streamlit Cloud)
+st.markdown(
+    """
+    <script>
+    setTimeout(function() {
+        window.location.href = '/?page=Detection';
+    }, 3000);
+    </script>
+    """,
+    unsafe_allow_html=True,
+)
+
+st.info("You will be redirected to Detection in 3 seconds; or click Start Diagnosis.")
 
