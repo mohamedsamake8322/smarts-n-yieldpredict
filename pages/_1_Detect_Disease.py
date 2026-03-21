@@ -22,7 +22,9 @@ from model_core import (
 )
 
 from utils.gradcam import generate_gradcam
-from utils.storage import save_diagnosis, save_feedback, save_wrong_image_for_review, load_disease_info
+from utils.storage import save_diagnosis, save_feedback, save_wrong_image_for_review
+from utils.blip2_explainer import load_disease_info
+from utils.i18n import get_lang, language_selector, t
 
 # ============================================================================
 # PAGE CONFIG
@@ -153,17 +155,16 @@ def diagnose(
 # ============================================================================
 # MAIN UI
 # ============================================================================
-st.title("🔍 Plant Disease Detection")
-st.markdown("""
-Upload a clear photo of the affected plant leaf to get an instant AI diagnosis.
-Our system analyzes visual patterns and finds similar cases from our database.
-""")
+st.title(t("app_title"))
+st.markdown(t("app_description"))
 
 st.markdown("---")
 
 # Sidebar settings
 with st.sidebar:
-    st.header("⚙️ Settings")
+    st.header(t("sidebar_settings"))
+    language_selector(container="sidebar")
+    st.markdown("---")
     k = st.slider("Number of similar images (K)", 1, 10, 5)
     unknown_threshold = st.slider(
         "Unknown threshold",
@@ -182,8 +183,6 @@ try:
 except Exception as e:
     st.error(f"❌ Error loading models: {e}")
     st.stop()
-
-disease_db = load_disease_database()
 
 # ============================================================================
 # UPLOAD & DIAGNOSIS INTERFACE
@@ -270,20 +269,22 @@ with col2:
             </div>
             """, unsafe_allow_html=True)
 
-        # Disease information
-        if (not is_unknown) and pred_disease and pred_disease in disease_db:
-            info = disease_db[pred_disease]
-            with st.expander("📖 Disease Information", expanded=True):
-                st.markdown(f"**Description:** {info.get('description', '')}")
-                if info.get("symptoms"):
-                    st.markdown("**Symptoms:**")
-                    st.write(info["symptoms"])
-                if info.get("treatment"):
-                    st.markdown("**Treatment:**")
-                    st.write(info["treatment"])
-                if info.get("prevention"):
-                    st.markdown("**Prevention:**")
-                    st.write(info["prevention"])
+# Disease information via BLIP2_i18n / BLIP2 fallback
+    if not is_unknown and pred_disease:
+        info = load_disease_info(pred_disease, language_code=get_lang())
+        with st.expander("📖 Disease Information", expanded=True):
+            st.markdown(f"**Description:** {info.get('description', '')}")
+            if info.get("symptoms"):
+                st.markdown("**Symptoms:**")
+                st.write(info["symptoms"])
+            if info.get("management"):
+                st.markdown("**Management:**")
+                st.write(info["management"])
+            if info.get("prevention"):
+                st.markdown("**Prevention:**")
+                st.write(info["prevention"])
+            if info.get("_source_file"):
+                st.caption(f"🔗 Source JSON: {info.get('_source_file')}")
 
         # Metrics
         col_m1, col_m2 = st.columns(2)

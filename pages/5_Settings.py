@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from utils.styles import load_custom_css, load_mobile_css
 from services.local_model_service import get_local_model_service
+from utils.i18n import LANGUAGE_OPTIONS, LANGUAGE_CODE_MAP, LANGUAGE_LABEL_MAP, language_selector, get_lang, t
 
 load_custom_css()
 load_mobile_css()
@@ -31,26 +32,14 @@ with tab1:
     
     st.markdown("### 🌍 Language and Region")
     col1, col2 = st.columns(2)
-    
-    language_map = {
-        "English": "en",
-        "Français": "fr",
-        "العربية": "ar",  # Arabic
-        "中文": "zh",  # Chinese
-        "Русский": "ru",  # Russian
-        "Español": "es",  # Spanish
-        "Deutsch": "de",  # German
-        "Türkçe": "tr",  # Turkish
-        "Swahili": "sw",
-        "አማርኛ": "am",  # Amharic
-        "Igbo": "ig",
-        "Hausa": "ha",
-    }
-    language = st.selectbox("Language", list(language_map.keys()))
+
+    with col1:
+        language_selector(container="main")
+        language = LANGUAGE_LABEL_MAP.get(get_lang(), "English")
 
     with col2:
         region = st.selectbox("Region", ["Mali", "Sénégal", "Burkina Faso", "Côte d'Ivoire"])
-    
+
     st.markdown("### 🔔 Notifications")
     notif_detection = st.checkbox("Notifications for new detections", value=True)
     notif_alerts = st.checkbox("Disease alerts", value=True)
@@ -60,8 +49,7 @@ with tab1:
     theme = st.selectbox("Theme", ["Light", "Dark", "Auto"])
     
     if st.button("Save", type="primary"):
-        st.session_state["lang"] = language_map.get(language, "en")
-        st.success(f"✅ Settings saved! Langue active: {language} ({st.session_state['lang']})")
+        st.success(f"✅ Settings saved! Langue active: {LANGUAGE_LABEL_MAP.get(get_lang(), 'English')} ({get_lang()})")
         st.experimental_rerun()
 
 with tab2:
