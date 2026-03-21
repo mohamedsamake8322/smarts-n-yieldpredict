@@ -253,9 +253,6 @@ def build_blip_prompt(disease_data: Dict[str, Any], language_code: str = "en") -
         "ha": "Respond in Hausa.",
         "ar": "Respond in Arabic.",
         "zh": "Respond in Chinese.",
-        "ff": "Respond in Pulaar.",
-        "bm": "Respond in Bambara.",
-        "wo": "Respond in Wolof.",
     }
     lang_instruction = lang_instruction_map.get(language_code.lower(), lang_instruction_map["en"])
 
