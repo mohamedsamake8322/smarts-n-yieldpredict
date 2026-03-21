@@ -34,6 +34,9 @@ OPUS_MODELS = {
     "am": "Helsinki-NLP/opus-mt-en-am",
     "ig": "Helsinki-NLP/opus-mt-en-ig",
     "ha": "Helsinki-NLP/opus-mt-en-ha",
+    "ff": "Helsinki-NLP/opus-mt-en-ff",
+    "bm": "Helsinki-NLP/opus-mt-en-bm",
+    "wo": "Helsinki-NLP/opus-mt-en-wo",
 }
 
 FALLBACK_MODEL = "facebook/m2m100_418M"
