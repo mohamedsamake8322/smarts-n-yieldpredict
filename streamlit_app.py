@@ -24,13 +24,17 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Attempt a safe redirect to Home page.
-try:
-    st.switch_page("Home")
-except Exception as e:
-    st.warning("Unable to auto-switch to Home; fallback to manual navigation.")
-    st.write("If you don't see the Home page, please click below:")
-    if st.button("Go to Home"):
-        st.experimental_set_query_params(page="Home")
-        st.experimental_rerun()
-    st.write("Workaround: set Streamlit main script to pages/0_Home.py in Streamlit Cloud settings.")
+# Gateway page for Streamlit Cloud entrypoint.
+# `st.switch_page` in root can throw StreamlitAPIException in server context.
+# We avoid that by displaying a safe home button.
+
+st.write("## Smart Disease Detection")
+st.write("Welcome! Click below to open Home.")
+
+if st.button("Go to Home"):
+    st.experimental_set_query_params(page="Home")
+    st.experimental_rerun()
+
+st.write("---")
+st.write("If you are on Streamlit Cloud, set **Main file** to `pages/0_Home.py` for best behavior.")
+st.write("The root script `streamlit_app.py` remains a hidden entrypoint for launch logic.")
