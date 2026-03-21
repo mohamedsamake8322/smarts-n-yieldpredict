@@ -242,7 +242,7 @@ for code, label in SUPPORTED_LANGS.items():
         st.session_state["lang"] = code
         break
 
-st.sidebar.markdown("### Instructions")
+st.sidebar.markdown(" Instructions")
 st.sidebar.markdown(t("sidebar_instructions"))
 
 # Capture/upload area
@@ -308,7 +308,7 @@ if 'uploaded_image' in st.session_state:
     st.markdown("---")
     st.subheader(t("image_to_analyze"))
     
-    st.markdown("#### Analyzed image")
+    st.markdown(" Analyzed image")
     # Use image_bytes instead of PIL object to avoid format issues
     if 'image_bytes' in st.session_state and st.session_state.image_bytes:
         st.image(st.session_state.image_bytes, width=None)
