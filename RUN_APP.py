@@ -52,7 +52,7 @@ Step 5: Test the modules
     └─ Verify everything works
 
 Step 6: Launch Streamlit application
-    streamlit run streamlit_app.py
+    streamlit run home_app.py
     
     └─ Access: http://localhost:8501
 

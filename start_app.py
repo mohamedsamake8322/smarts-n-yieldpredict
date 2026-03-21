@@ -20,7 +20,7 @@ def check_app_requirements():
     checks = {
         "Modèle Swin entraîné": os.path.exists("models/swin_base_patch4_window7_224.pth"),
         "Index FAISS": os.path.exists("models/faiss_index.bin"),
-        "Application Streamlit": os.path.exists("streamlit_app.py"),
+        "Application Streamlit": os.path.exists("home_app.py"),
         "Données BLIP-2": os.path.exists("data/blip2_normalized"),
         "Configuration": os.path.exists("config.py")
     }
@@ -91,7 +91,7 @@ def start_application(port=8501):
 
     # Lancement de l'application
     process = subprocess.Popen([
-        sys.executable, '-m', 'streamlit', 'run', 'streamlit_app.py',
+        sys.executable, '-m', 'streamlit', 'run', 'home_app.py',
         '--server.port', str(port),
         '--server.address', '0.0.0.0',
         '--logger.level', 'error'
