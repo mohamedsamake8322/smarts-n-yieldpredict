@@ -14,6 +14,7 @@ st.set_page_config(
 from datetime import datetime
 import sys
 from pathlib import Path
+import json
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -42,7 +43,7 @@ st.sidebar.markdown("### Filters")
 limit = st.sidebar.slider("Number of items", 5, 50, 20)
 
 # Tabs
-tab1, tab2 = st.tabs(["📸 Detections", "💬 Conversations"])
+tab1, tab2, tab3 = st.tabs(["📸 Detections", "💬 Conversations", "📁 Analyzed Images"])
 
 with tab1:
     st.subheader("📸 Previous detections")
@@ -134,3 +135,87 @@ with tab2:
         st.error(f"❌ Erreur lors du chargement des conversations: {str(e)}")
         st.info("Aucune conversation disponible")
 
+with tab3:
+    st.subheader("📁 Images Analyzed")
+    
+    try:
+        prediction_logs = Path("prediction_logs")
+        
+        if not prediction_logs.exists():
+            st.info("No analyzed images yet. Perform your first detection to see images here!")
+        else:
+            # Get all disease folders
+            disease_folders = sorted([d for d in prediction_logs.iterdir() if d.is_dir()])
+            
+            if not disease_folders:
+                st.info("No analyzed images yet. Perform your first detection to see images here!")
+            else:
+                st.success(f"✅ {len(disease_folders)} disease(s) detected")
+                
+                # Display each disease folder
+                for disease_folder in disease_folders:
+                    disease_name = disease_folder.name.replace("_", " ")
+                    
+                    # Get all images in this disease folder
+                    image_files = sorted(disease_folder.glob("*_analysis.jpg"), reverse=True)
+                    metadata_files = sorted(disease_folder.glob("*_metadata.json"), reverse=True)
+                    
+                    if image_files:
+                        with st.expander(f"🌿 {disease_name} ({len(image_files)} image(s))", expanded=False):
+                            
+                            # Create columns for displaying images
+                            cols = st.columns(3)
+                            
+                            for idx, img_path in enumerate(image_files):
+                                col = cols[idx % 3]
+                                
+                                # Get corresponding metadata
+                                metadata = {}
+                                timestamp = img_path.stem.replace("_analysis", "")
+                                metadata_path = disease_folder / f"{timestamp}_metadata.json"
+                                
+                                if metadata_path.exists():
+                                    try:
+                                        with open(metadata_path, "r", encoding="utf-8") as f:
+                                            metadata = json.load(f)
+                                    except Exception:
+                                        pass
+                                
+                                with col:
+                                    try:
+                                        from PIL import Image
+                                        img = Image.open(img_path)
+                                        st.image(img, use_container_width=True)
+                                        
+                                        # Display metadata
+                                        if metadata:
+                                            conf = metadata.get("confidence")
+                                            date_str = metadata.get("timestamp", "")
+                                            if date_str:
+                                                # Format the datetime string
+                                                try:
+                                                    dt = datetime.fromisoformat(date_str)
+                                                    date_str = dt.strftime("%Y-%m-%d %H:%M:%S")
+                                                except:
+                                                    pass
+                                            
+                                            st.caption(f"📅 {date_str}")
+                                            if conf:
+                                                st.caption(f"🎯 Confidence: {conf*100:.1f}%")
+                                        
+                                        # Delete button
+                                        if st.button("🗑️ Delete", key=f"del_img_{img_path.name}"):
+                                            try:
+                                                img_path.unlink()
+                                                if metadata_path.exists():
+                                                    metadata_path.unlink()
+                                                st.success("✅ Image deleted")
+                                                st.rerun()
+                                            except Exception as e:
+                                                st.error(f"❌ Error deleting image: {str(e)}")
+                                    
+                                    except Exception as e:
+                                        st.error(f"Error displaying image: {str(e)}")
+                    
+    except Exception as e:
+        st.error(f"❌ Error loading analyzed images: {str(e)}")

@@ -29,6 +29,8 @@ except ImportError:
 
 import streamlit as st
 from PIL import Image
+import datetime
+import json
 
 from model_core import (
     MODELS_PATH_PHASE2,
@@ -130,6 +132,52 @@ def _is_plant_like(image: Image.Image, green_threshold: float = 0.18) -> bool:
         return ratio_green >= green_threshold
     except Exception:
         return True  # in case of doubt, let the AI decide
+
+
+def save_analyzed_image(image: Image.Image, disease_name: str, confidence: float = None):
+    """
+    Saves the analyzed image to a folder named after the detected disease.
+    Creates folder structure: prediction_logs/<disease_name>/
+    Also saves metadata as JSON.
+    
+    Returns the path where the image was saved.
+    """
+    try:
+        # Create base prediction logs directory
+        base_dir = Path("prediction_logs")
+        base_dir.mkdir(exist_ok=True)
+        
+        # Sanitize disease name for folder creation
+        safe_disease_name = disease_name.replace(" ", "_").replace("/", "_")
+        disease_dir = base_dir / safe_disease_name
+        disease_dir.mkdir(exist_ok=True)
+        
+        # Generate filename with timestamp
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        image_filename = f"{timestamp}_analysis.jpg"
+        image_path = disease_dir / image_filename
+        
+        # Save the image
+        image.save(str(image_path), quality=95)
+        
+        # Save metadata as JSON
+        metadata = {
+            "timestamp": datetime.datetime.now().isoformat(),
+            "disease": disease_name,
+            "confidence": float(confidence) if confidence else None,
+            "image_file": image_filename
+        }
+        metadata_filename = f"{timestamp}_metadata.json"
+        metadata_path = disease_dir / metadata_filename
+        
+        with open(metadata_path, "w", encoding="utf-8") as f:
+            json.dump(metadata, f, indent=2, ensure_ascii=False)
+        
+        return str(image_path)
+    
+    except Exception as e:
+        st.warning(f"⚠️ Could not save analyzed image: {str(e)}")
+        return None
 
 
 # --------------------------
@@ -338,6 +386,12 @@ if 'uploaded_image' in st.session_state:
                     st.session_state.detection_result = diagnosis
                     st.session_state.image_for_explanation = image
                     st.session_state.show_results = True
+                    
+                    # Save the analyzed image to prediction_logs folder
+                    pred_disease = diagnosis.get("predicted_disease", "Unknown")
+                    confidence = diagnosis.get("predicted_similarity")
+                    if pred_disease and pred_disease != "UNKNOWN DISEASE":
+                        save_analyzed_image(image, pred_disease, confidence)
                 
             except Exception as e:
                 st.error(f"❌ Error during detection: {str(e)}")
