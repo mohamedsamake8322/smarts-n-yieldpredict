@@ -151,6 +151,16 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+# Hide root page nav entry for clean flow
+st.markdown(
+    """
+    <style>
+    [data-testid="stSidebarNav"] > div:first-child { display: none !important; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 st.markdown(splash_css, unsafe_allow_html=True)
 
 # Contenu de l'écran de démarrage
@@ -159,8 +169,8 @@ st.markdown("""
     <div class="logo-circle">
         <div class="logo-plant">🌱</div>
     </div>
-    <h1 class="app-title">Smart Disease Detection</h1>
-    <p class="app-subtitle">Intelligent crop disease detection</p>
+    <h1 class="app-title">AI-Powered Crop Disease Detection</h1>
+    <p class="app-subtitle">Detect plant diseases instantly using advanced AI and image analysis.</p>
     <div class="loading-bar">
         <div class="loading-progress"></div>
     </div>
@@ -168,12 +178,35 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Attendre 3 secondes puis rediriger
-if 'splash_shown' not in st.session_state:
-    time.sleep(3)
-    st.session_state.splash_shown = True
-    st.rerun()
-else:
-    # Rediriger vers la page de détection principale
-    st.switch_page("pages/1_Detection.py")
+# Call to action for user to go to Detection
+st.markdown("""
+<div style='text-align:center; margin-top: 25px;'>
+    <a href='#' id='start_diagnosis' style='display:inline-flex;
+       align-items:center; justify-content:center;
+       background-color:#28a745; color:white; padding:14px 28px;
+       border-radius:8px; font-size:18px; text-decoration:none;'>
+       ▶️ Start Diagnosis
+    </a>
+</div>
+""", unsafe_allow_html=True)
+
+# JavaScript redirection (works in browser click)
+st.markdown(
+    """
+    <script>
+    const btn = document.getElementById('start_diagnosis');
+    if (btn) {
+        btn.addEventListener('click', (event) => {
+            event.preventDefault();
+            window.location.href = '/?page=Detection';
+        });
+    }
+    </script>
+    """,
+    unsafe_allow_html=True,
+)
+
+# For Streamlit, also render a native button
+if st.button("Start Diagnosis"):
+    st.switch_page("Detection")
 
