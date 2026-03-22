@@ -150,7 +150,7 @@ st.markdown("""
     <div class="logo-circle">
         <div class="logo-plant">🌱</div>
     </div>
-    <h1 class="app-title">AI-Powered Crop Disease Detection</h1>
+    <h1 class="app-title">Sènè Crop Disease Detection</h1>
     <p class="app-subtitle">Detect plant diseases instantly using advanced AI and image analysis.</p>
     <div class="loading-bar">
         <div class="loading-progress"></div>
