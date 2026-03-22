@@ -193,14 +193,18 @@ def load_disease_info(
     # - "BLIP2_normalized" (format normalisé): name / causal_agent / symptoms / management / prevention / hosts
     # - format "dossier BLIPD" (Plantix-like): disease / scientific_name / symptoms_and_damage / disease_cycle_and_spread /
     #   favorable_conditions / pathogen_characteristics / monitoring / management / hosts / ...
-    disease_name = data.get("name") or data.get("disease") or predicted_label
-    cause = data.get("causal_agent") or data.get("cause") or ""
+    disease_name = data.get("name") or data.get("disease") or data.get("disease_name") or predicted_label
+    cause = data.get("causal_agent") or data.get("cause") or data.get("pathogen") or ""
     # Symptoms: peut être soit "symptoms" soit "symptoms_and_damage"
     symptoms = data.get("symptoms", None)
     if symptoms is None:
         symptoms = data.get("symptoms_and_damage", []) or []
 
-    management = data.get("management", []) or []
+    management = data.get("management", []) or data.get("cultural_control", []) or []
+    if data.get("chemical_control"):
+        # Combine cultural and chemical control
+        chemical = _to_list(data.get("chemical_control", []))
+        management.extend(chemical)
     prevention = data.get("prevention", []) or []
 
     disease_cycle_and_spread = data.get("disease_cycle_and_spread", []) or []
@@ -208,7 +212,7 @@ def load_disease_info(
     pathogen_characteristics = data.get("pathogen_characteristics", []) or []
     monitoring = data.get("monitoring", []) or []
 
-    pathogen_type = data.get("pathogen_type", "") or ""
+    pathogen_type = data.get("pathogen_type", "") or data.get("type", "") or ""
 
     susceptibility_raw = data.get("susceptibility", {}) or {}
     susceptibility: Dict[str, List[str]] = {}
@@ -216,13 +220,48 @@ def load_disease_info(
         for k, v in susceptibility_raw.items():
             susceptibility[str(k)] = _to_list(v)
 
+    # Handle description - create synthetic one if missing
+    description = data.get("description", "")
+    if not description or not isinstance(description, str) or not description.strip():
+        # Create synthetic description from available data
+        desc_parts = []
+        if pathogen_type:
+            desc_parts.append(f"{pathogen_type} disease")
+        if cause:
+            desc_parts.append(f"caused by {cause}")
+        if symptoms and len(symptoms) > 0:
+            symptom_text = symptoms[0] if len(symptoms) == 1 else f"{symptoms[0]} and other symptoms"
+            desc_parts.append(f"characterized by {symptom_text.lower()}")
+        if desc_parts:
+            description = " ".join(desc_parts) + "."
+        else:
+            description = f"Disease affecting plants with symptoms including {', '.join(symptoms[:2]) if symptoms else 'various plant issues'}."
+
+    # Extract hosts from various formats - try normalized first, then fallback to original
+    hosts = []
+    if data.get("hosts") and len(data["hosts"]) > 0:
+        hosts = _to_list(data["hosts"])
+    else:
+        # If normalized file has empty hosts, try to get from original BLIP2 file
+        original_path = _find_best_json_path(predicted_label, Path("BLIP2"), allow_fuzzy=allow_fuzzy)
+        if original_path and original_path.exists() and str(json_path) != str(original_path):
+            try:
+                with open(original_path, "r", encoding="utf-8") as f:
+                    original_data = json.load(f)
+                    if original_data.get("host_plants"):
+                        hosts = _to_list(original_data["host_plants"])
+                    elif original_data.get("hosts"):
+                        hosts = _to_list(original_data["hosts"])
+            except Exception:
+                pass
+
     # Ensure required fields exist (⚠️ on ignore volontairement "sources")
     return {
         "disease": str(disease_name),
         "scientific_name": str(data.get("scientific_name", "") or ""),
-        "description": str(data.get("description", "") or ""),
+        "description": str(description),
         "pathogen_type": str(pathogen_type),
-        "hosts": _to_list(data.get("hosts", [])),
+        "hosts": hosts,
         "symptoms": _to_list(symptoms),
         "cause": str(cause),
         "management": _to_list(management),
