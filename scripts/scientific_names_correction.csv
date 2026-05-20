@@ -1,0 +1,146 @@
+original_name,scientific_name,category,confidence
+Apple Apple scab,Venturia inaequalis,fungal,high
+Apple Black rot,Botryosphaeria obtusa,fungal,high
+Apple Cedar apple rust,Gymnosporangium juniperi-virginianae,pest,high
+Apple healthy,Malus domestica (healthy),healthy,high
+Apple_healthy,Malus domestica (healthy),healthy,high
+Bacterial leaf blight in rice leaf,Xanthomonas oryzae,bacterial,high
+Black_Leaf_Spot,Alternaria spp.,pest_family,high
+Blight in corn Leaf,Exserohilum turcicum,pest,high
+Blueberry healthy,Vaccinium corymbosum (healthy),healthy,high
+Brown spot in rice leaf,Bipolaris oryzae,pest,high
+Cauliflower_Alternaria_Leaf_Spot,Alternaria brassicae,fungal,high
+Cercospora leaf spot,Cercospora spp.,pest_family,high
+Cercospora_zeae_maydis,Cercospora zeae-maydis,fungal,high
+Cherry (including sour) Powdery mildew,Cherry (including sour) Powdery mildew (nom à vérifier),pest,low
+Cherry (including_sour) healthy,Prunus spp. (healthy),healthy,high
+Cicadellidae,Cicadellidae,pest,high
+Common Rust in corn Leaf,Puccinia sorghi,pest,high
+Corn (maize) healthy,Zea mays (healthy),healthy,high
+Corn_Gray_Leaf_Spot,Cercospora zeae-maydis,fungal,high
+Early_Arachis hypogaea_Leaf_Spot,Cercospora arachidicola,fungal,high
+Eggplant_Cercospora_Leaf_Spot,Cercospora melongenae,fungal,high
+Grape Black rot,Guignardia bidwellii,fungal,high
+Grape Esca Black Measles,Phaeomoniella chlamydospora,pest,high
+Grape Leaf blight Isariopsis Leaf Spot,Isariopsis clavispora,pest,high
+Grape healthy,Vitis vinifera (healthy),healthy,high
+Gray Leaf Spot in corn Leaf,Cercospora zeae-maydis,fungal,high
+Grub,Melolontha spp.,pest_family,high
+Late_Arachis hypogaea_Leaf_Spot,Cercosporidium personatum,pest,high
+Leaf smut in rice leaf,Entyloma oryzae,pest,high
+Orange Haunglongbing Citrus greening,Candidatus Liberibacter asiaticus,bacterial,high
+Peach_healthy,Prunus persica (healthy),healthy,high
+Pepper bell Bacterial spot,Xanthomonas spp.,pest_family,high
+Pepper bell healthy,Capsicum annuum (healthy),healthy,high
+Potato Early blight,Alternaria solani,fungal,high
+Potato Late blight,Phytophthora infestans,fungal,high
+Potato healthy,Solanum tuberosum (healthy),healthy,high
+Potato_healthy,Solanum tuberosum (healthy),healthy,high
+Raspberry_healthy,Rubus idaeus (healthy),healthy,high
+Soybean healthy,Glycine max (healthy),healthy,high
+Strawberry Leaf scorch,Diplocarpon earlianum,fungal,high
+Strawberry healthy,Fragaria × ananassa (healthy),healthy,high
+Tomato Bacterial spot,Xanthomonas spp.,pest_family,high
+Tomato Early blight,Alternaria solani,fungal,high
+Tomato Late blight,Phytophthora infestans,fungal,high
+Tomato Leaf Mold,Passalora fulva,pest,high
+Tomato Septoria leaf spot,Septoria lycopersici,pest,high
+Tomato Spider mites Two spotted spider mite,Tetranychus urticae,pest,high
+Tomato Target Spot,Corynespora cassiicola,pest,high
+Tomato Tomato mosaic virus,Tomato mosaic virus,viral,high
+Tomato healthy,Solanum lycopersicum (healthy),healthy,high
+algal leaf in tea,Cephaleuros virescens,pest,high
+anthracnose in tea,Colletotrichum camelliae,fungal,high
+aphis_citricola_vander_goot,Aphis citricola,pest,high
+apolugus_lucorum,Apolygus lucorum,pest,high
+apple___apple_scab,Venturia inaequalis,fungal,high
+apple___black_rot,Botryosphaeria obtusa,fungal,high
+apple___healthy,Malus domestica (healthy),healthy,high
+bird eye spot in tea,Cercospora theae,fungal,high
+blueberry___healthy,Vaccinium corymbosum (healthy),healthy,high
+brown blight in tea,Glomerella cingulata,pest,high
+cabbage looper,Trichoplusia ni,pest,high
+cherry_including_sour___healthy,Prunus spp. (healthy),healthy,high
+cherry_including_sour___powdery_mildew,cherry_including_sour___powdery_mildew (nom à vérifier),pest,low
+chili_cercospora_leaf_spot,chili_cercospora_leaf_spot (nom à vérifier),fungal,low
+chili_white_spot,chili_white_spot (nom à vérifier),pest,low
+colomerus_vitis,Colomerus vitis,pest,high
+corn_borer,Ostrinia nubilalis,pest,high
+corn_maize___cercospora_leaf_spot_gray_leaf_spot,Cercospora zeae-maydis,fungal,high
+corn_maize___common_rust,Puccinia sorghi,pest,high
+corn_maize___healthy,Zea mays (healthy),healthy,high
+corn_maize___northern_leaf_blight,Setosphaeria turcica,pest,high
+dacus_dorsalishendel,Bactrocera dorsalis,pest,high
+dasineura_sp,Dasineura spp.,pest_family,high
+deporaus_marginatus_pascoe,Deporaus marginatus,pest,high
+english_grain_aphid,Sitobion avenae,pest,high
+grain_spreader_thrips,Frankliniella schultzei,pest,high
+grape___black_rot,Guignardia bidwellii,fungal,high
+grape___esca_black_measles,Phaeomoniella chlamydospora,pest,high
+grape___leaf_blight_isariopsis_leaf_spot,Isariopsis clavispora,pest,high
+healthy tea leaf,Camellia sinensis (healthy),healthy,high
+healthy_leaf,Plantae (healthy),healthy,high
+icerya_purchasi_maskell,Icerya purchasi,pest,high
+lawana_imitata_melichar,Lawana imitata,pest,high
+lemon canker,lemon canker (nom à vérifier),pest,low
+limacodidae,Limacodidae,pest,high
+locustoidea,Locustoidea,pest,high
+longlegged_spider_mite,Neoseiulus cucumeris,pest,high
+lycorma_delicatula,Lycorma delicatula,pest,high
+lytta_polita,Lytta polita,pest,high
+meadow_moth,Loxostege sticticalis,pest,high
+miridae,Miridae,pest,high
+mole_cricket,Gryllotalpa spp.,pest_family,high
+odontothrips_loti,Odontothrips loti,pest,high
+oides_decempunctata,Oides decempunctata,pest,high
+paddy_stem_maggot,Chlorops oryzae,pest,high
+panonchus_citri_mcgregor,Panonychus citri,pest,high
+papilio_xuthus,Papilio xuthus,pest,high
+peach___bacterial_spot,Xanthomonas arboricola,bacterial,high
+peach_borer,peach_borer (nom à vérifier),pest,low
+penthaleus_major,Penthaleus major,pest,high
+pepper_bell___bacterial_spot,Xanthomonas spp.,pest_family,high
+pepper_bell___healthy,Capsicum annuum (healthy),healthy,high
+phyllocnistis_citrella_stainton,Phyllocnistis citrella,pest,high
+phyllocoptes_oleiverus_ashmead,Phyllocoptes oleivorus,pest,high
+pieris_canidia,Pieris canidia,pest,high
+potato___early_blight,Alternaria solani,fungal,high
+potato___late_blight,Phytophthora infestans,fungal,high
+potosiabre_vitarsis,Potosia brevitarsis,pest,high
+prodenia_litura,Spodoptera litura,pest,high
+pseudococcus_comstocki_kuwana,Pseudococcus comstocki,pest,high
+red leaf spot in tea,Corticium theae,pest,high
+rhytidodera_bowrinii_white,Rhytidodera bowringii,pest,high
+rice_gall_midge,Orseolia oryzae,pest,high
+rice_leaf_caterpillar,Naranga aenescens,pest,high
+rice_leaf_roller,Cnaphalocrocis medinalis,pest,high
+rice_leafhopper,Nephotettix spp.,pest_family,high
+rice_water_weevil,Lissorhoptrus oryzophilus,pest,high
+salurnis_marginella_guerr,Salurnis marginella,pest,high
+scirtothrips_dorsalis_hood,Scirtothrips dorsalis,pest,high
+sericaorient_alismots_chulsky,Serica orientalis,pest,high
+small_brown_plant_hopper,Laodelphax striatellus,pest,high
+soybean___healthy,Glycine max (healthy),healthy,high
+squash___powdery_mildew,Podosphaera xanthii,pest,high
+sternochetus_frigidus,Sternochetus frigidus,pest,high
+strawberry___leaf_scorch,Diplocarpon earlianum,fungal,high
+tetradacus_c_bactrocera_minax,Bactrocera minax,pest,high
+therioaphis_maculata_buckton,Therioaphis maculata,pest,high
+tomato___bacterial_spot,Xanthomonas spp.,pest_family,high
+tomato___early_blight,Alternaria solani,fungal,high
+tomato___healthy,Solanum lycopersicum (healthy),healthy,high
+tomato___late_blight,Phytophthora infestans,fungal,high
+tomato___leaf_mold,Passalora fulva,pest,high
+tomato___septoria_leaf_spot,Septoria lycopersici,pest,high
+tomato___spider_mites_twospotted_spider_mite,Tetranychus urticae,pest,high
+tomato___target_spot,Corynespora cassiicola,pest,high
+toxoptera_aurantii,Toxoptera aurantii,pest,high
+toxoptera_citricidus,Toxoptera citricidus,pest,high
+trialeurodes_vaporariorum,Trialeurodes vaporariorum,pest,high
+unaspis_yanonensis,Unaspis yanonensis,pest,high
+viteus_vitifoliae,Viteus vitifoliae,pest,high
+wheat_blossom_midge,Sitodiplosis mosellana,pest,high
+wheat_phloeothrips,Haplothrips tritici,pest,high
+white_backed_plant_hopper,Sogatella furcifera,pest,high
+xylotrechus,Xylotrechus spp.,pest_family,high
+yellow_rice_borer,Scirpophaga incertulas,pest,high

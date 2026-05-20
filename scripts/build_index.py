@@ -12,23 +12,14 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent
 sys.path.append(str(PROJECT_ROOT))
 
-from config import (
-    BASE_PATH,
-    MOH_DIR,
-    SWIN_MODEL_PATH,
-    SWIN_FAISS_INDEX,
-)
-
-try:
-    from build_moh_index import build_index as build_faiss_index
-except ImportError:
-    build_faiss_index = None
+from config import *
+from modules.agricultural_assistant import build_faiss_index
 
 def check_indexing_requirements():
     """Vérifier les prérequis pour l'indexation."""
     checks = {
-        "Modèle Swin entraîné": os.path.exists(SWIN_MODEL_PATH),
-        "Données Plantwise (Moh)": os.path.exists(MOH_DIR),
+        "Modèle Swin entraîné": os.path.exists("models/swin_base_patch4_window7_224.pth"),
+        "Données Plantwise": os.path.exists("data/disease_info.json"),
         "Scripts d'indexation": os.path.exists("build_moh_index.py"),
         "Configuration": os.path.exists("config.py")
     }
@@ -58,11 +49,8 @@ def main():
     print("\n🚀 Lancement de l'indexation FAISS...")
 
     try:
-        # Construction de l'index FAISS (MOH / Plantwise)
-        if build_faiss_index is None:
-            print("❌ build_moh_index.build_index non disponible")
-            sys.exit(1)
-        print("📊 Construction de l'index FAISS MOH (Plantwise)...")
+        # Construction de l'index FAISS
+        print("📊 Construction de l'index FAISS (1115 entrées Plantwise)...")
         build_faiss_index()
         print("✅ Index FAISS construit avec succès!")
 
@@ -73,9 +61,9 @@ def main():
 
         print("\n🎉 Indexation terminée avec succès!")
         print("📁 Fichiers générés:")
-        print("   - moh_index.faiss")
-        print("   - moh_metadata.json")
-        print("   - BLIP2_normalized/ (après normalize_blip2)")
+        print("   - models/faiss_index.bin")
+        print("   - models/metadata.json")
+        print("   - data/blip2_normalized/")
 
     except Exception as e:
         print(f"\n❌ Erreur lors de l'indexation: {e}")

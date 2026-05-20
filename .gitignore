@@ -7,8 +7,6 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-dataset_light/
-dataset_light.zip
 downloads/
 eggs/
 .eggs/
@@ -35,11 +33,12 @@ ENV/
 *.swp
 *.swo
 *~
-
+dataset_analysis
+dataset_production
+Image Data base
 # Environment variables
 .env
 .env.local
-.env.*
 
 # Database
 *.db
@@ -49,9 +48,6 @@ data/
 
 # Images uploadées
 data/images/
-
-# Dataset léger (ne pas versionner sur GitHub)
-dataset_light/
 
 # Modèles IA
 models/*.h5

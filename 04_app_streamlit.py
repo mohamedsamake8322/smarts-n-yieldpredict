@@ -17,19 +17,16 @@ from PIL import Image
 import plotly.express as px
 from typing import Dict, List, Tuple, Any
 import os
-import base64
-import mimetypes
 from dotenv import load_dotenv
 from datetime import datetime
+
+from utils.i18n import get_lang, language_selector, t
+from utils.blip2_explainer import load_disease_info as load_disease_info_blip2
 
 try:
     import pandas as pd
 except ImportError:
     pd = None
-
-# JSON "Plantix card" (déterministe, pas de modèle génératif)
-from utils.blip2_explainer import load_disease_info as load_disease_card
-from huggingface_hub import hf_hub_download
 
 # Load environment variables
 load_dotenv()
@@ -118,195 +115,13 @@ img {
 # ============================================================================
 
 @st.cache_data(ttl=300)  # Cache for 5 minutes
-def load_disease_info_cached(label: str, language_code: str = "en") -> Dict[str, Any]:
-    """Charge la fiche maladie depuis BLIP2/ ou BLIP2_normalized/."""
+def load_disease_info_json():
+    """Load disease information from fallback JSON (cached)."""
     try:
-        lang = (language_code or "en").lower()
-        # Préférence: BLIP2_normalized (si présent), sinon BLIP2 original (plus structuré)
-        for lib in (Path("BLIP2_normalized"), Path("BLIP2")):
-            try:
-                info = load_disease_card(
-                    label,
-                    library_dir=lib,
-                    allow_fuzzy=False,
-                    language_code=lang,
-                )
-                # Si on a au moins des symptômes structurés, on s'arrête.
-                symptoms = info.get("symptoms") or []
-                if isinstance(symptoms, list) and len(symptoms) >= 2:
-                    return info
-            except Exception:
-                continue
-
-        # fallback minimal
-        return load_disease_card(
-            label,
-            library_dir=Path("BLIP2"),
-            allow_fuzzy=False,
-            language_code=lang,
-        )
+        with open("data/disease_info.json", "r", encoding="utf-8") as f:
+            return json.load(f)
     except Exception:
-        return {
-            "disease": label,
-            "symptoms": [],
-            "cause": "",
-            "management": [],
-            "prevention": [],
-        }
-
-
-# ============================================================================
-# DATASET_LIGHT (visual confirmation sur Streamlit Cloud)
-# ============================================================================
-DATASET_LIGHT_ROOT = Path(os.environ.get("DATASET_LIGHT_ROOT", "dataset_light"))
-
-
-def _get_secret(key: str) -> str | None:
-    """Lis une valeur depuis env puis Streamlit secrets."""
-    val = os.environ.get(key)
-    if val:
-        return val
-    try:
-        return st.secrets.get(key)  # type: ignore[attr-defined]
-    except Exception:
-        return None
-
-
-@st.cache_resource
-def load_dataset_light() -> Path | None:
-    """
-    Télécharge + décompresse `dataset_light` UNE SEULE FOIS (par instance Streamlit Cloud)
-    grâce à @st.cache_resource.
-
-    Stratégie:
-    - Si dataset_light/ existe déjà -> OK
-    - Sinon, télécharger un zip depuis HF Hub (dataset repo) puis extraire
-    """
-    if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
-        return DATASET_LIGHT_ROOT
-
-    # Defaults alignés avec ton repo HF
-    repo_id = _get_secret("DATASET_LIGHT_REPO") or "mohamedsamake8322/sene-dataset-light"
-    zip_name = _get_secret("DATASET_LIGHT_ZIP") or "dataset_light.zip"
-    hf_token = _get_secret("HF_TOKEN")
-
-    try:
-        zip_path = hf_hub_download(
-            repo_id=repo_id,
-            filename=zip_name,
-            token=hf_token,
-        )
-
-        import zipfile
-
-        # Extraire à la racine du projet pour créer `dataset_light/`
-        with zipfile.ZipFile(zip_path, "r") as z:
-            z.extractall(".")
-
-        if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
-            return DATASET_LIGHT_ROOT
-        return None
-    except Exception:
-        return None
-
-
-def ensure_dataset_light_available() -> None:
-    """Assure la disponibilité de dataset_light, avec cache Streamlit."""
-    if DATASET_LIGHT_ROOT.exists() and DATASET_LIGHT_ROOT.is_dir():
-        return
-
-    # Déclenche téléchargement/dézip (caché)
-    ds = load_dataset_light()
-    if ds is None:
-        st.info(
-            "ℹ️ `dataset_light` non disponible. "
-            "Ajoute `dataset_light/` au repo ou configure `DATASET_LIGHT_REPO` + `DATASET_LIGHT_ZIP`."
-        )
-
-
-def _get_light_images_for_disease(disease_name: str, max_images: int = 4) -> List[str]:
-    """Récupère des images depuis dataset_light (robuste aux variantes)."""
-    if not disease_name:
-        return []
-
-    ensure_dataset_light_available()
-
-    candidates = [
-        disease_name,
-        disease_name.replace(" ", "_"),
-        disease_name.replace("_", " "),
-        disease_name.replace(" ", ""),
-    ]
-
-    imgs: List[str] = []
-    for name in candidates:
-        # Supporte plusieurs structures possibles
-        for base in [
-            DATASET_LIGHT_ROOT / name,
-            DATASET_LIGHT_ROOT / "train" / name,
-            DATASET_LIGHT_ROOT / "val" / name,
-            DATASET_LIGHT_ROOT / "test" / name,
-        ]:
-            if base.exists() and base.is_dir():
-                for ext in ("*.jpg", "*.jpeg", "*.png", "*.webp", "*.bmp"):
-                    imgs.extend([str(p) for p in sorted(base.glob(ext))])
-        if imgs:
-            break
-
-    return imgs[:max_images]
-
-
-def _img_to_data_uri(img_path: str) -> str | None:
-    """Convertit une image locale en data-URI (base64) pour un affichage HTML horizontal."""
-    try:
-        mime, _ = mimetypes.guess_type(img_path)
-        if mime is None:
-            # fallback simple
-            ext = Path(img_path).suffix.lower()
-            mime = "image/png" if ext == ".png" else "image/jpeg"
-        with open(img_path, "rb") as f:
-            b64 = base64.b64encode(f.read()).decode("utf-8")
-        return f"data:{mime};base64,{b64}"
-    except Exception:
-        return None
-
-
-def render_horizontal_gallery(img_paths: List[str], height_px: int = 180) -> None:
-    """Affiche une galerie d'images en ligne horizontale avec scroll."""
-    img_paths = [p for p in img_paths if p]
-    if not img_paths:
-        return
-
-    items_html: str = ""
-    for p in img_paths:
-        uri = _img_to_data_uri(p)
-        if not uri:
-            continue
-        items_html += (
-            "<div style='flex:0 0 auto; margin-right:12px; text-align:center;'>"
-            f"<img src='{uri}' style='height:{height_px}px; width:auto; object-fit:cover; "
-            "border-radius:12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);'/>"
-            "</div>"
-        )
-
-    if not items_html:
-        return
-
-    # Scroll horizontal natif (pro UX)
-    st.markdown(
-        f"""
-        <div style="
-            display:flex;
-            flex-wrap:nowrap;
-            overflow-x:auto;
-            padding-bottom:6px;
-            margin-top:6px;
-        ">
-          {items_html}
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+        return {}
 
 def call_hf_api(image_bytes: bytes) -> Dict[str, Any]:
     """
@@ -394,38 +209,14 @@ def check_api_health() -> bool:
 # ============================================================================
 # UI
 # ============================================================================
-st.title("🌾 AI Plant Disease Diagnostic Assistant")
-st.markdown("""
-This AI system diagnoses plant diseases from images by finding visually similar 
-examples from a training dataset. *Not a classification system - a diagnostic assistant.*
-""")
+st.title(t("app_title"))
+st.markdown(t("app_description"))
 
 # Sidebar config
 with st.sidebar:
+    language_selector(container="sidebar")
+    st.markdown("---")
     st.header("⚙️ Settings")
-    # Language selection (used for i18n disease JSON + BLIP-2 prompt)
-    SUPPORTED_LANGS = {
-        "fr": "Français",
-        "en": "English",
-        "tr": "Türkçe",
-        "sw": "Kiswahili",
-        "ha": "Hausa",
-        "ar": "العربية",
-        "zh": "中文",
-        "ff": "Pulaar",
-        "bm": "Bambara",
-        "wo": "Wolof",
-    }
-    if "lang" not in st.session_state:
-        st.session_state["lang"] = "en"
-    lang_options = [f"{code.upper()} - {label}" for code, label in SUPPORTED_LANGS.items()]
-    default_index = list(SUPPORTED_LANGS.keys()).index(st.session_state["lang"])
-    selected_lang = st.selectbox("🌐 Language", lang_options, index=default_index)
-    for code, label in SUPPORTED_LANGS.items():
-        if selected_lang.startswith(code.upper()):
-            st.session_state["lang"] = code
-            break
-
     k = st.slider("Number of similar images (K)", 1, 10, 5)
     show_ref_images = st.checkbox("Show reference images", value=True)
     unknown_threshold = st.slider(
@@ -449,71 +240,14 @@ with st.sidebar:
 # Check API connection
 api_healthy = check_api_health()
 if api_healthy:
-    st.success("✅ API connection successful - Zero RAM mode active!")
+    st.success(t("api_connection_success"))
 else:
-    st.warning("⚠️ API not available - Using fallback mode")
+    st.warning(t("api_connection_failed"))
     st.info("💡 Deploy your Hugging Face Spaces API for optimal performance")
 
 # ============================================================================
 # MAIN INTERFACE
 # ============================================================================
-LANG = st.session_state.get("lang", "en")
-
-TRANSLATIONS_CARD = {
-    "scientific_name_label": {
-        "fr": "Nom scientifique",
-        "en": "Scientific name",
-        "ar": "الاسم العلمي",
-        "zh": "学名",
-        "sw": "Jina la kisayansi",
-        "ha": "Sunan kimiyya",
-    },
-    "pathogen_type_label": {
-        "fr": "Type de pathogène",
-        "en": "Pathogen type",
-        "ar": "نوع الممرض",
-        "zh": "病原体类型",
-        "sw": "Aina ya pathojeni",
-        "ha": "Nau'in kwayar cuta",
-    },
-    "visual_confirmation_caption": {
-        "fr": "Confirmation visuelle",
-        "en": "Visual confirmation",
-        "ar": "تأكيد بصري",
-        "zh": "视觉确认",
-        "sw": "Uthibitisho wa kuona",
-        "ha": "Tantancewa ta gani",
-    },
-    "description_header": {"fr": "### Description", "en": "### Description"},
-    "hosts_header": {"fr": "### Hôtes", "en": "### Hosts"},
-    "susceptibility_header": {"fr": "### Susceptibilité", "en": "### Susceptibility"},
-    "highly_susceptible_label": {"fr": "Très sensible", "en": "Highly susceptible"},
-    "moderately_susceptible_label": {"fr": "Sensibilité modérée", "en": "Moderately susceptible"},
-    "more_tolerant_label": {"fr": "Plus tolérant", "en": "More tolerant"},
-    "symptoms_header": {"fr": "### Symptômes", "en": "### Symptoms"},
-    "no_structured_symptoms_data": {"fr": "_Aucune donnée structurée sur les symptômes._", "en": "_No structured symptoms data available._"},
-    "what_caused_it": {
-        "fr": "Qu'est-ce qui l'a causé ?",
-        "en": "What caused it?",
-    },
-    "confirm_treatment_btn_api": {
-        "fr": "✅ Confirmer et voir le traitement",
-        "en": "✅ Confirm & see treatment",
-    },
-    "disease_cycle_and_spread": {"fr": "Disease cycle and spread", "en": "Disease cycle and spread"},
-    "favorable_conditions": {"fr": "Conditions favorables", "en": "Favorable conditions"},
-    "pathogen_characteristics": {"fr": "Caractéristiques du pathogène", "en": "Pathogen characteristics"},
-    "monitoring": {"fr": "Suivi", "en": "Monitoring"},
-    "management_treatment_header": {"fr": "### Gestion / Traitement", "en": "### Management / Treatment"},
-    "no_management_guidance": {"fr": "_Aucune recommandation de gestion disponible._", "en": "_No management guidance available._"},
-    "prevention": {"fr": "Prévention", "en": "Prevention"},
-}
-
-
-def t_card(key: str) -> str:
-    return TRANSLATIONS_CARD.get(key, {}).get(LANG, TRANSLATIONS_CARD.get(key, {}).get("en", key))
-
-
 col1, col2 = st.columns([1, 1.5])
 
 with col1:
@@ -524,7 +258,7 @@ with col1:
         uploaded_files = st.file_uploader("Upload plant images", type=['jpg', 'jpeg', 'png', 'bmp'], accept_multiple_files=True)
         if uploaded_files:
             images = [Image.open(f).convert("RGB") for f in uploaded_files]
-            st.image(images, use_column_width=True, caption=["Uploaded Image"] * len(images))
+            st.image(images, width=None, caption=["Uploaded Image"] * len(images))
             selected_image = st.selectbox("Select image for diagnosis", range(len(images)), format_func=lambda x: f"Image {x+1}")
             image = images[selected_image] if images else None
         else:
@@ -533,7 +267,7 @@ with col1:
         uploaded_file = st.file_uploader("Upload plant image", type=['jpg', 'jpeg', 'png', 'bmp'])
         if uploaded_file:
             image = Image.open(uploaded_file).convert("RGB")
-            st.image(image, use_column_width=True, caption="Uploaded Image")
+            st.image(image, width=None, caption="Uploaded Image")
         else:
             image = None
     
@@ -580,126 +314,33 @@ with col2:
         pred_score = diagnosis.get("predicted_score")
         is_unknown = diagnosis.get("is_unknown", False)
 
-        st.subheader("🦠 Probable Disease")
+        st.subheader(t("probable_disease"))
 
         if is_unknown:
-            st.error("Unknown Disease – Please consult an expert.")
+            st.error(t("unknown_disease"))
         else:
             st.markdown(f"## 🌿 {pred_disease}")
             st.metric("Confidence Score", f"{pred_score:.2%}")
 
-        # Plantix card: Symptoms d'abord + confirmation -> traitement/prévention
-        if "confirmed_disease" not in st.session_state:
-            st.session_state.confirmed_disease = None
-
-        if (not is_unknown) and pred_disease and pred_disease != "UNKNOWN DISEASE":
-            info = load_disease_info_cached(
-                pred_disease,
-                language_code=st.session_state.get("lang", "en"),
-            )
-
-            # Plantix UX: infos scientifiques en premier (avant Symptoms)
-            scientific_name = info.get("scientific_name") or ""
-            pathogen_type = info.get("pathogen_type") or ""
-            description = info.get("description") or ""
-            hosts = info.get("hosts") or []
-            susceptibility = info.get("susceptibility") or {}
-
-            if scientific_name:
-                st.markdown(f"**{t_card('scientific_name_label')}:** {scientific_name}")
-            if pathogen_type:
-                st.markdown(f"**{t_card('pathogen_type_label')}:** {pathogen_type}")
-                # Pro UX: images de confirmation directement après pathogen type
-                light_imgs = _get_light_images_for_disease(pred_disease, max_images=4)
-                if light_imgs:
-                    st.caption(t_card("visual_confirmation_caption"))
-                    render_horizontal_gallery(light_imgs)
-            if description:
-                st.markdown(t_card("description_header"))
-                st.write(description)
-            if hosts:
-                st.markdown(t_card("hosts_header"))
-                for h in hosts:
-                    st.markdown(f"- {h}")
-            if isinstance(susceptibility, dict) and susceptibility:
-                st.markdown(t_card("susceptibility_header"))
-                key_order = [
-                    ("highly_susceptible", t_card("highly_susceptible_label")),
-                    ("moderately_susceptible", t_card("moderately_susceptible_label")),
-                    ("more_tolerant", t_card("more_tolerant_label")),
-                ]
-                rendered_any = False
-                for k, label in key_order:
-                    items = susceptibility.get(k) or []
-                    if items:
-                        st.markdown(f"**{label}:**")
-                        for item in items:
-                            st.markdown(f"- {item}")
-                        rendered_any = True
-                if not rendered_any:
-                    for k, items in susceptibility.items():
-                        if items:
-                            fallback_label = {
-                                "highly_susceptible": t_card("highly_susceptible_label"),
-                                "moderately_susceptible": t_card("moderately_susceptible_label"),
-                                "more_tolerant": t_card("more_tolerant_label"),
-                            }.get(k, k)
-                            st.markdown(f"**{fallback_label}:**")
-                            for item in items:
-                                st.markdown(f"- {item}")
-
-            st.markdown(t_card("symptoms_header"))
-            symptoms = info.get("symptoms") or []
-            if symptoms:
-                for s in symptoms:
-                    st.markdown(f"- {s}")
-            else:
-                st.markdown(t_card("no_structured_symptoms_data"))
-
-            cause = info.get("cause") or ""
-            if cause:
-                with st.expander(t_card("what_caused_it")):
-                    st.write(cause)
-
-            if st.session_state.confirmed_disease != pred_disease:
-                if st.button(
-                    t_card("confirm_treatment_btn_api"),
-                    use_container_width=True,
-                    key="confirm_treatment_btn_api",
-                ):
-                    st.session_state.confirmed_disease = pred_disease
-
-            if st.session_state.confirmed_disease == pred_disease:
-                # Plantix-like card after confirmation (deterministic from JSON)
-                def _render_bullets(title: str, items: list[str]):
-                    if items:
-                        st.markdown(f"### {title}")
-                        for item in items:
-                            st.markdown(f"- {item}")
-
-                _render_bullets(
-                    t_card("disease_cycle_and_spread"),
-                    info.get("disease_cycle_and_spread") or [],
-                )
-                _render_bullets(
-                    t_card("favorable_conditions"),
-                    info.get("favorable_conditions") or [],
-                )
-                _render_bullets(
-                    t_card("pathogen_characteristics"),
-                    info.get("pathogen_characteristics") or [],
-                )
-                _render_bullets(t_card("monitoring"), info.get("monitoring") or [])
-
-                st.markdown(t_card("management_treatment_header"))
-                mgmt = info.get("management") or []
-                if mgmt:
-                    for m in mgmt:
-                        st.markdown(f"- {m}")
-                else:
-                    st.markdown(t_card("no_management_guidance"))
-
-                _render_bullets(t_card("prevention"), info.get("prevention") or [])
+        # Textual information about the disease (BLIP2_i18n supported)
+        if not is_unknown and pred_disease:
+            info = load_disease_info_blip2(pred_disease, language_code=get_lang())
+            st.markdown("### 📖 Disease Information")
+            st.write(info.get("description", ""))
+            if info.get("symptoms"):
+                st.markdown("**Symptoms:**")
+                st.write(info["symptoms"])
+            if info.get("management"):
+                st.markdown("**Management:**")
+                st.write(info["management"])
+            if info.get("prevention"):
+                st.markdown("**Prevention:**")
+                st.write(info["prevention"])
+            source_file = info.get("_source_file")
+            if source_file:
+                st.caption(f"🔗 Source JSON: {source_file}")
+        else:
+            st.info("Disease information is not available for unknown disease.")
         
         # Grad-CAM not available with API (model runs on servers)
         st.info("🔬 **Grad-CAM Heatmap**: Not available in API mode (model runs on Hugging Face servers)")
@@ -824,6 +465,40 @@ with col2:
             st.success("Feedback submitted! Thank you for helping improve the system.")
     else:
         st.info("👆 Upload an image and click 'Diagnose' to start")
+
+# ============================================================================
+# VISUAL CONFIRMATION (Plantix Style)
+# ============================================================================
+if "results" in st.session_state and st.session_state.results:
+    st.divider()
+    st.subheader("🔎 Visual Confirmation")
+
+    diagnosis = st.session_state.get("diagnosis", {})
+    pred_class = diagnosis.get("predicted_disease")
+
+    if pred_class and pred_class != "UNKNOWN DISEASE":
+        confirmation_images = [
+            r for r in st.session_state.results if r["disease"] == pred_class
+        ][:4]
+    else:
+        confirmation_images = st.session_state.results[:4]
+
+    if confirmation_images:
+        cols = st.columns(len(confirmation_images))
+
+        for col, result in zip(cols, confirmation_images):
+            with col:
+                if result["path"] and Path(result["path"]).exists():
+                    try:
+                        ref_image = Image.open(result["path"])
+                        st.image(ref_image, width=None)
+                    except Exception:
+                        st.warning("Image not available")
+                else:
+                    st.warning("Image path not found")
+
+    if st.button("❓ Not matching?"):
+        st.info("Try another image or consult an agronomist.")
 
 # ============================================================================
 # FOOTER

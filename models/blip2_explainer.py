@@ -49,15 +49,7 @@ class BLIP2Explainer:
             print("BLIP-2 explanations will not be available")
             self.model = None
 
-    def generate_explanation(
-        self,
-        image_path,
-        disease_info,
-        prompt_template=None,
-        use_constrained=True,
-        plantwise_context=None,
-        language_code: str = "en",
-    ):
+    def generate_explanation(self, image_path, disease_info, prompt_template=None, use_constrained=True, plantwise_context=None):
         """
         Generate natural language explanation for a disease in an image.
 
@@ -85,12 +77,7 @@ class BLIP2Explainer:
 
             # Utiliser l'approche contrainte par défaut
             if use_constrained:
-                return self.generate_constrained_explanation(
-                    image_path,
-                    disease_info,
-                    plantwise_context,
-                    language_code=language_code,
-                )
+                return self.generate_constrained_explanation(image_path, disease_info, plantwise_context)
 
             # Ancienne approche (maintenue pour compatibilité)
             # Load and process image
@@ -100,7 +87,7 @@ class BLIP2Explainer:
             if prompt_template:
                 prompt = prompt_template.format(**disease_info)
             else:
-                prompt = self._create_prompt(disease_info, language_code=language_code)
+                prompt = self._create_prompt(disease_info)
 
             # Process inputs
             inputs = self.processor(images=image, text=prompt, return_tensors="pt")
@@ -159,7 +146,7 @@ class BLIP2Explainer:
         except Exception:
             return False
 
-    def _create_prompt(self, disease_info, context_restrictions=None, language_code: str = "en"):
+    def _create_prompt(self, disease_info, context_restrictions=None):
         """
         Create a constrained prompt for BLIP-2 to avoid hallucinations.
 
@@ -181,23 +168,7 @@ class BLIP2Explainer:
         if context_restrictions:
             restriction_context = f"\nRESTRICTIONS IMPORTANTES: {context_restrictions}"
 
-        lang = (language_code or "en").lower()
-        lang_instruction_map = {
-            "fr": "Respond in French.",
-            "en": "Respond in English.",
-            "tr": "Respond in Turkish.",
-            "sw": "Respond in Swahili.",
-            "ha": "Respond in Hausa.",
-            "ar": "Respond in Arabic.",
-            "zh": "Respond in Chinese.",
-            "ff": "Respond in Pulaar.",
-            "bm": "Respond in Bambara.",
-            "wo": "Respond in Wolof.",
-        }
-        lang_instruction = lang_instruction_map.get(lang, lang_instruction_map["en"])
-
-        prompt = f"""{lang_instruction}
-ROLE: You are a STRICT agricultural disease diagnosis assistant. You MUST base your analysis ONLY on the provided disease information and what you can OBSERVE in the image.
+        prompt = f"""ROLE: You are a STRICT agricultural disease diagnosis assistant. You MUST base your analysis ONLY on the provided disease information and what you can OBSERVE in the image.
 
 DISEASE CONTEXT (use ONLY this information):
 - Disease: {disease_name} ({scientific_name})
@@ -219,7 +190,7 @@ SCIENTIFIC EXPLANATION (evidence-based only):"""
 
         return prompt
 
-    def generate_constrained_explanation(self, image_path, disease_info, plantwise_context=None, language_code: str = "en"):
+    def generate_constrained_explanation(self, image_path, disease_info, plantwise_context=None):
         """
         Generate explanation with strict constraints to avoid hallucinations.
 
@@ -240,11 +211,7 @@ SCIENTIFIC EXPLANATION (evidence-based only):"""
             image = Image.open(image_path).convert('RGB')
 
             # Créer un prompt extrêmement contraint
-            constrained_prompt = self._create_constrained_prompt(
-                disease_info,
-                plantwise_context,
-                language_code=language_code,
-            )
+            constrained_prompt = self._create_constrained_prompt(disease_info, plantwise_context)
 
             # Paramètres de génération très conservateurs
             inputs = self.processor(images=image, text=constrained_prompt, return_tensors="pt")
@@ -279,7 +246,7 @@ SCIENTIFIC EXPLANATION (evidence-based only):"""
             print(f"Erreur génération contrainte: {e}")
             return self._fallback_explanation(disease_info)
 
-    def _create_constrained_prompt(self, disease_info, plantwise_context=None, language_code: str = "en"):
+    def _create_constrained_prompt(self, disease_info, plantwise_context=None):
         """
         Create extremely constrained prompt to prevent hallucinations.
 
@@ -295,24 +262,8 @@ SCIENTIFIC EXPLANATION (evidence-based only):"""
         causal_agent = disease_info.get('causal_agent', 'agent causal inconnu')
         treatment = disease_info.get('treatment', 'traitement non spécifié')
 
-        lang = (language_code or "en").lower()
-        lang_instruction_map = {
-            "fr": "Respond in French.",
-            "en": "Respond in English.",
-            "tr": "Respond in Turkish.",
-            "sw": "Respond in Swahili.",
-            "ha": "Respond in Hausa.",
-            "ar": "Respond in Arabic.",
-            "zh": "Respond in Chinese.",
-            "ff": "Respond in Pulaar.",
-            "bm": "Respond in Bambara.",
-            "wo": "Respond in Wolof.",
-        }
-        lang_instruction = lang_instruction_map.get(lang, lang_instruction_map["en"])
-
         # Prompt extrêmement restrictif
-        prompt = f"""{lang_instruction}
-You are a plant disease diagnostic expert. ONLY describe what you see in this image based on these FACTS:
+        prompt = f"""You are a plant disease diagnostic expert. ONLY describe what you see in this image based on these FACTS:
 
 DISEASE: {disease_name}
 CAUSAL AGENT: {causal_agent}

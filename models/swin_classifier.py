@@ -2,7 +2,6 @@
 Swin Transformer Model for Plant Disease Classification
 
 Loads the trained Swin Transformer model and provides inference capabilities.
-Uses the same architecture and preprocessing as metric_training_core (timm).
 """
 
 import os
@@ -12,11 +11,9 @@ import json
 import pickle
 from PIL import Image
 import faiss
+from transformers import AutoFeatureExtractor
 from training_pipelines.metric_training_core import DiagnosticModel
 from config import SWIN_MODEL_PATH, SWIN_FAISS_INDEX, SWIN_METADATA, SWIN_METADATA_FULL
-
-# Nom du modèle timm (identique au training) - PAS le nom HuggingFace
-TIMM_MODEL_NAME = "swin_base_patch4_window7_224"
 
 class SwinDiseaseClassifier:
     def __init__(self, model_path=None, faiss_index_path=None, metadata_path=None, strict: bool = True):
@@ -35,7 +32,7 @@ class SwinDiseaseClassifier:
 
         # Load model components
         self.model = None
-        self.image_size = 224
+        self.feature_extractor = None
         self.faiss_index = None
         self.metadata = None
         self.class_names = None
@@ -45,41 +42,29 @@ class SwinDiseaseClassifier:
         self._load_metadata()
 
     def _load_model(self):
-        """Load the Swin Transformer model (timm, même architecture que le training)."""
+        """Load the Swin Transformer model."""
         try:
             # First check if trained weights exist
             if os.path.exists(self.model_path):
                 print(f"Loading trained weights from {self.model_path}")
+                model_name = "microsoft/swin-base-patch4-window7-224"
 
-                # Récupérer config depuis le checkpoint si possible
-                checkpoint = torch.load(self.model_path, map_location="cpu")
-                if isinstance(checkpoint, dict):
-                    cfg = checkpoint.get("config", {})
-                    model_name = cfg.get("model_name", TIMM_MODEL_NAME)
-                    embedding_dim = cfg.get("embedding_dim", 768)
-                    image_size = cfg.get("image_size", 224)
-                    state_dict = checkpoint.get("model_state_dict", checkpoint)
-                else:
-                    model_name = TIMM_MODEL_NAME
-                    embedding_dim = 768
-                    image_size = 224
-                    state_dict = checkpoint
-
-                # Forcer le nom timm (évite swin-base-patch4-window7-224 HuggingFace)
-                if "swin" in str(model_name).lower() and "-" in str(model_name):
-                    model_name = TIMM_MODEL_NAME
-
-                # DiagnosticModel utilise timm (swin_base_patch4_window7_224)
+                # Use the same architecture as the training pipeline (DiagnosticModel)
                 self.model = DiagnosticModel(
                     model_name=model_name,
-                    embedding_dim=embedding_dim,
-                    image_size=image_size,
+                    embedding_dim=768,
+                    image_size=224,
                 )
 
+                # Load feature extractor for preprocessing
+                self.feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
+
+                # Load trained weights (supports both raw state dict and wrapped checkpoint)
+                state_dict = torch.load(self.model_path, map_location="cpu")
                 if isinstance(state_dict, dict) and "model_state_dict" in state_dict:
                     state_dict = state_dict["model_state_dict"]
+
                 self.model.load_state_dict(state_dict, strict=False)
-                self.image_size = image_size
                 print(f"✅ Loaded trained weights from {self.model_path}")
             else:
                 msg = f"Trained weights not found at {self.model_path}"
@@ -88,6 +73,7 @@ class SwinDiseaseClassifier:
                 print(f"⚠️  {msg}")
                 print("⚠️  Swin classifier will use mock predictions")
                 self.model = None
+                self.feature_extractor = None
                 return
 
             self.model.eval()
@@ -105,10 +91,11 @@ class SwinDiseaseClassifier:
                     torch.backends.cudnn.allow_tf32 = True
                     print("✅ A100 optimizations enabled: TF32, cuDNN benchmark")
 
-                self.scaler = torch.cuda.amp.GradScaler()
+                # Mixed precision setup for faster inference
+                self.scaler = torch.cuda.amp.GradScaler() if torch.cuda.is_available() else None
+
                 print("✅ Swin model moved to GPU with A100 optimizations")
             else:
-                self.scaler = None
                 print("✅ Swin model on CPU")
 
         except Exception as e:
@@ -135,74 +122,81 @@ class SwinDiseaseClassifier:
             print(f"❌ Error loading FAISS index: {e}")
 
     def _load_metadata(self):
-        """Load metadata (labels, idx_to_class pour mapper FAISS -> classe)."""
+        """Load metadata and class names."""
         try:
-            # Préférer metadata.pkl (complet avec labels pour FAISS)
-            if os.path.exists(SWIN_METADATA_FULL):
+            if os.path.exists(self.metadata_path):
+                with open(self.metadata_path, 'r') as f:
+                    self.metadata = json.load(f)
+                print(f"✅ Loaded metadata from {self.metadata_path}")
+            elif os.path.exists(SWIN_METADATA_FULL):
+                # Try loading full metadata pickle
                 with open(SWIN_METADATA_FULL, 'rb') as f:
                     self.metadata = pickle.load(f)
                 print(f"✅ Loaded full metadata from {SWIN_METADATA_FULL}")
-            elif os.path.exists(self.metadata_path):
-                with open(self.metadata_path, 'r', encoding='utf-8') as f:
-                    self.metadata = json.load(f)
-                print(f"✅ Loaded metadata from {self.metadata_path}")
             else:
                 print(f"⚠️  Metadata not found, using default class names")
-                self.metadata = {}
+                self.metadata = {'class_names': [f'class_{i}' for i in range(109)]}
 
-            self.labels = self.metadata.get('labels', [])
-            self.idx_to_class = self.metadata.get('idx_to_class', {})
-            if isinstance(self.idx_to_class, dict):
-                for k in list(self.idx_to_class.keys()):
-                    if isinstance(k, str) and k.isdigit():
-                        self.idx_to_class[int(k)] = self.idx_to_class.pop(k)
             self.class_names = self.metadata.get('class_names', [])
-            if not self.class_names and self.idx_to_class:
-                max_idx = max(k for k in self.idx_to_class if isinstance(k, int))
-                self.class_names = [self.idx_to_class.get(i, f'class_{i}') for i in range(max_idx + 1)]
 
         except Exception as e:
             print(f"❌ Error loading metadata: {e}")
-            self.labels = []
-            self.idx_to_class = {}
-            self.class_names = []
+            self.class_names = [f'class_{i}' for i in range(109)]
 
-    def _preprocess_image(self, image_path):
+    def preprocess_image(self, image_path):
         """
-        Preprocessing identique au training (metric_training_core) :
-        resize 224, normalize ImageNet. Pas HuggingFace.
+        Preprocess image for model input.
+
+        Args:
+            image_path: Path to the image
+
+        Returns:
+            torch.Tensor: Preprocessed image tensor
         """
         image = Image.open(image_path).convert('RGB')
-        img_array = np.array(image.resize((self.image_size, self.image_size))).astype(np.float32) / 255.0
-        mean = np.array([0.485, 0.456, 0.406], dtype=np.float32)
-        std = np.array([0.229, 0.224, 0.225], dtype=np.float32)
-        img_array = (img_array - mean) / std
-        tensor = torch.from_numpy(img_array).permute(2, 0, 1).unsqueeze(0).float()
-        return tensor
+        inputs = self.feature_extractor(images=image, return_tensors="pt")
+
+        if torch.cuda.is_available():
+            inputs = {k: v.cuda() for k, v in inputs.items()}
+
+        return inputs
 
     def extract_features(self, image_path):
         """
         Extract features from image using Swin model.
+
+        Args:
+            image_path: Path to the image
+
+        Returns:
+            np.ndarray: Feature vector
         """
-        if not self.model:
+        if not self.model or not self.feature_extractor:
             if self.strict:
                 raise RuntimeError("Swin model not loaded - cannot extract features")
+            # Return random features as fallback
             return np.random.rand(768).astype(np.float32)
 
         try:
-            tensor = self._preprocess_image(image_path)
+            inputs = self.preprocess_image(image_path)
+            # The DiagnosticModel expects a tensor input (pixel values)
+            pixel_values = inputs.get("pixel_values") if isinstance(inputs, dict) else inputs
+            if pixel_values is None:
+                pixel_values = next(iter(inputs.values()))
+
             if torch.cuda.is_available():
-                tensor = tensor.cuda()
+                pixel_values = pixel_values.cuda()
 
             with torch.no_grad():
+                # Use mixed precision for faster inference on A100
                 if torch.cuda.is_available() and hasattr(self, 'scaler') and self.scaler:
                     with torch.cuda.amp.autocast():
-                        emb = self.model(tensor)
+                        emb = self.model(pixel_values)
                 else:
-                    emb = self.model(tensor)
+                    emb = self.model(pixel_values)
 
-                features = emb.cpu().numpy().astype(np.float32)
-                features = features / (np.linalg.norm(features, axis=1, keepdims=True) + 1e-12)
+                features = emb.cpu().numpy()
+
             return features
         except Exception as e:
             print(f"Error extracting features: {e}")
@@ -239,41 +233,32 @@ class SwinDiseaseClassifier:
             return predictions
 
         try:
-            # Extract features (déjà L2-normalisées)
+            # Extract features
             features = self.extract_features(image_path)
 
-            # FAISS IndexFlatIP : retourne similarité (produit scalaire), plus élevé = plus similaire
-            D, I = self.faiss_index.search(features.astype(np.float32), top_k)
+            # Search in FAISS index
+            D, I = self.faiss_index.search(features, top_k)
 
-            # Mapper index FAISS -> class_id -> class_name via metadata
-            def _label_to_name(label: int) -> str:
-                if label in self.idx_to_class:
-                    return self.idx_to_class[label]
-                if str(label) in self.idx_to_class:
-                    return self.idx_to_class[str(label)]
-                if self.class_names and 0 <= label < len(self.class_names):
-                    return self.class_names[label]
-                return f'class_{label}'
+            # Convert distances to confidence scores (higher distance = lower confidence)
+            # Normalize distances to [0, 1] range
+            max_dist = np.max(D)
+            min_dist = np.min(D)
+            if max_dist > min_dist:
+                confidences = 1.0 - (D[0] - min_dist) / (max_dist - min_dist)
+            else:
+                confidences = np.ones(top_k) * 0.5
 
+            # Get class names
             predictions = []
-            for i, (idx, sim) in enumerate(zip(I[0], D[0])):
-                if idx < 0:
-                    continue
-                if self.labels and idx < len(self.labels):
-                    class_id = int(self.labels[idx])
-                elif self.class_names and idx < len(self.class_names):
-                    class_id = idx
-                else:
-                    class_id = idx
-                class_name = _label_to_name(class_id)
-                conf = float(np.clip(sim, 0.0, 1.0))
+            for i, (idx, conf) in enumerate(zip(I[0], confidences)):
+                class_name = self.class_names[idx] if idx < len(self.class_names) else f'class_{idx}'
                 predictions.append({
                     'disease': class_name,
-                    'confidence': conf,
-                    'class_id': class_id
+                    'confidence': float(conf),
+                    'class_id': int(idx)
                 })
 
-            return predictions[:top_k] if predictions else []
+            return predictions
 
         except Exception as e:
             print(f"Error during classification: {e}")

@@ -1,0 +1,159 @@
+chemin_complet,niveau1,niveau2,niveau3,dossier,nombre_images
+Chili Growth Stage Augmented Dataset\Dry chili,Chili Growth Stage Augmented Dataset,Dry chili,,Dry chili,2000
+Chili Growth Stage Augmented Dataset\Flower,Chili Growth Stage Augmented Dataset,Flower,,Flower,2000
+Chili Growth Stage Augmented Dataset\Green Chili,Chili Growth Stage Augmented Dataset,Green Chili,,Green Chili,2000
+Chili Growth Stage Augmented Dataset\Red Chili,Chili Growth Stage Augmented Dataset,Red Chili,,Red Chili,2000
+Chili Growth Stage Augmented Dataset\Rotten Chili,Chili Growth Stage Augmented Dataset,Rotten Chili,,Rotten Chili,2000
+Chili Leaf Disease Augmented Dataset\Bacterial Spot,Chili Leaf Disease Augmented Dataset,Bacterial Spot,,Bacterial Spot,2000
+Chili Leaf Disease Augmented Dataset\Cercospora Leaf Spot,Chili Leaf Disease Augmented Dataset,Cercospora Leaf Spot,,Cercospora Leaf Spot,2000
+Chili Leaf Disease Augmented Dataset\Curl Virus,Chili Leaf Disease Augmented Dataset,Curl Virus,,Curl Virus,2000
+Chili Leaf Disease Augmented Dataset\Healthy Leaf,Chili Leaf Disease Augmented Dataset,Healthy Leaf,,Healthy Leaf,2000
+Chili Leaf Disease Augmented Dataset\Nutrition Deficiency,Chili Leaf Disease Augmented Dataset,Nutrition Deficiency,,Nutrition Deficiency,2000
+Chili Leaf Disease Augmented Dataset\White spot,Chili Leaf Disease Augmented Dataset,White spot,,White spot,2000
+pest\aphids,pest,aphids,,aphids,300
+pest\armyworm,pest,armyworm,,armyworm,300
+pest\beetle,pest,beetle,,beetle,300
+pest\bollworm,pest,bollworm,,bollworm,300
+pest\grasshopper,pest,grasshopper,,grasshopper,300
+pest\mites,pest,mites,,mites,300
+pest\stem_borer,pest,stem_borer,,stem_borer,300
+train\Adristyrannus,train,Adristyrannus,,Adristyrannus,186
+train\Aleurocanthus spiniferus,train,Aleurocanthus spiniferus,,Aleurocanthus spiniferus,414
+train\alfalfa plant bug,train,alfalfa plant bug,,alfalfa plant bug,393
+train\alfalfa seed chalcid,train,alfalfa seed chalcid,,alfalfa seed chalcid,111
+train\alfalfa weevil,train,alfalfa weevil,,alfalfa weevil,314
+train\Ampelophaga,train,Ampelophaga,,Ampelophaga,458
+train\aphids,train,aphids,,aphids,2456
+train\Aphis citricola Vander Goot,train,Aphis citricola Vander Goot,,Aphis citricola Vander Goot,210
+train\Apolygus lucorum,train,Apolygus lucorum,,Apolygus lucorum,228
+train\army worm,train,army worm,,army worm,642
+train\asiatic rice borer,train,asiatic rice borer,,asiatic rice borer,631
+train\Bactrocera tsuneonis,train,Bactrocera tsuneonis,,Bactrocera tsuneonis,100
+train\beet army worm,train,beet army worm,,beet army worm,962
+train\beet fly,train,beet fly,,beet fly,62
+train\Beet spot flies,train,Beet spot flies,,Beet spot flies,179
+train\beet weevil,train,beet weevil,,beet weevil,184
+train\bird cherry-oataphid,train,bird cherry-oataphid,,bird cherry-oataphid,424
+train\black cutworm,train,black cutworm,,black cutworm,512
+train\blister beetle,train,blister beetle,,blister beetle,1138
+train\Brevipoalpus lewisi McGregor,train,Brevipoalpus lewisi McGregor,,Brevipoalpus lewisi McGregor,47
+train\brown plant hopper,train,brown plant hopper,,brown plant hopper,500
+train\cabbage army worm,train,cabbage army worm,,cabbage army worm,513
+train\cerodonta denticornis,train,cerodonta denticornis,,cerodonta denticornis,82
+train\Ceroplastes rubens,train,Ceroplastes rubens,,Ceroplastes rubens,154
+train\Chlumetia transversa,train,Chlumetia transversa,,Chlumetia transversa,183
+train\Chrysomphalus aonidum,train,Chrysomphalus aonidum,,Chrysomphalus aonidum,135
+train\Cicadella viridis,train,Cicadella viridis,,Cicadella viridis,767
+train\Cicadellidae,train,Cicadellidae,,Cicadellidae,3444
+train\Colomerus vitis,train,Colomerus vitis,,Colomerus vitis,105
+train\corn borer,train,corn borer,,corn borer,1018
+train\Dacus dorsalisHendel,train,Dacus dorsalisHendel,,Dacus dorsalisHendel,263
+train\Dasineura sp,train,Dasineura sp,,Dasineura sp,303
+train\Deporaus marginatus Pascoe,train,Deporaus marginatus Pascoe,,Deporaus marginatus Pascoe,126
+train\english grain aphid,train,english grain aphid,,english grain aphid,392
+train\Erythroneura apicalis,train,Erythroneura apicalis,,Erythroneura apicalis,42
+train\flax budworm,train,flax budworm,,flax budworm,639
+train\flea beetle,train,flea beetle,,flea beetle,473
+train\grain spreader thrips,train,grain spreader thrips,,grain spreader thrips,103
+train\green bug,train,green bug,,green bug,195
+train\grub,train,grub,,grub,516
+train\Icerya purchasi Maskell,train,Icerya purchasi Maskell,,Icerya purchasi Maskell,433
+train\large cutworm,train,large cutworm,,large cutworm,294
+train\Lawana imitata Melichar,train,Lawana imitata Melichar,,Lawana imitata Melichar,346
+train\legume blister beetle,train,legume blister beetle,,legume blister beetle,845
+train\Limacodidae,train,Limacodidae,,Limacodidae,840
+train\Locustoidea,train,Locustoidea,,Locustoidea,836
+train\longlegged spider mite,train,longlegged spider mite,,longlegged spider mite,147
+train\Lycorma delicatula,train,Lycorma delicatula,,Lycorma delicatula,3186
+train\lytta polita,train,lytta polita,,lytta polita,392
+train\Mango flat beak leafhopper,train,Mango flat beak leafhopper,,Mango flat beak leafhopper,55
+train\meadow moth,train,meadow moth,,meadow moth,162
+train\Miridae,train,Miridae,,Miridae,3048
+train\mole cricket,train,mole cricket,,mole cricket,989
+train\Nipaecoccus vastalor,train,Nipaecoccus vastalor,,Nipaecoccus vastalor,59
+train\odontothrips loti,train,odontothrips loti,,odontothrips loti,106
+train\oides decempunctata,train,oides decempunctata,,oides decempunctata,169
+train\paddy stem maggot,train,paddy stem maggot,,paddy stem maggot,156
+train\Panonchus citri McGregor,train,Panonchus citri McGregor,,Panonchus citri McGregor,231
+train\Papilio xuthus,train,Papilio xuthus,,Papilio xuthus,269
+train\parathrene regalis,train,parathrene regalis,,parathrene regalis,84
+train\Parlatoria zizyphus Lucus,train,Parlatoria zizyphus Lucus,,Parlatoria zizyphus Lucus,44
+train\peach borer,train,peach borer,,peach borer,414
+train\penthaleus major,train,penthaleus major,,penthaleus major,139
+train\Phyllocnistis citrella Stainton,train,Phyllocnistis citrella Stainton,,Phyllocnistis citrella Stainton,242
+train\Phyllocoptes oleiverus ashmead,train,Phyllocoptes oleiverus ashmead,,Phyllocoptes oleiverus ashmead,103
+train\Pieris canidia,train,Pieris canidia,,Pieris canidia,281
+train\Polyphagotars onemus latus,train,Polyphagotars onemus latus,,Polyphagotars onemus latus,50
+train\Potosiabre vitarsis,train,Potosiabre vitarsis,,Potosiabre vitarsis,339
+train\Prodenia litura,train,Prodenia litura,,Prodenia litura,782
+train\Pseudococcus comstocki Kuwana,train,Pseudococcus comstocki Kuwana,,Pseudococcus comstocki Kuwana,184
+train\red spider,train,red spider,,red spider,317
+train\Rhytidodera bowrinii white,train,Rhytidodera bowrinii white,,Rhytidodera bowrinii white,333
+train\rice gall midge,train,rice gall midge,,rice gall midge,303
+train\rice leaf caterpillar,train,rice leaf caterpillar,,rice leaf caterpillar,292
+train\rice leaf roller,train,rice leaf roller,,rice leaf roller,669
+train\rice leafhopper,train,rice leafhopper,,rice leafhopper,242
+train\rice shell pest,train,rice shell pest,,rice shell pest,245
+train\Rice Stemfly,train,Rice Stemfly,,Rice Stemfly,221
+train\rice water weevil,train,rice water weevil,,rice water weevil,513
+train\Salurnis marginella Guerr,train,Salurnis marginella Guerr,,Salurnis marginella Guerr,292
+train\Scirtothrips dorsalis Hood,train,Scirtothrips dorsalis Hood,,Scirtothrips dorsalis Hood,484
+train\sericaorient alismots chulsky,train,sericaorient alismots chulsky,,sericaorient alismots chulsky,114
+train\small brown plant hopper,train,small brown plant hopper,,small brown plant hopper,331
+train\Sternochetus frigidus,train,Sternochetus frigidus,,Sternochetus frigidus,274
+train\tarnished plant bug,train,tarnished plant bug,,tarnished plant bug,492
+train\Tetradacus c Bactrocera minax,train,Tetradacus c Bactrocera minax,,Tetradacus c Bactrocera minax,232
+train\therioaphis maculata Buckton,train,therioaphis maculata Buckton,,therioaphis maculata Buckton,156
+train\Thrips,train,Thrips,,Thrips,527
+train\Toxoptera aurantii,train,Toxoptera aurantii,,Toxoptera aurantii,135
+train\Toxoptera citricidus,train,Toxoptera citricidus,,Toxoptera citricidus,113
+train\Trialeurodes vaporariorum,train,Trialeurodes vaporariorum,,Trialeurodes vaporariorum,415
+train\Unaspis yanonensis,train,Unaspis yanonensis,,Unaspis yanonensis,251
+train\Viteus vitifoliae,train,Viteus vitifoliae,,Viteus vitifoliae,212
+train\wheat blossom midge,train,wheat blossom midge,,wheat blossom midge,291
+train\wheat phloeothrips,train,wheat phloeothrips,,wheat phloeothrips,175
+train\wheat sawfly,train,wheat sawfly,,wheat sawfly,203
+train\white backed plant hopper,train,white backed plant hopper,,white backed plant hopper,535
+train\white margined moth,train,white margined moth,,white margined moth,88
+train\wireworm,train,wireworm,,wireworm,532
+train\Xylotrechus,train,Xylotrechus,,Xylotrechus,690
+train\yellow cutworm,train,yellow cutworm,,yellow cutworm,287
+train\yellow rice borer,train,yellow rice borer,,yellow rice borer,302
+val\Apple___Apple_scab,val,Apple___Apple_scab,,Apple___Apple_scab,126
+val\Apple___Black_rot,val,Apple___Black_rot,,Apple___Black_rot,124
+val\Apple___Cedar_apple_rust,val,Apple___Cedar_apple_rust,,Apple___Cedar_apple_rust,55
+val\Apple___healthy,val,Apple___healthy,,Apple___healthy,329
+val\Blueberry___healthy,val,Blueberry___healthy,,Blueberry___healthy,300
+val\Cherry_(including_sour)___healthy,val,Cherry_(including_sour)___healthy,,Cherry_(including_sour)___healthy,170
+val\Cherry_(including_sour)___Powdery_mildew,val,Cherry_(including_sour)___Powdery_mildew,,Cherry_(including_sour)___Powdery_mildew,210
+val\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,val,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,102
+val\Corn_(maize)___Common_rust_,val,Corn_(maize)___Common_rust_,,Corn_(maize)___Common_rust_,238
+val\Corn_(maize)___healthy,val,Corn_(maize)___healthy,,Corn_(maize)___healthy,232
+val\Corn_(maize)___Northern_Leaf_Blight,val,Corn_(maize)___Northern_Leaf_Blight,,Corn_(maize)___Northern_Leaf_Blight,197
+val\Grape___Black_rot,val,Grape___Black_rot,,Grape___Black_rot,236
+val\Grape___Esca_(Black_Measles),val,Grape___Esca_(Black_Measles),,Grape___Esca_(Black_Measles),276
+val\Grape___healthy,val,Grape___healthy,,Grape___healthy,84
+val\Grape___Leaf_blight_(Isariopsis_Leaf_Spot),val,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),215
+val\Orange___Haunglongbing_(Citrus_greening),val,Orange___Haunglongbing_(Citrus_greening),,Orange___Haunglongbing_(Citrus_greening),1101
+val\Peach___Bacterial_spot,val,Peach___Bacterial_spot,,Peach___Bacterial_spot,459
+val\Peach___healthy,val,Peach___healthy,,Peach___healthy,72
+"val\Pepper,_bell___Bacterial_spot",val,"Pepper,_bell___Bacterial_spot",,"Pepper,_bell___Bacterial_spot",199
+"val\Pepper,_bell___healthy",val,"Pepper,_bell___healthy",,"Pepper,_bell___healthy",295
+val\Potato___Early_blight,val,Potato___Early_blight,,Potato___Early_blight,200
+val\Potato___healthy,val,Potato___healthy,,Potato___healthy,30
+val\Potato___Late_blight,val,Potato___Late_blight,,Potato___Late_blight,200
+val\Raspberry___healthy,val,Raspberry___healthy,,Raspberry___healthy,74
+val\Soybean___healthy,val,Soybean___healthy,,Soybean___healthy,1018
+val\Squash___Powdery_mildew,val,Squash___Powdery_mildew,,Squash___Powdery_mildew,367
+val\Strawberry___healthy,val,Strawberry___healthy,,Strawberry___healthy,91
+val\Strawberry___Leaf_scorch,val,Strawberry___Leaf_scorch,,Strawberry___Leaf_scorch,221
+val\Tomato___Bacterial_spot,val,Tomato___Bacterial_spot,,Tomato___Bacterial_spot,425
+val\Tomato___Early_blight,val,Tomato___Early_blight,,Tomato___Early_blight,200
+val\Tomato___healthy,val,Tomato___healthy,,Tomato___healthy,318
+val\Tomato___Late_blight,val,Tomato___Late_blight,,Tomato___Late_blight,381
+val\Tomato___Leaf_Mold,val,Tomato___Leaf_Mold,,Tomato___Leaf_Mold,190
+val\Tomato___Septoria_leaf_spot,val,Tomato___Septoria_leaf_spot,,Tomato___Septoria_leaf_spot,354
+val\Tomato___Spider_mites Two-spotted_spider_mite,val,Tomato___Spider_mites Two-spotted_spider_mite,,Tomato___Spider_mites Two-spotted_spider_mite,335
+val\Tomato___Target_Spot,val,Tomato___Target_Spot,,Tomato___Target_Spot,280
+val\Tomato___Tomato_mosaic_virus,val,Tomato___Tomato_mosaic_virus,,Tomato___Tomato_mosaic_virus,74
+val\Tomato___Tomato_Yellow_Leaf_Curl_Virus,val,Tomato___Tomato_Yellow_Leaf_Curl_Virus,,Tomato___Tomato_Yellow_Leaf_Curl_Virus,1071

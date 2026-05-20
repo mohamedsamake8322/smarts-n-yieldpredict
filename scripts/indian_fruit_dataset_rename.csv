@@ -1,0 +1,25 @@
+current_name,proposed_standard_name
+Apple___Black_rot,Apple_Black_Rot
+Apple___healthy,Apple_Healthy
+Banana cordana,Banana_Cordana
+Citrus Cancker Leaf,Citrus_Canker_Leaf
+Citrus Fruit disease,Citrus_Fruit_Disease
+Citrus Healthy Fruit,Citrus_Healthy_Fruit
+Citrus Healthy Leaf,Citrus_Healthy_Leaf
+Disease Apple Fruit,Apple_Diseased_Fruit
+Disease Banana Fruit,Banana_Diseased_Fruit
+Disease Mango Fruit,Mango_Diseased_Fruit
+Guava Disease Fruit,Guava_Diseased_Fruit
+Guava Healthly Fruit,Guava_Healthy_Fruit
+Guava Healthly Leaf,Guava_Healthy_Leaf
+Guava Red Rust,Guava_Red_Rust
+Healthy Apple Fruit,Apple_Healthy_Fruit
+Healthy Banana Fruit,Banana_Healthy_Fruit
+Healthy Banana Leaf,Banana_Healthy_Leaf
+Healthy Mango Fruit,Mango_Healthy_Fruit
+Mang Healthy Leaf,Mango_Healthy_Leaf
+Mango Bacterial Canker,Mango_Bacterial_Canker
+Papaya Fruit Disease,Papaya_Diseased_Fruit
+Papaya Fruit Healthy,Papaya_Healthy_Fruit
+Papaya Healthy leaf,Papaya_Healthy_Leaf
+Papaya RingSpot,Papaya_Ring_Spot

@@ -1,0 +1,13 @@
+original_name,new_name
+ants,Pest_Ant
+bees,Pest_Bee
+beetle,Pest_Beetle
+catterpillar,Pest_Caterpillar
+earthworms,Pest_Earthworm
+earwig,Pest_Earwig
+grasshopper,Pest_Grasshopper
+moth,Pest_Moth
+slug,Pest_Slug
+snail,Pest_Snail
+WASP,Pest_Wasp
+Weevil,Pest_Weevil

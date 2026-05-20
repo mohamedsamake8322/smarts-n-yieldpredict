@@ -22,7 +22,7 @@ def check_training_requirements():
         "GPU disponible": torch.cuda.is_available(),
         "CUDA version": torch.version.cuda if torch.cuda.is_available() else "N/A",
         "Mémoire GPU suffisante": False,
-        "Données d'entraînement": os.path.exists("dataset_final"),
+        "Données d'entraînement": os.path.exists("dataset_light"),
         "Configuration": os.path.exists("config.py")
     }
 

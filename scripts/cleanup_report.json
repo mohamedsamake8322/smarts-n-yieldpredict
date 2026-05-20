@@ -1,0 +1,421 @@
+{
+  "duplicates_removed": 2232,
+  "quality_removed": 14831,
+  "classes_processed": 69,
+  "details": {
+    "Alfalfa_Plant_Bug": {
+      "initial": 393,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 393
+    },
+    "Cashew_Anthracnose": {
+      "initial": 1729,
+      "duplicates_removed": 0,
+      "quality_removed": 729,
+      "final": 1000
+    },
+    "Cashew_Gumosis": {
+      "initial": 392,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 392
+    },
+    "Cashew_Healthy": {
+      "initial": 1368,
+      "duplicates_removed": 0,
+      "quality_removed": 368,
+      "final": 1000
+    },
+    "Cashew_Leaf_Miner": {
+      "initial": 1378,
+      "duplicates_removed": 0,
+      "quality_removed": 378,
+      "final": 1000
+    },
+    "Cashew_Red_Rust": {
+      "initial": 1682,
+      "duplicates_removed": 1,
+      "quality_removed": 681,
+      "final": 1000
+    },
+    "Cassava_Bacterial_Blight": {
+      "initial": 3535,
+      "duplicates_removed": 20,
+      "quality_removed": 2515,
+      "final": 1000
+    },
+    "Cassava_Brown_Streak_Disease": {
+      "initial": 3312,
+      "duplicates_removed": 14,
+      "quality_removed": 2298,
+      "final": 1000
+    },
+    "Cassava_Green_Mite": {
+      "initial": 1015,
+      "duplicates_removed": 0,
+      "quality_removed": 15,
+      "final": 1000
+    },
+    "Cassava_Green_Mottle": {
+      "initial": 1993,
+      "duplicates_removed": 0,
+      "quality_removed": 993,
+      "final": 1000
+    },
+    "Cassava_Healthy": {
+      "initial": 3359,
+      "duplicates_removed": 0,
+      "quality_removed": 2359,
+      "final": 1000
+    },
+    "Cassava_Mosaic_Disease": {
+      "initial": 12232,
+      "duplicates_removed": 92,
+      "quality_removed": 11140,
+      "final": 80
+    },
+    "Chili_Condition": {
+      "initial": 5161,
+      "duplicates_removed": 363,
+      "quality_removed": 3462,
+      "final": 985
+    },
+    "Chili_Curl_Virus": {
+      "initial": 889,
+      "duplicates_removed": 77,
+      "quality_removed": 0,
+      "final": 812
+    },
+    "Chili_Nutrition_Deficiency": {
+      "initial": 853,
+      "duplicates_removed": 62,
+      "quality_removed": 0,
+      "final": 791
+    },
+    "Citrus_Greening": {
+      "initial": 1000,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 1000
+    },
+    "Corn_Cercospora_Leaf_Spot": {
+      "initial": 836,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 836
+    },
+    "Corn_Common_Rust": {
+      "initial": 316,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 316
+    },
+    "Corn_Grasshopper": {
+      "initial": 973,
+      "duplicates_removed": 235,
+      "quality_removed": 0,
+      "final": 738
+    },
+    "Corn_Healthy": {
+      "initial": 462,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 462
+    },
+    "Corn_Leaf_Beetle": {
+      "initial": 948,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 948
+    },
+    "Corn_Leaf_Blight": {
+      "initial": 1000,
+      "duplicates_removed": 3,
+      "quality_removed": 0,
+      "final": 997
+    },
+    "Corn_Leaf_Spot": {
+      "initial": 1000,
+      "duplicates_removed": 22,
+      "quality_removed": 0,
+      "final": 978
+    },
+    "Corn_Northern_Leaf_Blight": {
+      "initial": 59,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 59
+    },
+    "Corn_Streak": {
+      "initial": 350,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 350
+    },
+    "Corn_Streak_Virus": {
+      "initial": 979,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 979
+    },
+    "Generic_Aphids": {
+      "initial": 1000,
+      "duplicates_removed": 45,
+      "quality_removed": 0,
+      "final": 955
+    },
+    "Generic_Armyworm": {
+      "initial": 942,
+      "duplicates_removed": 230,
+      "quality_removed": 0,
+      "final": 712
+    },
+    "Generic_Beet_Armyworm": {
+      "initial": 962,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 962
+    },
+    "Generic_Beetle": {
+      "initial": 300,
+      "duplicates_removed": 239,
+      "quality_removed": 0,
+      "final": 61
+    },
+    "Generic_Black_Cutworm": {
+      "initial": 512,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 512
+    },
+    "Generic_Blister_Beetle": {
+      "initial": 1000,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 1000
+    },
+    "Generic_Bollworm": {
+      "initial": 300,
+      "duplicates_removed": 217,
+      "quality_removed": 0,
+      "final": 83
+    },
+    "Generic_Cabbage_Armyworm": {
+      "initial": 513,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 513
+    },
+    "Generic_Flax_Budworm": {
+      "initial": 639,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 639
+    },
+    "Generic_Flea_Beetle": {
+      "initial": 473,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 473
+    },
+    "Generic_Green_Bug": {
+      "initial": 195,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 195
+    },
+    "Generic_Large_Cutworm": {
+      "initial": 294,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 294
+    },
+    "Generic_Legume_Blister_Beetle": {
+      "initial": 845,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 845
+    },
+    "Generic_Mites": {
+      "initial": 300,
+      "duplicates_removed": 245,
+      "quality_removed": 0,
+      "final": 55
+    },
+    "Generic_Red_Spider_Mite": {
+      "initial": 317,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 317
+    },
+    "Generic_Stem_Borer": {
+      "initial": 300,
+      "duplicates_removed": 211,
+      "quality_removed": 0,
+      "final": 89
+    },
+    "Generic_Tarnished_Plant_Bug": {
+      "initial": 492,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 492
+    },
+    "Generic_Thrips": {
+      "initial": 527,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 527
+    },
+    "Generic_Wireworm": {
+      "initial": 532,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 532
+    },
+    "Generic_Yellow_Cutworm": {
+      "initial": 287,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 287
+    },
+    "Pepper_Bacterial_Spot": {
+      "initial": 510,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 510
+    },
+    "Pepper_Cercospora": {
+      "initial": 171,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 171
+    },
+    "Pepper_Early_Blight": {
+      "initial": 10,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 10
+    },
+    "Pepper_Fusarium": {
+      "initial": 215,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 215
+    },
+    "Pepper_Healthy": {
+      "initial": 282,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 282
+    },
+    "Pepper_Late_Blight": {
+      "initial": 51,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 51
+    },
+    "Pepper_Leaf_Blight": {
+      "initial": 211,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 211
+    },
+    "Pepper_Leaf_Curl": {
+      "initial": 560,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 560
+    },
+    "Pepper_Leaf_Mosaic": {
+      "initial": 581,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 581
+    },
+    "Pepper_Septoria": {
+      "initial": 136,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 136
+    },
+    "Rice_Shell_Pest": {
+      "initial": 245,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 245
+    },
+    "Rice_Stemfly": {
+      "initial": 221,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 221
+    },
+    "Tomato_Bacterial_Spot": {
+      "initial": 1000,
+      "duplicates_removed": 151,
+      "quality_removed": 0,
+      "final": 849
+    },
+    "Tomato_Early_Blight": {
+      "initial": 235,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 235
+    },
+    "Tomato_Fusarium": {
+      "initial": 92,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 92
+    },
+    "Tomato_Healthy": {
+      "initial": 711,
+      "duplicates_removed": 3,
+      "quality_removed": 0,
+      "final": 708
+    },
+    "Tomato_Late_Blight": {
+      "initial": 428,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 428
+    },
+    "Tomato_Leaf_Blight": {
+      "initial": 1000,
+      "duplicates_removed": 2,
+      "quality_removed": 0,
+      "final": 998
+    },
+    "Tomato_Leaf_Curl": {
+      "initial": 591,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 591
+    },
+    "Tomato_Mosaic": {
+      "initial": 29,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 29
+    },
+    "Tomato_Septoria": {
+      "initial": 1000,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 1000
+    },
+    "Tomato_Verticillium_Wilt": {
+      "initial": 773,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 773
+    },
+    "Wheat_Sawfly": {
+      "initial": 203,
+      "duplicates_removed": 0,
+      "quality_removed": 0,
+      "final": 203
+    }
+  }
+}

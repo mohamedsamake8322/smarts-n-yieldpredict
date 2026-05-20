@@ -1,0 +1,625 @@
+original_name,image_count,normalized_name
+Grape_Black_Measles,1199,grape black measles
+Cotton_fussarium_wilt,419,cotton fussarium wilt
+Cotton_curl_virus,418,cotton curl virus
+Cotton_bacterial_blight,448,cotton bacterial blight
+Cotton_healthy,425,cotton healthy
+Citrus_Black_spot,311,citrus black spot
+Citrus_greening,1200,citrus greening
+Corn_healthy,1200,corn healthy
+Cherry_Healthy,1200,cherry healthy
+Corn_Northern_Leaf_Blight,1200,corn northern leaf blight
+Cherry_Powdery_mildew,1200,cherry powdery mildew
+Citrus_canker,368,citrus canker
+Corn_cercospora_gray_leaf_spot,1200,corn cercospora gray leaf spot
+Citrus_Healthy,87,citrus healthy
+Corn_Common_rust,1200,corn common rust
+Alfalfa_Leaf_Mosaic_Virus,142,alfalfa leaf mosaic virus
+Alluim_Leaf_Bacterial_Soft_Rot,26,alluim leaf bacterial soft rot
+Alternaria black molds  stem cankers (Genus Alternaria Nees),67,alternaria black molds stem cankers (genus alternaria nees)
+Alternaria_Leaf_Spot,64,alternaria leaf spot
+Angular_Leaf_Spot_Cucumber,208,angular leaf spot cucumber
+Anthracnose (Colletotrichum orbiculare (Berk. & Mo,121,anthracnose (colletotrichum orbiculare (berk. & mo
+Apple_Scab,160,apple scab
+Aspergillus ear and kernel rot (Aspergillus flavus Maize),96,aspergillus ear and kernel rot (aspergillus flavus maize)
+Banana_Fruit_Anthracnose,97,banana fruit anthracnose
+Banana_Leaf_Anthracnose,121,banana leaf anthracnose
+Banana_Leaf_Black_Sigatoka,56,banana leaf black sigatoka
+Banana_Leaf_Bunchy_Top_Virus,80,banana leaf bunchy top virus
+Banana_Leaf_Streak_Virus,170,banana leaf streak virus
+Banana_Leaf_Yellow_Sigatoka,103,banana leaf yellow sigatoka
+Bean_Leaf_Bacterial_Blight,256,bean leaf bacterial blight
+Bean_Leaf_Rust,160,bean leaf rust
+Bell pepper_Fruit_Blossom_End_Rot,40,bell pepper fruit blossom end rot
+Bread mold (Rhizopus stolonifer (Ehrenb.) Vuill.),42,bread mold (rhizopus stolonifer (ehrenb.) vuill.)
+Broad mite (Polyphagotarsonemus latus (Banks)),24,broad mite (polyphagotarsonemus latus (banks))
+Brown_Rot_Fruit,302,brown rot fruit
+Cabbage_Leaf_Bacterial_Blight,80,cabbage leaf bacterial blight
+Cabbage_Leaf_Bacterial_Soft_Rot,72,cabbage leaf bacterial soft rot
+Carota_ Alternaria_Fruit_Spot,20,carota alternaria fruit spot
+Carrot_Root_Fly,72,carrot root fly
+Cereals_Leaf_Bacterial_Spot,40,cereals leaf bacterial spot
+Cherry_Leaf_Spot,201,cherry leaf spot
+Choanephora fruit rot (Choanephora cucurbitarum,112,choanephora fruit rot (choanephora cucurbitarum
+Citrillus_Fruit_Blossom_End_Rot,32,citrillus fruit blossom end rot
+Citrullus_Bacterial_Fruit_Blotch,112,citrullus bacterial fruit blotch
+Citrullus_Bacterial_Leaf_Blotch,126,citrullus bacterial leaf blotch
+Citrus_Canker,313,citrus canker
+Citrus_Leaf_Greening,160,citrus leaf greening
+Corn smut (Ustilago maydis),38,corn smut (ustilago maydis)
+Corynespora leaf spot (Corynespora cassiicola,51,corynespora leaf spot (corynespora cassiicola
+Cotton  bollworm (Helicoverpa armigera),26,cotton bollworm (helicoverpa armigera)
+Cotton_Adult_Bollworm,45,cotton adult bollworm
+Cotton_Larve_Bollworm,51,cotton larve bollworm
+Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot),112,crucifers xanthomonas campestris pv campestris black rot)
+Cucurbit_Leaf_Downy_Mildew,175,cucurbit leaf downy mildew
+Curculionoidea (Weevil),161,curculionoidea (weevil)
+Damages_Fruit_Bollworm,73,damages fruit bollworm
+Flower blights (Genus Choanephora Curr.),96,flower blights (genus choanephora curr.)
+Fusarium_Cereal_Head_Blight,80,fusarium cereal head blight
+Geotrichum_Rot_Cucurbitaceae_Fruit,160,geotrichum rot cucurbitaceae fruit
+Grape_Leaf_Esca,320,grape leaf esca
+Grape_Leaf_Leafroll_Virus,168,grape leaf leafroll virus
+Hosta_Leaf_Virus_X,160,hosta leaf virus x
+Late_Blight_Fruit,39,late blight fruit
+Late_Blight_Leaf,320,late blight leaf
+Leaf_Bacterial_Wilt,160,leaf bacterial wilt
+Leaf_Curl_Virus,164,leaf curl virus
+Leaf_Spurge_Flea_Beetle,32,leaf spurge flea beetle
+Lettuce Chlorosis Virus (LCV) (Crinivirus Lettuce Chlorosis Virus),18,lettuce chlorosis virus (lcv) (crinivirus lettuce chlorosis virus)
+Longhorn_Beetle,320,longhorn beetle
+Loose smut of wheat or barley (Ustilago tritici (Pers.) Rostr.),22,loose smut of wheat or barley (ustilago tritici (pers.) rostr.)
+Maize_Tar_Spot,295,maize tar spot
+Mealybug,120,mealybug
+Northern_Maize_Leaf_Blight,160,northern maize leaf blight
+Penicillium fungi (Genus Penicillium Link),47,penicillium fungi (genus penicillium link)
+Phytophthora_Blight_Cucurbitaceae,168,phytophthora blight cucurbitaceae
+Potyvirus_Mosaic_Virus,35,potyvirus mosaic virus
+Pythium diseases (Genus Pythium Pringsh.),105,pythium diseases (genus pythium pringsh.)
+Red_Spider_Mite,135,red spider mite
+Rhizopus soft rots (Genus Rhizopus Ehrenb.),37,rhizopus soft rots (genus rhizopus ehrenb.)
+Sclerotinia sclerotiorum_Fruit_Rot,21,sclerotinia sclerotiorum fruit rot
+Sclerotinia sclerotiorum_Leaf_Rot,56,sclerotinia sclerotiorum leaf rot
+Sclerotinia sclerotiorum_Stem_Rot,122,sclerotinia sclerotiorum stem rot
+Sclerotinia timber rot (Sclerotinia sclerotiorum),28,sclerotinia timber rot (sclerotinia sclerotiorum)
+Solanaceae_Bacterial_Soft_Rot,72,solanaceae bacterial soft rot
+Solanaceae_Bacterial_Spot,89,solanaceae bacterial spot
+Southern red mite (Oligonychus ilicis),23,southern red mite (oligonychus ilicis)
+Southern root-knot nematode,25,southern root knot nematode
+Soybean_Leaf_Halo_Blight,142,soybean leaf halo blight
+Soybean_Leaf_Mosaic_Virus,163,soybean leaf mosaic virus
+Soybean_Leaf_Rust,174,soybean leaf rust
+Soybean_Tospovirus_Leaf_Vein_Necrosis_Virus,28,soybean tospovirus leaf vein necrosis virus
+Sphinx_Moth_Adult,143,sphinx moth adult
+Sphinx_Moth_Larve_Damages,144,sphinx moth larve damages
+Spider_Mite_Leaf_Damages,160,spider mite leaf damages
+Spotted_Wilt_Virus,164,spotted wilt virus
+Stem_Borer_Leaf_Damages,160,stem borer leaf damages
+Sweet_Potato_Fruit_Feathery_Mottle_Virus,40,sweet potato fruit feathery mottle virus
+Sweet_Potato_Leaf_Feathery_Mottle_Virus,48,sweet potato leaf feathery mottle virus
+Target_Spot_Leaf,160,target spot leaf
+Thrips_Leaf_Damages,320,thrips leaf damages
+Tobacco_Leaf_Etch_Virus,148,tobacco leaf etch virus
+Tobacco_Leaf_Ringspot_Virus,120,tobacco leaf ringspot virus
+Tomato_Fruit_Bacterial_Canker,34,tomato fruit bacterial canker
+Tomato_Fruit_Blossom_End_Rot,82,tomato fruit blossom end rot
+Tomato_Leaf_Bacterial_Canker,134,tomato leaf bacterial canker
+Tomato_Leaf_Mosaic_Virus,160,tomato leaf mosaic virus
+Tomato_Leaf_Septoria,160,tomato leaf septoria
+Twospotted spider mite (Tetranychus urticae Koch),52,twospotted spider mite (tetranychus urticae koch)
+Wheat_Leaf_Streak_Mosaic_Virus,104,wheat leaf streak mosaic virus
+Whiteflies_Leaf,320,whiteflies leaf
+fall armyworm (Spodoptera frugiperda) Dammage,77,fall armyworm (spodoptera frugiperda) dammage
+fall armyworm (Spodoptera frugiperda) Larve,71,fall armyworm (spodoptera frugiperda) larve
+fall armyworm (Spodoptera frugiperda) Larve adults,39,fall armyworm (spodoptera frugiperda) larve adults
+root rotdamping off (Genus Rhizoctonia DC.),28,root rotdamping off (genus rhizoctonia dc.)
+root-knot nematode (Genus Meloidogyne),106,root knot nematode (genus meloidogyne)
+rhododendron stem borer (Oberea myops,30,rhododendron stem borer (oberea myops
+lesser cornstalk borer (Elasmopalpus lignosella),68,lesser cornstalk borer (elasmopalpus lignosella)
+kudzu bug (Megacopta cribraria (Fabricius)),72,kudzu bug (megacopta cribraria (fabricius))
+stem-boring weevil (Mecinus janthinus Germar),76,stem boring weevil (mecinus janthinus germar)
+blast blé,3601,blast blé
+healthy blé,3229,healthy blé
+insect blé,1654,insect blé
+leaf_folder blé,1332,leaf folder blé
+scald blé,294,scald blé
+stripes blé,1458,stripes blé
+tungro blé,1415,tungro blé
+Cauliflower_Healthy,934,cauliflower healthy
+Pepper Bell Bacterial Spot,141,pepper bell bacterial spot
+Pepper Bell Healthy,576,pepper bell healthy
+Potato Early Blight,115,potato early blight
+Potato Late Blight,518,potato late blight
+Tomato Bacterial Spot,1714,tomato bacterial spot
+Tomato Early Blight,1000,tomato early blight
+Tomato Healthy,887,tomato healthy
+Tomato Septoria Leaf Spot,1253,tomato septoria leaf spot
+Tomato Target Spot,204,tomato target spot
+Tomato Two Spotted Spider Mite,476,tomato two spotted spider mite
+Tomato Yellow Leaf Curl Virus,2008,tomato yellow leaf curl virus
+Aphids,240,aphids
+healthy,38,healthy
+Apple__Apple_scab (1),1000,apple apple scab
+Apple__Black_rot (1),1000,apple black rot
+Apple__Cedar_apple_rust (2),1000,apple cedar apple rust
+Apple__healthy,453,apple healthy
+Cashew_Anthracnose,1000,cashew anthracnose
+Cashew_Gumosis,392,cashew gumosis
+Cashew_Healthy,1000,cashew healthy
+Cashew_Leaf_Miner,1000,cashew leaf miner
+Cashew_Red_Rust,1000,cashew red rust
+Cassava_Brown_Streak_Disease,1000,cassava brown streak disease
+Cassava_Green_Mite,1000,cassava green mite
+Cassava_Green_Mottle,1000,cassava green mottle
+Cassava_Healthy,1000,cassava healthy
+Cherry__healthy (1),1000,cherry healthy
+Cherry__Powdery_mildew,273,cherry powdery mildew
+Chili_Condition,985,chili condition
+Chili_Curl_Virus,812,chili curl virus
+Chili_Nutrition_Deficiency,791,chili nutrition deficiency
+Citrus_Greening (1),1000,citrus greening
+Corn_Cercospora_Leaf_Spot,836,corn cercospora leaf spot
+Corn_Grasshopper,738,corn grasshopper
+Corn_Healthy (1),462,corn healthy
+Corn_Leaf_Beetle,948,corn leaf beetle
+Corn_Leaf_Blight (1),997,corn leaf blight
+Corn_Leaf_Spot,978,corn leaf spot
+Corn_Streak_Virus,979,corn streak virus
+Corn__Cercospora_leaf_spot_Gray_leaf_spot,1000,corn cercospora leaf spot gray leaf spot
+Corn__Common_rust,466,corn common rust
+Corn__healthy (2),1162,corn healthy
+Corn__Northern_Leaf_Blight,198,corn northern leaf blight
+Generic_Aphids,955,generic aphids
+Generic_Armyworm,712,generic armyworm
+Generic_Beet_Armyworm,962,generic beet armyworm
+Generic_Black_Cutworm,512,generic black cutworm
+Generic_Blister_Beetle,1000,generic blister beetle
+Generic_Cabbage_Armyworm,513,generic cabbage armyworm
+Generic_Flax_Budworm,639,generic flax budworm
+Generic_Flea_Beetle,473,generic flea beetle
+Generic_Legume_Blister_Beetle,845,generic legume blister beetle
+Generic_Tarnished_Plant_Bug,492,generic tarnished plant bug
+Generic_Thrips,527,generic thrips
+Generic_Wireworm,532,generic wireworm
+Grape__Black_rot,412,grape black rot
+Grape__Esca_(Black_Measles),183,grape esca (black measles)
+Grape__healthy (1),1000,grape healthy
+Grape__Leaf_blight_(Isariopsis_Leaf_Spot),1076,grape leaf blight (isariopsis leaf spot)
+Orange__Haunglongbing_(Citrus_greening),5507,orange haunglongbing (citrus greening)
+Apple__Rotten (1),614,apple rotten
+Apple__scab,502,apple scab
+Banana__Healthy (1),601,banana healthy
+Banana__Rotten,625,banana rotten
+Bellpepper__Healthy (1),478,bellpepper healthy
+Carrot__Healthy (1),484,carrot healthy
+Cassava__healthy,492,cassava healthy
+Corn___Healthy (1),566,corn healthy
+Corn__healthy (1),424,corn healthy
+Cucumber__Rotten (1),491,cucumber rotten
+Grape__black_rot (1),644,grape black rot
+Jamun__diseased (1),345,jamun diseased
+Mango__Rotten,584,mango rotten
+Mango__healthy,739,mango healthy
+Peach__bacterial_spot,608,peach bacterial spot
+Pepper_bell__healthy,456,pepper bell healthy
+Potato__Healthy (1),642,potato healthy
+Potato___Early_blight (1),807,potato early blight
+Rice__hispa (1),471,rice hispa
+Soybean__diabrotica_speciosa,603,soybean diabrotica speciosa
+Tea__red_leaf_spot,420,tea red leaf spot
+Tomato__mosaic_virus (1),174,tomato mosaic virus
+Wheat___Brown_Rust,539,wheat brown rust
+Wheat___Yellow_Rust,546,wheat yellow rust
+Apple__Healthy,1204,apple healthy
+Apple__black_rot,489,apple black rot
+Banana__Healthy,601,banana healthy
+Bellpepper__Healthy,478,bellpepper healthy
+Bellpepper__Rotten,482,bellpepper rotten
+Carrot__Healthy,484,carrot healthy
+Carrot__Rotten,450,carrot rotten
+Cassava__mosaic_disease,430,cassava mosaic disease
+Cherry__powdery_mildew,554,cherry powdery mildew
+Coffee__healthy,414,coffee healthy
+Coffee__rust,411,coffee rust
+Corn___Common_Rust,553,corn common rust
+Corn___Gray_Leaf_Spot,453,corn gray leaf spot
+Corn___Healthy,566,corn healthy
+Corn___Northern_Leaf_Blight,552,corn northern leaf blight
+Corn__common_rust,458,corn common rust
+Corn__gray_leaf_spot,309,corn gray leaf spot
+Corn__healthy,424,corn healthy
+Corn__northern_leaf_blight,428,corn northern leaf blight
+Cucumber__Rotten,491,cucumber rotten
+Cucumber__healthy,821,cucumber healthy
+Grape__black_measles,576,grape black measles
+Grape__black_rot,644,grape black rot
+Grape__healthy,637,grape healthy
+Lemon__healthy,159,lemon healthy
+Orange__Rotten,601,orange rotten
+Pepper__bell___Bacterial_spot,557,pepper bell bacterial spot
+Pepper__bell___healthy,594,pepper bell healthy
+Pomegranate__Healthy,487,pomegranate healthy
+Potato__Healthy,642,potato healthy
+Potato__Rotten,466,potato rotten
+Potato___Early_blight,807,potato early blight
+Potato___Late_Blight,793,potato late blight
+Rice___Brown_Spot,486,rice brown spot
+Rice___Healthy,575,rice healthy
+Rice___Leaf_Blast,552,rice leaf blast
+Rice___Neck_Blast,553,rice neck blast
+Rice__healthy,464,rice healthy
+Rice__hispa,471,rice hispa
+Soybean__mosaic_virus,22,soybean mosaic virus
+Soybean__powdery_mildew,77,soybean powdery mildew
+Strawberry__Rotten,564,strawberry rotten
+Strawberry___leaf_scorch,563,strawberry leaf scorch
+Strawberry__healthy (2),988,strawberry healthy
+Tea__brown_blight,339,tea brown blight
+Tomato_Early_blight,547,tomato early blight
+Tomato_Late_blight,593,tomato late blight
+Tomato_Spider_mites_Two_spotted_spider_mite,589,tomato spider mites two spotted spider mite
+Tomato__Rotten,488,tomato rotten
+Tomato__Tomato_YellowLeaf__Curl_Virus,617,tomato tomato yellowleaf curl virus
+Tomato__bacterial_spot,521,tomato bacterial spot
+Tomato__healthy,1060,tomato healthy
+Tomato__mosaic_virus,174,tomato mosaic virus
+Tomato__septoria_leaf_spot,494,tomato septoria leaf spot
+Tomato__target_spot,909,tomato target spot
+Tomato_healthy,479,tomato healthy
+Wheat__brown_rust,402,wheat brown rust
+RedRot,518,redrot
+Cassava_healthy,691,cassava healthy
+Apple__Cedar_apple_rust (1),467,apple cedar apple rust
+Tomato_septoria leaf spot (1),2342,tomato septoria leaf spot
+Sugar_Yellow,505,sugar yellow
+Tomato___Leaf_Mold,400,tomato leaf mold
+Curcuma longa_Dry Leaf,812,curcuma longa dry leaf
+Curcuma longa_Rhizome Healthy Root,846,curcuma longa rhizome healthy root
+Curcuma longa_Healthy Leaf,985,curcuma longa healthy leaf
+Curcuma longa_Leaf Blotch,995,curcuma longa leaf blotch
+Curcuma longa_Rhizome Disease Root,910,curcuma longa rhizome disease root
+Rose Leaf Holes,683,rose leaf holes
+Niphad Grape_Powdery Mildew,406,niphad grape powdery mildew
+Rose_Healthy Leaf,818,rose healthy leaf
+Cashew_gumosis,427,cashew gumosis
+Rose Leaf_Black Spot,1288,rose leaf black spot
+Niphad Grape_Downey Mildew,966,niphad grape downey mildew
+Cashew_anthracnose,988,cashew anthracnose
+Niphad Grape_Healthy Leaves,1254,niphad grape healthy leaves
+Cashew_leaf miner,990,cashew leaf miner
+Cashew_healthy,1442,cashew healthy
+Cashew_red rust,1313,cashew red rust
+Cassava Brown Spot,946,cassava brown spot
+Cassava Green Mite,853,cassava green mite
+Maize Grasshopper,597,maize grasshopper
+Maize leaf beetle,947,maize leaf beetle
+Maize_leaf spot,857,maize leaf spot
+Maize_streak virus,1009,maize streak virus
+Maize_leaf blight,1005,maize leaf blight
+Cassava Bacterial Blight,2363,cassava bacterial blight
+Tomato_leaf blight,632,tomato leaf blight
+Apple__Black_rot,205,apple black rot
+Tomato_septoria leaf spot,2342,tomato septoria leaf spot
+Apple black_spot,469,apple black spot
+Apple Brown_spot,1060,apple brown spot
+Apple Normal,824,apple normal
+Apricot Normal,652,apricot normal
+Apricot shot_hole,832,apricot shot hole
+Bean bean rust image,500,bean bean rust image
+Bean Fungal_leaf disease,776,bean fungal leaf disease
+Bean Normal leaf,900,bean normal leaf
+Cherry brown_spot,968,cherry brown spot
+Cherry Leaf Scorch,1101,cherry leaf scorch
+Cherry Normal leaf,500,cherry normal leaf
+Cherry purple leaf spot,987,cherry purple leaf spot
+Cherry_shot hole disease,440,cherry shot hole disease
+Corn gray leaf spot,528,corn gray leaf spot
+Corn holcus_ leaf spot,432,corn holcus leaf spot
+Corn Normal leaf,568,corn normal leaf
+Fig Blight_leaf disease,763,fig blight leaf disease
+Fig Brown spot,428,fig brown spot
+Fig normal leaf,600,fig normal leaf
+Fig_rust leaf,500,fig rust leaf
+Grape Anthracnose leaf,996,grape anthracnose leaf
+Grape Brown spot leaf,640,grape brown spot leaf
+Grape Downy mildew leaf,624,grape downy mildew leaf
+Grape Mites_leaf disease,500,grape mites leaf disease
+Grape Normal_leaf,1485,grape normal leaf
+Grape Powdery_mildew leaf,1208,grape powdery mildew leaf
+Grape shot hole leaf disease,852,grape shot hole leaf disease
+lokat Leaf_spot,792,lokat leaf spot
+Lokat Normal leaf,501,lokat normal leaf
+Pear Black spot _ leaf disease,904,pear black spot leaf disease
+Pear Normal _leaf,764,pear normal leaf
+persimmons Brown_spot,663,persimmons brown spot
+tomato spider mites,508,tomato spider mites
+tomato verticillium wilt,420,tomato verticillium wilt
+tomato_early_blight,1823,tomato early blight
+tomato_healthy_leaf,1478,tomato healthy leaf
+tomato_leaf_curl,1480,tomato leaf curl
+tomato_leaf_miner,1497,tomato leaf miner
+tomato_leaf_mold,1670,tomato leaf mold
+tomato_septoria_leaf,1258,tomato septoria leaf
+Walnut Anthracnose_leaf disease,648,walnut anthracnose leaf disease
+Walnut Blotch_leaf disease,1354,walnut blotch leaf disease
+Walnut Normal_leaf,712,walnut normal leaf
+Walnut Shot_hole,916,walnut shot hole
+Squash__Powdery_mildew (1),1835,squash powdery mildew
+Strawberry__Leaf_scorch (1),1109,strawberry leaf scorch
+Strawberry__healthy (1),1000,strawberry healthy
+Tomato__Bacterial_spot (1),2127,tomato bacterial spot
+Tomato__Early_blight,1000,tomato early blight
+Tomato__Late_blight,1909,tomato late blight
+Tomato__Leaf_Mold,917,tomato leaf mold
+Potato__Late_blight,1000,potato late blight
+Potato__healthy,335,potato healthy
+Raspberry__healthy,1000,raspberry healthy
+Soybean__healthy,5090,soybean healthy
+Squash__Powdery_mildew,1835,squash powdery mildew
+Strawberry__Leaf_scorch,1109,strawberry leaf scorch
+Strawberry__healthy,1000,strawberry healthy
+Tomato__Bacterial_spot,2127,tomato bacterial spot
+Pumpkin_Bacterial Leaf Spot,400,pumpkin bacterial leaf spot
+Pumpkin_Downy Mildew,400,pumpkin downy mildew
+Pumpkin_Healthy Leaf,400,pumpkin healthy leaf
+Pumpkin_Mosaic Disease,400,pumpkin mosaic disease
+Pumpkin_Powdery_Mildew,400,pumpkin powdery mildew
+Tomato_Leaf_Blight,1667,tomato leaf blight
+Tomato_Leaf_Curl,591,tomato leaf curl
+Tomato_Septoria,1000,tomato septoria
+Tomato_Verticillium_Wilt,1545,tomato verticillium wilt
+maize fall army worm,597,maize fall army worm
+beetle,139,beetle
+bollworm,167,bollworm
+chili_healthy,100,chili healthy
+gauva_diseased,142,gauva diseased
+alfalfa_plant_bug,393,alfalfa plant bug
+Cauliflower_Black_Rot,1088,cauliflower black rot
+Cauliflower_Insect_Damage,639,cauliflower insect damage
+Pepper_Bacterial_Spot,856,pepper bacterial spot
+Pepper_Healthy,902,pepper healthy
+Potato_Early_Blight (1),885,potato early blight
+Potato_Late_Blight,482,potato late blight
+Potato_Healthy (1),665,potato healthy
+Tomato_Bacterial_Spot,413,tomato bacterial spot
+Tomato_Healthy,704,tomato healthy
+Tomato_Septoria_Leaf_Spot,518,tomato septoria leaf spot
+Tomato_Target_Spot,1200,tomato target spot
+Tomato_Spider_Mite,1200,tomato spider mite
+Tomato_Yellow_Leaf_Curl_Virus,1476,tomato yellow leaf curl virus
+Generic_Fall_Armyworm,597,generic fall armyworm
+Apple_Apple_Scab,1000,apple apple scab
+Apple_Black_Rot (1),795,apple black rot
+Apple_Cedar_Apple_Rust,467,apple cedar apple rust
+Apple_Healthy,547,apple healthy
+Apple_Rotten,614,apple rotten
+Blueberry_Healthy,1000,blueberry healthy
+Cassava_Mosaic_Disease,690,cassava mosaic disease
+Cherry_Powdery_Mildew,779,cherry powdery mildew
+Cherry_Healthy (2),534,cherry healthy
+Corn_Common_Rust (1),726,corn common rust
+Corn_Northern_Leaf_Blight (3),802,corn northern leaf blight
+Grape_Black_Rot,768,grape black rot
+Grape_Esca,1200,grape esca
+Brassica_Black_leaf_spot (1),436,brassica black leaf spot
+Cauliflower_Alternaria_leaf_spot (1),292,cauliflower alternaria leaf spot
+Chili_Cercospora_leaf_spot (1),733,chili cercospora leaf spot
+Chili_White_spot (1),1200,chili white spot
+Peanut_Early_leaf_spot (1),1000,peanut early leaf spot
+Peanut_Late_leaf_spot (1),1000,peanut late leaf spot
+Pest_Cabbage_looper (2),234,pest cabbage looper
+Pest_Corn_borer,1018,pest corn borer
+Pest_Icerya_purchasi (1),433,pest icerya purchasi
+Pest_Mole_cricket (1),989,pest mole cricket
+Pest_Peach_borer (1),414,pest peach borer
+Pest_Rice_borer (1),302,pest rice borer
+Pest_Rice_leaf_roller (1),669,pest rice leaf roller
+Pest_Rice_planthopper (1),535,pest rice planthopper
+Pest_Rice_water_weevil (1),513,pest rice water weevil
+Pest_Scirtothrips_dorsalis (1),484,pest scirtothrips dorsalis
+Pest_Unaspis_yanonensis (1),251,pest unaspis yanonensis
+Pest_Whitefly (1),415,pest whitefly
+Tea_Brown_blight,339,tea brown blight
+Tea_Healthy (1),221,tea healthy
+Tea_Red_leaf_spot,429,tea red leaf spot
+Apple_Black_Rot,1987,apple black rot
+Banana_Cordana,739,banana cordana
+Banana_Healthy_Fruit,133,banana healthy fruit
+Banana_Healthy_Leaf,535,banana healthy leaf
+Citrus_Fruit_Disease,158,citrus fruit disease
+Citrus_Healthy_Fruit,190,citrus healthy fruit
+Citrus_Healthy_Leaf,192,citrus healthy leaf
+Guava_Healthy_Fruit,50,guava healthy fruit
+Guava_Healthy_Leaf,150,guava healthy leaf
+Mango_Diseased_Fruit,213,mango diseased fruit
+Mango_Healthy_Fruit,348,mango healthy fruit
+Mango_Healthy_Leaf,308,mango healthy leaf
+Papaya_Diseased_Fruit,127,papaya diseased fruit
+Papaya_Healthy_Fruit,143,papaya healthy fruit
+Papaya_Healthy_Leaf,298,papaya healthy leaf
+Papaya_Ring_Spot,717,papaya ring spot
+Black Gram (Vigna mungo)_cercospora leaf spot,598,black gram (vigna mungo) cercospora leaf spot
+Black Gram (Vigna mungo)_healthy,545,black gram (vigna mungo) healthy
+Black Gram (Vigna mungo)_insect,408,black gram (vigna mungo) insect
+Black Gram (Vigna mungo)_leaf Crinkle,305,black gram (vigna mungo) leaf crinkle
+Corn_Common_Rust,1200,corn common rust
+Corn_Gray_Leaf_Spot,1200,corn gray leaf spot
+Corn_Healthy,1200,corn healthy
+Corn_Leaf_Blight,1200,corn leaf blight
+Potato_Early_Blight,1200,potato early blight
+Potato_Healthy,1200,potato healthy
+Rice_Brown_Spot,563,rice brown spot
+Rice_Healthy (1),523,rice healthy
+Rice_Hispa,523,rice hispa
+Rice_Leaf_Blast,1325,rice leaf blast
+Wheat_Brown_Rust (1),1128,wheat brown rust
+Wheat_Healthy (1),1200,wheat healthy
+Brassica_Black_leaf_spot,436,brassica black leaf spot
+Cauliflower_Alternaria_leaf_spot,292,cauliflower alternaria leaf spot
+Chili_Cercospora_leaf_spot,733,chili cercospora leaf spot
+Chili_White_spot,1200,chili white spot
+Peanut_Early_leaf_spot,1000,peanut early leaf spot
+Peanut_Late_leaf_spot,1000,peanut late leaf spot
+Pest_Cabbage_looper (1),234,pest cabbage looper
+Pest_Icerya_purchasi,433,pest icerya purchasi
+Pest_Mole_cricket,989,pest mole cricket
+Pest_Peach_borer,413,pest peach borer
+Pest_Rice_borer,302,pest rice borer
+Pest_Rice_leaf_roller,668,pest rice leaf roller
+Pest_Rice_planthopper,533,pest rice planthopper
+Pest_Rice_water_weevil,513,pest rice water weevil
+Pest_Scirtothrips_dorsalis,483,pest scirtothrips dorsalis
+Pest_Unaspis_yanonensis,251,pest unaspis yanonensis
+Pest_Whitefly,414,pest whitefly
+Citrus_Black_spot (2),311,citrus black spot
+Citrus_Greening,1200,citrus greening
+Cotton_Bacterial_blight,448,cotton bacterial blight
+Cotton_Curl_virus,418,cotton curl virus
+Cotton_Fusarium_wilt,419,cotton fusarium wilt
+Cotton_Healthy,425,cotton healthy
+Pest_Wheat_aphid,903,pest wheat aphid
+Pest_Wheat_mite,800,pest wheat mite
+Pest_Wheat_stem_fly,234,pest wheat stem fly
+Rice_Healthy,653,rice healthy
+Rice_Leaf_scald,628,rice leaf scald
+Sugarcane_Healthy (1),522,sugarcane healthy
+Sugarcane_Mosaic_virus,462,sugarcane mosaic virus
+Sugarcane_Rust (1),514,sugarcane rust
+Sugarcane_Yellow_leaf,505,sugarcane yellow leaf
+Wheat_Blast (1),647,wheat blast
+Wheat_Brown_rust,1200,wheat brown rust
+Wheat_Fusarium_head_blight,611,wheat fusarium head blight
+Wheat_Leaf_blight,842,wheat leaf blight
+Wheat_Smut,1200,wheat smut
+Wheat_Yellow_rust,1200,wheat yellow rust
+Orange_Citrus_Greening,503,orange citrus greening
+Pest_Boxelder_bug,148,pest boxelder bug
+Acrididae (1),1200,acrididae
+Aphididae (1),1200,aphididae
+Cerambycidae_Adult (1),1200,cerambycidae adult
+Crambidae_Larva (1),1137,crambidae larva
+Pest_Ant,1038,pest ant
+Pest_Bee,1089,pest bee
+Pest_Beetle,854,pest beetle
+Pest_Caterpillar,915,pest caterpillar
+Pest_Earthworm,717,pest earthworm
+Pest_Earwig,942,pest earwig
+Pest_Grasshopper,1044,pest grasshopper
+Pest_Moth,1056,pest moth
+Pest_Slug,809,pest slug
+Pest_Snail,1073,pest snail
+Pest_Wasp,1005,pest wasp
+Pest_Weevil,960,pest weevil
+Hibiscus_Citrus_Pot,1000,hibiscus citrus pot
+Hibiscus_Early_Mild_Spotting,417,hibiscus early mild spotting
+Hibiscus_Fungal_Infection,1000,hibiscus fungal infection
+Hibiscus_Healthy,1000,hibiscus healthy
+Hibiscus_Mild_Edge_Damage,1000,hibiscus mild edge damage
+Hibiscus_Senescent,1000,hibiscus senescent
+Hibiscus_Slightly_Diseased,1000,hibiscus slightly diseased
+Hibiscus_Wrinkled_Leaf,1000,hibiscus wrinkled leaf
+Tea_Algal_Spot,1000,tea algal spot
+Tea_Brown_Blight,1000,tea brown blight
+Tea_Grey_Blight,1000,tea grey blight
+Tea_Healthy,1000,tea healthy
+Tea_Red_Spot,1000,tea red spot
+Banana_Black_Sigatoka,1355,banana black sigatoka
+Banana_Cordana_Leaf_Spot,540,banana cordana leaf spot
+Banana_Moko_Disease,445,banana moko disease
+Banana_Panama_Disease,1105,banana panama disease
+Banana_Pestalotiopsis_Leaf_Spot,559,banana pestalotiopsis leaf spot
+Blackgram_Leaf_Crinkle_Virus,152,blackgram leaf crinkle virus
+Blackgram_Yellow_Mosaic_Virus,224,blackgram yellow mosaic virus
+Cauliflower_Bacterial_Soft_Rot,165,cauliflower bacterial soft rot
+Corn_Northern_Leaf_Blight (2),187,corn northern leaf blight
+Paddy_Bacterial_Blight,466,paddy bacterial blight
+Radish_Black_Rot,517,radish black rot
+Radish_Mosaic_Virus,547,radish mosaic virus
+Acrididae,1200,acrididae
+Aphididae,1200,aphididae
+Cerambycidae_Adult,1200,cerambycidae adult
+Cerambycidae_Larva,171,cerambycidae larva
+Chrysomelidae_Adult,856,chrysomelidae adult
+Chrysomelidae_Larva,166,chrysomelidae larva
+Cicadellidae,1200,cicadellidae
+Coccinellidae_Adult,562,coccinellidae adult
+Coccinellidae_Larva,321,coccinellidae larva
+Crambidae_Adult,461,crambidae adult
+Crambidae_Larva,1137,crambidae larva
+Delphacidae,814,delphacidae
+Elateridae_Adult,310,elateridae adult
+Elateridae_Larva,624,elateridae larva
+Flatidae,638,flatidae
+Fulgoridae,1200,fulgoridae
+Gryllotalpidaeç,1201,gryllotalpidaeç
+Limacodidae_Adult,300,limacodidae adult
+Limacodidae_Larva,1200,limacodidae larva
+Miridae,1200,miridae
+Noctuidae_Adult,609,noctuidae adult
+Noctuidae_Larva,961,noctuidae larva
+Nymphalidae_Adult,609,nymphalidae adult
+Nymphalidae_Larva,273,nymphalidae larva
+Papilionidae_Adult,526,papilionidae adult
+Papilionidae_Larva,250,papilionidae larva
+Scarabaeidae_Adult,835,scarabaeidae adult
+Scarabaeidae_Larva,721,scarabaeidae larva
+Sphingidae_Adult,580,sphingidae adult
+Sphingidae_Larva,295,sphingidae larva
+Bean_Angular_Leaf_Spot,280,bean angular leaf spot
+Bean_Cercospora_Leaf_Spot,160,bean cercospora leaf spot
+Bean_Fungi_Pathogens,260,bean fungi pathogens
+Bean_Halo_Blight,250,bean halo blight
+Bean_Healthy,1164,bean healthy
+Bean_Tobacco_Caterpillar,266,bean tobacco caterpillar
+Bean_Yellow_Mosaic,260,bean yellow mosaic
+Lychee_Anthrax_Leaf,1000,lychee anthrax leaf
+Lychee_Bituminous_Leaf,1000,lychee bituminous leaf
+Lychee_Curl_Leaf,1000,lychee curl leaf
+Lychee_Deficiency_Leaf,1000,lychee deficiency leaf
+Lychee_Dry_Leaf,1000,lychee dry leaf
+Lychee_Felt_Leaf,1000,lychee felt leaf
+Lychee_Healthy,1000,lychee healthy
+Lychee_Leaf_Blight,1000,lychee leaf blight
+Lychee_Leaf_Gall,1000,lychee leaf gall
+Cherry_Healthy (1),1200,cherry healthy
+Cherry_Powdery_mildew (1),1200,cherry powdery mildew
+Citrus_Black_spot (1),311,citrus black spot
+Citrus_canker (1),368,citrus canker
+Citrus_greening (1),1200,citrus greening
+Citrus_Healthy (1),87,citrus healthy
+Corn_cercospora_gray_leaf_spot (1),1200,corn cercospora gray leaf spot
+Corn_Common_rust (1),1200,corn common rust
+Corn_healthy (1),1200,corn healthy
+Corn_Northern_Leaf_Blight (1),1200,corn northern leaf blight
+Cotton_bacterial_blight (1),448,cotton bacterial blight
+Cotton_curl_virus (1),418,cotton curl virus
+Cotton_fussarium_wilt (1),419,cotton fussarium wilt
+Cotton_healthy (1),425,cotton healthy
+Grape_Black_Measles (1),1200,grape black measles
+Grape_Black_rot (1),1200,grape black rot
+Grape_Healthy,1200,grape healthy
+Grape_Isariopsis_Leaf_Spot,1200,grape isariopsis leaf spot
+Peach_Bacterial_spot,1200,peach bacterial spot
+Peach_Healthy,1200,peach healthy
+Potato_Early_blight,1000,potato early blight
+Potato_healthy,152,potato healthy
+Potato_Late_blight,1000,potato late blight
+Strawberry_Healthy,1200,strawberry healthy
+Strawberry_Leaf_scorch,1200,strawberry leaf scorch
+Sugarcane_Healthy,522,sugarcane healthy
+Sugarcane_Mosaic_Virus,462,sugarcane mosaic virus
+Sugarcane_RedRot,518,sugarcane redrot
+Sugarcane_Rust,514,sugarcane rust
+Sugarcane_Yellow,505,sugarcane yellow
+Wheat_Aphid,903,wheat aphid
+Wheat_Black_Rust,576,wheat black rust
+Wheat_Blast,647,wheat blast
+Wheat_Brown_Rust,1200,wheat brown rust
+Wheat_Common_Root_Rot,614,wheat common root rot
+Wheat_Fusarium_Head_Blight,611,wheat fusarium head blight
+Wheat_Healthy,1000,wheat healthy
+Wheat_Leaf_Blight,842,wheat leaf blight
+Wheat_Mildew,812,wheat mildew
+Cauliflower Leaf_Healthy,934,cauliflower leaf healthy
+Black Rot,1088,black rot
+Cauliflower Leaf_Insect Hole,639,cauliflower leaf insect hole

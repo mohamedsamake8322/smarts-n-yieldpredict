@@ -1,0 +1,149 @@
+cluster_id,original_names,canonical_name,total_images,action,notes
+APPLE_001,Apple_Scab | Apple__Apple_scab (1) | Apple__scab,Apple_Scab,1662,MERGE,"Consolidate to Apple_Scab"
+APPLE_002,Apple__Black_rot (1) | Apple__Black_rot | Apple__black_rot | Apple black_spot,Apple_Black_Rot,2183,MERGE,"Use Black_Rot as canonical"
+APPLE_003,Apple__Cedar_apple_rust (2) | Apple__Cedar_apple_rust (1) | Apple_Cedar_Apple_Rust,Apple_Cedar_Apple_Rust,1934,MERGE,"Standardize to Apple_Cedar_Apple_Rust"
+APPLE_004,Apple__healthy | Apple__Healthy | Apple_Healthy,Apple_Healthy,2110,MERGE,"Use Apple_Healthy"
+APPLE_005,Apple__Rotten (1) | Apple_Rotten,Apple_Rotten,1228,MERGE,"Use Apple_Rotten"
+APPLE_006,Apple Brown_spot | Apple Normal,Apple_Normal,1884,RENAME_ONLY,"Rename to standard format"
+
+BANANA_001,Banana__Healthy (1) | Banana__Healthy,Banana_Healthy,1202,MERGE,"Consolidate healthy"
+BANANA_002,Banana__Rotten,Banana_Rotten,625,KEEP,"Already standard"
+BANANA_003,Banana_Fruit_Anthracnose | Banana_Leaf_Anthracnose,Banana_Anthracnose,218,REVIEW,"Decide if fruit/leaf separation needed or merge to Banana_Anthracnose"
+BANANA_004,Banana_Leaf_Black_Sigatoka,Banana_Black_Sigatoka,56,RENAME_ONLY,"Use Banana_Black_Sigatoka"
+
+CHERRY_001,Cherry_Healthy | Cherry__healthy (1),Cherry_Healthy,2200,MERGE,"Consolidate"
+CHERRY_002,Cherry_Powdery_mildew | Cherry__Powdery_mildew | Cherry__powdery_mildew,Cherry_Powdery_Mildew,2027,MERGE,"Standardize"
+CHERRY_003,Cherry_Leaf_Spot | Cherry_Leaf_Scorch,Cherry_Leaf_Spot,1302,REVIEW,"Leaf Spot vs Scorch - check if same disease"
+CHERRY_004,Cherry brown_spot | Cherry_brown_spot,Cherry_Brown_Spot,1968,MERGE,"Consolidate"
+CHERRY_005,Cherry purple leaf spot,Cherry_Purple_Leaf_Spot,987,RENAME_ONLY,"Standardize format"
+CHERRY_006,Cherry_shot hole disease,Cherry_Shot_Hole_Disease,440,RENAME_ONLY,"Standardize"
+
+CITRUS_001,Citrus_Black_spot,Citrus_Black_Spot,311,RENAME_ONLY,"Capitalize Spot"
+CITRUS_002,Citrus_greening | Citrus_Greening (1) | Orange__Haunglongbing_(Citrus_greening),Citrus_Greening,7707,MERGE,"Consolidate all Greening variants. Note: Haunglongbing is same disease"
+CITRUS_003,Citrus_canker | Citrus_Canker,Citrus_Canker,681,MERGE,"Consolidate"
+CITRUS_004,Citrus_Healthy | Citrus_Leaf_Greening,Citrus_Healthy,247,MERGE,"Citrus_Leaf_Greening might be mislabeled, check"
+
+CORN_001,Corn_healthy | Corn_Healthy (1) | Corn__healthy (1) | Corn__healthy (2) | Corn___Healthy (1) | Corn___Healthy,Corn_Healthy,7780,MERGE,"Consolidate ALL healthy variants"
+CORN_002,Corn_Northern_Leaf_Blight | Corn__Northern_Leaf_Blight | Corn___Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,3598,MERGE,"Consolidate NLB"
+CORN_003,Corn_Common_rust | Corn__Common_rust | Corn___Common_Rust | Corn__common_rust | Corn_Common_Rust (1),Corn_Common_Rust,4601,MERGE,"Consolidate"
+CORN_004,Corn_cercospora_gray_leaf_spot | Corn__Cercospora_leaf_spot_Gray_leaf_spot | Corn_Cercospora_Leaf_Spot | Corn___Gray_Leaf_Spot | Corn__gray_leaf_spot,Corn_Gray_Leaf_Spot,5667,MERGE,"Gray Leaf Spot = Cercospora (same disease)"
+CORN_005,Corn_Leaf_Spot | Corn_Leaf_Blight (1) | Corn__northern_leaf_blight,Corn_Leaf_Blight,2603,REVIEW,"Separate Leaf Spot from Blight if different diseases"
+CORN_006,Corn_Grasshopper | Corn_Leaf_Beetle | Corn_Streak_Virus,KEEP_SEPARATE,3665,KEEP_SEPARATE,"Keep as separate pest/disease categories"
+
+COTTON_001,Cotton_healthy | Cotton_Healthy,Cotton_Healthy,850,MERGE,"Consolidate"
+COTTON_002,Cotton_bacterial_blight | Cotton_Bacterial_blight,Cotton_Bacterial_Blight,896,MERGE,"Consolidate"
+COTTON_003,Cotton_curl_virus | Cotton_Curl_virus,Cotton_Curl_Virus,836,MERGE,"Consolidate"
+COTTON_004,Cotton_fussarium_wilt | Cotton_Fusarium_wilt,Cotton_Fusarium_Wilt,838,MERGE,"Note spelling: Fusarium correct"
+COTTON_005,Cotton_Adult_Bollworm | Cotton_Larve_Bollworm | Cotton  bollworm (Helicoverpa armigera),Cotton_Bollworm,122,REVIEW,"Life stages - keep separate or merge?"
+
+CUCUMBER_001,Cucumber__Rotten (1) | Cucumber__Rotten,Cucumber_Rotten,982,MERGE,"Consolidate"
+CUCUMBER_002,Cucumber__healthy,Cucumber_Healthy,821,RENAME_ONLY,"Capitalize"
+
+GRAPE_001,Grape_Black_Measles | Grape__Esca_(Black_Measles) | Grape__black_measles,Grape_Black_Measles,1959,MERGE,"Esca = Black Measles (same disease)"
+GRAPE_002,Grape_Leaf_Esca,Grape_Black_Measles,320,MERGE,"Esca is alias for Black Measles - consolidate to Grape_Black_Measles"
+GRAPE_003,Grape__Black_rot (1) | Grape__Black_rot | Grape__black_rot,Grape_Black_Rot,1700,MERGE,"Consolidate"
+GRAPE_004,Grape__healthy (1) | Grape__healthy,Grape_Healthy,1637,MERGE,"Consolidate"
+GRAPE_005,Grape__Leaf_blight_(Isariopsis_Leaf_Spot),Grape_Leaf_Blight,1076,RENAME_ONLY,"Isariopsis = Leaf Blight"
+GRAPE_006,Grape Anthracnose leaf,Grape_Anthracnose,996,RENAME_ONLY,"Standardize format"
+GRAPE_007,Grape Brown spot leaf,Grape_Brown_Spot,640,RENAME_ONLY,"Standardize format"
+GRAPE_008,Grape Downy mildew leaf,Grape_Downy_Mildew,624,RENAME_ONLY,"Standardize"
+GRAPE_009,Grape Powdery_mildew leaf,Grape_Powdery_Mildew,1208,RENAME_ONLY,"Standardize"
+GRAPE_010,Niphad Grape_Healthy Leaves | Niphad Grape_Powdery Mildew | Niphad Grape_Downey Mildew,REGIONAL_VARIANTS,2626,REVIEW,"Regional variants - keep separate or merge with main?"
+
+MANGO_001,Mango__Rotten | Mango_Diseased_Fruit,Mango_Rotten,797,MERGE,"Consolidate rotten"
+MANGO_002,Mango__healthy | Mango_Healthy_Fruit | Mango_Healthy_Leaf,Mango_Healthy,1387,MERGE,"Consolidate healthy")
+
+PEPPER_001,Pepper Bell Healthy | Pepper Bell Bacterial Spot | Pepper_bell__healthy | Pepper__bell___healthy,Pepper_Bell_Healthy,3277,MERGE,"Consolidate Bell Pepper healthy"
+PEPPER_002,Pepper_Bacterial_Spot | Pepper__bell___Bacterial_spot,Pepper_Bell_Bacterial_Spot,1413,MERGE,"Consolidate bacterial spot"
+
+POTATO_001,Potato Early Blight | Potato_Early_Blight (1) | Potato___Early_blight (1) | Potato___Early_blight | Potato_Early_blight | Potato__healthy (if mislabeled),Potato_Early_Blight,4509,MERGE,"Consolidate"
+POTATO_002,Potato Late Blight | Potato_Late_Blight | Potato___Late_Blight | Potato__Late_blight,Potato_Late_Blight,3792,MERGE,"Consolidate"
+POTATO_003,Potato__Healthy (1) | Potato__Healthy | Potato_Healthy (1) | Potato_Healthy,Potato_Healthy,2151,MERGE,"Consolidate"
+POTATO_004,Potato__Rotten,Potato_Rotten,466,KEEP,"Standard"
+
+RICE_001,Rice___Healthy | Rice__healthy | Rice_Healthy (1),Rice_Healthy,1614,MERGE,"Consolidate"
+RICE_002,Rice___Leaf_Blast | Rice_Leaf_Blast,Rice_Leaf_Blast,1877,MERGE,"Consolidate"
+RICE_003,Rice___Brown_Spot,Rice_Brown_Spot,486,RENAME_ONLY,"Capitalize"
+RICE_004,Rice__hispa | Rice___Leaf_Blast,Rice_Hispa,471,KEEP,"Unique"
+RICE_005,Rice___Neck_Blast,Rice_Neck_Blast,553,KEEP,"Unique"
+RICE_006,Rice_Leaf_scald,Rice_Leaf_Scald,628,RENAME_ONLY,"Capitalize"
+
+STRAWBERRY_001,Strawberry__Leaf_scorch (1) | Strawberry___leaf_scorch | Strawberry__Leaf_scorch,Strawberry_Leaf_Scorch,3790,MERGE,"Consolidate"
+STRAWBERRY_002,Strawberry__healthy (2) | Strawberry__healthy (1) | Strawberry__healthy,Strawberry_Healthy,2988,MERGE,"Consolidate"
+STRAWBERRY_003,Strawberry__Rotten,Strawberry_Rotten,564,KEEP,"Standard"
+
+TOMATO_001,Tomato Healthy | Tomato_Healthy | Tomato__healthy | Tomato_healthy,Tomato_Healthy,4428,MERGE,"Consolidate all variants"
+TOMATO_002,Tomato Bacterial Spot | Tomato_Bacterial_Spot | Tomato__Bacterial_spot (1) | Tomato__Bacterial_spot | Tomato__bacterial_spot,Tomato_Bacterial_Spot,6102,MERGE,"Consolidate"
+TOMATO_003,Tomato Early Blight | Tomato__Early_blight | Tomato_Early_blight | tomato_early_blight,Tomato_Early_Blight,3547,MERGE,"Consolidate"
+TOMATO_004,Tomato Late Blight | Tomato_Late_blight | Tomato__Late_blight,Tomato_Late_Blight,3482,MERGE,"Consolidate")
+TOMATO_005,Tomato Septoria Leaf Spot | Tomato_Septoria_Leaf_Spot | Tomato__septoria_leaf_spot | Tomato_septoria leaf spot (1) | Tomato_septoria leaf spot | tomato_septoria_leaf,Tomato_Septoria_Leaf_Spot,7862,MERGE,"Consolidate all septoria variants"
+TOMATO_006,Tomato Target Spot | Tomato__target_spot,Tomato_Target_Spot,1313,MERGE,"Consolidate"
+TOMATO_007,Tomato__Leaf_Mold | Tomato___Leaf_Mold | tomato_leaf_mold,Tomato_Leaf_Mold,2987,MERGE,"Consolidate"
+TOMATO_008,Tomato Yellow Leaf Curl Virus | Tomato_Yellow_Leaf_Curl_Virus | Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,3625,MERGE,"Consolidate"
+TOMATO_009,Tomato__mosaic_virus (1) | Tomato__mosaic_virus,Tomato_Mosaic_Virus,348,MERGE,"Consolidate"
+TOMATO_010,Tomato Two Spotted Spider Mite | Tomato_Spider_Mite | Tomato_Spider_mites_Two_spotted_spider_mite | tomato_spider_mites,Tomato_Spider_Mite,3452,MERGE,"Consolidate"
+TOMATO_011,Tomato__Rotten,Tomato_Rotten,488,KEEP,"Standard"
+TOMATO_012,Tomato Fruit_Blossom_End_Rot | Tomato_Fruit_Blossom_End_Rot,Tomato_Fruit_Blossom_End_Rot,82,KEEP,"Unique"
+TOMATO_013,Tomato Leaf_Bacterial_Canker | Tomato_Leaf_Bacterial_Canker,Tomato_Leaf_Bacterial_Canker,134,KEEP,"Unique"
+TOMATO_014,Tomato Fruit_Bacterial_Canker | Tomato_Fruit_Bacterial_Canker,Tomato_Fruit_Bacterial_Canker,34,KEEP,"Unique"
+TOMATO_015,Tomato_Leaf_Blight | Tomato_leaf blight,Tomato_Leaf_Blight,1667,RENAME_ONLY,"Standardize casing"
+TOMATO_016,Tomato_Leaf_Curl | tomato_leaf_curl,Tomato_Leaf_Curl,2071,MERGE,"Consolidate"
+TOMATO_017,tomato_leaf_miner,Tomato_Leaf_Miner,1497,RENAME_ONLY,"Capitalize"
+TOMATO_018,Tomato_Verticillium_Wilt | tomato_verticillium wilt,Tomato_Verticillium_Wilt,1965,MERGE,"Consolidate"
+
+WHEAT_001,Wheat_Leaf_Streak_Mosaic_Virus,Wheat_Leaf_Streak_Mosaic_Virus,104,KEEP,"Standard"
+WHEAT_002,blast blé,Wheat_Blast,3601,RENAME_ONLY,"Translate French + standardize"
+WHEAT_003,healthy blé,Wheat_Healthy,3229,RENAME_ONLY,"Translate French"
+WHEAT_004,insect blé,Wheat_Insect_Damage,1654,RENAME_ONLY,"Translate French"
+WHEAT_005,leaf_folder blé,Wheat_Leaf_Folder,1332,RENAME_ONLY,"Translate French"
+WHEAT_006,scald blé,Wheat_Scald,294,RENAME_ONLY,"Translate French"
+WHEAT_007,stripes blé,Wheat_Stripes,1458,RENAME_ONLY,"Translate French"
+WHEAT_008,tungro blé,Wheat_Tungro,1415,RENAME_ONLY,"Translate French"
+WHEAT_009,Wheat___Brown_Rust | Wheat__brown_rust,Wheat_Brown_Rust,941,MERGE,"Consolidate"
+WHEAT_010,Wheat___Yellow_Rust,Wheat_Yellow_Rust,546,RENAME_ONLY,"Capitalize"
+
+COFFEE_001,Coffee__healthy | Coffee__rust,COFFEE_GROUP,825,MERGE_SEPARATE,"Coffee healthy + Coffee rust"
+
+CASHEW_001,Cashew_Healthy | Cashew_healthy,Cashew_Healthy,2442,MERGE,"Consolidate"
+CASHEW_002,Cashew_Anthracnose | Cashew_anthracnose,Cashew_Anthracnose,1988,MERGE,"Consolidate"
+CASHEW_003,Cashew_Gumosis | Cashew_gumosis,Cashew_Gumosis,819,MERGE,"Consolidate"
+CASHEW_004,Cashew_Leaf_Miner | Cashew_leaf miner,Cashew_Leaf_Miner,1990,MERGE,"Consolidate"
+CASHEW_005,Cashew_Red_Rust | Cashew_red rust,Cashew_Red_Rust,2313,MERGE,"Consolidate"
+
+CASSAVA_001,Cassava_Healthy | Cassava_healthy | Cassava__healthy,Cassava_Healthy,2083,MERGE,"Consolidate"
+CASSAVA_002,Cassava_Brown_Streak_Disease | Cassava Brown Spot,Cassava_Brown_Streak_Disease,1946,MERGE,"Brown Streak = Brown Spot (same disease)"
+CASSAVA_003,Cassava_Mosaic_Disease | Cassava__mosaic_disease,Cassava_Mosaic_Disease,1120,MERGE,"Consolidate"
+CASSAVA_004,Cassava_Green_Mite | Cassava Green Mite,Cassava_Green_Mite,1853,MERGE,"Consolidate"
+CASSAVA_005,Cassava_Green_Mottle,Cassava_Green_Mottle,1000,KEEP,"Standard"
+CASSAVA_006,Cassava Bacterial Blight,Cassava_Bacterial_Blight,2363,RENAME_ONLY,"Standardize format"
+
+SUGARCANE_001,Sugar_Yellow | Sugarcane_Yellow_leaf,Sugarcane_Yellow_Leaf,1527,MERGE,"Consolidate"
+SUGARCANE_002,RedRot | Sugarcane_RedRot,Sugarcane_Red_Rot,1523,MERGE,"Red Rot consolidate"
+
+MAIZE_001,Maize_Tar_Spot,Maize_Tar_Spot,295,KEEP,"Unique"
+MAIZE_002,Maize Grasshopper | Maize leaf beetle | Maize_leaf spot | Maize_streak virus | Maize_leaf blight,KEEP_SEPARATE,4415,KEEP_SEPARATE,"Keep separate - different diseases/pests"
+
+CHILI_001,Chili_Condition | Chili_Nutrition_Deficiency,Chili_Nutrition_Deficiency,1776,MERGE,"Condition is likely nutrition deficiency"
+CHILI_002,Chili_Curl_Virus,Chili_Curl_Virus,812,KEEP,"Standard"
+CHILI_003,Chili_Cercospora_leaf_spot (1),Chili_Cercospora_Leaf_Spot,1466,RENAME_ONLY,"Consolidate variant"
+CHILI_004,Chili_White_spot (1) | Chili_White_spot,Chili_White_Spot,2400,MERGE,"Consolidate")
+
+PEST_ARMYWORM,fall armyworm (Spodoptera frugiperda) Dammage | fall armyworm (Spodoptera frugiperda) Larve | fall armyworm (Spodoptera frugiperda) Larve adults | Generic_Armyworm | Generic_Fall_Armyworm | maize fall army worm,Pest_Fall_Armyworm,2597,MERGE,"Consolidate all armyworm variants"
+PEST_APHIDS,Aphids | Generic_Aphids,Pest_Aphids,1195,MERGE,"Consolidate"
+PEST_BOLLWORM,Cotton_Adult_Bollworm | Cotton_Larve_Bollworm | Damages_Fruit_Bollworm | bollworm,Pest_Bollworm,289,REVIEW,"Life stages - keep separate or merge?"
+PEST_CUTWORM,Generic_Black_Cutworm,Pest_Black_Cutworm,512,RENAME_ONLY,"Standardize"
+PEST_THRIPS,Generic_Thrips | Thrips_Leaf_Damages,Pest_Thrips,847,MERGE,"Consolidate"
+PEST_WEEVIL,Curculionoidea (Weevil) | stem-boring weevil (Mecinus janthinus Germar) | Generic_Weevil,Pest_Weevil,1197,MERGE_REVIEW,"Consolidate weevil variants"
+PEST_SPIDER_MITE,Red_Spider_Mite | Spider_Mite_Leaf_Damages | Twospotted spider mite (Tetranychus urticae Koch),Pest_Spider_Mite,702,MERGE_REVIEW,"All are spider mites"
+PEST_GRASSHOPPER,Generic_Grasshopper | Maize Grasshopper,Pest_Grasshopper,1335,MERGE,"Consolidate"
+PEST_FLEA_BEETLE,Generic_Flea_Beetle | Leaf_Spurge_Flea_Beetle,Pest_Flea_Beetle,505,MERGE,"Consolidate"
+
+GENERIC_001,"Generic_Beet_Armyworm, Generic_Blister_Beetle, Generic_Cabbage_Armyworm, etc",KEEP_SEPARATE,12000,REORGANIZE,"Too granular - consolidate or move to higher taxonomy"
+
+FRUIT_BLOSSOM_ROT,Late_Blight_Fruit | Late_Blight_Leaf | Brown_Rot_Fruit,REVIEW_GROUPING,661,REVIEW,"Check if Late Blight Fruit/Leaf are same disease"
+
+NEMATODE_001,Southern root-knot nematode | root-knot nematode (Genus Meloidogyne),Root_Knot_Nematode,131,MERGE,"Consolidate root-knot"
+NEMATODE_002,root rotdamping off (Genus Rhizoctonia DC.),Root_Rot_Damping_Off,28,RENAME_ONLY,"Standardize format"
+
+ORNAMENTAL_001,Rose Leaf Holes | Rose_Healthy Leaf | Rose Leaf_Black Spot | Hibiscus_* (8 variants),ORNAMENTAL_GROUP,10000+,KEEP_SEPARATE,"Ornamental crops - keep separate from food crops"
+CULINARY_001,Curcuma longa_Dry Leaf | Curcuma longa_Rhizome Healthy Root | Curcuma longa_Healthy Leaf | Curcuma longa_Leaf Blotch | Curcuma longa_Rhizome Disease Root,CULINARY_TURMERIC_GROUP,4548,KEEP_SEPARATE,"Keep culinary/spice crops separate"

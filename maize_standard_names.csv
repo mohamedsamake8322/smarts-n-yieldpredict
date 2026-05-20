@@ -1,0 +1,9 @@
+old_name,new_name
+Grey_Leaf_Spot,Maize_Grey_Leaf_Spot
+Northern_Corn_Leaf_Blight,Maize_Northern_Leaf_Blight
+Phaeosphaeria_Leaf_Spot,Maize_Phaeosphaeria_Leaf_Spot
+Common_Rust,Maize_Common_Rust
+Southern_Rust,Maize_Southern_Rust
+Healthy,Maize_Healthy
+Other,Maize_Other
+Unknown,Maize_Unknown

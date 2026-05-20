@@ -1,0 +1,269 @@
+original_name,crop,condition,standardized_name,format_issue,priority
+Grape_Black_Measles,Grape,Black_Measles,Grape_Black_Measles,OK,1
+Cotton_fussarium_wilt,Cotton,Fusarium_Wilt,Cotton_Fusarium_Wilt,SPELLING,2
+Cotton_curl_virus,Cotton,Curl_Virus,Cotton_Curl_Virus,OK,1
+Cotton_bacterial_blight,Cotton,Bacterial_Blight,Cotton_Bacterial_Blight,case,2
+Cotton_healthy,Cotton,Healthy,Cotton_Healthy,case,2
+Citrus_Black_spot,Citrus,Black_Spot,Citrus_Black_Spot,case,2
+Citrus_greening,Citrus,Greening,Citrus_Greening,case,2
+Corn_healthy,Corn,Healthy,Corn_Healthy,OK,1
+Cherry_Healthy,Cherry,Healthy,Cherry_Healthy,OK,1
+Corn_Northern_Leaf_Blight,Corn,Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,OK,1
+Cherry_Powdery_mildew,Cherry,Powdery_Mildew,Cherry_Powdery_Mildew,case,2
+Citrus_canker,Citrus,Canker,Citrus_Canker,case,2
+Corn_cercospora_gray_leaf_spot,Corn,Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,SIMPLIFY,2
+Citrus_Healthy,Citrus,Healthy,Citrus_Healthy,OK,1
+Corn_Common_rust,Corn,Common_Rust,Corn_Common_Rust,case,2
+Alfalfa_Leaf_Mosaic_Virus,Alfalfa,Leaf_Mosaic_Virus,Alfalfa_Leaf_Mosaic_Virus,OK,1
+Alluim_Leaf_Bacterial_Soft_Rot,Alliium,Leaf_Bacterial_Soft_Rot,Alliium_Leaf_Bacterial_Soft_Rot,SPELLING,3
+Alternaria black molds  stem cankers (Genus Alternaria Nees),Plant,Alternaria_Stem_Cankers,Alternaria_Stem_Cankers,REMOVE_PARENTHESES,3
+Alternaria_Leaf_Spot,Plant,Alternaria_Leaf_Spot,Alternaria_Leaf_Spot,OK,1
+Angular_Leaf_Spot_Cucumber,Cucumber,Angular_Leaf_Spot,Cucumber_Angular_Leaf_Spot,REORDER,2
+Anthracnose (Colletotrichum orbiculare (Berk. & Mo,Plant,Anthracnose,Anthracnose,REMOVE_SCIENTIFIC,3
+Apple_Scab,Apple,Scab,Apple_Scab,OK,1
+Aspergillus ear and kernel rot (Aspergillus flavus Maize),Maize,Aspergillus_Kernel_Rot,Maize_Aspergillus_Kernel_Rot,REMOVE_SCIENTIFIC,3
+Banana_Fruit_Anthracnose,Banana,Fruit_Anthracnose,Banana_Anthracnose,SIMPLIFY,2
+Banana_Leaf_Anthracnose,Banana,Leaf_Anthracnose,Banana_Anthracnose,SIMPLIFY,2
+Banana_Leaf_Black_Sigatoka,Banana,Black_Sigatoka,Banana_Black_Sigatoka,SIMPLIFY,2
+Banana_Leaf_Bunchy_Top_Virus,Banana,Bunchy_Top_Virus,Banana_Bunchy_Top_Virus,SIMPLIFY,2
+Banana_Leaf_Streak_Virus,Banana,Leaf_Streak_Virus,Banana_Leaf_Streak_Virus,OK,1
+Banana_Leaf_Yellow_Sigatoka,Banana,Yellow_Sigatoka,Banana_Yellow_Sigatoka,SIMPLIFY,2
+Bean_Leaf_Bacterial_Blight,Bean,Leaf_Bacterial_Blight,Bean_Leaf_Bacterial_Blight,OK,1
+Bean_Leaf_Rust,Bean,Leaf_Rust,Bean_Leaf_Rust,OK,1
+Bell pepper_Fruit_Blossom_End_Rot,Pepper,Fruit_Blossom_End_Rot,Pepper_Fruit_Blossom_End_Rot,SIMPLIFY,2
+Bread mold (Rhizopus stolonifer (Ehrenb.) Vuill.),Grain,Bread_Mold,Bread_Mold,REMOVE_SCIENTIFIC,3
+Broad mite (Polyphagotarsonemus latus (Banks)),Plant,Broad_Mite,Broad_Mite,REMOVE_SCIENTIFIC,3
+Brown_Rot_Fruit,Fruit,Brown_Rot,Brown_Rot,GENERIC,2
+Cabbage_Leaf_Bacterial_Blight,Cabbage,Leaf_Bacterial_Blight,Cabbage_Leaf_Bacterial_Blight,OK,1
+Cabbage_Leaf_Bacterial_Soft_Rot,Cabbage,Leaf_Bacterial_Soft_Rot,Cabbage_Leaf_Bacterial_Soft_Rot,OK,1
+Carota_ Alternaria_Fruit_Spot,Carrot,Alternaria_Fruit_Spot,Carrot_Alternaria_Fruit_Spot,TYPO,3
+Carrot_Root_Fly,Carrot,Root_Fly,Carrot_Root_Fly,OK,1
+Cereals_Leaf_Bacterial_Spot,Cereals,Leaf_Bacterial_Spot,Cereals_Leaf_Bacterial_Spot,OK,1
+Cherry_Leaf_Spot,Cherry,Leaf_Spot,Cherry_Leaf_Spot,OK,1
+Choanephora fruit rot (Choanephora cucurbitarum,Cucurbit,Choanephora_Rot,Choanephora_Rot,REMOVE_SCIENTIFIC,3
+Citrillus_Fruit_Blossom_End_Rot,Watermelon,Fruit_Blossom_End_Rot,Watermelon_Fruit_Blossom_End_Rot,GENUS_TO_COMMON,2
+Citrullus_Bacterial_Fruit_Blotch,Watermelon,Bacterial_Fruit_Blotch,Watermelon_Bacterial_Fruit_Blotch,GENUS_TO_COMMON,2
+Citrullus_Bacterial_Leaf_Blotch,Watermelon,Bacterial_Leaf_Blotch,Watermelon_Bacterial_Leaf_Blotch,GENUS_TO_COMMON,2
+Citrus_Canker,Citrus,Canker,Citrus_Canker,OK,1
+Citrus_Leaf_Greening,Citrus,Greening,Citrus_Greening,SIMPLIFY,2
+Corn smut (Ustilago maydis),Corn,Smut,Corn_Smut,REMOVE_SCIENTIFIC,3
+Corynespora leaf spot (Corynespora cassiicola,Plant,Corynespora_Leaf_Spot,Corynespora_Leaf_Spot,REMOVE_SCIENTIFIC,3
+Cotton  bollworm (Helicoverpa armigera),Cotton,Bollworm,Cotton_Bollworm,REMOVE_SCIENTIFIC,3
+Cotton_Adult_Bollworm,Cotton,Adult_Bollworm,Cotton_Bollworm,SIMPLIFY,2
+Cotton_Larve_Bollworm,Cotton,Larve_Bollworm,Cotton_Bollworm,SIMPLIFY,2
+Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot),Crucifers,Black_Rot,Crucifers_Black_Rot,SIMPLIFY,3
+Cucurbit_Leaf_Downy_Mildew,Cucurbit,Leaf_Downy_Mildew,Cucurbit_Downy_Mildew,SIMPLIFY,2
+Curculionoidea (Weevil),Plant,Weevil,Weevil_Pest,REMOVE_SCIENTIFIC,3
+Damages_Fruit_Bollworm,Plant,Fruit_Bollworm_Damage,Bollworm_Fruit_Damage,UNCLEAR,3
+Flower blights (Genus Choanephora Curr.),Flower,Choanephora_Blight,Choanephora_Blight,REMOVE_SCIENTIFIC,3
+Fusarium_Cereal_Head_Blight,Cereals,Fusarium_Head_Blight,Cereals_Fusarium_Head_Blight,OK,1
+Geotrichum_Rot_Cucurbitaceae_Fruit,Cucurbit,Geotrichum_Rot,Cucurbit_Geotrichum_Rot,SIMPLIFY,2
+Grape_Leaf_Esca,Grape,Esca,Grape_Black_Measles,ALIAS,2
+Grape_Leaf_Leafroll_Virus,Grape,Leafroll_Virus,Grape_Leafroll_Virus,OK,1
+Hosta_Leaf_Virus_X,Hosta,Virus_X,Hosta_Virus_X,OK,1
+Late_Blight_Fruit,Plant,Late_Blight_Fruit,Late_Blight_Fruit,GENERIC,2
+Late_Blight_Leaf,Plant,Late_Blight_Leaf,Late_Blight_Leaf,GENERIC,2
+Leaf_Bacterial_Wilt,Plant,Bacterial_Wilt,Bacterial_Wilt,GENERIC,2
+Leaf_Curl_Virus,Plant,Leaf_Curl_Virus,Leaf_Curl_Virus,GENERIC,2
+Leaf_Spurge_Flea_Beetle,Plant,Spurge_Flea_Beetle,Flea_Beetle,SIMPLIFY,2
+Lettuce Chlorosis Virus (LCV) (Crinivirus Lettuce Chlorosis Virus),Lettuce,Chlorosis_Virus,Lettuce_Chlorosis_Virus,REMOVE_PARENTHESES,3
+Longhorn_Beetle,Plant,Longhorn_Beetle,Longhorn_Beetle,GENERIC,2
+Loose smut of wheat or barley (Ustilago tritici (Pers.) Rostr.),Wheat,Loose_Smut,Wheat_Loose_Smut,OK,1
+Maize_Tar_Spot,Maize,Tar_Spot,Maize_Tar_Spot,OK,1
+Mealybug,Plant,Mealybug,Mealybug,GENERIC,2
+Northern_Maize_Leaf_Blight,Maize,Northern_Leaf_Blight,Maize_Northern_Leaf_Blight,OK,1
+Penicillium fungi (Genus Penicillium Link),Plant,Penicillium_Rot,Penicillium_Rot,REMOVE_SCIENTIFIC,3
+Phytophthora_Blight_Cucurbitaceae,Cucurbit,Phytophthora_Blight,Cucurbit_Phytophthora_Blight,OK,1
+Potyvirus_Mosaic_Virus,Plant,Potyvirus_Mosaic,Potyvirus_Mosaic_Virus,OK,1
+Pythium diseases (Genus Pythium Pringsh.),Plant,Pythium_Disease,Pythium_Disease,REMOVE_SCIENTIFIC,3
+Red_Spider_Mite,Plant,Red_Spider_Mite,Red_Spider_Mite,GENERIC,2
+Rhizopus soft rots (Genus Rhizopus Ehrenb.),Plant,Rhizopus_Soft_Rot,Rhizopus_Soft_Rot,REMOVE_SCIENTIFIC,3
+Sclerotinia sclerotiorum_Fruit_Rot,Plant,Sclerotinia_Fruit_Rot,Sclerotinia_Fruit_Rot,OK,1
+Sclerotinia sclerotiorum_Leaf_Rot,Plant,Sclerotinia_Leaf_Rot,Sclerotinia_Leaf_Rot,OK,1
+Sclerotinia sclerotiorum_Stem_Rot,Plant,Sclerotinia_Stem_Rot,Sclerotinia_Stem_Rot,OK,1
+Sclerotinia timber rot (Sclerotinia sclerotiorum),Timber,Sclerotinia_Rot,Sclerotinia_Rot,REMOVE_SCIENTIFIC,3
+Solanaceae_Bacterial_Soft_Rot,Solanaceae,Bacterial_Soft_Rot,Solanaceae_Bacterial_Soft_Rot,OK,1
+Solanaceae_Bacterial_Spot,Solanaceae,Bacterial_Spot,Solanaceae_Bacterial_Spot,OK,1
+Southern red mite (Oligonychus ilicis),Plant,Red_Mite,Red_Mite,REMOVE_SCIENTIFIC,3
+Southern root-knot nematode,Plant,Root_Knot_Nematode,Root_Knot_Nematode,OK,1
+Soybean_Leaf_Halo_Blight,Soybean,Leaf_Halo_Blight,Soybean_Leaf_Halo_Blight,OK,1
+Soybean_Leaf_Mosaic_Virus,Soybean,Leaf_Mosaic_Virus,Soybean_Leaf_Mosaic_Virus,OK,1
+Soybean_Leaf_Rust,Soybean,Leaf_Rust,Soybean_Leaf_Rust,OK,1
+Soybean_Tospovirus_Leaf_Vein_Necrosis_Virus,Soybean,Tospovirus_Leaf_Vein_Necrosis,Soybean_Tospovirus_Leaf_Vein_Necrosis_Virus,OK,1
+Sphinx_Moth_Adult,Plant,Sphinx_Moth_Adult,Sphinx_Moth_Adult,GENERIC,2
+Sphinx_Moth_Larve_Damages,Plant,Sphinx_Moth_Larva_Damage,Sphinx_Moth_Larva_Damage,MISSPELLING,2
+Spider_Mite_Leaf_Damages,Plant,Spider_Mite_Damage,Spider_Mite_Damage,GENERIC,2
+Spotted_Wilt_Virus,Plant,Spotted_Wilt_Virus,Spotted_Wilt_Virus,GENERIC,2
+Stem_Borer_Leaf_Damages,Plant,Stem_Borer_Damage,Stem_Borer_Damage,GENERIC,2
+Sweet_Potato_Fruit_Feathery_Mottle_Virus,Sweet_Potato,Fruit_Feathery_Mottle_Virus,Sweet_Potato_Feathery_Mottle_Virus,SIMPLIFY,2
+Sweet_Potato_Leaf_Feathery_Mottle_Virus,Sweet_Potato,Leaf_Feathery_Mottle_Virus,Sweet_Potato_Feathery_Mottle_Virus,SIMPLIFY,2
+Target_Spot_Leaf,Plant,Target_Spot_Leaf,Target_Spot,GENERIC,2
+Thrips_Leaf_Damages,Plant,Thrips_Leaf_Damage,Thrips_Pest,GENERIC,2
+Tobacco_Leaf_Etch_Virus,Tobacco,Leaf_Etch_Virus,Tobacco_Leaf_Etch_Virus,OK,1
+Tobacco_Leaf_Ringspot_Virus,Tobacco,Leaf_Ringspot_Virus,Tobacco_Leaf_Ringspot_Virus,OK,1
+Tomato_Fruit_Bacterial_Canker,Tomato,Fruit_Bacterial_Canker,Tomato_Fruit_Bacterial_Canker,OK,1
+Tomato_Fruit_Blossom_End_Rot,Tomato,Fruit_Blossom_End_Rot,Tomato_Fruit_Blossom_End_Rot,OK,1
+Tomato_Leaf_Bacterial_Canker,Tomato,Leaf_Bacterial_Canker,Tomato_Leaf_Bacterial_Canker,OK,1
+Tomato_Leaf_Mosaic_Virus,Tomato,Leaf_Mosaic_Virus,Tomato_Leaf_Mosaic_Virus,OK,1
+Tomato_Leaf_Septoria,Tomato,Leaf_Septoria,Tomato_Septoria_Leaf_Spot,STANDARDIZE,2
+Twospotted spider mite (Tetranychus urticae Koch),Plant,Spider_Mite,Spider_Mite,REMOVE_SCIENTIFIC,3
+Wheat_Leaf_Streak_Mosaic_Virus,Wheat,Leaf_Streak_Mosaic_Virus,Wheat_Leaf_Streak_Mosaic_Virus,OK,1
+Whiteflies_Leaf,Plant,Whiteflies,Whiteflies,GENERIC,2
+fall armyworm (Spodoptera frugiperda) Dammage,Maize,Armyworm_Damage,Maize_Fall_Armyworm_Damage,MISSPELLING,3
+fall armyworm (Spodoptera frugiperda) Larve,Maize,Armyworm_Larva,Maize_Fall_Armyworm_Larva,MISSPELLING,3
+fall armyworm (Spodoptera frugiperda) Larve adults,Maize,Armyworm_Adult,Maize_Fall_Armyworm_Adult,MISSPELLING,3
+root rotdamping off (Genus Rhizoctonia DC.),Plant,Root_Rot_Damping_Off,Root_Rot_Damping_Off,REMOVE_SCIENTIFIC,3
+root-knot nematode (Genus Meloidogyne),Plant,Root_Knot_Nematode,Root_Knot_Nematode,REMOVE_SCIENTIFIC,3
+rhododendron stem borer (Oberea myops,Rhododendron,Stem_Borer,Rhododendron_Stem_Borer,REMOVE_SCIENTIFIC,3
+lesser cornstalk borer (Elasmopalpus lignosella),Corn,Cornstalk_Borer,Corn_Cornstalk_Borer,REMOVE_SCIENTIFIC,3
+kudzu bug (Megacopta cribraria (Fabricius)),Plant,Kudzu_Bug,Kudzu_Bug,REMOVE_SCIENTIFIC,3
+stem-boring weevil (Mecinus janthinus Germar),Plant,Weevil,Weevil,REMOVE_SCIENTIFIC,3
+blast blé,Wheat,Blast,Wheat_Blast,FRENCH_NAME,3
+healthy blé,Wheat,Healthy,Wheat_Healthy,FRENCH_NAME,3
+insect blé,Wheat,Insect_Damage,Wheat_Insect_Damage,FRENCH_NAME,3
+leaf_folder blé,Wheat,Leaf_Folder,Wheat_Leaf_Folder,FRENCH_NAME,3
+scald blé,Wheat,Scald,Wheat_Scald,FRENCH_NAME,3
+stripes blé,Wheat,Stripes,Wheat_Stripes,FRENCH_NAME,3
+tungro blé,Wheat,Tungro,Wheat_Tungro,FRENCH_NAME,3
+Cauliflower_Healthy,Cauliflower,Healthy,Cauliflower_Healthy,OK,1
+Pepper Bell Bacterial Spot,Pepper,Bacterial_Spot,Pepper_Bacterial_Spot,SPACE_TO_UNDERSCORE,2
+Pepper Bell Healthy,Pepper,Healthy,Pepper_Healthy,SPACE_TO_UNDERSCORE,2
+Potato Early Blight,Potato,Early_Blight,Potato_Early_Blight,SPACE_TO_UNDERSCORE,2
+Potato Late Blight,Potato,Late_Blight,Potato_Late_Blight,SPACE_TO_UNDERSCORE,2
+Tomato Bacterial Spot,Tomato,Bacterial_Spot,Tomato_Bacterial_Spot,SPACE_TO_UNDERSCORE,2
+Tomato Early Blight,Tomato,Early_Blight,Tomato_Early_Blight,SPACE_TO_UNDERSCORE,2
+Tomato Healthy,Tomato,Healthy,Tomato_Healthy,SPACE_TO_UNDERSCORE,2
+Tomato Septoria Leaf Spot,Tomato,Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,SPACE_TO_UNDERSCORE,2
+Tomato Target Spot,Tomato,Target_Spot,Tomato_Target_Spot,SPACE_TO_UNDERSCORE,2
+Tomato Two Spotted Spider Mite,Tomato,Two_Spotted_Spider_Mite,Tomato_Spider_Mite,SPACE_TO_UNDERSCORE,2
+Tomato Yellow Leaf Curl Virus,Tomato,Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,SPACE_TO_UNDERSCORE,2
+Aphids,Plant,Aphids,Aphids,GENERIC,2
+healthy,Unknown,Healthy,Unknown_Healthy,GENERIC,3
+Apple__Apple_scab (1),Apple,Scab,Apple_Scab,EXTRA_UNDERSCORES,2
+Apple__Black_rot (1),Apple,Black_Rot,Apple_Black_Rot,EXTRA_UNDERSCORES,2
+Apple__Cedar_apple_rust (2),Apple,Cedar_Apple_Rust,Apple_Cedar_Apple_Rust,EXTRA_UNDERSCORES,2
+Apple__healthy,Apple,Healthy,Apple_Healthy,EXTRA_UNDERSCORES,2
+Cashew_Anthracnose,Cashew,Anthracnose,Cashew_Anthracnose,OK,1
+Cashew_Gumosis,Cashew,Gumosis,Cashew_Gumosis,OK,1
+Cashew_Healthy,Cashew,Healthy,Cashew_Healthy,OK,1
+Cashew_Leaf_Miner,Cashew,Leaf_Miner,Cashew_Leaf_Miner,OK,1
+Cashew_Red_Rust,Cashew,Red_Rust,Cashew_Red_Rust,OK,1
+Cassava_Brown_Streak_Disease,Cassava,Brown_Streak_Disease,Cassava_Brown_Streak_Disease,OK,1
+Cassava_Green_Mite,Cassava,Green_Mite,Cassava_Green_Mite,OK,1
+Cassava_Green_Mottle,Cassava,Green_Mottle,Cassava_Green_Mottle,OK,1
+Cassava_Healthy,Cassava,Healthy,Cassava_Healthy,OK,1
+Cherry__healthy (1),Cherry,Healthy,Cherry_Healthy,EXTRA_UNDERSCORES,2
+Cherry__Powdery_mildew,Cherry,Powdery_Mildew,Cherry_Powdery_Mildew,EXTRA_UNDERSCORES,2
+Chili_Condition,Chili,Condition,Chili_Condition,OK,1
+Chili_Curl_Virus,Chili,Curl_Virus,Chili_Curl_Virus,OK,1
+Chili_Nutrition_Deficiency,Chili,Nutrition_Deficiency,Chili_Nutrition_Deficiency,OK,1
+Citrus_Greening (1),Citrus,Greening,Citrus_Greening,EXTRA_PARENTHESES,2
+Corn_Cercospora_Leaf_Spot,Corn,Cercospora_Leaf_Spot,Corn_Gray_Leaf_Spot,SIMPLIFY,2
+Corn_Grasshopper,Corn,Grasshopper,Corn_Grasshopper,OK,1
+Corn_Healthy (1),Corn,Healthy,Corn_Healthy,EXTRA_PARENTHESES,2
+Corn_Leaf_Beetle,Corn,Leaf_Beetle,Corn_Leaf_Beetle,OK,1
+Corn_Leaf_Blight (1),Corn,Leaf_Blight,Corn_Leaf_Blight,EXTRA_PARENTHESES,2
+Corn_Leaf_Spot,Corn,Leaf_Spot,Corn_Leaf_Spot,OK,1
+Corn_Streak_Virus,Corn,Streak_Virus,Corn_Streak_Virus,OK,1
+Corn__Cercospora_leaf_spot_Gray_leaf_spot,Corn,Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,SIMPLIFY,2
+Corn__Common_rust,Corn,Common_Rust,Corn_Common_Rust,EXTRA_UNDERSCORES,2
+Corn__healthy (2),Corn,Healthy,Corn_Healthy,EXTRA_UNDERSCORES,2
+Corn__Northern_Leaf_Blight,Corn,Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,EXTRA_UNDERSCORES,2
+Generic_Aphids,Plant,Aphids,Aphids,REORGANIZE,2
+Generic_Armyworm,Plant,Armyworm,Armyworm,REORGANIZE,2
+Generic_Beet_Armyworm,Plant,Beet_Armyworm,Beet_Armyworm,REORGANIZE,2
+Generic_Black_Cutworm,Plant,Black_Cutworm,Black_Cutworm,REORGANIZE,2
+Generic_Blister_Beetle,Plant,Blister_Beetle,Blister_Beetle,REORGANIZE,2
+Generic_Cabbage_Armyworm,Plant,Cabbage_Armyworm,Cabbage_Armyworm,REORGANIZE,2
+Generic_Flax_Budworm,Plant,Flax_Budworm,Flax_Budworm,REORGANIZE,2
+Generic_Flea_Beetle,Plant,Flea_Beetle,Flea_Beetle,REORGANIZE,2
+Generic_Legume_Blister_Beetle,Plant,Legume_Blister_Beetle,Legume_Blister_Beetle,REORGANIZE,2
+Generic_Tarnished_Plant_Bug,Plant,Tarnished_Plant_Bug,Tarnished_Plant_Bug,REORGANIZE,2
+Generic_Thrips,Plant,Thrips,Thrips,REORGANIZE,2
+Generic_Wireworm,Plant,Wireworm,Wireworm,REORGANIZE,2
+Grape__Black_rot,Grape,Black_Rot,Grape_Black_Rot,EXTRA_UNDERSCORES,2
+Grape__Esca_(Black_Measles),Grape,Black_Measles,Grape_Black_Measles,ALIAS_CLEANUP,2
+Grape__healthy (1),Grape,Healthy,Grape_Healthy,EXTRA_UNDERSCORES,2
+Grape__Leaf_blight_(Isariopsis_Leaf_Spot),Grape,Leaf_Blight,Grape_Leaf_Blight,SIMPLIFY,2
+Orange__Haunglongbing_(Citrus_greening),Citrus,Greening,Citrus_Greening,CROP_RENAME,2
+Apple__Rotten (1),Apple,Rotten,Apple_Rotten,EXTRA_UNDERSCORES,2
+Apple__scab,Apple,Scab,Apple_Scab,EXTRA_UNDERSCORES,2
+Banana__Healthy (1),Banana,Healthy,Banana_Healthy,EXTRA_UNDERSCORES,2
+Banana__Rotten,Banana,Rotten,Banana_Rotten,EXTRA_UNDERSCORES,2
+Bellpepper__Healthy (1),Pepper,Healthy,Pepper_Healthy,GENERIC_NAME,2
+Carrot__Healthy (1),Carrot,Healthy,Carrot_Healthy,EXTRA_UNDERSCORES,2
+Cassava__healthy,Cassava,Healthy,Cassava_Healthy,EXTRA_UNDERSCORES,2
+Corn___Healthy (1),Corn,Healthy,Corn_Healthy,TRIPLE_UNDERSCORE,2
+Corn__healthy (1),Corn,Healthy,Corn_Healthy,EXTRA_UNDERSCORES,2
+Cucumber__Rotten (1),Cucumber,Rotten,Cucumber_Rotten,EXTRA_UNDERSCORES,2
+Grape__black_rot (1),Grape,Black_Rot,Grape_Black_Rot,EXTRA_UNDERSCORES,2
+Jamun__diseased (1),Jamun,Diseased,Jamun_Diseased,EXTRA_UNDERSCORES,2
+Mango__Rotten,Mango,Rotten,Mango_Rotten,EXTRA_UNDERSCORES,2
+Mango__healthy,Mango,Healthy,Mango_Healthy,EXTRA_UNDERSCORES,2
+Peach__bacterial_spot,Peach,Bacterial_Spot,Peach_Bacterial_Spot,EXTRA_UNDERSCORES,2
+Pepper_bell__healthy,Pepper,Healthy,Pepper_Healthy,EXTRA_UNDERSCORES,2
+Potato__Healthy (1),Potato,Healthy,Potato_Healthy,EXTRA_UNDERSCORES,2
+Potato___Early_blight (1),Potato,Early_Blight,Potato_Early_Blight,TRIPLE_UNDERSCORE,2
+Rice__hispa (1),Rice,Hispa,Rice_Hispa,EXTRA_UNDERSCORES,2
+Soybean__diabrotica_speciosa,Soybean,Diabrotica_Speciosa,Soybean_Diabrotica_Speciosa,EXTRA_UNDERSCORES,2
+Tea__red_leaf_spot,Tea,Red_Leaf_Spot,Tea_Red_Leaf_Spot,EXTRA_UNDERSCORES,2
+Tomato__mosaic_virus (1),Tomato,Mosaic_Virus,Tomato_Mosaic_Virus,EXTRA_UNDERSCORES,2
+Wheat___Brown_Rust,Wheat,Brown_Rust,Wheat_Brown_Rust,TRIPLE_UNDERSCORE,2
+Wheat___Yellow_Rust,Wheat,Yellow_Rust,Wheat_Yellow_Rust,TRIPLE_UNDERSCORE,2
+Apple__Healthy,Apple,Healthy,Apple_Healthy,EXTRA_UNDERSCORES,2
+Apple__black_rot,Apple,Black_Rot,Apple_Black_Rot,EXTRA_UNDERSCORES,2
+Banana__Healthy,Banana,Healthy,Banana_Healthy,EXTRA_UNDERSCORES,2
+Bellpepper__Healthy,Pepper,Healthy,Pepper_Healthy,GENERIC_NAME,2
+Bellpepper__Rotten,Pepper,Rotten,Pepper_Rotten,GENERIC_NAME,2
+Carrot__Healthy,Carrot,Healthy,Carrot_Healthy,EXTRA_UNDERSCORES,2
+Carrot__Rotten,Carrot,Rotten,Carrot_Rotten,EXTRA_UNDERSCORES,2
+Cassava__mosaic_disease,Cassava,Mosaic_Disease,Cassava_Mosaic_Disease,EXTRA_UNDERSCORES,2
+Cherry__powdery_mildew,Cherry,Powdery_Mildew,Cherry_Powdery_Mildew,EXTRA_UNDERSCORES,2
+Coffee__healthy,Coffee,Healthy,Coffee_Healthy,EXTRA_UNDERSCORES,2
+Coffee__rust,Coffee,Rust,Coffee_Rust,EXTRA_UNDERSCORES,2
+Corn___Common_Rust,Corn,Common_Rust,Corn_Common_Rust,TRIPLE_UNDERSCORE,2
+Corn___Gray_Leaf_Spot,Corn,Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,TRIPLE_UNDERSCORE,2
+Corn___Healthy,Corn,Healthy,Corn_Healthy,TRIPLE_UNDERSCORE,2
+Corn___Northern_Leaf_Blight,Corn,Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,TRIPLE_UNDERSCORE,2
+Corn__common_rust,Corn,Common_Rust,Corn_Common_Rust,EXTRA_UNDERSCORES,2
+Corn__gray_leaf_spot,Corn,Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,EXTRA_UNDERSCORES,2
+Corn__healthy,Corn,Healthy,Corn_Healthy,EXTRA_UNDERSCORES,2
+Corn__northern_leaf_blight,Corn,Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,EXTRA_UNDERSCORES,2
+Cucumber__Rotten,Cucumber,Rotten,Cucumber_Rotten,EXTRA_UNDERSCORES,2
+Cucumber__healthy,Cucumber,Healthy,Cucumber_Healthy,EXTRA_UNDERSCORES,2
+Grape__black_measles,Grape,Black_Measles,Grape_Black_Measles,EXTRA_UNDERSCORES,2
+Grape__black_rot,Grape,Black_Rot,Grape_Black_Rot,EXTRA_UNDERSCORES,2
+Grape__healthy,Grape,Healthy,Grape_Healthy,EXTRA_UNDERSCORES,2
+Lemon__healthy,Lemon,Healthy,Lemon_Healthy,EXTRA_UNDERSCORES,2
+Orange__Rotten,Orange,Rotten,Orange_Rotten,EXTRA_UNDERSCORES,2
+Pepper__bell___Bacterial_spot,Pepper,Bacterial_Spot,Pepper_Bacterial_Spot,TRIPLE_UNDERSCORE,2
+Pepper__bell___healthy,Pepper,Healthy,Pepper_Healthy,TRIPLE_UNDERSCORE,2
+Pomegranate__Healthy,Pomegranate,Healthy,Pomegranate_Healthy,EXTRA_UNDERSCORES,2
+Potato__Healthy,Potato,Healthy,Potato_Healthy,EXTRA_UNDERSCORES,2
+Potato__Rotten,Potato,Rotten,Potato_Rotten,EXTRA_UNDERSCORES,2
+Potato___Early_blight,Potato,Early_Blight,Potato_Early_Blight,TRIPLE_UNDERSCORE,2
+Potato___Late_Blight,Potato,Late_Blight,Potato_Late_Blight,TRIPLE_UNDERSCORE,2
+Rice___Brown_Spot,Rice,Brown_Spot,Rice_Brown_Spot,TRIPLE_UNDERSCORE,2
+Rice___Healthy,Rice,Healthy,Rice_Healthy,TRIPLE_UNDERSCORE,2
+Rice___Leaf_Blast,Rice,Leaf_Blast,Rice_Leaf_Blast,TRIPLE_UNDERSCORE,2
+Rice___Neck_Blast,Rice,Neck_Blast,Rice_Neck_Blast,TRIPLE_UNDERSCORE,2
+Rice__healthy,Rice,Healthy,Rice_Healthy,EXTRA_UNDERSCORES,2
+Rice__hispa,Rice,Hispa,Rice_Hispa,EXTRA_UNDERSCORES,2
+Soybean__mosaic_virus,Soybean,Mosaic_Virus,Soybean_Mosaic_Virus,EXTRA_UNDERSCORES,2
+Soybean__powdery_mildew,Soybean,Powdery_Mildew,Soybean_Powdery_Mildew,EXTRA_UNDERSCORES,2
+Strawberry__Rotten,Strawberry,Rotten,Strawberry_Rotten,EXTRA_UNDERSCORES,2
+Strawberry___leaf_scorch,Strawberry,Leaf_Scorch,Strawberry_Leaf_Scorch,TRIPLE_UNDERSCORE,2
+Strawberry__healthy (2),Strawberry,Healthy,Strawberry_Healthy,EXTRA_UNDERSCORES,2
+Tea__brown_blight,Tea,Brown_Blight,Tea_Brown_Blight,EXTRA_UNDERSCORES,2
+Tomato_Early_blight,Tomato,Early_Blight,Tomato_Early_Blight,CASING,2
+Tomato_Late_blight,Tomato,Late_Blight,Tomato_Late_Blight,CASING,2
+Tomato_Spider_mites_Two_spotted_spider_mite,Tomato,Spider_Mite,Tomato_Spider_Mite,SIMPLIFY,2
+Tomato__Rotten,Tomato,Rotten,Tomato_Rotten,EXTRA_UNDERSCORES,2
+Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato,Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,DUPLICATE_CROP,2
+Tomato__bacterial_spot,Tomato,Bacterial_Spot,Tomato_Bacterial_Spot,EXTRA_UNDERSCORES,2
+Tomato__healthy,Tomato,Healthy,Tomato_Healthy,EXTRA_UNDERSCORES,2
+Tomato__mosaic_virus,Tomato,Mosaic_Virus,Tomato_Mosaic_Virus,EXTRA_UNDERSCORES,2
+Tomato__septoria_leaf_spot,Tomato,Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,EXTRA_UNDERSCORES,2
+Tomato__target_spot,Tomato,Target_Spot,Tomato_Target_Spot,EXTRA_UNDERSCORES,2
+Tomato_healthy,Tomato,Healthy,Tomato_Healthy,OK,1
+Wheat__brown_rust,Wheat,Brown_Rust,Wheat_Brown_Rust,EXTRA_UNDERSCORES,2

@@ -1,0 +1,84 @@
+current_name,proposed_standard_name,source_reference
+Apple_Scab,Apple_Scab,Common agronomic name for Venturia inaequalis
+Banana_Bract_Mosaic_Virus,Banana_Bract_Mosaic_Virus,Standard name for Banana bract mosaic virus
+Banana_Cordana,Banana_Cordana_Leaf_Spot,EPPO: Cordana musae
+Banana_Healthy,Banana_Healthy,Standard healthy class
+Banana_Insect_Pest,Banana_Insect_Pest,General pest category
+Banana_Moko,Banana_Moko_Disease,EPPO: Ralstonia solanacearum
+Banana_Panama,Banana_Panama_Disease,EPPO: Fusarium oxysporum f.sp. cubense
+Banana_Pestalotiopsis,Banana_Pestalotiopsis_Leaf_Spot,EPPO: Pestalotiopsis spp.
+Banana_Sigatoka,Banana_Black_Sigatoka,EPPO: Pseudocercospora fijiensis
+Banana_Yellow_Sigatoka,Banana_Yellow_Sigatoka,EPPO: Pseudocercospora musae
+Bell_Pepper_Bacterial_Spot,Bell_Pepper_Bacterial_Spot,EPPO: Xanthomonas campestris pv. vesicatoria
+Bell_Pepper_Healthy,Bell_Pepper_Healthy,Standard healthy class
+Blackgram_Anthracnose,Blackgram_Anthracnose,EPPO: Colletotrichum lindemuthianum
+Blackgram_Healthy,Blackgram_Healthy,Standard healthy class
+Blackgram_Leaf_Crinkle,Blackgram_Leaf_Crinkle_Virus,Standard name
+Blackgram_Powdery_Mildew,Blackgram_Powdery_Mildew,EPPO: Erysiphe polygoni
+Blackgram_Yellow_Mosaic,Blackgram_Yellow_Mosaic_Virus,Standard name
+Blueberry_Healthy,Blueberry_Healthy,Standard healthy class
+Cauliflower_Bacterial_Spot_Rot,Cauliflower_Bacterial_Soft_Rot,EPPO: Pectobacterium carotovorum
+Cauliflower_Downy_Mildew,Cauliflower_Downy_Mildew,EPPO: Peronospora parasitica
+Cauliflower_Healthy,Cauliflower_Healthy,Standard healthy class
+Chilli_Anthracnose,Chilli_Anthracnose,EPPO: Colletotrichum capsici
+Chilli_Healthy,Chilli_Healthy,Standard healthy class
+Citrus_-_citrus_canker_,Citrus_Canker,EPPO: Xanthomonas citri
+Citrus_Canker,Citrus_Canker,EPPO: Xanthomonas citri
+Coffee_Leaf_Rust,Coffee_Leaf_Rust,EPPO: Hemileia vastatrix
+Corn_Leaf_Blight,Corn_Northern_Leaf_Blight,EPPO: Exserohilum turcicum
+Corn_Rust,Corn_Rust,EPPO: Puccinia sorghi
+Corn_Smut,Corn_Smut,EPPO: Ustilago maydis
+Cucumber_Angular_Leaf_Spot,Cucumber_Angular_Leaf_Spot,EPPO: Pseudomonas syringae pv. lachrymans
+Cucumber_Powdery_Mildew,Cucumber_Powdery_Mildew,EPPO: Podosphaera xanthii
+Grape_-_grape_downy_mildew_,Grape_Downy_Mildew,EPPO: Plasmopara viticola
+Grape_Downy_Mildew,Grape_Downy_Mildew,EPPO: Plasmopara viticola
+Groundnut_Early_Leaf_Spot,Groundnut_Early_Leaf_Spot,EPPO: Cercospora arachidicola
+Groundnut_Early_Rust,Groundnut_Early_Rust,EPPO: Puccinia arachidis
+Groundnut_Healthy,Groundnut_Healthy,Standard healthy class
+Groundnut_Late_Leaf_Spot,Groundnut_Late_Leaf_Spot,EPPO: Cercosporidium personatum
+Groundnut_Nutrition_Deficiency,Groundnut_Nutrition_Deficiency,Standard name
+Groundnut_Rust,Groundnut_Rust,EPPO: Puccinia arachidis
+Maple_Tar_Spot,Maple_Tar_Spot,EPPO: Rhytisma acerinum
+Paddy_Bacterial_Leaf_Blight,Paddy_Bacterial_Blight,EPPO: Xanthomonas oryzae pv. oryzae
+Paddy_Bacterial_Leaf_Streak,Paddy_Bacterial_Leaf_Streak,EPPO: Xanthomonas oryzae pv. oryzicola
+Paddy_Bacterial_Panicle_Blight,Paddy_Bacterial_Panicle_Blight,EPPO: Burkholderia glumae
+Paddy_Blast,Paddy_Blast,EPPO: Magnaporthe oryzae
+Paddy_Brown_Spot,Paddy_Brown_Spot,EPPO: Bipolaris oryzae
+Paddy_Dead_Heart,Paddy_Dead_Heart,EPPO: Scirpophaga incertulas (pest)
+Paddy_Downy_Mildew,Paddy_Downy_Mildew,EPPO: Sclerophthora macrospora
+Paddy_Healthy,Paddy_Healthy,Standard healthy class
+Paddy_Hispa,Paddy_Hispa,EPPO: Dicladispa armigera
+Paddy_Tungro,Paddy_Tungro,EPPO: Rice tungro bacilliform virus
+Peach_Brown_Rot,Peach_Brown_Rot,EPPO: Monilinia fructicola
+Peach_Healthy,Peach_Healthy,Standard healthy class
+Peach_Leaf_Curl,Peach_Leaf_Curl,EPPO: Taphrina deformans
+Potato_Early_Blight,Potato_Early_Blight,EPPO: Alternaria solani
+Potato_Healthy,Potato_Healthy,Standard healthy class
+Potato_Late_Blight,Potato_Late_Blight,EPPO: Phytophthora infestans
+Radish_Black_Leaf_Spot,Radish_Black_Rot,EPPO: Xanthomonas campestris pv. campestris
+Radish_Downy_Mildew,Radish_Downy_Mildew,EPPO: Peronospora parasitica
+Radish_Flea_Beetle,Radish_Flea_Beetle,EPPO: Phyllotreta spp.
+Radish_Healthy,Radish_Healthy,Standard healthy class
+Radish_Mosaic,Radish_Mosaic_Virus,Standard name
+Raspberry_Healthy,Raspberry_Healthy,Standard healthy class
+Soybean_Frog_Eye_Leaf_Spot,Soybean_Frog_Eye_Leaf_Spot,EPPO: Cercospora sojina
+Squash_Powdery_Mildew,Squash_Powdery_Mildew,EPPO: Podosphaera xanthii
+Tomato_-_tomato_leaf_mold_,Tomato_Leaf_Mold,EPPO: Cladosporium fulvum
+Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,EPPO: Xanthomonas campestris pv. vesicatoria
+Tomato_Early_Blight,Tomato_Early_Blight,EPPO: Alternaria solani
+Tomato_Healthy,Tomato_Healthy,Standard healthy class
+Tomato_Late_Blight,Tomato_Late_Blight,EPPO: Phytophthora infestans
+Tomato_Leaf_Mold,Tomato_Leaf_Mold,EPPO: Cladosporium fulvum
+Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,EPPO: Tomato mosaic virus
+Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,EPPO: Septoria lycopersici
+Tomato_Spider_Mites,Tomato_Spider_Mites,EPPO: Tetranychus spp.
+Tomato_Target_Spot,Tomato_Target_Spot,EPPO: Corynespora cassiicola
+Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,EPPO: Tomato yellow leaf curl virus
+Wheat_-_wheat_head_scab_Bing_,Wheat_Head_Scab,EPPO: Fusarium graminearum
+Wheat_-_wheat_powdery_mildew_Bing_,Wheat_Powdery_Mildew,EPPO: Blumeria graminis
+Wheat_-_wheat_stripe_rust_Bing_,Wheat_Stripe_Rust,EPPO: Puccinia striiformis
+Wheat_Head_Scab,Wheat_Head_Scab,EPPO: Fusarium graminearum
+Wheat_Loose_Smut,Wheat_Loose_Smut,EPPO: Ustilago tritici
+Wheat_Powdery_Mildew,Wheat_Powdery_Mildew,EPPO: Blumeria graminis
+Wheat_Stripe_Rust,Wheat_Stripe_Rust,EPPO: Puccinia striiformis
+Zucchini_Powdery_Mildew,Zucchini_Powdery_Mildew,EPPO: Podosphaera xanthii

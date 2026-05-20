@@ -1,0 +1,483 @@
+original_name,new_name,action
+Acrididae,Pest_Grasshopper,RENAME
+Africanized Honey Bees (Killer Bees),Pest_Honey_Bee,RENAME
+Alfalfa_Leaf_Mosaic_Virus,Alfalfa_Leaf_Mosaic_Virus,KEEP
+Alluim_Leaf_Bacterial_Soft_Rot,Allium_Leaf_Bacterial_Soft_Rot,RENAME
+Alternaria black molds  stem cankers (Genus Alternaria Nees),,DELETE
+Alternaria_Leaf_Spot,,DELETE
+Angular_Leaf_Spot_Cucumber,Cucumber_Angular_Leaf_Spot,RENAME
+Anthracnose (Colletotrichum orbiculare (Berk. & Mo,Cucurbit_Anthracnose,RENAME
+Aphididae,Pest_Aphid,RENAME
+Aphids,Pest_Aphid,RENAME
+Aphids (1),Pest_Aphid,RENAME
+Apple Brown_spot,Apple_Brown_Spot,RENAME
+Apple_Black_Rot,Apple_Black_Rot,KEEP
+Apple_Healthy,Apple_Healthy,KEEP
+Apple_Rotten,Apple_Rotten,KEEP
+Apple_Rust,Apple_Cedar_Apple_Rust,RENAME
+Apple_Scab,Apple_Scab,KEEP
+Apricot Normal,Apricot_Healthy,RENAME
+Apricot shot_hole,Apricot_Shot_Hole_Disease,RENAME
+Armyworm,Pest_Armyworm,RENAME
+Armyworms,Pest_Armyworm,RENAME
+Aspergillus ear and kernel rot (Aspergillus flavus Maize),Corn_Aspergillus_Ear_Rot,RENAME
+Banana_Anthracnose,Banana_Anthracnose,KEEP
+Banana_Cordana,Banana_Cordana_Leaf_Spot,RENAME
+Banana_Cordana_Leaf_Spot,Banana_Cordana_Leaf_Spot,KEEP
+Banana_Healthy,Banana_Healthy,KEEP
+Banana_Leaf_Bunchy_Top_Virus,Banana_Bunchy_Top_Virus,RENAME
+Banana_Leaf_Streak_Virus,Banana_Leaf_Streak_Virus,KEEP
+Banana_Moko_Disease,Banana_Moko_Disease,KEEP
+Banana_Panama_Disease,Banana_Fusarium_Wilt,RENAME
+Banana_Pestalotiopsis_Leaf_Spot,Banana_Pestalotiopsis_Leaf_Spot,KEEP
+Banana_Rotten,Banana_Rotten,KEEP
+Banana_Sigatoka,Banana_Sigatoka_Leaf_Spot,RENAME
+Bean Fungal_leaf disease,Bean_Fungal_Leaf_Disease,RENAME
+Bean_Fungal_Disease,Bean_Fungal_Leaf_Disease,RENAME
+Bean_Halo_Blight,Bean_Halo_Blight,KEEP
+Bean_Healthy,Bean_Healthy,KEEP
+Bean_Leaf_Bacterial_Blight,Bean_Leaf_Bacterial_Blight,KEEP
+Bean_Leaf_Spot,Bean_Leaf_Spot,KEEP
+Bean_Mosaic,Bean_Mosaic_Virus,RENAME
+Bean_Rust,Bean_Leaf_Rust,RENAME
+Bean_Tobacco_Caterpillar,Pest_Caterpillar,RENAME
+Beet_Armyworm,Pest_Beet_Armyworm,RENAME
+Bell pepper_Fruit_Blossom_End_Rot,Pepper_Bell_Fruit_Blossom_End_Rot,RENAME
+Bellpepper_Healthy,Pepper_Bell_Healthy,RENAME
+Bellpepper_Rotten,Pepper_Bell_Rotten,RENAME
+Black Gram (Vigna mungo)_cercospora leaf spot,Black_Gram_Cercospora_Leaf_Spot,RENAME
+Black Gram (Vigna mungo)_healthy,Black_Gram_Healthy,RENAME
+Black Gram (Vigna mungo)_insect,,DELETE
+Black Gram (Vigna mungo)_leaf Crinkle,Black_Gram_Leaf_Crinkle_Virus,RENAME
+Black Rot,,DELETE
+Black_Cutworm,Pest_Black_Cutworm,RENAME
+Blackgram_Leaf_Crinkle_Virus,Black_Gram_Leaf_Crinkle_Virus,RENAME
+Blackgram_Yellow_Mosaic_Virus,Black_Gram_Yellow_Mosaic_Virus,RENAME
+Blister_Beetle,Pest_Blister_Beetle,RENAME
+Blueberry_Healthy,Blueberry_Healthy,KEEP
+Brassica_Black_leaf_spot,Brassica_Black_Leaf_Spot,RENAME
+Bread mold (Rhizopus stolonifer (Ehrenb.) Vuill.),,DELETE
+Broad mite (Polyphagotarsonemus latus (Banks)),Pest_Broad_Mite,RENAME
+Brown Marmorated Stink Bugs,Pest_Stink_Bug,RENAME
+Brown_Rot_Fruit,,DELETE
+Cabbage Loopers,Pest_Cabbage_Looper,RENAME
+Cabbage_Armyworm,Pest_Cabbage_Armyworm,RENAME
+Cabbage_Leaf_Bacterial_Blight,Cabbage_Leaf_Bacterial_Blight,KEEP
+Cabbage_Leaf_Bacterial_Soft_Rot,Cabbage_Leaf_Bacterial_Soft_Rot,KEEP
+Carota_ Alternaria_Fruit_Spot,Carrot_Alternaria_Fruit_Spot,RENAME
+Carrot_Root_Fly,Pest_Carrot_Root_Fly,RENAME
+Carrot__Healthy,Carrot_Healthy,KEEP
+Carrot__Rotten,Carrot_Rotten,KEEP
+Cashew_Anthracnose,Cashew_Anthracnose,KEEP
+Cashew_Gumosis,Cashew_Gumosis,KEEP
+Cashew_Healthy,Cashew_Healthy,KEEP
+Cashew_Leaf_Miner,Pest_Leaf_Miner,RENAME
+Cashew_Red_Rust,Cashew_Red_Rust,KEEP
+Cassava Bacterial Blight,Cassava_Bacterial_Blight,KEEP
+Cassava Brown Spot,Cassava_Brown_Spot,KEEP
+Cassava_Brown_Streak_Disease,Cassava_Brown_Streak_Disease,KEEP
+Cassava_Green_Mite,Pest_Cassava_Green_Mite,RENAME
+Cassava_Green_Mottle,Cassava_Green_Mottle_Virus,RENAME
+Cassava_Healthy,Cassava_Healthy,KEEP
+Cassava_Mosaic_Disease,Cassava_Mosaic_Disease,KEEP
+Cauliflower_Alternaria_leaf_spot,Cauliflower_Alternaria_Leaf_Spot,RENAME
+Cauliflower_Bacterial_Soft_Rot,Cauliflower_Bacterial_Soft_Rot,KEEP
+Cauliflower_Black_Rot,Cauliflower_Black_Rot,KEEP
+Cauliflower_Healthy,Cauliflower_Healthy,KEEP
+Cauliflower_Insect_Damage,,DELETE
+Cerambycidae_Adult,Pest_Longhorn_Beetle,RENAME
+Cerambycidae_Larva,Pest_Longhorn_Beetle_Larva,RENAME
+Cereals_Leaf_Bacterial_Spot,,DELETE
+Cherry Leaf Scorch,Cherry_Leaf_Scorch,KEEP
+Cherry_Healthy,Cherry_Healthy,KEEP
+Cherry_Leaf_Spot,Cherry_Leaf_Spot,KEEP
+Cherry_Powdery_Mildew,Cherry_Powdery_Mildew,KEEP
+Cherry_shot hole disease,Cherry_Shot_Hole_Disease,RENAME
+Chili_Cercospora_leaf_spot,Chili_Cercospora_Leaf_Spot,RENAME
+Chili_Condition,,DELETE
+Chili_Curl_Virus,Chili_Leaf_Curl_Virus,RENAME
+Chili_Nutrition_Deficiency,Chili_Nutrient_Deficiency,RENAME
+Chili_White_spot,Chili_White_Spot,RENAME
+Choanephora fruit rot (Choanephora cucurbitarum,Cucurbit_Choanephora_Fruit_Rot,RENAME
+Chrysomelidae_Adult,Pest_Leaf_Beetle,RENAME
+Chrysomelidae_Larva,Pest_Leaf_Beetle_Larva,RENAME
+Cicadellidae,Pest_Leafhopper,RENAME
+Citrillus_Fruit_Blossom_End_Rot,Watermelon_Fruit_Blossom_End_Rot,RENAME
+Citrullus_Bacterial_Fruit_Blotch,Watermelon_Bacterial_Fruit_Blotch,RENAME
+Citrullus_Bacterial_Leaf_Blotch,Watermelon_Bacterial_Leaf_Blotch,RENAME
+Citrus Canker,Citrus_Canker,KEEP
+Citrus_Black_Spot,Citrus_Black_Spot,KEEP
+Citrus_Black_spot,Citrus_Black_Spot,RENAME
+Citrus_Canker,Citrus_Canker,KEEP
+Citrus_Fruit_Disease,Citrus_Fruit_Disease,KEEP
+Citrus_Greening,Citrus_Greening,KEEP
+Citrus_Healthy,Citrus_Healthy,KEEP
+Citrus_Leaf_Greening,Citrus_Greening,RENAME
+Coccinellidae_Adult,Pest_Lady_Beetle,RENAME
+Coccinellidae_Larva,Pest_Lady_Beetle_Larva,RENAME
+Coffee__healthy,Coffee_Healthy,RENAME
+Coffee__rust,Coffee_Leaf_Rust,RENAME
+Colorado Potato Beetles,Pest_Colorado_Potato_Beetle,RENAME
+Corn Borers,Pest_Corn_Borer,RENAME
+Corn Earworms,Pest_Corn_Earworm,RENAME
+Corn Normal leaf,Corn_Healthy,RENAME
+Corn holcus_ leaf spot,Corn_Holecus_Spot,RENAME
+Corn smut (Ustilago maydis),Corn_Smut,RENAME
+Corn_Cercospora_Leaf_Spot,Corn_Gray_Leaf_Spot,RENAME
+Corn_Common_Rust,Corn_Common_Rust,KEEP
+Corn_Grasshopper,Pest_Grasshopper,RENAME
+Corn_Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,KEEP
+Corn_Healthy,Corn_Healthy,KEEP
+Corn_Leaf_Beetle,Pest_Corn_Leaf_Beetle,RENAME
+Corn_Leaf_Blight,Corn_Leaf_Blight,KEEP
+Corn_Leaf_Spot,Corn_Leaf_Spot,KEEP
+Corn_Northern_Leaf_Blight,Corn_Northern_Leaf_Blight,KEEP
+Corn_Rust,Corn_Common_Rust,RENAME
+Corn_Streak_Virus,Corn_Streak_Virus,KEEP
+Corn_cercospora_gray_leaf_spot,Corn_Gray_Leaf_Spot,RENAME
+Corn_cercospora_gray_leaf_spot (1),Corn_Gray_Leaf_Spot,RENAME
+Corynespora leaf spot (Corynespora cassiicola,,DELETE
+Cotton  bollworm (Helicoverpa armigera),Pest_Cotton_Bollworm,RENAME
+Cotton_Adult_Bollworm,Pest_Cotton_Bollworm,RENAME
+Cotton_Bacterial_Blight,Cotton_Bacterial_Blight,KEEP
+Cotton_Fusarium_wilt,Cotton_Fusarium_Wilt,RENAME
+Cotton_Healthy,Cotton_Healthy,KEEP
+Cotton_Larve_Bollworm,Pest_Cotton_Bollworm,RENAME
+Cotton_Virus,Cotton_Leaf_Curl_Virus,RENAME
+Cotton_fussarium_wilt,Cotton_Fusarium_Wilt,RENAME
+Cotton_fussarium_wilt (1),Cotton_Fusarium_Wilt,RENAME
+Crambidae_Adult,Pest_Crambid_Moth,RENAME
+Crambidae_Larva,Pest_Crambid_Larva,RENAME
+Crucifers_Xanthomonas_campestris_pv_campestris_Black_rot),Cabbage_Black_Rot,RENAME
+Cucumber__Rotten,Cucumber_Rotten,KEEP
+Cucumber__healthy,Cucumber_Healthy,RENAME
+Cucurbit_Leaf_Downy_Mildew,Cucurbit_Downy_Mildew,RENAME
+Curculionoidea (Weevil),Pest_Weevil,RENAME
+Curcuma longa_Dry Leaf,Turmeric_Dry_Leaf,RENAME
+Curcuma longa_Healthy Leaf,Turmeric_Healthy_Leaf,RENAME
+Curcuma longa_Leaf Blotch,Turmeric_Leaf_Blotch,RENAME
+Curcuma longa_Rhizome Disease Root,Turmeric_Rhizome_Rot,RENAME
+Curcuma longa_Rhizome Healthy Root,Turmeric_Healthy_Rhizome,RENAME
+Damages_Fruit_Bollworm,Pest_Bollworm,RENAME
+Delphacidae,Pest_Planthopper,RENAME
+Elateridae_Adult,Pest_Click_Beetle,RENAME
+Elateridae_Larva,Pest_Wireworm,RENAME
+Fall Armyworms,Pest_Fall_Armyworm,RENAME
+Fall_Armyworm,Pest_Fall_Armyworm,RENAME
+Fig Blight_leaf disease,Fig_Leaf_Blight,RENAME
+Fig Brown spot,Fig_Brown_Spot,RENAME
+Fig normal leaf,Fig_Healthy_Leaf,RENAME
+Fig_rust leaf,Fig_Leaf_Rust,RENAME
+Flatidae,Pest_Planthopper,RENAME
+Flax_Budworm,Pest_Flax_Budworm,RENAME
+Flea_Beetle,Pest_Flea_Beetle,RENAME
+Flower blights (Genus Choanephora Curr.),,DELETE
+Fruit Flies,Pest_Fruit_Fly,RENAME
+Fulgoridae,Pest_Planthopper,RENAME
+Fusarium_Cereal_Head_Blight,Wheat_Fusarium_Head_Blight,RENAME
+Generic_Aphids,Pest_Aphid,RENAME
+Generic_Thrips,Pest_Thrips,RENAME
+Geotrichum_Rot_Cucurbitaceae_Fruit,Cucurbit_Geotrichum_Sour_Rot,RENAME
+Grape Anthracnose leaf,Grape_Anthracnose,RENAME
+Grape Brown spot leaf,Grape_Brown_Spot,RENAME
+Grape Downy mildew leaf,Grape_Downy_Mildew,RENAME
+Grape Mites_leaf disease,Grape_Spider_Mite,RENAME
+Grape Normal_leaf,Grape_Healthy_Leaf,RENAME
+Grape Powdery_mildew leaf,Grape_Powdery_Mildew,RENAME
+Grape shot hole leaf disease,Grape_Shot_Hole_Disease,RENAME
+Grape_Black_Measles,Grape_Black_Measles,KEEP
+Grape_Black_Rot,Grape_Black_Rot,KEEP
+Grape_Esca,Grape_Esca,KEEP
+Grape_Healthy,Grape_Healthy,KEEP
+Grape_Isariopsis_Leaf_Spot,Grape_Isariopsis_Leaf_Spot,KEEP
+Grape_Isariopsis_Leaf_Spot (1),Grape_Isariopsis_Leaf_Spot,KEEP
+Grape_Leaf_Esca,Grape_Esca,RENAME
+Grape_Leaf_Leafroll_Virus,Grape_Leafroll_Virus,RENAME
+Grape_Leaf_Spot,Grape_Leaf_Spot,KEEP
+Gryllotalpidaeç,Pest_Mole_Cricket,RENAME
+Guava_Healthy_Fruit,Guava_Healthy_Fruit,KEEP
+Guava_Healthy_Leaf,Guava_Healthy_Leaf,KEEP
+Hibiscus_Citrus_Pot,,DELETE
+Hibiscus_Early_Mild_Spotting,Hibiscus_Leaf_Spot,RENAME
+Hibiscus_Fungal_Infection,Hibiscus_Fungal_Leaf_Spot,RENAME
+Hibiscus_Healthy,Hibiscus_Healthy,KEEP
+Hibiscus_Mild_Edge_Damage,,DELETE
+Hibiscus_Senescent,,DELETE
+Hibiscus_Slightly_Diseased,,DELETE
+Hibiscus_Wrinkled_Leaf,Hibiscus_Leaf_Wrinkling,RENAME
+Hosta_Leaf_Virus_X,Hosta_Virus_X,RENAME
+Jackfruit Leaf_Blight,Jackfruit_Leaf_Blight,KEEP
+Jackfruit Leaf_Dried,Jackfruit_Dried_Leaf,RENAME
+Jackfruit Leaf_Fungal_Spot,Jackfruit_Fungal_Leaf_Spot,RENAME
+Jackfruit Leaf_Healthy,Jackfruit_Healthy_Leaf,RENAME
+Jackfruit Leaf_Leaf_Miner,Pest_Leaf_Miner,RENAME
+Jackfruit Leaf_Pest_Damage,,DELETE
+Jackfruit Leaf_Senescence,,DELETE
+Jackfruit Leaf_Young,,DELETE
+Jamun__diseased,Jamun_Disease,RENAME
+Late_Blight_Fruit,,DELETE
+Late_Blight_Leaf,,DELETE
+Leaf_Bacterial_Wilt,,DELETE
+Leaf_Curl_Virus,,DELETE
+Leaf_Spurge_Flea_Beetle,Pest_Flea_Beetle,RENAME
+Legume_Blister_Beetle,Pest_Blister_Beetle,RENAME
+Lemon__healthy,Lemon_Healthy,RENAME
+Lettuce Chlorosis Virus (LCV) (Crinivirus Lettuce Chlorosis Virus),Lettuce_Chlorosis_Virus,RENAME
+Limacodidae_Adult,Pest_Slug_Caterpillar,RENAME
+Limacodidae_Larva,Pest_Slug_Caterpillar_Larva,RENAME
+Lokat Normal leaf,Wood_Apple_Healthy_Leaf,RENAME
+Longhorn_Beetle,Pest_Longhorn_Beetle,RENAME
+Loose smut of wheat or barley (Ustilago tritici (Pers.) Rostr.),Wheat_Loose_Smut,RENAME
+Lychee_Anthrax_Leaf,Lychee_Anthracnose,RENAME
+Lychee_Bituminous_Leaf,Lychee_Bituminous_Leaf_Spot,RENAME
+Lychee_Curl_Leaf,Lychee_Leaf_Curl,RENAME
+Lychee_Deficiency_Leaf,Lychee_Nutrient_Deficiency,RENAME
+Lychee_Dry_Leaf,Lychee_Dry_Leaf,KEEP
+Lychee_Felt_Leaf,Lychee_Eriophyid_Mite,RENAME
+Lychee_Healthy,Lychee_Healthy,KEEP
+Lychee_Leaf_Blight,Lychee_Leaf_Blight,KEEP
+Lychee_Leaf_Gall,Lychee_Leaf_Gall,KEEP
+Maize Grasshopper,Pest_Grasshopper,RENAME
+Maize leaf beetle,Pest_Maize_Leaf_Beetle,RENAME
+Maize_Tar_Spot,Corn_Tar_Spot,RENAME
+Maize_leaf blight,Corn_Leaf_Blight,RENAME
+Maize_leaf spot,Corn_Leaf_Spot,RENAME
+Maize_streak virus,Corn_Streak_Virus,RENAME
+Mango_Diseased_Fruit,Mango_Diseased_Fruit,KEEP
+Mango_Healthy,Mango_Healthy,KEEP
+Mango_Healthy_Fruit,Mango_Healthy_Fruit,KEEP
+Mango_Healthy_Leaf,Mango_Healthy_Leaf,KEEP
+Mango_Rotten,Mango_Rotten,KEEP
+Mealybug,Pest_Mealybug,RENAME
+Miridae,Pest_Plant_Bug,RENAME
+Niphad Grape_Downey Mildew,Grape_Downy_Mildew,RENAME
+Niphad Grape_Healthy Leaves,Grape_Healthy,RENAME
+Niphad Grape_Powdery Mildew,Grape_Powdery_Mildew,RENAME
+Noctuidae_Adult,Pest_Owl_Moth,RENAME
+Noctuidae_Larva,Pest_Cutworm_Larva,RENAME
+Northern_Maize_Leaf_Blight,Corn_Northern_Leaf_Blight,RENAME
+Nymphalidae_Adult,Pest_Butterfly,RENAME
+Nymphalidae_Larva,Pest_Caterpillar,RENAME
+Orange_Citrus_Greening,Citrus_Greening,RENAME
+Orange__Haunglongbing_(Citrus_greening),Citrus_Greening,RENAME
+Orange__Rotten,Orange_Rotten,KEEP
+Paddy_Bacterial_Blight,Rice_Bacterial_Blight,RENAME
+Papaya_Diseased_Fruit,Papaya_Diseased_Fruit,KEEP
+Papaya_Healthy_Fruit,Papaya_Healthy_Fruit,KEEP
+Papaya_Healthy_Leaf,Papaya_Healthy_Leaf,KEEP
+Papaya_Ring_Spot,Papaya_Ringspot_Virus,RENAME
+Papilionidae_Adult,Pest_Swallowtail,RENAME
+Papilionidae_Larva,Pest_Swallowtail_Larva,RENAME
+Peach_Bacterial_spot,Peach_Bacterial_Spot,RENAME
+Peach_Bacterial_spot (1),Peach_Bacterial_Spot,RENAME
+Peach_Healthy,Peach_Healthy,KEEP
+Peach_Healthy (1),Peach_Healthy,KEEP
+Peanut_Early_leaf_spot,Peanut_Early_Leaf_Spot,RENAME
+Peanut_Late_leaf_spot,Peanut_Late_Leaf_Spot,RENAME
+Pear Black spot _ leaf disease,Pear_Black_Spot,RENAME
+Pear Normal _leaf,Pear_Healthy_Leaf,RENAME
+Penicillium fungi (Genus Penicillium Link),,DELETE
+Pepper_Bacterial_Spot,Pepper_Bacterial_Spot,KEEP
+Pepper_Bell_Bacterial_Spot,Pepper_Bell_Bacterial_Spot,KEEP
+Pepper_Bell_Healthy,Pepper_Bell_Healthy,KEEP
+Pepper_Healthy,Pepper_Healthy,KEEP
+Pest_Ant,Pest_Ant,KEEP
+Pest_Aphids,Pest_Aphid,RENAME
+Pest_Bee,Pest_Honey_Bee,RENAME
+Pest_Beetle,Pest_Beetle,KEEP
+Pest_Boxelder_bug,Pest_Boxelder_Bug,RENAME
+Pest_Cabbage_looper,Pest_Cabbage_Looper,RENAME
+Pest_Caterpillar,Pest_Caterpillar,KEEP
+Pest_Corn_borer,Pest_Corn_Borer,RENAME
+Pest_Earthworm,Pest_Earthworm,KEEP
+Pest_Earwig,Pest_Earwig,KEEP
+Pest_Fall_Armyworm,Pest_Fall_Armyworm,KEEP
+Pest_Flea_Beetle,Pest_Flea_Beetle,KEEP
+Pest_Grasshopper,Pest_Grasshopper,KEEP
+Pest_Icerya_purchasi,Pest_Cottony_Cushion_Scale,RENAME
+Pest_Mole_cricket,Pest_Mole_Cricket,RENAME
+Pest_Moth,Pest_Moth,KEEP
+Pest_Peach_borer,Pest_Peach_Borer,RENAME
+Pest_Rice_borer,Pest_Rice_Stem_Borer,RENAME
+Pest_Rice_leaf_roller,Pest_Rice_Leaf_Roller,RENAME
+Pest_Rice_planthopper,Pest_Rice_Planthopper,RENAME
+Pest_Rice_water_weevil,Pest_Rice_Water_Weevil,RENAME
+Pest_Scirtothrips_dorsalis,Pest_Thrips,RENAME
+Pest_Slug,Pest_Slug,KEEP
+Pest_Snail,Pest_Snail,KEEP
+Pest_Thrips,Pest_Thrips,KEEP
+Pest_Unaspis_yanonensis,Pest_Arrowhead_Scale,RENAME
+Pest_Wasp,Pest_Wasp,KEEP
+Pest_Weevil,Pest_Weevil,KEEP
+Pest_Wheat_aphid,Pest_Aphid,RENAME
+Pest_Wheat_mite,Wheat_Spider_Mite,RENAME
+Pest_Wheat_stem_fly,Pest_Wheat_Stem_Fly,RENAME
+Pest_Whitefly,Pest_Whitefly,KEEP
+Phytophthora_Blight_Cucurbitaceae,Cucurbit_Phytophthora_Blight,RENAME
+Pomegranate__Healthy,Pomegranate_Healthy,KEEP
+Potato_Early_Blight,Potato_Early_Blight,KEEP
+Potato_Healthy,Potato_Healthy,KEEP
+Potato_Late_Blight,Potato_Late_Blight,KEEP
+Potato__Rotten,Potato_Rotten,KEEP
+Potyvirus_Mosaic_Virus,,DELETE
+Pumpkin_Bacterial Leaf Spot,Pumpkin_Bacterial_Leaf_Spot,KEEP
+Pumpkin_Downy Mildew,Pumpkin_Downy_Mildew,KEEP
+Pumpkin_Healthy Leaf,Pumpkin_Healthy,RENAME
+Pumpkin_Mosaic Disease,Pumpkin_Mosaic_Virus,RENAME
+Pumpkin_Powdery_Mildew,Pumpkin_Powdery_Mildew,KEEP
+Pythium diseases (Genus Pythium Pringsh.),,DELETE
+Radish_Black_Rot,Radish_Black_Rot,KEEP
+Radish_Mosaic_Virus,Radish_Mosaic_Virus,KEEP
+Raspberry__healthy,Raspberry_Healthy,RENAME
+RedRot,,DELETE
+Red_Spider_Mite,Pest_Spider_Mite,RENAME
+Rhizopus soft rots (Genus Rhizopus Ehrenb.),,DELETE
+Rice_Brown_Spot,Rice_Brown_Spot,KEEP
+Rice_Healthy,Rice_Healthy,KEEP
+Rice_Hispa,Pest_Rice_Hispa,RENAME
+Rice_Leaf_Blast,Rice_Leaf_Blast,KEEP
+Rice_Leaf_scald,Rice_Leaf_Scald,RENAME
+Rice___Neck_Blast,Rice_Neck_Blast,KEEP
+Root_Knot_Nematode,Pest_Root_Knot_Nematode,RENAME
+Rose Leaf Holes,Rose_Leaf_Holes,KEEP
+Rose Leaf_Black Spot,Rose_Black_Spot,RENAME
+Rose_Healthy Leaf,Rose_Healthy,RENAME
+Scarabaeidae_Adult,Pest_Scarab_Beetle,RENAME
+Scarabaeidae_Larva,Pest_White_Grub,RENAME
+Sclerotinia sclerotiorum_Fruit_Rot,,DELETE
+Sclerotinia sclerotiorum_Leaf_Rot,,DELETE
+Sclerotinia sclerotiorum_Stem_Rot,,DELETE
+Sclerotinia timber rot (Sclerotinia sclerotiorum),,DELETE
+Solanaceae_Bacterial_Soft_Rot,,DELETE
+Solanaceae_Bacterial_Spot,,DELETE
+Southern red mite (Oligonychus ilicis),Pest_Spider_Mite,RENAME
+Southern root-knot nematode,Pest_Root_Knot_Nematode,RENAME
+Soybean_Leaf_Halo_Blight,Soybean_Halo_Blight,RENAME
+Soybean_Leaf_Mosaic_Virus,Soybean_Mosaic_Virus,RENAME
+Soybean_Leaf_Rust,Soybean_Leaf_Rust,KEEP
+Soybean_Tospovirus_Leaf_Vein_Necrosis_Virus,Soybean_Tospovirus_Leaf_Vein_Necrosis,RENAME
+Soybean__diabrotica_speciosa,Pest_Soybean_Beetle,RENAME
+Soybean__healthy,Soybean_Healthy,RENAME
+Soybean__mosaic_virus,Soybean_Mosaic_Virus,RENAME
+Soybean__powdery_mildew,Soybean_Powdery_Mildew,RENAME
+Sphingidae_Adult,Pest_Hawk_Moth,RENAME
+Sphingidae_Larva,Pest_Hornworm,RENAME
+Sphinx_Moth_Adult,Pest_Hawk_Moth,RENAME
+Sphinx_Moth_Larve_Damages,Pest_Hornworm,RENAME
+Spider Mites,Pest_Spider_Mite,RENAME
+Spider_Mite_Leaf_Damages,Pest_Spider_Mite,RENAME
+Spotted_Wilt_Virus,,DELETE
+Squash__Powdery_mildew,Squash_Powdery_Mildew,RENAME
+Stem_Borer_Leaf_Damages,Pest_Stem_Borer,RENAME
+Strawberry_Healthy,Strawberry_Healthy,KEEP
+Strawberry_Healthy (1),Strawberry_Healthy,KEEP
+Strawberry_Leaf_Scorch,Strawberry_Leaf_Scorch,KEEP
+Strawberry__Rotten,Strawberry_Rotten,KEEP
+Sugar_Yellow,Sugarcane_Yellow_Leaf,RENAME
+Sugarcane_Healthy,Sugarcane_Healthy,KEEP
+Sugarcane_Healthy (1),Sugarcane_Healthy,KEEP
+Sugarcane_Mosaic_virus,Sugarcane_Mosaic_Virus,RENAME
+Sugarcane_RedRot,Sugarcane_Red_Rot,RENAME
+Sugarcane_RedRot (1),Sugarcane_Red_Rot,RENAME
+Sugarcane_Red_Rot,Sugarcane_Red_Rot,KEEP
+Sugarcane_Rust,Sugarcane_Rust,KEEP
+Sugarcane_Rust (2),Sugarcane_Rust,KEEP
+Sugarcane_Yellow,Sugarcane_Yellow_Leaf,RENAME
+Sugarcane_Yellow (1),Sugarcane_Yellow_Leaf,RENAME
+Sugarcane_Yellow_Leaf,Sugarcane_Yellow_Leaf,KEEP
+Sweet_Potato_Fruit_Feathery_Mottle_Virus,Sweet_Potato_Feathery_Mottle_Virus,RENAME
+Sweet_Potato_Leaf_Feathery_Mottle_Virus,Sweet_Potato_Feathery_Mottle_Virus,RENAME
+Target_Spot_Leaf,,DELETE
+Tarnished_Plant_Bug,Pest_Tarnished_Plant_Bug,RENAME
+Tea_Algal_Spot,Tea_Algal_Leaf_Spot,RENAME
+Tea_Brown_Blight,Tea_Brown_Blight,KEEP
+Tea_Grey_Blight,Tea_Grey_Blight,KEEP
+Tea_Healthy,Tea_Healthy,KEEP
+Tea_Red_Spot,Tea_Red_Spot,KEEP
+Tea_Red_leaf_spot,Tea_Red_Leaf_Spot,RENAME
+Thrips,Pest_Thrips,RENAME
+Thrips_Leaf_Damages,Pest_Thrips,RENAME
+Tobacco_Leaf_Etch_Virus,Tobacco_Etch_Virus,RENAME
+Tobacco_Leaf_Ringspot_Virus,Tobacco_Ringspot_Virus,RENAME
+Tomato Hornworms,Pest_Hornworm,RENAME
+Tomato Two Spotted Spider Mite,Tomato_Spider_Mite,RENAME
+Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,KEEP
+Tomato_Early_Blight,Tomato_Early_Blight,KEEP
+Tomato_Fruit_Bacterial_Canker,Tomato_Fruit_Bacterial_Canker,KEEP
+Tomato_Fruit_Blossom_End_Rot,Tomato_Fruit_Blossom_End_Rot,KEEP
+Tomato_Healthy,Tomato_Healthy,KEEP
+Tomato_Late_Blight,Tomato_Late_Blight,KEEP
+Tomato_Leaf_Bacterial_Canker,Tomato_Leaf_Bacterial_Canker,KEEP
+Tomato_Leaf_Blight,Tomato_Leaf_Blight,KEEP
+Tomato_Leaf_Curl,Tomato_Leaf_Curl_Virus,RENAME
+Tomato_Leaf_Mold,Tomato_Leaf_Mold,KEEP
+Tomato_Leaf_Mosaic_Virus,Tomato_Mosaic_Virus,RENAME
+Tomato_Leaf_Septoria,Tomato_Septoria_Leaf_Spot,RENAME
+Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,KEEP
+Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,KEEP
+Tomato_Spider_Mite,Tomato_Spider_Mite,KEEP
+Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_Mite,RENAME
+Tomato_Target_Spot,Tomato_Target_Spot,KEEP
+Tomato_Verticillium_Wilt,Tomato_Verticillium_Wilt,KEEP
+Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,KEEP
+Tomato__Rotten,Tomato_Rotten,KEEP
+Twospotted spider mite (Tetranychus urticae Koch),Pest_Spider_Mite,RENAME
+Walnut Anthracnose_leaf disease,Walnut_Anthracnose,RENAME
+Walnut Blotch_leaf disease,Walnut_Leaf_Blotch,RENAME
+Walnut Normal_leaf,Walnut_Healthy_Leaf,RENAME
+Walnut Shot_hole,Walnut_Shot_Hole_Disease,RENAME
+Western Corn Rootworms,Pest_Western_Corn_Rootworm,RENAME
+Wheat_Aphid,Pest_Aphid,RENAME
+Wheat_Aphid (1),Pest_Aphid,RENAME
+Wheat_Black_Rust,Wheat_Stem_Rust,RENAME
+Wheat_Black_Rust (1),Wheat_Stem_Rust,RENAME
+Wheat_Blast,Wheat_Blast,KEEP
+Wheat_Blast (1),Wheat_Blast,KEEP
+Wheat_Brown_Rust,Wheat_Leaf_Rust,RENAME
+Wheat_Brown_Rust (1),Wheat_Leaf_Rust,RENAME
+Wheat_Common_Root_Rot,Wheat_Common_Root_Rot,KEEP
+Wheat_Common_Root_Rot (1),Wheat_Common_Root_Rot,KEEP
+Wheat_Fusarium_head_blight,Wheat_Fusarium_Head_Blight,RENAME
+Wheat_Healthy,Wheat_Healthy,KEEP
+Wheat_Healthy (1),Wheat_Healthy,KEEP
+Wheat_Leaf_Streak_Mosaic_Virus,Wheat_Leaf_Streak_Mosaic_Virus,KEEP
+Wheat_Leaf_blight,Wheat_Leaf_Blight,RENAME
+Wheat_Mildew,Wheat_Powdery_Mildew,RENAME
+Wheat_Mildew (1),Wheat_Powdery_Mildew,RENAME
+Wheat_Mite,Wheat_Spider_Mite,RENAME
+Wheat_Septoria,Wheat_Septoria_Blotch,RENAME
+Wheat_Smut,Wheat_Smut,KEEP
+Wheat_Smut (1),Wheat_Smut,KEEP
+Wheat_Stem_fly,Pest_Wheat_Stem_Fly,RENAME
+Wheat_Tan_spot,Wheat_Tan_Spot,RENAME
+Wheat_Yellow_rust,Wheat_Yellow_Rust,RENAME
+Whiteflies_Leaf,Pest_Whitefly,RENAME
+Wireworm,Pest_Wireworm,RENAME
+alfalfa_plant_bug,Pest_Alfalfa_Plant_Bug,RENAME
+beetle,Pest_Beetle,RENAME
+blast blé,Wheat_Blast,RENAME
+bollworm,Pest_Bollworm,RENAME
+chili_healthy,Chili_Healthy,RENAME
+fall armyworm (Spodoptera frugiperda) Dammage,Pest_Fall_Armyworm,RENAME
+fall armyworm (Spodoptera frugiperda) Larve,Pest_Fall_Armyworm_Larva,RENAME
+fall armyworm (Spodoptera frugiperda) Larve adults,Pest_Fall_Armyworm,RENAME
+gauva_diseased,Guava_Disease,RENAME
+healthy blé,Wheat_Healthy,RENAME
+insect blé,,DELETE
+kudzu bug (Megacopta cribraria (Fabricius)),Pest_Kudzu_Bug,RENAME
+leaf_folder blé,Pest_Leaf_Folder,RENAME
+lesser cornstalk borer (Elasmopalpus lignosella),Pest_Lesser_Cornstalk_Borer,RENAME
+lokat Leaf_spot,Wood_Apple_Leaf_Spot,RENAME
+maize fall army worm,Pest_Fall_Armyworm,RENAME
+persimmons Brown_spot,Persimmon_Brown_Spot,RENAME
+rhododendron stem borer (Oberea myops,Pest_Rhododendron_Stem_Borer,RENAME
+root rotdamping off (Genus Rhizoctonia DC.),,DELETE
+root-knot nematode (Genus Meloidogyne),Pest_Root_Knot_Nematode,RENAME
+scald blé,Wheat_Leaf_Scald,RENAME
+stem-boring weevil (Mecinus janthinus Germar),Pest_Stem_Boring_Weevil,RENAME
+stripes blé,Wheat_Yellow_Rust,RENAME
+tomato spider mites,Tomato_Spider_Mite,RENAME
+tomato_healthy_leaf,Tomato_Healthy,RENAME
+tomato_leaf_miner,Pest_Tomato_Leaf_Miner,RENAME
+tomato_septoria_leaf,Tomato_Septoria_Leaf_Spot,RENAME
+tungro blé,Rice_Tungro_Disease,RENAME

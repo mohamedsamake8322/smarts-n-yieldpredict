@@ -1,0 +1,48 @@
+original_name,model_name,display_name,scientific_name,type,confidence
+Apple Apple scab,apple___scab,Apple Scab,Venturia inaequalis,fungal,high
+Apple Black rot,apple___black_rot,Apple Black Rot,Botryosphaeria obtusa,fungal,high
+Apple Cedar apple rust,apple___cedar_apple_rust,Apple Cedar Rust,Gymnosporangium juniperi-virginianae,fungal,high
+Apple healthy,apple___healthy,Apple Healthy,Malus domestica,healthy,high
+Apple_healthy,apple___healthy,Apple Healthy,Malus domestica,healthy,high
+
+Bacterial leaf blight in rice leaf,rice___bacterial_leaf_blight,Rice Bacterial Leaf Blight,Xanthomonas oryzae,bacterial,high
+Brown spot in rice leaf,rice___brown_spot,Rice Brown Spot,Bipolaris oryzae,fungal,high
+Leaf smut in rice leaf,rice___leaf_smut,Rice Leaf Smut,Entyloma oryzae,fungal,medium
+
+Blueberry healthy,blueberry___healthy,Blueberry Healthy,Vaccinium corymbosum,healthy,high
+
+Cherry (including sour) Powdery mildew,cherry___powdery_mildew,Cherry Powdery Mildew,Podosphaera spp.,fungal,medium
+Cherry (including_sour) healthy,cherry___healthy,Cherry Healthy,Prunus spp.,healthy,high
+
+Corn (maize) healthy,corn___healthy,Corn Healthy,Zea mays,healthy,high
+Common Rust in corn Leaf,corn___common_rust,Corn Common Rust,Puccinia sorghi,fungal,high
+Gray Leaf Spot in corn Leaf,corn___gray_leaf_spot,Corn Gray Leaf Spot,Cercospora zeae-maydis,fungal,high
+Blight in corn Leaf,corn___northern_leaf_blight,Corn Northern Leaf Blight,Setosphaeria turcica,fungal,high
+
+Grape Black rot,grape___black_rot,Grape Black Rot,Guignardia bidwellii,fungal,high
+Grape Esca Black Measles,grape___esca,Grape Esca,Phaeomoniella chlamydospora,fungal,high
+Grape healthy,grape___healthy,Grape Healthy,Vitis vinifera,healthy,high
+
+Potato Early blight,potato___early_blight,Potato Early Blight,Alternaria solani,fungal,high
+Potato Late blight,potato___late_blight,Potato Late Blight,Phytophthora infestans,fungal,high
+Potato healthy,potato___healthy,Potato Healthy,Solanum tuberosum,healthy,high
+
+Tomato Early blight,tomato___early_blight,Tomato Early Blight,Alternaria solani,fungal,high
+Tomato Late blight,tomato___late_blight,Tomato Late Blight,Phytophthora infestans,fungal,high
+Tomato Leaf Mold,tomato___leaf_mold,Tomato Leaf Mold,Passalora fulva,fungal,high
+Tomato Septoria leaf spot,tomato___septoria_leaf_spot,Tomato Septoria Leaf Spot,Septoria lycopersici,fungal,high
+Tomato Target Spot,tomato___target_spot,Tomato Target Spot,Corynespora cassiicola,fungal,high
+Tomato Bacterial spot,tomato___bacterial_spot,Tomato Bacterial Spot,Xanthomonas spp.,bacterial,high
+Tomato Tomato mosaic virus,tomato___mosaic_virus,Tomato Mosaic Virus,Tomato mosaic virus,viral,high
+Tomato healthy,tomato___healthy,Tomato Healthy,Solanum lycopersicum,healthy,high
+
+Strawberry Leaf scorch,strawberry___leaf_scorch,Strawberry Leaf Scorch,Diplocarpon earlianum,fungal,high
+Strawberry healthy,strawberry___healthy,Strawberry Healthy,Fragaria × ananassa,healthy,high
+
+Soybean healthy,soybean___healthy,Soybean Healthy,Glycine max,healthy,high
+Peach_healthy,peach___healthy,Peach Healthy,Prunus persica,healthy,high
+
+Orange Haunglongbing Citrus greening,orange___hlb,Orange Huanglongbing,Candidatus Liberibacter asiaticus,bacterial,high
+
+Pepper bell Bacterial spot,pepper___bacterial_spot,Pepper Bacterial Spot,Xanthomonas spp.,bacterial,high
+Pepper bell healthy,pepper___healthy,Pepper Healthy,Capsicum annuum,healthy,high
