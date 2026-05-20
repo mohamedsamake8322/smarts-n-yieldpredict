@@ -262,7 +262,7 @@ TRANSLATIONS = {
         "en": "### 📋 Instructions\n1. Upload or capture a clear image of a plant leaf\n2. Click 'Analyze' to get diagnosis\n3. Review results and disease information",
         "fr": "### 📋 Instructions\n1. Téléchargez ou capturez une image claire d'une feuille de plante\n2. Cliquez sur 'Analyser' pour obtenir le diagnostic\n3. Examinez les résultats et les informations sur la maladie",
         "ar": "### 📋 التعليمات\n1. قم بتحميل أو التقط صورة واضحة لورقة نبات\n2. انقر على 'تحليل' للحصول على التشخيص\n3. قم بمراجعة النتائج ومعلومات المرض",
-        "zh": "### 📋 说明\n1. 上传或拍摄植物叶片的清晰图像\n2. 单击"分析"获取诊断\n3. 查看结果和疾病信息",
+        "zh": "### 📋 说明\\n1. 上传或拍摄植物叶片的清晰图像\\n2. 单击'分析'获取诊断\\n3. 查看结果和疾病信息",
         "ru": "### 📋 Инструкции\n1. Загрузите или сделайте снимок четкого изображения листа растения\n2. Нажмите «Анализировать», чтобы получить диагноз\n3. Просмотрите результаты и информацию о болезни",
         "es": "### 📋 Instrucciones\n1. Cargue o capture una imagen clara de una hoja de planta\n2. Haga clic en 'Analizar' para obtener el diagnóstico\n3. Revise los resultados e información de la enfermedad",
         "de": "### 📋 Anweisungen\n1. Laden Sie ein klares Bild eines Pflanzenblatts hoch oder machen Sie ein Foto\n2. Klicken Sie auf 'Analyse', um die Diagnose zu erhalten\n3. Überprüfen Sie die Ergebnisse und Krankheitsinformationen",
