@@ -172,7 +172,23 @@ def load_disease_info(
         if value is None:
             return []
         if isinstance(value, list):
-            return [str(x).strip() for x in value if str(x).strip()]
+            out: List[str] = []
+            for x in value:
+                out.extend(_to_list(x))
+            return out
+        if isinstance(value, dict):
+            out: List[str] = []
+            for key, subvalue in value.items():
+                items = _to_list(subvalue)
+                if not items:
+                    continue
+                pretty_key = str(key).replace('_', ' ').capitalize()
+                if len(items) == 1:
+                    out.append(f"{pretty_key}: {items[0]}")
+                else:
+                    out.append(f"{pretty_key}:")
+                    out.extend(items)
+            return out
         if isinstance(value, str):
             s = value.strip()
             if not s:
@@ -189,17 +205,35 @@ def load_disease_info(
             return out
         return [str(value).strip()] if str(value).strip() else []
 
+    def _normalize_pathogen_cause(value: Any) -> str:
+        if isinstance(value, dict):
+            parts: List[str] = []
+            if value.get("type"):
+                parts.append(str(value["type"]))
+            if value.get("scientific_name"):
+                parts.append(str(value["scientific_name"]))
+            if value.get("abbreviation"):
+                parts.append(str(value["abbreviation"]))
+            if value.get("family"):
+                parts.append(str(value["family"]))
+            if value.get("genus"):
+                parts.append(str(value["genus"]))
+            return ", ".join(parts)
+        return str(value) if value is not None else ""
+
     # Supporte 2+ schémas:
     # - "BLIP2_normalized" (format normalisé): name / causal_agent / symptoms / management / prevention / hosts
     # - format "dossier BLIPD" (Plantix-like): disease / scientific_name / symptoms_and_damage / disease_cycle_and_spread /
     #   favorable_conditions / pathogen_characteristics / monitoring / management / hosts / ...
-    disease_name = data.get("name") or data.get("disease") or data.get("disease_name") or predicted_label
+    disease_name = data.get("name") or data.get("disease") or data.get("disease_name") or data.get("common_name") or predicted_label
     cause = data.get("causal_agent") or data.get("cause") or data.get("pathogen") or ""
+    if isinstance(cause, dict):
+        cause = _normalize_pathogen_cause(cause)
+
     # Symptoms: peut être soit "symptoms" soit "symptoms_and_damage"
     symptoms = data.get("symptoms", None)
     if symptoms is None:
         symptoms = data.get("symptoms_and_damage", []) or []
-    # Convert symptoms to list format
     symptoms = _to_list(symptoms)
 
     management = _to_list(data.get("management", []) or data.get("cultural_control", []) or [])
@@ -212,6 +246,7 @@ def load_disease_info(
     disease_cycle_and_spread = _to_list(
         data.get("disease_cycle_and_spread", [])
         or data.get("spread", [])
+        or data.get("transmission", [])
         or []
     )
     favorable_conditions = _to_list(data.get("favorable_conditions", []) or [])
@@ -223,6 +258,8 @@ def load_disease_info(
     )
 
     pathogen_type = data.get("pathogen_type", "") or data.get("type", "") or ""
+    if not pathogen_type and isinstance(data.get("pathogen"), dict):
+        pathogen_type = str(data["pathogen"].get("type", "") or "")
 
     susceptibility_raw = data.get("susceptibility", {}) or {}
     susceptibility: Dict[str, List[str]] = {}
@@ -240,7 +277,9 @@ def load_disease_info(
         if cause:
             desc_parts.append(f"caused by {cause}")
         if symptoms and len(symptoms) > 0:
-            symptom_text = symptoms[0] if len(symptoms) == 1 else f"{symptoms[0]} and other symptoms"
+            symptom_text = next((s for s in symptoms if not s.endswith(":")), symptoms[0])
+            if len(symptoms) > 1 and symptom_text.endswith(":"):
+                symptom_text = symptoms[1] if len(symptoms) > 1 else symptoms[0]
             desc_parts.append(f"characterized by {symptom_text.lower()}")
         if desc_parts:
             description = " ".join(desc_parts) + "."
@@ -249,8 +288,9 @@ def load_disease_info(
 
     # Extract hosts from various formats - try normalized first, then fallback to original
     hosts = []
-    if data.get("hosts") and len(data["hosts"]) > 0:
-        hosts = _to_list(data["hosts"])
+    raw_hosts = data.get("hosts") or data.get("host_plants") or []
+    if raw_hosts:
+        hosts = _to_list(raw_hosts)
     else:
         # If normalized file has empty hosts, try to get from original BLIP2 file
         original_path = _find_best_json_path(predicted_label, Path("BLIP2"), allow_fuzzy=allow_fuzzy)
