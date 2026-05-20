@@ -199,18 +199,20 @@ def load_disease_info(
     symptoms = data.get("symptoms", None)
     if symptoms is None:
         symptoms = data.get("symptoms_and_damage", []) or []
+    # Convert symptoms to list format
+    symptoms = _to_list(symptoms)
 
-    management = data.get("management", []) or data.get("cultural_control", []) or []
+    management = _to_list(data.get("management", []) or data.get("cultural_control", []) or [])
     if data.get("chemical_control"):
         # Combine cultural and chemical control
         chemical = _to_list(data.get("chemical_control", []))
         management.extend(chemical)
-    prevention = data.get("prevention", []) or []
+    prevention = _to_list(data.get("prevention", []) or [])
 
-    disease_cycle_and_spread = data.get("disease_cycle_and_spread", []) or []
-    favorable_conditions = data.get("favorable_conditions", []) or []
-    pathogen_characteristics = data.get("pathogen_characteristics", []) or []
-    monitoring = data.get("monitoring", []) or []
+    disease_cycle_and_spread = _to_list(data.get("disease_cycle_and_spread", []) or [])
+    favorable_conditions = _to_list(data.get("favorable_conditions", []) or [])
+    pathogen_characteristics = _to_list(data.get("pathogen_characteristics", []) or [])
+    monitoring = _to_list(data.get("monitoring", []) or [])
 
     pathogen_type = data.get("pathogen_type", "") or data.get("type", "") or ""
 
