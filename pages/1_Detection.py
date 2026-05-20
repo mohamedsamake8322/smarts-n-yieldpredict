@@ -448,7 +448,7 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     # Confidence
     confidence = diagnosis.get("predicted_similarity")
     if confidence is not None:
-        st.markdown(f"**Confidence:** {confidence*100:.0f}%")
+        st.markdown(f"{t('confidence_label')} {confidence*100:.0f}%")
 
     # ====== STEP 1: Show basic information ======
     if disease_data.get("description"):
@@ -476,17 +476,17 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
         suscept = disease_data["susceptibility"]
         
         if suscept.get("highly_susceptible"):
-            st.markdown("**Highly Susceptible:**")
+            st.markdown(t("highly_susceptible_label"))
             for item in suscept["highly_susceptible"]:
                 st.markdown(f"- {item}")
         
         if suscept.get("moderately_susceptible"):
-            st.markdown("**Moderately Susceptible:**")
+            st.markdown(t("moderately_susceptible_label"))
             for item in suscept["moderately_susceptible"]:
                 st.markdown(f"- {item}")
         
         if suscept.get("more_tolerant"):
-            st.markdown("**More Tolerant:**")
+            st.markdown(t("more_tolerant_label"))
             for item in suscept["more_tolerant"]:
                 st.markdown(f"- {item}")
 
@@ -543,7 +543,7 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
 
         source_file = disease_data.get("_source_file")
         if source_file:
-            st.caption(f"🔗 Source: {source_file}")
+            st.caption(f"{t('source_label')} {source_file}")
 
     # Visual confirmation: 3–4 images from dataset_light for the predicted class
     if not is_unknown and pred_disease:
@@ -565,18 +565,18 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
 
         # Optional: generate an AI explanation for the predicted disease
         if "image_for_explanation" in st.session_state:
-            if st.checkbox("Generate AI explanation", value=False):
-                with st.spinner("Generating explanation..."):
+            if st.checkbox(t("generate_ai_explanation"), value=False):
+                with st.spinner(t("ai_explanation_spinner")):
                     try:
                         explanation = generate_explanation_for_image(
                             st.session_state.image_for_explanation,
                             pred_disease,
                             language_code=get_lang(),
                         )
-                        st.markdown(" 🤖 AI Explanation")
+                        st.markdown(t("ai_explanation_heading"))
                         st.write(explanation)
                     except Exception as e:
-                        st.error(f"⚠️ Failed to generate explanation: {e}")
+                        st.error(f"⚠️ {t('ai_explanation_failed')}: {e}")
 
     # Button for new detection
     if st.button(t("new_detection_button"), use_container_width=True):
