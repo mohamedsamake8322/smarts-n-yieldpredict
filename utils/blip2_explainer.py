@@ -203,16 +203,24 @@ def load_disease_info(
     symptoms = _to_list(symptoms)
 
     management = _to_list(data.get("management", []) or data.get("cultural_control", []) or [])
-    if data.get("chemical_control"):
-        # Combine cultural and chemical control
-        chemical = _to_list(data.get("chemical_control", []))
-        management.extend(chemical)
+    chemical_control = _to_list(data.get("chemical_control", []) or [])
+    biological_control = _to_list(data.get("biological_control", []) or [])
+    management.extend(chemical_control)
+    management.extend(biological_control)
     prevention = _to_list(data.get("prevention", []) or [])
 
-    disease_cycle_and_spread = _to_list(data.get("disease_cycle_and_spread", []) or [])
+    disease_cycle_and_spread = _to_list(
+        data.get("disease_cycle_and_spread", [])
+        or data.get("spread", [])
+        or []
+    )
     favorable_conditions = _to_list(data.get("favorable_conditions", []) or [])
     pathogen_characteristics = _to_list(data.get("pathogen_characteristics", []) or [])
-    monitoring = _to_list(data.get("monitoring", []) or [])
+    monitoring = _to_list(
+        data.get("monitoring", [])
+        or data.get("surveillance", [])
+        or []
+    )
 
     pathogen_type = data.get("pathogen_type", "") or data.get("type", "") or ""
 
@@ -267,6 +275,8 @@ def load_disease_info(
         "symptoms": _to_list(symptoms),
         "cause": str(cause),
         "management": _to_list(management),
+        "chemical_control": _to_list(chemical_control),
+        "biological_control": _to_list(biological_control),
         "prevention": _to_list(prevention),
         "disease_cycle_and_spread": _to_list(disease_cycle_and_spread),
         "favorable_conditions": _to_list(favorable_conditions),

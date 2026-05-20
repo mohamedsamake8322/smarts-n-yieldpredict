@@ -216,6 +216,76 @@ TRANSLATIONS = {
         "ig": "### Njikwa",
         "ha": "### Sarrafa",
     },
+    "description_heading": {
+        "en": "### 📖 Description",
+        "fr": "### 📖 Description",
+        "ar": "### 📖 الوصف",
+        "zh": "### 📖 描述",
+        "ru": "### 📖 Описание",
+        "es": "### 📖 Descripción",
+        "de": "### 📖 Beschreibung",
+        "tr": "### 📖 Açıklama",
+        "sw": "### 📖 Maelezo",
+        "am": "### 📖 መግለጫ",
+        "ig": "### 📖 Nkọwa",
+        "ha": "### 📖 Bayani",
+    },
+    "scientific_name_heading": {
+        "en": "Scientific Name",
+        "fr": "Nom scientifique",
+    },
+    "pathogen_type_heading": {
+        "en": "Pathogen Type",
+        "fr": "Type d'agent pathogène",
+    },
+    "hosts_heading": {
+        "en": "### 🌾 Hosts Affected",
+        "fr": "### 🌾 Hôtes affectés",
+    },
+    "susceptibility_heading": {
+        "en": "### 🛡️ Susceptibility",
+        "fr": "### 🛡️ Susceptibilité",
+    },
+    "view_details_button": {
+        "en": "📋 View detailed treatment & management",
+        "fr": "📋 Voir le traitement détaillé et la gestion",
+    },
+    "detailed_info_heading": {
+        "en": "### 📋 Detailed Information",
+        "fr": "### 📋 Informations détaillées",
+    },
+    "symptoms_damage_heading": {
+        "en": "**Symptoms and Damage:**",
+        "fr": "**Symptômes et dommages :**",
+    },
+    "disease_cycle_heading": {
+        "en": "**Disease Cycle and Spread:**",
+        "fr": "**Cycle de la maladie et propagation :**",
+    },
+    "favorable_conditions_heading": {
+        "en": "**Favorable Conditions:**",
+        "fr": "**Conditions favorables :**",
+    },
+    "pathogen_characteristics_heading": {
+        "en": "**Pathogen Characteristics:**",
+        "fr": "**Caractéristiques du pathogène :**",
+    },
+    "management_control_heading": {
+        "en": "**Management and Control:**",
+        "fr": "**Gestion et contrôle :**",
+    },
+    "monitoring_heading": {
+        "en": "**Monitoring:**",
+        "fr": "**Surveillance :**",
+    },
+    "prevention_heading": {
+        "en": "**Prevention:**",
+        "fr": "**Prévention :**",
+    },
+    "new_detection_button": {
+        "en": "🔄 New detection",
+        "fr": "🔄 Nouvelle analyse",
+    },
     "no_data": {
         "en": "_No data available._",
         "fr": "_Aucune donnée disponible._",

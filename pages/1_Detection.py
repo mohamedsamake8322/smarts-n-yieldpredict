@@ -452,27 +452,27 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
 
     # ====== STEP 1: Show basic information ======
     if disease_data.get("description"):
-        st.markdown("### 📖 Description")
+        st.markdown(t("description_heading"))
         st.write(disease_data["description"])
 
     # Scientific name & pathogen type
     col1, col2 = st.columns(2)
     with col1:
         if disease_data.get("scientific_name"):
-            st.markdown(f"**Scientific Name:** {disease_data['scientific_name']}")
+            st.markdown(f"**{t('scientific_name_heading')}:** {disease_data['scientific_name']}")
     with col2:
         if disease_data.get("pathogen_type"):
-            st.markdown(f"**Pathogen Type:** {disease_data['pathogen_type']}")
+            st.markdown(f"**{t('pathogen_type_heading')}:** {disease_data['pathogen_type']}")
 
     # Hosts
     if disease_data.get("hosts"):
-        st.markdown("### 🌾 Hosts Affected")
+        st.markdown(t("hosts_heading"))
         for host in disease_data["hosts"]:
             st.markdown(f"- {host}")
 
     # Susceptibility
     if disease_data.get("susceptibility"):
-        st.markdown("### 🛡️ Susceptibility")
+        st.markdown(t("susceptibility_heading"))
         suscept = disease_data["susceptibility"]
         
         if suscept.get("highly_susceptible"):
@@ -491,53 +491,53 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                 st.markdown(f"- {item}")
 
     # ====== BUTTON to expand for more details ======
-    if st.button("📋 View detailed treatment & management", type="secondary", use_container_width=True):
+    if st.button(t("view_details_button"), type="secondary", use_container_width=True):
         st.session_state.show_detailed_info = True
 
     # ====== STEP 2: Show detailed information (after button click) ======
     if st.session_state.get("show_detailed_info", False):
         st.markdown("---")
-        st.markdown("### 📋 Detailed Information")
+        st.markdown(t("detailed_info_heading"))
 
         # Symptoms and damage
         if disease_data.get("symptoms"):
-            st.markdown("**Symptoms and Damage:**")
+            st.markdown(t("symptoms_damage_heading"))
             for item in disease_data["symptoms"]:
                 st.markdown(f"- {item}")
 
         # Disease cycle and spread
         if disease_data.get("disease_cycle_and_spread"):
-            st.markdown("**Disease Cycle and Spread:**")
+            st.markdown(t("disease_cycle_heading"))
             for item in disease_data["disease_cycle_and_spread"]:
                 st.markdown(f"- {item}")
 
         # Favorable conditions
         if disease_data.get("favorable_conditions"):
-            st.markdown("**Favorable Conditions:**")
+            st.markdown(t("favorable_conditions_heading"))
             for item in disease_data["favorable_conditions"]:
                 st.markdown(f"- {item}")
 
         # Pathogen characteristics
         if disease_data.get("pathogen_characteristics"):
-            st.markdown("**Pathogen Characteristics:**")
+            st.markdown(t("pathogen_characteristics_heading"))
             for item in disease_data["pathogen_characteristics"]:
                 st.markdown(f"- {item}")
 
         # Monitoring
         if disease_data.get("monitoring"):
-            st.markdown("**Monitoring:**")
+            st.markdown(t("monitoring_heading"))
             for item in disease_data["monitoring"]:
                 st.markdown(f"- {item}")
 
         # Management
         if disease_data.get("management"):
-            st.markdown("**Management and Control:**")
+            st.markdown(t("management_control_heading"))
             for item in disease_data["management"]:
                 st.markdown(f"- {item}")
 
         # Prevention (if available)
         if disease_data.get("prevention"):
-            st.markdown("**Prevention:**")
+            st.markdown(t("prevention_heading"))
             for item in disease_data["prevention"]:
                 st.markdown(f"- {item}")
 
@@ -579,7 +579,7 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
                         st.error(f"⚠️ Failed to generate explanation: {e}")
 
     # Button for new detection
-    if st.button("🔄 New detection", use_container_width=True):
+    if st.button(t("new_detection_button"), use_container_width=True):
         for key in [
             "uploaded_image",
             "image_bytes",
