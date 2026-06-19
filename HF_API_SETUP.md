@@ -74,7 +74,7 @@ def load_model():
     # Télécharger depuis HF
     metric_model_path = Path(hf_hub_download(
         repo_id=MODEL_REPO, 
-        filename="metric_model.pt"
+        filename="senedisease_macro_f1.pt"
     ))
     
     # Charger le modèle une seule fois

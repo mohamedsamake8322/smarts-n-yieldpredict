@@ -5,6 +5,7 @@ from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from PIL import Image
 import io
+import json
 import torch
 import numpy as np
 from pathlib import Path
@@ -31,19 +32,33 @@ def load_model():
     try:
         print("🔄 Loading model from Hugging Face Hub...")
 
-        # Download model and metadata
-        model_path = hf_hub_download(
+        # Download model and metadata (metadata.pkl first, then metadata.json)
+        model_path = Path(hf_hub_download(
             repo_id="mohamedsamake8322/plant-diseaseS-swin-faiss",
-            filename="metric_model.pt"
-        )
-        metadata_path = hf_hub_download(
-            repo_id="mohamedsamake8322/plant-diseaseS-swin-faiss",
-            filename="metadata.pkl"
-        )
+            filename="senedisease_macro_f1.pt"
+        ))
 
-        # Load metadata
-        with open(metadata_path, "rb") as f:
-            metadata = pickle.load(f)
+        metadata_path = None
+        for metadata_filename in ["metadata.pkl", "metadata.json"]:
+            try:
+                metadata_path = Path(hf_hub_download(
+                    repo_id="mohamedsamake8322/plant-diseaseS-swin-faiss",
+                    filename=metadata_filename
+                ))
+                break
+            except Exception:
+                metadata_path = None
+
+        if metadata_path is not None and metadata_path.exists():
+            if metadata_path.suffix == ".pkl":
+                with open(metadata_path, "rb") as f:
+                    metadata = pickle.load(f)
+            else:
+                with open(metadata_path, "r", encoding="utf-8") as f:
+                    metadata = json.load(f)
+        else:
+            print("⚠️ metadata file not found in HF repo; using empty metadata")
+            metadata = {}
 
         # Load model
         model = torch.load(model_path, map_location=device)

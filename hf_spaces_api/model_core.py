@@ -52,7 +52,7 @@ def load_phase2_model_and_metadata(
     models_path: Path = MODELS_PATH_PHASE2,
 ) -> Tuple[torch.nn.Module, Optional[Any], Dict[str, Any], Optional[np.ndarray], Optional[np.ndarray], torch.device]:
     """
-    Charge le modèle phase 2 (metric_model.pt), la metadata, l'index FAISS (optionnel)
+    Charge le modèle phase 2 (senedisease_macro_f1.pt), la metadata, l'index FAISS (optionnel)
     et les prototypes. Retourne:
     - model
     - index (FAISS ou None)
@@ -61,29 +61,44 @@ def load_phase2_model_and_metadata(
     - prototype_labels (np.ndarray ou None)
     - device
     """
-    metric_model_path = models_path / "metric_model.pt"
+    metric_model_path = models_path / "senedisease_macro_f1.pt"
     metadata_path = models_path / "metadata.pkl"
 
     # 1) On tente d'utiliser les fichiers locaux (utile en dev hors-ligne)
-    if not metric_model_path.exists() or not metadata_path.exists():
-        # 2) Fallback pro : téléchargement depuis Hugging Face
+    if not metric_model_path.exists():
         try:
             metric_model_path = Path(
-                hf_hub_download(repo_id=MODEL_REPO, filename="metric_model.pt")
-            )
-            metadata_path = Path(
-                hf_hub_download(repo_id=MODEL_REPO, filename="metadata.pkl")
+                hf_hub_download(repo_id=MODEL_REPO, filename="senedisease_macro_f1.pt")
             )
         except Exception as e:
             raise RuntimeError(
-                f"Impossible de trouver les artefacts modèles localement dans {models_path} "
+                f"Impossible de trouver le checkpoint modèle localement dans {models_path} "
                 f"et le téléchargement depuis Hugging Face a échoué: {e}"
             ) from e
 
-    import pickle
+    metadata = {}
+    if not metadata_path.exists():
+        for metadata_filename in ["metadata.pkl", "metadata.json"]:
+            try:
+                metadata_path = Path(
+                    hf_hub_download(repo_id=MODEL_REPO, filename=metadata_filename)
+                )
+                break
+            except Exception:
+                metadata_path = Path("")
 
-    with open(metadata_path, "rb") as f:
-        metadata = pickle.load(f)
+    if metadata_path and metadata_path.exists():
+        import json
+        import pickle
+
+        if metadata_path.suffix == ".pkl":
+            with open(metadata_path, "rb") as f:
+                metadata = pickle.load(f)
+        else:
+            with open(metadata_path, "r", encoding="utf-8") as f:
+                metadata = json.load(f)
+    else:
+        print("⚠️ metadata absent, fallback vers metadata vide")
 
     # Pour limiter l'empreinte mémoire en production (Streamlit Cloud),
     # on supprime explicitement les champs lourds dont on n'a pas besoin
@@ -105,17 +120,26 @@ def load_phase2_model_and_metadata(
                 metadata[heavy_key] = None
 
     checkpoint = torch.load(metric_model_path, map_location=DEVICE)
-    cfg = checkpoint.get("config", {})
+    if isinstance(checkpoint, dict):
+        cfg = checkpoint.get("config", {})
+        state_dict = checkpoint.get("model_state_dict", checkpoint.get("state_dict", checkpoint))
+    else:
+        cfg = {}
+        state_dict = checkpoint
+
     model_name = cfg.get("model_name", "swin_base_patch4_window7_224")
     embedding_dim = cfg.get("embedding_dim", metadata.get("embedding_dim", 768))
-    image_size = cfg.get("image_size", 224)
+    image_size = cfg.get("image_size", metadata.get("image_size", 224))
 
-    model = DiagnosticModel(
-        model_name=model_name, embedding_dim=embedding_dim, image_size=image_size
-    )
-    model.load_state_dict(checkpoint["model_state_dict"])
-    # On peut maintenant libérer le checkpoint pour réduire l'empreinte mémoire
-    del checkpoint
+    if isinstance(state_dict, dict):
+        model = DiagnosticModel(
+            model_name=model_name, embedding_dim=embedding_dim, image_size=image_size
+        )
+        model.load_state_dict(state_dict)
+        del checkpoint
+    else:
+        model = state_dict
+        image_size = cfg.get("image_size", image_size)
 
     model = model.to(DEVICE)
     model.eval()
@@ -213,13 +237,14 @@ def infer_on_image(
     - topk_prototypes: [{rank, label, disease, similarity}, ...]
     - topk_neighbors: [{rank, label, disease, similarity, image_path}, ...]
     """
-    image_paths = metadata["image_paths"]
-    labels = metadata["labels"]
-    idx_to_class = metadata["idx_to_class"]
+    image_paths = metadata.get("image_paths", [])
+    labels = metadata.get("labels", [])
+    idx_to_class = metadata.get("idx_to_class", {})
+    image_size = metadata.get("image_size", 224)
 
     # Embedding
     img_tensor = preprocess_image_pil(
-        image, size=metadata.get("image_size", 224)
+        image, size=image_size
     ).to(device)
     with torch.no_grad():
         emb = model(img_tensor).cpu().numpy().astype("float32")  # (1, D)

@@ -55,7 +55,7 @@ BLIP2_DIR = os.path.join(BASE_PATH, 'BLIP2')
 SWIN_MODEL_DIR = os.path.join(BASE_PATH, 'outputs', 'phase2_swin_base_production', 'models')
 SWIN_CHECKPOINT_DIR = os.path.join(BASE_PATH, 'outputs', 'phase2_swin_base_production', 'checkpoints')
 
-SWIN_MODEL_PATH = os.path.join(SWIN_MODEL_DIR, 'metric_model.pt')
+SWIN_MODEL_PATH = os.path.join(SWIN_MODEL_DIR, 'senedisease_macro_f1.pt')
 SWIN_FAISS_INDEX = os.path.join(SWIN_MODEL_DIR, 'faiss_index.bin')
 SWIN_METADATA = os.path.join(SWIN_MODEL_DIR, 'metadata.json')
 SWIN_METADATA_FULL = os.path.join(SWIN_MODEL_DIR, 'metadata.pkl')

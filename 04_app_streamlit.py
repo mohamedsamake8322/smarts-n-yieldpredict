@@ -38,8 +38,8 @@ load_dotenv()
 API_BASE_URL = "https://mohamedsamake8322-sene-disease-api.hf.space"
 API_TIMEOUT = 30  # seconds
 
-# Fallback to local API for development
-LOCAL_API_URL = "http://localhost:7860"
+# Fallback to production API (no more localhost)
+LOCAL_API_URL = "https://mohamedsamake8322-sene-disease-api.hf.space"
 
 def get_api_url():
     """Get API URL - can be configured via environment variables or secrets"""

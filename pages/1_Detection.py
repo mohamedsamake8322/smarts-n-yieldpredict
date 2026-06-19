@@ -10,6 +10,7 @@ import sys
 from pathlib import Path
 import io
 import json
+from typing import Dict, List, Any
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -33,16 +34,31 @@ import datetime
 import json
 import asyncio
 
-from model_core import (
-    MODELS_PATH_PHASE2,
-    load_phase2_model_and_metadata,
-    infer_on_image,
-)
 from utils.blip2_explainer import generate_explanation_for_image, load_disease_info
 from utils.i18n import language_selector, get_lang, t, LANGUAGE_OPTIONS
 from utils.helpers import get_user_id
 from services.database_service import DatabaseService
 import numpy as np
+import requests
+
+API_BASE_URL = os.getenv("API_URL", "https://mohamedsamake8322-sene-disease-api.hf.space")
+API_TIMEOUT = 30
+
+
+def get_api_url() -> str:
+    return os.getenv("API_URL") or API_BASE_URL
+
+
+def call_hf_api(image_bytes: bytes) -> Dict[str, Any]:
+    api_url = get_api_url()
+    try:
+        files = {"file": ("image.jpg", image_bytes, "image/jpeg")}
+        response = requests.post(f"{api_url}/predict", files=files, timeout=API_TIMEOUT)
+        response.raise_for_status()
+        return response.json()
+    except Exception as exc:
+        st.error(f"❌ HF API error: {exc}")
+        return {}
 
 
 # Page configuration - MUST be the first Streamlit command
@@ -206,92 +222,67 @@ SUPPORTED_LANGS = {code: label for label, code in LANGUAGE_OPTIONS}
 st.title(t("page_title"))
 st.markdown(t("page_subtitle"))
 
-@st.cache_resource
-def load_model_and_index():
-    """Unique loading of the metric learning model and FAISS index."""
-    model, index, metadata, prototypes, prototype_labels, device = (
-        load_phase2_model_and_metadata(MODELS_PATH_PHASE2)
-    )
-    return model, index, metadata, prototypes, prototype_labels, device
-
-
-def _is_confident_unknown(result, faiss_threshold: float = 0.55, min_agreement: int = 3):
-    """
-    Double logic pro for 'unknown disease':
-    - threshold on prototype similarity (already handled in infer_on_image)
-    - coherence of FAISS neighbors (at least min_agreement of the same class)
-    """
-    is_unknown_flag = result.get("is_unknown", False)
-    neighbors = result.get("topk_neighbors", [])
-
-    # If there are no neighbors (FAISS missing, empty index, etc.),
-    # we rely only on the internal logic of model_core.
-    if not neighbors:
-        return bool(is_unknown_flag)
-
-    # Check if the top neighbors share the same class
-    top = neighbors[:min_agreement]
-    diseases = [n["disease"] for n in top]
-    main = diseases[0]
-    same_count = sum(1 for d in diseases if d == main)
-
-    # We mark as unknown only if:
-    # - the internal model already considers it unknown
-    #   AND
-    # - the neighbors do not agree among themselves.
-    return bool(is_unknown_flag) and same_count < min_agreement
-
-
 def diagnose_image(
     image: Image.Image,
     uploaded_image_path: str | None = None,
     k: int = 5,
     unknown_threshold: float = 0.55,
 ):
-    """Common inference pipeline for this page + Plantix logic."""
-    (
-        model,
-        index,
-        metadata,
-        prototypes,
-        prototype_labels,
-        device,
-    ) = load_model_and_index()
+    """Call the Hugging Face API for disease prediction."""
+    buffer = io.BytesIO()
+    image.save(buffer, format="JPEG", quality=95)
+    image_bytes = buffer.getvalue()
 
-    # Resize for mobile / performance
-    image_resized = image.resize((224, 224))
+    result = call_hf_api(image_bytes)
+    if not result:
+        return {
+            "predicted_disease": "UNKNOWN DISEASE",
+            "predicted_similarity": None,
+            "is_unknown": True,
+            "neighbors": [],
+        }
 
-    result = infer_on_image(
-        model=model,
-        index=index,
-        metadata=metadata,
-        prototypes=prototypes,
-        prototype_labels=prototype_labels,
-        image=image_resized,
-        device=device,
-        top_k=k,
-        unknown_threshold=unknown_threshold,
-    )
+    neighbors = [
+        {
+            "rank": n.get("rank", i + 1),
+            "disease": n.get("disease", "Unknown"),
+            "similarity": n.get("similarity", 0.0),
+            "image_path": n.get("image_path"),
+        }
+        for i, n in enumerate(result.get("topk_neighbors", []))
+    ]
 
-    # More robust "unknown" overlay
-    is_unknown = _is_confident_unknown(result, faiss_threshold=unknown_threshold)
-
-    neighbors = result["topk_neighbors"]
-
-    # Avoid showing the uploaded image in neighbors (if same path)
-    filtered_neighbors = []
-    for n in neighbors:
-        path = n.get("image_path")
-        if uploaded_image_path and path and Path(path) == Path(uploaded_image_path):
-            continue
-        filtered_neighbors.append(n)
-
-    diagnosis = {
-        "predicted_disease": result["predicted_disease"],
-        "is_unknown": is_unknown,
-        "neighbors": filtered_neighbors,
+    return {
+        "predicted_disease": result.get("predicted_disease", "UNKNOWN DISEASE"),
+        "predicted_similarity": result.get("predicted_score"),
+        "is_unknown": result.get("is_unknown", True),
+        "neighbors": neighbors,
     }
-    return diagnosis
+
+
+def _is_confident_unknown(result, faiss_threshold: float = 0.55, min_agreement: int = 3):
+    """
+    Double logic pro for 'unknown disease':
+    - threshold on prototype similarity
+    - coherence of HF neighbor responses
+    """
+    is_unknown_flag = result.get("is_unknown", False)
+    neighbors = result.get("neighbors", [])
+
+    if not neighbors:
+        return bool(is_unknown_flag)
+
+    top = neighbors[:min_agreement]
+    diseases = [n["disease"] for n in top if n.get("disease")]
+    if not diseases:
+        return bool(is_unknown_flag)
+    main = diseases[0]
+    same_count = sum(1 for d in diseases if d == main)
+
+    return bool(is_unknown_flag) and same_count < min_agreement
+
+# Sidebar
+st.sidebar.title("📸 Detection")
 
 # Sidebar
 st.sidebar.title("📸 Detection")
