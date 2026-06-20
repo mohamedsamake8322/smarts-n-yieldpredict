@@ -228,7 +228,13 @@ def diagnose_image(
     k: int = 5,
     unknown_threshold: float = 0.55,
 ):
-    """Call the Hugging Face API for disease prediction."""
+    """
+    Call the Hugging Face API for disease prediction.
+    Compatible avec le nouveau format de réponse SmartAgri v2.0 :
+      diagnostic, confidence, confidence_pct, is_uncertain,
+      quality, quality_score, reliability, crop, scientific_name,
+      category, top3, conseil
+    """
     buffer = io.BytesIO()
     image.save(buffer, format="JPEG", quality=95)
     image_bytes = buffer.getvalue()
@@ -236,27 +242,66 @@ def diagnose_image(
     result = call_hf_api(image_bytes)
     if not result:
         return {
-            "predicted_disease": "UNKNOWN DISEASE",
+            "predicted_disease":    "UNKNOWN DISEASE",
             "predicted_similarity": None,
-            "is_unknown": True,
-            "neighbors": [],
+            "is_unknown":           True,
+            "neighbors":            [],
+            "confidence_pct":       "—",
+            "quality":              "—",
+            "reliability":          "—",
+            "crop":                 "—",
+            "scientific_name":      "—",
+            "category":             "—",
+            "conseil":              "",
+            "top3":                 [],
         }
 
+    # Nouveau format : top3 remplace topk_neighbors
+    top3 = result.get("top3", [])
     neighbors = [
         {
-            "rank": n.get("rank", i + 1),
-            "disease": n.get("disease", "Unknown"),
-            "similarity": n.get("similarity", 0.0),
-            "image_path": n.get("image_path"),
+            "rank":       t.get("rank", i + 1),
+            "disease":    t.get("display_name", t.get("disease", "Unknown")),
+            "similarity": t.get("confidence", 0.0),
+            "image_path": None,
         }
-        for i, n in enumerate(result.get("topk_neighbors", []))
+        for i, t in enumerate(top3)
     ]
 
+    # Nom de la maladie : nouveau champ "diagnostic"
+    pred_disease = (
+        result.get("diagnostic")
+        or result.get("predicted_disease")
+        or "UNKNOWN DISEASE"
+    )
+    # Nettoie les emojis/préfixes du diagnostic
+    if pred_disease.startswith("🌿 "):
+        pred_disease = pred_disease[2:].strip()
+    if pred_disease.startswith("⚠️"):
+        pred_disease = pred_disease.replace("⚠️", "").strip()
+
+    # Confiance : nouveau champ "confidence"
+    confidence = (
+        result.get("confidence")
+        or result.get("predicted_score")
+    )
+
+    # Incertitude : nouveau champ "is_uncertain"
+    is_unknown = result.get("is_uncertain", result.get("is_unknown", True))
+
     return {
-        "predicted_disease": result.get("predicted_disease", "UNKNOWN DISEASE"),
-        "predicted_similarity": result.get("predicted_score"),
-        "is_unknown": result.get("is_unknown", True),
-        "neighbors": neighbors,
+        "predicted_disease":    pred_disease,
+        "predicted_similarity": confidence,
+        "is_unknown":           is_unknown,
+        "neighbors":            neighbors,
+        "confidence_pct":       result.get("confidence_pct", f"{confidence*100:.1f}%" if confidence else "—"),
+        "quality":              result.get("quality", "—"),
+        "reliability":          result.get("reliability", "—"),
+        "crop":                 result.get("crop", "—"),
+        "scientific_name":      result.get("scientific_name", "—"),
+        "category":             result.get("category", "—"),
+        "conseil":              result.get("conseil", ""),
+        "top3":                 top3,
     }
 
 
@@ -396,9 +441,9 @@ if 'uploaded_image' in st.session_state:
                     
                     # Save the analyzed image to prediction_logs folder
                     pred_disease = diagnosis.get("predicted_disease", "Unknown")
-                    confidence = diagnosis.get("predicted_similarity")
+                    confidence   = diagnosis.get("predicted_similarity") or diagnosis.get("confidence")
                     if pred_disease and pred_disease != "UNKNOWN DISEASE":
-                        save_analyzed_image(image, pred_disease, confidence)
+                        save_analyzed_image(image, pred_disease, confidence, diagnosis)
                 
             except Exception as e:
                 st.error(f"❌ Error during detection: {str(e)}")
@@ -411,15 +456,45 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
     st.markdown("---")
     st.success(t("analysis_done"))
 
-    pred_disease = diagnosis.get("predicted_disease")
-    is_unknown = diagnosis.get("is_unknown", False)
-    neighbors = diagnosis.get("neighbors", [])
+    pred_disease   = diagnosis.get("predicted_disease")
+    is_unknown     = diagnosis.get("is_unknown", False)
+    neighbors      = diagnosis.get("neighbors", [])
+    confidence     = diagnosis.get("predicted_similarity")
+    confidence_pct = diagnosis.get("confidence_pct", f"{confidence*100:.1f}%" if confidence else "—")
+    quality        = diagnosis.get("quality", "—")
+    reliability    = diagnosis.get("reliability", "—")
+    crop           = diagnosis.get("crop", "—")
+    sci_name       = diagnosis.get("scientific_name", "—")
+    category       = diagnosis.get("category", "—")
+    conseil        = diagnosis.get("conseil", "")
 
     st.subheader(t("probable_disease"))
+
     if is_unknown or not pred_disease or pred_disease == "UNKNOWN DISEASE":
-        st.error(t("unknown_disease"))
+        st.warning("⚠️ Résultat incertain — " + t("unknown_disease"))
+        # Affiche quand même le top-3 pour aider l'utilisateur
+        top3 = diagnosis.get("top3", [])
+        if top3:
+            st.markdown("**Meilleures hypothèses :**")
+            for item in top3:
+                st.markdown(f"- {item.get('display_name', item.get('disease', '?'))} — {item.get('confidence_pct', '')}")
     else:
         st.markdown(f"## 🌿 {pred_disease}")
+
+    # ── Métriques Niveau 5 ──
+    m1, m2, m3, m4 = st.columns(4)
+    m1.metric("📊 Confiance", confidence_pct)
+    m2.metric("🖼️ Qualité",   quality)
+    m3.metric("🎯 Fiabilité", reliability)
+    m4.metric("📂 Catégorie", category)
+
+    # ── Détails scientifiques ──
+    if sci_name and sci_name != "—":
+        st.caption(f"🔬 *{sci_name}* — 🌾 {crop}")
+
+    # ── Conseil agronomique ──
+    if conseil:
+        st.info(conseil)
 
     # Load the base knowledge from JSON (deterministic source of truth)
     if pred_disease and pred_disease != "UNKNOWN DISEASE":
@@ -435,11 +510,6 @@ if st.session_state.get("show_results", False) and "detection_result" in st.sess
             "cause": "",
             "management": [],
         }
-
-    # Confidence
-    confidence = diagnosis.get("predicted_similarity")
-    if confidence is not None:
-        st.markdown(f"**Confidence:** {confidence*100:.0f}%")
 
     # ====== STEP 1: Show basic information ======
     if disease_data.get("description"):
