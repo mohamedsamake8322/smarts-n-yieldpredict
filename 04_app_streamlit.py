@@ -430,7 +430,7 @@ st.markdown("""
 4. **Shows top-3** predictions with scientific names
 
 ### ⚠️ Important:
-- This is a **diagnostic assistant**, not a final diagnosis²
+- This is a **diagnostic assistant**, not a final diagnosis
 - Always validate with domain experts
 - Confidence scores are **calibrated** (Temperature Scaling T=3.1)
 
