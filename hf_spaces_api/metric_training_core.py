@@ -1140,7 +1140,7 @@ def run_training(config: TrainingConfig) -> None:
     print(f"✅ Full metadata (with paths) saved: {metadata_pkl}")
 
     # Sauvegarde du modèle
-    model_path = output_path / "metric_model.pt"
+    model_path = output_path / "senedisease_macro_f1.pt"
     torch.save(
         {
             "model_state_dict": model.state_dict(),

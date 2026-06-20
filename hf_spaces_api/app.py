@@ -23,6 +23,12 @@ from model_core import (
     MODEL_REPO
 )
 
+# Import diagnostic variable si présent
+try:
+    from model_core import LOADED_MODEL_PATH
+except Exception:
+    LOADED_MODEL_PATH = None
+
 app = FastAPI(
     title="Plant Disease Detection API",
     description="AI-powered plant disease diagnosis using metric learning",
@@ -81,6 +87,16 @@ async def health():
         "model_loaded": model is not None,
         "device": str(device) if device else None,
         "metadata_classes": len(metadata.get("idx_to_class", {})) if metadata else 0
+    }
+
+
+@app.get("/version")
+async def version():
+    """Return model path/version for debugging which checkpoint is loaded."""
+    return {
+        "model_loaded": model is not None,
+        "loaded_model_path": LOADED_MODEL_PATH,
+        "model_repo": MODEL_REPO
     }
 
 @app.post("/predict")

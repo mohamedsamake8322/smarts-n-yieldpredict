@@ -57,7 +57,7 @@ def setup_swin_model():
 
     # Model files to download/copy
     model_files = {
-        'metric_model.pt': None,  # Will be set based on environment
+        'senedisease_macro_f1.pt': None,  # Will be set based on environment
         'faiss_index.bin': None,
         'metadata.json': None,
         'metadata.pkl': None
@@ -91,7 +91,7 @@ def setup_swin_model():
 
     # Example of how to add Google Drive IDs (user needs to fill these)
     # model_files = {
-    #     'metric_model.pt': 'YOUR_FILE_ID_HERE',
+    #     'senedisease_macro_f1.pt': 'YOUR_FILE_ID_HERE',
     #     'faiss_index.bin': 'YOUR_FILE_ID_HERE',
     #     'metadata.json': 'YOUR_FILE_ID_HERE',
     #     'metadata.pkl': 'YOUR_FILE_ID_HERE'
@@ -114,7 +114,7 @@ def copy_from_colab_to_local():
     os.makedirs(local_model_dir, exist_ok=True)
 
     files_to_copy = [
-        'metric_model.pt',
+        'senedisease_macro_f1.pt',
         'faiss_index.bin',
         'metadata.json',
         'metadata.pkl'

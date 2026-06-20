@@ -145,7 +145,7 @@ def main():
     # Étape 7: Vérification modèles Swin
     print_step(7, "Vérification Modèles Swin")
     swin_dir = "/content/drive/MyDrive/outputs/phase2_swin_base_production/models"
-    files_needed = ['metric_model.pt', 'faiss_index.bin', 'metadata.json']
+    files_needed = ['senedisease_macro_f1.pt', 'faiss_index.bin', 'metadata.json']
 
     print("Vérification des fichiers Swin:")
     all_exist = True

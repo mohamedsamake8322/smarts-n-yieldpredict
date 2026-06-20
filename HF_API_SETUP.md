@@ -25,7 +25,7 @@ Streamlit reçoit résultat
 ## 📋 Ressources requises
 
 Votre modèle sur HF a BESOIN de:
-- ✅ `metric_model.pt` (Swin Base)
+- ✅ `senedisease_macro_f1.pt` (Swin Base)
 - ✅ `metadata.pkl` (classes + image_paths)
 - ✅ `faiss_index.bin` (pour les voisins)
 

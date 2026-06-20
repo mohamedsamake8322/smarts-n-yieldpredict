@@ -46,6 +46,9 @@ DEVICE = torch.device("cpu")
 # Référentiel Hugging Face contenant les artefacts du modèle
 MODEL_REPO = "mohamedsamake8322/plant-diseaseS-swin-faiss"
 
+# Dernier chemin de checkpoint chargé (utile pour diagnostiquer quel fichier a été utilisé)
+LOADED_MODEL_PATH: str | None = None
+
 
 def load_phase2_model_and_metadata(
     models_path: Path = MODELS_PATH_PHASE2,
@@ -98,6 +101,10 @@ def load_phase2_model_and_metadata(
                 metadata = json.load(f)
     else:
         print("⚠️ metadata absent, fallback vers metadata vide")
+
+    # Exposer le chemin du modèle chargé pour debug/health
+    global LOADED_MODEL_PATH
+    LOADED_MODEL_PATH = str(metric_model_path)
 
     # Pour limiter l'empreinte mémoire en production (Streamlit Cloud),
     # on supprime explicitement les champs lourds dont on n'a pas besoin

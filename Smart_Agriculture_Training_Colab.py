@@ -212,7 +212,7 @@ print("🚀 Vérification si modèle déjà entraîné...")
 
 # VÉRIFICATION SI MODÈLE DÉJÀ ENTRAÎNÉ
 # Utiliser des chemins relatifs au projet trouvé
-model_path = os.path.join(project_root, "outputs", "phase2_swin_base_production", "models", "metric_model.pt")
+model_path = os.path.join(project_root, "outputs", "phase2_swin_base_production", "models", "senedisease_macro_f1.pt")
 faiss_path = os.path.join(project_root, "outputs", "phase2_swin_base_production", "models", "faiss_index.bin")
 metadata_path = os.path.join(project_root, "outputs", "phase2_swin_base_production", "models", "metadata.json")
 
@@ -894,7 +894,7 @@ print("="*80)
 import os
 
 swin_dir = os.path.join(project_root, "outputs", "phase2_swin_base_production", "models")
-files_needed = ['metric_model.pt', 'faiss_index.bin', 'metadata.json']  # CORRECTION: fichiers réellement sauvés
+files_needed = ['senedisease_macro_f1.pt', 'faiss_index.bin', 'metadata.json']  # CORRECTION: fichiers réellement sauvés
 
 print("Vérification des fichiers Swin entraînés:")
 all_exist = True
