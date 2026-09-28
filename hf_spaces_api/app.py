@@ -121,18 +121,22 @@ async def predict(file: UploadFile = File(...)):
             for r in result["topk_prototypes"][:3]
         ]
 
+        # Seuil provisoire, pas encore calibre (pas de temperature scaling
+        # pour DINOv2). A ajuster une fois qu'on aura mesure la distribution
+        # reelle des confiances sur un jeu de validation.
+        UNCERTAIN_THRESHOLD = 0.30
+        is_uncertain = confidence < UNCERTAIN_THRESHOLD
+
         return {
             "diagnostic": pred_disease,
             "confidence": confidence,
             "confidence_pct": f"{confidence*100:.1f}%",
-            # Pas encore de calibration/seuil valide pour DINOv2 -> jamais
-            # "incertain" pour l'instant, le temps de voir les vrais scores.
-            "is_uncertain": False,
+            "is_uncertain": is_uncertain,
             "top3": top3,
             # Champs conserves pour compatibilite avec d'anciens appelants
             "predicted_disease": pred_disease,
             "predicted_score": confidence,
-            "is_unknown": result["is_unknown"],
+            "is_unknown": is_uncertain,
             "topk_neighbors": [],
             "proto_ranking": [
                 {"rank": p["rank"], "disease": p["disease"], "similarity": p["similarity"]}
