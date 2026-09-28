@@ -1,144 +1,68 @@
-# Plant Disease Detection API - Hugging Face Spaces
-# Version ultra-simple pour éviter les problèmes d'importation
+# Plant Disease Detection API - Hugging Face Spaces (DINOv2)
 
 from fastapi import FastAPI, File, UploadFile, HTTPException
-from fastapi.responses import JSONResponse
 from PIL import Image
 import io
-import json
 import torch
-import numpy as np
-from pathlib import Path
-from typing import Dict, List, Any
 import os
-import pickle
-from huggingface_hub import hf_hub_download
+
+from model_core import load_model_and_metadata, infer_on_image, DEVICE
 
 app = FastAPI(
     title="Plant Disease Detection API",
-    description="AI-powered plant disease diagnosis using metric learning",
-    version="1.0.0"
+    description="AI-powered plant disease diagnosis using DINOv2",
+    version="2.0.0",
 )
 
-# Global variables
 model = None
-metadata = None
-device = torch.device("cpu")
+idx_to_class = None
+
 
 def load_model():
-    """Load model from Hugging Face Hub"""
-    global model, metadata, device
-
+    global model, idx_to_class
     try:
-        print("🔄 Loading model from Hugging Face Hub...")
-
-        # Download model and metadata (metadata.pkl first, then metadata.json)
-        model_path = Path(hf_hub_download(
-            repo_id="mohamedsamake8322/plant-diseaseS-swin-faiss",
-            filename="senedisease_macro_f1.pt"
-        ))
-
-        metadata_path = None
-        for metadata_filename in ["metadata.pkl", "metadata.json"]:
-            try:
-                metadata_path = Path(hf_hub_download(
-                    repo_id="mohamedsamake8322/plant-diseaseS-swin-faiss",
-                    filename=metadata_filename
-                ))
-                break
-            except Exception:
-                metadata_path = None
-
-        if metadata_path is not None and metadata_path.exists():
-            if metadata_path.suffix == ".pkl":
-                with open(metadata_path, "rb") as f:
-                    metadata = pickle.load(f)
-            else:
-                with open(metadata_path, "r", encoding="utf-8") as f:
-                    metadata = json.load(f)
-        else:
-            print("⚠️ metadata file not found in HF repo; using empty metadata")
-            metadata = {}
-
-        # Load model
-        model = torch.load(model_path, map_location=device)
-        model.eval()
+        print("🔄 Loading DINOv2 model from Hugging Face Hub...")
+        model, idx_to_class, _ = load_model_and_metadata()
         torch.set_grad_enabled(False)
-
         print("✅ Model loaded successfully!")
         return True
-
     except Exception as e:
         print(f"❌ Error loading model: {e}")
         return False
 
+
 @app.on_event("startup")
 async def startup_event():
-    """Load model when the app starts"""
-    success = load_model()
-    if not success:
+    if not load_model():
         print("⚠️ Model loading failed - API will return errors")
+
 
 @app.get("/")
 async def root():
-    """Health check endpoint"""
-    return {
-        "message": "Plant Disease Detection API",
-        "status": "running",
-        "model_loaded": model is not None
-    }
+    return {"message": "Plant Disease Detection API (DINOv2)", "status": "running", "model_loaded": model is not None}
+
 
 @app.get("/health")
 async def health():
-    """Detailed health check"""
     return {
         "status": "healthy" if model is not None else "unhealthy",
         "model_loaded": model is not None,
-        "device": str(device),
-        "metadata_classes": len(metadata.get("idx_to_class", {})) if metadata else 0
+        "device": str(DEVICE),
+        "num_classes": len(idx_to_class) if idx_to_class else 0,
     }
+
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
-    """
-    Predict plant disease from image
-
-    Args:
-        file: Image file (JPG, PNG, etc.)
-
-    Returns:
-        JSON with prediction results
-    """
     if model is None:
         raise HTTPException(status_code=503, detail="Model not loaded")
-
     try:
-        # Read and process image
         contents = await file.read()
-        image = Image.open(io.BytesIO(contents)).convert('RGB')
-
-        # Simple preprocessing
-        image = image.resize((224, 224))
-        img_array = np.array(image).astype(np.float32) / 255.0
-        img_tensor = torch.from_numpy(img_array).permute(2, 0, 1).unsqueeze(0).to(device)
-
-        # Inference
-        with torch.no_grad():
-            embedding = model(img_tensor)
-            embedding = embedding.cpu().numpy().flatten()
-
-        # Simple response (placeholder - you can add FAISS search here)
-        return {
-            "predicted_disease": "Sample Disease",
-            "predicted_score": 0.85,
-            "is_unknown": False,
-            "topk_neighbors": [
-                {"rank": 1, "disease": "Sample Disease", "similarity": 0.85}
-            ]
-        }
-
+        image = Image.open(io.BytesIO(contents)).convert("RGB")
+        return infer_on_image(model, idx_to_class, image, DEVICE)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Prediction error: {str(e)}")
+
 
 if __name__ == "__main__":
     import uvicorn
